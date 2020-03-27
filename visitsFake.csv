@@ -1,0 +1,1161 @@
+Location type,% of Usual Visits,Age Group,State,County,
+Arts & Entertainment,28,Under 65,CA,Alameda,1
+College & Education,12,Under 65,CA,Alameda,1
+Event,52,Under 65,CA,Alameda,1
+Food,77,Under 65,CA,Alameda,1
+Nightlife,53,Under 65,CA,Alameda,1
+Outdoors & Recreation,25,Under 65,CA,Alameda,1
+Professional,29,Under 65,CA,Alameda,1
+Residence,61,Under 65,CA,Alameda,1
+Shops,56,Under 65,CA,Alameda,1
+Travel,75,Under 65,CA,Alameda,1
+Arts & Entertainment,49,Over 65,CA,Alameda,1
+College & Education,29,Over 65,CA,Alameda,1
+Event,39,Over 65,CA,Alameda,1
+Food,16,Over 65,CA,Alameda,1
+Nightlife,22,Over 65,CA,Alameda,1
+Outdoors & Recreation,46,Over 65,CA,Alameda,1
+Professional,30,Over 65,CA,Alameda,1
+Residence,17,Over 65,CA,Alameda,1
+Shops,3,Over 65,CA,Alameda,1
+Travel,49,Over 65,CA,Alameda,1
+Arts & Entertainment,14,Under 65,CA,Alpine,2
+College & Education,18,Under 65,CA,Alpine,2
+Event,12,Under 65,CA,Alpine,2
+Food,40,Under 65,CA,Alpine,2
+Nightlife,26,Under 65,CA,Alpine,2
+Outdoors & Recreation,68,Under 65,CA,Alpine,2
+Professional,3,Under 65,CA,Alpine,2
+Residence,50,Under 65,CA,Alpine,2
+Shops,71,Under 65,CA,Alpine,2
+Travel,53,Under 65,CA,Alpine,2
+Arts & Entertainment,62,Over 65,CA,Alpine,2
+College & Education,66,Over 65,CA,Alpine,2
+Event,10,Over 65,CA,Alpine,2
+Food,16,Over 65,CA,Alpine,2
+Nightlife,53,Over 65,CA,Alpine,2
+Outdoors & Recreation,79,Over 65,CA,Alpine,2
+Professional,73,Over 65,CA,Alpine,2
+Residence,57,Over 65,CA,Alpine,2
+Shops,47,Over 65,CA,Alpine,2
+Travel,47,Over 65,CA,Alpine,2
+Arts & Entertainment,71,Under 65,CA,Amador,3
+College & Education,62,Under 65,CA,Amador,3
+Event,46,Under 65,CA,Amador,3
+Food,40,Under 65,CA,Amador,3
+Nightlife,60,Under 65,CA,Amador,3
+Outdoors & Recreation,15,Under 65,CA,Amador,3
+Professional,8,Under 65,CA,Amador,3
+Residence,21,Under 65,CA,Amador,3
+Shops,19,Under 65,CA,Amador,3
+Travel,32,Under 65,CA,Amador,3
+Arts & Entertainment,11,Over 65,CA,Amador,3
+College & Education,49,Over 65,CA,Amador,3
+Event,31,Over 65,CA,Amador,3
+Food,39,Over 65,CA,Amador,3
+Nightlife,77,Over 65,CA,Amador,3
+Outdoors & Recreation,59,Over 65,CA,Amador,3
+Professional,14,Over 65,CA,Amador,3
+Residence,56,Over 65,CA,Amador,3
+Shops,71,Over 65,CA,Amador,3
+Travel,29,Over 65,CA,Amador,3
+Arts & Entertainment,59,Under 65,CA,Butte,4
+College & Education,32,Under 65,CA,Butte,4
+Event,36,Under 65,CA,Butte,4
+Food,27,Under 65,CA,Butte,4
+Nightlife,64,Under 65,CA,Butte,4
+Outdoors & Recreation,54,Under 65,CA,Butte,4
+Professional,19,Under 65,CA,Butte,4
+Residence,69,Under 65,CA,Butte,4
+Shops,18,Under 65,CA,Butte,4
+Travel,80,Under 65,CA,Butte,4
+Arts & Entertainment,65,Over 65,CA,Butte,4
+College & Education,70,Over 65,CA,Butte,4
+Event,9,Over 65,CA,Butte,4
+Food,57,Over 65,CA,Butte,4
+Nightlife,76,Over 65,CA,Butte,4
+Outdoors & Recreation,58,Over 65,CA,Butte,4
+Professional,79,Over 65,CA,Butte,4
+Residence,44,Over 65,CA,Butte,4
+Shops,56,Over 65,CA,Butte,4
+Travel,25,Over 65,CA,Butte,4
+Arts & Entertainment,43,Under 65,CA,Calaveras,5
+College & Education,17,Under 65,CA,Calaveras,5
+Event,56,Under 65,CA,Calaveras,5
+Food,39,Under 65,CA,Calaveras,5
+Nightlife,24,Under 65,CA,Calaveras,5
+Outdoors & Recreation,44,Under 65,CA,Calaveras,5
+Professional,33,Under 65,CA,Calaveras,5
+Residence,36,Under 65,CA,Calaveras,5
+Shops,58,Under 65,CA,Calaveras,5
+Travel,57,Under 65,CA,Calaveras,5
+Arts & Entertainment,69,Over 65,CA,Calaveras,5
+College & Education,21,Over 65,CA,Calaveras,5
+Event,8,Over 65,CA,Calaveras,5
+Food,77,Over 65,CA,Calaveras,5
+Nightlife,7,Over 65,CA,Calaveras,5
+Outdoors & Recreation,46,Over 65,CA,Calaveras,5
+Professional,65,Over 65,CA,Calaveras,5
+Residence,19,Over 65,CA,Calaveras,5
+Shops,17,Over 65,CA,Calaveras,5
+Travel,13,Over 65,CA,Calaveras,5
+Arts & Entertainment,59,Under 65,CA,Colusa,6
+College & Education,33,Under 65,CA,Colusa,6
+Event,56,Under 65,CA,Colusa,6
+Food,5,Under 65,CA,Colusa,6
+Nightlife,21,Under 65,CA,Colusa,6
+Outdoors & Recreation,17,Under 65,CA,Colusa,6
+Professional,19,Under 65,CA,Colusa,6
+Residence,1,Under 65,CA,Colusa,6
+Shops,22,Under 65,CA,Colusa,6
+Travel,75,Under 65,CA,Colusa,6
+Arts & Entertainment,47,Over 65,CA,Colusa,6
+College & Education,35,Over 65,CA,Colusa,6
+Event,67,Over 65,CA,Colusa,6
+Food,7,Over 65,CA,Colusa,6
+Nightlife,21,Over 65,CA,Colusa,6
+Outdoors & Recreation,47,Over 65,CA,Colusa,6
+Professional,15,Over 65,CA,Colusa,6
+Residence,36,Over 65,CA,Colusa,6
+Shops,9,Over 65,CA,Colusa,6
+Travel,32,Over 65,CA,Colusa,6
+Arts & Entertainment,46,Under 65,CA,Contra Costa,7
+College & Education,61,Under 65,CA,Contra Costa,7
+Event,44,Under 65,CA,Contra Costa,7
+Food,26,Under 65,CA,Contra Costa,7
+Nightlife,76,Under 65,CA,Contra Costa,7
+Outdoors & Recreation,18,Under 65,CA,Contra Costa,7
+Professional,25,Under 65,CA,Contra Costa,7
+Residence,49,Under 65,CA,Contra Costa,7
+Shops,41,Under 65,CA,Contra Costa,7
+Travel,12,Under 65,CA,Contra Costa,7
+Arts & Entertainment,15,Over 65,CA,Contra Costa,7
+College & Education,25,Over 65,CA,Contra Costa,7
+Event,4,Over 65,CA,Contra Costa,7
+Food,59,Over 65,CA,Contra Costa,7
+Nightlife,68,Over 65,CA,Contra Costa,7
+Outdoors & Recreation,37,Over 65,CA,Contra Costa,7
+Professional,53,Over 65,CA,Contra Costa,7
+Residence,48,Over 65,CA,Contra Costa,7
+Shops,10,Over 65,CA,Contra Costa,7
+Travel,69,Over 65,CA,Contra Costa,7
+Arts & Entertainment,46,Under 65,CA,Del Norte,8
+College & Education,72,Under 65,CA,Del Norte,8
+Event,55,Under 65,CA,Del Norte,8
+Food,7,Under 65,CA,Del Norte,8
+Nightlife,49,Under 65,CA,Del Norte,8
+Outdoors & Recreation,14,Under 65,CA,Del Norte,8
+Professional,8,Under 65,CA,Del Norte,8
+Residence,12,Under 65,CA,Del Norte,8
+Shops,77,Under 65,CA,Del Norte,8
+Travel,51,Under 65,CA,Del Norte,8
+Arts & Entertainment,4,Over 65,CA,Del Norte,8
+College & Education,17,Over 65,CA,Del Norte,8
+Event,44,Over 65,CA,Del Norte,8
+Food,60,Over 65,CA,Del Norte,8
+Nightlife,2,Over 65,CA,Del Norte,8
+Outdoors & Recreation,40,Over 65,CA,Del Norte,8
+Professional,2,Over 65,CA,Del Norte,8
+Residence,72,Over 65,CA,Del Norte,8
+Shops,63,Over 65,CA,Del Norte,8
+Travel,61,Over 65,CA,Del Norte,8
+Arts & Entertainment,52,Under 65,CA,El Dorado,9
+College & Education,42,Under 65,CA,El Dorado,9
+Event,4,Under 65,CA,El Dorado,9
+Food,44,Under 65,CA,El Dorado,9
+Nightlife,11,Under 65,CA,El Dorado,9
+Outdoors & Recreation,2,Under 65,CA,El Dorado,9
+Professional,23,Under 65,CA,El Dorado,9
+Residence,24,Under 65,CA,El Dorado,9
+Shops,18,Under 65,CA,El Dorado,9
+Travel,37,Under 65,CA,El Dorado,9
+Arts & Entertainment,49,Over 65,CA,El Dorado,9
+College & Education,18,Over 65,CA,El Dorado,9
+Event,6,Over 65,CA,El Dorado,9
+Food,67,Over 65,CA,El Dorado,9
+Nightlife,19,Over 65,CA,El Dorado,9
+Outdoors & Recreation,38,Over 65,CA,El Dorado,9
+Professional,74,Over 65,CA,El Dorado,9
+Residence,58,Over 65,CA,El Dorado,9
+Shops,78,Over 65,CA,El Dorado,9
+Travel,21,Over 65,CA,El Dorado,9
+Arts & Entertainment,12,Under 65,CA,Fresno,10
+College & Education,67,Under 65,CA,Fresno,10
+Event,11,Under 65,CA,Fresno,10
+Food,36,Under 65,CA,Fresno,10
+Nightlife,78,Under 65,CA,Fresno,10
+Outdoors & Recreation,8,Under 65,CA,Fresno,10
+Professional,6,Under 65,CA,Fresno,10
+Residence,65,Under 65,CA,Fresno,10
+Shops,36,Under 65,CA,Fresno,10
+Travel,45,Under 65,CA,Fresno,10
+Arts & Entertainment,29,Over 65,CA,Fresno,10
+College & Education,59,Over 65,CA,Fresno,10
+Event,24,Over 65,CA,Fresno,10
+Food,76,Over 65,CA,Fresno,10
+Nightlife,72,Over 65,CA,Fresno,10
+Outdoors & Recreation,12,Over 65,CA,Fresno,10
+Professional,32,Over 65,CA,Fresno,10
+Residence,60,Over 65,CA,Fresno,10
+Shops,0,Over 65,CA,Fresno,10
+Travel,67,Over 65,CA,Fresno,10
+Arts & Entertainment,64,Under 65,CA,Glenn,11
+College & Education,22,Under 65,CA,Glenn,11
+Event,36,Under 65,CA,Glenn,11
+Food,61,Under 65,CA,Glenn,11
+Nightlife,78,Under 65,CA,Glenn,11
+Outdoors & Recreation,4,Under 65,CA,Glenn,11
+Professional,77,Under 65,CA,Glenn,11
+Residence,72,Under 65,CA,Glenn,11
+Shops,26,Under 65,CA,Glenn,11
+Travel,67,Under 65,CA,Glenn,11
+Arts & Entertainment,5,Over 65,CA,Glenn,11
+College & Education,20,Over 65,CA,Glenn,11
+Event,10,Over 65,CA,Glenn,11
+Food,27,Over 65,CA,Glenn,11
+Nightlife,75,Over 65,CA,Glenn,11
+Outdoors & Recreation,1,Over 65,CA,Glenn,11
+Professional,13,Over 65,CA,Glenn,11
+Residence,42,Over 65,CA,Glenn,11
+Shops,64,Over 65,CA,Glenn,11
+Travel,59,Over 65,CA,Glenn,11
+Arts & Entertainment,34,Under 65,CA,Humboldt,12
+College & Education,73,Under 65,CA,Humboldt,12
+Event,22,Under 65,CA,Humboldt,12
+Food,3,Under 65,CA,Humboldt,12
+Nightlife,70,Under 65,CA,Humboldt,12
+Outdoors & Recreation,19,Under 65,CA,Humboldt,12
+Professional,7,Under 65,CA,Humboldt,12
+Residence,70,Under 65,CA,Humboldt,12
+Shops,4,Under 65,CA,Humboldt,12
+Travel,12,Under 65,CA,Humboldt,12
+Arts & Entertainment,69,Over 65,CA,Humboldt,12
+College & Education,77,Over 65,CA,Humboldt,12
+Event,68,Over 65,CA,Humboldt,12
+Food,17,Over 65,CA,Humboldt,12
+Nightlife,61,Over 65,CA,Humboldt,12
+Outdoors & Recreation,34,Over 65,CA,Humboldt,12
+Professional,25,Over 65,CA,Humboldt,12
+Residence,22,Over 65,CA,Humboldt,12
+Shops,44,Over 65,CA,Humboldt,12
+Travel,20,Over 65,CA,Humboldt,12
+Arts & Entertainment,13,Under 65,CA,Imperial,13
+College & Education,26,Under 65,CA,Imperial,13
+Event,17,Under 65,CA,Imperial,13
+Food,16,Under 65,CA,Imperial,13
+Nightlife,47,Under 65,CA,Imperial,13
+Outdoors & Recreation,35,Under 65,CA,Imperial,13
+Professional,54,Under 65,CA,Imperial,13
+Residence,54,Under 65,CA,Imperial,13
+Shops,16,Under 65,CA,Imperial,13
+Travel,78,Under 65,CA,Imperial,13
+Arts & Entertainment,27,Over 65,CA,Imperial,13
+College & Education,69,Over 65,CA,Imperial,13
+Event,30,Over 65,CA,Imperial,13
+Food,26,Over 65,CA,Imperial,13
+Nightlife,65,Over 65,CA,Imperial,13
+Outdoors & Recreation,52,Over 65,CA,Imperial,13
+Professional,36,Over 65,CA,Imperial,13
+Residence,42,Over 65,CA,Imperial,13
+Shops,45,Over 65,CA,Imperial,13
+Travel,51,Over 65,CA,Imperial,13
+Arts & Entertainment,57,Under 65,CA,Inyo,14
+College & Education,61,Under 65,CA,Inyo,14
+Event,60,Under 65,CA,Inyo,14
+Food,67,Under 65,CA,Inyo,14
+Nightlife,28,Under 65,CA,Inyo,14
+Outdoors & Recreation,26,Under 65,CA,Inyo,14
+Professional,79,Under 65,CA,Inyo,14
+Residence,11,Under 65,CA,Inyo,14
+Shops,13,Under 65,CA,Inyo,14
+Travel,17,Under 65,CA,Inyo,14
+Arts & Entertainment,24,Over 65,CA,Inyo,14
+College & Education,65,Over 65,CA,Inyo,14
+Event,76,Over 65,CA,Inyo,14
+Food,75,Over 65,CA,Inyo,14
+Nightlife,32,Over 65,CA,Inyo,14
+Outdoors & Recreation,66,Over 65,CA,Inyo,14
+Professional,24,Over 65,CA,Inyo,14
+Residence,12,Over 65,CA,Inyo,14
+Shops,36,Over 65,CA,Inyo,14
+Travel,80,Over 65,CA,Inyo,14
+Arts & Entertainment,77,Under 65,CA,Kern,15
+College & Education,75,Under 65,CA,Kern,15
+Event,76,Under 65,CA,Kern,15
+Food,57,Under 65,CA,Kern,15
+Nightlife,14,Under 65,CA,Kern,15
+Outdoors & Recreation,46,Under 65,CA,Kern,15
+Professional,4,Under 65,CA,Kern,15
+Residence,75,Under 65,CA,Kern,15
+Shops,34,Under 65,CA,Kern,15
+Travel,43,Under 65,CA,Kern,15
+Arts & Entertainment,39,Over 65,CA,Kern,15
+College & Education,36,Over 65,CA,Kern,15
+Event,22,Over 65,CA,Kern,15
+Food,22,Over 65,CA,Kern,15
+Nightlife,73,Over 65,CA,Kern,15
+Outdoors & Recreation,73,Over 65,CA,Kern,15
+Professional,72,Over 65,CA,Kern,15
+Residence,73,Over 65,CA,Kern,15
+Shops,79,Over 65,CA,Kern,15
+Travel,70,Over 65,CA,Kern,15
+Arts & Entertainment,8,Under 65,CA,Kings,16
+College & Education,38,Under 65,CA,Kings,16
+Event,9,Under 65,CA,Kings,16
+Food,27,Under 65,CA,Kings,16
+Nightlife,8,Under 65,CA,Kings,16
+Outdoors & Recreation,64,Under 65,CA,Kings,16
+Professional,35,Under 65,CA,Kings,16
+Residence,43,Under 65,CA,Kings,16
+Shops,7,Under 65,CA,Kings,16
+Travel,11,Under 65,CA,Kings,16
+Arts & Entertainment,66,Over 65,CA,Kings,16
+College & Education,30,Over 65,CA,Kings,16
+Event,30,Over 65,CA,Kings,16
+Food,70,Over 65,CA,Kings,16
+Nightlife,19,Over 65,CA,Kings,16
+Outdoors & Recreation,78,Over 65,CA,Kings,16
+Professional,58,Over 65,CA,Kings,16
+Residence,74,Over 65,CA,Kings,16
+Shops,77,Over 65,CA,Kings,16
+Travel,65,Over 65,CA,Kings,16
+Arts & Entertainment,19,Under 65,CA,Lake,17
+College & Education,14,Under 65,CA,Lake,17
+Event,7,Under 65,CA,Lake,17
+Food,54,Under 65,CA,Lake,17
+Nightlife,5,Under 65,CA,Lake,17
+Outdoors & Recreation,54,Under 65,CA,Lake,17
+Professional,48,Under 65,CA,Lake,17
+Residence,12,Under 65,CA,Lake,17
+Shops,9,Under 65,CA,Lake,17
+Travel,5,Under 65,CA,Lake,17
+Arts & Entertainment,42,Over 65,CA,Lake,17
+College & Education,67,Over 65,CA,Lake,17
+Event,67,Over 65,CA,Lake,17
+Food,63,Over 65,CA,Lake,17
+Nightlife,49,Over 65,CA,Lake,17
+Outdoors & Recreation,22,Over 65,CA,Lake,17
+Professional,72,Over 65,CA,Lake,17
+Residence,2,Over 65,CA,Lake,17
+Shops,77,Over 65,CA,Lake,17
+Travel,57,Over 65,CA,Lake,17
+Arts & Entertainment,5,Under 65,CA,Lassen,18
+College & Education,79,Under 65,CA,Lassen,18
+Event,37,Under 65,CA,Lassen,18
+Food,35,Under 65,CA,Lassen,18
+Nightlife,74,Under 65,CA,Lassen,18
+Outdoors & Recreation,3,Under 65,CA,Lassen,18
+Professional,61,Under 65,CA,Lassen,18
+Residence,65,Under 65,CA,Lassen,18
+Shops,62,Under 65,CA,Lassen,18
+Travel,29,Under 65,CA,Lassen,18
+Arts & Entertainment,59,Over 65,CA,Lassen,18
+College & Education,15,Over 65,CA,Lassen,18
+Event,42,Over 65,CA,Lassen,18
+Food,24,Over 65,CA,Lassen,18
+Nightlife,57,Over 65,CA,Lassen,18
+Outdoors & Recreation,30,Over 65,CA,Lassen,18
+Professional,7,Over 65,CA,Lassen,18
+Residence,39,Over 65,CA,Lassen,18
+Shops,74,Over 65,CA,Lassen,18
+Travel,39,Over 65,CA,Lassen,18
+Arts & Entertainment,24,Under 65,CA,Los Angeles,19
+College & Education,50,Under 65,CA,Los Angeles,19
+Event,70,Under 65,CA,Los Angeles,19
+Food,4,Under 65,CA,Los Angeles,19
+Nightlife,9,Under 65,CA,Los Angeles,19
+Outdoors & Recreation,22,Under 65,CA,Los Angeles,19
+Professional,52,Under 65,CA,Los Angeles,19
+Residence,29,Under 65,CA,Los Angeles,19
+Shops,53,Under 65,CA,Los Angeles,19
+Travel,59,Under 65,CA,Los Angeles,19
+Arts & Entertainment,51,Over 65,CA,Los Angeles,19
+College & Education,25,Over 65,CA,Los Angeles,19
+Event,8,Over 65,CA,Los Angeles,19
+Food,49,Over 65,CA,Los Angeles,19
+Nightlife,17,Over 65,CA,Los Angeles,19
+Outdoors & Recreation,51,Over 65,CA,Los Angeles,19
+Professional,35,Over 65,CA,Los Angeles,19
+Residence,30,Over 65,CA,Los Angeles,19
+Shops,59,Over 65,CA,Los Angeles,19
+Travel,39,Over 65,CA,Los Angeles,19
+Arts & Entertainment,72,Under 65,CA,Madera,20
+College & Education,9,Under 65,CA,Madera,20
+Event,23,Under 65,CA,Madera,20
+Food,45,Under 65,CA,Madera,20
+Nightlife,35,Under 65,CA,Madera,20
+Outdoors & Recreation,65,Under 65,CA,Madera,20
+Professional,18,Under 65,CA,Madera,20
+Residence,9,Under 65,CA,Madera,20
+Shops,62,Under 65,CA,Madera,20
+Travel,37,Under 65,CA,Madera,20
+Arts & Entertainment,3,Over 65,CA,Madera,20
+College & Education,46,Over 65,CA,Madera,20
+Event,25,Over 65,CA,Madera,20
+Food,20,Over 65,CA,Madera,20
+Nightlife,57,Over 65,CA,Madera,20
+Outdoors & Recreation,2,Over 65,CA,Madera,20
+Professional,77,Over 65,CA,Madera,20
+Residence,17,Over 65,CA,Madera,20
+Shops,76,Over 65,CA,Madera,20
+Travel,31,Over 65,CA,Madera,20
+Arts & Entertainment,20,Under 65,CA,Marin,21
+College & Education,15,Under 65,CA,Marin,21
+Event,52,Under 65,CA,Marin,21
+Food,57,Under 65,CA,Marin,21
+Nightlife,47,Under 65,CA,Marin,21
+Outdoors & Recreation,0,Under 65,CA,Marin,21
+Professional,27,Under 65,CA,Marin,21
+Residence,5,Under 65,CA,Marin,21
+Shops,9,Under 65,CA,Marin,21
+Travel,66,Under 65,CA,Marin,21
+Arts & Entertainment,10,Over 65,CA,Marin,21
+College & Education,26,Over 65,CA,Marin,21
+Event,71,Over 65,CA,Marin,21
+Food,35,Over 65,CA,Marin,21
+Nightlife,11,Over 65,CA,Marin,21
+Outdoors & Recreation,1,Over 65,CA,Marin,21
+Professional,15,Over 65,CA,Marin,21
+Residence,74,Over 65,CA,Marin,21
+Shops,43,Over 65,CA,Marin,21
+Travel,65,Over 65,CA,Marin,21
+Arts & Entertainment,59,Under 65,CA,Mariposa,22
+College & Education,24,Under 65,CA,Mariposa,22
+Event,35,Under 65,CA,Mariposa,22
+Food,61,Under 65,CA,Mariposa,22
+Nightlife,58,Under 65,CA,Mariposa,22
+Outdoors & Recreation,62,Under 65,CA,Mariposa,22
+Professional,27,Under 65,CA,Mariposa,22
+Residence,71,Under 65,CA,Mariposa,22
+Shops,3,Under 65,CA,Mariposa,22
+Travel,70,Under 65,CA,Mariposa,22
+Arts & Entertainment,6,Over 65,CA,Mariposa,22
+College & Education,18,Over 65,CA,Mariposa,22
+Event,56,Over 65,CA,Mariposa,22
+Food,17,Over 65,CA,Mariposa,22
+Nightlife,32,Over 65,CA,Mariposa,22
+Outdoors & Recreation,57,Over 65,CA,Mariposa,22
+Professional,33,Over 65,CA,Mariposa,22
+Residence,14,Over 65,CA,Mariposa,22
+Shops,1,Over 65,CA,Mariposa,22
+Travel,50,Over 65,CA,Mariposa,22
+Arts & Entertainment,58,Under 65,CA,Mendocino,23
+College & Education,65,Under 65,CA,Mendocino,23
+Event,69,Under 65,CA,Mendocino,23
+Food,61,Under 65,CA,Mendocino,23
+Nightlife,17,Under 65,CA,Mendocino,23
+Outdoors & Recreation,53,Under 65,CA,Mendocino,23
+Professional,33,Under 65,CA,Mendocino,23
+Residence,24,Under 65,CA,Mendocino,23
+Shops,74,Under 65,CA,Mendocino,23
+Travel,62,Under 65,CA,Mendocino,23
+Arts & Entertainment,41,Over 65,CA,Mendocino,23
+College & Education,2,Over 65,CA,Mendocino,23
+Event,75,Over 65,CA,Mendocino,23
+Food,70,Over 65,CA,Mendocino,23
+Nightlife,50,Over 65,CA,Mendocino,23
+Outdoors & Recreation,26,Over 65,CA,Mendocino,23
+Professional,16,Over 65,CA,Mendocino,23
+Residence,71,Over 65,CA,Mendocino,23
+Shops,0,Over 65,CA,Mendocino,23
+Travel,41,Over 65,CA,Mendocino,23
+Arts & Entertainment,29,Under 65,CA,Merced,24
+College & Education,56,Under 65,CA,Merced,24
+Event,45,Under 65,CA,Merced,24
+Food,13,Under 65,CA,Merced,24
+Nightlife,21,Under 65,CA,Merced,24
+Outdoors & Recreation,72,Under 65,CA,Merced,24
+Professional,38,Under 65,CA,Merced,24
+Residence,74,Under 65,CA,Merced,24
+Shops,15,Under 65,CA,Merced,24
+Travel,28,Under 65,CA,Merced,24
+Arts & Entertainment,4,Over 65,CA,Merced,24
+College & Education,25,Over 65,CA,Merced,24
+Event,17,Over 65,CA,Merced,24
+Food,78,Over 65,CA,Merced,24
+Nightlife,37,Over 65,CA,Merced,24
+Outdoors & Recreation,63,Over 65,CA,Merced,24
+Professional,71,Over 65,CA,Merced,24
+Residence,34,Over 65,CA,Merced,24
+Shops,17,Over 65,CA,Merced,24
+Travel,29,Over 65,CA,Merced,24
+Arts & Entertainment,60,Under 65,CA,Modoc,25
+College & Education,11,Under 65,CA,Modoc,25
+Event,4,Under 65,CA,Modoc,25
+Food,25,Under 65,CA,Modoc,25
+Nightlife,79,Under 65,CA,Modoc,25
+Outdoors & Recreation,34,Under 65,CA,Modoc,25
+Professional,2,Under 65,CA,Modoc,25
+Residence,71,Under 65,CA,Modoc,25
+Shops,10,Under 65,CA,Modoc,25
+Travel,75,Under 65,CA,Modoc,25
+Arts & Entertainment,51,Over 65,CA,Modoc,25
+College & Education,11,Over 65,CA,Modoc,25
+Event,13,Over 65,CA,Modoc,25
+Food,53,Over 65,CA,Modoc,25
+Nightlife,37,Over 65,CA,Modoc,25
+Outdoors & Recreation,32,Over 65,CA,Modoc,25
+Professional,42,Over 65,CA,Modoc,25
+Residence,42,Over 65,CA,Modoc,25
+Shops,71,Over 65,CA,Modoc,25
+Travel,27,Over 65,CA,Modoc,25
+Arts & Entertainment,58,Under 65,CA,Mono,26
+College & Education,40,Under 65,CA,Mono,26
+Event,77,Under 65,CA,Mono,26
+Food,69,Under 65,CA,Mono,26
+Nightlife,35,Under 65,CA,Mono,26
+Outdoors & Recreation,12,Under 65,CA,Mono,26
+Professional,60,Under 65,CA,Mono,26
+Residence,42,Under 65,CA,Mono,26
+Shops,38,Under 65,CA,Mono,26
+Travel,20,Under 65,CA,Mono,26
+Arts & Entertainment,12,Over 65,CA,Mono,26
+College & Education,70,Over 65,CA,Mono,26
+Event,10,Over 65,CA,Mono,26
+Food,47,Over 65,CA,Mono,26
+Nightlife,32,Over 65,CA,Mono,26
+Outdoors & Recreation,79,Over 65,CA,Mono,26
+Professional,69,Over 65,CA,Mono,26
+Residence,21,Over 65,CA,Mono,26
+Shops,1,Over 65,CA,Mono,26
+Travel,21,Over 65,CA,Mono,26
+Arts & Entertainment,44,Under 65,CA,Monterey,27
+College & Education,6,Under 65,CA,Monterey,27
+Event,57,Under 65,CA,Monterey,27
+Food,3,Under 65,CA,Monterey,27
+Nightlife,13,Under 65,CA,Monterey,27
+Outdoors & Recreation,78,Under 65,CA,Monterey,27
+Professional,72,Under 65,CA,Monterey,27
+Residence,69,Under 65,CA,Monterey,27
+Shops,75,Under 65,CA,Monterey,27
+Travel,60,Under 65,CA,Monterey,27
+Arts & Entertainment,43,Over 65,CA,Monterey,27
+College & Education,6,Over 65,CA,Monterey,27
+Event,65,Over 65,CA,Monterey,27
+Food,76,Over 65,CA,Monterey,27
+Nightlife,11,Over 65,CA,Monterey,27
+Outdoors & Recreation,49,Over 65,CA,Monterey,27
+Professional,10,Over 65,CA,Monterey,27
+Residence,51,Over 65,CA,Monterey,27
+Shops,70,Over 65,CA,Monterey,27
+Travel,15,Over 65,CA,Monterey,27
+Arts & Entertainment,30,Under 65,CA,Napa,28
+College & Education,20,Under 65,CA,Napa,28
+Event,14,Under 65,CA,Napa,28
+Food,19,Under 65,CA,Napa,28
+Nightlife,32,Under 65,CA,Napa,28
+Outdoors & Recreation,57,Under 65,CA,Napa,28
+Professional,62,Under 65,CA,Napa,28
+Residence,5,Under 65,CA,Napa,28
+Shops,52,Under 65,CA,Napa,28
+Travel,43,Under 65,CA,Napa,28
+Arts & Entertainment,32,Over 65,CA,Napa,28
+College & Education,25,Over 65,CA,Napa,28
+Event,20,Over 65,CA,Napa,28
+Food,50,Over 65,CA,Napa,28
+Nightlife,33,Over 65,CA,Napa,28
+Outdoors & Recreation,46,Over 65,CA,Napa,28
+Professional,70,Over 65,CA,Napa,28
+Residence,76,Over 65,CA,Napa,28
+Shops,10,Over 65,CA,Napa,28
+Travel,18,Over 65,CA,Napa,28
+Arts & Entertainment,35,Under 65,CA,Nevada,29
+College & Education,3,Under 65,CA,Nevada,29
+Event,74,Under 65,CA,Nevada,29
+Food,42,Under 65,CA,Nevada,29
+Nightlife,13,Under 65,CA,Nevada,29
+Outdoors & Recreation,36,Under 65,CA,Nevada,29
+Professional,32,Under 65,CA,Nevada,29
+Residence,43,Under 65,CA,Nevada,29
+Shops,17,Under 65,CA,Nevada,29
+Travel,56,Under 65,CA,Nevada,29
+Arts & Entertainment,53,Over 65,CA,Nevada,29
+College & Education,10,Over 65,CA,Nevada,29
+Event,35,Over 65,CA,Nevada,29
+Food,16,Over 65,CA,Nevada,29
+Nightlife,47,Over 65,CA,Nevada,29
+Outdoors & Recreation,60,Over 65,CA,Nevada,29
+Professional,50,Over 65,CA,Nevada,29
+Residence,60,Over 65,CA,Nevada,29
+Shops,16,Over 65,CA,Nevada,29
+Travel,31,Over 65,CA,Nevada,29
+Arts & Entertainment,59,Under 65,CA,Orange,30
+College & Education,28,Under 65,CA,Orange,30
+Event,77,Under 65,CA,Orange,30
+Food,20,Under 65,CA,Orange,30
+Nightlife,15,Under 65,CA,Orange,30
+Outdoors & Recreation,55,Under 65,CA,Orange,30
+Professional,5,Under 65,CA,Orange,30
+Residence,40,Under 65,CA,Orange,30
+Shops,30,Under 65,CA,Orange,30
+Travel,13,Under 65,CA,Orange,30
+Arts & Entertainment,52,Over 65,CA,Orange,30
+College & Education,17,Over 65,CA,Orange,30
+Event,40,Over 65,CA,Orange,30
+Food,23,Over 65,CA,Orange,30
+Nightlife,9,Over 65,CA,Orange,30
+Outdoors & Recreation,54,Over 65,CA,Orange,30
+Professional,51,Over 65,CA,Orange,30
+Residence,24,Over 65,CA,Orange,30
+Shops,60,Over 65,CA,Orange,30
+Travel,55,Over 65,CA,Orange,30
+Arts & Entertainment,30,Under 65,CA,Placer,31
+College & Education,22,Under 65,CA,Placer,31
+Event,7,Under 65,CA,Placer,31
+Food,23,Under 65,CA,Placer,31
+Nightlife,55,Under 65,CA,Placer,31
+Outdoors & Recreation,64,Under 65,CA,Placer,31
+Professional,36,Under 65,CA,Placer,31
+Residence,77,Under 65,CA,Placer,31
+Shops,56,Under 65,CA,Placer,31
+Travel,25,Under 65,CA,Placer,31
+Arts & Entertainment,48,Over 65,CA,Placer,31
+College & Education,14,Over 65,CA,Placer,31
+Event,8,Over 65,CA,Placer,31
+Food,6,Over 65,CA,Placer,31
+Nightlife,30,Over 65,CA,Placer,31
+Outdoors & Recreation,7,Over 65,CA,Placer,31
+Professional,11,Over 65,CA,Placer,31
+Residence,3,Over 65,CA,Placer,31
+Shops,59,Over 65,CA,Placer,31
+Travel,28,Over 65,CA,Placer,31
+Arts & Entertainment,15,Under 65,CA,Plumas,32
+College & Education,65,Under 65,CA,Plumas,32
+Event,53,Under 65,CA,Plumas,32
+Food,12,Under 65,CA,Plumas,32
+Nightlife,20,Under 65,CA,Plumas,32
+Outdoors & Recreation,70,Under 65,CA,Plumas,32
+Professional,78,Under 65,CA,Plumas,32
+Residence,49,Under 65,CA,Plumas,32
+Shops,63,Under 65,CA,Plumas,32
+Travel,68,Under 65,CA,Plumas,32
+Arts & Entertainment,27,Over 65,CA,Plumas,32
+College & Education,59,Over 65,CA,Plumas,32
+Event,55,Over 65,CA,Plumas,32
+Food,78,Over 65,CA,Plumas,32
+Nightlife,6,Over 65,CA,Plumas,32
+Outdoors & Recreation,65,Over 65,CA,Plumas,32
+Professional,33,Over 65,CA,Plumas,32
+Residence,18,Over 65,CA,Plumas,32
+Shops,4,Over 65,CA,Plumas,32
+Travel,32,Over 65,CA,Plumas,32
+Arts & Entertainment,50,Under 65,CA,Riverside,33
+College & Education,41,Under 65,CA,Riverside,33
+Event,12,Under 65,CA,Riverside,33
+Food,51,Under 65,CA,Riverside,33
+Nightlife,2,Under 65,CA,Riverside,33
+Outdoors & Recreation,78,Under 65,CA,Riverside,33
+Professional,28,Under 65,CA,Riverside,33
+Residence,29,Under 65,CA,Riverside,33
+Shops,44,Under 65,CA,Riverside,33
+Travel,17,Under 65,CA,Riverside,33
+Arts & Entertainment,18,Over 65,CA,Riverside,33
+College & Education,25,Over 65,CA,Riverside,33
+Event,36,Over 65,CA,Riverside,33
+Food,36,Over 65,CA,Riverside,33
+Nightlife,62,Over 65,CA,Riverside,33
+Outdoors & Recreation,59,Over 65,CA,Riverside,33
+Professional,78,Over 65,CA,Riverside,33
+Residence,58,Over 65,CA,Riverside,33
+Shops,52,Over 65,CA,Riverside,33
+Travel,33,Over 65,CA,Riverside,33
+Arts & Entertainment,42,Under 65,CA,Sacramento,34
+College & Education,18,Under 65,CA,Sacramento,34
+Event,58,Under 65,CA,Sacramento,34
+Food,67,Under 65,CA,Sacramento,34
+Nightlife,60,Under 65,CA,Sacramento,34
+Outdoors & Recreation,28,Under 65,CA,Sacramento,34
+Professional,42,Under 65,CA,Sacramento,34
+Residence,73,Under 65,CA,Sacramento,34
+Shops,37,Under 65,CA,Sacramento,34
+Travel,68,Under 65,CA,Sacramento,34
+Arts & Entertainment,63,Over 65,CA,Sacramento,34
+College & Education,35,Over 65,CA,Sacramento,34
+Event,11,Over 65,CA,Sacramento,34
+Food,19,Over 65,CA,Sacramento,34
+Nightlife,70,Over 65,CA,Sacramento,34
+Outdoors & Recreation,79,Over 65,CA,Sacramento,34
+Professional,67,Over 65,CA,Sacramento,34
+Residence,1,Over 65,CA,Sacramento,34
+Shops,76,Over 65,CA,Sacramento,34
+Travel,11,Over 65,CA,Sacramento,34
+Arts & Entertainment,58,Under 65,CA,San Benito,35
+College & Education,71,Under 65,CA,San Benito,35
+Event,9,Under 65,CA,San Benito,35
+Food,15,Under 65,CA,San Benito,35
+Nightlife,26,Under 65,CA,San Benito,35
+Outdoors & Recreation,64,Under 65,CA,San Benito,35
+Professional,74,Under 65,CA,San Benito,35
+Residence,7,Under 65,CA,San Benito,35
+Shops,65,Under 65,CA,San Benito,35
+Travel,63,Under 65,CA,San Benito,35
+Arts & Entertainment,19,Over 65,CA,San Benito,35
+College & Education,16,Over 65,CA,San Benito,35
+Event,13,Over 65,CA,San Benito,35
+Food,19,Over 65,CA,San Benito,35
+Nightlife,32,Over 65,CA,San Benito,35
+Outdoors & Recreation,60,Over 65,CA,San Benito,35
+Professional,73,Over 65,CA,San Benito,35
+Residence,30,Over 65,CA,San Benito,35
+Shops,49,Over 65,CA,San Benito,35
+Travel,2,Over 65,CA,San Benito,35
+Arts & Entertainment,62,Under 65,CA,San Bernardino,36
+College & Education,24,Under 65,CA,San Bernardino,36
+Event,14,Under 65,CA,San Bernardino,36
+Food,40,Under 65,CA,San Bernardino,36
+Nightlife,41,Under 65,CA,San Bernardino,36
+Outdoors & Recreation,55,Under 65,CA,San Bernardino,36
+Professional,37,Under 65,CA,San Bernardino,36
+Residence,44,Under 65,CA,San Bernardino,36
+Shops,8,Under 65,CA,San Bernardino,36
+Travel,76,Under 65,CA,San Bernardino,36
+Arts & Entertainment,22,Over 65,CA,San Bernardino,36
+College & Education,16,Over 65,CA,San Bernardino,36
+Event,15,Over 65,CA,San Bernardino,36
+Food,42,Over 65,CA,San Bernardino,36
+Nightlife,23,Over 65,CA,San Bernardino,36
+Outdoors & Recreation,51,Over 65,CA,San Bernardino,36
+Professional,58,Over 65,CA,San Bernardino,36
+Residence,77,Over 65,CA,San Bernardino,36
+Shops,46,Over 65,CA,San Bernardino,36
+Travel,1,Over 65,CA,San Bernardino,36
+Arts & Entertainment,56,Under 65,CA,San Diego,37
+College & Education,60,Under 65,CA,San Diego,37
+Event,64,Under 65,CA,San Diego,37
+Food,33,Under 65,CA,San Diego,37
+Nightlife,49,Under 65,CA,San Diego,37
+Outdoors & Recreation,53,Under 65,CA,San Diego,37
+Professional,44,Under 65,CA,San Diego,37
+Residence,13,Under 65,CA,San Diego,37
+Shops,64,Under 65,CA,San Diego,37
+Travel,14,Under 65,CA,San Diego,37
+Arts & Entertainment,25,Over 65,CA,San Diego,37
+College & Education,16,Over 65,CA,San Diego,37
+Event,14,Over 65,CA,San Diego,37
+Food,58,Over 65,CA,San Diego,37
+Nightlife,18,Over 65,CA,San Diego,37
+Outdoors & Recreation,37,Over 65,CA,San Diego,37
+Professional,53,Over 65,CA,San Diego,37
+Residence,17,Over 65,CA,San Diego,37
+Shops,33,Over 65,CA,San Diego,37
+Travel,24,Over 65,CA,San Diego,37
+Arts & Entertainment,77,Under 65,CA,San Francisco,38
+College & Education,52,Under 65,CA,San Francisco,38
+Event,24,Under 65,CA,San Francisco,38
+Food,46,Under 65,CA,San Francisco,38
+Nightlife,26,Under 65,CA,San Francisco,38
+Outdoors & Recreation,14,Under 65,CA,San Francisco,38
+Professional,41,Under 65,CA,San Francisco,38
+Residence,59,Under 65,CA,San Francisco,38
+Shops,15,Under 65,CA,San Francisco,38
+Travel,62,Under 65,CA,San Francisco,38
+Arts & Entertainment,9,Over 65,CA,San Francisco,38
+College & Education,48,Over 65,CA,San Francisco,38
+Event,47,Over 65,CA,San Francisco,38
+Food,72,Over 65,CA,San Francisco,38
+Nightlife,48,Over 65,CA,San Francisco,38
+Outdoors & Recreation,37,Over 65,CA,San Francisco,38
+Professional,71,Over 65,CA,San Francisco,38
+Residence,53,Over 65,CA,San Francisco,38
+Shops,78,Over 65,CA,San Francisco,38
+Travel,28,Over 65,CA,San Francisco,38
+Arts & Entertainment,4,Under 65,CA,San Joaquin,39
+College & Education,3,Under 65,CA,San Joaquin,39
+Event,14,Under 65,CA,San Joaquin,39
+Food,56,Under 65,CA,San Joaquin,39
+Nightlife,37,Under 65,CA,San Joaquin,39
+Outdoors & Recreation,26,Under 65,CA,San Joaquin,39
+Professional,75,Under 65,CA,San Joaquin,39
+Residence,23,Under 65,CA,San Joaquin,39
+Shops,34,Under 65,CA,San Joaquin,39
+Travel,29,Under 65,CA,San Joaquin,39
+Arts & Entertainment,26,Over 65,CA,San Joaquin,39
+College & Education,41,Over 65,CA,San Joaquin,39
+Event,59,Over 65,CA,San Joaquin,39
+Food,60,Over 65,CA,San Joaquin,39
+Nightlife,2,Over 65,CA,San Joaquin,39
+Outdoors & Recreation,16,Over 65,CA,San Joaquin,39
+Professional,24,Over 65,CA,San Joaquin,39
+Residence,53,Over 65,CA,San Joaquin,39
+Shops,30,Over 65,CA,San Joaquin,39
+Travel,55,Over 65,CA,San Joaquin,39
+Arts & Entertainment,4,Under 65,CA,San Luis Obispo,40
+College & Education,40,Under 65,CA,San Luis Obispo,40
+Event,51,Under 65,CA,San Luis Obispo,40
+Food,76,Under 65,CA,San Luis Obispo,40
+Nightlife,69,Under 65,CA,San Luis Obispo,40
+Outdoors & Recreation,28,Under 65,CA,San Luis Obispo,40
+Professional,40,Under 65,CA,San Luis Obispo,40
+Residence,38,Under 65,CA,San Luis Obispo,40
+Shops,67,Under 65,CA,San Luis Obispo,40
+Travel,40,Under 65,CA,San Luis Obispo,40
+Arts & Entertainment,36,Over 65,CA,San Luis Obispo,40
+College & Education,75,Over 65,CA,San Luis Obispo,40
+Event,28,Over 65,CA,San Luis Obispo,40
+Food,54,Over 65,CA,San Luis Obispo,40
+Nightlife,28,Over 65,CA,San Luis Obispo,40
+Outdoors & Recreation,73,Over 65,CA,San Luis Obispo,40
+Professional,51,Over 65,CA,San Luis Obispo,40
+Residence,11,Over 65,CA,San Luis Obispo,40
+Shops,12,Over 65,CA,San Luis Obispo,40
+Travel,78,Over 65,CA,San Luis Obispo,40
+Arts & Entertainment,14,Under 65,CA,San Mateo,41
+College & Education,14,Under 65,CA,San Mateo,41
+Event,43,Under 65,CA,San Mateo,41
+Food,57,Under 65,CA,San Mateo,41
+Nightlife,63,Under 65,CA,San Mateo,41
+Outdoors & Recreation,31,Under 65,CA,San Mateo,41
+Professional,66,Under 65,CA,San Mateo,41
+Residence,75,Under 65,CA,San Mateo,41
+Shops,13,Under 65,CA,San Mateo,41
+Travel,74,Under 65,CA,San Mateo,41
+Arts & Entertainment,34,Over 65,CA,San Mateo,41
+College & Education,67,Over 65,CA,San Mateo,41
+Event,73,Over 65,CA,San Mateo,41
+Food,55,Over 65,CA,San Mateo,41
+Nightlife,62,Over 65,CA,San Mateo,41
+Outdoors & Recreation,21,Over 65,CA,San Mateo,41
+Professional,10,Over 65,CA,San Mateo,41
+Residence,37,Over 65,CA,San Mateo,41
+Shops,60,Over 65,CA,San Mateo,41
+Travel,33,Over 65,CA,San Mateo,41
+Arts & Entertainment,8,Under 65,CA,Santa Barbara,42
+College & Education,40,Under 65,CA,Santa Barbara,42
+Event,12,Under 65,CA,Santa Barbara,42
+Food,7,Under 65,CA,Santa Barbara,42
+Nightlife,58,Under 65,CA,Santa Barbara,42
+Outdoors & Recreation,51,Under 65,CA,Santa Barbara,42
+Professional,73,Under 65,CA,Santa Barbara,42
+Residence,39,Under 65,CA,Santa Barbara,42
+Shops,42,Under 65,CA,Santa Barbara,42
+Travel,1,Under 65,CA,Santa Barbara,42
+Arts & Entertainment,51,Over 65,CA,Santa Barbara,42
+College & Education,60,Over 65,CA,Santa Barbara,42
+Event,55,Over 65,CA,Santa Barbara,42
+Food,60,Over 65,CA,Santa Barbara,42
+Nightlife,76,Over 65,CA,Santa Barbara,42
+Outdoors & Recreation,70,Over 65,CA,Santa Barbara,42
+Professional,50,Over 65,CA,Santa Barbara,42
+Residence,30,Over 65,CA,Santa Barbara,42
+Shops,10,Over 65,CA,Santa Barbara,42
+Travel,67,Over 65,CA,Santa Barbara,42
+Arts & Entertainment,22,Under 65,CA,Santa Clara,43
+College & Education,50,Under 65,CA,Santa Clara,43
+Event,48,Under 65,CA,Santa Clara,43
+Food,78,Under 65,CA,Santa Clara,43
+Nightlife,20,Under 65,CA,Santa Clara,43
+Outdoors & Recreation,27,Under 65,CA,Santa Clara,43
+Professional,76,Under 65,CA,Santa Clara,43
+Residence,8,Under 65,CA,Santa Clara,43
+Shops,2,Under 65,CA,Santa Clara,43
+Travel,42,Under 65,CA,Santa Clara,43
+Arts & Entertainment,74,Over 65,CA,Santa Clara,43
+College & Education,30,Over 65,CA,Santa Clara,43
+Event,33,Over 65,CA,Santa Clara,43
+Food,22,Over 65,CA,Santa Clara,43
+Nightlife,32,Over 65,CA,Santa Clara,43
+Outdoors & Recreation,65,Over 65,CA,Santa Clara,43
+Professional,3,Over 65,CA,Santa Clara,43
+Residence,13,Over 65,CA,Santa Clara,43
+Shops,25,Over 65,CA,Santa Clara,43
+Travel,56,Over 65,CA,Santa Clara,43
+Arts & Entertainment,43,Under 65,CA,Santa Cruz,44
+College & Education,77,Under 65,CA,Santa Cruz,44
+Event,27,Under 65,CA,Santa Cruz,44
+Food,31,Under 65,CA,Santa Cruz,44
+Nightlife,10,Under 65,CA,Santa Cruz,44
+Outdoors & Recreation,4,Under 65,CA,Santa Cruz,44
+Professional,9,Under 65,CA,Santa Cruz,44
+Residence,69,Under 65,CA,Santa Cruz,44
+Shops,24,Under 65,CA,Santa Cruz,44
+Travel,40,Under 65,CA,Santa Cruz,44
+Arts & Entertainment,16,Over 65,CA,Santa Cruz,44
+College & Education,41,Over 65,CA,Santa Cruz,44
+Event,74,Over 65,CA,Santa Cruz,44
+Food,2,Over 65,CA,Santa Cruz,44
+Nightlife,70,Over 65,CA,Santa Cruz,44
+Outdoors & Recreation,62,Over 65,CA,Santa Cruz,44
+Professional,32,Over 65,CA,Santa Cruz,44
+Residence,24,Over 65,CA,Santa Cruz,44
+Shops,66,Over 65,CA,Santa Cruz,44
+Travel,73,Over 65,CA,Santa Cruz,44
+Arts & Entertainment,49,Under 65,CA,Shasta,45
+College & Education,54,Under 65,CA,Shasta,45
+Event,11,Under 65,CA,Shasta,45
+Food,14,Under 65,CA,Shasta,45
+Nightlife,1,Under 65,CA,Shasta,45
+Outdoors & Recreation,14,Under 65,CA,Shasta,45
+Professional,61,Under 65,CA,Shasta,45
+Residence,45,Under 65,CA,Shasta,45
+Shops,58,Under 65,CA,Shasta,45
+Travel,7,Under 65,CA,Shasta,45
+Arts & Entertainment,21,Over 65,CA,Shasta,45
+College & Education,8,Over 65,CA,Shasta,45
+Event,56,Over 65,CA,Shasta,45
+Food,49,Over 65,CA,Shasta,45
+Nightlife,0,Over 65,CA,Shasta,45
+Outdoors & Recreation,79,Over 65,CA,Shasta,45
+Professional,35,Over 65,CA,Shasta,45
+Residence,76,Over 65,CA,Shasta,45
+Shops,47,Over 65,CA,Shasta,45
+Travel,12,Over 65,CA,Shasta,45
+Arts & Entertainment,76,Under 65,CA,Sierra,46
+College & Education,8,Under 65,CA,Sierra,46
+Event,29,Under 65,CA,Sierra,46
+Food,79,Under 65,CA,Sierra,46
+Nightlife,19,Under 65,CA,Sierra,46
+Outdoors & Recreation,9,Under 65,CA,Sierra,46
+Professional,13,Under 65,CA,Sierra,46
+Residence,50,Under 65,CA,Sierra,46
+Shops,55,Under 65,CA,Sierra,46
+Travel,77,Under 65,CA,Sierra,46
+Arts & Entertainment,73,Over 65,CA,Sierra,46
+College & Education,71,Over 65,CA,Sierra,46
+Event,52,Over 65,CA,Sierra,46
+Food,9,Over 65,CA,Sierra,46
+Nightlife,45,Over 65,CA,Sierra,46
+Outdoors & Recreation,14,Over 65,CA,Sierra,46
+Professional,35,Over 65,CA,Sierra,46
+Residence,0,Over 65,CA,Sierra,46
+Shops,12,Over 65,CA,Sierra,46
+Travel,10,Over 65,CA,Sierra,46
+Arts & Entertainment,69,Under 65,CA,Siskiyou,47
+College & Education,10,Under 65,CA,Siskiyou,47
+Event,54,Under 65,CA,Siskiyou,47
+Food,31,Under 65,CA,Siskiyou,47
+Nightlife,79,Under 65,CA,Siskiyou,47
+Outdoors & Recreation,2,Under 65,CA,Siskiyou,47
+Professional,76,Under 65,CA,Siskiyou,47
+Residence,64,Under 65,CA,Siskiyou,47
+Shops,76,Under 65,CA,Siskiyou,47
+Travel,43,Under 65,CA,Siskiyou,47
+Arts & Entertainment,44,Over 65,CA,Siskiyou,47
+College & Education,58,Over 65,CA,Siskiyou,47
+Event,58,Over 65,CA,Siskiyou,47
+Food,74,Over 65,CA,Siskiyou,47
+Nightlife,27,Over 65,CA,Siskiyou,47
+Outdoors & Recreation,45,Over 65,CA,Siskiyou,47
+Professional,22,Over 65,CA,Siskiyou,47
+Residence,76,Over 65,CA,Siskiyou,47
+Shops,38,Over 65,CA,Siskiyou,47
+Travel,47,Over 65,CA,Siskiyou,47
+Arts & Entertainment,69,Under 65,CA,Solano,48
+College & Education,5,Under 65,CA,Solano,48
+Event,48,Under 65,CA,Solano,48
+Food,73,Under 65,CA,Solano,48
+Nightlife,35,Under 65,CA,Solano,48
+Outdoors & Recreation,38,Under 65,CA,Solano,48
+Professional,5,Under 65,CA,Solano,48
+Residence,24,Under 65,CA,Solano,48
+Shops,37,Under 65,CA,Solano,48
+Travel,78,Under 65,CA,Solano,48
+Arts & Entertainment,37,Over 65,CA,Solano,48
+College & Education,54,Over 65,CA,Solano,48
+Event,33,Over 65,CA,Solano,48
+Food,29,Over 65,CA,Solano,48
+Nightlife,1,Over 65,CA,Solano,48
+Outdoors & Recreation,44,Over 65,CA,Solano,48
+Professional,69,Over 65,CA,Solano,48
+Residence,56,Over 65,CA,Solano,48
+Shops,14,Over 65,CA,Solano,48
+Travel,37,Over 65,CA,Solano,48
+Arts & Entertainment,10,Under 65,CA,Sonoma,49
+College & Education,55,Under 65,CA,Sonoma,49
+Event,47,Under 65,CA,Sonoma,49
+Food,27,Under 65,CA,Sonoma,49
+Nightlife,69,Under 65,CA,Sonoma,49
+Outdoors & Recreation,17,Under 65,CA,Sonoma,49
+Professional,69,Under 65,CA,Sonoma,49
+Residence,13,Under 65,CA,Sonoma,49
+Shops,42,Under 65,CA,Sonoma,49
+Travel,27,Under 65,CA,Sonoma,49
+Arts & Entertainment,25,Over 65,CA,Sonoma,49
+College & Education,54,Over 65,CA,Sonoma,49
+Event,63,Over 65,CA,Sonoma,49
+Food,73,Over 65,CA,Sonoma,49
+Nightlife,25,Over 65,CA,Sonoma,49
+Outdoors & Recreation,75,Over 65,CA,Sonoma,49
+Professional,53,Over 65,CA,Sonoma,49
+Residence,44,Over 65,CA,Sonoma,49
+Shops,20,Over 65,CA,Sonoma,49
+Travel,37,Over 65,CA,Sonoma,49
+Arts & Entertainment,29,Under 65,CA,Stanislaus,50
+College & Education,75,Under 65,CA,Stanislaus,50
+Event,19,Under 65,CA,Stanislaus,50
+Food,15,Under 65,CA,Stanislaus,50
+Nightlife,57,Under 65,CA,Stanislaus,50
+Outdoors & Recreation,0,Under 65,CA,Stanislaus,50
+Professional,61,Under 65,CA,Stanislaus,50
+Residence,20,Under 65,CA,Stanislaus,50
+Shops,4,Under 65,CA,Stanislaus,50
+Travel,68,Under 65,CA,Stanislaus,50
+Arts & Entertainment,49,Over 65,CA,Stanislaus,50
+College & Education,27,Over 65,CA,Stanislaus,50
+Event,57,Over 65,CA,Stanislaus,50
+Food,70,Over 65,CA,Stanislaus,50
+Nightlife,69,Over 65,CA,Stanislaus,50
+Outdoors & Recreation,71,Over 65,CA,Stanislaus,50
+Professional,4,Over 65,CA,Stanislaus,50
+Residence,4,Over 65,CA,Stanislaus,50
+Shops,43,Over 65,CA,Stanislaus,50
+Travel,54,Over 65,CA,Stanislaus,50
+Arts & Entertainment,32,Under 65,CA,Sutter,51
+College & Education,50,Under 65,CA,Sutter,51
+Event,31,Under 65,CA,Sutter,51
+Food,27,Under 65,CA,Sutter,51
+Nightlife,27,Under 65,CA,Sutter,51
+Outdoors & Recreation,63,Under 65,CA,Sutter,51
+Professional,74,Under 65,CA,Sutter,51
+Residence,37,Under 65,CA,Sutter,51
+Shops,54,Under 65,CA,Sutter,51
+Travel,20,Under 65,CA,Sutter,51
+Arts & Entertainment,53,Over 65,CA,Sutter,51
+College & Education,2,Over 65,CA,Sutter,51
+Event,33,Over 65,CA,Sutter,51
+Food,67,Over 65,CA,Sutter,51
+Nightlife,58,Over 65,CA,Sutter,51
+Outdoors & Recreation,78,Over 65,CA,Sutter,51
+Professional,23,Over 65,CA,Sutter,51
+Residence,26,Over 65,CA,Sutter,51
+Shops,23,Over 65,CA,Sutter,51
+Travel,36,Over 65,CA,Sutter,51
+Arts & Entertainment,50,Under 65,CA,Tehama,52
+College & Education,76,Under 65,CA,Tehama,52
+Event,60,Under 65,CA,Tehama,52
+Food,21,Under 65,CA,Tehama,52
+Nightlife,2,Under 65,CA,Tehama,52
+Outdoors & Recreation,14,Under 65,CA,Tehama,52
+Professional,32,Under 65,CA,Tehama,52
+Residence,15,Under 65,CA,Tehama,52
+Shops,4,Under 65,CA,Tehama,52
+Travel,71,Under 65,CA,Tehama,52
+Arts & Entertainment,3,Over 65,CA,Tehama,52
+College & Education,64,Over 65,CA,Tehama,52
+Event,22,Over 65,CA,Tehama,52
+Food,67,Over 65,CA,Tehama,52
+Nightlife,36,Over 65,CA,Tehama,52
+Outdoors & Recreation,23,Over 65,CA,Tehama,52
+Professional,46,Over 65,CA,Tehama,52
+Residence,43,Over 65,CA,Tehama,52
+Shops,36,Over 65,CA,Tehama,52
+Travel,28,Over 65,CA,Tehama,52
+Arts & Entertainment,73,Under 65,CA,Trinity,53
+College & Education,55,Under 65,CA,Trinity,53
+Event,17,Under 65,CA,Trinity,53
+Food,54,Under 65,CA,Trinity,53
+Nightlife,47,Under 65,CA,Trinity,53
+Outdoors & Recreation,31,Under 65,CA,Trinity,53
+Professional,6,Under 65,CA,Trinity,53
+Residence,47,Under 65,CA,Trinity,53
+Shops,69,Under 65,CA,Trinity,53
+Travel,78,Under 65,CA,Trinity,53
+Arts & Entertainment,62,Over 65,CA,Trinity,53
+College & Education,24,Over 65,CA,Trinity,53
+Event,21,Over 65,CA,Trinity,53
+Food,39,Over 65,CA,Trinity,53
+Nightlife,32,Over 65,CA,Trinity,53
+Outdoors & Recreation,32,Over 65,CA,Trinity,53
+Professional,43,Over 65,CA,Trinity,53
+Residence,52,Over 65,CA,Trinity,53
+Shops,57,Over 65,CA,Trinity,53
+Travel,67,Over 65,CA,Trinity,53
+Arts & Entertainment,44,Under 65,CA,Tulare,54
+College & Education,39,Under 65,CA,Tulare,54
+Event,32,Under 65,CA,Tulare,54
+Food,78,Under 65,CA,Tulare,54
+Nightlife,42,Under 65,CA,Tulare,54
+Outdoors & Recreation,8,Under 65,CA,Tulare,54
+Professional,38,Under 65,CA,Tulare,54
+Residence,32,Under 65,CA,Tulare,54
+Shops,16,Under 65,CA,Tulare,54
+Travel,43,Under 65,CA,Tulare,54
+Arts & Entertainment,2,Over 65,CA,Tulare,54
+College & Education,69,Over 65,CA,Tulare,54
+Event,51,Over 65,CA,Tulare,54
+Food,56,Over 65,CA,Tulare,54
+Nightlife,76,Over 65,CA,Tulare,54
+Outdoors & Recreation,41,Over 65,CA,Tulare,54
+Professional,44,Over 65,CA,Tulare,54
+Residence,9,Over 65,CA,Tulare,54
+Shops,71,Over 65,CA,Tulare,54
+Travel,70,Over 65,CA,Tulare,54
+Arts & Entertainment,46,Under 65,CA,Tuolumne,55
+College & Education,33,Under 65,CA,Tuolumne,55
+Event,49,Under 65,CA,Tuolumne,55
+Food,23,Under 65,CA,Tuolumne,55
+Nightlife,67,Under 65,CA,Tuolumne,55
+Outdoors & Recreation,78,Under 65,CA,Tuolumne,55
+Professional,65,Under 65,CA,Tuolumne,55
+Residence,35,Under 65,CA,Tuolumne,55
+Shops,61,Under 65,CA,Tuolumne,55
+Travel,66,Under 65,CA,Tuolumne,55
+Arts & Entertainment,50,Over 65,CA,Tuolumne,55
+College & Education,39,Over 65,CA,Tuolumne,55
+Event,22,Over 65,CA,Tuolumne,55
+Food,71,Over 65,CA,Tuolumne,55
+Nightlife,56,Over 65,CA,Tuolumne,55
+Outdoors & Recreation,46,Over 65,CA,Tuolumne,55
+Professional,76,Over 65,CA,Tuolumne,55
+Residence,15,Over 65,CA,Tuolumne,55
+Shops,8,Over 65,CA,Tuolumne,55
+Travel,7,Over 65,CA,Tuolumne,55
+Arts & Entertainment,16,Under 65,CA,Ventura,56
+College & Education,61,Under 65,CA,Ventura,56
+Event,6,Under 65,CA,Ventura,56
+Food,76,Under 65,CA,Ventura,56
+Nightlife,65,Under 65,CA,Ventura,56
+Outdoors & Recreation,40,Under 65,CA,Ventura,56
+Professional,2,Under 65,CA,Ventura,56
+Residence,27,Under 65,CA,Ventura,56
+Shops,73,Under 65,CA,Ventura,56
+Travel,37,Under 65,CA,Ventura,56
+Arts & Entertainment,75,Over 65,CA,Ventura,56
+College & Education,32,Over 65,CA,Ventura,56
+Event,44,Over 65,CA,Ventura,56
+Food,58,Over 65,CA,Ventura,56
+Nightlife,66,Over 65,CA,Ventura,56
+Outdoors & Recreation,46,Over 65,CA,Ventura,56
+Professional,13,Over 65,CA,Ventura,56
+Residence,21,Over 65,CA,Ventura,56
+Shops,73,Over 65,CA,Ventura,56
+Travel,78,Over 65,CA,Ventura,56
+Arts & Entertainment,18,Under 65,CA,Yolo,57
+College & Education,45,Under 65,CA,Yolo,57
+Event,31,Under 65,CA,Yolo,57
+Food,20,Under 65,CA,Yolo,57
+Nightlife,27,Under 65,CA,Yolo,57
+Outdoors & Recreation,68,Under 65,CA,Yolo,57
+Professional,73,Under 65,CA,Yolo,57
+Residence,37,Under 65,CA,Yolo,57
+Shops,35,Under 65,CA,Yolo,57
+Travel,34,Under 65,CA,Yolo,57
+Arts & Entertainment,18,Over 65,CA,Yolo,57
+College & Education,57,Over 65,CA,Yolo,57
+Event,60,Over 65,CA,Yolo,57
+Food,25,Over 65,CA,Yolo,57
+Nightlife,57,Over 65,CA,Yolo,57
+Outdoors & Recreation,64,Over 65,CA,Yolo,57
+Professional,33,Over 65,CA,Yolo,57
+Residence,46,Over 65,CA,Yolo,57
+Shops,71,Over 65,CA,Yolo,57
+Travel,19,Over 65,CA,Yolo,57
+Arts & Entertainment,57,Under 65,CA,Yuba,58
+College & Education,28,Under 65,CA,Yuba,58
+Event,14,Under 65,CA,Yuba,58
+Food,78,Under 65,CA,Yuba,58
+Nightlife,52,Under 65,CA,Yuba,58
+Outdoors & Recreation,41,Under 65,CA,Yuba,58
+Professional,74,Under 65,CA,Yuba,58
+Residence,57,Under 65,CA,Yuba,58
+Shops,8,Under 65,CA,Yuba,58
+Travel,2,Under 65,CA,Yuba,58
+Arts & Entertainment,75,Over 65,CA,Yuba,58
+College & Education,17,Over 65,CA,Yuba,58
+Event,72,Over 65,CA,Yuba,58
+Food,4,Over 65,CA,Yuba,58
+Nightlife,2,Over 65,CA,Yuba,58
+Outdoors & Recreation,29,Over 65,CA,Yuba,58
+Professional,70,Over 65,CA,Yuba,58
+Residence,30,Over 65,CA,Yuba,58
+Shops,3,Over 65,CA,Yuba,58
+Travel,50,Over 65,CA,Yuba,58
