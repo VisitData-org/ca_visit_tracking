@@ -1,0 +1,33 @@
+{% extends "nav.html" %}
+{% block main %}
+        <div class="my-4 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
+        </div>
+        <select name="county" id="county-select">
+          <option value="">---Select a county--</option>
+        </select>
+        or
+        <select name="venuetype" id="location-type-select">
+          <option value="">---Select a venue type--</option>
+        </select>
+        <!--
+          <select name="agegroup" id="agegroup-select">
+            <option value="">--Select an age group--</option>
+          </select>
+          -->
+        <br><br>
+
+        <div>
+          <ul>
+            <li>100 = February average number of visits for that day of the week.</li>
+            <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for
+              that Location Type in that County to have usable data.</li>
+          </ul>
+        </div>
+
+        <div id="data-table"></div>
+
+        <br>
+
+        <!-- TODO get foursquare image to show as footer across the whole bottom of the page, right?  not just the main section? -->
+        <a href="https://developer.foursquare.com/"><img src="foursquare.png"></a>
+{% endblock %}
