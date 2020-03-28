@@ -1,5 +1,5 @@
 # [START gae_python37_app]
-from flask import Flask, redirect
+from flask import Flask, redirect, render_template
 
 app = Flask(__name__, static_url_path="", static_folder="static")
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
@@ -8,6 +8,16 @@ app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
 @app.route("/")
 def root():
     return redirect("/index.html")
+
+
+@app.route("/index.html")
+def index():
+    return render_template("index.html")
+
+
+@app.route("/bydate.html")
+def bydate():
+    return render_template("bydate.html")
 
 
 if __name__ == "__main__":

@@ -13,6 +13,7 @@
 .git
 .gitignore
 .idea/
+venv/
 
 # Python pycache:
 __pycache__/
