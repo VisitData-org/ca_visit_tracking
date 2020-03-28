@@ -6,6 +6,93 @@ var locationTypeSel;
 var counties = [];
 var locationTypes = [];
 
+function fileDataToHighcharts(fileDataToPlot) {
+  return _.map(fileDataToPlot, function(fileDataRow) {
+    var date = fileDataRow.date;
+    var year = date.slice(0, 4);
+    var month = date.slice(5, 7);
+    var day = date.slice(8, 10);
+    return [Date.UTC(year, month-1, day), parseInt(fileDataRow.visit_index)];
+  });
+}
+
+function seriesToPlot() {
+  if (countySel.value && !locationTypeSel.value) {
+    var fileDataToPlot = _.where(fileData, { county: countySel.value });
+    var results = _.map(locationTypes, function(locationType) {
+      return {
+        name: locationType,
+        lineWidth: 0,
+        marker: { radius: 5 },
+        data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
+      };
+    });
+    results = _.filter(results, function(series) {
+      return series.data.length > 0;
+    });
+    return results;
+  }
+  if (!countySel.value && locationTypeSel.value) {
+    var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value });
+    var results = _.map(counties, function(county) {
+      return {
+        name: county,
+        lineWidth: 0,
+        marker: { radius: 5 },
+        data: fileDataToHighcharts(_.where(fileDataToPlot, { county: county }))
+      };
+    });
+    results = _.filter(results, function(series) {
+      return series.data.length > 0;
+    });
+    return results;
+  }
+  if (countySel.value && locationTypeSel.value) {
+    var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value, county: countySel.value });
+    return [{
+      name: locationTypeSel.value + " in " + countySel.value,
+      lineWidth: 0,
+      marker: { radius: 5 },
+      data: fileDataToHighcharts(fileDataToPlot)
+    }];
+  }
+}
+
+function drawChart() {
+  Highcharts.chart('container', {
+    chart: {
+      animation: false
+    },
+    title: {   text: '% of Usual Visits, by Date'  },
+    xAxis: {
+      type: 'datetime',
+      dateTimeLabelFormats: {
+        day: '%a %b %e',
+        week: '%a %b %e',
+        month: '%a %b %e',
+      },
+      title: {
+        text: 'Date'
+      }
+    },
+    yAxis: { title: { text: '% of Usual Visits' }, min: 0 },
+    tooltip: {
+        headerFormat: '<b>{series.name}</b><br>',
+        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+    },
+    plotOptions: {  series: {    animation: false   }   },
+    series: seriesToPlot()
+  });
+}
+
+function cleanLocType(string) {
+  if (string == "Cafￃﾩs") {
+    return "Cafes";
+  }
+  return string;
+}
+
+
 function redoFilter() {
   table.clearFilter();
   if (countySel.value) {
@@ -14,8 +101,12 @@ function redoFilter() {
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
-  if (ageGroupSel.value) {
-    table.addFilter("agegroup", "=", ageGroupSel.value);
+//  if (ageGroupSel.value) {
+//    table.addFilter("agegroup", "=", ageGroupSel.value);
+//  }
+
+  if (countySel.value || locationTypeSel.value) {
+    drawChart();
   }
 }
 
@@ -32,12 +123,12 @@ function parsingDone(results, file) {
 //  console.log("Parsing complete:", results, file);
   fileData = _.map(results.data.slice(1), function (row) {
     var county = row[1];
-    var location_type = row[3];
+    var location_type = cleanLocType(row[2]);
     var date = row[0];
     counties.push(county);
     locationTypes.push(location_type);
     return {location_type: location_type,
-            visit_index: row[4],
+            visit_index: row[3],
             date: date,
 //            agegroup: row[2],
 //            state: row[3],
@@ -61,7 +152,8 @@ function parsingDone(results, file) {
     height:"600px",
     layout:"fitColumns",
     initialSort:[
-      {column:"date", dir:"asc"}
+      {column:"date", dir:"asc"},
+      {column:"county", dir:"asc"},
     ],
 //    pagination: "local",
   });
@@ -85,4 +177,5 @@ function parsingDone(results, file) {
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
 }
 
-Papa.parse('rawcats.csv', {download: true, complete: parsingDone});
+// WARNING when using rawcats files, gotta get rid of column 3 you dont need it
+Papa.parse('catgroups.csv', {download: true, complete: parsingDone});

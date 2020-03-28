@@ -3,6 +3,7 @@
 <script type="text/javascript" src="underscore-min.js"></script>
 <script type="text/javascript" src="tabulator.min.js"></script>
 <script type="text/javascript" src="papaparse.min.js"></script>
+<script type="text/javascript" src="highcharts.js"></script>
 
 <body style="font-size:30px">
 <select name="county" id="county-select">
@@ -17,7 +18,17 @@
 </select>
 -->
 <br><br>
+
+<figure class="highcharts-figure">    <div id="container"></div> </figure>
 <div id="example-table"></div>
+
+<br>
+<div style="font-size:20px">
+  <ul>
+    <li>100 = February average number of visits for that day of the week.</li>
+    <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
+  </ul>
+</div>
 
 </body>
 <script type="text/javascript" src="ca_bydate.js"></script>

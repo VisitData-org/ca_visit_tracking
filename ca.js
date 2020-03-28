@@ -91,4 +91,5 @@ function parsingDone(results, file) {
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
 }
 
-Papa.parse('rawcats_0321.csv', {download: true, complete: parsingDone});
+// WARNING when using rawcats files, gotta get rid of column 3 you dont need it
+Papa.parse('catgroups.csv', {download: true, complete: parsingDone});
