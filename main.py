@@ -1,7 +1,7 @@
 # [START gae_python37_app]
 from flask import Flask, redirect
 
-app = Flask(__name__, static_url_path="", static_folder="www")
+app = Flask(__name__, static_url_path="", static_folder="static")
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
 
 
