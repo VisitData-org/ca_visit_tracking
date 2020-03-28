@@ -46,6 +46,7 @@
 <script type="text/javascript" src="js/lib/papaparse.min.js"></script>
 <script type="text/javascript" src="js/lib/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="js/lib/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="js/lib/highcharts.js"></script>
 
 <body>
   <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
@@ -110,9 +111,6 @@
             <div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
           </div>
         </div> -->
-        <figure class="highcharts-figure">
-          <div id="container"></div>
-        </figure>
         <div
           class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
           <h1 class="h2">Chart</h1>
@@ -135,8 +133,10 @@
           </div>
         </div>
 
-        <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="2562" height="1080"
-          style="display: block; height: 540px; width: 1281px;"></canvas>
+        <div class="my-4 w-100 chartjs-render-monitor" id="chartcontainer" width="2562" height="1080"
+          style="display: block; height: 540px; width: 1281px;">
+
+        </div>
         <select name="county" id="county-select">
           <option value="">---Select a county--</option>
         </select>

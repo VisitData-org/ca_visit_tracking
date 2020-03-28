@@ -1,4 +1,3 @@
-
 var table;
 var countySel;
 var ageGroupSel;
@@ -59,7 +58,7 @@ function seriesToPlot() {
 }
 
 function drawChart() {
-  Highcharts.chart('container', {
+  Highcharts.chart('chartcontainer', {
     chart: {
       animation: false
     },
