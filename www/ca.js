@@ -5,6 +5,7 @@ var ageGroupSel;
 var locationTypeSel;
 var counties = [];
 var locationTypes = [];
+var dateToShow = '2020-03-23';
 
 function redoFilter() {
   table.clearFilter();
@@ -35,41 +36,45 @@ function cleanLocType(string) {
   return string;
 }
 
+function parseGroupedRow(row) {
+  return {
+    date: row[0],
+    state: row[1],
+    county: row[2],
+    location_type: row[3],
+    visit_index: row[4],
+    visit_index_over65: row[5],
+    visit_index_under65: row[6],
+    rank: row[7]
+  };
+}
+
 function parsingDone(results, file) {
-//  console.log("Parsing complete:", results, file);
-  fileData = _.map(results.data.slice(1), function (row) {
-    var county = row[1];
-    var location_type = cleanLocType(row[2]);
-    var date = row[0];
-    counties.push(county);
-    locationTypes.push(location_type);
-    return {location_type: location_type,
-            visit_index: row[3],
-            date: date,
-//            agegroup: row[2],
-//            state: row[3],
-            county: county
-           };
+
+  var parsed = _.map(results.data, parseGroupedRow);
+  var latestDateOnly = _.where(parsed, { date: dateToShow });
+  _.each(latestDateOnly, function (parsedRow) {
+    counties.push(parsedRow.county);
+    locationTypes.push(parsedRow.location_type);
   });
 
   counties = _.uniq(counties).sort();
   locationTypes = _.uniq(locationTypes).sort();
 
   table = new Tabulator("#data-table", {
-    data:fileData,
+    data:latestDateOnly,
     columns:[
       {title:"Location Type", field:"location_type"},
       {title:"% of Usual Visits", field:"visit_index"},
-//      {title:"Age Group", field:"agegroup"},
+      {title:"% Usual, Over 65", field:"visit_index_over65"},
+      {title:"% Usual, Under 65", field:"visit_index_under65"},
       {title:"County", field:"county"},
-//      {title:"State", field:"state"},
     ],
     height:"600px",
     layout:"fitColumns",
     initialSort:[
       {column:"visit_index", dir:"desc"}
     ],
-//    pagination: "local",
   });
 
   countySel = document.getElementById('county-select');
@@ -78,18 +83,7 @@ function parsingDone(results, file) {
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes);
 
-  // ageGroupSel = document.getElementById('agegroup-select');
-  // option1 = document.createElement("option");
-  // option1.value = "Over 65";
-  // option1.text = "Over 65";
-  // ageGroupSel.add(option1);
-  // option1 = document.createElement("option");
-  // option1.value = "Under 65";
-  // option1.text = "Under 65";
-  // ageGroupSel.add(option1);
-
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
 }
 
-// WARNING when using rawcats files, gotta get rid of column 3 you dont need it
-Papa.parse('data/catgroups_0321.csv', {download: true, complete: parsingDone});
+Papa.parse('data/grouped.csv', {download: true, complete: parsingDone});

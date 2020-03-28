@@ -5,6 +5,9 @@ var locationTypeSel;
 var counties = [];
 var locationTypes = [];
 
+const urlParams = new URLSearchParams(window.location.search);
+var datafilename = urlParams.get('datafilename');
+
 function fileDataToHighcharts(fileDataToPlot) {
   return _.map(fileDataToPlot, function(fileDataRow) {
     var date = fileDataRow.date;
@@ -62,7 +65,7 @@ function drawChart() {
     chart: {
       animation: false
     },
-    title: {   text: '% of Usual Visits, by Date'  },
+    title: {   text: '% of Usual Visits'  },
     xAxis: {
       type: 'datetime',
       dateTimeLabelFormats: {
@@ -118,21 +121,48 @@ function populateSelect(selectElement, stringList) {
   });
 }
 
+function parseGroupedRow(row) {
+  return {
+    date: row[0],
+    state: row[1],
+    county: row[2],
+    location_type: row[3],
+    visit_index: row[4],
+    visit_index_over65: row[5],
+    visit_index_under65: row[6],
+    rank: row[7]
+  };
+}
+
+function parseRawRow(row) {
+  return {
+    date: row[0],
+    state: row[1],
+    county: row[2],
+    location_type: row[4],
+    visit_index: row[5],
+    visit_index_over65: row[6],
+    visit_index_under65: row[7],
+    rank: row[8]
+  };
+}
+
+function parseRow(row) {
+  // WARNING hack
+  if (datafilename.includes('raw')) {
+    return parseRawRow(row);
+  }
+  return parseGroupedRow(row);
+}
+
+
 function parsingDone(results, file) {
-//  console.log("Parsing complete:", results, file);
+
   fileData = _.map(results.data.slice(1), function (row) {
-    var county = row[1];
-    var location_type = cleanLocType(row[2]);
-    var date = row[0];
-    counties.push(county);
-    locationTypes.push(location_type);
-    return {location_type: location_type,
-            visit_index: row[3],
-            date: date,
-//            agegroup: row[2],
-//            state: row[3],
-            county: county
-           };
+    var parsed = parseRow(row);
+    counties.push(parsed.county);
+    locationTypes.push(parsed.location_type);
+    return parsed;
   });
 
   counties = _.uniq(counties).sort();
@@ -143,10 +173,10 @@ function parsingDone(results, file) {
     columns:[
       {title:"Location Type", field:"location_type"},
       {title:"% of Usual Visits", field:"visit_index"},
-//      {title:"Age Group", field:"agegroup"},
+      {title:"% Usual, Over 65", field:"visit_index_over65"},
+      {title:"% Usual, Under 65", field:"visit_index_under65"},
       {title:"County", field:"county"},
       {title:"Date", field:"date"},
-//      {title:"State", field:"state"},
     ],
     height:"600px",
     layout:"fitColumns",
@@ -154,7 +184,6 @@ function parsingDone(results, file) {
       {column:"date", dir:"asc"},
       {column:"county", dir:"asc"},
     ],
-//    pagination: "local",
   });
 
   countySel = document.getElementById('county-select');
@@ -163,27 +192,13 @@ function parsingDone(results, file) {
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes);
 
-  // ageGroupSel = document.getElementById('agegroup-select');
-  // option1 = document.createElement("option");
-  // option1.value = "Over 65";
-  // option1.text = "Over 65";
-  // ageGroupSel.add(option1);
-  // option1 = document.createElement("option");
-  // option1.value = "Under 65";
-  // option1.text = "Under 65";
-  // ageGroupSel.add(option1);
-
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
 }
 
-const urlParams = new URLSearchParams(window.location.search);
-var datafilename = urlParams.get('datafilename');
-
 if (!datafilename) {
-  datafilename = 'data/catgroups.csv';
+  datafilename = 'data/grouped.csv';
 } else {
   datafilename = 'data/' + datafilename + '.csv';
 }
 
-// WARNING when using rawcats files, gotta get rid of column 3 you dont need it
 Papa.parse(datafilename, {download: true, complete: parsingDone});
