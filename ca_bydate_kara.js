@@ -178,4 +178,4 @@ function parsingDone(results, file) {
 }
 
 // WARNING when using rawcats files, gotta get rid of column 3 you dont need it
-Papa.parse('catgroups.csv', {download: true, complete: parsingDone});
+Papa.parse('data/catgroups.csv', {download: true, complete: parsingDone});

@@ -181,9 +181,9 @@ const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
 
 if (!datafilename) {
-  datafilename = 'catgroups.csv';
+  datafilename = 'data/catgroups.csv';
 } else {
-  datafilename = datafilename + '.csv';
+  datafilename = 'data/' + datafilename + '.csv';
 }
 
 // WARNING when using rawcats files, gotta get rid of column 3 you dont need it
