@@ -55,7 +55,7 @@ function parsingDone(results, file) {
   counties = _.uniq(counties).sort();
   locationTypes = _.uniq(locationTypes).sort();
 
-  table = new Tabulator("#example-table", {
+  table = new Tabulator("#data-table", {
     data:fileData,
     columns:[
       {title:"Location Type", field:"location_type"},
