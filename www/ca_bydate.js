@@ -173,8 +173,8 @@ function parsingDone(results, file) {
     columns:[
       {title:"Location Type", field:"location_type"},
       {title:"% of Usual Visits", field:"visit_index"},
-      {title:"% Usual, Over 65", field:"visit_index_over65"},
-      {title:"% Usual, Under 65", field:"visit_index_under65"},
+//      {title:"% Usual, Over 65", field:"visit_index_over65"},
+//      {title:"% Usual, Under 65", field:"visit_index_under65"},
       {title:"County", field:"county"},
       {title:"Date", field:"date"},
     ],
