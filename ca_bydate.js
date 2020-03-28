@@ -16,16 +16,20 @@ function fileDataToHighcharts(fileDataToPlot) {
   });
 }
 
+function styleSeries(series) {
+  series.lineWidth = 1;
+  series.marker = {radius: 5};
+  return series;
+}
+
 function seriesToPlot() {
   if (countySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(fileData, { county: countySel.value });
     var results = _.map(locationTypes, function(locationType) {
-      return {
+      return styleSeries({
         name: locationType,
-        lineWidth: 0,
-        marker: { radius: 5 },
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
-      };
+      });
     });
     results = _.filter(results, function(series) {
       return series.data.length > 0;
@@ -35,12 +39,10 @@ function seriesToPlot() {
   if (!countySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value });
     var results = _.map(counties, function(county) {
-      return {
+      return styleSeries({
         name: county,
-        lineWidth: 0,
-        marker: { radius: 5 },
         data: fileDataToHighcharts(_.where(fileDataToPlot, { county: county }))
-      };
+      });
     });
     results = _.filter(results, function(series) {
       return series.data.length > 0;
@@ -49,12 +51,10 @@ function seriesToPlot() {
   }
   if (countySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value, county: countySel.value });
-    return [{
+    return [styleSeries({
       name: locationTypeSel.value + " in " + countySel.value,
-      lineWidth: 0,
-      marker: { radius: 5 },
       data: fileDataToHighcharts(fileDataToPlot)
-    }];
+    })];
   }
 }
 
@@ -177,5 +177,14 @@ function parsingDone(results, file) {
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
 }
 
+const urlParams = new URLSearchParams(window.location.search);
+var datafilename = urlParams.get('datafilename');
+
+if (!datafilename) {
+  datafilename = 'catgroups.csv';
+} else {
+  datafilename = datafilename + '.csv';
+}
+
 // WARNING when using rawcats files, gotta get rid of column 3 you dont need it
-Papa.parse('catgroups.csv', {download: true, complete: parsingDone});
+Papa.parse(datafilename, {download: true, complete: parsingDone});

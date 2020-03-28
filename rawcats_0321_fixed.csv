@@ -1,0 +1,394 @@
+2020-03-21,Alameda County,Grocery Stores,73
+2020-03-21,Alameda County,Shopping Malls,41
+2020-03-21,Alameda County,Parks,60
+2020-03-21,Alameda County,Big Box Stores,70
+2020-03-21,Alameda County,Gas Stations,44
+2020-03-21,Alameda County,Fast Food Restaurants,45
+2020-03-21,Alameda County,Supermarkets,84
+2020-03-21,Alameda County,Pharmacies,60
+2020-03-21,Alameda County,Coffee Shops,32
+2020-03-21,Alameda County,Trails,87
+2020-03-21,Alameda County,Hardware Stores,66
+2020-03-21,Alameda County,Residential Buildings (Apartments / Condos),51
+2020-03-21,Alameda County,Convenience Stores,56
+2020-03-21,Alameda County,Mexican Restaurants,40
+2020-03-21,Alameda County,Warehouse Stores,49
+2020-03-21,Alameda County,Elementary Schools,61
+2020-03-21,Alameda County,Automotive Shops,44
+2020-03-21,Alameda County,Buildings,57
+2020-03-21,Alameda County,Churches,35
+2020-03-21,Alameda County,Other Great Outdoors,76
+2020-03-21,Alameda County,Banks,43
+2020-03-21,Butte County,Grocery Stores,98
+2020-03-21,Butte County,Shopping Plazas,69
+2020-03-21,Butte County,Big Box Stores,76
+2020-03-21,Contra Costa County,Grocery Stores,82
+2020-03-21,Contra Costa County,Parks,76
+2020-03-21,Contra Costa County,Gas Stations,55
+2020-03-21,Contra Costa County,Trails,101
+2020-03-21,Contra Costa County,Big Box Stores,69
+2020-03-21,Contra Costa County,Fast Food Restaurants,48
+2020-03-21,Contra Costa County,Hardware Stores,69
+2020-03-21,Contra Costa County,Supermarkets,70
+2020-03-21,Contra Costa County,Warehouse Stores,63
+2020-03-21,Contra Costa County,Pharmacies,67
+2020-03-21,Contra Costa County,Coffee Shops,41
+2020-03-21,Contra Costa County,Shopping Malls,28
+2020-03-21,Contra Costa County,Convenience Stores,65
+2020-03-21,Contra Costa County,Elementary Schools,62
+2020-03-21,Contra Costa County,Mexican Restaurants,42
+2020-03-21,Contra Costa County,Pizza Places,53
+2020-03-21,Contra Costa County,Automotive Shops,51
+2020-03-21,Contra Costa County,Churches,39
+2020-03-21,El Dorado County,Grocery Stores,65
+2020-03-21,Fresno County,Grocery Stores,83
+2020-03-21,Fresno County,Gas Stations,57
+2020-03-21,Fresno County,Big Box Stores,66
+2020-03-21,Fresno County,Fast Food Restaurants,50
+2020-03-21,Fresno County,Mexican Restaurants,45
+2020-03-21,Fresno County,Hardware Stores,74
+2020-03-21,Fresno County,Pharmacies,75
+2020-03-21,Fresno County,Coffee Shops,48
+2020-03-21,Fresno County,Convenience Stores,62
+2020-03-21,Fresno County,Discount Stores,61
+2020-03-21,Fresno County,Warehouse Stores,60
+2020-03-21,Fresno County,Elementary Schools,59
+2020-03-21,Fresno County,Supermarkets,66
+2020-03-21,Fresno County,Pizza Places,46
+2020-03-21,Fresno County,Parks,56
+2020-03-21,Fresno County,Buildings,63
+2020-03-21,Fresno County,Churches,45
+2020-03-21,Fresno County,Automotive Shops,56
+2020-03-21,Fresno County,Residential Buildings (Apartments / Condos),58
+2020-03-21,Fresno County,Sandwich Places,53
+2020-03-21,Fresno County,Banks,45
+2020-03-21,Fresno County,High Schools,44
+2020-03-21,Fresno County,Hotels,42
+2020-03-21,Imperial County,Gas Stations,52
+2020-03-21,Imperial County,Big Box Stores,57
+2020-03-21,Imperial County,Fast Food Restaurants,44
+2020-03-21,Imperial County,Grocery Stores,98
+2020-03-21,Imperial County,Convenience Stores,79
+2020-03-21,Kern County,Grocery Stores,84
+2020-03-21,Kern County,Gas Stations,63
+2020-03-21,Kern County,Fast Food Restaurants,57
+2020-03-21,Kern County,Big Box Stores,67
+2020-03-21,Kern County,Mexican Restaurants,48
+2020-03-21,Kern County,Pharmacies,85
+2020-03-21,Kern County,Hardware Stores,81
+2020-03-21,Kern County,Parks,64
+2020-03-21,Kern County,Pizza Places,60
+2020-03-21,Kern County,Convenience Stores,49
+2020-03-21,Kern County,Discount Stores,62
+2020-03-21,Kern County,Supermarkets,68
+2020-03-21,Kern County,Automotive Shops,63
+2020-03-21,Kern County,Elementary Schools,59
+2020-03-21,Kern County,Coffee Shops,51
+2020-03-21,Kern County,Churches,45
+2020-03-21,Kern County,Buildings,82
+2020-03-21,Kern County,High Schools,43
+2020-03-21,Kern County,Warehouse Stores,67
+2020-03-21,Kern County,American Restaurants,37
+2020-03-21,Kern County,Hotels,38
+2020-03-21,Kings County,Gas Stations,66
+2020-03-21,Kings County,Grocery Stores,81
+2020-03-21,Kings County,Fast Food Restaurants,53
+2020-03-21,Los Angeles County,Grocery Stores,78
+2020-03-21,Los Angeles County,Fast Food Restaurants,51
+2020-03-21,Los Angeles County,Gas Stations,50
+2020-03-21,Los Angeles County,Parks,61
+2020-03-21,Los Angeles County,Big Box Stores,69
+2020-03-21,Los Angeles County,Supermarkets,69
+2020-03-21,Los Angeles County,Pharmacies,75
+2020-03-21,Los Angeles County,Shopping Malls,26
+2020-03-21,Los Angeles County,Coffee Shops,39
+2020-03-21,Los Angeles County,Mexican Restaurants,41
+2020-03-21,Los Angeles County,Convenience Stores,54
+2020-03-21,Los Angeles County,Hardware Stores,76
+2020-03-21,Los Angeles County,Automotive Shops,58
+2020-03-21,Los Angeles County,Trails,102
+2020-03-21,Los Angeles County,Residential Buildings (Apartments / Condos),50
+2020-03-21,Los Angeles County,Discount Stores,65
+2020-03-21,Los Angeles County,Banks,47
+2020-03-21,Los Angeles County,Warehouse Stores,57
+2020-03-21,Los Angeles County,Churches,40
+2020-03-21,Los Angeles County,Buildings,50
+2020-03-21,Madera County,Gas Stations,59
+2020-03-21,Madera County,Grocery Stores,89
+2020-03-21,Marin County,Trails,138
+2020-03-21,Marin County,Grocery Stores,86
+2020-03-21,Marin County,Parks,94
+2020-03-21,Marin County,National Parks,77
+2020-03-21,Marin County,Beaches,115
+2020-03-21,Merced County,Gas Stations,72
+2020-03-21,Merced County,Big Box Stores,74
+2020-03-21,Merced County,Grocery Stores,63
+2020-03-21,Merced County,Fast Food Restaurants,49
+2020-03-21,Monterey County,Grocery Stores,73
+2020-03-21,Monterey County,Mexican Restaurants,49
+2020-03-21,Monterey County,Gas Stations,45
+2020-03-21,Monterey County,Fast Food Restaurants,45
+2020-03-21,Monterey County,Big Box Stores,58
+2020-03-21,Monterey County,Pharmacies,77
+2020-03-21,Napa County,Grocery Stores,64
+2020-03-21,Nevada County,Grocery Stores,74
+2020-03-21,Orange County,Grocery Stores,81
+2020-03-21,Orange County,Fast Food Restaurants,51
+2020-03-21,Orange County,Parks,73
+2020-03-21,Orange County,Big Box Stores,70
+2020-03-21,Orange County,Shopping Malls,33
+2020-03-21,Orange County,Gas Stations,51
+2020-03-21,Orange County,Supermarkets,74
+2020-03-21,Orange County,Hardware Stores,85
+2020-03-21,Orange County,Coffee Shops,37
+2020-03-21,Orange County,Pharmacies,71
+2020-03-21,Orange County,Mexican Restaurants,40
+2020-03-21,Orange County,Residential Buildings (Apartments / Condos),59
+2020-03-21,Orange County,Beaches,94
+2020-03-21,Orange County,Warehouse Stores,59
+2020-03-21,Orange County,Convenience Stores,54
+2020-03-21,Orange County,Trails,94
+2020-03-21,Orange County,Automotive Shops,57
+2020-03-21,Orange County,Shopping Plazas,31
+2020-03-21,Orange County,Elementary Schools,61
+2020-03-21,Orange County,Banks,47
+2020-03-21,Placer County,Grocery Stores,87
+2020-03-21,Placer County,Big Box Stores,67
+2020-03-21,Placer County,Fast Food Restaurants,57
+2020-03-21,Placer County,Gas Stations,64
+2020-03-21,Placer County,Shopping Plazas,47
+2020-03-21,Placer County,Parks,64
+2020-03-21,Placer County,Hardware Stores,74
+2020-03-21,Placer County,Coffee Shops,41
+2020-03-21,Riverside County,Grocery Stores,84
+2020-03-21,Riverside County,Fast Food Restaurants,51
+2020-03-21,Riverside County,Big Box Stores,71
+2020-03-21,Riverside County,Gas Stations,56
+2020-03-21,Riverside County,Hardware Stores,85
+2020-03-21,Riverside County,Parks,53
+2020-03-21,Riverside County,Mexican Restaurants,40
+2020-03-21,Riverside County,Supermarkets,64
+2020-03-21,Riverside County,Convenience Stores,54
+2020-03-21,Riverside County,Pharmacies,69
+2020-03-21,Riverside County,Coffee Shops,38
+2020-03-21,Riverside County,Automotive Shops,58
+2020-03-21,Riverside County,Warehouse Stores,58
+2020-03-21,Riverside County,Golf Courses,46
+2020-03-21,Riverside County,Elementary Schools,60
+2020-03-21,Riverside County,Discount Stores,52
+2020-03-21,Riverside County,Buildings,59
+2020-03-21,Riverside County,Pizza Places,43
+2020-03-21,Riverside County,Churches,39
+2020-03-21,Riverside County,Banks,46
+2020-03-21,Sacramento County,Grocery Stores,84
+2020-03-21,Sacramento County,Parks,75
+2020-03-21,Sacramento County,Big Box Stores,76
+2020-03-21,Sacramento County,Shopping Plazas,44
+2020-03-21,Sacramento County,Fast Food Restaurants,49
+2020-03-21,Sacramento County,Gas Stations,60
+2020-03-21,Sacramento County,Hardware Stores,81
+2020-03-21,Sacramento County,Pharmacies,78
+2020-03-21,Sacramento County,Coffee Shops,48
+2020-03-21,Sacramento County,Convenience Stores,70
+2020-03-21,Sacramento County,Supermarkets,63
+2020-03-21,Sacramento County,Residential Buildings (Apartments / Condos),72
+2020-03-21,Sacramento County,Warehouse Stores,53
+2020-03-21,Sacramento County,Elementary Schools,75
+2020-03-21,Sacramento County,Automotive Shops,60
+2020-03-21,Sacramento County,Mexican Restaurants,40
+2020-03-21,Sacramento County,Churches,49
+2020-03-21,Sacramento County,Pizza Places,53
+2020-03-21,Sacramento County,Banks,61
+2020-03-21,Sacramento County,Discount Stores,60
+2020-03-21,San Bernardino County,Grocery Stores,87
+2020-03-21,San Bernardino County,Fast Food Restaurants,50
+2020-03-21,San Bernardino County,Gas Stations,60
+2020-03-21,San Bernardino County,Big Box Stores,73
+2020-03-21,San Bernardino County,Hardware Stores,83
+2020-03-21,San Bernardino County,Convenience Stores,59
+2020-03-21,San Bernardino County,Mexican Restaurants,43
+2020-03-21,San Bernardino County,Buildings,73
+2020-03-21,San Bernardino County,Parks,64
+2020-03-21,San Bernardino County,Pharmacies,71
+2020-03-21,San Bernardino County,Discount Stores,63
+2020-03-21,San Bernardino County,Elementary Schools,60
+2020-03-21,San Bernardino County,Automotive Shops,56
+2020-03-21,San Bernardino County,Supermarkets,74
+2020-03-21,San Bernardino County,Shopping Malls,24
+2020-03-21,San Bernardino County,Coffee Shops,42
+2020-03-21,San Bernardino County,Warehouse Stores,54
+2020-03-21,San Bernardino County,Pizza Places,47
+2020-03-21,San Bernardino County,Trails,88
+2020-03-21,San Bernardino County,Churches,41
+2020-03-21,San Bernardino County,Banks,51
+2020-03-21,San Diego County,Grocery Stores,81
+2020-03-21,San Diego County,Parks,61
+2020-03-21,San Diego County,Big Box Stores,73
+2020-03-21,San Diego County,Gas Stations,55
+2020-03-21,San Diego County,Fast Food Restaurants,49
+2020-03-21,San Diego County,Shopping Plazas,55
+2020-03-21,San Diego County,Shopping Malls,30
+2020-03-21,San Diego County,Convenience Stores,61
+2020-03-21,San Diego County,Pharmacies,73
+2020-03-21,San Diego County,Residential Buildings (Apartments / Condos),64
+2020-03-21,San Diego County,Hardware Stores,87
+2020-03-21,San Diego County,Mexican Restaurants,43
+2020-03-21,San Diego County,Coffee Shops,44
+2020-03-21,San Diego County,Beaches,69
+2020-03-21,San Diego County,Supermarkets,73
+2020-03-21,San Diego County,Warehouse Stores,56
+2020-03-21,San Diego County,Trails,96
+2020-03-21,San Diego County,Hotels,25
+2020-03-21,San Diego County,Automotive Shops,57
+2020-03-21,San Diego County,Churches,46
+2020-03-21,San Diego County,Elementary Schools,71
+2020-03-21,San Francisco County,Parks,67
+2020-03-21,San Francisco County,Grocery Stores,66
+2020-03-21,San Francisco County,Coffee Shops,23
+2020-03-21,San Francisco County,Residential Buildings (Apartments / Condos),43
+2020-03-21,San Francisco County,National Parks,59
+2020-03-21,San Francisco County,Beaches,104
+2020-03-21,San Francisco County,Shopping Malls,18
+2020-03-21,San Francisco County,Pharmacies,59
+2020-03-21,San Francisco County,Trails,93
+2020-03-21,San Francisco County,Scenic Lookouts,69
+2020-03-21,San Francisco County,Cafￃﾩs,23
+2020-03-21,San Francisco County,Buildings,24
+2020-03-21,San Francisco County,Hotels,9
+2020-03-21,San Francisco County,Offices,26
+2020-03-21,San Francisco County,Supermarkets,96
+2020-03-21,San Francisco County,Gas Stations,42
+2020-03-21,San Francisco County,Bakeries,21
+2020-03-21,San Francisco County,Playgrounds,50
+2020-03-21,San Joaquin County,Grocery Stores,94
+2020-03-21,San Joaquin County,Big Box Stores,72
+2020-03-21,San Joaquin County,Fast Food Restaurants,50
+2020-03-21,San Joaquin County,Gas Stations,56
+2020-03-21,San Joaquin County,Hardware Stores,95
+2020-03-21,San Joaquin County,Parks,62
+2020-03-21,San Joaquin County,Pharmacies,89
+2020-03-21,San Joaquin County,Coffee Shops,48
+2020-03-21,San Joaquin County,Mexican Restaurants,45
+2020-03-21,San Joaquin County,Convenience Stores,62
+2020-03-21,San Joaquin County,Warehouse Stores,66
+2020-03-21,San Joaquin County,Pizza Places,54
+2020-03-21,San Joaquin County,Supermarkets,67
+2020-03-21,San Joaquin County,Elementary Schools,60
+2020-03-21,San Joaquin County,Automotive Shops,65
+2020-03-21,San Joaquin County,Discount Stores,75
+2020-03-21,San Joaquin County,Buildings,68
+2020-03-21,San Luis Obispo County,Grocery Stores,60
+2020-03-21,San Luis Obispo County,Gas Stations,46
+2020-03-21,San Mateo County,Grocery Stores,67
+2020-03-21,San Mateo County,Shopping Malls,39
+2020-03-21,San Mateo County,Airport Terminals,26
+2020-03-21,San Mateo County,Airports,25
+2020-03-21,San Mateo County,Trails,147
+2020-03-21,San Mateo County,Parks,61
+2020-03-21,San Mateo County,Shopping Plazas,54
+2020-03-21,San Mateo County,Gas Stations,45
+2020-03-21,San Mateo County,Fast Food Restaurants,53
+2020-03-21,San Mateo County,Beaches,132
+2020-03-21,San Mateo County,Supermarkets,87
+2020-03-21,San Mateo County,Big Box Stores,57
+2020-03-21,San Mateo County,Warehouse Stores,47
+2020-03-21,San Mateo County,Coffee Shops,29
+2020-03-21,San Mateo County,State / Provincial Parks,135
+2020-03-21,San Mateo County,Pharmacies,59
+2020-03-21,San Mateo County,Residential Buildings (Apartments / Condos),51
+2020-03-21,San Mateo County,Hardware Stores,61
+2020-03-21,San Mateo County,Airport Gates,26
+2020-03-21,San Mateo County,Parking,33
+2020-03-21,San Mateo County,Offices,49
+2020-03-21,Santa Barbara County,Grocery Stores,69
+2020-03-21,Santa Barbara County,Parks,67
+2020-03-21,Santa Barbara County,Gas Stations,54
+2020-03-21,Santa Barbara County,Beaches,61
+2020-03-21,Santa Barbara County,Fast Food Restaurants,44
+2020-03-21,Santa Clara County,Grocery Stores,64
+2020-03-21,Santa Clara County,Parks,60
+2020-03-21,Santa Clara County,Shopping Malls,23
+2020-03-21,Santa Clara County,Big Box Stores,60
+2020-03-21,Santa Clara County,Fast Food Restaurants,44
+2020-03-21,Santa Clara County,Gas Stations,40
+2020-03-21,Santa Clara County,Residential Buildings (Apartments / Condos),50
+2020-03-21,Santa Clara County,Supermarkets,80
+2020-03-21,Santa Clara County,Pharmacies,66
+2020-03-21,Santa Clara County,Coffee Shops,27
+2020-03-21,Santa Clara County,Warehouse Stores,54
+2020-03-21,Santa Clara County,Hardware Stores,58
+2020-03-21,Santa Clara County,Trails,84
+2020-03-21,Santa Clara County,Offices,38
+2020-03-21,Santa Clara County,Convenience Stores,49
+2020-03-21,Santa Clara County,Mexican Restaurants,33
+2020-03-21,Santa Clara County,Shopping Plazas,38
+2020-03-21,Santa Clara County,Elementary Schools,48
+2020-03-21,Santa Clara County,Pizza Places,41
+2020-03-21,Santa Clara County,Playgrounds,49
+2020-03-21,Santa Clara County,Banks,38
+2020-03-21,Santa Clara County,Churches,29
+2020-03-21,Santa Cruz County,Grocery Stores,68
+2020-03-21,Santa Cruz County,Beaches,49
+2020-03-21,Shasta County,Grocery Stores,103
+2020-03-21,Shasta County,Gas Stations,78
+2020-03-21,Shasta County,Fast Food Restaurants,94
+2020-03-21,Shasta County,Big Box Stores,88
+2020-03-21,Solano County,Grocery Stores,87
+2020-03-21,Solano County,Fast Food Restaurants,50
+2020-03-21,Solano County,Big Box Stores,76
+2020-03-21,Solano County,Gas Stations,47
+2020-03-21,Solano County,Parks,66
+2020-03-21,Solano County,Hardware Stores,71
+2020-03-21,Solano County,Warehouse Stores,64
+2020-03-21,Solano County,Coffee Shops,49
+2020-03-21,Sonoma County,Grocery Stores,68
+2020-03-21,Sonoma County,Parks,89
+2020-03-21,Sonoma County,Gas Stations,59
+2020-03-21,Sonoma County,Fast Food Restaurants,50
+2020-03-21,Sonoma County,Coffee Shops,46
+2020-03-21,Sonoma County,Hardware Stores,69
+2020-03-21,Sonoma County,Big Box Stores,57
+2020-03-21,Stanislaus County,Grocery Stores,99
+2020-03-21,Stanislaus County,Fast Food Restaurants,50
+2020-03-21,Stanislaus County,Big Box Stores,65
+2020-03-21,Stanislaus County,Gas Stations,68
+2020-03-21,Stanislaus County,Parks,72
+2020-03-21,Stanislaus County,Pharmacies,80
+2020-03-21,Stanislaus County,Hardware Stores,88
+2020-03-21,Stanislaus County,Mexican Restaurants,53
+2020-03-21,Stanislaus County,Convenience Stores,58
+2020-03-21,Stanislaus County,Coffee Shops,53
+2020-03-21,Stanislaus County,Discount Stores,66
+2020-03-21,Stanislaus County,Shopping Plazas,55
+2020-03-21,Stanislaus County,Pizza Places,52
+2020-03-21,Tulare County,Gas Stations,75
+2020-03-21,Tulare County,Grocery Stores,104
+2020-03-21,Tulare County,Fast Food Restaurants,59
+2020-03-21,Tulare County,Big Box Stores,62
+2020-03-21,Tulare County,Mexican Restaurants,59
+2020-03-21,Tulare County,Hardware Stores,79
+2020-03-21,Tulare County,Pharmacies,71
+2020-03-21,Tulare County,Discount Stores,71
+2020-03-21,Tulare County,High Schools,60
+2020-03-21,Tuolumne County,Shopping Plazas,56
+2020-03-21,Ventura County,Grocery Stores,85
+2020-03-21,Ventura County,Parks,66
+2020-03-21,Ventura County,Fast Food Restaurants,51
+2020-03-21,Ventura County,Gas Stations,54
+2020-03-21,Ventura County,Big Box Stores,65
+2020-03-21,Ventura County,Supermarkets,84
+2020-03-21,Ventura County,Hardware Stores,76
+2020-03-21,Ventura County,Mexican Restaurants,47
+2020-03-21,Ventura County,Coffee Shops,47
+2020-03-21,Ventura County,Pharmacies,67
+2020-03-21,Ventura County,Beaches,94
+2020-03-21,Ventura County,Shopping Malls,26
+2020-03-21,Ventura County,Trails,104
+2020-03-21,Ventura County,Warehouse Stores,62
+2020-03-21,Ventura County,Convenience Stores,61
+2020-03-21,Ventura County,Discount Stores,63
+2020-03-21,Ventura County,Automotive Shops,56
+2020-03-21,Yolo County,Grocery Stores,69
+2020-03-21,Yolo County,Gas Stations,63
+2020-03-21,Yolo County,Big Box Stores,69
+2020-03-21,Yolo County,Parks,67
