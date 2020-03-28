@@ -39,12 +39,12 @@ function parsingDone(results, file) {
 //  console.log("Parsing complete:", results, file);
   fileData = _.map(results.data.slice(1), function (row) {
     var county = row[1];
-    var location_type = cleanLocType(row[3]);
+    var location_type = cleanLocType(row[2]);
     var date = row[0];
     counties.push(county);
     locationTypes.push(location_type);
     return {location_type: location_type,
-            visit_index: row[4],
+            visit_index: row[3],
             date: date,
 //            agegroup: row[2],
 //            state: row[3],
@@ -92,4 +92,4 @@ function parsingDone(results, file) {
 }
 
 // WARNING when using rawcats files, gotta get rid of column 3 you dont need it
-Papa.parse('catgroups.csv', {download: true, complete: parsingDone});
+Papa.parse('catgroups_0321.csv', {download: true, complete: parsingDone});
