@@ -2,18 +2,20 @@
 {% block main %}
         <div class="my-4 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
         </div>
+
         <select name="county" id="county-select">
           <option value="">---Select a county--</option>
         </select>
-        or
+        and/or
         <select name="venuetype" id="location-type-select">
           <option value="">---Select a venue type--</option>
         </select>
-        <!--
-          <select name="agegroup" id="agegroup-select">
-            <option value="">--Select an age group--</option>
-          </select>
-          -->
+        and show:
+        <select name="agegroup" id="agegroup-select">
+          <option value="all">All ages</option>
+          <option value="under65">Under 65</option>
+          <option value="over65">65 and Over</option>
+        </select>
         <br><br>
 
         <div>
@@ -30,4 +32,5 @@
 
         <!-- TODO get foursquare image to show as footer across the whole bottom of the page, right?  not just the main section? -->
         <a href="https://developer.foursquare.com/"><img src="foursquare.png"></a>
+        <script type="text/javascript" src="ca_bydate.js"></script>
 {% endblock %}

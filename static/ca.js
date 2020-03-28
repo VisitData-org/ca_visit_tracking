@@ -15,9 +15,6 @@ function redoFilter() {
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
-  if (ageGroupSel.value) {
-    table.addFilter("agegroup", "=", ageGroupSel.value);
-  }
 }
 
 function populateSelect(selectElement, stringList) {
@@ -65,9 +62,9 @@ function parsingDone(results, file) {
     data:latestDateOnly,
     columns:[
       {title:"Location Type", field:"location_type"},
-      {title:"% of Usual Visits", field:"visit_index"},
-//      {title:"% Usual, Over 65", field:"visit_index_over65"},
-//      {title:"% Usual, Under 65", field:"visit_index_under65"},
+      {title:"% of Usual Visits", field:"visit_index", visible: true},
+      {title:"% of Usual Visits", field:"visit_index_over65", visible: false},
+      {title:"% of Usual Visits", field:"visit_index_under65", visible: false},
       {title:"County", field:"county"},
     ],
     height:"600px",
@@ -84,6 +81,25 @@ function parsingDone(results, file) {
   populateSelect(locationTypeSel, locationTypes);
 
   _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
+
+  ageGroupSel = document.getElementById('agegroup-select');
+  ageGroupSel.addEventListener('change', function(event) {
+    // hide all 3
+    table.hideColumn("visit_index");
+    table.hideColumn("visit_index_over65");
+    table.hideColumn("visit_index_under65");
+    switch (ageGroupSel.value) {
+    case "all":
+      table.showColumn("visit_index");
+      break;
+    case "under65":
+      table.showColumn("visit_index_under65");
+      break;
+    case "over65":
+      table.showColumn("visit_index_over65");
+      break;
+    }
+  });
 }
 
 Papa.parse('data/grouped.csv', {download: true, complete: parsingDone});
