@@ -25,7 +25,7 @@ function datenum(datestring) {
 // and so on until we have N locationtypes.
 // 
 function locationTypesToChart(fileDataForCounty) {
-  
+
   // sort by rank ascending,
   var sortStepOne = _.sortBy(fileDataForCounty, function(fileDataRow) { return fileDataRow.rank });
   
@@ -164,7 +164,7 @@ function parseGroupedRow(row) {
     visit_index: row[4],
     visit_index_over65: row[5],
     visit_index_under65: row[6],
-    rank: row[7],
+    rank: parseInt(row[7]),
     datenum: datenum(row[0])
   };
 }
@@ -178,7 +178,8 @@ function parseRawRow(row) {
     visit_index: row[5],
     visit_index_over65: row[6],
     visit_index_under65: row[7],
-    rank: row[8]
+    rank: parseInt(row[8]),
+    datenum: datenum(row[0])
   };
 }
 
