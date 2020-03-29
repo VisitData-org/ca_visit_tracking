@@ -13,9 +13,9 @@ var datafilename = urlParams.get('datafilename');
 const MAX_LOCATIONTYPE_LINES = 10;
 
 function datenum(datestring) {
-  var year = parseInt(date.slice(0, 4));
-  var month = parseInt(date.slice(5, 7));
-  var day = parseInt(date.slice(8, 10));
+  var year = parseInt(datestring.slice(0, 4));
+  var month = parseInt(datestring.slice(5, 7));
+  var day = parseInt(datestring.slice(8, 10));
   return year * 10000 + month * 100 + day;
 }
 
