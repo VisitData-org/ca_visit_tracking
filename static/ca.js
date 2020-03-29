@@ -6,6 +6,8 @@ var locationTypeSel;
 var counties = [];
 var locationTypes = [];
 var dateToShow;
+var selectedCounties;
+var selectedVenues;
 
 function findDateToShow(parsedRows) {
   var allDatesSorted = _.uniq(_.pluck(parsedRows, 'date')).sort();
@@ -15,20 +17,22 @@ function findDateToShow(parsedRows) {
 }
 
 function redoFilter() {
-  table.clearFilter();
   if (countySel.value) {
-    table.addFilter("county", "=", countySel.value);
+    window.location = "/counties/" + countySel.value;
   }
   if (locationTypeSel.value) {
-    table.addFilter("location_type", "=", locationTypeSel.value);
+    window.location = "/venues/" + locationTypeSel.value;
   }
 }
 
-function populateSelect(selectElement, stringList) {
+function populateSelect(selectElement, stringList, selected) {
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
     option.value = theString;
     option.text = theString;
+    if (_.contains(selected, option.text)) {
+      option.selected = true;
+    }
     selectElement.add(option);
   });
 }
@@ -84,12 +88,18 @@ function parsingDone(results, file) {
   });
 
   countySel = document.getElementById('county-select');
-  populateSelect(countySel, counties);
+  populateSelect(countySel, counties, selectedCounties);
 
   locationTypeSel = document.getElementById('location-type-select');
-  populateSelect(locationTypeSel, locationTypes);
+  populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
-  _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
+  countySel.addEventListener('change', function() {
+    window.location = "/counties/" + countySel.value;
+  });
+
+  locationTypeSel.addEventListener('change', function() {
+    window.location = "/venues/" + locationTypeSel.value;
+  });
 
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
@@ -111,4 +121,10 @@ function parsingDone(results, file) {
   });
 }
 
-Papa.parse('data/grouped.csv', {download: true, complete: parsingDone});
+function parseSelection() {
+  selectedCounties = _selectedCounties.split(',');
+  selectedVenues = _selectedVenues.split(',');
+}
+
+parseSelection();
+Papa.parse('/data/grouped.csv', {download: true, complete: parsingDone});

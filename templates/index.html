@@ -32,6 +32,10 @@
 
         <!-- TODO get foursquare image to show as footer across the whole bottom of the page, right?  not just the main section? -->
         <a href="https://developer.foursquare.com/"><img src="foursquare.png"></a>
-        
-        <script type="text/javascript" src="ca.js"></script>
+
+	<script type="text/javascript">
+	 var _selectedCounties = {{ counties|tojson }};
+	 var _selectedVenues = {{ venues|tojson }};
+	</script>
+        <script type="text/javascript" src="/ca.js"></script>
 {% endblock %}

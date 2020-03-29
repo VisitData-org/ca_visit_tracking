@@ -12,8 +12,15 @@ def root():
 
 @app.route("/index.html")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", counties="", venues="")
 
+@app.route("/counties/<counties>")
+def bycounties(counties):
+    return render_template("index.html", counties=counties, venues="")
+
+@app.route("/venues/<venues>")
+def byvenues(venues):
+    return render_template("index.html", counties="", venues=venues)
 
 @app.route("/bydate.html")
 def bydate():
