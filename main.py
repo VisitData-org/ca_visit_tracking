@@ -20,6 +20,11 @@ def bydate():
     return render_template("bydate.html")
 
 
+@app.route("/report_tree.html")
+def report_tree():
+    return render_template("report_tree.html")
+
+
 if __name__ == "__main__":
     # This is used when running locally only. When deploying to Google App
     # Engine, a webserver process such as Gunicorn will serve the app. This
