@@ -12,6 +12,29 @@ var datafilename = urlParams.get('datafilename');
 
 const MAX_LOCATIONTYPE_LINES = 10;
 
+function chartTitle() {
+  var result = "";
+  if (countySel.value) {
+    result += countySel.value + ", ";
+  }
+  if (locationTypeSel.value) {
+    result += locationTypeSel.value + ", ";
+  }
+  switch (ageGroupSel.value) {
+  case "all":
+    result += "all ages, ";
+    break;
+  case "under65":
+    result += "under 65 years old, ";
+    break;
+  case "over65":
+    result += "over 65 years old, ";
+    break;
+  }
+  result += " % of Usual Visits";
+  return result;
+}
+
 function datenum(datestring) {
   var year = parseInt(datestring.slice(0, 4));
   var month = parseInt(datestring.slice(5, 7));
@@ -103,7 +126,7 @@ function drawChart() {
     chart: {
       animation: false
     },
-    title: {   text: '% of Usual Visits'  },
+    title: {   text: chartTitle()  },
     xAxis: {
       type: 'datetime',
       dateTimeLabelFormats: {
