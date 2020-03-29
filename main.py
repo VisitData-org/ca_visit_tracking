@@ -1,8 +1,8 @@
 # [START gae_python37_app]
 from flask import Flask, redirect, render_template
 
+
 app = Flask(__name__, static_url_path="", static_folder="static")
-app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
 
 
 @app.route("/")
@@ -23,6 +23,14 @@ def bydate():
 @app.route("/report_tree.html")
 def report_tree():
     return render_template("report_tree.html")
+
+
+def page_not_found(e):
+    return render_template('404.html'), 404
+
+
+app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
+app.register_error_handler(404, page_not_found)
 
 
 if __name__ == "__main__":
