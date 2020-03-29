@@ -17,11 +17,12 @@ function findDateToShow(parsedRows) {
 }
 
 function redoFilter() {
+  table.clearFilter();
   if (countySel.value) {
-    window.location = "/counties/" + countySel.value;
+    table.addFilter("county", "=", countySel.value);    
   }
   if (locationTypeSel.value) {
-    window.location = "/venues/" + locationTypeSel.value;
+    table.addFilter("location_type", "=", locationTypeSel.value);    
   }
 }
 
@@ -92,6 +93,8 @@ function parsingDone(results, file) {
 
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
+
+  redoFilter();
 
   countySel.addEventListener('change', function() {
     window.location = "/counties/" + countySel.value;
