@@ -1,6 +1,6 @@
 
 var table;
-var fileData;  //  globalish variable holding the parsed file data rows
+var fileData;  //  globalish variable holding the parsed file data rows  HACK
 var countySel;
 var ageGroupSel;
 var locationTypeSel;
@@ -17,6 +17,12 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
+}
+
+function withoutLastDay(parsedRows) {
+  var allDatesSorted = _.uniq(_.pluck(parsedRows, 'date')).sort();
+  var lastDate = allDatesSorted.pop(); // the last day is incomplete unfortunately. up to 5pm Pacific time
+  return _.reject(parsedRows, function(parsedRow) { return parsedRow.date == lastDate; } );
 }
 
 function chartTitle() {
@@ -224,15 +230,10 @@ function parseRow(row) {
 
 function parsingDone(results, file) {
 
-  fileData = _.map(results.data.slice(1), function (row) {
-    var parsed = parseRow(row);
-    counties.push(parsed.county);
-    locationTypes.push(parsed.location_type);
-    return parsed;
-  });
-
-  counties = _.uniq(counties).sort();
-  locationTypes = _.uniq(locationTypes).sort();
+  var parsed = _.map(results.data.slice(1), parseRow);  // get rid of header row
+  fileData = withoutLastDay(parsed);
+  counties = _.uniq(_.pluck(fileData, 'county')).sort();
+  locationTypes = _.uniq(_.pluck(fileData, 'location_type')).sort();
 
   table = new Tabulator("#data-table", {
     data:fileData,
