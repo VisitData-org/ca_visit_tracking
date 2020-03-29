@@ -9,8 +9,15 @@ var locationTypes = [];
 
 const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
+var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
 
-const MAX_LOCATIONTYPE_LINES = 10;
+const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
+
+var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+
+if(maxLocationTypeLinesParam) {
+  maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
+}
 
 function chartTitle() {
   var result = "";
@@ -59,7 +66,7 @@ function locationTypesToChart(fileDataForCounty) {
   var locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
   
   // the top N locationtypes are then from the latest date, going back to previous dates if necessary.
-  return locationTypes.slice(0, MAX_LOCATIONTYPE_LINES);
+  return locationTypes.slice(0, maxLocationTypes);
 }
 
 var visitIndexToShow = {
