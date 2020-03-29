@@ -71,9 +71,9 @@ function parsingDone(results, file) {
     data:oneDateOnly,
     columns:[
       {title:"Location Type", field:"location_type"},
-      {title:"% of Usual Visits", field:"visit_index", visible: true},
-      {title:"% of Usual Visits", field:"visit_index_over65", visible: false},
-      {title:"% of Usual Visits", field:"visit_index_under65", visible: false},
+      {title:"Visits %", field:"visit_index", visible: true},
+      {title:"Visits %", field:"visit_index_over65", visible: false},
+      {title:"Visits %", field:"visit_index_under65", visible: false},
       {title:"County", field:"county"},
     ],
     height:"600px",

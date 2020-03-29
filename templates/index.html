@@ -1,7 +1,7 @@
 {% extends "nav.html" %}
 {% block main %}
-      <div class="container-fluid">
-        <h4>Visits on March 23rd</h4>
+      <div class="container-fluid mt-2">
+        <h4 id="table-title"></h4>
         <br/>
 
         <div class="container">
@@ -51,17 +51,7 @@
             </div>
           </div>
         </div>
-
         <br><br>
-
-        <div>
-          <ul>
-            <li>100 = February average number of visits for that day of the week.</li>
-            <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for
-              that Location Type in that County to have usable data.</li>
-            <li>Contact support@visitdata.org with any questions or problems.</li>
-          </ul>
-        </div>
 
         <div id="data-table" class="table-responsive">
         </div>
@@ -70,4 +60,5 @@
         <a href="https://developer.foursquare.com/"><img src="foursquare.png"></a>
 
         <script type="text/javascript" src="ca.js"></script>
+
 {% endblock %}
