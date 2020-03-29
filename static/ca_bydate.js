@@ -1,4 +1,6 @@
+
 var table;
+var fileData;  //  globalish variable holding the parsed file data rows
 var countySel;
 var ageGroupSel;
 var locationTypeSel;
@@ -7,6 +9,35 @@ var locationTypes = [];
 
 const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
+
+const MAX_LOCATIONTYPE_LINES = 10;
+
+function datenum(datestring) {
+  var year = parseInt(date.slice(0, 4));
+  var month = parseInt(date.slice(5, 7));
+  var day = parseInt(date.slice(8, 10));
+  return year * 10000 + month * 100 + day;
+}
+
+// for a given county, which locationtype lines should we show in the chart?
+// let's show the top N locationtype that people were visiting on the most recent date,
+// and if there aren't enough on the most recent date, then use the previous date as well,
+// and so on until we have N locationtypes.
+// 
+function locationTypesToChart(fileDataForCounty) {
+  
+  // sort by rank ascending,
+  var sortStepOne = _.sortBy(fileDataForCounty, function(fileDataRow) { return fileDataRow.rank });
+  
+  // then sort by date descending,
+  var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
+  
+  // then remove duplicates.
+  var locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
+  
+  // the top N locationtypes are then from the latest date, going back to previous dates if necessary.
+  return locationTypes.slice(0, MAX_LOCATIONTYPE_LINES);
+}
 
 var visitIndexToShow = {
   all: 'visit_index',
@@ -33,7 +64,8 @@ function styleSeries(series) {
 function seriesToPlot() {
   if (countySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(fileData, { county: countySel.value });
-    var results = _.map(locationTypes, function(locationType) {
+    var lts = locationTypesToChart(fileDataToPlot);
+    var results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
@@ -132,7 +164,8 @@ function parseGroupedRow(row) {
     visit_index: row[4],
     visit_index_over65: row[5],
     visit_index_under65: row[6],
-    rank: row[7]
+    rank: row[7],
+    datenum: datenum(row[0])
   };
 }
 
