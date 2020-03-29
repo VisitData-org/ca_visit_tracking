@@ -1,29 +1,57 @@
 {% extends "nav.html" %}
 {% block main %}
+        <h4 id="sub-header"></h4>
+        
         <div class="my-4 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
         </div>
 
-        <select name="county" id="county-select">
-          <option value="">---Select a county--</option>
-        </select>
-        and/or
-        <select name="venuetype" id="location-type-select">
-          <option value="">---Select a venue type--</option>
-        </select>
-        and show:
-        <select name="agegroup" id="agegroup-select">
-          <option value="all">All ages</option>
-          <option value="under65">Under 65</option>
-          <option value="over65">65 and Over</option>
-        </select>
-        <br><br>
+        <div class="container">
+          <br/>
+          <h6 style="padding-bottom:10px;">Search By:</h6>
+            <select class="custom-select col-sm" style="max-width:40%;" name="county" id="county-select" data-style="btn-info">
+              <option value="">County</option>
+            </select>
+            <select class="custom-select col-sm" style="max-width:50%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
+              <option value="">Venue Type</option>
+            </select>
+        </div>
 
-        <div>
-          <ul>
-            <li>100 = February average number of visits for that day of the week.</li>
-            <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for
-              that Location Type in that County to have usable data.</li>
-          </ul>
+        <br/>
+        <div class="container mb-5">
+          <h6 style="padding-bottom:10px;">Show:</h6>
+            <select class="custom-select col-sm" style="max-width:40%;" name="agegroup" id="agegroup-select" data-style="btn-info">
+              <option value="all">All Ages</option>
+              <option value="under65">Under 65</option>
+              <option value="over65">65 and Over</option>
+            </select>
+            <button type="button" class="btn btn-info ml-5" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
+              Notes
+            </button>
+        </div>
+
+        <div class="modal modal-sm" style="max-width:75%;" id="notesModal" tabindex="-1" role="dialog">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">Notes</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <ul>
+                  <li>100 = February average number of visits for that day of the week.</li>
+                  <br/>
+                  <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
+                  <br/>
+                  <li>Contact support@visitdata.org with any questions or problems.</li>
+                </ul>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div id="data-table"></div>
