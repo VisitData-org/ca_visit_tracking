@@ -20,6 +20,11 @@ def bydate():
     return render_template("bydate.html")
 
 
+@app.route("/report_tree.html")
+def report_tree():
+    return render_template("report_tree.html")
+
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
