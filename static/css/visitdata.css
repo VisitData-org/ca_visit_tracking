@@ -66,33 +66,10 @@ body {
  * Content
  */
 
-[role="main"] {
-  padding-top: 133px; /* Space for fixed navbar */
-}
-
-@media (min-width: 768px) {
-  [role="main"] {
-    padding-top: 48px; /* Space for fixed navbar */
-  }
-}
 
 /*
  * Navbar
  */
-
-.navbar-brand {
-  padding-top: .75rem;
-  padding-bottom: .75rem;
-  font-size: 1rem;
-  background-color: rgba(0, 0, 0, .25);
-  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
-}
-
-.navbar .form-control {
-  padding: .75rem 1rem;
-  border-width: 0;
-  border-radius: 0;
-}
 
 .form-control-dark {
   color: #fff;
@@ -103,4 +80,42 @@ body {
 .form-control-dark:focus {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+}
+
+.modal-open {
+   max-width:75%;
+ }
+
+ #enforce-landscape { display:block; }
+
+@media only screen and (orientation:portrait){
+  #enforce-landscape {
+   height: 100vw;
+   -webkit-transform: rotate(90deg);
+   -moz-transform: rotate(90deg);
+   -o-transform: rotate(90deg);
+   -ms-transform: rotate(90deg);
+   transform: rotate(90deg);
+  }
+}
+
+@media (min-width: 990px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 989px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
 }

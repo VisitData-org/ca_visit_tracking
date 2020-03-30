@@ -8,6 +8,7 @@
 
     gtag('config', 'UA-162095060-2');
   </script>
+
     <meta charset="utf-8">
 
     <!-- TODO give credit to the bootstrap example theme folks -->
@@ -20,21 +21,15 @@
     <meta name="theme-color" content="#563d7c">
 
     <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-      user-select: none;
-    }
-
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
       }
-    }
-  </style>
+    </style>
     <!-- Custom styles for this template -->
     <link href="/css/visitdata.css" rel="stylesheet">
 
@@ -48,96 +43,32 @@
 <script type="text/javascript" src="/js/lib/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="/js/lib/highcharts.js"></script>
 
-<body>
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="/">Visitdata.org</a>
-    <ul class="navbar-nav px-3">
-        <li class="nav-item text-nowrap">
-            <a class="nav-link" href="/index.html">Latest Date</a>
-        </li>
-        <li class="nav-item text-nowrap">
-            <a class="nav-link" href="/bydate.html">By Date (venue types grouped)</a>
-        </li>
-        <li class="nav-item text-nowrap">
-            <a class="nav-link" href="/bydate.html?datafilename=raw">By Date (all venue types)</a>
-        </li>
-        <li class="nav-item text-nowrap">
-            <a class="nav-link" href="/report_tree.html">Static Reports</a>
-        </li>
-    </ul>
-</nav>
-
-<div class="container-fluid">
-  <div class="row">
-        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
-            <div class="sidebar-sticky">
-                <ul class="nav flex-column mb-2">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/index.html">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                 class="feather feather-file-text">
-                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                                <polyline points="14 2 14 8 20 8"></polyline>
-                                <line x1="16" y1="13" x2="8" y2="13"></line>
-                                <line x1="16" y1="17" x2="8" y2="17"></line>
-                                <polyline points="10 9 9 9 8 9"></polyline>
-                            </svg>
-                            Latest Date
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/bydate.html">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                 class="feather feather-file-text">
-                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                                <polyline points="14 2 14 8 20 8"></polyline>
-                                <line x1="16" y1="13" x2="8" y2="13"></line>
-                                <line x1="16" y1="17" x2="8" y2="17"></line>
-                                <polyline points="10 9 9 9 8 9"></polyline>
-                            </svg>
-                            By Date (venue types grouped)
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/bydate.html?datafilename=raw">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                 class="feather feather-file-text">
-                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                                <polyline points="14 2 14 8 20 8"></polyline>
-                                <line x1="16" y1="13" x2="8" y2="13"></line>
-                                <line x1="16" y1="17" x2="8" y2="17"></line>
-                                <polyline points="10 9 9 9 8 9"></polyline>
-                            </svg>
-                            By Date (all venue types)
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/report_tree.html">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                 class="feather feather-file-text">
-                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                                <polyline points="14 2 14 8 20 8"></polyline>
-                                <line x1="16" y1="13" x2="8" y2="13"></line>
-                                <line x1="16" y1="17" x2="8" y2="17"></line>
-                                <polyline points="10 9 9 9 8 9"></polyline>
-                            </svg>
-                            Static Reports
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-            {% block main %}{% endblock %}
-            <hr>
-            <p>If you need assistance with this website, please email us at <a href="mailto:support@visitdata.org">support@visitdata.org</a> or call/text (917) 757-4440</p>
-        </main>
+<body data-spy="scroll" data-target="#navbarNav" id="enforce-landscape">
+  <nav class="navbar fixed-top navbar-inverse bg-info navbar-expand-lg">
+    <div class="navbar-header">
+      <a class="navbar-brand text-light" href="/index.html">VisitData</a>
     </div>
-</div>
+    <div id="navbarNav">
+      <ul class="navbar-nav flex-row">
+        <li class="nav-item pr-3 active">
+          <a class="nav-link text-light" href="/index.html">Latest Date</a>
+        </li>
+        <li class="nav-item pr-3">
+          <a class="nav-link text-light" href="/bydate.html">Chart/Grouped</a>
+        </li>
+        <li class="nav-item pr-3">
+          <a class="nav-link text-light" href="/bydate.html?datafilename=raw">Chart/All</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="/report_tree.html">Static Reports</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
 
+  <div class="container-fluid">
+      <main role="main">
+        {% block main %}{% endblock %}
+      </main>
+  </div>
 </body>
