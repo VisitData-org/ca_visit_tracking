@@ -98,3 +98,24 @@ body {
    transform: rotate(90deg);
   }
 }
+
+@media (min-width: 990px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 989px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-mobile {
+    padding-top: 75px;
+  }
+}
