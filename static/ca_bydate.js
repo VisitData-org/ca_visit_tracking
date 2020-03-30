@@ -193,7 +193,7 @@ function populateSelect(selectElement, stringList, selected) {
     option.text = theString;
     if (_.contains(selected, option.text)) {
       option.selected = true;
-    }    
+    }
     selectElement.add(option);
   });
 }
@@ -236,8 +236,6 @@ function parseRow(row) {
 
 
 function parsingDone(results, file) {
-  console.log("parsingDone");
-
   var parsed = _.map(results.data.slice(1), parseRow);  // get rid of header row
   fileData = withoutLastDay(parsed);
   counties = _.uniq(_.pluck(fileData, 'county')).sort();
@@ -268,7 +266,6 @@ function parsingDone(results, file) {
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
   ageGroupSel = document.getElementById('agegroup-select');
-  console.log("ageGroupSel", ageGroupSel);
   ageGroupSel.addEventListener('change', function(event) {
     // hide all 3
     table.hideColumn("visit_index");
@@ -295,8 +292,8 @@ function parsingDone(results, file) {
 
   _.each([countySel, locationTypeSel], function(sel) {
     sel.addEventListener('change', function() {
-      county = countySel.value ? countySel.value : ALL
-      venue = locationTypeSel.value ? locationTypeSel.value : ALL;
+      county = countySel.value ? encodeURIComponent(countySel.value) : ALL
+      venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
       window.location = "/bydatesel/" + county + "/" + venue;
     });
   });

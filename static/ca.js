@@ -97,11 +97,11 @@ function parsingDone(results, file) {
   redoFilter();
 
   countySel.addEventListener('change', function() {
-    window.location = "/counties/" + countySel.value;
+    window.location = "/counties/" + encodeURIComponent(countySel.value);
   });
 
   locationTypeSel.addEventListener('change', function() {
-    window.location = "/venues/" + locationTypeSel.value;
+    window.location = "/venues/" + encodeURIComponent(locationTypeSel.value);
   });
 
   ageGroupSel = document.getElementById('agegroup-select');
