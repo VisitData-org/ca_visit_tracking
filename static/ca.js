@@ -5,7 +5,14 @@ var ageGroupSel;
 var locationTypeSel;
 var counties = [];
 var locationTypes = [];
-var dateToShow = '2020-03-23';
+var dateToShow;
+
+function findDateToShow(parsedRows) {
+  var allDatesSorted = _.uniq(_.pluck(parsedRows, 'date')).sort();
+  allDatesSorted.pop(); // the last day is incomplete unfortunately. up to 5pm Pacific time,
+  // and so the data is no good.
+  return allDatesSorted.pop(); // this is the date we have complete data for
+}
 
 function redoFilter() {
   table.clearFilter();
@@ -48,9 +55,11 @@ function parseGroupedRow(row) {
 
 function parsingDone(results, file) {
 
-  var parsed = _.map(results.data, parseGroupedRow);
-  var latestDateOnly = _.where(parsed, { date: dateToShow });
-  _.each(latestDateOnly, function (parsedRow) {
+  var parsed = _.map(results.data.slice(1), parseGroupedRow);
+  dateToShow = findDateToShow(parsed);
+  document.getElementById('table-title').appendChild(document.createTextNode("Visit data for " + dateToShow));
+  var oneDateOnly = _.where(parsed, { date: dateToShow });
+  _.each(oneDateOnly, function (parsedRow) {
     counties.push(parsedRow.county);
     locationTypes.push(parsedRow.location_type);
   });
@@ -59,12 +68,12 @@ function parsingDone(results, file) {
   locationTypes = _.uniq(locationTypes).sort();
 
   table = new Tabulator("#data-table", {
-    data:latestDateOnly,
+    data:oneDateOnly,
     columns:[
       {title:"Location Type", field:"location_type"},
-      {title:"% of Usual Visits", field:"visit_index", visible: true},
-      {title:"% of Usual Visits", field:"visit_index_over65", visible: false},
-      {title:"% of Usual Visits", field:"visit_index_under65", visible: false},
+      {title:"Visits %", field:"visit_index", visible: true},
+      {title:"Visits %", field:"visit_index_over65", visible: false},
+      {title:"Visits %", field:"visit_index_under65", visible: false},
       {title:"County", field:"county"},
     ],
     height:"600px",
