@@ -62,7 +62,7 @@ function parsingDone(results, file) {
 
   var parsed = _.map(results.data.slice(1), parseGroupedRow);
   dateToShow = findDateToShow(parsed);
-  document.getElementById('table-title').appendChild(document.createTextNode("Visit data for " + dateToShow));
+  $('#table-title').text("Visit data for " + dateToShow);
   var oneDateOnly = _.where(parsed, { date: dateToShow });
   _.each(oneDateOnly, function (parsedRow) {
     counties.push(parsedRow.county);
