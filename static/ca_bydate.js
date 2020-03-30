@@ -111,7 +111,7 @@ function seriesToPlot() {
       return series.data.length > 0;
     });
 
-    results.unshift({ name: 'Show/Hide', visible: false });
+    results.unshift({ name: 'Show/Hide All', visible: false });
 
     return results;
   }
@@ -169,7 +169,12 @@ function drawChart() {
       events: {
         legendItemClick: function() {
           if (this.index == 0) {
-            if (this.showHideFlag) {
+            if (this.showHideFlag == undefined) {
+              this.showHideFlag = true
+              this.chart.series.forEach(series => {
+                series.hide()
+              })
+            } else if (this.showHideFlag == true) {
               this.chart.series.forEach(series => {
                 series.hide()
               })
@@ -178,12 +183,12 @@ function drawChart() {
                 series.show()
               })
             }
-            this.showHideFlag = !this.showHideFlag;
+          this.showHideFlag = !this.showHideFlag;
           }
         }
       }
     }
-    },
+  },
     series: {    animation: false   },
     series: seriesToPlot()})
   }
@@ -200,11 +205,10 @@ function redoFilter() {
   table.clearFilter();
   if (countySel.value) {
     table.addFilter("county", "=", countySel.value);
-    setSubHeader = document.getElementById("sub-header").innerHTML = countySel.value;
   }
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
-    setSubHeader = document.getElementById("sub-header").innerHTML = locationTypeSel.value;
+
   }
   if (countySel.value || locationTypeSel.value) {
     drawChart();
@@ -277,8 +281,7 @@ function parsingDone(results, file) {
     height:"600px",
     layout:"fitColumns",
     initialSort:[
-      {column:"date", dir:"asc"},
-      {column:"county", dir:"asc"},
+      {column:"date", dir:"desc"}
     ],
   });
 
@@ -307,6 +310,7 @@ function parsingDone(results, file) {
       table.showColumn("visit_index_over65");
       break;
     }
+
 
     if (countySel.value || locationTypeSel.value) {
       drawChart();
