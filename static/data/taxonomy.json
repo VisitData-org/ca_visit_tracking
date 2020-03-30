@@ -1421,7 +1421,7 @@
     "name": "Food",
     "pluralName": "Food",
     "shortName": "Food",
-    "essential": "false",
+    "essential": "true",
     "icon": {
       "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
       "suffix": ".png"
@@ -5640,7 +5640,7 @@
     "name": "Nightlife Spot",
     "pluralName": "Nightlife Spots",
     "shortName": "Nightlife",
-    "essential": false,
+    "essential": "false",
     "icon": {
       "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/default_",
       "suffix": ".png"
@@ -7255,7 +7255,7 @@
         "name": "Animal Shelter",
         "pluralName": "Animal Shelters",
         "shortName": "Animal Shelter",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/animalshelter_",
           "suffix": ".png"
@@ -7412,7 +7412,7 @@
         "name": "Distribution Center",
         "pluralName": "Distribution Centers",
         "shortName": "Distributor",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
           "suffix": ".png"
@@ -7449,7 +7449,7 @@
         "name": "Factory",
         "pluralName": "Factories",
         "shortName": "Factory",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/factory_",
           "suffix": ".png"
@@ -7473,7 +7473,7 @@
         "name": "Funeral Home",
         "pluralName": "Funeral Homes",
         "shortName": "Funeral Home",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/funeralhome_",
           "suffix": ".png"
@@ -7786,7 +7786,7 @@
             "name": "Mental Health Office",
             "pluralName": "Mental Health Offices",
             "shortName": "Mental Health",
-            "essential": "false",
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/medical_doctorsoffice_",
               "suffix": ".png"
@@ -7846,7 +7846,7 @@
             "name": "Veterinarian",
             "pluralName": "Veterinarians",
             "shortName": "Veterinarians",
-            "essential": "false",
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/medical_veterinarian_",
               "suffix": ".png"
@@ -8017,7 +8017,7 @@
         "name": "Post Office",
         "pluralName": "Post Offices",
         "shortName": "Post Office",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/postoffice_",
           "suffix": ".png"
@@ -8499,7 +8499,7 @@
         "name": "Warehouse",
         "pluralName": "Warehouses",
         "shortName": "Warehouse",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
           "suffix": ".png"
@@ -8549,7 +8549,7 @@
     "name": "Residence",
     "pluralName": "Residences",
     "shortName": "Residence",
-    "essential": null,
+    "essential": "true",
     "icon": {
       "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/home_",
       "suffix": ".png"
@@ -8560,7 +8560,7 @@
         "name": "Assisted Living",
         "pluralName": "Assisted Living",
         "shortName": "Assisted Living",
-        "essential": "true",
+        "essential": null,
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/apartment_",
           "suffix": ".png"
@@ -8622,7 +8622,7 @@
     "name": "Shop & Service",
     "pluralName": "Shops & Services",
     "shortName": "Shops",
-    "essential": null,
+    "essential": "false",
     "icon": {
       "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/default_",
       "suffix": ".png"
@@ -8705,7 +8705,7 @@
         "name": "Auto Garage",
         "pluralName": "Auto Garages",
         "shortName": "Auto Garage",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/automotive_",
           "suffix": ".png"
@@ -8717,7 +8717,7 @@
         "name": "Auto Workshop",
         "pluralName": "Auto Workshops",
         "shortName": "Auto Workshop",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/automotive_",
           "suffix": ".png"
@@ -8729,7 +8729,7 @@
         "name": "Automotive Shop",
         "pluralName": "Automotive Shops",
         "shortName": "Automotive",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/automotive_",
           "suffix": ".png"
@@ -8801,7 +8801,7 @@
         "name": "Big Box Store",
         "pluralName": "Big Box Stores",
         "shortName": "Big Box Store",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/default_",
           "suffix": ".png"
@@ -8921,7 +8921,7 @@
         "name": "Check Cashing Service",
         "pluralName": "Check Cashing Services",
         "shortName": "Check Cashing Service",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
           "suffix": ".png"
@@ -8933,7 +8933,7 @@
         "name": "Child Care Service",
         "pluralName": "Child Care Services",
         "shortName": "Child Care",
-        "essential": "false",
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/daycare_",
           "suffix": ".png"
@@ -9079,7 +9079,7 @@
         "name": "Construction & Landscaping",
         "pluralName": "Construction & Landscaping",
         "shortName": "Construction",
-        "essential": null,
+        "essential": "false",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/realestate_",
           "suffix": ".png"
@@ -9211,7 +9211,7 @@
         "name": "Dry Cleaner",
         "pluralName": "Dry Cleaners",
         "shortName": "Dry Cleaner",
-        "essential": "false",
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/drycleaner_",
           "suffix": ".png"
@@ -9295,7 +9295,7 @@
         "name": "Financial or Legal Service",
         "pluralName": "Financial or Legal Services",
         "shortName": "Financial \/ Legal",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
           "suffix": ".png"
@@ -9390,7 +9390,7 @@
             "name": "Butcher",
             "pluralName": "Butchers",
             "shortName": "Butcher",
-            "essential": "false",
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_butcher_",
               "suffix": ".png"
@@ -9426,7 +9426,7 @@
             "name": "Dairy Store",
             "pluralName": "Dairy Stores",
             "shortName": "Dairy Store",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
               "suffix": ".png"
@@ -9450,7 +9450,7 @@
             "name": "Fish Market",
             "pluralName": "Fish Markets",
             "shortName": "Fish Market",
-            "essential": "false",
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_fishmarket_",
               "suffix": ".png"
@@ -9462,7 +9462,7 @@
             "name": "Food Service",
             "pluralName": "Food Services",
             "shortName": "Food Service",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/foodanddrink_",
               "suffix": ".png"
@@ -9474,7 +9474,7 @@
             "name": "Gourmet Shop",
             "pluralName": "Gourmet Shops",
             "shortName": "Gourmet",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_gourmet_",
               "suffix": ".png"
@@ -9486,7 +9486,7 @@
             "name": "Grocery Store",
             "pluralName": "Grocery Stores",
             "shortName": "Grocery Store",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
               "suffix": ".png"
@@ -9498,7 +9498,7 @@
             "name": "Health Food Store",
             "pluralName": "Health Food Stores",
             "shortName": "Health Food Store",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
               "suffix": ".png"
@@ -9510,7 +9510,7 @@
             "name": "Kuruyemişçi",
             "pluralName": "Kuruyemişçis",
             "shortName": "Kuruyemişçi",
-            "essential": null,
+            "essential": "false",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/foodanddrink_",
               "suffix": ".png"
@@ -9522,7 +9522,7 @@
             "name": "Liquor Store",
             "pluralName": "Liquor Stores",
             "shortName": "Liquor Store",
-            "essential": null,
+            "essential": "false",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_liquor_",
               "suffix": ".png"
@@ -9534,7 +9534,7 @@
             "name": "Organic Grocery",
             "pluralName": "Organic Groceries",
             "shortName": "Organic Grocery",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
               "suffix": ".png"
@@ -9546,7 +9546,7 @@
             "name": "Sausage Shop",
             "pluralName": "Sausage Shops",
             "shortName": "Sausage Shop",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bbqalt_",
               "suffix": ".png"
@@ -9558,7 +9558,7 @@
             "name": "Street Food Gathering",
             "pluralName": "Street Food Gatherings",
             "shortName": "Street Food Gathering",
-            "essential": null,
+            "essential": "false",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/streetfood_",
               "suffix": ".png"
@@ -9570,7 +9570,7 @@
             "name": "Supermarket",
             "pluralName": "Supermarkets",
             "shortName": "Supermarket",
-            "essential": null,
+            "essential": "true",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
               "suffix": ".png"
@@ -9582,7 +9582,7 @@
             "name": "Turşucu",
             "pluralName": "Turşucus",
             "shortName": "Turşucu",
-            "essential": null,
+            "essential": "false",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/foodanddrink_",
               "suffix": ".png"
@@ -9594,7 +9594,7 @@
             "name": "Wine Shop",
             "pluralName": "Wine Shops",
             "shortName": "Wine Shop",
-            "essential": null,
+            "essential": "false",
             "icon": {
               "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_wineshop_",
               "suffix": ".png"
@@ -9717,7 +9717,7 @@
         "name": "Hardware Store",
         "pluralName": "Hardware Stores",
         "shortName": "Hardware",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/hardware_",
           "suffix": ".png"
@@ -9801,7 +9801,7 @@
         "name": "Insurance Office",
         "pluralName": "Insurance Offices",
         "shortName": "Insurance Office",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
           "suffix": ".png"
@@ -9873,7 +9873,7 @@
         "name": "Laundry Service",
         "pluralName": "Laundry Services",
         "shortName": "Laundry",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/laundry_",
           "suffix": ".png"
@@ -9885,7 +9885,7 @@
         "name": "Lawyer",
         "pluralName": "Lawyers",
         "shortName": "Lawyer",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/lawschool_",
           "suffix": ".png"
@@ -9945,7 +9945,7 @@
         "name": "Marijuana Dispensary",
         "pluralName": "Marijuana Dispensaries",
         "shortName": "Dispensary",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/dispensary_",
           "suffix": ".png"
@@ -9957,7 +9957,7 @@
         "name": "Market",
         "pluralName": "Markets",
         "shortName": "Market",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/market_",
           "suffix": ".png"
@@ -9993,7 +9993,7 @@
         "name": "Medical Supply Store",
         "pluralName": "Medical Supply Stores",
         "shortName": "Medical Supply",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/medical_",
           "suffix": ".png"
@@ -10221,7 +10221,7 @@
         "name": "Pet Store",
         "pluralName": "Pet Stores",
         "shortName": "Pet Store",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pet_store_",
           "suffix": ".png"
@@ -10233,7 +10233,7 @@
         "name": "Pharmacy",
         "pluralName": "Pharmacies",
         "shortName": "Pharmacy",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pharmacy_",
           "suffix": ".png"
@@ -10305,7 +10305,7 @@
         "name": "Public Bathroom",
         "pluralName": "Public Bathrooms",
         "shortName": "Public Bathroom",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
           "suffix": ".png"
@@ -10689,7 +10689,7 @@
         "name": "Warehouse Store",
         "pluralName": "Warehouse Stores",
         "shortName": "Warehouse Store",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/default_",
           "suffix": ".png"
