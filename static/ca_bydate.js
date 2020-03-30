@@ -110,6 +110,9 @@ function seriesToPlot() {
     results = _.filter(results, function(series) {
       return series.data.length > 0;
     });
+
+    results.unshift({ name: 'Show/Hide', visible: false });
+
     return results;
   }
   if (!countySel.value && locationTypeSel.value) {
@@ -137,7 +140,12 @@ function seriesToPlot() {
 function drawChart() {
   Highcharts.chart('chartcontainer', {
     chart: {
-      animation: false
+      animation: false,
+      events: {
+        load(){
+          this.showHideFlag = true;
+        }
+      }
     },
     title: {   text: chartTitle()  },
     xAxis: {
@@ -156,10 +164,29 @@ function drawChart() {
         headerFormat: '<b>{series.name}</b><br>',
         pointFormat: '{point.x:%a %b %e}: {point.y}%'
     },
-    plotOptions: {  series: {    animation: false   }   },
-    series: seriesToPlot()
-  });
-}
+    plotOptions: {
+      series: {
+      events: {
+        legendItemClick: function() {
+          if (this.index == 0) {
+            if (this.showHideFlag) {
+              this.chart.series.forEach(series => {
+                series.hide()
+              })
+            } else {
+              this.chart.series.forEach(series => {
+                series.show()
+              })
+            }
+            this.showHideFlag = !this.showHideFlag;
+          }
+        }
+      }
+    }
+    },
+    series: {    animation: false   },
+    series: seriesToPlot()})
+  }
 
 function cleanLocType(string) {
   if (string == "Cafￃﾩs") {
