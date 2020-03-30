@@ -6,6 +6,8 @@ var ageGroupSel;
 var locationTypeSel;
 var counties = [];
 var locationTypes = [];
+var selectedCounties;
+var selectedVenues;
 
 const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
@@ -14,6 +16,8 @@ var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 
 var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+
+const ALL = "ALL";
 
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
@@ -182,11 +186,14 @@ function redoFilter() {
   }
 }
 
-function populateSelect(selectElement, stringList) {
+function populateSelect(selectElement, stringList, selected) {
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
     option.value = theString;
     option.text = theString;
+    if (_.contains(selected, option.text)) {
+      option.selected = true;
+    }
     selectElement.add(option);
   });
 }
@@ -229,7 +236,6 @@ function parseRow(row) {
 
 
 function parsingDone(results, file) {
-
   var parsed = _.map(results.data.slice(1), parseRow);  // get rid of header row
   fileData = withoutLastDay(parsed);
   counties = _.uniq(_.pluck(fileData, 'county')).sort();
@@ -254,12 +260,10 @@ function parsingDone(results, file) {
   });
 
   countySel = document.getElementById('county-select');
-  populateSelect(countySel, counties);
+  populateSelect(countySel, counties, selectedCounties);
 
   locationTypeSel = document.getElementById('location-type-select');
-  populateSelect(locationTypeSel, locationTypes);
-
-  _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
+  populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
@@ -283,12 +287,28 @@ function parsingDone(results, file) {
       drawChart();
     }
   });
+
+  redoFilter();
+
+  _.each([countySel, locationTypeSel], function(sel) {
+    sel.addEventListener('change', function() {
+      county = countySel.value ? encodeURIComponent(countySel.value) : ALL
+      venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
+      window.location = "/bydatesel/" + county + "/" + venue;
+    });
+  });
 }
 
 if (!datafilename) {
-  datafilename = 'data/grouped.csv';
+  datafilename = '/data/grouped.csv';
 } else {
-  datafilename = 'data/' + datafilename + '.csv';
+  datafilename = '/data/' + datafilename + '.csv';
 }
 
+function parseSelection() {
+  selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
+  selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
+}
+
+parseSelection();
 Papa.parse(datafilename, {download: true, complete: parsingDone});
