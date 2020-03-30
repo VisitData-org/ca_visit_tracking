@@ -44,7 +44,7 @@ function chartTitle() {
     result += "over 65 years old, ";
     break;
   }
-  result += " % of Usual Visits";
+  result += "Visits %";
   return result;
 }
 
@@ -59,18 +59,18 @@ function datenum(datestring) {
 // let's show the top N locationtype that people were visiting on the most recent date,
 // and if there aren't enough on the most recent date, then use the previous date as well,
 // and so on until we have N locationtypes.
-// 
+//
 function locationTypesToChart(fileDataForCounty) {
 
   // sort by rank ascending,
   var sortStepOne = _.sortBy(fileDataForCounty, function(fileDataRow) { return fileDataRow.rank });
-  
+
   // then sort by date descending,
   var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
-  
+
   // then remove duplicates.
   var locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
-  
+
   // the top N locationtypes are then from the latest date, going back to previous dates if necessary.
   return locationTypes.slice(0, maxLocationTypes);
 }
@@ -151,7 +151,7 @@ function drawChart() {
         text: 'Date'
       }
     },
-    yAxis: { title: { text: '% of Usual Visits' }, min: 0 },
+    yAxis: { title: { text: 'Visits %' }, min: 0 },
     tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
         pointFormat: '{point.x:%a %b %e}: {point.y}%'
@@ -239,9 +239,9 @@ function parsingDone(results, file) {
     data:fileData,
     columns:[
       {title:"Location Type", field:"location_type"},
-      {title:"% of Usual Visits", field:"visit_index", visible: true},
-      {title:"% of Usual Visits", field:"visit_index_over65", visible: false},
-      {title:"% of Usual Visits", field:"visit_index_under65", visible: false},
+      {title:"Visits %", field:"visit_index", visible: true},
+      {title:"Visits %", field:"visit_index_over65", visible: false},
+      {title:"Visits %", field:"visit_index_under65", visible: false},
       {title:"County", field:"county"},
       {title:"Date", field:"date"},
     ],
