@@ -1,47 +1,45 @@
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162095060-2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162095060-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
     gtag('config', 'UA-162095060-2');
   </script>
 
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 
-    <!-- TODO give credit to the bootstrap example theme folks -->
+  <!-- TODO give credit to the bootstrap example theme folks -->
 
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/tabulator_bootstrap4.min.css" rel="stylesheet">
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/tabulator_bootstrap4.min.css" rel="stylesheet">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="theme-color" content="#563d7c">
+  <meta name="theme-color" content="#563d7c">
 
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-      }
-    </style>
-    <!-- Custom styles for this template -->
-    <link href="/css/visitdata.css" rel="stylesheet">
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+  </style>
+  <!-- Custom styles for this template -->
+  <link href="/css/visitdata.css" rel="stylesheet">
+  </body>
 
-    <title>Location Visit Data</title>
-    <script type="text/javascript" src="js/lib/underscore-min.js"></script>
-    <script type="text/javascript" src="js/lib/tabulator.min.js"></script>
-    <script type="text/javascript" src="js/lib/papaparse.min.js"></script>
-    <script type="text/javascript" src="js/lib/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="js/lib/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="js/lib/highcharts.js"></script>
-
-</head>
+  <script type="text/javascript" src="/js/lib/underscore-min.js"></script>
+  <script type="text/javascript" src="/js/lib/tabulator.min.js"></script>
+  <script type="text/javascript" src="/js/lib/papaparse.min.js"></script>
+  <script type="text/javascript" src="/js/lib/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/js/lib/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="/js/lib/highcharts.js"></script>
 
 <body data-spy="scroll" data-target="#navbarNav" id="enforce-landscape">
   <nav class="navbar fixed-top navbar-inverse bg-info navbar-expand-lg">
@@ -60,15 +58,15 @@
           <a class="nav-link text-light" href="/bydate.html?datafilename=raw">Chart/All</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" target="_blank" href="https://datastudio.google.com/s/n2u7zjB6voE">View in Data Studio</a>
+          <a class="nav-link text-light" href="/report_tree.html">Static Reports</a>
         </li>
       </ul>
     </div>
   </nav>
 
   <div class="container-fluid">
-      <main role="main">
-        {% block main %}{% endblock %}
-      </main>
+    <main role="main">
+      {% block main %}{% endblock %}
+    </main>
   </div>
 </body>
