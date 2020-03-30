@@ -147,6 +147,36 @@ function drawChart() {
         }
       }
     },
+    responsive: {
+    rules: [{
+        condition: {
+            maxWidth: 768
+        },
+        // Make the labels less space demanding on mobile
+        chartOptions: {
+            xAxis: {
+              dateTimeLabelFormats: {
+                day: '%a',
+                week: '%a',
+                month: '%a',
+              },
+              title: {
+                text: ''
+              }
+            },
+            yAxis: {
+                labels: {
+                    align: 'left',
+                    x: 0,
+                    y: -2
+                },
+                title: {
+                    text: ''
+                }
+            }
+        }
+    }]
+},
     title: {   text: chartTitle()  },
     xAxis: {
       type: 'datetime',
