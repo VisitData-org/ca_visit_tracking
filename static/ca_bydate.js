@@ -173,11 +173,9 @@ function redoFilter() {
   table.clearFilter();
   if (countySel.value) {
     table.addFilter("county", "=", countySel.value);
-    setSubHeader = document.getElementById("sub-header").innerHTML = countySel.value;
   }
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
-    setSubHeader = document.getElementById("sub-header").innerHTML = locationTypeSel.value;
   }
   if (countySel.value || locationTypeSel.value) {
     drawChart();
