@@ -114,6 +114,8 @@ function seriesToPlot() {
     results = _.filter(results, function(series) {
       return series.data.length > 0;
     });
+
+    results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
   if (!countySel.value && locationTypeSel.value) {
@@ -127,6 +129,8 @@ function seriesToPlot() {
     results = _.filter(results, function(series) {
       return series.data.length > 0;
     });
+
+    results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
   if (countySel.value && locationTypeSel.value) {
@@ -141,7 +145,12 @@ function seriesToPlot() {
 function drawChart() {
   Highcharts.chart('chartcontainer', {
     chart: {
-      animation: false
+      animation: false,
+      events: {
+        load(){
+          this.showHideFlag = true;
+        }
+      }
     },
     title: {   text: chartTitle()  },
     xAxis: {
@@ -157,10 +166,34 @@ function drawChart() {
     },
     yAxis: { title: { text: 'Visits %' }, min: 0 },
     tooltip: {
-        headerFormat: '<b>{series.name}</b><br>',
-        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+      headerFormat: '<b>{series.name}</b><br>',
+      pointFormat: '{point.x:%a %b %e}: {point.y}%'
     },
-    plotOptions: {  series: {    animation: false   }   },
+    plotOptions: {
+      series: {
+        events: {
+          legendItemClick: function() {
+            if (this.index == 0) {
+              if (this.showHideFlag == undefined) {
+                this.showHideFlag = true
+                this.chart.series.forEach(series => {
+                  series.hide()
+                })
+              } else if (this.showHideFlag == true) {
+                this.chart.series.forEach(series => {
+                  series.hide()
+                })
+              } else {
+                this.chart.series.forEach(series => {
+                  series.show()
+                })
+              }
+              this.showHideFlag = !this.showHideFlag;
+            }
+          }
+        }
+      }
+    },
     series: seriesToPlot()
   });
 }
@@ -254,8 +287,7 @@ function parsingDone(results, file) {
     height:"600px",
     layout:"fitColumns",
     initialSort:[
-      {column:"date", dir:"asc"},
-      {column:"county", dir:"asc"},
+      {column:"date", dir:"desc"}
     ],
   });
 
@@ -283,6 +315,7 @@ function parsingDone(results, file) {
       break;
     }
 
+
     if (countySel.value || locationTypeSel.value) {
       drawChart();
     }
@@ -294,7 +327,11 @@ function parsingDone(results, file) {
     sel.addEventListener('change', function() {
       county = countySel.value ? encodeURIComponent(countySel.value) : ALL
       venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
-      window.location = "/bydatesel/" + county + "/" + venue;
+      windowLocationToSet = "/bydatesel/" + county + "/" + venue;
+      if (urlParams.get('datafilename')) {
+        windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
+      }
+      window.location = windowLocationToSet;
     });
   });
 }
