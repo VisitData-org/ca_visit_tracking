@@ -763,20 +763,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Alameda County,Metro Stations,20,15,20,25
 2020-03-27,California,Alameda County,Colleges & Universities,13,19,13,26
 2020-03-27,California,Alameda County,Sports,40,17,41,27
-2020-03-28,California,Alameda County,Shops & Services,20,17,20,1
-2020-03-28,California,Alameda County,Food,17,20,17,2
-2020-03-28,California,Alameda County,Grocery,43,48,43,3
-2020-03-28,California,Alameda County,Outdoors & Recreation,27,31,27,4
-2020-03-28,California,Alameda County,Gas Stations,26,20,27,5
-2020-03-28,California,Alameda County,Big Box Stores,37,60,37,5
-2020-03-28,California,Alameda County,Professional & Other Places,21,25,21,6
-2020-03-28,California,Alameda County,Fast Food Restaurants,26,24,26,7
-2020-03-28,California,Alameda County,Drug Store,41,60,41,8
-2020-03-28,California,Alameda County,Medical,29,23,29,9
-2020-03-28,California,Alameda County,Hardware Stores,46,36,46,10
-2020-03-28,California,Alameda County,Residences,27,28,27,11
-2020-03-28,California,Alameda County,School,23,20,23,12
-2020-03-28,California,Alameda County,Nightlife Spots,9,18,9,13
 2020-03-07,California,Alpine County,Skiing,122,106,122,1
 2020-03-08,California,Alpine County,Skiing,146,69,148,1
 2020-03-01,California,Amador County,Food,115,90,116,1
@@ -1035,10 +1021,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Butte County,Outdoors & Recreation,65,69,65,3
 2020-03-27,California,Butte County,Grocery,61,60,62,4
 2020-03-27,California,Butte County,Medical,52,35,53,5
-2020-03-28,California,Butte County,Shops & Services,30,31,30,1
-2020-03-28,California,Butte County,Food,30,25,30,2
-2020-03-28,California,Butte County,Grocery,52,60,52,3
-2020-03-28,California,Butte County,Outdoors & Recreation,41,33,41,4
 2020-03-02,California,Calaveras County,Shops & Services,116,107,117,1
 2020-03-04,California,Calaveras County,Shops & Services,107,108,107,1
 2020-03-05,California,Calaveras County,Shops & Services,103,99,103,1
@@ -1703,18 +1685,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Contra Costa County,Nightlife Spots,34,40,33,16
 2020-03-27,California,Contra Costa County,Travel & Transport,23,18,23,17
 2020-03-27,California,Contra Costa County,Banks,38,47,38,18
-2020-03-28,California,Contra Costa County,Food,20,18,20,1
-2020-03-28,California,Contra Costa County,Shops & Services,20,20,20,2
-2020-03-28,California,Contra Costa County,Grocery,47,53,46,3
-2020-03-28,California,Contra Costa County,Outdoors & Recreation,26,30,26,4
-2020-03-28,California,Contra Costa County,Big Box Stores,46,43,46,5
-2020-03-28,California,Contra Costa County,Professional & Other Places,28,23,28,6
-2020-03-28,California,Contra Costa County,Hardware Stores,45,46,45,7
-2020-03-28,California,Contra Costa County,Gas Stations,26,21,26,8
-2020-03-28,California,Contra Costa County,Fast Food Restaurants,26,26,26,9
-2020-03-28,California,Contra Costa County,Drug Store,44,46,44,10
-2020-03-28,California,Contra Costa County,School,21,29,21,11
-2020-03-28,California,Contra Costa County,Residences,32,27,32,12
 2020-03-01,California,El Dorado County,Food,97,95,97,1
 2020-03-01,California,El Dorado County,Outdoors & Recreation,72,51,72,2
 2020-03-01,California,El Dorado County,Grocery,90,70,92,3
@@ -1930,9 +1900,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,El Dorado County,Grocery,69,62,70,3
 2020-03-27,California,El Dorado County,Shops & Services,39,22,40,4
 2020-03-27,California,El Dorado County,Nightlife Spots,48,46,48,5
-2020-03-28,California,El Dorado County,Grocery,45,51,45,1
-2020-03-28,California,El Dorado County,Outdoors & Recreation,25,20,25,2
-2020-03-28,California,El Dorado County,Food,14,12,14,3
 2020-03-01,California,Fresno County,Food,108,111,107,1
 2020-03-01,California,Fresno County,Shops & Services,115,113,115,2
 2020-03-01,California,Fresno County,Grocery,92,77,93,3
@@ -2621,22 +2588,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Fresno County,Hotel,38,27,38,21
 2020-03-27,California,Fresno County,Colleges & Universities,21,20,21,22
 2020-03-27,California,Fresno County,Travel & Transport,39,43,39,23
-2020-03-28,California,Fresno County,Food,25,28,25,1
-2020-03-28,California,Fresno County,Shops & Services,22,24,22,2
-2020-03-28,California,Fresno County,Grocery,45,43,45,3
-2020-03-28,California,Fresno County,Gas Stations,38,37,38,4
-2020-03-28,California,Fresno County,Fast Food Restaurants,36,42,35,5
-2020-03-28,California,Fresno County,Big Box Stores,41,49,41,6
-2020-03-28,California,Fresno County,Outdoors & Recreation,36,26,37,7
-2020-03-28,California,Fresno County,Professional & Other Places,34,29,34,8
-2020-03-28,California,Fresno County,Hardware Stores,63,69,63,9
-2020-03-28,California,Fresno County,School,29,32,29,10
-2020-03-28,California,Fresno County,Drug Store,40,38,40,11
-2020-03-28,California,Fresno County,Discount Stores,40,37,40,12
-2020-03-28,California,Fresno County,Medical,29,31,29,13
-2020-03-28,California,Fresno County,Convenience Store,34,30,34,14
-2020-03-28,California,Fresno County,Nightlife Spots,16,20,16,15
-2020-03-28,California,Fresno County,Spiritual Center,26,37,26,16
 2020-03-02,California,Glenn County,Food,117,105,117,1
 2020-03-03,California,Glenn County,Food,135,153,134,1
 2020-03-05,California,Glenn County,Food,118,121,117,1
@@ -3042,9 +2993,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Imperial County,Big Box Stores,53,34,54,6
 2020-03-27,California,Imperial County,Fast Food Restaurants,40,22,41,7
 2020-03-27,California,Imperial County,Grocery,53,26,55,8
-2020-03-28,California,Imperial County,Outdoors & Recreation,30,14,31,1
-2020-03-28,California,Imperial County,Shops & Services,21,22,21,2
-2020-03-28,California,Imperial County,Food,22,26,22,3
 2020-03-01,California,Inyo County,Outdoors & Recreation,76,64,77,1
 2020-03-01,California,Inyo County,Food,107,94,108,2
 2020-03-02,California,Inyo County,Outdoors & Recreation,99,73,101,1
@@ -3733,21 +3681,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Kern County,Banks,45,43,45,20
 2020-03-27,California,Kern County,Office,45,65,45,21
 2020-03-27,California,Kern County,Government,31,31,31,22
-2020-03-28,California,Kern County,Food,26,20,26,1
-2020-03-28,California,Kern County,Shops & Services,25,28,25,2
-2020-03-28,California,Kern County,Grocery,46,46,46,3
-2020-03-28,California,Kern County,Outdoors & Recreation,40,39,40,4
-2020-03-28,California,Kern County,Gas Stations,37,38,37,5
-2020-03-28,California,Kern County,Fast Food Restaurants,31,37,31,6
-2020-03-28,California,Kern County,Big Box Stores,38,45,38,7
-2020-03-28,California,Kern County,Hardware Stores,67,38,69,8
-2020-03-28,California,Kern County,School,27,20,27,9
-2020-03-28,California,Kern County,Professional & Other Places,31,28,31,10
-2020-03-28,California,Kern County,Travel & Transport,35,29,35,11
-2020-03-28,California,Kern County,Convenience Store,27,22,27,11
-2020-03-28,California,Kern County,Drug Store,36,41,36,12
-2020-03-28,California,Kern County,Arts & Entertainment,24,24,24,13
-2020-03-28,California,Kern County,Medical,31,47,31,14
 2020-03-01,California,Kings County,Food,106,85,106,1
 2020-03-01,California,Kings County,Shops & Services,118,104,119,2
 2020-03-01,California,Kings County,Arts & Entertainment,108,182,107,3
@@ -4016,9 +3949,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Kings County,Outdoors & Recreation,63,59,63,5
 2020-03-27,California,Kings County,Fast Food Restaurants,59,55,59,6
 2020-03-27,California,Kings County,Grocery,76,75,76,7
-2020-03-28,California,Kings County,Shops & Services,34,24,35,1
-2020-03-28,California,Kings County,Food,24,15,25,2
-2020-03-28,California,Kings County,Gas Stations,49,116,47,3
 2020-03-01,California,Lake County,Food,82,98,82,1
 2020-03-02,California,Lake County,Food,92,116,91,1
 2020-03-03,California,Lake County,Food,117,113,117,1
@@ -4901,37 +4831,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Los Angeles County,Beach,55,44,55,29
 2020-03-27,California,Los Angeles County,Bus,37,38,37,30
 2020-03-27,California,Los Angeles County,Light Rail Stations,29,26,29,31
-2020-03-28,California,Los Angeles County,Food,20,20,20,1
-2020-03-28,California,Los Angeles County,Shops & Services,21,22,21,2
-2020-03-28,California,Los Angeles County,Grocery,43,40,43,3
-2020-03-28,California,Los Angeles County,Outdoors & Recreation,29,32,29,4
-2020-03-28,California,Los Angeles County,Fast Food Restaurants,29,30,29,5
-2020-03-28,California,Los Angeles County,Big Box Stores,44,42,44,6
-2020-03-28,California,Los Angeles County,Gas Stations,30,34,30,7
-2020-03-28,California,Los Angeles County,Professional & Other Places,25,27,25,8
-2020-03-28,California,Los Angeles County,Drug Store,41,35,41,9
-2020-03-28,California,Los Angeles County,School,26,32,26,10
-2020-03-28,California,Los Angeles County,Medical,30,31,30,11
-2020-03-28,California,Los Angeles County,Hardware Stores,54,48,54,12
-2020-03-28,California,Los Angeles County,Convenience Store,29,25,29,13
-2020-03-28,California,Los Angeles County,Residences,29,38,29,14
-2020-03-28,California,Los Angeles County,Arts & Entertainment,9,12,9,15
-2020-03-28,California,Los Angeles County,Nightlife Spots,13,18,12,16
-2020-03-28,California,Los Angeles County,Banks,30,24,30,17
-2020-03-28,California,Los Angeles County,Spiritual Center,22,20,22,18
-2020-03-28,California,Los Angeles County,Discount Stores,38,31,38,19
-2020-03-28,California,Los Angeles County,Office,31,33,31,20
-2020-03-28,California,Los Angeles County,Fitness Center,16,16,16,21
-2020-03-28,California,Los Angeles County,Travel & Transport,14,11,14,22
-2020-03-28,California,Los Angeles County,Colleges & Universities,16,22,16,23
-2020-03-28,California,Los Angeles County,Airport,11,6,11,24
-2020-03-28,California,Los Angeles County,Hotel,10,9,10,25
-2020-03-28,California,Los Angeles County,Alcohol,33,33,33,26
-2020-03-28,California,Los Angeles County,Government,27,32,27,27
-2020-03-28,California,Los Angeles County,Sports,18,18,18,28
-2020-03-28,California,Los Angeles County,Beach,23,29,23,29
-2020-03-28,California,Los Angeles County,Bus,26,23,26,30
-2020-03-28,California,Los Angeles County,Light Rail Stations,18,9,18,31
 2020-03-01,California,Madera County,Food,101,94,102,1
 2020-03-01,California,Madera County,Gas Stations,101,79,101,2
 2020-03-01,California,Madera County,Arts & Entertainment,121,124,121,3
@@ -5148,7 +5047,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Madera County,Grocery,83,72,84,3
 2020-03-27,California,Madera County,Outdoors & Recreation,70,58,70,4
 2020-03-27,California,Madera County,Shops & Services,43,34,43,5
-2020-03-28,California,Madera County,Food,31,22,31,1
 2020-03-01,California,Marin County,Outdoors & Recreation,92,108,91,1
 2020-03-01,California,Marin County,Food,96,102,96,2
 2020-03-01,California,Marin County,Shops & Services,121,128,120,3
@@ -5316,10 +5214,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Marin County,Shops & Services,36,39,36,2
 2020-03-27,California,Marin County,Food,28,28,28,3
 2020-03-27,California,Marin County,Grocery,59,64,58,4
-2020-03-28,California,Marin County,Outdoors & Recreation,23,40,22,1
-2020-03-28,California,Marin County,Shops & Services,21,20,21,2
-2020-03-28,California,Marin County,Food,17,19,17,3
-2020-03-28,California,Marin County,Grocery,45,40,46,4
 2020-03-01,California,Mariposa County,Outdoors & Recreation,55,66,55,1
 2020-03-02,California,Mariposa County,Outdoors & Recreation,87,46,88,1
 2020-03-03,California,Mariposa County,Outdoors & Recreation,119,87,120,1
@@ -5762,11 +5656,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Merced County,School,38,40,38,7
 2020-03-27,California,Merced County,Professional & Other Places,53,40,53,7
 2020-03-27,California,Merced County,Big Box Stores,49,28,50,8
-2020-03-28,California,Merced County,Food,25,16,25,1
-2020-03-28,California,Merced County,Shops & Services,24,18,24,2
-2020-03-28,California,Merced County,Grocery,40,38,40,3
-2020-03-28,California,Merced County,Outdoors & Recreation,34,23,35,4
-2020-03-28,California,Merced County,Gas Stations,37,15,37,5
 2020-03-01,California,Mono County,Skiing,93,48,94,1
 2020-03-01,California,Mono County,Food,106,82,107,2
 2020-03-02,California,Mono County,Skiing,135,53,140,1
@@ -6261,12 +6150,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Monterey County,Big Box Stores,67,52,68,11
 2020-03-27,California,Monterey County,Convenience Store,59,78,59,12
 2020-03-27,California,Monterey County,Drug Store,68,34,70,13
-2020-03-28,California,Monterey County,Food,20,17,20,1
-2020-03-28,California,Monterey County,Shops & Services,23,23,22,2
-2020-03-28,California,Monterey County,Outdoors & Recreation,31,47,31,3
-2020-03-28,California,Monterey County,Grocery,42,46,41,4
-2020-03-28,California,Monterey County,Gas Stations,35,37,35,5
-2020-03-28,California,Monterey County,Professional & Other Places,30,29,30,6
 2020-03-01,California,Napa County,Food,101,108,101,1
 2020-03-01,California,Napa County,Professional & Other Places,98,61,99,2
 2020-03-01,California,Napa County,Outdoors & Recreation,93,105,93,3
@@ -7328,34 +7211,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Orange County,Government,30,33,30,27
 2020-03-27,California,Orange County,Alcohol,67,45,68,28
 2020-03-27,California,Orange County,Airport,13,37,12,29
-2020-03-28,California,Orange County,Shops & Services,21,23,21,1
-2020-03-28,California,Orange County,Food,20,19,20,2
-2020-03-28,California,Orange County,Grocery,48,40,48,3
-2020-03-28,California,Orange County,Outdoors & Recreation,38,47,37,4
-2020-03-28,California,Orange County,Fast Food Restaurants,32,31,32,5
-2020-03-28,California,Orange County,Big Box Stores,42,41,42,6
-2020-03-28,California,Orange County,Gas Stations,32,32,32,7
-2020-03-28,California,Orange County,Professional & Other Places,20,26,20,8
-2020-03-28,California,Orange County,Residences,35,47,34,9
-2020-03-28,California,Orange County,Hardware Stores,64,63,64,10
-2020-03-28,California,Orange County,Medical,32,28,32,11
-2020-03-28,California,Orange County,School,28,33,27,12
-2020-03-28,California,Orange County,Drug Store,41,41,40,13
-2020-03-28,California,Orange County,Convenience Store,33,31,33,14
-2020-03-28,California,Orange County,Nightlife Spots,13,18,13,15
-2020-03-28,California,Orange County,Banks,34,49,34,16
-2020-03-28,California,Orange County,Arts & Entertainment,3,5,3,17
-2020-03-28,California,Orange County,Beach,31,34,31,18
-2020-03-28,California,Orange County,Fitness Center,17,16,17,19
-2020-03-28,California,Orange County,Spiritual Center,20,17,20,20
-2020-03-28,California,Orange County,Hotel,6,8,6,21
-2020-03-28,California,Orange County,Office,34,26,34,21
-2020-03-28,California,Orange County,Sports,23,23,23,22
-2020-03-28,California,Orange County,Discount Stores,36,25,36,23
-2020-03-28,California,Orange County,Travel & Transport,14,20,14,24
-2020-03-28,California,Orange County,Colleges & Universities,12,9,12,25
-2020-03-28,California,Orange County,Alcohol,35,17,36,26
-2020-03-28,California,Orange County,Government,26,47,26,27
 2020-03-01,California,Placer County,Shops & Services,102,96,103,1
 2020-03-01,California,Placer County,Food,102,91,103,2
 2020-03-01,California,Placer County,Skiing,116,101,116,3
@@ -7870,14 +7725,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Placer County,Sports,54,52,54,12
 2020-03-27,California,Placer County,Hardware Stores,80,49,81,13
 2020-03-27,California,Placer County,Nightlife Spots,26,32,25,14
-2020-03-28,California,Placer County,Shops & Services,21,18,21,1
-2020-03-28,California,Placer County,Food,18,14,18,2
-2020-03-28,California,Placer County,Grocery,54,47,54,3
-2020-03-28,California,Placer County,Outdoors & Recreation,30,26,31,4
-2020-03-28,California,Placer County,Big Box Stores,56,56,56,5
-2020-03-28,California,Placer County,Fast Food Restaurants,38,32,38,6
-2020-03-28,California,Placer County,Hardware Stores,69,62,69,7
-2020-03-28,California,Placer County,Gas Stations,37,33,37,8
 2020-03-01,California,Riverside County,Food,102,96,102,1
 2020-03-01,California,Riverside County,Shops & Services,105,106,105,2
 2020-03-01,California,Riverside County,Grocery,97,93,97,3
@@ -8624,30 +8471,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Riverside County,Fitness Center,27,20,27,25
 2020-03-27,California,Riverside County,Colleges & Universities,19,21,19,26
 2020-03-27,California,Riverside County,Alcohol,52,46,53,27
-2020-03-28,California,Riverside County,Shops & Services,25,20,25,1
-2020-03-28,California,Riverside County,Food,21,18,21,2
-2020-03-28,California,Riverside County,Grocery,46,41,46,3
-2020-03-28,California,Riverside County,Outdoors & Recreation,31,36,30,4
-2020-03-28,California,Riverside County,Fast Food Restaurants,31,35,31,5
-2020-03-28,California,Riverside County,Big Box Stores,41,38,41,6
-2020-03-28,California,Riverside County,Gas Stations,34,32,34,7
-2020-03-28,California,Riverside County,Hardware Stores,67,50,68,8
-2020-03-28,California,Riverside County,Professional & Other Places,31,25,31,9
-2020-03-28,California,Riverside County,School,28,26,28,10
-2020-03-28,California,Riverside County,Convenience Store,29,29,29,11
-2020-03-28,California,Riverside County,Drug Store,40,36,40,12
-2020-03-28,California,Riverside County,Medical,31,27,31,13
-2020-03-28,California,Riverside County,Sports,23,33,22,14
-2020-03-28,California,Riverside County,Residences,31,35,31,15
-2020-03-28,California,Riverside County,Hotel,15,15,16,16
-2020-03-28,California,Riverside County,Arts & Entertainment,10,9,10,17
-2020-03-28,California,Riverside County,Discount Stores,34,26,34,17
-2020-03-28,California,Riverside County,Nightlife Spots,11,12,11,18
-2020-03-28,California,Riverside County,Banks,33,46,32,19
-2020-03-28,California,Riverside County,Spiritual Center,20,16,20,20
-2020-03-28,California,Riverside County,Travel & Transport,25,24,25,21
-2020-03-28,California,Riverside County,Colleges & Universities,19,19,19,22
-2020-03-28,California,Riverside County,Government,25,21,26,23
 2020-03-01,California,Sacramento County,Shops & Services,111,102,111,1
 2020-03-01,California,Sacramento County,Food,107,100,107,2
 2020-03-01,California,Sacramento County,Grocery,105,101,105,3
@@ -9411,23 +9234,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Sacramento County,Alcohol,63,89,62,26
 2020-03-27,California,Sacramento County,Colleges & Universities,21,25,21,27
 2020-03-27,California,Sacramento County,Airport,13,7,14,28
-2020-03-28,California,Sacramento County,Shops & Services,27,29,27,1
-2020-03-28,California,Sacramento County,Food,22,24,22,2
-2020-03-28,California,Sacramento County,Grocery,52,50,52,3
-2020-03-28,California,Sacramento County,Outdoors & Recreation,32,43,32,4
-2020-03-28,California,Sacramento County,Big Box Stores,51,44,51,5
-2020-03-28,California,Sacramento County,Fast Food Restaurants,31,29,31,6
-2020-03-28,California,Sacramento County,Gas Stations,35,36,35,7
-2020-03-28,California,Sacramento County,Professional & Other Places,29,31,29,8
-2020-03-28,California,Sacramento County,Hardware Stores,51,57,51,9
-2020-03-28,California,Sacramento County,Drug Store,47,43,47,10
-2020-03-28,California,Sacramento County,School,30,36,30,11
-2020-03-28,California,Sacramento County,Medical,38,16,39,12
-2020-03-28,California,Sacramento County,Residences,30,40,30,13
-2020-03-28,California,Sacramento County,Convenience Store,32,35,32,14
-2020-03-28,California,Sacramento County,Spiritual Center,26,21,26,15
-2020-03-28,California,Sacramento County,Nightlife Spots,11,15,11,16
-2020-03-28,California,Sacramento County,Banks,33,39,33,17
 2020-03-01,California,San Benito County,Food,117,104,117,1
 2020-03-01,California,San Benito County,Outdoors & Recreation,98,87,99,2
 2020-03-02,California,San Benito County,Food,100,121,99,1
@@ -10233,33 +10039,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Bernardino County,Fitness Center,24,28,24,25
 2020-03-27,California,San Bernardino County,Airport,28,23,28,26
 2020-03-27,California,San Bernardino County,Alcohol,45,31,46,27
-2020-03-28,California,San Bernardino County,Shops & Services,24,28,24,1
-2020-03-28,California,San Bernardino County,Food,23,25,23,2
-2020-03-28,California,San Bernardino County,Grocery,48,54,48,3
-2020-03-28,California,San Bernardino County,Outdoors & Recreation,33,45,32,4
-2020-03-28,California,San Bernardino County,Fast Food Restaurants,32,28,32,5
-2020-03-28,California,San Bernardino County,Professional & Other Places,43,42,43,6
-2020-03-28,California,San Bernardino County,Gas Stations,36,41,36,7
-2020-03-28,California,San Bernardino County,Big Box Stores,45,34,46,8
-2020-03-28,California,San Bernardino County,Hardware Stores,67,58,67,9
-2020-03-28,California,San Bernardino County,School,25,24,25,10
-2020-03-28,California,San Bernardino County,Convenience Store,32,31,32,11
-2020-03-28,California,San Bernardino County,Drug Store,41,52,40,12
-2020-03-28,California,San Bernardino County,Discount Stores,36,43,35,13
-2020-03-28,California,San Bernardino County,Medical,28,30,28,14
-2020-03-28,California,San Bernardino County,Residences,34,35,34,15
-2020-03-28,California,San Bernardino County,Nightlife Spots,20,22,20,16
-2020-03-28,California,San Bernardino County,Travel & Transport,28,21,29,17
-2020-03-28,California,San Bernardino County,Banks,35,45,35,18
-2020-03-28,California,San Bernardino County,Hotel,24,21,24,19
-2020-03-28,California,San Bernardino County,Arts & Entertainment,12,11,12,20
-2020-03-28,California,San Bernardino County,Spiritual Center,21,20,21,21
-2020-03-28,California,San Bernardino County,Office,49,60,49,22
-2020-03-28,California,San Bernardino County,Government,36,25,36,23
-2020-03-28,California,San Bernardino County,Airport,31,18,32,24
-2020-03-28,California,San Bernardino County,Colleges & Universities,25,22,25,25
-2020-03-28,California,San Bernardino County,Sports,19,24,19,26
-2020-03-28,California,San Bernardino County,Fitness Center,14,22,14,27
 2020-03-01,California,San Diego County,Food,102,99,102,1
 2020-03-01,California,San Diego County,Shops & Services,106,104,106,2
 2020-03-01,California,San Diego County,Outdoors & Recreation,90,92,90,3
@@ -11091,36 +10870,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Diego County,Discount Stores,50,37,51,28
 2020-03-27,California,San Diego County,Light Rail Stations,46,37,46,29
 2020-03-27,California,San Diego County,Airport,14,14,14,30
-2020-03-28,California,San Diego County,Shops & Services,27,26,27,1
-2020-03-28,California,San Diego County,Food,21,23,21,2
-2020-03-28,California,San Diego County,Outdoors & Recreation,33,37,33,3
-2020-03-28,California,San Diego County,Grocery,52,47,52,4
-2020-03-28,California,San Diego County,Professional & Other Places,32,32,32,5
-2020-03-28,California,San Diego County,Big Box Stores,48,38,48,6
-2020-03-28,California,San Diego County,Fast Food Restaurants,32,39,32,7
-2020-03-28,California,San Diego County,Residences,36,43,36,8
-2020-03-28,California,San Diego County,Gas Stations,34,36,34,9
-2020-03-28,California,San Diego County,Hardware Stores,63,49,64,10
-2020-03-28,California,San Diego County,Drug Store,49,42,49,11
-2020-03-28,California,San Diego County,Medical,35,31,35,12
-2020-03-28,California,San Diego County,Convenience Store,33,40,33,13
-2020-03-28,California,San Diego County,School,35,48,35,14
-2020-03-28,California,San Diego County,Nightlife Spots,13,19,13,15
-2020-03-28,California,San Diego County,Arts & Entertainment,8,9,8,16
-2020-03-28,California,San Diego County,Hotel,13,12,13,17
-2020-03-28,California,San Diego County,Travel & Transport,18,15,18,18
-2020-03-28,California,San Diego County,Spiritual Center,28,25,28,19
-2020-03-28,California,San Diego County,Beach,22,30,21,20
-2020-03-28,California,San Diego County,Sports,25,30,25,21
-2020-03-28,California,San Diego County,Government,35,41,34,22
-2020-03-28,California,San Diego County,Banks,40,35,41,23
-2020-03-28,California,San Diego County,Office,40,42,40,24
-2020-03-28,California,San Diego County,Fitness Center,15,18,15,25
-2020-03-28,California,San Diego County,Alcohol,37,52,37,26
-2020-03-28,California,San Diego County,Discount Stores,39,29,39,27
-2020-03-28,California,San Diego County,Colleges & Universities,18,19,18,28
-2020-03-28,California,San Diego County,Airport,10,12,10,29
-2020-03-28,California,San Diego County,Light Rail Stations,27,24,27,30
 2020-03-01,California,San Francisco County,Food,96,108,96,1
 2020-03-01,California,San Francisco County,Shops & Services,97,97,97,2
 2020-03-01,California,San Francisco County,Outdoors & Recreation,93,120,92,3
@@ -11776,16 +11525,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Francisco County,Drug Store,39,41,39,15
 2020-03-27,California,San Francisco County,Government,25,21,25,16
 2020-03-27,California,San Francisco County,Hotel,7,11,7,17
-2020-03-28,California,San Francisco County,Outdoors & Recreation,26,33,25,1
-2020-03-28,California,San Francisco County,Food,11,18,11,2
-2020-03-28,California,San Francisco County,Shops & Services,13,13,13,3
-2020-03-28,California,San Francisco County,Grocery,36,31,36,4
-2020-03-28,California,San Francisco County,Professional & Other Places,13,19,13,5
-2020-03-28,California,San Francisco County,Residences,26,41,25,6
-2020-03-28,California,San Francisco County,Arts & Entertainment,7,8,7,7
-2020-03-28,California,San Francisco County,Nightlife Spots,6,18,6,8
-2020-03-28,California,San Francisco County,Medical,24,8,25,9
-2020-03-28,California,San Francisco County,Travel & Transport,9,4,9,10
 2020-03-01,California,San Joaquin County,Food,104,99,104,1
 2020-03-01,California,San Joaquin County,Shops & Services,116,150,115,2
 2020-03-01,California,San Joaquin County,Grocery,99,119,98,3
@@ -12401,17 +12140,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Joaquin County,Banks,50,37,51,17
 2020-03-27,California,San Joaquin County,Travel & Transport,44,21,45,18
 2020-03-27,California,San Joaquin County,Spiritual Center,48,42,49,19
-2020-03-28,California,San Joaquin County,Food,28,36,28,1
-2020-03-28,California,San Joaquin County,Shops & Services,26,27,26,2
-2020-03-28,California,San Joaquin County,Grocery,56,40,57,3
-2020-03-28,California,San Joaquin County,Professional & Other Places,44,44,44,4
-2020-03-28,California,San Joaquin County,Fast Food Restaurants,35,56,35,5
-2020-03-28,California,San Joaquin County,Outdoors & Recreation,28,22,28,6
-2020-03-28,California,San Joaquin County,Gas Stations,36,32,36,7
-2020-03-28,California,San Joaquin County,Big Box Stores,40,25,41,8
-2020-03-28,California,San Joaquin County,Hardware Stores,65,85,64,9
-2020-03-28,California,San Joaquin County,Drug Store,66,55,66,10
-2020-03-28,California,San Joaquin County,School,26,36,26,11
 2020-03-01,California,San Luis Obispo County,Food,95,89,96,1
 2020-03-01,California,San Luis Obispo County,Outdoors & Recreation,70,65,70,2
 2020-03-01,California,San Luis Obispo County,Shops & Services,97,95,97,3
@@ -12713,10 +12441,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Luis Obispo County,Grocery,60,40,61,3
 2020-03-27,California,San Luis Obispo County,Professional & Other Places,39,51,38,4
 2020-03-27,California,San Luis Obispo County,Gas Stations,42,35,43,5
-2020-03-28,California,San Luis Obispo County,Outdoors & Recreation,33,39,32,1
-2020-03-28,California,San Luis Obispo County,Food,16,22,16,2
-2020-03-28,California,San Luis Obispo County,Shops & Services,24,23,24,3
-2020-03-28,California,San Luis Obispo County,Grocery,41,49,40,4
 2020-03-01,California,San Mateo County,Airport,93,71,93,1
 2020-03-01,California,San Mateo County,Shops & Services,102,100,102,2
 2020-03-01,California,San Mateo County,Food,97,91,97,3
@@ -13319,14 +13043,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,San Mateo County,Big Box Stores,70,44,71,13
 2020-03-27,California,San Mateo County,Drug Store,50,51,50,14
 2020-03-27,California,San Mateo County,Travel & Transport,16,9,16,15
-2020-03-28,California,San Mateo County,Shops & Services,23,20,23,1
-2020-03-28,California,San Mateo County,Food,15,18,15,2
-2020-03-28,California,San Mateo County,Grocery,42,37,42,3
-2020-03-28,California,San Mateo County,Outdoors & Recreation,23,29,23,4
-2020-03-28,California,San Mateo County,Airport,8,6,8,5
-2020-03-28,California,San Mateo County,Professional & Other Places,20,18,20,6
-2020-03-28,California,San Mateo County,Gas Stations,25,24,25,7
-2020-03-28,California,San Mateo County,Big Box Stores,44,35,44,8
 2020-03-01,California,Santa Barbara County,Food,102,94,103,1
 2020-03-01,California,Santa Barbara County,Shops & Services,108,96,108,2
 2020-03-01,California,Santa Barbara County,Outdoors & Recreation,82,80,82,3
@@ -13762,11 +13478,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Santa Barbara County,Hotel,28,28,28,8
 2020-03-27,California,Santa Barbara County,Medical,41,38,41,9
 2020-03-27,California,Santa Barbara County,Beach,58,60,58,10
-2020-03-28,California,Santa Barbara County,Food,18,18,18,1
-2020-03-28,California,Santa Barbara County,Outdoors & Recreation,39,40,39,2
-2020-03-28,California,Santa Barbara County,Shops & Services,23,24,23,3
-2020-03-28,California,Santa Barbara County,Grocery,38,33,39,4
-2020-03-28,California,Santa Barbara County,Professional & Other Places,29,17,29,5
 2020-03-01,California,Santa Clara County,Food,101,96,101,1
 2020-03-01,California,Santa Clara County,Shops & Services,102,106,102,2
 2020-03-01,California,Santa Clara County,Outdoors & Recreation,100,97,100,3
@@ -14504,24 +14215,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Santa Clara County,Hotel,18,22,18,24
 2020-03-27,California,Santa Clara County,Airport,10,8,10,25
 2020-03-27,California,Santa Clara County,Government,27,27,27,26
-2020-03-28,California,Santa Clara County,Shops & Services,17,17,17,1
-2020-03-28,California,Santa Clara County,Food,16,17,16,2
-2020-03-28,California,Santa Clara County,Grocery,40,41,40,3
-2020-03-28,California,Santa Clara County,Outdoors & Recreation,24,33,24,4
-2020-03-28,California,Santa Clara County,Big Box Stores,38,36,38,5
-2020-03-28,California,Santa Clara County,Professional & Other Places,18,20,18,6
-2020-03-28,California,Santa Clara County,Residences,24,33,24,7
-2020-03-28,California,Santa Clara County,Fast Food Restaurants,24,23,24,8
-2020-03-28,California,Santa Clara County,Gas Stations,21,29,21,9
-2020-03-28,California,Santa Clara County,Drug Store,37,46,37,10
-2020-03-28,California,Santa Clara County,Hardware Stores,40,38,40,10
-2020-03-28,California,Santa Clara County,School,19,28,19,10
-2020-03-28,California,Santa Clara County,Medical,23,21,23,11
-2020-03-28,California,Santa Clara County,Office,19,19,19,12
-2020-03-28,California,Santa Clara County,Convenience Store,25,33,25,13
-2020-03-28,California,Santa Clara County,Fitness Center,11,12,11,14
-2020-03-28,California,Santa Clara County,Banks,29,33,29,15
-2020-03-28,California,Santa Clara County,Spiritual Center,17,12,17,16
 2020-03-01,California,Santa Cruz County,Food,107,91,107,1
 2020-03-01,California,Santa Cruz County,Outdoors & Recreation,95,95,95,2
 2020-03-01,California,Santa Cruz County,Shops & Services,111,98,111,3
@@ -14751,10 +14444,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Santa Cruz County,Shops & Services,39,35,39,3
 2020-03-27,California,Santa Cruz County,Grocery,52,48,52,4
 2020-03-27,California,Santa Cruz County,Beach,72,78,72,5
-2020-03-28,California,Santa Cruz County,Food,15,11,15,1
-2020-03-28,California,Santa Cruz County,Outdoors & Recreation,21,30,21,2
-2020-03-28,California,Santa Cruz County,Shops & Services,22,16,23,3
-2020-03-28,California,Santa Cruz County,Grocery,45,52,45,4
 2020-03-01,California,Shasta County,Food,104,114,103,1
 2020-03-01,California,Shasta County,Shops & Services,128,125,128,2
 2020-03-01,California,Shasta County,Grocery,107,91,109,3
@@ -14960,9 +14649,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Shasta County,Outdoors & Recreation,66,54,67,4
 2020-03-27,California,Shasta County,Gas Stations,55,56,55,5
 2020-03-27,California,Shasta County,Fast Food Restaurants,69,75,69,6
-2020-03-28,California,Shasta County,Food,27,23,28,1
-2020-03-28,California,Shasta County,Shops & Services,28,32,28,2
-2020-03-28,California,Shasta County,Grocery,55,56,55,3
 2020-03-03,California,Siskiyou County,Gas Stations,122,124,122,1
 2020-03-04,California,Siskiyou County,Food,127,82,131,1
 2020-03-05,California,Siskiyou County,Food,113,93,115,1
@@ -15412,13 +15098,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Solano County,Convenience Store,65,58,65,10
 2020-03-27,California,Solano County,School,31,39,30,10
 2020-03-27,California,Solano County,Hardware Stores,70,39,72,11
-2020-03-28,California,Solano County,Food,27,27,27,1
-2020-03-28,California,Solano County,Shops & Services,23,24,23,2
-2020-03-28,California,Solano County,Grocery,55,55,55,3
-2020-03-28,California,Solano County,Outdoors & Recreation,32,39,32,4
-2020-03-28,California,Solano County,Big Box Stores,56,54,57,5
-2020-03-28,California,Solano County,Fast Food Restaurants,31,29,31,5
-2020-03-28,California,Solano County,Gas Stations,31,26,32,6
 2020-03-01,California,Sonoma County,Food,96,80,97,1
 2020-03-01,California,Sonoma County,Shops & Services,94,90,94,2
 2020-03-01,California,Sonoma County,Outdoors & Recreation,87,109,85,3
@@ -15802,10 +15481,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Sonoma County,Gas Stations,43,27,43,7
 2020-03-27,California,Sonoma County,Fast Food Restaurants,57,27,58,8
 2020-03-27,California,Sonoma County,Hardware Stores,77,76,77,9
-2020-03-28,California,Sonoma County,Food,19,20,19,1
-2020-03-28,California,Sonoma County,Shops & Services,23,23,23,2
-2020-03-28,California,Sonoma County,Grocery,41,34,41,3
-2020-03-28,California,Sonoma County,Outdoors & Recreation,25,23,25,4
 2020-03-01,California,Stanislaus County,Food,106,93,106,1
 2020-03-01,California,Stanislaus County,Shops & Services,118,115,118,2
 2020-03-01,California,Stanislaus County,Grocery,96,102,95,3
@@ -16368,16 +16043,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Stanislaus County,Hardware Stores,89,75,90,14
 2020-03-27,California,Stanislaus County,Discount Stores,61,36,61,15
 2020-03-27,California,Stanislaus County,Arts & Entertainment,40,50,40,16
-2020-03-28,California,Stanislaus County,Food,24,28,24,1
-2020-03-28,California,Stanislaus County,Shops & Services,28,32,28,2
-2020-03-28,California,Stanislaus County,Grocery,55,47,55,3
-2020-03-28,California,Stanislaus County,Outdoors & Recreation,37,40,36,4
-2020-03-28,California,Stanislaus County,Big Box Stores,44,37,44,5
-2020-03-28,California,Stanislaus County,Fast Food Restaurants,30,36,30,6
-2020-03-28,California,Stanislaus County,Gas Stations,43,48,43,7
-2020-03-28,California,Stanislaus County,Hardware Stores,71,64,71,8
-2020-03-28,California,Stanislaus County,Professional & Other Places,42,32,42,9
-2020-03-28,California,Stanislaus County,Drug Store,46,39,46,10
 2020-03-01,California,Sutter County,Food,108,88,109,1
 2020-03-01,California,Sutter County,Shops & Services,96,85,96,2
 2020-03-01,California,Sutter County,Big Box Stores,108,71,109,3
@@ -17029,16 +16694,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Tulare County,Discount Stores,54,48,54,15
 2020-03-27,California,Tulare County,Spiritual Center,58,41,58,16
 2020-03-27,California,Tulare County,Convenience Store,63,79,63,16
-2020-03-28,California,Tulare County,Food,29,24,29,1
-2020-03-28,California,Tulare County,Grocery,58,47,59,2
-2020-03-28,California,Tulare County,Gas Stations,43,31,43,3
-2020-03-28,California,Tulare County,Shops & Services,24,24,24,4
-2020-03-28,California,Tulare County,Outdoors & Recreation,41,33,41,5
-2020-03-28,California,Tulare County,Big Box Stores,42,30,42,6
-2020-03-28,California,Tulare County,Fast Food Restaurants,36,37,35,7
-2020-03-28,California,Tulare County,School,32,36,32,8
-2020-03-28,California,Tulare County,Hardware Stores,69,36,70,9
-2020-03-28,California,Tulare County,Professional & Other Places,39,50,39,10
 2020-03-01,California,Tuolumne County,Shops & Services,102,66,105,1
 2020-03-01,California,Tuolumne County,Food,92,63,94,2
 2020-03-01,California,Tuolumne County,Outdoors & Recreation,92,54,95,3
@@ -17110,7 +16765,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Tuolumne County,Shops & Services,57,73,56,1
 2020-03-27,California,Tuolumne County,Outdoors & Recreation,72,85,71,2
 2020-03-27,California,Tuolumne County,Food,46,58,45,3
-2020-03-28,California,Tuolumne County,Shops & Services,42,39,43,1
 2020-03-01,California,Ventura County,Food,104,95,105,1
 2020-03-01,California,Ventura County,Shops & Services,110,104,110,2
 2020-03-01,California,Ventura County,Grocery,100,90,101,3
@@ -17769,17 +17423,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Ventura County,Banks,53,60,52,18
 2020-03-27,California,Ventura County,Spiritual Center,48,54,48,19
 2020-03-27,California,Ventura County,Sports,48,49,48,20
-2020-03-28,California,Ventura County,Food,25,23,25,1
-2020-03-28,California,Ventura County,Shops & Services,23,22,23,2
-2020-03-28,California,Ventura County,Outdoors & Recreation,44,42,44,3
-2020-03-28,California,Ventura County,Grocery,47,35,47,4
-2020-03-28,California,Ventura County,Fast Food Restaurants,33,34,33,5
-2020-03-28,California,Ventura County,Big Box Stores,47,41,47,6
-2020-03-28,California,Ventura County,Professional & Other Places,37,30,37,7
-2020-03-28,California,Ventura County,Gas Stations,33,33,33,8
-2020-03-28,California,Ventura County,Hardware Stores,55,47,56,9
-2020-03-28,California,Ventura County,School,28,39,28,10
-2020-03-28,California,Ventura County,Drug Store,46,51,46,11
 2020-03-01,California,Yolo County,Shops & Services,110,125,109,1
 2020-03-01,California,Yolo County,Food,99,93,100,2
 2020-03-01,California,Yolo County,Outdoors & Recreation,87,47,89,3
@@ -18072,10 +17715,6 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-27,California,Yolo County,Grocery,61,55,61,5
 2020-03-27,California,Yolo County,Gas Stations,59,43,59,6
 2020-03-27,California,Yolo County,Big Box Stores,79,51,79,7
-2020-03-28,California,Yolo County,Shops & Services,33,28,33,1
-2020-03-28,California,Yolo County,Food,23,27,23,2
-2020-03-28,California,Yolo County,Grocery,43,44,43,3
-2020-03-28,California,Yolo County,Outdoors & Recreation,35,41,34,4
 2020-03-01,California,Yuba County,Food,114,100,114,1
 2020-03-02,California,Yuba County,Food,111,99,111,1
 2020-03-02,California,Yuba County,Gas Stations,119,109,119,2
@@ -18117,3 +17756,1808 @@ date,state,county,category,visitIndex,visitsAbove65Index,visitsBelow65Index,rank
 2020-03-25,California,Yuba County,Food,55,56,55,1
 2020-03-26,California,Yuba County,Food,57,42,57,1
 2020-03-27,California,Yuba County,Food,49,58,49,1
+2020-03-28,California,Madera County,Shops & Services,58.0,49.0,59.0,1
+2020-03-28,California,Madera County,Food,47.0,34.0,48.0,2
+2020-03-28,California,Madera County,Professional & Other Places,59.0,"",59.0,3
+2020-03-28,California,Madera County,Outdoors & Recreation,75.0,59.0,76.0,4
+2020-03-28,California,Madera County,Gas Stations,51.0,"",52.0,5
+2020-03-28,California,Madera County,Grocery,84.0,"",84.0,6
+2020-03-28,California,Madera County,School,54.0,"",55.0,7
+2020-03-28,California,Madera County,Arts & Entertainment,40.0,"",41.0,8
+2020-03-28,California,Madera County,Fast Food Restaurants,58.0,"",58.0,9
+2020-03-28,California,Madera County,Medical,52.0,"",52.0,10
+2020-03-28,California,Yolo County,Shops & Services,53.0,38.0,54.0,1
+2020-03-28,California,Yolo County,Food,37.0,35.0,37.0,2
+2020-03-28,California,Yolo County,Outdoors & Recreation,46.0,44.0,47.0,3
+2020-03-28,California,Yolo County,Professional & Other Places,43.0,"",44.0,4
+2020-03-28,California,Yolo County,Grocery,64.0,"",65.0,5
+2020-03-28,California,Yolo County,Big Box Stores,75.0,"",76.0,6
+2020-03-28,California,Yolo County,Gas Stations,57.0,"",57.0,7
+2020-03-28,California,Yolo County,Nightlife Spots,34.0,"",34.0,8
+2020-03-28,California,Alameda County,Shops & Services,42.0,39.0,42.0,1
+2020-03-28,California,Alameda County,Food,30.0,30.0,30.0,2
+2020-03-28,California,Alameda County,Outdoors & Recreation,44.0,43.0,44.0,3
+2020-03-28,California,Alameda County,Professional & Other Places,36.0,28.0,36.0,4
+2020-03-28,California,Alameda County,Grocery,68.0,61.0,68.0,5
+2020-03-28,California,Alameda County,Travel & Transport,23.0,20.0,23.0,6
+2020-03-28,California,Alameda County,Medical,45.0,35.0,45.0,7
+2020-03-28,California,Alameda County,School,36.0,26.0,36.0,8
+2020-03-28,California,Alameda County,Residences,49.0,53.0,49.0,9
+2020-03-28,California,Alameda County,Nightlife Spots,18.0,27.0,18.0,10
+2020-03-28,California,Alameda County,Arts & Entertainment,17.0,"",17.0,11
+2020-03-28,California,Alameda County,Big Box Stores,62.0,69.0,62.0,12
+2020-03-28,California,Alameda County,Gas Stations,40.0,"",40.0,13
+2020-03-28,California,Alameda County,Fast Food Restaurants,44.0,"",44.0,14
+2020-03-28,California,Alameda County,Sports,24.0,33.0,23.0,15
+2020-03-28,California,Alameda County,Drug Store,61.0,72.0,60.0,16
+2020-03-28,California,Alameda County,Hardware Stores,65.0,"",66.0,17
+2020-03-28,California,Alameda County,Fitness Center,19.0,"",19.0,18
+2020-03-28,California,Alameda County,Colleges & Universities,16.0,"",16.0,19
+2020-03-28,California,Alameda County,Airport,18.0,"",17.0,20
+2020-03-28,California,Alameda County,Convenience Store,43.0,"",43.0,21
+2020-03-28,California,Alameda County,Office,39.0,"",39.0,22
+2020-03-28,California,Alameda County,Spiritual Center,31.0,"",32.0,23
+2020-03-28,California,Alameda County,Alcohol,51.0,"",51.0,24
+2020-03-28,California,Alameda County,Government,49.0,"",50.0,25
+2020-03-28,California,Alameda County,Banks,39.0,"",39.0,26
+2020-03-28,California,Alameda County,Hotel,26.0,"",26.0,27
+2020-03-28,California,Fresno County,Shops & Services,52.0,43.0,52.0,1
+2020-03-28,California,Fresno County,Food,45.0,40.0,45.0,2
+2020-03-28,California,Fresno County,Professional & Other Places,54.0,43.0,54.0,3
+2020-03-28,California,Fresno County,Outdoors & Recreation,57.0,48.0,58.0,4
+2020-03-28,California,Fresno County,Grocery,72.0,53.0,73.0,5
+2020-03-28,California,Fresno County,School,50.0,40.0,50.0,6
+2020-03-28,California,Fresno County,Gas Stations,61.0,50.0,61.0,7
+2020-03-28,California,Fresno County,Fast Food Restaurants,55.0,45.0,55.0,8
+2020-03-28,California,Fresno County,Nightlife Spots,32.0,24.0,33.0,9
+2020-03-28,California,Fresno County,Big Box Stores,65.0,59.0,65.0,10
+2020-03-28,California,Fresno County,Medical,45.0,43.0,45.0,11
+2020-03-28,California,Fresno County,Residences,61.0,55.0,61.0,12
+2020-03-28,California,Fresno County,Travel & Transport,36.0,"",36.0,13
+2020-03-28,California,Fresno County,Arts & Entertainment,25.0,"",25.0,14
+2020-03-28,California,Fresno County,Hardware Stores,87.0,86.0,87.0,15
+2020-03-28,California,Fresno County,Drug Store,62.0,"",62.0,16
+2020-03-28,California,Fresno County,Convenience Store,60.0,"",60.0,17
+2020-03-28,California,Fresno County,Discount Stores,61.0,"",62.0,18
+2020-03-28,California,Fresno County,Spiritual Center,53.0,"",53.0,19
+2020-03-28,California,Fresno County,Sports,41.0,"",41.0,20
+2020-03-28,California,Fresno County,Colleges & Universities,23.0,"",23.0,21
+2020-03-28,California,Fresno County,Hotel,42.0,"",42.0,22
+2020-03-28,California,Fresno County,Government,55.0,"",55.0,23
+2020-03-28,California,Fresno County,Banks,40.0,"",41.0,24
+2020-03-28,California,Fresno County,Office,50.0,"",51.0,25
+2020-03-28,California,Nevada County,Shops & Services,55.0,49.0,55.0,1
+2020-03-28,California,Nevada County,Outdoors & Recreation,40.0,39.0,40.0,2
+2020-03-28,California,Nevada County,Food,30.0,44.0,29.0,3
+2020-03-28,California,Nevada County,Professional & Other Places,49.0,"",50.0,4
+2020-03-28,California,Glenn County,Shops & Services,64.0,"",64.0,1
+2020-03-28,California,Glenn County,Food,56.0,"",57.0,2
+2020-03-28,California,San Mateo County,Shops & Services,43.0,37.0,44.0,1
+2020-03-28,California,San Mateo County,Food,26.0,24.0,26.0,2
+2020-03-28,California,San Mateo County,Outdoors & Recreation,41.0,37.0,41.0,3
+2020-03-28,California,San Mateo County,Professional & Other Places,31.0,26.0,31.0,4
+2020-03-28,California,San Mateo County,Airport,12.0,8.0,12.0,5
+2020-03-28,California,San Mateo County,Travel & Transport,13.0,11.0,13.0,6
+2020-03-28,California,San Mateo County,Grocery,67.0,54.0,67.0,7
+2020-03-28,California,San Mateo County,School,35.0,"",35.0,8
+2020-03-28,California,San Mateo County,Residences,43.0,"",44.0,9
+2020-03-28,California,San Mateo County,Gas Stations,38.0,"",38.0,10
+2020-03-28,California,San Mateo County,Medical,33.0,"",33.0,11
+2020-03-28,California,San Mateo County,Nightlife Spots,19.0,"",19.0,12
+2020-03-28,California,San Mateo County,Big Box Stores,77.0,"",77.0,13
+2020-03-28,California,San Mateo County,Sports,20.0,"",20.0,14
+2020-03-28,California,San Mateo County,Fast Food Restaurants,39.0,"",40.0,15
+2020-03-28,California,San Mateo County,Drug Store,53.0,"",53.0,16
+2020-03-28,California,San Mateo County,Office,21.0,"",21.0,17
+2020-03-28,California,San Mateo County,Arts & Entertainment,19.0,"",19.0,18
+2020-03-28,California,San Mateo County,Fitness Center,17.0,"",17.0,19
+2020-03-28,California,San Mateo County,Hotel,22.0,"",22.0,20
+2020-03-28,California,El Dorado County,Shops & Services,53.0,47.0,54.0,1
+2020-03-28,California,El Dorado County,Food,29.0,25.0,29.0,2
+2020-03-28,California,El Dorado County,Outdoors & Recreation,38.0,39.0,38.0,3
+2020-03-28,California,El Dorado County,Professional & Other Places,51.0,35.0,52.0,4
+2020-03-28,California,El Dorado County,Grocery,72.0,69.0,72.0,5
+2020-03-28,California,El Dorado County,Nightlife Spots,27.0,"",27.0,6
+2020-03-28,California,Tuolumne County,Shops & Services,67.0,57.0,68.0,1
+2020-03-28,California,Tuolumne County,Food,44.0,31.0,45.0,2
+2020-03-28,California,Tuolumne County,Outdoors & Recreation,54.0,"",55.0,3
+2020-03-28,California,Yuba County,Shops & Services,69.0,80.0,68.0,1
+2020-03-28,California,Yuba County,Food,58.0,"",58.0,2
+2020-03-28,California,Yuba County,Professional & Other Places,53.0,"",53.0,3
+2020-03-28,California,Yuba County,Outdoors & Recreation,67.0,"",69.0,4
+2020-03-28,California,Colusa County,Food,50.0,"",51.0,1
+2020-03-28,California,Colusa County,Shops & Services,71.0,"",72.0,2
+2020-03-28,California,Los Angeles County,Shops & Services,44.0,38.0,44.0,1
+2020-03-28,California,Los Angeles County,Food,36.0,29.0,36.0,2
+2020-03-28,California,Los Angeles County,Outdoors & Recreation,44.0,42.0,44.0,3
+2020-03-28,California,Los Angeles County,Professional & Other Places,40.0,37.0,40.0,4
+2020-03-28,California,Los Angeles County,Grocery,67.0,50.0,67.0,5
+2020-03-28,California,Los Angeles County,School,41.0,42.0,41.0,6
+2020-03-28,California,Los Angeles County,Travel & Transport,22.0,16.0,22.0,7
+2020-03-28,California,Los Angeles County,Fast Food Restaurants,48.0,41.0,48.0,8
+2020-03-28,California,Los Angeles County,Nightlife Spots,25.0,29.0,25.0,9
+2020-03-28,California,Los Angeles County,Medical,44.0,37.0,44.0,10
+2020-03-28,California,Los Angeles County,Residences,50.0,45.0,50.0,11
+2020-03-28,California,Los Angeles County,Arts & Entertainment,16.0,18.0,16.0,12
+2020-03-28,California,Los Angeles County,Gas Stations,47.0,42.0,47.0,13
+2020-03-28,California,Los Angeles County,Big Box Stores,71.0,55.0,72.0,14
+2020-03-28,California,Los Angeles County,Drug Store,64.0,54.0,64.0,15
+2020-03-28,California,Los Angeles County,Sports,26.0,22.0,26.0,16
+2020-03-28,California,Los Angeles County,Convenience Store,50.0,44.0,50.0,17
+2020-03-28,California,Los Angeles County,Colleges & Universities,25.0,31.0,25.0,18
+2020-03-28,California,Los Angeles County,Hardware Stores,76.0,59.0,77.0,19
+2020-03-28,California,Los Angeles County,Airport,17.0,11.0,17.0,20
+2020-03-28,California,Los Angeles County,Fitness Center,24.0,21.0,25.0,21
+2020-03-28,California,Los Angeles County,Office,43.0,40.0,43.0,22
+2020-03-28,California,Los Angeles County,Spiritual Center,37.0,32.0,38.0,23
+2020-03-28,California,Los Angeles County,Banks,36.0,30.0,36.0,24
+2020-03-28,California,Los Angeles County,Discount Stores,57.0,42.0,58.0,25
+2020-03-28,California,Los Angeles County,Government,45.0,44.0,45.0,26
+2020-03-28,California,Los Angeles County,Hotel,21.0,18.0,22.0,27
+2020-03-28,California,Los Angeles County,Alcohol,59.0,48.0,59.0,28
+2020-03-28,California,Los Angeles County,Beach,43.0,42.0,43.0,29
+2020-03-28,California,Los Angeles County,Bus,42.0,39.0,42.0,30
+2020-03-28,California,Los Angeles County,Light Rail Stations,26.0,"",26.0,31
+2020-03-28,California,Sutter County,Shops & Services,57.0,37.0,58.0,1
+2020-03-28,California,Sutter County,Food,45.0,"",45.0,2
+2020-03-28,California,Sutter County,Professional & Other Places,52.0,"",52.0,3
+2020-03-28,California,Sutter County,Outdoors & Recreation,43.0,"",43.0,4
+2020-03-28,California,Sutter County,Big Box Stores,96.0,"",98.0,5
+2020-03-28,California,Kern County,Shops & Services,51.0,45.0,51.0,1
+2020-03-28,California,Kern County,Food,44.0,32.0,44.0,2
+2020-03-28,California,Kern County,Outdoors & Recreation,63.0,56.0,63.0,3
+2020-03-28,California,Kern County,Professional & Other Places,45.0,42.0,45.0,4
+2020-03-28,California,Kern County,Grocery,69.0,65.0,70.0,5
+2020-03-28,California,Kern County,School,46.0,32.0,46.0,6
+2020-03-28,California,Kern County,Gas Stations,55.0,44.0,55.0,7
+2020-03-28,California,Kern County,Fast Food Restaurants,49.0,51.0,49.0,8
+2020-03-28,California,Kern County,Travel & Transport,51.0,35.0,52.0,9
+2020-03-28,California,Kern County,Arts & Entertainment,41.0,40.0,42.0,10
+2020-03-28,California,Kern County,Nightlife Spots,42.0,45.0,41.0,11
+2020-03-28,California,Kern County,Big Box Stores,61.0,"",61.0,12
+2020-03-28,California,Kern County,Medical,51.0,64.0,50.0,13
+2020-03-28,California,Kern County,Hardware Stores,91.0,60.0,93.0,14
+2020-03-28,California,Kern County,Sports,43.0,"",44.0,15
+2020-03-28,California,Kern County,Convenience Store,45.0,"",45.0,16
+2020-03-28,California,Kern County,Drug Store,60.0,"",61.0,17
+2020-03-28,California,Kern County,Discount Stores,53.0,"",53.0,18
+2020-03-28,California,Kern County,Residences,77.0,"",77.0,19
+2020-03-28,California,Kern County,Spiritual Center,44.0,"",44.0,20
+2020-03-28,California,Kern County,Colleges & Universities,42.0,"",43.0,21
+2020-03-28,California,Kern County,Hotel,36.0,"",36.0,22
+2020-03-28,California,Kern County,Banks,46.0,"",46.0,23
+2020-03-28,California,Riverside County,Shops & Services,50.0,37.0,50.0,1
+2020-03-28,California,Riverside County,Food,37.0,27.0,37.0,2
+2020-03-28,California,Riverside County,Outdoors & Recreation,49.0,41.0,49.0,3
+2020-03-28,California,Riverside County,Professional & Other Places,45.0,32.0,45.0,4
+2020-03-28,California,Riverside County,Grocery,70.0,52.0,71.0,5
+2020-03-28,California,Riverside County,Fast Food Restaurants,51.0,48.0,51.0,6
+2020-03-28,California,Riverside County,School,46.0,34.0,46.0,7
+2020-03-28,California,Riverside County,Sports,35.0,37.0,34.0,8
+2020-03-28,California,Riverside County,Gas Stations,50.0,40.0,50.0,9
+2020-03-28,California,Riverside County,Big Box Stores,64.0,48.0,65.0,10
+2020-03-28,California,Riverside County,Residences,59.0,48.0,59.0,11
+2020-03-28,California,Riverside County,Hardware Stores,92.0,65.0,94.0,12
+2020-03-28,California,Riverside County,Nightlife Spots,23.0,18.0,23.0,13
+2020-03-28,California,Riverside County,Medical,44.0,36.0,45.0,14
+2020-03-28,California,Riverside County,Travel & Transport,30.0,24.0,31.0,15
+2020-03-28,California,Riverside County,Arts & Entertainment,18.0,14.0,18.0,16
+2020-03-28,California,Riverside County,Hotel,28.0,26.0,28.0,17
+2020-03-28,California,Riverside County,Convenience Store,49.0,38.0,49.0,18
+2020-03-28,California,Riverside County,Drug Store,59.0,46.0,60.0,19
+2020-03-28,California,Riverside County,Colleges & Universities,29.0,24.0,29.0,20
+2020-03-28,California,Riverside County,Discount Stores,55.0,41.0,56.0,21
+2020-03-28,California,Riverside County,Spiritual Center,38.0,25.0,39.0,22
+2020-03-28,California,Riverside County,Government,43.0,"",44.0,23
+2020-03-28,California,Riverside County,Banks,38.0,48.0,38.0,24
+2020-03-28,California,Riverside County,Fitness Center,22.0,"",23.0,25
+2020-03-28,California,Riverside County,Office,50.0,"",49.0,26
+2020-03-28,California,Riverside County,Alcohol,60.0,"",61.0,27
+2020-03-28,California,Tehama County,Shops & Services,67.0,59.0,68.0,1
+2020-03-28,California,Tehama County,Food,47.0,"",48.0,2
+2020-03-28,California,Tehama County,Professional & Other Places,68.0,"",68.0,3
+2020-03-28,California,Tehama County,Outdoors & Recreation,92.0,"",94.0,4
+2020-03-28,California,Inyo County,Shops & Services,52.0,"",52.0,1
+2020-03-28,California,Inyo County,Outdoors & Recreation,27.0,"",27.0,2
+2020-03-28,California,Amador County,Shops & Services,70.0,69.0,70.0,1
+2020-03-28,California,Amador County,Food,50.0,"",52.0,2
+2020-03-28,California,Marin County,Shops & Services,42.0,41.0,42.0,1
+2020-03-28,California,Marin County,Outdoors & Recreation,38.0,49.0,38.0,2
+2020-03-28,California,Marin County,Food,28.0,27.0,28.0,3
+2020-03-28,California,Marin County,Grocery,67.0,54.0,68.0,4
+2020-03-28,California,Marin County,Professional & Other Places,38.0,34.0,38.0,5
+2020-03-28,California,Solano County,Shops & Services,51.0,44.0,51.0,1
+2020-03-28,California,Solano County,Food,46.0,40.0,46.0,2
+2020-03-28,California,Solano County,Outdoors & Recreation,52.0,43.0,52.0,3
+2020-03-28,California,Solano County,Professional & Other Places,40.0,33.0,40.0,4
+2020-03-28,California,Solano County,Grocery,76.0,61.0,77.0,5
+2020-03-28,California,Solano County,Fast Food Restaurants,52.0,"",52.0,6
+2020-03-28,California,Solano County,Big Box Stores,85.0,"",85.0,7
+2020-03-28,California,Solano County,Medical,45.0,"",45.0,8
+2020-03-28,California,Solano County,Gas Stations,45.0,"",46.0,9
+2020-03-28,California,Solano County,School,43.0,"",43.0,10
+2020-03-28,California,Solano County,Nightlife Spots,28.0,"",28.0,11
+2020-03-28,California,Solano County,Residences,76.0,"",77.0,12
+2020-03-28,California,Solano County,Travel & Transport,49.0,"",49.0,13
+2020-03-28,California,Solano County,Hardware Stores,92.0,"",95.0,14
+2020-03-28,California,Solano County,Sports,36.0,"",37.0,15
+2020-03-28,California,Solano County,Convenience Store,61.0,"",61.0,16
+2020-03-28,California,Santa Cruz County,Shops & Services,47.0,39.0,48.0,1
+2020-03-28,California,Santa Cruz County,Outdoors & Recreation,49.0,49.0,49.0,2
+2020-03-28,California,Santa Cruz County,Food,32.0,19.0,32.0,3
+2020-03-28,California,Santa Cruz County,Professional & Other Places,41.0,36.0,41.0,4
+2020-03-28,California,Santa Cruz County,Grocery,65.0,60.0,65.0,5
+2020-03-28,California,Santa Cruz County,Beach,46.0,"",47.0,6
+2020-03-28,California,Santa Cruz County,Nightlife Spots,19.0,"",19.0,7
+2020-03-28,California,Santa Cruz County,Travel & Transport,37.0,"",37.0,8
+2020-03-28,California,Ventura County,Shops & Services,48.0,38.0,49.0,1
+2020-03-28,California,Ventura County,Food,42.0,34.0,42.0,2
+2020-03-28,California,Ventura County,Outdoors & Recreation,64.0,62.0,64.0,3
+2020-03-28,California,Ventura County,Professional & Other Places,49.0,36.0,49.0,4
+2020-03-28,California,Ventura County,Grocery,71.0,46.0,72.0,5
+2020-03-28,California,Ventura County,Nightlife Spots,36.0,34.0,36.0,6
+2020-03-28,California,Ventura County,School,43.0,46.0,43.0,7
+2020-03-28,California,Ventura County,Fast Food Restaurants,53.0,55.0,53.0,8
+2020-03-28,California,Ventura County,Arts & Entertainment,33.0,"",34.0,9
+2020-03-28,California,Ventura County,Medical,44.0,34.0,45.0,10
+2020-03-28,California,Ventura County,Travel & Transport,47.0,"",47.0,11
+2020-03-28,California,Ventura County,Big Box Stores,75.0,"",76.0,12
+2020-03-28,California,Ventura County,Gas Stations,45.0,40.0,45.0,13
+2020-03-28,California,Ventura County,Residences,75.0,67.0,76.0,14
+2020-03-28,California,Ventura County,Sports,31.0,"",31.0,15
+2020-03-28,California,Ventura County,Colleges & Universities,42.0,70.0,42.0,16
+2020-03-28,California,Ventura County,Hardware Stores,72.0,57.0,73.0,17
+2020-03-28,California,Ventura County,Drug Store,66.0,"",67.0,18
+2020-03-28,California,Ventura County,Beach,82.0,"",84.0,19
+2020-03-28,California,Ventura County,Convenience Store,50.0,"",51.0,20
+2020-03-28,California,Ventura County,Hotel,37.0,"",37.0,21
+2020-03-28,California,Ventura County,Banks,62.0,"",62.0,22
+2020-03-28,California,Ventura County,Spiritual Center,50.0,"",51.0,23
+2020-03-28,California,Ventura County,Discount Stores,56.0,"",57.0,24
+2020-03-28,California,Santa Barbara County,Shops & Services,47.0,43.0,47.0,1
+2020-03-28,California,Santa Barbara County,Food,32.0,31.0,32.0,2
+2020-03-28,California,Santa Barbara County,Outdoors & Recreation,59.0,52.0,60.0,3
+2020-03-28,California,Santa Barbara County,Professional & Other Places,41.0,27.0,42.0,4
+2020-03-28,California,Santa Barbara County,Grocery,61.0,49.0,61.0,5
+2020-03-28,California,Santa Barbara County,Nightlife Spots,24.0,"",24.0,6
+2020-03-28,California,Santa Barbara County,Travel & Transport,27.0,"",27.0,7
+2020-03-28,California,Santa Barbara County,Hotel,26.0,"",27.0,8
+2020-03-28,California,Santa Barbara County,School,35.0,"",36.0,9
+2020-03-28,California,Santa Barbara County,Medical,51.0,"",53.0,10
+2020-03-28,California,Santa Barbara County,Arts & Entertainment,21.0,"",21.0,10
+2020-03-28,California,Santa Barbara County,Gas Stations,45.0,"",45.0,11
+2020-03-28,California,Santa Barbara County,Colleges & Universities,26.0,"",26.0,12
+2020-03-28,California,Santa Barbara County,Beach,55.0,"",56.0,13
+2020-03-28,California,San Francisco County,Shops & Services,29.0,29.0,29.0,1
+2020-03-28,California,San Francisco County,Food,18.0,21.0,18.0,2
+2020-03-28,California,San Francisco County,Outdoors & Recreation,38.0,36.0,38.0,3
+2020-03-28,California,San Francisco County,Professional & Other Places,22.0,21.0,22.0,4
+2020-03-28,California,San Francisco County,Grocery,57.0,48.0,57.0,5
+2020-03-28,California,San Francisco County,Nightlife Spots,11.0,24.0,11.0,6
+2020-03-28,California,San Francisco County,Travel & Transport,14.0,12.0,15.0,7
+2020-03-28,California,San Francisco County,Arts & Entertainment,13.0,"",13.0,8
+2020-03-28,California,San Francisco County,Residences,40.0,47.0,40.0,9
+2020-03-28,California,San Francisco County,Medical,38.0,"",38.0,10
+2020-03-28,California,San Francisco County,Sports,20.0,"",20.0,11
+2020-03-28,California,San Francisco County,Colleges & Universities,29.0,"",30.0,12
+2020-03-28,California,San Francisco County,Fitness Center,12.0,"",12.0,12
+2020-03-28,California,San Francisco County,Bus,37.0,"",38.0,13
+2020-03-28,California,San Francisco County,Government,33.0,"",33.0,14
+2020-03-28,California,San Francisco County,Office,13.0,"",13.0,15
+2020-03-28,California,San Francisco County,Drug Store,41.0,"",40.0,16
+2020-03-28,California,San Francisco County,Hotel,9.0,"",9.0,17
+2020-03-28,California,San Francisco County,School,23.0,"",23.0,18
+2020-03-28,California,San Francisco County,Convenience Store,48.0,"",48.0,19
+2020-03-28,California,San Francisco County,Gas Stations,42.0,"",43.0,20
+2020-03-28,California,Merced County,Shops & Services,53.0,37.0,53.0,1
+2020-03-28,California,Merced County,Food,45.0,29.0,46.0,2
+2020-03-28,California,Merced County,Professional & Other Places,52.0,42.0,53.0,3
+2020-03-28,California,Merced County,Outdoors & Recreation,56.0,43.0,56.0,4
+2020-03-28,California,Merced County,School,47.0,"",47.0,5
+2020-03-28,California,Merced County,Grocery,63.0,"",64.0,6
+2020-03-28,California,Merced County,Travel & Transport,56.0,"",56.0,6
+2020-03-28,California,Merced County,Gas Stations,57.0,"",58.0,7
+2020-03-28,California,Merced County,Fast Food Restaurants,58.0,"",59.0,8
+2020-03-28,California,Merced County,Big Box Stores,62.0,"",62.0,9
+2020-03-28,California,Merced County,Nightlife Spots,43.0,"",43.0,10
+2020-03-28,California,Stanislaus County,Shops & Services,59.0,48.0,59.0,1
+2020-03-28,California,Stanislaus County,Food,46.0,40.0,46.0,2
+2020-03-28,California,Stanislaus County,Professional & Other Places,59.0,49.0,59.0,3
+2020-03-28,California,Stanislaus County,Outdoors & Recreation,58.0,53.0,59.0,4
+2020-03-28,California,Stanislaus County,Grocery,83.0,62.0,84.0,5
+2020-03-28,California,Stanislaus County,School,58.0,49.0,58.0,6
+2020-03-28,California,Stanislaus County,Nightlife Spots,41.0,41.0,41.0,7
+2020-03-28,California,Stanislaus County,Fast Food Restaurants,53.0,"",54.0,8
+2020-03-28,California,Stanislaus County,Big Box Stores,71.0,"",72.0,9
+2020-03-28,California,Stanislaus County,Medical,52.0,51.0,52.0,10
+2020-03-28,California,Stanislaus County,Gas Stations,64.0,"",64.0,11
+2020-03-28,California,Stanislaus County,Sports,43.0,"",44.0,12
+2020-03-28,California,Stanislaus County,Arts & Entertainment,37.0,"",37.0,13
+2020-03-28,California,Stanislaus County,Travel & Transport,55.0,"",55.0,14
+2020-03-28,California,Stanislaus County,Hardware Stores,106.0,"",107.0,15
+2020-03-28,California,Stanislaus County,Drug Store,68.0,"",69.0,16
+2020-03-28,California,Stanislaus County,Convenience Store,60.0,"",61.0,17
+2020-03-28,California,Stanislaus County,Residences,85.0,"",86.0,18
+2020-03-28,California,Stanislaus County,Discount Stores,70.0,"",71.0,19
+2020-03-28,California,Stanislaus County,Government,77.0,"",77.0,20
+2020-03-28,California,Imperial County,Shops & Services,45.0,31.0,46.0,1
+2020-03-28,California,Imperial County,Food,38.0,29.0,38.0,2
+2020-03-28,California,Imperial County,Outdoors & Recreation,52.0,26.0,53.0,3
+2020-03-28,California,Imperial County,Professional & Other Places,48.0,"",48.0,4
+2020-03-28,California,Imperial County,Travel & Transport,46.0,"",46.0,5
+2020-03-28,California,Imperial County,Gas Stations,48.0,"",48.0,6
+2020-03-28,California,Imperial County,Grocery,71.0,"",72.0,7
+2020-03-28,California,Imperial County,Big Box Stores,55.0,"",55.0,8
+2020-03-28,California,Imperial County,Fast Food Restaurants,36.0,"",36.0,9
+2020-03-28,California,Lassen County,Shops & Services,89.0,"",89.0,1
+2020-03-28,California,Siskiyou County,Shops & Services,74.0,54.0,76.0,1
+2020-03-28,California,Siskiyou County,Outdoors & Recreation,58.0,"",59.0,2
+2020-03-28,California,Lake County,Shops & Services,58.0,59.0,58.0,1
+2020-03-28,California,Lake County,Food,36.0,"",36.0,2
+2020-03-28,California,Contra Costa County,Shops & Services,45.0,37.0,46.0,1
+2020-03-28,California,Contra Costa County,Food,34.0,25.0,35.0,2
+2020-03-28,California,Contra Costa County,Outdoors & Recreation,41.0,34.0,42.0,3
+2020-03-28,California,Contra Costa County,Professional & Other Places,41.0,34.0,41.0,4
+2020-03-28,California,Contra Costa County,Grocery,69.0,55.0,70.0,5
+2020-03-28,California,Contra Costa County,School,35.0,33.0,35.0,6
+2020-03-28,California,Contra Costa County,Residences,60.0,"",61.0,7
+2020-03-28,California,Contra Costa County,Nightlife Spots,34.0,32.0,35.0,8
+2020-03-28,California,Contra Costa County,Big Box Stores,73.0,"",73.0,9
+2020-03-28,California,Contra Costa County,Medical,40.0,30.0,40.0,10
+2020-03-28,California,Contra Costa County,Gas Stations,40.0,"",40.0,11
+2020-03-28,California,Contra Costa County,Travel & Transport,28.0,"",29.0,12
+2020-03-28,California,Contra Costa County,Fast Food Restaurants,46.0,"",46.0,13
+2020-03-28,California,Contra Costa County,Drug Store,66.0,"",68.0,14
+2020-03-28,California,Contra Costa County,Hardware Stores,63.0,"",64.0,15
+2020-03-28,California,Contra Costa County,Arts & Entertainment,21.0,"",21.0,16
+2020-03-28,California,Contra Costa County,Sports,18.0,"",18.0,17
+2020-03-28,California,Contra Costa County,Convenience Store,49.0,"",50.0,18
+2020-03-28,California,Contra Costa County,Spiritual Center,41.0,"",42.0,19
+2020-03-28,California,Contra Costa County,Colleges & Universities,40.0,"",40.0,19
+2020-03-28,California,Orange County,Shops & Services,44.0,37.0,45.0,1
+2020-03-28,California,Orange County,Food,36.0,30.0,36.0,2
+2020-03-28,California,Orange County,Outdoors & Recreation,56.0,58.0,56.0,3
+2020-03-28,California,Orange County,Professional & Other Places,36.0,35.0,36.0,4
+2020-03-28,California,Orange County,Grocery,72.0,50.0,73.0,5
+2020-03-28,California,Orange County,Residences,62.0,64.0,61.0,6
+2020-03-28,California,Orange County,Fast Food Restaurants,52.0,46.0,52.0,7
+2020-03-28,California,Orange County,Nightlife Spots,23.0,32.0,23.0,8
+2020-03-28,California,Orange County,School,43.0,42.0,43.0,9
+2020-03-28,California,Orange County,Medical,46.0,35.0,47.0,10
+2020-03-28,California,Orange County,Big Box Stores,68.0,51.0,69.0,11
+2020-03-28,California,Orange County,Gas Stations,48.0,42.0,48.0,12
+2020-03-28,California,Orange County,Sports,32.0,31.0,32.0,13
+2020-03-28,California,Orange County,Arts & Entertainment,5.0,8.0,5.0,14
+2020-03-28,California,Orange County,Travel & Transport,16.0,20.0,16.0,15
+2020-03-28,California,Orange County,Hardware Stores,84.0,69.0,85.0,16
+2020-03-28,California,Orange County,Drug Store,63.0,55.0,64.0,17
+2020-03-28,California,Orange County,Fitness Center,26.0,23.0,27.0,18
+2020-03-28,California,Orange County,Convenience Store,52.0,38.0,52.0,19
+2020-03-28,California,Orange County,Hotel,11.0,14.0,11.0,20
+2020-03-28,California,Orange County,Colleges & Universities,19.0,"",20.0,21
+2020-03-28,California,Orange County,Beach,54.0,54.0,53.0,22
+2020-03-28,California,Orange County,Office,44.0,33.0,44.0,23
+2020-03-28,California,Orange County,Spiritual Center,37.0,29.0,37.0,24
+2020-03-28,California,Orange County,Banks,40.0,47.0,40.0,25
+2020-03-28,California,Orange County,Discount Stores,53.0,"",54.0,26
+2020-03-28,California,Orange County,Government,38.0,"",37.0,27
+2020-03-28,California,Orange County,Alcohol,60.0,"",62.0,28
+2020-03-28,California,Orange County,Airport,15.0,"",15.0,29
+2020-03-28,California,San Bernardino County,Shops & Services,48.0,44.0,49.0,1
+2020-03-28,California,San Bernardino County,Food,41.0,36.0,41.0,2
+2020-03-28,California,San Bernardino County,Professional & Other Places,54.0,44.0,54.0,3
+2020-03-28,California,San Bernardino County,Outdoors & Recreation,50.0,57.0,50.0,4
+2020-03-28,California,San Bernardino County,Grocery,73.0,61.0,73.0,5
+2020-03-28,California,San Bernardino County,School,44.0,37.0,44.0,6
+2020-03-28,California,San Bernardino County,Fast Food Restaurants,49.0,35.0,49.0,7
+2020-03-28,California,San Bernardino County,Gas Stations,53.0,48.0,53.0,8
+2020-03-28,California,San Bernardino County,Big Box Stores,70.0,51.0,71.0,9
+2020-03-28,California,San Bernardino County,Travel & Transport,43.0,31.0,44.0,10
+2020-03-28,California,San Bernardino County,Nightlife Spots,40.0,37.0,40.0,11
+2020-03-28,California,San Bernardino County,Medical,46.0,39.0,46.0,12
+2020-03-28,California,San Bernardino County,Residences,61.0,48.0,62.0,13
+2020-03-28,California,San Bernardino County,Hardware Stores,90.0,68.0,91.0,14
+2020-03-28,California,San Bernardino County,Arts & Entertainment,24.0,18.0,25.0,15
+2020-03-28,California,San Bernardino County,Convenience Store,51.0,50.0,51.0,16
+2020-03-28,California,San Bernardino County,Sports,33.0,37.0,33.0,17
+2020-03-28,California,San Bernardino County,Drug Store,64.0,70.0,64.0,18
+2020-03-28,California,San Bernardino County,Hotel,45.0,37.0,45.0,19
+2020-03-28,California,San Bernardino County,Colleges & Universities,42.0,"",42.0,19
+2020-03-28,California,San Bernardino County,Discount Stores,52.0,50.0,52.0,20
+2020-03-28,California,San Bernardino County,Office,68.0,"",68.0,21
+2020-03-28,California,San Bernardino County,Government,54.0,"",55.0,22
+2020-03-28,California,San Bernardino County,Spiritual Center,37.0,30.0,37.0,23
+2020-03-28,California,San Bernardino County,Banks,41.0,"",41.0,24
+2020-03-28,California,San Bernardino County,Fitness Center,25.0,"",25.0,25
+2020-03-28,California,San Bernardino County,Airport,34.0,"",34.0,26
+2020-03-28,California,San Bernardino County,Alcohol,51.0,"",51.0,27
+2020-03-28,California,Plumas County,Shops & Services,95.0,"",98.0,1
+2020-03-28,California,Tulare County,Shops & Services,58.0,43.0,59.0,1
+2020-03-28,California,Tulare County,Food,51.0,36.0,51.0,2
+2020-03-28,California,Tulare County,Professional & Other Places,60.0,48.0,61.0,3
+2020-03-28,California,Tulare County,Outdoors & Recreation,61.0,44.0,62.0,4
+2020-03-28,California,Tulare County,Grocery,88.0,63.0,89.0,5
+2020-03-28,California,Tulare County,School,55.0,47.0,55.0,6
+2020-03-28,California,Tulare County,Gas Stations,66.0,"",66.0,7
+2020-03-28,California,Tulare County,Nightlife Spots,49.0,"",50.0,8
+2020-03-28,California,Tulare County,Fast Food Restaurants,60.0,"",60.0,9
+2020-03-28,California,Tulare County,Big Box Stores,63.0,"",63.0,10
+2020-03-28,California,Tulare County,Medical,63.0,"",64.0,11
+2020-03-28,California,Tulare County,Hardware Stores,94.0,"",96.0,12
+2020-03-28,California,Tulare County,Travel & Transport,49.0,"",50.0,13
+2020-03-28,California,Tulare County,Sports,39.0,"",40.0,14
+2020-03-28,California,Tulare County,Discount Stores,67.0,"",67.0,14
+2020-03-28,California,Tulare County,Drug Store,58.0,"",58.0,15
+2020-03-28,California,Tulare County,Arts & Entertainment,26.0,"",27.0,16
+2020-03-28,California,Tulare County,Spiritual Center,64.0,"",65.0,17
+2020-03-28,California,Tulare County,Colleges & Universities,38.0,"",38.0,18
+2020-03-28,California,Tulare County,Convenience Store,64.0,"",64.0,19
+2020-03-28,California,San Luis Obispo County,Shops & Services,47.0,43.0,48.0,1
+2020-03-28,California,San Luis Obispo County,Outdoors & Recreation,51.0,54.0,51.0,2
+2020-03-28,California,San Luis Obispo County,Food,29.0,29.0,29.0,3
+2020-03-28,California,San Luis Obispo County,Professional & Other Places,35.0,32.0,35.0,4
+2020-03-28,California,San Luis Obispo County,Grocery,62.0,59.0,62.0,5
+2020-03-28,California,San Luis Obispo County,Nightlife Spots,27.0,27.0,27.0,6
+2020-03-28,California,San Luis Obispo County,Hotel,24.0,28.0,24.0,7
+2020-03-28,California,San Luis Obispo County,Travel & Transport,22.0,"",22.0,8
+2020-03-28,California,San Luis Obispo County,Gas Stations,46.0,"",47.0,9
+2020-03-28,California,San Luis Obispo County,School,53.0,"",53.0,10
+2020-03-28,California,San Luis Obispo County,Medical,66.0,"",67.0,11
+2020-03-28,California,San Luis Obispo County,Arts & Entertainment,26.0,"",27.0,12
+2020-03-28,California,Monterey County,Shops & Services,47.0,38.0,47.0,1
+2020-03-28,California,Monterey County,Food,35.0,27.0,35.0,2
+2020-03-28,California,Monterey County,Outdoors & Recreation,45.0,51.0,45.0,3
+2020-03-28,California,Monterey County,Professional & Other Places,47.0,42.0,47.0,4
+2020-03-28,California,Monterey County,Grocery,65.0,58.0,65.0,5
+2020-03-28,California,Monterey County,School,45.0,"",45.0,6
+2020-03-28,California,Monterey County,Travel & Transport,27.0,25.0,27.0,7
+2020-03-28,California,Monterey County,Hotel,26.0,28.0,26.0,8
+2020-03-28,California,Monterey County,Gas Stations,54.0,"",55.0,9
+2020-03-28,California,Monterey County,Arts & Entertainment,31.0,"",32.0,10
+2020-03-28,California,Monterey County,Nightlife Spots,25.0,34.0,25.0,11
+2020-03-28,California,Monterey County,Medical,44.0,51.0,43.0,12
+2020-03-28,California,Monterey County,Big Box Stores,61.0,"",62.0,13
+2020-03-28,California,Monterey County,Fast Food Restaurants,44.0,"",44.0,14
+2020-03-28,California,Monterey County,Sports,17.0,"",17.0,15
+2020-03-28,California,Sacramento County,Shops & Services,53.0,49.0,53.0,1
+2020-03-28,California,Sacramento County,Food,39.0,35.0,39.0,2
+2020-03-28,California,Sacramento County,Outdoors & Recreation,55.0,58.0,55.0,3
+2020-03-28,California,Sacramento County,Professional & Other Places,47.0,38.0,47.0,4
+2020-03-28,California,Sacramento County,Grocery,78.0,67.0,79.0,5
+2020-03-28,California,Sacramento County,School,50.0,50.0,50.0,6
+2020-03-28,California,Sacramento County,Residences,65.0,65.0,65.0,7
+2020-03-28,California,Sacramento County,Big Box Stores,77.0,62.0,77.0,8
+2020-03-28,California,Sacramento County,Fast Food Restaurants,48.0,51.0,48.0,9
+2020-03-28,California,Sacramento County,Nightlife Spots,22.0,27.0,21.0,10
+2020-03-28,California,Sacramento County,Medical,51.0,33.0,52.0,11
+2020-03-28,California,Sacramento County,Travel & Transport,22.0,18.0,22.0,12
+2020-03-28,California,Sacramento County,Gas Stations,54.0,51.0,54.0,13
+2020-03-28,California,Sacramento County,Drug Store,73.0,56.0,74.0,14
+2020-03-28,California,Sacramento County,Sports,38.0,65.0,36.0,15
+2020-03-28,California,Sacramento County,Hardware Stores,73.0,62.0,73.0,16
+2020-03-28,California,Sacramento County,Arts & Entertainment,20.0,23.0,20.0,17
+2020-03-28,California,Sacramento County,Convenience Store,59.0,"",59.0,18
+2020-03-28,California,Sacramento County,Fitness Center,27.0,40.0,27.0,19
+2020-03-28,California,Sacramento County,Spiritual Center,49.0,"",49.0,20
+2020-03-28,California,Sacramento County,Government,48.0,"",47.0,21
+2020-03-28,California,Sacramento County,Airport,16.0,"",16.0,22
+2020-03-28,California,Sacramento County,Colleges & Universities,31.0,"",30.0,22
+2020-03-28,California,Sacramento County,Office,45.0,"",45.0,23
+2020-03-28,California,Sacramento County,Banks,42.0,"",42.0,24
+2020-03-28,California,Sacramento County,Discount Stores,54.0,"",54.0,25
+2020-03-28,California,Sacramento County,Hotel,32.0,"",32.0,26
+2020-03-28,California,Sacramento County,Alcohol,62.0,"",61.0,27
+2020-03-28,California,Napa County,Shops & Services,48.0,41.0,48.0,1
+2020-03-28,California,Napa County,Food,27.0,17.0,27.0,2
+2020-03-28,California,Napa County,Outdoors & Recreation,36.0,50.0,35.0,3
+2020-03-28,California,Napa County,Professional & Other Places,16.0,"",15.0,4
+2020-03-28,California,Napa County,Grocery,71.0,"",71.0,5
+2020-03-28,California,Shasta County,Shops & Services,54.0,50.0,54.0,1
+2020-03-28,California,Shasta County,Food,46.0,33.0,47.0,2
+2020-03-28,California,Shasta County,Outdoors & Recreation,53.0,56.0,53.0,3
+2020-03-28,California,Shasta County,Grocery,73.0,62.0,74.0,4
+2020-03-28,California,Shasta County,Professional & Other Places,39.0,"",39.0,5
+2020-03-28,California,Shasta County,Gas Stations,57.0,"",58.0,6
+2020-03-28,California,Shasta County,Nightlife Spots,41.0,"",42.0,7
+2020-03-28,California,Shasta County,Travel & Transport,54.0,"",53.0,8
+2020-03-28,California,Santa Clara County,Shops & Services,36.0,33.0,37.0,1
+2020-03-28,California,Santa Clara County,Food,28.0,28.0,28.0,2
+2020-03-28,California,Santa Clara County,Outdoors & Recreation,38.0,39.0,38.0,3
+2020-03-28,California,Santa Clara County,Professional & Other Places,29.0,27.0,29.0,4
+2020-03-28,California,Santa Clara County,Grocery,62.0,54.0,63.0,5
+2020-03-28,California,Santa Clara County,Residences,45.0,48.0,44.0,6
+2020-03-28,California,Santa Clara County,School,30.0,39.0,30.0,7
+2020-03-28,California,Santa Clara County,Medical,38.0,28.0,38.0,8
+2020-03-28,California,Santa Clara County,Big Box Stores,62.0,"",62.0,9
+2020-03-28,California,Santa Clara County,Travel & Transport,15.0,"",15.0,10
+2020-03-28,California,Santa Clara County,Sports,22.0,22.0,22.0,11
+2020-03-28,California,Santa Clara County,Fast Food Restaurants,42.0,"",42.0,12
+2020-03-28,California,Santa Clara County,Nightlife Spots,15.0,"",15.0,13
+2020-03-28,California,Santa Clara County,Gas Stations,30.0,32.0,30.0,14
+2020-03-28,California,Santa Clara County,Colleges & Universities,17.0,32.0,17.0,15
+2020-03-28,California,Santa Clara County,Arts & Entertainment,11.0,"",11.0,16
+2020-03-28,California,Santa Clara County,Fitness Center,18.0,"",18.0,17
+2020-03-28,California,Santa Clara County,Office,21.0,"",21.0,17
+2020-03-28,California,Santa Clara County,Drug Store,56.0,"",56.0,18
+2020-03-28,California,Santa Clara County,Hardware Stores,55.0,"",55.0,19
+2020-03-28,California,Santa Clara County,Convenience Store,45.0,"",45.0,20
+2020-03-28,California,Santa Clara County,Spiritual Center,31.0,"",32.0,21
+2020-03-28,California,Santa Clara County,Banks,36.0,"",36.0,22
+2020-03-28,California,Santa Clara County,Government,42.0,"",43.0,23
+2020-03-28,California,Santa Clara County,Airport,9.0,"",9.0,24
+2020-03-28,California,Santa Clara County,Hotel,18.0,"",19.0,25
+2020-03-28,California,Placer County,Shops & Services,47.0,40.0,48.0,1
+2020-03-28,California,Placer County,Food,34.0,27.0,34.0,2
+2020-03-28,California,Placer County,Outdoors & Recreation,30.0,34.0,30.0,3
+2020-03-28,California,Placer County,Professional & Other Places,49.0,43.0,49.0,4
+2020-03-28,California,Placer County,Grocery,77.0,61.0,78.0,5
+2020-03-28,California,Placer County,Big Box Stores,80.0,76.0,80.0,6
+2020-03-28,California,Placer County,Residences,75.0,"",77.0,7
+2020-03-28,California,Placer County,Nightlife Spots,23.0,31.0,23.0,8
+2020-03-28,California,Placer County,School,53.0,"",54.0,9
+2020-03-28,California,Placer County,Sports,35.0,37.0,35.0,10
+2020-03-28,California,Placer County,Medical,49.0,"",50.0,11
+2020-03-28,California,Placer County,Fast Food Restaurants,56.0,"",57.0,12
+2020-03-28,California,Placer County,Gas Stations,49.0,"",49.0,13
+2020-03-28,California,Placer County,Hardware Stores,81.0,"",83.0,14
+2020-03-28,California,Placer County,Arts & Entertainment,15.0,"",15.0,15
+2020-03-28,California,Placer County,Travel & Transport,23.0,"",23.0,16
+2020-03-28,California,Placer County,Drug Store,78.0,"",79.0,17
+2020-03-28,California,Mendocino County,Shops & Services,51.0,52.0,51.0,1
+2020-03-28,California,Mendocino County,Food,32.0,"",33.0,2
+2020-03-28,California,Mendocino County,Outdoors & Recreation,42.0,"",42.0,3
+2020-03-28,California,Calaveras County,Shops & Services,89.0,63.0,92.0,1
+2020-03-28,California,Calaveras County,Outdoors & Recreation,56.0,"",57.0,2
+2020-03-28,California,Calaveras County,Food,51.0,"",52.0,3
+2020-03-28,California,Calaveras County,Professional & Other Places,80.0,"",81.0,4
+2020-03-28,California,Sonoma County,Shops & Services,47.0,36.0,48.0,1
+2020-03-28,California,Sonoma County,Food,37.0,30.0,37.0,2
+2020-03-28,California,Sonoma County,Outdoors & Recreation,40.0,33.0,40.0,3
+2020-03-28,California,Sonoma County,Professional & Other Places,33.0,32.0,33.0,4
+2020-03-28,California,Sonoma County,Grocery,61.0,41.0,63.0,5
+2020-03-28,California,Sonoma County,Nightlife Spots,19.0,"",19.0,6
+2020-03-28,California,Sonoma County,Medical,61.0,"",62.0,7
+2020-03-28,California,Sonoma County,Travel & Transport,36.0,"",36.0,8
+2020-03-28,California,Sonoma County,School,46.0,"",47.0,9
+2020-03-28,California,Sonoma County,Arts & Entertainment,20.0,"",20.0,10
+2020-03-28,California,Sonoma County,Gas Stations,45.0,"",45.0,11
+2020-03-28,California,Sonoma County,Big Box Stores,73.0,"",74.0,12
+2020-03-28,California,Sonoma County,Fast Food Restaurants,59.0,"",60.0,13
+2020-03-28,California,Humboldt County,Shops & Services,50.0,40.0,51.0,1
+2020-03-28,California,Humboldt County,Food,41.0,29.0,42.0,2
+2020-03-28,California,Humboldt County,Outdoors & Recreation,49.0,39.0,50.0,3
+2020-03-28,California,Humboldt County,Grocery,71.0,59.0,73.0,4
+2020-03-28,California,Humboldt County,Professional & Other Places,56.0,"",57.0,5
+2020-03-28,California,Humboldt County,Nightlife Spots,42.0,"",44.0,6
+2020-03-28,California,San Joaquin County,Shops & Services,55.0,44.0,56.0,1
+2020-03-28,California,San Joaquin County,Food,47.0,45.0,47.0,2
+2020-03-28,California,San Joaquin County,Professional & Other Places,59.0,45.0,60.0,3
+2020-03-28,California,San Joaquin County,Outdoors & Recreation,46.0,36.0,47.0,4
+2020-03-28,California,San Joaquin County,Grocery,84.0,56.0,85.0,5
+2020-03-28,California,San Joaquin County,Fast Food Restaurants,51.0,54.0,51.0,6
+2020-03-28,California,San Joaquin County,School,40.0,45.0,40.0,7
+2020-03-28,California,San Joaquin County,Gas Stations,56.0,"",57.0,7
+2020-03-28,California,San Joaquin County,Big Box Stores,61.0,"",62.0,8
+2020-03-28,California,San Joaquin County,Nightlife Spots,31.0,31.0,31.0,9
+2020-03-28,California,San Joaquin County,Travel & Transport,55.0,"",56.0,10
+2020-03-28,California,San Joaquin County,Medical,47.0,"",48.0,11
+2020-03-28,California,San Joaquin County,Sports,39.0,37.0,39.0,12
+2020-03-28,California,San Joaquin County,Drug Store,95.0,"",96.0,13
+2020-03-28,California,San Joaquin County,Hardware Stores,91.0,91.0,91.0,14
+2020-03-28,California,San Joaquin County,Residences,55.0,"",56.0,15
+2020-03-28,California,San Joaquin County,Convenience Store,69.0,"",69.0,15
+2020-03-28,California,San Joaquin County,Arts & Entertainment,26.0,"",26.0,16
+2020-03-28,California,San Joaquin County,Colleges & Universities,32.0,"",32.0,17
+2020-03-28,California,San Joaquin County,Discount Stores,76.0,"",77.0,18
+2020-03-28,California,San Joaquin County,Fitness Center,35.0,"",35.0,19
+2020-03-28,California,San Joaquin County,Spiritual Center,44.0,"",44.0,20
+2020-03-28,California,San Diego County,Shops & Services,50.0,42.0,50.0,1
+2020-03-28,California,San Diego County,Food,36.0,32.0,36.0,2
+2020-03-28,California,San Diego County,Outdoors & Recreation,47.0,46.0,48.0,3
+2020-03-28,California,San Diego County,Professional & Other Places,49.0,42.0,49.0,4
+2020-03-28,California,San Diego County,Grocery,75.0,57.0,76.0,5
+2020-03-28,California,San Diego County,Residences,65.0,59.0,65.0,6
+2020-03-28,California,San Diego County,Travel & Transport,27.0,22.0,27.0,7
+2020-03-28,California,San Diego County,Nightlife Spots,23.0,25.0,23.0,8
+2020-03-28,California,San Diego County,School,50.0,58.0,50.0,9
+2020-03-28,California,San Diego County,Medical,50.0,39.0,51.0,10
+2020-03-28,California,San Diego County,Big Box Stores,73.0,51.0,74.0,11
+2020-03-28,California,San Diego County,Arts & Entertainment,15.0,14.0,15.0,12
+2020-03-28,California,San Diego County,Sports,34.0,34.0,34.0,13
+2020-03-28,California,San Diego County,Fast Food Restaurants,53.0,44.0,53.0,14
+2020-03-28,California,San Diego County,Gas Stations,49.0,39.0,49.0,15
+2020-03-28,California,San Diego County,Drug Store,68.0,56.0,69.0,16
+2020-03-28,California,San Diego County,Convenience Store,52.0,48.0,52.0,17
+2020-03-28,California,San Diego County,Hotel,27.0,21.0,27.0,18
+2020-03-28,California,San Diego County,Hardware Stores,84.0,60.0,85.0,19
+2020-03-28,California,San Diego County,Colleges & Universities,27.0,26.0,27.0,20
+2020-03-28,California,San Diego County,Government,58.0,60.0,58.0,21
+2020-03-28,California,San Diego County,Fitness Center,26.0,27.0,26.0,22
+2020-03-28,California,San Diego County,Beach,39.0,39.0,39.0,23
+2020-03-28,California,San Diego County,Spiritual Center,49.0,42.0,49.0,24
+2020-03-28,California,San Diego County,Office,47.0,41.0,47.0,25
+2020-03-28,California,San Diego County,Alcohol,60.0,50.0,60.0,26
+2020-03-28,California,San Diego County,Banks,46.0,36.0,46.0,27
+2020-03-28,California,San Diego County,Discount Stores,59.0,"",59.0,28
+2020-03-28,California,San Diego County,Airport,14.0,17.0,14.0,29
+2020-03-28,California,San Diego County,Light Rail Stations,44.0,"",44.0,30
+2020-03-28,California,Butte County,Shops & Services,54.0,49.0,54.0,1
+2020-03-28,California,Butte County,Food,46.0,46.0,46.0,2
+2020-03-28,California,Butte County,Outdoors & Recreation,62.0,56.0,63.0,3
+2020-03-28,California,Butte County,Professional & Other Places,53.0,47.0,53.0,4
+2020-03-28,California,Butte County,Grocery,72.0,68.0,72.0,5
+2020-03-28,California,Butte County,Nightlife Spots,51.0,54.0,51.0,6
+2020-03-28,California,Butte County,School,54.0,"",53.0,7
+2020-03-28,California,San Benito County,Shops & Services,61.0,"",62.0,1
+2020-03-28,California,San Benito County,Outdoors & Recreation,58.0,"",58.0,2
+2020-03-28,California,San Benito County,Food,38.0,"",39.0,3
+2020-03-28,California,Kings County,Shops & Services,66.0,49.0,66.0,1
+2020-03-28,California,Kings County,Food,46.0,25.0,46.0,2
+2020-03-28,California,Kings County,Professional & Other Places,64.0,"",64.0,3
+2020-03-28,California,Kings County,Outdoors & Recreation,70.0,"",70.0,4
+2020-03-28,California,Kings County,Gas Stations,73.0,"",73.0,5
+2020-03-28,California,Kings County,Grocery,88.0,"",89.0,6
+2020-03-28,California,Kings County,Big Box Stores,92.0,"",93.0,7
+2020-03-28,California,Kings County,Fast Food Restaurants,57.0,"",58.0,8
+2020-03-29,California,Sacramento County,Shops & Services,44.0,38.0,44.0,1
+2020-03-29,California,Sacramento County,Food,34.0,27.0,34.0,2
+2020-03-29,California,Sacramento County,Outdoors & Recreation,53.0,60.0,53.0,3
+2020-03-29,California,Sacramento County,Professional & Other Places,41.0,36.0,41.0,4
+2020-03-29,California,Sacramento County,Grocery,61.0,49.0,62.0,5
+2020-03-29,California,Sacramento County,School,53.0,43.0,53.0,6
+2020-03-29,California,Sacramento County,Residences,54.0,46.0,54.0,7
+2020-03-29,California,Sacramento County,Big Box Stores,61.0,49.0,61.0,8
+2020-03-29,California,Sacramento County,Fast Food Restaurants,52.0,42.0,52.0,9
+2020-03-29,California,Sacramento County,Medical,62.0,58.0,62.0,10
+2020-03-29,California,Sacramento County,Nightlife Spots,18.0,25.0,18.0,10
+2020-03-29,California,Sacramento County,Travel & Transport,20.0,25.0,19.0,11
+2020-03-29,California,Sacramento County,Gas Stations,46.0,"",47.0,12
+2020-03-29,California,Sacramento County,Arts & Entertainment,16.0,24.0,16.0,13
+2020-03-29,California,Sacramento County,Drug Store,60.0,83.0,59.0,14
+2020-03-29,California,Sacramento County,Sports,35.0,45.0,35.0,15
+2020-03-29,California,Sacramento County,Hardware Stores,67.0,43.0,69.0,16
+2020-03-29,California,Sacramento County,Convenience Store,61.0,"",61.0,17
+2020-03-29,California,Sacramento County,Spiritual Center,21.0,"",21.0,18
+2020-03-29,California,Sacramento County,Fitness Center,25.0,"",25.0,19
+2020-03-29,California,Sacramento County,Colleges & Universities,45.0,"",45.0,20
+2020-03-29,California,Sacramento County,Government,47.0,"",46.0,21
+2020-03-29,California,Sacramento County,Discount Stores,52.0,"",52.0,22
+2020-03-29,California,Sacramento County,Hotel,27.0,"",27.0,23
+2020-03-29,California,Sacramento County,Airport,13.0,"",12.0,24
+2020-03-29,California,Sacramento County,Banks,51.0,"",51.0,25
+2020-03-29,California,Sacramento County,Office,46.0,"",46.0,26
+2020-03-29,California,Lake County,Shops & Services,49.0,60.0,48.0,1
+2020-03-29,California,Lake County,Food,33.0,"",33.0,2
+2020-03-29,California,Nevada County,Shops & Services,57.0,72.0,56.0,1
+2020-03-29,California,Nevada County,Outdoors & Recreation,38.0,52.0,38.0,2
+2020-03-29,California,Nevada County,Food,29.0,39.0,28.0,3
+2020-03-29,California,Santa Cruz County,Shops & Services,40.0,34.0,40.0,1
+2020-03-29,California,Santa Cruz County,Food,23.0,24.0,23.0,2
+2020-03-29,California,Santa Cruz County,Outdoors & Recreation,29.0,27.0,29.0,3
+2020-03-29,California,Santa Cruz County,Grocery,55.0,52.0,55.0,4
+2020-03-29,California,Santa Cruz County,Professional & Other Places,25.0,"",25.0,5
+2020-03-29,California,Calaveras County,Shops & Services,62.0,39.0,63.0,1
+2020-03-29,California,Calaveras County,Outdoors & Recreation,45.0,"",46.0,2
+2020-03-29,California,Yuba County,Shops & Services,49.0,"",49.0,1
+2020-03-29,California,Yuba County,Food,42.0,"",42.0,2
+2020-03-29,California,Los Angeles County,Shops & Services,35.0,34.0,35.0,1
+2020-03-29,California,Los Angeles County,Food,29.0,26.0,29.0,2
+2020-03-29,California,Los Angeles County,Outdoors & Recreation,37.0,40.0,37.0,3
+2020-03-29,California,Los Angeles County,Professional & Other Places,30.0,26.0,30.0,4
+2020-03-29,California,Los Angeles County,Grocery,51.0,47.0,51.0,5
+2020-03-29,California,Los Angeles County,Fast Food Restaurants,45.0,39.0,46.0,6
+2020-03-29,California,Los Angeles County,School,39.0,39.0,39.0,7
+2020-03-29,California,Los Angeles County,Travel & Transport,17.0,14.0,18.0,8
+2020-03-29,California,Los Angeles County,Nightlife Spots,18.0,25.0,18.0,9
+2020-03-29,California,Los Angeles County,Residences,41.0,50.0,41.0,10
+2020-03-29,California,Los Angeles County,Big Box Stores,55.0,48.0,55.0,11
+2020-03-29,California,Los Angeles County,Gas Stations,40.0,34.0,40.0,12
+2020-03-29,California,Los Angeles County,Arts & Entertainment,10.0,13.0,10.0,13
+2020-03-29,California,Los Angeles County,Medical,39.0,30.0,39.0,14
+2020-03-29,California,Los Angeles County,Drug Store,52.0,42.0,52.0,15
+2020-03-29,California,Los Angeles County,Convenience Store,44.0,42.0,44.0,16
+2020-03-29,California,Los Angeles County,Sports,23.0,23.0,23.0,17
+2020-03-29,California,Los Angeles County,Colleges & Universities,24.0,27.0,24.0,18
+2020-03-29,California,Los Angeles County,Airport,15.0,7.0,15.0,19
+2020-03-29,California,Los Angeles County,Hardware Stores,67.0,55.0,67.0,20
+2020-03-29,California,Los Angeles County,Spiritual Center,19.0,12.0,20.0,21
+2020-03-29,California,Los Angeles County,Fitness Center,22.0,25.0,22.0,22
+2020-03-29,California,Los Angeles County,Discount Stores,49.0,40.0,49.0,23
+2020-03-29,California,Los Angeles County,Hotel,16.0,17.0,16.0,24
+2020-03-29,California,Los Angeles County,Government,41.0,41.0,41.0,25
+2020-03-29,California,Los Angeles County,Office,36.0,32.0,36.0,26
+2020-03-29,California,Los Angeles County,Banks,40.0,36.0,40.0,27
+2020-03-29,California,Los Angeles County,Alcohol,45.0,"",45.0,28
+2020-03-29,California,Los Angeles County,Beach,33.0,38.0,32.0,29
+2020-03-29,California,Los Angeles County,Bus,36.0,"",37.0,30
+2020-03-29,California,Los Angeles County,Light Rail Stations,25.0,"",26.0,31
+2020-03-29,California,San Joaquin County,Shops & Services,50.0,50.0,50.0,1
+2020-03-29,California,San Joaquin County,Food,41.0,37.0,41.0,2
+2020-03-29,California,San Joaquin County,Professional & Other Places,46.0,32.0,47.0,3
+2020-03-29,California,San Joaquin County,Outdoors & Recreation,43.0,37.0,43.0,4
+2020-03-29,California,San Joaquin County,Grocery,67.0,61.0,67.0,5
+2020-03-29,California,San Joaquin County,Big Box Stores,59.0,"",60.0,6
+2020-03-29,California,San Joaquin County,Fast Food Restaurants,50.0,"",50.0,7
+2020-03-29,California,San Joaquin County,Gas Stations,50.0,"",51.0,8
+2020-03-29,California,San Joaquin County,School,42.0,60.0,41.0,9
+2020-03-29,California,San Joaquin County,Nightlife Spots,30.0,"",30.0,10
+2020-03-29,California,San Joaquin County,Sports,40.0,60.0,39.0,11
+2020-03-29,California,San Joaquin County,Medical,50.0,"",50.0,12
+2020-03-29,California,San Joaquin County,Travel & Transport,37.0,"",37.0,13
+2020-03-29,California,San Joaquin County,Drug Store,86.0,"",87.0,14
+2020-03-29,California,San Joaquin County,Residences,60.0,"",59.0,15
+2020-03-29,California,San Joaquin County,Hardware Stores,70.0,"",71.0,16
+2020-03-29,California,San Joaquin County,Arts & Entertainment,28.0,"",27.0,17
+2020-03-29,California,San Joaquin County,Spiritual Center,26.0,"",27.0,18
+2020-03-29,California,San Joaquin County,Convenience Store,48.0,"",48.0,19
+2020-03-29,California,Monterey County,Shops & Services,38.0,38.0,38.0,1
+2020-03-29,California,Monterey County,Food,27.0,22.0,27.0,2
+2020-03-29,California,Monterey County,Outdoors & Recreation,31.0,33.0,31.0,3
+2020-03-29,California,Monterey County,Professional & Other Places,31.0,24.0,32.0,4
+2020-03-29,California,Monterey County,Grocery,55.0,55.0,55.0,5
+2020-03-29,California,Monterey County,School,41.0,"",41.0,6
+2020-03-29,California,Monterey County,Travel & Transport,18.0,"",18.0,7
+2020-03-29,California,Monterey County,Gas Stations,42.0,"",42.0,8
+2020-03-29,California,Monterey County,Hotel,17.0,"",17.0,8
+2020-03-29,California,Monterey County,Nightlife Spots,20.0,"",20.0,9
+2020-03-29,California,Monterey County,Big Box Stores,55.0,"",55.0,10
+2020-03-29,California,Monterey County,Arts & Entertainment,17.0,39.0,16.0,11
+2020-03-29,California,Madera County,Shops & Services,50.0,37.0,51.0,1
+2020-03-29,California,Madera County,Food,41.0,33.0,41.0,2
+2020-03-29,California,Madera County,Professional & Other Places,48.0,"",48.0,3
+2020-03-29,California,Madera County,Outdoors & Recreation,51.0,52.0,51.0,4
+2020-03-29,California,Madera County,Grocery,62.0,"",63.0,5
+2020-03-29,California,Madera County,Gas Stations,41.0,"",41.0,6
+2020-03-29,California,Sonoma County,Shops & Services,40.0,37.0,41.0,1
+2020-03-29,California,Sonoma County,Food,25.0,18.0,25.0,2
+2020-03-29,California,Sonoma County,Outdoors & Recreation,32.0,41.0,32.0,3
+2020-03-29,California,Sonoma County,Professional & Other Places,27.0,22.0,28.0,4
+2020-03-29,California,Sonoma County,Grocery,52.0,45.0,53.0,5
+2020-03-29,California,Sonoma County,Nightlife Spots,11.0,"",11.0,6
+2020-03-29,California,Sonoma County,Gas Stations,47.0,"",47.0,7
+2020-03-29,California,Sonoma County,School,46.0,"",48.0,8
+2020-03-29,California,Sonoma County,Medical,63.0,"",65.0,9
+2020-03-29,California,San Mateo County,Shops & Services,36.0,33.0,36.0,1
+2020-03-29,California,San Mateo County,Food,22.0,17.0,23.0,2
+2020-03-29,California,San Mateo County,Outdoors & Recreation,36.0,37.0,36.0,3
+2020-03-29,California,San Mateo County,Airport,13.0,8.0,13.0,4
+2020-03-29,California,San Mateo County,Travel & Transport,13.0,10.0,13.0,5
+2020-03-29,California,San Mateo County,Professional & Other Places,26.0,16.0,26.0,6
+2020-03-29,California,San Mateo County,Grocery,56.0,39.0,56.0,7
+2020-03-29,California,San Mateo County,Residences,43.0,92.0,41.0,8
+2020-03-29,California,San Mateo County,School,30.0,"",31.0,9
+2020-03-29,California,San Mateo County,Medical,45.0,"",45.0,10
+2020-03-29,California,San Mateo County,Gas Stations,34.0,"",33.0,11
+2020-03-29,California,San Mateo County,Nightlife Spots,17.0,"",17.0,12
+2020-03-29,California,San Mateo County,Fast Food Restaurants,42.0,"",42.0,13
+2020-03-29,California,San Mateo County,Sports,20.0,"",21.0,14
+2020-03-29,California,San Mateo County,Big Box Stores,45.0,"",44.0,15
+2020-03-29,California,San Mateo County,Office,37.0,"",37.0,16
+2020-03-29,California,San Mateo County,Drug Store,49.0,"",50.0,17
+2020-03-29,California,Kern County,Shops & Services,42.0,42.0,42.0,1
+2020-03-29,California,Kern County,Food,38.0,30.0,39.0,2
+2020-03-29,California,Kern County,Outdoors & Recreation,51.0,48.0,51.0,3
+2020-03-29,California,Kern County,Professional & Other Places,34.0,32.0,34.0,4
+2020-03-29,California,Kern County,Grocery,56.0,51.0,57.0,5
+2020-03-29,California,Kern County,Gas Stations,48.0,35.0,48.0,6
+2020-03-29,California,Kern County,School,39.0,"",40.0,7
+2020-03-29,California,Kern County,Fast Food Restaurants,44.0,"",44.0,8
+2020-03-29,California,Kern County,Travel & Transport,38.0,"",38.0,9
+2020-03-29,California,Kern County,Big Box Stores,47.0,"",47.0,10
+2020-03-29,California,Kern County,Nightlife Spots,30.0,61.0,29.0,11
+2020-03-29,California,Kern County,Arts & Entertainment,33.0,"",33.0,11
+2020-03-29,California,Kern County,Drug Store,67.0,"",67.0,12
+2020-03-29,California,Kern County,Medical,36.0,"",35.0,13
+2020-03-29,California,Kern County,Convenience Store,47.0,"",47.0,14
+2020-03-29,California,Kern County,Hardware Stores,64.0,"",64.0,15
+2020-03-29,California,Kern County,Residences,66.0,"",64.0,16
+2020-03-29,California,Kern County,Spiritual Center,23.0,"",24.0,17
+2020-03-29,California,Kern County,Sports,34.0,"",34.0,17
+2020-03-29,California,Kern County,Discount Stores,48.0,"",48.0,18
+2020-03-29,California,Kern County,Colleges & Universities,46.0,"",46.0,19
+2020-03-29,California,Sutter County,Shops & Services,42.0,32.0,43.0,1
+2020-03-29,California,Sutter County,Food,39.0,"",39.0,2
+2020-03-29,California,Sutter County,Professional & Other Places,43.0,"",44.0,3
+2020-03-29,California,Imperial County,Shops & Services,39.0,57.0,38.0,1
+2020-03-29,California,Imperial County,Food,33.0,24.0,33.0,2
+2020-03-29,California,Imperial County,Outdoors & Recreation,48.0,"",49.0,3
+2020-03-29,California,Imperial County,Professional & Other Places,46.0,"",46.0,4
+2020-03-29,California,Santa Barbara County,Shops & Services,46.0,48.0,46.0,1
+2020-03-29,California,Santa Barbara County,Food,29.0,24.0,29.0,2
+2020-03-29,California,Santa Barbara County,Outdoors & Recreation,51.0,55.0,50.0,3
+2020-03-29,California,Santa Barbara County,Professional & Other Places,30.0,25.0,30.0,4
+2020-03-29,California,Santa Barbara County,Grocery,59.0,54.0,60.0,5
+2020-03-29,California,Santa Barbara County,Travel & Transport,22.0,40.0,21.0,6
+2020-03-29,California,Santa Barbara County,Arts & Entertainment,26.0,"",26.0,7
+2020-03-29,California,Santa Barbara County,Nightlife Spots,18.0,"",18.0,8
+2020-03-29,California,Santa Barbara County,Beach,58.0,"",58.0,9
+2020-03-29,California,Santa Barbara County,School,39.0,"",39.0,10
+2020-03-29,California,Santa Barbara County,Gas Stations,42.0,"",42.0,11
+2020-03-29,California,Riverside County,Shops & Services,42.0,34.0,42.0,1
+2020-03-29,California,Riverside County,Food,32.0,22.0,32.0,2
+2020-03-29,California,Riverside County,Outdoors & Recreation,39.0,33.0,39.0,3
+2020-03-29,California,Riverside County,Professional & Other Places,34.0,26.0,34.0,4
+2020-03-29,California,Riverside County,Grocery,56.0,43.0,56.0,5
+2020-03-29,California,Riverside County,Fast Food Restaurants,49.0,38.0,50.0,6
+2020-03-29,California,Riverside County,School,43.0,42.0,43.0,7
+2020-03-29,California,Riverside County,Big Box Stores,54.0,42.0,55.0,8
+2020-03-29,California,Riverside County,Gas Stations,45.0,33.0,45.0,9
+2020-03-29,California,Riverside County,Sports,25.0,26.0,25.0,10
+2020-03-29,California,Riverside County,Hardware Stores,80.0,68.0,80.0,11
+2020-03-29,California,Riverside County,Nightlife Spots,17.0,17.0,17.0,12
+2020-03-29,California,Riverside County,Residences,41.0,32.0,41.0,13
+2020-03-29,California,Riverside County,Travel & Transport,22.0,16.0,22.0,14
+2020-03-29,California,Riverside County,Arts & Entertainment,12.0,10.0,12.0,15
+2020-03-29,California,Riverside County,Medical,38.0,24.0,39.0,16
+2020-03-29,California,Riverside County,Convenience Store,43.0,34.0,43.0,17
+2020-03-29,California,Riverside County,Drug Store,52.0,49.0,53.0,18
+2020-03-29,California,Riverside County,Hotel,18.0,19.0,18.0,19
+2020-03-29,California,Riverside County,Spiritual Center,19.0,"",19.0,20
+2020-03-29,California,Riverside County,Discount Stores,49.0,"",49.0,21
+2020-03-29,California,Riverside County,Colleges & Universities,27.0,"",27.0,22
+2020-03-29,California,Riverside County,Government,43.0,"",43.0,23
+2020-03-29,California,Riverside County,Banks,43.0,"",44.0,24
+2020-03-29,California,Riverside County,Fitness Center,16.0,"",16.0,25
+2020-03-29,California,Riverside County,Alcohol,52.0,"",54.0,26
+2020-03-29,California,San Luis Obispo County,Shops & Services,34.0,32.0,34.0,1
+2020-03-29,California,San Luis Obispo County,Outdoors & Recreation,37.0,43.0,37.0,2
+2020-03-29,California,San Luis Obispo County,Food,22.0,18.0,22.0,3
+2020-03-29,California,San Luis Obispo County,Professional & Other Places,25.0,24.0,25.0,4
+2020-03-29,California,San Luis Obispo County,Nightlife Spots,19.0,"",19.0,5
+2020-03-29,California,San Luis Obispo County,Grocery,40.0,46.0,39.0,6
+2020-03-29,California,San Luis Obispo County,Hotel,16.0,"",16.0,7
+2020-03-29,California,San Luis Obispo County,Travel & Transport,15.0,"",15.0,8
+2020-03-29,California,El Dorado County,Shops & Services,41.0,36.0,41.0,1
+2020-03-29,California,El Dorado County,Food,23.0,19.0,23.0,2
+2020-03-29,California,El Dorado County,Outdoors & Recreation,30.0,29.0,30.0,3
+2020-03-29,California,El Dorado County,Grocery,53.0,"",54.0,4
+2020-03-29,California,El Dorado County,Professional & Other Places,37.0,"",38.0,5
+2020-03-29,California,El Dorado County,Nightlife Spots,23.0,"",23.0,6
+2020-03-29,California,Fresno County,Shops & Services,41.0,38.0,41.0,1
+2020-03-29,California,Fresno County,Food,36.0,31.0,36.0,2
+2020-03-29,California,Fresno County,Professional & Other Places,38.0,28.0,38.0,3
+2020-03-29,California,Fresno County,Outdoors & Recreation,47.0,35.0,47.0,4
+2020-03-29,California,Fresno County,Grocery,56.0,45.0,56.0,5
+2020-03-29,California,Fresno County,School,45.0,49.0,45.0,6
+2020-03-29,California,Fresno County,Fast Food Restaurants,52.0,52.0,52.0,7
+2020-03-29,California,Fresno County,Gas Stations,48.0,44.0,49.0,8
+2020-03-29,California,Fresno County,Big Box Stores,55.0,62.0,55.0,9
+2020-03-29,California,Fresno County,Nightlife Spots,28.0,"",28.0,10
+2020-03-29,California,Fresno County,Residences,51.0,"",52.0,11
+2020-03-29,California,Fresno County,Medical,40.0,"",40.0,12
+2020-03-29,California,Fresno County,Arts & Entertainment,20.0,"",20.0,13
+2020-03-29,California,Fresno County,Travel & Transport,28.0,"",28.0,14
+2020-03-29,California,Fresno County,Drug Store,55.0,"",54.0,15
+2020-03-29,California,Fresno County,Hardware Stores,55.0,"",56.0,16
+2020-03-29,California,Fresno County,Convenience Store,52.0,"",52.0,17
+2020-03-29,California,Fresno County,Discount Stores,47.0,"",48.0,18
+2020-03-29,California,Fresno County,Spiritual Center,19.0,"",20.0,19
+2020-03-29,California,Fresno County,Hotel,37.0,"",37.0,20
+2020-03-29,California,Fresno County,Sports,37.0,"",38.0,21
+2020-03-29,California,Fresno County,Colleges & Universities,29.0,"",30.0,22
+2020-03-29,California,Marin County,Shops & Services,40.0,25.0,41.0,1
+2020-03-29,California,Marin County,Outdoors & Recreation,27.0,32.0,26.0,2
+2020-03-29,California,Marin County,Food,23.0,24.0,23.0,3
+2020-03-29,California,Marin County,Professional & Other Places,42.0,41.0,42.0,4
+2020-03-29,California,Marin County,Grocery,55.0,"",57.0,5
+2020-03-29,California,San Francisco County,Food,14.0,19.0,13.0,1
+2020-03-29,California,San Francisco County,Shops & Services,21.0,23.0,21.0,2
+2020-03-29,California,San Francisco County,Outdoors & Recreation,26.0,36.0,25.0,3
+2020-03-29,California,San Francisco County,Professional & Other Places,19.0,18.0,19.0,4
+2020-03-29,California,San Francisco County,Grocery,39.0,34.0,39.0,5
+2020-03-29,California,San Francisco County,Arts & Entertainment,9.0,"",9.0,6
+2020-03-29,California,San Francisco County,Travel & Transport,10.0,"",10.0,7
+2020-03-29,California,San Francisco County,Nightlife Spots,6.0,"",6.0,8
+2020-03-29,California,San Francisco County,Residences,26.0,"",27.0,9
+2020-03-29,California,San Francisco County,Medical,36.0,"",36.0,10
+2020-03-29,California,San Francisco County,Bus,35.0,"",35.0,11
+2020-03-29,California,San Francisco County,Sports,14.0,"",14.0,12
+2020-03-29,California,San Francisco County,Government,35.0,"",35.0,13
+2020-03-29,California,San Francisco County,Fitness Center,11.0,"",11.0,14
+2020-03-29,California,San Francisco County,Office,16.0,"",16.0,15
+2020-03-29,California,San Francisco County,Colleges & Universities,20.0,"",20.0,16
+2020-03-29,California,San Francisco County,Drug Store,37.0,"",37.0,17
+2020-03-29,California,San Francisco County,School,24.0,"",24.0,18
+2020-03-29,California,Tuolumne County,Shops & Services,55.0,46.0,56.0,1
+2020-03-29,California,Tuolumne County,Food,38.0,"",38.0,2
+2020-03-29,California,Tuolumne County,Outdoors & Recreation,42.0,"",43.0,3
+2020-03-29,California,Humboldt County,Shops & Services,38.0,28.0,39.0,1
+2020-03-29,California,Humboldt County,Food,30.0,24.0,31.0,2
+2020-03-29,California,Humboldt County,Outdoors & Recreation,34.0,"",34.0,3
+2020-03-29,California,Napa County,Shops & Services,41.0,39.0,41.0,1
+2020-03-29,California,Napa County,Food,18.0,"",18.0,2
+2020-03-29,California,Napa County,Outdoors & Recreation,37.0,61.0,36.0,3
+2020-03-29,California,Napa County,Professional & Other Places,17.0,"",17.0,4
+2020-03-29,California,Napa County,Grocery,62.0,"",63.0,5
+2020-03-29,California,Orange County,Shops & Services,36.0,33.0,36.0,1
+2020-03-29,California,Orange County,Food,29.0,25.0,29.0,2
+2020-03-29,California,Orange County,Outdoors & Recreation,47.0,47.0,47.0,3
+2020-03-29,California,Orange County,Grocery,57.0,51.0,57.0,4
+2020-03-29,California,Orange County,Professional & Other Places,25.0,22.0,25.0,5
+2020-03-29,California,Orange County,Residences,45.0,44.0,45.0,6
+2020-03-29,California,Orange County,Fast Food Restaurants,49.0,49.0,49.0,7
+2020-03-29,California,Orange County,Nightlife Spots,18.0,23.0,18.0,8
+2020-03-29,California,Orange County,Big Box Stores,57.0,45.0,57.0,9
+2020-03-29,California,Orange County,School,39.0,39.0,39.0,10
+2020-03-29,California,Orange County,Gas Stations,40.0,32.0,40.0,11
+2020-03-29,California,Orange County,Medical,43.0,32.0,44.0,12
+2020-03-29,California,Orange County,Sports,29.0,24.0,29.0,13
+2020-03-29,California,Orange County,Travel & Transport,14.0,15.0,14.0,14
+2020-03-29,California,Orange County,Arts & Entertainment,3.0,5.0,3.0,15
+2020-03-29,California,Orange County,Drug Store,57.0,46.0,57.0,16
+2020-03-29,California,Orange County,Convenience Store,55.0,"",55.0,17
+2020-03-29,California,Orange County,Hardware Stores,66.0,54.0,67.0,18
+2020-03-29,California,Orange County,Fitness Center,25.0,23.0,25.0,19
+2020-03-29,California,Orange County,Beach,43.0,45.0,43.0,20
+2020-03-29,California,Orange County,Hotel,8.0,12.0,8.0,21
+2020-03-29,California,Orange County,Colleges & Universities,19.0,20.0,19.0,22
+2020-03-29,California,Orange County,Spiritual Center,14.0,8.0,14.0,23
+2020-03-29,California,Orange County,Discount Stores,53.0,"",53.0,24
+2020-03-29,California,Orange County,Office,40.0,"",40.0,25
+2020-03-29,California,Orange County,Banks,47.0,"",47.0,26
+2020-03-29,California,Orange County,Airport,23.0,"",23.0,27
+2020-03-29,California,Orange County,Government,32.0,"",31.0,28
+2020-03-29,California,Orange County,Alcohol,53.0,"",53.0,29
+2020-03-29,California,Lassen County,Shops & Services,88.0,"",89.0,1
+2020-03-29,California,Ventura County,Shops & Services,40.0,33.0,40.0,1
+2020-03-29,California,Ventura County,Food,37.0,28.0,38.0,2
+2020-03-29,California,Ventura County,Outdoors & Recreation,56.0,63.0,56.0,3
+2020-03-29,California,Ventura County,Grocery,57.0,39.0,58.0,4
+2020-03-29,California,Ventura County,Professional & Other Places,36.0,30.0,36.0,5
+2020-03-29,California,Ventura County,Nightlife Spots,31.0,36.0,30.0,6
+2020-03-29,California,Ventura County,School,44.0,73.0,43.0,7
+2020-03-29,California,Ventura County,Fast Food Restaurants,57.0,"",57.0,8
+2020-03-29,California,Ventura County,Gas Stations,45.0,"",45.0,9
+2020-03-29,California,Ventura County,Big Box Stores,57.0,"",57.0,10
+2020-03-29,California,Ventura County,Travel & Transport,40.0,41.0,39.0,11
+2020-03-29,California,Ventura County,Arts & Entertainment,23.0,26.0,23.0,12
+2020-03-29,California,Ventura County,Colleges & Universities,32.0,"",32.0,13
+2020-03-29,California,Ventura County,Sports,34.0,37.0,34.0,14
+2020-03-29,California,Ventura County,Medical,41.0,"",42.0,15
+2020-03-29,California,Ventura County,Residences,50.0,"",51.0,16
+2020-03-29,California,Ventura County,Hardware Stores,71.0,"",71.0,17
+2020-03-29,California,Ventura County,Beach,78.0,"",80.0,18
+2020-03-29,California,Ventura County,Drug Store,48.0,"",49.0,19
+2020-03-29,California,Merced County,Shops & Services,49.0,50.0,49.0,1
+2020-03-29,California,Merced County,Food,42.0,43.0,41.0,2
+2020-03-29,California,Merced County,Outdoors & Recreation,50.0,59.0,49.0,3
+2020-03-29,California,Merced County,Professional & Other Places,36.0,"",36.0,4
+2020-03-29,California,Merced County,Grocery,53.0,"",53.0,5
+2020-03-29,California,Merced County,School,38.0,"",38.0,6
+2020-03-29,California,Merced County,Big Box Stores,58.0,"",58.0,7
+2020-03-29,California,Merced County,Gas Stations,50.0,"",50.0,8
+2020-03-29,California,Merced County,Fast Food Restaurants,58.0,"",59.0,9
+2020-03-29,California,Merced County,Travel & Transport,40.0,"",40.0,10
+2020-03-29,California,Alameda County,Shops & Services,34.0,32.0,34.0,1
+2020-03-29,California,Alameda County,Food,24.0,24.0,24.0,2
+2020-03-29,California,Alameda County,Outdoors & Recreation,41.0,43.0,41.0,3
+2020-03-29,California,Alameda County,Professional & Other Places,30.0,22.0,30.0,4
+2020-03-29,California,Alameda County,Grocery,53.0,47.0,53.0,5
+2020-03-29,California,Alameda County,Travel & Transport,19.0,18.0,19.0,6
+2020-03-29,California,Alameda County,Residences,39.0,46.0,39.0,7
+2020-03-29,California,Alameda County,Medical,49.0,56.0,49.0,8
+2020-03-29,California,Alameda County,Nightlife Spots,14.0,"",14.0,9
+2020-03-29,California,Alameda County,School,35.0,"",36.0,10
+2020-03-29,California,Alameda County,Big Box Stores,52.0,"",52.0,11
+2020-03-29,California,Alameda County,Gas Stations,39.0,"",39.0,12
+2020-03-29,California,Alameda County,Fast Food Restaurants,43.0,"",43.0,13
+2020-03-29,California,Alameda County,Arts & Entertainment,14.0,"",14.0,14
+2020-03-29,California,Alameda County,Sports,21.0,"",22.0,15
+2020-03-29,California,Alameda County,Drug Store,59.0,"",60.0,16
+2020-03-29,California,Alameda County,Colleges & Universities,20.0,"",20.0,17
+2020-03-29,California,Alameda County,Convenience Store,40.0,"",40.0,18
+2020-03-29,California,Alameda County,Fitness Center,17.0,"",18.0,19
+2020-03-29,California,Alameda County,Hardware Stores,55.0,"",56.0,19
+2020-03-29,California,Alameda County,Spiritual Center,18.0,"",18.0,20
+2020-03-29,California,Alameda County,Airport,15.0,"",15.0,21
+2020-03-29,California,Alameda County,Alcohol,41.0,"",41.0,22
+2020-03-29,California,San Diego County,Shops & Services,39.0,38.0,39.0,1
+2020-03-29,California,San Diego County,Food,30.0,29.0,30.0,2
+2020-03-29,California,San Diego County,Outdoors & Recreation,39.0,44.0,39.0,3
+2020-03-29,California,San Diego County,Professional & Other Places,35.0,30.0,36.0,4
+2020-03-29,California,San Diego County,Grocery,56.0,48.0,56.0,5
+2020-03-29,California,San Diego County,Residences,50.0,52.0,50.0,6
+2020-03-29,California,San Diego County,Travel & Transport,20.0,21.0,20.0,7
+2020-03-29,California,San Diego County,Nightlife Spots,17.0,19.0,17.0,8
+2020-03-29,California,San Diego County,School,50.0,54.0,50.0,9
+2020-03-29,California,San Diego County,Big Box Stores,55.0,48.0,56.0,10
+2020-03-29,California,San Diego County,Medical,44.0,38.0,44.0,11
+2020-03-29,California,San Diego County,Arts & Entertainment,9.0,10.0,9.0,12
+2020-03-29,California,San Diego County,Sports,31.0,34.0,30.0,13
+2020-03-29,California,San Diego County,Fast Food Restaurants,45.0,45.0,45.0,14
+2020-03-29,California,San Diego County,Gas Stations,42.0,40.0,43.0,15
+2020-03-29,California,San Diego County,Convenience Store,44.0,45.0,44.0,16
+2020-03-29,California,San Diego County,Drug Store,56.0,48.0,56.0,17
+2020-03-29,California,San Diego County,Hotel,19.0,24.0,19.0,18
+2020-03-29,California,San Diego County,Hardware Stores,76.0,76.0,76.0,19
+2020-03-29,California,San Diego County,Beach,33.0,43.0,33.0,20
+2020-03-29,California,San Diego County,Colleges & Universities,25.0,27.0,25.0,21
+2020-03-29,California,San Diego County,Government,46.0,48.0,46.0,22
+2020-03-29,California,San Diego County,Spiritual Center,20.0,13.0,21.0,23
+2020-03-29,California,San Diego County,Fitness Center,22.0,19.0,22.0,24
+2020-03-29,California,San Diego County,Airport,13.0,26.0,13.0,25
+2020-03-29,California,San Diego County,Office,46.0,59.0,46.0,26
+2020-03-29,California,San Diego County,Alcohol,45.0,"",46.0,27
+2020-03-29,California,San Diego County,Discount Stores,43.0,"",43.0,28
+2020-03-29,California,San Diego County,Banks,51.0,"",52.0,29
+2020-03-29,California,San Diego County,Light Rail Stations,32.0,"",32.0,30
+2020-03-29,California,Amador County,Shops & Services,57.0,44.0,58.0,1
+2020-03-29,California,Glenn County,Shops & Services,57.0,"",57.0,1
+2020-03-29,California,San Bernardino County,Shops & Services,40.0,38.0,40.0,1
+2020-03-29,California,San Bernardino County,Food,33.0,28.0,34.0,2
+2020-03-29,California,San Bernardino County,Outdoors & Recreation,40.0,42.0,40.0,3
+2020-03-29,California,San Bernardino County,Professional & Other Places,40.0,30.0,40.0,4
+2020-03-29,California,San Bernardino County,Grocery,55.0,51.0,55.0,5
+2020-03-29,California,San Bernardino County,School,39.0,30.0,39.0,6
+2020-03-29,California,San Bernardino County,Fast Food Restaurants,46.0,35.0,46.0,7
+2020-03-29,California,San Bernardino County,Gas Stations,47.0,35.0,47.0,8
+2020-03-29,California,San Bernardino County,Big Box Stores,57.0,55.0,57.0,9
+2020-03-29,California,San Bernardino County,Travel & Transport,36.0,23.0,36.0,10
+2020-03-29,California,San Bernardino County,Nightlife Spots,27.0,24.0,27.0,11
+2020-03-29,California,San Bernardino County,Medical,42.0,35.0,42.0,12
+2020-03-29,California,San Bernardino County,Residences,48.0,38.0,49.0,13
+2020-03-29,California,San Bernardino County,Convenience Store,51.0,48.0,51.0,14
+2020-03-29,California,San Bernardino County,Hardware Stores,75.0,63.0,75.0,15
+2020-03-29,California,San Bernardino County,Arts & Entertainment,15.0,17.0,15.0,16
+2020-03-29,California,San Bernardino County,Sports,31.0,34.0,31.0,17
+2020-03-29,California,San Bernardino County,Drug Store,57.0,56.0,57.0,18
+2020-03-29,California,San Bernardino County,Hotel,34.0,37.0,34.0,19
+2020-03-29,California,San Bernardino County,Discount Stores,44.0,"",45.0,20
+2020-03-29,California,San Bernardino County,Colleges & Universities,38.0,"",38.0,21
+2020-03-29,California,San Bernardino County,Spiritual Center,18.0,"",18.0,22
+2020-03-29,California,San Bernardino County,Government,49.0,"",49.0,23
+2020-03-29,California,San Bernardino County,Office,62.0,"",62.0,24
+2020-03-29,California,San Bernardino County,Fitness Center,22.0,"",22.0,25
+2020-03-29,California,San Bernardino County,Airport,26.0,"",26.0,26
+2020-03-29,California,San Bernardino County,Banks,46.0,"",47.0,27
+2020-03-29,California,San Bernardino County,Alcohol,40.0,"",39.0,28
+2020-03-29,California,Mendocino County,Shops & Services,40.0,39.0,41.0,1
+2020-03-29,California,Mendocino County,Food,27.0,"",28.0,2
+2020-03-29,California,Mendocino County,Outdoors & Recreation,34.0,"",33.0,3
+2020-03-29,California,Tulare County,Shops & Services,49.0,37.0,49.0,1
+2020-03-29,California,Tulare County,Food,44.0,38.0,45.0,2
+2020-03-29,California,Tulare County,Professional & Other Places,42.0,31.0,42.0,3
+2020-03-29,California,Tulare County,Outdoors & Recreation,42.0,54.0,41.0,4
+2020-03-29,California,Tulare County,Grocery,64.0,"",65.0,5
+2020-03-29,California,Tulare County,Gas Stations,58.0,61.0,58.0,6
+2020-03-29,California,Tulare County,School,46.0,"",46.0,7
+2020-03-29,California,Tulare County,Fast Food Restaurants,60.0,"",60.0,8
+2020-03-29,California,Tulare County,Big Box Stores,54.0,"",55.0,9
+2020-03-29,California,Tulare County,Nightlife Spots,34.0,"",35.0,10
+2020-03-29,California,Tulare County,Medical,45.0,"",45.0,11
+2020-03-29,California,Tulare County,Hardware Stores,75.0,"",76.0,12
+2020-03-29,California,Tulare County,Arts & Entertainment,27.0,"",27.0,13
+2020-03-29,California,Shasta County,Shops & Services,52.0,44.0,52.0,1
+2020-03-29,California,Shasta County,Food,39.0,32.0,40.0,2
+2020-03-29,California,Shasta County,Outdoors & Recreation,51.0,56.0,50.0,3
+2020-03-29,California,Shasta County,Grocery,60.0,"",61.0,4
+2020-03-29,California,Contra Costa County,Shops & Services,38.0,35.0,39.0,1
+2020-03-29,California,Contra Costa County,Food,29.0,20.0,29.0,2
+2020-03-29,California,Contra Costa County,Outdoors & Recreation,42.0,33.0,43.0,3
+2020-03-29,California,Contra Costa County,Grocery,56.0,47.0,56.0,4
+2020-03-29,California,Contra Costa County,Professional & Other Places,36.0,28.0,36.0,5
+2020-03-29,California,Contra Costa County,School,33.0,37.0,33.0,6
+2020-03-29,California,Contra Costa County,Residences,53.0,"",53.0,7
+2020-03-29,California,Contra Costa County,Medical,48.0,"",49.0,8
+2020-03-29,California,Contra Costa County,Travel & Transport,35.0,"",35.0,9
+2020-03-29,California,Contra Costa County,Nightlife Spots,27.0,"",28.0,10
+2020-03-29,California,Contra Costa County,Gas Stations,41.0,"",42.0,10
+2020-03-29,California,Contra Costa County,Big Box Stores,55.0,"",55.0,11
+2020-03-29,California,Contra Costa County,Fast Food Restaurants,41.0,"",41.0,12
+2020-03-29,California,Contra Costa County,Sports,20.0,"",20.0,13
+2020-03-29,California,Contra Costa County,Drug Store,50.0,"",50.0,14
+2020-03-29,California,Contra Costa County,Arts & Entertainment,16.0,"",16.0,15
+2020-03-29,California,Contra Costa County,Hardware Stores,44.0,"",44.0,16
+2020-03-29,California,Contra Costa County,Convenience Store,48.0,"",49.0,17
+2020-03-29,California,Stanislaus County,Shops & Services,48.0,39.0,48.0,1
+2020-03-29,California,Stanislaus County,Food,40.0,34.0,40.0,2
+2020-03-29,California,Stanislaus County,Outdoors & Recreation,52.0,69.0,52.0,3
+2020-03-29,California,Stanislaus County,Grocery,64.0,52.0,64.0,4
+2020-03-29,California,Stanislaus County,Professional & Other Places,40.0,32.0,41.0,5
+2020-03-29,California,Stanislaus County,Nightlife Spots,36.0,"",36.0,6
+2020-03-29,California,Stanislaus County,Fast Food Restaurants,49.0,"",50.0,7
+2020-03-29,California,Stanislaus County,School,48.0,"",48.0,8
+2020-03-29,California,Stanislaus County,Big Box Stores,52.0,"",52.0,9
+2020-03-29,California,Stanislaus County,Medical,41.0,"",41.0,10
+2020-03-29,California,Stanislaus County,Gas Stations,47.0,"",47.0,11
+2020-03-29,California,Stanislaus County,Sports,37.0,"",37.0,12
+2020-03-29,California,Stanislaus County,Drug Store,68.0,"",68.0,13
+2020-03-29,California,Stanislaus County,Arts & Entertainment,26.0,"",26.0,14
+2020-03-29,California,Stanislaus County,Hardware Stores,73.0,"",75.0,15
+2020-03-29,California,Stanislaus County,Travel & Transport,41.0,"",41.0,16
+2020-03-29,California,Stanislaus County,Convenience Store,54.0,"",55.0,17
+2020-03-29,California,Stanislaus County,Discount Stores,64.0,"",64.0,18
+2020-03-29,California,Kings County,Shops & Services,57.0,58.0,57.0,1
+2020-03-29,California,Kings County,Food,39.0,33.0,39.0,2
+2020-03-29,California,Kings County,Professional & Other Places,50.0,"",51.0,3
+2020-03-29,California,Kings County,Outdoors & Recreation,48.0,"",47.0,4
+2020-03-29,California,Kings County,Grocery,70.0,"",70.0,5
+2020-03-29,California,Kings County,Gas Stations,58.0,"",59.0,6
+2020-03-29,California,Butte County,Shops & Services,46.0,43.0,47.0,1
+2020-03-29,California,Butte County,Food,38.0,42.0,37.0,2
+2020-03-29,California,Butte County,Outdoors & Recreation,49.0,42.0,50.0,3
+2020-03-29,California,Butte County,Grocery,59.0,50.0,59.0,4
+2020-03-29,California,Butte County,Professional & Other Places,38.0,"",39.0,5
+2020-03-29,California,Butte County,Nightlife Spots,41.0,"",41.0,6
+2020-03-29,California,Santa Clara County,Shops & Services,28.0,25.0,28.0,1
+2020-03-29,California,Santa Clara County,Food,22.0,19.0,22.0,2
+2020-03-29,California,Santa Clara County,Outdoors & Recreation,38.0,38.0,38.0,3
+2020-03-29,California,Santa Clara County,Professional & Other Places,25.0,21.0,25.0,4
+2020-03-29,California,Santa Clara County,Grocery,47.0,38.0,47.0,5
+2020-03-29,California,Santa Clara County,Residences,37.0,"",37.0,6
+2020-03-29,California,Santa Clara County,School,28.0,29.0,28.0,7
+2020-03-29,California,Santa Clara County,Big Box Stores,48.0,"",48.0,8
+2020-03-29,California,Santa Clara County,Medical,35.0,39.0,35.0,9
+2020-03-29,California,Santa Clara County,Travel & Transport,15.0,"",15.0,10
+2020-03-29,California,Santa Clara County,Nightlife Spots,13.0,"",14.0,11
+2020-03-29,California,Santa Clara County,Gas Stations,29.0,"",29.0,12
+2020-03-29,California,Santa Clara County,Colleges & Universities,20.0,"",20.0,13
+2020-03-29,California,Santa Clara County,Fast Food Restaurants,36.0,"",36.0,14
+2020-03-29,California,Santa Clara County,Arts & Entertainment,10.0,24.0,10.0,15
+2020-03-29,California,Santa Clara County,Drug Store,58.0,"",58.0,16
+2020-03-29,California,Santa Clara County,Sports,15.0,"",15.0,17
+2020-03-29,California,Santa Clara County,Convenience Store,43.0,"",43.0,18
+2020-03-29,California,Santa Clara County,Hardware Stores,50.0,"",50.0,19
+2020-03-29,California,Santa Clara County,Office,26.0,"",26.0,20
+2020-03-29,California,Santa Clara County,Fitness Center,11.0,"",12.0,21
+2020-03-29,California,Santa Clara County,Spiritual Center,14.0,"",14.0,22
+2020-03-29,California,Santa Clara County,Airport,12.0,"",12.0,23
+2020-03-29,California,San Benito County,Shops & Services,49.0,"",50.0,1
+2020-03-29,California,San Benito County,Outdoors & Recreation,49.0,"",49.0,2
+2020-03-29,California,San Benito County,Food,36.0,"",37.0,3
+2020-03-29,California,Placer County,Shops & Services,36.0,30.0,36.0,1
+2020-03-29,California,Placer County,Food,25.0,22.0,25.0,2
+2020-03-29,California,Placer County,Outdoors & Recreation,29.0,33.0,29.0,3
+2020-03-29,California,Placer County,Professional & Other Places,36.0,26.0,36.0,4
+2020-03-29,California,Placer County,Grocery,50.0,38.0,51.0,5
+2020-03-29,California,Placer County,Residences,54.0,"",53.0,6
+2020-03-29,California,Placer County,Big Box Stores,55.0,"",56.0,7
+2020-03-29,California,Placer County,Nightlife Spots,17.0,"",17.0,8
+2020-03-29,California,Placer County,School,50.0,"",50.0,9
+2020-03-29,California,Placer County,Sports,32.0,37.0,32.0,10
+2020-03-29,California,Placer County,Fast Food Restaurants,51.0,"",53.0,11
+2020-03-29,California,Placer County,Gas Stations,42.0,"",43.0,12
+2020-03-29,California,Placer County,Medical,44.0,"",44.0,12
+2020-03-29,California,Placer County,Hardware Stores,70.0,"",71.0,13
+2020-03-29,California,Solano County,Shops & Services,38.0,38.0,38.0,1
+2020-03-29,California,Solano County,Food,37.0,35.0,37.0,2
+2020-03-29,California,Solano County,Outdoors & Recreation,39.0,59.0,39.0,3
+2020-03-29,California,Solano County,Grocery,58.0,56.0,58.0,4
+2020-03-29,California,Solano County,Professional & Other Places,26.0,"",26.0,5
+2020-03-29,California,Solano County,Fast Food Restaurants,47.0,"",47.0,6
+2020-03-29,California,Solano County,Big Box Stores,58.0,"",58.0,7
+2020-03-29,California,Solano County,Gas Stations,37.0,"",37.0,8
+2020-03-29,California,Solano County,Nightlife Spots,21.0,"",21.0,9
+2020-03-29,California,Solano County,School,32.0,"",32.0,10
+2020-03-29,California,Solano County,Residences,48.0,"",49.0,11
+2020-03-29,California,Yolo County,Shops & Services,47.0,47.0,47.0,1
+2020-03-29,California,Yolo County,Food,33.0,28.0,34.0,2
+2020-03-29,California,Yolo County,Outdoors & Recreation,41.0,"",42.0,3
+2020-03-29,California,Yolo County,Professional & Other Places,38.0,"",38.0,4
+2020-03-29,California,Yolo County,Grocery,58.0,"",58.0,5
+2020-03-29,California,Tehama County,Shops & Services,60.0,"",61.0,1
+2020-03-29,California,Tehama County,Food,40.0,"",41.0,2
+2020-03-29,California,Siskiyou County,Shops & Services,57.0,"",58.0,1
+2020-03-29,California,Siskiyou County,Outdoors & Recreation,61.0,"",64.0,2
+2020-03-30,California,Glenn County,Shops & Services,82.0,"",82.0,1
+2020-03-30,California,San Diego County,Shops & Services,53.0,49.0,53.0,1
+2020-03-30,California,San Diego County,Food,40.0,39.0,41.0,2
+2020-03-30,California,San Diego County,Professional & Other Places,48.0,47.0,48.0,3
+2020-03-30,California,San Diego County,Outdoors & Recreation,53.0,52.0,53.0,4
+2020-03-30,California,San Diego County,Grocery,70.0,61.0,71.0,5
+2020-03-30,California,San Diego County,Medical,47.0,32.0,48.0,6
+2020-03-30,California,San Diego County,Residences,64.0,64.0,64.0,7
+2020-03-30,California,San Diego County,Travel & Transport,29.0,27.0,29.0,8
+2020-03-30,California,San Diego County,School,39.0,52.0,38.0,9
+2020-03-30,California,San Diego County,Nightlife Spots,32.0,40.0,32.0,10
+2020-03-30,California,San Diego County,Sports,42.0,42.0,42.0,11
+2020-03-30,California,San Diego County,Arts & Entertainment,19.0,22.0,19.0,12
+2020-03-30,California,San Diego County,Gas Stations,54.0,47.0,55.0,13
+2020-03-30,California,San Diego County,Fast Food Restaurants,56.0,52.0,56.0,14
+2020-03-30,California,San Diego County,Big Box Stores,67.0,64.0,67.0,15
+2020-03-30,California,San Diego County,Colleges & Universities,20.0,51.0,20.0,16
+2020-03-30,California,San Diego County,Convenience Store,52.0,47.0,53.0,17
+2020-03-30,California,San Diego County,Government,48.0,45.0,48.0,18
+2020-03-30,California,San Diego County,Office,44.0,53.0,43.0,19
+2020-03-30,California,San Diego County,Hotel,27.0,28.0,27.0,20
+2020-03-30,California,San Diego County,Hardware Stores,84.0,77.0,85.0,21
+2020-03-30,California,San Diego County,Drug Store,64.0,59.0,65.0,22
+2020-03-30,California,San Diego County,Fitness Center,29.0,30.0,29.0,23
+2020-03-30,California,San Diego County,Spiritual Center,54.0,50.0,54.0,24
+2020-03-30,California,San Diego County,Beach,48.0,47.0,48.0,25
+2020-03-30,California,San Diego County,Airport,14.0,11.0,14.0,26
+2020-03-30,California,San Diego County,Banks,62.0,60.0,62.0,27
+2020-03-30,California,San Diego County,Alcohol,62.0,52.0,63.0,28
+2020-03-30,California,San Diego County,Discount Stores,53.0,"",53.0,29
+2020-03-30,California,San Diego County,Light Rail Stations,42.0,"",42.0,30
+2020-03-30,California,San Diego County,Bus,51.0,"",52.0,31
+2020-03-30,California,Tuolumne County,Shops & Services,80.0,71.0,80.0,1
+2020-03-30,California,Tuolumne County,Food,56.0,33.0,58.0,2
+2020-03-30,California,Tuolumne County,Outdoors & Recreation,60.0,69.0,59.0,3
+2020-03-30,California,Placer County,Shops & Services,53.0,50.0,54.0,1
+2020-03-30,California,Placer County,Food,43.0,38.0,43.0,2
+2020-03-30,California,Placer County,Outdoors & Recreation,51.0,50.0,52.0,3
+2020-03-30,California,Placer County,Professional & Other Places,57.0,53.0,57.0,4
+2020-03-30,California,Placer County,Grocery,77.0,69.0,78.0,5
+2020-03-30,California,Placer County,Medical,48.0,56.0,47.0,6
+2020-03-30,California,Placer County,School,64.0,65.0,64.0,7
+2020-03-30,California,Placer County,Nightlife Spots,44.0,46.0,44.0,8
+2020-03-30,California,Placer County,Residences,82.0,100.0,81.0,9
+2020-03-30,California,Placer County,Sports,51.0,57.0,50.0,10
+2020-03-30,California,Placer County,Gas Stations,59.0,"",59.0,11
+2020-03-30,California,Placer County,Big Box Stores,62.0,"",63.0,12
+2020-03-30,California,Placer County,Fast Food Restaurants,54.0,"",54.0,13
+2020-03-30,California,Placer County,Arts & Entertainment,21.0,"",22.0,14
+2020-03-30,California,Placer County,Travel & Transport,26.0,"",25.0,15
+2020-03-30,California,Riverside County,Shops & Services,51.0,41.0,52.0,1
+2020-03-30,California,Riverside County,Food,41.0,31.0,41.0,2
+2020-03-30,California,Riverside County,Professional & Other Places,48.0,41.0,49.0,3
+2020-03-30,California,Riverside County,Outdoors & Recreation,54.0,46.0,54.0,4
+2020-03-30,California,Riverside County,Grocery,64.0,54.0,65.0,5
+2020-03-30,California,Riverside County,School,36.0,41.0,36.0,6
+2020-03-30,California,Riverside County,Medical,45.0,36.0,45.0,7
+2020-03-30,California,Riverside County,Fast Food Restaurants,57.0,48.0,57.0,8
+2020-03-30,California,Riverside County,Sports,42.0,40.0,42.0,9
+2020-03-30,California,Riverside County,Gas Stations,55.0,44.0,55.0,10
+2020-03-30,California,Riverside County,Travel & Transport,34.0,33.0,34.0,11
+2020-03-30,California,Riverside County,Nightlife Spots,31.0,36.0,31.0,12
+2020-03-30,California,Riverside County,Residences,58.0,56.0,58.0,13
+2020-03-30,California,Riverside County,Arts & Entertainment,27.0,19.0,27.0,14
+2020-03-30,California,Riverside County,Big Box Stores,59.0,45.0,59.0,15
+2020-03-30,California,Riverside County,Hardware Stores,82.0,66.0,83.0,16
+2020-03-30,California,Riverside County,Hotel,34.0,34.0,34.0,17
+2020-03-30,California,Riverside County,Convenience Store,54.0,43.0,54.0,18
+2020-03-30,California,Riverside County,Government,47.0,43.0,47.0,19
+2020-03-30,California,Riverside County,Drug Store,56.0,53.0,56.0,20
+2020-03-30,California,Riverside County,Colleges & Universities,20.0,32.0,20.0,21
+2020-03-30,California,Riverside County,Office,54.0,67.0,53.0,22
+2020-03-30,California,Riverside County,Spiritual Center,40.0,34.0,41.0,23
+2020-03-30,California,Riverside County,Discount Stores,54.0,"",54.0,24
+2020-03-30,California,Riverside County,Fitness Center,27.0,17.0,28.0,25
+2020-03-30,California,Riverside County,Banks,54.0,64.0,53.0,26
+2020-03-30,California,Riverside County,Alcohol,69.0,"",69.0,27
+2020-03-30,California,Marin County,Shops & Services,45.0,37.0,46.0,1
+2020-03-30,California,Marin County,Outdoors & Recreation,47.0,60.0,47.0,2
+2020-03-30,California,Marin County,Food,37.0,43.0,37.0,3
+2020-03-30,California,Marin County,Professional & Other Places,44.0,35.0,45.0,4
+2020-03-30,California,Marin County,Grocery,56.0,48.0,57.0,5
+2020-03-30,California,Marin County,School,47.0,"",47.0,6
+2020-03-30,California,Marin County,Travel & Transport,47.0,"",48.0,7
+2020-03-30,California,Amador County,Shops & Services,70.0,50.0,72.0,1
+2020-03-30,California,Amador County,Food,57.0,"",59.0,2
+2020-03-30,California,Imperial County,Shops & Services,50.0,53.0,50.0,1
+2020-03-30,California,Imperial County,Food,41.0,33.0,42.0,2
+2020-03-30,California,Imperial County,Professional & Other Places,52.0,45.0,53.0,3
+2020-03-30,California,Imperial County,Outdoors & Recreation,56.0,33.0,58.0,4
+2020-03-30,California,Imperial County,Gas Stations,52.0,"",52.0,5
+2020-03-30,California,Imperial County,School,38.0,"",38.0,5
+2020-03-30,California,Imperial County,Travel & Transport,42.0,"",43.0,6
+2020-03-30,California,Imperial County,Grocery,71.0,"",72.0,7
+2020-03-30,California,Inyo County,Shops & Services,63.0,"",65.0,1
+2020-03-30,California,Orange County,Shops & Services,47.0,45.0,47.0,1
+2020-03-30,California,Orange County,Food,38.0,32.0,38.0,2
+2020-03-30,California,Orange County,Outdoors & Recreation,58.0,58.0,58.0,3
+2020-03-30,California,Orange County,Professional & Other Places,38.0,38.0,38.0,4
+2020-03-30,California,Orange County,Grocery,68.0,70.0,68.0,5
+2020-03-30,California,Orange County,Medical,44.0,31.0,44.0,6
+2020-03-30,California,Orange County,Residences,61.0,65.0,61.0,7
+2020-03-30,California,Orange County,School,38.0,51.0,38.0,8
+2020-03-30,California,Orange County,Nightlife Spots,33.0,34.0,33.0,9
+2020-03-30,California,Orange County,Fast Food Restaurants,54.0,47.0,54.0,10
+2020-03-30,California,Orange County,Gas Stations,52.0,48.0,52.0,11
+2020-03-30,California,Orange County,Sports,38.0,32.0,38.0,12
+2020-03-30,California,Orange County,Big Box Stores,62.0,51.0,63.0,13
+2020-03-30,California,Orange County,Arts & Entertainment,6.0,8.0,5.0,14
+2020-03-30,California,Orange County,Travel & Transport,16.0,18.0,16.0,15
+2020-03-30,California,Orange County,Office,37.0,35.0,37.0,16
+2020-03-30,California,Orange County,Colleges & Universities,19.0,36.0,19.0,17
+2020-03-30,California,Orange County,Fitness Center,28.0,22.0,29.0,18
+2020-03-30,California,Orange County,Drug Store,66.0,62.0,66.0,19
+2020-03-30,California,Orange County,Hardware Stores,71.0,67.0,71.0,20
+2020-03-30,California,Orange County,Convenience Store,54.0,45.0,54.0,21
+2020-03-30,California,Orange County,Hotel,11.0,16.0,11.0,22
+2020-03-30,California,Orange County,Banks,55.0,51.0,55.0,23
+2020-03-30,California,Orange County,Spiritual Center,43.0,38.0,44.0,24
+2020-03-30,California,Orange County,Beach,47.0,43.0,47.0,25
+2020-03-30,California,Orange County,Government,38.0,33.0,38.0,26
+2020-03-30,California,Orange County,Discount Stores,55.0,"",56.0,27
+2020-03-30,California,Orange County,Alcohol,70.0,"",69.0,28
+2020-03-30,California,Orange County,Airport,9.0,"",9.0,29
+2020-03-30,California,Colusa County,Food,42.0,"",43.0,1
+2020-03-30,California,Tehama County,Shops & Services,82.0,75.0,82.0,1
+2020-03-30,California,Tehama County,Food,55.0,"",55.0,2
+2020-03-30,California,Tehama County,Professional & Other Places,64.0,"",66.0,3
+2020-03-30,California,Lake County,Shops & Services,71.0,70.0,71.0,1
+2020-03-30,California,Lake County,Food,40.0,"",40.0,2
+2020-03-30,California,Sacramento County,Shops & Services,59.0,58.0,59.0,1
+2020-03-30,California,Sacramento County,Food,45.0,43.0,45.0,2
+2020-03-30,California,Sacramento County,Professional & Other Places,51.0,51.0,51.0,3
+2020-03-30,California,Sacramento County,Outdoors & Recreation,68.0,69.0,68.0,4
+2020-03-30,California,Sacramento County,Grocery,72.0,71.0,72.0,5
+2020-03-30,California,Sacramento County,Medical,51.0,41.0,52.0,6
+2020-03-30,California,Sacramento County,School,45.0,59.0,45.0,7
+2020-03-30,California,Sacramento County,Residences,77.0,74.0,77.0,8
+2020-03-30,California,Sacramento County,Nightlife Spots,34.0,49.0,33.0,9
+2020-03-30,California,Sacramento County,Fast Food Restaurants,59.0,50.0,60.0,10
+2020-03-30,California,Sacramento County,Travel & Transport,21.0,17.0,21.0,11
+2020-03-30,California,Sacramento County,Big Box Stores,68.0,61.0,68.0,12
+2020-03-30,California,Sacramento County,Gas Stations,60.0,50.0,61.0,13
+2020-03-30,California,Sacramento County,Sports,51.0,57.0,51.0,14
+2020-03-30,California,Sacramento County,Arts & Entertainment,31.0,35.0,30.0,15
+2020-03-30,California,Sacramento County,Drug Store,71.0,60.0,71.0,16
+2020-03-30,California,Sacramento County,Hardware Stores,83.0,60.0,84.0,17
+2020-03-30,California,Sacramento County,Convenience Store,73.0,82.0,72.0,18
+2020-03-30,California,Sacramento County,Office,50.0,46.0,50.0,19
+2020-03-30,California,Sacramento County,Government,41.0,48.0,40.0,20
+2020-03-30,California,Sacramento County,Colleges & Universities,21.0,"",21.0,21
+2020-03-30,California,Sacramento County,Fitness Center,35.0,31.0,35.0,22
+2020-03-30,California,Sacramento County,Banks,76.0,"",76.0,23
+2020-03-30,California,Sacramento County,Spiritual Center,52.0,"",53.0,24
+2020-03-30,California,Sacramento County,Airport,15.0,"",15.0,25
+2020-03-30,California,Sacramento County,Hotel,38.0,"",38.0,26
+2020-03-30,California,Sacramento County,Discount Stores,54.0,"",55.0,27
+2020-03-30,California,Sacramento County,Alcohol,79.0,"",77.0,28
+2020-03-30,California,Kern County,Shops & Services,54.0,51.0,54.0,1
+2020-03-30,California,Kern County,Food,47.0,41.0,47.0,2
+2020-03-30,California,Kern County,Professional & Other Places,53.0,45.0,53.0,3
+2020-03-30,California,Kern County,Outdoors & Recreation,69.0,67.0,69.0,4
+2020-03-30,California,Kern County,School,50.0,33.0,50.0,5
+2020-03-30,California,Kern County,Gas Stations,57.0,49.0,57.0,6
+2020-03-30,California,Kern County,Grocery,67.0,65.0,67.0,7
+2020-03-30,California,Kern County,Travel & Transport,52.0,34.0,53.0,8
+2020-03-30,California,Kern County,Medical,45.0,37.0,45.0,9
+2020-03-30,California,Kern County,Fast Food Restaurants,50.0,40.0,51.0,10
+2020-03-30,California,Kern County,Arts & Entertainment,52.0,49.0,53.0,11
+2020-03-30,California,Kern County,Nightlife Spots,55.0,72.0,54.0,12
+2020-03-30,California,Kern County,Big Box Stores,54.0,"",54.0,13
+2020-03-30,California,Kern County,Hardware Stores,88.0,88.0,88.0,14
+2020-03-30,California,Kern County,Government,46.0,"",46.0,15
+2020-03-30,California,Kern County,Colleges & Universities,27.0,"",27.0,16
+2020-03-30,California,Kern County,Convenience Store,48.0,"",48.0,17
+2020-03-30,California,Kern County,Sports,42.0,"",43.0,18
+2020-03-30,California,Kern County,Drug Store,65.0,"",65.0,19
+2020-03-30,California,Kern County,Discount Stores,67.0,"",67.0,20
+2020-03-30,California,Kern County,Hotel,48.0,"",48.0,21
+2020-03-30,California,Kern County,Spiritual Center,49.0,"",49.0,22
+2020-03-30,California,Kern County,Office,53.0,"",53.0,23
+2020-03-30,California,Kern County,Residences,59.0,"",59.0,24
+2020-03-30,California,San Joaquin County,Shops & Services,61.0,55.0,61.0,1
+2020-03-30,California,San Joaquin County,Food,49.0,43.0,49.0,2
+2020-03-30,California,San Joaquin County,Professional & Other Places,67.0,59.0,67.0,3
+2020-03-30,California,San Joaquin County,Outdoors & Recreation,55.0,46.0,55.0,4
+2020-03-30,California,San Joaquin County,Grocery,78.0,84.0,78.0,5
+2020-03-30,California,San Joaquin County,School,51.0,67.0,51.0,6
+2020-03-30,California,San Joaquin County,Medical,50.0,52.0,50.0,7
+2020-03-30,California,San Joaquin County,Gas Stations,63.0,54.0,63.0,8
+2020-03-30,California,San Joaquin County,Nightlife Spots,44.0,48.0,44.0,9
+2020-03-30,California,San Joaquin County,Fast Food Restaurants,48.0,"",48.0,10
+2020-03-30,California,San Joaquin County,Travel & Transport,51.0,"",51.0,11
+2020-03-30,California,San Joaquin County,Sports,53.0,"",53.0,11
+2020-03-30,California,San Joaquin County,Big Box Stores,64.0,"",64.0,12
+2020-03-30,California,San Joaquin County,Residences,73.0,"",74.0,13
+2020-03-30,California,San Joaquin County,Drug Store,91.0,"",92.0,14
+2020-03-30,California,San Joaquin County,Arts & Entertainment,45.0,"",45.0,15
+2020-03-30,California,San Joaquin County,Hardware Stores,83.0,"",84.0,16
+2020-03-30,California,San Joaquin County,Office,85.0,"",85.0,17
+2020-03-30,California,San Joaquin County,Colleges & Universities,31.0,"",31.0,18
+2020-03-30,California,San Joaquin County,Convenience Store,55.0,"",55.0,19
+2020-03-30,California,San Joaquin County,Fitness Center,41.0,"",41.0,20
+2020-03-30,California,San Joaquin County,Government,57.0,"",57.0,21
+2020-03-30,California,Contra Costa County,Shops & Services,55.0,44.0,55.0,1
+2020-03-30,California,Contra Costa County,Food,41.0,31.0,41.0,2
+2020-03-30,California,Contra Costa County,Outdoors & Recreation,59.0,53.0,60.0,3
+2020-03-30,California,Contra Costa County,Professional & Other Places,49.0,45.0,49.0,4
+2020-03-30,California,Contra Costa County,Grocery,70.0,57.0,71.0,5
+2020-03-30,California,Contra Costa County,Medical,45.0,26.0,46.0,6
+2020-03-30,California,Contra Costa County,School,38.0,46.0,38.0,7
+2020-03-30,California,Contra Costa County,Residences,75.0,57.0,76.0,8
+2020-03-30,California,Contra Costa County,Gas Stations,58.0,54.0,59.0,9
+2020-03-30,California,Contra Costa County,Travel & Transport,32.0,"",32.0,10
+2020-03-30,California,Contra Costa County,Sports,33.0,35.0,32.0,11
+2020-03-30,California,Contra Costa County,Nightlife Spots,38.0,"",38.0,11
+2020-03-30,California,Contra Costa County,Arts & Entertainment,37.0,"",37.0,12
+2020-03-30,California,Contra Costa County,Big Box Stores,72.0,"",72.0,13
+2020-03-30,California,Contra Costa County,Fast Food Restaurants,53.0,"",54.0,14
+2020-03-30,California,Contra Costa County,Hardware Stores,68.0,"",70.0,15
+2020-03-30,California,Contra Costa County,Convenience Store,62.0,"",62.0,16
+2020-03-30,California,Contra Costa County,Drug Store,62.0,"",63.0,17
+2020-03-30,California,Contra Costa County,Colleges & Universities,33.0,"",32.0,18
+2020-03-30,California,Contra Costa County,Fitness Center,28.0,"",28.0,19
+2020-03-30,California,Contra Costa County,Office,38.0,"",38.0,20
+2020-03-30,California,Contra Costa County,Banks,75.0,"",75.0,21
+2020-03-30,California,Contra Costa County,Spiritual Center,48.0,"",48.0,22
+2020-03-30,California,Madera County,Shops & Services,66.0,43.0,67.0,1
+2020-03-30,California,Madera County,Food,63.0,39.0,65.0,2
+2020-03-30,California,Madera County,Professional & Other Places,56.0,"",57.0,3
+2020-03-30,California,Madera County,Outdoors & Recreation,70.0,"",71.0,4
+2020-03-30,California,Madera County,Gas Stations,61.0,"",62.0,5
+2020-03-30,California,Madera County,Medical,59.0,"",60.0,6
+2020-03-30,California,Madera County,School,54.0,"",55.0,7
+2020-03-30,California,Madera County,Grocery,80.0,"",83.0,8
+2020-03-30,California,Madera County,Arts & Entertainment,50.0,"",49.0,9
+2020-03-30,California,San Francisco County,Shops & Services,30.0,34.0,29.0,1
+2020-03-30,California,San Francisco County,Food,19.0,26.0,19.0,2
+2020-03-30,California,San Francisco County,Outdoors & Recreation,42.0,43.0,42.0,3
+2020-03-30,California,San Francisco County,Professional & Other Places,21.0,24.0,21.0,4
+2020-03-30,California,San Francisco County,Arts & Entertainment,19.0,27.0,19.0,5
+2020-03-30,California,San Francisco County,Travel & Transport,15.0,19.0,15.0,6
+2020-03-30,California,San Francisco County,Grocery,53.0,44.0,53.0,7
+2020-03-30,California,San Francisco County,Residences,39.0,"",39.0,8
+2020-03-30,California,San Francisco County,Medical,30.0,25.0,30.0,9
+2020-03-30,California,San Francisco County,Nightlife Spots,13.0,19.0,12.0,10
+2020-03-30,California,San Francisco County,Colleges & Universities,21.0,"",21.0,11
+2020-03-30,California,San Francisco County,Sports,23.0,"",23.0,12
+2020-03-30,California,San Francisco County,Office,10.0,"",10.0,13
+2020-03-30,California,San Francisco County,Bus,39.0,"",39.0,14
+2020-03-30,California,San Francisco County,Fitness Center,15.0,"",15.0,15
+2020-03-30,California,San Francisco County,School,33.0,"",33.0,16
+2020-03-30,California,San Francisco County,Government,30.0,"",30.0,17
+2020-03-30,California,San Francisco County,Hotel,8.0,"",8.0,18
+2020-03-30,California,San Francisco County,Drug Store,39.0,"",39.0,19
+2020-03-30,California,Sonoma County,Shops & Services,53.0,49.0,53.0,1
+2020-03-30,California,Sonoma County,Food,40.0,37.0,40.0,2
+2020-03-30,California,Sonoma County,Outdoors & Recreation,49.0,42.0,50.0,3
+2020-03-30,California,Sonoma County,Professional & Other Places,52.0,50.0,52.0,4
+2020-03-30,California,Sonoma County,Grocery,66.0,69.0,65.0,5
+2020-03-30,California,Sonoma County,Medical,53.0,45.0,54.0,6
+2020-03-30,California,Sonoma County,Nightlife Spots,32.0,45.0,32.0,7
+2020-03-30,California,Sonoma County,Gas Stations,62.0,"",63.0,8
+2020-03-30,California,Sonoma County,Travel & Transport,36.0,"",37.0,9
+2020-03-30,California,Sonoma County,Arts & Entertainment,28.0,"",28.0,10
+2020-03-30,California,Sonoma County,School,41.0,"",41.0,11
+2020-03-30,California,Sonoma County,Sports,38.0,"",39.0,12
+2020-03-30,California,Sonoma County,Fast Food Restaurants,60.0,"",59.0,13
+2020-03-30,California,Calaveras County,Shops & Services,75.0,73.0,75.0,1
+2020-03-30,California,Calaveras County,Food,54.0,"",55.0,2
+2020-03-30,California,San Luis Obispo County,Shops & Services,51.0,43.0,52.0,1
+2020-03-30,California,San Luis Obispo County,Food,31.0,26.0,32.0,2
+2020-03-30,California,San Luis Obispo County,Outdoors & Recreation,47.0,49.0,47.0,3
+2020-03-30,California,San Luis Obispo County,Professional & Other Places,42.0,47.0,42.0,4
+2020-03-30,California,San Luis Obispo County,Grocery,57.0,41.0,59.0,5
+2020-03-30,California,San Luis Obispo County,Nightlife Spots,30.0,"",30.0,5
+2020-03-30,California,San Luis Obispo County,Travel & Transport,29.0,27.0,29.0,6
+2020-03-30,California,San Luis Obispo County,Hotel,32.0,33.0,32.0,7
+2020-03-30,California,San Luis Obispo County,Medical,42.0,"",43.0,8
+2020-03-30,California,San Luis Obispo County,Gas Stations,48.0,"",49.0,9
+2020-03-30,California,San Luis Obispo County,School,53.0,"",52.0,10
+2020-03-30,California,Tulare County,Shops & Services,66.0,53.0,66.0,1
+2020-03-30,California,Tulare County,Food,53.0,49.0,53.0,2
+2020-03-30,California,Tulare County,Professional & Other Places,63.0,53.0,63.0,3
+2020-03-30,California,Tulare County,Outdoors & Recreation,64.0,70.0,64.0,4
+2020-03-30,California,Tulare County,School,56.0,51.0,56.0,5
+2020-03-30,California,Tulare County,Gas Stations,73.0,63.0,73.0,6
+2020-03-30,California,Tulare County,Medical,59.0,41.0,60.0,7
+2020-03-30,California,Tulare County,Grocery,80.0,71.0,80.0,8
+2020-03-30,California,Tulare County,Fast Food Restaurants,66.0,"",67.0,9
+2020-03-30,California,Tulare County,Nightlife Spots,63.0,"",64.0,10
+2020-03-30,California,Tulare County,Big Box Stores,65.0,"",65.0,11
+2020-03-30,California,Tulare County,Hardware Stores,87.0,"",89.0,12
+2020-03-30,California,Tulare County,Travel & Transport,43.0,"",44.0,13
+2020-03-30,California,Tulare County,Sports,42.0,"",42.0,14
+2020-03-30,California,Tulare County,Office,80.0,"",80.0,15
+2020-03-30,California,Tulare County,Drug Store,67.0,"",66.0,16
+2020-03-30,California,Butte County,Shops & Services,66.0,63.0,67.0,1
+2020-03-30,California,Butte County,Food,53.0,54.0,53.0,2
+2020-03-30,California,Butte County,Professional & Other Places,61.0,50.0,62.0,3
+2020-03-30,California,Butte County,Outdoors & Recreation,61.0,61.0,61.0,4
+2020-03-30,California,Butte County,Grocery,81.0,80.0,81.0,5
+2020-03-30,California,Butte County,Medical,55.0,37.0,57.0,6
+2020-03-30,California,Butte County,Nightlife Spots,69.0,74.0,69.0,7
+2020-03-30,California,Butte County,School,56.0,"",57.0,8
+2020-03-30,California,Nevada County,Shops & Services,65.0,58.0,66.0,1
+2020-03-30,California,Nevada County,Food,46.0,34.0,47.0,2
+2020-03-30,California,Nevada County,Outdoors & Recreation,49.0,34.0,51.0,3
+2020-03-30,California,Nevada County,Professional & Other Places,58.0,"",59.0,4
+2020-03-30,California,Yolo County,Shops & Services,57.0,58.0,57.0,1
+2020-03-30,California,Yolo County,Food,49.0,41.0,50.0,2
+2020-03-30,California,Yolo County,Professional & Other Places,60.0,47.0,61.0,3
+2020-03-30,California,Yolo County,Outdoors & Recreation,61.0,70.0,61.0,4
+2020-03-30,California,Yolo County,Colleges & Universities,21.0,"",21.0,5
+2020-03-30,California,Yolo County,Grocery,62.0,"",61.0,6
+2020-03-30,California,Yolo County,Residences,81.0,"",81.0,7
+2020-03-30,California,Yolo County,Gas Stations,64.0,"",65.0,8
+2020-03-30,California,San Benito County,Shops & Services,68.0,43.0,69.0,1
+2020-03-30,California,San Benito County,Food,62.0,"",61.0,2
+2020-03-30,California,San Benito County,Outdoors & Recreation,74.0,"",75.0,3
+2020-03-30,California,Humboldt County,Shops & Services,52.0,41.0,53.0,1
+2020-03-30,California,Humboldt County,Food,44.0,41.0,45.0,2
+2020-03-30,California,Humboldt County,Outdoors & Recreation,37.0,39.0,37.0,3
+2020-03-30,California,Humboldt County,Professional & Other Places,45.0,"",46.0,4
+2020-03-30,California,San Mateo County,Shops & Services,44.0,44.0,44.0,1
+2020-03-30,California,San Mateo County,Food,30.0,29.0,30.0,2
+2020-03-30,California,San Mateo County,Outdoors & Recreation,55.0,52.0,55.0,3
+2020-03-30,California,San Mateo County,Professional & Other Places,28.0,34.0,27.0,4
+2020-03-30,California,San Mateo County,Airport,11.0,10.0,11.0,5
+2020-03-30,California,San Mateo County,Travel & Transport,12.0,13.0,12.0,6
+2020-03-30,California,San Mateo County,Grocery,63.0,59.0,63.0,7
+2020-03-30,California,San Mateo County,School,34.0,41.0,33.0,8
+2020-03-30,California,San Mateo County,Medical,36.0,27.0,37.0,9
+2020-03-30,California,San Mateo County,Residences,61.0,"",62.0,10
+2020-03-30,California,San Mateo County,Office,17.0,"",17.0,11
+2020-03-30,California,San Mateo County,Sports,38.0,"",38.0,12
+2020-03-30,California,San Mateo County,Gas Stations,44.0,"",44.0,13
+2020-03-30,California,San Mateo County,Fitness Center,29.0,"",29.0,14
+2020-03-30,California,San Mateo County,Nightlife Spots,24.0,"",24.0,15
+2020-03-30,California,San Mateo County,Fast Food Restaurants,48.0,"",48.0,16
+2020-03-30,California,San Mateo County,Arts & Entertainment,31.0,"",31.0,17
+2020-03-30,California,San Mateo County,Big Box Stores,60.0,"",60.0,18
+2020-03-30,California,San Mateo County,Hotel,25.0,"",25.0,19
+2020-03-30,California,Sutter County,Shops & Services,60.0,65.0,60.0,1
+2020-03-30,California,Sutter County,Food,50.0,"",51.0,2
+2020-03-30,California,Sutter County,Outdoors & Recreation,81.0,"",82.0,3
+2020-03-30,California,Sutter County,Professional & Other Places,55.0,"",55.0,4
+2020-03-30,California,Ventura County,Shops & Services,51.0,49.0,51.0,1
+2020-03-30,California,Ventura County,Food,42.0,39.0,42.0,2
+2020-03-30,California,Ventura County,Outdoors & Recreation,62.0,68.0,62.0,3
+2020-03-30,California,Ventura County,Professional & Other Places,53.0,47.0,53.0,4
+2020-03-30,California,Ventura County,Grocery,69.0,70.0,69.0,5
+2020-03-30,California,Ventura County,Medical,50.0,38.0,51.0,6
+2020-03-30,California,Ventura County,School,43.0,59.0,42.0,7
+2020-03-30,California,Ventura County,Nightlife Spots,39.0,58.0,38.0,8
+2020-03-30,California,Ventura County,Arts & Entertainment,46.0,41.0,46.0,9
+2020-03-30,California,Ventura County,Colleges & Universities,35.0,51.0,35.0,10
+2020-03-30,California,Ventura County,Travel & Transport,50.0,48.0,50.0,11
+2020-03-30,California,Ventura County,Fast Food Restaurants,56.0,44.0,56.0,12
+2020-03-30,California,Ventura County,Gas Stations,53.0,45.0,53.0,13
+2020-03-30,California,Ventura County,Sports,40.0,35.0,40.0,14
+2020-03-30,California,Ventura County,Residences,57.0,66.0,57.0,15
+2020-03-30,California,Ventura County,Big Box Stores,71.0,"",71.0,16
+2020-03-30,California,Ventura County,Government,50.0,"",50.0,17
+2020-03-30,California,Ventura County,Hardware Stores,68.0,60.0,69.0,18
+2020-03-30,California,Ventura County,Drug Store,64.0,"",65.0,19
+2020-03-30,California,Ventura County,Office,40.0,"",39.0,20
+2020-03-30,California,Ventura County,Beach,81.0,"",79.0,21
+2020-03-30,California,Ventura County,Hotel,39.0,"",38.0,22
+2020-03-30,California,Solano County,Shops & Services,58.0,52.0,58.0,1
+2020-03-30,California,Solano County,Food,51.0,51.0,51.0,2
+2020-03-30,California,Solano County,Professional & Other Places,49.0,41.0,49.0,3
+2020-03-30,California,Solano County,Outdoors & Recreation,62.0,58.0,63.0,4
+2020-03-30,California,Solano County,Grocery,68.0,60.0,68.0,5
+2020-03-30,California,Solano County,Medical,46.0,"",48.0,6
+2020-03-30,California,Solano County,Gas Stations,60.0,"",60.0,7
+2020-03-30,California,Solano County,School,36.0,"",35.0,8
+2020-03-30,California,Solano County,Nightlife Spots,50.0,"",51.0,9
+2020-03-30,California,Solano County,Fast Food Restaurants,51.0,"",52.0,10
+2020-03-30,California,Solano County,Residences,86.0,"",89.0,11
+2020-03-30,California,Solano County,Travel & Transport,53.0,"",53.0,12
+2020-03-30,California,Solano County,Sports,47.0,"",48.0,13
+2020-03-30,California,Solano County,Big Box Stores,65.0,"",64.0,14
+2020-03-30,California,Solano County,Arts & Entertainment,35.0,"",35.0,15
+2020-03-30,California,Solano County,Hardware Stores,88.0,"",93.0,16
+2020-03-30,California,Kings County,Shops & Services,58.0,50.0,59.0,1
+2020-03-30,California,Kings County,Professional & Other Places,78.0,70.0,78.0,2
+2020-03-30,California,Kings County,Food,48.0,35.0,48.0,3
+2020-03-30,California,Kings County,Outdoors & Recreation,57.0,"",56.0,4
+2020-03-30,California,Kings County,Gas Stations,68.0,"",68.0,5
+2020-03-30,California,Kings County,School,54.0,"",53.0,6
+2020-03-30,California,Los Angeles County,Shops & Services,45.0,42.0,45.0,1
+2020-03-30,California,Los Angeles County,Food,38.0,35.0,38.0,2
+2020-03-30,California,Los Angeles County,Professional & Other Places,42.0,41.0,42.0,3
+2020-03-30,California,Los Angeles County,Outdoors & Recreation,46.0,45.0,46.0,4
+2020-03-30,California,Los Angeles County,Grocery,59.0,56.0,59.0,5
+2020-03-30,California,Los Angeles County,Medical,40.0,31.0,41.0,6
+2020-03-30,California,Los Angeles County,School,37.0,43.0,37.0,7
+2020-03-30,California,Los Angeles County,Travel & Transport,21.0,18.0,21.0,8
+2020-03-30,California,Los Angeles County,Fast Food Restaurants,52.0,48.0,52.0,9
+2020-03-30,California,Los Angeles County,Nightlife Spots,31.0,37.0,31.0,10
+2020-03-30,California,Los Angeles County,Arts & Entertainment,22.0,32.0,21.0,11
+2020-03-30,California,Los Angeles County,Residences,50.0,51.0,50.0,12
+2020-03-30,California,Los Angeles County,Gas Stations,50.0,43.0,50.0,13
+2020-03-30,California,Los Angeles County,Colleges & Universities,19.0,33.0,19.0,14
+2020-03-30,California,Los Angeles County,Office,40.0,39.0,40.0,15
+2020-03-30,California,Los Angeles County,Big Box Stores,61.0,51.0,62.0,16
+2020-03-30,California,Los Angeles County,Sports,33.0,31.0,33.0,17
+2020-03-30,California,Los Angeles County,Convenience Store,51.0,47.0,51.0,18
+2020-03-30,California,Los Angeles County,Drug Store,59.0,51.0,59.0,19
+2020-03-30,California,Los Angeles County,Fitness Center,28.0,25.0,28.0,20
+2020-03-30,California,Los Angeles County,Airport,14.0,11.0,14.0,21
+2020-03-30,California,Los Angeles County,Government,39.0,34.0,39.0,22
+2020-03-30,California,Los Angeles County,Hardware Stores,70.0,54.0,71.0,23
+2020-03-30,California,Los Angeles County,Banks,58.0,49.0,59.0,24
+2020-03-30,California,Los Angeles County,Spiritual Center,43.0,39.0,43.0,25
+2020-03-30,California,Los Angeles County,Hotel,24.0,24.0,24.0,26
+2020-03-30,California,Los Angeles County,Discount Stores,60.0,52.0,61.0,27
+2020-03-30,California,Los Angeles County,Alcohol,57.0,62.0,57.0,28
+2020-03-30,California,Los Angeles County,Bus,43.0,56.0,43.0,29
+2020-03-30,California,Los Angeles County,Beach,43.0,42.0,43.0,30
+2020-03-30,California,Los Angeles County,Light Rail Stations,37.0,"",37.0,31
+2020-03-30,California,Alameda County,Shops & Services,45.0,39.0,45.0,1
+2020-03-30,California,Alameda County,Food,33.0,31.0,33.0,2
+2020-03-30,California,Alameda County,Outdoors & Recreation,56.0,53.0,56.0,3
+2020-03-30,California,Alameda County,Professional & Other Places,44.0,40.0,44.0,4
+2020-03-30,California,Alameda County,Grocery,61.0,48.0,62.0,5
+2020-03-30,California,Alameda County,Travel & Transport,25.0,22.0,25.0,6
+2020-03-30,California,Alameda County,Medical,44.0,35.0,44.0,7
+2020-03-30,California,Alameda County,School,33.0,27.0,33.0,8
+2020-03-30,California,Alameda County,Nightlife Spots,31.0,39.0,31.0,9
+2020-03-30,California,Alameda County,Arts & Entertainment,33.0,55.0,32.0,10
+2020-03-30,California,Alameda County,Gas Stations,50.0,54.0,49.0,11
+2020-03-30,California,Alameda County,Residences,49.0,49.0,49.0,12
+2020-03-30,California,Alameda County,Office,39.0,53.0,38.0,13
+2020-03-30,California,Alameda County,Sports,34.0,25.0,34.0,14
+2020-03-30,California,Alameda County,Fast Food Restaurants,49.0,"",50.0,15
+2020-03-30,California,Alameda County,Colleges & Universities,17.0,39.0,16.0,16
+2020-03-30,California,Alameda County,Big Box Stores,59.0,"",59.0,17
+2020-03-30,California,Alameda County,Fitness Center,27.0,"",27.0,18
+2020-03-30,California,Alameda County,Drug Store,58.0,"",58.0,19
+2020-03-30,California,Alameda County,Convenience Store,54.0,"",54.0,20
+2020-03-30,California,Alameda County,Hardware Stores,68.0,"",68.0,21
+2020-03-30,California,Alameda County,Government,41.0,"",40.0,22
+2020-03-30,California,Alameda County,Airport,11.0,"",11.0,23
+2020-03-30,California,Alameda County,Banks,64.0,"",65.0,24
+2020-03-30,California,Alameda County,Spiritual Center,40.0,"",41.0,25
+2020-03-30,California,Alameda County,Alcohol,69.0,"",70.0,26
+2020-03-30,California,Merced County,Shops & Services,56.0,42.0,57.0,1
+2020-03-30,California,Merced County,Food,51.0,44.0,51.0,2
+2020-03-30,California,Merced County,Professional & Other Places,54.0,42.0,55.0,3
+2020-03-30,California,Merced County,Outdoors & Recreation,64.0,52.0,65.0,4
+2020-03-30,California,Merced County,School,55.0,"",55.0,5
+2020-03-30,California,Merced County,Gas Stations,63.0,"",63.0,6
+2020-03-30,California,Merced County,Travel & Transport,57.0,"",57.0,7
+2020-03-30,California,Merced County,Grocery,54.0,"",54.0,8
+2020-03-30,California,Merced County,Fast Food Restaurants,56.0,"",56.0,9
+2020-03-30,California,Merced County,Nightlife Spots,70.0,"",70.0,10
+2020-03-30,California,Merced County,Colleges & Universities,35.0,"",35.0,11
+2020-03-30,California,San Bernardino County,Shops & Services,52.0,51.0,52.0,1
+2020-03-30,California,San Bernardino County,Food,45.0,40.0,45.0,2
+2020-03-30,California,San Bernardino County,Professional & Other Places,55.0,47.0,55.0,3
+2020-03-30,California,San Bernardino County,Outdoors & Recreation,52.0,48.0,52.0,4
+2020-03-30,California,San Bernardino County,Grocery,66.0,72.0,65.0,5
+2020-03-30,California,San Bernardino County,School,42.0,43.0,42.0,6
+2020-03-30,California,San Bernardino County,Medical,47.0,41.0,47.0,7
+2020-03-30,California,San Bernardino County,Gas Stations,60.0,49.0,60.0,8
+2020-03-30,California,San Bernardino County,Fast Food Restaurants,56.0,49.0,56.0,9
+2020-03-30,California,San Bernardino County,Travel & Transport,44.0,34.0,44.0,10
+2020-03-30,California,San Bernardino County,Nightlife Spots,45.0,54.0,45.0,11
+2020-03-30,California,San Bernardino County,Residences,68.0,64.0,68.0,12
+2020-03-30,California,San Bernardino County,Big Box Stores,61.0,59.0,61.0,12
+2020-03-30,California,San Bernardino County,Arts & Entertainment,32.0,31.0,32.0,13
+2020-03-30,California,San Bernardino County,Convenience Store,54.0,44.0,54.0,14
+2020-03-30,California,San Bernardino County,Office,63.0,56.0,63.0,15
+2020-03-30,California,San Bernardino County,Sports,40.0,36.0,40.0,16
+2020-03-30,California,San Bernardino County,Hardware Stores,87.0,66.0,88.0,17
+2020-03-30,California,San Bernardino County,Colleges & Universities,27.0,28.0,27.0,18
+2020-03-30,California,San Bernardino County,Government,50.0,53.0,50.0,19
+2020-03-30,California,San Bernardino County,Drug Store,60.0,59.0,60.0,20
+2020-03-30,California,San Bernardino County,Hotel,49.0,42.0,50.0,21
+2020-03-30,California,San Bernardino County,Discount Stores,55.0,52.0,55.0,22
+2020-03-30,California,San Bernardino County,Spiritual Center,47.0,"",47.0,23
+2020-03-30,California,San Bernardino County,Fitness Center,29.0,"",30.0,24
+2020-03-30,California,San Bernardino County,Airport,32.0,"",32.0,25
+2020-03-30,California,San Bernardino County,Banks,57.0,56.0,57.0,26
+2020-03-30,California,San Bernardino County,Alcohol,54.0,"",54.0,27
+2020-03-30,California,Mendocino County,Shops & Services,58.0,51.0,59.0,1
+2020-03-30,California,Mendocino County,Food,38.0,34.0,38.0,2
+2020-03-30,California,Mendocino County,Professional & Other Places,56.0,"",57.0,3
+2020-03-30,California,Mendocino County,Outdoors & Recreation,38.0,"",37.0,4
+2020-03-30,California,Yuba County,Shops & Services,63.0,"",64.0,1
+2020-03-30,California,Yuba County,Food,51.0,"",51.0,2
+2020-03-30,California,Yuba County,Professional & Other Places,53.0,"",53.0,3
+2020-03-30,California,Santa Cruz County,Shops & Services,55.0,47.0,55.0,1
+2020-03-30,California,Santa Cruz County,Food,36.0,34.0,37.0,2
+2020-03-30,California,Santa Cruz County,Outdoors & Recreation,49.0,46.0,49.0,3
+2020-03-30,California,Santa Cruz County,Professional & Other Places,51.0,61.0,50.0,4
+2020-03-30,California,Santa Cruz County,Grocery,59.0,51.0,59.0,5
+2020-03-30,California,Santa Cruz County,Nightlife Spots,31.0,"",31.0,6
+2020-03-30,California,Santa Cruz County,Travel & Transport,43.0,"",43.0,7
+2020-03-30,California,Fresno County,Shops & Services,60.0,57.0,60.0,1
+2020-03-30,California,Fresno County,Food,50.0,45.0,50.0,2
+2020-03-30,California,Fresno County,Professional & Other Places,58.0,58.0,58.0,3
+2020-03-30,California,Fresno County,Outdoors & Recreation,61.0,49.0,61.0,4
+2020-03-30,California,Fresno County,School,48.0,54.0,47.0,5
+2020-03-30,California,Fresno County,Grocery,75.0,81.0,75.0,6
+2020-03-30,California,Fresno County,Medical,52.0,46.0,52.0,7
+2020-03-30,California,Fresno County,Gas Stations,65.0,58.0,66.0,8
+2020-03-30,California,Fresno County,Fast Food Restaurants,60.0,59.0,60.0,9
+2020-03-30,California,Fresno County,Nightlife Spots,43.0,48.0,43.0,10
+2020-03-30,California,Fresno County,Big Box Stores,66.0,54.0,67.0,11
+2020-03-30,California,Fresno County,Residences,67.0,53.0,68.0,12
+2020-03-30,California,Fresno County,Travel & Transport,39.0,36.0,39.0,13
+2020-03-30,California,Fresno County,Arts & Entertainment,32.0,"",32.0,14
+2020-03-30,California,Fresno County,Government,52.0,"",52.0,15
+2020-03-30,California,Fresno County,Office,76.0,"",76.0,16
+2020-03-30,California,Fresno County,Hardware Stores,85.0,"",86.0,17
+2020-03-30,California,Fresno County,Colleges & Universities,20.0,"",19.0,18
+2020-03-30,California,Fresno County,Drug Store,64.0,"",64.0,19
+2020-03-30,California,Fresno County,Convenience Store,65.0,"",65.0,20
+2020-03-30,California,Fresno County,Sports,49.0,"",49.0,21
+2020-03-30,California,Fresno County,Spiritual Center,56.0,"",57.0,22
+2020-03-30,California,Fresno County,Discount Stores,57.0,"",58.0,23
+2020-03-30,California,Fresno County,Banks,51.0,"",52.0,24
+2020-03-30,California,Fresno County,Hotel,38.0,"",39.0,25
+2020-03-30,California,Lassen County,Shops & Services,125.0,"",127.0,1
+2020-03-30,California,El Dorado County,Shops & Services,49.0,36.0,50.0,1
+2020-03-30,California,El Dorado County,Food,31.0,29.0,31.0,2
+2020-03-30,California,El Dorado County,Outdoors & Recreation,44.0,53.0,43.0,3
+2020-03-30,California,El Dorado County,Professional & Other Places,53.0,39.0,55.0,4
+2020-03-30,California,El Dorado County,Nightlife Spots,43.0,"",44.0,5
+2020-03-30,California,El Dorado County,Grocery,55.0,"",56.0,6
+2020-03-30,California,Monterey County,Shops & Services,50.0,37.0,51.0,1
+2020-03-30,California,Monterey County,Food,41.0,35.0,41.0,2
+2020-03-30,California,Monterey County,Outdoors & Recreation,61.0,64.0,60.0,3
+2020-03-30,California,Monterey County,Professional & Other Places,59.0,53.0,59.0,4
+2020-03-30,California,Monterey County,School,50.0,60.0,50.0,5
+2020-03-30,California,Monterey County,Medical,57.0,50.0,58.0,6
+2020-03-30,California,Monterey County,Grocery,61.0,49.0,62.0,7
+2020-03-30,California,Monterey County,Travel & Transport,33.0,29.0,34.0,8
+2020-03-30,California,Monterey County,Gas Stations,60.0,"",61.0,9
+2020-03-30,California,Monterey County,Hotel,29.0,41.0,28.0,10
+2020-03-30,California,Monterey County,Nightlife Spots,37.0,"",37.0,11
+2020-03-30,California,Monterey County,Arts & Entertainment,32.0,52.0,31.0,12
+2020-03-30,California,Monterey County,Big Box Stores,72.0,"",73.0,13
+2020-03-30,California,Monterey County,Fast Food Restaurants,48.0,"",48.0,14
+2020-03-30,California,Monterey County,Colleges & Universities,26.0,"",25.0,15
+2020-03-30,California,Monterey County,Sports,28.0,30.0,28.0,16
+2020-03-30,California,Santa Barbara County,Shops & Services,48.0,42.0,49.0,1
+2020-03-30,California,Santa Barbara County,Food,37.0,34.0,37.0,2
+2020-03-30,California,Santa Barbara County,Outdoors & Recreation,58.0,59.0,58.0,3
+2020-03-30,California,Santa Barbara County,Professional & Other Places,52.0,46.0,52.0,4
+2020-03-30,California,Santa Barbara County,Grocery,58.0,47.0,59.0,5
+2020-03-30,California,Santa Barbara County,Travel & Transport,31.0,34.0,31.0,6
+2020-03-30,California,Santa Barbara County,Nightlife Spots,34.0,44.0,33.0,7
+2020-03-30,California,Santa Barbara County,School,53.0,"",54.0,8
+2020-03-30,California,Santa Barbara County,Medical,41.0,32.0,42.0,9
+2020-03-30,California,Santa Barbara County,Gas Stations,53.0,"",54.0,10
+2020-03-30,California,Santa Barbara County,Hotel,31.0,45.0,30.0,11
+2020-03-30,California,Santa Barbara County,Arts & Entertainment,31.0,"",31.0,12
+2020-03-30,California,Santa Barbara County,Sports,47.0,"",47.0,13
+2020-03-30,California,Santa Barbara County,Fast Food Restaurants,52.0,"",54.0,14
+2020-03-30,California,Santa Clara County,Shops & Services,41.0,37.0,41.0,1
+2020-03-30,California,Santa Clara County,Food,30.0,24.0,30.0,2
+2020-03-30,California,Santa Clara County,Outdoors & Recreation,54.0,50.0,54.0,3
+2020-03-30,California,Santa Clara County,Professional & Other Places,29.0,30.0,29.0,4
+2020-03-30,California,Santa Clara County,Grocery,61.0,53.0,61.0,5
+2020-03-30,California,Santa Clara County,Medical,42.0,26.0,43.0,6
+2020-03-30,California,Santa Clara County,Residences,48.0,42.0,48.0,7
+2020-03-30,California,Santa Clara County,School,31.0,37.0,31.0,8
+2020-03-30,California,Santa Clara County,Office,14.0,23.0,13.0,9
+2020-03-30,California,Santa Clara County,Travel & Transport,15.0,12.0,15.0,10
+2020-03-30,California,Santa Clara County,Gas Stations,44.0,45.0,44.0,11
+2020-03-30,California,Santa Clara County,Sports,28.0,20.0,28.0,12
+2020-03-30,California,Santa Clara County,Fast Food Restaurants,55.0,"",55.0,13
+2020-03-30,California,Santa Clara County,Colleges & Universities,14.0,"",14.0,14
+2020-03-30,California,Santa Clara County,Big Box Stores,56.0,"",56.0,15
+2020-03-30,California,Santa Clara County,Nightlife Spots,23.0,"",23.0,16
+2020-03-30,California,Santa Clara County,Arts & Entertainment,20.0,"",20.0,17
+2020-03-30,California,Santa Clara County,Fitness Center,21.0,"",21.0,18
+2020-03-30,California,Santa Clara County,Drug Store,59.0,"",60.0,19
+2020-03-30,California,Santa Clara County,Hardware Stores,59.0,58.0,59.0,20
+2020-03-30,California,Santa Clara County,Convenience Store,50.0,"",50.0,21
+2020-03-30,California,Santa Clara County,Spiritual Center,36.0,"",36.0,22
+2020-03-30,California,Santa Clara County,Government,32.0,"",32.0,23
+2020-03-30,California,Santa Clara County,Airport,10.0,"",10.0,24
+2020-03-30,California,Santa Clara County,Banks,47.0,"",46.0,25
+2020-03-30,California,Santa Clara County,Hotel,21.0,"",22.0,26
+2020-03-30,California,Napa County,Shops & Services,58.0,40.0,59.0,1
+2020-03-30,California,Napa County,Professional & Other Places,47.0,41.0,48.0,2
+2020-03-30,California,Napa County,Food,36.0,31.0,36.0,3
+2020-03-30,California,Napa County,Outdoors & Recreation,57.0,64.0,57.0,4
+2020-03-30,California,Napa County,Grocery,77.0,"",79.0,5
+2020-03-30,California,Stanislaus County,Shops & Services,60.0,50.0,60.0,1
+2020-03-30,California,Stanislaus County,Food,52.0,38.0,53.0,2
+2020-03-30,California,Stanislaus County,Professional & Other Places,60.0,53.0,60.0,3
+2020-03-30,California,Stanislaus County,Outdoors & Recreation,66.0,59.0,67.0,4
+2020-03-30,California,Stanislaus County,Grocery,75.0,64.0,76.0,5
+2020-03-30,California,Stanislaus County,School,50.0,48.0,50.0,6
+2020-03-30,California,Stanislaus County,Medical,45.0,28.0,46.0,7
+2020-03-30,California,Stanislaus County,Fast Food Restaurants,62.0,"",63.0,8
+2020-03-30,California,Stanislaus County,Nightlife Spots,53.0,40.0,53.0,9
+2020-03-30,California,Stanislaus County,Gas Stations,65.0,"",66.0,10
+2020-03-30,California,Stanislaus County,Travel & Transport,64.0,"",64.0,11
+2020-03-30,California,Stanislaus County,Big Box Stores,65.0,"",65.0,12
+2020-03-30,California,Stanislaus County,Sports,48.0,"",48.0,13
+2020-03-30,California,Stanislaus County,Colleges & Universities,39.0,"",39.0,14
+2020-03-30,California,Stanislaus County,Arts & Entertainment,41.0,"",41.0,15
+2020-03-30,California,Stanislaus County,Drug Store,78.0,"",78.0,16
+2020-03-30,California,Stanislaus County,Convenience Store,59.0,"",59.0,17
+2020-03-30,California,Stanislaus County,Hardware Stores,101.0,"",103.0,18
+2020-03-30,California,Stanislaus County,Residences,70.0,"",72.0,19
+2020-03-30,California,Stanislaus County,Government,51.0,"",51.0,20
+2020-03-30,California,Siskiyou County,Shops & Services,72.0,76.0,71.0,1
+2020-03-30,California,Siskiyou County,Food,56.0,74.0,54.0,2
+2020-03-30,California,Shasta County,Shops & Services,54.0,35.0,56.0,1
+2020-03-30,California,Shasta County,Food,51.0,44.0,52.0,2
+2020-03-30,California,Shasta County,Outdoors & Recreation,51.0,39.0,52.0,3
+2020-03-30,California,Shasta County,Professional & Other Places,49.0,37.0,51.0,4
+2020-03-30,California,Shasta County,Grocery,69.0,60.0,70.0,5
+2020-03-30,California,Shasta County,Medical,63.0,61.0,63.0,6

@@ -1,0 +1,344 @@
+categoryId,categoryName,isEssential
+4bf58dd8d48988d102951735,Accessories Stores,false
+4bf58dd8d48988d1f0931735,Airport Gates,true
+4eb1bc533b7b2c5b1d4306cb,Airport Lounges,false
+56aa371be4b08b9a8d57352f,Airport Services,true
+4bf58dd8d48988d1eb931735,Airport Terminals,true
+4bf58dd8d48988d1ec931735,Airport Trams,true
+4bf58dd8d48988d1ed931735,Airports,true
+4bf58dd8d48988d14e941735,American Restaurants,true
+4bf58dd8d48988d116951735,Antique Shops,false
+4fceea171983d5d06c3e9823,Aquariums,false
+4bf58dd8d48988d1e1931735,Arcades,false
+4bf58dd8d48988d1e2931735,Art Galleries,false
+4bf58dd8d48988d18f941735,Art Museums,false
+4bf58dd8d48988d127951735,Arts & Crafts Stores,false
+4bf58dd8d48988d142941735,Asian Restaurants,true
+5032891291d4c4b30a586d68,Assisted Living,true
+4f4528bc4b90abdf24c9de85,Athletics & Sports,false
+52f2ab2ebcbc57f1066b8b56,ATMs,true
+4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,false
+56aa371be4b08b9a8d5734d3,Auto Workshops,true
+4bf58dd8d48988d124951735,Automotive Shops,true
+4bf58dd8d48988d179941735,Bagel Shops,true
+4bf58dd8d48988d16a941735,Bakeries,true
+4bf58dd8d48988d10a951735,Banks,true
+4bf58dd8d48988d116941735,Bars,false
+4bf58dd8d48988d1e8941735,Baseball Fields,false
+4bf58dd8d48988d18c941735,Baseball Stadiums,false
+4bf58dd8d48988d1e1941735,Basketball Courts,false
+4bf58dd8d48988d18b941735,Basketball Stadiums,false
+56aa371be4b08b9a8d573544,Bays,false
+4bf58dd8d48988d1df931735,BBQ Joints,true
+4bf58dd8d48988d1e2941735,Beaches,false
+56aa371ce4b08b9a8d57356c,Beer Bars,false
+4bf58dd8d48988d117941735,Beer Gardens,false
+52f2ab2ebcbc57f1066b8b42,Big Box Stores,true
+4bf58dd8d48988d115951735,Bike Shops,false
+4bf58dd8d48988d12d951735,Boats or Ferries,false
+4bf58dd8d48988d114951735,Bookstores,false
+52f2ab2ebcbc57f1066b8b4b,Border Crossings,true
+4bf58dd8d48988d104951735,Boutiques,false
+4bf58dd8d48988d1e4931735,Bowling Alleys,false
+4bf58dd8d48988d143941735,Breakfast Spots,true
+50327c8591d4c4b30a586d5d,Breweries,false
+4bf58dd8d48988d1df941735,Bridges,false
+52e81612bcbc57f1066b7a0c,Bubble Tea Shops,true
+52e81612bcbc57f1066b79f4,Buffets,true
+4bf58dd8d48988d130941735,Buildings,false
+4bf58dd8d48988d16c941735,Burger Joints,true
+4bf58dd8d48988d12b951735,Bus Lines,true
+4bf58dd8d48988d1fe931735,Bus Stations,true
+52f2ab2ebcbc57f1066b8b4f,Bus Stops,true
+56aa371be4b08b9a8d573517,Business Centers,false
+5453de49498eade8af355881,Business Services,false
+4bf58dd8d48988d11d951735,Butchers,true
+4bf58dd8d48988d128941735,Cafeterias,true
+4bf58dd8d48988d16d941735,CafÔøÉÔæ©s,true
+4bf58dd8d48988d17a941735,Cajun / Creole Restaurants,true
+4bf58dd8d48988d1e4941735,Campgrounds,false
+4bf58dd8d48988d117951735,Candy Stores,false
+4f04ae1f2fb6e1c99f3db0ba,Car Washes,false
+4bf58dd8d48988d17c941735,Casinos,false
+4bf58dd8d48988d15c941735,Cemeteries,false
+4bf58dd8d48988d145941735,Chinese Restaurants,true
+52e81612bcbc57f1066b7a3a,Chiropractors,false
+52f2ab2ebcbc57f1066b8b31,Chocolate Shops,false
+4bf58dd8d48988d132941735,Churches,false
+50aa9e094b90af0d42d5de0d,Cities,false
+4bf58dd8d48988d129941735,City Halls,true
+4bf58dd8d48988d103951735,Clothing Stores,false
+4bf58dd8d48988d11e941735,Cocktail Bars,false
+4bf58dd8d48988d1e0931735,Coffee Shops,true
+4bf58dd8d48988d198941735,College Academic Buildings,false
+4bf58dd8d48988d197941735,College Administrative Buildings,false
+4bf58dd8d48988d199941735,College Arts Buildings,false
+4bf58dd8d48988d1af941735,College Auditoriums,false
+4bf58dd8d48988d1ba941735,College Basketball Courts,false
+4bf58dd8d48988d1b1941735,College Bookstores,false
+4bf58dd8d48988d1a1941735,College Cafeterias,false
+4bf58dd8d48988d1a0941735,College Classrooms,false
+4bf58dd8d48988d19e941735,College Engineering Buildings,false
+4bf58dd8d48988d1b2941735,College Gyms,false
+4bf58dd8d48988d1a5941735,College Labs,false
+4bf58dd8d48988d1a7941735,College Libraries,false
+4bf58dd8d48988d19c941735,College Math Buildings,false
+4bf58dd8d48988d1aa941735,College Quads,false
+4bf58dd8d48988d1a9941735,College Rec Centers,false
+4bf58dd8d48988d1a3941735,College Residence Halls,false
+4bf58dd8d48988d19b941735,College Science Buildings,false
+52e81612bcbc57f1066b7a34,Community Centers,false
+4bf58dd8d48988d1a2941735,Community Colleges,false
+5032792091d4c4b30a586d5c,Concert Halls,false
+4bf58dd8d48988d127941735,Conference Rooms,false
+4d954b0ea243a5684a65b473,Convenience Stores,true
+4bf58dd8d48988d1ff931735,Convention Centers,false
+54f4ba06498e2cf5561da814,Corporate Cafeterias,false
+4bf58dd8d48988d10c951735,Cosmetics Shops,false
+4bf58dd8d48988d12b941735,Courthouses,true
+4bf58dd8d48988d174941735,Coworking Spaces,false
+5032850891d4c4b30a586d62,Credit Unions,true
+55077a22498e5e9248869ba2,Cruises,true
+4bf58dd8d48988d154941735,Cuban Restaurants,true
+4bf58dd8d48988d134941735,Dance Studios,false
+4bf58dd8d48988d146941735,Delis / Bodegas,true
+4bf58dd8d48988d178941735,Dentist's Offices,false
+4bf58dd8d48988d1f6941735,Department Stores,false
+4bf58dd8d48988d1f4941735,Design Studios,false
+4bf58dd8d48988d1d0941735,Dessert Shops,true
+4bf58dd8d48988d1f5931735,Dim Sum Restaurants,true
+4bf58dd8d48988d147941735,Diners,true
+52dea92d3cf9994f4e043dbb,Discount Stores,false
+52e81612bcbc57f1066b7a37,Distribution Centers,true
+4bf58dd8d48988d118941735,Dive Bars,false
+4bf58dd8d48988d177941735,Doctor's Offices,true
+4bf58dd8d48988d1e5941735,Dog Runs,false
+55a59bace4b013909087cb0c,Donburi Restaurants,true
+4bf58dd8d48988d148941735,Donut Shops,true
+4bf58dd8d48988d122951735,Electronics Stores,false
+4f4533804b9074f6e4fb0105,Elementary Schools,false
+4bf58dd8d48988d194941735,Emergency Rooms,true
+5032872391d4c4b30a586d64,EV Charging Stations,true
+4bf58dd8d48988d171941735,Event Spaces,false
+52f2ab2ebcbc57f1066b8b26,Fabric Shops,false
+4eb1bea83b7b6f98df247e06,Factories,true
+4eb1daf44b900d56c88a4600,Fairs,false
+4bf58dd8d48988d1fa941735,Farmers Markets,true
+4bf58dd8d48988d15b941735,Farms,false
+4bf58dd8d48988d16e941735,Fast Food Restaurants,true
+4bf58dd8d48988d15f941735,Fields,false
+4eb1bd1c3b7b55596b4a748f,Filipino Restaurants,true
+56aa371be4b08b9a8d573523,Film Studios,false
+503287a291d4c4b30a586d65,Financial or Legal Services,true
+4bf58dd8d48988d12c941735,Fire Stations,true
+4bf58dd8d48988d1f7941735,Flea Markets,false
+4bf58dd8d48988d11b951735,Flower Shops,false
+4d4b7105d754a06374d81259,Food,true
+4bf58dd8d48988d1f9941735,Food & Drink Shops,true
+4bf58dd8d48988d120951735,Food Courts,true
+4bf58dd8d48988d1cb941735,Food Trucks,true
+4bf58dd8d48988d189941735,Football Stadiums,false
+56aa371be4b08b9a8d573547,Fountains,false
+4bf58dd8d48988d10c941735,French Restaurants,true
+4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,true
+512e7cae91d4cbb4e5efe0af,Frozen Yogurt Shops,true
+52f2ab2ebcbc57f1066b8b1c,Fruit & Vegetable Stores,false
+4bf58dd8d48988d1f8941735,Furniture / Home Stores,false
+4eb1c0253b7b52c0e1adc2e9,Garden Centers,false
+4bf58dd8d48988d15a941735,Gardens,false
+4bf58dd8d48988d113951735,Gas Stations,true
+4bf58dd8d48988d155941735,Gastropubs,true
+4bf58dd8d48988d1d8941735,Gay Bars,false
+4bf58dd8d48988d1a8941735,General Colleges & Universities,false
+4bf58dd8d48988d1f1931735,General Entertainment,false
+4bf58dd8d48988d1f6931735,General Travel,false
+4bf58dd8d48988d128951735,Gift Shops,false
+4bf58dd8d48988d1e6941735,Golf Courses,false
+4bf58dd8d48988d1f5941735,Gourmet Shops,true
+4bf58dd8d48988d126941735,Government Buildings,true
+4bf58dd8d48988d10e941735,Greek Restaurants,true
+4bf58dd8d48988d118951735,Grocery Stores,true
+52f2ab2ebcbc57f1066b8b48,Gymnastics Gyms,false
+4bf58dd8d48988d176941735,Gyms,false
+4bf58dd8d48988d175941735,Gyms or Fitness Centers,false
+4bf58dd8d48988d1e0941735,Harbors / Marinas,false
+4bf58dd8d48988d112951735,Hardware Stores,true
+52e81612bcbc57f1066b79fe,Hawaiian Restaurants,true
+54541900498ea6ccd0202697,Health & Beauty Services,false
+4bf58dd8d48988d13d941735,High Schools,false
+4deefb944765f83613cdba6e,Historic Sites,false
+4bf58dd8d48988d190941735,History Museums,false
+4bf58dd8d48988d185941735,Hockey Arenas,false
+545419b1498ea6ccd0202f58,Home Services & Repairs,false
+4bf58dd8d48988d103941735,Homes (private),true
+4bf58dd8d48988d119941735,Hookah Bars,false
+4bf58dd8d48988d196941735,Hospitals,true
+4bf58dd8d48988d16f941735,Hot Dog Joints,true
+4bf58dd8d48988d1d5941735,Hotel Bars,false
+4bf58dd8d48988d132951735,Hotel Pools,false
+4bf58dd8d48988d1fa931735,Hotels,false
+4f2a210c4b9023bd5841ed28,Housing Developments,true
+4bf58dd8d48988d1c9941735,Ice Cream Shops,true
+4bf58dd8d48988d10f941735,Indian Restaurants,true
+4bf58dd8d48988d17e941735,Indie Movie Theaters,false
+58daa1558bbb0b01f18ec1f1,Insurance Offices,true
+52f2ab2ebcbc57f1066b8b4c,Intersections,true
+4bf58dd8d48988d110941735,Italian Restaurants,true
+4bf58dd8d48988d111941735,Japanese Restaurants,true
+4bf58dd8d48988d111951735,Jewelry Stores,false
+4bf58dd8d48988d112941735,Juice Bars,true
+4bf58dd8d48988d120941735,Karaoke Bars,false
+58daa1558bbb0b01f18ec1b4,Kitchen Supply Stores,false
+4bf58dd8d48988d113941735,Korean Restaurants,true
+4bf58dd8d48988d161941735,Lakes,false
+4bf58dd8d48988d1be941735,Latin American Restaurants,true
+52f2ab2ebcbc57f1066b8b33,Laundromats,false
+4bf58dd8d48988d1fc941735,Laundry Services,true
+4bf58dd8d48988d12f941735,Libraries,false
+4bf58dd8d48988d1fc931735,Light Rail Stations,true
+4bf58dd8d48988d186941735,Liquor Stores,false
+4bf58dd8d48988d121941735,Lounges,false
+52c71aaf3cf9994f4e043d17,Marijuana Dispensaries,true
+50be8ee891d4fa8dcc7199a7,Markets,true
+4bf58dd8d48988d101941735,Martial Arts Dojos,false
+52f2ab2ebcbc57f1066b8b3c,Massage Studios,false
+4bf58dd8d48988d104941735,Medical Centers,true
+4f4531b14b9074f6e4fb0103,Medical Labs,true
+4bf58dd8d48988d1b3941735,Medical Schools,false
+4bf58dd8d48988d1c0941735,Mediterranean Restaurants,true
+4bf58dd8d48988d100941735,Meeting Rooms,false
+4bf58dd8d48988d106951735,Men's Stores,false
+4bf58dd8d48988d1fd931735,Metro Stations,true
+4bf58dd8d48988d1c1941735,Mexican Restaurants,true
+4bf58dd8d48988d115941735,Middle Eastern Restaurants,true
+4f4533814b9074f6e4fb0106,Middle Schools,false
+4e52adeebd41615f56317744,Military Bases,true
+4bf58dd8d48988d1ff941735,Miscellaneous Shops,false
+4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,false
+4bf58dd8d48988d12d941735,Monuments / Landmarks,false
+4bf58dd8d48988d1fb931735,Motels,false
+4eb1d4d54b900d56c88a45fc,Mountains,false
+4bf58dd8d48988d17f941735,Movie Theaters,false
+4f2a23984b9023bd5841ed2c,Moving Targets,false
+4bf58dd8d48988d180941735,Multiplexes,false
+4bf58dd8d48988d181941735,Museums,false
+4bf58dd8d48988d1fe941735,Music Stores,false
+4bf58dd8d48988d1e5931735,Music Venues,false
+4f04aa0c2fb6e1c99f3db0b8,Nail Salons,false
+52e81612bcbc57f1066b7a21,National Parks,false
+52e81612bcbc57f1066b7a13,Nature Preserves,false
+4f2a25ac4b909258e854f55f,Neighborhoods,false
+4bf58dd8d48988d157941735,New American Restaurants,true
+4bf58dd8d48988d11f941735,Nightclubs,false
+50328a8e91d4c4b30a586d6c,Non-Profits,false
+4bf58dd8d48988d1d1941735,Noodle Houses,true
+5744ccdfe4b0c0459246b4d9,Observatories,false
+4bf58dd8d48988d124941735,Offices,false
+4d954afda243a5684865b473,Optical Shops,false
+4bf58dd8d48988d162941735,Other Great Outdoors,false
+4bf58dd8d48988d11a941735,Other Nightlife,false
+5744ccdfe4b0c0459246b4df,Outlet Malls,false
+4bf58dd8d48988d121951735,Paper / Office Supplies Stores,false
+4c38df4de52ce0d596b336e1,Parking,false
+4bf58dd8d48988d163941735,Parks,false
+4bf58dd8d48988d1f2931735,Performing Arts Venues,false
+5032897c91d4c4b30a586d69,Pet Services,false
+4bf58dd8d48988d100951735,Pet Stores,true
+4bf58dd8d48988d10f951735,Pharmacies,true
+4eb1bdde3b7b55596b4a7490,Photography Labs,false
+4e74f6cabd41c4836eac4c31,Piers,false
+5744ccdfe4b0c0459246b4b2,Pilates Studios,false
+4bf58dd8d48988d1ca941735,Pizza Places,true
+4bf58dd8d48988d1e7941735,Playgrounds,false
+4bf58dd8d48988d164941735,Plazas,false
+5bae9231bedf3950379f89d4,Poke Places,true
+4bf58dd8d48988d12e941735,Police Stations,true
+4bf58dd8d48988d15e941735,Pools,false
+4bf58dd8d48988d172941735,Post Offices,true
+52e81612bcbc57f1066b7a45,Preschools,false
+4d4b7105d754a06375d81259,Professional & Other Places,false
+4bf58dd8d48988d11b941735,Pubs,false
+4bf58dd8d48988d1f4931735,Racetracks,false
+55a59bace4b013909087cb24,Ramen Restaurants,true
+52e81612bcbc57f1066b7a26,Recreation Centers,false
+4f4531084b9074f6e4fb0101,Recycling Facilities,false
+4bf58dd8d48988d1ef941735,Rental Car Locations,true
+4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),true
+4bf58dd8d48988d12f951735,Resorts,false
+4d954b16a243a5684b65b473,Rest Areas,false
+4bf58dd8d48988d1c4941735,Restaurants,true
+4bf58dd8d48988d1f9931735,Roads,true
+4bf58dd8d48988d1e9931735,Rock Clubs,false
+52f2ab2ebcbc57f1066b8b53,RV Parks,true
+4bf58dd8d48988d1bd941735,Salad Places,true
+4bf58dd8d48988d110951735,Salons / Barbershops,false
+4bf58dd8d48988d1c5941735,Sandwich Places,true
+4bf58dd8d48988d165941735,Scenic Lookouts,false
+4bf58dd8d48988d13b941735,Schools,false
+4bf58dd8d48988d1ce941735,Seafood Restaurants,true
+52f2ab2ebcbc57f1066b8b1f,Shipping Stores,false
+4bf58dd8d48988d107951735,Shoe Stores,false
+4bf58dd8d48988d1fd941735,Shopping Malls,false
+5744ccdfe4b0c0459246b4dc,Shopping Plazas,false
+4d4b7105d754a06378d81259,Shops & Services,false
+4bf58dd8d48988d168941735,Skating Rinks,false
+4bf58dd8d48988d1e9941735,Ski Areas,false
+4eb1c0ed3b7b52c0e1adc2ea,Ski Chairlifts,false
+4bf58dd8d48988d1eb941735,Ski Lodges,false
+4bf58dd8d48988d123951735,Smoke Shops,false
+4bf58dd8d48988d1c7941735,Snack Places,true
+4cce455aebf7b749d5e191f5,Soccer Fields,false
+4bf58dd8d48988d188941735,Soccer Stadiums,false
+52e81612bcbc57f1066b7a33,Social Clubs,false
+4bf58dd8d48988d14f941735,Southern / Soul Food Restaurants,true
+4bf58dd8d48988d1ed941735,Spas,false
+4bf58dd8d48988d1d4941735,Speakeasies,false
+4bf58dd8d48988d131941735,Spiritual Centers,false
+4bf58dd8d48988d1f2941735,Sporting Goods Shops,false
+4bf58dd8d48988d11d941735,Sports Bars,false
+4bf58dd8d48988d184941735,Stadiums,false
+5bae9231bedf3950379f89d0,State / Provincial Parks,false
+4bf58dd8d48988d1cc941735,Steakhouses,true
+4f04b1572fb6e1c99f3db0bf,Storage Facilities,false
+4bf58dd8d48988d1d6941735,Strip Clubs,false
+4bf58dd8d48988d1ab941735,Student Centers,false
+52f2ab2ebcbc57f1066b8b46,Supermarkets,true
+4bf58dd8d48988d1e3941735,Surf Spots,false
+4bf58dd8d48988d1d2941735,Sushi Restaurants,true
+4bf58dd8d48988d139941735,Synagogues,false
+4bf58dd8d48988d151941735,Taco Places,true
+4bf58dd8d48988d1de931735,Tattoo Parlors,false
+4bf58dd8d48988d1dc931735,Tea Rooms,true
+4bf58dd8d48988d125941735,Tech Startups,false
+4bf58dd8d48988d13a941735,Temples,false
+4e39a956bd410d7aed40cbc3,Tennis Courts,false
+56aa371ae4b08b9a8d5734ba,Tex-Mex Restaurants,true
+4bf58dd8d48988d149941735,Thai Restaurants,true
+4bf58dd8d48988d137941735,Theaters,false
+5109983191d435c0d71c2bb1,Theme Park Rides/Attractions,false
+4bf58dd8d48988d182941735,Theme Parks,false
+4bf58dd8d48988d101951735,Thrift / Vintage Stores,false
+4bf58dd8d48988d1f3941735,Toy / Game Stores,false
+4bf58dd8d48988d106941735,Tracks,false
+4bf58dd8d48988d1ad941735,Trade Schools,false
+4bf58dd8d48988d159941735,Trails,false
+4bf58dd8d48988d129951735,Train Stations,true
+52f2ab2ebcbc57f1066b8b51,Tram Stations,true
+54541b70498ea6ccd0204bff,Transportation Services,true
+57558b36e4b065ecebd306dd,Truck Stops,true
+4bf58dd8d48988d1ae941735,Universities,false
+56aa371be4b08b9a8d573526,Urgent Care Centers,true
+4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurants,true
+4d954af4a243a5684765b473,Veterinarians,true
+4bf58dd8d48988d10b951735,Video Game Stores,false
+4bf58dd8d48988d14a941735,Vietnamese Restaurants,true
+52e816a6bcbc57f1066b7a54,Warehouse Stores,true
+52e81612bcbc57f1066b7a36,Warehouses,true
+4bf58dd8d48988d123941735,Wine Bars,false
+4bf58dd8d48988d119951735,Wine Shops,false
+4bf58dd8d48988d14b941735,Wineries,false
+4bf58dd8d48988d14c941735,Wings Joints,true
+4bf58dd8d48988d108951735,Women's Stores,false
+4bf58dd8d48988d102941735,Yoga Studios,false
+58daa1558bbb0b01f18ec1fd,Zoo Exhibits,false
+4bf58dd8d48988d17b941735,Zoos,false

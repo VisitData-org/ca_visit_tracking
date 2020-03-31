@@ -1,7 +1,7 @@
 {% extends "nav.html" %}
 {% block main %}
       <div class="container-fluid mt-2 main-mobile">
-        <h4 id="table-title"></h4>
+        <h4 id="table-title">Visit data for</h4>
         <br/>
 
         <div class="container">
@@ -42,7 +42,9 @@
                   <br/>
                   <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
                   <br/>
-                  <li>Contact support@visitdata.org with any questions or problems.</li>
+                  <li>Each day is for the 24-hour period ending at 5pm on that date. For example Monday's data cover from Sunday 5pm to Monday 5pm.</li>
+                  <br/>
+                  <li>Contact support@visitdata.org with any questions or problems or call/text (917) 757-4440.</li>
                 </ul>
               </div>
               <div class="modal-footer">
@@ -57,8 +59,13 @@
         </div>
 
         <!-- TODO get foursquare image to show as footer across the whole bottom of the page, right?  not just the main section? -->
-        <a href="https://developer.foursquare.com/"><img src="foursquare.png"></a>
+        <a href="https://developer.foursquare.com/"><img src="/foursquare.png"></a>
 
-        <script type="text/javascript" src="ca.js"></script>
+        <script type="text/javascript">
+         var _selectedCounties = {{ counties|tojson }};
+         var _selectedVenues = {{ venues|tojson }};
+        </script>
+        <script type="text/javascript" src="/ca.js"></script>
+      </div>	
 
 {% endblock %}

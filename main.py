@@ -12,13 +12,23 @@ def root():
 
 @app.route("/index.html")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", counties="", venues="")
 
+@app.route("/counties/<counties>")
+def bycounties(counties):
+    return render_template("index.html", counties=counties, venues="")
+
+@app.route("/venues/<venues>")
+def byvenues(venues):
+    return render_template("index.html", counties="", venues=venues)
 
 @app.route("/bydate.html")
 def bydate():
-    return render_template("bydate.html")
+    return render_template("bydate.html", counties="", venues="")
 
+@app.route("/bydatesel/<counties>/<venues>")
+def bydatesel(counties, venues):
+    return render_template("bydate.html", counties=counties, venues=venues)
 
 @app.route("/report_tree.html")
 def report_tree():

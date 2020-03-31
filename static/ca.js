@@ -6,29 +6,32 @@ var locationTypeSel;
 var counties = [];
 var locationTypes = [];
 var dateToShow;
+var selectedCounties;
+var selectedVenues;
 
 function findDateToShow(parsedRows) {
   var allDatesSorted = _.uniq(_.pluck(parsedRows, 'date')).sort();
-  allDatesSorted.pop(); // the last day is incomplete unfortunately. up to 5pm Pacific time,
-  // and so the data is no good.
   return allDatesSorted.pop(); // this is the date we have complete data for
 }
 
 function redoFilter() {
   table.clearFilter();
   if (countySel.value) {
-    table.addFilter("county", "=", countySel.value);
+    table.addFilter("county", "=", countySel.value);    
   }
   if (locationTypeSel.value) {
-    table.addFilter("location_type", "=", locationTypeSel.value);
+    table.addFilter("location_type", "=", locationTypeSel.value);    
   }
 }
 
-function populateSelect(selectElement, stringList) {
+function populateSelect(selectElement, stringList, selected) {
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
     option.value = theString;
     option.text = theString;
+    if (_.contains(selected, option.text)) {
+      option.selected = true;
+    }
     selectElement.add(option);
   });
 }
@@ -57,7 +60,7 @@ function parsingDone(results, file) {
 
   var parsed = _.map(results.data.slice(1), parseGroupedRow);
   dateToShow = findDateToShow(parsed);
-  document.getElementById('table-title').appendChild(document.createTextNode("Visit data for " + dateToShow));
+  $('#table-title').text("Visit data for " + dateToShow);
   var oneDateOnly = _.where(parsed, { date: dateToShow });
   _.each(oneDateOnly, function (parsedRow) {
     counties.push(parsedRow.county);
@@ -84,12 +87,20 @@ function parsingDone(results, file) {
   });
 
   countySel = document.getElementById('county-select');
-  populateSelect(countySel, counties);
+  populateSelect(countySel, counties, selectedCounties);
 
   locationTypeSel = document.getElementById('location-type-select');
-  populateSelect(locationTypeSel, locationTypes);
+  populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
-  _.each([countySel, locationTypeSel], function(sel) { sel.addEventListener('change', redoFilter); });
+  redoFilter();
+
+  countySel.addEventListener('change', function() {
+    window.location = "/counties/" + encodeURIComponent(countySel.value);
+  });
+
+  locationTypeSel.addEventListener('change', function() {
+    window.location = "/venues/" + encodeURIComponent(locationTypeSel.value);
+  });
 
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
@@ -111,4 +122,10 @@ function parsingDone(results, file) {
   });
 }
 
-Papa.parse('data/grouped.csv', {download: true, complete: parsingDone});
+function parseSelection() {
+  selectedCounties = _selectedCounties.split(',');
+  selectedVenues = _selectedVenues.split(',');
+}
+
+parseSelection();
+Papa.parse('/data/grouped.csv', {download: true, complete: parsingDone});
