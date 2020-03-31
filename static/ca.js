@@ -11,8 +11,6 @@ var selectedVenues;
 
 function findDateToShow(parsedRows) {
   var allDatesSorted = _.uniq(_.pluck(parsedRows, 'date')).sort();
-  allDatesSorted.pop(); // the last day is incomplete unfortunately. up to 5pm Pacific time,
-  // and so the data is no good.
   return allDatesSorted.pop(); // this is the date we have complete data for
 }
 
