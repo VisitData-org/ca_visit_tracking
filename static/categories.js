@@ -1,3 +1,14 @@
+String.prototype.padding = function (n, c) {
+    var val = this.valueOf();
+    if (Math.abs(n) <= val.length) {
+        return val;
+    }
+    var m = Math.max((Math.abs(n) - this.length) || 0, 0);
+    var pad = Array(m + 1).join(String(c || ' ').charAt(0));
+    return (n < 0) ? pad + val : val + pad;
+};
+
+
 var Essentializer = (function () {
 
     // Instance stores a reference to the Singleton
@@ -5,7 +16,7 @@ var Essentializer = (function () {
 
     function init() {
 
-        function handleCategory(parentEssential, essentialMap, category) {
+        function handleCategory(parentEssential, essentialMap, category, depth) {
             var categoryName = category.name;
             var categoryId = category.id;
 
@@ -28,9 +39,12 @@ var Essentializer = (function () {
                 subcategories = [];
             }
 
+            var indent = 2 * depth
+            // console.log("".padding(indent) + categoryName.padding(45 - indent) + categoryId + " " + essential);
+
             for (var subcategoryIndex = 0; subcategoryIndex < subcategories.length; subcategoryIndex++) {
                 var subcategory = subcategories[subcategoryIndex];
-                handleCategory(essential, essentialMap, subcategories[subcategoryIndex]);
+                handleCategory(essential, essentialMap, subcategories[subcategoryIndex], depth + 1);
             }
         }
 
@@ -42,7 +56,7 @@ var Essentializer = (function () {
         for (categoryIndex = 0; categoryIndex < taxonomy.length; categoryIndex++) {
             var nextCategory = taxonomy[categoryIndex];
             categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
-            handleCategory(null, categoryIdToEssentialMap, nextCategory);
+            handleCategory(null, categoryIdToEssentialMap, nextCategory, 0);
         }
 
         return {
@@ -74,23 +88,14 @@ var Essentializer = (function () {
 
 })();
 
-String.prototype.padding = function (n, c) {
-    var val = this.valueOf();
-    if (Math.abs(n) <= val.length) {
-        return val;
-    }
-    var m = Math.max((Math.abs(n) - this.length) || 0, 0);
-    var pad = Array(m + 1).join(String(c || ' ').charAt(0));
-    return (n < 0) ? pad + val : val + pad;
-};
-
 var essentializer = Essentializer.getInstance();
 // example usage using my raw categories which is the category ID and name from the raw.csv file
-// var rawCategories = require("./data/raw_categories.json");
-// for (var rawCatIndex = 0; rawCatIndex < rawCategories.length; rawCatIndex++) {
-//     var rawCategory = rawCategories[rawCatIndex];
-//     var rawCategoryName = rawCategory.categoryName;
-//     var rawCategoryId = rawCategory.categoryId;
-//     var isEssential = essentializer.isCategoryEssential(rawCategoryId);
-//     console.log(rawCategoryName.padding(30) + " is " + isEssential);
-// }
+var rawCategories = require("./data/raw_categories.json");
+for (var rawCatIndex = 0; rawCatIndex < rawCategories.length; rawCatIndex++) {
+    var rawCategory = rawCategories[rawCatIndex];
+    var rawCategoryName = rawCategory.categoryName;
+    var rawCategoryId = rawCategory.categoryId;
+    var isEssential = essentializer.isCategoryEssential(rawCategoryId);
+    // console.log(rawCategoryName.padding(30) + " is " + isEssential);
+    console.log('"' + rawCategoryId + '","' + rawCategoryName + '","' + isEssential + '"');
+}
