@@ -9681,7 +9681,7 @@
         "name": "Gas Station",
         "pluralName": "Gas Stations",
         "shortName": "Gas Station",
-        "essential": null,
+        "essential": "true",
         "icon": {
           "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/gas_",
           "suffix": ".png"
