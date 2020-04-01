@@ -12,7 +12,7 @@ def root():
 
 @app.route("/index.html")
 def index():
-    return render_template("index.html", counties="", venues="")
+    return render_template("statelist.html")
 
 @app.route("/counties/<counties>")
 def bycounties(counties):
