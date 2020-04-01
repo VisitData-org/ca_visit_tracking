@@ -354,7 +354,6 @@ function parsingDone(results, file) {
 }
 
 var eventListener = function() {
-  console.log('select changed '+selectedState+","+selectedCounties+','+selectedVenues);
   county = countySel.value ? encodeURIComponent(countySel.value) : ALL
   venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
   windowLocationToSet = "/bydatesel/" + selectedState + "/" + county + "/" + venue;
@@ -368,12 +367,16 @@ function parseSelection() {
   selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
   selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
   selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
+}
 
-  console.log('parseSelection '+selectedState+","+selectedCounties+','+selectedVenues);
-
+function setNavLinks() {
+  document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
+  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedState + "/ALL/ALL";
+  document.getElementById('nav-chartall').href = "/bydatesel/" + selectedState + "/ALL/ALL?datafilename=raw";
 }
 
 parseSelection();
+setNavLinks();
 if (!datafilename) {
   datafilename = '/data/grouped' + selectedState + '.csv';
 } else {
