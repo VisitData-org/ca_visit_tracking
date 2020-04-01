@@ -34,14 +34,8 @@ def bydateselstate(state):
 def bydatesel(state, counties, venues):
     return render_template("bydate.html", state=state, counties=counties, venues=venues)
 
-@app.route("/report_tree.html")
-def report_tree():
-    return render_template("report_tree.html")
-
-
 def page_not_found(e):
     return render_template('404.html'), 404
-
 
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
 app.register_error_handler(404, page_not_found)
