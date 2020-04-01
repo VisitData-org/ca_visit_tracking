@@ -24,11 +24,15 @@ def byvenues(venues):
 
 @app.route("/bydate.html")
 def bydate():
-    return render_template("bydate.html", counties="", venues="")
+    return render_template("bydate.html", state="", counties="", venues="")
 
-@app.route("/bydatesel/<counties>/<venues>")
-def bydatesel(counties, venues):
-    return render_template("bydate.html", counties=counties, venues=venues)
+@app.route("/bydatesel/<state>")
+def bydateselstate(state):
+    return render_template("bydate.html", state=state, counties="", venues="")
+
+@app.route("/bydatesel/<state>/<counties>/<venues>")
+def bydatesel(state, counties, venues):
+    return render_template("bydate.html", state=state, counties=counties, venues=venues)
 
 @app.route("/report_tree.html")
 def report_tree():

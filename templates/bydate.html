@@ -59,9 +59,10 @@
         <br>
 
         <script type="text/javascript">
+         var _selectedState = {{ state|tojson }};
          var _selectedCounties = {{ counties|tojson }};
          var _selectedVenues = {{ venues|tojson }};
         </script>
-        <script type="text/javascript" src="/ca_bydate.js"></script>
+        <script type="text/javascript" src="/state_bydate.js"></script>
       </div>
 {% endblock %}
