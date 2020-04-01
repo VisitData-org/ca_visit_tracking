@@ -101,9 +101,9 @@ body {
 
 @media (min-width: 990px) {
   .main-mobile {
-    padding-top: 75px;
+    padding-top: 50px;
   }
-  
+
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
@@ -111,12 +111,12 @@ body {
 
 @media (max-width: 989px) {
   .main-mobile {
-    padding-top: 75px;
+    padding-top: 50px;
   }
 }
 
 @media (max-width: 768px) {
   .main-mobile {
-    padding-top: 75px;
+    padding-top: 50px;
   }
 }
