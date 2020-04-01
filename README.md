@@ -1,3 +1,9 @@
+# Hello!
+
+If you are a crisis response team who needs help working with this data — please contact support@visitdata.org.
+
+VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
+
 # Running locally
 To run the app locally, in development mode:
 
