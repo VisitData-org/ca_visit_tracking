@@ -110,24 +110,19 @@ function styleSeries(series) {
 }
 
 function seriesToPlot() {
-  var plotData;
-  if (isRaw()) {
-    plotData = _.filter(fileData,
-      function (datapoint) {
-        var datapointEssential = datapoint.essential;
-        switch (essentialSel.value) {
-          case "all":
-            return true;
-          case "essential":
-            return datapointEssential;
-          case "nonessential":
-            return (datapointEssential == false);
-        }
+  var plotData = _.filter(fileData,
+    function (datapoint) {
+      var datapointEssential = datapoint.essential;
+      switch (essentialSel.value) {
+        case "all":
+          return true;
+        case "essential":
+          return datapointEssential;
+        case "nonessential":
+          return (datapointEssential == false);
       }
-    );
-  } else {
-    plotData = fileData;
-  }
+    }
+  );
   if (countySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { county: countySel.value });
     var lts = locationTypesToChart(fileDataToPlot);
@@ -270,8 +265,8 @@ function redoFilter() {
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
-  if(isRaw() && essentialSel.value != 'all') {
-    table.addFilter("essential",'=',essentialSel.value == 'essential');
+  if(essentialSel.value != 'all') {
+    table.addFilter("essential",'=',(essentialSel.value == 'essential'));
   }
   if (countySel.value || locationTypeSel.value) {
     drawChart();
@@ -290,12 +285,18 @@ function populateSelect(selectElement, stringList, selected) {
   });
 }
 
+function isGroupedCategoryEssential(groupName){
+  var isGroupEssential = groupToEssentialMap.get(groupName);
+  return isGroupEssential;
+}
+
 function parseGroupedRow(row) {
   return {
     date: row[0],
     state: row[1],
     county: row[2],
     location_type: row[3],
+    essential: isGroupedCategoryEssential(row[3]),
     visit_index: row[4],
     visit_index_over65: row[5],
     visit_index_under65: row[6],
@@ -333,10 +334,6 @@ function parseRow(row) {
 
 function parsingDone(results, file) {
 
-  if(!isRaw()){
-    essentialSel.style.display = "none";
-  }
-
   fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
   counties = _.uniq(_.pluck(fileData, 'county')).sort();
   locationTypes = _.uniq(_.pluck(fileData, 'location_type')).sort();
@@ -362,6 +359,7 @@ function parsingDone(results, file) {
   countySel = document.getElementById('county-select');
   populateSelect(countySel, counties, selectedCounties);
 
+  // TODO - probably should think about filtering the location types for grouped when there is an essential filter
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
@@ -394,6 +392,47 @@ function parsingDone(results, file) {
   _.each([countySel, locationTypeSel], function(sel) {
     sel.addEventListener('change', eventListener);
   });
+}
+
+var groupToEssentialMap = new Map();
+
+var groupMappings = [
+  {groupName:"Airport",essential:true},
+  {groupName:"Alcohol",essential:true},
+  {groupName:"Arts & Entertainment",essential:false},
+  {groupName:"Banks",essential:true},
+  {groupName:"Beach",essential:false},
+  {groupName:"Big Box Stores",essential:false},
+  {groupName:"Bus",essential:true},
+  {groupName:"Colleges & Universities",essential:false},
+  {groupName:"Convenience Store",essential:true},
+  {groupName:"Discount Stores",essential:false},
+  {groupName:"Drug Store",essential:true},
+  {groupName:"Fast Food Restaurants",essential:true},
+  {groupName:"Fitness Center",essential:false},
+  {groupName:"Food",essential:true},
+  {groupName:"Gas Stations",essential:true},
+  {groupName:"Government",essential:true},
+  {groupName:"Grocery",essential:true},
+  {groupName:"Hardware Stores",essential:true},
+  {groupName:"Hotel",essential:false},
+  {groupName:"Medical",essential:true},
+  {groupName:"Nightlife Spots",essential:false},
+  {groupName:"Office",essential:false},
+  {groupName:"Outdoors & Recreation",essential:false},
+  {groupName:"Professional & Other Places",essential:false},
+  {groupName:"Residences",essential:true},
+  {groupName:"School",essential:false},
+  {groupName:"Shops & Services",essential:false},
+  {groupName:"Spiritual Center",essential:false},
+  {groupName:"Sports",essential:false},
+  {groupName:"Travel & Transport",essential:false},
+  {groupName:"undefined",essential:false}
+  ];
+
+for (var groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
+  var nextGroup = groupMappings[groupIndex];
+  groupToEssentialMap.set(nextGroup.groupName,nextGroup.essential);
 }
 
 var eventListener = function() {
