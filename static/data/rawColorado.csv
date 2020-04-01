@@ -13135,3 +13135,278 @@
 2020-03-30,,Denver County,4bf58dd8d48988d126941735,Government Buildings,32.0,"",32.0,32
 2020-03-30,,Denver County,4bf58dd8d48988d124951735,Automotive Shops,48.0,"",48.0,33
 2020-03-30,,Eagle County,4d4b7105d754a06378d81259,Shops & Services,33.0,"",34.0,1
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06378d81259,Shops & Services,63.0,58.0,63.0,1
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,46.0,42.0,2
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06374d81259,Food,47.0,40.0,47.0,3
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06377d81259,Outdoors & Recreation,75.0,80.0,74.0,4
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d1f9941735,Food & Drink Shops,70.0,62.0,70.0,5
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d118951735,Grocery Stores,69.0,64.0,69.0,6
+2020-03-31,Colorado,Arapahoe County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,80.0,82.0,80.0,7
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d16e941735,Fast Food Restaurants,62.0,"",62.0,8
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d163941735,Parks,107.0,128.0,106.0,9
+2020-03-31,Colorado,Arapahoe County,4e67e38e036454776db1fb3a,Residences,79.0,102.0,78.0,10
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d104941735,Medical Centers,45.0,43.0,45.0,11
+2020-03-31,Colorado,Arapahoe County,4f4528bc4b90abdf24c9de85,Athletics & Sports,44.0,42.0,44.0,12
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06379d81259,Travel & Transport,43.0,"",43.0,13
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",57.0,14
+2020-03-31,Colorado,Arapahoe County,4d954b0ea243a5684a65b473,Convenience Stores,63.0,"",64.0,15
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d13b941735,Schools,32.0,"",32.0,16
+2020-03-31,Colorado,Arapahoe County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),77.0,"",76.0,17
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d112951735,Hardware Stores,94.0,"",95.0,18
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d124941735,Offices,33.0,"",32.0,19
+2020-03-31,Colorado,Arapahoe County,4d4b7105d754a06376d81259,Nightlife Spots,46.0,"",46.0,20
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d124951735,Automotive Shops,64.0,"",64.0,21
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d1e0931735,Coffee Shops,57.0,"",57.0,22
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d10f951735,Pharmacies,83.0,"",84.0,23
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,29.0,"",29.0,24
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d10a951735,Banks,74.0,"",75.0,25
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d131941735,Spiritual Centers,61.0,"",62.0,26
+2020-03-31,Colorado,Arapahoe County,4f4533804b9074f6e4fb0105,Elementary Schools,40.0,"",40.0,27
+2020-03-31,Colorado,Arapahoe County,4d4b7104d754a06370d81259,Arts & Entertainment,47.0,"",47.0,28
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d1c1941735,Mexican Restaurants,36.0,"",36.0,29
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d116941735,Bars,38.0,"",38.0,30
+2020-03-31,Colorado,Arapahoe County,4bf58dd8d48988d186941735,Liquor Stores,77.0,"",78.0,30
+2020-03-31,Colorado,La Plata County,4d4b7105d754a06378d81259,Shops & Services,55.0,51.0,56.0,1
+2020-03-31,Colorado,La Plata County,4d4b7105d754a06374d81259,Food,53.0,"",54.0,2
+2020-03-31,Colorado,Otero County,4d4b7105d754a06378d81259,Shops & Services,72.0,"",72.0,1
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06378d81259,Shops & Services,73.0,77.0,73.0,1
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06374d81259,Food,62.0,54.0,62.0,2
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06375d81259,Professional & Other Places,50.0,51.0,50.0,3
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06377d81259,Outdoors & Recreation,77.0,82.0,77.0,4
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d1f9941735,Food & Drink Shops,78.0,81.0,78.0,5
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d118951735,Grocery Stores,80.0,85.0,80.0,6
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d16e941735,Fast Food Restaurants,82.0,74.0,82.0,7
+2020-03-31,Colorado,El Paso County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,105.0,89.0,8
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d104941735,Medical Centers,50.0,37.0,51.0,9
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d113951735,Gas Stations,69.0,74.0,69.0,10
+2020-03-31,Colorado,El Paso County,4e67e38e036454776db1fb3a,Residences,93.0,88.0,93.0,11
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06376d81259,Nightlife Spots,63.0,75.0,62.0,12
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d163941735,Parks,92.0,104.0,91.0,13
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d13b941735,Schools,45.0,65.0,44.0,14
+2020-03-31,Colorado,El Paso County,4d954b0ea243a5684a65b473,Convenience Stores,78.0,80.0,78.0,15
+2020-03-31,Colorado,El Paso County,4d4b7105d754a06379d81259,Travel & Transport,38.0,40.0,38.0,16
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d112951735,Hardware Stores,108.0,93.0,109.0,17
+2020-03-31,Colorado,El Paso County,4f4528bc4b90abdf24c9de85,Athletics & Sports,37.0,52.0,36.0,18
+2020-03-31,Colorado,El Paso County,4d4b7104d754a06370d81259,Arts & Entertainment,64.0,78.0,64.0,19
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d159941735,Trails,139.0,"",140.0,20
+2020-03-31,Colorado,El Paso County,4f2a210c4b9023bd5841ed28,Housing Developments,103.0,121.0,102.0,21
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d116941735,Bars,54.0,"",53.0,22
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d10f951735,Pharmacies,90.0,"",89.0,23
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d177941735,Doctor's Offices,55.0,"",55.0,24
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d124951735,Automotive Shops,73.0,"",74.0,25
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d1e0931735,Coffee Shops,59.0,"",60.0,26
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d126941735,Government Buildings,45.0,"",45.0,27
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d142941735,Asian Restaurants,57.0,"",57.0,28
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d1fa931735,Hotels,44.0,"",44.0,29
+2020-03-31,Colorado,El Paso County,4f4533804b9074f6e4fb0105,Elementary Schools,54.0,"",54.0,30
+2020-03-31,Colorado,El Paso County,4e52adeebd41615f56317744,Military Bases,55.0,"",54.0,31
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,27.0,"",27.0,32
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d131941735,Spiritual Centers,69.0,"",69.0,32
+2020-03-31,Colorado,El Paso County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),87.0,"",88.0,32
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d1c1941735,Mexican Restaurants,51.0,"",51.0,33
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d124941735,Offices,43.0,"",43.0,34
+2020-03-31,Colorado,El Paso County,52e816a6bcbc57f1066b7a54,Warehouse Stores,93.0,"",94.0,35
+2020-03-31,Colorado,El Paso County,50327c8591d4c4b30a586d5d,Breweries,77.0,"",77.0,36
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d186941735,Liquor Stores,67.0,"",68.0,37
+2020-03-31,Colorado,El Paso County,4bf58dd8d48988d110951735,Salons / Barbershops,74.0,"",73.0,38
+2020-03-31,Colorado,Logan County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",60.0,1
+2020-03-31,Colorado,Pueblo County,4d4b7105d754a06378d81259,Shops & Services,69.0,63.0,69.0,1
+2020-03-31,Colorado,Pueblo County,4d4b7105d754a06374d81259,Food,56.0,45.0,57.0,2
+2020-03-31,Colorado,Pueblo County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,48.0,54.0,3
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d1f9941735,Food & Drink Shops,84.0,"",83.0,4
+2020-03-31,Colorado,Pueblo County,4d4b7105d754a06377d81259,Outdoors & Recreation,71.0,"",72.0,5
+2020-03-31,Colorado,Pueblo County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,82.0,"",83.0,6
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d118951735,Grocery Stores,90.0,"",89.0,7
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,8
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d16e941735,Fast Food Restaurants,65.0,"",66.0,9
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",45.0,10
+2020-03-31,Colorado,Pueblo County,4d4b7105d754a06376d81259,Nightlife Spots,74.0,"",74.0,11
+2020-03-31,Colorado,Pueblo County,4bf58dd8d48988d13b941735,Schools,43.0,"",43.0,12
+2020-03-31,Colorado,Montrose County,4d4b7105d754a06378d81259,Shops & Services,58.0,77.0,56.0,1
+2020-03-31,Colorado,Denver County,4d4b7105d754a06378d81259,Shops & Services,55.0,51.0,55.0,1
+2020-03-31,Colorado,Denver County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,40.0,38.0,2
+2020-03-31,Colorado,Denver County,4d4b7105d754a06374d81259,Food,32.0,30.0,32.0,3
+2020-03-31,Colorado,Denver County,4d4b7105d754a06379d81259,Travel & Transport,17.0,11.0,17.0,4
+2020-03-31,Colorado,Denver County,4d4b7105d754a06377d81259,Outdoors & Recreation,68.0,75.0,68.0,5
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1ed931735,Airports,14.0,9.0,14.0,6
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,58.0,64.0,7
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d163941735,Parks,103.0,126.0,102.0,8
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d118951735,Grocery Stores,64.0,65.0,64.0,9
+2020-03-31,Colorado,Denver County,4e67e38e036454776db1fb3a,Residences,63.0,62.0,63.0,10
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d124941735,Offices,34.0,38.0,34.0,11
+2020-03-31,Colorado,Denver County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),63.0,"",63.0,12
+2020-03-31,Colorado,Denver County,4d4b7105d754a06376d81259,Nightlife Spots,31.0,41.0,31.0,13
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d104941735,Medical Centers,39.0,37.0,39.0,14
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1eb931735,Airport Terminals,13.0,"",13.0,15
+2020-03-31,Colorado,Denver County,4d954b0ea243a5684a65b473,Convenience Stores,57.0,"",57.0,16
+2020-03-31,Colorado,Denver County,4f4528bc4b90abdf24c9de85,Athletics & Sports,41.0,"",41.0,17
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d16e941735,Fast Food Restaurants,46.0,"",47.0,18
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d116941735,Bars,27.0,"",27.0,19
+2020-03-31,Colorado,Denver County,4d4b7104d754a06370d81259,Arts & Entertainment,28.0,"",28.0,20
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d13b941735,Schools,33.0,"",32.0,21
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,35.0,"",35.0,22
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",51.0,23
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1c1941735,Mexican Restaurants,34.0,"",34.0,24
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1fa931735,Hotels,20.0,"",20.0,25
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1e0931735,Coffee Shops,27.0,"",27.0,26
+2020-03-31,Colorado,Denver County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,86.0,"",86.0,27
+2020-03-31,Colorado,Denver County,4d4b7105d754a06372d81259,Colleges & Universities,17.0,"",17.0,28
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d1f0931735,Airport Gates,15.0,"",15.0,29
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d124951735,Automotive Shops,63.0,"",64.0,30
+2020-03-31,Colorado,Denver County,52c71aaf3cf9994f4e043d17,Marijuana Dispensaries,60.0,"",59.0,31
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d10f951735,Pharmacies,71.0,"",71.0,32
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d112951735,Hardware Stores,75.0,"",77.0,33
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d142941735,Asian Restaurants,31.0,"",31.0,34
+2020-03-31,Colorado,Denver County,4bf58dd8d48988d131941735,Spiritual Centers,44.0,"",44.0,35
+2020-03-31,Colorado,Summit County,4d4b7105d754a06378d81259,Shops & Services,28.0,"",28.0,1
+2020-03-31,Colorado,Summit County,4d4b7105d754a06377d81259,Outdoors & Recreation,15.0,"",15.0,2
+2020-03-31,Colorado,Douglas County,4d4b7105d754a06378d81259,Shops & Services,58.0,59.0,58.0,1
+2020-03-31,Colorado,Douglas County,4d4b7105d754a06377d81259,Outdoors & Recreation,85.0,111.0,84.0,2
+2020-03-31,Colorado,Douglas County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,51.0,43.0,3
+2020-03-31,Colorado,Douglas County,4d4b7105d754a06374d81259,Food,45.0,40.0,45.0,4
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d1f9941735,Food & Drink Shops,77.0,70.0,78.0,5
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d118951735,Grocery Stores,78.0,66.0,79.0,6
+2020-03-31,Colorado,Douglas County,4f4528bc4b90abdf24c9de85,Athletics & Sports,54.0,80.0,53.0,7
+2020-03-31,Colorado,Douglas County,4e67e38e036454776db1fb3a,Residences,93.0,"",93.0,8
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d104941735,Medical Centers,41.0,39.0,41.0,9
+2020-03-31,Colorado,Douglas County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,70.0,"",70.0,10
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,11
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d13b941735,Schools,32.0,"",32.0,12
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d112951735,Hardware Stores,105.0,"",106.0,13
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d163941735,Parks,113.0,"",112.0,14
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d113951735,Gas Stations,61.0,"",60.0,15
+2020-03-31,Colorado,Douglas County,4d4b7105d754a06376d81259,Nightlife Spots,57.0,"",56.0,16
+2020-03-31,Colorado,Douglas County,4f2a210c4b9023bd5841ed28,Housing Developments,117.0,"",118.0,17
+2020-03-31,Colorado,Douglas County,4d954b0ea243a5684a65b473,Convenience Stores,61.0,"",61.0,18
+2020-03-31,Colorado,Douglas County,4bf58dd8d48988d1e6941735,Golf Courses,142.0,"",140.0,19
+2020-03-31,Colorado,Broomfield County,4d4b7105d754a06378d81259,Shops & Services,44.0,"",44.0,1
+2020-03-31,Colorado,Broomfield County,4d4b7105d754a06377d81259,Outdoors & Recreation,64.0,"",64.0,2
+2020-03-31,Colorado,Broomfield County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,"",32.0,3
+2020-03-31,Colorado,Broomfield County,4d4b7105d754a06374d81259,Food,37.0,"",37.0,4
+2020-03-31,Colorado,Fremont County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Colorado,Fremont County,4d4b7105d754a06374d81259,Food,70.0,"",70.0,2
+2020-03-31,Colorado,Fremont County,4d4b7105d754a06375d81259,Professional & Other Places,60.0,"",59.0,3
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06378d81259,Shops & Services,61.0,52.0,62.0,1
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,39.0,45.0,2
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06377d81259,Outdoors & Recreation,85.0,89.0,85.0,3
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06374d81259,Food,47.0,28.0,48.0,4
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,56.0,69.0,5
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d118951735,Grocery Stores,67.0,46.0,68.0,6
+2020-03-31,Colorado,Larimer County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,"",77.0,7
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06376d81259,Nightlife Spots,56.0,"",56.0,7
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,8
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d16e941735,Fast Food Restaurants,73.0,"",73.0,9
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d104941735,Medical Centers,38.0,"",39.0,10
+2020-03-31,Colorado,Larimer County,4e67e38e036454776db1fb3a,Residences,96.0,"",96.0,11
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d163941735,Parks,100.0,"",99.0,11
+2020-03-31,Colorado,Larimer County,4d4b7105d754a06379d81259,Travel & Transport,50.0,"",50.0,12
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d13b941735,Schools,39.0,"",39.0,13
+2020-03-31,Colorado,Larimer County,50327c8591d4c4b30a586d5d,Breweries,65.0,"",65.0,14
+2020-03-31,Colorado,Larimer County,4f4528bc4b90abdf24c9de85,Athletics & Sports,42.0,"",42.0,14
+2020-03-31,Colorado,Larimer County,4d4b7104d754a06370d81259,Arts & Entertainment,54.0,"",55.0,15
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d124941735,Offices,52.0,"",52.0,16
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d161941735,Lakes,135.0,"",132.0,17
+2020-03-31,Colorado,Larimer County,4bf58dd8d48988d112951735,Hardware Stores,75.0,"",77.0,18
+2020-03-31,Colorado,Morgan County,4d4b7105d754a06378d81259,Shops & Services,62.0,"",62.0,1
+2020-03-31,Colorado,Morgan County,4d4b7105d754a06374d81259,Food,67.0,"",67.0,2
+2020-03-31,Colorado,Morgan County,4d4b7105d754a06375d81259,Professional & Other Places,64.0,"",64.0,3
+2020-03-31,Colorado,Garfield,4d4b7105d754a06378d81259,Shops & Services,61.0,77.0,60.0,1
+2020-03-31,Colorado,Garfield,4d4b7105d754a06377d81259,Outdoors & Recreation,90.0,"",89.0,2
+2020-03-31,Colorado,Mesa County,4d4b7105d754a06378d81259,Shops & Services,71.0,68.0,71.0,1
+2020-03-31,Colorado,Mesa County,4d4b7105d754a06374d81259,Food,52.0,38.0,53.0,2
+2020-03-31,Colorado,Mesa County,4d4b7105d754a06377d81259,Outdoors & Recreation,90.0,90.0,90.0,3
+2020-03-31,Colorado,Mesa County,4d4b7105d754a06375d81259,Professional & Other Places,50.0,"",51.0,4
+2020-03-31,Colorado,Mesa County,4bf58dd8d48988d1f9941735,Food & Drink Shops,82.0,82.0,82.0,5
+2020-03-31,Colorado,Mesa County,4bf58dd8d48988d118951735,Grocery Stores,85.0,87.0,85.0,6
+2020-03-31,Colorado,Mesa County,4bf58dd8d48988d113951735,Gas Stations,85.0,"",85.0,7
+2020-03-31,Colorado,Weld County,4d4b7105d754a06378d81259,Shops & Services,68.0,77.0,68.0,1
+2020-03-31,Colorado,Weld County,4d4b7105d754a06375d81259,Professional & Other Places,56.0,62.0,55.0,2
+2020-03-31,Colorado,Weld County,4d4b7105d754a06374d81259,Food,59.0,53.0,59.0,3
+2020-03-31,Colorado,Weld County,4d4b7105d754a06377d81259,Outdoors & Recreation,82.0,91.0,82.0,4
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,86.0,68.0,5
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d113951735,Gas Stations,76.0,82.0,76.0,6
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d118951735,Grocery Stores,65.0,82.0,64.0,7
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d16e941735,Fast Food Restaurants,71.0,"",71.0,8
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d13b941735,Schools,38.0,"",37.0,9
+2020-03-31,Colorado,Weld County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,"",68.0,10
+2020-03-31,Colorado,Weld County,4f4528bc4b90abdf24c9de85,Athletics & Sports,57.0,"",57.0,11
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d104941735,Medical Centers,52.0,"",52.0,12
+2020-03-31,Colorado,Weld County,4d4b7105d754a06376d81259,Nightlife Spots,64.0,"",64.0,13
+2020-03-31,Colorado,Weld County,4d4b7105d754a06379d81259,Travel & Transport,60.0,"",60.0,14
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d112951735,Hardware Stores,87.0,"",87.0,15
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d163941735,Parks,82.0,"",82.0,16
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d124941735,Offices,66.0,"",66.0,17
+2020-03-31,Colorado,Weld County,4d954b0ea243a5684a65b473,Convenience Stores,60.0,"",60.0,18
+2020-03-31,Colorado,Weld County,4d4b7104d754a06370d81259,Arts & Entertainment,72.0,"",73.0,19
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d124951735,Automotive Shops,61.0,"",61.0,20
+2020-03-31,Colorado,Weld County,4bf58dd8d48988d1c1941735,Mexican Restaurants,47.0,"",47.0,21
+2020-03-31,Colorado,Montezuma County,4d4b7105d754a06378d81259,Shops & Services,76.0,"",77.0,1
+2020-03-31,Colorado,Adams County,4d4b7105d754a06378d81259,Shops & Services,65.0,67.0,65.0,1
+2020-03-31,Colorado,Adams County,4d4b7105d754a06375d81259,Professional & Other Places,53.0,51.0,54.0,2
+2020-03-31,Colorado,Adams County,4d4b7105d754a06374d81259,Food,56.0,56.0,56.0,3
+2020-03-31,Colorado,Adams County,4d4b7105d754a06377d81259,Outdoors & Recreation,73.0,91.0,72.0,4
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d1f9941735,Food & Drink Shops,61.0,65.0,60.0,5
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d118951735,Grocery Stores,58.0,63.0,57.0,6
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,"",68.0,6
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,7
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d124951735,Automotive Shops,94.0,"",93.0,8
+2020-03-31,Colorado,Adams County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,"",69.0,9
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d104941735,Medical Centers,42.0,"",42.0,10
+2020-03-31,Colorado,Adams County,4d4b7105d754a06379d81259,Travel & Transport,43.0,"",43.0,11
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d124941735,Offices,74.0,"",74.0,12
+2020-03-31,Colorado,Adams County,4d954b0ea243a5684a65b473,Convenience Stores,60.0,"",60.0,13
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d1c1941735,Mexican Restaurants,54.0,"",53.0,14
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d163941735,Parks,89.0,"",87.0,15
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d112951735,Hardware Stores,103.0,"",104.0,16
+2020-03-31,Colorado,Adams County,4bf58dd8d48988d13b941735,Schools,31.0,"",30.0,17
+2020-03-31,Colorado,Adams County,4f4528bc4b90abdf24c9de85,Athletics & Sports,45.0,"",45.0,18
+2020-03-31,Colorado,Adams County,4d4b7105d754a06376d81259,Nightlife Spots,51.0,"",51.0,19
+2020-03-31,Colorado,Adams County,4e67e38e036454776db1fb3a,Residences,83.0,"",83.0,20
+2020-03-31,Colorado,Teller County,4d4b7105d754a06378d81259,Shops & Services,81.0,"",81.0,1
+2020-03-31,Colorado,Eagle County,4d4b7105d754a06378d81259,Shops & Services,37.0,"",38.0,1
+2020-03-31,Colorado,Eagle County,4d4b7105d754a06377d81259,Outdoors & Recreation,16.0,"",17.0,2
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06378d81259,Shops & Services,61.0,64.0,61.0,1
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06377d81259,Outdoors & Recreation,80.0,100.0,79.0,2
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06374d81259,Food,48.0,42.0,48.0,3
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,55.0,43.0,4
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d1f9941735,Food & Drink Shops,71.0,76.0,71.0,5
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d118951735,Grocery Stores,70.0,75.0,70.0,6
+2020-03-31,Colorado,Jefferson County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,"",69.0,7
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d163941735,Parks,107.0,105.0,107.0,8
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d113951735,Gas Stations,69.0,74.0,69.0,9
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d104941735,Medical Centers,43.0,43.0,43.0,10
+2020-03-31,Colorado,Jefferson County,4e67e38e036454776db1fb3a,Residences,87.0,118.0,86.0,11
+2020-03-31,Colorado,Jefferson County,4f4528bc4b90abdf24c9de85,Athletics & Sports,42.0,49.0,42.0,12
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d16e941735,Fast Food Restaurants,58.0,"",57.0,13
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06376d81259,Nightlife Spots,53.0,"",52.0,14
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d13b941735,Schools,33.0,61.0,32.0,15
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d112951735,Hardware Stores,73.0,"",73.0,16
+2020-03-31,Colorado,Jefferson County,4d954b0ea243a5684a65b473,Convenience Stores,74.0,"",74.0,17
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d124951735,Automotive Shops,71.0,"",71.0,17
+2020-03-31,Colorado,Jefferson County,4d4b7105d754a06379d81259,Travel & Transport,43.0,"",43.0,18
+2020-03-31,Colorado,Jefferson County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),83.0,"",82.0,18
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d124941735,Offices,48.0,"",49.0,19
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d116941735,Bars,45.0,"",45.0,20
+2020-03-31,Colorado,Jefferson County,4d4b7104d754a06370d81259,Arts & Entertainment,60.0,"",59.0,21
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d10f951735,Pharmacies,76.0,"",76.0,22
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d1e0931735,Coffee Shops,56.0,"",56.0,23
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d1c1941735,Mexican Restaurants,45.0,"",45.0,24
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d159941735,Trails,132.0,"",129.0,25
+2020-03-31,Colorado,Jefferson County,4f4533804b9074f6e4fb0105,Elementary Schools,42.0,"",40.0,26
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,28.0,"",28.0,27
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d161941735,Lakes,147.0,"",145.0,28
+2020-03-31,Colorado,Jefferson County,4bf58dd8d48988d131941735,Spiritual Centers,63.0,"",61.0,28
+2020-03-31,Colorado,Boulder County,4d4b7105d754a06378d81259,Shops & Services,51.0,43.0,51.0,1
+2020-03-31,Colorado,Boulder County,4d4b7105d754a06377d81259,Outdoors & Recreation,70.0,69.0,70.0,2
+2020-03-31,Colorado,Boulder County,4d4b7105d754a06375d81259,Professional & Other Places,37.0,32.0,38.0,3
+2020-03-31,Colorado,Boulder County,4d4b7105d754a06374d81259,Food,38.0,37.0,38.0,4
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,56.0,63.0,5
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d118951735,Grocery Stores,64.0,60.0,64.0,6
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d104941735,Medical Centers,37.0,"",38.0,7
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d159941735,Trails,118.0,"",117.0,8
+2020-03-31,Colorado,Boulder County,4f4528bc4b90abdf24c9de85,Athletics & Sports,39.0,"",39.0,9
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d163941735,Parks,75.0,"",74.0,10
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d124941735,Offices,32.0,"",32.0,11
+2020-03-31,Colorado,Boulder County,4e67e38e036454776db1fb3a,Residences,76.0,"",75.0,12
+2020-03-31,Colorado,Boulder County,4d4b7105d754a06376d81259,Nightlife Spots,34.0,"",33.0,12
+2020-03-31,Colorado,Boulder County,4bf58dd8d48988d13b941735,Schools,30.0,"",30.0,13

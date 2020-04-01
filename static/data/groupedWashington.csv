@@ -8616,3 +8616,213 @@
 2020-03-30,,Thurston County,Gas Stations,49.0,"",50.0,10
 2020-03-30,,Thurston County,Fast Food Restaurants,56.0,"",57.0,11
 2020-03-30,,Thurston County,Travel & Transport,54.0,"",55.0,12
+2020-03-31,Washington,Walla Walla County,Shops & Services,68.0,61.0,69.0,1
+2020-03-31,Washington,Walla Walla County,Professional & Other Places,53.0,"",53.0,2
+2020-03-31,Washington,Walla Walla County,Food,44.0,"",45.0,3
+2020-03-31,Washington,Clark County,Shops & Services,55.0,48.0,56.0,1
+2020-03-31,Washington,Clark County,Food,42.0,37.0,42.0,2
+2020-03-31,Washington,Clark County,Professional & Other Places,38.0,33.0,38.0,3
+2020-03-31,Washington,Clark County,Outdoors & Recreation,52.0,48.0,52.0,4
+2020-03-31,Washington,Clark County,Grocery,67.0,60.0,68.0,5
+2020-03-31,Washington,Clark County,Nightlife Spots,42.0,54.0,42.0,6
+2020-03-31,Washington,Clark County,School,32.0,47.0,31.0,7
+2020-03-31,Washington,Clark County,Medical,31.0,21.0,32.0,8
+2020-03-31,Washington,Clark County,Fast Food Restaurants,72.0,"",72.0,9
+2020-03-31,Washington,Clark County,Residences,56.0,73.0,55.0,10
+2020-03-31,Washington,Clark County,Gas Stations,56.0,57.0,56.0,11
+2020-03-31,Washington,Clark County,Travel & Transport,36.0,"",36.0,12
+2020-03-31,Washington,Clark County,Big Box Stores,65.0,"",65.0,13
+2020-03-31,Washington,Clark County,Sports,28.0,"",28.0,14
+2020-03-31,Washington,Clark County,Arts & Entertainment,24.0,"",23.0,15
+2020-03-31,Washington,Clark County,Convenience Store,71.0,"",72.0,16
+2020-03-31,Washington,Clark County,Hardware Stores,75.0,"",76.0,17
+2020-03-31,Washington,Clark County,Drug Store,61.0,"",60.0,18
+2020-03-31,Washington,Okanogan County,Shops & Services,72.0,78.0,72.0,1
+2020-03-31,Washington,Okanogan County,Food,80.0,"",82.0,2
+2020-03-31,Washington,Jefferson County,Shops & Services,55.0,49.0,56.0,1
+2020-03-31,Washington,Benton County,Shops & Services,51.0,37.0,52.0,1
+2020-03-31,Washington,Benton County,Food,49.0,29.0,50.0,2
+2020-03-31,Washington,Benton County,Professional & Other Places,39.0,36.0,39.0,3
+2020-03-31,Washington,Benton County,Grocery,85.0,62.0,87.0,4
+2020-03-31,Washington,Benton County,Outdoors & Recreation,44.0,42.0,45.0,5
+2020-03-31,Washington,Benton County,Medical,44.0,37.0,44.0,6
+2020-03-31,Washington,Benton County,Nightlife Spots,39.0,77.0,37.0,7
+2020-03-31,Washington,Benton County,School,38.0,"",37.0,8
+2020-03-31,Washington,Mason County,Shops & Services,59.0,69.0,58.0,1
+2020-03-31,Washington,Mason County,Food,47.0,57.0,47.0,2
+2020-03-31,Washington,Mason County,Outdoors & Recreation,51.0,71.0,50.0,3
+2020-03-31,Washington,Chelan County,Shops & Services,59.0,62.0,59.0,1
+2020-03-31,Washington,Chelan County,Outdoors & Recreation,68.0,57.0,68.0,2
+2020-03-31,Washington,Chelan County,Food,37.0,25.0,39.0,3
+2020-03-31,Washington,Chelan County,Professional & Other Places,41.0,48.0,41.0,4
+2020-03-31,Washington,Clallam County,Shops & Services,59.0,71.0,58.0,1
+2020-03-31,Washington,Clallam County,Food,35.0,25.0,36.0,2
+2020-03-31,Washington,Clallam County,Outdoors & Recreation,51.0,39.0,52.0,3
+2020-03-31,Washington,Yakima County,Shops & Services,59.0,57.0,59.0,1
+2020-03-31,Washington,Yakima County,Food,48.0,39.0,48.0,2
+2020-03-31,Washington,Yakima County,Professional & Other Places,55.0,46.0,55.0,3
+2020-03-31,Washington,Yakima County,Outdoors & Recreation,59.0,55.0,59.0,4
+2020-03-31,Washington,Yakima County,Grocery,76.0,83.0,76.0,5
+2020-03-31,Washington,Yakima County,Nightlife Spots,41.0,"",41.0,6
+2020-03-31,Washington,Yakima County,School,34.0,"",34.0,7
+2020-03-31,Washington,Yakima County,Medical,39.0,"",39.0,8
+2020-03-31,Washington,Yakima County,Arts & Entertainment,41.0,"",41.0,9
+2020-03-31,Washington,Yakima County,Gas Stations,56.0,"",57.0,10
+2020-03-31,Washington,King County,Shops & Services,41.0,38.0,41.0,1
+2020-03-31,Washington,King County,Food,28.0,27.0,28.0,2
+2020-03-31,Washington,King County,Outdoors & Recreation,42.0,44.0,42.0,3
+2020-03-31,Washington,King County,Professional & Other Places,25.0,27.0,25.0,4
+2020-03-31,Washington,King County,Grocery,58.0,53.0,59.0,5
+2020-03-31,Washington,King County,Travel & Transport,20.0,21.0,20.0,6
+2020-03-31,Washington,King County,Medical,30.0,22.0,30.0,7
+2020-03-31,Washington,King County,Nightlife Spots,23.0,35.0,23.0,8
+2020-03-31,Washington,King County,Residences,40.0,35.0,40.0,9
+2020-03-31,Washington,King County,Airport,15.0,18.0,15.0,10
+2020-03-31,Washington,King County,School,26.0,32.0,25.0,11
+2020-03-31,Washington,King County,Office,13.0,20.0,13.0,12
+2020-03-31,Washington,King County,Gas Stations,45.0,45.0,45.0,13
+2020-03-31,Washington,King County,Arts & Entertainment,20.0,18.0,20.0,14
+2020-03-31,Washington,King County,Sports,22.0,27.0,22.0,15
+2020-03-31,Washington,King County,Colleges & Universities,14.0,"",14.0,16
+2020-03-31,Washington,King County,Fast Food Restaurants,44.0,33.0,45.0,17
+2020-03-31,Washington,King County,Fitness Center,16.0,17.0,16.0,18
+2020-03-31,Washington,King County,Drug Store,54.0,50.0,54.0,19
+2020-03-31,Washington,King County,Bus,27.0,30.0,27.0,20
+2020-03-31,Washington,King County,Hardware Stores,61.0,59.0,61.0,21
+2020-03-31,Washington,King County,Big Box Stores,63.0,"",63.0,22
+2020-03-31,Washington,King County,Hotel,17.0,"",17.0,23
+2020-03-31,Washington,King County,Spiritual Center,37.0,35.0,37.0,24
+2020-03-31,Washington,King County,Government,28.0,"",28.0,25
+2020-03-31,Washington,King County,Convenience Store,39.0,"",39.0,26
+2020-03-31,Washington,King County,Banks,54.0,"",54.0,27
+2020-03-31,Washington,Island County,Shops & Services,61.0,52.0,62.0,1
+2020-03-31,Washington,Island County,Outdoors & Recreation,54.0,46.0,54.0,2
+2020-03-31,Washington,Island County,Food,47.0,"",49.0,3
+2020-03-31,Washington,Island County,Professional & Other Places,40.0,"",39.0,4
+2020-03-31,Washington,Whitman County,Shops & Services,73.0,"",73.0,1
+2020-03-31,Washington,Whitman County,Food,50.0,"",50.0,2
+2020-03-31,Washington,Thurston County,Shops & Services,57.0,50.0,57.0,1
+2020-03-31,Washington,Thurston County,Food,42.0,38.0,42.0,2
+2020-03-31,Washington,Thurston County,Professional & Other Places,37.0,35.0,38.0,3
+2020-03-31,Washington,Thurston County,Outdoors & Recreation,43.0,56.0,42.0,4
+2020-03-31,Washington,Thurston County,Grocery,64.0,62.0,64.0,5
+2020-03-31,Washington,Thurston County,Medical,40.0,35.0,40.0,6
+2020-03-31,Washington,Thurston County,School,29.0,54.0,28.0,7
+2020-03-31,Washington,Thurston County,Gas Stations,61.0,"",61.0,8
+2020-03-31,Washington,Thurston County,Nightlife Spots,31.0,38.0,30.0,9
+2020-03-31,Washington,Thurston County,Big Box Stores,67.0,"",68.0,10
+2020-03-31,Washington,Thurston County,Fast Food Restaurants,56.0,"",56.0,11
+2020-03-31,Washington,Thurston County,Residences,50.0,"",50.0,12
+2020-03-31,Washington,Thurston County,Drug Store,123.0,"",129.0,13
+2020-03-31,Washington,Kittitas County,Shops & Services,67.0,44.0,69.0,1
+2020-03-31,Washington,Kittitas County,Outdoors & Recreation,55.0,"",56.0,2
+2020-03-31,Washington,Kittitas County,Food,53.0,"",53.0,3
+2020-03-31,Washington,Pierce County,Shops & Services,55.0,51.0,55.0,1
+2020-03-31,Washington,Pierce County,Food,44.0,39.0,44.0,2
+2020-03-31,Washington,Pierce County,Professional & Other Places,39.0,40.0,39.0,3
+2020-03-31,Washington,Pierce County,Outdoors & Recreation,44.0,43.0,44.0,4
+2020-03-31,Washington,Pierce County,Grocery,67.0,64.0,67.0,5
+2020-03-31,Washington,Pierce County,Medical,39.0,31.0,40.0,6
+2020-03-31,Washington,Pierce County,Nightlife Spots,32.0,32.0,32.0,7
+2020-03-31,Washington,Pierce County,School,29.0,39.0,29.0,8
+2020-03-31,Washington,Pierce County,Residences,59.0,55.0,59.0,9
+2020-03-31,Washington,Pierce County,Gas Stations,47.0,38.0,48.0,10
+2020-03-31,Washington,Pierce County,Fast Food Restaurants,53.0,"",54.0,11
+2020-03-31,Washington,Pierce County,Travel & Transport,38.0,"",38.0,12
+2020-03-31,Washington,Pierce County,Big Box Stores,69.0,64.0,70.0,13
+2020-03-31,Washington,Pierce County,Arts & Entertainment,21.0,"",21.0,14
+2020-03-31,Washington,Pierce County,Sports,29.0,28.0,29.0,15
+2020-03-31,Washington,Pierce County,Convenience Store,58.0,"",57.0,16
+2020-03-31,Washington,Pierce County,Office,44.0,"",43.0,17
+2020-03-31,Washington,Pierce County,Hardware Stores,75.0,"",77.0,18
+2020-03-31,Washington,Pierce County,Drug Store,71.0,"",71.0,19
+2020-03-31,Washington,Pierce County,Government,34.0,"",34.0,20
+2020-03-31,Washington,Pierce County,Colleges & Universities,17.0,"",17.0,21
+2020-03-31,Washington,Pierce County,Spiritual Center,41.0,"",42.0,22
+2020-03-31,Washington,Pierce County,Fitness Center,19.0,"",18.0,23
+2020-03-31,Washington,Pierce County,Banks,56.0,"",57.0,24
+2020-03-31,Washington,Franklin County,Shops & Services,68.0,58.0,68.0,1
+2020-03-31,Washington,Franklin County,Food,48.0,"",49.0,2
+2020-03-31,Washington,Franklin County,Professional & Other Places,51.0,"",52.0,3
+2020-03-31,Washington,Snohomish County,Shops & Services,49.0,48.0,50.0,1
+2020-03-31,Washington,Snohomish County,Food,40.0,40.0,40.0,2
+2020-03-31,Washington,Snohomish County,Outdoors & Recreation,47.0,51.0,47.0,3
+2020-03-31,Washington,Snohomish County,Professional & Other Places,26.0,35.0,26.0,4
+2020-03-31,Washington,Snohomish County,Grocery,66.0,66.0,66.0,5
+2020-03-31,Washington,Snohomish County,Medical,32.0,38.0,32.0,6
+2020-03-31,Washington,Snohomish County,Travel & Transport,31.0,36.0,31.0,7
+2020-03-31,Washington,Snohomish County,Nightlife Spots,32.0,34.0,31.0,8
+2020-03-31,Washington,Snohomish County,School,29.0,51.0,28.0,9
+2020-03-31,Washington,Snohomish County,Gas Stations,50.0,47.0,50.0,10
+2020-03-31,Washington,Snohomish County,Fast Food Restaurants,51.0,63.0,51.0,11
+2020-03-31,Washington,Snohomish County,Residences,41.0,"",41.0,12
+2020-03-31,Washington,Snohomish County,Big Box Stores,64.0,"",64.0,13
+2020-03-31,Washington,Snohomish County,Arts & Entertainment,23.0,39.0,22.0,14
+2020-03-31,Washington,Snohomish County,Sports,26.0,"",26.0,15
+2020-03-31,Washington,Snohomish County,Drug Store,61.0,"",62.0,16
+2020-03-31,Washington,Snohomish County,Hardware Stores,74.0,"",76.0,17
+2020-03-31,Washington,Snohomish County,Convenience Store,56.0,"",56.0,18
+2020-03-31,Washington,Snohomish County,Office,9.0,"",9.0,19
+2020-03-31,Washington,Douglas County,Shops & Services,43.0,57.0,42.0,1
+2020-03-31,Washington,Asotin County,Shops & Services,54.0,"",55.0,1
+2020-03-31,Washington,Whatcom County,Shops & Services,49.0,49.0,48.0,1
+2020-03-31,Washington,Whatcom County,Food,50.0,33.0,51.0,2
+2020-03-31,Washington,Whatcom County,Outdoors & Recreation,52.0,48.0,52.0,3
+2020-03-31,Washington,Whatcom County,Professional & Other Places,35.0,35.0,35.0,4
+2020-03-31,Washington,Whatcom County,Grocery,57.0,70.0,56.0,5
+2020-03-31,Washington,Whatcom County,Medical,40.0,"",41.0,6
+2020-03-31,Washington,Whatcom County,Nightlife Spots,31.0,"",31.0,7
+2020-03-31,Washington,Whatcom County,School,30.0,"",30.0,8
+2020-03-31,Washington,Lewis County,Shops & Services,77.0,58.0,78.0,1
+2020-03-31,Washington,Lewis County,Food,39.0,"",40.0,2
+2020-03-31,Washington,Lewis County,Professional & Other Places,39.0,"",40.0,3
+2020-03-31,Washington,Lewis County,Nightlife Spots,54.0,"",56.0,4
+2020-03-31,Washington,Skagit County,Shops & Services,55.0,40.0,57.0,1
+2020-03-31,Washington,Skagit County,Food,41.0,41.0,42.0,2
+2020-03-31,Washington,Skagit County,Outdoors & Recreation,40.0,"",41.0,3
+2020-03-31,Washington,Skagit County,Professional & Other Places,31.0,41.0,30.0,4
+2020-03-31,Washington,Skagit County,Grocery,62.0,"",65.0,5
+2020-03-31,Washington,Cowlitz County,Shops & Services,49.0,43.0,49.0,1
+2020-03-31,Washington,Cowlitz County,Food,45.0,47.0,45.0,2
+2020-03-31,Washington,Cowlitz County,Professional & Other Places,48.0,"",48.0,3
+2020-03-31,Washington,Cowlitz County,Outdoors & Recreation,49.0,"",50.0,4
+2020-03-31,Washington,Spokane County,Shops & Services,55.0,49.0,55.0,1
+2020-03-31,Washington,Spokane County,Food,39.0,34.0,39.0,2
+2020-03-31,Washington,Spokane County,Professional & Other Places,39.0,35.0,39.0,3
+2020-03-31,Washington,Spokane County,Grocery,76.0,66.0,77.0,4
+2020-03-31,Washington,Spokane County,Nightlife Spots,42.0,50.0,42.0,5
+2020-03-31,Washington,Spokane County,Outdoors & Recreation,49.0,46.0,49.0,6
+2020-03-31,Washington,Spokane County,Medical,33.0,25.0,33.0,7
+2020-03-31,Washington,Spokane County,School,31.0,31.0,31.0,8
+2020-03-31,Washington,Spokane County,Big Box Stores,72.0,63.0,73.0,9
+2020-03-31,Washington,Spokane County,Gas Stations,56.0,"",57.0,10
+2020-03-31,Washington,Spokane County,Fast Food Restaurants,56.0,"",56.0,11
+2020-03-31,Washington,Spokane County,Arts & Entertainment,29.0,"",29.0,12
+2020-03-31,Washington,Spokane County,Residences,56.0,"",56.0,13
+2020-03-31,Washington,Spokane County,Travel & Transport,29.0,"",29.0,14
+2020-03-31,Washington,Spokane County,Hardware Stores,67.0,68.0,67.0,15
+2020-03-31,Washington,Spokane County,Drug Store,78.0,"",80.0,16
+2020-03-31,Washington,Spokane County,Colleges & Universities,17.0,"",17.0,17
+2020-03-31,Washington,Spokane County,Office,49.0,"",49.0,18
+2020-03-31,Washington,Spokane County,Sports,34.0,"",35.0,19
+2020-03-31,Washington,Grant County,Shops & Services,66.0,106.0,64.0,1
+2020-03-31,Washington,Grant County,Food,53.0,86.0,51.0,2
+2020-03-31,Washington,Grant County,Outdoors & Recreation,57.0,51.0,57.0,3
+2020-03-31,Washington,Grant County,Professional & Other Places,47.0,57.0,47.0,4
+2020-03-31,Washington,Kitsap County,Shops & Services,57.0,44.0,58.0,1
+2020-03-31,Washington,Kitsap County,Food,45.0,33.0,46.0,2
+2020-03-31,Washington,Kitsap County,Professional & Other Places,39.0,32.0,39.0,3
+2020-03-31,Washington,Kitsap County,Outdoors & Recreation,47.0,49.0,47.0,4
+2020-03-31,Washington,Kitsap County,Grocery,74.0,53.0,76.0,5
+2020-03-31,Washington,Kitsap County,Nightlife Spots,33.0,"",34.0,6
+2020-03-31,Washington,Kitsap County,Medical,36.0,33.0,36.0,7
+2020-03-31,Washington,Kitsap County,Travel & Transport,29.0,"",30.0,8
+2020-03-31,Washington,Kitsap County,Big Box Stores,73.0,"",73.0,9
+2020-03-31,Washington,Kitsap County,Arts & Entertainment,39.0,"",41.0,10
+2020-03-31,Washington,Kitsap County,Gas Stations,52.0,"",53.0,11
+2020-03-31,Washington,Stevens County,Shops & Services,59.0,65.0,58.0,1
+2020-03-31,Washington,Stevens County,Food,51.0,"",53.0,2
+2020-03-31,Washington,Grays Harbor County,Shops & Services,57.0,62.0,56.0,1
+2020-03-31,Washington,Grays Harbor County,Food,54.0,42.0,55.0,2
+2020-03-31,Washington,Grays Harbor County,Professional & Other Places,44.0,"",45.0,3
+2020-03-31,Washington,Grays Harbor County,Outdoors & Recreation,39.0,"",39.0,4

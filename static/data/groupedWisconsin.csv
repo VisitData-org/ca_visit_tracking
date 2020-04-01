@@ -15070,3 +15070,348 @@
 2020-03-30,,Washington County,Medical,36.0,"",36.0,9
 2020-03-30,,Washington County,Big Box Stores,73.0,"",73.0,10
 2020-03-30,,Washington County,Travel & Transport,82.0,"",82.0,11
+2020-03-31,Wisconsin,Pierce County,Nightlife Spots,65.0,"",65.0,1
+2020-03-31,Wisconsin,Pierce County,Shops & Services,79.0,"",79.0,2
+2020-03-31,Wisconsin,Pierce County,Outdoors & Recreation,85.0,"",86.0,3
+2020-03-31,Wisconsin,Pierce County,Food,92.0,"",93.0,4
+2020-03-31,Wisconsin,Pierce County,Professional & Other Places,59.0,"",58.0,5
+2020-03-31,Wisconsin,Langlade County,Shops & Services,64.0,76.0,63.0,1
+2020-03-31,Wisconsin,Taylor County,Shops & Services,63.0,"",63.0,1
+2020-03-31,Wisconsin,Barron County,Shops & Services,64.0,48.0,65.0,1
+2020-03-31,Wisconsin,Barron County,Food,52.0,"",53.0,2
+2020-03-31,Wisconsin,Barron County,Nightlife Spots,53.0,"",54.0,3
+2020-03-31,Wisconsin,Barron County,Professional & Other Places,43.0,"",43.0,4
+2020-03-31,Wisconsin,Barron County,Outdoors & Recreation,90.0,"",90.0,5
+2020-03-31,Wisconsin,Barron County,Convenience Store,81.0,"",82.0,6
+2020-03-31,Wisconsin,Washburn County,Shops & Services,49.0,"",49.0,1
+2020-03-31,Wisconsin,Waushara County,Shops & Services,78.0,99.0,77.0,1
+2020-03-31,Wisconsin,Waushara County,Outdoors & Recreation,72.0,"",71.0,2
+2020-03-31,Wisconsin,Saint Croix County,Shops & Services,72.0,71.0,72.0,1
+2020-03-31,Wisconsin,Saint Croix County,Food,53.0,45.0,54.0,2
+2020-03-31,Wisconsin,Saint Croix County,Outdoors & Recreation,89.0,75.0,90.0,3
+2020-03-31,Wisconsin,Saint Croix County,Nightlife Spots,80.0,90.0,79.0,4
+2020-03-31,Wisconsin,Saint Croix County,Professional & Other Places,52.0,57.0,52.0,5
+2020-03-31,Wisconsin,Saint Croix County,Arts & Entertainment,80.0,"",80.0,6
+2020-03-31,Wisconsin,Saint Croix County,School,37.0,"",36.0,7
+2020-03-31,Wisconsin,Saint Croix County,Gas Stations,63.0,"",63.0,8
+2020-03-31,Wisconsin,Saint Croix County,Sports,50.0,"",51.0,9
+2020-03-31,Wisconsin,Saint Croix County,Big Box Stores,78.0,"",77.0,10
+2020-03-31,Wisconsin,Saint Croix County,Convenience Store,65.0,"",65.0,11
+2020-03-31,Wisconsin,Polk County,Shops & Services,83.0,69.0,84.0,1
+2020-03-31,Wisconsin,Polk County,Outdoors & Recreation,91.0,96.0,91.0,2
+2020-03-31,Wisconsin,Polk County,Food,63.0,83.0,62.0,3
+2020-03-31,Wisconsin,Polk County,Nightlife Spots,62.0,"",62.0,4
+2020-03-31,Wisconsin,Polk County,Professional & Other Places,44.0,"",44.0,5
+2020-03-31,Wisconsin,Adams County,Shops & Services,70.0,"",70.0,1
+2020-03-31,Wisconsin,Jackson County,Shops & Services,66.0,"",65.0,1
+2020-03-31,Wisconsin,Waukesha County,Shops & Services,53.0,48.0,54.0,1
+2020-03-31,Wisconsin,Waukesha County,Professional & Other Places,40.0,37.0,41.0,2
+2020-03-31,Wisconsin,Waukesha County,Outdoors & Recreation,60.0,54.0,60.0,3
+2020-03-31,Wisconsin,Waukesha County,Food,37.0,33.0,37.0,4
+2020-03-31,Wisconsin,Waukesha County,Grocery,70.0,71.0,70.0,5
+2020-03-31,Wisconsin,Waukesha County,Nightlife Spots,41.0,36.0,41.0,6
+2020-03-31,Wisconsin,Waukesha County,Medical,32.0,29.0,32.0,7
+2020-03-31,Wisconsin,Waukesha County,Office,41.0,48.0,41.0,8
+2020-03-31,Wisconsin,Waukesha County,Residences,62.0,68.0,62.0,9
+2020-03-31,Wisconsin,Waukesha County,Big Box Stores,65.0,71.0,65.0,10
+2020-03-31,Wisconsin,Waukesha County,Sports,32.0,36.0,32.0,11
+2020-03-31,Wisconsin,Waukesha County,Gas Stations,52.0,"",53.0,12
+2020-03-31,Wisconsin,Waukesha County,School,20.0,38.0,20.0,13
+2020-03-31,Wisconsin,Waukesha County,Arts & Entertainment,32.0,"",32.0,14
+2020-03-31,Wisconsin,Waukesha County,Fast Food Restaurants,49.0,"",49.0,15
+2020-03-31,Wisconsin,Waukesha County,Convenience Store,54.0,"",54.0,16
+2020-03-31,Wisconsin,Waukesha County,Drug Store,64.0,69.0,63.0,17
+2020-03-31,Wisconsin,Waukesha County,Hardware Stores,88.0,"",88.0,18
+2020-03-31,Wisconsin,Waukesha County,Travel & Transport,45.0,"",45.0,19
+2020-03-31,Wisconsin,Waukesha County,Government,53.0,"",54.0,20
+2020-03-31,Wisconsin,Waukesha County,Fitness Center,15.0,"",15.0,21
+2020-03-31,Wisconsin,Portage County,Shops & Services,51.0,51.0,51.0,1
+2020-03-31,Wisconsin,Portage County,Nightlife Spots,46.0,"",46.0,2
+2020-03-31,Wisconsin,Portage County,Food,30.0,"",30.0,3
+2020-03-31,Wisconsin,Portage County,Professional & Other Places,35.0,"",35.0,4
+2020-03-31,Wisconsin,Portage County,Outdoors & Recreation,45.0,"",45.0,5
+2020-03-31,Wisconsin,Trempealeau County,Shops & Services,82.0,"",81.0,1
+2020-03-31,Wisconsin,Marinette County,Shops & Services,60.0,56.0,60.0,1
+2020-03-31,Wisconsin,Marinette County,Nightlife Spots,70.0,"",70.0,2
+2020-03-31,Wisconsin,Marinette County,Food,50.0,"",50.0,2
+2020-03-31,Wisconsin,Marinette County,Professional & Other Places,46.0,"",46.0,3
+2020-03-31,Wisconsin,Oneida County,Shops & Services,44.0,29.0,45.0,1
+2020-03-31,Wisconsin,Oneida County,Outdoors & Recreation,61.0,"",62.0,2
+2020-03-31,Wisconsin,Oneida County,Food,45.0,"",46.0,3
+2020-03-31,Wisconsin,Richland County,Shops & Services,84.0,"",84.0,1
+2020-03-31,Wisconsin,Wood County,Shops & Services,60.0,56.0,60.0,1
+2020-03-31,Wisconsin,Wood County,Food,48.0,48.0,48.0,2
+2020-03-31,Wisconsin,Wood County,Professional & Other Places,37.0,"",37.0,3
+2020-03-31,Wisconsin,Wood County,Nightlife Spots,42.0,"",41.0,4
+2020-03-31,Wisconsin,Green County,Shops & Services,62.0,"",63.0,1
+2020-03-31,Wisconsin,Burnett County,Shops & Services,75.0,"",78.0,1
+2020-03-31,Wisconsin,Burnett County,Outdoors & Recreation,75.0,59.0,77.0,2
+2020-03-31,Wisconsin,Burnett County,Nightlife Spots,55.0,"",55.0,3
+2020-03-31,Wisconsin,Green Lake County,Shops & Services,55.0,"",55.0,1
+2020-03-31,Wisconsin,Calumet County,Shops & Services,76.0,68.0,76.0,1
+2020-03-31,Wisconsin,Calumet County,Food,56.0,"",57.0,2
+2020-03-31,Wisconsin,Calumet County,Professional & Other Places,43.0,"",43.0,3
+2020-03-31,Wisconsin,Calumet County,Outdoors & Recreation,61.0,"",62.0,4
+2020-03-31,Wisconsin,Manitowoc County,Shops & Services,61.0,69.0,60.0,1
+2020-03-31,Wisconsin,Manitowoc County,Nightlife Spots,47.0,73.0,47.0,2
+2020-03-31,Wisconsin,Manitowoc County,Food,47.0,"",47.0,3
+2020-03-31,Wisconsin,Manitowoc County,Outdoors & Recreation,59.0,"",58.0,4
+2020-03-31,Wisconsin,Manitowoc County,Professional & Other Places,41.0,"",41.0,5
+2020-03-31,Wisconsin,Washington County,Shops & Services,59.0,54.0,59.0,1
+2020-03-31,Wisconsin,Washington County,Professional & Other Places,45.0,53.0,44.0,2
+2020-03-31,Wisconsin,Washington County,Outdoors & Recreation,64.0,49.0,65.0,3
+2020-03-31,Wisconsin,Washington County,Food,37.0,29.0,38.0,4
+2020-03-31,Wisconsin,Washington County,Nightlife Spots,42.0,40.0,42.0,5
+2020-03-31,Wisconsin,Washington County,Grocery,67.0,"",69.0,6
+2020-03-31,Wisconsin,Washington County,Big Box Stores,77.0,"",76.0,7
+2020-03-31,Wisconsin,Washington County,Gas Stations,53.0,"",53.0,8
+2020-03-31,Wisconsin,Washington County,Medical,32.0,"",32.0,9
+2020-03-31,Wisconsin,Washington County,Fast Food Restaurants,60.0,"",61.0,10
+2020-03-31,Wisconsin,Dane County,Shops & Services,47.0,46.0,47.0,1
+2020-03-31,Wisconsin,Dane County,Professional & Other Places,34.0,40.0,34.0,2
+2020-03-31,Wisconsin,Dane County,Food,35.0,35.0,35.0,3
+2020-03-31,Wisconsin,Dane County,Outdoors & Recreation,62.0,79.0,62.0,4
+2020-03-31,Wisconsin,Dane County,Nightlife Spots,30.0,28.0,30.0,5
+2020-03-31,Wisconsin,Dane County,Grocery,64.0,74.0,63.0,6
+2020-03-31,Wisconsin,Dane County,Medical,31.0,29.0,31.0,7
+2020-03-31,Wisconsin,Dane County,Residences,57.0,67.0,56.0,8
+2020-03-31,Wisconsin,Dane County,Colleges & Universities,12.0,24.0,12.0,9
+2020-03-31,Wisconsin,Dane County,Sports,40.0,63.0,39.0,10
+2020-03-31,Wisconsin,Dane County,Office,31.0,"",31.0,11
+2020-03-31,Wisconsin,Dane County,Gas Stations,53.0,53.0,53.0,12
+2020-03-31,Wisconsin,Dane County,Arts & Entertainment,35.0,47.0,35.0,13
+2020-03-31,Wisconsin,Dane County,Convenience Store,52.0,"",53.0,14
+2020-03-31,Wisconsin,Dane County,Fast Food Restaurants,47.0,"",47.0,15
+2020-03-31,Wisconsin,Dane County,Travel & Transport,29.0,"",29.0,16
+2020-03-31,Wisconsin,Dane County,School,15.0,27.0,15.0,17
+2020-03-31,Wisconsin,Dane County,Big Box Stores,58.0,"",59.0,18
+2020-03-31,Wisconsin,Dane County,Government,46.0,"",46.0,19
+2020-03-31,Wisconsin,Dane County,Fitness Center,22.0,"",21.0,20
+2020-03-31,Wisconsin,Dane County,Hardware Stores,68.0,"",68.0,21
+2020-03-31,Wisconsin,Dane County,Drug Store,59.0,"",58.0,22
+2020-03-31,Wisconsin,Dane County,Spiritual Center,43.0,"",43.0,23
+2020-03-31,Wisconsin,Grant County,Shops & Services,66.0,64.0,66.0,1
+2020-03-31,Wisconsin,Grant County,Food,57.0,"",57.0,2
+2020-03-31,Wisconsin,Grant County,Nightlife Spots,66.0,"",67.0,3
+2020-03-31,Wisconsin,Grant County,Professional & Other Places,60.0,"",60.0,4
+2020-03-31,Wisconsin,Kenosha County,Shops & Services,50.0,43.0,50.0,1
+2020-03-31,Wisconsin,Kenosha County,Professional & Other Places,45.0,30.0,46.0,2
+2020-03-31,Wisconsin,Kenosha County,Food,41.0,28.0,42.0,3
+2020-03-31,Wisconsin,Kenosha County,Outdoors & Recreation,57.0,54.0,57.0,4
+2020-03-31,Wisconsin,Kenosha County,Nightlife Spots,49.0,44.0,49.0,5
+2020-03-31,Wisconsin,Kenosha County,Grocery,60.0,"",60.0,6
+2020-03-31,Wisconsin,Kenosha County,Medical,33.0,"",33.0,7
+2020-03-31,Wisconsin,Kenosha County,Gas Stations,61.0,"",61.0,8
+2020-03-31,Wisconsin,Kenosha County,Fast Food Restaurants,60.0,"",61.0,9
+2020-03-31,Wisconsin,Kenosha County,Travel & Transport,63.0,"",64.0,10
+2020-03-31,Wisconsin,Racine County,Shops & Services,60.0,50.0,60.0,1
+2020-03-31,Wisconsin,Racine County,Food,55.0,46.0,55.0,2
+2020-03-31,Wisconsin,Racine County,Professional & Other Places,47.0,44.0,48.0,3
+2020-03-31,Wisconsin,Racine County,Outdoors & Recreation,52.0,40.0,53.0,4
+2020-03-31,Wisconsin,Racine County,Nightlife Spots,43.0,"",43.0,5
+2020-03-31,Wisconsin,Racine County,Grocery,74.0,"",74.0,6
+2020-03-31,Wisconsin,Racine County,Medical,41.0,"",41.0,7
+2020-03-31,Wisconsin,Racine County,Fast Food Restaurants,66.0,"",66.0,8
+2020-03-31,Wisconsin,Racine County,Gas Stations,61.0,"",61.0,9
+2020-03-31,Wisconsin,Racine County,School,24.0,"",24.0,10
+2020-03-31,Wisconsin,Racine County,Arts & Entertainment,56.0,"",56.0,11
+2020-03-31,Wisconsin,Racine County,Hardware Stores,85.0,"",85.0,12
+2020-03-31,Wisconsin,Brown County,Shops & Services,55.0,58.0,55.0,1
+2020-03-31,Wisconsin,Brown County,Professional & Other Places,40.0,33.0,41.0,2
+2020-03-31,Wisconsin,Brown County,Food,36.0,38.0,36.0,3
+2020-03-31,Wisconsin,Brown County,Outdoors & Recreation,54.0,57.0,54.0,4
+2020-03-31,Wisconsin,Brown County,Nightlife Spots,36.0,"",36.0,5
+2020-03-31,Wisconsin,Brown County,Grocery,72.0,86.0,72.0,6
+2020-03-31,Wisconsin,Brown County,Medical,30.0,"",31.0,7
+2020-03-31,Wisconsin,Brown County,Gas Stations,65.0,"",66.0,8
+2020-03-31,Wisconsin,Brown County,Fast Food Restaurants,58.0,"",59.0,9
+2020-03-31,Wisconsin,Brown County,Big Box Stores,54.0,"",54.0,10
+2020-03-31,Wisconsin,Brown County,Arts & Entertainment,31.0,"",31.0,10
+2020-03-31,Wisconsin,Brown County,Office,42.0,"",42.0,11
+2020-03-31,Wisconsin,Brown County,School,18.0,"",18.0,12
+2020-03-31,Wisconsin,Brown County,Residences,51.0,"",51.0,13
+2020-03-31,Wisconsin,Brown County,Sports,32.0,"",32.0,14
+2020-03-31,Wisconsin,Ozaukee County,Shops & Services,54.0,44.0,55.0,1
+2020-03-31,Wisconsin,Ozaukee County,Professional & Other Places,43.0,41.0,43.0,2
+2020-03-31,Wisconsin,Ozaukee County,Outdoors & Recreation,51.0,54.0,51.0,3
+2020-03-31,Wisconsin,Ozaukee County,Food,35.0,"",35.0,4
+2020-03-31,Wisconsin,Ozaukee County,Nightlife Spots,62.0,"",62.0,5
+2020-03-31,Wisconsin,Ozaukee County,Medical,41.0,"",41.0,6
+2020-03-31,Wisconsin,Ozaukee County,Grocery,61.0,"",64.0,7
+2020-03-31,Wisconsin,Lincoln County,Shops & Services,66.0,"",65.0,1
+2020-03-31,Wisconsin,Lincoln County,Food,61.0,"",62.0,2
+2020-03-31,Wisconsin,Juneau County,Shops & Services,60.0,"",61.0,1
+2020-03-31,Wisconsin,Outagamie County,Shops & Services,47.0,51.0,46.0,1
+2020-03-31,Wisconsin,Outagamie County,Professional & Other Places,36.0,41.0,36.0,2
+2020-03-31,Wisconsin,Outagamie County,Food,37.0,33.0,37.0,3
+2020-03-31,Wisconsin,Outagamie County,Outdoors & Recreation,52.0,60.0,52.0,4
+2020-03-31,Wisconsin,Outagamie County,Nightlife Spots,37.0,"",37.0,5
+2020-03-31,Wisconsin,Outagamie County,Medical,38.0,"",38.0,6
+2020-03-31,Wisconsin,Outagamie County,Grocery,66.0,88.0,65.0,7
+2020-03-31,Wisconsin,Outagamie County,School,18.0,"",18.0,8
+2020-03-31,Wisconsin,Outagamie County,Convenience Store,47.0,"",47.0,9
+2020-03-31,Wisconsin,Outagamie County,Hardware Stores,89.0,"",92.0,10
+2020-03-31,Wisconsin,Outagamie County,Arts & Entertainment,30.0,"",29.0,11
+2020-03-31,Wisconsin,Iowa County,Shops & Services,57.0,"",56.0,1
+2020-03-31,Wisconsin,Vernon County,Shops & Services,50.0,"",51.0,1
+2020-03-31,Wisconsin,Sawyer County,Shops & Services,82.0,49.0,86.0,1
+2020-03-31,Wisconsin,Sawyer County,Food,59.0,"",60.0,2
+2020-03-31,Wisconsin,Sawyer County,Outdoors & Recreation,80.0,"",81.0,3
+2020-03-31,Wisconsin,Columbia County,Shops & Services,49.0,61.0,48.0,1
+2020-03-31,Wisconsin,Columbia County,Food,48.0,"",48.0,2
+2020-03-31,Wisconsin,Columbia County,Professional & Other Places,42.0,"",42.0,3
+2020-03-31,Wisconsin,Columbia County,Outdoors & Recreation,51.0,63.0,51.0,4
+2020-03-31,Wisconsin,Columbia County,Nightlife Spots,33.0,"",33.0,5
+2020-03-31,Wisconsin,Fond du Lac County,Shops & Services,55.0,68.0,55.0,1
+2020-03-31,Wisconsin,Fond du Lac County,Food,41.0,24.0,42.0,2
+2020-03-31,Wisconsin,Fond du Lac County,Professional & Other Places,33.0,32.0,33.0,3
+2020-03-31,Wisconsin,Fond du Lac County,Outdoors & Recreation,43.0,"",43.0,4
+2020-03-31,Wisconsin,Fond du Lac County,Nightlife Spots,39.0,"",39.0,4
+2020-03-31,Wisconsin,Fond du Lac County,Grocery,74.0,"",72.0,5
+2020-03-31,Wisconsin,Crawford County,Shops & Services,103.0,"",101.0,1
+2020-03-31,Wisconsin,Chippewa County,Shops & Services,69.0,63.0,69.0,1
+2020-03-31,Wisconsin,Chippewa County,Nightlife Spots,51.0,"",51.0,2
+2020-03-31,Wisconsin,Chippewa County,Outdoors & Recreation,97.0,"",98.0,3
+2020-03-31,Wisconsin,Chippewa County,Food,51.0,"",51.0,4
+2020-03-31,Wisconsin,Chippewa County,Professional & Other Places,55.0,"",56.0,5
+2020-03-31,Wisconsin,Chippewa County,Arts & Entertainment,76.0,"",75.0,6
+2020-03-31,Wisconsin,Dodge County,Shops & Services,65.0,63.0,65.0,1
+2020-03-31,Wisconsin,Dodge County,Professional & Other Places,48.0,44.0,48.0,2
+2020-03-31,Wisconsin,Dodge County,Nightlife Spots,52.0,"",52.0,3
+2020-03-31,Wisconsin,Dodge County,Food,46.0,"",47.0,4
+2020-03-31,Wisconsin,Dodge County,Outdoors & Recreation,51.0,"",50.0,5
+2020-03-31,Wisconsin,Door County,Shops & Services,61.0,59.0,62.0,1
+2020-03-31,Wisconsin,Door County,Outdoors & Recreation,83.0,112.0,80.0,2
+2020-03-31,Wisconsin,Milwaukee County,Shops & Services,51.0,46.0,51.0,1
+2020-03-31,Wisconsin,Milwaukee County,Food,41.0,33.0,42.0,2
+2020-03-31,Wisconsin,Milwaukee County,Professional & Other Places,37.0,33.0,37.0,3
+2020-03-31,Wisconsin,Milwaukee County,Outdoors & Recreation,52.0,66.0,52.0,4
+2020-03-31,Wisconsin,Milwaukee County,Medical,36.0,21.0,37.0,5
+2020-03-31,Wisconsin,Milwaukee County,Grocery,65.0,59.0,65.0,6
+2020-03-31,Wisconsin,Milwaukee County,Nightlife Spots,33.0,28.0,33.0,7
+2020-03-31,Wisconsin,Milwaukee County,Gas Stations,57.0,56.0,57.0,8
+2020-03-31,Wisconsin,Milwaukee County,Residences,53.0,39.0,53.0,9
+2020-03-31,Wisconsin,Milwaukee County,School,23.0,29.0,23.0,10
+2020-03-31,Wisconsin,Milwaukee County,Arts & Entertainment,25.0,28.0,25.0,11
+2020-03-31,Wisconsin,Milwaukee County,Office,38.0,47.0,38.0,12
+2020-03-31,Wisconsin,Milwaukee County,Fast Food Restaurants,53.0,"",53.0,13
+2020-03-31,Wisconsin,Milwaukee County,Travel & Transport,24.0,"",24.0,14
+2020-03-31,Wisconsin,Milwaukee County,Big Box Stores,69.0,60.0,69.0,14
+2020-03-31,Wisconsin,Milwaukee County,Colleges & Universities,15.0,38.0,15.0,15
+2020-03-31,Wisconsin,Milwaukee County,Drug Store,60.0,52.0,61.0,16
+2020-03-31,Wisconsin,Milwaukee County,Government,35.0,"",35.0,17
+2020-03-31,Wisconsin,Milwaukee County,Sports,27.0,"",27.0,18
+2020-03-31,Wisconsin,Milwaukee County,Hardware Stores,72.0,62.0,73.0,19
+2020-03-31,Wisconsin,Milwaukee County,Spiritual Center,41.0,"",41.0,20
+2020-03-31,Wisconsin,Milwaukee County,Bus,53.0,"",54.0,21
+2020-03-31,Wisconsin,Milwaukee County,Airport,13.0,"",13.0,22
+2020-03-31,Wisconsin,Milwaukee County,Fitness Center,17.0,"",17.0,23
+2020-03-31,Wisconsin,Milwaukee County,Banks,46.0,"",46.0,24
+2020-03-31,Wisconsin,Milwaukee County,Convenience Store,64.0,"",63.0,24
+2020-03-31,Wisconsin,Milwaukee County,Alcohol,73.0,"",72.0,25
+2020-03-31,Wisconsin,Milwaukee County,Discount Stores,56.0,"",56.0,26
+2020-03-31,Wisconsin,Milwaukee County,Hotel,25.0,"",26.0,27
+2020-03-31,Wisconsin,Oconto County,Shops & Services,55.0,"",57.0,1
+2020-03-31,Wisconsin,Oconto County,Outdoors & Recreation,123.0,"",126.0,2
+2020-03-31,Wisconsin,Walworth County,Shops & Services,68.0,63.0,69.0,1
+2020-03-31,Wisconsin,Walworth County,Food,46.0,49.0,46.0,2
+2020-03-31,Wisconsin,Walworth County,Outdoors & Recreation,62.0,67.0,61.0,3
+2020-03-31,Wisconsin,Walworth County,Professional & Other Places,39.0,44.0,38.0,4
+2020-03-31,Wisconsin,Walworth County,Nightlife Spots,51.0,79.0,50.0,5
+2020-03-31,Wisconsin,Walworth County,Gas Stations,63.0,"",64.0,6
+2020-03-31,Wisconsin,Walworth County,Big Box Stores,64.0,"",64.0,7
+2020-03-31,Wisconsin,Walworth County,Travel & Transport,61.0,"",61.0,8
+2020-03-31,Wisconsin,Vilas County,Shops & Services,84.0,64.0,86.0,1
+2020-03-31,Wisconsin,Vilas County,Outdoors & Recreation,83.0,"",84.0,2
+2020-03-31,Wisconsin,Eau Claire County,Shops & Services,59.0,51.0,59.0,1
+2020-03-31,Wisconsin,Eau Claire County,Professional & Other Places,45.0,"",45.0,2
+2020-03-31,Wisconsin,Eau Claire County,Food,39.0,38.0,39.0,3
+2020-03-31,Wisconsin,Eau Claire County,Nightlife Spots,46.0,"",46.0,4
+2020-03-31,Wisconsin,Eau Claire County,Outdoors & Recreation,65.0,"",65.0,5
+2020-03-31,Wisconsin,Eau Claire County,Medical,31.0,"",31.0,6
+2020-03-31,Wisconsin,Eau Claire County,Grocery,60.0,"",60.0,7
+2020-03-31,Wisconsin,Eau Claire County,Convenience Store,61.0,"",61.0,8
+2020-03-31,Wisconsin,Eau Claire County,Gas Stations,65.0,"",64.0,9
+2020-03-31,Wisconsin,Eau Claire County,Fast Food Restaurants,67.0,"",67.0,10
+2020-03-31,Wisconsin,Dunn County,Shops & Services,63.0,68.0,63.0,1
+2020-03-31,Wisconsin,Dunn County,Professional & Other Places,62.0,"",62.0,2
+2020-03-31,Wisconsin,Dunn County,Food,45.0,"",45.0,3
+2020-03-31,Wisconsin,Dunn County,Nightlife Spots,43.0,"",43.0,4
+2020-03-31,Wisconsin,Dunn County,Outdoors & Recreation,71.0,"",72.0,4
+2020-03-31,Wisconsin,Douglas County,Shops & Services,54.0,44.0,55.0,1
+2020-03-31,Wisconsin,Douglas County,Nightlife Spots,31.0,"",31.0,2
+2020-03-31,Wisconsin,Douglas County,Outdoors & Recreation,78.0,"",80.0,3
+2020-03-31,Wisconsin,Douglas County,Food,37.0,"",38.0,4
+2020-03-31,Wisconsin,La Crosse County,Shops & Services,52.0,50.0,52.0,1
+2020-03-31,Wisconsin,La Crosse County,Professional & Other Places,41.0,42.0,41.0,2
+2020-03-31,Wisconsin,La Crosse County,Outdoors & Recreation,76.0,65.0,76.0,3
+2020-03-31,Wisconsin,La Crosse County,Food,33.0,40.0,33.0,4
+2020-03-31,Wisconsin,La Crosse County,Nightlife Spots,34.0,"",34.0,5
+2020-03-31,Wisconsin,La Crosse County,Medical,36.0,"",36.0,6
+2020-03-31,Wisconsin,La Crosse County,Convenience Store,53.0,"",53.0,7
+2020-03-31,Wisconsin,La Crosse County,Grocery,67.0,"",68.0,8
+2020-03-31,Wisconsin,Shawano County,Shops & Services,62.0,"",63.0,1
+2020-03-31,Wisconsin,Shawano County,Food,43.0,"",43.0,2
+2020-03-31,Wisconsin,Rock County,Shops & Services,62.0,61.0,62.0,1
+2020-03-31,Wisconsin,Rock County,Food,44.0,30.0,45.0,2
+2020-03-31,Wisconsin,Rock County,Professional & Other Places,43.0,32.0,43.0,3
+2020-03-31,Wisconsin,Rock County,Outdoors & Recreation,45.0,"",45.0,4
+2020-03-31,Wisconsin,Rock County,Nightlife Spots,31.0,"",32.0,5
+2020-03-31,Wisconsin,Rock County,Gas Stations,57.0,"",57.0,6
+2020-03-31,Wisconsin,Rock County,Fast Food Restaurants,65.0,"",66.0,7
+2020-03-31,Wisconsin,Rock County,Medical,39.0,"",39.0,8
+2020-03-31,Wisconsin,Rock County,Grocery,75.0,"",75.0,9
+2020-03-31,Wisconsin,Rock County,School,23.0,"",23.0,10
+2020-03-31,Wisconsin,Rock County,Big Box Stores,66.0,"",65.0,11
+2020-03-31,Wisconsin,Rock County,Convenience Store,58.0,"",58.0,12
+2020-03-31,Wisconsin,Rock County,Travel & Transport,48.0,"",48.0,13
+2020-03-31,Wisconsin,Rock County,Arts & Entertainment,43.0,"",43.0,14
+2020-03-31,Wisconsin,Sauk County,Shops & Services,52.0,49.0,52.0,1
+2020-03-31,Wisconsin,Sauk County,Food,35.0,33.0,35.0,2
+2020-03-31,Wisconsin,Sauk County,Outdoors & Recreation,50.0,51.0,50.0,3
+2020-03-31,Wisconsin,Sauk County,Professional & Other Places,33.0,"",33.0,4
+2020-03-31,Wisconsin,Sauk County,Nightlife Spots,36.0,"",37.0,5
+2020-03-31,Wisconsin,Sauk County,Arts & Entertainment,25.0,"",26.0,6
+2020-03-31,Wisconsin,Waupaca County,Shops & Services,64.0,51.0,65.0,1
+2020-03-31,Wisconsin,Waupaca County,Food,52.0,"",53.0,2
+2020-03-31,Wisconsin,Waupaca County,Professional & Other Places,35.0,"",34.0,3
+2020-03-31,Wisconsin,Waupaca County,Nightlife Spots,43.0,"",43.0,4
+2020-03-31,Wisconsin,Jefferson County,Shops & Services,55.0,66.0,55.0,1
+2020-03-31,Wisconsin,Jefferson County,Professional & Other Places,48.0,63.0,47.0,2
+2020-03-31,Wisconsin,Jefferson County,Food,44.0,71.0,43.0,3
+2020-03-31,Wisconsin,Jefferson County,Outdoors & Recreation,62.0,91.0,60.0,4
+2020-03-31,Wisconsin,Jefferson County,Nightlife Spots,47.0,"",48.0,5
+2020-03-31,Wisconsin,Marathon County,Shops & Services,50.0,64.0,49.0,1
+2020-03-31,Wisconsin,Marathon County,Professional & Other Places,42.0,45.0,42.0,2
+2020-03-31,Wisconsin,Marathon County,Food,40.0,30.0,40.0,3
+2020-03-31,Wisconsin,Marathon County,Nightlife Spots,44.0,"",44.0,4
+2020-03-31,Wisconsin,Marathon County,Outdoors & Recreation,56.0,"",56.0,5
+2020-03-31,Wisconsin,Marathon County,Medical,40.0,"",40.0,6
+2020-03-31,Wisconsin,Marathon County,Convenience Store,53.0,"",53.0,7
+2020-03-31,Wisconsin,Marathon County,Travel & Transport,55.0,"",55.0,8
+2020-03-31,Wisconsin,Winnebago County,Shops & Services,53.0,54.0,53.0,1
+2020-03-31,Wisconsin,Winnebago County,Professional & Other Places,39.0,37.0,39.0,2
+2020-03-31,Wisconsin,Winnebago County,Outdoors & Recreation,66.0,87.0,65.0,3
+2020-03-31,Wisconsin,Winnebago County,Food,39.0,31.0,40.0,4
+2020-03-31,Wisconsin,Winnebago County,Nightlife Spots,33.0,"",33.0,5
+2020-03-31,Wisconsin,Winnebago County,Grocery,74.0,"",73.0,6
+2020-03-31,Wisconsin,Winnebago County,Medical,29.0,"",30.0,7
+2020-03-31,Wisconsin,Winnebago County,Convenience Store,53.0,"",53.0,8
+2020-03-31,Wisconsin,Winnebago County,Fast Food Restaurants,63.0,"",63.0,9
+2020-03-31,Wisconsin,Winnebago County,Gas Stations,60.0,"",60.0,10
+2020-03-31,Wisconsin,Winnebago County,School,19.0,"",18.0,11
+2020-03-31,Wisconsin,Winnebago County,Office,47.0,"",47.0,12
+2020-03-31,Wisconsin,Winnebago County,Big Box Stores,56.0,"",56.0,13
+2020-03-31,Wisconsin,Winnebago County,Arts & Entertainment,42.0,"",42.0,14
+2020-03-31,Wisconsin,Clark County,Shops & Services,71.0,"",71.0,1
+2020-03-31,Wisconsin,Price County,Shops & Services,67.0,"",68.0,1
+2020-03-31,Wisconsin,Sheboygan County,Shops & Services,52.0,48.0,52.0,1
+2020-03-31,Wisconsin,Sheboygan County,Food,54.0,46.0,54.0,2
+2020-03-31,Wisconsin,Sheboygan County,Professional & Other Places,39.0,38.0,39.0,3
+2020-03-31,Wisconsin,Sheboygan County,Outdoors & Recreation,58.0,60.0,58.0,4
+2020-03-31,Wisconsin,Sheboygan County,Nightlife Spots,44.0,61.0,44.0,5
+2020-03-31,Wisconsin,Sheboygan County,Grocery,64.0,"",65.0,6
+2020-03-31,Wisconsin,Sheboygan County,Big Box Stores,66.0,"",66.0,7
+2020-03-31,Wisconsin,Monroe County,Shops & Services,61.0,74.0,61.0,1
+2020-03-31,Wisconsin,Monroe County,Food,59.0,"",59.0,2
+2020-03-31,Wisconsin,Monroe County,Professional & Other Places,48.0,"",48.0,3

@@ -24671,3 +24671,520 @@
 2020-03-30,,Grundy County,4d4b7105d754a06375d81259,Professional & Other Places,66.0,"",66.0,2
 2020-03-30,,Grundy County,4d4b7105d754a06374d81259,Food,56.0,"",57.0,3
 2020-03-30,,Grundy County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",67.0,4
+2020-03-31,Illinois,Boone County,4d4b7105d754a06378d81259,Shops & Services,53.0,57.0,53.0,1
+2020-03-31,Illinois,Boone County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,"",28.0,2
+2020-03-31,Illinois,Boone County,4d4b7105d754a06374d81259,Food,46.0,"",46.0,3
+2020-03-31,Illinois,Jefferson County,4d4b7105d754a06378d81259,Shops & Services,66.0,58.0,66.0,1
+2020-03-31,Illinois,Jefferson County,4d4b7105d754a06374d81259,Food,53.0,"",54.0,2
+2020-03-31,Illinois,Jefferson County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",44.0,3
+2020-03-31,Illinois,Jefferson County,4bf58dd8d48988d113951735,Gas Stations,68.0,"",68.0,4
+2020-03-31,Illinois,Crawford County,4d4b7105d754a06378d81259,Shops & Services,71.0,"",72.0,1
+2020-03-31,Illinois,McDonough County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",64.0,1
+2020-03-31,Illinois,Ogle County,4d4b7105d754a06378d81259,Shops & Services,72.0,80.0,71.0,1
+2020-03-31,Illinois,Ogle County,4d4b7105d754a06374d81259,Food,56.0,"",56.0,2
+2020-03-31,Illinois,Ogle County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,"",43.0,3
+2020-03-31,Illinois,Ogle County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",51.0,4
+2020-03-31,Illinois,Will County,4d4b7105d754a06378d81259,Shops & Services,61.0,55.0,61.0,1
+2020-03-31,Illinois,Will County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,41.0,48.0,2
+2020-03-31,Illinois,Will County,4d4b7105d754a06374d81259,Food,48.0,38.0,49.0,3
+2020-03-31,Illinois,Will County,4bf58dd8d48988d1f9941735,Food & Drink Shops,70.0,65.0,71.0,4
+2020-03-31,Illinois,Will County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,47.0,49.0,5
+2020-03-31,Illinois,Will County,4bf58dd8d48988d113951735,Gas Stations,61.0,46.0,61.0,6
+2020-03-31,Illinois,Will County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,46.0,62.0,7
+2020-03-31,Illinois,Will County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,74.0,71.0,8
+2020-03-31,Illinois,Will County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,73.0,72.0,9
+2020-03-31,Illinois,Will County,4d4b7105d754a06379d81259,Travel & Transport,47.0,51.0,47.0,10
+2020-03-31,Illinois,Will County,4bf58dd8d48988d118951735,Grocery Stores,68.0,53.0,69.0,11
+2020-03-31,Illinois,Will County,4bf58dd8d48988d104941735,Medical Centers,38.0,37.0,38.0,12
+2020-03-31,Illinois,Will County,4bf58dd8d48988d124941735,Offices,58.0,"",58.0,13
+2020-03-31,Illinois,Will County,4d4b7105d754a06376d81259,Nightlife Spots,38.0,"",39.0,14
+2020-03-31,Illinois,Will County,4bf58dd8d48988d112951735,Hardware Stores,89.0,63.0,90.0,15
+2020-03-31,Illinois,Will County,4f4528bc4b90abdf24c9de85,Athletics & Sports,34.0,39.0,33.0,16
+2020-03-31,Illinois,Will County,4bf58dd8d48988d10f951735,Pharmacies,66.0,66.0,66.0,17
+2020-03-31,Illinois,Will County,52e81612bcbc57f1066b7a37,Distribution Centers,88.0,"",88.0,18
+2020-03-31,Illinois,Will County,4bf58dd8d48988d13b941735,Schools,21.0,"",21.0,19
+2020-03-31,Illinois,Will County,4bf58dd8d48988d116941735,Bars,36.0,"",36.0,20
+2020-03-31,Illinois,Will County,4bf58dd8d48988d124951735,Automotive Shops,68.0,"",68.0,21
+2020-03-31,Illinois,Will County,4bf58dd8d48988d10a951735,Banks,85.0,"",86.0,22
+2020-03-31,Illinois,Will County,4bf58dd8d48988d163941735,Parks,73.0,"",75.0,23
+2020-03-31,Illinois,Will County,4bf58dd8d48988d131941735,Spiritual Centers,48.0,"",49.0,24
+2020-03-31,Illinois,Will County,4bf58dd8d48988d1c1941735,Mexican Restaurants,44.0,"",44.0,25
+2020-03-31,Illinois,Will County,4d4b7104d754a06370d81259,Arts & Entertainment,30.0,"",30.0,26
+2020-03-31,Illinois,Will County,4bf58dd8d48988d177941735,Doctor's Offices,34.0,"",34.0,27
+2020-03-31,Illinois,Will County,4eb1bea83b7b6f98df247e06,Factories,76.0,"",77.0,28
+2020-03-31,Illinois,Will County,4bf58dd8d48988d148941735,Donut Shops,51.0,"",51.0,29
+2020-03-31,Illinois,Will County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,22.0,"",22.0,30
+2020-03-31,Illinois,Will County,4e67e38e036454776db1fb3a,Residences,51.0,"",51.0,30
+2020-03-31,Illinois,Will County,4d954b0ea243a5684a65b473,Convenience Stores,66.0,"",66.0,31
+2020-03-31,Illinois,Will County,52e81612bcbc57f1066b7a36,Warehouses,77.0,"",78.0,32
+2020-03-31,Illinois,Will County,4bf58dd8d48988d1ca941735,Pizza Places,47.0,"",46.0,33
+2020-03-31,Illinois,Will County,4bf58dd8d48988d126941735,Government Buildings,34.0,"",35.0,34
+2020-03-31,Illinois,Will County,4bf58dd8d48988d1e0931735,Coffee Shops,60.0,"",61.0,35
+2020-03-31,Illinois,Will County,4bf58dd8d48988d14e941735,American Restaurants,36.0,"",37.0,36
+2020-03-31,Illinois,LaSalle County,4d4b7105d754a06378d81259,Shops & Services,56.0,48.0,56.0,1
+2020-03-31,Illinois,LaSalle County,4d4b7105d754a06374d81259,Food,53.0,40.0,53.0,2
+2020-03-31,Illinois,LaSalle County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,41.0,42.0,3
+2020-03-31,Illinois,LaSalle County,4bf58dd8d48988d113951735,Gas Stations,53.0,"",54.0,4
+2020-03-31,Illinois,LaSalle County,4d4b7105d754a06377d81259,Outdoors & Recreation,50.0,"",50.0,5
+2020-03-31,Illinois,LaSalle County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,"",69.0,6
+2020-03-31,Illinois,LaSalle County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",70.0,7
+2020-03-31,Illinois,LaSalle County,4bf58dd8d48988d16e941735,Fast Food Restaurants,78.0,"",79.0,8
+2020-03-31,Illinois,LaSalle County,4d4b7105d754a06376d81259,Nightlife Spots,40.0,"",41.0,9
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06378d81259,Shops & Services,54.0,48.0,54.0,1
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,35.0,42.0,2
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06374d81259,Food,47.0,33.0,47.0,3
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,63.0,65.0,4
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,"",57.0,5
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,50.0,47.0,6
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",55.0,7
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d104941735,Medical Centers,40.0,"",41.0,8
+2020-03-31,Illinois,Winnebago County,52f2ab2ebcbc57f1066b8b46,Supermarkets,71.0,70.0,71.0,9
+2020-03-31,Illinois,Winnebago County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,10
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06379d81259,Travel & Transport,47.0,"",47.0,11
+2020-03-31,Illinois,Winnebago County,4d4b7105d754a06376d81259,Nightlife Spots,35.0,"",35.0,12
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d13b941735,Schools,29.0,"",29.0,13
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d112951735,Hardware Stores,84.0,"",85.0,14
+2020-03-31,Illinois,Winnebago County,4d4b7104d754a06370d81259,Arts & Entertainment,50.0,"",51.0,15
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d116941735,Bars,32.0,"",33.0,16
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d124941735,Offices,49.0,"",49.0,17
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d124951735,Automotive Shops,62.0,"",62.0,18
+2020-03-31,Illinois,Winnebago County,4bf58dd8d48988d118951735,Grocery Stores,50.0,"",50.0,19
+2020-03-31,Illinois,Cook County,4d4b7105d754a06378d81259,Shops & Services,49.0,44.0,49.0,1
+2020-03-31,Illinois,Cook County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,32.0,34.0,2
+2020-03-31,Illinois,Cook County,4d4b7105d754a06374d81259,Food,37.0,35.0,37.0,3
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f9941735,Food & Drink Shops,59.0,52.0,59.0,4
+2020-03-31,Illinois,Cook County,4d4b7105d754a06379d81259,Travel & Transport,22.0,21.0,22.0,5
+2020-03-31,Illinois,Cook County,4d4b7105d754a06377d81259,Outdoors & Recreation,38.0,43.0,37.0,6
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d118951735,Grocery Stores,56.0,48.0,56.0,7
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d16e941735,Fast Food Restaurants,49.0,49.0,49.0,8
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d104941735,Medical Centers,33.0,26.0,34.0,9
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d113951735,Gas Stations,53.0,51.0,53.0,10
+2020-03-31,Illinois,Cook County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,62.0,67.0,11
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d10f951735,Pharmacies,55.0,56.0,55.0,12
+2020-03-31,Illinois,Cook County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,59.0,66.0,13
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ed931735,Airports,18.0,13.0,18.0,14
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d13b941735,Schools,25.0,29.0,25.0,15
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d124941735,Offices,26.0,31.0,26.0,16
+2020-03-31,Illinois,Cook County,4d4b7105d754a06376d81259,Nightlife Spots,29.0,36.0,29.0,17
+2020-03-31,Illinois,Cook County,4e67e38e036454776db1fb3a,Residences,49.0,39.0,50.0,18
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d163941735,Parks,46.0,47.0,46.0,19
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d131941735,Spiritual Centers,42.0,34.0,42.0,20
+2020-03-31,Illinois,Cook County,4f4528bc4b90abdf24c9de85,Athletics & Sports,23.0,24.0,23.0,21
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d112951735,Hardware Stores,75.0,60.0,75.0,22
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d129951735,Train Stations,25.0,28.0,25.0,23
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d116941735,Bars,27.0,34.0,27.0,24
+2020-03-31,Illinois,Cook County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),48.0,40.0,48.0,25
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1c1941735,Mexican Restaurants,35.0,32.0,35.0,26
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d10a951735,Banks,47.0,47.0,47.0,27
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d124951735,Automotive Shops,55.0,47.0,55.0,28
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d126941735,Government Buildings,33.0,31.0,33.0,29
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d148941735,Donut Shops,43.0,47.0,43.0,30
+2020-03-31,Illinois,Cook County,4d4b7104d754a06370d81259,Arts & Entertainment,27.0,29.0,27.0,31
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d196941735,Hospitals,34.0,25.0,35.0,32
+2020-03-31,Illinois,Cook County,52dea92d3cf9994f4e043dbb,Discount Stores,55.0,45.0,55.0,33
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1eb931735,Airport Terminals,17.0,12.0,18.0,34
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,18.0,19.0,18.0,35
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d142941735,Asian Restaurants,36.0,42.0,36.0,36
+2020-03-31,Illinois,Cook County,4d4b7105d754a06372d81259,Colleges & Universities,15.0,29.0,15.0,37
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1e0931735,Coffee Shops,26.0,24.0,26.0,38
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ca941735,Pizza Places,41.0,36.0,42.0,39
+2020-03-31,Illinois,Cook County,4f4533804b9074f6e4fb0105,Elementary Schools,28.0,33.0,27.0,40
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1fe931735,Bus Stations,47.0,49.0,47.0,41
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d177941735,Doctor's Offices,31.0,22.0,32.0,42
+2020-03-31,Illinois,Cook County,52e816a6bcbc57f1066b7a54,Warehouse Stores,71.0,56.0,72.0,43
+2020-03-31,Illinois,Cook County,4d954b0ea243a5684a65b473,Convenience Stores,47.0,46.0,47.0,44
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d172941735,Post Offices,56.0,60.0,55.0,45
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1fd941735,Shopping Malls,23.0,22.0,23.0,46
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1c5941735,Sandwich Places,39.0,31.0,39.0,47
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d14e941735,American Restaurants,28.0,23.0,28.0,48
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d110951735,Salons / Barbershops,40.0,33.0,40.0,49
+2020-03-31,Illinois,Cook County,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,51.0,45.0,51.0,50
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1fa931735,Hotels,19.0,20.0,19.0,51
+2020-03-31,Illinois,Cook County,4eb1bea83b7b6f98df247e06,Factories,54.0,"",54.0,52
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d13d941735,High Schools,20.0,28.0,20.0,53
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d186941735,Liquor Stores,55.0,45.0,55.0,54
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d16f941735,Hot Dog Joints,45.0,"",45.0,55
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f6931735,General Travel,50.0,"",50.0,56
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d145941735,Chinese Restaurants,40.0,47.0,40.0,57
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f0931735,Airport Gates,21.0,"",22.0,58
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d16a941735,Bakeries,30.0,31.0,30.0,59
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d12b951735,Bus Lines,56.0,"",56.0,59
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d176941735,Gyms,17.0,"",17.0,60
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d103951735,Clothing Stores,22.0,"",22.0,61
+2020-03-31,Illinois,Cook County,52e81612bcbc57f1066b7a37,Distribution Centers,81.0,"",81.0,62
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d12e941735,Police Stations,54.0,"",54.0,62
+2020-03-31,Illinois,Cook County,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,38.0,"",39.0,63
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f6941735,Department Stores,19.0,"",19.0,64
+2020-03-31,Illinois,Cook County,4c38df4de52ce0d596b336e1,Parking,24.0,"",24.0,65
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d12f941735,Libraries,30.0,"",31.0,66
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1e7941735,Playgrounds,45.0,"",45.0,66
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d110941735,Italian Restaurants,27.0,"",27.0,67
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ce941735,Seafood Restaurants,42.0,"",42.0,68
+2020-03-31,Illinois,Cook County,4f04ae1f2fb6e1c99f3db0ba,Car Washes,30.0,"",31.0,68
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1fc941735,Laundry Services,39.0,"",39.0,69
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d178941735,Dentist's Offices,32.0,"",32.0,70
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ff941735,Miscellaneous Shops,48.0,"",48.0,71
+2020-03-31,Illinois,Cook County,4f04b1572fb6e1c99f3db0bf,Storage Facilities,61.0,"",61.0,72
+2020-03-31,Illinois,Cook County,50be8ee891d4fa8dcc7199a7,Markets,51.0,"",50.0,73
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d143941735,Breakfast Spots,26.0,"",26.0,74
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1fd931735,Metro Stations,19.0,"",18.0,74
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1df931735,BBQ Joints,51.0,"",51.0,75
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1c4941735,Restaurants,29.0,"",30.0,76
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d111941735,Japanese Restaurants,34.0,"",34.0,77
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d159941735,Trails,62.0,"",60.0,78
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d16d941735,Cafés,31.0,"",31.0,79
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d146941735,Delis / Bodegas,49.0,"",50.0,80
+2020-03-31,Illinois,Cook County,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,43.0,"",43.0,81
+2020-03-31,Illinois,Cook County,4f2a210c4b9023bd5841ed28,Housing Developments,65.0,"",65.0,82
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1d0941735,Dessert Shops,33.0,"",33.0,83
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d151941735,Taco Places,39.0,"",39.0,83
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d174941735,Coworking Spaces,33.0,"",33.0,83
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d16c941735,Burger Joints,34.0,"",33.0,84
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d10c951735,Cosmetics Shops,29.0,"",29.0,85
+2020-03-31,Illinois,Cook County,4f04aa0c2fb6e1c99f3db0b8,Nail Salons,32.0,"",32.0,86
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1e6941735,Golf Courses,56.0,"",57.0,87
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d171941735,Event Spaces,37.0,"",37.0,88
+2020-03-31,Illinois,Cook County,5744ccdfe4b0c0459246b4be,Currency Exchanges,73.0,"",73.0,89
+2020-03-31,Illinois,Cook County,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,46.0,"",46.0,90
+2020-03-31,Illinois,Cook County,5032891291d4c4b30a586d68,Assisted Living,47.0,"",48.0,91
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ae941735,Universities,13.0,"",13.0,92
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f1931735,General Entertainment,39.0,"",39.0,93
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d100951735,Pet Stores,40.0,"",40.0,93
+2020-03-31,Illinois,Cook County,50328a8e91d4c4b30a586d6c,Non-Profits,36.0,"",37.0,94
+2020-03-31,Illinois,Cook County,50327c8591d4c4b30a586d5d,Breweries,38.0,"",37.0,95
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d14c941735,Wings Joints,50.0,"",50.0,96
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d11d941735,Sports Bars,24.0,"",24.0,97
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d161941735,Lakes,83.0,"",79.0,98
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d144941735,Caribbean Restaurants,51.0,"",51.0,99
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d198941735,College Academic Buildings,11.0,"",11.0,100
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d147941735,Diners,26.0,"",26.0,101
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1ef941735,Rental Car Locations,27.0,"",26.0,102
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1e8941735,Baseball Fields,43.0,"",44.0,103
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1f2931735,Performing Arts Venues,25.0,"",25.0,104
+2020-03-31,Illinois,Cook County,4d954af4a243a5684765b473,Veterinarians,46.0,"",46.0,105
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1e5941735,Dog Runs,61.0,"",60.0,106
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d12c941735,Fire Stations,57.0,"",57.0,107
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d121941735,Lounges,31.0,"",31.0,107
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1c9941735,Ice Cream Shops,37.0,"",37.0,107
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1d2941735,Sushi Restaurants,36.0,"",36.0,108
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d11b941735,Pubs,22.0,"",22.0,109
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d129941735,City Halls,30.0,"",30.0,109
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d10e941735,Greek Restaurants,42.0,"",42.0,110
+2020-03-31,Illinois,Cook County,4bf58dd8d48988d1a8941735,General Colleges & Universities,31.0,"",30.0,111
+2020-03-31,Illinois,Cook County,56aa371be4b08b9a8d57352f,Airport Services,13.0,"",13.0,111
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06378d81259,Shops & Services,54.0,52.0,54.0,1
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06374d81259,Food,48.0,43.0,48.0,2
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06375d81259,Professional & Other Places,37.0,33.0,37.0,3
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06377d81259,Outdoors & Recreation,59.0,55.0,60.0,4
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,74.0,77.0,74.0,5
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,6
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d1f9941735,Food & Drink Shops,57.0,48.0,57.0,7
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d104941735,Medical Centers,36.0,33.0,36.0,8
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06376d81259,Nightlife Spots,42.0,"",42.0,9
+2020-03-31,Illinois,Sangamon County,4d4b7105d754a06379d81259,Travel & Transport,52.0,"",52.0,10
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d116941735,Bars,42.0,"",42.0,11
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d112951735,Hardware Stores,106.0,106.0,105.0,12
+2020-03-31,Illinois,Sangamon County,4bf58dd8d48988d118951735,Grocery Stores,62.0,"",62.0,13
+2020-03-31,Illinois,Sangamon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,"",65.0,14
+2020-03-31,Illinois,Randolph County,4d4b7105d754a06378d81259,Shops & Services,81.0,"",81.0,1
+2020-03-31,Illinois,Fayette County,4d4b7105d754a06378d81259,Shops & Services,82.0,"",82.0,1
+2020-03-31,Illinois,Bureau County,4d4b7105d754a06375d81259,Professional & Other Places,62.0,"",63.0,1
+2020-03-31,Illinois,Bureau County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",64.0,1
+2020-03-31,Illinois,Macoupin County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",65.0,1
+2020-03-31,Illinois,Knox County,4d4b7105d754a06378d81259,Shops & Services,55.0,"",56.0,1
+2020-03-31,Illinois,Knox County,4d4b7105d754a06374d81259,Food,43.0,"",43.0,2
+2020-03-31,Illinois,Knox County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",47.0,3
+2020-03-31,Illinois,Madison County,4d4b7105d754a06378d81259,Shops & Services,66.0,58.0,66.0,1
+2020-03-31,Illinois,Madison County,4d4b7105d754a06375d81259,Professional & Other Places,53.0,53.0,53.0,2
+2020-03-31,Illinois,Madison County,4d4b7105d754a06374d81259,Food,52.0,49.0,52.0,3
+2020-03-31,Illinois,Madison County,4d4b7105d754a06377d81259,Outdoors & Recreation,72.0,63.0,72.0,4
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d16e941735,Fast Food Restaurants,66.0,80.0,65.0,5
+2020-03-31,Illinois,Madison County,4d4b7105d754a06376d81259,Nightlife Spots,47.0,75.0,46.0,6
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,57.0,66.0,7
+2020-03-31,Illinois,Madison County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,59.0,"",59.0,8
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",67.0,9
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d116941735,Bars,45.0,"",44.0,10
+2020-03-31,Illinois,Madison County,4d4b7105d754a06379d81259,Travel & Transport,72.0,"",72.0,11
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d104941735,Medical Centers,43.0,"",43.0,12
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d112951735,Hardware Stores,117.0,"",116.0,13
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d118951735,Grocery Stores,65.0,"",65.0,14
+2020-03-31,Illinois,Madison County,4d954b0ea243a5684a65b473,Convenience Stores,75.0,"",75.0,15
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d124951735,Automotive Shops,97.0,"",99.0,16
+2020-03-31,Illinois,Madison County,4eb1bea83b7b6f98df247e06,Factories,65.0,"",64.0,17
+2020-03-31,Illinois,Madison County,4d4b7104d754a06370d81259,Arts & Entertainment,56.0,"",56.0,18
+2020-03-31,Illinois,Madison County,4bf58dd8d48988d124941735,Offices,62.0,"",62.0,19
+2020-03-31,Illinois,Morgan County,4d4b7105d754a06378d81259,Shops & Services,67.0,69.0,67.0,1
+2020-03-31,Illinois,Morgan County,4d4b7105d754a06374d81259,Food,54.0,"",54.0,2
+2020-03-31,Illinois,Morgan County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,3
+2020-03-31,Illinois,Kane County,4d4b7105d754a06378d81259,Shops & Services,53.0,47.0,54.0,1
+2020-03-31,Illinois,Kane County,4d4b7105d754a06375d81259,Professional & Other Places,37.0,37.0,37.0,2
+2020-03-31,Illinois,Kane County,4d4b7105d754a06374d81259,Food,44.0,34.0,45.0,3
+2020-03-31,Illinois,Kane County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,56.0,49.0,4
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,55.0,64.0,5
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d113951735,Gas Stations,53.0,"",53.0,6
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",55.0,7
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d104941735,Medical Centers,34.0,41.0,34.0,8
+2020-03-31,Illinois,Kane County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",67.0,9
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d118951735,Grocery Stores,70.0,"",71.0,10
+2020-03-31,Illinois,Kane County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,62.0,63.0,11
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d13b941735,Schools,22.0,"",22.0,12
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d112951735,Hardware Stores,85.0,"",86.0,13
+2020-03-31,Illinois,Kane County,4d4b7105d754a06376d81259,Nightlife Spots,39.0,"",39.0,14
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d10f951735,Pharmacies,48.0,"",47.0,15
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d163941735,Parks,73.0,"",72.0,16
+2020-03-31,Illinois,Kane County,4f4528bc4b90abdf24c9de85,Athletics & Sports,27.0,"",26.0,17
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d116941735,Bars,35.0,"",35.0,18
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d124941735,Offices,49.0,"",49.0,19
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d1c1941735,Mexican Restaurants,47.0,"",47.0,20
+2020-03-31,Illinois,Kane County,4e67e38e036454776db1fb3a,Residences,72.0,"",73.0,21
+2020-03-31,Illinois,Kane County,4d4b7105d754a06379d81259,Travel & Transport,31.0,"",30.0,22
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d10a951735,Banks,54.0,"",55.0,23
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d124951735,Automotive Shops,58.0,"",58.0,24
+2020-03-31,Illinois,Kane County,4bf58dd8d48988d131941735,Spiritual Centers,36.0,"",36.0,24
+2020-03-31,Illinois,Kankakee County,4d4b7105d754a06378d81259,Shops & Services,59.0,49.0,59.0,1
+2020-03-31,Illinois,Kankakee County,4d4b7105d754a06374d81259,Food,48.0,42.0,49.0,2
+2020-03-31,Illinois,Kankakee County,4d4b7105d754a06375d81259,Professional & Other Places,40.0,38.0,40.0,3
+2020-03-31,Illinois,Kankakee County,4d4b7105d754a06377d81259,Outdoors & Recreation,57.0,"",57.0,4
+2020-03-31,Illinois,Kankakee County,4bf58dd8d48988d1f9941735,Food & Drink Shops,71.0,"",72.0,5
+2020-03-31,Illinois,Kankakee County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",74.0,6
+2020-03-31,Illinois,Kankakee County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,7
+2020-03-31,Illinois,Kankakee County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,"",71.0,8
+2020-03-31,Illinois,Kankakee County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,"",58.0,9
+2020-03-31,Illinois,Champaign County,4d4b7105d754a06378d81259,Shops & Services,52.0,47.0,53.0,1
+2020-03-31,Illinois,Champaign County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,42.0,42.0,2
+2020-03-31,Illinois,Champaign County,4d4b7105d754a06374d81259,Food,40.0,34.0,40.0,3
+2020-03-31,Illinois,Champaign County,4d4b7105d754a06377d81259,Outdoors & Recreation,53.0,70.0,52.0,4
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,64.0,64.0,5
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d104941735,Medical Centers,37.0,"",38.0,6
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d16e941735,Fast Food Restaurants,60.0,"",60.0,7
+2020-03-31,Illinois,Champaign County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",63.0,8
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d163941735,Parks,82.0,"",80.0,9
+2020-03-31,Illinois,Champaign County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",62.0,10
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d113951735,Gas Stations,70.0,"",69.0,11
+2020-03-31,Illinois,Champaign County,4bf58dd8d48988d13b941735,Schools,30.0,"",29.0,12
+2020-03-31,Illinois,Champaign County,4d4b7105d754a06379d81259,Travel & Transport,37.0,"",38.0,13
+2020-03-31,Illinois,Grundy County,4d4b7105d754a06378d81259,Shops & Services,65.0,48.0,66.0,1
+2020-03-31,Illinois,Grundy County,4d4b7105d754a06375d81259,Professional & Other Places,51.0,"",52.0,2
+2020-03-31,Illinois,Grundy County,4d4b7105d754a06374d81259,Food,49.0,"",49.0,3
+2020-03-31,Illinois,Grundy County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",72.0,4
+2020-03-31,Illinois,Wayne County,4d4b7105d754a06378d81259,Shops & Services,105.0,"",105.0,1
+2020-03-31,Illinois,Rock Island County,4d4b7105d754a06378d81259,Shops & Services,58.0,55.0,59.0,1
+2020-03-31,Illinois,Rock Island County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,45.0,55.0,2
+2020-03-31,Illinois,Rock Island County,4d4b7105d754a06374d81259,Food,56.0,49.0,56.0,3
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d1f9941735,Food & Drink Shops,66.0,70.0,66.0,4
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d118951735,Grocery Stores,65.0,66.0,65.0,5
+2020-03-31,Illinois,Rock Island County,4d4b7105d754a06377d81259,Outdoors & Recreation,54.0,"",54.0,6
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d104941735,Medical Centers,43.0,"",43.0,7
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d16e941735,Fast Food Restaurants,74.0,"",75.0,8
+2020-03-31,Illinois,Rock Island County,4d4b7105d754a06376d81259,Nightlife Spots,40.0,"",40.0,9
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d124941735,Offices,61.0,"",61.0,10
+2020-03-31,Illinois,Rock Island County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",67.0,11
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d116941735,Bars,40.0,"",40.0,12
+2020-03-31,Illinois,Rock Island County,4bf58dd8d48988d13b941735,Schools,36.0,"",36.0,13
+2020-03-31,Illinois,DeKalb County,4d4b7105d754a06378d81259,Shops & Services,55.0,40.0,56.0,1
+2020-03-31,Illinois,DeKalb County,4d4b7105d754a06374d81259,Food,45.0,"",46.0,2
+2020-03-31,Illinois,DeKalb County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,47.0,42.0,3
+2020-03-31,Illinois,DeKalb County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,"",67.0,4
+2020-03-31,Illinois,Lake County,4d4b7105d754a06378d81259,Shops & Services,50.0,47.0,50.0,1
+2020-03-31,Illinois,Lake County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,26.0,32.0,2
+2020-03-31,Illinois,Lake County,4d4b7105d754a06374d81259,Food,39.0,34.0,39.0,3
+2020-03-31,Illinois,Lake County,4d4b7105d754a06377d81259,Outdoors & Recreation,46.0,43.0,46.0,4
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d1f9941735,Food & Drink Shops,67.0,62.0,67.0,5
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d113951735,Gas Stations,53.0,48.0,53.0,6
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d118951735,Grocery Stores,64.0,59.0,64.0,7
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,46.0,54.0,8
+2020-03-31,Illinois,Lake County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,65.0,70.0,9
+2020-03-31,Illinois,Lake County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,62.0,61.0,10
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d104941735,Medical Centers,31.0,27.0,31.0,11
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d124941735,Offices,28.0,"",29.0,12
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d13b941735,Schools,21.0,"",21.0,13
+2020-03-31,Illinois,Lake County,4d4b7105d754a06376d81259,Nightlife Spots,43.0,"",43.0,14
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d10f951735,Pharmacies,58.0,59.0,58.0,15
+2020-03-31,Illinois,Lake County,4d4b7105d754a06379d81259,Travel & Transport,31.0,"",31.0,16
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d112951735,Hardware Stores,67.0,50.0,68.0,17
+2020-03-31,Illinois,Lake County,4f4528bc4b90abdf24c9de85,Athletics & Sports,24.0,"",24.0,18
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d116941735,Bars,41.0,"",41.0,19
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d163941735,Parks,74.0,"",75.0,20
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d126941735,Government Buildings,41.0,"",42.0,21
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d10a951735,Banks,54.0,"",55.0,22
+2020-03-31,Illinois,Lake County,4d4b7104d754a06370d81259,Arts & Entertainment,34.0,"",35.0,23
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d124951735,Automotive Shops,46.0,"",46.0,24
+2020-03-31,Illinois,Lake County,4e67e38e036454776db1fb3a,Residences,42.0,"",43.0,25
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d1c1941735,Mexican Restaurants,33.0,"",33.0,26
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d131941735,Spiritual Centers,32.0,"",32.0,26
+2020-03-31,Illinois,Lake County,4bf58dd8d48988d177941735,Doctor's Offices,29.0,"",29.0,27
+2020-03-31,Illinois,Franklin County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Illinois,Franklin County,4d4b7105d754a06374d81259,Food,61.0,"",62.0,2
+2020-03-31,Illinois,Vermilion County,4d4b7105d754a06378d81259,Shops & Services,58.0,54.0,58.0,1
+2020-03-31,Illinois,Vermilion County,4d4b7105d754a06374d81259,Food,49.0,47.0,50.0,2
+2020-03-31,Illinois,Vermilion County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,"",38.0,3
+2020-03-31,Illinois,Saline County,4d4b7105d754a06378d81259,Shops & Services,61.0,"",60.0,1
+2020-03-31,Illinois,Kendall County,4d4b7105d754a06378d81259,Shops & Services,63.0,52.0,63.0,1
+2020-03-31,Illinois,Kendall County,4d4b7105d754a06374d81259,Food,56.0,"",57.0,2
+2020-03-31,Illinois,Kendall County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,"",29.0,3
+2020-03-31,Illinois,Kendall County,4d4b7105d754a06377d81259,Outdoors & Recreation,43.0,"",43.0,4
+2020-03-31,Illinois,Kendall County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",68.0,5
+2020-03-31,Illinois,Kendall County,4bf58dd8d48988d1f9941735,Food & Drink Shops,85.0,"",85.0,6
+2020-03-31,Illinois,Kendall County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",64.0,7
+2020-03-31,Illinois,Lee County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",69.0,1
+2020-03-31,Illinois,Lee County,4d4b7105d754a06375d81259,Professional & Other Places,53.0,"",54.0,2
+2020-03-31,Illinois,Lee County,4d4b7105d754a06374d81259,Food,51.0,"",51.0,3
+2020-03-31,Illinois,Warren County,4d4b7105d754a06378d81259,Shops & Services,56.0,"",57.0,1
+2020-03-31,Illinois,McHenry County,4d4b7105d754a06378d81259,Shops & Services,55.0,48.0,55.0,1
+2020-03-31,Illinois,McHenry County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,31.0,35.0,2
+2020-03-31,Illinois,McHenry County,4d4b7105d754a06374d81259,Food,42.0,25.0,43.0,3
+2020-03-31,Illinois,McHenry County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,51.0,47.0,4
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,64.0,68.0,5
+2020-03-31,Illinois,McHenry County,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,62.0,68.0,6
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,7
+2020-03-31,Illinois,McHenry County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,"",72.0,8
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d113951735,Gas Stations,59.0,"",60.0,9
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d104941735,Medical Centers,33.0,"",34.0,10
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d118951735,Grocery Stores,67.0,"",67.0,11
+2020-03-31,Illinois,McHenry County,4f4528bc4b90abdf24c9de85,Athletics & Sports,27.0,"",27.0,12
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d13b941735,Schools,23.0,"",23.0,13
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d112951735,Hardware Stores,81.0,"",82.0,14
+2020-03-31,Illinois,McHenry County,4d4b7105d754a06376d81259,Nightlife Spots,39.0,"",39.0,15
+2020-03-31,Illinois,McHenry County,4bf58dd8d48988d10f951735,Pharmacies,56.0,"",56.0,16
+2020-03-31,Illinois,Henry County,4d4b7105d754a06378d81259,Shops & Services,62.0,78.0,62.0,1
+2020-03-31,Illinois,Henry County,4d4b7105d754a06375d81259,Professional & Other Places,55.0,"",55.0,2
+2020-03-31,Illinois,Henry County,4d4b7105d754a06374d81259,Food,58.0,"",58.0,3
+2020-03-31,Illinois,Jo Daviess County,4d4b7105d754a06378d81259,Shops & Services,78.0,"",79.0,1
+2020-03-31,Illinois,Macon County,4d4b7105d754a06378d81259,Shops & Services,53.0,46.0,54.0,1
+2020-03-31,Illinois,Macon County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,39.0,45.0,2
+2020-03-31,Illinois,Macon County,4d4b7105d754a06374d81259,Food,50.0,42.0,50.0,3
+2020-03-31,Illinois,Macon County,4d4b7105d754a06377d81259,Outdoors & Recreation,48.0,"",47.0,4
+2020-03-31,Illinois,Macon County,4bf58dd8d48988d124941735,Offices,47.0,"",47.0,5
+2020-03-31,Illinois,Macon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,"",66.0,6
+2020-03-31,Illinois,Macon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",62.0,6
+2020-03-31,Illinois,Logan County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",65.0,1
+2020-03-31,Illinois,Logan County,4d4b7105d754a06374d81259,Food,61.0,"",61.0,2
+2020-03-31,Illinois,Tazewell County,4d4b7105d754a06378d81259,Shops & Services,73.0,69.0,73.0,1
+2020-03-31,Illinois,Tazewell County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,42.0,48.0,2
+2020-03-31,Illinois,Tazewell County,4d4b7105d754a06374d81259,Food,52.0,43.0,52.0,3
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d1f9941735,Food & Drink Shops,105.0,115.0,105.0,4
+2020-03-31,Illinois,Tazewell County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,"",64.0,5
+2020-03-31,Illinois,Tazewell County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,"",49.0,6
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,"",69.0,7
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d118951735,Grocery Stores,145.0,"",145.0,8
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",67.0,9
+2020-03-31,Illinois,Tazewell County,4d4b7105d754a06376d81259,Nightlife Spots,45.0,"",46.0,10
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d116941735,Bars,46.0,"",46.0,11
+2020-03-31,Illinois,Tazewell County,4bf58dd8d48988d112951735,Hardware Stores,88.0,"",92.0,12
+2020-03-31,Illinois,Tazewell County,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,"",73.0,13
+2020-03-31,Illinois,Montgomery County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",61.0,1
+2020-03-31,Illinois,Livingston County,4d4b7105d754a06378d81259,Shops & Services,59.0,77.0,58.0,1
+2020-03-31,Illinois,Livingston County,4d4b7105d754a06374d81259,Food,43.0,"",43.0,2
+2020-03-31,Illinois,Livingston County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",42.0,3
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06378d81259,Shops & Services,57.0,50.0,57.0,1
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,39.0,45.0,2
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06374d81259,Food,45.0,47.0,45.0,3
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06377d81259,Outdoors & Recreation,61.0,"",62.0,4
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d1f9941735,Food & Drink Shops,67.0,"",68.0,5
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",65.0,6
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d118951735,Grocery Stores,65.0,"",66.0,7
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d16e941735,Fast Food Restaurants,49.0,"",49.0,8
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06376d81259,Nightlife Spots,41.0,"",41.0,9
+2020-03-31,Illinois,Saint Clair County,4d4b7105d754a06379d81259,Travel & Transport,50.0,"",50.0,10
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d104941735,Medical Centers,46.0,"",47.0,11
+2020-03-31,Illinois,Saint Clair County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,60.0,"",60.0,12
+2020-03-31,Illinois,Saint Clair County,4bf58dd8d48988d116941735,Bars,39.0,"",38.0,13
+2020-03-31,Illinois,Fulton County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",67.0,1
+2020-03-31,Illinois,Fulton County,4d4b7105d754a06374d81259,Food,55.0,"",56.0,2
+2020-03-31,Illinois,Iroquois County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",66.0,1
+2020-03-31,Illinois,Christian County,4d4b7105d754a06378d81259,Shops & Services,49.0,"",50.0,1
+2020-03-31,Illinois,Adams County,4d4b7105d754a06378d81259,Shops & Services,66.0,63.0,66.0,1
+2020-03-31,Illinois,Adams County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",47.0,2
+2020-03-31,Illinois,Adams County,4d4b7105d754a06374d81259,Food,45.0,"",45.0,3
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06378d81259,Shops & Services,49.0,41.0,49.0,1
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06375d81259,Professional & Other Places,33.0,30.0,33.0,2
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06374d81259,Food,36.0,28.0,36.0,3
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,52.0,65.0,4
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06377d81259,Outdoors & Recreation,41.0,43.0,41.0,5
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d113951735,Gas Stations,56.0,52.0,56.0,6
+2020-03-31,Illinois,DuPage County,52f2ab2ebcbc57f1066b8b46,Supermarkets,66.0,51.0,67.0,7
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d124941735,Offices,32.0,39.0,32.0,8
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d118951735,Grocery Stores,64.0,56.0,64.0,9
+2020-03-31,Illinois,DuPage County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",72.0,10
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d104941735,Medical Centers,31.0,19.0,31.0,11
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d16e941735,Fast Food Restaurants,47.0,35.0,47.0,12
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06379d81259,Travel & Transport,27.0,29.0,27.0,13
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06376d81259,Nightlife Spots,39.0,"",39.0,14
+2020-03-31,Illinois,DuPage County,4f4528bc4b90abdf24c9de85,Athletics & Sports,24.0,"",24.0,15
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d10f951735,Pharmacies,60.0,59.0,61.0,16
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d112951735,Hardware Stores,78.0,75.0,78.0,17
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d163941735,Parks,62.0,72.0,61.0,18
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d13b941735,Schools,21.0,"",20.0,19
+2020-03-31,Illinois,DuPage County,4e67e38e036454776db1fb3a,Residences,48.0,"",48.0,20
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d116941735,Bars,36.0,"",36.0,21
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d10a951735,Banks,43.0,"",44.0,22
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d124951735,Automotive Shops,50.0,"",51.0,23
+2020-03-31,Illinois,DuPage County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),47.0,"",47.0,24
+2020-03-31,Illinois,DuPage County,4d4b7104d754a06370d81259,Arts & Entertainment,30.0,"",30.0,25
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d131941735,Spiritual Centers,33.0,"",33.0,26
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d172941735,Post Offices,64.0,"",64.0,27
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,16.0,"",16.0,28
+2020-03-31,Illinois,DuPage County,52e816a6bcbc57f1066b7a54,Warehouse Stores,77.0,"",78.0,29
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d1c1941735,Mexican Restaurants,33.0,"",33.0,30
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d1fd941735,Shopping Malls,23.0,"",23.0,31
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d177941735,Doctor's Offices,27.0,"",28.0,31
+2020-03-31,Illinois,DuPage County,4eb1bea83b7b6f98df247e06,Factories,72.0,"",73.0,32
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d126941735,Government Buildings,33.0,"",34.0,33
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d1fa931735,Hotels,27.0,"",27.0,34
+2020-03-31,Illinois,DuPage County,4d4b7105d754a06372d81259,Colleges & Universities,14.0,"",14.0,34
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d1e0931735,Coffee Shops,29.0,"",29.0,35
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d148941735,Donut Shops,45.0,"",45.0,36
+2020-03-31,Illinois,DuPage County,4bf58dd8d48988d142941735,Asian Restaurants,30.0,"",31.0,37
+2020-03-31,Illinois,DuPage County,4f4533804b9074f6e4fb0105,Elementary Schools,27.0,"",27.0,37
+2020-03-31,Illinois,DuPage County,4d954b0ea243a5684a65b473,Convenience Stores,44.0,"",44.0,38
+2020-03-31,Illinois,Clinton County,4d4b7105d754a06378d81259,Shops & Services,68.0,"",68.0,1
+2020-03-31,Illinois,Peoria County,4d4b7105d754a06378d81259,Shops & Services,55.0,46.0,56.0,1
+2020-03-31,Illinois,Peoria County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,28.0,40.0,2
+2020-03-31,Illinois,Peoria County,4d4b7105d754a06374d81259,Food,46.0,38.0,46.0,3
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d1f9941735,Food & Drink Shops,72.0,65.0,73.0,4
+2020-03-31,Illinois,Peoria County,4d4b7105d754a06377d81259,Outdoors & Recreation,57.0,"",58.0,5
+2020-03-31,Illinois,Peoria County,4d4b7105d754a06376d81259,Nightlife Spots,42.0,"",42.0,6
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d104941735,Medical Centers,34.0,"",34.0,7
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d16e941735,Fast Food Restaurants,67.0,"",68.0,8
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,9
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d116941735,Bars,42.0,"",42.0,10
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d124941735,Offices,48.0,"",49.0,11
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d13b941735,Schools,35.0,"",35.0,12
+2020-03-31,Illinois,Peoria County,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,"",74.0,13
+2020-03-31,Illinois,Peoria County,4bf58dd8d48988d118951735,Grocery Stores,70.0,"",71.0,14
+2020-03-31,Illinois,Marion County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",65.0,1
+2020-03-31,Illinois,Marion County,4d4b7105d754a06374d81259,Food,52.0,"",52.0,2
+2020-03-31,Illinois,Woodford County,4d4b7105d754a06378d81259,Shops & Services,50.0,"",50.0,1
+2020-03-31,Illinois,Woodford County,4d4b7105d754a06375d81259,Professional & Other Places,62.0,"",63.0,2
+2020-03-31,Illinois,Williamson County,4d4b7105d754a06378d81259,Shops & Services,62.0,66.0,62.0,1
+2020-03-31,Illinois,Williamson County,4d4b7105d754a06374d81259,Food,57.0,"",58.0,2
+2020-03-31,Illinois,Williamson County,4d4b7105d754a06375d81259,Professional & Other Places,51.0,"",51.0,3
+2020-03-31,Illinois,Jackson County,4d4b7105d754a06378d81259,Shops & Services,51.0,54.0,51.0,1
+2020-03-31,Illinois,Jackson County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",44.0,2
+2020-03-31,Illinois,Jackson County,4d4b7105d754a06374d81259,Food,37.0,"",36.0,3
+2020-03-31,Illinois,Monroe County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",73.0,1
+2020-03-31,Illinois,Stephenson County,4d4b7105d754a06378d81259,Shops & Services,65.0,51.0,66.0,1
+2020-03-31,Illinois,Stephenson County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",45.0,2
+2020-03-31,Illinois,Coles County,4d4b7105d754a06378d81259,Shops & Services,57.0,49.0,57.0,1
+2020-03-31,Illinois,Coles County,4d4b7105d754a06375d81259,Professional & Other Places,46.0,"",47.0,2
+2020-03-31,Illinois,Coles County,4d4b7105d754a06374d81259,Food,49.0,"",50.0,3
+2020-03-31,Illinois,McLean County,4d4b7105d754a06378d81259,Shops & Services,54.0,40.0,54.0,1
+2020-03-31,Illinois,McLean County,4d4b7105d754a06374d81259,Food,41.0,32.0,41.0,2
+2020-03-31,Illinois,McLean County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,22.0,29.0,3
+2020-03-31,Illinois,McLean County,4bf58dd8d48988d1f9941735,Food & Drink Shops,61.0,"",62.0,4
+2020-03-31,Illinois,McLean County,4d4b7105d754a06377d81259,Outdoors & Recreation,48.0,"",48.0,5
+2020-03-31,Illinois,McLean County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,6
+2020-03-31,Illinois,McLean County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,"",65.0,7
+2020-03-31,Illinois,McLean County,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,"",55.0,8
+2020-03-31,Illinois,McLean County,4bf58dd8d48988d10f951735,Pharmacies,76.0,"",77.0,9
+2020-03-31,Illinois,McLean County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,56.0,"",57.0,10
+2020-03-31,Illinois,McLean County,4d4b7105d754a06376d81259,Nightlife Spots,33.0,"",33.0,11
+2020-03-31,Illinois,McLean County,4d4b7105d754a06379d81259,Travel & Transport,48.0,"",47.0,12
+2020-03-31,Illinois,McLean County,4bf58dd8d48988d104941735,Medical Centers,28.0,"",29.0,13
+2020-03-31,Illinois,Whiteside County,4d4b7105d754a06378d81259,Shops & Services,61.0,46.0,62.0,1
+2020-03-31,Illinois,Whiteside County,4d4b7105d754a06374d81259,Food,49.0,67.0,48.0,2
+2020-03-31,Illinois,Whiteside County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",45.0,3
+2020-03-31,Illinois,Effingham County,4d4b7105d754a06378d81259,Shops & Services,60.0,62.0,60.0,1
+2020-03-31,Illinois,Effingham County,4bf58dd8d48988d113951735,Gas Stations,68.0,"",69.0,2
+2020-03-31,Illinois,Effingham County,4d4b7105d754a06375d81259,Professional & Other Places,52.0,"",52.0,3
+2020-03-31,Illinois,Effingham County,4d4b7105d754a06374d81259,Food,46.0,"",47.0,4
