@@ -34,18 +34,15 @@ def bydateselstate(state):
 def bydatesel(state, counties, venues):
     return render_template("bydate.html", state=state, counties=counties, venues=venues)
 
-@app.route("/report_tree.html")
+@app.route("/stateselect.html")
 def report_tree():
-    return render_template("report_tree.html")
-
+    return render_template("stateselect.html")
 
 def page_not_found(e):
     return render_template('404.html'), 404
 
-
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
 app.register_error_handler(404, page_not_found)
-
 
 if __name__ == "__main__":
     # This is used when running locally only. When deploying to Google App
