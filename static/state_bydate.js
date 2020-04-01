@@ -19,15 +19,17 @@ const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 
 const ALL = "ALL";
+const NONE = "NONE";
 
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
 
 function chartTitle() {
+  // TODO need to add state to this, right?
   var result = "";
   if (countySel.value) {
-    result += countySel.value + ", ";
+    result += countySel.value + ", "+selectedState + ", ";
   }
   if (locationTypeSel.value) {
     result += locationTypeSel.value + ", ";
@@ -292,7 +294,6 @@ function parseRow(row) {
   return parseGroupedRow(row);
 }
 
-
 function parsingDone(results, file) {
   fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
   counties = _.uniq(_.pluck(fileData, 'county')).sort();
@@ -348,30 +349,34 @@ function parsingDone(results, file) {
   redoFilter();
 
   _.each([countySel, locationTypeSel], function(sel) {
-    sel.addEventListener('change', function() {
-      county = countySel.value ? encodeURIComponent(countySel.value) : ALL
-      venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
-      state = selectedState;
-      windowLocationToSet = "/bydatesel/" + state + "/" + county + "/" + venue;
-      if (urlParams.get('datafilename')) {
-        windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
-      }
-      window.location = windowLocationToSet;
-    });
+    sel.addEventListener('change', eventListener);
   });
 }
 
+var eventListener = function() {
+  console.log('select changed '+selectedState+","+selectedCounties+','+selectedVenues);
+  county = countySel.value ? encodeURIComponent(countySel.value) : ALL
+  venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
+  windowLocationToSet = "/bydatesel/" + selectedState + "/" + county + "/" + venue;
+  if (urlParams.get('datafilename')) {
+    windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
+  }
+  window.location = windowLocationToSet;
+};
+
 function parseSelection() {
-  // TODO figure out how to get state
-  selectedState = _selectedState;
+  selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
   selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
   selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
-  if (!datafilename) {
-    datafilename = '/data/grouped' + selectedState + '.csv';
-  } else {
-    datafilename = '/data/' + datafilename + selectedState + '.csv';
-  }
+
+  console.log('parseSelection '+selectedState+","+selectedCounties+','+selectedVenues);
+
 }
 
 parseSelection();
+if (!datafilename) {
+  datafilename = '/data/grouped' + selectedState + '.csv';
+} else {
+  datafilename = '/data/' + datafilename + selectedState + '.csv';
+}
 Papa.parse(datafilename, {download: true, complete: parsingDone});
