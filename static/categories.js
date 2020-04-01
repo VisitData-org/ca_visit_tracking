@@ -9,107 +9,68 @@ String.prototype.padding = function (n, c) {
 };
 
 
-var Essentializer = (function () {
+// Instance stores a reference to the Singleton
+function handleCategory(parentEssential, essentialMap, category, depth) {
+    var categoryName = category.name;
+    var categoryId = category.id;
 
-    // Instance stores a reference to the Singleton
-    var instance;
+    if (essentialMap.has(categoryId)) {
+        console.error(categoryId + " already exists in the map for categoryName " + categoryName);
+    }
 
-    function init() {
+    var essential = category.essential;
 
-        function handleCategory(parentEssential, essentialMap, category, depth) {
-            var categoryName = category.name;
-            var categoryId = category.id;
+    if (!essential) {
+        essential = parentEssential;
+    } else {
+        essential = JSON.parse(essential);
+    }
 
-            if (essentialMap.has(categoryId)) {
-                console.error(categoryId + " already exists in the map for categoryName " + categoryName);
-            }
+    essentialMap.set(categoryId, essential);
 
-            var essential = category.essential;
-
-            if (!essential) {
-                essential = parentEssential;
-            } else {
-                essential = JSON.parse(essential);
-            }
-
-            essentialMap.set(categoryId, essential);
-
-            var subcategories = category.categories;
-            if (!subcategories) {
-                subcategories = [];
-            }
-
-            var indent = 2 * depth
-            // console.log("".padding(indent) + categoryName.padding(45 - indent) + categoryId + " " + essential);
-
-            for (var subcategoryIndex = 0; subcategoryIndex < subcategories.length; subcategoryIndex++) {
-                var subcategory = subcategories[subcategoryIndex];
-                handleCategory(essential, essentialMap, subcategories[subcategoryIndex], depth + 1);
-            }
-        }
-
-        var categoryIdToEssentialMap = new Map();
-        var categoryIdToCategoryMap = new Map();
-
-        //   var privateVariable = "Im also private";
-        var taxonomy = require("./data/taxonomy.json");
-        for (categoryIndex = 0; categoryIndex < taxonomy.length; categoryIndex++) {
-            var nextCategory = taxonomy[categoryIndex];
-            categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
-            handleCategory(null, categoryIdToEssentialMap, nextCategory, 0);
-        }
-
-        return {
-
-            // Public methods and variables
-            isCategoryEssential: function (categoryId) {
-                return categoryIdToEssentialMap.get(categoryId);
-            },
-
-            // publicProperty: "I am also public"
-        };
-
-    };
-
-    return {
-
-        // Get the Singleton instance if one exists
-        // or create one if it doesn't
-        getInstance: function () {
-
-            if (!instance) {
-                instance = init();
-            }
-
-            return instance;
-        }
-
-    };
-
-})();
-
-var essentializer = Essentializer.getInstance();
-// // example usage using my raw categories which is the category ID and name from the raw.csv file
-// var rawCategories = require("./data/raw_categories.json");
-// for (var rawCatIndex = 0; rawCatIndex < rawCategories.length; rawCatIndex++) {
-//     var rawCategory = rawCategories[rawCatIndex];
-//     var rawCategoryName = rawCategory.categoryName;
-//     var rawCategoryId = rawCategory.categoryId;
-//     var isEssential = essentializer.isCategoryEssential(rawCategoryId);
-//     // console.log(rawCategoryName.padding(30) + " is " + isEssential);
-//     console.log('"' + rawCategoryId + '","' + rawCategoryName + '","' + isEssential + '"');
-// }
-
-function handleCategory(category) {
-    console.log(category.id+','+category.name+','+essentializer.isCategoryEssential(category.id));
     var subcategories = category.categories;
-    for(var i=0; i<subcategories.length; i++) {
-        handleCategory(subcategories[i]);
+    if (!subcategories) {
+        subcategories = [];
+    }
+
+    var indent = 2 * depth
+    // console.log("".padding(indent) + categoryName.padding(45 - indent) + categoryId + " " + essential);
+
+    for (var subcategoryIndex = 0; subcategoryIndex < subcategories.length; subcategoryIndex++) {
+        var subcategory = subcategories[subcategoryIndex];
+        handleCategory(essential, essentialMap, subcategories[subcategoryIndex], depth + 1);
     }
 }
 
-var taxonomy = require("./data/taxonomy.json");
-for (var categoryIndex = 0; categoryIndex < taxonomy.length; categoryIndex++) {
-    var nextCategory = taxonomy[categoryIndex];
-    handleCategory(nextCategory);
+var categoryIdToEssentialMap = new Map();
+var categoryIdToCategoryMap = new Map();
+
+function isCategoryEssential(categoryId) {
+    return categoryIdToEssentialMap.get(categoryId);
 }
+
+//   var privateVariable = "Im also private";
+$.getJSON("/data/taxonomy.json", function (data) {
+    for (categoryIndex = 0; categoryIndex < data.length; categoryIndex++) {
+        var nextCategory = data[categoryIndex];
+        categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
+        handleCategory(null, categoryIdToEssentialMap, nextCategory, 0);
+    }
+});
+
+// TODO remove code for prepping the categories and taxonomy
+
+// here is the code i used to shred the categories.  It shouldn't be in here so I will move it later
+
+// function handleCategoryForLogging(category) {
+//     console.log(category.id+','+category.name+','+isCategoryEssential(category.id));
+//     var subcategories = category.categories;
+//     for(var i=0; i<subcategories.length; i++) {
+//         handleCategoryForLogging(subcategories[i]);
+//     }
+// }
+
+// for (var categoryIndex = 0; categoryIndex < taxonomy.length; categoryIndex++) {
+//     var nextCategory = taxonomy[categoryIndex];
+//     handleCategoryForLogging(nextCategory);
+// }

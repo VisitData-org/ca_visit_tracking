@@ -3,6 +3,7 @@ var table;
 var fileData;  //  globalish variable holding the parsed file data rows  HACK
 var countySel;
 var ageGroupSel;
+var essentialSel;
 var locationTypeSel;
 var counties = [];
 var locationTypes = [];
@@ -26,7 +27,6 @@ if(maxLocationTypeLinesParam) {
 }
 
 function chartTitle() {
-  // TODO need to add state to this, right?
   var result = "";
   if (countySel.value) {
     result += countySel.value + ", "+selectedState + ", ";
@@ -45,6 +45,17 @@ function chartTitle() {
     result += "over 65 years old, ";
     break;
   }
+  switch (essentialSel.value) {
+    case "all":
+      result += "essential+non, ";
+      break;
+    case "essential":
+      result += "essential only, ";
+      break;
+    case "nonessential":
+      result += "non-essential only, ";
+      break;
+    }
   result += "Visits %";
   return result;
 }
@@ -99,8 +110,26 @@ function styleSeries(series) {
 }
 
 function seriesToPlot() {
+  var plotData;
+  if (isRaw()) {
+    plotData = _.filter(fileData,
+      function (datapoint) {
+        var datapointEssential = datapoint.essential;
+        switch (essentialSel.value) {
+          case "all":
+            return true;
+          case "essential":
+            return datapointEssential;
+          case "nonessential":
+            return (datapointEssential == false);
+        }
+      }
+    );
+  } else {
+    plotData = fileData;
+  }
   if (countySel.value && !locationTypeSel.value) {
-    var fileDataToPlot = _.where(fileData, { county: countySel.value });
+    var fileDataToPlot = _.where(plotData, { county: countySel.value });
     var lts = locationTypesToChart(fileDataToPlot);
     var results = _.map(lts, function(locationType) {
       return styleSeries({
@@ -116,7 +145,7 @@ function seriesToPlot() {
     return results;
   }
   if (!countySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value });
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value });
     var results = _.map(counties, function(county) {
       return styleSeries({
         name: county,
@@ -131,7 +160,7 @@ function seriesToPlot() {
     return results;
   }
   if (countySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(fileData, { location_type: locationTypeSel.value, county: countySel.value });
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, county: countySel.value });
     return [styleSeries({
       name: locationTypeSel.value + " in " + countySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
@@ -241,6 +270,9 @@ function redoFilter() {
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
+  if(isRaw() && essentialSel.value != 'all') {
+    table.addFilter("essential",'=',essentialSel.value == 'essential');
+  }
   if (countySel.value || locationTypeSel.value) {
     drawChart();
   }
@@ -277,6 +309,7 @@ function parseRawRow(row) {
     date: row[0],
     state: row[1],
     county: row[2],
+    essential: isCategoryEssential(row[3]),
     location_type: row[4],
     visit_index: row[5],
     visit_index_over65: row[6],
@@ -286,15 +319,24 @@ function parseRawRow(row) {
   };
 }
 
-function parseRow(row) {
+function isRaw() {
   // WARNING hack
-  if (datafilename.includes('raw')) {
+  return (datafilename.includes('raw'));
+}
+
+function parseRow(row) {
+  if (isRaw()) {
     return parseRawRow(row);
   }
   return parseGroupedRow(row);
 }
 
 function parsingDone(results, file) {
+
+  if(!isRaw()){
+    essentialSel.style.display = "none";
+  }
+
   fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
   counties = _.uniq(_.pluck(fileData, 'county')).sort();
   locationTypes = _.uniq(_.pluck(fileData, 'location_type')).sort();
@@ -303,6 +345,7 @@ function parsingDone(results, file) {
     data:fileData,
     columns:[
       {title:"Location Type", field:"location_type"},
+      {title:"Essential", field:"essential", visible: false},
       {title:"Visits %", field:"visit_index", visible: true},
       {title:"Visits %", field:"visit_index_over65", visible: false},
       {title:"Visits %", field:"visit_index_under65", visible: false},
@@ -374,6 +417,14 @@ function setNavLinks() {
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedState + "/ALL/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + selectedState + "/ALL/ALL?datafilename=raw";
 }
+
+essentialSel = document.getElementById('essential-select');
+essentialSel.addEventListener('change', function() {
+  redoFilter();
+  if (countySel.value || locationTypeSel.value) {
+    drawChart();
+  }
+});
 
 parseSelection();
 setNavLinks();

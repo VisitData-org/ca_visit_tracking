@@ -22,6 +22,11 @@
               <option value="under65">Under 65</option>
               <option value="over65">65 and Over</option>
             </select>
+            <select class="custom-select col-sm" style="max-width:30%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
+              <option value="nonessential">Non-Essential Only</option>
+              <option value="essential">Essential Only</option>
+              <option value="all">All</option>
+            </select>
             <button type="button" class="btn btn-info ml-5" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
               Notes
             </button>
@@ -63,6 +68,7 @@
          var _selectedCounties = {{ counties|tojson }};
          var _selectedVenues = {{ venues|tojson }};
         </script>
+        <script type="text/javascript" src="/categories.js"></script>
         <script type="text/javascript" src="/state_bydate.js"></script>
       </div>
 {% endblock %}
