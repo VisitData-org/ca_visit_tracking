@@ -89,13 +89,27 @@ var Essentializer = (function () {
 })();
 
 var essentializer = Essentializer.getInstance();
-// example usage using my raw categories which is the category ID and name from the raw.csv file
-var rawCategories = require("./data/raw_categories.json");
-for (var rawCatIndex = 0; rawCatIndex < rawCategories.length; rawCatIndex++) {
-    var rawCategory = rawCategories[rawCatIndex];
-    var rawCategoryName = rawCategory.categoryName;
-    var rawCategoryId = rawCategory.categoryId;
-    var isEssential = essentializer.isCategoryEssential(rawCategoryId);
-    // console.log(rawCategoryName.padding(30) + " is " + isEssential);
-    console.log('"' + rawCategoryId + '","' + rawCategoryName + '","' + isEssential + '"');
+// // example usage using my raw categories which is the category ID and name from the raw.csv file
+// var rawCategories = require("./data/raw_categories.json");
+// for (var rawCatIndex = 0; rawCatIndex < rawCategories.length; rawCatIndex++) {
+//     var rawCategory = rawCategories[rawCatIndex];
+//     var rawCategoryName = rawCategory.categoryName;
+//     var rawCategoryId = rawCategory.categoryId;
+//     var isEssential = essentializer.isCategoryEssential(rawCategoryId);
+//     // console.log(rawCategoryName.padding(30) + " is " + isEssential);
+//     console.log('"' + rawCategoryId + '","' + rawCategoryName + '","' + isEssential + '"');
+// }
+
+function handleCategory(category) {
+    console.log(category.id+','+category.name+','+essentializer.isCategoryEssential(category.id));
+    var subcategories = category.categories;
+    for(var i=0; i<subcategories.length; i++) {
+        handleCategory(subcategories[i]);
+    }
+}
+
+var taxonomy = require("./data/taxonomy.json");
+for (var categoryIndex = 0; categoryIndex < taxonomy.length; categoryIndex++) {
+    var nextCategory = taxonomy[categoryIndex];
+    handleCategory(nextCategory);
 }
