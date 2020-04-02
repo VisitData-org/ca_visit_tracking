@@ -1,0 +1,1044 @@
+2020-03-01,Pennsylvania,Food,47.0,46.0,47.0,1
+2020-03-01,Pennsylvania,Shops & Services,33.0,31.0,33.0,2
+2020-03-01,Pennsylvania,Nightlife Spots,48.0,49.0,48.0,3
+2020-03-01,Pennsylvania,Grocery,96.0,96.0,96.0,4
+2020-03-01,Pennsylvania,Gas Stations,104.0,104.0,104.0,5
+2020-03-01,Pennsylvania,Outdoors & Recreation,37.0,39.0,37.0,6
+2020-03-01,Pennsylvania,Big Box Stores,108.0,105.0,108.0,7
+2020-03-01,Pennsylvania,Arts & Entertainment,63.0,67.0,63.0,8
+2020-03-01,Pennsylvania,Fast Food Restaurants,114.0,109.0,114.0,9
+2020-03-01,Pennsylvania,Professional & Other Places,19.0,16.0,19.0,10
+2020-03-01,Pennsylvania,Convenience Store,102.0,98.0,102.0,11
+2020-03-01,Pennsylvania,Medical,57.0,56.0,57.0,12
+2020-03-01,Pennsylvania,Hardware Stores,114.0,111.0,114.0,13
+2020-03-01,Pennsylvania,School,55.0,56.0,55.0,14
+2020-03-01,Pennsylvania,Hotel,82.0,77.0,83.0,15
+2020-03-01,Pennsylvania,Residences,85.0,89.0,85.0,16
+2020-03-01,Pennsylvania,Drug Store,108.0,105.0,108.0,17
+2020-03-01,Pennsylvania,Discount Stores,108.0,112.0,108.0,18
+2020-03-01,Pennsylvania,Colleges & Universities,71.0,68.0,71.0,19
+2020-03-01,Pennsylvania,Fitness Center,74.0,74.0,74.0,20
+2020-03-01,Pennsylvania,Airport,66.0,61.0,66.0,21
+2020-03-01,Pennsylvania,Sports,35.0,34.0,36.0,22
+2020-03-01,Pennsylvania,Travel & Transport,23.0,26.0,23.0,23
+2020-03-01,Pennsylvania,Government,57.0,52.0,57.0,24
+2020-03-01,Pennsylvania,Alcohol,105.0,105.0,105.0,25
+2020-03-01,Pennsylvania,Office,82.0,81.0,82.0,26
+2020-03-01,Pennsylvania,Banks,105.0,108.0,104.0,27
+2020-03-01,Pennsylvania,Skiing,68.0,69.0,68.0,28
+2020-03-01,Pennsylvania,Bus,69.0,70.0,69.0,29
+2020-03-01,Pennsylvania,Metro Stations,104.0,126.0,104.0,30
+2020-03-01,Pennsylvania,Light Rail Stations,102.0,"",101.0,31
+2020-03-01,Pennsylvania,Spiritual Center,3.0,3.0,3.0,32
+2020-03-01,Pennsylvania,Beach,74.0,"",74.0,33
+2020-03-02,Pennsylvania,Shops & Services,30.0,31.0,30.0,1
+2020-03-02,Pennsylvania,Food,46.0,45.0,46.0,2
+2020-03-02,Pennsylvania,Medical,57.0,55.0,57.0,3
+2020-03-02,Pennsylvania,Nightlife Spots,51.0,51.0,51.0,4
+2020-03-02,Pennsylvania,Grocery,106.0,104.0,106.0,5
+2020-03-02,Pennsylvania,Gas Stations,102.0,101.0,102.0,6
+2020-03-02,Pennsylvania,Outdoors & Recreation,37.0,37.0,37.0,7
+2020-03-02,Pennsylvania,School,62.0,61.0,62.0,8
+2020-03-02,Pennsylvania,Professional & Other Places,17.0,18.0,17.0,9
+2020-03-02,Pennsylvania,Colleges & Universities,59.0,68.0,59.0,10
+2020-03-02,Pennsylvania,Fast Food Restaurants,113.0,107.0,113.0,11
+2020-03-02,Pennsylvania,Big Box Stores,109.0,109.0,109.0,12
+2020-03-02,Pennsylvania,Convenience Store,105.0,97.0,105.0,13
+2020-03-02,Pennsylvania,Arts & Entertainment,66.0,64.0,66.0,14
+2020-03-02,Pennsylvania,Office,94.0,96.0,94.0,15
+2020-03-02,Pennsylvania,Fitness Center,72.0,69.0,72.0,16
+2020-03-02,Pennsylvania,Government,67.0,62.0,67.0,17
+2020-03-02,Pennsylvania,Drug Store,108.0,107.0,108.0,18
+2020-03-02,Pennsylvania,Residences,88.0,88.0,88.0,19
+2020-03-02,Pennsylvania,Travel & Transport,26.0,28.0,26.0,20
+2020-03-02,Pennsylvania,Airport,64.0,61.0,64.0,21
+2020-03-02,Pennsylvania,Hardware Stores,103.0,102.0,103.0,22
+2020-03-02,Pennsylvania,Discount Stores,104.0,100.0,104.0,23
+2020-03-02,Pennsylvania,Hotel,81.0,82.0,81.0,24
+2020-03-02,Pennsylvania,Sports,30.0,32.0,30.0,25
+2020-03-02,Pennsylvania,Banks,118.0,122.0,118.0,26
+2020-03-02,Pennsylvania,Alcohol,105.0,95.0,105.0,27
+2020-03-02,Pennsylvania,Bus,72.0,76.0,72.0,28
+2020-03-02,Pennsylvania,Metro Stations,108.0,104.0,108.0,29
+2020-03-02,Pennsylvania,Light Rail Stations,105.0,124.0,104.0,30
+2020-03-02,Pennsylvania,Skiing,44.0,57.0,44.0,31
+2020-03-02,Pennsylvania,Spiritual Center,5.0,5.0,5.0,32
+2020-03-02,Pennsylvania,Beach,87.0,"",87.0,33
+2020-03-03,Pennsylvania,Shops & Services,32.0,31.0,32.0,1
+2020-03-03,Pennsylvania,Food,46.0,46.0,46.0,2
+2020-03-03,Pennsylvania,Medical,55.0,53.0,55.0,3
+2020-03-03,Pennsylvania,Nightlife Spots,51.0,49.0,51.0,4
+2020-03-03,Pennsylvania,Grocery,104.0,101.0,104.0,5
+2020-03-03,Pennsylvania,Gas Stations,100.0,96.0,101.0,6
+2020-03-03,Pennsylvania,School,54.0,54.0,54.0,7
+2020-03-03,Pennsylvania,Professional & Other Places,16.0,17.0,16.0,8
+2020-03-03,Pennsylvania,Outdoors & Recreation,36.0,37.0,36.0,9
+2020-03-03,Pennsylvania,Colleges & Universities,61.0,71.0,61.0,10
+2020-03-03,Pennsylvania,Fast Food Restaurants,110.0,109.0,110.0,11
+2020-03-03,Pennsylvania,Big Box Stores,109.0,101.0,109.0,12
+2020-03-03,Pennsylvania,Convenience Store,102.0,98.0,103.0,13
+2020-03-03,Pennsylvania,Arts & Entertainment,72.0,73.0,72.0,14
+2020-03-03,Pennsylvania,Office,84.0,84.0,84.0,15
+2020-03-03,Pennsylvania,Fitness Center,70.0,66.0,70.0,16
+2020-03-03,Pennsylvania,Government,63.0,63.0,63.0,17
+2020-03-03,Pennsylvania,Drug Store,104.0,94.0,104.0,18
+2020-03-03,Pennsylvania,Residences,87.0,91.0,87.0,19
+2020-03-03,Pennsylvania,Travel & Transport,26.0,29.0,26.0,20
+2020-03-03,Pennsylvania,Hardware Stores,105.0,99.0,106.0,21
+2020-03-03,Pennsylvania,Hotel,84.0,85.0,84.0,22
+2020-03-03,Pennsylvania,Discount Stores,104.0,100.0,104.0,23
+2020-03-03,Pennsylvania,Airport,61.0,67.0,61.0,24
+2020-03-03,Pennsylvania,Banks,118.0,119.0,118.0,25
+2020-03-03,Pennsylvania,Sports,28.0,31.0,28.0,26
+2020-03-03,Pennsylvania,Alcohol,106.0,109.0,105.0,27
+2020-03-03,Pennsylvania,Metro Stations,103.0,106.0,103.0,28
+2020-03-03,Pennsylvania,Bus,68.0,70.0,68.0,29
+2020-03-03,Pennsylvania,Light Rail Stations,99.0,98.0,99.0,30
+2020-03-03,Pennsylvania,Spiritual Center,4.0,4.0,4.0,31
+2020-03-03,Pennsylvania,Skiing,52.0,73.0,52.0,32
+2020-03-03,Pennsylvania,Beach,99.0,"",99.0,33
+2020-03-04,Pennsylvania,Shops & Services,31.0,30.0,31.0,1
+2020-03-04,Pennsylvania,Food,46.0,45.0,46.0,2
+2020-03-04,Pennsylvania,Nightlife Spots,50.0,50.0,50.0,3
+2020-03-04,Pennsylvania,Medical,54.0,53.0,54.0,4
+2020-03-04,Pennsylvania,Grocery,101.0,100.0,101.0,5
+2020-03-04,Pennsylvania,Gas Stations,101.0,95.0,101.0,6
+2020-03-04,Pennsylvania,School,53.0,53.0,53.0,7
+2020-03-04,Pennsylvania,Professional & Other Places,16.0,17.0,16.0,8
+2020-03-04,Pennsylvania,Outdoors & Recreation,37.0,37.0,37.0,9
+2020-03-04,Pennsylvania,Colleges & Universities,63.0,75.0,62.0,10
+2020-03-04,Pennsylvania,Fast Food Restaurants,106.0,102.0,106.0,11
+2020-03-04,Pennsylvania,Big Box Stores,102.0,95.0,103.0,12
+2020-03-04,Pennsylvania,Arts & Entertainment,62.0,61.0,62.0,13
+2020-03-04,Pennsylvania,Convenience Store,102.0,101.0,102.0,14
+2020-03-04,Pennsylvania,Office,85.0,87.0,85.0,15
+2020-03-04,Pennsylvania,Fitness Center,69.0,69.0,69.0,16
+2020-03-04,Pennsylvania,Government,63.0,62.0,63.0,17
+2020-03-04,Pennsylvania,Drug Store,102.0,101.0,102.0,18
+2020-03-04,Pennsylvania,Residences,88.0,93.0,88.0,19
+2020-03-04,Pennsylvania,Travel & Transport,24.0,27.0,24.0,20
+2020-03-04,Pennsylvania,Hardware Stores,104.0,98.0,105.0,21
+2020-03-04,Pennsylvania,Hotel,85.0,80.0,85.0,22
+2020-03-04,Pennsylvania,Discount Stores,100.0,95.0,101.0,23
+2020-03-04,Pennsylvania,Airport,60.0,63.0,60.0,24
+2020-03-04,Pennsylvania,Sports,30.0,34.0,30.0,25
+2020-03-04,Pennsylvania,Banks,106.0,115.0,106.0,26
+2020-03-04,Pennsylvania,Alcohol,100.0,95.0,100.0,27
+2020-03-04,Pennsylvania,Metro Stations,99.0,88.0,99.0,28
+2020-03-04,Pennsylvania,Bus,67.0,63.0,67.0,29
+2020-03-04,Pennsylvania,Light Rail Stations,96.0,101.0,96.0,30
+2020-03-04,Pennsylvania,Skiing,49.0,61.0,49.0,31
+2020-03-04,Pennsylvania,Spiritual Center,4.0,3.0,4.0,32
+2020-03-04,Pennsylvania,Beach,93.0,"",93.0,33
+2020-03-05,Pennsylvania,Food,48.0,49.0,48.0,1
+2020-03-05,Pennsylvania,Shops & Services,32.0,32.0,32.0,2
+2020-03-05,Pennsylvania,Nightlife Spots,53.0,54.0,53.0,3
+2020-03-05,Pennsylvania,Medical,58.0,56.0,58.0,4
+2020-03-05,Pennsylvania,Gas Stations,105.0,103.0,105.0,5
+2020-03-05,Pennsylvania,Grocery,103.0,103.0,103.0,6
+2020-03-05,Pennsylvania,School,56.0,56.0,55.0,7
+2020-03-05,Pennsylvania,Outdoors & Recreation,40.0,42.0,40.0,8
+2020-03-05,Pennsylvania,Professional & Other Places,17.0,17.0,17.0,9
+2020-03-05,Pennsylvania,Fast Food Restaurants,111.0,111.0,111.0,10
+2020-03-05,Pennsylvania,Colleges & Universities,51.0,62.0,50.0,11
+2020-03-05,Pennsylvania,Big Box Stores,106.0,107.0,106.0,12
+2020-03-05,Pennsylvania,Convenience Store,106.0,103.0,106.0,13
+2020-03-05,Pennsylvania,Arts & Entertainment,65.0,68.0,65.0,14
+2020-03-05,Pennsylvania,Office,90.0,89.0,90.0,15
+2020-03-05,Pennsylvania,Government,67.0,66.0,67.0,16
+2020-03-05,Pennsylvania,Fitness Center,70.0,70.0,70.0,17
+2020-03-05,Pennsylvania,Drug Store,104.0,104.0,104.0,18
+2020-03-05,Pennsylvania,Residences,95.0,102.0,95.0,19
+2020-03-05,Pennsylvania,Travel & Transport,26.0,29.0,25.0,20
+2020-03-05,Pennsylvania,Hardware Stores,115.0,114.0,115.0,21
+2020-03-05,Pennsylvania,Hotel,89.0,87.0,89.0,22
+2020-03-05,Pennsylvania,Airport,60.0,54.0,60.0,23
+2020-03-05,Pennsylvania,Discount Stores,106.0,112.0,106.0,24
+2020-03-05,Pennsylvania,Sports,34.0,38.0,34.0,25
+2020-03-05,Pennsylvania,Banks,115.0,114.0,115.0,26
+2020-03-05,Pennsylvania,Alcohol,110.0,110.0,110.0,27
+2020-03-05,Pennsylvania,Bus,70.0,67.0,70.0,28
+2020-03-05,Pennsylvania,Metro Stations,104.0,102.0,104.0,29
+2020-03-05,Pennsylvania,Light Rail Stations,117.0,136.0,116.0,30
+2020-03-05,Pennsylvania,Skiing,73.0,93.0,72.0,31
+2020-03-05,Pennsylvania,Spiritual Center,4.0,5.0,4.0,32
+2020-03-05,Pennsylvania,Beach,111.0,"",110.0,33
+2020-03-06,Pennsylvania,Food,44.0,44.0,44.0,1
+2020-03-06,Pennsylvania,Shops & Services,31.0,31.0,31.0,2
+2020-03-06,Pennsylvania,Nightlife Spots,51.0,50.0,51.0,3
+2020-03-06,Pennsylvania,Grocery,99.0,102.0,99.0,4
+2020-03-06,Pennsylvania,Gas Stations,100.0,95.0,100.0,5
+2020-03-06,Pennsylvania,Medical,56.0,55.0,56.0,6
+2020-03-06,Pennsylvania,School,59.0,62.0,59.0,7
+2020-03-06,Pennsylvania,Professional & Other Places,17.0,18.0,17.0,8
+2020-03-06,Pennsylvania,Outdoors & Recreation,37.0,37.0,37.0,9
+2020-03-06,Pennsylvania,Fast Food Restaurants,104.0,100.0,104.0,10
+2020-03-06,Pennsylvania,Big Box Stores,100.0,106.0,100.0,11
+2020-03-06,Pennsylvania,Arts & Entertainment,61.0,64.0,61.0,12
+2020-03-06,Pennsylvania,Convenience Store,102.0,97.0,102.0,13
+2020-03-06,Pennsylvania,Colleges & Universities,55.0,69.0,54.0,14
+2020-03-06,Pennsylvania,Office,87.0,86.0,87.0,15
+2020-03-06,Pennsylvania,Government,65.0,64.0,65.0,16
+2020-03-06,Pennsylvania,Drug Store,96.0,99.0,96.0,17
+2020-03-06,Pennsylvania,Fitness Center,70.0,67.0,70.0,18
+2020-03-06,Pennsylvania,Residences,87.0,89.0,87.0,19
+2020-03-06,Pennsylvania,Travel & Transport,24.0,26.0,24.0,20
+2020-03-06,Pennsylvania,Hardware Stores,106.0,101.0,107.0,21
+2020-03-06,Pennsylvania,Hotel,82.0,75.0,82.0,22
+2020-03-06,Pennsylvania,Airport,58.0,56.0,58.0,23
+2020-03-06,Pennsylvania,Discount Stores,100.0,102.0,99.0,24
+2020-03-06,Pennsylvania,Banks,103.0,104.0,103.0,25
+2020-03-06,Pennsylvania,Sports,31.0,33.0,31.0,26
+2020-03-06,Pennsylvania,Alcohol,99.0,104.0,99.0,27
+2020-03-06,Pennsylvania,Bus,68.0,64.0,68.0,28
+2020-03-06,Pennsylvania,Metro Stations,99.0,95.0,99.0,29
+2020-03-06,Pennsylvania,Skiing,67.0,68.0,67.0,30
+2020-03-06,Pennsylvania,Light Rail Stations,104.0,110.0,104.0,31
+2020-03-06,Pennsylvania,Spiritual Center,4.0,4.0,4.0,32
+2020-03-06,Pennsylvania,Beach,94.0,"",95.0,33
+2020-03-07,Pennsylvania,Shops & Services,34.0,32.0,34.0,1
+2020-03-07,Pennsylvania,Food,43.0,42.0,43.0,2
+2020-03-07,Pennsylvania,Nightlife Spots,48.0,47.0,48.0,3
+2020-03-07,Pennsylvania,Grocery,99.0,98.0,99.0,4
+2020-03-07,Pennsylvania,Gas Stations,101.0,99.0,101.0,5
+2020-03-07,Pennsylvania,Outdoors & Recreation,37.0,38.0,37.0,6
+2020-03-07,Pennsylvania,Big Box Stores,99.0,97.0,99.0,7
+2020-03-07,Pennsylvania,Arts & Entertainment,57.0,55.0,57.0,8
+2020-03-07,Pennsylvania,Fast Food Restaurants,103.0,101.0,103.0,9
+2020-03-07,Pennsylvania,Professional & Other Places,21.0,22.0,21.0,10
+2020-03-07,Pennsylvania,Convenience Store,100.0,93.0,100.0,11
+2020-03-07,Pennsylvania,Medical,55.0,53.0,55.0,12
+2020-03-07,Pennsylvania,School,54.0,54.0,54.0,13
+2020-03-07,Pennsylvania,Hardware Stores,112.0,108.0,112.0,14
+2020-03-07,Pennsylvania,Drug Store,100.0,101.0,100.0,15
+2020-03-07,Pennsylvania,Hotel,80.0,76.0,80.0,16
+2020-03-07,Pennsylvania,Discount Stores,103.0,104.0,103.0,17
+2020-03-07,Pennsylvania,Fitness Center,67.0,66.0,67.0,18
+2020-03-07,Pennsylvania,Residences,82.0,77.0,83.0,19
+2020-03-07,Pennsylvania,Colleges & Universities,56.0,68.0,55.0,20
+2020-03-07,Pennsylvania,Sports,33.0,32.0,33.0,21
+2020-03-07,Pennsylvania,Government,62.0,58.0,62.0,22
+2020-03-07,Pennsylvania,Travel & Transport,22.0,23.0,22.0,23
+2020-03-07,Pennsylvania,Airport,62.0,59.0,62.0,24
+2020-03-07,Pennsylvania,Alcohol,96.0,94.0,96.0,25
+2020-03-07,Pennsylvania,Office,87.0,90.0,87.0,26
+2020-03-07,Pennsylvania,Banks,83.0,85.0,83.0,27
+2020-03-07,Pennsylvania,Bus,72.0,67.0,72.0,28
+2020-03-07,Pennsylvania,Metro Stations,97.0,82.0,97.0,29
+2020-03-07,Pennsylvania,Skiing,44.0,47.0,44.0,30
+2020-03-07,Pennsylvania,Light Rail Stations,100.0,"",100.0,31
+2020-03-07,Pennsylvania,Spiritual Center,4.0,"",4.0,32
+2020-03-07,Pennsylvania,Beach,91.0,"",91.0,33
+2020-03-07,Pennsylvania,Events,81.0,"",82.0,34
+2020-03-08,Pennsylvania,Food,47.0,45.0,47.0,1
+2020-03-08,Pennsylvania,Shops & Services,31.0,29.0,32.0,2
+2020-03-08,Pennsylvania,Nightlife Spots,51.0,51.0,51.0,3
+2020-03-08,Pennsylvania,Grocery,98.0,95.0,99.0,4
+2020-03-08,Pennsylvania,Outdoors & Recreation,48.0,45.0,48.0,5
+2020-03-08,Pennsylvania,Gas Stations,110.0,104.0,110.0,6
+2020-03-08,Pennsylvania,Big Box Stores,106.0,102.0,106.0,7
+2020-03-08,Pennsylvania,Arts & Entertainment,61.0,60.0,61.0,8
+2020-03-08,Pennsylvania,Fast Food Restaurants,117.0,116.0,117.0,9
+2020-03-08,Pennsylvania,Professional & Other Places,21.0,18.0,21.0,10
+2020-03-08,Pennsylvania,Convenience Store,105.0,102.0,105.0,11
+2020-03-08,Pennsylvania,Medical,59.0,58.0,59.0,12
+2020-03-08,Pennsylvania,School,65.0,63.0,65.0,13
+2020-03-08,Pennsylvania,Hardware Stores,119.0,118.0,119.0,14
+2020-03-08,Pennsylvania,Residences,91.0,99.0,90.0,15
+2020-03-08,Pennsylvania,Sports,45.0,48.0,45.0,16
+2020-03-08,Pennsylvania,Hotel,83.0,83.0,83.0,17
+2020-03-08,Pennsylvania,Drug Store,109.0,105.0,109.0,18
+2020-03-08,Pennsylvania,Discount Stores,112.0,106.0,112.0,18
+2020-03-08,Pennsylvania,Airport,66.0,53.0,66.0,19
+2020-03-08,Pennsylvania,Travel & Transport,25.0,28.0,25.0,20
+2020-03-08,Pennsylvania,Fitness Center,67.0,65.0,67.0,21
+2020-03-08,Pennsylvania,Colleges & Universities,55.0,66.0,54.0,22
+2020-03-08,Pennsylvania,Government,66.0,59.0,66.0,23
+2020-03-08,Pennsylvania,Alcohol,106.0,94.0,106.0,24
+2020-03-08,Pennsylvania,Office,91.0,86.0,91.0,25
+2020-03-08,Pennsylvania,Banks,89.0,87.0,89.0,26
+2020-03-08,Pennsylvania,Bus,74.0,68.0,74.0,27
+2020-03-08,Pennsylvania,Metro Stations,115.0,106.0,115.0,28
+2020-03-08,Pennsylvania,Skiing,42.0,36.0,42.0,29
+2020-03-08,Pennsylvania,Spiritual Center,3.0,3.0,4.0,30
+2020-03-08,Pennsylvania,Light Rail Stations,103.0,"",103.0,31
+2020-03-08,Pennsylvania,Beach,115.0,"",114.0,32
+2020-03-08,Pennsylvania,Events,104.0,"",103.0,33
+2020-03-09,Pennsylvania,Shops & Services,31.0,30.0,32.0,1
+2020-03-09,Pennsylvania,Food,46.0,44.0,46.0,2
+2020-03-09,Pennsylvania,Medical,57.0,53.0,57.0,3
+2020-03-09,Pennsylvania,Nightlife Spots,53.0,51.0,53.0,4
+2020-03-09,Pennsylvania,Grocery,106.0,101.0,106.0,5
+2020-03-09,Pennsylvania,Gas Stations,104.0,101.0,104.0,6
+2020-03-09,Pennsylvania,Outdoors & Recreation,44.0,41.0,44.0,7
+2020-03-09,Pennsylvania,School,64.0,63.0,64.0,8
+2020-03-09,Pennsylvania,Professional & Other Places,17.0,17.0,17.0,9
+2020-03-09,Pennsylvania,Fast Food Restaurants,109.0,103.0,110.0,10
+2020-03-09,Pennsylvania,Big Box Stores,106.0,102.0,106.0,11
+2020-03-09,Pennsylvania,Arts & Entertainment,62.0,59.0,63.0,12
+2020-03-09,Pennsylvania,Convenience Store,107.0,101.0,107.0,13
+2020-03-09,Pennsylvania,Colleges & Universities,40.0,54.0,40.0,14
+2020-03-09,Pennsylvania,Office,95.0,92.0,95.0,15
+2020-03-09,Pennsylvania,Government,71.0,68.0,71.0,16
+2020-03-09,Pennsylvania,Fitness Center,70.0,62.0,70.0,17
+2020-03-09,Pennsylvania,Drug Store,109.0,106.0,109.0,18
+2020-03-09,Pennsylvania,Residences,93.0,96.0,93.0,19
+2020-03-09,Pennsylvania,Travel & Transport,25.0,26.0,25.0,20
+2020-03-09,Pennsylvania,Hardware Stores,114.0,109.0,114.0,21
+2020-03-09,Pennsylvania,Sports,37.0,41.0,37.0,22
+2020-03-09,Pennsylvania,Airport,58.0,56.0,58.0,23
+2020-03-09,Pennsylvania,Discount Stores,106.0,98.0,107.0,24
+2020-03-09,Pennsylvania,Hotel,82.0,80.0,82.0,25
+2020-03-09,Pennsylvania,Banks,117.0,120.0,117.0,26
+2020-03-09,Pennsylvania,Alcohol,111.0,97.0,111.0,27
+2020-03-09,Pennsylvania,Bus,72.0,67.0,72.0,28
+2020-03-09,Pennsylvania,Metro Stations,110.0,104.0,110.0,29
+2020-03-09,Pennsylvania,Light Rail Stations,111.0,126.0,111.0,30
+2020-03-09,Pennsylvania,Skiing,42.0,59.0,42.0,31
+2020-03-09,Pennsylvania,Spiritual Center,5.0,5.0,5.0,32
+2020-03-09,Pennsylvania,Beach,113.0,"",115.0,33
+2020-03-10,Pennsylvania,Shops & Services,30.0,28.0,30.0,1
+2020-03-10,Pennsylvania,Food,44.0,42.0,45.0,2
+2020-03-10,Pennsylvania,Medical,53.0,51.0,53.0,3
+2020-03-10,Pennsylvania,Nightlife Spots,48.0,46.0,48.0,4
+2020-03-10,Pennsylvania,Grocery,105.0,100.0,105.0,5
+2020-03-10,Pennsylvania,Gas Stations,98.0,92.0,99.0,6
+2020-03-10,Pennsylvania,School,52.0,51.0,53.0,7
+2020-03-10,Pennsylvania,Professional & Other Places,15.0,15.0,15.0,8
+2020-03-10,Pennsylvania,Outdoors & Recreation,36.0,36.0,36.0,9
+2020-03-10,Pennsylvania,Fast Food Restaurants,102.0,95.0,103.0,10
+2020-03-10,Pennsylvania,Big Box Stores,105.0,97.0,105.0,11
+2020-03-10,Pennsylvania,Colleges & Universities,40.0,54.0,40.0,12
+2020-03-10,Pennsylvania,Convenience Store,100.0,98.0,100.0,13
+2020-03-10,Pennsylvania,Arts & Entertainment,56.0,53.0,56.0,14
+2020-03-10,Pennsylvania,Office,81.0,81.0,81.0,15
+2020-03-10,Pennsylvania,Fitness Center,66.0,61.0,66.0,16
+2020-03-10,Pennsylvania,Government,62.0,59.0,62.0,17
+2020-03-10,Pennsylvania,Drug Store,104.0,96.0,104.0,18
+2020-03-10,Pennsylvania,Residences,86.0,91.0,86.0,19
+2020-03-10,Pennsylvania,Travel & Transport,23.0,23.0,23.0,20
+2020-03-10,Pennsylvania,Hardware Stores,107.0,101.0,107.0,21
+2020-03-10,Pennsylvania,Discount Stores,103.0,97.0,103.0,22
+2020-03-10,Pennsylvania,Hotel,79.0,78.0,79.0,23
+2020-03-10,Pennsylvania,Sports,30.0,32.0,30.0,24
+2020-03-10,Pennsylvania,Airport,55.0,60.0,55.0,25
+2020-03-10,Pennsylvania,Banks,100.0,94.0,101.0,26
+2020-03-10,Pennsylvania,Alcohol,107.0,113.0,106.0,27
+2020-03-10,Pennsylvania,Metro Stations,101.0,88.0,101.0,28
+2020-03-10,Pennsylvania,Bus,68.0,66.0,68.0,29
+2020-03-10,Pennsylvania,Light Rail Stations,95.0,113.0,95.0,30
+2020-03-10,Pennsylvania,Spiritual Center,4.0,4.0,4.0,31
+2020-03-10,Pennsylvania,Skiing,44.0,"",44.0,32
+2020-03-10,Pennsylvania,Beach,82.0,"",82.0,33
+2020-03-11,Pennsylvania,Shops & Services,30.0,29.0,30.0,1
+2020-03-11,Pennsylvania,Food,44.0,42.0,44.0,2
+2020-03-11,Pennsylvania,Nightlife Spots,50.0,49.0,50.0,3
+2020-03-11,Pennsylvania,Medical,52.0,51.0,52.0,4
+2020-03-11,Pennsylvania,Grocery,107.0,103.0,107.0,5
+2020-03-11,Pennsylvania,Gas Stations,98.0,92.0,98.0,6
+2020-03-11,Pennsylvania,School,52.0,51.0,52.0,7
+2020-03-11,Pennsylvania,Outdoors & Recreation,37.0,36.0,37.0,8
+2020-03-11,Pennsylvania,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-11,Pennsylvania,Fast Food Restaurants,100.0,99.0,100.0,10
+2020-03-11,Pennsylvania,Big Box Stores,104.0,100.0,104.0,11
+2020-03-11,Pennsylvania,Convenience Store,97.0,97.0,97.0,12
+2020-03-11,Pennsylvania,Arts & Entertainment,70.0,66.0,71.0,13
+2020-03-11,Pennsylvania,Colleges & Universities,37.0,52.0,37.0,14
+2020-03-11,Pennsylvania,Office,82.0,82.0,82.0,15
+2020-03-11,Pennsylvania,Government,61.0,57.0,61.0,16
+2020-03-11,Pennsylvania,Fitness Center,64.0,62.0,64.0,17
+2020-03-11,Pennsylvania,Drug Store,105.0,105.0,105.0,18
+2020-03-11,Pennsylvania,Residences,84.0,83.0,84.0,19
+2020-03-11,Pennsylvania,Travel & Transport,24.0,25.0,24.0,20
+2020-03-11,Pennsylvania,Hardware Stores,104.0,93.0,104.0,21
+2020-03-11,Pennsylvania,Discount Stores,106.0,96.0,106.0,22
+2020-03-11,Pennsylvania,Hotel,79.0,71.0,79.0,23
+2020-03-11,Pennsylvania,Sports,31.0,33.0,31.0,24
+2020-03-11,Pennsylvania,Airport,52.0,52.0,52.0,25
+2020-03-11,Pennsylvania,Banks,97.0,102.0,97.0,26
+2020-03-11,Pennsylvania,Alcohol,100.0,108.0,99.0,27
+2020-03-11,Pennsylvania,Metro Stations,97.0,85.0,97.0,28
+2020-03-11,Pennsylvania,Bus,67.0,74.0,66.0,29
+2020-03-11,Pennsylvania,Light Rail Stations,92.0,68.0,93.0,30
+2020-03-11,Pennsylvania,Spiritual Center,4.0,4.0,4.0,31
+2020-03-11,Pennsylvania,Skiing,40.0,"",39.0,32
+2020-03-11,Pennsylvania,Beach,89.0,"",88.0,33
+2020-03-11,Pennsylvania,Events,238.0,"",243.0,34
+2020-03-12,Pennsylvania,Shops & Services,32.0,32.0,32.0,1
+2020-03-12,Pennsylvania,Food,43.0,42.0,43.0,2
+2020-03-12,Pennsylvania,Grocery,127.0,124.0,127.0,3
+2020-03-12,Pennsylvania,Nightlife Spots,50.0,49.0,50.0,4
+2020-03-12,Pennsylvania,Medical,51.0,48.0,51.0,5
+2020-03-12,Pennsylvania,Gas Stations,99.0,100.0,99.0,6
+2020-03-12,Pennsylvania,Outdoors & Recreation,39.0,39.0,39.0,7
+2020-03-12,Pennsylvania,School,50.0,48.0,50.0,8
+2020-03-12,Pennsylvania,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-12,Pennsylvania,Big Box Stores,116.0,117.0,116.0,10
+2020-03-12,Pennsylvania,Fast Food Restaurants,102.0,96.0,102.0,11
+2020-03-12,Pennsylvania,Convenience Store,98.0,93.0,98.0,12
+2020-03-12,Pennsylvania,Arts & Entertainment,55.0,53.0,55.0,13
+2020-03-12,Pennsylvania,Colleges & Universities,36.0,48.0,36.0,14
+2020-03-12,Pennsylvania,Office,79.0,83.0,79.0,15
+2020-03-12,Pennsylvania,Drug Store,114.0,116.0,114.0,16
+2020-03-12,Pennsylvania,Government,61.0,56.0,61.0,17
+2020-03-12,Pennsylvania,Fitness Center,60.0,55.0,60.0,18
+2020-03-12,Pennsylvania,Residences,82.0,84.0,82.0,19
+2020-03-12,Pennsylvania,Discount Stores,118.0,115.0,119.0,20
+2020-03-12,Pennsylvania,Hardware Stores,110.0,106.0,110.0,21
+2020-03-12,Pennsylvania,Travel & Transport,24.0,25.0,24.0,22
+2020-03-12,Pennsylvania,Hotel,76.0,70.0,77.0,23
+2020-03-12,Pennsylvania,Sports,31.0,34.0,30.0,24
+2020-03-12,Pennsylvania,Airport,48.0,41.0,48.0,25
+2020-03-12,Pennsylvania,Banks,103.0,104.0,103.0,26
+2020-03-12,Pennsylvania,Alcohol,120.0,112.0,121.0,27
+2020-03-12,Pennsylvania,Bus,62.0,59.0,62.0,28
+2020-03-12,Pennsylvania,Metro Stations,88.0,67.0,88.0,29
+2020-03-12,Pennsylvania,Light Rail Stations,101.0,90.0,101.0,30
+2020-03-12,Pennsylvania,Spiritual Center,4.0,"",4.0,31
+2020-03-12,Pennsylvania,Skiing,38.0,"",38.0,32
+2020-03-12,Pennsylvania,Beach,111.0,"",112.0,33
+2020-03-13,Pennsylvania,Shops & Services,32.0,30.0,33.0,1
+2020-03-13,Pennsylvania,Food,44.0,41.0,44.0,2
+2020-03-13,Pennsylvania,Grocery,151.0,139.0,152.0,3
+2020-03-13,Pennsylvania,Nightlife Spots,49.0,46.0,50.0,4
+2020-03-13,Pennsylvania,Gas Stations,102.0,99.0,102.0,5
+2020-03-13,Pennsylvania,Medical,53.0,49.0,53.0,6
+2020-03-13,Pennsylvania,Outdoors & Recreation,40.0,37.0,40.0,7
+2020-03-13,Pennsylvania,Big Box Stores,128.0,120.0,128.0,8
+2020-03-13,Pennsylvania,Professional & Other Places,17.0,16.0,17.0,9
+2020-03-13,Pennsylvania,Fast Food Restaurants,101.0,99.0,101.0,10
+2020-03-13,Pennsylvania,School,44.0,46.0,44.0,11
+2020-03-13,Pennsylvania,Convenience Store,99.0,93.0,99.0,12
+2020-03-13,Pennsylvania,Arts & Entertainment,51.0,48.0,52.0,13
+2020-03-13,Pennsylvania,Drug Store,126.0,124.0,127.0,14
+2020-03-13,Pennsylvania,Discount Stores,134.0,123.0,135.0,15
+2020-03-13,Pennsylvania,Office,80.0,76.0,80.0,16
+2020-03-13,Pennsylvania,Colleges & Universities,36.0,55.0,36.0,17
+2020-03-13,Pennsylvania,Hardware Stores,126.0,116.0,127.0,18
+2020-03-13,Pennsylvania,Government,61.0,55.0,61.0,19
+2020-03-13,Pennsylvania,Residences,88.0,83.0,88.0,20
+2020-03-13,Pennsylvania,Travel & Transport,22.0,23.0,22.0,21
+2020-03-13,Pennsylvania,Fitness Center,57.0,53.0,57.0,22
+2020-03-13,Pennsylvania,Hotel,73.0,67.0,73.0,23
+2020-03-13,Pennsylvania,Banks,103.0,100.0,104.0,24
+2020-03-13,Pennsylvania,Airport,46.0,38.0,46.0,25
+2020-03-13,Pennsylvania,Sports,31.0,34.0,31.0,26
+2020-03-13,Pennsylvania,Alcohol,128.0,121.0,128.0,27
+2020-03-13,Pennsylvania,Bus,64.0,65.0,64.0,28
+2020-03-13,Pennsylvania,Metro Stations,88.0,74.0,88.0,29
+2020-03-13,Pennsylvania,Light Rail Stations,96.0,75.0,96.0,30
+2020-03-13,Pennsylvania,Skiing,29.0,"",29.0,31
+2020-03-13,Pennsylvania,Spiritual Center,3.0,4.0,3.0,32
+2020-03-13,Pennsylvania,Beach,107.0,"",107.0,33
+2020-03-14,Pennsylvania,Shops & Services,28.0,25.0,28.0,1
+2020-03-14,Pennsylvania,Food,36.0,34.0,36.0,2
+2020-03-14,Pennsylvania,Grocery,125.0,115.0,125.0,3
+2020-03-14,Pennsylvania,Nightlife Spots,45.0,39.0,45.0,4
+2020-03-14,Pennsylvania,Gas Stations,94.0,89.0,94.0,5
+2020-03-14,Pennsylvania,Outdoors & Recreation,38.0,36.0,38.0,6
+2020-03-14,Pennsylvania,Big Box Stores,100.0,91.0,101.0,7
+2020-03-14,Pennsylvania,Fast Food Restaurants,86.0,81.0,86.0,8
+2020-03-14,Pennsylvania,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-14,Pennsylvania,Arts & Entertainment,41.0,36.0,41.0,10
+2020-03-14,Pennsylvania,Convenience Store,88.0,87.0,88.0,11
+2020-03-14,Pennsylvania,Hardware Stores,120.0,106.0,120.0,12
+2020-03-14,Pennsylvania,Medical,48.0,45.0,48.0,13
+2020-03-14,Pennsylvania,Drug Store,112.0,112.0,112.0,14
+2020-03-14,Pennsylvania,Discount Stores,116.0,111.0,116.0,15
+2020-03-14,Pennsylvania,Residences,74.0,70.0,74.0,16
+2020-03-14,Pennsylvania,School,31.0,30.0,31.0,17
+2020-03-14,Pennsylvania,Hotel,58.0,54.0,58.0,18
+2020-03-14,Pennsylvania,Government,56.0,51.0,56.0,19
+2020-03-14,Pennsylvania,Travel & Transport,20.0,19.0,20.0,20
+2020-03-14,Pennsylvania,Sports,27.0,28.0,27.0,21
+2020-03-14,Pennsylvania,Fitness Center,44.0,40.0,45.0,22
+2020-03-14,Pennsylvania,Alcohol,114.0,106.0,114.0,23
+2020-03-14,Pennsylvania,Colleges & Universities,38.0,38.0,38.0,24
+2020-03-14,Pennsylvania,Airport,45.0,35.0,46.0,25
+2020-03-14,Pennsylvania,Office,75.0,72.0,75.0,26
+2020-03-14,Pennsylvania,Banks,75.0,71.0,75.0,27
+2020-03-14,Pennsylvania,Bus,63.0,54.0,63.0,28
+2020-03-14,Pennsylvania,Metro Stations,83.0,53.0,83.0,29
+2020-03-14,Pennsylvania,Skiing,22.0,25.0,22.0,30
+2020-03-14,Pennsylvania,Light Rail Stations,97.0,"",98.0,31
+2020-03-14,Pennsylvania,Spiritual Center,3.0,"",3.0,32
+2020-03-14,Pennsylvania,Beach,109.0,"",110.0,33
+2020-03-15,Pennsylvania,Food,34.0,30.0,34.0,1
+2020-03-15,Pennsylvania,Shops & Services,23.0,21.0,23.0,2
+2020-03-15,Pennsylvania,Grocery,102.0,101.0,102.0,3
+2020-03-15,Pennsylvania,Nightlife Spots,39.0,37.0,39.0,4
+2020-03-15,Pennsylvania,Outdoors & Recreation,37.0,35.0,37.0,5
+2020-03-15,Pennsylvania,Gas Stations,92.0,82.0,92.0,6
+2020-03-15,Pennsylvania,Big Box Stores,89.0,82.0,89.0,7
+2020-03-15,Pennsylvania,Fast Food Restaurants,83.0,74.0,83.0,8
+2020-03-15,Pennsylvania,Professional & Other Places,15.0,11.0,15.0,9
+2020-03-15,Pennsylvania,Arts & Entertainment,34.0,32.0,34.0,10
+2020-03-15,Pennsylvania,Convenience Store,87.0,81.0,87.0,11
+2020-03-15,Pennsylvania,Hardware Stores,117.0,100.0,118.0,12
+2020-03-15,Pennsylvania,Medical,46.0,41.0,46.0,13
+2020-03-15,Pennsylvania,Drug Store,108.0,97.0,109.0,14
+2020-03-15,Pennsylvania,Discount Stores,109.0,100.0,109.0,15
+2020-03-15,Pennsylvania,Residences,79.0,72.0,79.0,16
+2020-03-15,Pennsylvania,School,40.0,36.0,40.0,17
+2020-03-15,Pennsylvania,Sports,27.0,30.0,27.0,18
+2020-03-15,Pennsylvania,Hotel,51.0,43.0,51.0,19
+2020-03-15,Pennsylvania,Travel & Transport,20.0,18.0,20.0,20
+2020-03-15,Pennsylvania,Alcohol,133.0,143.0,133.0,21
+2020-03-15,Pennsylvania,Government,49.0,43.0,49.0,22
+2020-03-15,Pennsylvania,Airport,44.0,33.0,44.0,23
+2020-03-15,Pennsylvania,Colleges & Universities,44.0,48.0,44.0,24
+2020-03-15,Pennsylvania,Fitness Center,42.0,37.0,42.0,25
+2020-03-15,Pennsylvania,Office,74.0,67.0,74.0,26
+2020-03-15,Pennsylvania,Banks,76.0,77.0,76.0,27
+2020-03-15,Pennsylvania,Bus,59.0,57.0,59.0,28
+2020-03-15,Pennsylvania,Metro Stations,83.0,81.0,83.0,29
+2020-03-15,Pennsylvania,Skiing,21.0,"",21.0,30
+2020-03-15,Pennsylvania,Light Rail Stations,85.0,"",86.0,31
+2020-03-15,Pennsylvania,Spiritual Center,2.0,"",2.0,32
+2020-03-15,Pennsylvania,Beach,81.0,"",81.0,33
+2020-03-16,Pennsylvania,Shops & Services,29.0,26.0,29.0,1
+2020-03-16,Pennsylvania,Food,38.0,33.0,38.0,2
+2020-03-16,Pennsylvania,Grocery,151.0,136.0,151.0,3
+2020-03-16,Pennsylvania,Gas Stations,102.0,96.0,102.0,4
+2020-03-16,Pennsylvania,Nightlife Spots,44.0,42.0,44.0,5
+2020-03-16,Pennsylvania,Medical,46.0,39.0,46.0,6
+2020-03-16,Pennsylvania,Outdoors & Recreation,34.0,33.0,34.0,7
+2020-03-16,Pennsylvania,Professional & Other Places,15.0,13.0,15.0,8
+2020-03-16,Pennsylvania,Big Box Stores,119.0,101.0,120.0,9
+2020-03-16,Pennsylvania,Fast Food Restaurants,91.0,83.0,91.0,10
+2020-03-16,Pennsylvania,Convenience Store,92.0,87.0,92.0,11
+2020-03-16,Pennsylvania,Drug Store,124.0,110.0,125.0,12
+2020-03-16,Pennsylvania,Hardware Stores,129.0,105.0,131.0,13
+2020-03-16,Pennsylvania,Arts & Entertainment,47.0,46.0,47.0,14
+2020-03-16,Pennsylvania,Office,70.0,68.0,70.0,15
+2020-03-16,Pennsylvania,Discount Stores,127.0,107.0,127.0,16
+2020-03-16,Pennsylvania,Government,57.0,51.0,58.0,17
+2020-03-16,Pennsylvania,School,23.0,29.0,23.0,18
+2020-03-16,Pennsylvania,Residences,76.0,72.0,77.0,19
+2020-03-16,Pennsylvania,Alcohol,228.0,180.0,230.0,20
+2020-03-16,Pennsylvania,Colleges & Universities,23.0,41.0,23.0,21
+2020-03-16,Pennsylvania,Travel & Transport,22.0,24.0,22.0,22
+2020-03-16,Pennsylvania,Banks,114.0,115.0,114.0,23
+2020-03-16,Pennsylvania,Fitness Center,40.0,33.0,40.0,24
+2020-03-16,Pennsylvania,Hotel,63.0,63.0,63.0,25
+2020-03-16,Pennsylvania,Sports,24.0,24.0,24.0,26
+2020-03-16,Pennsylvania,Airport,36.0,31.0,36.0,27
+2020-03-16,Pennsylvania,Bus,56.0,55.0,56.0,28
+2020-03-16,Pennsylvania,Metro Stations,75.0,68.0,75.0,29
+2020-03-16,Pennsylvania,Light Rail Stations,91.0,"",92.0,30
+2020-03-16,Pennsylvania,Spiritual Center,4.0,"",4.0,31
+2020-03-16,Pennsylvania,Skiing,23.0,"",23.0,32
+2020-03-16,Pennsylvania,Beach,79.0,"",80.0,33
+2020-03-17,Pennsylvania,Shops & Services,21.0,18.0,21.0,1
+2020-03-17,Pennsylvania,Food,27.0,23.0,27.0,2
+2020-03-17,Pennsylvania,Grocery,119.0,106.0,120.0,3
+2020-03-17,Pennsylvania,Gas Stations,86.0,79.0,86.0,4
+2020-03-17,Pennsylvania,Medical,37.0,31.0,38.0,5
+2020-03-17,Pennsylvania,Nightlife Spots,33.0,29.0,33.0,6
+2020-03-17,Pennsylvania,Outdoors & Recreation,31.0,29.0,31.0,7
+2020-03-17,Pennsylvania,Professional & Other Places,12.0,11.0,12.0,8
+2020-03-17,Pennsylvania,Big Box Stores,96.0,80.0,96.0,9
+2020-03-17,Pennsylvania,Fast Food Restaurants,71.0,63.0,71.0,10
+2020-03-17,Pennsylvania,Convenience Store,78.0,74.0,78.0,11
+2020-03-17,Pennsylvania,Drug Store,98.0,89.0,98.0,12
+2020-03-17,Pennsylvania,Office,53.0,50.0,53.0,13
+2020-03-17,Pennsylvania,Hardware Stores,101.0,78.0,103.0,14
+2020-03-17,Pennsylvania,Arts & Entertainment,34.0,33.0,35.0,15
+2020-03-17,Pennsylvania,School,17.0,21.0,17.0,16
+2020-03-17,Pennsylvania,Residences,69.0,69.0,69.0,17
+2020-03-17,Pennsylvania,Discount Stores,98.0,86.0,99.0,18
+2020-03-17,Pennsylvania,Government,40.0,36.0,40.0,19
+2020-03-17,Pennsylvania,Colleges & Universities,21.0,34.0,21.0,20
+2020-03-17,Pennsylvania,Travel & Transport,17.0,18.0,17.0,21
+2020-03-17,Pennsylvania,Alcohol,138.0,122.0,138.0,22
+2020-03-17,Pennsylvania,Hotel,52.0,50.0,52.0,23
+2020-03-17,Pennsylvania,Sports,21.0,22.0,21.0,24
+2020-03-17,Pennsylvania,Banks,76.0,72.0,76.0,25
+2020-03-17,Pennsylvania,Airport,34.0,28.0,34.0,26
+2020-03-17,Pennsylvania,Fitness Center,22.0,21.0,22.0,27
+2020-03-17,Pennsylvania,Bus,46.0,51.0,46.0,28
+2020-03-17,Pennsylvania,Metro Stations,53.0,51.0,53.0,29
+2020-03-17,Pennsylvania,Light Rail Stations,67.0,"",67.0,30
+2020-03-17,Pennsylvania,Spiritual Center,3.0,"",3.0,31
+2020-03-17,Pennsylvania,Skiing,30.0,"",29.0,32
+2020-03-17,Pennsylvania,Beach,78.0,"",78.0,33
+2020-03-18,Pennsylvania,Shops & Services,19.0,17.0,19.0,1
+2020-03-18,Pennsylvania,Food,25.0,21.0,25.0,2
+2020-03-18,Pennsylvania,Grocery,102.0,91.0,102.0,3
+2020-03-18,Pennsylvania,Gas Stations,79.0,73.0,79.0,4
+2020-03-18,Pennsylvania,Outdoors & Recreation,35.0,35.0,35.0,5
+2020-03-18,Pennsylvania,Medical,34.0,28.0,34.0,6
+2020-03-18,Pennsylvania,Nightlife Spots,28.0,27.0,28.0,7
+2020-03-18,Pennsylvania,Professional & Other Places,11.0,10.0,11.0,8
+2020-03-18,Pennsylvania,Big Box Stores,85.0,70.0,86.0,9
+2020-03-18,Pennsylvania,Fast Food Restaurants,66.0,60.0,67.0,10
+2020-03-18,Pennsylvania,Convenience Store,75.0,71.0,75.0,11
+2020-03-18,Pennsylvania,Drug Store,89.0,79.0,90.0,12
+2020-03-18,Pennsylvania,Office,51.0,55.0,51.0,13
+2020-03-18,Pennsylvania,Hardware Stores,96.0,79.0,97.0,14
+2020-03-18,Pennsylvania,School,17.0,22.0,17.0,15
+2020-03-18,Pennsylvania,Arts & Entertainment,32.0,33.0,32.0,16
+2020-03-18,Pennsylvania,Residences,70.0,68.0,70.0,17
+2020-03-18,Pennsylvania,Government,38.0,34.0,38.0,18
+2020-03-18,Pennsylvania,Discount Stores,87.0,75.0,88.0,19
+2020-03-18,Pennsylvania,Colleges & Universities,17.0,32.0,17.0,20
+2020-03-18,Pennsylvania,Travel & Transport,15.0,17.0,15.0,21
+2020-03-18,Pennsylvania,Sports,23.0,27.0,23.0,22
+2020-03-18,Pennsylvania,Hotel,48.0,47.0,48.0,23
+2020-03-18,Pennsylvania,Banks,70.0,67.0,70.0,24
+2020-03-18,Pennsylvania,Airport,30.0,24.0,30.0,25
+2020-03-18,Pennsylvania,Fitness Center,20.0,20.0,20.0,26
+2020-03-18,Pennsylvania,Alcohol,72.0,68.0,73.0,27
+2020-03-18,Pennsylvania,Bus,44.0,51.0,44.0,28
+2020-03-18,Pennsylvania,Metro Stations,45.0,43.0,45.0,29
+2020-03-18,Pennsylvania,Light Rail Stations,63.0,"",64.0,30
+2020-03-18,Pennsylvania,Spiritual Center,2.0,"",2.0,31
+2020-03-18,Pennsylvania,Skiing,28.0,"",28.0,32
+2020-03-18,Pennsylvania,Beach,100.0,"",100.0,33
+2020-03-19,Pennsylvania,Shops & Services,18.0,16.0,18.0,1
+2020-03-19,Pennsylvania,Food,24.0,20.0,24.0,2
+2020-03-19,Pennsylvania,Grocery,108.0,93.0,108.0,3
+2020-03-19,Pennsylvania,Gas Stations,78.0,72.0,78.0,4
+2020-03-19,Pennsylvania,Medical,32.0,27.0,32.0,5
+2020-03-19,Pennsylvania,Outdoors & Recreation,30.0,29.0,30.0,6
+2020-03-19,Pennsylvania,Nightlife Spots,27.0,27.0,27.0,7
+2020-03-19,Pennsylvania,Professional & Other Places,11.0,10.0,11.0,8
+2020-03-19,Pennsylvania,Big Box Stores,90.0,78.0,91.0,9
+2020-03-19,Pennsylvania,Fast Food Restaurants,61.0,54.0,62.0,10
+2020-03-19,Pennsylvania,Convenience Store,70.0,62.0,71.0,11
+2020-03-19,Pennsylvania,Drug Store,87.0,80.0,87.0,12
+2020-03-19,Pennsylvania,Hardware Stores,102.0,83.0,103.0,13
+2020-03-19,Pennsylvania,Office,49.0,54.0,49.0,14
+2020-03-19,Pennsylvania,School,15.0,18.0,15.0,15
+2020-03-19,Pennsylvania,Residences,64.0,63.0,65.0,16
+2020-03-19,Pennsylvania,Arts & Entertainment,32.0,34.0,32.0,17
+2020-03-19,Pennsylvania,Discount Stores,87.0,78.0,87.0,18
+2020-03-19,Pennsylvania,Government,36.0,33.0,36.0,19
+2020-03-19,Pennsylvania,Colleges & Universities,18.0,33.0,17.0,20
+2020-03-19,Pennsylvania,Travel & Transport,14.0,14.0,14.0,21
+2020-03-19,Pennsylvania,Sports,21.0,24.0,21.0,22
+2020-03-19,Pennsylvania,Hotel,43.0,43.0,43.0,23
+2020-03-19,Pennsylvania,Banks,69.0,59.0,69.0,24
+2020-03-19,Pennsylvania,Airport,24.0,19.0,24.0,25
+2020-03-19,Pennsylvania,Fitness Center,20.0,19.0,20.0,26
+2020-03-19,Pennsylvania,Alcohol,73.0,64.0,73.0,27
+2020-03-19,Pennsylvania,Bus,41.0,49.0,41.0,28
+2020-03-19,Pennsylvania,Metro Stations,48.0,41.0,48.0,29
+2020-03-19,Pennsylvania,Light Rail Stations,62.0,"",62.0,30
+2020-03-19,Pennsylvania,Beach,113.0,"",112.0,31
+2020-03-19,Pennsylvania,Spiritual Center,2.0,"",2.0,32
+2020-03-19,Pennsylvania,Skiing,27.0,"",27.0,33
+2020-03-20,Pennsylvania,Shops & Services,18.0,16.0,18.0,1
+2020-03-20,Pennsylvania,Food,23.0,19.0,23.0,2
+2020-03-20,Pennsylvania,Grocery,120.0,103.0,121.0,3
+2020-03-20,Pennsylvania,Gas Stations,78.0,74.0,78.0,4
+2020-03-20,Pennsylvania,Outdoors & Recreation,33.0,33.0,33.0,5
+2020-03-20,Pennsylvania,Nightlife Spots,25.0,25.0,25.0,6
+2020-03-20,Pennsylvania,Big Box Stores,98.0,85.0,99.0,7
+2020-03-20,Pennsylvania,Medical,33.0,28.0,34.0,8
+2020-03-20,Pennsylvania,Professional & Other Places,12.0,10.0,12.0,9
+2020-03-20,Pennsylvania,Fast Food Restaurants,64.0,60.0,64.0,10
+2020-03-20,Pennsylvania,Convenience Store,70.0,63.0,71.0,11
+2020-03-20,Pennsylvania,Drug Store,96.0,91.0,97.0,12
+2020-03-20,Pennsylvania,Hardware Stores,106.0,88.0,107.0,13
+2020-03-20,Pennsylvania,Arts & Entertainment,32.0,30.0,32.0,14
+2020-03-20,Pennsylvania,Discount Stores,90.0,76.0,90.0,15
+2020-03-20,Pennsylvania,School,18.0,23.0,18.0,16
+2020-03-20,Pennsylvania,Residences,66.0,62.0,66.0,17
+2020-03-20,Pennsylvania,Office,51.0,51.0,51.0,18
+2020-03-20,Pennsylvania,Government,37.0,33.0,37.0,19
+2020-03-20,Pennsylvania,Banks,73.0,70.0,73.0,20
+2020-03-20,Pennsylvania,Travel & Transport,14.0,15.0,14.0,21
+2020-03-20,Pennsylvania,Colleges & Universities,21.0,31.0,21.0,22
+2020-03-20,Pennsylvania,Sports,22.0,24.0,22.0,23
+2020-03-20,Pennsylvania,Hotel,40.0,39.0,40.0,24
+2020-03-20,Pennsylvania,Alcohol,69.0,62.0,69.0,25
+2020-03-20,Pennsylvania,Fitness Center,22.0,20.0,22.0,26
+2020-03-20,Pennsylvania,Airport,21.0,19.0,21.0,27
+2020-03-20,Pennsylvania,Bus,45.0,38.0,45.0,28
+2020-03-20,Pennsylvania,Metro Stations,48.0,41.0,49.0,29
+2020-03-20,Pennsylvania,Light Rail Stations,62.0,"",62.0,30
+2020-03-20,Pennsylvania,Spiritual Center,3.0,"",3.0,31
+2020-03-20,Pennsylvania,Beach,120.0,"",120.0,32
+2020-03-20,Pennsylvania,Skiing,14.0,"",14.0,33
+2020-03-21,Pennsylvania,Shops & Services,14.0,13.0,14.0,1
+2020-03-21,Pennsylvania,Food,16.0,14.0,17.0,2
+2020-03-21,Pennsylvania,Grocery,97.0,83.0,97.0,3
+2020-03-21,Pennsylvania,Outdoors & Recreation,30.0,30.0,30.0,4
+2020-03-21,Pennsylvania,Gas Stations,64.0,61.0,64.0,5
+2020-03-21,Pennsylvania,Big Box Stores,73.0,64.0,73.0,6
+2020-03-21,Pennsylvania,Nightlife Spots,17.0,18.0,17.0,7
+2020-03-21,Pennsylvania,Fast Food Restaurants,51.0,50.0,51.0,8
+2020-03-21,Pennsylvania,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-21,Pennsylvania,Hardware Stores,91.0,81.0,92.0,10
+2020-03-21,Pennsylvania,Convenience Store,58.0,56.0,59.0,11
+2020-03-21,Pennsylvania,Medical,32.0,26.0,32.0,12
+2020-03-21,Pennsylvania,Drug Store,81.0,73.0,82.0,13
+2020-03-21,Pennsylvania,Discount Stores,74.0,66.0,74.0,14
+2020-03-21,Pennsylvania,Arts & Entertainment,19.0,19.0,19.0,15
+2020-03-21,Pennsylvania,Residences,56.0,56.0,56.0,16
+2020-03-21,Pennsylvania,School,21.0,21.0,21.0,17
+2020-03-21,Pennsylvania,Government,33.0,32.0,33.0,18
+2020-03-21,Pennsylvania,Sports,17.0,18.0,17.0,19
+2020-03-21,Pennsylvania,Travel & Transport,12.0,12.0,12.0,20
+2020-03-21,Pennsylvania,Colleges & Universities,24.0,29.0,24.0,21
+2020-03-21,Pennsylvania,Hotel,25.0,28.0,25.0,22
+2020-03-21,Pennsylvania,Banks,57.0,55.0,57.0,23
+2020-03-21,Pennsylvania,Office,52.0,51.0,52.0,24
+2020-03-21,Pennsylvania,Alcohol,51.0,50.0,51.0,25
+2020-03-21,Pennsylvania,Airport,21.0,15.0,21.0,26
+2020-03-21,Pennsylvania,Fitness Center,17.0,15.0,17.0,27
+2020-03-21,Pennsylvania,Bus,39.0,37.0,39.0,28
+2020-03-21,Pennsylvania,Metro Stations,53.0,"",53.0,29
+2020-03-21,Pennsylvania,Light Rail Stations,55.0,"",55.0,30
+2020-03-21,Pennsylvania,Skiing,7.0,"",7.0,31
+2020-03-21,Pennsylvania,Beach,83.0,"",82.0,32
+2020-03-21,Pennsylvania,Spiritual Center,2.0,"",2.0,33
+2020-03-22,Pennsylvania,Food,16.0,13.0,16.0,1
+2020-03-22,Pennsylvania,Shops & Services,12.0,11.0,12.0,2
+2020-03-22,Pennsylvania,Grocery,73.0,69.0,73.0,3
+2020-03-22,Pennsylvania,Outdoors & Recreation,29.0,29.0,29.0,4
+2020-03-22,Pennsylvania,Gas Stations,61.0,60.0,61.0,5
+2020-03-22,Pennsylvania,Big Box Stores,65.0,61.0,65.0,6
+2020-03-22,Pennsylvania,Nightlife Spots,16.0,19.0,16.0,7
+2020-03-22,Pennsylvania,Fast Food Restaurants,52.0,52.0,52.0,8
+2020-03-22,Pennsylvania,Professional & Other Places,9.0,7.0,9.0,9
+2020-03-22,Pennsylvania,Hardware Stores,87.0,76.0,87.0,10
+2020-03-22,Pennsylvania,Convenience Store,55.0,48.0,55.0,11
+2020-03-22,Pennsylvania,Drug Store,77.0,67.0,77.0,12
+2020-03-22,Pennsylvania,Medical,30.0,25.0,30.0,13
+2020-03-22,Pennsylvania,Arts & Entertainment,19.0,19.0,19.0,14
+2020-03-22,Pennsylvania,Discount Stores,69.0,65.0,69.0,15
+2020-03-22,Pennsylvania,Residences,49.0,49.0,49.0,16
+2020-03-22,Pennsylvania,School,28.0,29.0,28.0,17
+2020-03-22,Pennsylvania,Sports,18.0,21.0,18.0,18
+2020-03-22,Pennsylvania,Government,32.0,25.0,32.0,19
+2020-03-22,Pennsylvania,Travel & Transport,12.0,11.0,12.0,20
+2020-03-22,Pennsylvania,Hotel,25.0,26.0,24.0,21
+2020-03-22,Pennsylvania,Colleges & Universities,24.0,34.0,24.0,22
+2020-03-22,Pennsylvania,Office,50.0,44.0,50.0,23
+2020-03-22,Pennsylvania,Airport,18.0,12.0,18.0,24
+2020-03-22,Pennsylvania,Alcohol,48.0,49.0,48.0,25
+2020-03-22,Pennsylvania,Fitness Center,17.0,16.0,17.0,26
+2020-03-22,Pennsylvania,Banks,53.0,55.0,53.0,27
+2020-03-22,Pennsylvania,Bus,35.0,28.0,35.0,28
+2020-03-22,Pennsylvania,Metro Stations,55.0,"",55.0,29
+2020-03-22,Pennsylvania,Light Rail Stations,51.0,"",51.0,30
+2020-03-22,Pennsylvania,Beach,95.0,"",95.0,31
+2020-03-22,Pennsylvania,Spiritual Center,1.0,"",1.0,32
+2020-03-22,Pennsylvania,Skiing,7.0,"",7.0,33
+2020-03-23,Pennsylvania,Shops & Services,16.0,14.0,16.0,1
+2020-03-23,Pennsylvania,Food,18.0,15.0,18.0,2
+2020-03-23,Pennsylvania,Grocery,87.0,75.0,87.0,3
+2020-03-23,Pennsylvania,Gas Stations,59.0,53.0,59.0,4
+2020-03-23,Pennsylvania,Medical,25.0,19.0,25.0,5
+2020-03-23,Pennsylvania,Nightlife Spots,20.0,19.0,20.0,6
+2020-03-23,Pennsylvania,Big Box Stores,74.0,59.0,75.0,7
+2020-03-23,Pennsylvania,Professional & Other Places,9.0,8.0,9.0,8
+2020-03-23,Pennsylvania,Outdoors & Recreation,18.0,17.0,18.0,9
+2020-03-23,Pennsylvania,Fast Food Restaurants,48.0,38.0,49.0,10
+2020-03-23,Pennsylvania,Convenience Store,51.0,42.0,51.0,11
+2020-03-23,Pennsylvania,Drug Store,74.0,59.0,75.0,12
+2020-03-23,Pennsylvania,Hardware Stores,76.0,56.0,77.0,13
+2020-03-23,Pennsylvania,Office,37.0,37.0,37.0,14
+2020-03-23,Pennsylvania,Residences,47.0,44.0,47.0,15
+2020-03-23,Pennsylvania,Discount Stores,66.0,56.0,67.0,16
+2020-03-23,Pennsylvania,School,13.0,15.0,13.0,17
+2020-03-23,Pennsylvania,Arts & Entertainment,22.0,22.0,22.0,18
+2020-03-23,Pennsylvania,Government,28.0,23.0,29.0,19
+2020-03-23,Pennsylvania,Travel & Transport,11.0,11.0,11.0,20
+2020-03-23,Pennsylvania,Banks,57.0,51.0,58.0,21
+2020-03-23,Pennsylvania,Colleges & Universities,10.0,19.0,10.0,22
+2020-03-23,Pennsylvania,Hotel,32.0,28.0,32.0,23
+2020-03-23,Pennsylvania,Sports,12.0,11.0,13.0,24
+2020-03-23,Pennsylvania,Fitness Center,14.0,11.0,14.0,25
+2020-03-23,Pennsylvania,Airport,14.0,11.0,14.0,26
+2020-03-23,Pennsylvania,Alcohol,55.0,45.0,55.0,27
+2020-03-23,Pennsylvania,Bus,30.0,29.0,30.0,28
+2020-03-23,Pennsylvania,Metro Stations,41.0,"",41.0,29
+2020-03-23,Pennsylvania,Light Rail Stations,47.0,"",47.0,30
+2020-03-24,Pennsylvania,Shops & Services,14.0,12.0,14.0,1
+2020-03-24,Pennsylvania,Food,19.0,16.0,19.0,2
+2020-03-24,Pennsylvania,Grocery,83.0,77.0,83.0,3
+2020-03-24,Pennsylvania,Gas Stations,61.0,53.0,61.0,4
+2020-03-24,Pennsylvania,Outdoors & Recreation,27.0,27.0,27.0,5
+2020-03-24,Pennsylvania,Nightlife Spots,23.0,22.0,23.0,6
+2020-03-24,Pennsylvania,Medical,23.0,18.0,23.0,7
+2020-03-24,Pennsylvania,Professional & Other Places,9.0,8.0,9.0,8
+2020-03-24,Pennsylvania,Big Box Stores,73.0,63.0,73.0,9
+2020-03-24,Pennsylvania,Fast Food Restaurants,52.0,50.0,52.0,10
+2020-03-24,Pennsylvania,Convenience Store,54.0,50.0,54.0,11
+2020-03-24,Pennsylvania,Drug Store,73.0,67.0,73.0,12
+2020-03-24,Pennsylvania,Hardware Stores,81.0,63.0,82.0,13
+2020-03-24,Pennsylvania,Residences,63.0,58.0,63.0,14
+2020-03-24,Pennsylvania,School,13.0,18.0,13.0,15
+2020-03-24,Pennsylvania,Office,36.0,36.0,36.0,16
+2020-03-24,Pennsylvania,Arts & Entertainment,25.0,25.0,25.0,17
+2020-03-24,Pennsylvania,Government,28.0,26.0,28.0,18
+2020-03-24,Pennsylvania,Discount Stores,64.0,56.0,65.0,19
+2020-03-24,Pennsylvania,Travel & Transport,12.0,12.0,12.0,20
+2020-03-24,Pennsylvania,Sports,16.0,17.0,16.0,21
+2020-03-24,Pennsylvania,Colleges & Universities,13.0,26.0,13.0,22
+2020-03-24,Pennsylvania,Hotel,33.0,33.0,33.0,23
+2020-03-24,Pennsylvania,Banks,52.0,52.0,52.0,24
+2020-03-24,Pennsylvania,Fitness Center,14.0,14.0,14.0,25
+2020-03-24,Pennsylvania,Airport,18.0,13.0,18.0,26
+2020-03-24,Pennsylvania,Alcohol,56.0,56.0,56.0,27
+2020-03-24,Pennsylvania,Bus,34.0,29.0,34.0,28
+2020-03-24,Pennsylvania,Metro Stations,40.0,36.0,41.0,29
+2020-03-24,Pennsylvania,Light Rail Stations,50.0,"",50.0,30
+2020-03-24,Pennsylvania,Spiritual Center,2.0,"",2.0,31
+2020-03-24,Pennsylvania,Beach,85.0,"",83.0,32
+2020-03-24,Pennsylvania,Skiing,25.0,"",25.0,33
+2020-03-25,Pennsylvania,Shops & Services,13.0,11.0,13.0,1
+2020-03-25,Pennsylvania,Food,18.0,14.0,18.0,2
+2020-03-25,Pennsylvania,Grocery,80.0,68.0,81.0,3
+2020-03-25,Pennsylvania,Gas Stations,57.0,49.0,57.0,4
+2020-03-25,Pennsylvania,Medical,23.0,18.0,23.0,5
+2020-03-25,Pennsylvania,Outdoors & Recreation,21.0,20.0,21.0,6
+2020-03-25,Pennsylvania,Nightlife Spots,21.0,19.0,21.0,7
+2020-03-25,Pennsylvania,Professional & Other Places,8.0,7.0,9.0,8
+2020-03-25,Pennsylvania,Big Box Stores,68.0,54.0,69.0,9
+2020-03-25,Pennsylvania,Fast Food Restaurants,51.0,42.0,51.0,10
+2020-03-25,Pennsylvania,Convenience Store,50.0,42.0,50.0,11
+2020-03-25,Pennsylvania,Drug Store,68.0,57.0,68.0,12
+2020-03-25,Pennsylvania,Hardware Stores,76.0,55.0,78.0,13
+2020-03-25,Pennsylvania,Office,34.0,35.0,34.0,14
+2020-03-25,Pennsylvania,Residences,55.0,51.0,56.0,15
+2020-03-25,Pennsylvania,School,11.0,13.0,11.0,16
+2020-03-25,Pennsylvania,Arts & Entertainment,21.0,21.0,21.0,17
+2020-03-25,Pennsylvania,Discount Stores,63.0,52.0,64.0,18
+2020-03-25,Pennsylvania,Government,26.0,22.0,26.0,19
+2020-03-25,Pennsylvania,Travel & Transport,11.0,11.0,11.0,20
+2020-03-25,Pennsylvania,Sports,14.0,14.0,14.0,21
+2020-03-25,Pennsylvania,Colleges & Universities,10.0,17.0,10.0,22
+2020-03-25,Pennsylvania,Banks,48.0,44.0,48.0,23
+2020-03-25,Pennsylvania,Hotel,29.0,26.0,29.0,24
+2020-03-25,Pennsylvania,Airport,17.0,12.0,17.0,25
+2020-03-25,Pennsylvania,Fitness Center,12.0,11.0,12.0,26
+2020-03-25,Pennsylvania,Alcohol,49.0,41.0,50.0,27
+2020-03-25,Pennsylvania,Bus,29.0,26.0,29.0,28
+2020-03-25,Pennsylvania,Metro Stations,36.0,28.0,36.0,29
+2020-03-25,Pennsylvania,Light Rail Stations,41.0,"",41.0,30
+2020-03-25,Pennsylvania,Beach,91.0,"",92.0,31
+2020-03-25,Pennsylvania,Spiritual Center,2.0,"",2.0,32
+2020-03-26,Pennsylvania,Shops & Services,15.0,13.0,15.0,1
+2020-03-26,Pennsylvania,Food,20.0,17.0,21.0,2
+2020-03-26,Pennsylvania,Grocery,83.0,72.0,83.0,3
+2020-03-26,Pennsylvania,Outdoors & Recreation,34.0,33.0,35.0,4
+2020-03-26,Pennsylvania,Gas Stations,64.0,60.0,64.0,5
+2020-03-26,Pennsylvania,Nightlife Spots,25.0,25.0,25.0,6
+2020-03-26,Pennsylvania,Medical,25.0,20.0,25.0,7
+2020-03-26,Pennsylvania,Professional & Other Places,9.0,9.0,10.0,8
+2020-03-26,Pennsylvania,Big Box Stores,72.0,63.0,72.0,9
+2020-03-26,Pennsylvania,Fast Food Restaurants,59.0,54.0,60.0,10
+2020-03-26,Pennsylvania,Convenience Store,56.0,48.0,56.0,11
+2020-03-26,Pennsylvania,Drug Store,73.0,64.0,73.0,12
+2020-03-26,Pennsylvania,Hardware Stores,93.0,72.0,94.0,13
+2020-03-26,Pennsylvania,School,15.0,19.0,15.0,14
+2020-03-26,Pennsylvania,Residences,72.0,69.0,72.0,15
+2020-03-26,Pennsylvania,Arts & Entertainment,30.0,32.0,30.0,16
+2020-03-26,Pennsylvania,Office,39.0,42.0,39.0,17
+2020-03-26,Pennsylvania,Government,32.0,29.0,32.0,18
+2020-03-26,Pennsylvania,Discount Stores,69.0,63.0,70.0,19
+2020-03-26,Pennsylvania,Travel & Transport,12.0,13.0,12.0,20
+2020-03-26,Pennsylvania,Sports,21.0,23.0,21.0,21
+2020-03-26,Pennsylvania,Colleges & Universities,13.0,26.0,12.0,22
+2020-03-26,Pennsylvania,Banks,58.0,50.0,58.0,23
+2020-03-26,Pennsylvania,Hotel,35.0,34.0,35.0,24
+2020-03-26,Pennsylvania,Fitness Center,16.0,15.0,16.0,25
+2020-03-26,Pennsylvania,Alcohol,58.0,48.0,59.0,26
+2020-03-26,Pennsylvania,Airport,15.0,13.0,16.0,27
+2020-03-26,Pennsylvania,Bus,37.0,37.0,37.0,28
+2020-03-26,Pennsylvania,Metro Stations,40.0,32.0,40.0,29
+2020-03-26,Pennsylvania,Light Rail Stations,53.0,"",53.0,30
+2020-03-26,Pennsylvania,Beach,119.0,"",119.0,31
+2020-03-26,Pennsylvania,Spiritual Center,2.0,"",2.0,32
+2020-03-27,Pennsylvania,Shops & Services,15.0,13.0,15.0,1
+2020-03-27,Pennsylvania,Food,20.0,17.0,20.0,2
+2020-03-27,Pennsylvania,Grocery,88.0,76.0,88.0,3
+2020-03-27,Pennsylvania,Gas Stations,63.0,59.0,63.0,4
+2020-03-27,Pennsylvania,Outdoors & Recreation,34.0,34.0,34.0,5
+2020-03-27,Pennsylvania,Nightlife Spots,24.0,23.0,24.0,6
+2020-03-27,Pennsylvania,Big Box Stores,74.0,66.0,75.0,7
+2020-03-27,Pennsylvania,Medical,26.0,21.0,26.0,8
+2020-03-27,Pennsylvania,Professional & Other Places,10.0,9.0,10.0,9
+2020-03-27,Pennsylvania,Fast Food Restaurants,59.0,54.0,60.0,10
+2020-03-27,Pennsylvania,Convenience Store,55.0,47.0,55.0,11
+2020-03-27,Pennsylvania,Hardware Stores,100.0,80.0,101.0,12
+2020-03-27,Pennsylvania,Drug Store,72.0,66.0,73.0,13
+2020-03-27,Pennsylvania,School,17.0,21.0,16.0,14
+2020-03-27,Pennsylvania,Arts & Entertainment,28.0,28.0,28.0,15
+2020-03-27,Pennsylvania,Residences,67.0,69.0,67.0,16
+2020-03-27,Pennsylvania,Discount Stores,70.0,64.0,70.0,17
+2020-03-27,Pennsylvania,Office,42.0,41.0,42.0,18
+2020-03-27,Pennsylvania,Government,32.0,29.0,32.0,19
+2020-03-27,Pennsylvania,Travel & Transport,12.0,12.0,12.0,20
+2020-03-27,Pennsylvania,Sports,19.0,20.0,19.0,21
+2020-03-27,Pennsylvania,Banks,55.0,51.0,55.0,22
+2020-03-27,Pennsylvania,Colleges & Universities,13.0,23.0,13.0,23
+2020-03-27,Pennsylvania,Hotel,31.0,28.0,31.0,24
+2020-03-27,Pennsylvania,Alcohol,59.0,57.0,59.0,25
+2020-03-27,Pennsylvania,Fitness Center,17.0,15.0,17.0,26
+2020-03-27,Pennsylvania,Airport,15.0,13.0,15.0,27
+2020-03-27,Pennsylvania,Bus,36.0,34.0,36.0,28
+2020-03-27,Pennsylvania,Metro Stations,40.0,35.0,40.0,29
+2020-03-27,Pennsylvania,Light Rail Stations,57.0,"",57.0,30
+2020-03-27,Pennsylvania,Beach,123.0,"",124.0,31
+2020-03-27,Pennsylvania,Spiritual Center,3.0,"",3.0,32
+2020-03-27,Pennsylvania,Skiing,13.0,"",13.0,33
+2020-03-28,Pennsylvania,Shops & Services,11.0,9.0,11.0,1
+2020-03-28,Pennsylvania,Food,13.0,11.0,13.0,2
+2020-03-28,Pennsylvania,Grocery,74.0,58.0,75.0,3
+2020-03-28,Pennsylvania,Gas Stations,50.0,41.0,51.0,4
+2020-03-28,Pennsylvania,Big Box Stores,59.0,48.0,59.0,5
+2020-03-28,Pennsylvania,Nightlife Spots,14.0,13.0,14.0,6
+2020-03-28,Pennsylvania,Outdoors & Recreation,18.0,17.0,18.0,7
+2020-03-28,Pennsylvania,Fast Food Restaurants,46.0,39.0,46.0,8
+2020-03-28,Pennsylvania,Professional & Other Places,8.0,7.0,8.0,9
+2020-03-28,Pennsylvania,Hardware Stores,72.0,57.0,73.0,10
+2020-03-28,Pennsylvania,Convenience Store,43.0,38.0,43.0,11
+2020-03-28,Pennsylvania,Medical,25.0,19.0,25.0,12
+2020-03-28,Pennsylvania,Drug Store,63.0,51.0,63.0,13
+2020-03-28,Pennsylvania,Discount Stores,55.0,45.0,55.0,14
+2020-03-28,Pennsylvania,Residences,46.0,42.0,46.0,15
+2020-03-28,Pennsylvania,Arts & Entertainment,13.0,13.0,13.0,16
+2020-03-28,Pennsylvania,School,15.0,14.0,15.0,17
+2020-03-28,Pennsylvania,Government,26.0,24.0,26.0,18
+2020-03-28,Pennsylvania,Travel & Transport,9.0,8.0,9.0,19
+2020-03-28,Pennsylvania,Sports,11.0,12.0,11.0,20
+2020-03-28,Pennsylvania,Office,42.0,36.0,42.0,21
+2020-03-28,Pennsylvania,Hotel,18.0,16.0,18.0,22
+2020-03-28,Pennsylvania,Banks,41.0,40.0,41.0,23
+2020-03-28,Pennsylvania,Alcohol,39.0,36.0,39.0,24
+2020-03-28,Pennsylvania,Colleges & Universities,17.0,19.0,17.0,25
+2020-03-28,Pennsylvania,Fitness Center,12.0,11.0,12.0,26
+2020-03-28,Pennsylvania,Airport,14.0,8.0,14.0,27
+2020-03-28,Pennsylvania,Bus,32.0,28.0,32.0,28
+2020-03-28,Pennsylvania,Metro Stations,39.0,"",39.0,29
+2020-03-28,Pennsylvania,Light Rail Stations,43.0,"",43.0,30
+2020-03-29,Pennsylvania,Food,13.0,11.0,13.0,1
+2020-03-29,Pennsylvania,Shops & Services,10.0,10.0,10.0,2
+2020-03-29,Pennsylvania,Grocery,61.0,56.0,61.0,3
+2020-03-29,Pennsylvania,Outdoors & Recreation,21.0,20.0,21.0,4
+2020-03-29,Pennsylvania,Gas Stations,49.0,43.0,49.0,5
+2020-03-29,Pennsylvania,Big Box Stores,53.0,51.0,53.0,6
+2020-03-29,Pennsylvania,Nightlife Spots,12.0,15.0,12.0,7
+2020-03-29,Pennsylvania,Fast Food Restaurants,47.0,45.0,47.0,8
+2020-03-29,Pennsylvania,Hardware Stores,74.0,63.0,74.0,9
+2020-03-29,Pennsylvania,Professional & Other Places,7.0,6.0,7.0,10
+2020-03-29,Pennsylvania,Convenience Store,40.0,37.0,40.0,11
+2020-03-29,Pennsylvania,Drug Store,62.0,54.0,62.0,12
+2020-03-29,Pennsylvania,Medical,23.0,19.0,23.0,13
+2020-03-29,Pennsylvania,Discount Stores,54.0,49.0,55.0,14
+2020-03-29,Pennsylvania,Arts & Entertainment,14.0,17.0,14.0,15
+2020-03-29,Pennsylvania,Residences,43.0,44.0,43.0,16
+2020-03-29,Pennsylvania,School,20.0,20.0,20.0,17
+2020-03-29,Pennsylvania,Government,26.0,22.0,27.0,18
+2020-03-29,Pennsylvania,Sports,13.0,16.0,13.0,19
+2020-03-29,Pennsylvania,Travel & Transport,10.0,8.0,10.0,20
+2020-03-29,Pennsylvania,Colleges & Universities,20.0,23.0,20.0,21
+2020-03-29,Pennsylvania,Hotel,17.0,16.0,17.0,22
+2020-03-29,Pennsylvania,Office,41.0,35.0,41.0,23
+2020-03-29,Pennsylvania,Alcohol,41.0,37.0,41.0,24
+2020-03-29,Pennsylvania,Banks,47.0,45.0,47.0,25
+2020-03-29,Pennsylvania,Fitness Center,12.0,11.0,13.0,26
+2020-03-29,Pennsylvania,Airport,11.0,10.0,11.0,27
+2020-03-29,Pennsylvania,Bus,28.0,26.0,29.0,28
+2020-03-29,Pennsylvania,Metro Stations,38.0,"",38.0,29
+2020-03-29,Pennsylvania,Beach,85.0,"",84.0,30
+2020-03-29,Pennsylvania,Light Rail Stations,40.0,"",40.0,31
+2020-03-30,Pennsylvania,Shops & Services,14.0,13.0,14.0,1
+2020-03-30,Pennsylvania,Food,18.0,16.0,18.0,2
+2020-03-30,Pennsylvania,Grocery,77.0,68.0,77.0,3
+2020-03-30,Pennsylvania,Gas Stations,57.0,53.0,57.0,4
+2020-03-30,Pennsylvania,Outdoors & Recreation,24.0,24.0,24.0,5
+2020-03-30,Pennsylvania,Medical,22.0,18.0,22.0,6
+2020-03-30,Pennsylvania,Nightlife Spots,21.0,23.0,21.0,7
+2020-03-30,Pennsylvania,Professional & Other Places,9.0,8.0,9.0,8
+2020-03-30,Pennsylvania,Big Box Stores,67.0,58.0,67.0,9
+2020-03-30,Pennsylvania,Fast Food Restaurants,53.0,47.0,54.0,10
+2020-03-30,Pennsylvania,Convenience Store,50.0,44.0,50.0,11
+2020-03-30,Pennsylvania,Hardware Stores,84.0,70.0,85.0,12
+2020-03-30,Pennsylvania,Drug Store,68.0,66.0,68.0,13
+2020-03-30,Pennsylvania,School,15.0,19.0,15.0,14
+2020-03-30,Pennsylvania,Residences,47.0,45.0,47.0,15
+2020-03-30,Pennsylvania,Office,36.0,38.0,36.0,16
+2020-03-30,Pennsylvania,Arts & Entertainment,25.0,27.0,25.0,17
+2020-03-30,Pennsylvania,Discount Stores,64.0,60.0,64.0,18
+2020-03-30,Pennsylvania,Government,30.0,27.0,30.0,19
+2020-03-30,Pennsylvania,Travel & Transport,11.0,11.0,11.0,20
+2020-03-30,Pennsylvania,Banks,57.0,53.0,57.0,21
+2020-03-30,Pennsylvania,Sports,14.0,15.0,14.0,22
+2020-03-30,Pennsylvania,Colleges & Universities,10.0,22.0,10.0,23
+2020-03-30,Pennsylvania,Hotel,29.0,29.0,29.0,24
+2020-03-30,Pennsylvania,Fitness Center,14.0,11.0,14.0,25
+2020-03-30,Pennsylvania,Alcohol,57.0,49.0,58.0,26
+2020-03-30,Pennsylvania,Airport,10.0,9.0,10.0,27
+2020-03-30,Pennsylvania,Bus,31.0,27.0,31.0,28
+2020-03-30,Pennsylvania,Metro Stations,40.0,31.0,41.0,29
+2020-03-30,Pennsylvania,Light Rail Stations,52.0,"",52.0,30
+2020-03-30,Pennsylvania,Spiritual Center,2.0,"",2.0,31
+2020-03-30,Pennsylvania,Beach,84.0,"",85.0,32
+2020-03-31,Pennsylvania,Shops & Services,13.0,12.0,13.0,1
+2020-03-31,Pennsylvania,Food,17.0,15.0,17.0,2
+2020-03-31,Pennsylvania,Grocery,74.0,68.0,74.0,3
+2020-03-31,Pennsylvania,Gas Stations,54.0,47.0,54.0,4
+2020-03-31,Pennsylvania,Outdoors & Recreation,21.0,22.0,21.0,5
+2020-03-31,Pennsylvania,Nightlife Spots,23.0,22.0,23.0,6
+2020-03-31,Pennsylvania,Medical,19.0,16.0,19.0,7
+2020-03-31,Pennsylvania,Professional & Other Places,8.0,8.0,8.0,8
+2020-03-31,Pennsylvania,Big Box Stores,66.0,55.0,66.0,9
+2020-03-31,Pennsylvania,Fast Food Restaurants,51.0,47.0,52.0,10
+2020-03-31,Pennsylvania,Convenience Store,48.0,42.0,48.0,11
+2020-03-31,Pennsylvania,Hardware Stores,77.0,61.0,78.0,12
+2020-03-31,Pennsylvania,Drug Store,61.0,53.0,62.0,13
+2020-03-31,Pennsylvania,Residences,52.0,50.0,52.0,14
+2020-03-31,Pennsylvania,School,11.0,13.0,11.0,15
+2020-03-31,Pennsylvania,Office,30.0,30.0,30.0,16
+2020-03-31,Pennsylvania,Arts & Entertainment,22.0,23.0,22.0,17
+2020-03-31,Pennsylvania,Discount Stores,60.0,56.0,60.0,18
+2020-03-31,Pennsylvania,Government,24.0,22.0,24.0,19
+2020-03-31,Pennsylvania,Travel & Transport,11.0,11.0,11.0,20
+2020-03-31,Pennsylvania,Banks,57.0,57.0,57.0,21
+2020-03-31,Pennsylvania,Sports,13.0,14.0,13.0,22
+2020-03-31,Pennsylvania,Colleges & Universities,10.0,20.0,10.0,23
+2020-03-31,Pennsylvania,Hotel,26.0,24.0,26.0,24
+2020-03-31,Pennsylvania,Fitness Center,11.0,10.0,11.0,25
+2020-03-31,Pennsylvania,Alcohol,50.0,45.0,50.0,26
+2020-03-31,Pennsylvania,Airport,14.0,10.0,14.0,27
+2020-03-31,Pennsylvania,Bus,28.0,28.0,28.0,28
+2020-03-31,Pennsylvania,Metro Stations,35.0,"",35.0,29
+2020-03-31,Pennsylvania,Light Rail Stations,35.0,"",35.0,30
+2020-04-01,Pennsylvania,Shops & Services,14.0,12.0,14.0,1
+2020-04-01,Pennsylvania,Food,18.0,15.0,18.0,2
+2020-04-01,Pennsylvania,Grocery,80.0,67.0,81.0,3
+2020-04-01,Pennsylvania,Gas Stations,57.0,49.0,57.0,4
+2020-04-01,Pennsylvania,Outdoors & Recreation,25.0,24.0,25.0,5
+2020-04-01,Pennsylvania,Nightlife Spots,19.0,20.0,19.0,6
+2020-04-01,Pennsylvania,Medical,21.0,16.0,21.0,7
+2020-04-01,Pennsylvania,Professional & Other Places,8.0,8.0,8.0,8
+2020-04-01,Pennsylvania,Big Box Stores,71.0,59.0,71.0,9
+2020-04-01,Pennsylvania,Fast Food Restaurants,55.0,49.0,55.0,10
+2020-04-01,Pennsylvania,Convenience Store,52.0,45.0,52.0,11
+2020-04-01,Pennsylvania,Drug Store,69.0,61.0,70.0,12
+2020-04-01,Pennsylvania,Hardware Stores,84.0,65.0,85.0,13
+2020-04-01,Pennsylvania,School,13.0,16.0,13.0,14
+2020-04-01,Pennsylvania,Residences,56.0,53.0,57.0,15
+2020-04-01,Pennsylvania,Discount Stores,69.0,55.0,70.0,16
+2020-04-01,Pennsylvania,Arts & Entertainment,29.0,30.0,29.0,17
+2020-04-01,Pennsylvania,Office,32.0,34.0,32.0,18
+2020-04-01,Pennsylvania,Government,26.0,24.0,26.0,19
+2020-04-01,Pennsylvania,Travel & Transport,11.0,12.0,11.0,20
+2020-04-01,Pennsylvania,Banks,65.0,64.0,65.0,21
+2020-04-01,Pennsylvania,Sports,14.0,16.0,14.0,22
+2020-04-01,Pennsylvania,Colleges & Universities,10.0,19.0,9.0,23
+2020-04-01,Pennsylvania,Hotel,27.0,25.0,27.0,24
+2020-04-01,Pennsylvania,Alcohol,57.0,46.0,58.0,25
+2020-04-01,Pennsylvania,Fitness Center,13.0,13.0,13.0,26
+2020-04-01,Pennsylvania,Airport,14.0,13.0,14.0,27
+2020-04-01,Pennsylvania,Bus,33.0,28.0,33.0,28
+2020-04-01,Pennsylvania,Metro Stations,39.0,32.0,39.0,29
+2020-04-01,Pennsylvania,Light Rail Stations,43.0,"",43.0,30
+2020-04-01,Pennsylvania,Beach,81.0,"",82.0,31
+2020-04-01,Pennsylvania,Spiritual Center,2.0,"",2.0,32

@@ -1,0 +1,1063 @@
+2020-03-01,California,Food,43.0,42.0,43.0,1
+2020-03-01,California,Shops & Services,31.0,28.0,31.0,2
+2020-03-01,California,Grocery,95.0,95.0,95.0,3
+2020-03-01,California,Outdoors & Recreation,38.0,37.0,38.0,4
+2020-03-01,California,Arts & Entertainment,55.0,54.0,55.0,5
+2020-03-01,California,Fast Food Restaurants,104.0,102.0,104.0,6
+2020-03-01,California,Nightlife Spots,42.0,42.0,42.0,7
+2020-03-01,California,Gas Stations,102.0,100.0,102.0,8
+2020-03-01,California,Big Box Stores,103.0,102.0,103.0,9
+2020-03-01,California,Professional & Other Places,19.0,16.0,19.0,10
+2020-03-01,California,Hotel,75.0,72.0,75.0,11
+2020-03-01,California,School,55.0,53.0,55.0,12
+2020-03-01,California,Airport,62.0,64.0,62.0,13
+2020-03-01,California,Convenience Store,99.0,96.0,99.0,14
+2020-03-01,California,Residences,82.0,74.0,83.0,15
+2020-03-01,California,Fitness Center,68.0,67.0,68.0,16
+2020-03-01,California,Medical,55.0,54.0,55.0,17
+2020-03-01,California,Drug Store,102.0,103.0,102.0,18
+2020-03-01,California,Hardware Stores,108.0,103.0,109.0,19
+2020-03-01,California,Colleges & Universities,62.0,65.0,62.0,20
+2020-03-01,California,Travel & Transport,20.0,24.0,20.0,21
+2020-03-01,California,Sports,31.0,36.0,30.0,22
+2020-03-01,California,Discount Stores,100.0,97.0,100.0,23
+2020-03-01,California,Office,79.0,75.0,79.0,24
+2020-03-01,California,Banks,102.0,92.0,103.0,25
+2020-03-01,California,Government,65.0,60.0,65.0,26
+2020-03-01,California,Beach,73.0,63.0,74.0,27
+2020-03-01,California,Alcohol,93.0,90.0,93.0,28
+2020-03-01,California,Bus,74.0,75.0,74.0,29
+2020-03-01,California,Skiing,62.0,58.0,63.0,30
+2020-03-01,California,Light Rail Stations,93.0,97.0,93.0,31
+2020-03-01,California,Metro Stations,85.0,99.0,84.0,32
+2020-03-01,California,Spiritual Center,4.0,2.0,4.0,33
+2020-03-01,California,Events,87.0,"",91.0,34
+2020-03-02,California,Food,42.0,43.0,42.0,1
+2020-03-02,California,Shops & Services,31.0,30.0,31.0,2
+2020-03-02,California,Grocery,107.0,106.0,107.0,3
+2020-03-02,California,Outdoors & Recreation,38.0,37.0,38.0,4
+2020-03-02,California,School,65.0,63.0,65.0,5
+2020-03-02,California,Medical,59.0,59.0,59.0,6
+2020-03-02,California,Fast Food Restaurants,108.0,106.0,108.0,7
+2020-03-02,California,Gas Stations,103.0,105.0,103.0,8
+2020-03-02,California,Professional & Other Places,17.0,18.0,17.0,9
+2020-03-02,California,Arts & Entertainment,52.0,54.0,52.0,10
+2020-03-02,California,Colleges & Universities,62.0,61.0,62.0,11
+2020-03-02,California,Office,89.0,88.0,89.0,12
+2020-03-02,California,Big Box Stores,111.0,111.0,111.0,13
+2020-03-02,California,Airport,59.0,60.0,59.0,14
+2020-03-02,California,Nightlife Spots,42.0,45.0,42.0,15
+2020-03-02,California,Hotel,72.0,73.0,72.0,16
+2020-03-02,California,Fitness Center,73.0,74.0,72.0,17
+2020-03-02,California,Convenience Store,101.0,101.0,101.0,18
+2020-03-02,California,Residences,85.0,82.0,85.0,19
+2020-03-02,California,Government,83.0,82.0,83.0,20
+2020-03-02,California,Drug Store,106.0,108.0,106.0,21
+2020-03-02,California,Travel & Transport,19.0,20.0,19.0,22
+2020-03-02,California,Hardware Stores,100.0,99.0,101.0,23
+2020-03-02,California,Banks,125.0,132.0,124.0,24
+2020-03-02,California,Sports,26.0,32.0,26.0,25
+2020-03-02,California,Discount Stores,106.0,107.0,106.0,26
+2020-03-02,California,Alcohol,103.0,114.0,102.0,27
+2020-03-02,California,Beach,73.0,79.0,73.0,28
+2020-03-02,California,Bus,79.0,77.0,79.0,29
+2020-03-02,California,Light Rail Stations,108.0,100.0,108.0,30
+2020-03-02,California,Metro Stations,97.0,96.0,97.0,31
+2020-03-02,California,Skiing,63.0,70.0,62.0,32
+2020-03-02,California,Spiritual Center,5.0,5.0,5.0,33
+2020-03-03,California,Food,42.0,43.0,42.0,1
+2020-03-03,California,Shops & Services,31.0,30.0,31.0,2
+2020-03-03,California,Outdoors & Recreation,40.0,39.0,40.0,3
+2020-03-03,California,Grocery,105.0,105.0,105.0,4
+2020-03-03,California,School,58.0,59.0,58.0,5
+2020-03-03,California,Medical,55.0,54.0,55.0,6
+2020-03-03,California,Professional & Other Places,16.0,17.0,16.0,7
+2020-03-03,California,Gas Stations,102.0,101.0,102.0,8
+2020-03-03,California,Fast Food Restaurants,103.0,102.0,103.0,9
+2020-03-03,California,Colleges & Universities,54.0,55.0,54.0,10
+2020-03-03,California,Office,79.0,78.0,79.0,11
+2020-03-03,California,Arts & Entertainment,53.0,54.0,53.0,12
+2020-03-03,California,Fitness Center,70.0,69.0,70.0,13
+2020-03-03,California,Nightlife Spots,45.0,45.0,45.0,14
+2020-03-03,California,Big Box Stores,107.0,101.0,107.0,15
+2020-03-03,California,Hotel,75.0,70.0,75.0,16
+2020-03-03,California,Airport,56.0,57.0,56.0,17
+2020-03-03,California,Convenience Store,101.0,99.0,101.0,18
+2020-03-03,California,Government,73.0,70.0,73.0,19
+2020-03-03,California,Drug Store,106.0,107.0,106.0,20
+2020-03-03,California,Residences,103.0,98.0,103.0,21
+2020-03-03,California,Banks,126.0,124.0,126.0,22
+2020-03-03,California,Travel & Transport,19.0,19.0,19.0,23
+2020-03-03,California,Hardware Stores,102.0,97.0,102.0,24
+2020-03-03,California,Sports,25.0,35.0,24.0,25
+2020-03-03,California,Discount Stores,102.0,98.0,102.0,26
+2020-03-03,California,Alcohol,103.0,102.0,103.0,27
+2020-03-03,California,Beach,91.0,82.0,92.0,28
+2020-03-03,California,Bus,75.0,73.0,75.0,29
+2020-03-03,California,Light Rail Stations,101.0,112.0,101.0,30
+2020-03-03,California,Metro Stations,94.0,94.0,94.0,31
+2020-03-03,California,Skiing,61.0,72.0,60.0,32
+2020-03-03,California,Spiritual Center,5.0,5.0,5.0,33
+2020-03-04,California,Food,42.0,41.0,42.0,1
+2020-03-04,California,Shops & Services,30.0,29.0,30.0,2
+2020-03-04,California,Outdoors & Recreation,38.0,37.0,38.0,3
+2020-03-04,California,Grocery,103.0,98.0,103.0,4
+2020-03-04,California,School,56.0,56.0,56.0,5
+2020-03-04,California,Medical,54.0,52.0,54.0,6
+2020-03-04,California,Professional & Other Places,15.0,15.0,15.0,7
+2020-03-04,California,Fast Food Restaurants,102.0,100.0,102.0,8
+2020-03-04,California,Gas Stations,100.0,97.0,100.0,9
+2020-03-04,California,Colleges & Universities,51.0,53.0,51.0,10
+2020-03-04,California,Office,77.0,79.0,77.0,11
+2020-03-04,California,Arts & Entertainment,47.0,47.0,47.0,12
+2020-03-04,California,Fitness Center,69.0,65.0,69.0,13
+2020-03-04,California,Nightlife Spots,44.0,42.0,44.0,14
+2020-03-04,California,Hotel,73.0,71.0,73.0,15
+2020-03-04,California,Big Box Stores,103.0,101.0,104.0,16
+2020-03-04,California,Convenience Store,99.0,95.0,99.0,17
+2020-03-04,California,Airport,55.0,56.0,55.0,18
+2020-03-04,California,Government,75.0,72.0,75.0,19
+2020-03-04,California,Residences,102.0,97.0,102.0,20
+2020-03-04,California,Drug Store,102.0,97.0,102.0,21
+2020-03-04,California,Travel & Transport,19.0,20.0,19.0,22
+2020-03-04,California,Hardware Stores,101.0,98.0,102.0,23
+2020-03-04,California,Banks,108.0,101.0,109.0,24
+2020-03-04,California,Sports,26.0,34.0,25.0,25
+2020-03-04,California,Discount Stores,100.0,96.0,100.0,26
+2020-03-04,California,Alcohol,102.0,100.0,102.0,27
+2020-03-04,California,Beach,91.0,82.0,92.0,28
+2020-03-04,California,Bus,76.0,71.0,76.0,29
+2020-03-04,California,Light Rail Stations,100.0,106.0,100.0,30
+2020-03-04,California,Metro Stations,91.0,100.0,90.0,31
+2020-03-04,California,Spiritual Center,5.0,4.0,5.0,32
+2020-03-04,California,Skiing,59.0,53.0,59.0,33
+2020-03-05,California,Food,41.0,41.0,41.0,1
+2020-03-05,California,Shops & Services,30.0,29.0,30.0,2
+2020-03-05,California,Outdoors & Recreation,38.0,37.0,38.0,3
+2020-03-05,California,Grocery,104.0,98.0,104.0,4
+2020-03-05,California,School,54.0,54.0,54.0,5
+2020-03-05,California,Medical,55.0,53.0,55.0,6
+2020-03-05,California,Gas Stations,100.0,97.0,100.0,7
+2020-03-05,California,Professional & Other Places,15.0,15.0,15.0,8
+2020-03-05,California,Fast Food Restaurants,100.0,97.0,100.0,9
+2020-03-05,California,Colleges & Universities,53.0,55.0,53.0,10
+2020-03-05,California,Office,77.0,82.0,77.0,11
+2020-03-05,California,Arts & Entertainment,46.0,48.0,46.0,12
+2020-03-05,California,Nightlife Spots,43.0,44.0,42.0,13
+2020-03-05,California,Fitness Center,68.0,65.0,68.0,14
+2020-03-05,California,Big Box Stores,101.0,97.0,101.0,15
+2020-03-05,California,Hotel,70.0,66.0,70.0,16
+2020-03-05,California,Airport,55.0,57.0,55.0,17
+2020-03-05,California,Convenience Store,99.0,98.0,99.0,18
+2020-03-05,California,Government,71.0,68.0,71.0,19
+2020-03-05,California,Residences,99.0,95.0,99.0,20
+2020-03-05,California,Drug Store,100.0,102.0,100.0,21
+2020-03-05,California,Travel & Transport,22.0,24.0,22.0,22
+2020-03-05,California,Hardware Stores,103.0,99.0,103.0,23
+2020-03-05,California,Banks,114.0,111.0,114.0,24
+2020-03-05,California,Sports,26.0,34.0,25.0,25
+2020-03-05,California,Discount Stores,96.0,95.0,96.0,26
+2020-03-05,California,Alcohol,98.0,98.0,98.0,27
+2020-03-05,California,Beach,87.0,79.0,87.0,28
+2020-03-05,California,Bus,76.0,80.0,76.0,29
+2020-03-05,California,Light Rail Stations,99.0,107.0,99.0,30
+2020-03-05,California,Metro Stations,91.0,106.0,91.0,31
+2020-03-05,California,Spiritual Center,5.0,4.0,5.0,32
+2020-03-05,California,Skiing,54.0,42.0,55.0,33
+2020-03-06,California,Food,41.0,40.0,41.0,1
+2020-03-06,California,Shops & Services,30.0,28.0,30.0,2
+2020-03-06,California,Outdoors & Recreation,39.0,36.0,39.0,3
+2020-03-06,California,Grocery,100.0,99.0,101.0,4
+2020-03-06,California,School,55.0,54.0,56.0,5
+2020-03-06,California,Medical,55.0,54.0,55.0,6
+2020-03-06,California,Fast Food Restaurants,99.0,98.0,99.0,7
+2020-03-06,California,Gas Stations,98.0,96.0,99.0,8
+2020-03-06,California,Professional & Other Places,15.0,16.0,15.0,9
+2020-03-06,California,Arts & Entertainment,45.0,45.0,45.0,10
+2020-03-06,California,Nightlife Spots,43.0,40.0,43.0,11
+2020-03-06,California,Colleges & Universities,51.0,50.0,51.0,12
+2020-03-06,California,Office,75.0,77.0,75.0,13
+2020-03-06,California,Big Box Stores,98.0,100.0,98.0,14
+2020-03-06,California,Fitness Center,68.0,63.0,68.0,15
+2020-03-06,California,Hotel,70.0,63.0,71.0,16
+2020-03-06,California,Airport,54.0,52.0,54.0,17
+2020-03-06,California,Convenience Store,97.0,95.0,97.0,18
+2020-03-06,California,Residences,99.0,94.0,99.0,19
+2020-03-06,California,Drug Store,95.0,96.0,95.0,20
+2020-03-06,California,Government,70.0,65.0,70.0,21
+2020-03-06,California,Travel & Transport,21.0,23.0,21.0,22
+2020-03-06,California,Banks,103.0,104.0,103.0,23
+2020-03-06,California,Hardware Stores,105.0,100.0,105.0,24
+2020-03-06,California,Sports,26.0,33.0,26.0,25
+2020-03-06,California,Discount Stores,93.0,95.0,93.0,26
+2020-03-06,California,Alcohol,99.0,92.0,99.0,27
+2020-03-06,California,Beach,79.0,63.0,80.0,28
+2020-03-06,California,Bus,73.0,70.0,74.0,29
+2020-03-06,California,Light Rail Stations,95.0,94.0,95.0,30
+2020-03-06,California,Metro Stations,88.0,88.0,88.0,31
+2020-03-06,California,Skiing,54.0,52.0,54.0,32
+2020-03-06,California,Spiritual Center,6.0,5.0,6.0,33
+2020-03-06,California,Gun Shops,135.0,"",137.0,34
+2020-03-07,California,Food,39.0,39.0,39.0,1
+2020-03-07,California,Shops & Services,30.0,28.0,30.0,2
+2020-03-07,California,Outdoors & Recreation,36.0,35.0,37.0,3
+2020-03-07,California,Grocery,100.0,96.0,100.0,4
+2020-03-07,California,Arts & Entertainment,45.0,45.0,45.0,5
+2020-03-07,California,Fast Food Restaurants,97.0,92.0,97.0,6
+2020-03-07,California,Gas Stations,94.0,89.0,94.0,7
+2020-03-07,California,Nightlife Spots,42.0,40.0,42.0,8
+2020-03-07,California,Professional & Other Places,19.0,20.0,19.0,9
+2020-03-07,California,School,54.0,53.0,54.0,10
+2020-03-07,California,Big Box Stores,102.0,96.0,102.0,11
+2020-03-07,California,Hotel,69.0,65.0,69.0,12
+2020-03-07,California,Medical,53.0,50.0,53.0,13
+2020-03-07,California,Fitness Center,67.0,64.0,67.0,14
+2020-03-07,California,Convenience Store,94.0,88.0,94.0,15
+2020-03-07,California,Airport,52.0,47.0,52.0,16
+2020-03-07,California,Drug Store,99.0,96.0,100.0,17
+2020-03-07,California,Residences,95.0,88.0,95.0,18
+2020-03-07,California,Colleges & Universities,56.0,53.0,56.0,19
+2020-03-07,California,Hardware Stores,100.0,94.0,101.0,20
+2020-03-07,California,Sports,29.0,36.0,29.0,21
+2020-03-07,California,Travel & Transport,19.0,21.0,19.0,22
+2020-03-07,California,Banks,86.0,79.0,86.0,23
+2020-03-07,California,Office,75.0,78.0,75.0,24
+2020-03-07,California,Discount Stores,101.0,99.0,101.0,25
+2020-03-07,California,Government,68.0,65.0,68.0,26
+2020-03-07,California,Alcohol,97.0,87.0,97.0,27
+2020-03-07,California,Beach,74.0,68.0,74.0,28
+2020-03-07,California,Bus,72.0,66.0,72.0,29
+2020-03-07,California,Skiing,52.0,49.0,52.0,30
+2020-03-07,California,Light Rail Stations,91.0,103.0,91.0,31
+2020-03-07,California,Metro Stations,82.0,63.0,82.0,32
+2020-03-07,California,Spiritual Center,5.0,5.0,5.0,33
+2020-03-07,California,Events,95.0,105.0,93.0,34
+2020-03-07,California,Gun Shops,114.0,"",115.0,35
+2020-03-08,California,Food,41.0,41.0,41.0,1
+2020-03-08,California,Shops & Services,30.0,27.0,30.0,2
+2020-03-08,California,Grocery,97.0,96.0,97.0,3
+2020-03-08,California,Outdoors & Recreation,41.0,39.0,41.0,4
+2020-03-08,California,Arts & Entertainment,46.0,45.0,46.0,5
+2020-03-08,California,Nightlife Spots,41.0,40.0,41.0,6
+2020-03-08,California,Fast Food Restaurants,98.0,95.0,98.0,7
+2020-03-08,California,Gas Stations,97.0,94.0,97.0,8
+2020-03-08,California,Big Box Stores,103.0,99.0,103.0,9
+2020-03-08,California,Professional & Other Places,19.0,17.0,19.0,10
+2020-03-08,California,Hotel,71.0,67.0,72.0,11
+2020-03-08,California,School,55.0,55.0,55.0,12
+2020-03-08,California,Airport,55.0,51.0,55.0,13
+2020-03-08,California,Convenience Store,96.0,94.0,96.0,14
+2020-03-08,California,Residences,96.0,92.0,96.0,15
+2020-03-08,California,Drug Store,102.0,99.0,102.0,16
+2020-03-08,California,Fitness Center,66.0,65.0,66.0,17
+2020-03-08,California,Medical,54.0,51.0,54.0,18
+2020-03-08,California,Hardware Stores,109.0,105.0,109.0,19
+2020-03-08,California,Colleges & Universities,59.0,61.0,59.0,20
+2020-03-08,California,Sports,31.0,38.0,31.0,21
+2020-03-08,California,Travel & Transport,19.0,21.0,19.0,22
+2020-03-08,California,Discount Stores,104.0,99.0,105.0,23
+2020-03-08,California,Office,81.0,82.0,81.0,24
+2020-03-08,California,Beach,89.0,86.0,89.0,25
+2020-03-08,California,Government,66.0,64.0,66.0,26
+2020-03-08,California,Banks,84.0,79.0,84.0,27
+2020-03-08,California,Alcohol,92.0,85.0,92.0,28
+2020-03-08,California,Bus,74.0,66.0,75.0,29
+2020-03-08,California,Skiing,68.0,56.0,69.0,30
+2020-03-08,California,Light Rail Stations,91.0,77.0,92.0,31
+2020-03-08,California,Metro Stations,81.0,71.0,81.0,32
+2020-03-08,California,Spiritual Center,3.0,2.0,3.0,33
+2020-03-08,California,Events,117.0,"",123.0,34
+2020-03-09,California,Food,41.0,42.0,41.0,1
+2020-03-09,California,Shops & Services,30.0,30.0,30.0,2
+2020-03-09,California,Grocery,109.0,110.0,109.0,3
+2020-03-09,California,Outdoors & Recreation,41.0,38.0,41.0,4
+2020-03-09,California,School,66.0,64.0,66.0,5
+2020-03-09,California,Medical,60.0,57.0,60.0,6
+2020-03-09,California,Gas Stations,101.0,98.0,101.0,7
+2020-03-09,California,Fast Food Restaurants,102.0,98.0,102.0,8
+2020-03-09,California,Arts & Entertainment,46.0,49.0,46.0,9
+2020-03-09,California,Professional & Other Places,17.0,18.0,17.0,10
+2020-03-09,California,Colleges & Universities,60.0,62.0,59.0,11
+2020-03-09,California,Office,81.0,83.0,81.0,12
+2020-03-09,California,Big Box Stores,108.0,110.0,108.0,13
+2020-03-09,California,Nightlife Spots,42.0,44.0,41.0,14
+2020-03-09,California,Hotel,69.0,67.0,69.0,15
+2020-03-09,California,Airport,49.0,53.0,49.0,16
+2020-03-09,California,Fitness Center,71.0,65.0,71.0,17
+2020-03-09,California,Convenience Store,100.0,96.0,100.0,18
+2020-03-09,California,Residences,98.0,96.0,98.0,19
+2020-03-09,California,Government,81.0,78.0,82.0,20
+2020-03-09,California,Drug Store,107.0,111.0,106.0,21
+2020-03-09,California,Travel & Transport,20.0,23.0,20.0,22
+2020-03-09,California,Hardware Stores,105.0,100.0,105.0,23
+2020-03-09,California,Banks,117.0,119.0,117.0,24
+2020-03-09,California,Sports,28.0,34.0,27.0,25
+2020-03-09,California,Discount Stores,107.0,109.0,107.0,26
+2020-03-09,California,Beach,86.0,81.0,86.0,27
+2020-03-09,California,Alcohol,101.0,100.0,101.0,28
+2020-03-09,California,Bus,78.0,68.0,79.0,29
+2020-03-09,California,Light Rail Stations,103.0,77.0,104.0,30
+2020-03-09,California,Metro Stations,84.0,86.0,84.0,31
+2020-03-09,California,Skiing,43.0,35.0,43.0,32
+2020-03-09,California,Spiritual Center,5.0,5.0,5.0,33
+2020-03-10,California,Food,39.0,37.0,39.0,1
+2020-03-10,California,Shops & Services,28.0,26.0,28.0,2
+2020-03-10,California,Grocery,105.0,98.0,106.0,3
+2020-03-10,California,Outdoors & Recreation,34.0,30.0,35.0,4
+2020-03-10,California,School,53.0,49.0,53.0,5
+2020-03-10,California,Medical,52.0,48.0,52.0,6
+2020-03-10,California,Gas Stations,92.0,87.0,93.0,7
+2020-03-10,California,Professional & Other Places,14.0,13.0,14.0,8
+2020-03-10,California,Fast Food Restaurants,95.0,87.0,96.0,9
+2020-03-10,California,Colleges & Universities,49.0,49.0,49.0,10
+2020-03-10,California,Arts & Entertainment,43.0,39.0,43.0,11
+2020-03-10,California,Office,63.0,68.0,63.0,12
+2020-03-10,California,Fitness Center,64.0,56.0,64.0,13
+2020-03-10,California,Big Box Stores,103.0,96.0,104.0,14
+2020-03-10,California,Nightlife Spots,41.0,38.0,41.0,15
+2020-03-10,California,Hotel,66.0,59.0,67.0,16
+2020-03-10,California,Convenience Store,92.0,83.0,93.0,17
+2020-03-10,California,Airport,47.0,47.0,47.0,18
+2020-03-10,California,Drug Store,100.0,94.0,100.0,19
+2020-03-10,California,Government,66.0,59.0,66.0,20
+2020-03-10,California,Residences,90.0,82.0,90.0,21
+2020-03-10,California,Hardware Stores,96.0,83.0,97.0,22
+2020-03-10,California,Travel & Transport,20.0,20.0,20.0,23
+2020-03-10,California,Banks,94.0,91.0,94.0,24
+2020-03-10,California,Sports,21.0,26.0,21.0,25
+2020-03-10,California,Discount Stores,99.0,95.0,99.0,26
+2020-03-10,California,Alcohol,94.0,85.0,94.0,27
+2020-03-10,California,Beach,68.0,54.0,69.0,28
+2020-03-10,California,Bus,64.0,53.0,65.0,29
+2020-03-10,California,Light Rail Stations,90.0,83.0,90.0,30
+2020-03-10,California,Metro Stations,73.0,64.0,73.0,31
+2020-03-10,California,Spiritual Center,5.0,4.0,5.0,32
+2020-03-10,California,Skiing,50.0,48.0,50.0,33
+2020-03-11,California,Food,39.0,37.0,39.0,1
+2020-03-11,California,Shops & Services,28.0,27.0,29.0,2
+2020-03-11,California,Grocery,105.0,102.0,105.0,3
+2020-03-11,California,Outdoors & Recreation,35.0,33.0,36.0,4
+2020-03-11,California,School,50.0,48.0,50.0,5
+2020-03-11,California,Medical,52.0,48.0,52.0,6
+2020-03-11,California,Professional & Other Places,13.0,14.0,13.0,7
+2020-03-11,California,Gas Stations,93.0,90.0,93.0,8
+2020-03-11,California,Fast Food Restaurants,93.0,89.0,93.0,9
+2020-03-11,California,Arts & Entertainment,47.0,40.0,47.0,10
+2020-03-11,California,Colleges & Universities,45.0,50.0,45.0,11
+2020-03-11,California,Office,62.0,68.0,61.0,12
+2020-03-11,California,Fitness Center,63.0,59.0,63.0,13
+2020-03-11,California,Nightlife Spots,41.0,39.0,41.0,14
+2020-03-11,California,Big Box Stores,103.0,100.0,103.0,15
+2020-03-11,California,Hotel,65.0,61.0,65.0,16
+2020-03-11,California,Convenience Store,92.0,86.0,92.0,17
+2020-03-11,California,Drug Store,102.0,97.0,102.0,18
+2020-03-11,California,Residences,95.0,88.0,95.0,19
+2020-03-11,California,Airport,48.0,44.0,48.0,20
+2020-03-11,California,Government,66.0,62.0,66.0,21
+2020-03-11,California,Hardware Stores,99.0,92.0,99.0,22
+2020-03-11,California,Travel & Transport,19.0,19.0,19.0,23
+2020-03-11,California,Banks,91.0,90.0,92.0,24
+2020-03-11,California,Sports,22.0,28.0,21.0,25
+2020-03-11,California,Discount Stores,100.0,92.0,100.0,26
+2020-03-11,California,Alcohol,92.0,89.0,93.0,27
+2020-03-11,California,Beach,84.0,72.0,85.0,28
+2020-03-11,California,Bus,67.0,62.0,67.0,29
+2020-03-11,California,Light Rail Stations,91.0,76.0,91.0,30
+2020-03-11,California,Metro Stations,71.0,84.0,71.0,31
+2020-03-11,California,Spiritual Center,5.0,5.0,5.0,32
+2020-03-11,California,Skiing,47.0,39.0,47.0,33
+2020-03-12,California,Food,38.0,34.0,38.0,1
+2020-03-12,California,Shops & Services,28.0,26.0,28.0,2
+2020-03-12,California,Grocery,116.0,105.0,117.0,3
+2020-03-12,California,Outdoors & Recreation,34.0,30.0,35.0,4
+2020-03-12,California,School,52.0,48.0,52.0,5
+2020-03-12,California,Medical,50.0,46.0,50.0,6
+2020-03-12,California,Fast Food Restaurants,94.0,87.0,94.0,7
+2020-03-12,California,Gas Stations,93.0,87.0,94.0,8
+2020-03-12,California,Professional & Other Places,13.0,13.0,13.0,9
+2020-03-12,California,Arts & Entertainment,49.0,40.0,49.0,10
+2020-03-12,California,Colleges & Universities,39.0,43.0,39.0,11
+2020-03-12,California,Big Box Stores,107.0,98.0,107.0,12
+2020-03-12,California,Office,58.0,63.0,58.0,13
+2020-03-12,California,Nightlife Spots,40.0,37.0,40.0,14
+2020-03-12,California,Fitness Center,58.0,52.0,58.0,15
+2020-03-12,California,Hotel,64.0,52.0,64.0,16
+2020-03-12,California,Drug Store,106.0,99.0,106.0,17
+2020-03-12,California,Convenience Store,91.0,81.0,91.0,18
+2020-03-12,California,Airport,45.0,38.0,46.0,19
+2020-03-12,California,Residences,78.0,66.0,79.0,20
+2020-03-12,California,Government,63.0,56.0,64.0,21
+2020-03-12,California,Hardware Stores,97.0,82.0,98.0,22
+2020-03-12,California,Travel & Transport,18.0,18.0,18.0,23
+2020-03-12,California,Banks,91.0,87.0,91.0,24
+2020-03-12,California,Sports,21.0,24.0,21.0,25
+2020-03-12,California,Discount Stores,97.0,87.0,97.0,26
+2020-03-12,California,Alcohol,94.0,87.0,94.0,27
+2020-03-12,California,Beach,75.0,59.0,77.0,28
+2020-03-12,California,Bus,65.0,63.0,65.0,29
+2020-03-12,California,Light Rail Stations,84.0,69.0,84.0,30
+2020-03-12,California,Metro Stations,67.0,82.0,67.0,31
+2020-03-12,California,Spiritual Center,5.0,4.0,5.0,32
+2020-03-12,California,Skiing,51.0,32.0,52.0,33
+2020-03-13,California,Food,37.0,34.0,37.0,1
+2020-03-13,California,Shops & Services,29.0,26.0,29.0,2
+2020-03-13,California,Grocery,146.0,130.0,147.0,3
+2020-03-13,California,Outdoors & Recreation,32.0,28.0,32.0,4
+2020-03-13,California,School,48.0,44.0,48.0,5
+2020-03-13,California,Gas Stations,96.0,89.0,97.0,6
+2020-03-13,California,Fast Food Restaurants,95.0,89.0,95.0,7
+2020-03-13,California,Medical,51.0,47.0,51.0,8
+2020-03-13,California,Professional & Other Places,13.0,13.0,13.0,9
+2020-03-13,California,Big Box Stores,126.0,113.0,127.0,10
+2020-03-13,California,Arts & Entertainment,40.0,35.0,40.0,11
+2020-03-13,California,Nightlife Spots,37.0,35.0,37.0,12
+2020-03-13,California,Drug Store,121.0,113.0,121.0,13
+2020-03-13,California,Office,58.0,63.0,58.0,14
+2020-03-13,California,Fitness Center,56.0,51.0,56.0,15
+2020-03-13,California,Colleges & Universities,37.0,39.0,37.0,16
+2020-03-13,California,Hotel,60.0,52.0,60.0,17
+2020-03-13,California,Convenience Store,94.0,90.0,94.0,18
+2020-03-13,California,Airport,43.0,42.0,43.0,19
+2020-03-13,California,Residences,89.0,78.0,90.0,20
+2020-03-13,California,Hardware Stores,114.0,92.0,116.0,21
+2020-03-13,California,Government,63.0,56.0,63.0,22
+2020-03-13,California,Banks,98.0,89.0,98.0,23
+2020-03-13,California,Discount Stores,119.0,105.0,119.0,24
+2020-03-13,California,Travel & Transport,16.0,17.0,16.0,25
+2020-03-13,California,Sports,19.0,23.0,19.0,26
+2020-03-13,California,Alcohol,98.0,93.0,98.0,27
+2020-03-13,California,Beach,66.0,55.0,66.0,28
+2020-03-13,California,Bus,60.0,54.0,60.0,29
+2020-03-13,California,Light Rail Stations,75.0,66.0,75.0,30
+2020-03-13,California,Metro Stations,59.0,74.0,59.0,31
+2020-03-13,California,Skiing,54.0,37.0,54.0,32
+2020-03-13,California,Spiritual Center,5.0,4.0,5.0,33
+2020-03-13,California,Gun Shops,131.0,"",132.0,34
+2020-03-14,California,Food,33.0,31.0,34.0,1
+2020-03-14,California,Shops & Services,27.0,23.0,27.0,2
+2020-03-14,California,Grocery,147.0,126.0,148.0,3
+2020-03-14,California,Outdoors & Recreation,27.0,25.0,27.0,4
+2020-03-14,California,Gas Stations,89.0,82.0,90.0,5
+2020-03-14,California,Fast Food Restaurants,85.0,73.0,85.0,6
+2020-03-14,California,Big Box Stores,125.0,104.0,126.0,7
+2020-03-14,California,Nightlife Spots,32.0,29.0,33.0,8
+2020-03-14,California,Arts & Entertainment,24.0,23.0,24.0,9
+2020-03-14,California,Professional & Other Places,14.0,14.0,14.0,10
+2020-03-14,California,Drug Store,127.0,112.0,127.0,11
+2020-03-14,California,School,35.0,32.0,35.0,12
+2020-03-14,California,Medical,45.0,38.0,45.0,13
+2020-03-14,California,Hotel,51.0,46.0,51.0,14
+2020-03-14,California,Convenience Store,88.0,80.0,88.0,15
+2020-03-14,California,Fitness Center,51.0,48.0,51.0,16
+2020-03-14,California,Hardware Stores,109.0,90.0,110.0,17
+2020-03-14,California,Residences,83.0,73.0,84.0,18
+2020-03-14,California,Airport,43.0,36.0,43.0,19
+2020-03-14,California,Discount Stores,135.0,119.0,136.0,20
+2020-03-14,California,Banks,74.0,69.0,74.0,21
+2020-03-14,California,Travel & Transport,13.0,13.0,13.0,22
+2020-03-14,California,Colleges & Universities,29.0,26.0,29.0,23
+2020-03-14,California,Office,57.0,52.0,57.0,24
+2020-03-14,California,Sports,17.0,22.0,17.0,25
+2020-03-14,California,Government,52.0,44.0,52.0,26
+2020-03-14,California,Alcohol,97.0,87.0,97.0,27
+2020-03-14,California,Beach,55.0,52.0,55.0,28
+2020-03-14,California,Bus,57.0,50.0,57.0,29
+2020-03-14,California,Skiing,39.0,27.0,40.0,30
+2020-03-14,California,Light Rail Stations,63.0,46.0,64.0,31
+2020-03-14,California,Metro Stations,46.0,39.0,46.0,32
+2020-03-14,California,Spiritual Center,4.0,2.0,4.0,33
+2020-03-14,California,Gun Shops,125.0,"",128.0,34
+2020-03-15,California,Food,30.0,28.0,30.0,1
+2020-03-15,California,Shops & Services,22.0,19.0,22.0,2
+2020-03-15,California,Grocery,109.0,104.0,109.0,3
+2020-03-15,California,Outdoors & Recreation,30.0,27.0,30.0,4
+2020-03-15,California,Gas Stations,81.0,75.0,82.0,5
+2020-03-15,California,Big Box Stores,100.0,91.0,100.0,6
+2020-03-15,California,Fast Food Restaurants,79.0,70.0,79.0,7
+2020-03-15,California,Nightlife Spots,29.0,27.0,29.0,8
+2020-03-15,California,Arts & Entertainment,21.0,22.0,21.0,9
+2020-03-15,California,Drug Store,114.0,106.0,114.0,10
+2020-03-15,California,Professional & Other Places,12.0,10.0,12.0,11
+2020-03-15,California,School,38.0,34.0,38.0,12
+2020-03-15,California,Hotel,44.0,42.0,44.0,13
+2020-03-15,California,Convenience Store,86.0,80.0,86.0,14
+2020-03-15,California,Residences,77.0,67.0,77.0,15
+2020-03-15,California,Airport,41.0,35.0,41.0,16
+2020-03-15,California,Hardware Stores,103.0,86.0,104.0,17
+2020-03-15,California,Medical,43.0,37.0,43.0,18
+2020-03-15,California,Fitness Center,50.0,46.0,50.0,19
+2020-03-15,California,Discount Stores,115.0,100.0,116.0,20
+2020-03-15,California,Travel & Transport,14.0,15.0,14.0,21
+2020-03-15,California,Sports,19.0,23.0,19.0,22
+2020-03-15,California,Colleges & Universities,31.0,25.0,31.0,23
+2020-03-15,California,Office,60.0,51.0,60.0,24
+2020-03-15,California,Government,50.0,45.0,50.0,25
+2020-03-15,California,Beach,66.0,60.0,66.0,26
+2020-03-15,California,Alcohol,89.0,79.0,89.0,27
+2020-03-15,California,Banks,67.0,65.0,67.0,28
+2020-03-15,California,Bus,57.0,55.0,57.0,29
+2020-03-15,California,Light Rail Stations,64.0,48.0,65.0,30
+2020-03-15,California,Metro Stations,45.0,"",46.0,31
+2020-03-15,California,Spiritual Center,2.0,1.0,2.0,32
+2020-03-15,California,Skiing,18.0,19.0,18.0,33
+2020-03-16,California,Food,32.0,29.0,32.0,1
+2020-03-16,California,Shops & Services,26.0,23.0,26.0,2
+2020-03-16,California,Grocery,140.0,133.0,141.0,3
+2020-03-16,California,Outdoors & Recreation,31.0,27.0,31.0,4
+2020-03-16,California,Medical,50.0,41.0,50.0,5
+2020-03-16,California,Gas Stations,93.0,85.0,93.0,6
+2020-03-16,California,Fast Food Restaurants,87.0,73.0,87.0,7
+2020-03-16,California,Professional & Other Places,13.0,12.0,13.0,8
+2020-03-16,California,Big Box Stores,115.0,102.0,116.0,9
+2020-03-16,California,School,33.0,33.0,33.0,10
+2020-03-16,California,Drug Store,128.0,113.0,129.0,11
+2020-03-16,California,Office,59.0,67.0,59.0,12
+2020-03-16,California,Nightlife Spots,33.0,32.0,33.0,13
+2020-03-16,California,Convenience Store,92.0,85.0,93.0,14
+2020-03-16,California,Arts & Entertainment,21.0,25.0,21.0,15
+2020-03-16,California,Airport,35.0,35.0,35.0,16
+2020-03-16,California,Residences,86.0,72.0,87.0,17
+2020-03-16,California,Hotel,45.0,43.0,45.0,18
+2020-03-16,California,Fitness Center,48.0,41.0,49.0,19
+2020-03-16,California,Government,67.0,58.0,68.0,20
+2020-03-16,California,Hardware Stores,103.0,79.0,104.0,21
+2020-03-16,California,Colleges & Universities,26.0,34.0,26.0,22
+2020-03-16,California,Banks,112.0,106.0,113.0,23
+2020-03-16,California,Travel & Transport,14.0,14.0,14.0,24
+2020-03-16,California,Discount Stores,120.0,104.0,120.0,25
+2020-03-16,California,Sports,19.0,22.0,19.0,26
+2020-03-16,California,Alcohol,106.0,104.0,106.0,27
+2020-03-16,California,Beach,67.0,57.0,68.0,28
+2020-03-16,California,Bus,59.0,51.0,59.0,29
+2020-03-16,California,Light Rail Stations,76.0,63.0,77.0,30
+2020-03-16,California,Metro Stations,53.0,53.0,53.0,31
+2020-03-16,California,Spiritual Center,4.0,4.0,4.0,32
+2020-03-16,California,Skiing,21.0,17.0,21.0,33
+2020-03-17,California,Shops & Services,23.0,19.0,23.0,1
+2020-03-17,California,Food,27.0,24.0,28.0,2
+2020-03-17,California,Grocery,125.0,111.0,126.0,3
+2020-03-17,California,Outdoors & Recreation,28.0,25.0,28.0,4
+2020-03-17,California,Gas Stations,82.0,71.0,82.0,5
+2020-03-17,California,Medical,37.0,30.0,38.0,6
+2020-03-17,California,Fast Food Restaurants,75.0,63.0,76.0,7
+2020-03-17,California,Professional & Other Places,10.0,10.0,10.0,8
+2020-03-17,California,Big Box Stores,107.0,85.0,107.0,9
+2020-03-17,California,School,23.0,25.0,23.0,10
+2020-03-17,California,Drug Store,109.0,93.0,110.0,11
+2020-03-17,California,Office,40.0,44.0,40.0,12
+2020-03-17,California,Nightlife Spots,30.0,29.0,30.0,13
+2020-03-17,California,Convenience Store,80.0,69.0,80.0,14
+2020-03-17,California,Residences,81.0,73.0,82.0,15
+2020-03-17,California,Arts & Entertainment,23.0,23.0,23.0,16
+2020-03-17,California,Airport,36.0,33.0,36.0,17
+2020-03-17,California,Hardware Stores,98.0,73.0,100.0,18
+2020-03-17,California,Hotel,39.0,36.0,39.0,19
+2020-03-17,California,Government,47.0,38.0,47.0,20
+2020-03-17,California,Fitness Center,30.0,26.0,30.0,21
+2020-03-17,California,Colleges & Universities,16.0,23.0,16.0,22
+2020-03-17,California,Banks,77.0,70.0,77.0,23
+2020-03-17,California,Travel & Transport,15.0,15.0,15.0,24
+2020-03-17,California,Discount Stores,101.0,85.0,102.0,25
+2020-03-17,California,Sports,16.0,21.0,16.0,26
+2020-03-17,California,Alcohol,96.0,83.0,97.0,27
+2020-03-17,California,Beach,79.0,72.0,80.0,28
+2020-03-17,California,Bus,43.0,40.0,43.0,29
+2020-03-17,California,Light Rail Stations,57.0,48.0,57.0,30
+2020-03-17,California,Metro Stations,35.0,52.0,34.0,31
+2020-03-17,California,Spiritual Center,4.0,3.0,4.0,32
+2020-03-17,California,Skiing,18.0,"",18.0,33
+2020-03-18,California,Food,24.0,20.0,24.0,1
+2020-03-18,California,Shops & Services,20.0,17.0,21.0,2
+2020-03-18,California,Grocery,112.0,97.0,113.0,3
+2020-03-18,California,Outdoors & Recreation,29.0,25.0,29.0,4
+2020-03-18,California,Medical,34.0,27.0,35.0,5
+2020-03-18,California,Gas Stations,75.0,67.0,75.0,6
+2020-03-18,California,Fast Food Restaurants,68.0,57.0,69.0,7
+2020-03-18,California,Professional & Other Places,10.0,9.0,10.0,8
+2020-03-18,California,Big Box Stores,97.0,80.0,98.0,9
+2020-03-18,California,School,20.0,23.0,20.0,10
+2020-03-18,California,Drug Store,99.0,81.0,100.0,11
+2020-03-18,California,Office,36.0,41.0,36.0,12
+2020-03-18,California,Convenience Store,76.0,62.0,77.0,13
+2020-03-18,California,Nightlife Spots,26.0,24.0,26.0,13
+2020-03-18,California,Residences,77.0,62.0,78.0,14
+2020-03-18,California,Hardware Stores,96.0,69.0,98.0,15
+2020-03-18,California,Arts & Entertainment,18.0,17.0,18.0,16
+2020-03-18,California,Hotel,35.0,31.0,35.0,17
+2020-03-18,California,Government,43.0,37.0,43.0,18
+2020-03-18,California,Colleges & Universities,14.0,20.0,14.0,19
+2020-03-18,California,Airport,30.0,24.0,30.0,20
+2020-03-18,California,Fitness Center,23.0,20.0,23.0,21
+2020-03-18,California,Banks,72.0,67.0,72.0,22
+2020-03-18,California,Travel & Transport,12.0,12.0,12.0,23
+2020-03-18,California,Discount Stores,91.0,71.0,92.0,24
+2020-03-18,California,Sports,15.0,16.0,15.0,25
+2020-03-18,California,Alcohol,87.0,73.0,87.0,26
+2020-03-18,California,Beach,78.0,61.0,80.0,27
+2020-03-18,California,Bus,39.0,34.0,39.0,28
+2020-03-18,California,Light Rail Stations,51.0,38.0,52.0,29
+2020-03-18,California,Metro Stations,29.0,45.0,29.0,30
+2020-03-18,California,Spiritual Center,4.0,3.0,4.0,31
+2020-03-18,California,Skiing,19.0,18.0,19.0,32
+2020-03-18,California,Gun Shops,129.0,"",131.0,33
+2020-03-19,California,Food,22.0,19.0,22.0,1
+2020-03-19,California,Shops & Services,18.0,16.0,19.0,2
+2020-03-19,California,Grocery,103.0,92.0,104.0,3
+2020-03-19,California,Outdoors & Recreation,29.0,25.0,29.0,4
+2020-03-19,California,Gas Stations,70.0,59.0,70.0,5
+2020-03-19,California,Medical,33.0,26.0,33.0,6
+2020-03-19,California,Fast Food Restaurants,63.0,54.0,63.0,7
+2020-03-19,California,Professional & Other Places,9.0,8.0,9.0,8
+2020-03-19,California,Big Box Stores,89.0,75.0,90.0,9
+2020-03-19,California,School,19.0,21.0,19.0,10
+2020-03-19,California,Drug Store,88.0,77.0,88.0,11
+2020-03-19,California,Office,35.0,40.0,35.0,12
+2020-03-19,California,Convenience Store,70.0,62.0,70.0,13
+2020-03-19,California,Nightlife Spots,22.0,22.0,22.0,14
+2020-03-19,California,Residences,75.0,66.0,75.0,15
+2020-03-19,California,Hardware Stores,93.0,69.0,95.0,16
+2020-03-19,California,Arts & Entertainment,19.0,19.0,19.0,17
+2020-03-19,California,Hotel,31.0,28.0,32.0,18
+2020-03-19,California,Government,39.0,36.0,40.0,19
+2020-03-19,California,Colleges & Universities,14.0,20.0,13.0,20
+2020-03-19,California,Airport,24.0,21.0,24.0,21
+2020-03-19,California,Fitness Center,21.0,20.0,21.0,22
+2020-03-19,California,Banks,69.0,63.0,70.0,23
+2020-03-19,California,Travel & Transport,11.0,11.0,11.0,24
+2020-03-19,California,Discount Stores,77.0,65.0,78.0,25
+2020-03-19,California,Sports,15.0,18.0,15.0,26
+2020-03-19,California,Beach,76.0,62.0,77.0,27
+2020-03-19,California,Alcohol,77.0,69.0,77.0,28
+2020-03-19,California,Bus,38.0,35.0,38.0,29
+2020-03-19,California,Light Rail Stations,46.0,43.0,46.0,30
+2020-03-19,California,Metro Stations,27.0,35.0,27.0,31
+2020-03-19,California,Spiritual Center,3.0,2.0,3.0,32
+2020-03-19,California,Skiing,17.0,"",17.0,33
+2020-03-19,California,Gun Shops,126.0,"",128.0,34
+2020-03-20,California,Food,20.0,17.0,20.0,1
+2020-03-20,California,Shops & Services,17.0,14.0,17.0,2
+2020-03-20,California,Grocery,105.0,88.0,105.0,3
+2020-03-20,California,Outdoors & Recreation,29.0,26.0,29.0,4
+2020-03-20,California,Gas Stations,69.0,62.0,70.0,5
+2020-03-20,California,Fast Food Restaurants,63.0,53.0,63.0,6
+2020-03-20,California,Medical,32.0,26.0,33.0,7
+2020-03-20,California,Professional & Other Places,9.0,9.0,9.0,8
+2020-03-20,California,Big Box Stores,90.0,74.0,90.0,9
+2020-03-20,California,School,20.0,22.0,20.0,10
+2020-03-20,California,Drug Store,89.0,76.0,90.0,11
+2020-03-20,California,Convenience Store,70.0,60.0,70.0,12
+2020-03-20,California,Residences,73.0,64.0,74.0,13
+2020-03-20,California,Nightlife Spots,20.0,21.0,20.0,14
+2020-03-20,California,Office,35.0,40.0,35.0,15
+2020-03-20,California,Hardware Stores,93.0,69.0,95.0,16
+2020-03-20,California,Arts & Entertainment,14.0,15.0,14.0,17
+2020-03-20,California,Hotel,29.0,27.0,29.0,18
+2020-03-20,California,Banks,70.0,61.0,70.0,19
+2020-03-20,California,Government,38.0,31.0,38.0,20
+2020-03-20,California,Colleges & Universities,16.0,20.0,15.0,21
+2020-03-20,California,Airport,19.0,19.0,19.0,22
+2020-03-20,California,Discount Stores,77.0,61.0,78.0,23
+2020-03-20,California,Travel & Transport,11.0,12.0,11.0,24
+2020-03-20,California,Fitness Center,21.0,18.0,21.0,25
+2020-03-20,California,Sports,15.0,17.0,15.0,26
+2020-03-20,California,Alcohol,78.0,68.0,79.0,27
+2020-03-20,California,Beach,71.0,66.0,71.0,28
+2020-03-20,California,Bus,35.0,29.0,35.0,29
+2020-03-20,California,Light Rail Stations,44.0,39.0,44.0,30
+2020-03-20,California,Metro Stations,24.0,29.0,24.0,31
+2020-03-20,California,Spiritual Center,3.0,3.0,4.0,32
+2020-03-20,California,Skiing,12.0,"",12.0,33
+2020-03-21,California,Food,16.0,15.0,16.0,1
+2020-03-21,California,Shops & Services,12.0,11.0,12.0,2
+2020-03-21,California,Grocery,81.0,69.0,82.0,3
+2020-03-21,California,Outdoors & Recreation,27.0,26.0,27.0,4
+2020-03-21,California,Gas Stations,56.0,50.0,56.0,5
+2020-03-21,California,Fast Food Restaurants,51.0,44.0,52.0,6
+2020-03-21,California,Big Box Stores,75.0,59.0,75.0,7
+2020-03-21,California,Professional & Other Places,9.0,8.0,9.0,8
+2020-03-21,California,School,26.0,27.0,26.0,9
+2020-03-21,California,Drug Store,76.0,64.0,76.0,10
+2020-03-21,California,Medical,29.0,25.0,29.0,11
+2020-03-21,California,Hardware Stores,83.0,64.0,84.0,12
+2020-03-21,California,Convenience Store,59.0,52.0,59.0,13
+2020-03-21,California,Residences,63.0,58.0,63.0,14
+2020-03-21,California,Nightlife Spots,13.0,16.0,13.0,15
+2020-03-21,California,Arts & Entertainment,10.0,12.0,10.0,16
+2020-03-21,California,Hotel,22.0,21.0,22.0,17
+2020-03-21,California,Discount Stores,67.0,59.0,67.0,18
+2020-03-21,California,Airport,19.0,13.0,19.0,19
+2020-03-21,California,Banks,45.0,41.0,46.0,20
+2020-03-21,California,Sports,13.0,16.0,13.0,21
+2020-03-21,California,Travel & Transport,9.0,9.0,9.0,22
+2020-03-21,California,Office,39.0,37.0,39.0,23
+2020-03-21,California,Fitness Center,18.0,18.0,18.0,24
+2020-03-21,California,Beach,77.0,73.0,77.0,25
+2020-03-21,California,Colleges & Universities,20.0,20.0,20.0,26
+2020-03-21,California,Government,36.0,33.0,36.0,27
+2020-03-21,California,Alcohol,61.0,49.0,62.0,28
+2020-03-21,California,Bus,33.0,29.0,33.0,29
+2020-03-21,California,Light Rail Stations,40.0,31.0,40.0,30
+2020-03-21,California,Spiritual Center,3.0,3.0,3.0,31
+2020-03-21,California,Metro Stations,24.0,"",24.0,32
+2020-03-21,California,Skiing,7.0,"",7.0,33
+2020-03-22,California,Food,15.0,14.0,15.0,1
+2020-03-22,California,Shops & Services,11.0,10.0,11.0,2
+2020-03-22,California,Grocery,68.0,60.0,69.0,3
+2020-03-22,California,Outdoors & Recreation,27.0,26.0,27.0,4
+2020-03-22,California,Big Box Stores,67.0,56.0,67.0,5
+2020-03-22,California,Fast Food Restaurants,53.0,46.0,53.0,6
+2020-03-22,California,Gas Stations,53.0,48.0,53.0,7
+2020-03-22,California,School,30.0,30.0,30.0,8
+2020-03-22,California,Professional & Other Places,8.0,7.0,8.0,9
+2020-03-22,California,Hardware Stores,86.0,69.0,87.0,10
+2020-03-22,California,Drug Store,68.0,62.0,69.0,11
+2020-03-22,California,Convenience Store,57.0,51.0,58.0,12
+2020-03-22,California,Residences,58.0,57.0,58.0,13
+2020-03-22,California,Nightlife Spots,11.0,14.0,11.0,14
+2020-03-22,California,Medical,31.0,25.0,31.0,15
+2020-03-22,California,Arts & Entertainment,7.0,9.0,7.0,16
+2020-03-22,California,Hotel,20.0,20.0,20.0,17
+2020-03-22,California,Discount Stores,63.0,57.0,63.0,18
+2020-03-22,California,Airport,18.0,16.0,18.0,19
+2020-03-22,California,Sports,15.0,19.0,15.0,20
+2020-03-22,California,Beach,70.0,66.0,70.0,21
+2020-03-22,California,Travel & Transport,10.0,11.0,10.0,22
+2020-03-22,California,Colleges & Universities,23.0,25.0,23.0,23
+2020-03-22,California,Fitness Center,19.0,17.0,19.0,24
+2020-03-22,California,Office,43.0,40.0,43.0,25
+2020-03-22,California,Government,37.0,36.0,37.0,26
+2020-03-22,California,Banks,49.0,48.0,49.0,27
+2020-03-22,California,Alcohol,54.0,50.0,54.0,28
+2020-03-22,California,Bus,33.0,26.0,33.0,29
+2020-03-22,California,Light Rail Stations,44.0,36.0,44.0,30
+2020-03-22,California,Spiritual Center,1.0,"",1.0,31
+2020-03-22,California,Metro Stations,25.0,"",25.0,32
+2020-03-22,California,Skiing,6.0,"",6.0,33
+2020-03-23,California,Food,18.0,16.0,18.0,1
+2020-03-23,California,Shops & Services,14.0,13.0,14.0,2
+2020-03-23,California,Grocery,78.0,74.0,78.0,3
+2020-03-23,California,Outdoors & Recreation,25.0,24.0,25.0,4
+2020-03-23,California,Medical,32.0,25.0,33.0,5
+2020-03-23,California,Gas Stations,58.0,50.0,58.0,6
+2020-03-23,California,Fast Food Restaurants,58.0,51.0,58.0,7
+2020-03-23,California,Professional & Other Places,10.0,9.0,10.0,8
+2020-03-23,California,School,24.0,27.0,24.0,9
+2020-03-23,California,Big Box Stores,72.0,63.0,72.0,10
+2020-03-23,California,Convenience Store,63.0,58.0,64.0,11
+2020-03-23,California,Office,35.0,39.0,35.0,12
+2020-03-23,California,Drug Store,76.0,70.0,76.0,13
+2020-03-23,California,Residences,66.0,61.0,66.0,14
+2020-03-23,California,Hardware Stores,81.0,60.0,83.0,15
+2020-03-23,California,Nightlife Spots,18.0,20.0,18.0,16
+2020-03-23,California,Arts & Entertainment,12.0,15.0,11.0,17
+2020-03-23,California,Government,41.0,36.0,41.0,18
+2020-03-23,California,Hotel,25.0,25.0,25.0,19
+2020-03-23,California,Banks,64.0,62.0,64.0,20
+2020-03-23,California,Colleges & Universities,13.0,21.0,13.0,21
+2020-03-23,California,Airport,15.0,13.0,15.0,22
+2020-03-23,California,Fitness Center,21.0,18.0,21.0,23
+2020-03-23,California,Travel & Transport,9.0,9.0,9.0,24
+2020-03-23,California,Discount Stores,68.0,60.0,68.0,25
+2020-03-23,California,Sports,14.0,15.0,14.0,26
+2020-03-23,California,Beach,52.0,58.0,52.0,27
+2020-03-23,California,Alcohol,68.0,66.0,68.0,28
+2020-03-23,California,Bus,38.0,37.0,38.0,29
+2020-03-23,California,Light Rail Stations,47.0,52.0,46.0,30
+2020-03-23,California,Metro Stations,26.0,"",26.0,31
+2020-03-23,California,Spiritual Center,3.0,3.0,3.0,32
+2020-03-23,California,Skiing,9.0,"",9.0,33
+2020-03-24,California,Food,18.0,16.0,18.0,1
+2020-03-24,California,Shops & Services,14.0,12.0,14.0,2
+2020-03-24,California,Grocery,74.0,71.0,74.0,3
+2020-03-24,California,Outdoors & Recreation,25.0,22.0,25.0,4
+2020-03-24,California,Gas Stations,57.0,48.0,57.0,5
+2020-03-24,California,Medical,26.0,19.0,26.0,6
+2020-03-24,California,Fast Food Restaurants,56.0,49.0,56.0,7
+2020-03-24,California,Professional & Other Places,8.0,7.0,8.0,8
+2020-03-24,California,Big Box Stores,75.0,64.0,76.0,9
+2020-03-24,California,School,18.0,20.0,18.0,10
+2020-03-24,California,Drug Store,70.0,66.0,70.0,11
+2020-03-24,California,Office,28.0,32.0,28.0,12
+2020-03-24,California,Convenience Store,58.0,49.0,58.0,13
+2020-03-24,California,Residences,65.0,60.0,65.0,14
+2020-03-24,California,Nightlife Spots,18.0,18.0,19.0,15
+2020-03-24,California,Hardware Stores,75.0,57.0,77.0,16
+2020-03-24,California,Arts & Entertainment,13.0,15.0,13.0,17
+2020-03-24,California,Government,31.0,25.0,31.0,18
+2020-03-24,California,Hotel,25.0,23.0,25.0,19
+2020-03-24,California,Colleges & Universities,10.0,17.0,10.0,20
+2020-03-24,California,Fitness Center,16.0,16.0,17.0,21
+2020-03-24,California,Travel & Transport,9.0,8.0,9.0,22
+2020-03-24,California,Banks,49.0,39.0,49.0,23
+2020-03-24,California,Airport,16.0,12.0,16.0,24
+2020-03-24,California,Sports,12.0,14.0,12.0,25
+2020-03-24,California,Discount Stores,62.0,52.0,62.0,26
+2020-03-24,California,Alcohol,66.0,62.0,66.0,27
+2020-03-24,California,Beach,60.0,52.0,61.0,28
+2020-03-24,California,Bus,32.0,26.0,32.0,29
+2020-03-24,California,Light Rail Stations,36.0,36.0,36.0,30
+2020-03-24,California,Metro Stations,22.0,"",22.0,31
+2020-03-24,California,Spiritual Center,3.0,2.0,3.0,32
+2020-03-24,California,Skiing,13.0,"",13.0,33
+2020-03-25,California,Food,18.0,15.0,18.0,1
+2020-03-25,California,Shops & Services,14.0,11.0,14.0,2
+2020-03-25,California,Grocery,73.0,63.0,74.0,3
+2020-03-25,California,Outdoors & Recreation,26.0,23.0,26.0,4
+2020-03-25,California,Gas Stations,56.0,48.0,56.0,5
+2020-03-25,California,Medical,26.0,20.0,26.0,6
+2020-03-25,California,Fast Food Restaurants,55.0,46.0,55.0,7
+2020-03-25,California,Professional & Other Places,8.0,7.0,8.0,8
+2020-03-25,California,School,17.0,20.0,17.0,9
+2020-03-25,California,Big Box Stores,72.0,57.0,73.0,10
+2020-03-25,California,Office,28.0,32.0,28.0,11
+2020-03-25,California,Residences,66.0,59.0,66.0,12
+2020-03-25,California,Convenience Store,58.0,51.0,58.0,13
+2020-03-25,California,Drug Store,67.0,59.0,68.0,14
+2020-03-25,California,Nightlife Spots,18.0,18.0,18.0,15
+2020-03-25,California,Hardware Stores,76.0,58.0,77.0,16
+2020-03-25,California,Arts & Entertainment,14.0,15.0,14.0,17
+2020-03-25,California,Government,31.0,25.0,32.0,18
+2020-03-25,California,Hotel,24.0,22.0,24.0,19
+2020-03-25,California,Colleges & Universities,10.0,18.0,10.0,20
+2020-03-25,California,Fitness Center,17.0,15.0,17.0,21
+2020-03-25,California,Sports,12.0,14.0,12.0,22
+2020-03-25,California,Banks,50.0,47.0,50.0,23
+2020-03-25,California,Travel & Transport,9.0,8.0,9.0,24
+2020-03-25,California,Airport,16.0,11.0,16.0,25
+2020-03-25,California,Discount Stores,60.0,46.0,60.0,26
+2020-03-25,California,Alcohol,66.0,53.0,67.0,27
+2020-03-25,California,Beach,61.0,50.0,62.0,28
+2020-03-25,California,Bus,30.0,29.0,30.0,29
+2020-03-25,California,Light Rail Stations,38.0,34.0,38.0,30
+2020-03-25,California,Metro Stations,21.0,25.0,21.0,31
+2020-03-25,California,Spiritual Center,3.0,"",3.0,32
+2020-03-25,California,Skiing,14.0,"",14.0,33
+2020-03-26,California,Food,18.0,15.0,18.0,1
+2020-03-26,California,Shops & Services,14.0,12.0,14.0,2
+2020-03-26,California,Grocery,75.0,68.0,75.0,3
+2020-03-26,California,Outdoors & Recreation,26.0,23.0,26.0,4
+2020-03-26,California,Gas Stations,57.0,49.0,57.0,5
+2020-03-26,California,Fast Food Restaurants,55.0,46.0,55.0,6
+2020-03-26,California,Medical,26.0,20.0,26.0,7
+2020-03-26,California,Professional & Other Places,8.0,7.0,8.0,8
+2020-03-26,California,School,17.0,20.0,17.0,9
+2020-03-26,California,Big Box Stores,72.0,59.0,72.0,10
+2020-03-26,California,Office,28.0,31.0,28.0,11
+2020-03-26,California,Convenience Store,57.0,49.0,58.0,12
+2020-03-26,California,Drug Store,67.0,59.0,67.0,13
+2020-03-26,California,Residences,64.0,56.0,65.0,14
+2020-03-26,California,Hardware Stores,81.0,60.0,83.0,15
+2020-03-26,California,Nightlife Spots,17.0,18.0,17.0,16
+2020-03-26,California,Arts & Entertainment,15.0,16.0,15.0,17
+2020-03-26,California,Government,30.0,25.0,31.0,18
+2020-03-26,California,Hotel,23.0,23.0,23.0,19
+2020-03-26,California,Colleges & Universities,11.0,19.0,11.0,20
+2020-03-26,California,Fitness Center,17.0,17.0,17.0,21
+2020-03-26,California,Banks,54.0,48.0,54.0,22
+2020-03-26,California,Sports,12.0,14.0,12.0,23
+2020-03-26,California,Travel & Transport,9.0,8.0,9.0,24
+2020-03-26,California,Discount Stores,57.0,50.0,58.0,25
+2020-03-26,California,Airport,14.0,11.0,14.0,26
+2020-03-26,California,Alcohol,64.0,58.0,64.0,27
+2020-03-26,California,Beach,58.0,47.0,58.0,28
+2020-03-26,California,Bus,32.0,32.0,32.0,29
+2020-03-26,California,Light Rail Stations,36.0,33.0,36.0,30
+2020-03-26,California,Metro Stations,20.0,"",20.0,31
+2020-03-26,California,Spiritual Center,3.0,2.0,3.0,32
+2020-03-26,California,Skiing,14.0,"",15.0,33
+2020-03-27,California,Food,17.0,15.0,17.0,1
+2020-03-27,California,Shops & Services,13.0,11.0,13.0,2
+2020-03-27,California,Grocery,72.0,64.0,73.0,3
+2020-03-27,California,Outdoors & Recreation,24.0,23.0,24.0,4
+2020-03-27,California,Gas Stations,55.0,48.0,55.0,5
+2020-03-27,California,Fast Food Restaurants,54.0,47.0,54.0,6
+2020-03-27,California,Medical,26.0,21.0,26.0,7
+2020-03-27,California,Professional & Other Places,8.0,8.0,8.0,8
+2020-03-27,California,Big Box Stores,68.0,56.0,68.0,9
+2020-03-27,California,School,17.0,20.0,17.0,10
+2020-03-27,California,Drug Store,63.0,57.0,63.0,11
+2020-03-27,California,Convenience Store,55.0,50.0,55.0,12
+2020-03-27,California,Residences,64.0,59.0,64.0,13
+2020-03-27,California,Office,29.0,33.0,29.0,14
+2020-03-27,California,Nightlife Spots,16.0,18.0,16.0,15
+2020-03-27,California,Hardware Stores,81.0,61.0,83.0,16
+2020-03-27,California,Arts & Entertainment,12.0,13.0,12.0,17
+2020-03-27,California,Hotel,22.0,21.0,22.0,18
+2020-03-27,California,Banks,51.0,44.0,52.0,19
+2020-03-27,California,Government,30.0,26.0,31.0,20
+2020-03-27,California,Fitness Center,17.0,17.0,17.0,21
+2020-03-27,California,Colleges & Universities,13.0,19.0,13.0,22
+2020-03-27,California,Travel & Transport,10.0,10.0,10.0,23
+2020-03-27,California,Sports,12.0,15.0,12.0,24
+2020-03-27,California,Discount Stores,55.0,44.0,55.0,25
+2020-03-27,California,Airport,11.0,12.0,11.0,26
+2020-03-27,California,Alcohol,65.0,59.0,65.0,27
+2020-03-27,California,Beach,53.0,52.0,53.0,28
+2020-03-27,California,Bus,29.0,28.0,29.0,29
+2020-03-27,California,Light Rail Stations,38.0,34.0,38.0,30
+2020-03-27,California,Metro Stations,19.0,25.0,19.0,31
+2020-03-27,California,Spiritual Center,3.0,3.0,3.0,32
+2020-03-27,California,Skiing,9.0,"",9.0,33
+2020-03-28,California,Food,15.0,13.0,15.0,1
+2020-03-28,California,Shops & Services,11.0,9.0,11.0,2
+2020-03-28,California,Grocery,70.0,55.0,71.0,3
+2020-03-28,California,Outdoors & Recreation,22.0,21.0,22.0,4
+2020-03-28,California,Fast Food Restaurants,50.0,42.0,50.0,5
+2020-03-28,California,Gas Stations,49.0,42.0,50.0,6
+2020-03-28,California,Big Box Stores,69.0,53.0,69.0,7
+2020-03-28,California,Professional & Other Places,8.0,8.0,8.0,8
+2020-03-28,California,School,23.0,22.0,23.0,9
+2020-03-28,California,Hardware Stores,80.0,61.0,81.0,10
+2020-03-28,California,Drug Store,64.0,55.0,64.0,11
+2020-03-28,California,Medical,26.0,21.0,26.0,12
+2020-03-28,California,Convenience Store,52.0,43.0,52.0,13
+2020-03-28,California,Residences,56.0,52.0,57.0,14
+2020-03-28,California,Nightlife Spots,11.0,13.0,11.0,15
+2020-03-28,California,Arts & Entertainment,9.0,9.0,9.0,16
+2020-03-28,California,Hotel,18.0,17.0,18.0,17
+2020-03-28,California,Discount Stores,57.0,44.0,57.0,18
+2020-03-28,California,Banks,39.0,36.0,39.0,19
+2020-03-28,California,Office,34.0,33.0,34.0,20
+2020-03-28,California,Sports,11.0,13.0,11.0,21
+2020-03-28,California,Fitness Center,15.0,15.0,15.0,22
+2020-03-28,California,Travel & Transport,9.0,8.0,9.0,23
+2020-03-28,California,Colleges & Universities,17.0,18.0,17.0,24
+2020-03-28,California,Government,32.0,29.0,32.0,25
+2020-03-28,California,Airport,10.0,10.0,10.0,26
+2020-03-28,California,Alcohol,57.0,48.0,57.0,27
+2020-03-28,California,Beach,40.0,40.0,40.0,28
+2020-03-28,California,Bus,29.0,22.0,29.0,29
+2020-03-28,California,Light Rail Stations,33.0,30.0,33.0,30
+2020-03-28,California,Spiritual Center,2.0,2.0,2.0,31
+2020-03-28,California,Metro Stations,18.0,"",18.0,32
+2020-03-28,California,Skiing,4.0,"",4.0,33
+2020-03-29,California,Food,12.0,11.0,12.0,1
+2020-03-29,California,Shops & Services,8.0,8.0,8.0,2
+2020-03-29,California,Grocery,54.0,47.0,55.0,3
+2020-03-29,California,Outdoors & Recreation,17.0,19.0,17.0,4
+2020-03-29,California,Fast Food Restaurants,47.0,41.0,47.0,5
+2020-03-29,California,Big Box Stores,55.0,48.0,55.0,6
+2020-03-29,California,Gas Stations,43.0,36.0,43.0,7
+2020-03-29,California,School,22.0,22.0,22.0,8
+2020-03-29,California,Drug Store,55.0,48.0,55.0,9
+2020-03-29,California,Hardware Stores,67.0,55.0,67.0,10
+2020-03-29,California,Convenience Store,47.0,41.0,47.0,11
+2020-03-29,California,Professional & Other Places,6.0,5.0,6.0,12
+2020-03-29,California,Residences,44.0,44.0,44.0,13
+2020-03-29,California,Medical,24.0,20.0,24.0,14
+2020-03-29,California,Nightlife Spots,8.0,10.0,8.0,15
+2020-03-29,California,Arts & Entertainment,6.0,8.0,6.0,16
+2020-03-29,California,Hotel,13.0,14.0,13.0,17
+2020-03-29,California,Discount Stores,49.0,40.0,49.0,18
+2020-03-29,California,Sports,10.0,12.0,10.0,19
+2020-03-29,California,Travel & Transport,7.0,7.0,7.0,20
+2020-03-29,California,Fitness Center,14.0,12.0,14.0,21
+2020-03-29,California,Colleges & Universities,18.0,21.0,18.0,22
+2020-03-29,California,Office,32.0,34.0,32.0,23
+2020-03-29,California,Airport,9.0,8.0,9.0,24
+2020-03-29,California,Banks,43.0,36.0,43.0,25
+2020-03-29,California,Government,28.0,28.0,28.0,26
+2020-03-29,California,Alcohol,46.0,45.0,46.0,27
+2020-03-29,California,Beach,33.0,37.0,32.0,28
+2020-03-29,California,Bus,26.0,21.0,26.0,29
+2020-03-29,California,Light Rail Stations,28.0,"",28.0,30
+2020-03-29,California,Spiritual Center,1.0,"",1.0,31
+2020-03-29,California,Metro Stations,16.0,"",16.0,32
+2020-03-29,California,Skiing,5.0,"",5.0,33
+2020-03-30,California,Food,16.0,15.0,17.0,1
+2020-03-30,California,Shops & Services,13.0,12.0,13.0,2
+2020-03-30,California,Grocery,65.0,61.0,65.0,3
+2020-03-30,California,Outdoors & Recreation,23.0,22.0,23.0,4
+2020-03-30,California,Gas Stations,55.0,47.0,55.0,5
+2020-03-30,California,Fast Food Restaurants,54.0,46.0,54.0,6
+2020-03-30,California,Professional & Other Places,8.0,9.0,8.0,7
+2020-03-30,California,Medical,25.0,19.0,25.0,8
+2020-03-30,California,School,22.0,26.0,22.0,9
+2020-03-30,California,Big Box Stores,62.0,54.0,63.0,10
+2020-03-30,California,Convenience Store,54.0,49.0,54.0,11
+2020-03-30,California,Residences,58.0,57.0,58.0,12
+2020-03-30,California,Office,30.0,37.0,30.0,13
+2020-03-30,California,Hardware Stores,76.0,63.0,77.0,14
+2020-03-30,California,Drug Store,62.0,57.0,62.0,15
+2020-03-30,California,Nightlife Spots,15.0,18.0,15.0,16
+2020-03-30,California,Arts & Entertainment,11.0,14.0,11.0,17
+2020-03-30,California,Hotel,20.0,22.0,20.0,18
+2020-03-30,California,Government,31.0,28.0,31.0,19
+2020-03-30,California,Banks,59.0,54.0,59.0,20
+2020-03-30,California,Colleges & Universities,13.0,23.0,13.0,21
+2020-03-30,California,Fitness Center,18.0,16.0,18.0,22
+2020-03-30,California,Sports,13.0,15.0,13.0,23
+2020-03-30,California,Travel & Transport,8.0,7.0,8.0,24
+2020-03-30,California,Discount Stores,58.0,47.0,58.0,25
+2020-03-30,California,Airport,9.0,8.0,9.0,26
+2020-03-30,California,Alcohol,64.0,63.0,64.0,27
+2020-03-30,California,Beach,43.0,47.0,43.0,28
+2020-03-30,California,Bus,30.0,31.0,30.0,29
+2020-03-30,California,Light Rail Stations,36.0,32.0,36.0,30
+2020-03-30,California,Spiritual Center,3.0,3.0,3.0,31
+2020-03-30,California,Metro Stations,19.0,"",19.0,31
+2020-03-31,California,Food,16.0,14.0,16.0,1
+2020-03-31,California,Shops & Services,12.0,11.0,12.0,2
+2020-03-31,California,Grocery,65.0,60.0,65.0,3
+2020-03-31,California,Outdoors & Recreation,21.0,21.0,21.0,4
+2020-03-31,California,Fast Food Restaurants,54.0,46.0,54.0,5
+2020-03-31,California,Gas Stations,51.0,46.0,51.0,6
+2020-03-31,California,Professional & Other Places,7.0,7.0,7.0,7
+2020-03-31,California,Medical,21.0,17.0,21.0,8
+2020-03-31,California,School,16.0,19.0,16.0,9
+2020-03-31,California,Big Box Stores,65.0,55.0,65.0,10
+2020-03-31,California,Convenience Store,52.0,45.0,53.0,11
+2020-03-31,California,Office,24.0,29.0,24.0,12
+2020-03-31,California,Drug Store,59.0,55.0,59.0,13
+2020-03-31,California,Residences,57.0,52.0,57.0,14
+2020-03-31,California,Hardware Stores,75.0,60.0,76.0,15
+2020-03-31,California,Nightlife Spots,17.0,18.0,17.0,16
+2020-03-31,California,Arts & Entertainment,13.0,15.0,13.0,17
+2020-03-31,California,Banks,55.0,52.0,55.0,18
+2020-03-31,California,Hotel,20.0,21.0,20.0,19
+2020-03-31,California,Government,23.0,21.0,23.0,20
+2020-03-31,California,Colleges & Universities,10.0,17.0,10.0,21
+2020-03-31,California,Fitness Center,14.0,14.0,14.0,22
+2020-03-31,California,Sports,11.0,13.0,11.0,23
+2020-03-31,California,Travel & Transport,8.0,7.0,8.0,24
+2020-03-31,California,Discount Stores,55.0,46.0,55.0,25
+2020-03-31,California,Airport,11.0,8.0,11.0,26
+2020-03-31,California,Alcohol,59.0,53.0,60.0,27
+2020-03-31,California,Beach,50.0,47.0,51.0,28
+2020-03-31,California,Bus,26.0,24.0,26.0,29
+2020-03-31,California,Light Rail Stations,31.0,26.0,31.0,30
+2020-03-31,California,Metro Stations,15.0,"",15.0,31
+2020-03-31,California,Spiritual Center,3.0,3.0,3.0,32
+2020-04-01,California,Food,17.0,15.0,17.0,1
+2020-04-01,California,Shops & Services,13.0,11.0,13.0,2
+2020-04-01,California,Grocery,67.0,58.0,67.0,3
+2020-04-01,California,Outdoors & Recreation,23.0,22.0,23.0,4
+2020-04-01,California,Gas Stations,56.0,49.0,56.0,5
+2020-04-01,California,Fast Food Restaurants,55.0,46.0,56.0,6
+2020-04-01,California,Professional & Other Places,7.0,7.0,7.0,7
+2020-04-01,California,Medical,22.0,17.0,22.0,8
+2020-04-01,California,School,16.0,20.0,16.0,9
+2020-04-01,California,Big Box Stores,69.0,58.0,69.0,10
+2020-04-01,California,Convenience Store,55.0,45.0,56.0,11
+2020-04-01,California,Drug Store,64.0,55.0,64.0,12
+2020-04-01,California,Office,24.0,30.0,24.0,13
+2020-04-01,California,Residences,59.0,54.0,59.0,14
+2020-04-01,California,Hardware Stores,78.0,58.0,80.0,15
+2020-04-01,California,Nightlife Spots,17.0,17.0,17.0,16
+2020-04-01,California,Arts & Entertainment,13.0,13.0,13.0,17
+2020-04-01,California,Banks,65.0,60.0,65.0,18
+2020-04-01,California,Government,27.0,23.0,27.0,19
+2020-04-01,California,Hotel,21.0,21.0,21.0,20
+2020-04-01,California,Colleges & Universities,9.0,16.0,9.0,21
+2020-04-01,California,Fitness Center,15.0,15.0,15.0,22
+2020-04-01,California,Sports,11.0,12.0,11.0,23
+2020-04-01,California,Travel & Transport,9.0,8.0,9.0,24
+2020-04-01,California,Discount Stores,57.0,50.0,58.0,25
+2020-04-01,California,Airport,11.0,8.0,11.0,26
+2020-04-01,California,Alcohol,61.0,52.0,61.0,27
+2020-04-01,California,Beach,51.0,47.0,51.0,28
+2020-04-01,California,Bus,27.0,25.0,27.0,29
+2020-04-01,California,Light Rail Stations,33.0,26.0,33.0,30
+2020-04-01,California,Metro Stations,19.0,"",19.0,31
+2020-04-01,California,Spiritual Center,3.0,3.0,3.0,32
+2020-04-01,California,Skiing,12.0,"",12.0,33

@@ -1,0 +1,1037 @@
+2020-03-01,NewYork,Food,43.0,43.0,43.0,1
+2020-03-01,NewYork,Shops & Services,33.0,31.0,33.0,2
+2020-03-01,NewYork,Grocery,98.0,95.0,98.0,3
+2020-03-01,NewYork,Nightlife Spots,51.0,53.0,51.0,4
+2020-03-01,NewYork,Outdoors & Recreation,36.0,37.0,36.0,5
+2020-03-01,NewYork,Arts & Entertainment,52.0,53.0,52.0,6
+2020-03-01,NewYork,Convenience Store,100.0,99.0,100.0,7
+2020-03-01,NewYork,Big Box Stores,110.0,105.0,110.0,8
+2020-03-01,NewYork,Metro Stations,97.0,97.0,97.0,9
+2020-03-01,NewYork,Gas Stations,101.0,96.0,101.0,10
+2020-03-01,NewYork,Fast Food Restaurants,107.0,108.0,107.0,11
+2020-03-01,NewYork,Airport,62.0,55.0,62.0,12
+2020-03-01,NewYork,Fitness Center,64.0,64.0,64.0,13
+2020-03-01,NewYork,Professional & Other Places,16.0,15.0,16.0,14
+2020-03-01,NewYork,Drug Store,101.0,102.0,101.0,15
+2020-03-01,NewYork,Medical,53.0,51.0,54.0,16
+2020-03-01,NewYork,Travel & Transport,46.0,43.0,46.0,17
+2020-03-01,NewYork,Residences,97.0,101.0,97.0,18
+2020-03-01,NewYork,Hotel,81.0,75.0,81.0,19
+2020-03-01,NewYork,School,61.0,56.0,61.0,20
+2020-03-01,NewYork,Colleges & Universities,63.0,64.0,63.0,21
+2020-03-01,NewYork,Hardware Stores,112.0,110.0,112.0,22
+2020-03-01,NewYork,Bus,75.0,76.0,75.0,23
+2020-03-01,NewYork,Sports,24.0,27.0,24.0,24
+2020-03-01,NewYork,Discount Stores,105.0,107.0,105.0,25
+2020-03-01,NewYork,Office,82.0,86.0,81.0,26
+2020-03-01,NewYork,Government,57.0,61.0,57.0,27
+2020-03-01,NewYork,Banks,105.0,105.0,105.0,28
+2020-03-01,NewYork,Alcohol,100.0,94.0,100.0,29
+2020-03-01,NewYork,Skiing,70.0,77.0,70.0,30
+2020-03-01,NewYork,Beach,73.0,73.0,73.0,31
+2020-03-01,NewYork,Spiritual Center,4.0,3.0,4.0,32
+2020-03-01,NewYork,Light Rail Stations,105.0,"",105.0,33
+2020-03-02,NewYork,Food,45.0,46.0,45.0,1
+2020-03-02,NewYork,Shops & Services,34.0,33.0,34.0,2
+2020-03-02,NewYork,Medical,58.0,58.0,58.0,3
+2020-03-02,NewYork,Grocery,106.0,105.0,106.0,4
+2020-03-02,NewYork,Outdoors & Recreation,38.0,40.0,38.0,5
+2020-03-02,NewYork,School,67.0,63.0,67.0,6
+2020-03-02,NewYork,Colleges & Universities,65.0,70.0,65.0,7
+2020-03-02,NewYork,Metro Stations,104.0,102.0,104.0,8
+2020-03-02,NewYork,Professional & Other Places,15.0,16.0,15.0,9
+2020-03-02,NewYork,Nightlife Spots,53.0,55.0,53.0,10
+2020-03-02,NewYork,Office,90.0,91.0,90.0,11
+2020-03-02,NewYork,Convenience Store,105.0,106.0,104.0,12
+2020-03-02,NewYork,Travel & Transport,24.0,29.0,24.0,13
+2020-03-02,NewYork,Fitness Center,66.0,62.0,66.0,14
+2020-03-02,NewYork,Gas Stations,105.0,100.0,105.0,15
+2020-03-02,NewYork,Arts & Entertainment,54.0,56.0,54.0,16
+2020-03-02,NewYork,Fast Food Restaurants,112.0,111.0,112.0,17
+2020-03-02,NewYork,Airport,61.0,64.0,60.0,18
+2020-03-02,NewYork,Drug Store,107.0,110.0,107.0,19
+2020-03-02,NewYork,Residences,102.0,103.0,102.0,20
+2020-03-02,NewYork,Government,72.0,72.0,72.0,21
+2020-03-02,NewYork,Big Box Stores,108.0,106.0,108.0,22
+2020-03-02,NewYork,Hotel,87.0,82.0,88.0,23
+2020-03-02,NewYork,Bus,85.0,81.0,85.0,24
+2020-03-02,NewYork,Banks,120.0,124.0,120.0,25
+2020-03-02,NewYork,Hardware Stores,104.0,104.0,104.0,26
+2020-03-02,NewYork,Sports,20.0,24.0,20.0,27
+2020-03-02,NewYork,Discount Stores,106.0,103.0,106.0,28
+2020-03-02,NewYork,Alcohol,101.0,97.0,101.0,29
+2020-03-02,NewYork,Beach,84.0,92.0,83.0,30
+2020-03-02,NewYork,Skiing,47.0,68.0,46.0,31
+2020-03-02,NewYork,Spiritual Center,5.0,4.0,5.0,32
+2020-03-02,NewYork,Light Rail Stations,117.0,"",119.0,33
+2020-03-03,NewYork,Food,45.0,45.0,45.0,1
+2020-03-03,NewYork,Shops & Services,35.0,34.0,35.0,2
+2020-03-03,NewYork,Medical,54.0,53.0,54.0,3
+2020-03-03,NewYork,Grocery,104.0,103.0,104.0,4
+2020-03-03,NewYork,Outdoors & Recreation,37.0,41.0,37.0,5
+2020-03-03,NewYork,Colleges & Universities,56.0,59.0,56.0,6
+2020-03-03,NewYork,School,63.0,62.0,63.0,7
+2020-03-03,NewYork,Metro Stations,98.0,94.0,98.0,8
+2020-03-03,NewYork,Nightlife Spots,56.0,58.0,56.0,9
+2020-03-03,NewYork,Professional & Other Places,14.0,15.0,14.0,10
+2020-03-03,NewYork,Office,80.0,81.0,80.0,11
+2020-03-03,NewYork,Fitness Center,65.0,61.0,65.0,12
+2020-03-03,NewYork,Convenience Store,99.0,96.0,99.0,13
+2020-03-03,NewYork,Travel & Transport,28.0,33.0,28.0,14
+2020-03-03,NewYork,Arts & Entertainment,63.0,63.0,63.0,15
+2020-03-03,NewYork,Gas Stations,102.0,99.0,102.0,16
+2020-03-03,NewYork,Drug Store,110.0,107.0,110.0,17
+2020-03-03,NewYork,Fast Food Restaurants,105.0,104.0,105.0,18
+2020-03-03,NewYork,Airport,57.0,54.0,57.0,19
+2020-03-03,NewYork,Residences,101.0,105.0,101.0,20
+2020-03-03,NewYork,Government,67.0,67.0,67.0,21
+2020-03-03,NewYork,Big Box Stores,110.0,106.0,110.0,22
+2020-03-03,NewYork,Hotel,84.0,79.0,84.0,23
+2020-03-03,NewYork,Bus,81.0,78.0,81.0,24
+2020-03-03,NewYork,Banks,118.0,121.0,118.0,25
+2020-03-03,NewYork,Hardware Stores,104.0,107.0,104.0,26
+2020-03-03,NewYork,Discount Stores,106.0,105.0,107.0,27
+2020-03-03,NewYork,Sports,18.0,24.0,18.0,28
+2020-03-03,NewYork,Alcohol,108.0,102.0,108.0,29
+2020-03-03,NewYork,Beach,96.0,105.0,96.0,30
+2020-03-03,NewYork,Skiing,56.0,68.0,55.0,31
+2020-03-03,NewYork,Spiritual Center,5.0,5.0,5.0,32
+2020-03-03,NewYork,Light Rail Stations,112.0,"",112.0,33
+2020-03-04,NewYork,Food,44.0,44.0,44.0,1
+2020-03-04,NewYork,Shops & Services,32.0,30.0,32.0,2
+2020-03-04,NewYork,Medical,53.0,52.0,53.0,3
+2020-03-04,NewYork,Grocery,99.0,96.0,100.0,4
+2020-03-04,NewYork,Outdoors & Recreation,38.0,39.0,38.0,5
+2020-03-04,NewYork,School,63.0,62.0,63.0,6
+2020-03-04,NewYork,Colleges & Universities,59.0,61.0,59.0,7
+2020-03-04,NewYork,Metro Stations,95.0,91.0,95.0,8
+2020-03-04,NewYork,Nightlife Spots,56.0,56.0,56.0,9
+2020-03-04,NewYork,Professional & Other Places,14.0,14.0,14.0,10
+2020-03-04,NewYork,Office,77.0,81.0,77.0,11
+2020-03-04,NewYork,Fitness Center,63.0,62.0,63.0,12
+2020-03-04,NewYork,Convenience Store,97.0,90.0,97.0,13
+2020-03-04,NewYork,Arts & Entertainment,52.0,55.0,52.0,14
+2020-03-04,NewYork,Travel & Transport,25.0,30.0,25.0,15
+2020-03-04,NewYork,Gas Stations,99.0,94.0,99.0,16
+2020-03-04,NewYork,Fast Food Restaurants,99.0,95.0,100.0,17
+2020-03-04,NewYork,Drug Store,102.0,99.0,102.0,18
+2020-03-04,NewYork,Residences,99.0,100.0,99.0,19
+2020-03-04,NewYork,Airport,54.0,54.0,54.0,20
+2020-03-04,NewYork,Government,64.0,60.0,64.0,21
+2020-03-04,NewYork,Hotel,84.0,80.0,84.0,22
+2020-03-04,NewYork,Big Box Stores,100.0,91.0,100.0,23
+2020-03-04,NewYork,Bus,81.0,80.0,81.0,24
+2020-03-04,NewYork,Banks,108.0,113.0,108.0,25
+2020-03-04,NewYork,Hardware Stores,101.0,95.0,101.0,26
+2020-03-04,NewYork,Discount Stores,101.0,98.0,101.0,27
+2020-03-04,NewYork,Sports,19.0,24.0,19.0,28
+2020-03-04,NewYork,Alcohol,98.0,91.0,98.0,29
+2020-03-04,NewYork,Beach,92.0,83.0,93.0,30
+2020-03-04,NewYork,Spiritual Center,5.0,5.0,5.0,31
+2020-03-04,NewYork,Skiing,46.0,51.0,46.0,32
+2020-03-04,NewYork,Light Rail Stations,104.0,"",104.0,33
+2020-03-05,NewYork,Food,46.0,48.0,46.0,1
+2020-03-05,NewYork,Shops & Services,34.0,35.0,34.0,2
+2020-03-05,NewYork,Medical,56.0,56.0,56.0,3
+2020-03-05,NewYork,Grocery,107.0,107.0,107.0,4
+2020-03-05,NewYork,Outdoors & Recreation,42.0,46.0,42.0,5
+2020-03-05,NewYork,School,69.0,67.0,69.0,6
+2020-03-05,NewYork,Colleges & Universities,57.0,59.0,57.0,7
+2020-03-05,NewYork,Nightlife Spots,57.0,61.0,57.0,8
+2020-03-05,NewYork,Metro Stations,98.0,102.0,98.0,9
+2020-03-05,NewYork,Professional & Other Places,15.0,16.0,15.0,10
+2020-03-05,NewYork,Office,79.0,82.0,79.0,11
+2020-03-05,NewYork,Convenience Store,101.0,99.0,101.0,12
+2020-03-05,NewYork,Arts & Entertainment,55.0,59.0,55.0,13
+2020-03-05,NewYork,Travel & Transport,26.0,33.0,26.0,14
+2020-03-05,NewYork,Fitness Center,66.0,65.0,66.0,15
+2020-03-05,NewYork,Gas Stations,104.0,101.0,104.0,16
+2020-03-05,NewYork,Fast Food Restaurants,109.0,110.0,109.0,17
+2020-03-05,NewYork,Drug Store,105.0,109.0,104.0,18
+2020-03-05,NewYork,Airport,57.0,68.0,57.0,19
+2020-03-05,NewYork,Residences,104.0,105.0,104.0,20
+2020-03-05,NewYork,Government,68.0,68.0,68.0,21
+2020-03-05,NewYork,Big Box Stores,107.0,116.0,107.0,22
+2020-03-05,NewYork,Hotel,86.0,78.0,86.0,23
+2020-03-05,NewYork,Bus,83.0,85.0,83.0,24
+2020-03-05,NewYork,Banks,114.0,122.0,114.0,25
+2020-03-05,NewYork,Hardware Stores,112.0,121.0,111.0,26
+2020-03-05,NewYork,Discount Stores,108.0,116.0,108.0,27
+2020-03-05,NewYork,Sports,21.0,27.0,20.0,28
+2020-03-05,NewYork,Alcohol,103.0,107.0,103.0,29
+2020-03-05,NewYork,Beach,114.0,125.0,113.0,30
+2020-03-05,NewYork,Skiing,68.0,90.0,68.0,31
+2020-03-05,NewYork,Spiritual Center,5.0,"",5.0,32
+2020-03-05,NewYork,Light Rail Stations,98.0,"",98.0,33
+2020-03-06,NewYork,Food,44.0,45.0,44.0,1
+2020-03-06,NewYork,Shops & Services,31.0,30.0,31.0,2
+2020-03-06,NewYork,Grocery,102.0,102.0,102.0,3
+2020-03-06,NewYork,Medical,55.0,55.0,55.0,4
+2020-03-06,NewYork,Outdoors & Recreation,36.0,38.0,36.0,5
+2020-03-06,NewYork,Nightlife Spots,55.0,56.0,55.0,6
+2020-03-06,NewYork,School,69.0,66.0,69.0,7
+2020-03-06,NewYork,Metro Stations,99.0,96.0,99.0,8
+2020-03-06,NewYork,Professional & Other Places,15.0,17.0,15.0,9
+2020-03-06,NewYork,Colleges & Universities,59.0,63.0,59.0,10
+2020-03-06,NewYork,Arts & Entertainment,55.0,57.0,55.0,11
+2020-03-06,NewYork,Convenience Store,99.0,95.0,100.0,12
+2020-03-06,NewYork,Gas Stations,100.0,98.0,100.0,13
+2020-03-06,NewYork,Office,79.0,87.0,79.0,14
+2020-03-06,NewYork,Travel & Transport,28.0,34.0,28.0,15
+2020-03-06,NewYork,Fitness Center,65.0,64.0,65.0,16
+2020-03-06,NewYork,Fast Food Restaurants,104.0,108.0,104.0,17
+2020-03-06,NewYork,Drug Store,98.0,98.0,98.0,18
+2020-03-06,NewYork,Airport,53.0,56.0,53.0,19
+2020-03-06,NewYork,Residences,102.0,101.0,102.0,20
+2020-03-06,NewYork,Big Box Stores,103.0,109.0,103.0,21
+2020-03-06,NewYork,Hotel,86.0,82.0,86.0,22
+2020-03-06,NewYork,Government,66.0,69.0,66.0,23
+2020-03-06,NewYork,Bus,84.0,81.0,84.0,24
+2020-03-06,NewYork,Banks,104.0,105.0,104.0,25
+2020-03-06,NewYork,Hardware Stores,109.0,112.0,109.0,26
+2020-03-06,NewYork,Discount Stores,102.0,111.0,102.0,27
+2020-03-06,NewYork,Sports,21.0,26.0,21.0,28
+2020-03-06,NewYork,Alcohol,98.0,101.0,98.0,29
+2020-03-06,NewYork,Beach,95.0,89.0,96.0,30
+2020-03-06,NewYork,Skiing,55.0,58.0,55.0,31
+2020-03-06,NewYork,Spiritual Center,5.0,6.0,5.0,32
+2020-03-06,NewYork,Light Rail Stations,108.0,"",109.0,33
+2020-03-07,NewYork,Food,44.0,44.0,44.0,1
+2020-03-07,NewYork,Shops & Services,33.0,30.0,33.0,2
+2020-03-07,NewYork,Grocery,101.0,98.0,101.0,3
+2020-03-07,NewYork,Nightlife Spots,55.0,55.0,55.0,4
+2020-03-07,NewYork,Outdoors & Recreation,39.0,40.0,39.0,5
+2020-03-07,NewYork,Arts & Entertainment,66.0,63.0,66.0,6
+2020-03-07,NewYork,Professional & Other Places,20.0,20.0,20.0,7
+2020-03-07,NewYork,Metro Stations,100.0,95.0,100.0,8
+2020-03-07,NewYork,Convenience Store,98.0,90.0,98.0,9
+2020-03-07,NewYork,Fast Food Restaurants,102.0,101.0,102.0,10
+2020-03-07,NewYork,Gas Stations,100.0,98.0,100.0,11
+2020-03-07,NewYork,Big Box Stores,104.0,99.0,104.0,12
+2020-03-07,NewYork,Fitness Center,64.0,61.0,64.0,13
+2020-03-07,NewYork,Medical,54.0,52.0,54.0,14
+2020-03-07,NewYork,Drug Store,104.0,105.0,104.0,15
+2020-03-07,NewYork,School,63.0,64.0,63.0,16
+2020-03-07,NewYork,Travel & Transport,80.0,72.0,80.0,17
+2020-03-07,NewYork,Hotel,84.0,80.0,84.0,18
+2020-03-07,NewYork,Colleges & Universities,62.0,66.0,62.0,19
+2020-03-07,NewYork,Airport,57.0,52.0,57.0,20
+2020-03-07,NewYork,Residences,97.0,94.0,97.0,21
+2020-03-07,NewYork,Hardware Stores,110.0,107.0,110.0,22
+2020-03-07,NewYork,Bus,81.0,80.0,81.0,23
+2020-03-07,NewYork,Office,81.0,86.0,81.0,24
+2020-03-07,NewYork,Discount Stores,109.0,107.0,109.0,25
+2020-03-07,NewYork,Banks,85.0,86.0,85.0,26
+2020-03-07,NewYork,Government,63.0,60.0,63.0,27
+2020-03-07,NewYork,Sports,23.0,25.0,23.0,28
+2020-03-07,NewYork,Alcohol,99.0,111.0,99.0,29
+2020-03-07,NewYork,Skiing,51.0,61.0,51.0,30
+2020-03-07,NewYork,Beach,104.0,93.0,104.0,31
+2020-03-07,NewYork,Spiritual Center,4.0,"",4.0,32
+2020-03-07,NewYork,Light Rail Stations,115.0,"",114.0,33
+2020-03-08,NewYork,Food,47.0,45.0,47.0,1
+2020-03-08,NewYork,Shops & Services,34.0,32.0,34.0,2
+2020-03-08,NewYork,Grocery,102.0,101.0,102.0,3
+2020-03-08,NewYork,Outdoors & Recreation,47.0,47.0,47.0,4
+2020-03-08,NewYork,Nightlife Spots,54.0,57.0,54.0,5
+2020-03-08,NewYork,Arts & Entertainment,55.0,55.0,55.0,6
+2020-03-08,NewYork,Convenience Store,107.0,102.0,107.0,7
+2020-03-08,NewYork,Metro Stations,102.0,100.0,102.0,8
+2020-03-08,NewYork,Gas Stations,108.0,101.0,108.0,9
+2020-03-08,NewYork,Fast Food Restaurants,112.0,111.0,112.0,10
+2020-03-08,NewYork,Big Box Stores,105.0,100.0,106.0,11
+2020-03-08,NewYork,Professional & Other Places,18.0,17.0,18.0,12
+2020-03-08,NewYork,Drug Store,107.0,99.0,108.0,13
+2020-03-08,NewYork,Travel & Transport,30.0,34.0,30.0,14
+2020-03-08,NewYork,Medical,57.0,51.0,57.0,15
+2020-03-08,NewYork,Residences,103.0,101.0,103.0,16
+2020-03-08,NewYork,Airport,59.0,44.0,59.0,17
+2020-03-08,NewYork,Fitness Center,62.0,56.0,62.0,18
+2020-03-08,NewYork,School,68.0,63.0,68.0,19
+2020-03-08,NewYork,Hotel,84.0,78.0,84.0,20
+2020-03-08,NewYork,Colleges & Universities,56.0,58.0,56.0,21
+2020-03-08,NewYork,Hardware Stores,118.0,108.0,118.0,22
+2020-03-08,NewYork,Sports,29.0,35.0,28.0,23
+2020-03-08,NewYork,Bus,84.0,81.0,84.0,24
+2020-03-08,NewYork,Discount Stores,112.0,116.0,112.0,25
+2020-03-08,NewYork,Government,64.0,64.0,64.0,26
+2020-03-08,NewYork,Office,82.0,85.0,82.0,27
+2020-03-08,NewYork,Banks,85.0,85.0,85.0,28
+2020-03-08,NewYork,Alcohol,101.0,94.0,102.0,29
+2020-03-08,NewYork,Beach,109.0,104.0,109.0,30
+2020-03-08,NewYork,Skiing,42.0,51.0,42.0,31
+2020-03-08,NewYork,Spiritual Center,3.0,3.0,3.0,32
+2020-03-08,NewYork,Light Rail Stations,102.0,"",103.0,33
+2020-03-09,NewYork,Food,46.0,45.0,46.0,1
+2020-03-09,NewYork,Shops & Services,32.0,30.0,32.0,2
+2020-03-09,NewYork,Outdoors & Recreation,46.0,45.0,46.0,3
+2020-03-09,NewYork,Grocery,108.0,105.0,109.0,4
+2020-03-09,NewYork,Medical,57.0,56.0,57.0,5
+2020-03-09,NewYork,School,70.0,64.0,70.0,6
+2020-03-09,NewYork,Colleges & Universities,57.0,61.0,57.0,7
+2020-03-09,NewYork,Metro Stations,102.0,98.0,102.0,8
+2020-03-09,NewYork,Nightlife Spots,58.0,58.0,58.0,9
+2020-03-09,NewYork,Professional & Other Places,16.0,16.0,16.0,10
+2020-03-09,NewYork,Office,85.0,88.0,85.0,11
+2020-03-09,NewYork,Convenience Store,104.0,102.0,104.0,12
+2020-03-09,NewYork,Fitness Center,66.0,60.0,66.0,13
+2020-03-09,NewYork,Travel & Transport,27.0,33.0,27.0,14
+2020-03-09,NewYork,Arts & Entertainment,56.0,61.0,56.0,15
+2020-03-09,NewYork,Gas Stations,105.0,99.0,105.0,16
+2020-03-09,NewYork,Fast Food Restaurants,107.0,100.0,107.0,17
+2020-03-09,NewYork,Drug Store,108.0,106.0,108.0,18
+2020-03-09,NewYork,Residences,105.0,110.0,105.0,19
+2020-03-09,NewYork,Airport,52.0,45.0,52.0,20
+2020-03-09,NewYork,Government,74.0,69.0,74.0,21
+2020-03-09,NewYork,Big Box Stores,104.0,99.0,105.0,22
+2020-03-09,NewYork,Bus,87.0,86.0,87.0,23
+2020-03-09,NewYork,Hotel,83.0,77.0,83.0,24
+2020-03-09,NewYork,Banks,116.0,111.0,117.0,25
+2020-03-09,NewYork,Hardware Stores,108.0,102.0,109.0,26
+2020-03-09,NewYork,Sports,24.0,28.0,23.0,27
+2020-03-09,NewYork,Discount Stores,112.0,102.0,113.0,28
+2020-03-09,NewYork,Alcohol,111.0,98.0,111.0,29
+2020-03-09,NewYork,Beach,123.0,121.0,123.0,30
+2020-03-09,NewYork,Skiing,43.0,52.0,43.0,31
+2020-03-09,NewYork,Spiritual Center,6.0,5.0,6.0,32
+2020-03-09,NewYork,Light Rail Stations,106.0,"",106.0,33
+2020-03-10,NewYork,Food,43.0,42.0,43.0,1
+2020-03-10,NewYork,Shops & Services,33.0,30.0,33.0,2
+2020-03-10,NewYork,Grocery,105.0,99.0,106.0,3
+2020-03-10,NewYork,Medical,52.0,50.0,52.0,4
+2020-03-10,NewYork,Outdoors & Recreation,38.0,39.0,38.0,5
+2020-03-10,NewYork,School,64.0,60.0,64.0,6
+2020-03-10,NewYork,Colleges & Universities,48.0,53.0,48.0,7
+2020-03-10,NewYork,Metro Stations,90.0,86.0,90.0,8
+2020-03-10,NewYork,Nightlife Spots,53.0,51.0,53.0,9
+2020-03-10,NewYork,Professional & Other Places,13.0,14.0,13.0,10
+2020-03-10,NewYork,Office,70.0,74.0,70.0,11
+2020-03-10,NewYork,Fitness Center,61.0,57.0,61.0,12
+2020-03-10,NewYork,Convenience Store,97.0,88.0,97.0,13
+2020-03-10,NewYork,Arts & Entertainment,48.0,53.0,48.0,14
+2020-03-10,NewYork,Travel & Transport,24.0,28.0,24.0,15
+2020-03-10,NewYork,Gas Stations,97.0,89.0,97.0,16
+2020-03-10,NewYork,Drug Store,106.0,100.0,106.0,17
+2020-03-10,NewYork,Fast Food Restaurants,101.0,93.0,101.0,18
+2020-03-10,NewYork,Residences,100.0,92.0,101.0,19
+2020-03-10,NewYork,Government,62.0,60.0,62.0,20
+2020-03-10,NewYork,Airport,49.0,46.0,49.0,21
+2020-03-10,NewYork,Big Box Stores,102.0,97.0,103.0,22
+2020-03-10,NewYork,Bus,78.0,75.0,78.0,23
+2020-03-10,NewYork,Hotel,76.0,71.0,77.0,24
+2020-03-10,NewYork,Banks,100.0,93.0,100.0,25
+2020-03-10,NewYork,Hardware Stores,103.0,103.0,103.0,26
+2020-03-10,NewYork,Discount Stores,106.0,100.0,106.0,27
+2020-03-10,NewYork,Sports,19.0,24.0,19.0,28
+2020-03-10,NewYork,Alcohol,103.0,90.0,104.0,29
+2020-03-10,NewYork,Beach,107.0,111.0,107.0,30
+2020-03-10,NewYork,Spiritual Center,6.0,5.0,6.0,31
+2020-03-10,NewYork,Skiing,32.0,"",32.0,32
+2020-03-10,NewYork,Light Rail Stations,99.0,"",100.0,33
+2020-03-11,NewYork,Food,42.0,41.0,42.0,1
+2020-03-11,NewYork,Shops & Services,32.0,29.0,32.0,2
+2020-03-11,NewYork,Grocery,105.0,98.0,105.0,3
+2020-03-11,NewYork,Medical,51.0,50.0,51.0,4
+2020-03-11,NewYork,Outdoors & Recreation,37.0,38.0,37.0,5
+2020-03-11,NewYork,School,61.0,56.0,61.0,6
+2020-03-11,NewYork,Metro Stations,86.0,85.0,86.0,7
+2020-03-11,NewYork,Nightlife Spots,52.0,52.0,52.0,8
+2020-03-11,NewYork,Colleges & Universities,47.0,47.0,47.0,9
+2020-03-11,NewYork,Professional & Other Places,13.0,14.0,13.0,10
+2020-03-11,NewYork,Convenience Store,96.0,90.0,96.0,11
+2020-03-11,NewYork,Office,66.0,70.0,66.0,12
+2020-03-11,NewYork,Fitness Center,58.0,55.0,58.0,13
+2020-03-11,NewYork,Arts & Entertainment,60.0,60.0,60.0,14
+2020-03-11,NewYork,Gas Stations,97.0,88.0,98.0,15
+2020-03-11,NewYork,Travel & Transport,27.0,30.0,27.0,16
+2020-03-11,NewYork,Drug Store,101.0,97.0,101.0,17
+2020-03-11,NewYork,Fast Food Restaurants,96.0,92.0,97.0,18
+2020-03-11,NewYork,Residences,97.0,89.0,98.0,19
+2020-03-11,NewYork,Government,63.0,59.0,63.0,20
+2020-03-11,NewYork,Airport,50.0,47.0,50.0,21
+2020-03-11,NewYork,Big Box Stores,102.0,99.0,103.0,22
+2020-03-11,NewYork,Hotel,72.0,70.0,73.0,23
+2020-03-11,NewYork,Bus,75.0,72.0,75.0,24
+2020-03-11,NewYork,Banks,97.0,95.0,97.0,25
+2020-03-11,NewYork,Hardware Stores,102.0,99.0,102.0,26
+2020-03-11,NewYork,Discount Stores,105.0,106.0,105.0,27
+2020-03-11,NewYork,Sports,19.0,25.0,19.0,28
+2020-03-11,NewYork,Alcohol,100.0,88.0,100.0,29
+2020-03-11,NewYork,Beach,102.0,91.0,102.0,30
+2020-03-11,NewYork,Spiritual Center,4.0,4.0,4.0,31
+2020-03-11,NewYork,Skiing,43.0,51.0,42.0,32
+2020-03-11,NewYork,Light Rail Stations,92.0,"",92.0,33
+2020-03-12,NewYork,Food,40.0,42.0,40.0,1
+2020-03-12,NewYork,Shops & Services,31.0,31.0,31.0,2
+2020-03-12,NewYork,Grocery,130.0,127.0,130.0,3
+2020-03-12,NewYork,Medical,49.0,46.0,49.0,4
+2020-03-12,NewYork,Outdoors & Recreation,36.0,39.0,36.0,5
+2020-03-12,NewYork,School,58.0,56.0,58.0,6
+2020-03-12,NewYork,Nightlife Spots,48.0,50.0,48.0,7
+2020-03-12,NewYork,Metro Stations,80.0,79.0,80.0,8
+2020-03-12,NewYork,Professional & Other Places,13.0,13.0,13.0,9
+2020-03-12,NewYork,Convenience Store,95.0,89.0,96.0,10
+2020-03-12,NewYork,Colleges & Universities,38.0,42.0,38.0,11
+2020-03-12,NewYork,Gas Stations,99.0,98.0,99.0,12
+2020-03-12,NewYork,Drug Store,112.0,111.0,112.0,13
+2020-03-12,NewYork,Office,61.0,67.0,61.0,14
+2020-03-12,NewYork,Arts & Entertainment,44.0,49.0,44.0,15
+2020-03-12,NewYork,Fitness Center,53.0,53.0,53.0,16
+2020-03-12,NewYork,Travel & Transport,36.0,39.0,36.0,17
+2020-03-12,NewYork,Fast Food Restaurants,96.0,94.0,96.0,18
+2020-03-12,NewYork,Big Box Stores,117.0,121.0,117.0,19
+2020-03-12,NewYork,Residences,90.0,84.0,90.0,20
+2020-03-12,NewYork,Airport,47.0,50.0,46.0,21
+2020-03-12,NewYork,Government,58.0,59.0,58.0,22
+2020-03-12,NewYork,Hotel,68.0,67.0,68.0,23
+2020-03-12,NewYork,Bus,70.0,68.0,70.0,24
+2020-03-12,NewYork,Banks,99.0,108.0,99.0,25
+2020-03-12,NewYork,Hardware Stores,111.0,117.0,111.0,26
+2020-03-12,NewYork,Discount Stores,115.0,118.0,115.0,27
+2020-03-12,NewYork,Sports,19.0,25.0,19.0,28
+2020-03-12,NewYork,Alcohol,107.0,107.0,107.0,29
+2020-03-12,NewYork,Beach,95.0,100.0,94.0,30
+2020-03-12,NewYork,Spiritual Center,4.0,4.0,4.0,31
+2020-03-12,NewYork,Skiing,45.0,63.0,44.0,32
+2020-03-12,NewYork,Light Rail Stations,99.0,"",99.0,33
+2020-03-13,NewYork,Food,39.0,39.0,39.0,1
+2020-03-13,NewYork,Shops & Services,31.0,29.0,31.0,2
+2020-03-13,NewYork,Grocery,149.0,137.0,149.0,3
+2020-03-13,NewYork,Outdoors & Recreation,38.0,38.0,38.0,4
+2020-03-13,NewYork,Medical,51.0,48.0,51.0,5
+2020-03-13,NewYork,Nightlife Spots,48.0,50.0,48.0,6
+2020-03-13,NewYork,School,55.0,51.0,55.0,7
+2020-03-13,NewYork,Professional & Other Places,14.0,14.0,14.0,8
+2020-03-13,NewYork,Convenience Store,97.0,92.0,97.0,9
+2020-03-13,NewYork,Metro Stations,72.0,72.0,72.0,10
+2020-03-13,NewYork,Gas Stations,100.0,94.0,100.0,11
+2020-03-13,NewYork,Drug Store,116.0,115.0,116.0,12
+2020-03-13,NewYork,Fast Food Restaurants,97.0,93.0,97.0,13
+2020-03-13,NewYork,Big Box Stores,132.0,122.0,133.0,14
+2020-03-13,NewYork,Arts & Entertainment,50.0,49.0,50.0,15
+2020-03-13,NewYork,Colleges & Universities,41.0,47.0,41.0,16
+2020-03-13,NewYork,Travel & Transport,33.0,33.0,33.0,17
+2020-03-13,NewYork,Office,60.0,64.0,60.0,18
+2020-03-13,NewYork,Fitness Center,51.0,47.0,51.0,19
+2020-03-13,NewYork,Residences,97.0,89.0,97.0,20
+2020-03-13,NewYork,Airport,43.0,34.0,43.0,21
+2020-03-13,NewYork,Government,60.0,59.0,60.0,22
+2020-03-13,NewYork,Banks,102.0,101.0,102.0,23
+2020-03-13,NewYork,Bus,71.0,71.0,71.0,24
+2020-03-13,NewYork,Hotel,63.0,57.0,63.0,25
+2020-03-13,NewYork,Hardware Stores,123.0,112.0,124.0,26
+2020-03-13,NewYork,Discount Stores,133.0,129.0,134.0,27
+2020-03-13,NewYork,Alcohol,117.0,116.0,117.0,28
+2020-03-13,NewYork,Sports,19.0,23.0,19.0,29
+2020-03-13,NewYork,Beach,112.0,91.0,113.0,30
+2020-03-13,NewYork,Skiing,28.0,29.0,28.0,31
+2020-03-13,NewYork,Spiritual Center,4.0,"",4.0,32
+2020-03-13,NewYork,Light Rail Stations,107.0,"",106.0,33
+2020-03-14,NewYork,Food,34.0,33.0,34.0,1
+2020-03-14,NewYork,Shops & Services,27.0,25.0,27.0,2
+2020-03-14,NewYork,Grocery,126.0,117.0,127.0,3
+2020-03-14,NewYork,Outdoors & Recreation,40.0,39.0,40.0,4
+2020-03-14,NewYork,Nightlife Spots,42.0,40.0,42.0,5
+2020-03-14,NewYork,Big Box Stores,104.0,95.0,104.0,6
+2020-03-14,NewYork,Drug Store,111.0,108.0,111.0,7
+2020-03-14,NewYork,Convenience Store,89.0,82.0,89.0,8
+2020-03-14,NewYork,Gas Stations,93.0,94.0,93.0,9
+2020-03-14,NewYork,Professional & Other Places,16.0,15.0,16.0,10
+2020-03-14,NewYork,Fast Food Restaurants,87.0,81.0,87.0,11
+2020-03-14,NewYork,Arts & Entertainment,35.0,34.0,35.0,12
+2020-03-14,NewYork,Medical,46.0,41.0,46.0,13
+2020-03-14,NewYork,Metro Stations,68.0,63.0,68.0,14
+2020-03-14,NewYork,Fitness Center,46.0,43.0,46.0,15
+2020-03-14,NewYork,Residences,89.0,85.0,89.0,16
+2020-03-14,NewYork,School,45.0,43.0,45.0,17
+2020-03-14,NewYork,Hardware Stores,118.0,110.0,118.0,18
+2020-03-14,NewYork,Travel & Transport,22.0,23.0,22.0,19
+2020-03-14,NewYork,Airport,42.0,31.0,42.0,20
+2020-03-14,NewYork,Hotel,52.0,46.0,52.0,21
+2020-03-14,NewYork,Discount Stores,122.0,120.0,122.0,22
+2020-03-14,NewYork,Colleges & Universities,32.0,36.0,32.0,23
+2020-03-14,NewYork,Bus,64.0,61.0,65.0,24
+2020-03-14,NewYork,Banks,77.0,76.0,77.0,25
+2020-03-14,NewYork,Government,58.0,57.0,58.0,26
+2020-03-14,NewYork,Office,62.0,60.0,62.0,27
+2020-03-14,NewYork,Alcohol,107.0,96.0,108.0,28
+2020-03-14,NewYork,Sports,19.0,23.0,19.0,29
+2020-03-14,NewYork,Beach,139.0,131.0,140.0,30
+2020-03-14,NewYork,Skiing,25.0,27.0,25.0,31
+2020-03-14,NewYork,Spiritual Center,3.0,"",3.0,32
+2020-03-14,NewYork,Light Rail Stations,104.0,"",104.0,33
+2020-03-15,NewYork,Food,30.0,29.0,30.0,1
+2020-03-15,NewYork,Shops & Services,23.0,20.0,23.0,2
+2020-03-15,NewYork,Grocery,105.0,102.0,105.0,3
+2020-03-15,NewYork,Outdoors & Recreation,37.0,38.0,37.0,4
+2020-03-15,NewYork,Nightlife Spots,34.0,36.0,34.0,5
+2020-03-15,NewYork,Convenience Store,89.0,85.0,89.0,6
+2020-03-15,NewYork,Drug Store,106.0,104.0,106.0,7
+2020-03-15,NewYork,Big Box Stores,94.0,85.0,94.0,8
+2020-03-15,NewYork,Gas Stations,88.0,83.0,88.0,9
+2020-03-15,NewYork,Arts & Entertainment,33.0,31.0,33.0,10
+2020-03-15,NewYork,Fast Food Restaurants,81.0,74.0,82.0,11
+2020-03-15,NewYork,Professional & Other Places,12.0,11.0,12.0,12
+2020-03-15,NewYork,Residences,78.0,69.0,78.0,13
+2020-03-15,NewYork,Medical,43.0,34.0,43.0,14
+2020-03-15,NewYork,Metro Stations,61.0,57.0,61.0,15
+2020-03-15,NewYork,School,49.0,45.0,49.0,16
+2020-03-15,NewYork,Airport,40.0,35.0,40.0,17
+2020-03-15,NewYork,Fitness Center,41.0,37.0,42.0,18
+2020-03-15,NewYork,Travel & Transport,20.0,21.0,20.0,19
+2020-03-15,NewYork,Hardware Stores,117.0,101.0,118.0,20
+2020-03-15,NewYork,Discount Stores,114.0,110.0,114.0,21
+2020-03-15,NewYork,Hotel,43.0,41.0,43.0,22
+2020-03-15,NewYork,Colleges & Universities,31.0,34.0,31.0,23
+2020-03-15,NewYork,Bus,58.0,53.0,58.0,24
+2020-03-15,NewYork,Government,49.0,45.0,49.0,25
+2020-03-15,NewYork,Sports,19.0,24.0,19.0,26
+2020-03-15,NewYork,Office,58.0,57.0,58.0,27
+2020-03-15,NewYork,Banks,75.0,73.0,75.0,28
+2020-03-15,NewYork,Alcohol,88.0,85.0,88.0,29
+2020-03-15,NewYork,Beach,116.0,116.0,116.0,30
+2020-03-15,NewYork,Skiing,24.0,26.0,24.0,31
+2020-03-15,NewYork,Spiritual Center,2.0,"",2.0,32
+2020-03-16,NewYork,Food,32.0,32.0,32.0,1
+2020-03-16,NewYork,Shops & Services,27.0,25.0,27.0,2
+2020-03-16,NewYork,Grocery,142.0,134.0,143.0,3
+2020-03-16,NewYork,Medical,43.0,38.0,43.0,4
+2020-03-16,NewYork,Outdoors & Recreation,30.0,31.0,30.0,5
+2020-03-16,NewYork,Professional & Other Places,12.0,12.0,12.0,6
+2020-03-16,NewYork,Nightlife Spots,43.0,44.0,43.0,7
+2020-03-16,NewYork,Convenience Store,89.0,82.0,90.0,8
+2020-03-16,NewYork,Drug Store,118.0,113.0,118.0,9
+2020-03-16,NewYork,Gas Stations,97.0,91.0,98.0,10
+2020-03-16,NewYork,Metro Stations,58.0,59.0,58.0,11
+2020-03-16,NewYork,School,33.0,34.0,33.0,12
+2020-03-16,NewYork,Big Box Stores,118.0,99.0,119.0,13
+2020-03-16,NewYork,Fast Food Restaurants,86.0,79.0,86.0,14
+2020-03-16,NewYork,Office,51.0,56.0,51.0,15
+2020-03-16,NewYork,Travel & Transport,27.0,30.0,27.0,16
+2020-03-16,NewYork,Residences,83.0,75.0,83.0,17
+2020-03-16,NewYork,Arts & Entertainment,40.0,40.0,40.0,18
+2020-03-16,NewYork,Fitness Center,37.0,32.0,38.0,19
+2020-03-16,NewYork,Government,56.0,52.0,56.0,20
+2020-03-16,NewYork,Colleges & Universities,22.0,32.0,22.0,21
+2020-03-16,NewYork,Airport,35.0,28.0,36.0,22
+2020-03-16,NewYork,Banks,108.0,107.0,108.0,23
+2020-03-16,NewYork,Hardware Stores,113.0,100.0,114.0,24
+2020-03-16,NewYork,Bus,58.0,56.0,58.0,25
+2020-03-16,NewYork,Discount Stores,124.0,110.0,125.0,26
+2020-03-16,NewYork,Hotel,49.0,49.0,49.0,27
+2020-03-16,NewYork,Alcohol,128.0,114.0,129.0,28
+2020-03-16,NewYork,Sports,16.0,19.0,16.0,29
+2020-03-16,NewYork,Beach,78.0,75.0,78.0,30
+2020-03-16,NewYork,Spiritual Center,4.0,"",4.0,31
+2020-03-16,NewYork,Skiing,27.0,"",27.0,32
+2020-03-16,NewYork,Light Rail Stations,88.0,"",88.0,33
+2020-03-17,NewYork,Food,25.0,23.0,25.0,1
+2020-03-17,NewYork,Shops & Services,22.0,19.0,22.0,2
+2020-03-17,NewYork,Grocery,119.0,106.0,120.0,3
+2020-03-17,NewYork,Outdoors & Recreation,29.0,29.0,29.0,4
+2020-03-17,NewYork,Medical,34.0,30.0,34.0,5
+2020-03-17,NewYork,Convenience Store,77.0,72.0,77.0,6
+2020-03-17,NewYork,Professional & Other Places,9.0,9.0,9.0,7
+2020-03-17,NewYork,Drug Store,99.0,92.0,99.0,8
+2020-03-17,NewYork,Gas Stations,84.0,75.0,84.0,9
+2020-03-17,NewYork,Nightlife Spots,31.0,33.0,31.0,10
+2020-03-17,NewYork,Metro Stations,47.0,47.0,47.0,11
+2020-03-17,NewYork,School,27.0,27.0,27.0,12
+2020-03-17,NewYork,Big Box Stores,102.0,81.0,102.0,13
+2020-03-17,NewYork,Fast Food Restaurants,71.0,61.0,71.0,14
+2020-03-17,NewYork,Office,36.0,42.0,36.0,15
+2020-03-17,NewYork,Residences,75.0,67.0,75.0,16
+2020-03-17,NewYork,Travel & Transport,16.0,19.0,16.0,17
+2020-03-17,NewYork,Colleges & Universities,18.0,25.0,17.0,18
+2020-03-17,NewYork,Arts & Entertainment,31.0,34.0,31.0,19
+2020-03-17,NewYork,Government,39.0,36.0,39.0,20
+2020-03-17,NewYork,Airport,32.0,25.0,32.0,21
+2020-03-17,NewYork,Hardware Stores,98.0,86.0,99.0,22
+2020-03-17,NewYork,Bus,49.0,45.0,49.0,23
+2020-03-17,NewYork,Fitness Center,21.0,21.0,21.0,24
+2020-03-17,NewYork,Banks,73.0,63.0,73.0,25
+2020-03-17,NewYork,Discount Stores,101.0,91.0,101.0,26
+2020-03-17,NewYork,Hotel,39.0,41.0,39.0,27
+2020-03-17,NewYork,Sports,13.0,17.0,13.0,28
+2020-03-17,NewYork,Alcohol,108.0,86.0,110.0,29
+2020-03-17,NewYork,Beach,104.0,108.0,104.0,30
+2020-03-17,NewYork,Spiritual Center,3.0,"",3.0,31
+2020-03-17,NewYork,Skiing,31.0,"",30.0,32
+2020-03-17,NewYork,Light Rail Stations,83.0,"",82.0,33
+2020-03-18,NewYork,Food,23.0,23.0,23.0,1
+2020-03-18,NewYork,Shops & Services,21.0,19.0,21.0,2
+2020-03-18,NewYork,Grocery,105.0,93.0,106.0,3
+2020-03-18,NewYork,Outdoors & Recreation,32.0,32.0,32.0,4
+2020-03-18,NewYork,Medical,32.0,27.0,32.0,5
+2020-03-18,NewYork,Convenience Store,75.0,71.0,75.0,6
+2020-03-18,NewYork,Professional & Other Places,9.0,9.0,9.0,7
+2020-03-18,NewYork,Gas Stations,80.0,72.0,81.0,8
+2020-03-18,NewYork,Drug Store,92.0,82.0,92.0,9
+2020-03-18,NewYork,School,27.0,28.0,27.0,10
+2020-03-18,NewYork,Nightlife Spots,26.0,30.0,26.0,11
+2020-03-18,NewYork,Metro Stations,42.0,43.0,42.0,12
+2020-03-18,NewYork,Fast Food Restaurants,67.0,57.0,67.0,13
+2020-03-18,NewYork,Big Box Stores,89.0,71.0,90.0,14
+2020-03-18,NewYork,Residences,73.0,63.0,73.0,15
+2020-03-18,NewYork,Office,34.0,38.0,34.0,16
+2020-03-18,NewYork,Travel & Transport,9.0,13.0,9.0,17
+2020-03-18,NewYork,Arts & Entertainment,30.0,30.0,30.0,18
+2020-03-18,NewYork,Colleges & Universities,18.0,24.0,18.0,19
+2020-03-18,NewYork,Government,38.0,34.0,39.0,20
+2020-03-18,NewYork,Hardware Stores,97.0,81.0,98.0,21
+2020-03-18,NewYork,Airport,27.0,25.0,27.0,22
+2020-03-18,NewYork,Fitness Center,21.0,20.0,21.0,23
+2020-03-18,NewYork,Bus,47.0,43.0,47.0,24
+2020-03-18,NewYork,Banks,72.0,68.0,73.0,25
+2020-03-18,NewYork,Discount Stores,96.0,85.0,96.0,26
+2020-03-18,NewYork,Hotel,34.0,40.0,34.0,27
+2020-03-18,NewYork,Sports,15.0,21.0,15.0,28
+2020-03-18,NewYork,Alcohol,92.0,77.0,93.0,29
+2020-03-18,NewYork,Beach,135.0,117.0,136.0,30
+2020-03-18,NewYork,Spiritual Center,3.0,"",3.0,31
+2020-03-18,NewYork,Light Rail Stations,87.0,"",87.0,32
+2020-03-18,NewYork,Skiing,25.0,"",24.0,33
+2020-03-19,NewYork,Food,21.0,21.0,21.0,1
+2020-03-19,NewYork,Shops & Services,20.0,19.0,20.0,2
+2020-03-19,NewYork,Grocery,98.0,91.0,98.0,3
+2020-03-19,NewYork,Outdoors & Recreation,28.0,30.0,28.0,4
+2020-03-19,NewYork,Medical,30.0,25.0,30.0,5
+2020-03-19,NewYork,Convenience Store,67.0,64.0,67.0,6
+2020-03-19,NewYork,Professional & Other Places,8.0,8.0,8.0,7
+2020-03-19,NewYork,Gas Stations,73.0,68.0,74.0,8
+2020-03-19,NewYork,Drug Store,82.0,81.0,82.0,9
+2020-03-19,NewYork,School,25.0,25.0,25.0,10
+2020-03-19,NewYork,Nightlife Spots,25.0,31.0,25.0,11
+2020-03-19,NewYork,Metro Stations,36.0,37.0,36.0,12
+2020-03-19,NewYork,Fast Food Restaurants,61.0,58.0,62.0,13
+2020-03-19,NewYork,Big Box Stores,84.0,76.0,84.0,14
+2020-03-19,NewYork,Residences,67.0,58.0,68.0,15
+2020-03-19,NewYork,Office,31.0,37.0,31.0,16
+2020-03-19,NewYork,Travel & Transport,13.0,17.0,13.0,17
+2020-03-19,NewYork,Colleges & Universities,16.0,23.0,16.0,18
+2020-03-19,NewYork,Arts & Entertainment,26.0,29.0,26.0,19
+2020-03-19,NewYork,Government,35.0,33.0,35.0,20
+2020-03-19,NewYork,Hardware Stores,93.0,89.0,93.0,21
+2020-03-19,NewYork,Airport,23.0,28.0,23.0,22
+2020-03-19,NewYork,Banks,68.0,71.0,67.0,23
+2020-03-19,NewYork,Fitness Center,19.0,20.0,19.0,24
+2020-03-19,NewYork,Bus,40.0,37.0,40.0,25
+2020-03-19,NewYork,Discount Stores,87.0,85.0,87.0,26
+2020-03-19,NewYork,Hotel,33.0,36.0,32.0,27
+2020-03-19,NewYork,Sports,14.0,18.0,13.0,28
+2020-03-19,NewYork,Alcohol,82.0,79.0,82.0,29
+2020-03-19,NewYork,Beach,108.0,93.0,109.0,30
+2020-03-19,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-19,NewYork,Skiing,25.0,"",25.0,32
+2020-03-19,NewYork,Light Rail Stations,73.0,"",74.0,33
+2020-03-20,NewYork,Food,22.0,22.0,22.0,1
+2020-03-20,NewYork,Shops & Services,19.0,17.0,19.0,2
+2020-03-20,NewYork,Grocery,110.0,98.0,111.0,3
+2020-03-20,NewYork,Outdoors & Recreation,32.0,33.0,32.0,4
+2020-03-20,NewYork,Medical,31.0,26.0,32.0,5
+2020-03-20,NewYork,Convenience Store,72.0,68.0,72.0,6
+2020-03-20,NewYork,Gas Stations,76.0,72.0,77.0,7
+2020-03-20,NewYork,Drug Store,88.0,85.0,88.0,8
+2020-03-20,NewYork,Professional & Other Places,9.0,9.0,9.0,9
+2020-03-20,NewYork,Nightlife Spots,23.0,28.0,23.0,10
+2020-03-20,NewYork,Big Box Stores,96.0,76.0,97.0,11
+2020-03-20,NewYork,Fast Food Restaurants,66.0,62.0,66.0,12
+2020-03-20,NewYork,School,25.0,26.0,25.0,13
+2020-03-20,NewYork,Metro Stations,36.0,35.0,36.0,14
+2020-03-20,NewYork,Residences,71.0,60.0,71.0,15
+2020-03-20,NewYork,Travel & Transport,14.0,18.0,14.0,16
+2020-03-20,NewYork,Office,33.0,40.0,33.0,17
+2020-03-20,NewYork,Arts & Entertainment,25.0,26.0,25.0,18
+2020-03-20,NewYork,Hardware Stores,109.0,90.0,110.0,19
+2020-03-20,NewYork,Banks,74.0,72.0,74.0,20
+2020-03-20,NewYork,Colleges & Universities,21.0,28.0,21.0,21
+2020-03-20,NewYork,Government,37.0,36.0,37.0,22
+2020-03-20,NewYork,Fitness Center,21.0,21.0,21.0,23
+2020-03-20,NewYork,Bus,43.0,42.0,43.0,24
+2020-03-20,NewYork,Discount Stores,91.0,81.0,92.0,25
+2020-03-20,NewYork,Airport,18.0,17.0,18.0,26
+2020-03-20,NewYork,Alcohol,107.0,99.0,107.0,27
+2020-03-20,NewYork,Hotel,30.0,38.0,30.0,28
+2020-03-20,NewYork,Sports,15.0,19.0,15.0,29
+2020-03-20,NewYork,Beach,138.0,130.0,138.0,30
+2020-03-20,NewYork,Spiritual Center,3.0,"",3.0,31
+2020-03-20,NewYork,Skiing,15.0,"",15.0,32
+2020-03-20,NewYork,Light Rail Stations,82.0,"",82.0,33
+2020-03-21,NewYork,Food,17.0,17.0,17.0,1
+2020-03-21,NewYork,Shops & Services,14.0,13.0,14.0,2
+2020-03-21,NewYork,Grocery,89.0,79.0,89.0,3
+2020-03-21,NewYork,Outdoors & Recreation,31.0,33.0,31.0,4
+2020-03-21,NewYork,Convenience Store,67.0,63.0,67.0,5
+2020-03-21,NewYork,Gas Stations,70.0,74.0,69.0,6
+2020-03-21,NewYork,Drug Store,79.0,76.0,79.0,7
+2020-03-21,NewYork,Big Box Stores,71.0,60.0,71.0,8
+2020-03-21,NewYork,Nightlife Spots,15.0,20.0,15.0,9
+2020-03-21,NewYork,Fast Food Restaurants,56.0,53.0,56.0,10
+2020-03-21,NewYork,Professional & Other Places,10.0,10.0,10.0,11
+2020-03-21,NewYork,Medical,31.0,26.0,31.0,12
+2020-03-21,NewYork,Hardware Stores,95.0,84.0,95.0,13
+2020-03-21,NewYork,Residences,60.0,52.0,60.0,14
+2020-03-21,NewYork,School,30.0,29.0,30.0,15
+2020-03-21,NewYork,Arts & Entertainment,17.0,19.0,17.0,16
+2020-03-21,NewYork,Metro Stations,36.0,37.0,36.0,17
+2020-03-21,NewYork,Travel & Transport,29.0,30.0,29.0,18
+2020-03-21,NewYork,Discount Stores,79.0,68.0,79.0,19
+2020-03-21,NewYork,Banks,62.0,56.0,62.0,20
+2020-03-21,NewYork,Fitness Center,17.0,17.0,17.0,21
+2020-03-21,NewYork,Colleges & Universities,23.0,25.0,23.0,22
+2020-03-21,NewYork,Bus,43.0,42.0,43.0,23
+2020-03-21,NewYork,Airport,18.0,15.0,18.0,24
+2020-03-21,NewYork,Government,39.0,37.0,39.0,25
+2020-03-21,NewYork,Alcohol,76.0,76.0,76.0,26
+2020-03-21,NewYork,Office,40.0,40.0,40.0,27
+2020-03-21,NewYork,Hotel,22.0,27.0,21.0,28
+2020-03-21,NewYork,Sports,13.0,19.0,13.0,28
+2020-03-21,NewYork,Beach,155.0,150.0,155.0,29
+2020-03-21,NewYork,Skiing,6.0,"",6.0,30
+2020-03-21,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-22,NewYork,Food,13.0,14.0,13.0,1
+2020-03-22,NewYork,Shops & Services,11.0,10.0,11.0,2
+2020-03-22,NewYork,Grocery,66.0,65.0,66.0,3
+2020-03-22,NewYork,Outdoors & Recreation,25.0,30.0,25.0,4
+2020-03-22,NewYork,Convenience Store,58.0,58.0,58.0,5
+2020-03-22,NewYork,Big Box Stores,63.0,57.0,63.0,6
+2020-03-22,NewYork,Gas Stations,57.0,57.0,57.0,7
+2020-03-22,NewYork,Drug Store,64.0,62.0,64.0,8
+2020-03-22,NewYork,Nightlife Spots,12.0,18.0,12.0,9
+2020-03-22,NewYork,Fast Food Restaurants,48.0,48.0,48.0,10
+2020-03-22,NewYork,Medical,28.0,21.0,28.0,11
+2020-03-22,NewYork,Residences,49.0,48.0,49.0,12
+2020-03-22,NewYork,Professional & Other Places,7.0,7.0,7.0,13
+2020-03-22,NewYork,Hardware Stores,85.0,71.0,86.0,14
+2020-03-22,NewYork,School,31.0,29.0,31.0,15
+2020-03-22,NewYork,Arts & Entertainment,15.0,18.0,14.0,16
+2020-03-22,NewYork,Metro Stations,30.0,27.0,30.0,17
+2020-03-22,NewYork,Travel & Transport,26.0,27.0,26.0,18
+2020-03-22,NewYork,Discount Stores,66.0,61.0,66.0,19
+2020-03-22,NewYork,Airport,16.0,16.0,16.0,20
+2020-03-22,NewYork,Colleges & Universities,21.0,29.0,21.0,21
+2020-03-22,NewYork,Government,32.0,29.0,32.0,22
+2020-03-22,NewYork,Fitness Center,14.0,15.0,14.0,23
+2020-03-22,NewYork,Sports,12.0,18.0,12.0,24
+2020-03-22,NewYork,Bus,33.0,33.0,33.0,25
+2020-03-22,NewYork,Hotel,18.0,23.0,18.0,26
+2020-03-22,NewYork,Banks,51.0,50.0,51.0,27
+2020-03-22,NewYork,Office,34.0,34.0,34.0,28
+2020-03-22,NewYork,Alcohol,56.0,58.0,56.0,29
+2020-03-22,NewYork,Beach,79.0,94.0,78.0,30
+2020-03-22,NewYork,Skiing,7.0,"",7.0,31
+2020-03-22,NewYork,Spiritual Center,1.0,"",1.0,32
+2020-03-23,NewYork,Food,13.0,13.0,13.0,1
+2020-03-23,NewYork,Shops & Services,12.0,11.0,12.0,2
+2020-03-23,NewYork,Grocery,60.0,53.0,61.0,3
+2020-03-23,NewYork,Medical,24.0,18.0,24.0,4
+2020-03-23,NewYork,Outdoors & Recreation,15.0,17.0,15.0,5
+2020-03-23,NewYork,Professional & Other Places,7.0,6.0,7.0,6
+2020-03-23,NewYork,Convenience Store,49.0,43.0,49.0,7
+2020-03-23,NewYork,Gas Stations,52.0,44.0,52.0,8
+2020-03-23,NewYork,Drug Store,53.0,47.0,53.0,9
+2020-03-23,NewYork,Nightlife Spots,17.0,19.0,17.0,10
+2020-03-23,NewYork,School,16.0,15.0,16.0,11
+2020-03-23,NewYork,Fast Food Restaurants,44.0,36.0,44.0,12
+2020-03-23,NewYork,Residences,47.0,41.0,47.0,13
+2020-03-23,NewYork,Big Box Stores,56.0,40.0,57.0,14
+2020-03-23,NewYork,Metro Stations,25.0,26.0,25.0,15
+2020-03-23,NewYork,Office,24.0,29.0,24.0,16
+2020-03-23,NewYork,Travel & Transport,17.0,18.0,17.0,17
+2020-03-23,NewYork,Government,26.0,22.0,27.0,18
+2020-03-23,NewYork,Hardware Stores,61.0,49.0,62.0,19
+2020-03-23,NewYork,Colleges & Universities,11.0,16.0,11.0,20
+2020-03-23,NewYork,Arts & Entertainment,14.0,17.0,14.0,21
+2020-03-23,NewYork,Airport,14.0,11.0,14.0,22
+2020-03-23,NewYork,Bus,29.0,26.0,29.0,23
+2020-03-23,NewYork,Banks,43.0,40.0,43.0,24
+2020-03-23,NewYork,Fitness Center,12.0,12.0,12.0,25
+2020-03-23,NewYork,Hotel,21.0,22.0,21.0,26
+2020-03-23,NewYork,Discount Stores,52.0,40.0,52.0,27
+2020-03-23,NewYork,Sports,8.0,10.0,8.0,28
+2020-03-23,NewYork,Alcohol,53.0,46.0,53.0,29
+2020-03-23,NewYork,Beach,42.0,32.0,42.0,30
+2020-03-23,NewYork,Spiritual Center,3.0,"",3.0,31
+2020-03-24,NewYork,Food,16.0,16.0,16.0,1
+2020-03-24,NewYork,Shops & Services,12.0,11.0,12.0,2
+2020-03-24,NewYork,Grocery,71.0,65.0,72.0,3
+2020-03-24,NewYork,Outdoors & Recreation,26.0,29.0,26.0,4
+2020-03-24,NewYork,Medical,23.0,18.0,23.0,5
+2020-03-24,NewYork,Professional & Other Places,7.0,7.0,7.0,6
+2020-03-24,NewYork,Convenience Store,54.0,48.0,54.0,7
+2020-03-24,NewYork,Gas Stations,58.0,52.0,59.0,8
+2020-03-24,NewYork,Drug Store,63.0,59.0,63.0,9
+2020-03-24,NewYork,School,18.0,21.0,18.0,10
+2020-03-24,NewYork,Nightlife Spots,20.0,22.0,20.0,11
+2020-03-24,NewYork,Residences,55.0,53.0,55.0,12
+2020-03-24,NewYork,Fast Food Restaurants,49.0,44.0,49.0,13
+2020-03-24,NewYork,Metro Stations,26.0,29.0,26.0,14
+2020-03-24,NewYork,Big Box Stores,66.0,56.0,67.0,15
+2020-03-24,NewYork,Office,23.0,29.0,23.0,16
+2020-03-24,NewYork,Travel & Transport,19.0,20.0,19.0,17
+2020-03-24,NewYork,Arts & Entertainment,21.0,23.0,21.0,18
+2020-03-24,NewYork,Government,25.0,23.0,25.0,19
+2020-03-24,NewYork,Colleges & Universities,12.0,21.0,12.0,20
+2020-03-24,NewYork,Hardware Stores,70.0,57.0,70.0,21
+2020-03-24,NewYork,Fitness Center,14.0,14.0,14.0,22
+2020-03-24,NewYork,Bus,30.0,30.0,30.0,23
+2020-03-24,NewYork,Banks,46.0,43.0,46.0,24
+2020-03-24,NewYork,Discount Stores,62.0,52.0,63.0,25
+2020-03-24,NewYork,Airport,14.0,9.0,14.0,26
+2020-03-24,NewYork,Sports,11.0,15.0,11.0,27
+2020-03-24,NewYork,Hotel,23.0,26.0,22.0,28
+2020-03-24,NewYork,Beach,154.0,151.0,154.0,29
+2020-03-24,NewYork,Alcohol,68.0,59.0,68.0,30
+2020-03-24,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-25,NewYork,Food,15.0,14.0,15.0,1
+2020-03-25,NewYork,Shops & Services,12.0,12.0,12.0,2
+2020-03-25,NewYork,Grocery,67.0,55.0,67.0,3
+2020-03-25,NewYork,Outdoors & Recreation,21.0,23.0,21.0,4
+2020-03-25,NewYork,Medical,22.0,17.0,22.0,5
+2020-03-25,NewYork,Professional & Other Places,6.0,6.0,6.0,6
+2020-03-25,NewYork,Convenience Store,50.0,45.0,51.0,7
+2020-03-25,NewYork,Gas Stations,54.0,47.0,54.0,8
+2020-03-25,NewYork,Drug Store,56.0,51.0,56.0,9
+2020-03-25,NewYork,Nightlife Spots,19.0,22.0,19.0,10
+2020-03-25,NewYork,School,16.0,18.0,16.0,11
+2020-03-25,NewYork,Fast Food Restaurants,48.0,41.0,48.0,12
+2020-03-25,NewYork,Big Box Stores,64.0,51.0,64.0,13
+2020-03-25,NewYork,Residences,51.0,43.0,51.0,14
+2020-03-25,NewYork,Metro Stations,25.0,27.0,25.0,15
+2020-03-25,NewYork,Office,21.0,26.0,21.0,16
+2020-03-25,NewYork,Travel & Transport,17.0,19.0,17.0,17
+2020-03-25,NewYork,Arts & Entertainment,19.0,19.0,19.0,18
+2020-03-25,NewYork,Hardware Stores,69.0,55.0,70.0,19
+2020-03-25,NewYork,Government,25.0,23.0,25.0,20
+2020-03-25,NewYork,Colleges & Universities,10.0,16.0,10.0,21
+2020-03-25,NewYork,Fitness Center,12.0,12.0,12.0,22
+2020-03-25,NewYork,Banks,44.0,42.0,44.0,23
+2020-03-25,NewYork,Bus,28.0,26.0,28.0,24
+2020-03-25,NewYork,Discount Stores,58.0,48.0,59.0,25
+2020-03-25,NewYork,Airport,13.0,11.0,13.0,26
+2020-03-25,NewYork,Hotel,22.0,27.0,22.0,27
+2020-03-25,NewYork,Sports,10.0,13.0,10.0,28
+2020-03-25,NewYork,Alcohol,59.0,54.0,59.0,29
+2020-03-25,NewYork,Beach,71.0,57.0,72.0,30
+2020-03-25,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-25,NewYork,Skiing,20.0,"",20.0,32
+2020-03-26,NewYork,Food,17.0,17.0,17.0,1
+2020-03-26,NewYork,Shops & Services,14.0,13.0,14.0,2
+2020-03-26,NewYork,Outdoors & Recreation,31.0,35.0,31.0,3
+2020-03-26,NewYork,Grocery,74.0,65.0,74.0,4
+2020-03-26,NewYork,Medical,23.0,19.0,23.0,5
+2020-03-26,NewYork,Convenience Store,57.0,54.0,57.0,6
+2020-03-26,NewYork,Professional & Other Places,7.0,7.0,7.0,7
+2020-03-26,NewYork,Gas Stations,61.0,55.0,61.0,8
+2020-03-26,NewYork,Nightlife Spots,21.0,24.0,21.0,9
+2020-03-26,NewYork,School,20.0,22.0,20.0,10
+2020-03-26,NewYork,Drug Store,59.0,55.0,59.0,11
+2020-03-26,NewYork,Fast Food Restaurants,54.0,50.0,54.0,12
+2020-03-26,NewYork,Big Box Stores,68.0,60.0,68.0,13
+2020-03-26,NewYork,Residences,57.0,50.0,57.0,14
+2020-03-26,NewYork,Metro Stations,26.0,25.0,26.0,15
+2020-03-26,NewYork,Office,23.0,29.0,23.0,16
+2020-03-26,NewYork,Arts & Entertainment,23.0,27.0,23.0,17
+2020-03-26,NewYork,Travel & Transport,11.0,13.0,11.0,18
+2020-03-26,NewYork,Hardware Stores,81.0,72.0,81.0,19
+2020-03-26,NewYork,Government,28.0,28.0,28.0,20
+2020-03-26,NewYork,Colleges & Universities,12.0,19.0,12.0,21
+2020-03-26,NewYork,Banks,52.0,52.0,52.0,22
+2020-03-26,NewYork,Bus,31.0,27.0,32.0,23
+2020-03-26,NewYork,Fitness Center,14.0,15.0,14.0,24
+2020-03-26,NewYork,Sports,15.0,22.0,15.0,25
+2020-03-26,NewYork,Discount Stores,67.0,61.0,67.0,26
+2020-03-26,NewYork,Hotel,25.0,28.0,25.0,27
+2020-03-26,NewYork,Airport,11.0,10.0,12.0,28
+2020-03-26,NewYork,Beach,160.0,166.0,160.0,29
+2020-03-26,NewYork,Alcohol,62.0,61.0,62.0,30
+2020-03-26,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-26,NewYork,Skiing,25.0,"",25.0,32
+2020-03-26,NewYork,Light Rail Stations,73.0,"",74.0,33
+2020-03-27,NewYork,Food,17.0,17.0,17.0,1
+2020-03-27,NewYork,Shops & Services,13.0,13.0,13.0,2
+2020-03-27,NewYork,Grocery,74.0,68.0,74.0,3
+2020-03-27,NewYork,Outdoors & Recreation,30.0,33.0,30.0,4
+2020-03-27,NewYork,Medical,25.0,21.0,25.0,5
+2020-03-27,NewYork,Convenience Store,57.0,55.0,57.0,6
+2020-03-27,NewYork,Professional & Other Places,8.0,8.0,8.0,7
+2020-03-27,NewYork,Gas Stations,60.0,55.0,60.0,8
+2020-03-27,NewYork,Nightlife Spots,20.0,25.0,20.0,9
+2020-03-27,NewYork,Drug Store,60.0,59.0,60.0,10
+2020-03-27,NewYork,Fast Food Restaurants,55.0,50.0,56.0,11
+2020-03-27,NewYork,School,21.0,22.0,21.0,12
+2020-03-27,NewYork,Big Box Stores,70.0,58.0,70.0,13
+2020-03-27,NewYork,Residences,57.0,52.0,57.0,14
+2020-03-27,NewYork,Metro Stations,27.0,27.0,27.0,15
+2020-03-27,NewYork,Arts & Entertainment,24.0,27.0,24.0,16
+2020-03-27,NewYork,Travel & Transport,14.0,18.0,14.0,17
+2020-03-27,NewYork,Hardware Stores,88.0,78.0,89.0,18
+2020-03-27,NewYork,Office,25.0,32.0,24.0,19
+2020-03-27,NewYork,Government,29.0,28.0,29.0,20
+2020-03-27,NewYork,Banks,52.0,50.0,52.0,21
+2020-03-27,NewYork,Colleges & Universities,14.0,21.0,14.0,22
+2020-03-27,NewYork,Fitness Center,16.0,15.0,16.0,23
+2020-03-27,NewYork,Bus,33.0,30.0,33.0,24
+2020-03-27,NewYork,Discount Stores,67.0,57.0,67.0,25
+2020-03-27,NewYork,Sports,15.0,19.0,15.0,26
+2020-03-27,NewYork,Hotel,24.0,30.0,23.0,27
+2020-03-27,NewYork,Alcohol,67.0,63.0,67.0,28
+2020-03-27,NewYork,Airport,10.0,9.0,10.0,29
+2020-03-27,NewYork,Beach,164.0,144.0,166.0,30
+2020-03-27,NewYork,Spiritual Center,3.0,"",3.0,31
+2020-03-27,NewYork,Skiing,12.0,"",12.0,32
+2020-03-28,NewYork,Food,12.0,12.0,12.0,1
+2020-03-28,NewYork,Shops & Services,11.0,9.0,11.0,2
+2020-03-28,NewYork,Grocery,65.0,55.0,66.0,3
+2020-03-28,NewYork,Outdoors & Recreation,17.0,20.0,17.0,4
+2020-03-28,NewYork,Big Box Stores,60.0,49.0,60.0,5
+2020-03-28,NewYork,Convenience Store,49.0,45.0,49.0,6
+2020-03-28,NewYork,Gas Stations,48.0,45.0,48.0,7
+2020-03-28,NewYork,Drug Store,53.0,55.0,53.0,8
+2020-03-28,NewYork,Fast Food Restaurants,46.0,41.0,46.0,9
+2020-03-28,NewYork,Nightlife Spots,11.0,15.0,11.0,10
+2020-03-28,NewYork,Medical,24.0,19.0,24.0,11
+2020-03-28,NewYork,Professional & Other Places,7.0,7.0,8.0,12
+2020-03-28,NewYork,Hardware Stores,74.0,65.0,75.0,13
+2020-03-28,NewYork,Residences,45.0,38.0,45.0,14
+2020-03-28,NewYork,School,21.0,22.0,21.0,15
+2020-03-28,NewYork,Metro Stations,25.0,26.0,25.0,16
+2020-03-28,NewYork,Arts & Entertainment,12.0,15.0,12.0,17
+2020-03-28,NewYork,Travel & Transport,19.0,19.0,19.0,18
+2020-03-28,NewYork,Discount Stores,55.0,48.0,55.0,19
+2020-03-28,NewYork,Banks,41.0,35.0,41.0,20
+2020-03-28,NewYork,Government,30.0,28.0,31.0,21
+2020-03-28,NewYork,Bus,30.0,28.0,30.0,22
+2020-03-28,NewYork,Fitness Center,11.0,11.0,11.0,23
+2020-03-28,NewYork,Colleges & Universities,14.0,16.0,14.0,24
+2020-03-28,NewYork,Alcohol,52.0,49.0,52.0,25
+2020-03-28,NewYork,Office,28.0,34.0,27.0,26
+2020-03-28,NewYork,Hotel,15.0,16.0,15.0,27
+2020-03-28,NewYork,Sports,9.0,11.0,9.0,28
+2020-03-28,NewYork,Airport,10.0,9.0,10.0,29
+2020-03-28,NewYork,Beach,64.0,63.0,64.0,30
+2020-03-28,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-29,NewYork,Food,9.0,10.0,9.0,1
+2020-03-29,NewYork,Shops & Services,10.0,9.0,10.0,2
+2020-03-29,NewYork,Grocery,51.0,48.0,51.0,3
+2020-03-29,NewYork,Outdoors & Recreation,17.0,19.0,17.0,4
+2020-03-29,NewYork,Big Box Stores,51.0,47.0,51.0,5
+2020-03-29,NewYork,Convenience Store,41.0,34.0,41.0,6
+2020-03-29,NewYork,Gas Stations,41.0,37.0,41.0,7
+2020-03-29,NewYork,Drug Store,47.0,43.0,47.0,8
+2020-03-29,NewYork,Fast Food Restaurants,40.0,35.0,40.0,9
+2020-03-29,NewYork,Nightlife Spots,8.0,13.0,8.0,10
+2020-03-29,NewYork,Medical,21.0,16.0,21.0,11
+2020-03-29,NewYork,Hardware Stores,63.0,55.0,63.0,12
+2020-03-29,NewYork,Professional & Other Places,5.0,4.0,5.0,13
+2020-03-29,NewYork,Residences,33.0,27.0,34.0,14
+2020-03-29,NewYork,School,19.0,16.0,19.0,15
+2020-03-29,NewYork,Metro Stations,21.0,16.0,21.0,16
+2020-03-29,NewYork,Arts & Entertainment,10.0,11.0,10.0,17
+2020-03-29,NewYork,Travel & Transport,7.0,9.0,7.0,18
+2020-03-29,NewYork,Discount Stores,45.0,42.0,45.0,19
+2020-03-29,NewYork,Government,23.0,22.0,23.0,20
+2020-03-29,NewYork,Colleges & Universities,16.0,20.0,16.0,21
+2020-03-29,NewYork,Bus,23.0,22.0,23.0,22
+2020-03-29,NewYork,Fitness Center,9.0,9.0,9.0,23
+2020-03-29,NewYork,Banks,36.0,32.0,36.0,24
+2020-03-29,NewYork,Sports,8.0,9.0,8.0,25
+2020-03-29,NewYork,Office,24.0,29.0,24.0,26
+2020-03-29,NewYork,Airport,7.0,7.0,7.0,27
+2020-03-29,NewYork,Hotel,10.0,12.0,10.0,28
+2020-03-29,NewYork,Alcohol,40.0,36.0,41.0,29
+2020-03-29,NewYork,Beach,39.0,35.0,39.0,30
+2020-03-30,NewYork,Food,14.0,14.0,14.0,1
+2020-03-30,NewYork,Shops & Services,11.0,11.0,11.0,2
+2020-03-30,NewYork,Grocery,63.0,61.0,63.0,3
+2020-03-30,NewYork,Outdoors & Recreation,18.0,21.0,18.0,4
+2020-03-30,NewYork,Medical,20.0,16.0,21.0,5
+2020-03-30,NewYork,Professional & Other Places,6.0,7.0,6.0,6
+2020-03-30,NewYork,Convenience Store,49.0,45.0,49.0,7
+2020-03-30,NewYork,Gas Stations,54.0,46.0,54.0,8
+2020-03-30,NewYork,Drug Store,54.0,52.0,54.0,9
+2020-03-30,NewYork,Fast Food Restaurants,48.0,38.0,48.0,10
+2020-03-30,NewYork,Nightlife Spots,18.0,21.0,18.0,11
+2020-03-30,NewYork,Big Box Stores,62.0,49.0,62.0,12
+2020-03-30,NewYork,School,16.0,17.0,16.0,13
+2020-03-30,NewYork,Metro Stations,25.0,24.0,25.0,14
+2020-03-30,NewYork,Residences,45.0,40.0,45.0,15
+2020-03-30,NewYork,Hardware Stores,72.0,58.0,72.0,16
+2020-03-30,NewYork,Office,21.0,28.0,21.0,17
+2020-03-30,NewYork,Travel & Transport,19.0,18.0,19.0,18
+2020-03-30,NewYork,Arts & Entertainment,17.0,20.0,17.0,19
+2020-03-30,NewYork,Government,24.0,23.0,24.0,20
+2020-03-30,NewYork,Banks,52.0,48.0,52.0,21
+2020-03-30,NewYork,Colleges & Universities,11.0,18.0,11.0,22
+2020-03-30,NewYork,Bus,27.0,26.0,27.0,23
+2020-03-30,NewYork,Fitness Center,12.0,11.0,12.0,24
+2020-03-30,NewYork,Discount Stores,56.0,51.0,56.0,25
+2020-03-30,NewYork,Sports,10.0,14.0,9.0,26
+2020-03-30,NewYork,Hotel,19.0,22.0,19.0,27
+2020-03-30,NewYork,Airport,7.0,5.0,7.0,28
+2020-03-30,NewYork,Alcohol,58.0,49.0,58.0,29
+2020-03-30,NewYork,Beach,65.0,57.0,65.0,30
+2020-03-30,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-03-31,NewYork,Food,13.0,14.0,13.0,1
+2020-03-31,NewYork,Shops & Services,12.0,11.0,12.0,2
+2020-03-31,NewYork,Grocery,61.0,57.0,61.0,3
+2020-03-31,NewYork,Outdoors & Recreation,19.0,22.0,19.0,4
+2020-03-31,NewYork,Medical,18.0,16.0,18.0,5
+2020-03-31,NewYork,Convenience Store,48.0,45.0,48.0,6
+2020-03-31,NewYork,Professional & Other Places,5.0,6.0,5.0,7
+2020-03-31,NewYork,Gas Stations,51.0,47.0,51.0,8
+2020-03-31,NewYork,Drug Store,53.0,51.0,53.0,9
+2020-03-31,NewYork,Fast Food Restaurants,48.0,40.0,48.0,10
+2020-03-31,NewYork,Nightlife Spots,18.0,23.0,18.0,11
+2020-03-31,NewYork,Big Box Stores,62.0,54.0,63.0,12
+2020-03-31,NewYork,School,14.0,16.0,14.0,13
+2020-03-31,NewYork,Metro Stations,22.0,20.0,22.0,14
+2020-03-31,NewYork,Residences,43.0,37.0,43.0,15
+2020-03-31,NewYork,Hardware Stores,72.0,64.0,73.0,16
+2020-03-31,NewYork,Office,18.0,24.0,17.0,17
+2020-03-31,NewYork,Travel & Transport,15.0,17.0,14.0,18
+2020-03-31,NewYork,Arts & Entertainment,17.0,20.0,17.0,19
+2020-03-31,NewYork,Government,21.0,21.0,21.0,20
+2020-03-31,NewYork,Banks,48.0,49.0,48.0,21
+2020-03-31,NewYork,Colleges & Universities,8.0,15.0,8.0,22
+2020-03-31,NewYork,Fitness Center,10.0,11.0,10.0,23
+2020-03-31,NewYork,Bus,23.0,21.0,24.0,24
+2020-03-31,NewYork,Discount Stores,55.0,55.0,55.0,25
+2020-03-31,NewYork,Sports,9.0,13.0,9.0,26
+2020-03-31,NewYork,Hotel,18.0,22.0,18.0,27
+2020-03-31,NewYork,Alcohol,59.0,52.0,59.0,28
+2020-03-31,NewYork,Airport,8.0,7.0,8.0,29
+2020-03-31,NewYork,Beach,86.0,104.0,85.0,30
+2020-03-31,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-04-01,NewYork,Food,15.0,15.0,15.0,1
+2020-04-01,NewYork,Shops & Services,13.0,12.0,13.0,2
+2020-04-01,NewYork,Grocery,65.0,55.0,65.0,3
+2020-04-01,NewYork,Outdoors & Recreation,23.0,25.0,23.0,4
+2020-04-01,NewYork,Medical,20.0,16.0,20.0,5
+2020-04-01,NewYork,Convenience Store,53.0,49.0,53.0,6
+2020-04-01,NewYork,Professional & Other Places,6.0,6.0,6.0,7
+2020-04-01,NewYork,Gas Stations,56.0,50.0,56.0,8
+2020-04-01,NewYork,Drug Store,56.0,50.0,56.0,9
+2020-04-01,NewYork,Nightlife Spots,19.0,22.0,19.0,10
+2020-04-01,NewYork,Fast Food Restaurants,50.0,41.0,51.0,11
+2020-04-01,NewYork,School,16.0,19.0,16.0,12
+2020-04-01,NewYork,Big Box Stores,66.0,54.0,67.0,13
+2020-04-01,NewYork,Residences,48.0,41.0,48.0,14
+2020-04-01,NewYork,Metro Stations,22.0,21.0,22.0,15
+2020-04-01,NewYork,Hardware Stores,73.0,56.0,74.0,16
+2020-04-01,NewYork,Office,19.0,24.0,19.0,17
+2020-04-01,NewYork,Arts & Entertainment,18.0,19.0,18.0,18
+2020-04-01,NewYork,Travel & Transport,16.0,17.0,16.0,19
+2020-04-01,NewYork,Banks,57.0,58.0,57.0,20
+2020-04-01,NewYork,Government,24.0,21.0,24.0,21
+2020-04-01,NewYork,Colleges & Universities,9.0,15.0,9.0,22
+2020-04-01,NewYork,Fitness Center,11.0,10.0,12.0,23
+2020-04-01,NewYork,Discount Stores,61.0,53.0,61.0,24
+2020-04-01,NewYork,Bus,26.0,24.0,26.0,25
+2020-04-01,NewYork,Sports,11.0,15.0,11.0,26
+2020-04-01,NewYork,Hotel,19.0,24.0,19.0,27
+2020-04-01,NewYork,Alcohol,66.0,57.0,66.0,28
+2020-04-01,NewYork,Airport,8.0,6.0,8.0,29
+2020-04-01,NewYork,Beach,103.0,96.0,104.0,30
+2020-04-01,NewYork,Spiritual Center,2.0,"",2.0,31
+2020-04-01,NewYork,Skiing,22.0,"",22.0,32
