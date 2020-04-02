@@ -39,10 +39,18 @@ To deploy the app to visitdata.org:
    $ gcloud config set project os-covid
    ```
    
-## To deploy the app
+## To deploy the app to beta.visitdata.org:
 Run:
 
 ```bash
 $ cd .../ca_visit_tracking
-$ make deploy
+$ make deploy-beta
+```
+
+## To deploy the app to visitdata.org (production):
+Run:
+
+```bash
+$ cd .../ca_visit_tracking
+$ make deploy-prod
 ```
