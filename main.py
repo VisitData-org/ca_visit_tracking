@@ -34,6 +34,18 @@ def bydateselstate(state):
 def bydatesel(state, counties, venues):
     return render_template("bydate.html", state=state, counties=counties, venues=venues)
 
+@app.route("/allstate.html")
+def bystate():
+    return render_template("allstate.html", states="", venues="")
+
+@app.route("/bystatesel/<states>")
+def bystateselstate(states):
+    return render_template("allstate.html", states=states, venues="")
+
+@app.route("/bystatesel/<states>/<venues>")
+def bystatesel(states, venues):
+    return render_template("allstate.html", states=states, venues=venues)
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
