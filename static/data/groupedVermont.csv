@@ -1,1499 +1,508 @@
-2020-03-01,,Windsor County,Skiing,89.0,81.0,89.0,1
-2020-03-01,,Windsor County,Food,93.0,77.0,93.0,2
-2020-03-01,,Windsor County,Outdoors & Recreation,91.0,80.0,92.0,3
-2020-03-01,,Windsor County,Shops & Services,90.0,77.0,90.0,4
-2020-03-01,,Windsor County,Hotel,80.0,"",80.0,5
-2020-03-01,,Windsor County,Travel & Transport,79.0,"",79.0,6
-2020-03-01,,Windsor County,Nightlife Spots,72.0,"",71.0,7
-2020-03-01,,Addison County,Shops & Services,106.0,"",107.0,1
-2020-03-01,,Addison County,Colleges & Universities,161.0,"",161.0,2
-2020-03-01,,Addison County,Outdoors & Recreation,109.0,"",108.0,3
-2020-03-01,,Addison County,Food,100.0,"",99.0,4
-2020-03-01,,Franklin County,Shops & Services,87.0,105.0,86.0,1
-2020-03-01,,Franklin County,Food,90.0,"",89.0,2
-2020-03-01,,Rutland County,Shops & Services,93.0,109.0,92.0,1
-2020-03-01,,Rutland County,Skiing,74.0,70.0,74.0,2
-2020-03-01,,Rutland County,Outdoors & Recreation,77.0,68.0,77.0,3
-2020-03-01,,Rutland County,Food,92.0,83.0,93.0,4
-2020-03-01,,Rutland County,Nightlife Spots,73.0,"",74.0,5
-2020-03-01,,Rutland County,Hotel,82.0,"",82.0,6
-2020-03-01,,Rutland County,Travel & Transport,83.0,"",82.0,7
-2020-03-01,,Rutland County,Professional & Other Places,91.0,"",92.0,7
-2020-03-01,,Rutland County,Grocery,88.0,"",88.0,8
-2020-03-01,,Rutland County,Arts & Entertainment,125.0,"",126.0,9
-2020-03-01,,Rutland County,Convenience Store,114.0,"",112.0,10
-2020-03-01,,Windham County,Skiing,64.0,70.0,63.0,1
-2020-03-01,,Windham County,Outdoors & Recreation,73.0,77.0,73.0,2
-2020-03-01,,Windham County,Food,98.0,88.0,98.0,3
-2020-03-01,,Windham County,Shops & Services,96.0,98.0,96.0,4
-2020-03-01,,Windham County,Nightlife Spots,80.0,"",79.0,5
-2020-03-01,,Windham County,Travel & Transport,86.0,"",87.0,6
-2020-03-01,,Windham County,Hotel,68.0,"",68.0,7
-2020-03-01,,Caledonia County,Shops & Services,112.0,109.0,112.0,1
-2020-03-01,,Caledonia County,Food,84.0,"",84.0,2
-2020-03-01,,Chittenden County,Shops & Services,98.0,97.0,98.0,1
-2020-03-01,,Chittenden County,Food,96.0,95.0,96.0,2
-2020-03-01,,Chittenden County,Outdoors & Recreation,70.0,71.0,70.0,3
-2020-03-01,,Chittenden County,Colleges & Universities,96.0,"",98.0,4
-2020-03-01,,Chittenden County,Professional & Other Places,79.0,66.0,79.0,5
-2020-03-01,,Chittenden County,Nightlife Spots,75.0,"",75.0,6
-2020-03-01,,Chittenden County,Grocery,99.0,94.0,100.0,7
-2020-03-01,,Chittenden County,Travel & Transport,76.0,"",76.0,8
-2020-03-01,,Chittenden County,Hotel,70.0,"",70.0,9
-2020-03-01,,Chittenden County,Sports,107.0,"",108.0,10
-2020-03-01,,Chittenden County,Medical,87.0,"",90.0,11
-2020-03-01,,Chittenden County,Arts & Entertainment,64.0,"",65.0,11
-2020-03-01,,Washington County,Shops & Services,97.0,93.0,97.0,1
-2020-03-01,,Washington County,Skiing,85.0,61.0,86.0,2
-2020-03-01,,Washington County,Food,103.0,113.0,102.0,3
-2020-03-01,,Washington County,Outdoors & Recreation,81.0,60.0,82.0,4
-2020-03-01,,Washington County,Professional & Other Places,77.0,"",77.0,5
-2020-03-01,,Washington County,Nightlife Spots,97.0,"",97.0,6
-2020-03-01,,Bennington County,Shops & Services,110.0,93.0,111.0,1
-2020-03-01,,Bennington County,Food,119.0,104.0,120.0,2
-2020-03-01,,Bennington County,Outdoors & Recreation,68.0,"",68.0,3
-2020-03-01,,Bennington County,Hotel,87.0,"",88.0,4
-2020-03-01,,Lamoille County,Skiing,89.0,113.0,88.0,1
-2020-03-01,,Lamoille County,Outdoors & Recreation,84.0,104.0,83.0,2
-2020-03-01,,Lamoille County,Shops & Services,95.0,94.0,95.0,3
-2020-03-01,,Lamoille County,Food,77.0,"",77.0,4
-2020-03-01,,Lamoille County,Hotel,92.0,"",92.0,5
-2020-03-01,,Lamoille County,Travel & Transport,93.0,"",92.0,6
-2020-03-01,,Lamoille County,Nightlife Spots,81.0,"",81.0,7
-2020-03-01,,Orleans County,Shops & Services,94.0,83.0,95.0,1
-2020-03-01,,Orleans County,Outdoors & Recreation,114.0,"",113.0,2
-2020-03-01,,Orleans County,Skiing,126.0,"",125.0,3
-2020-03-01,,Orleans County,Food,97.0,"",97.0,4
-2020-03-02,,Windsor County,Shops & Services,89.0,99.0,89.0,1
-2020-03-02,,Windsor County,Food,95.0,112.0,94.0,2
-2020-03-02,,Windsor County,Outdoors & Recreation,86.0,107.0,85.0,3
-2020-03-02,,Windsor County,Skiing,88.0,104.0,87.0,4
-2020-03-02,,Windsor County,Professional & Other Places,121.0,104.0,122.0,5
-2020-03-02,,Windsor County,Hotel,94.0,"",94.0,6
-2020-03-02,,Windsor County,Travel & Transport,83.0,"",84.0,7
-2020-03-02,,Windsor County,Nightlife Spots,111.0,"",113.0,8
-2020-03-02,,Windham County,Shops & Services,86.0,101.0,85.0,1
-2020-03-02,,Windham County,Outdoors & Recreation,80.0,135.0,77.0,2
-2020-03-02,,Windham County,Food,73.0,97.0,72.0,3
-2020-03-02,,Windham County,Skiing,63.0,110.0,61.0,4
-2020-03-02,,Windham County,Professional & Other Places,105.0,"",104.0,5
-2020-03-02,,Windham County,Travel & Transport,91.0,"",88.0,6
-2020-03-02,,Orange County,Shops & Services,104.0,"",104.0,1
-2020-03-02,,Orange County,Food,141.0,"",142.0,2
-2020-03-02,,Orange County,Professional & Other Places,95.0,"",96.0,3
-2020-03-02,,Chittenden County,Shops & Services,99.0,93.0,99.0,1
-2020-03-02,,Chittenden County,Food,94.0,98.0,94.0,2
-2020-03-02,,Chittenden County,Colleges & Universities,93.0,88.0,93.0,3
-2020-03-02,,Chittenden County,Professional & Other Places,90.0,92.0,90.0,4
-2020-03-02,,Chittenden County,Outdoors & Recreation,94.0,107.0,93.0,5
-2020-03-02,,Chittenden County,Medical,98.0,104.0,98.0,6
-2020-03-02,,Chittenden County,Nightlife Spots,101.0,"",102.0,7
-2020-03-02,,Chittenden County,Travel & Transport,87.0,"",89.0,8
-2020-03-02,,Chittenden County,Grocery,102.0,110.0,101.0,9
-2020-03-02,,Chittenden County,Fitness Center,103.0,"",104.0,10
-2020-03-02,,Chittenden County,Sports,110.0,"",110.0,11
-2020-03-02,,Chittenden County,Gas Stations,103.0,"",102.0,12
-2020-03-02,,Chittenden County,Arts & Entertainment,112.0,"",114.0,13
-2020-03-02,,Chittenden County,Hotel,90.0,"",91.0,14
-2020-03-02,,Lamoille County,Shops & Services,106.0,109.0,106.0,1
-2020-03-02,,Lamoille County,Outdoors & Recreation,67.0,"",68.0,2
-2020-03-02,,Lamoille County,Skiing,61.0,"",62.0,3
-2020-03-02,,Lamoille County,Food,62.0,"",63.0,4
-2020-03-02,,Lamoille County,Hotel,83.0,"",84.0,5
-2020-03-02,,Washington County,Shops & Services,99.0,112.0,99.0,1
-2020-03-02,,Washington County,Food,88.0,85.0,88.0,2
-2020-03-02,,Washington County,Professional & Other Places,92.0,91.0,92.0,3
-2020-03-02,,Washington County,Outdoors & Recreation,82.0,61.0,84.0,4
-2020-03-02,,Washington County,Skiing,88.0,"",91.0,5
-2020-03-02,,Washington County,Medical,111.0,"",111.0,6
-2020-03-02,,Washington County,Colleges & Universities,109.0,"",107.0,7
-2020-03-02,,Caledonia County,Shops & Services,108.0,107.0,108.0,1
-2020-03-02,,Caledonia County,Food,121.0,94.0,123.0,2
-2020-03-02,,Bennington County,Shops & Services,96.0,80.0,97.0,1
-2020-03-02,,Bennington County,Food,115.0,97.0,117.0,2
-2020-03-02,,Bennington County,Outdoors & Recreation,79.0,"",81.0,3
-2020-03-02,,Bennington County,Professional & Other Places,107.0,"",109.0,4
-2020-03-02,,Franklin County,Shops & Services,100.0,103.0,99.0,1
-2020-03-02,,Franklin County,Food,131.0,102.0,134.0,2
-2020-03-02,,Franklin County,Professional & Other Places,91.0,103.0,89.0,3
-2020-03-02,,Orleans County,Shops & Services,118.0,117.0,118.0,1
-2020-03-02,,Orleans County,Food,139.0,"",142.0,2
-2020-03-02,,Orleans County,Outdoors & Recreation,136.0,"",140.0,3
-2020-03-02,,Orleans County,Skiing,162.0,"",163.0,4
-2020-03-02,,Rutland County,Shops & Services,99.0,88.0,100.0,1
-2020-03-02,,Rutland County,Food,91.0,110.0,90.0,2
-2020-03-02,,Rutland County,Outdoors & Recreation,85.0,89.0,85.0,3
-2020-03-02,,Rutland County,Skiing,74.0,97.0,73.0,4
-2020-03-02,,Rutland County,Professional & Other Places,94.0,80.0,95.0,5
-2020-03-02,,Rutland County,Nightlife Spots,109.0,148.0,107.0,6
-2020-03-02,,Rutland County,Medical,79.0,"",80.0,7
-2020-03-02,,Rutland County,School,129.0,"",130.0,8
-2020-03-02,,Rutland County,Hotel,95.0,"",93.0,9
-2020-03-02,,Rutland County,Convenience Store,102.0,"",103.0,10
-2020-03-02,,Addison County,Shops & Services,108.0,69.0,111.0,1
-2020-03-02,,Addison County,Colleges & Universities,94.0,"",94.0,2
-2020-03-02,,Addison County,Outdoors & Recreation,112.0,"",115.0,3
-2020-03-03,,Windsor County,Shops & Services,103.0,107.0,103.0,1
-2020-03-03,,Windsor County,Food,93.0,85.0,94.0,2
-2020-03-03,,Windsor County,Outdoors & Recreation,99.0,123.0,98.0,3
-2020-03-03,,Windsor County,Skiing,92.0,126.0,91.0,4
-2020-03-03,,Windsor County,Professional & Other Places,114.0,136.0,113.0,5
-2020-03-03,,Windsor County,School,152.0,"",150.0,6
-2020-03-03,,Windsor County,Hotel,86.0,"",87.0,7
-2020-03-03,,Windsor County,Travel & Transport,78.0,"",80.0,8
-2020-03-03,,Rutland County,Shops & Services,108.0,120.0,107.0,1
-2020-03-03,,Rutland County,Food,114.0,126.0,113.0,2
-2020-03-03,,Rutland County,Professional & Other Places,117.0,115.0,118.0,3
-2020-03-03,,Rutland County,Outdoors & Recreation,85.0,87.0,85.0,4
-2020-03-03,,Rutland County,Skiing,65.0,78.0,65.0,5
-2020-03-03,,Rutland County,Medical,106.0,85.0,108.0,6
-2020-03-03,,Rutland County,Nightlife Spots,117.0,169.0,114.0,7
-2020-03-03,,Rutland County,Convenience Store,107.0,131.0,105.0,8
-2020-03-03,,Rutland County,School,112.0,"",111.0,9
-2020-03-03,,Chittenden County,Shops & Services,112.0,108.0,112.0,1
-2020-03-03,,Chittenden County,Food,115.0,103.0,116.0,2
-2020-03-03,,Chittenden County,Professional & Other Places,135.0,131.0,135.0,3
-2020-03-03,,Chittenden County,Colleges & Universities,88.0,90.0,88.0,4
-2020-03-03,,Chittenden County,Outdoors & Recreation,134.0,138.0,134.0,5
-2020-03-03,,Chittenden County,Medical,110.0,109.0,110.0,6
-2020-03-03,,Chittenden County,School,190.0,223.0,189.0,7
-2020-03-03,,Chittenden County,Nightlife Spots,100.0,"",102.0,8
-2020-03-03,,Chittenden County,Grocery,116.0,143.0,115.0,9
-2020-03-03,,Chittenden County,Travel & Transport,72.0,"",74.0,10
-2020-03-03,,Chittenden County,Fitness Center,144.0,"",146.0,11
-2020-03-03,,Chittenden County,Sports,136.0,124.0,137.0,12
-2020-03-03,,Chittenden County,Gas Stations,108.0,"",109.0,13
-2020-03-03,,Chittenden County,Arts & Entertainment,111.0,"",112.0,14
-2020-03-03,,Bennington County,Shops & Services,105.0,108.0,105.0,1
-2020-03-03,,Bennington County,Food,119.0,109.0,120.0,2
-2020-03-03,,Bennington County,Professional & Other Places,107.0,147.0,105.0,3
-2020-03-03,,Bennington County,Outdoors & Recreation,82.0,"",83.0,4
-2020-03-03,,Lamoille County,Shops & Services,89.0,72.0,91.0,1
-2020-03-03,,Lamoille County,Outdoors & Recreation,100.0,99.0,100.0,2
-2020-03-03,,Lamoille County,Skiing,101.0,117.0,101.0,3
-2020-03-03,,Lamoille County,Food,103.0,116.0,102.0,4
-2020-03-03,,Lamoille County,Hotel,133.0,"",133.0,5
-2020-03-03,,Lamoille County,Travel & Transport,120.0,"",120.0,6
-2020-03-03,,Lamoille County,Nightlife Spots,120.0,"",118.0,7
-2020-03-03,,Windham County,Shops & Services,90.0,96.0,90.0,1
-2020-03-03,,Windham County,Food,101.0,112.0,100.0,2
-2020-03-03,,Windham County,Outdoors & Recreation,74.0,142.0,70.0,3
-2020-03-03,,Windham County,Professional & Other Places,120.0,131.0,120.0,4
-2020-03-03,,Windham County,Skiing,59.0,102.0,57.0,5
-2020-03-03,,Windham County,Hotel,88.0,"",86.0,6
-2020-03-03,,Addison County,Shops & Services,116.0,91.0,118.0,1
-2020-03-03,,Addison County,Colleges & Universities,119.0,"",119.0,2
-2020-03-03,,Addison County,Outdoors & Recreation,153.0,"",154.0,3
-2020-03-03,,Franklin County,Shops & Services,105.0,100.0,106.0,1
-2020-03-03,,Franklin County,Food,137.0,144.0,136.0,2
-2020-03-03,,Franklin County,Professional & Other Places,87.0,"",87.0,3
-2020-03-03,,Franklin County,Outdoors & Recreation,132.0,"",134.0,4
-2020-03-03,,Caledonia County,Shops & Services,134.0,112.0,135.0,1
-2020-03-03,,Caledonia County,Food,131.0,97.0,134.0,2
-2020-03-03,,Orange County,Shops & Services,114.0,"",115.0,1
-2020-03-03,,Orange County,Professional & Other Places,122.0,"",123.0,2
-2020-03-03,,Orange County,Food,100.0,"",101.0,3
-2020-03-03,,Washington County,Shops & Services,106.0,110.0,106.0,1
-2020-03-03,,Washington County,Food,103.0,136.0,101.0,2
-2020-03-03,,Washington County,Professional & Other Places,94.0,99.0,94.0,3
-2020-03-03,,Washington County,Outdoors & Recreation,99.0,105.0,98.0,4
-2020-03-03,,Washington County,Medical,116.0,"",117.0,5
-2020-03-03,,Washington County,Skiing,72.0,"",73.0,6
-2020-03-03,,Washington County,Sports,273.0,"",275.0,7
-2020-03-03,,Orleans County,Shops & Services,117.0,111.0,118.0,1
-2020-03-03,,Orleans County,Food,125.0,156.0,123.0,2
-2020-03-03,,Orleans County,Outdoors & Recreation,115.0,"",115.0,3
-2020-03-04,,Bennington County,Shops & Services,111.0,110.0,111.0,1
-2020-03-04,,Bennington County,Food,91.0,92.0,91.0,2
-2020-03-04,,Bennington County,Outdoors & Recreation,81.0,"",81.0,3
-2020-03-04,,Bennington County,Professional & Other Places,97.0,"",98.0,4
-2020-03-04,,Windham County,Shops & Services,86.0,75.0,87.0,1
-2020-03-04,,Windham County,Food,90.0,93.0,90.0,2
-2020-03-04,,Windham County,Outdoors & Recreation,61.0,89.0,59.0,3
-2020-03-04,,Windham County,Professional & Other Places,98.0,"",98.0,4
-2020-03-04,,Windham County,Skiing,46.0,97.0,43.0,5
-2020-03-04,,Windham County,Travel & Transport,96.0,"",96.0,6
-2020-03-04,,Windham County,Hotel,92.0,"",91.0,7
-2020-03-04,,Addison County,Shops & Services,100.0,92.0,100.0,1
-2020-03-04,,Addison County,Colleges & Universities,97.0,"",96.0,2
-2020-03-04,,Addison County,Food,99.0,129.0,97.0,3
-2020-03-04,,Addison County,Outdoors & Recreation,115.0,"",118.0,4
-2020-03-04,,Washington County,Shops & Services,87.0,67.0,88.0,1
-2020-03-04,,Washington County,Food,83.0,82.0,83.0,2
-2020-03-04,,Washington County,Professional & Other Places,83.0,85.0,83.0,3
-2020-03-04,,Washington County,Outdoors & Recreation,86.0,"",87.0,4
-2020-03-04,,Washington County,Medical,84.0,"",84.0,5
-2020-03-04,,Rutland County,Shops & Services,95.0,95.0,95.0,1
-2020-03-04,,Rutland County,Food,97.0,93.0,98.0,2
-2020-03-04,,Rutland County,Professional & Other Places,101.0,107.0,101.0,3
-2020-03-04,,Rutland County,Outdoors & Recreation,69.0,89.0,68.0,4
-2020-03-04,,Rutland County,Skiing,52.0,"",52.0,5
-2020-03-04,,Rutland County,Medical,81.0,90.0,81.0,6
-2020-03-04,,Rutland County,Nightlife Spots,96.0,"",96.0,7
-2020-03-04,,Rutland County,School,124.0,173.0,121.0,8
-2020-03-04,,Chittenden County,Shops & Services,104.0,99.0,104.0,1
-2020-03-04,,Chittenden County,Food,95.0,72.0,97.0,2
-2020-03-04,,Chittenden County,Colleges & Universities,92.0,88.0,92.0,3
-2020-03-04,,Chittenden County,Professional & Other Places,100.0,91.0,101.0,4
-2020-03-04,,Chittenden County,Outdoors & Recreation,101.0,119.0,100.0,5
-2020-03-04,,Chittenden County,Medical,93.0,78.0,94.0,6
-2020-03-04,,Chittenden County,Nightlife Spots,114.0,109.0,114.0,7
-2020-03-04,,Chittenden County,Travel & Transport,99.0,81.0,101.0,8
-2020-03-04,,Chittenden County,Grocery,104.0,109.0,104.0,9
-2020-03-04,,Chittenden County,School,104.0,"",104.0,10
-2020-03-04,,Chittenden County,Fitness Center,114.0,"",117.0,11
-2020-03-04,,Chittenden County,Sports,99.0,"",101.0,12
-2020-03-04,,Chittenden County,Gas Stations,102.0,"",102.0,13
-2020-03-04,,Chittenden County,Arts & Entertainment,90.0,"",91.0,14
-2020-03-04,,Chittenden County,Airport,135.0,"",135.0,15
-2020-03-04,,Chittenden County,Hotel,101.0,"",103.0,16
-2020-03-04,,Orange County,Shops & Services,87.0,"",86.0,1
-2020-03-04,,Windsor County,Shops & Services,80.0,77.0,80.0,1
-2020-03-04,,Windsor County,Food,78.0,91.0,77.0,2
-2020-03-04,,Windsor County,Outdoors & Recreation,74.0,86.0,73.0,3
-2020-03-04,,Windsor County,Professional & Other Places,91.0,73.0,93.0,4
-2020-03-04,,Windsor County,Skiing,50.0,78.0,49.0,5
-2020-03-04,,Windsor County,Travel & Transport,74.0,"",74.0,6
-2020-03-04,,Windsor County,Hotel,70.0,"",70.0,6
-2020-03-04,,Windsor County,Nightlife Spots,90.0,"",90.0,7
-2020-03-04,,Orleans County,Shops & Services,97.0,70.0,100.0,1
-2020-03-04,,Orleans County,Food,138.0,148.0,138.0,2
-2020-03-04,,Franklin County,Shops & Services,108.0,110.0,108.0,1
-2020-03-04,,Franklin County,Professional & Other Places,100.0,77.0,102.0,2
-2020-03-04,,Franklin County,Food,84.0,"",86.0,3
-2020-03-04,,Franklin County,Medical,139.0,"",145.0,4
-2020-03-04,,Lamoille County,Shops & Services,100.0,86.0,101.0,1
-2020-03-04,,Lamoille County,Outdoors & Recreation,72.0,"",74.0,2
-2020-03-04,,Lamoille County,Skiing,72.0,"",75.0,3
-2020-03-04,,Lamoille County,Food,93.0,"",97.0,4
-2020-03-04,,Lamoille County,Hotel,97.0,"",98.0,5
-2020-03-04,,Caledonia County,Shops & Services,99.0,74.0,101.0,1
-2020-03-04,,Caledonia County,Food,79.0,"",80.0,2
-2020-03-05,,Orange County,Shops & Services,117.0,"",116.0,1
-2020-03-05,,Orange County,Food,122.0,"",121.0,2
-2020-03-05,,Orange County,Professional & Other Places,125.0,"",127.0,3
-2020-03-05,,Washington County,Shops & Services,108.0,107.0,108.0,1
-2020-03-05,,Washington County,Food,91.0,91.0,91.0,2
-2020-03-05,,Washington County,Professional & Other Places,99.0,97.0,99.0,3
-2020-03-05,,Washington County,Outdoors & Recreation,102.0,142.0,100.0,4
-2020-03-05,,Washington County,Skiing,81.0,"",78.0,5
-2020-03-05,,Washington County,Medical,97.0,"",97.0,6
-2020-03-05,,Franklin County,Shops & Services,112.0,106.0,112.0,1
-2020-03-05,,Franklin County,Food,102.0,"",104.0,2
-2020-03-05,,Franklin County,Professional & Other Places,93.0,"",94.0,3
-2020-03-05,,Windham County,Shops & Services,122.0,148.0,120.0,1
-2020-03-05,,Windham County,Food,117.0,116.0,117.0,2
-2020-03-05,,Windham County,Outdoors & Recreation,83.0,84.0,83.0,3
-2020-03-05,,Windham County,Skiing,66.0,"",66.0,4
-2020-03-05,,Windham County,Professional & Other Places,102.0,"",102.0,5
-2020-03-05,,Windham County,Travel & Transport,87.0,"",86.0,6
-2020-03-05,,Lamoille County,Shops & Services,109.0,107.0,109.0,1
-2020-03-05,,Lamoille County,Outdoors & Recreation,101.0,79.0,102.0,2
-2020-03-05,,Lamoille County,Skiing,93.0,"",94.0,3
-2020-03-05,,Lamoille County,Food,101.0,107.0,101.0,4
-2020-03-05,,Lamoille County,Hotel,96.0,"",97.0,5
-2020-03-05,,Lamoille County,Travel & Transport,93.0,"",94.0,6
-2020-03-05,,Windsor County,Food,114.0,113.0,114.0,1
-2020-03-05,,Windsor County,Shops & Services,105.0,119.0,104.0,2
-2020-03-05,,Windsor County,Outdoors & Recreation,115.0,143.0,113.0,3
-2020-03-05,,Windsor County,Skiing,137.0,203.0,133.0,4
-2020-03-05,,Windsor County,Professional & Other Places,108.0,99.0,109.0,5
-2020-03-05,,Windsor County,Hotel,92.0,"",92.0,6
-2020-03-05,,Windsor County,Travel & Transport,96.0,"",96.0,7
-2020-03-05,,Windsor County,Nightlife Spots,112.0,"",115.0,8
-2020-03-05,,Chittenden County,Shops & Services,109.0,103.0,109.0,1
-2020-03-05,,Chittenden County,Food,111.0,96.0,112.0,2
-2020-03-05,,Chittenden County,Colleges & Universities,99.0,118.0,99.0,3
-2020-03-05,,Chittenden County,Professional & Other Places,103.0,98.0,103.0,4
-2020-03-05,,Chittenden County,Outdoors & Recreation,108.0,135.0,107.0,5
-2020-03-05,,Chittenden County,Medical,107.0,109.0,107.0,6
-2020-03-05,,Chittenden County,Nightlife Spots,93.0,85.0,93.0,7
-2020-03-05,,Chittenden County,Travel & Transport,104.0,94.0,104.0,8
-2020-03-05,,Chittenden County,Grocery,102.0,85.0,103.0,9
-2020-03-05,,Chittenden County,School,106.0,"",107.0,10
-2020-03-05,,Chittenden County,Fitness Center,101.0,"",101.0,11
-2020-03-05,,Chittenden County,Hotel,124.0,"",123.0,12
-2020-03-05,,Chittenden County,Sports,102.0,106.0,102.0,13
-2020-03-05,,Chittenden County,Gas Stations,96.0,"",96.0,14
-2020-03-05,,Caledonia County,Shops & Services,109.0,126.0,108.0,1
-2020-03-05,,Caledonia County,Food,109.0,99.0,109.0,2
-2020-03-05,,Bennington County,Shops & Services,116.0,106.0,117.0,1
-2020-03-05,,Bennington County,Food,112.0,131.0,110.0,2
-2020-03-05,,Bennington County,Professional & Other Places,120.0,"",123.0,3
-2020-03-05,,Bennington County,Outdoors & Recreation,86.0,"",88.0,4
-2020-03-05,,Addison County,Shops & Services,123.0,124.0,123.0,1
-2020-03-05,,Addison County,Colleges & Universities,77.0,"",76.0,2
-2020-03-05,,Addison County,Outdoors & Recreation,101.0,"",101.0,3
-2020-03-05,,Addison County,Food,99.0,"",98.0,4
-2020-03-05,,Rutland County,Shops & Services,91.0,105.0,90.0,1
-2020-03-05,,Rutland County,Food,100.0,104.0,100.0,2
-2020-03-05,,Rutland County,Outdoors & Recreation,93.0,102.0,92.0,3
-2020-03-05,,Rutland County,Skiing,78.0,97.0,77.0,4
-2020-03-05,,Rutland County,Professional & Other Places,84.0,85.0,84.0,5
-2020-03-05,,Rutland County,Nightlife Spots,104.0,"",106.0,6
-2020-03-05,,Rutland County,Medical,88.0,"",87.0,7
-2020-03-05,,Orleans County,Shops & Services,95.0,80.0,97.0,1
-2020-03-05,,Orleans County,Food,134.0,163.0,132.0,2
-2020-03-05,,Orleans County,Outdoors & Recreation,117.0,"",118.0,3
-2020-03-06,,Windsor County,Food,108.0,127.0,106.0,1
-2020-03-06,,Windsor County,Shops & Services,99.0,92.0,99.0,2
-2020-03-06,,Windsor County,Outdoors & Recreation,92.0,97.0,92.0,3
-2020-03-06,,Windsor County,Skiing,80.0,68.0,81.0,4
-2020-03-06,,Windsor County,Professional & Other Places,106.0,"",107.0,5
-2020-03-06,,Windsor County,Hotel,93.0,"",94.0,6
-2020-03-06,,Windsor County,Travel & Transport,89.0,"",88.0,7
-2020-03-06,,Windsor County,Nightlife Spots,112.0,"",113.0,8
-2020-03-06,,Orange County,Shops & Services,102.0,157.0,99.0,1
-2020-03-06,,Orange County,Professional & Other Places,134.0,"",135.0,2
-2020-03-06,,Caledonia County,Shops & Services,105.0,123.0,104.0,1
-2020-03-06,,Caledonia County,Food,98.0,112.0,97.0,2
-2020-03-06,,Caledonia County,Professional & Other Places,122.0,"",124.0,3
-2020-03-06,,Windham County,Shops & Services,101.0,96.0,101.0,1
-2020-03-06,,Windham County,Food,103.0,98.0,103.0,2
-2020-03-06,,Windham County,Outdoors & Recreation,82.0,78.0,82.0,3
-2020-03-06,,Windham County,Skiing,71.0,70.0,71.0,4
-2020-03-06,,Windham County,Professional & Other Places,92.0,"",93.0,5
-2020-03-06,,Windham County,Hotel,79.0,"",78.0,6
-2020-03-06,,Windham County,Travel & Transport,77.0,"",74.0,6
-2020-03-06,,Windham County,Nightlife Spots,78.0,"",78.0,7
-2020-03-06,,Franklin County,Shops & Services,114.0,107.0,115.0,1
-2020-03-06,,Franklin County,Food,70.0,"",70.0,2
-2020-03-06,,Franklin County,Professional & Other Places,94.0,"",96.0,3
-2020-03-06,,Rutland County,Shops & Services,103.0,110.0,103.0,1
-2020-03-06,,Rutland County,Skiing,136.0,76.0,139.0,2
-2020-03-06,,Rutland County,Outdoors & Recreation,134.0,97.0,136.0,3
-2020-03-06,,Rutland County,Food,102.0,101.0,102.0,4
-2020-03-06,,Rutland County,Professional & Other Places,97.0,94.0,97.0,5
-2020-03-06,,Rutland County,Nightlife Spots,112.0,183.0,108.0,6
-2020-03-06,,Rutland County,Hotel,132.0,"",131.0,7
-2020-03-06,,Rutland County,Travel & Transport,123.0,"",123.0,8
-2020-03-06,,Rutland County,School,142.0,"",141.0,9
-2020-03-06,,Rutland County,Medical,89.0,"",89.0,10
-2020-03-06,,Rutland County,Grocery,94.0,"",94.0,11
-2020-03-06,,Rutland County,Convenience Store,95.0,"",98.0,12
-2020-03-06,,Addison County,Shops & Services,120.0,94.0,122.0,1
-2020-03-06,,Addison County,Colleges & Universities,103.0,"",102.0,2
-2020-03-06,,Addison County,Food,127.0,"",127.0,3
-2020-03-06,,Addison County,Outdoors & Recreation,116.0,"",117.0,4
-2020-03-06,,Bennington County,Shops & Services,104.0,100.0,104.0,1
-2020-03-06,,Bennington County,Food,102.0,76.0,104.0,2
-2020-03-06,,Bennington County,Outdoors & Recreation,101.0,"",101.0,3
-2020-03-06,,Bennington County,Professional & Other Places,108.0,"",109.0,4
-2020-03-06,,Bennington County,Hotel,81.0,"",83.0,5
-2020-03-06,,Washington County,Shops & Services,111.0,126.0,110.0,1
-2020-03-06,,Washington County,Food,105.0,94.0,106.0,2
-2020-03-06,,Washington County,Professional & Other Places,104.0,135.0,103.0,3
-2020-03-06,,Washington County,Outdoors & Recreation,86.0,104.0,85.0,4
-2020-03-06,,Washington County,Skiing,78.0,115.0,77.0,5
-2020-03-06,,Washington County,Medical,152.0,"",151.0,6
-2020-03-06,,Lamoille County,Skiing,98.0,"",99.0,1
-2020-03-06,,Lamoille County,Outdoors & Recreation,96.0,"",97.0,2
-2020-03-06,,Lamoille County,Shops & Services,115.0,115.0,115.0,3
-2020-03-06,,Lamoille County,Food,81.0,"",81.0,4
-2020-03-06,,Lamoille County,Hotel,90.0,"",91.0,5
-2020-03-06,,Lamoille County,Nightlife Spots,115.0,"",114.0,6
-2020-03-06,,Lamoille County,Travel & Transport,89.0,"",90.0,7
-2020-03-06,,Orleans County,Shops & Services,113.0,111.0,113.0,1
-2020-03-06,,Orleans County,Food,122.0,115.0,123.0,2
-2020-03-06,,Orleans County,Outdoors & Recreation,86.0,"",85.0,3
-2020-03-06,,Chittenden County,Shops & Services,115.0,114.0,116.0,1
-2020-03-06,,Chittenden County,Food,112.0,110.0,112.0,2
-2020-03-06,,Chittenden County,Professional & Other Places,111.0,101.0,111.0,3
-2020-03-06,,Chittenden County,Colleges & Universities,80.0,126.0,79.0,4
-2020-03-06,,Chittenden County,Outdoors & Recreation,109.0,144.0,107.0,5
-2020-03-06,,Chittenden County,Medical,120.0,131.0,120.0,6
-2020-03-06,,Chittenden County,Nightlife Spots,123.0,131.0,123.0,7
-2020-03-06,,Chittenden County,Travel & Transport,97.0,103.0,97.0,8
-2020-03-06,,Chittenden County,Grocery,109.0,91.0,110.0,9
-2020-03-06,,Chittenden County,School,141.0,"",142.0,10
-2020-03-06,,Chittenden County,Hotel,109.0,"",107.0,11
-2020-03-06,,Chittenden County,Fitness Center,117.0,163.0,114.0,12
-2020-03-06,,Chittenden County,Gas Stations,89.0,"",89.0,13
-2020-03-06,,Chittenden County,Sports,96.0,"",94.0,14
-2020-03-06,,Chittenden County,Arts & Entertainment,84.0,"",86.0,15
-2020-03-06,,Chittenden County,Residences,124.0,"",126.0,16
-2020-03-07,,Windsor County,Food,93.0,86.0,94.0,1
-2020-03-07,,Windsor County,Skiing,70.0,71.0,70.0,2
-2020-03-07,,Windsor County,Outdoors & Recreation,74.0,76.0,74.0,3
-2020-03-07,,Windsor County,Shops & Services,85.0,104.0,84.0,4
-2020-03-07,,Windsor County,Nightlife Spots,105.0,"",105.0,5
-2020-03-07,,Windsor County,Hotel,88.0,"",88.0,6
-2020-03-07,,Windsor County,Travel & Transport,85.0,"",85.0,7
-2020-03-07,,Windsor County,Professional & Other Places,105.0,"",106.0,8
-2020-03-07,,Orange County,Shops & Services,101.0,"",101.0,1
-2020-03-07,,Windham County,Skiing,88.0,51.0,89.0,1
-2020-03-07,,Windham County,Outdoors & Recreation,92.0,62.0,93.0,2
-2020-03-07,,Windham County,Shops & Services,95.0,92.0,95.0,3
-2020-03-07,,Windham County,Food,87.0,77.0,87.0,4
-2020-03-07,,Windham County,Nightlife Spots,95.0,"",96.0,5
-2020-03-07,,Windham County,Hotel,90.0,"",89.0,6
-2020-03-07,,Windham County,Travel & Transport,94.0,"",93.0,7
-2020-03-07,,Lamoille County,Skiing,88.0,79.0,89.0,1
-2020-03-07,,Lamoille County,Outdoors & Recreation,86.0,88.0,86.0,2
-2020-03-07,,Lamoille County,Food,97.0,"",99.0,3
-2020-03-07,,Lamoille County,Shops & Services,98.0,82.0,99.0,4
-2020-03-07,,Lamoille County,Hotel,105.0,"",107.0,5
-2020-03-07,,Lamoille County,Nightlife Spots,115.0,"",116.0,6
-2020-03-07,,Lamoille County,Travel & Transport,105.0,"",108.0,7
-2020-03-07,,Rutland County,Skiing,107.0,109.0,107.0,1
-2020-03-07,,Rutland County,Outdoors & Recreation,100.0,86.0,101.0,2
-2020-03-07,,Rutland County,Shops & Services,93.0,104.0,92.0,3
-2020-03-07,,Rutland County,Food,105.0,79.0,107.0,4
-2020-03-07,,Rutland County,Nightlife Spots,101.0,100.0,101.0,5
-2020-03-07,,Rutland County,Hotel,102.0,"",102.0,6
-2020-03-07,,Rutland County,Travel & Transport,97.0,"",97.0,7
-2020-03-07,,Rutland County,Professional & Other Places,87.0,"",87.0,8
-2020-03-07,,Rutland County,Grocery,85.0,"",83.0,9
-2020-03-07,,Rutland County,Arts & Entertainment,93.0,"",96.0,10
-2020-03-07,,Washington County,Shops & Services,107.0,106.0,108.0,1
-2020-03-07,,Washington County,Skiing,84.0,79.0,84.0,2
-2020-03-07,,Washington County,Outdoors & Recreation,89.0,80.0,89.0,3
-2020-03-07,,Washington County,Food,97.0,93.0,98.0,4
-2020-03-07,,Washington County,Professional & Other Places,106.0,"",107.0,5
-2020-03-07,,Washington County,Hotel,99.0,"",100.0,6
-2020-03-07,,Washington County,Nightlife Spots,103.0,"",102.0,7
-2020-03-07,,Washington County,Travel & Transport,100.0,"",102.0,8
-2020-03-07,,Orleans County,Shops & Services,103.0,91.0,104.0,1
-2020-03-07,,Orleans County,Food,115.0,113.0,115.0,2
-2020-03-07,,Orleans County,Outdoors & Recreation,92.0,"",92.0,3
-2020-03-07,,Orleans County,Skiing,81.0,"",81.0,4
-2020-03-07,,Bennington County,Shops & Services,120.0,116.0,120.0,1
-2020-03-07,,Bennington County,Food,103.0,104.0,103.0,2
-2020-03-07,,Bennington County,Outdoors & Recreation,91.0,"",91.0,3
-2020-03-07,,Bennington County,Hotel,96.0,"",95.0,4
-2020-03-07,,Bennington County,Skiing,95.0,"",97.0,5
-2020-03-07,,Bennington County,Nightlife Spots,93.0,"",96.0,6
-2020-03-07,,Bennington County,Travel & Transport,90.0,"",90.0,7
-2020-03-07,,Franklin County,Shops & Services,117.0,89.0,119.0,1
-2020-03-07,,Franklin County,Food,105.0,120.0,104.0,2
-2020-03-07,,Franklin County,Outdoors & Recreation,123.0,"",121.0,3
-2020-03-07,,Addison County,Shops & Services,89.0,70.0,91.0,1
-2020-03-07,,Addison County,Food,97.0,"",98.0,2
-2020-03-07,,Addison County,Colleges & Universities,94.0,"",92.0,3
-2020-03-07,,Chittenden County,Shops & Services,103.0,87.0,104.0,1
-2020-03-07,,Chittenden County,Food,92.0,98.0,91.0,2
-2020-03-07,,Chittenden County,Outdoors & Recreation,99.0,99.0,99.0,3
-2020-03-07,,Chittenden County,Professional & Other Places,105.0,86.0,106.0,4
-2020-03-07,,Chittenden County,Nightlife Spots,104.0,85.0,105.0,5
-2020-03-07,,Chittenden County,Colleges & Universities,63.0,"",64.0,6
-2020-03-07,,Chittenden County,Travel & Transport,86.0,103.0,85.0,7
-2020-03-07,,Chittenden County,Grocery,95.0,83.0,96.0,8
-2020-03-07,,Chittenden County,Arts & Entertainment,108.0,"",109.0,9
-2020-03-07,,Chittenden County,Medical,119.0,"",124.0,10
-2020-03-07,,Chittenden County,Hotel,101.0,"",99.0,11
-2020-03-07,,Chittenden County,Fitness Center,108.0,"",109.0,12
-2020-03-07,,Chittenden County,Gas Stations,106.0,"",106.0,13
-2020-03-07,,Chittenden County,Sports,90.0,"",90.0,14
-2020-03-07,,Chittenden County,School,114.0,"",114.0,15
-2020-03-07,,Caledonia County,Shops & Services,95.0,95.0,95.0,1
-2020-03-07,,Caledonia County,Food,96.0,96.0,96.0,2
-2020-03-08,,Franklin County,Shops & Services,100.0,92.0,101.0,1
-2020-03-08,,Franklin County,Food,97.0,"",96.0,2
-2020-03-08,,Caledonia County,Shops & Services,116.0,"",117.0,1
-2020-03-08,,Caledonia County,Food,94.0,"",94.0,2
-2020-03-08,,Addison County,Shops & Services,96.0,113.0,94.0,1
-2020-03-08,,Addison County,Outdoors & Recreation,91.0,"",89.0,2
-2020-03-08,,Windsor County,Food,92.0,102.0,92.0,1
-2020-03-08,,Windsor County,Outdoors & Recreation,78.0,119.0,76.0,2
-2020-03-08,,Windsor County,Skiing,72.0,110.0,70.0,3
-2020-03-08,,Windsor County,Shops & Services,90.0,115.0,89.0,4
-2020-03-08,,Windsor County,Hotel,87.0,"",86.0,5
-2020-03-08,,Windsor County,Travel & Transport,80.0,"",80.0,6
-2020-03-08,,Windsor County,Professional & Other Places,115.0,"",115.0,7
-2020-03-08,,Windsor County,Nightlife Spots,82.0,"",82.0,8
-2020-03-08,,Bennington County,Shops & Services,116.0,97.0,118.0,1
-2020-03-08,,Bennington County,Food,109.0,76.0,110.0,2
-2020-03-08,,Bennington County,Outdoors & Recreation,97.0,"",99.0,3
-2020-03-08,,Bennington County,Hotel,86.0,"",85.0,4
-2020-03-08,,Orleans County,Shops & Services,106.0,94.0,107.0,1
-2020-03-08,,Orleans County,Food,108.0,139.0,106.0,2
-2020-03-08,,Orleans County,Outdoors & Recreation,71.0,"",71.0,3
-2020-03-08,,Orleans County,Skiing,72.0,"",72.0,4
-2020-03-08,,Lamoille County,Skiing,77.0,96.0,76.0,1
-2020-03-08,,Lamoille County,Outdoors & Recreation,70.0,81.0,70.0,2
-2020-03-08,,Lamoille County,Shops & Services,103.0,101.0,103.0,3
-2020-03-08,,Lamoille County,Food,74.0,83.0,73.0,4
-2020-03-08,,Lamoille County,Hotel,74.0,"",75.0,5
-2020-03-08,,Lamoille County,Nightlife Spots,72.0,"",70.0,6
-2020-03-08,,Lamoille County,Travel & Transport,75.0,"",76.0,7
-2020-03-08,,Windham County,Skiing,76.0,70.0,76.0,1
-2020-03-08,,Windham County,Outdoors & Recreation,82.0,79.0,82.0,2
-2020-03-08,,Windham County,Shops & Services,103.0,111.0,102.0,3
-2020-03-08,,Windham County,Food,93.0,108.0,93.0,4
-2020-03-08,,Windham County,Nightlife Spots,73.0,"",72.0,5
-2020-03-08,,Windham County,Hotel,96.0,"",97.0,6
-2020-03-08,,Windham County,Travel & Transport,109.0,"",111.0,7
-2020-03-08,,Windham County,Professional & Other Places,130.0,"",131.0,8
-2020-03-08,,Orange County,Shops & Services,125.0,"",124.0,1
-2020-03-08,,Chittenden County,Shops & Services,109.0,79.0,111.0,1
-2020-03-08,,Chittenden County,Food,103.0,87.0,103.0,2
-2020-03-08,,Chittenden County,Outdoors & Recreation,112.0,118.0,112.0,3
-2020-03-08,,Chittenden County,Nightlife Spots,89.0,124.0,88.0,4
-2020-03-08,,Chittenden County,Professional & Other Places,84.0,74.0,84.0,5
-2020-03-08,,Chittenden County,Grocery,104.0,66.0,107.0,6
-2020-03-08,,Chittenden County,Colleges & Universities,69.0,120.0,68.0,7
-2020-03-08,,Chittenden County,Travel & Transport,90.0,"",91.0,8
-2020-03-08,,Chittenden County,Arts & Entertainment,98.0,"",99.0,9
-2020-03-08,,Chittenden County,Hotel,89.0,"",89.0,10
-2020-03-08,,Chittenden County,Gas Stations,104.0,"",104.0,11
-2020-03-08,,Chittenden County,Medical,81.0,"",84.0,12
-2020-03-08,,Chittenden County,Fitness Center,113.0,"",115.0,12
-2020-03-08,,Rutland County,Shops & Services,89.0,94.0,88.0,1
-2020-03-08,,Rutland County,Skiing,80.0,99.0,80.0,2
-2020-03-08,,Rutland County,Outdoors & Recreation,85.0,94.0,85.0,3
-2020-03-08,,Rutland County,Food,98.0,106.0,97.0,4
-2020-03-08,,Rutland County,Nightlife Spots,112.0,149.0,110.0,5
-2020-03-08,,Rutland County,Hotel,118.0,"",116.0,6
-2020-03-08,,Rutland County,Travel & Transport,122.0,"",121.0,7
-2020-03-08,,Rutland County,Professional & Other Places,109.0,"",110.0,8
-2020-03-08,,Rutland County,Arts & Entertainment,144.0,"",139.0,9
-2020-03-08,,Washington County,Shops & Services,98.0,78.0,99.0,1
-2020-03-08,,Washington County,Outdoors & Recreation,79.0,64.0,80.0,2
-2020-03-08,,Washington County,Food,98.0,64.0,100.0,3
-2020-03-08,,Washington County,Skiing,69.0,69.0,69.0,4
-2020-03-08,,Washington County,Professional & Other Places,84.0,"",86.0,5
-2020-03-08,,Washington County,Grocery,128.0,"",129.0,6
-2020-03-09,,Caledonia County,Shops & Services,125.0,130.0,124.0,1
-2020-03-09,,Caledonia County,Food,122.0,119.0,122.0,2
-2020-03-09,,Addison County,Shops & Services,114.0,89.0,117.0,1
-2020-03-09,,Addison County,Colleges & Universities,82.0,"",83.0,2
-2020-03-09,,Addison County,Outdoors & Recreation,113.0,125.0,112.0,3
-2020-03-09,,Addison County,Food,96.0,"",98.0,4
-2020-03-09,,Windsor County,Shops & Services,94.0,89.0,94.0,1
-2020-03-09,,Windsor County,Food,88.0,99.0,88.0,2
-2020-03-09,,Windsor County,Outdoors & Recreation,70.0,107.0,68.0,3
-2020-03-09,,Windsor County,Professional & Other Places,113.0,110.0,113.0,4
-2020-03-09,,Windsor County,Skiing,42.0,93.0,39.0,5
-2020-03-09,,Windsor County,Hotel,87.0,141.0,84.0,6
-2020-03-09,,Windsor County,Travel & Transport,78.0,"",76.0,7
-2020-03-09,,Washington County,Shops & Services,106.0,119.0,105.0,1
-2020-03-09,,Washington County,Professional & Other Places,100.0,92.0,100.0,2
-2020-03-09,,Washington County,Food,82.0,105.0,81.0,3
-2020-03-09,,Washington County,Outdoors & Recreation,79.0,66.0,80.0,4
-2020-03-09,,Washington County,Skiing,66.0,"",67.0,5
-2020-03-09,,Washington County,Medical,97.0,"",98.0,6
-2020-03-09,,Franklin County,Shops & Services,88.0,75.0,89.0,1
-2020-03-09,,Franklin County,Professional & Other Places,121.0,86.0,125.0,2
-2020-03-09,,Franklin County,Food,100.0,"",102.0,3
-2020-03-09,,Franklin County,School,164.0,"",165.0,4
-2020-03-09,,Franklin County,Outdoors & Recreation,113.0,"",108.0,5
-2020-03-09,,Rutland County,Shops & Services,99.0,92.0,100.0,1
-2020-03-09,,Rutland County,Food,100.0,95.0,100.0,2
-2020-03-09,,Rutland County,Outdoors & Recreation,89.0,94.0,88.0,3
-2020-03-09,,Rutland County,Skiing,77.0,98.0,76.0,4
-2020-03-09,,Rutland County,Professional & Other Places,94.0,80.0,95.0,5
-2020-03-09,,Rutland County,Nightlife Spots,122.0,"",122.0,6
-2020-03-09,,Rutland County,Medical,87.0,79.0,88.0,7
-2020-03-09,,Rutland County,Hotel,108.0,"",107.0,8
-2020-03-09,,Rutland County,School,118.0,"",118.0,9
-2020-03-09,,Rutland County,Convenience Store,101.0,"",104.0,10
-2020-03-09,,Orange County,Shops & Services,99.0,"",98.0,1
-2020-03-09,,Orange County,Professional & Other Places,109.0,"",109.0,2
-2020-03-09,,Orange County,Food,118.0,"",117.0,3
-2020-03-09,,Bennington County,Shops & Services,105.0,89.0,107.0,1
-2020-03-09,,Bennington County,Food,85.0,103.0,84.0,2
-2020-03-09,,Bennington County,Professional & Other Places,117.0,"",120.0,3
-2020-03-09,,Bennington County,Outdoors & Recreation,63.0,"",63.0,4
-2020-03-09,,Chittenden County,Shops & Services,108.0,104.0,108.0,1
-2020-03-09,,Chittenden County,Food,107.0,108.0,107.0,2
-2020-03-09,,Chittenden County,Professional & Other Places,97.0,81.0,98.0,3
-2020-03-09,,Chittenden County,Outdoors & Recreation,117.0,118.0,117.0,4
-2020-03-09,,Chittenden County,Colleges & Universities,69.0,129.0,68.0,5
-2020-03-09,,Chittenden County,Medical,93.0,67.0,95.0,6
-2020-03-09,,Chittenden County,Nightlife Spots,110.0,"",110.0,7
-2020-03-09,,Chittenden County,Grocery,106.0,90.0,107.0,8
-2020-03-09,,Chittenden County,Travel & Transport,77.0,92.0,77.0,9
-2020-03-09,,Chittenden County,School,113.0,"",114.0,10
-2020-03-09,,Chittenden County,Fitness Center,96.0,"",98.0,11
-2020-03-09,,Chittenden County,Gas Stations,109.0,"",109.0,12
-2020-03-09,,Chittenden County,Sports,94.0,"",98.0,13
-2020-03-09,,Windham County,Shops & Services,88.0,92.0,88.0,1
-2020-03-09,,Windham County,Outdoors & Recreation,70.0,74.0,69.0,2
-2020-03-09,,Windham County,Food,69.0,75.0,69.0,3
-2020-03-09,,Windham County,Skiing,63.0,65.0,63.0,4
-2020-03-09,,Windham County,Professional & Other Places,106.0,"",106.0,5
-2020-03-09,,Windham County,Hotel,99.0,"",99.0,6
-2020-03-09,,Windham County,Travel & Transport,97.0,"",98.0,7
-2020-03-09,,Windham County,Nightlife Spots,86.0,"",87.0,8
-2020-03-09,,Lamoille County,Shops & Services,100.0,106.0,100.0,1
-2020-03-09,,Lamoille County,Skiing,71.0,"",71.0,2
-2020-03-09,,Lamoille County,Outdoors & Recreation,72.0,"",73.0,3
-2020-03-09,,Lamoille County,Food,62.0,"",64.0,4
-2020-03-09,,Lamoille County,Hotel,76.0,"",76.0,5
-2020-03-09,,Orleans County,Shops & Services,83.0,72.0,84.0,1
-2020-03-09,,Orleans County,Food,117.0,"",121.0,2
-2020-03-09,,Orleans County,Outdoors & Recreation,104.0,"",105.0,3
-2020-03-10,,Windham County,Shops & Services,84.0,85.0,84.0,1
-2020-03-10,,Windham County,Food,95.0,94.0,95.0,2
-2020-03-10,,Windham County,Outdoors & Recreation,78.0,99.0,77.0,3
-2020-03-10,,Windham County,Professional & Other Places,102.0,"",102.0,4
-2020-03-10,,Windham County,Skiing,61.0,93.0,59.0,5
-2020-03-10,,Windham County,Travel & Transport,94.0,"",95.0,6
-2020-03-10,,Windham County,Hotel,93.0,"",94.0,7
-2020-03-10,,Orleans County,Shops & Services,103.0,90.0,104.0,1
-2020-03-10,,Rutland County,Shops & Services,97.0,92.0,98.0,1
-2020-03-10,,Rutland County,Food,115.0,122.0,114.0,2
-2020-03-10,,Rutland County,Outdoors & Recreation,89.0,93.0,88.0,3
-2020-03-10,,Rutland County,Skiing,86.0,"",87.0,4
-2020-03-10,,Rutland County,Professional & Other Places,86.0,76.0,86.0,5
-2020-03-10,,Rutland County,Medical,108.0,113.0,108.0,6
-2020-03-10,,Rutland County,Nightlife Spots,104.0,"",105.0,7
-2020-03-10,,Rutland County,Hotel,86.0,"",85.0,8
-2020-03-10,,Rutland County,Convenience Store,92.0,"",92.0,9
-2020-03-10,,Washington County,Shops & Services,96.0,79.0,97.0,1
-2020-03-10,,Washington County,Food,111.0,116.0,111.0,2
-2020-03-10,,Washington County,Professional & Other Places,82.0,80.0,82.0,3
-2020-03-10,,Washington County,Outdoors & Recreation,71.0,"",72.0,4
-2020-03-10,,Addison County,Shops & Services,90.0,80.0,91.0,1
-2020-03-10,,Addison County,Colleges & Universities,83.0,"",83.0,2
-2020-03-10,,Lamoille County,Shops & Services,92.0,85.0,93.0,1
-2020-03-10,,Lamoille County,Food,87.0,97.0,87.0,2
-2020-03-10,,Lamoille County,Outdoors & Recreation,66.0,"",66.0,2
-2020-03-10,,Lamoille County,Skiing,51.0,"",51.0,3
-2020-03-10,,Lamoille County,Hotel,84.0,"",83.0,4
-2020-03-10,,Franklin County,Shops & Services,81.0,85.0,80.0,1
-2020-03-10,,Franklin County,Professional & Other Places,94.0,"",94.0,2
-2020-03-10,,Windsor County,Shops & Services,92.0,111.0,90.0,1
-2020-03-10,,Windsor County,Food,92.0,104.0,91.0,2
-2020-03-10,,Windsor County,Outdoors & Recreation,67.0,104.0,65.0,3
-2020-03-10,,Windsor County,Professional & Other Places,103.0,95.0,103.0,4
-2020-03-10,,Windsor County,Skiing,51.0,150.0,46.0,5
-2020-03-10,,Windsor County,Hotel,79.0,"",77.0,6
-2020-03-10,,Windsor County,Travel & Transport,75.0,"",74.0,7
-2020-03-10,,Orange County,Shops & Services,120.0,"",121.0,1
-2020-03-10,,Orange County,Outdoors & Recreation,136.0,"",137.0,2
-2020-03-10,,Orange County,Professional & Other Places,116.0,"",117.0,3
-2020-03-10,,Chittenden County,Shops & Services,107.0,113.0,107.0,1
-2020-03-10,,Chittenden County,Food,108.0,87.0,110.0,2
-2020-03-10,,Chittenden County,Professional & Other Places,103.0,89.0,104.0,3
-2020-03-10,,Chittenden County,Colleges & Universities,66.0,134.0,64.0,4
-2020-03-10,,Chittenden County,Medical,109.0,99.0,109.0,5
-2020-03-10,,Chittenden County,Outdoors & Recreation,95.0,100.0,95.0,6
-2020-03-10,,Chittenden County,Nightlife Spots,119.0,105.0,120.0,7
-2020-03-10,,Chittenden County,School,112.0,"",112.0,8
-2020-03-10,,Chittenden County,Travel & Transport,79.0,80.0,79.0,9
-2020-03-10,,Chittenden County,Grocery,97.0,96.0,97.0,10
-2020-03-10,,Chittenden County,Fitness Center,122.0,"",123.0,11
-2020-03-10,,Chittenden County,Gas Stations,106.0,"",106.0,12
-2020-03-10,,Chittenden County,Sports,100.0,"",102.0,13
-2020-03-10,,Chittenden County,Arts & Entertainment,114.0,"",117.0,14
-2020-03-10,,Caledonia County,Shops & Services,112.0,77.0,115.0,1
-2020-03-10,,Caledonia County,Food,108.0,"",111.0,2
-2020-03-10,,Bennington County,Shops & Services,88.0,75.0,89.0,1
-2020-03-10,,Bennington County,Food,79.0,65.0,80.0,2
-2020-03-10,,Bennington County,Professional & Other Places,76.0,"",77.0,3
-2020-03-11,,Orange County,Shops & Services,114.0,132.0,113.0,1
-2020-03-11,,Orange County,Professional & Other Places,109.0,"",108.0,2
-2020-03-11,,Orange County,Food,112.0,"",115.0,2
-2020-03-11,,Caledonia County,Shops & Services,118.0,130.0,117.0,1
-2020-03-11,,Caledonia County,Food,82.0,72.0,83.0,2
-2020-03-11,,Windham County,Shops & Services,92.0,75.0,93.0,1
-2020-03-11,,Windham County,Food,95.0,96.0,95.0,2
-2020-03-11,,Windham County,Outdoors & Recreation,71.0,67.0,71.0,3
-2020-03-11,,Windham County,Professional & Other Places,105.0,131.0,103.0,4
-2020-03-11,,Windham County,Skiing,57.0,"",57.0,5
-2020-03-11,,Lamoille County,Shops & Services,82.0,78.0,83.0,1
-2020-03-11,,Lamoille County,Outdoors & Recreation,70.0,"",71.0,2
-2020-03-11,,Lamoille County,Skiing,72.0,"",74.0,3
-2020-03-11,,Lamoille County,Food,83.0,"",85.0,4
-2020-03-11,,Lamoille County,Hotel,91.0,"",94.0,5
-2020-03-11,,Windsor County,Shops & Services,83.0,69.0,84.0,1
-2020-03-11,,Windsor County,Food,79.0,86.0,78.0,2
-2020-03-11,,Windsor County,Outdoors & Recreation,75.0,76.0,75.0,3
-2020-03-11,,Windsor County,Professional & Other Places,90.0,87.0,91.0,4
-2020-03-11,,Windsor County,Skiing,51.0,84.0,49.0,5
-2020-03-11,,Windsor County,Hotel,68.0,"",70.0,6
-2020-03-11,,Windsor County,Travel & Transport,69.0,"",68.0,7
-2020-03-11,,Rutland County,Shops & Services,96.0,94.0,97.0,1
-2020-03-11,,Rutland County,Food,100.0,108.0,100.0,2
-2020-03-11,,Rutland County,Outdoors & Recreation,90.0,75.0,91.0,3
-2020-03-11,,Rutland County,Skiing,77.0,"",80.0,4
-2020-03-11,,Rutland County,Professional & Other Places,81.0,93.0,80.0,5
-2020-03-11,,Rutland County,Nightlife Spots,106.0,"",107.0,6
-2020-03-11,,Rutland County,Medical,76.0,"",76.0,7
-2020-03-11,,Rutland County,Hotel,89.0,"",88.0,8
-2020-03-11,,Rutland County,Grocery,96.0,"",96.0,9
-2020-03-11,,Franklin County,Shops & Services,103.0,110.0,102.0,1
-2020-03-11,,Franklin County,Food,116.0,87.0,118.0,2
-2020-03-11,,Franklin County,Professional & Other Places,102.0,74.0,105.0,3
-2020-03-11,,Addison County,Shops & Services,101.0,81.0,102.0,1
-2020-03-11,,Addison County,Colleges & Universities,93.0,"",93.0,2
-2020-03-11,,Addison County,Food,126.0,"",128.0,3
-2020-03-11,,Addison County,Outdoors & Recreation,125.0,"",127.0,4
-2020-03-11,,Chittenden County,Shops & Services,98.0,99.0,98.0,1
-2020-03-11,,Chittenden County,Food,100.0,106.0,99.0,2
-2020-03-11,,Chittenden County,Professional & Other Places,100.0,92.0,100.0,3
-2020-03-11,,Chittenden County,Colleges & Universities,57.0,65.0,57.0,4
-2020-03-11,,Chittenden County,Outdoors & Recreation,98.0,104.0,98.0,5
-2020-03-11,,Chittenden County,Medical,96.0,112.0,95.0,6
-2020-03-11,,Chittenden County,Nightlife Spots,98.0,"",99.0,7
-2020-03-11,,Chittenden County,Grocery,105.0,112.0,104.0,8
-2020-03-11,,Chittenden County,Travel & Transport,90.0,88.0,90.0,9
-2020-03-11,,Chittenden County,School,102.0,"",102.0,10
-2020-03-11,,Chittenden County,Fitness Center,100.0,"",101.0,11
-2020-03-11,,Chittenden County,Sports,99.0,"",98.0,12
-2020-03-11,,Chittenden County,Gas Stations,90.0,"",90.0,13
-2020-03-11,,Chittenden County,Arts & Entertainment,84.0,"",83.0,14
-2020-03-11,,Chittenden County,Hotel,104.0,"",105.0,15
-2020-03-11,,Orleans County,Shops & Services,93.0,92.0,93.0,1
-2020-03-11,,Orleans County,Food,85.0,"",84.0,2
-2020-03-11,,Bennington County,Shops & Services,100.0,93.0,101.0,1
-2020-03-11,,Bennington County,Food,91.0,91.0,91.0,2
-2020-03-11,,Bennington County,Outdoors & Recreation,82.0,"",83.0,3
-2020-03-11,,Bennington County,Professional & Other Places,91.0,"",90.0,4
-2020-03-11,,Washington County,Shops & Services,89.0,71.0,90.0,1
-2020-03-11,,Washington County,Food,82.0,83.0,82.0,2
-2020-03-11,,Washington County,Professional & Other Places,72.0,65.0,72.0,3
-2020-03-11,,Washington County,Outdoors & Recreation,92.0,"",93.0,4
-2020-03-11,,Washington County,Skiing,76.0,"",78.0,5
-2020-03-12,,Chittenden County,Shops & Services,103.0,102.0,103.0,1
-2020-03-12,,Chittenden County,Food,102.0,90.0,103.0,2
-2020-03-12,,Chittenden County,Professional & Other Places,96.0,98.0,96.0,3
-2020-03-12,,Chittenden County,Outdoors & Recreation,100.0,117.0,99.0,4
-2020-03-12,,Chittenden County,Medical,103.0,123.0,102.0,5
-2020-03-12,,Chittenden County,Colleges & Universities,41.0,"",40.0,6
-2020-03-12,,Chittenden County,Nightlife Spots,88.0,95.0,87.0,7
-2020-03-12,,Chittenden County,Grocery,108.0,94.0,109.0,8
-2020-03-12,,Chittenden County,School,105.0,"",106.0,9
-2020-03-12,,Chittenden County,Travel & Transport,66.0,"",65.0,10
-2020-03-12,,Chittenden County,Gas Stations,103.0,"",103.0,11
-2020-03-12,,Chittenden County,Fitness Center,89.0,"",89.0,12
-2020-03-12,,Chittenden County,Sports,88.0,96.0,88.0,13
-2020-03-12,,Washington County,Shops & Services,111.0,113.0,111.0,1
-2020-03-12,,Washington County,Food,109.0,120.0,108.0,2
-2020-03-12,,Washington County,Professional & Other Places,110.0,99.0,111.0,3
-2020-03-12,,Washington County,Outdoors & Recreation,112.0,131.0,111.0,4
-2020-03-12,,Washington County,Skiing,85.0,"",84.0,5
-2020-03-12,,Washington County,Medical,90.0,"",93.0,6
-2020-03-12,,Washington County,Grocery,143.0,"",144.0,7
-2020-03-12,,Caledonia County,Shops & Services,107.0,121.0,107.0,1
-2020-03-12,,Caledonia County,Food,92.0,78.0,94.0,2
-2020-03-12,,Orange County,Professional & Other Places,122.0,"",123.0,1
-2020-03-12,,Orange County,Shops & Services,80.0,"",79.0,2
-2020-03-12,,Lamoille County,Shops & Services,118.0,153.0,115.0,1
-2020-03-12,,Lamoille County,Outdoors & Recreation,91.0,106.0,90.0,2
-2020-03-12,,Lamoille County,Skiing,93.0,120.0,91.0,3
-2020-03-12,,Lamoille County,Food,94.0,112.0,93.0,4
-2020-03-12,,Lamoille County,Hotel,87.0,"",86.0,5
-2020-03-12,,Lamoille County,Nightlife Spots,115.0,"",114.0,6
-2020-03-12,,Franklin County,Shops & Services,99.0,97.0,99.0,1
-2020-03-12,,Franklin County,Food,103.0,109.0,102.0,2
-2020-03-12,,Franklin County,Professional & Other Places,75.0,"",76.0,3
-2020-03-12,,Windsor County,Food,86.0,107.0,84.0,1
-2020-03-12,,Windsor County,Shops & Services,77.0,73.0,78.0,2
-2020-03-12,,Windsor County,Outdoors & Recreation,83.0,84.0,83.0,3
-2020-03-12,,Windsor County,Professional & Other Places,88.0,"",90.0,4
-2020-03-12,,Windsor County,Hotel,88.0,124.0,86.0,5
-2020-03-12,,Windsor County,Skiing,63.0,106.0,60.0,6
-2020-03-12,,Windsor County,Travel & Transport,89.0,"",88.0,7
-2020-03-12,,Rutland County,Shops & Services,100.0,105.0,99.0,1
-2020-03-12,,Rutland County,Food,106.0,108.0,106.0,2
-2020-03-12,,Rutland County,Outdoors & Recreation,108.0,124.0,106.0,3
-2020-03-12,,Rutland County,Skiing,99.0,199.0,95.0,4
-2020-03-12,,Rutland County,Professional & Other Places,96.0,102.0,95.0,5
-2020-03-12,,Rutland County,Medical,88.0,108.0,87.0,6
-2020-03-12,,Rutland County,Nightlife Spots,84.0,"",83.0,7
-2020-03-12,,Rutland County,Hotel,111.0,"",111.0,8
-2020-03-12,,Rutland County,Grocery,105.0,"",105.0,9
-2020-03-12,,Rutland County,Convenience Store,92.0,"",93.0,10
-2020-03-12,,Bennington County,Shops & Services,97.0,74.0,99.0,1
-2020-03-12,,Bennington County,Food,87.0,85.0,87.0,2
-2020-03-12,,Bennington County,Outdoors & Recreation,91.0,"",90.0,3
-2020-03-12,,Bennington County,Professional & Other Places,100.0,"",102.0,4
-2020-03-12,,Windham County,Shops & Services,102.0,105.0,102.0,1
-2020-03-12,,Windham County,Food,92.0,96.0,92.0,2
-2020-03-12,,Windham County,Outdoors & Recreation,83.0,64.0,84.0,3
-2020-03-12,,Windham County,Skiing,69.0,"",70.0,4
-2020-03-12,,Windham County,Professional & Other Places,94.0,"",95.0,5
-2020-03-12,,Windham County,Travel & Transport,83.0,"",82.0,6
-2020-03-12,,Addison County,Shops & Services,116.0,141.0,115.0,1
-2020-03-12,,Addison County,Food,103.0,"",101.0,2
-2020-03-12,,Addison County,Colleges & Universities,64.0,"",63.0,3
-2020-03-12,,Orleans County,Shops & Services,86.0,89.0,86.0,1
-2020-03-12,,Orleans County,Food,98.0,"",97.0,2
-2020-03-13,,Windham County,Shops & Services,91.0,104.0,90.0,1
-2020-03-13,,Windham County,Food,91.0,92.0,91.0,2
-2020-03-13,,Windham County,Outdoors & Recreation,44.0,48.0,44.0,3
-2020-03-13,,Windham County,Professional & Other Places,93.0,"",93.0,4
-2020-03-13,,Windham County,Skiing,25.0,"",25.0,5
-2020-03-13,,Windham County,Travel & Transport,76.0,"",76.0,6
-2020-03-13,,Windham County,Nightlife Spots,81.0,"",81.0,7
-2020-03-13,,Addison County,Shops & Services,123.0,100.0,124.0,1
-2020-03-13,,Addison County,Colleges & Universities,93.0,"",92.0,2
-2020-03-13,,Addison County,Food,112.0,"",111.0,3
-2020-03-13,,Orange County,Shops & Services,117.0,"",117.0,1
-2020-03-13,,Orange County,Professional & Other Places,143.0,"",142.0,2
-2020-03-13,,Chittenden County,Shops & Services,114.0,103.0,114.0,1
-2020-03-13,,Chittenden County,Food,97.0,87.0,98.0,2
-2020-03-13,,Chittenden County,Professional & Other Places,101.0,92.0,102.0,3
-2020-03-13,,Chittenden County,Outdoors & Recreation,98.0,93.0,98.0,4
-2020-03-13,,Chittenden County,Nightlife Spots,114.0,94.0,115.0,5
-2020-03-13,,Chittenden County,Medical,106.0,115.0,105.0,6
-2020-03-13,,Chittenden County,Grocery,136.0,135.0,136.0,7
-2020-03-13,,Chittenden County,Colleges & Universities,39.0,96.0,38.0,8
-2020-03-13,,Chittenden County,Travel & Transport,70.0,"",72.0,9
-2020-03-13,,Chittenden County,School,137.0,"",139.0,10
-2020-03-13,,Chittenden County,Gas Stations,97.0,"",98.0,11
-2020-03-13,,Chittenden County,Arts & Entertainment,119.0,"",122.0,12
-2020-03-13,,Chittenden County,Hotel,81.0,"",83.0,13
-2020-03-13,,Chittenden County,Fitness Center,104.0,"",105.0,14
-2020-03-13,,Chittenden County,Sports,84.0,"",86.0,15
-2020-03-13,,Rutland County,Shops & Services,115.0,104.0,116.0,1
-2020-03-13,,Rutland County,Food,105.0,104.0,105.0,2
-2020-03-13,,Rutland County,Professional & Other Places,108.0,104.0,108.0,3
-2020-03-13,,Rutland County,Outdoors & Recreation,53.0,44.0,53.0,4
-2020-03-13,,Rutland County,Nightlife Spots,105.0,"",106.0,5
-2020-03-13,,Rutland County,Skiing,36.0,"",36.0,6
-2020-03-13,,Rutland County,Grocery,125.0,"",126.0,7
-2020-03-13,,Rutland County,Convenience Store,129.0,"",133.0,8
-2020-03-13,,Rutland County,Medical,98.0,"",99.0,9
-2020-03-13,,Rutland County,Hotel,90.0,"",90.0,10
-2020-03-13,,Rutland County,Travel & Transport,91.0,"",92.0,11
-2020-03-13,,Rutland County,School,109.0,"",107.0,12
-2020-03-13,,Orleans County,Shops & Services,100.0,89.0,101.0,1
-2020-03-13,,Orleans County,Food,82.0,"",82.0,2
-2020-03-13,,Windsor County,Shops & Services,105.0,111.0,105.0,1
-2020-03-13,,Windsor County,Food,84.0,68.0,85.0,2
-2020-03-13,,Windsor County,Outdoors & Recreation,59.0,71.0,59.0,3
-2020-03-13,,Windsor County,Hotel,86.0,118.0,85.0,4
-2020-03-13,,Windsor County,Professional & Other Places,90.0,"",90.0,5
-2020-03-13,,Windsor County,Travel & Transport,80.0,"",79.0,6
-2020-03-13,,Windsor County,Skiing,35.0,"",35.0,7
-2020-03-13,,Windsor County,Gas Stations,123.0,"",121.0,8
-2020-03-13,,Windsor County,Nightlife Spots,80.0,"",79.0,9
-2020-03-13,,Lamoille County,Shops & Services,117.0,79.0,120.0,1
-2020-03-13,,Lamoille County,Food,79.0,"",80.0,2
-2020-03-13,,Lamoille County,Outdoors & Recreation,43.0,"",43.0,3
-2020-03-13,,Lamoille County,Hotel,78.0,"",80.0,4
-2020-03-13,,Lamoille County,Nightlife Spots,98.0,"",99.0,5
-2020-03-13,,Lamoille County,Travel & Transport,82.0,"",84.0,6
-2020-03-13,,Caledonia County,Shops & Services,120.0,133.0,119.0,1
-2020-03-13,,Caledonia County,Food,97.0,82.0,98.0,2
-2020-03-13,,Franklin County,Shops & Services,132.0,133.0,132.0,1
-2020-03-13,,Franklin County,Food,98.0,"",100.0,2
-2020-03-13,,Franklin County,Professional & Other Places,113.0,"",114.0,3
-2020-03-13,,Washington County,Shops & Services,110.0,97.0,111.0,1
-2020-03-13,,Washington County,Food,103.0,79.0,104.0,2
-2020-03-13,,Washington County,Professional & Other Places,95.0,82.0,95.0,3
-2020-03-13,,Washington County,Outdoors & Recreation,57.0,"",57.0,4
-2020-03-13,,Washington County,Grocery,137.0,"",139.0,5
-2020-03-13,,Washington County,Medical,95.0,"",96.0,6
-2020-03-13,,Bennington County,Shops & Services,93.0,70.0,94.0,1
-2020-03-13,,Bennington County,Food,103.0,79.0,105.0,2
-2020-03-13,,Bennington County,Professional & Other Places,109.0,"",111.0,3
-2020-03-13,,Bennington County,Outdoors & Recreation,72.0,"",73.0,4
-2020-03-13,,Bennington County,Hotel,96.0,"",98.0,5
-2020-03-14,,Windham County,Outdoors & Recreation,52.0,56.0,52.0,1
-2020-03-14,,Windham County,Skiing,43.0,38.0,43.0,2
-2020-03-14,,Windham County,Shops & Services,88.0,87.0,89.0,3
-2020-03-14,,Windham County,Food,68.0,50.0,69.0,4
-2020-03-14,,Windham County,Nightlife Spots,53.0,"",53.0,5
-2020-03-14,,Windham County,Grocery,112.0,"",112.0,6
-2020-03-14,,Windham County,Travel & Transport,63.0,"",63.0,7
-2020-03-14,,Windham County,Professional & Other Places,93.0,"",94.0,8
-2020-03-14,,Chittenden County,Shops & Services,87.0,69.0,88.0,1
-2020-03-14,,Chittenden County,Food,76.0,61.0,76.0,2
-2020-03-14,,Chittenden County,Outdoors & Recreation,104.0,90.0,105.0,3
-2020-03-14,,Chittenden County,Nightlife Spots,79.0,"",80.0,4
-2020-03-14,,Chittenden County,Professional & Other Places,74.0,70.0,74.0,5
-2020-03-14,,Chittenden County,Grocery,109.0,91.0,110.0,6
-2020-03-14,,Chittenden County,Travel & Transport,53.0,"",54.0,7
-2020-03-14,,Chittenden County,Medical,90.0,"",92.0,8
-2020-03-14,,Chittenden County,Colleges & Universities,29.0,"",29.0,9
-2020-03-14,,Chittenden County,Hotel,60.0,"",59.0,10
-2020-03-14,,Chittenden County,Sports,80.0,"",82.0,11
-2020-03-14,,Chittenden County,Gas Stations,83.0,"",84.0,12
-2020-03-14,,Chittenden County,Arts & Entertainment,64.0,"",67.0,12
-2020-03-14,,Orange County,Shops & Services,114.0,"",113.0,1
-2020-03-14,,Orleans County,Shops & Services,102.0,98.0,102.0,1
-2020-03-14,,Orleans County,Food,81.0,"",80.0,2
-2020-03-14,,Orleans County,Skiing,60.0,"",60.0,3
-2020-03-14,,Lamoille County,Skiing,59.0,53.0,60.0,1
-2020-03-14,,Lamoille County,Outdoors & Recreation,63.0,61.0,63.0,2
-2020-03-14,,Lamoille County,Shops & Services,102.0,100.0,102.0,3
-2020-03-14,,Lamoille County,Food,79.0,80.0,79.0,4
-2020-03-14,,Lamoille County,Hotel,88.0,"",89.0,5
-2020-03-14,,Lamoille County,Nightlife Spots,110.0,"",112.0,6
-2020-03-14,,Lamoille County,Travel & Transport,85.0,"",85.0,7
-2020-03-14,,Addison County,Shops & Services,92.0,71.0,94.0,1
-2020-03-14,,Addison County,Food,93.0,"",94.0,2
-2020-03-14,,Addison County,Outdoors & Recreation,91.0,"",92.0,3
-2020-03-14,,Rutland County,Shops & Services,114.0,124.0,114.0,1
-2020-03-14,,Rutland County,Skiing,68.0,72.0,68.0,2
-2020-03-14,,Rutland County,Outdoors & Recreation,71.0,72.0,71.0,3
-2020-03-14,,Rutland County,Food,90.0,70.0,91.0,4
-2020-03-14,,Rutland County,Nightlife Spots,99.0,"",101.0,5
-2020-03-14,,Rutland County,Professional & Other Places,118.0,116.0,118.0,6
-2020-03-14,,Rutland County,Hotel,91.0,"",91.0,7
-2020-03-14,,Rutland County,Grocery,126.0,143.0,125.0,8
-2020-03-14,,Rutland County,Travel & Transport,88.0,"",87.0,9
-2020-03-14,,Rutland County,Arts & Entertainment,89.0,"",89.0,10
-2020-03-14,,Washington County,Shops & Services,92.0,103.0,92.0,1
-2020-03-14,,Washington County,Skiing,64.0,"",64.0,2
-2020-03-14,,Washington County,Food,79.0,107.0,78.0,3
-2020-03-14,,Washington County,Outdoors & Recreation,65.0,69.0,64.0,4
-2020-03-14,,Washington County,Professional & Other Places,81.0,"",80.0,5
-2020-03-14,,Washington County,Grocery,132.0,"",129.0,6
-2020-03-14,,Washington County,Hotel,81.0,"",81.0,7
-2020-03-14,,Windsor County,Shops & Services,80.0,84.0,80.0,1
-2020-03-14,,Windsor County,Food,64.0,65.0,64.0,2
-2020-03-14,,Windsor County,Outdoors & Recreation,50.0,48.0,51.0,3
-2020-03-14,,Windsor County,Skiing,43.0,33.0,44.0,4
-2020-03-14,,Windsor County,Hotel,75.0,"",75.0,5
-2020-03-14,,Windsor County,Travel & Transport,80.0,"",80.0,6
-2020-03-14,,Windsor County,Nightlife Spots,66.0,"",65.0,7
-2020-03-14,,Windsor County,Professional & Other Places,93.0,"",92.0,8
-2020-03-14,,Bennington County,Shops & Services,108.0,87.0,109.0,1
-2020-03-14,,Bennington County,Food,91.0,85.0,91.0,2
-2020-03-14,,Bennington County,Outdoors & Recreation,67.0,"",66.0,3
-2020-03-14,,Bennington County,Hotel,80.0,"",79.0,4
-2020-03-14,,Franklin County,Shops & Services,118.0,83.0,120.0,1
-2020-03-14,,Franklin County,Food,93.0,"",94.0,2
-2020-03-14,,Franklin County,Outdoors & Recreation,113.0,"",114.0,3
-2020-03-14,,Caledonia County,Shops & Services,112.0,119.0,111.0,1
-2020-03-14,,Caledonia County,Food,82.0,97.0,81.0,2
-2020-03-15,,Franklin County,Shops & Services,101.0,83.0,102.0,1
-2020-03-15,,Franklin County,Food,90.0,"",89.0,2
-2020-03-15,,Windham County,Shops & Services,82.0,87.0,81.0,1
-2020-03-15,,Windham County,Food,61.0,55.0,61.0,2
-2020-03-15,,Windham County,Outdoors & Recreation,21.0,"",21.0,3
-2020-03-15,,Windham County,Skiing,10.0,"",10.0,4
-2020-03-15,,Caledonia County,Shops & Services,99.0,131.0,97.0,1
-2020-03-15,,Caledonia County,Food,72.0,"",70.0,2
-2020-03-15,,Bennington County,Shops & Services,97.0,87.0,98.0,1
-2020-03-15,,Bennington County,Food,73.0,80.0,73.0,2
-2020-03-15,,Bennington County,Outdoors & Recreation,62.0,"",63.0,3
-2020-03-15,,Addison County,Shops & Services,76.0,93.0,75.0,1
-2020-03-15,,Lamoille County,Shops & Services,95.0,92.0,95.0,1
-2020-03-15,,Lamoille County,Food,59.0,"",60.0,2
-2020-03-15,,Lamoille County,Outdoors & Recreation,29.0,"",30.0,3
-2020-03-15,,Lamoille County,Hotel,54.0,"",55.0,4
-2020-03-15,,Lamoille County,Nightlife Spots,64.0,"",64.0,5
-2020-03-15,,Lamoille County,Skiing,20.0,"",20.0,6
-2020-03-15,,Washington County,Shops & Services,91.0,75.0,91.0,1
-2020-03-15,,Washington County,Food,72.0,85.0,72.0,2
-2020-03-15,,Washington County,Outdoors & Recreation,30.0,"",31.0,3
-2020-03-15,,Washington County,Professional & Other Places,71.0,"",71.0,4
-2020-03-15,,Washington County,Grocery,131.0,"",133.0,5
-2020-03-15,,Windsor County,Shops & Services,91.0,106.0,91.0,1
-2020-03-15,,Windsor County,Food,65.0,69.0,65.0,2
-2020-03-15,,Windsor County,Outdoors & Recreation,39.0,46.0,39.0,3
-2020-03-15,,Windsor County,Hotel,72.0,"",72.0,4
-2020-03-15,,Windsor County,Travel & Transport,65.0,"",65.0,5
-2020-03-15,,Rutland County,Shops & Services,95.0,87.0,96.0,1
-2020-03-15,,Rutland County,Food,69.0,62.0,69.0,2
-2020-03-15,,Rutland County,Outdoors & Recreation,30.0,47.0,29.0,3
-2020-03-15,,Rutland County,Skiing,19.0,"",19.0,4
-2020-03-15,,Rutland County,Nightlife Spots,76.0,"",75.0,5
-2020-03-15,,Rutland County,Grocery,112.0,"",114.0,6
-2020-03-15,,Rutland County,Professional & Other Places,103.0,"",103.0,7
-2020-03-15,,Rutland County,Hotel,74.0,"",72.0,8
-2020-03-15,,Rutland County,Travel & Transport,84.0,"",82.0,9
-2020-03-15,,Orleans County,Shops & Services,97.0,76.0,98.0,1
-2020-03-15,,Chittenden County,Shops & Services,85.0,84.0,85.0,1
-2020-03-15,,Chittenden County,Food,66.0,60.0,67.0,2
-2020-03-15,,Chittenden County,Outdoors & Recreation,76.0,56.0,77.0,3
-2020-03-15,,Chittenden County,Grocery,102.0,100.0,102.0,4
-2020-03-15,,Chittenden County,Nightlife Spots,65.0,"",65.0,5
-2020-03-15,,Chittenden County,Professional & Other Places,59.0,82.0,58.0,6
-2020-03-15,,Chittenden County,Colleges & Universities,48.0,"",49.0,7
-2020-03-15,,Chittenden County,Travel & Transport,49.0,"",50.0,8
-2020-03-15,,Chittenden County,Arts & Entertainment,61.0,"",62.0,9
-2020-03-16,,Lamoille County,Shops & Services,88.0,100.0,88.0,1
-2020-03-16,,Lamoille County,Outdoors & Recreation,33.0,"",33.0,2
-2020-03-16,,Lamoille County,Food,54.0,"",54.0,3
-2020-03-16,,Lamoille County,Hotel,68.0,"",68.0,4
-2020-03-16,,Addison County,Shops & Services,131.0,115.0,133.0,1
-2020-03-16,,Addison County,Outdoors & Recreation,117.0,142.0,115.0,2
-2020-03-16,,Orleans County,Shops & Services,113.0,91.0,115.0,1
-2020-03-16,,Orleans County,Food,131.0,"",133.0,2
-2020-03-16,,Caledonia County,Shops & Services,112.0,105.0,113.0,1
-2020-03-16,,Caledonia County,Food,97.0,94.0,98.0,2
-2020-03-16,,Washington County,Shops & Services,102.0,95.0,103.0,1
-2020-03-16,,Washington County,Professional & Other Places,77.0,60.0,78.0,2
-2020-03-16,,Washington County,Food,67.0,53.0,68.0,3
-2020-03-16,,Washington County,Outdoors & Recreation,38.0,"",39.0,4
-2020-03-16,,Washington County,Medical,88.0,"",89.0,5
-2020-03-16,,Franklin County,Shops & Services,116.0,101.0,118.0,1
-2020-03-16,,Franklin County,Professional & Other Places,105.0,"",107.0,2
-2020-03-16,,Franklin County,Food,102.0,77.0,104.0,3
-2020-03-16,,Bennington County,Shops & Services,101.0,88.0,102.0,1
-2020-03-16,,Bennington County,Food,98.0,103.0,97.0,2
-2020-03-16,,Bennington County,Outdoors & Recreation,78.0,"",80.0,3
-2020-03-16,,Bennington County,Professional & Other Places,98.0,"",100.0,4
-2020-03-16,,Orange County,Shops & Services,114.0,125.0,113.0,1
-2020-03-16,,Chittenden County,Shops & Services,110.0,94.0,111.0,1
-2020-03-16,,Chittenden County,Food,84.0,60.0,85.0,2
-2020-03-16,,Chittenden County,Professional & Other Places,80.0,76.0,80.0,3
-2020-03-16,,Chittenden County,Outdoors & Recreation,87.0,106.0,86.0,4
-2020-03-16,,Chittenden County,Colleges & Universities,47.0,"",46.0,5
-2020-03-16,,Chittenden County,Medical,73.0,62.0,74.0,6
-2020-03-16,,Chittenden County,Grocery,138.0,139.0,138.0,7
-2020-03-16,,Chittenden County,Nightlife Spots,79.0,"",80.0,8
-2020-03-16,,Chittenden County,Travel & Transport,60.0,"",59.0,9
-2020-03-16,,Chittenden County,School,82.0,"",82.0,10
-2020-03-16,,Chittenden County,Gas Stations,97.0,"",98.0,11
-2020-03-16,,Windham County,Shops & Services,84.0,93.0,84.0,1
-2020-03-16,,Windham County,Food,62.0,90.0,61.0,2
-2020-03-16,,Windham County,Outdoors & Recreation,36.0,47.0,35.0,3
-2020-03-16,,Windham County,Professional & Other Places,79.0,"",80.0,4
-2020-03-16,,Windsor County,Shops & Services,88.0,91.0,88.0,1
-2020-03-16,,Windsor County,Food,60.0,56.0,61.0,2
-2020-03-16,,Windsor County,Outdoors & Recreation,56.0,66.0,56.0,3
-2020-03-16,,Windsor County,Professional & Other Places,65.0,"",66.0,4
-2020-03-16,,Rutland County,Shops & Services,103.0,86.0,104.0,1
-2020-03-16,,Rutland County,Food,77.0,75.0,77.0,2
-2020-03-16,,Rutland County,Professional & Other Places,91.0,77.0,93.0,3
-2020-03-16,,Rutland County,Outdoors & Recreation,35.0,"",35.0,4
-2020-03-16,,Rutland County,Grocery,136.0,"",136.0,5
-2020-03-16,,Rutland County,Nightlife Spots,86.0,"",86.0,6
-2020-03-16,,Rutland County,Medical,66.0,"",68.0,7
-2020-03-17,,Lamoille County,Shops & Services,78.0,91.0,77.0,1
-2020-03-17,,Lamoille County,Outdoors & Recreation,44.0,"",46.0,2
-2020-03-17,,Windsor County,Shops & Services,74.0,75.0,74.0,1
-2020-03-17,,Windsor County,Food,58.0,46.0,58.0,2
-2020-03-17,,Windsor County,Outdoors & Recreation,50.0,56.0,50.0,3
-2020-03-17,,Windsor County,Professional & Other Places,59.0,"",60.0,4
-2020-03-17,,Orleans County,Shops & Services,93.0,80.0,95.0,1
-2020-03-17,,Chittenden County,Shops & Services,85.0,64.0,87.0,1
-2020-03-17,,Chittenden County,Food,61.0,39.0,63.0,2
-2020-03-17,,Chittenden County,Professional & Other Places,57.0,52.0,57.0,3
-2020-03-17,,Chittenden County,Outdoors & Recreation,76.0,76.0,76.0,4
-2020-03-17,,Chittenden County,Colleges & Universities,31.0,67.0,30.0,5
-2020-03-17,,Chittenden County,Grocery,119.0,91.0,121.0,6
-2020-03-17,,Chittenden County,Medical,51.0,41.0,51.0,7
-2020-03-17,,Chittenden County,Nightlife Spots,54.0,"",54.0,8
-2020-03-17,,Chittenden County,School,64.0,"",61.0,9
-2020-03-17,,Chittenden County,Travel & Transport,46.0,"",47.0,9
-2020-03-17,,Chittenden County,Gas Stations,82.0,"",83.0,10
-2020-03-17,,Windham County,Shops & Services,73.0,53.0,75.0,1
-2020-03-17,,Windham County,Food,46.0,"",46.0,2
-2020-03-17,,Windham County,Outdoors & Recreation,35.0,"",34.0,3
-2020-03-17,,Windham County,Professional & Other Places,64.0,"",65.0,4
-2020-03-17,,Bennington County,Shops & Services,79.0,67.0,80.0,1
-2020-03-17,,Bennington County,Food,64.0,59.0,64.0,2
-2020-03-17,,Bennington County,Professional & Other Places,69.0,"",70.0,3
-2020-03-17,,Franklin County,Shops & Services,106.0,110.0,106.0,1
-2020-03-17,,Franklin County,Food,99.0,"",102.0,2
-2020-03-17,,Franklin County,Professional & Other Places,82.0,"",83.0,3
-2020-03-17,,Washington County,Shops & Services,79.0,78.0,79.0,1
-2020-03-17,,Washington County,Food,52.0,62.0,51.0,2
-2020-03-17,,Washington County,Professional & Other Places,54.0,"",54.0,3
-2020-03-17,,Addison County,Shops & Services,99.0,100.0,99.0,1
-2020-03-17,,Caledonia County,Shops & Services,104.0,84.0,106.0,1
-2020-03-17,,Caledonia County,Food,77.0,"",78.0,2
-2020-03-17,,Rutland County,Shops & Services,96.0,98.0,96.0,1
-2020-03-17,,Rutland County,Food,73.0,83.0,72.0,2
-2020-03-17,,Rutland County,Professional & Other Places,66.0,59.0,66.0,3
-2020-03-17,,Rutland County,Outdoors & Recreation,37.0,45.0,37.0,4
-2020-03-17,,Rutland County,Grocery,142.0,167.0,140.0,5
-2020-03-17,,Rutland County,Medical,64.0,81.0,63.0,6
-2020-03-17,,Orange County,Shops & Services,77.0,"",78.0,1
-2020-03-18,,Franklin County,Shops & Services,99.0,100.0,99.0,1
-2020-03-18,,Franklin County,Professional & Other Places,70.0,"",72.0,2
-2020-03-18,,Chittenden County,Shops & Services,75.0,74.0,75.0,1
-2020-03-18,,Chittenden County,Food,58.0,56.0,58.0,2
-2020-03-18,,Chittenden County,Outdoors & Recreation,94.0,92.0,94.0,3
-2020-03-18,,Chittenden County,Professional & Other Places,54.0,57.0,54.0,4
-2020-03-18,,Chittenden County,Medical,46.0,50.0,46.0,5
-2020-03-18,,Chittenden County,Grocery,94.0,96.0,94.0,6
-2020-03-18,,Chittenden County,Colleges & Universities,21.0,"",21.0,7
-2020-03-18,,Chittenden County,Gas Stations,95.0,"",94.0,8
-2020-03-18,,Chittenden County,Nightlife Spots,42.0,"",41.0,9
-2020-03-18,,Chittenden County,Travel & Transport,42.0,"",42.0,10
-2020-03-18,,Bennington County,Shops & Services,89.0,48.0,92.0,1
-2020-03-18,,Bennington County,Food,54.0,"",55.0,2
-2020-03-18,,Bennington County,Outdoors & Recreation,81.0,"",83.0,3
-2020-03-18,,Bennington County,Professional & Other Places,95.0,"",96.0,4
-2020-03-18,,Caledonia County,Shops & Services,97.0,74.0,99.0,1
-2020-03-18,,Caledonia County,Food,62.0,"",64.0,2
-2020-03-18,,Washington County,Shops & Services,77.0,77.0,77.0,1
-2020-03-18,,Washington County,Food,49.0,51.0,49.0,2
-2020-03-18,,Washington County,Professional & Other Places,40.0,"",39.0,3
-2020-03-18,,Washington County,Outdoors & Recreation,45.0,"",46.0,4
-2020-03-18,,Windsor County,Shops & Services,75.0,64.0,77.0,1
-2020-03-18,,Windsor County,Food,54.0,43.0,54.0,2
-2020-03-18,,Windsor County,Outdoors & Recreation,61.0,63.0,61.0,3
-2020-03-18,,Windsor County,Professional & Other Places,62.0,"",63.0,4
-2020-03-18,,Windham County,Shops & Services,82.0,93.0,82.0,1
-2020-03-18,,Windham County,Food,45.0,56.0,45.0,2
-2020-03-18,,Windham County,Outdoors & Recreation,45.0,62.0,44.0,3
-2020-03-18,,Windham County,Professional & Other Places,64.0,"",65.0,4
-2020-03-18,,Lamoille County,Shops & Services,96.0,115.0,95.0,1
-2020-03-18,,Orleans County,Shops & Services,91.0,68.0,93.0,1
-2020-03-18,,Orange County,Shops & Services,91.0,"",90.0,1
-2020-03-18,,Rutland County,Shops & Services,69.0,66.0,69.0,1
-2020-03-18,,Rutland County,Food,56.0,60.0,56.0,2
-2020-03-18,,Rutland County,Professional & Other Places,76.0,90.0,75.0,3
-2020-03-18,,Rutland County,Outdoors & Recreation,46.0,53.0,45.0,4
-2020-03-18,,Rutland County,Medical,63.0,"",63.0,5
-2020-03-18,,Addison County,Shops & Services,88.0,106.0,87.0,1
-2020-03-19,,Chittenden County,Shops & Services,68.0,68.0,68.0,1
-2020-03-19,,Chittenden County,Food,49.0,46.0,49.0,2
-2020-03-19,,Chittenden County,Outdoors & Recreation,97.0,101.0,97.0,3
-2020-03-19,,Chittenden County,Professional & Other Places,56.0,71.0,55.0,4
-2020-03-19,,Chittenden County,Colleges & Universities,27.0,"",27.0,5
-2020-03-19,,Chittenden County,Medical,58.0,50.0,59.0,6
-2020-03-19,,Chittenden County,Grocery,81.0,74.0,82.0,7
-2020-03-19,,Chittenden County,Nightlife Spots,42.0,"",41.0,8
-2020-03-19,,Chittenden County,Travel & Transport,48.0,"",49.0,9
-2020-03-19,,Orange County,Shops & Services,79.0,"",77.0,1
-2020-03-19,,Addison County,Shops & Services,89.0,124.0,86.0,1
-2020-03-19,,Windsor County,Shops & Services,64.0,51.0,65.0,1
-2020-03-19,,Windsor County,Food,60.0,57.0,60.0,2
-2020-03-19,,Windsor County,Outdoors & Recreation,50.0,"",51.0,3
-2020-03-19,,Washington County,Shops & Services,69.0,82.0,68.0,1
-2020-03-19,,Washington County,Food,44.0,"",43.0,2
-2020-03-19,,Washington County,Professional & Other Places,44.0,"",44.0,3
-2020-03-19,,Rutland County,Shops & Services,79.0,79.0,79.0,1
-2020-03-19,,Rutland County,Food,54.0,57.0,53.0,2
-2020-03-19,,Rutland County,Professional & Other Places,53.0,"",53.0,3
-2020-03-19,,Rutland County,Outdoors & Recreation,34.0,"",34.0,4
-2020-03-19,,Rutland County,Medical,81.0,"",80.0,5
-2020-03-19,,Franklin County,Shops & Services,91.0,101.0,90.0,1
-2020-03-19,,Franklin County,Professional & Other Places,64.0,"",65.0,2
-2020-03-19,,Caledonia County,Shops & Services,102.0,80.0,104.0,1
-2020-03-19,,Caledonia County,Food,66.0,"",67.0,2
-2020-03-19,,Bennington County,Shops & Services,81.0,72.0,82.0,1
-2020-03-19,,Bennington County,Food,49.0,"",49.0,2
-2020-03-19,,Bennington County,Professional & Other Places,93.0,"",94.0,3
-2020-03-19,,Bennington County,Outdoors & Recreation,83.0,"",83.0,4
-2020-03-19,,Orleans County,Shops & Services,70.0,59.0,71.0,1
-2020-03-19,,Windham County,Shops & Services,81.0,69.0,82.0,1
-2020-03-19,,Windham County,Food,50.0,"",50.0,2
-2020-03-19,,Windham County,Outdoors & Recreation,35.0,"",35.0,3
-2020-03-19,,Windham County,Professional & Other Places,57.0,"",58.0,4
-2020-03-19,,Lamoille County,Shops & Services,66.0,89.0,65.0,1
-2020-03-20,,Windham County,Shops & Services,77.0,74.0,77.0,1
-2020-03-20,,Windham County,Food,47.0,42.0,47.0,2
-2020-03-20,,Windham County,Outdoors & Recreation,27.0,41.0,26.0,3
-2020-03-20,,Windsor County,Shops & Services,66.0,70.0,66.0,1
-2020-03-20,,Windsor County,Food,53.0,48.0,53.0,2
-2020-03-20,,Windsor County,Outdoors & Recreation,42.0,40.0,42.0,3
-2020-03-20,,Windsor County,Professional & Other Places,71.0,"",71.0,4
-2020-03-20,,Caledonia County,Shops & Services,86.0,95.0,86.0,1
-2020-03-20,,Caledonia County,Food,62.0,"",62.0,2
-2020-03-20,,Rutland County,Shops & Services,79.0,64.0,80.0,1
-2020-03-20,,Rutland County,Food,56.0,35.0,58.0,2
-2020-03-20,,Rutland County,Professional & Other Places,77.0,74.0,78.0,3
-2020-03-20,,Rutland County,Outdoors & Recreation,30.0,"",29.0,4
-2020-03-20,,Rutland County,Medical,102.0,"",104.0,5
-2020-03-20,,Orleans County,Shops & Services,72.0,54.0,73.0,1
-2020-03-20,,Bennington County,Shops & Services,78.0,68.0,78.0,1
-2020-03-20,,Bennington County,Food,52.0,"",54.0,2
-2020-03-20,,Chittenden County,Shops & Services,76.0,70.0,76.0,1
-2020-03-20,,Chittenden County,Food,50.0,44.0,50.0,2
-2020-03-20,,Chittenden County,Outdoors & Recreation,89.0,110.0,88.0,3
-2020-03-20,,Chittenden County,Professional & Other Places,66.0,56.0,66.0,4
-2020-03-20,,Chittenden County,Medical,68.0,"",69.0,5
-2020-03-20,,Chittenden County,Grocery,90.0,78.0,91.0,6
-2020-03-20,,Chittenden County,Nightlife Spots,49.0,"",48.0,7
-2020-03-20,,Chittenden County,Colleges & Universities,21.0,"",21.0,8
-2020-03-20,,Chittenden County,School,77.0,"",77.0,9
-2020-03-20,,Chittenden County,Gas Stations,68.0,"",68.0,9
-2020-03-20,,Addison County,Shops & Services,100.0,91.0,101.0,1
-2020-03-20,,Addison County,Outdoors & Recreation,107.0,"",105.0,2
-2020-03-20,,Franklin County,Shops & Services,115.0,114.0,115.0,1
-2020-03-20,,Franklin County,Professional & Other Places,82.0,"",84.0,2
-2020-03-20,,Washington County,Shops & Services,74.0,88.0,74.0,1
-2020-03-20,,Washington County,Professional & Other Places,58.0,75.0,57.0,2
-2020-03-20,,Washington County,Food,42.0,"",42.0,3
-2020-03-20,,Lamoille County,Shops & Services,80.0,84.0,80.0,1
-2020-03-20,,Orange County,Shops & Services,84.0,"",83.0,1
-2020-03-21,,Orange County,Shops & Services,87.0,"",88.0,1
-2020-03-21,,Caledonia County,Shops & Services,80.0,76.0,80.0,1
-2020-03-21,,Addison County,Shops & Services,76.0,"",78.0,1
-2020-03-21,,Franklin County,Shops & Services,95.0,90.0,95.0,1
-2020-03-21,,Franklin County,Food,59.0,"",59.0,2
-2020-03-21,,Bennington County,Shops & Services,76.0,64.0,77.0,1
-2020-03-21,,Bennington County,Food,49.0,"",49.0,2
-2020-03-21,,Bennington County,Outdoors & Recreation,50.0,"",49.0,3
-2020-03-21,,Windham County,Shops & Services,62.0,62.0,62.0,1
-2020-03-21,,Windham County,Food,27.0,"",27.0,2
-2020-03-21,,Windham County,Outdoors & Recreation,13.0,"",13.0,3
-2020-03-21,,Orleans County,Shops & Services,80.0,73.0,80.0,1
-2020-03-21,,Rutland County,Shops & Services,74.0,79.0,74.0,1
-2020-03-21,,Rutland County,Food,36.0,50.0,35.0,2
-2020-03-21,,Rutland County,Outdoors & Recreation,13.0,37.0,12.0,3
-2020-03-21,,Rutland County,Grocery,89.0,"",88.0,4
-2020-03-21,,Rutland County,Professional & Other Places,67.0,"",66.0,5
-2020-03-21,,Windsor County,Shops & Services,50.0,58.0,50.0,1
-2020-03-21,,Windsor County,Food,34.0,44.0,34.0,2
-2020-03-21,,Windsor County,Outdoors & Recreation,23.0,33.0,23.0,3
-2020-03-21,,Windsor County,Hotel,49.0,"",49.0,4
-2020-03-21,,Washington County,Shops & Services,69.0,57.0,69.0,1
-2020-03-21,,Washington County,Food,29.0,"",29.0,2
-2020-03-21,,Lamoille County,Shops & Services,60.0,68.0,60.0,1
-2020-03-21,,Chittenden County,Shops & Services,54.0,53.0,54.0,1
-2020-03-21,,Chittenden County,Outdoors & Recreation,83.0,90.0,82.0,2
-2020-03-21,,Chittenden County,Food,32.0,31.0,32.0,3
-2020-03-21,,Chittenden County,Professional & Other Places,49.0,49.0,49.0,4
-2020-03-21,,Chittenden County,Grocery,84.0,69.0,85.0,5
-2020-03-21,,Chittenden County,Medical,64.0,"",66.0,6
-2020-03-21,,Chittenden County,Nightlife Spots,23.0,"",23.0,7
-2020-03-22,,Bennington County,Shops & Services,70.0,72.0,69.0,1
-2020-03-22,,Bennington County,Outdoors & Recreation,54.0,"",54.0,2
-2020-03-22,,Bennington County,Food,36.0,"",37.0,3
-2020-03-22,,Rutland County,Shops & Services,60.0,58.0,60.0,1
-2020-03-22,,Rutland County,Food,36.0,51.0,36.0,2
-2020-03-22,,Rutland County,Outdoors & Recreation,16.0,"",15.0,3
-2020-03-22,,Rutland County,Professional & Other Places,84.0,"",82.0,4
-2020-03-22,,Chittenden County,Shops & Services,48.0,46.0,48.0,1
-2020-03-22,,Chittenden County,Outdoors & Recreation,62.0,63.0,62.0,2
-2020-03-22,,Chittenden County,Food,28.0,35.0,28.0,3
-2020-03-22,,Chittenden County,Grocery,66.0,"",67.0,4
-2020-03-22,,Chittenden County,Professional & Other Places,45.0,"",44.0,5
-2020-03-22,,Windsor County,Shops & Services,51.0,50.0,51.0,1
-2020-03-22,,Windsor County,Food,29.0,"",28.0,2
-2020-03-22,,Windsor County,Outdoors & Recreation,26.0,41.0,26.0,3
-2020-03-22,,Caledonia County,Shops & Services,78.0,"",79.0,1
-2020-03-22,,Washington County,Shops & Services,54.0,45.0,55.0,1
-2020-03-22,,Washington County,Food,36.0,"",37.0,2
-2020-03-22,,Washington County,Outdoors & Recreation,21.0,"",21.0,3
-2020-03-22,,Orleans County,Shops & Services,59.0,"",60.0,1
-2020-03-22,,Lamoille County,Shops & Services,52.0,88.0,50.0,1
-2020-03-22,,Franklin County,Shops & Services,64.0,61.0,64.0,1
-2020-03-22,,Addison County,Shops & Services,71.0,"",70.0,1
-2020-03-22,,Windham County,Shops & Services,59.0,74.0,59.0,1
-2020-03-22,,Windham County,Food,30.0,"",30.0,2
-2020-03-22,,Windham County,Outdoors & Recreation,13.0,"",13.0,3
-2020-03-23,,Franklin County,Shops & Services,75.0,84.0,75.0,1
-2020-03-23,,Orleans County,Shops & Services,66.0,39.0,69.0,1
-2020-03-23,,Bennington County,Shops & Services,66.0,55.0,66.0,1
-2020-03-23,,Bennington County,Food,46.0,"",45.0,2
-2020-03-23,,Washington County,Shops & Services,77.0,73.0,77.0,1
-2020-03-23,,Washington County,Professional & Other Places,52.0,64.0,51.0,2
-2020-03-23,,Washington County,Food,39.0,"",39.0,3
-2020-03-23,,Lamoille County,Shops & Services,64.0,76.0,63.0,1
-2020-03-23,,Windsor County,Shops & Services,66.0,51.0,67.0,1
-2020-03-23,,Windsor County,Food,49.0,42.0,50.0,2
-2020-03-23,,Windsor County,Outdoors & Recreation,36.0,"",36.0,3
-2020-03-23,,Rutland County,Shops & Services,62.0,56.0,63.0,1
-2020-03-23,,Rutland County,Food,38.0,36.0,38.0,2
-2020-03-23,,Rutland County,Professional & Other Places,54.0,"",56.0,3
-2020-03-23,,Rutland County,Outdoors & Recreation,22.0,"",22.0,4
-2020-03-23,,Chittenden County,Shops & Services,53.0,45.0,54.0,1
-2020-03-23,,Chittenden County,Food,42.0,43.0,42.0,2
-2020-03-23,,Chittenden County,Professional & Other Places,50.0,45.0,51.0,3
-2020-03-23,,Chittenden County,Outdoors & Recreation,60.0,59.0,60.0,4
-2020-03-23,,Chittenden County,Medical,41.0,33.0,42.0,5
-2020-03-23,,Chittenden County,Colleges & Universities,23.0,"",23.0,6
-2020-03-23,,Chittenden County,Grocery,72.0,"",73.0,7
-2020-03-23,,Chittenden County,Nightlife Spots,55.0,"",55.0,8
-2020-03-23,,Caledonia County,Shops & Services,95.0,82.0,96.0,1
-2020-03-23,,Windham County,Shops & Services,58.0,55.0,58.0,1
-2020-03-23,,Windham County,Food,47.0,59.0,46.0,2
-2020-03-23,,Windham County,Outdoors & Recreation,23.0,"",23.0,3
-2020-03-23,,Addison County,Shops & Services,91.0,63.0,93.0,1
-2020-03-24,,Caledonia County,Shops & Services,76.0,82.0,76.0,1
-2020-03-24,,Windham County,Shops & Services,53.0,43.0,54.0,1
-2020-03-24,,Windham County,Food,43.0,"",43.0,2
-2020-03-24,,Windham County,Outdoors & Recreation,41.0,"",41.0,3
-2020-03-24,,Bennington County,Shops & Services,63.0,54.0,63.0,1
-2020-03-24,,Bennington County,Food,42.0,"",43.0,2
-2020-03-24,,Addison County,Shops & Services,91.0,69.0,93.0,1
-2020-03-24,,Rutland County,Shops & Services,74.0,63.0,75.0,1
-2020-03-24,,Rutland County,Food,41.0,41.0,41.0,2
-2020-03-24,,Rutland County,Professional & Other Places,44.0,"",45.0,3
-2020-03-24,,Rutland County,Outdoors & Recreation,32.0,49.0,31.0,4
-2020-03-24,,Windsor County,Shops & Services,43.0,37.0,44.0,1
-2020-03-24,,Windsor County,Food,42.0,"",44.0,2
-2020-03-24,,Windsor County,Outdoors & Recreation,51.0,"",52.0,3
-2020-03-24,,Windsor County,Professional & Other Places,60.0,"",60.0,4
-2020-03-24,,Franklin County,Shops & Services,75.0,76.0,75.0,1
-2020-03-24,,Franklin County,Professional & Other Places,67.0,"",66.0,2
-2020-03-24,,Orleans County,Shops & Services,71.0,77.0,71.0,1
-2020-03-24,,Chittenden County,Shops & Services,55.0,52.0,55.0,1
-2020-03-24,,Chittenden County,Food,43.0,30.0,44.0,2
-2020-03-24,,Chittenden County,Professional & Other Places,50.0,49.0,50.0,3
-2020-03-24,,Chittenden County,Outdoors & Recreation,68.0,64.0,69.0,4
-2020-03-24,,Chittenden County,Medical,45.0,43.0,45.0,5
-2020-03-24,,Chittenden County,Grocery,78.0,91.0,77.0,6
-2020-03-24,,Chittenden County,Colleges & Universities,16.0,"",15.0,7
-2020-03-24,,Chittenden County,Nightlife Spots,40.0,"",40.0,8
-2020-03-24,,Washington County,Shops & Services,62.0,49.0,62.0,1
-2020-03-24,,Washington County,Professional & Other Places,43.0,"",43.0,2
-2020-03-24,,Washington County,Food,37.0,"",37.0,3
-2020-03-24,,Washington County,Outdoors & Recreation,47.0,"",47.0,4
-2020-03-24,,Lamoille County,Shops & Services,58.0,55.0,58.0,1
-2020-03-25,,Windsor County,Shops & Services,57.0,47.0,57.0,1
-2020-03-25,,Windsor County,Food,44.0,30.0,45.0,2
-2020-03-25,,Windsor County,Outdoors & Recreation,38.0,"",39.0,3
-2020-03-25,,Windham County,Shops & Services,72.0,64.0,72.0,1
-2020-03-25,,Windham County,Food,47.0,"",47.0,2
-2020-03-25,,Addison County,Shops & Services,75.0,"",76.0,1
-2020-03-25,,Chittenden County,Shops & Services,62.0,55.0,63.0,1
-2020-03-25,,Chittenden County,Food,43.0,34.0,43.0,2
-2020-03-25,,Chittenden County,Outdoors & Recreation,87.0,107.0,86.0,3
-2020-03-25,,Chittenden County,Professional & Other Places,46.0,55.0,46.0,4
-2020-03-25,,Chittenden County,Medical,44.0,43.0,45.0,5
-2020-03-25,,Chittenden County,Grocery,91.0,70.0,93.0,6
-2020-03-25,,Chittenden County,Colleges & Universities,20.0,"",19.0,7
-2020-03-25,,Chittenden County,Nightlife Spots,45.0,"",44.0,8
-2020-03-25,,Orleans County,Shops & Services,76.0,59.0,77.0,1
-2020-03-25,,Washington County,Shops & Services,65.0,68.0,65.0,1
-2020-03-25,,Washington County,Professional & Other Places,44.0,57.0,44.0,2
-2020-03-25,,Washington County,Food,36.0,50.0,35.0,3
-2020-03-25,,Washington County,Outdoors & Recreation,43.0,"",43.0,4
-2020-03-25,,Franklin County,Shops & Services,98.0,108.0,98.0,1
-2020-03-25,,Franklin County,Food,70.0,"",72.0,2
-2020-03-25,,Caledonia County,Shops & Services,82.0,90.0,81.0,1
-2020-03-25,,Bennington County,Shops & Services,76.0,63.0,77.0,1
-2020-03-25,,Bennington County,Food,47.0,"",48.0,2
-2020-03-25,,Lamoille County,Shops & Services,59.0,62.0,59.0,1
-2020-03-25,,Rutland County,Shops & Services,78.0,75.0,79.0,1
-2020-03-25,,Rutland County,Food,47.0,41.0,47.0,2
-2020-03-25,,Rutland County,Professional & Other Places,52.0,"",53.0,3
-2020-03-25,,Rutland County,Outdoors & Recreation,36.0,46.0,36.0,4
-2020-03-25,,Rutland County,Grocery,107.0,"",107.0,5
-2020-03-26,,Washington County,Shops & Services,61.0,76.0,61.0,1
-2020-03-26,,Washington County,Professional & Other Places,40.0,"",39.0,2
-2020-03-26,,Washington County,Food,35.0,"",35.0,3
-2020-03-26,,Washington County,Outdoors & Recreation,42.0,"",41.0,4
-2020-03-26,,Windsor County,Shops & Services,55.0,59.0,54.0,1
-2020-03-26,,Windsor County,Food,48.0,52.0,47.0,2
-2020-03-26,,Windsor County,Outdoors & Recreation,59.0,65.0,59.0,3
-2020-03-26,,Chittenden County,Shops & Services,51.0,46.0,52.0,1
-2020-03-26,,Chittenden County,Outdoors & Recreation,87.0,118.0,85.0,2
-2020-03-26,,Chittenden County,Food,32.0,25.0,32.0,3
-2020-03-26,,Chittenden County,Professional & Other Places,41.0,44.0,41.0,4
-2020-03-26,,Chittenden County,Medical,50.0,"",50.0,5
-2020-03-26,,Chittenden County,Grocery,65.0,60.0,65.0,6
-2020-03-26,,Chittenden County,Colleges & Universities,15.0,"",15.0,7
-2020-03-26,,Rutland County,Shops & Services,64.0,60.0,65.0,1
-2020-03-26,,Rutland County,Food,41.0,"",42.0,2
-2020-03-26,,Rutland County,Outdoors & Recreation,36.0,44.0,36.0,3
-2020-03-26,,Rutland County,Professional & Other Places,49.0,"",51.0,4
-2020-03-26,,Addison County,Shops & Services,71.0,"",72.0,1
-2020-03-26,,Lamoille County,Shops & Services,57.0,69.0,57.0,1
-2020-03-26,,Bennington County,Shops & Services,70.0,51.0,71.0,1
-2020-03-26,,Bennington County,Food,54.0,"",55.0,2
-2020-03-26,,Bennington County,Outdoors & Recreation,80.0,"",82.0,3
-2020-03-26,,Caledonia County,Shops & Services,46.0,"",46.0,1
-2020-03-26,,Windham County,Shops & Services,61.0,75.0,60.0,1
-2020-03-26,,Windham County,Food,36.0,"",36.0,2
-2020-03-26,,Windham County,Outdoors & Recreation,34.0,"",34.0,3
-2020-03-26,,Orleans County,Shops & Services,65.0,51.0,66.0,1
-2020-03-26,,Franklin County,Shops & Services,65.0,71.0,64.0,1
-2020-03-27,,Windsor County,Shops & Services,47.0,46.0,47.0,1
-2020-03-27,,Windsor County,Food,43.0,38.0,44.0,2
-2020-03-27,,Windsor County,Outdoors & Recreation,41.0,46.0,41.0,3
-2020-03-27,,Windsor County,Professional & Other Places,60.0,"",61.0,4
-2020-03-27,,Chittenden County,Shops & Services,53.0,46.0,53.0,1
-2020-03-27,,Chittenden County,Outdoors & Recreation,92.0,108.0,91.0,2
-2020-03-27,,Chittenden County,Food,33.0,36.0,33.0,3
-2020-03-27,,Chittenden County,Professional & Other Places,44.0,41.0,44.0,4
-2020-03-27,,Chittenden County,Grocery,74.0,"",75.0,5
-2020-03-27,,Chittenden County,Medical,45.0,"",46.0,6
-2020-03-27,,Chittenden County,Colleges & Universities,17.0,"",16.0,7
-2020-03-27,,Chittenden County,Nightlife Spots,37.0,"",36.0,8
-2020-03-27,,Windham County,Shops & Services,52.0,63.0,51.0,1
-2020-03-27,,Windham County,Food,35.0,"",35.0,2
-2020-03-27,,Windham County,Outdoors & Recreation,24.0,"",24.0,3
-2020-03-27,,Orleans County,Shops & Services,60.0,53.0,61.0,1
-2020-03-27,,Rutland County,Shops & Services,66.0,50.0,67.0,1
-2020-03-27,,Rutland County,Food,46.0,43.0,46.0,2
-2020-03-27,,Rutland County,Professional & Other Places,56.0,"",56.0,3
-2020-03-27,,Rutland County,Outdoors & Recreation,31.0,"",30.0,4
-2020-03-27,,Addison County,Shops & Services,67.0,"",68.0,1
-2020-03-27,,Washington County,Shops & Services,56.0,53.0,56.0,1
-2020-03-27,,Washington County,Professional & Other Places,50.0,"",50.0,2
-2020-03-27,,Washington County,Food,32.0,"",32.0,3
-2020-03-27,,Washington County,Outdoors & Recreation,32.0,"",31.0,4
-2020-03-27,,Lamoille County,Shops & Services,51.0,54.0,50.0,1
-2020-03-27,,Bennington County,Shops & Services,60.0,47.0,61.0,1
-2020-03-27,,Bennington County,Food,53.0,"",54.0,2
-2020-03-27,,Bennington County,Outdoors & Recreation,75.0,"",77.0,3
-2020-03-27,,Caledonia County,Shops & Services,60.0,"",61.0,1
-2020-03-27,,Caledonia County,Food,54.0,"",56.0,2
-2020-03-27,,Franklin County,Shops & Services,73.0,60.0,74.0,1
-2020-03-28,,Chittenden County,Shops & Services,37.0,34.0,37.0,1
-2020-03-28,,Chittenden County,Outdoors & Recreation,82.0,102.0,81.0,2
-2020-03-28,,Chittenden County,Food,29.0,30.0,29.0,3
-2020-03-28,,Chittenden County,Professional & Other Places,39.0,"",40.0,4
-2020-03-28,,Chittenden County,Grocery,58.0,"",58.0,5
-2020-03-28,,Addison County,Shops & Services,70.0,"",72.0,1
-2020-03-28,,Addison County,Outdoors & Recreation,91.0,"",89.0,2
-2020-03-28,,Rutland County,Shops & Services,60.0,54.0,61.0,1
-2020-03-28,,Rutland County,Food,32.0,"",33.0,2
-2020-03-28,,Rutland County,Outdoors & Recreation,15.0,37.0,14.0,3
-2020-03-28,,Rutland County,Professional & Other Places,82.0,"",84.0,4
-2020-03-28,,Bennington County,Shops & Services,59.0,57.0,59.0,1
-2020-03-28,,Bennington County,Food,40.0,"",40.0,2
-2020-03-28,,Bennington County,Outdoors & Recreation,54.0,"",54.0,3
-2020-03-28,,Windham County,Shops & Services,43.0,"",43.0,1
-2020-03-28,,Windham County,Outdoors & Recreation,14.0,"",14.0,2
-2020-03-28,,Windham County,Food,24.0,"",24.0,3
-2020-03-28,,Lamoille County,Shops & Services,52.0,"",52.0,1
-2020-03-28,,Windsor County,Shops & Services,44.0,55.0,43.0,1
-2020-03-28,,Windsor County,Food,32.0,30.0,32.0,2
-2020-03-28,,Windsor County,Outdoors & Recreation,22.0,32.0,22.0,3
-2020-03-28,,Orleans County,Shops & Services,64.0,"",64.0,1
-2020-03-28,,Washington County,Shops & Services,47.0,30.0,48.0,1
-2020-03-28,,Washington County,Outdoors & Recreation,20.0,"",20.0,2
-2020-03-28,,Washington County,Food,25.0,"",26.0,2
-2020-03-28,,Franklin County,Shops & Services,69.0,49.0,70.0,1
-2020-03-28,,Caledonia County,Shops & Services,66.0,"",67.0,1
-2020-03-29,,Windsor County,Shops & Services,31.0,"",31.0,1
-2020-03-29,,Bennington County,Shops & Services,45.0,"",46.0,1
-2020-03-29,,Rutland County,Shops & Services,39.0,36.0,39.0,1
-2020-03-29,,Rutland County,Food,24.0,"",24.0,2
-2020-03-29,,Orleans County,Shops & Services,42.0,"",42.0,1
-2020-03-29,,Franklin County,Shops & Services,48.0,"",48.0,1
-2020-03-29,,Caledonia County,Shops & Services,55.0,"",55.0,1
-2020-03-29,,Chittenden County,Shops & Services,28.0,20.0,28.0,1
-2020-03-29,,Chittenden County,Food,19.0,"",19.0,2
-2020-03-29,,Chittenden County,Outdoors & Recreation,26.0,"",26.0,3
-2020-03-29,,Chittenden County,Grocery,38.0,"",39.0,4
-2020-03-29,,Washington County,Shops & Services,34.0,"",35.0,1
-2020-03-29,,Windham County,Shops & Services,32.0,"",32.0,1
-2020-03-30,,Windsor County,Shops & Services,39.0,44.0,39.0,1
-2020-03-30,,Windsor County,Food,40.0,37.0,40.0,2
-2020-03-30,,Windsor County,Outdoors & Recreation,28.0,"",28.0,3
-2020-03-30,,Lamoille County,Shops & Services,46.0,65.0,45.0,1
-2020-03-30,,Franklin County,Shops & Services,49.0,45.0,49.0,1
-2020-03-30,,Rutland County,Shops & Services,66.0,60.0,67.0,1
-2020-03-30,,Rutland County,Food,35.0,"",35.0,2
-2020-03-30,,Rutland County,Professional & Other Places,52.0,48.0,52.0,3
-2020-03-30,,Washington County,Shops & Services,39.0,32.0,39.0,1
-2020-03-30,,Washington County,Professional & Other Places,31.0,"",31.0,2
-2020-03-30,,Chittenden County,Shops & Services,44.0,37.0,44.0,1
-2020-03-30,,Chittenden County,Food,30.0,27.0,31.0,2
-2020-03-30,,Chittenden County,Professional & Other Places,37.0,33.0,38.0,3
-2020-03-30,,Chittenden County,Outdoors & Recreation,45.0,51.0,45.0,4
-2020-03-30,,Chittenden County,Medical,33.0,"",34.0,5
-2020-03-30,,Chittenden County,Grocery,60.0,"",61.0,6
-2020-03-30,,Chittenden County,Colleges & Universities,17.0,"",16.0,7
-2020-03-30,,Bennington County,Shops & Services,57.0,39.0,58.0,1
-2020-03-30,,Bennington County,Food,40.0,"",40.0,2
-2020-03-30,,Windham County,Shops & Services,35.0,44.0,34.0,1
-2020-03-30,,Windham County,Food,28.0,"",28.0,2
-2020-03-30,,Caledonia County,Shops & Services,65.0,"",65.0,1
-2020-03-30,,Orleans County,Shops & Services,75.0,52.0,77.0,1
-2020-03-30,,Addison County,Shops & Services,57.0,"",59.0,1
-2020-03-31,Vermont,Caledonia County,Shops & Services,77.0,67.0,78.0,1
-2020-03-31,Vermont,Chittenden County,Shops & Services,50.0,52.0,50.0,1
-2020-03-31,Vermont,Chittenden County,Outdoors & Recreation,76.0,73.0,76.0,2
-2020-03-31,Vermont,Chittenden County,Food,34.0,26.0,34.0,3
-2020-03-31,Vermont,Chittenden County,Professional & Other Places,34.0,40.0,34.0,4
-2020-03-31,Vermont,Chittenden County,Colleges & Universities,19.0,"",18.0,5
-2020-03-31,Vermont,Chittenden County,Grocery,75.0,"",76.0,6
-2020-03-31,Vermont,Chittenden County,Medical,32.0,37.0,31.0,7
-2020-03-31,Vermont,Bennington County,Shops & Services,50.0,35.0,52.0,1
-2020-03-31,Vermont,Bennington County,Food,45.0,"",45.0,2
-2020-03-31,Vermont,Orleans County,Shops & Services,61.0,48.0,63.0,1
-2020-03-31,Vermont,Windsor County,Shops & Services,41.0,34.0,42.0,1
-2020-03-31,Vermont,Windsor County,Food,36.0,"",37.0,2
-2020-03-31,Vermont,Windsor County,Outdoors & Recreation,40.0,60.0,39.0,3
-2020-03-31,Vermont,Lamoille County,Shops & Services,45.0,"",45.0,1
-2020-03-31,Vermont,Rutland County,Shops & Services,65.0,68.0,65.0,1
-2020-03-31,Vermont,Rutland County,Food,41.0,35.0,41.0,2
-2020-03-31,Vermont,Rutland County,Professional & Other Places,38.0,"",39.0,3
-2020-03-31,Vermont,Franklin County,Shops & Services,62.0,59.0,62.0,1
-2020-03-31,Vermont,Windham County,Shops & Services,46.0,52.0,46.0,1
-2020-03-31,Vermont,Windham County,Food,39.0,"",39.0,2
-2020-03-31,Vermont,Windham County,Outdoors & Recreation,28.0,"",28.0,3
-2020-03-31,Vermont,Washington County,Shops & Services,59.0,68.0,59.0,1
-2020-03-31,Vermont,Washington County,Professional & Other Places,39.0,"",39.0,2
-2020-03-31,Vermont,Washington County,Food,41.0,"",41.0,2
-2020-03-31,Vermont,Addison County,Shops & Services,62.0,66.0,61.0,1
+2020-03-01,Vermont,Lamoille County,Skiing,53.0,65.0,52.0,1
+2020-03-01,Vermont,Lamoille County,Hotel,61.0,"",61.0,2
+2020-03-01,Vermont,Lamoille County,Food,62.0,"",62.0,3
+2020-03-01,Vermont,Orleans County,Skiing,87.0,"",86.0,1
+2020-03-01,Vermont,Chittenden County,Shops & Services,98.0,105.0,98.0,1
+2020-03-01,Vermont,Chittenden County,Food,87.0,88.0,87.0,2
+2020-03-01,Vermont,Chittenden County,Grocery,99.0,94.0,100.0,3
+2020-03-01,Vermont,Chittenden County,Colleges & Universities,90.0,"",92.0,4
+2020-03-01,Vermont,Chittenden County,Outdoors & Recreation,68.0,"",68.0,5
+2020-03-01,Vermont,Chittenden County,Nightlife Spots,53.0,"",53.0,6
+2020-03-01,Vermont,Chittenden County,Hotel,60.0,"",60.0,7
+2020-03-01,Vermont,Windsor County,Skiing,51.0,47.0,51.0,1
+2020-03-01,Vermont,Windsor County,Food,44.0,"",44.0,2
+2020-03-01,Vermont,Rutland County,Skiing,46.0,"",46.0,1
+2020-03-01,Vermont,Rutland County,Food,84.0,"",84.0,2
+2020-03-01,Vermont,Rutland County,Shops & Services,47.0,56.0,47.0,3
+2020-03-01,Vermont,Rutland County,Grocery,88.0,"",88.0,4
+2020-03-01,Vermont,Rutland County,Convenience Store,114.0,"",112.0,5
+2020-03-01,Vermont,Rutland County,Hotel,57.0,"",58.0,6
+2020-03-01,Vermont,Windham County,Skiing,42.0,49.0,42.0,1
+2020-03-01,Vermont,Windham County,Food,97.0,"",98.0,2
+2020-03-01,Vermont,Windham County,Shops & Services,50.0,"",51.0,3
+2020-03-01,Vermont,Washington County,Skiing,51.0,"",51.0,1
+2020-03-01,Vermont,Washington County,Food,100.0,"",99.0,2
+2020-03-01,Vermont,Washington County,Shops & Services,53.0,"",54.0,3
+2020-03-01,Vermont,Bennington County,Shops & Services,68.0,"",69.0,1
+2020-03-01,Vermont,Bennington County,Food,51.0,"",52.0,2
+2020-03-02,Vermont,Washington County,Shops & Services,104.0,129.0,103.0,1
+2020-03-02,Vermont,Washington County,Food,82.0,"",82.0,2
+2020-03-02,Vermont,Washington County,Skiing,52.0,"",53.0,3
+2020-03-02,Vermont,Lamoille County,Skiing,37.0,"",38.0,1
+2020-03-02,Vermont,Bennington County,Shops & Services,61.0,52.0,62.0,1
+2020-03-02,Vermont,Bennington County,Food,50.0,"",50.0,2
+2020-03-02,Vermont,Windsor County,Food,45.0,54.0,44.0,1
+2020-03-02,Vermont,Windsor County,Skiing,50.0,"",50.0,2
+2020-03-02,Vermont,Windsor County,Shops & Services,51.0,"",51.0,3
+2020-03-02,Vermont,Rutland County,Skiing,44.0,60.0,44.0,1
+2020-03-02,Vermont,Rutland County,Shops & Services,62.0,58.0,63.0,2
+2020-03-02,Vermont,Rutland County,Food,83.0,100.0,82.0,3
+2020-03-02,Vermont,Rutland County,Convenience Store,102.0,"",103.0,4
+2020-03-02,Vermont,Windham County,Skiing,43.0,72.0,42.0,1
+2020-03-02,Vermont,Windham County,Food,71.0,"",71.0,2
+2020-03-02,Vermont,Chittenden County,Shops & Services,28.0,26.0,28.0,1
+2020-03-02,Vermont,Chittenden County,Food,85.0,88.0,85.0,2
+2020-03-02,Vermont,Chittenden County,Colleges & Universities,85.0,"",85.0,3
+2020-03-02,Vermont,Chittenden County,Medical,50.0,56.0,49.0,4
+2020-03-02,Vermont,Chittenden County,Grocery,102.0,110.0,101.0,5
+2020-03-02,Vermont,Chittenden County,Outdoors & Recreation,94.0,"",94.0,6
+2020-03-02,Vermont,Chittenden County,Gas Stations,103.0,"",102.0,7
+2020-03-02,Vermont,Chittenden County,Professional & Other Places,94.0,"",95.0,8
+2020-03-02,Vermont,Chittenden County,Nightlife Spots,74.0,"",74.0,9
+2020-03-03,Vermont,Washington County,Shops & Services,74.0,79.0,74.0,1
+2020-03-03,Vermont,Washington County,Food,90.0,122.0,89.0,2
+2020-03-03,Vermont,Chittenden County,Shops & Services,32.0,31.0,32.0,1
+2020-03-03,Vermont,Chittenden County,Food,103.0,92.0,104.0,2
+2020-03-03,Vermont,Chittenden County,Colleges & Universities,82.0,"",82.0,3
+2020-03-03,Vermont,Chittenden County,Medical,56.0,54.0,56.0,4
+2020-03-03,Vermont,Chittenden County,Grocery,116.0,143.0,115.0,5
+2020-03-03,Vermont,Chittenden County,Outdoors & Recreation,133.0,133.0,133.0,6
+2020-03-03,Vermont,Chittenden County,Professional & Other Places,25.0,24.0,26.0,7
+2020-03-03,Vermont,Chittenden County,School,100.0,"",100.0,8
+2020-03-03,Vermont,Chittenden County,Gas Stations,108.0,"",109.0,9
+2020-03-03,Vermont,Chittenden County,Nightlife Spots,72.0,"",74.0,10
+2020-03-03,Vermont,Chittenden County,Fitness Center,89.0,"",90.0,11
+2020-03-03,Vermont,Bennington County,Shops & Services,69.0,63.0,70.0,1
+2020-03-03,Vermont,Bennington County,Food,55.0,"",55.0,2
+2020-03-03,Vermont,Caledonia County,Food,138.0,"",140.0,1
+2020-03-03,Vermont,Lamoille County,Skiing,63.0,"",63.0,1
+2020-03-03,Vermont,Lamoille County,Hotel,84.0,"",83.0,2
+2020-03-03,Vermont,Windsor County,Food,43.0,40.0,43.0,1
+2020-03-03,Vermont,Windsor County,Skiing,57.0,80.0,55.0,2
+2020-03-03,Vermont,Windsor County,Shops & Services,57.0,"",58.0,3
+2020-03-03,Vermont,Windham County,Food,99.0,112.0,98.0,1
+2020-03-03,Vermont,Windham County,Skiing,40.0,"",38.0,2
+2020-03-03,Vermont,Rutland County,Food,108.0,119.0,107.0,1
+2020-03-03,Vermont,Rutland County,Shops & Services,66.0,75.0,65.0,2
+2020-03-03,Vermont,Rutland County,Skiing,39.0,"",38.0,3
+2020-03-03,Vermont,Rutland County,Convenience Store,107.0,131.0,105.0,4
+2020-03-04,Vermont,Windham County,Food,88.0,"",87.0,1
+2020-03-04,Vermont,Lamoille County,Skiing,45.0,"",47.0,1
+2020-03-04,Vermont,Washington County,Shops & Services,60.0,"",62.0,1
+2020-03-04,Vermont,Washington County,Food,72.0,"",72.0,2
+2020-03-04,Vermont,Windsor County,Food,78.0,92.0,77.0,1
+2020-03-04,Vermont,Bennington County,Shops & Services,75.0,77.0,75.0,1
+2020-03-04,Vermont,Bennington County,Food,39.0,"",39.0,2
+2020-03-04,Vermont,Rutland County,Shops & Services,62.0,59.0,62.0,1
+2020-03-04,Vermont,Rutland County,Food,90.0,85.0,91.0,2
+2020-03-04,Vermont,Rutland County,Skiing,30.0,"",30.0,3
+2020-03-04,Vermont,Chittenden County,Shops & Services,30.0,29.0,30.0,1
+2020-03-04,Vermont,Chittenden County,Food,84.0,61.0,86.0,2
+2020-03-04,Vermont,Chittenden County,Colleges & Universities,85.0,85.0,85.0,3
+2020-03-04,Vermont,Chittenden County,Grocery,104.0,109.0,104.0,4
+2020-03-04,Vermont,Chittenden County,Medical,48.0,40.0,49.0,5
+2020-03-04,Vermont,Chittenden County,Outdoors & Recreation,100.0,134.0,98.0,6
+2020-03-04,Vermont,Chittenden County,Professional & Other Places,20.0,"",20.0,7
+2020-03-04,Vermont,Chittenden County,Gas Stations,102.0,"",102.0,8
+2020-03-04,Vermont,Chittenden County,Nightlife Spots,82.0,"",82.0,9
+2020-03-04,Vermont,Chittenden County,Fitness Center,67.0,"",68.0,10
+2020-03-05,Vermont,Chittenden County,Shops & Services,31.0,30.0,31.0,1
+2020-03-05,Vermont,Chittenden County,Food,96.0,81.0,97.0,2
+2020-03-05,Vermont,Chittenden County,Colleges & Universities,92.0,"",92.0,3
+2020-03-05,Vermont,Chittenden County,Grocery,102.0,85.0,103.0,4
+2020-03-05,Vermont,Chittenden County,Medical,55.0,55.0,55.0,5
+2020-03-05,Vermont,Chittenden County,Outdoors & Recreation,117.0,151.0,115.0,6
+2020-03-05,Vermont,Chittenden County,Professional & Other Places,20.0,"",20.0,7
+2020-03-05,Vermont,Chittenden County,Gas Stations,96.0,"",96.0,8
+2020-03-05,Vermont,Chittenden County,Nightlife Spots,68.0,"",69.0,9
+2020-03-05,Vermont,Chittenden County,Hotel,105.0,"",104.0,10
+2020-03-05,Vermont,Windham County,Food,116.0,120.0,115.0,1
+2020-03-05,Vermont,Windham County,Skiing,44.0,"",45.0,2
+2020-03-05,Vermont,Windham County,Shops & Services,129.0,"",126.0,3
+2020-03-05,Vermont,Rutland County,Food,89.0,98.0,88.0,1
+2020-03-05,Vermont,Rutland County,Shops & Services,59.0,67.0,58.0,2
+2020-03-05,Vermont,Rutland County,Skiing,49.0,"",48.0,3
+2020-03-05,Vermont,Washington County,Shops & Services,65.0,"",66.0,1
+2020-03-05,Vermont,Washington County,Food,79.0,"",79.0,2
+2020-03-05,Vermont,Windsor County,Food,109.0,110.0,109.0,1
+2020-03-05,Vermont,Windsor County,Skiing,82.0,130.0,79.0,2
+2020-03-05,Vermont,Lamoille County,Skiing,60.0,"",61.0,1
+2020-03-05,Vermont,Bennington County,Shops & Services,79.0,71.0,79.0,1
+2020-03-05,Vermont,Bennington County,Food,49.0,61.0,48.0,2
+2020-03-06,Vermont,Chittenden County,Shops & Services,35.0,36.0,35.0,1
+2020-03-06,Vermont,Chittenden County,Food,98.0,94.0,98.0,2
+2020-03-06,Vermont,Chittenden County,Colleges & Universities,77.0,"",76.0,3
+2020-03-06,Vermont,Chittenden County,Grocery,109.0,91.0,110.0,4
+2020-03-06,Vermont,Chittenden County,Medical,60.0,65.0,60.0,5
+2020-03-06,Vermont,Chittenden County,Outdoors & Recreation,118.0,164.0,116.0,6
+2020-03-06,Vermont,Chittenden County,Nightlife Spots,88.0,"",88.0,7
+2020-03-06,Vermont,Chittenden County,Hotel,92.0,"",91.0,8
+2020-03-06,Vermont,Chittenden County,Professional & Other Places,21.0,"",21.0,9
+2020-03-06,Vermont,Chittenden County,Gas Stations,89.0,"",89.0,10
+2020-03-06,Vermont,Lamoille County,Skiing,61.0,"",61.0,1
+2020-03-06,Vermont,Lamoille County,Hotel,56.0,"",57.0,2
+2020-03-06,Vermont,Lamoille County,Food,69.0,"",69.0,3
+2020-03-06,Vermont,Windsor County,Food,52.0,62.0,51.0,1
+2020-03-06,Vermont,Windsor County,Skiing,47.0,"",47.0,2
+2020-03-06,Vermont,Windsor County,Hotel,59.0,"",59.0,3
+2020-03-06,Vermont,Windsor County,Shops & Services,47.0,"",47.0,4
+2020-03-06,Vermont,Rutland County,Skiing,82.0,"",83.0,1
+2020-03-06,Vermont,Rutland County,Shops & Services,68.0,71.0,68.0,2
+2020-03-06,Vermont,Rutland County,Food,98.0,107.0,97.0,3
+2020-03-06,Vermont,Rutland County,Hotel,92.0,"",92.0,4
+2020-03-06,Vermont,Rutland County,Outdoors & Recreation,22.0,"",22.0,5
+2020-03-06,Vermont,Rutland County,Grocery,94.0,"",94.0,6
+2020-03-06,Vermont,Rutland County,Convenience Store,95.0,"",98.0,7
+2020-03-06,Vermont,Bennington County,Shops & Services,67.0,52.0,68.0,1
+2020-03-06,Vermont,Bennington County,Food,45.0,"",46.0,2
+2020-03-06,Vermont,Washington County,Shops & Services,71.0,65.0,72.0,1
+2020-03-06,Vermont,Washington County,Food,91.0,"",91.0,2
+2020-03-06,Vermont,Washington County,Skiing,46.0,"",45.0,3
+2020-03-06,Vermont,Windham County,Food,99.0,98.0,99.0,1
+2020-03-06,Vermont,Windham County,Skiing,48.0,46.0,48.0,2
+2020-03-06,Vermont,Windham County,Shops & Services,51.0,"",51.0,3
+2020-03-06,Vermont,Orleans County,Food,123.0,"",124.0,1
+2020-03-07,Vermont,Rutland County,Skiing,66.0,66.0,66.0,1
+2020-03-07,Vermont,Rutland County,Food,96.0,77.0,97.0,2
+2020-03-07,Vermont,Rutland County,Shops & Services,64.0,68.0,64.0,3
+2020-03-07,Vermont,Rutland County,Hotel,69.0,"",68.0,4
+2020-03-07,Vermont,Rutland County,Grocery,85.0,"",83.0,5
+2020-03-07,Vermont,Rutland County,Nightlife Spots,76.0,"",76.0,6
+2020-03-07,Vermont,Rutland County,Outdoors & Recreation,10.0,"",10.0,7
+2020-03-07,Vermont,Lamoille County,Skiing,54.0,48.0,54.0,1
+2020-03-07,Vermont,Lamoille County,Hotel,67.0,"",69.0,2
+2020-03-07,Vermont,Lamoille County,Food,83.0,"",85.0,3
+2020-03-07,Vermont,Windsor County,Skiing,40.0,41.0,40.0,1
+2020-03-07,Vermont,Windsor County,Food,90.0,81.0,91.0,2
+2020-03-07,Vermont,Windsor County,Hotel,58.0,"",58.0,3
+2020-03-07,Vermont,Windsor County,Outdoors & Recreation,84.0,"",85.0,4
+2020-03-07,Vermont,Windsor County,Shops & Services,82.0,"",80.0,5
+2020-03-07,Vermont,Orleans County,Skiing,60.0,"",60.0,1
+2020-03-07,Vermont,Windham County,Skiing,58.0,34.0,58.0,1
+2020-03-07,Vermont,Windham County,Food,85.0,"",85.0,2
+2020-03-07,Vermont,Windham County,Nightlife Spots,67.0,"",68.0,3
+2020-03-07,Vermont,Windham County,Shops & Services,52.0,"",53.0,3
+2020-03-07,Vermont,Windham County,Outdoors & Recreation,108.0,"",109.0,4
+2020-03-07,Vermont,Windham County,Hotel,54.0,"",54.0,5
+2020-03-07,Vermont,Chittenden County,Shops & Services,104.0,89.0,105.0,1
+2020-03-07,Vermont,Chittenden County,Food,82.0,90.0,81.0,2
+2020-03-07,Vermont,Chittenden County,Grocery,95.0,83.0,96.0,3
+2020-03-07,Vermont,Chittenden County,Nightlife Spots,77.0,"",78.0,4
+2020-03-07,Vermont,Chittenden County,Outdoors & Recreation,99.0,"",99.0,5
+2020-03-07,Vermont,Chittenden County,Hotel,83.0,"",82.0,6
+2020-03-07,Vermont,Chittenden County,Colleges & Universities,58.0,"",58.0,7
+2020-03-07,Vermont,Chittenden County,Gas Stations,106.0,"",106.0,8
+2020-03-07,Vermont,Chittenden County,Professional & Other Places,27.0,"",27.0,9
+2020-03-07,Vermont,Bennington County,Shops & Services,81.0,68.0,82.0,1
+2020-03-07,Vermont,Bennington County,Food,46.0,"",46.0,2
+2020-03-07,Vermont,Washington County,Skiing,49.0,"",49.0,1
+2020-03-07,Vermont,Washington County,Food,88.0,"",89.0,2
+2020-03-07,Vermont,Washington County,Shops & Services,73.0,64.0,73.0,3
+2020-03-08,Vermont,Bennington County,Shops & Services,75.0,"",76.0,1
+2020-03-08,Vermont,Bennington County,Food,99.0,"",100.0,2
+2020-03-08,Vermont,Windsor County,Skiing,42.0,68.0,41.0,1
+2020-03-08,Vermont,Windsor County,Food,44.0,47.0,44.0,2
+2020-03-08,Vermont,Lamoille County,Skiing,48.0,60.0,47.0,1
+2020-03-08,Vermont,Lamoille County,Hotel,46.0,"",47.0,2
+2020-03-08,Vermont,Lamoille County,Food,60.0,"",60.0,3
+2020-03-08,Vermont,Windham County,Skiing,50.0,47.0,50.0,1
+2020-03-08,Vermont,Windham County,Food,88.0,109.0,88.0,2
+2020-03-08,Vermont,Windham County,Shops & Services,58.0,"",59.0,3
+2020-03-08,Vermont,Windham County,Outdoors & Recreation,106.0,"",106.0,4
+2020-03-08,Vermont,Rutland County,Skiing,49.0,63.0,49.0,1
+2020-03-08,Vermont,Rutland County,Food,91.0,100.0,90.0,2
+2020-03-08,Vermont,Rutland County,Shops & Services,51.0,52.0,51.0,3
+2020-03-08,Vermont,Rutland County,Hotel,81.0,"",80.0,4
+2020-03-08,Vermont,Rutland County,Nightlife Spots,82.0,"",81.0,5
+2020-03-08,Vermont,Rutland County,Outdoors & Recreation,102.0,"",103.0,5
+2020-03-08,Vermont,Chittenden County,Shops & Services,73.0,49.0,74.0,1
+2020-03-08,Vermont,Chittenden County,Food,90.0,80.0,90.0,2
+2020-03-08,Vermont,Chittenden County,Grocery,104.0,66.0,107.0,3
+2020-03-08,Vermont,Chittenden County,Outdoors & Recreation,42.0,46.0,41.0,4
+2020-03-08,Vermont,Chittenden County,Nightlife Spots,64.0,"",64.0,5
+2020-03-08,Vermont,Chittenden County,Hotel,75.0,"",75.0,6
+2020-03-08,Vermont,Chittenden County,Colleges & Universities,67.0,"",66.0,7
+2020-03-08,Vermont,Chittenden County,Gas Stations,104.0,"",104.0,8
+2020-03-08,Vermont,Washington County,Skiing,41.0,"",41.0,1
+2020-03-08,Vermont,Washington County,Food,87.0,"",88.0,2
+2020-03-08,Vermont,Washington County,Shops & Services,101.0,"",102.0,3
+2020-03-08,Vermont,Washington County,Grocery,128.0,"",129.0,4
+2020-03-09,Vermont,Windham County,Skiing,41.0,"",41.0,1
+2020-03-09,Vermont,Windham County,Food,68.0,"",68.0,2
+2020-03-09,Vermont,Lamoille County,Skiing,44.0,"",44.0,1
+2020-03-09,Vermont,Washington County,Shops & Services,67.0,"",68.0,1
+2020-03-09,Vermont,Washington County,Food,81.0,"",79.0,2
+2020-03-09,Vermont,Windsor County,Food,41.0,47.0,41.0,1
+2020-03-09,Vermont,Windsor County,Shops & Services,51.0,"",51.0,2
+2020-03-09,Vermont,Rutland County,Skiing,47.0,61.0,47.0,1
+2020-03-09,Vermont,Rutland County,Food,94.0,94.0,94.0,2
+2020-03-09,Vermont,Rutland County,Shops & Services,63.0,58.0,63.0,3
+2020-03-09,Vermont,Rutland County,Convenience Store,101.0,"",104.0,4
+2020-03-09,Vermont,Chittenden County,Shops & Services,76.0,76.0,75.0,1
+2020-03-09,Vermont,Chittenden County,Food,95.0,97.0,94.0,2
+2020-03-09,Vermont,Chittenden County,Colleges & Universities,64.0,"",63.0,3
+2020-03-09,Vermont,Chittenden County,Grocery,106.0,90.0,107.0,4
+2020-03-09,Vermont,Chittenden County,Outdoors & Recreation,128.0,143.0,128.0,5
+2020-03-09,Vermont,Chittenden County,Medical,46.0,34.0,47.0,6
+2020-03-09,Vermont,Chittenden County,Gas Stations,109.0,"",109.0,7
+2020-03-09,Vermont,Chittenden County,Nightlife Spots,80.0,"",80.0,8
+2020-03-09,Vermont,Chittenden County,Professional & Other Places,16.0,"",16.0,9
+2020-03-09,Vermont,Bennington County,Shops & Services,69.0,60.0,70.0,1
+2020-03-09,Vermont,Bennington County,Food,37.0,"",37.0,2
+2020-03-10,Vermont,Windsor County,Food,88.0,101.0,88.0,1
+2020-03-10,Vermont,Rutland County,Food,112.0,125.0,111.0,1
+2020-03-10,Vermont,Rutland County,Skiing,52.0,"",52.0,2
+2020-03-10,Vermont,Rutland County,Shops & Services,57.0,52.0,57.0,3
+2020-03-10,Vermont,Rutland County,Convenience Store,92.0,"",92.0,4
+2020-03-10,Vermont,Washington County,Shops & Services,100.0,"",101.0,1
+2020-03-10,Vermont,Washington County,Food,107.0,"",107.0,2
+2020-03-10,Vermont,Windham County,Food,93.0,"",93.0,1
+2020-03-10,Vermont,Windham County,Skiing,40.0,"",39.0,2
+2020-03-10,Vermont,Bennington County,Shops & Services,56.0,"",57.0,1
+2020-03-10,Vermont,Chittenden County,Shops & Services,33.0,36.0,32.0,1
+2020-03-10,Vermont,Chittenden County,Food,96.0,79.0,97.0,2
+2020-03-10,Vermont,Chittenden County,Colleges & Universities,61.0,131.0,60.0,3
+2020-03-10,Vermont,Chittenden County,Medical,54.0,50.0,54.0,4
+2020-03-10,Vermont,Chittenden County,Grocery,97.0,96.0,97.0,5
+2020-03-10,Vermont,Chittenden County,Outdoors & Recreation,33.0,"",33.0,6
+2020-03-10,Vermont,Chittenden County,Nightlife Spots,84.0,"",85.0,7
+2020-03-10,Vermont,Chittenden County,Professional & Other Places,18.0,"",18.0,8
+2020-03-10,Vermont,Chittenden County,Gas Stations,106.0,"",106.0,9
+2020-03-10,Vermont,Chittenden County,School,61.0,"",61.0,10
+2020-03-11,Vermont,Chittenden County,Shops & Services,68.0,66.0,68.0,1
+2020-03-11,Vermont,Chittenden County,Food,90.0,97.0,89.0,2
+2020-03-11,Vermont,Chittenden County,Colleges & Universities,54.0,"",54.0,3
+2020-03-11,Vermont,Chittenden County,Grocery,105.0,112.0,104.0,4
+2020-03-11,Vermont,Chittenden County,Medical,49.0,58.0,48.0,5
+2020-03-11,Vermont,Chittenden County,Outdoors & Recreation,102.0,"",102.0,6
+2020-03-11,Vermont,Chittenden County,Professional & Other Places,19.0,"",19.0,7
+2020-03-11,Vermont,Chittenden County,Gas Stations,90.0,"",90.0,8
+2020-03-11,Vermont,Chittenden County,Nightlife Spots,70.0,"",71.0,9
+2020-03-11,Vermont,Chittenden County,School,57.0,"",57.0,10
+2020-03-11,Vermont,Washington County,Shops & Services,91.0,"",93.0,1
+2020-03-11,Vermont,Washington County,Food,84.0,"",84.0,2
+2020-03-11,Vermont,Bennington County,Shops & Services,65.0,60.0,66.0,1
+2020-03-11,Vermont,Bennington County,Food,42.0,"",42.0,2
+2020-03-11,Vermont,Windham County,Food,94.0,"",94.0,1
+2020-03-11,Vermont,Windham County,Skiing,40.0,"",39.0,2
+2020-03-11,Vermont,Windsor County,Food,36.0,38.0,36.0,1
+2020-03-11,Vermont,Rutland County,Food,95.0,96.0,95.0,1
+2020-03-11,Vermont,Rutland County,Shops & Services,61.0,61.0,61.0,2
+2020-03-11,Vermont,Rutland County,Skiing,47.0,"",49.0,3
+2020-03-11,Vermont,Rutland County,Grocery,96.0,"",96.0,4
+2020-03-11,Vermont,Lamoille County,Skiing,45.0,"",47.0,1
+2020-03-12,Vermont,Lamoille County,Skiing,59.0,"",59.0,1
+2020-03-12,Vermont,Bennington County,Shops & Services,54.0,"",56.0,1
+2020-03-12,Vermont,Bennington County,Food,37.0,"",37.0,2
+2020-03-12,Vermont,Chittenden County,Shops & Services,28.0,29.0,28.0,1
+2020-03-12,Vermont,Chittenden County,Food,90.0,81.0,90.0,2
+2020-03-12,Vermont,Chittenden County,Grocery,108.0,94.0,109.0,3
+2020-03-12,Vermont,Chittenden County,Medical,53.0,63.0,53.0,4
+2020-03-12,Vermont,Chittenden County,Outdoors & Recreation,113.0,"",112.0,5
+2020-03-12,Vermont,Chittenden County,Colleges & Universities,39.0,"",38.0,6
+2020-03-12,Vermont,Chittenden County,Gas Stations,103.0,"",103.0,7
+2020-03-12,Vermont,Chittenden County,Professional & Other Places,16.0,"",16.0,8
+2020-03-12,Vermont,Chittenden County,Nightlife Spots,62.0,"",62.0,9
+2020-03-12,Vermont,Rutland County,Food,103.0,108.0,102.0,1
+2020-03-12,Vermont,Rutland County,Skiing,62.0,125.0,59.0,2
+2020-03-12,Vermont,Rutland County,Shops & Services,57.0,59.0,56.0,3
+2020-03-12,Vermont,Rutland County,Grocery,105.0,"",105.0,4
+2020-03-12,Vermont,Rutland County,Convenience Store,92.0,"",93.0,5
+2020-03-12,Vermont,Washington County,Food,107.0,119.0,107.0,1
+2020-03-12,Vermont,Washington County,Shops & Services,61.0,"",61.0,2
+2020-03-12,Vermont,Washington County,Grocery,143.0,"",144.0,3
+2020-03-12,Vermont,Windham County,Food,89.0,"",89.0,1
+2020-03-12,Vermont,Windham County,Skiing,45.0,"",46.0,2
+2020-03-12,Vermont,Windsor County,Food,40.0,50.0,39.0,1
+2020-03-13,Vermont,Windsor County,Food,40.0,34.0,41.0,1
+2020-03-13,Vermont,Windsor County,Gas Stations,123.0,"",121.0,2
+2020-03-13,Vermont,Windsor County,Shops & Services,51.0,"",50.0,2
+2020-03-13,Vermont,Windsor County,Hotel,58.0,"",57.0,3
+2020-03-13,Vermont,Windham County,Food,87.0,90.0,86.0,1
+2020-03-13,Vermont,Rutland County,Shops & Services,67.0,61.0,67.0,1
+2020-03-13,Vermont,Rutland County,Food,99.0,97.0,99.0,2
+2020-03-13,Vermont,Rutland County,Grocery,125.0,"",126.0,3
+2020-03-13,Vermont,Rutland County,Convenience Store,129.0,"",133.0,4
+2020-03-13,Vermont,Rutland County,Skiing,21.0,"",21.0,5
+2020-03-13,Vermont,Washington County,Shops & Services,63.0,"",64.0,1
+2020-03-13,Vermont,Washington County,Food,92.0,"",93.0,2
+2020-03-13,Vermont,Washington County,Grocery,137.0,"",139.0,3
+2020-03-13,Vermont,Bennington County,Shops & Services,55.0,"",57.0,1
+2020-03-13,Vermont,Bennington County,Food,46.0,"",46.0,2
+2020-03-13,Vermont,Chittenden County,Shops & Services,31.0,26.0,31.0,1
+2020-03-13,Vermont,Chittenden County,Food,87.0,77.0,88.0,2
+2020-03-13,Vermont,Chittenden County,Grocery,136.0,135.0,136.0,3
+2020-03-13,Vermont,Chittenden County,Medical,53.0,60.0,53.0,4
+2020-03-13,Vermont,Chittenden County,Outdoors & Recreation,110.0,"",110.0,5
+2020-03-13,Vermont,Chittenden County,Nightlife Spots,84.0,"",84.0,6
+2020-03-13,Vermont,Chittenden County,Gas Stations,97.0,"",98.0,7
+2020-03-13,Vermont,Chittenden County,Colleges & Universities,38.0,"",37.0,8
+2020-03-13,Vermont,Chittenden County,Professional & Other Places,17.0,"",17.0,9
+2020-03-13,Vermont,Chittenden County,School,78.0,"",79.0,10
+2020-03-13,Vermont,Chittenden County,Hotel,67.0,"",68.0,11
+2020-03-14,Vermont,Windham County,Skiing,28.0,"",29.0,1
+2020-03-14,Vermont,Windham County,Food,68.0,"",68.0,2
+2020-03-14,Vermont,Windham County,Grocery,112.0,"",112.0,3
+2020-03-14,Vermont,Rutland County,Skiing,41.0,43.0,41.0,1
+2020-03-14,Vermont,Rutland County,Shops & Services,72.0,82.0,71.0,2
+2020-03-14,Vermont,Rutland County,Food,82.0,70.0,83.0,3
+2020-03-14,Vermont,Rutland County,Grocery,126.0,143.0,125.0,4
+2020-03-14,Vermont,Rutland County,Hotel,59.0,"",58.0,5
+2020-03-14,Vermont,Rutland County,Outdoors & Recreation,10.0,"",10.0,6
+2020-03-14,Vermont,Rutland County,Nightlife Spots,74.0,"",75.0,7
+2020-03-14,Vermont,Bennington County,Shops & Services,69.0,"",70.0,1
+2020-03-14,Vermont,Bennington County,Food,39.0,"",39.0,2
+2020-03-14,Vermont,Lamoille County,Skiing,37.0,"",37.0,1
+2020-03-14,Vermont,Lamoille County,Hotel,56.0,"",56.0,2
+2020-03-14,Vermont,Lamoille County,Food,67.0,"",67.0,3
+2020-03-14,Vermont,Washington County,Skiing,37.0,"",37.0,1
+2020-03-14,Vermont,Washington County,Food,82.0,"",81.0,2
+2020-03-14,Vermont,Washington County,Shops & Services,54.0,"",54.0,3
+2020-03-14,Vermont,Washington County,Grocery,132.0,"",129.0,4
+2020-03-14,Vermont,Chittenden County,Shops & Services,56.0,41.0,57.0,1
+2020-03-14,Vermont,Chittenden County,Food,67.0,55.0,68.0,2
+2020-03-14,Vermont,Chittenden County,Grocery,109.0,91.0,110.0,3
+2020-03-14,Vermont,Chittenden County,Outdoors & Recreation,122.0,107.0,123.0,4
+2020-03-14,Vermont,Chittenden County,Nightlife Spots,58.0,"",59.0,5
+2020-03-14,Vermont,Chittenden County,Gas Stations,83.0,"",84.0,6
+2020-03-14,Vermont,Windsor County,Skiing,25.0,"",25.0,1
+2020-03-14,Vermont,Windsor County,Food,31.0,32.0,31.0,2
+2020-03-14,Vermont,Windsor County,Hotel,51.0,"",51.0,3
+2020-03-14,Vermont,Windsor County,Shops & Services,77.0,"",76.0,4
+2020-03-15,Vermont,Windham County,Food,60.0,"",60.0,1
+2020-03-15,Vermont,Windsor County,Food,31.0,"",31.0,1
+2020-03-15,Vermont,Washington County,Food,63.0,"",63.0,1
+2020-03-15,Vermont,Washington County,Shops & Services,47.0,"",48.0,2
+2020-03-15,Vermont,Washington County,Grocery,131.0,"",133.0,3
+2020-03-15,Vermont,Bennington County,Shops & Services,92.0,"",93.0,1
+2020-03-15,Vermont,Bennington County,Food,34.0,"",34.0,2
+2020-03-15,Vermont,Rutland County,Food,66.0,"",66.0,1
+2020-03-15,Vermont,Rutland County,Shops & Services,47.0,"",47.0,2
+2020-03-15,Vermont,Rutland County,Grocery,112.0,"",114.0,3
+2020-03-15,Vermont,Chittenden County,Shops & Services,48.0,45.0,49.0,1
+2020-03-15,Vermont,Chittenden County,Food,60.0,55.0,60.0,2
+2020-03-15,Vermont,Chittenden County,Grocery,102.0,100.0,102.0,3
+2020-03-15,Vermont,Chittenden County,Outdoors & Recreation,29.0,"",30.0,4
+2020-03-15,Vermont,Chittenden County,Nightlife Spots,47.0,"",47.0,5
+2020-03-16,Vermont,Bennington County,Shops & Services,56.0,"",57.0,1
+2020-03-16,Vermont,Bennington County,Food,42.0,"",41.0,2
+2020-03-16,Vermont,Washington County,Shops & Services,98.0,"",98.0,1
+2020-03-16,Vermont,Washington County,Food,64.0,"",65.0,2
+2020-03-16,Vermont,Chittenden County,Shops & Services,33.0,27.0,34.0,1
+2020-03-16,Vermont,Chittenden County,Food,74.0,53.0,75.0,2
+2020-03-16,Vermont,Chittenden County,Grocery,138.0,139.0,138.0,3
+2020-03-16,Vermont,Chittenden County,Outdoors & Recreation,35.0,43.0,35.0,4
+2020-03-16,Vermont,Chittenden County,Medical,38.0,32.0,38.0,5
+2020-03-16,Vermont,Chittenden County,Colleges & Universities,46.0,"",45.0,6
+2020-03-16,Vermont,Chittenden County,Gas Stations,97.0,"",98.0,7
+2020-03-16,Vermont,Chittenden County,Professional & Other Places,15.0,"",15.0,8
+2020-03-16,Vermont,Windham County,Food,62.0,"",62.0,1
+2020-03-16,Vermont,Rutland County,Shops & Services,58.0,46.0,59.0,1
+2020-03-16,Vermont,Rutland County,Food,74.0,"",74.0,2
+2020-03-16,Vermont,Rutland County,Grocery,136.0,"",136.0,3
+2020-03-16,Vermont,Windsor County,Food,27.0,"",27.0,1
+2020-03-17,Vermont,Bennington County,Shops & Services,46.0,"",47.0,1
+2020-03-17,Vermont,Washington County,Shops & Services,45.0,"",45.0,1
+2020-03-17,Vermont,Windsor County,Food,57.0,"",58.0,1
+2020-03-17,Vermont,Chittenden County,Shops & Services,71.0,54.0,72.0,1
+2020-03-17,Vermont,Chittenden County,Food,54.0,35.0,55.0,2
+2020-03-17,Vermont,Chittenden County,Grocery,119.0,91.0,121.0,3
+2020-03-17,Vermont,Chittenden County,Outdoors & Recreation,87.0,"",87.0,4
+2020-03-17,Vermont,Chittenden County,Colleges & Universities,30.0,"",29.0,5
+2020-03-17,Vermont,Chittenden County,Medical,26.0,"",26.0,6
+2020-03-17,Vermont,Chittenden County,Gas Stations,82.0,"",83.0,7
+2020-03-17,Vermont,Rutland County,Shops & Services,54.0,57.0,54.0,1
+2020-03-17,Vermont,Rutland County,Food,68.0,82.0,67.0,2
+2020-03-17,Vermont,Rutland County,Grocery,142.0,167.0,140.0,3
+2020-03-18,Vermont,Bennington County,Shops & Services,53.0,"",56.0,1
+2020-03-18,Vermont,Washington County,Shops & Services,75.0,"",76.0,1
+2020-03-18,Vermont,Windsor County,Food,53.0,"",54.0,1
+2020-03-18,Vermont,Chittenden County,Shops & Services,21.0,20.0,21.0,1
+2020-03-18,Vermont,Chittenden County,Food,52.0,50.0,52.0,2
+2020-03-18,Vermont,Chittenden County,Grocery,94.0,96.0,94.0,3
+2020-03-18,Vermont,Chittenden County,Outdoors & Recreation,122.0,115.0,122.0,4
+2020-03-18,Vermont,Chittenden County,Gas Stations,95.0,"",94.0,5
+2020-03-18,Vermont,Chittenden County,Medical,23.0,"",23.0,6
+2020-03-18,Vermont,Rutland County,Shops & Services,44.0,43.0,44.0,1
+2020-03-18,Vermont,Rutland County,Food,52.0,"",52.0,2
+2020-03-19,Vermont,Windsor County,Food,28.0,"",28.0,1
+2020-03-19,Vermont,Rutland County,Shops & Services,46.0,43.0,46.0,1
+2020-03-19,Vermont,Bennington County,Shops & Services,47.0,"",48.0,1
+2020-03-19,Vermont,Chittenden County,Shops & Services,59.0,62.0,59.0,1
+2020-03-19,Vermont,Chittenden County,Food,46.0,43.0,46.0,2
+2020-03-19,Vermont,Chittenden County,Outdoors & Recreation,40.0,42.0,40.0,3
+2020-03-19,Vermont,Chittenden County,Grocery,81.0,74.0,82.0,4
+2020-03-19,Vermont,Chittenden County,Colleges & Universities,27.0,"",26.0,5
+2020-03-19,Vermont,Chittenden County,Medical,29.0,"",29.0,6
+2020-03-20,Vermont,Rutland County,Shops & Services,46.0,"",47.0,1
+2020-03-20,Vermont,Rutland County,Food,55.0,"",57.0,2
+2020-03-20,Vermont,Windsor County,Food,24.0,"",24.0,1
+2020-03-20,Vermont,Chittenden County,Shops & Services,68.0,64.0,68.0,1
+2020-03-20,Vermont,Chittenden County,Food,44.0,37.0,44.0,2
+2020-03-20,Vermont,Chittenden County,Grocery,90.0,78.0,91.0,3
+2020-03-20,Vermont,Chittenden County,Outdoors & Recreation,110.0,"",109.0,4
+2020-03-20,Vermont,Chittenden County,Medical,34.0,"",34.0,5
+2020-03-20,Vermont,Chittenden County,Gas Stations,68.0,"",68.0,6
+2020-03-20,Vermont,Bennington County,Shops & Services,42.0,"",43.0,1
+2020-03-20,Vermont,Washington County,Shops & Services,72.0,"",71.0,1
+2020-03-21,Vermont,Bennington County,Shops & Services,44.0,"",45.0,1
+2020-03-21,Vermont,Windsor County,Food,16.0,"",16.0,1
+2020-03-21,Vermont,Chittenden County,Shops & Services,41.0,45.0,41.0,1
+2020-03-21,Vermont,Chittenden County,Grocery,84.0,69.0,85.0,2
+2020-03-21,Vermont,Chittenden County,Outdoors & Recreation,109.0,119.0,109.0,3
+2020-03-21,Vermont,Chittenden County,Food,27.0,"",27.0,4
+2020-03-21,Vermont,Rutland County,Shops & Services,39.0,46.0,39.0,1
+2020-03-21,Vermont,Rutland County,Grocery,89.0,"",88.0,2
+2020-03-21,Vermont,Rutland County,Food,34.0,"",33.0,3
+2020-03-21,Vermont,Washington County,Shops & Services,57.0,"",58.0,1
+2020-03-22,Vermont,Chittenden County,Shops & Services,35.0,"",35.0,1
+2020-03-22,Vermont,Chittenden County,Grocery,66.0,"",67.0,2
+2020-03-22,Vermont,Chittenden County,Outdoors & Recreation,78.0,"",78.0,3
+2020-03-22,Vermont,Chittenden County,Food,28.0,"",28.0,4
+2020-03-23,Vermont,Bennington County,Shops & Services,39.0,"",40.0,1
+2020-03-23,Vermont,Rutland County,Shops & Services,36.0,"",36.0,1
+2020-03-23,Vermont,Washington County,Shops & Services,69.0,"",69.0,1
+2020-03-23,Vermont,Chittenden County,Shops & Services,46.0,36.0,46.0,1
+2020-03-23,Vermont,Chittenden County,Food,40.0,43.0,40.0,2
+2020-03-23,Vermont,Chittenden County,Grocery,72.0,"",73.0,3
+2020-03-23,Vermont,Chittenden County,Outdoors & Recreation,70.0,"",69.0,4
+2020-03-24,Vermont,Rutland County,Shops & Services,44.0,"",45.0,1
+2020-03-24,Vermont,Chittenden County,Shops & Services,44.0,40.0,45.0,1
+2020-03-24,Vermont,Chittenden County,Food,39.0,"",39.0,2
+2020-03-24,Vermont,Chittenden County,Grocery,78.0,91.0,77.0,3
+2020-03-24,Vermont,Chittenden County,Outdoors & Recreation,84.0,"",84.0,4
+2020-03-24,Vermont,Chittenden County,Medical,23.0,"",23.0,5
+2020-03-25,Vermont,Windsor County,Food,43.0,"",44.0,1
+2020-03-25,Vermont,Chittenden County,Shops & Services,49.0,46.0,49.0,1
+2020-03-25,Vermont,Chittenden County,Food,38.0,"",38.0,2
+2020-03-25,Vermont,Chittenden County,Grocery,91.0,70.0,93.0,3
+2020-03-25,Vermont,Chittenden County,Outdoors & Recreation,37.0,44.0,36.0,4
+2020-03-25,Vermont,Bennington County,Shops & Services,45.0,"",47.0,1
+2020-03-25,Vermont,Rutland County,Shops & Services,45.0,44.0,46.0,1
+2020-03-25,Vermont,Rutland County,Grocery,107.0,"",107.0,2
+2020-03-26,Vermont,Rutland County,Shops & Services,40.0,"",41.0,1
+2020-03-26,Vermont,Bennington County,Shops & Services,43.0,"",44.0,1
+2020-03-26,Vermont,Windsor County,Food,23.0,"",22.0,1
+2020-03-26,Vermont,Chittenden County,Shops & Services,29.0,25.0,29.0,1
+2020-03-26,Vermont,Chittenden County,Outdoors & Recreation,35.0,49.0,34.0,2
+2020-03-26,Vermont,Chittenden County,Grocery,65.0,60.0,65.0,3
+2020-03-26,Vermont,Chittenden County,Food,27.0,"",27.0,4
+2020-03-27,Vermont,Bennington County,Shops & Services,38.0,"",39.0,1
+2020-03-27,Vermont,Windsor County,Food,20.0,"",21.0,1
+2020-03-27,Vermont,Rutland County,Shops & Services,39.0,"",40.0,1
+2020-03-27,Vermont,Chittenden County,Shops & Services,43.0,39.0,43.0,1
+2020-03-27,Vermont,Chittenden County,Outdoors & Recreation,37.0,"",37.0,2
+2020-03-27,Vermont,Chittenden County,Food,29.0,32.0,29.0,3
+2020-03-27,Vermont,Chittenden County,Grocery,74.0,"",75.0,4
+2020-03-28,Vermont,Chittenden County,Outdoors & Recreation,34.0,43.0,34.0,1
+2020-03-28,Vermont,Chittenden County,Shops & Services,9.0,"",9.0,2
+2020-03-28,Vermont,Chittenden County,Food,26.0,"",26.0,3
+2020-03-28,Vermont,Chittenden County,Grocery,58.0,"",58.0,4
+2020-03-28,Vermont,Windsor County,Food,15.0,"",15.0,1
+2020-03-28,Vermont,Rutland County,Shops & Services,33.0,"",33.0,1
+2020-03-29,Vermont,Chittenden County,Shops & Services,24.0,"",24.0,1
+2020-03-29,Vermont,Chittenden County,Grocery,38.0,"",39.0,2
+2020-03-30,Vermont,Rutland County,Shops & Services,43.0,"",44.0,1
+2020-03-30,Vermont,Chittenden County,Shops & Services,26.0,23.0,26.0,1
+2020-03-30,Vermont,Chittenden County,Grocery,60.0,"",61.0,2
+2020-03-30,Vermont,Chittenden County,Food,29.0,"",29.0,3
+2020-03-31,Vermont,Chittenden County,Shops & Services,27.0,34.0,27.0,1
+2020-03-31,Vermont,Chittenden County,Grocery,75.0,"",76.0,2
+2020-03-31,Vermont,Chittenden County,Food,31.0,"",32.0,3
+2020-03-31,Vermont,Chittenden County,Outdoors & Recreation,32.0,"",32.0,4
+2020-03-31,Vermont,Rutland County,Shops & Services,44.0,"",45.0,1
+2020-04-01,Vermont,Chittenden County,Shops & Services,38.0,40.0,37.0,1
+2020-04-01,Vermont,Chittenden County,Food,27.0,"",28.0,2
+2020-04-01,Vermont,Chittenden County,Grocery,58.0,"",58.0,3
+2020-04-01,Vermont,Chittenden County,Outdoors & Recreation,25.0,"",25.0,3
+2020-04-01,Vermont,Rutland County,Shops & Services,35.0,"",35.0,1
