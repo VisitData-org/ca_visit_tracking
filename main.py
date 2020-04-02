@@ -34,6 +34,10 @@ def bydateselstate(state):
 def bydatesel(state, counties, venues):
     return render_template("bydate.html", state=state, counties=counties, venues=venues)
 
+@app.route("/faq")
+def faq():
+    return render_template("faq.html")
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
