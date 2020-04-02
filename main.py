@@ -46,6 +46,10 @@ def bystateselstate(states):
 def bystatesel(states, venues):
     return render_template("allstate.html", states=states, venues=venues)
 
+@app.route("/faq")
+def faq():
+    return render_template("faq.html")
+
 def page_not_found(e):
     return render_template('404.html'), 404
 

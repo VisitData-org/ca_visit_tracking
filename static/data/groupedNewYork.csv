@@ -22148,3 +22148,559 @@
 2020-03-30,,Delaware County,Shops & Services,74.0,57.0,75.0,1
 2020-03-30,,Delaware County,Food,58.0,42.0,60.0,2
 2020-03-30,,Schoharie County,Shops & Services,58.0,"",58.0,1
+2020-03-31,New York,Chenango County,Shops & Services,75.0,48.0,77.0,1
+2020-03-31,New York,Chenango County,Food,49.0,"",49.0,2
+2020-03-31,New York,Otsego County,Shops & Services,57.0,55.0,57.0,1
+2020-03-31,New York,Otsego County,Food,39.0,36.0,39.0,2
+2020-03-31,New York,Otsego County,Professional & Other Places,44.0,"",43.0,3
+2020-03-31,New York,Seneca County,Shops & Services,53.0,54.0,52.0,1
+2020-03-31,New York,Seneca County,Food,49.0,66.0,48.0,2
+2020-03-31,New York,Seneca County,Professional & Other Places,55.0,"",55.0,3
+2020-03-31,New York,Broome County,Shops & Services,52.0,47.0,52.0,1
+2020-03-31,New York,Broome County,Food,41.0,39.0,41.0,2
+2020-03-31,New York,Broome County,Professional & Other Places,39.0,39.0,39.0,3
+2020-03-31,New York,Broome County,Medical,39.0,38.0,39.0,4
+2020-03-31,New York,Broome County,Nightlife Spots,49.0,36.0,49.0,5
+2020-03-31,New York,Broome County,Outdoors & Recreation,54.0,43.0,55.0,6
+2020-03-31,New York,Broome County,Grocery,64.0,70.0,64.0,7
+2020-03-31,New York,Broome County,Gas Stations,62.0,"",62.0,8
+2020-03-31,New York,Broome County,Arts & Entertainment,40.0,"",40.0,9
+2020-03-31,New York,Broome County,Fast Food Restaurants,52.0,"",52.0,10
+2020-03-31,New York,Broome County,Travel & Transport,43.0,"",42.0,11
+2020-03-31,New York,Broome County,Colleges & Universities,10.0,"",10.0,11
+2020-03-31,New York,Broome County,Big Box Stores,56.0,"",55.0,12
+2020-03-31,New York,Oneida County,Shops & Services,56.0,55.0,56.0,1
+2020-03-31,New York,Oneida County,Food,45.0,36.0,46.0,2
+2020-03-31,New York,Oneida County,Professional & Other Places,35.0,32.0,36.0,3
+2020-03-31,New York,Oneida County,Outdoors & Recreation,59.0,53.0,59.0,4
+2020-03-31,New York,Oneida County,Nightlife Spots,39.0,46.0,39.0,5
+2020-03-31,New York,Oneida County,Medical,28.0,"",28.0,6
+2020-03-31,New York,Oneida County,Grocery,74.0,"",74.0,7
+2020-03-31,New York,Oneida County,Big Box Stores,68.0,"",68.0,8
+2020-03-31,New York,Oneida County,Gas Stations,57.0,"",57.0,9
+2020-03-31,New York,Oneida County,Arts & Entertainment,18.0,"",19.0,10
+2020-03-31,New York,Oneida County,Fast Food Restaurants,57.0,"",58.0,11
+2020-03-31,New York,Oneida County,Sports,32.0,"",33.0,12
+2020-03-31,New York,Onondaga County,Shops & Services,51.0,47.0,52.0,1
+2020-03-31,New York,Onondaga County,Food,41.0,32.0,41.0,2
+2020-03-31,New York,Onondaga County,Professional & Other Places,42.0,43.0,42.0,3
+2020-03-31,New York,Onondaga County,Outdoors & Recreation,58.0,63.0,57.0,4
+2020-03-31,New York,Onondaga County,Medical,40.0,32.0,41.0,5
+2020-03-31,New York,Onondaga County,Grocery,73.0,68.0,73.0,6
+2020-03-31,New York,Onondaga County,Nightlife Spots,40.0,47.0,40.0,7
+2020-03-31,New York,Onondaga County,School,31.0,37.0,31.0,8
+2020-03-31,New York,Onondaga County,Gas Stations,65.0,49.0,66.0,9
+2020-03-31,New York,Onondaga County,Colleges & Universities,18.0,"",18.0,10
+2020-03-31,New York,Onondaga County,Travel & Transport,38.0,33.0,38.0,11
+2020-03-31,New York,Onondaga County,Residences,48.0,50.0,48.0,12
+2020-03-31,New York,Onondaga County,Big Box Stores,68.0,"",68.0,13
+2020-03-31,New York,Onondaga County,Fast Food Restaurants,56.0,"",56.0,14
+2020-03-31,New York,Onondaga County,Sports,34.0,39.0,34.0,15
+2020-03-31,New York,Onondaga County,Arts & Entertainment,29.0,40.0,28.0,16
+2020-03-31,New York,Onondaga County,Office,39.0,"",39.0,17
+2020-03-31,New York,Onondaga County,Drug Store,73.0,"",75.0,18
+2020-03-31,New York,Onondaga County,Government,44.0,"",43.0,19
+2020-03-31,New York,Onondaga County,Hardware Stores,79.0,"",80.0,20
+2020-03-31,New York,Onondaga County,Convenience Store,65.0,"",65.0,21
+2020-03-31,New York,Onondaga County,Discount Stores,63.0,"",64.0,22
+2020-03-31,New York,Tioga County,Shops & Services,64.0,"",65.0,1
+2020-03-31,New York,Tioga County,Food,42.0,"",43.0,2
+2020-03-31,New York,Essex County,Shops & Services,52.0,"",52.0,1
+2020-03-31,New York,Essex County,Outdoors & Recreation,49.0,"",50.0,2
+2020-03-31,New York,Essex County,Food,39.0,"",40.0,3
+2020-03-31,New York,Columbia County,Food,70.0,74.0,70.0,1
+2020-03-31,New York,Columbia County,Shops & Services,66.0,55.0,67.0,2
+2020-03-31,New York,Columbia County,Outdoors & Recreation,76.0,"",77.0,3
+2020-03-31,New York,Columbia County,Professional & Other Places,69.0,"",70.0,4
+2020-03-31,New York,Clinton County,Shops & Services,57.0,51.0,57.0,1
+2020-03-31,New York,Clinton County,Food,50.0,48.0,50.0,2
+2020-03-31,New York,Clinton County,Professional & Other Places,45.0,"",45.0,3
+2020-03-31,New York,Allegany County,Shops & Services,71.0,99.0,69.0,1
+2020-03-31,New York,Allegany County,Food,43.0,"",43.0,2
+2020-03-31,New York,Allegany County,Professional & Other Places,48.0,"",48.0,3
+2020-03-31,New York,Erie County,Shops & Services,46.0,39.0,46.0,1
+2020-03-31,New York,Erie County,Food,36.0,30.0,37.0,2
+2020-03-31,New York,Erie County,Professional & Other Places,35.0,32.0,35.0,3
+2020-03-31,New York,Erie County,Outdoors & Recreation,49.0,40.0,50.0,4
+2020-03-31,New York,Erie County,Medical,37.0,35.0,37.0,5
+2020-03-31,New York,Erie County,Nightlife Spots,36.0,35.0,36.0,6
+2020-03-31,New York,Erie County,Grocery,66.0,61.0,66.0,7
+2020-03-31,New York,Erie County,Drug Store,70.0,65.0,70.0,8
+2020-03-31,New York,Erie County,Arts & Entertainment,30.0,"",30.0,9
+2020-03-31,New York,Erie County,Gas Stations,53.0,45.0,53.0,10
+2020-03-31,New York,Erie County,Travel & Transport,23.0,"",23.0,11
+2020-03-31,New York,Erie County,School,22.0,"",22.0,12
+2020-03-31,New York,Erie County,Government,40.0,"",41.0,13
+2020-03-31,New York,Erie County,Sports,26.0,"",27.0,14
+2020-03-31,New York,Erie County,Residences,47.0,"",47.0,14
+2020-03-31,New York,Erie County,Big Box Stores,55.0,"",56.0,15
+2020-03-31,New York,Erie County,Hardware Stores,75.0,68.0,75.0,16
+2020-03-31,New York,Erie County,Convenience Store,55.0,"",55.0,17
+2020-03-31,New York,Erie County,Office,32.0,"",33.0,18
+2020-03-31,New York,Erie County,Fast Food Restaurants,46.0,"",47.0,19
+2020-03-31,New York,Erie County,Colleges & Universities,8.0,"",8.0,20
+2020-03-31,New York,Erie County,Discount Stores,64.0,"",64.0,21
+2020-03-31,New York,Erie County,Banks,50.0,"",51.0,22
+2020-03-31,New York,Erie County,Spiritual Center,39.0,"",40.0,23
+2020-03-31,New York,Erie County,Fitness Center,12.0,"",12.0,24
+2020-03-31,New York,Erie County,Alcohol,61.0,"",63.0,25
+2020-03-31,New York,New York,Food,12.0,12.0,12.0,1
+2020-03-31,New York,New York,Shops & Services,16.0,17.0,16.0,2
+2020-03-31,New York,New York,Outdoors & Recreation,23.0,23.0,23.0,3
+2020-03-31,New York,New York,Professional & Other Places,14.0,13.0,14.0,4
+2020-03-31,New York,New York,Travel & Transport,12.0,11.0,12.0,5
+2020-03-31,New York,New York,Medical,23.0,15.0,23.0,6
+2020-03-31,New York,New York,Residences,30.0,21.0,30.0,7
+2020-03-31,New York,New York,Metro Stations,15.0,14.0,15.0,8
+2020-03-31,New York,New York,Arts & Entertainment,11.0,13.0,11.0,9
+2020-03-31,New York,New York,Nightlife Spots,10.0,13.0,10.0,10
+2020-03-31,New York,New York,Fitness Center,12.0,15.0,11.0,11
+2020-03-31,New York,New York,Grocery,30.0,27.0,30.0,12
+2020-03-31,New York,New York,Office,7.0,7.0,7.0,13
+2020-03-31,New York,New York,Colleges & Universities,9.0,12.0,9.0,14
+2020-03-31,New York,New York,Sports,14.0,16.0,14.0,15
+2020-03-31,New York,New York,Drug Store,26.0,"",26.0,16
+2020-03-31,New York,New York,Government,18.0,"",18.0,17
+2020-03-31,New York,New York,Bus,15.0,"",15.0,18
+2020-03-31,New York,New York,Convenience Store,23.0,"",23.0,19
+2020-03-31,New York,New York,School,18.0,"",19.0,20
+2020-03-31,New York,New York,Hotel,7.0,"",7.0,21
+2020-03-31,New York,New York,Fast Food Restaurants,17.0,"",17.0,22
+2020-03-31,New York,New York,Banks,18.0,"",18.0,23
+2020-03-31,New York,New York,Big Box Stores,37.0,"",37.0,24
+2020-03-31,New York,New York,Spiritual Center,17.0,"",17.0,25
+2020-03-31,New York,Oswego County,Shops & Services,73.0,76.0,72.0,1
+2020-03-31,New York,Oswego County,Food,55.0,51.0,56.0,2
+2020-03-31,New York,Oswego County,Professional & Other Places,45.0,"",45.0,3
+2020-03-31,New York,Oswego County,Outdoors & Recreation,64.0,65.0,64.0,4
+2020-03-31,New York,Oswego County,Nightlife Spots,50.0,"",51.0,5
+2020-03-31,New York,Oswego County,Big Box Stores,72.0,"",72.0,6
+2020-03-31,New York,Oswego County,Grocery,93.0,"",91.0,7
+2020-03-31,New York,Rockland County,Shops & Services,48.0,44.0,48.0,1
+2020-03-31,New York,Rockland County,Food,36.0,32.0,36.0,2
+2020-03-31,New York,Rockland County,Professional & Other Places,35.0,32.0,35.0,3
+2020-03-31,New York,Rockland County,Outdoors & Recreation,56.0,53.0,57.0,4
+2020-03-31,New York,Rockland County,Medical,34.0,"",35.0,5
+2020-03-31,New York,Rockland County,Grocery,72.0,"",73.0,6
+2020-03-31,New York,Rockland County,Nightlife Spots,47.0,"",48.0,7
+2020-03-31,New York,Rockland County,Travel & Transport,35.0,"",35.0,8
+2020-03-31,New York,Rockland County,School,20.0,"",20.0,9
+2020-03-31,New York,Rockland County,Sports,37.0,"",37.0,10
+2020-03-31,New York,Rockland County,Arts & Entertainment,43.0,"",43.0,11
+2020-03-31,New York,Queens,Shops & Services,43.0,36.0,43.0,1
+2020-03-31,New York,Queens,Food,30.0,24.0,30.0,2
+2020-03-31,New York,Queens,Professional & Other Places,33.0,27.0,33.0,3
+2020-03-31,New York,Queens,Travel & Transport,17.0,16.0,17.0,4
+2020-03-31,New York,Queens,Outdoors & Recreation,42.0,36.0,42.0,5
+2020-03-31,New York,Queens,Airport,11.0,9.0,12.0,6
+2020-03-31,New York,Queens,Grocery,60.0,49.0,60.0,7
+2020-03-31,New York,Queens,Medical,32.0,23.0,32.0,8
+2020-03-31,New York,Queens,Residences,41.0,26.0,42.0,9
+2020-03-31,New York,Queens,Bus,32.0,27.0,32.0,10
+2020-03-31,New York,Queens,Nightlife Spots,28.0,39.0,28.0,11
+2020-03-31,New York,Queens,Metro Stations,23.0,"",23.0,12
+2020-03-31,New York,Queens,Convenience Store,43.0,33.0,43.0,13
+2020-03-31,New York,Queens,Drug Store,51.0,43.0,51.0,14
+2020-03-31,New York,Queens,School,22.0,20.0,22.0,15
+2020-03-31,New York,Queens,Fast Food Restaurants,46.0,"",46.0,16
+2020-03-31,New York,Queens,Fitness Center,23.0,26.0,23.0,17
+2020-03-31,New York,Queens,Sports,25.0,"",25.0,18
+2020-03-31,New York,Queens,Arts & Entertainment,25.0,29.0,24.0,19
+2020-03-31,New York,Queens,Government,38.0,"",38.0,20
+2020-03-31,New York,Queens,Gas Stations,38.0,"",38.0,21
+2020-03-31,New York,Queens,Office,30.0,"",30.0,22
+2020-03-31,New York,Queens,Colleges & Universities,9.0,"",9.0,23
+2020-03-31,New York,Queens,Banks,40.0,"",40.0,24
+2020-03-31,New York,Queens,Spiritual Center,33.0,"",33.0,25
+2020-03-31,New York,Queens,Hardware Stores,48.0,"",48.0,26
+2020-03-31,New York,Queens,Hotel,25.0,"",26.0,27
+2020-03-31,New York,Queens,Discount Stores,47.0,"",47.0,28
+2020-03-31,New York,Queens,Beach,56.0,"",56.0,29
+2020-03-31,New York,Queens,Alcohol,54.0,"",54.0,30
+2020-03-31,New York,Niagara County,Shops & Services,56.0,51.0,56.0,1
+2020-03-31,New York,Niagara County,Food,46.0,38.0,47.0,2
+2020-03-31,New York,Niagara County,Professional & Other Places,41.0,40.0,41.0,3
+2020-03-31,New York,Niagara County,Outdoors & Recreation,57.0,52.0,57.0,4
+2020-03-31,New York,Niagara County,Grocery,65.0,"",65.0,5
+2020-03-31,New York,Niagara County,Nightlife Spots,33.0,"",32.0,6
+2020-03-31,New York,Niagara County,Medical,32.0,"",33.0,7
+2020-03-31,New York,Niagara County,Big Box Stores,67.0,"",66.0,8
+2020-03-31,New York,Niagara County,Government,55.0,"",55.0,9
+2020-03-31,New York,Niagara County,Arts & Entertainment,25.0,"",25.0,10
+2020-03-31,New York,Albany County,Shops & Services,50.0,48.0,50.0,1
+2020-03-31,New York,Albany County,Food,39.0,36.0,39.0,2
+2020-03-31,New York,Albany County,Professional & Other Places,37.0,37.0,37.0,3
+2020-03-31,New York,Albany County,Outdoors & Recreation,53.0,40.0,54.0,4
+2020-03-31,New York,Albany County,Medical,38.0,43.0,38.0,5
+2020-03-31,New York,Albany County,Nightlife Spots,37.0,34.0,37.0,6
+2020-03-31,New York,Albany County,Grocery,73.0,71.0,73.0,7
+2020-03-31,New York,Albany County,Government,38.0,"",39.0,8
+2020-03-31,New York,Albany County,Travel & Transport,31.0,33.0,31.0,9
+2020-03-31,New York,Albany County,Convenience Store,56.0,56.0,56.0,10
+2020-03-31,New York,Albany County,Colleges & Universities,16.0,"",16.0,11
+2020-03-31,New York,Albany County,Arts & Entertainment,30.0,"",30.0,12
+2020-03-31,New York,Albany County,Residences,57.0,"",56.0,13
+2020-03-31,New York,Albany County,Sports,38.0,"",38.0,14
+2020-03-31,New York,Albany County,Big Box Stores,69.0,"",69.0,15
+2020-03-31,New York,Albany County,Office,34.0,"",34.0,16
+2020-03-31,New York,Albany County,School,25.0,"",26.0,17
+2020-03-31,New York,Albany County,Gas Stations,60.0,"",61.0,18
+2020-03-31,New York,Albany County,Drug Store,66.0,"",65.0,19
+2020-03-31,New York,Albany County,Fast Food Restaurants,45.0,"",45.0,20
+2020-03-31,New York,Albany County,Hardware Stores,84.0,"",85.0,21
+2020-03-31,New York,Madison County,Shops & Services,54.0,38.0,55.0,1
+2020-03-31,New York,Madison County,Food,47.0,"",48.0,2
+2020-03-31,New York,Madison County,Professional & Other Places,46.0,"",46.0,3
+2020-03-31,New York,Madison County,Outdoors & Recreation,77.0,"",76.0,4
+2020-03-31,New York,Ulster County,Shops & Services,56.0,46.0,57.0,1
+2020-03-31,New York,Ulster County,Food,49.0,43.0,50.0,2
+2020-03-31,New York,Ulster County,Outdoors & Recreation,64.0,83.0,63.0,3
+2020-03-31,New York,Ulster County,Professional & Other Places,41.0,32.0,41.0,4
+2020-03-31,New York,Ulster County,Travel & Transport,41.0,"",41.0,5
+2020-03-31,New York,Ulster County,Grocery,62.0,"",65.0,5
+2020-03-31,New York,Ulster County,Nightlife Spots,55.0,"",56.0,6
+2020-03-31,New York,Ulster County,School,25.0,"",25.0,7
+2020-03-31,New York,Putnam County,Shops & Services,61.0,46.0,62.0,1
+2020-03-31,New York,Putnam County,Food,42.0,32.0,42.0,2
+2020-03-31,New York,Putnam County,Outdoors & Recreation,54.0,"",55.0,3
+2020-03-31,New York,Putnam County,Professional & Other Places,33.0,"",34.0,4
+2020-03-31,New York,Washington County,Shops & Services,57.0,"",58.0,1
+2020-03-31,New York,Washington County,Food,49.0,"",49.0,2
+2020-03-31,New York,Washington County,Professional & Other Places,53.0,"",52.0,3
+2020-03-31,New York,Cayuga County,Shops & Services,58.0,48.0,59.0,1
+2020-03-31,New York,Cayuga County,Food,55.0,55.0,55.0,2
+2020-03-31,New York,Cayuga County,Outdoors & Recreation,74.0,"",74.0,3
+2020-03-31,New York,Cayuga County,Professional & Other Places,36.0,"",37.0,4
+2020-03-31,New York,Yates County,Shops & Services,78.0,73.0,78.0,1
+2020-03-31,New York,Franklin County,Shops & Services,53.0,45.0,53.0,1
+2020-03-31,New York,Westchester County,Shops & Services,47.0,40.0,48.0,1
+2020-03-31,New York,Westchester County,Food,39.0,30.0,39.0,2
+2020-03-31,New York,Westchester County,Outdoors & Recreation,53.0,45.0,54.0,3
+2020-03-31,New York,Westchester County,Professional & Other Places,32.0,31.0,32.0,4
+2020-03-31,New York,Westchester County,Grocery,69.0,62.0,69.0,5
+2020-03-31,New York,Westchester County,Medical,33.0,27.0,34.0,6
+2020-03-31,New York,Westchester County,Travel & Transport,24.0,27.0,24.0,7
+2020-03-31,New York,Westchester County,School,25.0,33.0,25.0,8
+2020-03-31,New York,Westchester County,Residences,53.0,63.0,52.0,9
+2020-03-31,New York,Westchester County,Gas Stations,48.0,37.0,48.0,10
+2020-03-31,New York,Westchester County,Sports,31.0,26.0,31.0,11
+2020-03-31,New York,Westchester County,Drug Store,52.0,"",53.0,12
+2020-03-31,New York,Westchester County,Nightlife Spots,33.0,"",33.0,13
+2020-03-31,New York,Westchester County,Arts & Entertainment,30.0,"",30.0,14
+2020-03-31,New York,Westchester County,Convenience Store,53.0,54.0,52.0,15
+2020-03-31,New York,Westchester County,Colleges & Universities,15.0,"",14.0,16
+2020-03-31,New York,Westchester County,Fitness Center,17.0,"",17.0,17
+2020-03-31,New York,Westchester County,Fast Food Restaurants,58.0,"",58.0,18
+2020-03-31,New York,Westchester County,Banks,59.0,"",59.0,19
+2020-03-31,New York,Westchester County,Office,28.0,"",28.0,20
+2020-03-31,New York,Westchester County,Government,30.0,"",30.0,21
+2020-03-31,New York,Westchester County,Hardware Stores,74.0,"",75.0,22
+2020-03-31,New York,Westchester County,Spiritual Center,34.0,"",34.0,23
+2020-03-31,New York,Chemung County,Shops & Services,57.0,43.0,58.0,1
+2020-03-31,New York,Chemung County,Food,40.0,37.0,40.0,2
+2020-03-31,New York,Chemung County,Professional & Other Places,45.0,"",45.0,3
+2020-03-31,New York,Chemung County,Medical,43.0,"",44.0,4
+2020-03-31,New York,Chemung County,Outdoors & Recreation,58.0,"",58.0,5
+2020-03-31,New York,Chemung County,Nightlife Spots,42.0,"",41.0,5
+2020-03-31,New York,Chemung County,Grocery,100.0,"",102.0,6
+2020-03-31,New York,Sullivan County,Shops & Services,64.0,65.0,64.0,1
+2020-03-31,New York,Sullivan County,Food,50.0,40.0,50.0,2
+2020-03-31,New York,Sullivan County,Outdoors & Recreation,47.0,"",48.0,3
+2020-03-31,New York,Herkimer County,Shops & Services,59.0,60.0,59.0,1
+2020-03-31,New York,Herkimer County,Food,56.0,55.0,56.0,2
+2020-03-31,New York,Fulton County,Shops & Services,57.0,54.0,57.0,1
+2020-03-31,New York,Fulton County,Food,56.0,49.0,57.0,2
+2020-03-31,New York,Fulton County,Professional & Other Places,46.0,"",47.0,3
+2020-03-31,New York,Wayne County,Shops & Services,66.0,60.0,67.0,1
+2020-03-31,New York,Wayne County,Food,43.0,40.0,43.0,2
+2020-03-31,New York,Wayne County,Professional & Other Places,46.0,"",47.0,3
+2020-03-31,New York,Wayne County,Outdoors & Recreation,73.0,95.0,72.0,4
+2020-03-31,New York,Dutchess County,Shops & Services,56.0,47.0,57.0,1
+2020-03-31,New York,Dutchess County,Food,41.0,24.0,42.0,2
+2020-03-31,New York,Dutchess County,Professional & Other Places,37.0,35.0,37.0,3
+2020-03-31,New York,Dutchess County,Outdoors & Recreation,57.0,53.0,58.0,4
+2020-03-31,New York,Dutchess County,Medical,41.0,24.0,42.0,5
+2020-03-31,New York,Dutchess County,Grocery,75.0,60.0,76.0,6
+2020-03-31,New York,Dutchess County,Travel & Transport,40.0,"",41.0,7
+2020-03-31,New York,Dutchess County,Nightlife Spots,42.0,"",42.0,8
+2020-03-31,New York,Dutchess County,Sports,37.0,"",37.0,9
+2020-03-31,New York,Dutchess County,School,21.0,"",21.0,10
+2020-03-31,New York,Dutchess County,Convenience Store,60.0,"",61.0,11
+2020-03-31,New York,Dutchess County,Gas Stations,58.0,"",58.0,12
+2020-03-31,New York,Dutchess County,Arts & Entertainment,40.0,"",41.0,13
+2020-03-31,New York,Warren County,Shops & Services,56.0,52.0,56.0,1
+2020-03-31,New York,Warren County,Food,43.0,48.0,43.0,2
+2020-03-31,New York,Warren County,Professional & Other Places,44.0,"",44.0,3
+2020-03-31,New York,Warren County,Outdoors & Recreation,56.0,"",56.0,4
+2020-03-31,New York,Warren County,Medical,46.0,"",46.0,5
+2020-03-31,New York,Warren County,Nightlife Spots,61.0,"",61.0,6
+2020-03-31,New York,Genesee County,Shops & Services,55.0,45.0,56.0,1
+2020-03-31,New York,Genesee County,Food,49.0,48.0,49.0,2
+2020-03-31,New York,Genesee County,Professional & Other Places,50.0,71.0,49.0,3
+2020-03-31,New York,Genesee County,Outdoors & Recreation,55.0,"",56.0,4
+2020-03-31,New York,Montgomery County,Shops & Services,66.0,50.0,67.0,1
+2020-03-31,New York,Montgomery County,Food,58.0,"",58.0,2
+2020-03-31,New York,Montgomery County,Professional & Other Places,43.0,"",43.0,3
+2020-03-31,New York,Cattaraugus County,Shops & Services,61.0,72.0,61.0,1
+2020-03-31,New York,Cattaraugus County,Food,57.0,62.0,57.0,2
+2020-03-31,New York,Cattaraugus County,Professional & Other Places,45.0,"",45.0,3
+2020-03-31,New York,Cattaraugus County,Outdoors & Recreation,45.0,"",45.0,4
+2020-03-31,New York,Steuben County,Shops & Services,53.0,53.0,53.0,1
+2020-03-31,New York,Steuben County,Food,49.0,43.0,49.0,2
+2020-03-31,New York,Steuben County,Professional & Other Places,40.0,47.0,40.0,3
+2020-03-31,New York,Steuben County,Outdoors & Recreation,48.0,77.0,47.0,4
+2020-03-31,New York,Steuben County,Nightlife Spots,42.0,"",41.0,5
+2020-03-31,New York,Steuben County,Grocery,67.0,"",67.0,6
+2020-03-31,New York,Jefferson County,Shops & Services,61.0,52.0,61.0,1
+2020-03-31,New York,Jefferson County,Food,42.0,41.0,42.0,2
+2020-03-31,New York,Jefferson County,Professional & Other Places,39.0,37.0,39.0,3
+2020-03-31,New York,Jefferson County,Outdoors & Recreation,60.0,105.0,58.0,4
+2020-03-31,New York,Jefferson County,Medical,33.0,"",34.0,5
+2020-03-31,New York,Jefferson County,Nightlife Spots,43.0,"",43.0,6
+2020-03-31,New York,Jefferson County,Big Box Stores,64.0,"",65.0,7
+2020-03-31,New York,Jefferson County,Gas Stations,73.0,"",74.0,8
+2020-03-31,New York,Jefferson County,Grocery,69.0,"",68.0,9
+2020-03-31,New York,Jefferson County,Travel & Transport,59.0,"",60.0,10
+2020-03-31,New York,Lewis County,Shops & Services,63.0,"",64.0,1
+2020-03-31,New York,Tompkins County,Shops & Services,43.0,41.0,43.0,1
+2020-03-31,New York,Tompkins County,Food,33.0,48.0,33.0,2
+2020-03-31,New York,Tompkins County,Outdoors & Recreation,63.0,"",62.0,3
+2020-03-31,New York,Tompkins County,Professional & Other Places,31.0,"",31.0,4
+2020-03-31,New York,Tompkins County,Colleges & Universities,8.0,"",8.0,5
+2020-03-31,New York,Wyoming County,Shops & Services,61.0,68.0,60.0,1
+2020-03-31,New York,Wyoming County,Food,48.0,"",47.0,2
+2020-03-31,New York,Orleans County,Shops & Services,72.0,"",73.0,1
+2020-03-31,New York,Orleans County,Food,52.0,"",53.0,2
+2020-03-31,New York,Rensselaer County,Shops & Services,67.0,54.0,68.0,1
+2020-03-31,New York,Rensselaer County,Food,57.0,41.0,58.0,2
+2020-03-31,New York,Rensselaer County,Professional & Other Places,45.0,35.0,46.0,3
+2020-03-31,New York,Rensselaer County,Outdoors & Recreation,54.0,"",55.0,4
+2020-03-31,New York,Rensselaer County,Convenience Store,57.0,"",57.0,5
+2020-03-31,New York,Rensselaer County,Nightlife Spots,45.0,"",45.0,5
+2020-03-31,New York,Rensselaer County,Medical,53.0,"",53.0,6
+2020-03-31,New York,Rensselaer County,Grocery,75.0,"",76.0,7
+2020-03-31,New York,Rensselaer County,Colleges & Universities,14.0,"",14.0,8
+2020-03-31,New York,Monroe County,Shops & Services,48.0,45.0,48.0,1
+2020-03-31,New York,Monroe County,Food,39.0,33.0,39.0,2
+2020-03-31,New York,Monroe County,Professional & Other Places,36.0,35.0,36.0,3
+2020-03-31,New York,Monroe County,Outdoors & Recreation,51.0,56.0,51.0,4
+2020-03-31,New York,Monroe County,Medical,36.0,37.0,36.0,5
+2020-03-31,New York,Monroe County,Grocery,62.0,58.0,62.0,6
+2020-03-31,New York,Monroe County,Nightlife Spots,32.0,35.0,32.0,7
+2020-03-31,New York,Monroe County,Arts & Entertainment,37.0,38.0,37.0,8
+2020-03-31,New York,Monroe County,Office,39.0,48.0,39.0,9
+2020-03-31,New York,Monroe County,Residences,54.0,54.0,54.0,10
+2020-03-31,New York,Monroe County,Big Box Stores,63.0,49.0,64.0,11
+2020-03-31,New York,Monroe County,Gas Stations,54.0,"",55.0,12
+2020-03-31,New York,Monroe County,Travel & Transport,28.0,24.0,28.0,13
+2020-03-31,New York,Monroe County,School,20.0,29.0,20.0,14
+2020-03-31,New York,Monroe County,Colleges & Universities,11.0,"",11.0,15
+2020-03-31,New York,Monroe County,Fast Food Restaurants,52.0,"",52.0,16
+2020-03-31,New York,Monroe County,Government,39.0,"",39.0,17
+2020-03-31,New York,Monroe County,Hardware Stores,77.0,"",78.0,18
+2020-03-31,New York,Monroe County,Drug Store,52.0,49.0,52.0,19
+2020-03-31,New York,Monroe County,Sports,22.0,29.0,22.0,20
+2020-03-31,New York,Monroe County,Spiritual Center,42.0,"",43.0,21
+2020-03-31,New York,Monroe County,Convenience Store,59.0,"",59.0,22
+2020-03-31,New York,Monroe County,Fitness Center,13.0,"",13.0,23
+2020-03-31,New York,Monroe County,Banks,55.0,"",54.0,23
+2020-03-31,New York,Monroe County,Discount Stores,66.0,"",66.0,24
+2020-03-31,New York,Monroe County,Alcohol,65.0,"",64.0,25
+2020-03-31,New York,Schenectady County,Shops & Services,64.0,50.0,65.0,1
+2020-03-31,New York,Schenectady County,Food,44.0,39.0,45.0,2
+2020-03-31,New York,Schenectady County,Professional & Other Places,42.0,38.0,42.0,3
+2020-03-31,New York,Schenectady County,Nightlife Spots,52.0,"",52.0,4
+2020-03-31,New York,Schenectady County,Outdoors & Recreation,57.0,"",58.0,4
+2020-03-31,New York,Schenectady County,Medical,38.0,"",38.0,5
+2020-03-31,New York,Schenectady County,Grocery,79.0,"",80.0,6
+2020-03-31,New York,Schenectady County,School,36.0,"",36.0,7
+2020-03-31,New York,Schenectady County,Convenience Store,65.0,"",66.0,8
+2020-03-31,New York,Schoharie County,Shops & Services,73.0,"",73.0,1
+2020-03-31,New York,St. Lawrence County,Shops & Services,63.0,53.0,64.0,1
+2020-03-31,New York,St. Lawrence County,Food,49.0,44.0,49.0,2
+2020-03-31,New York,St. Lawrence County,Outdoors & Recreation,52.0,"",52.0,3
+2020-03-31,New York,St. Lawrence County,Nightlife Spots,47.0,"",47.0,4
+2020-03-31,New York,St. Lawrence County,Professional & Other Places,33.0,"",33.0,5
+2020-03-31,New York,Brooklyn,Shops & Services,40.0,37.0,40.0,1
+2020-03-31,New York,Brooklyn,Food,32.0,27.0,32.0,2
+2020-03-31,New York,Brooklyn,Professional & Other Places,32.0,29.0,32.0,3
+2020-03-31,New York,Brooklyn,Outdoors & Recreation,41.0,37.0,42.0,4
+2020-03-31,New York,Brooklyn,Travel & Transport,28.0,29.0,28.0,5
+2020-03-31,New York,Brooklyn,Metro Stations,27.0,25.0,27.0,6
+2020-03-31,New York,Brooklyn,Grocery,53.0,50.0,53.0,7
+2020-03-31,New York,Brooklyn,Residences,41.0,33.0,41.0,8
+2020-03-31,New York,Brooklyn,Medical,34.0,28.0,34.0,9
+2020-03-31,New York,Brooklyn,School,27.0,24.0,27.0,10
+2020-03-31,New York,Brooklyn,Arts & Entertainment,30.0,38.0,30.0,11
+2020-03-31,New York,Brooklyn,Nightlife Spots,24.0,26.0,24.0,12
+2020-03-31,New York,Brooklyn,Bus,42.0,43.0,42.0,13
+2020-03-31,New York,Brooklyn,Drug Store,44.0,42.0,44.0,14
+2020-03-31,New York,Brooklyn,Convenience Store,37.0,"",37.0,15
+2020-03-31,New York,Brooklyn,Fitness Center,19.0,"",19.0,16
+2020-03-31,New York,Brooklyn,Sports,24.0,"",24.0,17
+2020-03-31,New York,Brooklyn,Fast Food Restaurants,44.0,"",44.0,18
+2020-03-31,New York,Brooklyn,Colleges & Universities,12.0,"",12.0,19
+2020-03-31,New York,Brooklyn,Banks,45.0,"",45.0,20
+2020-03-31,New York,Brooklyn,Gas Stations,38.0,"",38.0,21
+2020-03-31,New York,Brooklyn,Government,28.0,"",28.0,22
+2020-03-31,New York,Brooklyn,Office,28.0,"",28.0,23
+2020-03-31,New York,Brooklyn,Spiritual Center,27.0,"",27.0,24
+2020-03-31,New York,Brooklyn,Alcohol,52.0,"",52.0,25
+2020-03-31,New York,Brooklyn,Discount Stores,41.0,"",41.0,26
+2020-03-31,New York,Brooklyn,Hardware Stores,41.0,"",40.0,27
+2020-03-31,New York,Brooklyn,Beach,64.0,"",64.0,28
+2020-03-31,New York,Brooklyn,Hotel,27.0,"",27.0,29
+2020-03-31,New York,Brooklyn,Big Box Stores,38.0,"",38.0,30
+2020-03-31,New York,Staten Island,Shops & Services,41.0,42.0,41.0,1
+2020-03-31,New York,Staten Island,Food,39.0,39.0,39.0,2
+2020-03-31,New York,Staten Island,Professional & Other Places,31.0,26.0,31.0,3
+2020-03-31,New York,Staten Island,Outdoors & Recreation,46.0,48.0,46.0,4
+2020-03-31,New York,Staten Island,Medical,32.0,24.0,33.0,5
+2020-03-31,New York,Staten Island,Travel & Transport,22.0,"",22.0,6
+2020-03-31,New York,Staten Island,Grocery,60.0,52.0,61.0,7
+2020-03-31,New York,Staten Island,School,20.0,"",20.0,8
+2020-03-31,New York,Staten Island,Drug Store,50.0,"",50.0,9
+2020-03-31,New York,Staten Island,Convenience Store,59.0,"",58.0,10
+2020-03-31,New York,Staten Island,Banks,63.0,"",63.0,11
+2020-03-31,New York,Staten Island,Nightlife Spots,41.0,"",42.0,12
+2020-03-31,New York,Staten Island,Arts & Entertainment,35.0,"",35.0,13
+2020-03-31,New York,Staten Island,Residences,42.0,"",42.0,14
+2020-03-31,New York,Staten Island,Bus,28.0,"",28.0,15
+2020-03-31,New York,Staten Island,Fast Food Restaurants,55.0,"",55.0,16
+2020-03-31,New York,Staten Island,Sports,27.0,"",27.0,17
+2020-03-31,New York,Greene County,Shops & Services,72.0,67.0,72.0,1
+2020-03-31,New York,Greene County,Food,53.0,49.0,54.0,2
+2020-03-31,New York,Greene County,Outdoors & Recreation,61.0,"",62.0,3
+2020-03-31,New York,Suffolk County,Shops & Services,51.0,46.0,51.0,1
+2020-03-31,New York,Suffolk County,Food,43.0,35.0,44.0,2
+2020-03-31,New York,Suffolk County,Professional & Other Places,35.0,36.0,35.0,3
+2020-03-31,New York,Suffolk County,Outdoors & Recreation,65.0,73.0,64.0,4
+2020-03-31,New York,Suffolk County,Medical,37.0,31.0,37.0,5
+2020-03-31,New York,Suffolk County,Grocery,71.0,64.0,71.0,6
+2020-03-31,New York,Suffolk County,Convenience Store,55.0,49.0,55.0,7
+2020-03-31,New York,Suffolk County,Travel & Transport,31.0,35.0,31.0,8
+2020-03-31,New York,Suffolk County,School,23.0,31.0,23.0,9
+2020-03-31,New York,Suffolk County,Gas Stations,49.0,59.0,49.0,10
+2020-03-31,New York,Suffolk County,Drug Store,69.0,70.0,68.0,11
+2020-03-31,New York,Suffolk County,Fast Food Restaurants,60.0,43.0,61.0,12
+2020-03-31,New York,Suffolk County,Sports,29.0,38.0,29.0,13
+2020-03-31,New York,Suffolk County,Nightlife Spots,32.0,30.0,32.0,14
+2020-03-31,New York,Suffolk County,Beach,144.0,144.0,144.0,15
+2020-03-31,New York,Suffolk County,Residences,61.0,47.0,61.0,16
+2020-03-31,New York,Suffolk County,Hardware Stores,84.0,58.0,85.0,17
+2020-03-31,New York,Suffolk County,Arts & Entertainment,32.0,29.0,32.0,18
+2020-03-31,New York,Suffolk County,Big Box Stores,65.0,50.0,66.0,19
+2020-03-31,New York,Suffolk County,Colleges & Universities,12.0,"",12.0,20
+2020-03-31,New York,Suffolk County,Government,32.0,"",32.0,21
+2020-03-31,New York,Suffolk County,Banks,60.0,54.0,61.0,22
+2020-03-31,New York,Suffolk County,Office,34.0,"",34.0,23
+2020-03-31,New York,Suffolk County,Fitness Center,18.0,"",18.0,24
+2020-03-31,New York,Suffolk County,Hotel,44.0,"",44.0,25
+2020-03-31,New York,Suffolk County,Spiritual Center,39.0,"",39.0,26
+2020-03-31,New York,Saratoga County,Shops & Services,57.0,57.0,57.0,1
+2020-03-31,New York,Saratoga County,Food,44.0,35.0,44.0,2
+2020-03-31,New York,Saratoga County,Professional & Other Places,42.0,40.0,42.0,3
+2020-03-31,New York,Saratoga County,Outdoors & Recreation,54.0,51.0,55.0,4
+2020-03-31,New York,Saratoga County,Medical,34.0,29.0,34.0,5
+2020-03-31,New York,Saratoga County,Grocery,68.0,65.0,69.0,6
+2020-03-31,New York,Saratoga County,Nightlife Spots,54.0,57.0,54.0,7
+2020-03-31,New York,Saratoga County,Convenience Store,50.0,"",50.0,8
+2020-03-31,New York,Saratoga County,Arts & Entertainment,50.0,"",51.0,9
+2020-03-31,New York,Saratoga County,Big Box Stores,77.0,"",77.0,10
+2020-03-31,New York,Saratoga County,Travel & Transport,54.0,"",55.0,11
+2020-03-31,New York,Saratoga County,Residences,49.0,"",50.0,12
+2020-03-31,New York,Saratoga County,Hardware Stores,104.0,"",104.0,13
+2020-03-31,New York,Orange County,Shops & Services,52.0,40.0,52.0,1
+2020-03-31,New York,Orange County,Food,40.0,27.0,40.0,2
+2020-03-31,New York,Orange County,Professional & Other Places,37.0,33.0,37.0,3
+2020-03-31,New York,Orange County,Outdoors & Recreation,55.0,45.0,55.0,4
+2020-03-31,New York,Orange County,Medical,38.0,25.0,39.0,5
+2020-03-31,New York,Orange County,Grocery,69.0,50.0,71.0,6
+2020-03-31,New York,Orange County,Nightlife Spots,45.0,"",46.0,7
+2020-03-31,New York,Orange County,Travel & Transport,43.0,"",43.0,8
+2020-03-31,New York,Orange County,Gas Stations,56.0,"",56.0,9
+2020-03-31,New York,Orange County,Convenience Store,46.0,"",46.0,10
+2020-03-31,New York,Orange County,Arts & Entertainment,49.0,"",49.0,11
+2020-03-31,New York,Orange County,Big Box Stores,75.0,"",76.0,12
+2020-03-31,New York,Orange County,Fast Food Restaurants,58.0,"",58.0,13
+2020-03-31,New York,Orange County,Government,35.0,"",35.0,14
+2020-03-31,New York,Orange County,School,14.0,"",14.0,15
+2020-03-31,New York,Orange County,Colleges & Universities,18.0,"",17.0,16
+2020-03-31,New York,Orange County,Sports,30.0,"",30.0,17
+2020-03-31,New York,Orange County,Hardware Stores,77.0,"",77.0,18
+2020-03-31,New York,Orange County,Drug Store,78.0,"",80.0,19
+2020-03-31,New York,Nassau County,Shops & Services,43.0,39.0,43.0,1
+2020-03-31,New York,Nassau County,Food,33.0,31.0,34.0,2
+2020-03-31,New York,Nassau County,Professional & Other Places,31.0,36.0,31.0,3
+2020-03-31,New York,Nassau County,Outdoors & Recreation,44.0,48.0,43.0,4
+2020-03-31,New York,Nassau County,Medical,30.0,31.0,30.0,5
+2020-03-31,New York,Nassau County,Grocery,63.0,52.0,63.0,6
+2020-03-31,New York,Nassau County,School,24.0,33.0,24.0,7
+2020-03-31,New York,Nassau County,Travel & Transport,22.0,32.0,22.0,8
+2020-03-31,New York,Nassau County,Convenience Store,48.0,51.0,48.0,9
+2020-03-31,New York,Nassau County,Drug Store,58.0,50.0,59.0,10
+2020-03-31,New York,Nassau County,Sports,26.0,37.0,26.0,11
+2020-03-31,New York,Nassau County,Gas Stations,48.0,64.0,48.0,12
+2020-03-31,New York,Nassau County,Nightlife Spots,37.0,47.0,37.0,13
+2020-03-31,New York,Nassau County,Fast Food Restaurants,47.0,"",47.0,14
+2020-03-31,New York,Nassau County,Arts & Entertainment,24.0,46.0,24.0,15
+2020-03-31,New York,Nassau County,Government,30.0,"",30.0,16
+2020-03-31,New York,Nassau County,Big Box Stores,59.0,"",59.0,17
+2020-03-31,New York,Nassau County,Colleges & Universities,14.0,"",14.0,18
+2020-03-31,New York,Nassau County,Fitness Center,15.0,20.0,15.0,19
+2020-03-31,New York,Nassau County,Office,30.0,48.0,29.0,20
+2020-03-31,New York,Nassau County,Banks,47.0,"",47.0,21
+2020-03-31,New York,Nassau County,Beach,95.0,124.0,93.0,22
+2020-03-31,New York,Nassau County,Hardware Stores,64.0,"",65.0,23
+2020-03-31,New York,Nassau County,Residences,48.0,"",49.0,24
+2020-03-31,New York,Nassau County,Spiritual Center,33.0,51.0,32.0,25
+2020-03-31,New York,Ontario County,Shops & Services,50.0,51.0,50.0,1
+2020-03-31,New York,Ontario County,Food,35.0,29.0,36.0,2
+2020-03-31,New York,Ontario County,Professional & Other Places,41.0,36.0,41.0,3
+2020-03-31,New York,Ontario County,Outdoors & Recreation,56.0,91.0,54.0,4
+2020-03-31,New York,Ontario County,Medical,46.0,"",47.0,5
+2020-03-31,New York,Ontario County,Nightlife Spots,43.0,53.0,43.0,6
+2020-03-31,New York,Ontario County,Travel & Transport,50.0,"",49.0,7
+2020-03-31,New York,Ontario County,Grocery,56.0,"",56.0,8
+2020-03-31,New York,Ontario County,Big Box Stores,61.0,"",61.0,9
+2020-03-31,New York,Livingston County,Shops & Services,67.0,44.0,69.0,1
+2020-03-31,New York,Livingston County,Food,41.0,"",43.0,2
+2020-03-31,New York,Livingston County,Professional & Other Places,37.0,"",37.0,3
+2020-03-31,New York,Livingston County,Outdoors & Recreation,75.0,"",76.0,4
+2020-03-31,New York,Livingston County,Nightlife Spots,54.0,"",54.0,5
+2020-03-31,New York,Cortland County,Shops & Services,57.0,55.0,57.0,1
+2020-03-31,New York,Cortland County,Food,40.0,"",40.0,2
+2020-03-31,New York,Cortland County,Professional & Other Places,38.0,"",38.0,3
+2020-03-31,New York,Bronx County,Shops & Services,44.0,37.0,45.0,1
+2020-03-31,New York,Bronx County,Food,39.0,36.0,40.0,2
+2020-03-31,New York,Bronx County,Professional & Other Places,36.0,34.0,36.0,3
+2020-03-31,New York,Bronx County,Travel & Transport,38.0,35.0,38.0,4
+2020-03-31,New York,Bronx County,Outdoors & Recreation,41.0,46.0,41.0,5
+2020-03-31,New York,Bronx County,Residences,51.0,37.0,51.0,6
+2020-03-31,New York,Bronx County,Medical,38.0,34.0,38.0,7
+2020-03-31,New York,Bronx County,Metro Stations,40.0,"",40.0,8
+2020-03-31,New York,Bronx County,Grocery,55.0,38.0,55.0,9
+2020-03-31,New York,Bronx County,School,31.0,27.0,31.0,10
+2020-03-31,New York,Bronx County,Colleges & Universities,21.0,"",21.0,11
+2020-03-31,New York,Bronx County,Bus,39.0,"",39.0,12
+2020-03-31,New York,Bronx County,Fast Food Restaurants,48.0,"",48.0,13
+2020-03-31,New York,Bronx County,Drug Store,44.0,"",44.0,14
+2020-03-31,New York,Bronx County,Convenience Store,44.0,"",44.0,15
+2020-03-31,New York,Bronx County,Arts & Entertainment,32.0,"",31.0,16
+2020-03-31,New York,Bronx County,Nightlife Spots,33.0,"",33.0,17
+2020-03-31,New York,Bronx County,Government,27.0,"",27.0,18
+2020-03-31,New York,Bronx County,Fitness Center,31.0,"",31.0,19
+2020-03-31,New York,Bronx County,Sports,30.0,"",30.0,20
+2020-03-31,New York,Bronx County,Gas Stations,45.0,"",45.0,21
+2020-03-31,New York,Bronx County,Office,42.0,"",42.0,22
+2020-03-31,New York,Bronx County,Banks,41.0,"",41.0,23
+2020-03-31,New York,Bronx County,Spiritual Center,34.0,"",35.0,24
+2020-03-31,New York,Chautauqua County,Shops & Services,62.0,47.0,63.0,1
+2020-03-31,New York,Chautauqua County,Food,56.0,37.0,57.0,2
+2020-03-31,New York,Chautauqua County,Professional & Other Places,47.0,43.0,47.0,3
+2020-03-31,New York,Chautauqua County,Outdoors & Recreation,66.0,62.0,67.0,4
+2020-03-31,New York,Chautauqua County,Nightlife Spots,47.0,55.0,47.0,5
+2020-03-31,New York,Chautauqua County,Grocery,77.0,"",79.0,6
+2020-03-31,New York,Chautauqua County,School,33.0,"",33.0,7
+2020-03-31,New York,Delaware County,Shops & Services,76.0,77.0,76.0,1
+2020-03-31,New York,Delaware County,Food,55.0,65.0,54.0,2

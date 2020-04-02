@@ -2,6 +2,10 @@ body {
   font-size: .875rem;
 }
 
+h4 {
+    padding-top: 10px;
+}
+
 .feather {
   width: 16px;
   height: 16px;
@@ -66,7 +70,6 @@ body {
  * Content
  */
 
-
 /*
  * Navbar
  */
@@ -84,7 +87,7 @@ body {
 
 .modal-open {
    max-width:75%;
- }
+}
 
  #enforce-landscape { display:block; }
 
@@ -107,11 +110,23 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .foursquare-logo {
+      max-width:240px;
+  }
+  .faqlist {
+      max-width: 600px;
+  }
 }
 
 @media (max-width: 989px) {
   .main-mobile {
     padding-top: 50px;
+  }
+  .foursquare-logo {
+      max-width:160px;
+  }
+  .faqlist {
+      max-width: 600px;
   }
 }
 
@@ -120,3 +135,4 @@ body {
     padding-top: 50px;
   }
 }
+

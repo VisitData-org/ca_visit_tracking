@@ -27212,3 +27212,573 @@
 2020-03-30,,Coffee County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",70.0,1
 2020-03-30,,Coffee County,4d4b7105d754a06374d81259,Food,60.0,"",60.0,2
 2020-03-30,,Coffee County,4d4b7105d754a06375d81259,Professional & Other Places,64.0,"",65.0,3
+2020-03-31,Georgia,Dawson County,4d4b7105d754a06378d81259,Shops & Services,54.0,43.0,55.0,1
+2020-03-31,Georgia,Dawson County,4d4b7105d754a06374d81259,Food,55.0,"",55.0,2
+2020-03-31,Georgia,Ben Hill County,4d4b7105d754a06378d81259,Shops & Services,78.0,"",78.0,1
+2020-03-31,Georgia,Crisp County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",67.0,1
+2020-03-31,Georgia,Crisp County,4d4b7105d754a06374d81259,Food,55.0,"",56.0,2
+2020-03-31,Georgia,Lowndes County,4d4b7105d754a06378d81259,Shops & Services,69.0,48.0,70.0,1
+2020-03-31,Georgia,Lowndes County,4d4b7105d754a06374d81259,Food,55.0,"",56.0,2
+2020-03-31,Georgia,Lowndes County,4d4b7105d754a06375d81259,Professional & Other Places,50.0,48.0,50.0,3
+2020-03-31,Georgia,Lowndes County,4bf58dd8d48988d113951735,Gas Stations,75.0,"",76.0,4
+2020-03-31,Georgia,Lowndes County,4bf58dd8d48988d1f9941735,Food & Drink Shops,94.0,"",94.0,5
+2020-03-31,Georgia,Lowndes County,4d4b7105d754a06377d81259,Outdoors & Recreation,55.0,"",56.0,6
+2020-03-31,Georgia,Lowndes County,4bf58dd8d48988d118951735,Grocery Stores,102.0,"",102.0,7
+2020-03-31,Georgia,Lowndes County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,"",58.0,8
+2020-03-31,Georgia,Lowndes County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",72.0,9
+2020-03-31,Georgia,Lowndes County,4bf58dd8d48988d104941735,Medical Centers,50.0,"",51.0,10
+2020-03-31,Georgia,Jackson County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Georgia,Jackson County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",48.0,2
+2020-03-31,Georgia,Jackson County,4bf58dd8d48988d113951735,Gas Stations,76.0,"",77.0,3
+2020-03-31,Georgia,Jackson County,4d4b7105d754a06374d81259,Food,55.0,"",55.0,4
+2020-03-31,Georgia,Jones County,4d4b7105d754a06378d81259,Shops & Services,116.0,"",117.0,1
+2020-03-31,Georgia,Coweta County,4d4b7105d754a06378d81259,Shops & Services,63.0,55.0,63.0,1
+2020-03-31,Georgia,Coweta County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,38.0,47.0,2
+2020-03-31,Georgia,Coweta County,4d4b7105d754a06374d81259,Food,49.0,"",50.0,3
+2020-03-31,Georgia,Coweta County,4bf58dd8d48988d113951735,Gas Stations,81.0,"",81.0,4
+2020-03-31,Georgia,Coweta County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,"",64.0,5
+2020-03-31,Georgia,Coweta County,4d4b7105d754a06377d81259,Outdoors & Recreation,57.0,"",58.0,6
+2020-03-31,Georgia,Coweta County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",62.0,7
+2020-03-31,Georgia,Coweta County,4bf58dd8d48988d118951735,Grocery Stores,62.0,"",63.0,8
+2020-03-31,Georgia,Butts County,4d4b7105d754a06378d81259,Shops & Services,72.0,"",72.0,1
+2020-03-31,Georgia,Butts County,4d4b7105d754a06374d81259,Food,78.0,"",78.0,2
+2020-03-31,Georgia,Butts County,4bf58dd8d48988d113951735,Gas Stations,70.0,"",70.0,3
+2020-03-31,Georgia,McDuffie County,4d4b7105d754a06378d81259,Shops & Services,82.0,"",82.0,1
+2020-03-31,Georgia,McDuffie County,4d4b7105d754a06374d81259,Food,65.0,"",66.0,2
+2020-03-31,Georgia,McDuffie County,4d4b7105d754a06375d81259,Professional & Other Places,62.0,"",62.0,3
+2020-03-31,Georgia,Jefferson County,4d4b7105d754a06378d81259,Shops & Services,100.0,"",100.0,1
+2020-03-31,Georgia,Toombs County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",66.0,1
+2020-03-31,Georgia,Toombs County,4d4b7105d754a06374d81259,Food,58.0,"",58.0,2
+2020-03-31,Georgia,Toombs County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,"",55.0,3
+2020-03-31,Georgia,Forsyth County,4d4b7105d754a06378d81259,Shops & Services,65.0,53.0,66.0,1
+2020-03-31,Georgia,Forsyth County,4d4b7105d754a06374d81259,Food,44.0,28.0,45.0,2
+2020-03-31,Georgia,Forsyth County,4d4b7105d754a06377d81259,Outdoors & Recreation,62.0,51.0,63.0,3
+2020-03-31,Georgia,Forsyth County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,29.0,35.0,4
+2020-03-31,Georgia,Forsyth County,4bf58dd8d48988d1f9941735,Food & Drink Shops,76.0,63.0,76.0,5
+2020-03-31,Georgia,Forsyth County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",65.0,6
+2020-03-31,Georgia,Forsyth County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,68.0,"",69.0,7
+2020-03-31,Georgia,Forsyth County,4bf58dd8d48988d118951735,Grocery Stores,78.0,"",78.0,8
+2020-03-31,Georgia,Forsyth County,4e67e38e036454776db1fb3a,Residences,72.0,"",73.0,9
+2020-03-31,Georgia,Forsyth County,4bf58dd8d48988d16e941735,Fast Food Restaurants,62.0,"",62.0,10
+2020-03-31,Georgia,Forsyth County,4f4528bc4b90abdf24c9de85,Athletics & Sports,49.0,"",49.0,11
+2020-03-31,Georgia,Forsyth County,52f2ab2ebcbc57f1066b8b46,Supermarkets,76.0,"",77.0,12
+2020-03-31,Georgia,Putnam County,4d4b7105d754a06378d81259,Shops & Services,102.0,"",103.0,1
+2020-03-31,Georgia,Putnam County,4d4b7105d754a06377d81259,Outdoors & Recreation,128.0,"",129.0,2
+2020-03-31,Georgia,Ware County,4d4b7105d754a06378d81259,Shops & Services,63.0,"",64.0,1
+2020-03-31,Georgia,Ware County,4d4b7105d754a06375d81259,Professional & Other Places,57.0,"",57.0,2
+2020-03-31,Georgia,Ware County,4d4b7105d754a06374d81259,Food,73.0,"",74.0,3
+2020-03-31,Georgia,Madison County,4d4b7105d754a06378d81259,Shops & Services,86.0,"",86.0,1
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06378d81259,Shops & Services,57.0,44.0,57.0,1
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06375d81259,Professional & Other Places,36.0,32.0,36.0,2
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06374d81259,Food,42.0,32.0,42.0,3
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d1f9941735,Food & Drink Shops,74.0,54.0,74.0,4
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,43.0,50.0,5
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",67.0,6
+2020-03-31,Georgia,DeKalb County,4e67e38e036454776db1fb3a,Residences,56.0,"",56.0,7
+2020-03-31,Georgia,DeKalb County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,8
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d118951735,Grocery Stores,76.0,"",77.0,9
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d16e941735,Fast Food Restaurants,51.0,"",51.0,10
+2020-03-31,Georgia,DeKalb County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,52.0,"",52.0,11
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d104941735,Medical Centers,37.0,"",37.0,12
+2020-03-31,Georgia,DeKalb County,52f2ab2ebcbc57f1066b8b46,Supermarkets,76.0,"",76.0,13
+2020-03-31,Georgia,DeKalb County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),55.0,"",56.0,14
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06379d81259,Travel & Transport,29.0,"",29.0,15
+2020-03-31,Georgia,DeKalb County,4d954b0ea243a5684a65b473,Convenience Stores,64.0,"",64.0,16
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d124941735,Offices,37.0,"",36.0,17
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d1fd941735,Shopping Malls,38.0,"",38.0,18
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d13b941735,Schools,25.0,"",25.0,19
+2020-03-31,Georgia,DeKalb County,4f4528bc4b90abdf24c9de85,Athletics & Sports,29.0,"",29.0,20
+2020-03-31,Georgia,DeKalb County,4f2a210c4b9023bd5841ed28,Housing Developments,60.0,"",60.0,21
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d163941735,Parks,65.0,"",65.0,22
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d124951735,Automotive Shops,57.0,"",57.0,22
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d131941735,Spiritual Centers,35.0,"",35.0,23
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d142941735,Asian Restaurants,37.0,"",38.0,24
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d112951735,Hardware Stores,80.0,"",81.0,25
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06372d81259,Colleges & Universities,15.0,"",15.0,26
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d10a951735,Banks,53.0,"",53.0,27
+2020-03-31,Georgia,DeKalb County,52dea92d3cf9994f4e043dbb,Discount Stores,71.0,"",72.0,28
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d196941735,Hospitals,34.0,"",35.0,29
+2020-03-31,Georgia,DeKalb County,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,60.0,"",60.0,30
+2020-03-31,Georgia,DeKalb County,4bf58dd8d48988d172941735,Post Offices,75.0,"",75.0,31
+2020-03-31,Georgia,DeKalb County,4d4b7105d754a06376d81259,Nightlife Spots,39.0,"",39.0,31
+2020-03-31,Georgia,Fannin County,4d4b7105d754a06378d81259,Shops & Services,61.0,66.0,60.0,1
+2020-03-31,Georgia,Emanuel County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Georgia,Bryan County,4d4b7105d754a06378d81259,Shops & Services,68.0,"",68.0,1
+2020-03-31,Georgia,Bryan County,4d4b7105d754a06374d81259,Food,50.0,"",51.0,2
+2020-03-31,Georgia,Bryan County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,3
+2020-03-31,Georgia,Worth County,4d4b7105d754a06378d81259,Shops & Services,97.0,"",96.0,1
+2020-03-31,Georgia,Mitchell County,4d4b7105d754a06378d81259,Shops & Services,91.0,"",93.0,1
+2020-03-31,Georgia,Mitchell County,4d4b7105d754a06374d81259,Food,82.0,"",83.0,2
+2020-03-31,Georgia,Hall County,4d4b7105d754a06378d81259,Shops & Services,62.0,66.0,62.0,1
+2020-03-31,Georgia,Hall County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,34.0,42.0,2
+2020-03-31,Georgia,Hall County,4d4b7105d754a06374d81259,Food,42.0,29.0,43.0,3
+2020-03-31,Georgia,Hall County,4bf58dd8d48988d1f9941735,Food & Drink Shops,73.0,80.0,73.0,4
+2020-03-31,Georgia,Hall County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",67.0,5
+2020-03-31,Georgia,Hall County,4d4b7105d754a06377d81259,Outdoors & Recreation,52.0,"",52.0,6
+2020-03-31,Georgia,Hall County,4bf58dd8d48988d118951735,Grocery Stores,65.0,"",64.0,7
+2020-03-31,Georgia,Hall County,52f2ab2ebcbc57f1066b8b46,Supermarkets,84.0,"",84.0,8
+2020-03-31,Georgia,Hall County,4bf58dd8d48988d104941735,Medical Centers,33.0,"",33.0,9
+2020-03-31,Georgia,Hall County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,76.0,"",74.0,10
+2020-03-31,Georgia,Hall County,4bf58dd8d48988d16e941735,Fast Food Restaurants,41.0,"",42.0,11
+2020-03-31,Georgia,Peach County,4d4b7105d754a06378d81259,Shops & Services,68.0,"",68.0,1
+2020-03-31,Georgia,Peach County,4d4b7105d754a06374d81259,Food,50.0,"",50.0,2
+2020-03-31,Georgia,Wayne County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",67.0,1
+2020-03-31,Georgia,Wayne County,4d4b7105d754a06375d81259,Professional & Other Places,58.0,"",58.0,2
+2020-03-31,Georgia,Wayne County,4d4b7105d754a06374d81259,Food,57.0,"",57.0,3
+2020-03-31,Georgia,Decatur County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Georgia,Decatur County,4d4b7105d754a06374d81259,Food,58.0,"",59.0,2
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06378d81259,Shops & Services,64.0,55.0,64.0,1
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06375d81259,Professional & Other Places,56.0,57.0,56.0,2
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06374d81259,Food,48.0,36.0,49.0,3
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d1f9941735,Food & Drink Shops,82.0,66.0,83.0,4
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06377d81259,Outdoors & Recreation,54.0,54.0,54.0,5
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06379d81259,Travel & Transport,31.0,19.0,32.0,6
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d113951735,Gas Stations,65.0,54.0,65.0,7
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d16e941735,Fast Food Restaurants,65.0,"",66.0,8
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d104941735,Medical Centers,50.0,58.0,49.0,9
+2020-03-31,Georgia,Chatham County,4e67e38e036454776db1fb3a,Residences,79.0,"",80.0,10
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d118951735,Grocery Stores,82.0,56.0,84.0,11
+2020-03-31,Georgia,Chatham County,52f2ab2ebcbc57f1066b8b46,Supermarkets,83.0,67.0,84.0,12
+2020-03-31,Georgia,Chatham County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,"",73.0,13
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d124941735,Offices,62.0,"",62.0,14
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d126941735,Government Buildings,61.0,"",61.0,15
+2020-03-31,Georgia,Chatham County,4d954b0ea243a5684a65b473,Convenience Stores,60.0,"",59.0,16
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d13b941735,Schools,42.0,"",42.0,17
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d112951735,Hardware Stores,84.0,"",85.0,18
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d177941735,Doctor's Offices,57.0,"",57.0,19
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d1fa931735,Hotels,29.0,"",30.0,20
+2020-03-31,Georgia,Chatham County,4f2a210c4b9023bd5841ed28,Housing Developments,86.0,"",87.0,20
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06376d81259,Nightlife Spots,39.0,"",39.0,21
+2020-03-31,Georgia,Chatham County,4f4528bc4b90abdf24c9de85,Athletics & Sports,37.0,54.0,36.0,22
+2020-03-31,Georgia,Chatham County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),79.0,"",79.0,23
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d131941735,Spiritual Centers,49.0,"",50.0,24
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d124951735,Automotive Shops,69.0,"",70.0,25
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d10f951735,Pharmacies,79.0,"",81.0,26
+2020-03-31,Georgia,Chatham County,52dea92d3cf9994f4e043dbb,Discount Stores,60.0,"",60.0,27
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d10a951735,Banks,92.0,"",92.0,27
+2020-03-31,Georgia,Chatham County,4d4b7105d754a06372d81259,Colleges & Universities,24.0,"",24.0,28
+2020-03-31,Georgia,Chatham County,4eb1bea83b7b6f98df247e06,Factories,97.0,"",96.0,29
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d142941735,Asian Restaurants,47.0,"",48.0,30
+2020-03-31,Georgia,Chatham County,4bf58dd8d48988d163941735,Parks,60.0,"",61.0,31
+2020-03-31,Georgia,Franklin County,4d4b7105d754a06378d81259,Shops & Services,78.0,"",78.0,1
+2020-03-31,Georgia,Franklin County,4bf58dd8d48988d113951735,Gas Stations,87.0,"",87.0,2
+2020-03-31,Georgia,Newton County,4d4b7105d754a06378d81259,Shops & Services,67.0,55.0,68.0,1
+2020-03-31,Georgia,Newton County,4d4b7105d754a06375d81259,Professional & Other Places,49.0,"",49.0,2
+2020-03-31,Georgia,Newton County,4d4b7105d754a06374d81259,Food,48.0,"",48.0,3
+2020-03-31,Georgia,Newton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,76.0,"",76.0,4
+2020-03-31,Georgia,Newton County,4d4b7105d754a06377d81259,Outdoors & Recreation,60.0,"",60.0,5
+2020-03-31,Georgia,Newton County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,6
+2020-03-31,Georgia,Houston County,4d4b7105d754a06378d81259,Shops & Services,67.0,49.0,68.0,1
+2020-03-31,Georgia,Houston County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,37.0,44.0,2
+2020-03-31,Georgia,Houston County,4d4b7105d754a06374d81259,Food,51.0,31.0,52.0,3
+2020-03-31,Georgia,Houston County,4bf58dd8d48988d1f9941735,Food & Drink Shops,83.0,"",84.0,4
+2020-03-31,Georgia,Houston County,4bf58dd8d48988d118951735,Grocery Stores,84.0,"",85.0,5
+2020-03-31,Georgia,Houston County,4d4b7105d754a06377d81259,Outdoors & Recreation,56.0,"",56.0,6
+2020-03-31,Georgia,Houston County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",68.0,7
+2020-03-31,Georgia,Houston County,4bf58dd8d48988d16e941735,Fast Food Restaurants,60.0,"",61.0,8
+2020-03-31,Georgia,Houston County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,"",73.0,9
+2020-03-31,Georgia,Houston County,4bf58dd8d48988d104941735,Medical Centers,48.0,"",49.0,10
+2020-03-31,Georgia,Houston County,4d4b7105d754a06379d81259,Travel & Transport,38.0,"",38.0,11
+2020-03-31,Georgia,Houston County,52f2ab2ebcbc57f1066b8b46,Supermarkets,79.0,"",80.0,12
+2020-03-31,Georgia,Bulloch County,4d4b7105d754a06378d81259,Shops & Services,66.0,62.0,66.0,1
+2020-03-31,Georgia,Bulloch County,4d4b7105d754a06374d81259,Food,50.0,"",50.0,2
+2020-03-31,Georgia,Bulloch County,4d4b7105d754a06375d81259,Professional & Other Places,53.0,"",53.0,3
+2020-03-31,Georgia,Bulloch County,4bf58dd8d48988d113951735,Gas Stations,72.0,"",71.0,4
+2020-03-31,Georgia,Morgan County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",70.0,1
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06378d81259,Shops & Services,59.0,48.0,60.0,1
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,34.0,39.0,2
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06374d81259,Food,41.0,25.0,41.0,3
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d1f9941735,Food & Drink Shops,69.0,62.0,69.0,4
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,42.0,49.0,5
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d118951735,Grocery Stores,72.0,76.0,72.0,6
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d113951735,Gas Stations,61.0,48.0,61.0,7
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,41.0,55.0,8
+2020-03-31,Georgia,Cobb County,4e67e38e036454776db1fb3a,Residences,64.0,58.0,64.0,9
+2020-03-31,Georgia,Cobb County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,"",77.0,10
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d104941735,Medical Centers,42.0,33.0,42.0,11
+2020-03-31,Georgia,Cobb County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,"",64.0,12
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d124941735,Offices,33.0,"",33.0,13
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06379d81259,Travel & Transport,29.0,"",29.0,14
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d124951735,Automotive Shops,74.0,"",74.0,15
+2020-03-31,Georgia,Cobb County,4d954b0ea243a5684a65b473,Convenience Stores,59.0,"",60.0,16
+2020-03-31,Georgia,Cobb County,4f2a210c4b9023bd5841ed28,Housing Developments,65.0,"",65.0,17
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d10f951735,Pharmacies,83.0,"",83.0,18
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d112951735,Hardware Stores,72.0,"",73.0,19
+2020-03-31,Georgia,Cobb County,4f4528bc4b90abdf24c9de85,Athletics & Sports,30.0,"",30.0,20
+2020-03-31,Georgia,Cobb County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),64.0,"",64.0,21
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d13b941735,Schools,24.0,"",24.0,22
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d131941735,Spiritual Centers,49.0,"",49.0,23
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d177941735,Doctor's Offices,44.0,"",44.0,24
+2020-03-31,Georgia,Cobb County,52dea92d3cf9994f4e043dbb,Discount Stores,68.0,"",68.0,25
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d15e941735,Pools,75.0,"",76.0,26
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d10a951735,Banks,56.0,"",57.0,27
+2020-03-31,Georgia,Cobb County,4d4b7104d754a06370d81259,Arts & Entertainment,33.0,"",33.0,28
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d1c1941735,Mexican Restaurants,31.0,"",31.0,29
+2020-03-31,Georgia,Cobb County,4f4533804b9074f6e4fb0105,Elementary Schools,33.0,"",32.0,30
+2020-03-31,Georgia,Cobb County,4bf58dd8d48988d142941735,Asian Restaurants,46.0,"",46.0,31
+2020-03-31,Georgia,Cobb County,4d4b7105d754a06376d81259,Nightlife Spots,34.0,"",34.0,32
+2020-03-31,Georgia,Catoosa County,4d4b7105d754a06378d81259,Shops & Services,66.0,50.0,66.0,1
+2020-03-31,Georgia,Catoosa County,4d4b7105d754a06374d81259,Food,50.0,"",50.0,2
+2020-03-31,Georgia,Catoosa County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,3
+2020-03-31,Georgia,Catoosa County,4bf58dd8d48988d1f9941735,Food & Drink Shops,73.0,"",73.0,4
+2020-03-31,Georgia,Catoosa County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",72.0,5
+2020-03-31,Georgia,Whitfield County,4d4b7105d754a06378d81259,Shops & Services,61.0,50.0,61.0,1
+2020-03-31,Georgia,Whitfield County,4d4b7105d754a06375d81259,Professional & Other Places,46.0,"",46.0,2
+2020-03-31,Georgia,Whitfield County,4d4b7105d754a06374d81259,Food,42.0,"",43.0,3
+2020-03-31,Georgia,Whitfield County,4bf58dd8d48988d113951735,Gas Stations,68.0,"",68.0,4
+2020-03-31,Georgia,Whitfield County,4bf58dd8d48988d1f9941735,Food & Drink Shops,60.0,"",61.0,5
+2020-03-31,Georgia,Murray County,4d4b7105d754a06378d81259,Shops & Services,72.0,"",73.0,1
+2020-03-31,Georgia,Tift County,4d4b7105d754a06378d81259,Shops & Services,62.0,36.0,63.0,1
+2020-03-31,Georgia,Tift County,4d4b7105d754a06374d81259,Food,51.0,"",52.0,2
+2020-03-31,Georgia,Tift County,4d4b7105d754a06375d81259,Professional & Other Places,58.0,"",59.0,3
+2020-03-31,Georgia,Tift County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",66.0,4
+2020-03-31,Georgia,Coffee County,4d4b7105d754a06378d81259,Shops & Services,67.0,"",67.0,1
+2020-03-31,Georgia,Coffee County,4d4b7105d754a06374d81259,Food,53.0,"",54.0,2
+2020-03-31,Georgia,Coffee County,4d4b7105d754a06375d81259,Professional & Other Places,62.0,"",62.0,3
+2020-03-31,Georgia,Colquitt County,4d4b7105d754a06378d81259,Shops & Services,65.0,70.0,65.0,1
+2020-03-31,Georgia,Colquitt County,4d4b7105d754a06375d81259,Professional & Other Places,59.0,"",59.0,2
+2020-03-31,Georgia,Colquitt County,4d4b7105d754a06374d81259,Food,54.0,"",55.0,3
+2020-03-31,Georgia,Banks County,4d4b7105d754a06378d81259,Shops & Services,65.0,"",65.0,1
+2020-03-31,Georgia,Columbia County,4d4b7105d754a06378d81259,Shops & Services,74.0,63.0,74.0,1
+2020-03-31,Georgia,Columbia County,4d4b7105d754a06374d81259,Food,56.0,36.0,57.0,2
+2020-03-31,Georgia,Columbia County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,44.0,48.0,3
+2020-03-31,Georgia,Columbia County,4bf58dd8d48988d1f9941735,Food & Drink Shops,75.0,61.0,76.0,4
+2020-03-31,Georgia,Columbia County,4bf58dd8d48988d118951735,Grocery Stores,75.0,"",76.0,5
+2020-03-31,Georgia,Columbia County,4d4b7105d754a06377d81259,Outdoors & Recreation,59.0,59.0,59.0,6
+2020-03-31,Georgia,Columbia County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,82.0,"",82.0,7
+2020-03-31,Georgia,Columbia County,4bf58dd8d48988d113951735,Gas Stations,73.0,"",74.0,8
+2020-03-31,Georgia,Columbia County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",62.0,9
+2020-03-31,Georgia,Columbia County,4e67e38e036454776db1fb3a,Residences,72.0,"",73.0,10
+2020-03-31,Georgia,Columbia County,4f2a210c4b9023bd5841ed28,Housing Developments,79.0,"",81.0,11
+2020-03-31,Georgia,Columbia County,4bf58dd8d48988d112951735,Hardware Stores,119.0,"",121.0,12
+2020-03-31,Georgia,Columbia County,4d954b0ea243a5684a65b473,Convenience Stores,77.0,"",77.0,13
+2020-03-31,Georgia,Gordon County,4d4b7105d754a06378d81259,Shops & Services,59.0,47.0,60.0,1
+2020-03-31,Georgia,Gordon County,4d4b7105d754a06374d81259,Food,63.0,"",64.0,2
+2020-03-31,Georgia,Gordon County,4d4b7105d754a06375d81259,Professional & Other Places,46.0,"",46.0,3
+2020-03-31,Georgia,Gordon County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,4
+2020-03-31,Georgia,Dougherty County,4d4b7105d754a06378d81259,Shops & Services,61.0,41.0,62.0,1
+2020-03-31,Georgia,Dougherty County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",45.0,2
+2020-03-31,Georgia,Dougherty County,4d4b7105d754a06374d81259,Food,45.0,"",45.0,3
+2020-03-31,Georgia,Dougherty County,4bf58dd8d48988d1f9941735,Food & Drink Shops,72.0,"",72.0,4
+2020-03-31,Georgia,Dougherty County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",72.0,5
+2020-03-31,Georgia,Dougherty County,4bf58dd8d48988d16e941735,Fast Food Restaurants,47.0,"",48.0,6
+2020-03-31,Georgia,Dougherty County,4d4b7105d754a06379d81259,Travel & Transport,67.0,"",68.0,7
+2020-03-31,Georgia,Dougherty County,52dea92d3cf9994f4e043dbb,Discount Stores,65.0,"",66.0,8
+2020-03-31,Georgia,Dougherty County,4bf58dd8d48988d104941735,Medical Centers,44.0,"",45.0,9
+2020-03-31,Georgia,Rockdale County,4d4b7105d754a06378d81259,Shops & Services,64.0,51.0,64.0,1
+2020-03-31,Georgia,Rockdale County,4d4b7105d754a06374d81259,Food,49.0,"",49.0,2
+2020-03-31,Georgia,Rockdale County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",44.0,3
+2020-03-31,Georgia,Rockdale County,4bf58dd8d48988d1f9941735,Food & Drink Shops,99.0,"",99.0,4
+2020-03-31,Georgia,Rockdale County,4bf58dd8d48988d118951735,Grocery Stores,114.0,"",114.0,5
+2020-03-31,Georgia,Appling County,4d4b7105d754a06374d81259,Food,64.0,"",64.0,1
+2020-03-31,Georgia,Laurens County,4d4b7105d754a06378d81259,Shops & Services,78.0,60.0,78.0,1
+2020-03-31,Georgia,Laurens County,4d4b7105d754a06374d81259,Food,55.0,"",55.0,2
+2020-03-31,Georgia,Laurens County,4bf58dd8d48988d113951735,Gas Stations,101.0,"",102.0,3
+2020-03-31,Georgia,Laurens County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",47.0,4
+2020-03-31,Georgia,Washington County,4d4b7105d754a06378d81259,Shops & Services,83.0,"",84.0,1
+2020-03-31,Georgia,Monroe County,4d4b7105d754a06378d81259,Shops & Services,82.0,"",81.0,1
+2020-03-31,Georgia,Monroe County,4d4b7105d754a06375d81259,Professional & Other Places,60.0,"",59.0,2
+2020-03-31,Georgia,Spalding County,4d4b7105d754a06378d81259,Shops & Services,62.0,52.0,63.0,1
+2020-03-31,Georgia,Spalding County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",47.0,2
+2020-03-31,Georgia,Spalding County,4d4b7105d754a06374d81259,Food,45.0,"",46.0,3
+2020-03-31,Georgia,Paulding County,4d4b7105d754a06378d81259,Shops & Services,68.0,52.0,68.0,1
+2020-03-31,Georgia,Paulding County,4d4b7105d754a06374d81259,Food,57.0,"",58.0,2
+2020-03-31,Georgia,Paulding County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",44.0,3
+2020-03-31,Georgia,Paulding County,4bf58dd8d48988d1f9941735,Food & Drink Shops,85.0,"",87.0,4
+2020-03-31,Georgia,Paulding County,4d4b7105d754a06377d81259,Outdoors & Recreation,59.0,"",60.0,5
+2020-03-31,Georgia,Paulding County,4bf58dd8d48988d113951735,Gas Stations,69.0,"",70.0,6
+2020-03-31,Georgia,Floyd County,4d4b7105d754a06378d81259,Shops & Services,64.0,42.0,65.0,1
+2020-03-31,Georgia,Floyd County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",45.0,2
+2020-03-31,Georgia,Floyd County,4d4b7105d754a06374d81259,Food,39.0,"",40.0,3
+2020-03-31,Georgia,Floyd County,4bf58dd8d48988d1f9941735,Food & Drink Shops,108.0,"",110.0,4
+2020-03-31,Georgia,Floyd County,4bf58dd8d48988d104941735,Medical Centers,46.0,"",47.0,5
+2020-03-31,Georgia,Union County,4d4b7105d754a06378d81259,Shops & Services,64.0,58.0,65.0,1
+2020-03-31,Georgia,Stephens County,4d4b7105d754a06378d81259,Shops & Services,56.0,"",56.0,1
+2020-03-31,Georgia,Greene County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",71.0,1
+2020-03-31,Georgia,Polk County,4d4b7105d754a06378d81259,Shops & Services,62.0,"",62.0,1
+2020-03-31,Georgia,Polk County,4d4b7105d754a06374d81259,Food,63.0,"",63.0,2
+2020-03-31,Georgia,Polk County,4d4b7105d754a06375d81259,Professional & Other Places,58.0,"",58.0,3
+2020-03-31,Georgia,Dodge County,4d4b7105d754a06374d81259,Food,74.0,"",76.0,1
+2020-03-31,Georgia,Rabun County,4d4b7105d754a06378d81259,Shops & Services,80.0,"",81.0,1
+2020-03-31,Georgia,Sumter County,4d4b7105d754a06378d81259,Shops & Services,63.0,"",64.0,1
+2020-03-31,Georgia,Sumter County,4d4b7105d754a06374d81259,Food,56.0,"",56.0,2
+2020-03-31,Georgia,Bibb County,4d4b7105d754a06378d81259,Shops & Services,64.0,50.0,65.0,1
+2020-03-31,Georgia,Bibb County,4d4b7105d754a06374d81259,Food,55.0,41.0,55.0,2
+2020-03-31,Georgia,Bibb County,4d4b7105d754a06375d81259,Professional & Other Places,52.0,42.0,53.0,3
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d1f9941735,Food & Drink Shops,79.0,79.0,79.0,4
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,"",63.0,5
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",63.0,6
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d104941735,Medical Centers,46.0,"",46.0,7
+2020-03-31,Georgia,Bibb County,4d4b7105d754a06377d81259,Outdoors & Recreation,59.0,"",60.0,8
+2020-03-31,Georgia,Bibb County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,"",72.0,9
+2020-03-31,Georgia,Bibb County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,"",70.0,10
+2020-03-31,Georgia,Bibb County,4d4b7105d754a06379d81259,Travel & Transport,49.0,"",48.0,11
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d131941735,Spiritual Centers,68.0,"",69.0,11
+2020-03-31,Georgia,Bibb County,52dea92d3cf9994f4e043dbb,Discount Stores,77.0,"",78.0,12
+2020-03-31,Georgia,Bibb County,4bf58dd8d48988d118951735,Grocery Stores,95.0,"",96.0,13
+2020-03-31,Georgia,Bartow County,4d4b7105d754a06378d81259,Shops & Services,65.0,51.0,65.0,1
+2020-03-31,Georgia,Bartow County,4d4b7105d754a06374d81259,Food,54.0,43.0,54.0,2
+2020-03-31,Georgia,Bartow County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,"",54.0,3
+2020-03-31,Georgia,Bartow County,4bf58dd8d48988d113951735,Gas Stations,68.0,"",69.0,4
+2020-03-31,Georgia,Bartow County,4d4b7105d754a06377d81259,Outdoors & Recreation,51.0,"",51.0,5
+2020-03-31,Georgia,Bartow County,4bf58dd8d48988d16e941735,Fast Food Restaurants,66.0,"",66.0,6
+2020-03-31,Georgia,Bartow County,4bf58dd8d48988d1f9941735,Food & Drink Shops,81.0,"",81.0,7
+2020-03-31,Georgia,Cherokee County,4d4b7105d754a06378d81259,Shops & Services,64.0,51.0,65.0,1
+2020-03-31,Georgia,Cherokee County,4d4b7105d754a06374d81259,Food,51.0,38.0,52.0,2
+2020-03-31,Georgia,Cherokee County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,27.0,38.0,3
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d1f9941735,Food & Drink Shops,79.0,72.0,80.0,4
+2020-03-31,Georgia,Cherokee County,4d4b7105d754a06377d81259,Outdoors & Recreation,55.0,60.0,55.0,5
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",64.0,6
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d118951735,Grocery Stores,86.0,96.0,85.0,7
+2020-03-31,Georgia,Cherokee County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",72.0,8
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,"",59.0,9
+2020-03-31,Georgia,Cherokee County,52f2ab2ebcbc57f1066b8b46,Supermarkets,79.0,"",80.0,10
+2020-03-31,Georgia,Cherokee County,4e67e38e036454776db1fb3a,Residences,63.0,"",64.0,11
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",46.0,12
+2020-03-31,Georgia,Cherokee County,4bf58dd8d48988d112951735,Hardware Stores,86.0,"",90.0,13
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06378d81259,Shops & Services,47.0,42.0,47.0,1
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,29.0,34.0,2
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06374d81259,Food,33.0,25.0,33.0,3
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06377d81259,Outdoors & Recreation,40.0,37.0,40.0,4
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,62.0,61.0,62.0,5
+2020-03-31,Georgia,Fulton County,4e67e38e036454776db1fb3a,Residences,55.0,47.0,56.0,6
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06379d81259,Travel & Transport,23.0,"",23.0,7
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d113951735,Gas Stations,55.0,40.0,56.0,8
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d104941735,Medical Centers,37.0,26.0,37.0,9
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d124941735,Offices,24.0,26.0,24.0,10
+2020-03-31,Georgia,Fulton County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),50.0,41.0,50.0,11
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d118951735,Grocery Stores,57.0,65.0,57.0,12
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d16e941735,Fast Food Restaurants,45.0,"",45.0,13
+2020-03-31,Georgia,Fulton County,52f2ab2ebcbc57f1066b8b46,Supermarkets,71.0,57.0,71.0,14
+2020-03-31,Georgia,Fulton County,4f4528bc4b90abdf24c9de85,Athletics & Sports,27.0,24.0,27.0,15
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d13b941735,Schools,25.0,33.0,25.0,16
+2020-03-31,Georgia,Fulton County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,"",62.0,17
+2020-03-31,Georgia,Fulton County,4f2a210c4b9023bd5841ed28,Housing Developments,70.0,"",71.0,18
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1fd931735,Metro Stations,35.0,"",36.0,19
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d163941735,Parks,58.0,"",58.0,19
+2020-03-31,Georgia,Fulton County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,38.0,"",38.0,20
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d196941735,Hospitals,42.0,"",42.0,21
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06376d81259,Nightlife Spots,24.0,"",24.0,22
+2020-03-31,Georgia,Fulton County,4d4b7105d754a06372d81259,Colleges & Universities,13.0,"",13.0,22
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d131941735,Spiritual Centers,35.0,"",36.0,23
+2020-03-31,Georgia,Fulton County,4d954b0ea243a5684a65b473,Convenience Stores,58.0,"",58.0,23
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d112951735,Hardware Stores,68.0,"",69.0,24
+2020-03-31,Georgia,Fulton County,4d4b7104d754a06370d81259,Arts & Entertainment,22.0,"",22.0,25
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d10f951735,Pharmacies,52.0,"",52.0,26
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1fa931735,Hotels,14.0,"",14.0,27
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,20.0,"",20.0,28
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d177941735,Doctor's Offices,33.0,"",34.0,29
+2020-03-31,Georgia,Fulton County,4c38df4de52ce0d596b336e1,Parking,31.0,"",31.0,30
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1fd941735,Shopping Malls,21.0,"",21.0,31
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d124951735,Automotive Shops,58.0,"",59.0,32
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1e0931735,Coffee Shops,27.0,"",27.0,32
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1c1941735,Mexican Restaurants,33.0,"",33.0,33
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d126941735,Government Buildings,25.0,"",25.0,33
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d116941735,Bars,21.0,"",21.0,34
+2020-03-31,Georgia,Fulton County,4f4533804b9074f6e4fb0105,Elementary Schools,31.0,"",30.0,35
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d10a951735,Banks,47.0,"",47.0,36
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d172941735,Post Offices,63.0,"",63.0,37
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d14e941735,American Restaurants,22.0,"",22.0,38
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d110951735,Salons / Barbershops,46.0,"",46.0,39
+2020-03-31,Georgia,Fulton County,4eb1bea83b7b6f98df247e06,Factories,70.0,"",70.0,40
+2020-03-31,Georgia,Fulton County,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,49.0,"",49.0,41
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d142941735,Asian Restaurants,27.0,"",27.0,41
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1ca941735,Pizza Places,33.0,"",33.0,42
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d186941735,Liquor Stores,67.0,"",68.0,42
+2020-03-31,Georgia,Fulton County,52dea92d3cf9994f4e043dbb,Discount Stores,58.0,"",59.0,43
+2020-03-31,Georgia,Fulton County,4bf58dd8d48988d1c5941735,Sandwich Places,55.0,"",55.0,44
+2020-03-31,Georgia,Gwinnett County,4d4b7105d754a06378d81259,Shops & Services,55.0,48.0,56.0,1
+2020-03-31,Georgia,Gwinnett County,4d4b7105d754a06374d81259,Food,40.0,29.0,41.0,2
+2020-03-31,Georgia,Gwinnett County,4d4b7105d754a06375d81259,Professional & Other Places,36.0,35.0,36.0,3
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d1f9941735,Food & Drink Shops,67.0,62.0,68.0,4
+2020-03-31,Georgia,Gwinnett County,4d4b7105d754a06377d81259,Outdoors & Recreation,48.0,39.0,48.0,5
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d113951735,Gas Stations,55.0,50.0,55.0,6
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d118951735,Grocery Stores,68.0,71.0,68.0,7
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d16e941735,Fast Food Restaurants,49.0,38.0,49.0,8
+2020-03-31,Georgia,Gwinnett County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,53.0,65.0,9
+2020-03-31,Georgia,Gwinnett County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,53.0,67.0,10
+2020-03-31,Georgia,Gwinnett County,4d954b0ea243a5684a65b473,Convenience Stores,59.0,"",60.0,11
+2020-03-31,Georgia,Gwinnett County,4e67e38e036454776db1fb3a,Residences,57.0,"",57.0,12
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d104941735,Medical Centers,37.0,32.0,38.0,13
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d112951735,Hardware Stores,89.0,"",90.0,14
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d124941735,Offices,42.0,"",42.0,15
+2020-03-31,Georgia,Gwinnett County,4f4528bc4b90abdf24c9de85,Athletics & Sports,32.0,"",32.0,16
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d124951735,Automotive Shops,59.0,"",59.0,17
+2020-03-31,Georgia,Gwinnett County,4d4b7105d754a06379d81259,Travel & Transport,30.0,"",30.0,18
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d10f951735,Pharmacies,74.0,"",74.0,19
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d131941735,Spiritual Centers,38.0,"",38.0,20
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d163941735,Parks,66.0,"",66.0,21
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d142941735,Asian Restaurants,32.0,"",33.0,22
+2020-03-31,Georgia,Gwinnett County,4f2a210c4b9023bd5841ed28,Housing Developments,57.0,"",57.0,22
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,22
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d1c1941735,Mexican Restaurants,45.0,"",45.0,22
+2020-03-31,Georgia,Gwinnett County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),58.0,"",58.0,23
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d177941735,Doctor's Offices,37.0,"",37.0,24
+2020-03-31,Georgia,Gwinnett County,4d4b7104d754a06370d81259,Arts & Entertainment,37.0,"",37.0,25
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d10a951735,Banks,56.0,"",57.0,26
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d15e941735,Pools,60.0,"",61.0,27
+2020-03-31,Georgia,Gwinnett County,52e816a6bcbc57f1066b7a54,Warehouse Stores,74.0,"",74.0,27
+2020-03-31,Georgia,Gwinnett County,4bf58dd8d48988d126941735,Government Buildings,36.0,"",36.0,28
+2020-03-31,Georgia,Gwinnett County,52dea92d3cf9994f4e043dbb,Discount Stores,54.0,"",53.0,29
+2020-03-31,Georgia,Dooly County,4d4b7105d754a06378d81259,Shops & Services,80.0,"",81.0,1
+2020-03-31,Georgia,Barrow County,4d4b7105d754a06378d81259,Shops & Services,71.0,51.0,72.0,1
+2020-03-31,Georgia,Barrow County,4d4b7105d754a06374d81259,Food,57.0,"",57.0,2
+2020-03-31,Georgia,Barrow County,4d4b7105d754a06375d81259,Professional & Other Places,61.0,"",61.0,3
+2020-03-31,Georgia,Barrow County,4bf58dd8d48988d1f9941735,Food & Drink Shops,88.0,"",90.0,4
+2020-03-31,Georgia,Barrow County,4bf58dd8d48988d118951735,Grocery Stores,90.0,"",92.0,5
+2020-03-31,Georgia,Walton County,4d4b7105d754a06378d81259,Shops & Services,75.0,74.0,75.0,1
+2020-03-31,Georgia,Walton County,4d4b7105d754a06375d81259,Professional & Other Places,55.0,"",55.0,2
+2020-03-31,Georgia,Walton County,4d4b7105d754a06374d81259,Food,50.0,"",50.0,3
+2020-03-31,Georgia,Walton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,88.0,"",87.0,4
+2020-03-31,Georgia,Clarke County,4d4b7105d754a06378d81259,Shops & Services,61.0,46.0,62.0,1
+2020-03-31,Georgia,Clarke County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,"",39.0,2
+2020-03-31,Georgia,Clarke County,4d4b7105d754a06374d81259,Food,36.0,"",36.0,3
+2020-03-31,Georgia,Clarke County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,"",67.0,4
+2020-03-31,Georgia,Clarke County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",75.0,5
+2020-03-31,Georgia,Gilmer County,4d4b7105d754a06378d81259,Shops & Services,64.0,69.0,64.0,1
+2020-03-31,Georgia,Richmond County,4d4b7105d754a06378d81259,Shops & Services,62.0,47.0,63.0,1
+2020-03-31,Georgia,Richmond County,4d4b7105d754a06375d81259,Professional & Other Places,46.0,35.0,46.0,2
+2020-03-31,Georgia,Richmond County,4d4b7105d754a06374d81259,Food,52.0,36.0,53.0,3
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d104941735,Medical Centers,44.0,29.0,44.0,4
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d1f9941735,Food & Drink Shops,78.0,74.0,78.0,5
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d113951735,Gas Stations,73.0,"",73.0,6
+2020-03-31,Georgia,Richmond County,4d4b7105d754a06377d81259,Outdoors & Recreation,52.0,"",52.0,7
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,"",63.0,8
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",72.0,9
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d196941735,Hospitals,40.0,"",41.0,10
+2020-03-31,Georgia,Richmond County,4d4b7105d754a06379d81259,Travel & Transport,58.0,"",58.0,11
+2020-03-31,Georgia,Richmond County,4d954b0ea243a5684a65b473,Convenience Stores,63.0,"",63.0,12
+2020-03-31,Georgia,Richmond County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,"",73.0,13
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d13b941735,Schools,34.0,"",33.0,14
+2020-03-31,Georgia,Richmond County,4f4528bc4b90abdf24c9de85,Athletics & Sports,40.0,"",41.0,15
+2020-03-31,Georgia,Richmond County,4bf58dd8d48988d177941735,Doctor's Offices,56.0,"",56.0,16
+2020-03-31,Georgia,Richmond County,52f2ab2ebcbc57f1066b8b46,Supermarkets,88.0,"",88.0,16
+2020-03-31,Georgia,Richmond County,4e67e38e036454776db1fb3a,Residences,64.0,"",65.0,16
+2020-03-31,Georgia,Camden County,4d4b7105d754a06378d81259,Shops & Services,77.0,76.0,77.0,1
+2020-03-31,Georgia,Camden County,4d4b7105d754a06375d81259,Professional & Other Places,51.0,"",51.0,2
+2020-03-31,Georgia,Camden County,4d4b7105d754a06374d81259,Food,50.0,52.0,50.0,3
+2020-03-31,Georgia,Camden County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",66.0,4
+2020-03-31,Georgia,Camden County,4bf58dd8d48988d1f9941735,Food & Drink Shops,92.0,"",92.0,4
+2020-03-31,Georgia,Camden County,4bf58dd8d48988d118951735,Grocery Stores,93.0,"",93.0,5
+2020-03-31,Georgia,Liberty County,4d4b7105d754a06378d81259,Shops & Services,77.0,"",78.0,1
+2020-03-31,Georgia,Liberty County,4d4b7105d754a06374d81259,Food,78.0,"",78.0,2
+2020-03-31,Georgia,Liberty County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",47.0,3
+2020-03-31,Georgia,Liberty County,4bf58dd8d48988d1f9941735,Food & Drink Shops,93.0,"",94.0,4
+2020-03-31,Georgia,Liberty County,4bf58dd8d48988d16e941735,Fast Food Restaurants,156.0,"",158.0,5
+2020-03-31,Georgia,Liberty County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",80.0,6
+2020-03-31,Georgia,Lee County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Georgia,White County,4d4b7105d754a06378d81259,Shops & Services,82.0,97.0,82.0,1
+2020-03-31,Georgia,Effingham County,4d4b7105d754a06378d81259,Shops & Services,73.0,65.0,73.0,1
+2020-03-31,Georgia,Effingham County,4d4b7105d754a06375d81259,Professional & Other Places,66.0,"",67.0,2
+2020-03-31,Georgia,Effingham County,4d4b7105d754a06374d81259,Food,72.0,"",73.0,3
+2020-03-31,Georgia,Pickens County,4d4b7105d754a06378d81259,Shops & Services,61.0,52.0,61.0,1
+2020-03-31,Georgia,Oconee County,4d4b7105d754a06378d81259,Shops & Services,73.0,52.0,74.0,1
+2020-03-31,Georgia,Oconee County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,"",39.0,2
+2020-03-31,Georgia,Muscogee County,4d4b7105d754a06378d81259,Shops & Services,65.0,47.0,65.0,1
+2020-03-31,Georgia,Muscogee County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,44.0,48.0,2
+2020-03-31,Georgia,Muscogee County,4d4b7105d754a06374d81259,Food,46.0,28.0,47.0,3
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d1f9941735,Food & Drink Shops,81.0,61.0,81.0,4
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d118951735,Grocery Stores,79.0,62.0,80.0,5
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,"",58.0,6
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d104941735,Medical Centers,49.0,"",50.0,7
+2020-03-31,Georgia,Muscogee County,4d4b7105d754a06377d81259,Outdoors & Recreation,51.0,"",52.0,8
+2020-03-31,Georgia,Muscogee County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,9
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d113951735,Gas Stations,61.0,"",61.0,10
+2020-03-31,Georgia,Muscogee County,4d954b0ea243a5684a65b473,Convenience Stores,59.0,"",59.0,11
+2020-03-31,Georgia,Muscogee County,4e67e38e036454776db1fb3a,Residences,67.0,"",67.0,12
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d124951735,Automotive Shops,92.0,"",92.0,13
+2020-03-31,Georgia,Muscogee County,4d4b7105d754a06379d81259,Travel & Transport,58.0,"",58.0,14
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d10f951735,Pharmacies,68.0,"",69.0,15
+2020-03-31,Georgia,Muscogee County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),70.0,"",70.0,16
+2020-03-31,Georgia,Muscogee County,4bf58dd8d48988d13b941735,Schools,33.0,"",33.0,16
+2020-03-31,Georgia,Clayton County,4d4b7105d754a06378d81259,Shops & Services,63.0,48.0,63.0,1
+2020-03-31,Georgia,Clayton County,4d4b7105d754a06379d81259,Travel & Transport,16.0,7.0,16.0,2
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d1ed931735,Airports,15.0,6.0,15.0,3
+2020-03-31,Georgia,Clayton County,4d4b7105d754a06374d81259,Food,37.0,22.0,37.0,4
+2020-03-31,Georgia,Clayton County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,34.0,45.0,5
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d1eb931735,Airport Terminals,14.0,"",14.0,6
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,73.0,"",73.0,7
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,"",60.0,8
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,9
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d1f0931735,Airport Gates,14.0,"",14.0,10
+2020-03-31,Georgia,Clayton County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,75.0,"",75.0,11
+2020-03-31,Georgia,Clayton County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,"",49.0,12
+2020-03-31,Georgia,Clayton County,4e67e38e036454776db1fb3a,Residences,68.0,"",68.0,13
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d118951735,Grocery Stores,75.0,"",76.0,13
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d124951735,Automotive Shops,76.0,"",76.0,14
+2020-03-31,Georgia,Clayton County,4d954b0ea243a5684a65b473,Convenience Stores,57.0,"",56.0,15
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d124941735,Offices,45.0,"",45.0,16
+2020-03-31,Georgia,Clayton County,56aa371be4b08b9a8d57352f,Airport Services,22.0,"",22.0,17
+2020-03-31,Georgia,Clayton County,4bf58dd8d48988d112951735,Hardware Stores,111.0,"",110.0,18
+2020-03-31,Georgia,Hart County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",68.0,1
+2020-03-31,Georgia,Fayette County,4d4b7105d754a06378d81259,Shops & Services,65.0,43.0,66.0,1
+2020-03-31,Georgia,Fayette County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,36.0,45.0,2
+2020-03-31,Georgia,Fayette County,4d4b7105d754a06374d81259,Food,47.0,"",49.0,3
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d1f9941735,Food & Drink Shops,92.0,60.0,94.0,4
+2020-03-31,Georgia,Fayette County,4d4b7105d754a06377d81259,Outdoors & Recreation,70.0,"",72.0,5
+2020-03-31,Georgia,Fayette County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,56.0,"",56.0,6
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d118951735,Grocery Stores,86.0,"",88.0,7
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d104941735,Medical Centers,42.0,"",42.0,8
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",72.0,9
+2020-03-31,Georgia,Fayette County,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,"",102.0,10
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d1fd941735,Shopping Malls,53.0,"",54.0,11
+2020-03-31,Georgia,Fayette County,4bf58dd8d48988d16e941735,Fast Food Restaurants,75.0,"",76.0,12
+2020-03-31,Georgia,Thomas County,4d4b7105d754a06378d81259,Shops & Services,69.0,44.0,70.0,1
+2020-03-31,Georgia,Thomas County,4d4b7105d754a06374d81259,Food,51.0,"",52.0,2
+2020-03-31,Georgia,Thomas County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",46.0,3
+2020-03-31,Georgia,Walker County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",61.0,1
+2020-03-31,Georgia,Walker County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,"",55.0,2
+2020-03-31,Georgia,Cook County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Georgia,Grady County,4d4b7105d754a06378d81259,Shops & Services,74.0,"",75.0,1
+2020-03-31,Georgia,Chattahoochee County,4d4b7105d754a06375d81259,Professional & Other Places,37.0,"",37.0,1
+2020-03-31,Georgia,Chattahoochee County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",69.0,2
+2020-03-31,Georgia,Henry County,4d4b7105d754a06378d81259,Shops & Services,65.0,61.0,65.0,1
+2020-03-31,Georgia,Henry County,4d4b7105d754a06375d81259,Professional & Other Places,49.0,39.0,50.0,2
+2020-03-31,Georgia,Henry County,4d4b7105d754a06374d81259,Food,52.0,45.0,52.0,3
+2020-03-31,Georgia,Henry County,4bf58dd8d48988d1f9941735,Food & Drink Shops,74.0,"",74.0,4
+2020-03-31,Georgia,Henry County,4d4b7105d754a06377d81259,Outdoors & Recreation,58.0,"",59.0,5
+2020-03-31,Georgia,Henry County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",66.0,6
+2020-03-31,Georgia,Henry County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",74.0,7
+2020-03-31,Georgia,Henry County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",54.0,8
+2020-03-31,Georgia,Henry County,4bf58dd8d48988d118951735,Grocery Stores,76.0,"",77.0,9
+2020-03-31,Georgia,Henry County,4bf58dd8d48988d104941735,Medical Centers,51.0,"",53.0,10
+2020-03-31,Georgia,Troup County,4d4b7105d754a06378d81259,Shops & Services,63.0,43.0,64.0,1
+2020-03-31,Georgia,Troup County,4d4b7105d754a06374d81259,Food,53.0,"",53.0,2
+2020-03-31,Georgia,Troup County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,"",39.0,3
+2020-03-31,Georgia,Troup County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,4
+2020-03-31,Georgia,Chattooga County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",60.0,1
+2020-03-31,Georgia,Douglas County,4d4b7105d754a06378d81259,Shops & Services,56.0,49.0,56.0,1
+2020-03-31,Georgia,Douglas County,4d4b7105d754a06375d81259,Professional & Other Places,50.0,"",50.0,2
+2020-03-31,Georgia,Douglas County,4d4b7105d754a06374d81259,Food,48.0,"",48.0,3
+2020-03-31,Georgia,Douglas County,4bf58dd8d48988d113951735,Gas Stations,59.0,"",59.0,4
+2020-03-31,Georgia,Douglas County,4bf58dd8d48988d1f9941735,Food & Drink Shops,69.0,"",68.0,5
+2020-03-31,Georgia,Douglas County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",55.0,6
+2020-03-31,Georgia,Habersham County,4d4b7105d754a06378d81259,Shops & Services,70.0,67.0,70.0,1
+2020-03-31,Georgia,Habersham County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,"",44.0,2
+2020-03-31,Georgia,Carroll County,4d4b7105d754a06378d81259,Shops & Services,61.0,43.0,61.0,1
+2020-03-31,Georgia,Carroll County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",43.0,2
+2020-03-31,Georgia,Carroll County,4d4b7105d754a06374d81259,Food,47.0,"",48.0,3
+2020-03-31,Georgia,Carroll County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",72.0,4
+2020-03-31,Georgia,Carroll County,4bf58dd8d48988d1f9941735,Food & Drink Shops,71.0,"",72.0,5
+2020-03-31,Georgia,Carroll County,4bf58dd8d48988d118951735,Grocery Stores,71.0,"",71.0,6
+2020-03-31,Georgia,Carroll County,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,"",60.0,7
+2020-03-31,Georgia,Carroll County,4d4b7105d754a06377d81259,Outdoors & Recreation,53.0,"",54.0,8
+2020-03-31,Georgia,Glynn County,4d4b7105d754a06378d81259,Shops & Services,67.0,54.0,68.0,1
+2020-03-31,Georgia,Glynn County,4d4b7105d754a06374d81259,Food,53.0,32.0,54.0,2
+2020-03-31,Georgia,Glynn County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,51.0,48.0,3
+2020-03-31,Georgia,Glynn County,4d4b7105d754a06377d81259,Outdoors & Recreation,65.0,59.0,66.0,4
+2020-03-31,Georgia,Glynn County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,5
+2020-03-31,Georgia,Glynn County,4d4b7105d754a06379d81259,Travel & Transport,58.0,"",59.0,6
+2020-03-31,Georgia,Glynn County,4bf58dd8d48988d1f9941735,Food & Drink Shops,75.0,57.0,76.0,7
+2020-03-31,Georgia,Glynn County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,8
+2020-03-31,Georgia,Glynn County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",63.0,9
+2020-03-31,Georgia,Glynn County,4bf58dd8d48988d126941735,Government Buildings,40.0,"",39.0,10
+2020-03-31,Georgia,Haralson County,4d4b7105d754a06378d81259,Shops & Services,77.0,"",77.0,1
+2020-03-31,Georgia,Burke County,4d4b7105d754a06375d81259,Professional & Other Places,68.0,"",68.0,1
+2020-03-31,Georgia,Burke County,4d4b7105d754a06378d81259,Shops & Services,83.0,"",84.0,2
+2020-03-31,Georgia,Burke County,4eb1bea83b7b6f98df247e06,Factories,66.0,"",66.0,3
+2020-03-31,Georgia,Burke County,4d4b7105d754a06374d81259,Food,73.0,"",74.0,4
+2020-03-31,Georgia,Upson County,4d4b7105d754a06378d81259,Shops & Services,76.0,"",76.0,1
+2020-03-31,Georgia,Baldwin County,4d4b7105d754a06378d81259,Shops & Services,68.0,67.0,68.0,1
+2020-03-31,Georgia,Baldwin County,4d4b7105d754a06374d81259,Food,50.0,"",51.0,2
+2020-03-31,Georgia,Baldwin County,4d4b7105d754a06375d81259,Professional & Other Places,52.0,"",50.0,3

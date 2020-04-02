@@ -18239,3 +18239,364 @@
 2020-03-30,,Delaware County,4bf58dd8d48988d113951735,Gas Stations,68.0,"",67.0,5
 2020-03-30,,Delaware County,4d4b7105d754a06377d81259,Outdoors & Recreation,56.0,"",56.0,6
 2020-03-30,,Scott County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",73.0,1
+2020-03-31,Indiana,Vigo County,4d4b7105d754a06378d81259,Shops & Services,54.0,49.0,55.0,1
+2020-03-31,Indiana,Vigo County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,40.0,48.0,2
+2020-03-31,Indiana,Vigo County,4d4b7105d754a06374d81259,Food,48.0,41.0,48.0,3
+2020-03-31,Indiana,Vigo County,4bf58dd8d48988d1f9941735,Food & Drink Shops,70.0,"",70.0,4
+2020-03-31,Indiana,Vigo County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,5
+2020-03-31,Indiana,Vigo County,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,"",64.0,6
+2020-03-31,Indiana,Vigo County,4bf58dd8d48988d104941735,Medical Centers,46.0,"",47.0,7
+2020-03-31,Indiana,Vigo County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,"",63.0,8
+2020-03-31,Indiana,Clark County,4d4b7105d754a06378d81259,Shops & Services,61.0,71.0,61.0,1
+2020-03-31,Indiana,Clark County,4d4b7105d754a06374d81259,Food,49.0,43.0,49.0,2
+2020-03-31,Indiana,Clark County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,41.0,44.0,3
+2020-03-31,Indiana,Clark County,4d4b7105d754a06377d81259,Outdoors & Recreation,72.0,"",71.0,4
+2020-03-31,Indiana,Clark County,4bf58dd8d48988d1f9941735,Food & Drink Shops,72.0,"",72.0,5
+2020-03-31,Indiana,Clark County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,6
+2020-03-31,Indiana,Clark County,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,"",72.0,7
+2020-03-31,Indiana,Clark County,4bf58dd8d48988d16e941735,Fast Food Restaurants,48.0,"",48.0,8
+2020-03-31,Indiana,Clark County,4d4b7105d754a06379d81259,Travel & Transport,61.0,"",60.0,9
+2020-03-31,Indiana,Boone County,4d4b7105d754a06378d81259,Shops & Services,68.0,70.0,68.0,1
+2020-03-31,Indiana,Boone County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,"",48.0,2
+2020-03-31,Indiana,Boone County,4d4b7105d754a06374d81259,Food,52.0,"",53.0,3
+2020-03-31,Indiana,Boone County,4bf58dd8d48988d113951735,Gas Stations,76.0,"",76.0,4
+2020-03-31,Indiana,Fayette County,4d4b7105d754a06378d81259,Shops & Services,62.0,"",62.0,1
+2020-03-31,Indiana,Cass County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",64.0,1
+2020-03-31,Indiana,Cass County,4d4b7105d754a06374d81259,Food,51.0,"",51.0,2
+2020-03-31,Indiana,Morgan County,4d4b7105d754a06378d81259,Shops & Services,76.0,97.0,75.0,1
+2020-03-31,Indiana,Morgan County,4d4b7105d754a06375d81259,Professional & Other Places,59.0,"",59.0,2
+2020-03-31,Indiana,Morgan County,4d4b7105d754a06374d81259,Food,54.0,"",55.0,3
+2020-03-31,Indiana,Noble County,4d4b7105d754a06378d81259,Shops & Services,57.0,"",57.0,1
+2020-03-31,Indiana,Noble County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",42.0,2
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06378d81259,Shops & Services,56.0,54.0,57.0,1
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,35.0,44.0,2
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06374d81259,Food,43.0,32.0,44.0,3
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,64.0,65.0,4
+2020-03-31,Indiana,Saint Joseph County,52f2ab2ebcbc57f1066b8b46,Supermarkets,66.0,"",66.0,5
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06377d81259,Outdoors & Recreation,44.0,"",44.0,6
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d113951735,Gas Stations,59.0,"",59.0,7
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",54.0,8
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",45.0,9
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06379d81259,Travel & Transport,45.0,"",45.0,10
+2020-03-31,Indiana,Saint Joseph County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,"",64.0,11
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d112951735,Hardware Stores,93.0,"",93.0,12
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d10f951735,Pharmacies,74.0,"",74.0,13
+2020-03-31,Indiana,Saint Joseph County,4e67e38e036454776db1fb3a,Residences,64.0,"",65.0,14
+2020-03-31,Indiana,Saint Joseph County,4d4b7105d754a06376d81259,Nightlife Spots,31.0,"",31.0,15
+2020-03-31,Indiana,Saint Joseph County,4bf58dd8d48988d13b941735,Schools,28.0,"",28.0,16
+2020-03-31,Indiana,Steuben County,4d4b7105d754a06378d81259,Shops & Services,67.0,47.0,68.0,1
+2020-03-31,Indiana,Steuben County,4d4b7105d754a06374d81259,Food,53.0,"",53.0,2
+2020-03-31,Indiana,LaPorte County,4d4b7105d754a06378d81259,Shops & Services,51.0,44.0,51.0,1
+2020-03-31,Indiana,LaPorte County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,"",43.0,2
+2020-03-31,Indiana,LaPorte County,4d4b7105d754a06374d81259,Food,43.0,"",43.0,3
+2020-03-31,Indiana,LaPorte County,4d4b7105d754a06377d81259,Outdoors & Recreation,52.0,"",52.0,4
+2020-03-31,Indiana,LaPorte County,4bf58dd8d48988d1f9941735,Food & Drink Shops,61.0,"",61.0,5
+2020-03-31,Indiana,LaPorte County,4bf58dd8d48988d113951735,Gas Stations,49.0,"",49.0,6
+2020-03-31,Indiana,LaPorte County,4d4b7105d754a06379d81259,Travel & Transport,51.0,"",52.0,7
+2020-03-31,Indiana,LaPorte County,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,"",70.0,8
+2020-03-31,Indiana,Jasper County,4d4b7105d754a06378d81259,Shops & Services,78.0,"",79.0,1
+2020-03-31,Indiana,Jasper County,4bf58dd8d48988d113951735,Gas Stations,112.0,"",113.0,2
+2020-03-31,Indiana,Jasper County,4d4b7105d754a06374d81259,Food,53.0,"",54.0,3
+2020-03-31,Indiana,Lawrence County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Indiana,Lawrence County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",46.0,2
+2020-03-31,Indiana,Lawrence County,4d4b7105d754a06374d81259,Food,48.0,"",48.0,3
+2020-03-31,Indiana,Clinton County,4d4b7105d754a06378d81259,Shops & Services,53.0,"",53.0,1
+2020-03-31,Indiana,Clinton County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,2
+2020-03-31,Indiana,Hamilton County,4d4b7105d754a06378d81259,Shops & Services,54.0,52.0,54.0,1
+2020-03-31,Indiana,Hamilton County,4d4b7105d754a06374d81259,Food,39.0,32.0,40.0,2
+2020-03-31,Indiana,Hamilton County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,32.0,32.0,3
+2020-03-31,Indiana,Hamilton County,4d4b7105d754a06377d81259,Outdoors & Recreation,51.0,46.0,51.0,4
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,74.0,84.0,73.0,5
+2020-03-31,Indiana,Hamilton County,4e67e38e036454776db1fb3a,Residences,76.0,72.0,76.0,6
+2020-03-31,Indiana,Hamilton County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,79.0,75.0,7
+2020-03-31,Indiana,Hamilton County,4f2a210c4b9023bd5841ed28,Housing Developments,84.0,76.0,84.0,8
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",51.0,9
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,"",55.0,10
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d104941735,Medical Centers,34.0,"",34.0,11
+2020-03-31,Indiana,Hamilton County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,"",62.0,12
+2020-03-31,Indiana,Hamilton County,4f4528bc4b90abdf24c9de85,Athletics & Sports,28.0,"",28.0,13
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d112951735,Hardware Stores,89.0,"",88.0,14
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d10f951735,Pharmacies,75.0,"",76.0,15
+2020-03-31,Indiana,Hamilton County,4bf58dd8d48988d118951735,Grocery Stores,78.0,"",76.0,16
+2020-03-31,Indiana,Jackson County,4d4b7105d754a06378d81259,Shops & Services,58.0,"",59.0,1
+2020-03-31,Indiana,Jackson County,4d4b7105d754a06375d81259,Professional & Other Places,45.0,"",44.0,2
+2020-03-31,Indiana,Jackson County,4d4b7105d754a06374d81259,Food,46.0,"",47.0,3
+2020-03-31,Indiana,Elkhart County,4d4b7105d754a06378d81259,Shops & Services,60.0,50.0,61.0,1
+2020-03-31,Indiana,Elkhart County,4d4b7105d754a06375d81259,Professional & Other Places,36.0,41.0,36.0,2
+2020-03-31,Indiana,Elkhart County,4d4b7105d754a06374d81259,Food,42.0,37.0,42.0,3
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d1f9941735,Food & Drink Shops,77.0,"",78.0,4
+2020-03-31,Indiana,Elkhart County,4d4b7105d754a06377d81259,Outdoors & Recreation,48.0,"",47.0,5
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d113951735,Gas Stations,48.0,"",49.0,6
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d118951735,Grocery Stores,84.0,"",85.0,7
+2020-03-31,Indiana,Elkhart County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,7
+2020-03-31,Indiana,Elkhart County,4d4b7105d754a06379d81259,Travel & Transport,42.0,"",42.0,8
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d124941735,Offices,44.0,"",44.0,9
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d104941735,Medical Centers,35.0,"",35.0,10
+2020-03-31,Indiana,Elkhart County,52f2ab2ebcbc57f1066b8b46,Supermarkets,71.0,"",72.0,11
+2020-03-31,Indiana,Elkhart County,4bf58dd8d48988d16e941735,Fast Food Restaurants,43.0,"",44.0,12
+2020-03-31,Indiana,Elkhart County,4eb1bea83b7b6f98df247e06,Factories,26.0,"",26.0,13
+2020-03-31,Indiana,Madison County,4d4b7105d754a06378d81259,Shops & Services,65.0,56.0,66.0,1
+2020-03-31,Indiana,Madison County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",42.0,2
+2020-03-31,Indiana,Madison County,4d4b7105d754a06374d81259,Food,48.0,40.0,48.0,3
+2020-03-31,Indiana,Madison County,4bf58dd8d48988d1f9941735,Food & Drink Shops,74.0,"",75.0,4
+2020-03-31,Indiana,Madison County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",67.0,5
+2020-03-31,Indiana,Madison County,4d4b7105d754a06377d81259,Outdoors & Recreation,62.0,"",61.0,6
+2020-03-31,Indiana,Madison County,4bf58dd8d48988d16e941735,Fast Food Restaurants,48.0,"",48.0,7
+2020-03-31,Indiana,Marion County,4d4b7105d754a06378d81259,Shops & Services,54.0,46.0,55.0,1
+2020-03-31,Indiana,Marion County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,36.0,38.0,2
+2020-03-31,Indiana,Marion County,4d4b7105d754a06374d81259,Food,40.0,35.0,40.0,3
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,63.0,64.0,4
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d113951735,Gas Stations,59.0,54.0,59.0,5
+2020-03-31,Indiana,Marion County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,49.0,47.0,6
+2020-03-31,Indiana,Marion County,4e67e38e036454776db1fb3a,Residences,60.0,56.0,60.0,7
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d124941735,Offices,41.0,40.0,41.0,8
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d16e941735,Fast Food Restaurants,49.0,44.0,49.0,9
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d104941735,Medical Centers,36.0,26.0,37.0,10
+2020-03-31,Indiana,Marion County,4d4b7105d754a06379d81259,Travel & Transport,28.0,18.0,28.0,11
+2020-03-31,Indiana,Marion County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,60.0,67.0,12
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d118951735,Grocery Stores,62.0,72.0,62.0,13
+2020-03-31,Indiana,Marion County,4d4b7105d754a06376d81259,Nightlife Spots,28.0,33.0,28.0,14
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d112951735,Hardware Stores,76.0,66.0,77.0,15
+2020-03-31,Indiana,Marion County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),53.0,"",54.0,16
+2020-03-31,Indiana,Marion County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",61.0,17
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d131941735,Spiritual Centers,49.0,"",49.0,18
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d124951735,Automotive Shops,62.0,"",63.0,19
+2020-03-31,Indiana,Marion County,4f2a210c4b9023bd5841ed28,Housing Developments,69.0,"",69.0,20
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d10f951735,Pharmacies,58.0,56.0,58.0,21
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d13b941735,Schools,22.0,"",22.0,22
+2020-03-31,Indiana,Marion County,4f4528bc4b90abdf24c9de85,Athletics & Sports,28.0,"",28.0,23
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d116941735,Bars,27.0,"",26.0,24
+2020-03-31,Indiana,Marion County,4d4b7104d754a06370d81259,Arts & Entertainment,29.0,"",29.0,25
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d196941735,Hospitals,33.0,"",33.0,26
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1ed931735,Airports,25.0,"",26.0,27
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d126941735,Government Buildings,35.0,"",35.0,28
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1fa931735,Hotels,24.0,"",25.0,29
+2020-03-31,Indiana,Marion County,52dea92d3cf9994f4e043dbb,Discount Stores,59.0,"",59.0,29
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d163941735,Parks,66.0,"",66.0,30
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1c1941735,Mexican Restaurants,39.0,"",39.0,31
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d14e941735,American Restaurants,28.0,"",29.0,32
+2020-03-31,Indiana,Marion County,4d4b7105d754a06372d81259,Colleges & Universities,15.0,"",15.0,33
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d10a951735,Banks,46.0,"",46.0,34
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d186941735,Liquor Stores,63.0,"",63.0,35
+2020-03-31,Indiana,Marion County,52e816a6bcbc57f1066b7a54,Warehouse Stores,70.0,"",72.0,36
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1c5941735,Sandwich Places,55.0,"",55.0,37
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d177941735,Doctor's Offices,32.0,"",33.0,38
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,19.0,"",19.0,39
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d172941735,Post Offices,72.0,"",73.0,39
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1e0931735,Coffee Shops,36.0,"",36.0,40
+2020-03-31,Indiana,Marion County,4bf58dd8d48988d1ca941735,Pizza Places,38.0,"",38.0,41
+2020-03-31,Indiana,Marion County,4eb1bea83b7b6f98df247e06,Factories,56.0,"",55.0,42
+2020-03-31,Indiana,Marion County,4f4533804b9074f6e4fb0105,Elementary Schools,27.0,"",27.0,43
+2020-03-31,Indiana,Whitley County,4d4b7105d754a06378d81259,Shops & Services,62.0,"",61.0,1
+2020-03-31,Indiana,Whitley County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,"",44.0,2
+2020-03-31,Indiana,Whitley County,4d4b7105d754a06374d81259,Food,53.0,"",53.0,3
+2020-03-31,Indiana,Clay County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Indiana,Dearborn County,4d4b7105d754a06378d81259,Shops & Services,57.0,"",57.0,1
+2020-03-31,Indiana,Scott County,4d4b7105d754a06378d81259,Shops & Services,61.0,"",61.0,1
+2020-03-31,Indiana,Kosciusko County,4d4b7105d754a06378d81259,Shops & Services,58.0,51.0,59.0,1
+2020-03-31,Indiana,Kosciusko County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,"",43.0,2
+2020-03-31,Indiana,Kosciusko County,4d4b7105d754a06374d81259,Food,44.0,"",45.0,3
+2020-03-31,Indiana,Kosciusko County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,"",66.0,4
+2020-03-31,Indiana,Kosciusko County,4d4b7105d754a06377d81259,Outdoors & Recreation,52.0,"",52.0,5
+2020-03-31,Indiana,Howard County,4d4b7105d754a06378d81259,Shops & Services,50.0,38.0,51.0,1
+2020-03-31,Indiana,Howard County,4d4b7105d754a06374d81259,Food,41.0,"",42.0,2
+2020-03-31,Indiana,Howard County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,"",34.0,3
+2020-03-31,Indiana,Howard County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,"",64.0,4
+2020-03-31,Indiana,Howard County,4bf58dd8d48988d113951735,Gas Stations,49.0,"",50.0,5
+2020-03-31,Indiana,Howard County,4d4b7105d754a06377d81259,Outdoors & Recreation,48.0,"",50.0,6
+2020-03-31,Indiana,Howard County,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,"",70.0,7
+2020-03-31,Indiana,Knox County,4d4b7105d754a06378d81259,Shops & Services,59.0,"",59.0,1
+2020-03-31,Indiana,Knox County,4d4b7105d754a06374d81259,Food,48.0,"",48.0,2
+2020-03-31,Indiana,Knox County,4d4b7105d754a06375d81259,Professional & Other Places,57.0,"",57.0,3
+2020-03-31,Indiana,Gibson County,4d4b7105d754a06378d81259,Shops & Services,63.0,"",63.0,1
+2020-03-31,Indiana,Gibson County,4d4b7105d754a06374d81259,Food,53.0,"",53.0,2
+2020-03-31,Indiana,Jefferson County,4d4b7105d754a06378d81259,Shops & Services,63.0,"",63.0,1
+2020-03-31,Indiana,Jefferson County,4d4b7105d754a06375d81259,Professional & Other Places,55.0,"",55.0,2
+2020-03-31,Indiana,Wabash County,4d4b7105d754a06378d81259,Shops & Services,58.0,"",58.0,1
+2020-03-31,Indiana,Wabash County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,2
+2020-03-31,Indiana,Porter County,4d4b7105d754a06378d81259,Shops & Services,57.0,46.0,57.0,1
+2020-03-31,Indiana,Porter County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,35.0,44.0,2
+2020-03-31,Indiana,Porter County,4d4b7105d754a06374d81259,Food,43.0,32.0,44.0,3
+2020-03-31,Indiana,Porter County,4bf58dd8d48988d1f9941735,Food & Drink Shops,73.0,65.0,73.0,4
+2020-03-31,Indiana,Porter County,4d4b7105d754a06377d81259,Outdoors & Recreation,57.0,47.0,58.0,5
+2020-03-31,Indiana,Porter County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",59.0,6
+2020-03-31,Indiana,Porter County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,7
+2020-03-31,Indiana,Porter County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",54.0,8
+2020-03-31,Indiana,Porter County,4d4b7105d754a06379d81259,Travel & Transport,50.0,"",51.0,9
+2020-03-31,Indiana,Porter County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,53.0,"",53.0,10
+2020-03-31,Indiana,Porter County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",46.0,10
+2020-03-31,Indiana,Porter County,4eb1bea83b7b6f98df247e06,Factories,75.0,"",75.0,11
+2020-03-31,Indiana,Shelby County,4d4b7105d754a06378d81259,Shops & Services,59.0,"",59.0,1
+2020-03-31,Indiana,Shelby County,4d4b7105d754a06375d81259,Professional & Other Places,52.0,"",52.0,2
+2020-03-31,Indiana,Tippecanoe County,4d4b7105d754a06378d81259,Shops & Services,49.0,42.0,49.0,1
+2020-03-31,Indiana,Tippecanoe County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,30.0,34.0,2
+2020-03-31,Indiana,Tippecanoe County,4d4b7105d754a06374d81259,Food,37.0,"",38.0,3
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d1f9941735,Food & Drink Shops,58.0,"",58.0,4
+2020-03-31,Indiana,Tippecanoe County,4d4b7105d754a06377d81259,Outdoors & Recreation,51.0,"",52.0,5
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",51.0,6
+2020-03-31,Indiana,Tippecanoe County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",67.0,7
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",54.0,8
+2020-03-31,Indiana,Tippecanoe County,4d4b7105d754a06372d81259,Colleges & Universities,11.0,"",10.0,9
+2020-03-31,Indiana,Tippecanoe County,52f2ab2ebcbc57f1066b8b46,Supermarkets,62.0,"",62.0,10
+2020-03-31,Indiana,Tippecanoe County,4e67e38e036454776db1fb3a,Residences,53.0,"",53.0,11
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d104941735,Medical Centers,28.0,"",28.0,12
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d10f951735,Pharmacies,53.0,"",54.0,13
+2020-03-31,Indiana,Tippecanoe County,4bf58dd8d48988d112951735,Hardware Stores,83.0,"",83.0,14
+2020-03-31,Indiana,DeKalb County,4d4b7105d754a06378d81259,Shops & Services,69.0,62.0,69.0,1
+2020-03-31,Indiana,DeKalb County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,"",43.0,2
+2020-03-31,Indiana,DeKalb County,4d4b7105d754a06374d81259,Food,42.0,"",43.0,3
+2020-03-31,Indiana,Delaware County,4d4b7105d754a06378d81259,Shops & Services,57.0,53.0,57.0,1
+2020-03-31,Indiana,Delaware County,4d4b7105d754a06374d81259,Food,42.0,"",42.0,2
+2020-03-31,Indiana,Delaware County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,"",34.0,3
+2020-03-31,Indiana,Delaware County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,4
+2020-03-31,Indiana,Delaware County,4bf58dd8d48988d1f9941735,Food & Drink Shops,87.0,"",87.0,5
+2020-03-31,Indiana,Delaware County,4d4b7105d754a06377d81259,Outdoors & Recreation,54.0,"",54.0,6
+2020-03-31,Indiana,Delaware County,4bf58dd8d48988d118951735,Grocery Stores,116.0,"",115.0,7
+2020-03-31,Indiana,Wells County,4d4b7105d754a06378d81259,Shops & Services,71.0,"",72.0,1
+2020-03-31,Indiana,Wells County,4d4b7105d754a06375d81259,Professional & Other Places,61.0,"",61.0,2
+2020-03-31,Indiana,Jay County,4d4b7105d754a06378d81259,Shops & Services,63.0,"",63.0,1
+2020-03-31,Indiana,Washington County,4d4b7105d754a06378d81259,Shops & Services,73.0,"",74.0,1
+2020-03-31,Indiana,Lake County,4d4b7105d754a06378d81259,Shops & Services,55.0,48.0,55.0,1
+2020-03-31,Indiana,Lake County,4d4b7105d754a06375d81259,Professional & Other Places,43.0,36.0,43.0,2
+2020-03-31,Indiana,Lake County,4d4b7105d754a06374d81259,Food,44.0,31.0,44.0,3
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d113951735,Gas Stations,60.0,54.0,60.0,4
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,56.0,63.0,5
+2020-03-31,Indiana,Lake County,4d4b7105d754a06377d81259,Outdoors & Recreation,45.0,42.0,45.0,6
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d16e941735,Fast Food Restaurants,51.0,38.0,51.0,7
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d118951735,Grocery Stores,67.0,58.0,67.0,8
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d104941735,Medical Centers,37.0,31.0,38.0,9
+2020-03-31,Indiana,Lake County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",62.0,10
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d124941735,Offices,62.0,"",63.0,11
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d112951735,Hardware Stores,75.0,66.0,76.0,12
+2020-03-31,Indiana,Lake County,52f2ab2ebcbc57f1066b8b46,Supermarkets,60.0,58.0,61.0,13
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d10f951735,Pharmacies,52.0,"",54.0,14
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d13b941735,Schools,25.0,"",25.0,15
+2020-03-31,Indiana,Lake County,4d4b7105d754a06376d81259,Nightlife Spots,38.0,"",38.0,16
+2020-03-31,Indiana,Lake County,4eb1bea83b7b6f98df247e06,Factories,71.0,"",71.0,17
+2020-03-31,Indiana,Lake County,4d4b7105d754a06379d81259,Travel & Transport,38.0,"",39.0,18
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d131941735,Spiritual Centers,41.0,"",41.0,19
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d124951735,Automotive Shops,64.0,"",64.0,20
+2020-03-31,Indiana,Lake County,4d4b7104d754a06370d81259,Arts & Entertainment,29.0,"",29.0,21
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d196941735,Hospitals,36.0,"",36.0,22
+2020-03-31,Indiana,Lake County,52dea92d3cf9994f4e043dbb,Discount Stores,53.0,"",53.0,23
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d116941735,Bars,29.0,"",30.0,24
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d177941735,Doctor's Offices,36.0,"",37.0,25
+2020-03-31,Indiana,Lake County,4f4528bc4b90abdf24c9de85,Athletics & Sports,24.0,"",24.0,25
+2020-03-31,Indiana,Lake County,4e67e38e036454776db1fb3a,Residences,61.0,"",60.0,26
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d10a951735,Banks,45.0,"",46.0,27
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d1c1941735,Mexican Restaurants,43.0,"",43.0,28
+2020-03-31,Indiana,Lake County,4d954b0ea243a5684a65b473,Convenience Stores,55.0,"",54.0,29
+2020-03-31,Indiana,Lake County,52e816a6bcbc57f1066b7a54,Warehouse Stores,100.0,"",100.0,30
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d1ca941735,Pizza Places,38.0,"",38.0,31
+2020-03-31,Indiana,Lake County,4bf58dd8d48988d13d941735,High Schools,25.0,"",25.0,32
+2020-03-31,Indiana,Randolph County,4d4b7105d754a06378d81259,Shops & Services,78.0,"",79.0,1
+2020-03-31,Indiana,LaGrange County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",71.0,1
+2020-03-31,Indiana,Warrick County,4d4b7105d754a06378d81259,Shops & Services,95.0,70.0,97.0,1
+2020-03-31,Indiana,Warrick County,4d4b7105d754a06375d81259,Professional & Other Places,52.0,"",52.0,2
+2020-03-31,Indiana,Warrick County,4d4b7105d754a06374d81259,Food,59.0,"",60.0,3
+2020-03-31,Indiana,White County,4d4b7105d754a06378d81259,Shops & Services,52.0,"",53.0,1
+2020-03-31,Indiana,Decatur County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Indiana,Grant County,4d4b7105d754a06378d81259,Shops & Services,51.0,48.0,51.0,1
+2020-03-31,Indiana,Grant County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,2
+2020-03-31,Indiana,Grant County,4d4b7105d754a06374d81259,Food,42.0,"",42.0,3
+2020-03-31,Indiana,Miami County,4d4b7105d754a06378d81259,Shops & Services,56.0,"",55.0,1
+2020-03-31,Indiana,Hancock County,4d4b7105d754a06378d81259,Shops & Services,63.0,59.0,63.0,1
+2020-03-31,Indiana,Hancock County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,"",39.0,2
+2020-03-31,Indiana,Hancock County,4d4b7105d754a06374d81259,Food,39.0,"",39.0,3
+2020-03-31,Indiana,Hancock County,4bf58dd8d48988d1f9941735,Food & Drink Shops,92.0,"",93.0,4
+2020-03-31,Indiana,Floyd County,4d4b7105d754a06378d81259,Shops & Services,67.0,54.0,67.0,1
+2020-03-31,Indiana,Floyd County,4d4b7105d754a06374d81259,Food,51.0,"",52.0,2
+2020-03-31,Indiana,Floyd County,4d4b7105d754a06375d81259,Professional & Other Places,49.0,"",49.0,3
+2020-03-31,Indiana,Floyd County,4bf58dd8d48988d1f9941735,Food & Drink Shops,74.0,"",75.0,4
+2020-03-31,Indiana,Floyd County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",73.0,5
+2020-03-31,Indiana,Floyd County,52f2ab2ebcbc57f1066b8b46,Supermarkets,77.0,"",78.0,6
+2020-03-31,Indiana,Floyd County,4bf58dd8d48988d1fd941735,Shopping Malls,58.0,"",58.0,7
+2020-03-31,Indiana,Floyd County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,"",49.0,8
+2020-03-31,Indiana,Adams County,4d4b7105d754a06378d81259,Shops & Services,62.0,"",62.0,1
+2020-03-31,Indiana,Dubois County,4d4b7105d754a06378d81259,Shops & Services,65.0,"",66.0,1
+2020-03-31,Indiana,Dubois County,4d4b7105d754a06374d81259,Food,56.0,"",56.0,2
+2020-03-31,Indiana,Dubois County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,"",48.0,3
+2020-03-31,Indiana,Putnam County,4d4b7105d754a06378d81259,Shops & Services,56.0,"",56.0,1
+2020-03-31,Indiana,Vermillion County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",69.0,1
+2020-03-31,Indiana,Johnson County,4d4b7105d754a06378d81259,Shops & Services,60.0,48.0,60.0,1
+2020-03-31,Indiana,Johnson County,4d4b7105d754a06375d81259,Professional & Other Places,47.0,47.0,47.0,2
+2020-03-31,Indiana,Johnson County,4d4b7105d754a06374d81259,Food,48.0,43.0,48.0,3
+2020-03-31,Indiana,Johnson County,4bf58dd8d48988d1f9941735,Food & Drink Shops,82.0,"",83.0,4
+2020-03-31,Indiana,Johnson County,4bf58dd8d48988d113951735,Gas Stations,60.0,"",61.0,5
+2020-03-31,Indiana,Johnson County,4d4b7105d754a06377d81259,Outdoors & Recreation,64.0,"",64.0,5
+2020-03-31,Indiana,Johnson County,52f2ab2ebcbc57f1066b8b46,Supermarkets,83.0,"",84.0,6
+2020-03-31,Indiana,Johnson County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,"",68.0,7
+2020-03-31,Indiana,Johnson County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",61.0,8
+2020-03-31,Indiana,Bartholomew County,4d4b7105d754a06378d81259,Shops & Services,60.0,43.0,61.0,1
+2020-03-31,Indiana,Bartholomew County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,"",36.0,2
+2020-03-31,Indiana,Bartholomew County,4d4b7105d754a06374d81259,Food,41.0,"",41.0,3
+2020-03-31,Indiana,Bartholomew County,4d4b7105d754a06377d81259,Outdoors & Recreation,53.0,"",53.0,4
+2020-03-31,Indiana,Daviess County,4d4b7105d754a06378d81259,Shops & Services,71.0,"",71.0,1
+2020-03-31,Indiana,Daviess County,4d4b7105d754a06374d81259,Food,54.0,"",55.0,2
+2020-03-31,Indiana,Henry County,4d4b7105d754a06378d81259,Shops & Services,59.0,"",60.0,1
+2020-03-31,Indiana,Henry County,4d4b7105d754a06374d81259,Food,59.0,"",59.0,2
+2020-03-31,Indiana,Henry County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",43.0,3
+2020-03-31,Indiana,Monroe County,4d4b7105d754a06378d81259,Shops & Services,57.0,36.0,58.0,1
+2020-03-31,Indiana,Monroe County,4d4b7105d754a06375d81259,Professional & Other Places,40.0,"",40.0,2
+2020-03-31,Indiana,Monroe County,4d4b7105d754a06374d81259,Food,42.0,"",42.0,3
+2020-03-31,Indiana,Monroe County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,"",69.0,4
+2020-03-31,Indiana,Monroe County,4d4b7105d754a06377d81259,Outdoors & Recreation,45.0,"",45.0,5
+2020-03-31,Indiana,Jennings County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",60.0,1
+2020-03-31,Indiana,Marshall County,4d4b7105d754a06378d81259,Shops & Services,61.0,76.0,61.0,1
+2020-03-31,Indiana,Marshall County,4d4b7105d754a06374d81259,Food,46.0,"",46.0,2
+2020-03-31,Indiana,Marshall County,4d4b7105d754a06375d81259,Professional & Other Places,40.0,"",39.0,3
+2020-03-31,Indiana,Hendricks County,4d4b7105d754a06378d81259,Shops & Services,58.0,56.0,58.0,1
+2020-03-31,Indiana,Hendricks County,4d4b7105d754a06375d81259,Professional & Other Places,48.0,41.0,49.0,2
+2020-03-31,Indiana,Hendricks County,4d4b7105d754a06374d81259,Food,44.0,42.0,44.0,3
+2020-03-31,Indiana,Hendricks County,4bf58dd8d48988d1f9941735,Food & Drink Shops,68.0,"",68.0,4
+2020-03-31,Indiana,Hendricks County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,"",70.0,5
+2020-03-31,Indiana,Hendricks County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,6
+2020-03-31,Indiana,Hendricks County,4d4b7105d754a06377d81259,Outdoors & Recreation,54.0,"",54.0,7
+2020-03-31,Indiana,Hendricks County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,8
+2020-03-31,Indiana,Hendricks County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",54.0,9
+2020-03-31,Indiana,Hendricks County,4bf58dd8d48988d104941735,Medical Centers,49.0,"",49.0,10
+2020-03-31,Indiana,Hendricks County,4e67e38e036454776db1fb3a,Residences,68.0,"",68.0,11
+2020-03-31,Indiana,Hendricks County,4bf58dd8d48988d112951735,Hardware Stores,89.0,"",90.0,12
+2020-03-31,Indiana,Harrison County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",69.0,1
+2020-03-31,Indiana,Huntington County,4d4b7105d754a06378d81259,Shops & Services,58.0,"",58.0,1
+2020-03-31,Indiana,Huntington County,4d4b7105d754a06375d81259,Professional & Other Places,51.0,"",51.0,2
+2020-03-31,Indiana,Wayne County,4d4b7105d754a06378d81259,Shops & Services,55.0,51.0,55.0,1
+2020-03-31,Indiana,Wayne County,4d4b7105d754a06375d81259,Professional & Other Places,42.0,"",42.0,2
+2020-03-31,Indiana,Wayne County,4d4b7105d754a06374d81259,Food,44.0,"",45.0,3
+2020-03-31,Indiana,Vanderburgh County,4d4b7105d754a06378d81259,Shops & Services,59.0,52.0,60.0,1
+2020-03-31,Indiana,Vanderburgh County,4d4b7105d754a06375d81259,Professional & Other Places,44.0,38.0,44.0,2
+2020-03-31,Indiana,Vanderburgh County,4d4b7105d754a06374d81259,Food,44.0,30.0,45.0,3
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d1f9941735,Food & Drink Shops,81.0,73.0,81.0,4
+2020-03-31,Indiana,Vanderburgh County,4d4b7105d754a06377d81259,Outdoors & Recreation,58.0,"",59.0,5
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d118951735,Grocery Stores,96.0,"",96.0,6
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d16e941735,Fast Food Restaurants,62.0,"",63.0,7
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d104941735,Medical Centers,40.0,"",41.0,8
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d113951735,Gas Stations,53.0,"",53.0,9
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d112951735,Hardware Stores,96.0,"",97.0,10
+2020-03-31,Indiana,Vanderburgh County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",66.0,11
+2020-03-31,Indiana,Vanderburgh County,4bf58dd8d48988d10f951735,Pharmacies,92.0,"",92.0,12
+2020-03-31,Indiana,Vanderburgh County,4d4b7105d754a06376d81259,Nightlife Spots,42.0,"",42.0,13
+2020-03-31,Indiana,Allen County,4d4b7105d754a06378d81259,Shops & Services,52.0,42.0,52.0,1
+2020-03-31,Indiana,Allen County,4d4b7105d754a06375d81259,Professional & Other Places,37.0,39.0,36.0,2
+2020-03-31,Indiana,Allen County,4d4b7105d754a06374d81259,Food,39.0,35.0,39.0,3
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d1f9941735,Food & Drink Shops,58.0,48.0,58.0,4
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d113951735,Gas Stations,58.0,42.0,59.0,5
+2020-03-31,Indiana,Allen County,4d4b7105d754a06377d81259,Outdoors & Recreation,44.0,43.0,44.0,6
+2020-03-31,Indiana,Allen County,52f2ab2ebcbc57f1066b8b46,Supermarkets,58.0,51.0,58.0,7
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,"",52.0,8
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d104941735,Medical Centers,32.0,31.0,32.0,9
+2020-03-31,Indiana,Allen County,4e67e38e036454776db1fb3a,Residences,68.0,"",68.0,10
+2020-03-31,Indiana,Allen County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,56.0,"",56.0,11
+2020-03-31,Indiana,Allen County,4d4b7105d754a06376d81259,Nightlife Spots,41.0,"",40.0,12
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d112951735,Hardware Stores,80.0,"",80.0,13
+2020-03-31,Indiana,Allen County,4f2a210c4b9023bd5841ed28,Housing Developments,85.0,"",85.0,14
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d116941735,Bars,38.0,"",38.0,15
+2020-03-31,Indiana,Allen County,4d4b7105d754a06379d81259,Travel & Transport,40.0,"",40.0,16
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d124941735,Offices,49.0,"",50.0,17
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d13b941735,Schools,24.0,"",23.0,18
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d124951735,Automotive Shops,60.0,"",60.0,19
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d131941735,Spiritual Centers,39.0,"",39.0,20
+2020-03-31,Indiana,Allen County,4bf58dd8d48988d118951735,Grocery Stores,56.0,"",56.0,21
+2020-03-31,Indiana,Montgomery County,4d4b7105d754a06378d81259,Shops & Services,60.0,"",61.0,1
+2020-03-31,Indiana,Montgomery County,4d4b7105d754a06375d81259,Professional & Other Places,54.0,"",54.0,2
+2020-03-31,Indiana,Montgomery County,4d4b7105d754a06374d81259,Food,60.0,"",61.0,3

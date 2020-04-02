@@ -20906,3 +20906,379 @@
 2020-03-30,,Genesee County,4bf58dd8d48988d112951735,Hardware Stores,73.0,"",74.0,13
 2020-03-30,,Genesee County,4bf58dd8d48988d131941735,Spiritual Centers,47.0,"",47.0,14
 2020-03-30,,Genesee County,4bf58dd8d48988d13b941735,Schools,24.0,"",24.0,15
+2020-03-31,Michigan,Calhoun County,4d4b7105d754a06378d81259,Shops & Services,56.0,48.0,57.0,1
+2020-03-31,Michigan,Calhoun County,4d4b7105d754a06375d81259,Professional & Other Places,40.0,37.0,40.0,2
+2020-03-31,Michigan,Calhoun County,4d4b7105d754a06374d81259,Food,47.0,36.0,48.0,3
+2020-03-31,Michigan,Calhoun County,4bf58dd8d48988d113951735,Gas Stations,61.0,"",61.0,4
+2020-03-31,Michigan,Calhoun County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,"",65.0,5
+2020-03-31,Michigan,Calhoun County,4bf58dd8d48988d16e941735,Fast Food Restaurants,65.0,"",66.0,6
+2020-03-31,Michigan,Calhoun County,4bf58dd8d48988d104941735,Medical Centers,41.0,"",42.0,7
+2020-03-31,Michigan,Calhoun County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",65.0,8
+2020-03-31,Michigan,Calhoun County,4d4b7105d754a06377d81259,Outdoors & Recreation,42.0,"",42.0,9
+2020-03-31,Michigan,Barry County,4d4b7105d754a06378d81259,Shops & Services,64.0,"",64.0,1
+2020-03-31,Michigan,Barry County,4d4b7105d754a06377d81259,Outdoors & Recreation,76.0,"",77.0,2
+2020-03-31,Michigan,Barry County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,"",35.0,3
+2020-03-31,Michigan,Dickinson County,4d4b7105d754a06378d81259,Shops & Services,56.0,"",56.0,1
+2020-03-31,Michigan,Macomb County,4d4b7105d754a06378d81259,Shops & Services,46.0,36.0,46.0,1
+2020-03-31,Michigan,Macomb County,4d4b7105d754a06375d81259,Professional & Other Places,27.0,28.0,27.0,2
+2020-03-31,Michigan,Macomb County,4d4b7105d754a06374d81259,Food,34.0,29.0,34.0,3
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d1f9941735,Food & Drink Shops,58.0,46.0,59.0,4
+2020-03-31,Michigan,Macomb County,52f2ab2ebcbc57f1066b8b46,Supermarkets,59.0,48.0,60.0,5
+2020-03-31,Michigan,Macomb County,4d4b7105d754a06377d81259,Outdoors & Recreation,41.0,36.0,41.0,6
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d113951735,Gas Stations,46.0,37.0,46.0,7
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d104941735,Medical Centers,32.0,27.0,33.0,8
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d16e941735,Fast Food Restaurants,41.0,38.0,41.0,9
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d10f951735,Pharmacies,62.0,50.0,63.0,10
+2020-03-31,Michigan,Macomb County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,11
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d112951735,Hardware Stores,66.0,"",67.0,12
+2020-03-31,Michigan,Macomb County,4d4b7105d754a06376d81259,Nightlife Spots,30.0,"",30.0,13
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d13b941735,Schools,18.0,"",18.0,14
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d118951735,Grocery Stores,59.0,"",60.0,15
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d124941735,Offices,25.0,"",25.0,16
+2020-03-31,Michigan,Macomb County,4e67e38e036454776db1fb3a,Residences,49.0,"",49.0,17
+2020-03-31,Michigan,Macomb County,4d954b0ea243a5684a65b473,Convenience Stores,43.0,"",43.0,17
+2020-03-31,Michigan,Macomb County,4f4528bc4b90abdf24c9de85,Athletics & Sports,22.0,"",22.0,18
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d116941735,Bars,29.0,"",29.0,19
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d1e0931735,Coffee Shops,36.0,"",36.0,20
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d163941735,Parks,79.0,"",79.0,21
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d124951735,Automotive Shops,40.0,"",40.0,22
+2020-03-31,Michigan,Macomb County,4d4b7104d754a06370d81259,Arts & Entertainment,27.0,"",27.0,23
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d10a951735,Banks,42.0,"",43.0,24
+2020-03-31,Michigan,Macomb County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),56.0,"",57.0,25
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d186941735,Liquor Stores,53.0,"",53.0,25
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d1ca941735,Pizza Places,38.0,"",38.0,26
+2020-03-31,Michigan,Macomb County,4f4533804b9074f6e4fb0105,Elementary Schools,20.0,"",19.0,27
+2020-03-31,Michigan,Macomb County,52e816a6bcbc57f1066b7a54,Warehouse Stores,61.0,"",61.0,28
+2020-03-31,Michigan,Macomb County,52dea92d3cf9994f4e043dbb,Discount Stores,48.0,"",48.0,29
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d131941735,Spiritual Centers,29.0,"",29.0,30
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d177941735,Doctor's Offices,23.0,"",23.0,31
+2020-03-31,Michigan,Macomb County,4bf58dd8d48988d126941735,Government Buildings,29.0,"",29.0,32
+2020-03-31,Michigan,Macomb County,4eb1bea83b7b6f98df247e06,Factories,18.0,"",18.0,33
+2020-03-31,Michigan,Lapeer County,4d4b7105d754a06378d81259,Shops & Services,55.0,58.0,55.0,1
+2020-03-31,Michigan,Lapeer County,4d4b7105d754a06374d81259,Food,47.0,"",48.0,2
+2020-03-31,Michigan,Lapeer County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,"",32.0,3
+2020-03-31,Michigan,Lapeer County,4bf58dd8d48988d1f9941735,Food & Drink Shops,80.0,"",80.0,4
+2020-03-31,Michigan,Lapeer County,4d4b7105d754a06377d81259,Outdoors & Recreation,59.0,"",60.0,5
+2020-03-31,Michigan,Lapeer County,52f2ab2ebcbc57f1066b8b46,Supermarkets,86.0,"",87.0,6
+2020-03-31,Michigan,Chippewa County,4d4b7105d754a06378d81259,Shops & Services,51.0,"",52.0,1
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06378d81259,Shops & Services,41.0,36.0,41.0,1
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06375d81259,Professional & Other Places,25.0,24.0,25.0,2
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06374d81259,Food,27.0,21.0,27.0,3
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d1f9941735,Food & Drink Shops,59.0,53.0,59.0,4
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06377d81259,Outdoors & Recreation,36.0,34.0,36.0,5
+2020-03-31,Michigan,Oakland County,52f2ab2ebcbc57f1066b8b46,Supermarkets,61.0,54.0,61.0,6
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d104941735,Medical Centers,31.0,18.0,31.0,7
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d113951735,Gas Stations,39.0,36.0,39.0,8
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d16e941735,Fast Food Restaurants,37.0,28.0,37.0,9
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d10f951735,Pharmacies,55.0,49.0,55.0,10
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d118951735,Grocery Stores,54.0,49.0,55.0,11
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d124941735,Offices,18.0,23.0,18.0,12
+2020-03-31,Michigan,Oakland County,4e67e38e036454776db1fb3a,Residences,47.0,45.0,47.0,13
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d112951735,Hardware Stores,56.0,55.0,56.0,14
+2020-03-31,Michigan,Oakland County,4f4528bc4b90abdf24c9de85,Athletics & Sports,19.0,"",19.0,15
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d13b941735,Schools,16.0,27.0,16.0,16
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06376d81259,Nightlife Spots,29.0,"",29.0,17
+2020-03-31,Michigan,Oakland County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,55.0,"",56.0,18
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d161941735,Lakes,62.0,"",63.0,19
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d131941735,Spiritual Centers,35.0,40.0,34.0,20
+2020-03-31,Michigan,Oakland County,52e816a6bcbc57f1066b7a54,Warehouse Stores,58.0,47.0,59.0,21
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d196941735,Hospitals,34.0,"",34.0,22
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d1e0931735,Coffee Shops,30.0,"",30.0,23
+2020-03-31,Michigan,Oakland County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),44.0,"",44.0,24
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d177941735,Doctor's Offices,24.0,"",25.0,24
+2020-03-31,Michigan,Oakland County,4d4b7104d754a06370d81259,Arts & Entertainment,26.0,"",26.0,25
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d116941735,Bars,26.0,"",26.0,26
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d163941735,Parks,58.0,"",57.0,27
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d10a951735,Banks,46.0,"",46.0,28
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d124951735,Automotive Shops,36.0,"",36.0,29
+2020-03-31,Michigan,Oakland County,4d4b7105d754a06379d81259,Travel & Transport,11.0,"",10.0,30
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d186941735,Liquor Stores,52.0,"",53.0,31
+2020-03-31,Michigan,Oakland County,4f4533804b9074f6e4fb0105,Elementary Schools,22.0,"",22.0,32
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d172941735,Post Offices,60.0,"",60.0,33
+2020-03-31,Michigan,Oakland County,4d954b0ea243a5684a65b473,Convenience Stores,44.0,"",44.0,34
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,11.0,"",12.0,35
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d1ca941735,Pizza Places,34.0,"",34.0,36
+2020-03-31,Michigan,Oakland County,52dea92d3cf9994f4e043dbb,Discount Stores,51.0,"",52.0,37
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d14e941735,American Restaurants,19.0,"",19.0,37
+2020-03-31,Michigan,Oakland County,4bf58dd8d48988d142941735,Asian Restaurants,21.0,"",22.0,38
+2020-03-31,Michigan,Oakland County,4f2a210c4b9023bd5841ed28,Housing Developments,45.0,"",45.0,39
+2020-03-31,Michigan,Oceana County,4d4b7105d754a06378d81259,Shops & Services,70.0,"",71.0,1
+2020-03-31,Michigan,Kent County,4d4b7105d754a06378d81259,Shops & Services,50.0,43.0,50.0,1
+2020-03-31,Michigan,Kent County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,34.0,35.0,2
+2020-03-31,Michigan,Kent County,4d4b7105d754a06374d81259,Food,36.0,28.0,36.0,3
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,56.0,65.0,4
+2020-03-31,Michigan,Kent County,4d4b7105d754a06377d81259,Outdoors & Recreation,45.0,48.0,45.0,5
+2020-03-31,Michigan,Kent County,52f2ab2ebcbc57f1066b8b46,Supermarkets,66.0,65.0,66.0,6
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d113951735,Gas Stations,51.0,46.0,51.0,7
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d104941735,Medical Centers,32.0,28.0,32.0,8
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d10f951735,Pharmacies,66.0,68.0,66.0,9
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d16e941735,Fast Food Restaurants,47.0,42.0,47.0,10
+2020-03-31,Michigan,Kent County,4e67e38e036454776db1fb3a,Residences,59.0,72.0,58.0,11
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d124941735,Offices,35.0,42.0,34.0,12
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d112951735,Hardware Stores,68.0,52.0,69.0,13
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d118951735,Grocery Stores,64.0,"",65.0,14
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d131941735,Spiritual Centers,47.0,"",47.0,15
+2020-03-31,Michigan,Kent County,4d4b7105d754a06379d81259,Travel & Transport,20.0,"",20.0,15
+2020-03-31,Michigan,Kent County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,68.0,"",68.0,16
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,17
+2020-03-31,Michigan,Kent County,4f4528bc4b90abdf24c9de85,Athletics & Sports,23.0,"",23.0,18
+2020-03-31,Michigan,Kent County,4d4b7104d754a06370d81259,Arts & Entertainment,37.0,"",37.0,19
+2020-03-31,Michigan,Kent County,4eb1bea83b7b6f98df247e06,Factories,43.0,"",43.0,20
+2020-03-31,Michigan,Kent County,4d4b7105d754a06376d81259,Nightlife Spots,25.0,"",25.0,21
+2020-03-31,Michigan,Kent County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),58.0,"",58.0,22
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d124951735,Automotive Shops,46.0,"",47.0,23
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d163941735,Parks,63.0,"",62.0,24
+2020-03-31,Michigan,Kent County,52dea92d3cf9994f4e043dbb,Discount Stores,64.0,"",65.0,25
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d10a951735,Banks,63.0,"",62.0,26
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d1e0931735,Coffee Shops,37.0,"",37.0,27
+2020-03-31,Michigan,Kent County,4f2a210c4b9023bd5841ed28,Housing Developments,61.0,"",59.0,28
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d196941735,Hospitals,35.0,"",35.0,29
+2020-03-31,Michigan,Kent County,52e816a6bcbc57f1066b7a54,Warehouse Stores,80.0,90.0,80.0,30
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d116941735,Bars,21.0,"",21.0,31
+2020-03-31,Michigan,Kent County,4bf58dd8d48988d177941735,Doctor's Offices,28.0,"",28.0,32
+2020-03-31,Michigan,Marquette County,4d4b7105d754a06378d81259,Shops & Services,53.0,52.0,54.0,1
+2020-03-31,Michigan,Delta County,4d4b7105d754a06378d81259,Shops & Services,48.0,"",48.0,1
+2020-03-31,Michigan,Ogemaw County,4d4b7105d754a06378d81259,Shops & Services,55.0,"",56.0,1
+2020-03-31,Michigan,Ionia County,4d4b7105d754a06378d81259,Shops & Services,68.0,70.0,68.0,1
+2020-03-31,Michigan,Ionia County,4d4b7105d754a06375d81259,Professional & Other Places,50.0,"",50.0,2
+2020-03-31,Michigan,Ionia County,4d4b7105d754a06374d81259,Food,46.0,"",46.0,3
+2020-03-31,Michigan,Huron County,4d4b7105d754a06378d81259,Shops & Services,58.0,"",58.0,1
+2020-03-31,Michigan,Lenawee County,4d4b7105d754a06378d81259,Shops & Services,49.0,49.0,49.0,1
+2020-03-31,Michigan,Lenawee County,4d4b7105d754a06374d81259,Food,43.0,"",43.0,2
+2020-03-31,Michigan,Lenawee County,4d4b7105d754a06375d81259,Professional & Other Places,34.0,"",34.0,3
+2020-03-31,Michigan,Lenawee County,4bf58dd8d48988d1f9941735,Food & Drink Shops,55.0,"",54.0,4
+2020-03-31,Michigan,Emmet County,4d4b7105d754a06378d81259,Shops & Services,45.0,44.0,45.0,1
+2020-03-31,Michigan,Osceola County,4d4b7105d754a06378d81259,Shops & Services,66.0,"",66.0,1
+2020-03-31,Michigan,Montcalm County,4d4b7105d754a06378d81259,Shops & Services,75.0,66.0,76.0,1
+2020-03-31,Michigan,Montcalm County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,"",41.0,2
+2020-03-31,Michigan,Montcalm County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",83.0,3
+2020-03-31,Michigan,Montcalm County,4d4b7105d754a06374d81259,Food,47.0,"",47.0,4
+2020-03-31,Michigan,Montcalm County,4bf58dd8d48988d1f9941735,Food & Drink Shops,83.0,"",83.0,5
+2020-03-31,Michigan,Genesee County,4d4b7105d754a06378d81259,Shops & Services,52.0,48.0,52.0,1
+2020-03-31,Michigan,Genesee County,4d4b7105d754a06375d81259,Professional & Other Places,30.0,29.0,30.0,2
+2020-03-31,Michigan,Genesee County,4d4b7105d754a06374d81259,Food,39.0,33.0,39.0,3
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,70.0,64.0,4
+2020-03-31,Michigan,Genesee County,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,73.0,68.0,5
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d113951735,Gas Stations,48.0,46.0,48.0,6
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,53.0,53.0,7
+2020-03-31,Michigan,Genesee County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,"",64.0,8
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d104941735,Medical Centers,30.0,29.0,30.0,9
+2020-03-31,Michigan,Genesee County,4d4b7105d754a06377d81259,Outdoors & Recreation,38.0,"",39.0,10
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d10f951735,Pharmacies,82.0,"",82.0,11
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d112951735,Hardware Stores,67.0,"",67.0,12
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d131941735,Spiritual Centers,41.0,"",42.0,13
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d118951735,Grocery Stores,68.0,"",68.0,14
+2020-03-31,Michigan,Genesee County,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,14
+2020-03-31,Michigan,Saint Clair County,4d4b7105d754a06378d81259,Shops & Services,49.0,48.0,49.0,1
+2020-03-31,Michigan,Saint Clair County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,30.0,28.0,2
+2020-03-31,Michigan,Saint Clair County,4d4b7105d754a06374d81259,Food,37.0,37.0,37.0,3
+2020-03-31,Michigan,Saint Clair County,4bf58dd8d48988d1f9941735,Food & Drink Shops,61.0,69.0,61.0,4
+2020-03-31,Michigan,Saint Clair County,4d4b7105d754a06377d81259,Outdoors & Recreation,49.0,53.0,49.0,5
+2020-03-31,Michigan,Saint Clair County,52f2ab2ebcbc57f1066b8b46,Supermarkets,62.0,72.0,61.0,6
+2020-03-31,Michigan,Saint Clair County,4bf58dd8d48988d113951735,Gas Stations,45.0,"",45.0,7
+2020-03-31,Michigan,Shiawassee County,4d4b7105d754a06378d81259,Shops & Services,58.0,39.0,59.0,1
+2020-03-31,Michigan,Monroe County,4d4b7105d754a06378d81259,Shops & Services,58.0,52.0,58.0,1
+2020-03-31,Michigan,Monroe County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,34.0,40.0,2
+2020-03-31,Michigan,Monroe County,4d4b7105d754a06374d81259,Food,42.0,"",43.0,3
+2020-03-31,Michigan,Monroe County,4bf58dd8d48988d1f9941735,Food & Drink Shops,67.0,"",68.0,4
+2020-03-31,Michigan,Monroe County,4bf58dd8d48988d113951735,Gas Stations,60.0,"",60.0,5
+2020-03-31,Michigan,Monroe County,4d4b7105d754a06377d81259,Outdoors & Recreation,54.0,"",54.0,6
+2020-03-31,Michigan,Monroe County,52f2ab2ebcbc57f1066b8b46,Supermarkets,71.0,"",72.0,7
+2020-03-31,Michigan,Saginaw County,4d4b7105d754a06378d81259,Shops & Services,47.0,53.0,46.0,1
+2020-03-31,Michigan,Saginaw County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,30.0,32.0,2
+2020-03-31,Michigan,Saginaw County,4d4b7105d754a06374d81259,Food,37.0,"",38.0,3
+2020-03-31,Michigan,Saginaw County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,81.0,64.0,4
+2020-03-31,Michigan,Saginaw County,52f2ab2ebcbc57f1066b8b46,Supermarkets,61.0,"",60.0,5
+2020-03-31,Michigan,Saginaw County,4bf58dd8d48988d113951735,Gas Stations,48.0,"",47.0,5
+2020-03-31,Michigan,Saginaw County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,"",46.0,6
+2020-03-31,Michigan,Saginaw County,4bf58dd8d48988d16e941735,Fast Food Restaurants,51.0,"",53.0,7
+2020-03-31,Michigan,Saginaw County,4bf58dd8d48988d104941735,Medical Centers,31.0,"",32.0,8
+2020-03-31,Michigan,Saginaw County,4d4b7105d754a06376d81259,Nightlife Spots,58.0,"",59.0,9
+2020-03-31,Michigan,Eaton County,4d4b7105d754a06378d81259,Shops & Services,49.0,42.0,50.0,1
+2020-03-31,Michigan,Eaton County,4d4b7105d754a06375d81259,Professional & Other Places,38.0,40.0,38.0,2
+2020-03-31,Michigan,Eaton County,4d4b7105d754a06374d81259,Food,36.0,"",36.0,3
+2020-03-31,Michigan,Eaton County,4bf58dd8d48988d1f9941735,Food & Drink Shops,58.0,"",58.0,4
+2020-03-31,Michigan,Eaton County,52f2ab2ebcbc57f1066b8b46,Supermarkets,59.0,"",59.0,5
+2020-03-31,Michigan,Isabella County,4d4b7105d754a06378d81259,Shops & Services,47.0,38.0,48.0,1
+2020-03-31,Michigan,Isabella County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,"",33.0,2
+2020-03-31,Michigan,Cass County,4d4b7105d754a06378d81259,Shops & Services,69.0,"",70.0,1
+2020-03-31,Michigan,Newaygo County,4d4b7105d754a06378d81259,Shops & Services,58.0,50.0,59.0,1
+2020-03-31,Michigan,Newaygo County,4d4b7105d754a06377d81259,Outdoors & Recreation,68.0,"",68.0,2
+2020-03-31,Michigan,Newaygo County,4d4b7105d754a06375d81259,Professional & Other Places,31.0,"",31.0,3
+2020-03-31,Michigan,Alpena County,4d4b7105d754a06378d81259,Shops & Services,53.0,"",53.0,1
+2020-03-31,Michigan,Washtenaw County,4d4b7105d754a06378d81259,Shops & Services,42.0,40.0,42.0,1
+2020-03-31,Michigan,Washtenaw County,4d4b7105d754a06375d81259,Professional & Other Places,23.0,18.0,23.0,2
+2020-03-31,Michigan,Washtenaw County,4d4b7105d754a06374d81259,Food,27.0,23.0,28.0,3
+2020-03-31,Michigan,Washtenaw County,4d4b7105d754a06377d81259,Outdoors & Recreation,42.0,40.0,42.0,4
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d1f9941735,Food & Drink Shops,55.0,51.0,56.0,5
+2020-03-31,Michigan,Washtenaw County,52f2ab2ebcbc57f1066b8b46,Supermarkets,58.0,54.0,59.0,6
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d104941735,Medical Centers,25.0,"",26.0,7
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d113951735,Gas Stations,43.0,"",43.0,8
+2020-03-31,Michigan,Washtenaw County,4e67e38e036454776db1fb3a,Residences,53.0,"",53.0,9
+2020-03-31,Michigan,Washtenaw County,4d4b7105d754a06372d81259,Colleges & Universities,9.0,"",9.0,10
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d16e941735,Fast Food Restaurants,43.0,"",44.0,11
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d163941735,Parks,55.0,"",55.0,12
+2020-03-31,Michigan,Washtenaw County,4bf58dd8d48988d196941735,Hospitals,27.0,"",27.0,13
+2020-03-31,Michigan,Washtenaw County,4f4528bc4b90abdf24c9de85,Athletics & Sports,27.0,"",28.0,14
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06378d81259,Shops & Services,48.0,38.0,48.0,1
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,26.0,29.0,2
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06374d81259,Food,34.0,26.0,34.0,3
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1f9941735,Food & Drink Shops,60.0,48.0,60.0,4
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d113951735,Gas Stations,47.0,39.0,47.0,5
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06377d81259,Outdoors & Recreation,37.0,36.0,37.0,6
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06379d81259,Travel & Transport,16.0,10.0,17.0,7
+2020-03-31,Michigan,Wayne County,52f2ab2ebcbc57f1066b8b46,Supermarkets,59.0,50.0,59.0,8
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d104941735,Medical Centers,30.0,22.0,30.0,9
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d16e941735,Fast Food Restaurants,42.0,30.0,43.0,10
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d118951735,Grocery Stores,65.0,45.0,65.0,11
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1ed931735,Airports,16.0,9.0,16.0,12
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d10f951735,Pharmacies,58.0,49.0,59.0,13
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d13b941735,Schools,22.0,28.0,22.0,14
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06376d81259,Nightlife Spots,29.0,27.0,29.0,15
+2020-03-31,Michigan,Wayne County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,58.0,44.0,59.0,16
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d131941735,Spiritual Centers,40.0,31.0,40.0,17
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d116941735,Bars,29.0,29.0,29.0,18
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d112951735,Hardware Stores,55.0,48.0,55.0,19
+2020-03-31,Michigan,Wayne County,52dea92d3cf9994f4e043dbb,Discount Stores,62.0,"",63.0,20
+2020-03-31,Michigan,Wayne County,4e67e38e036454776db1fb3a,Residences,46.0,58.0,46.0,21
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d124941735,Offices,22.0,30.0,21.0,22
+2020-03-31,Michigan,Wayne County,4d4b7104d754a06370d81259,Arts & Entertainment,21.0,"",21.0,23
+2020-03-31,Michigan,Wayne County,4d954b0ea243a5684a65b473,Convenience Stores,52.0,"",52.0,24
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d196941735,Hospitals,31.0,"",31.0,25
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d186941735,Liquor Stores,59.0,"",59.0,26
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d124951735,Automotive Shops,43.0,"",43.0,27
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d163941735,Parks,57.0,"",57.0,28
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d126941735,Government Buildings,29.0,"",29.0,29
+2020-03-31,Michigan,Wayne County,4f4528bc4b90abdf24c9de85,Athletics & Sports,20.0,"",20.0,30
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1eb931735,Airport Terminals,15.0,"",15.0,31
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1ca941735,Pizza Places,37.0,"",37.0,32
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d10a951735,Banks,48.0,"",49.0,33
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1e0931735,Coffee Shops,29.0,"",29.0,34
+2020-03-31,Michigan,Wayne County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),50.0,"",50.0,35
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d14e941735,American Restaurants,27.0,"",27.0,36
+2020-03-31,Michigan,Wayne County,4eb1bea83b7b6f98df247e06,Factories,21.0,"",21.0,37
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d172941735,Post Offices,57.0,"",57.0,38
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d110951735,Salons / Barbershops,43.0,"",44.0,39
+2020-03-31,Michigan,Wayne County,4f4533804b9074f6e4fb0105,Elementary Schools,22.0,"",22.0,40
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d13d941735,High Schools,21.0,"",20.0,40
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1c5941735,Sandwich Places,35.0,"",35.0,41
+2020-03-31,Michigan,Wayne County,4d4b7105d754a06372d81259,Colleges & Universities,11.0,"",11.0,42
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d177941735,Doctor's Offices,24.0,"",24.0,43
+2020-03-31,Michigan,Wayne County,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,54.0,"",55.0,44
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1c1941735,Mexican Restaurants,26.0,"",26.0,45
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d147941735,Diners,29.0,"",29.0,46
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1f0931735,Airport Gates,20.0,"",20.0,47
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d142941735,Asian Restaurants,31.0,"",30.0,47
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1fd941735,Shopping Malls,26.0,"",26.0,48
+2020-03-31,Michigan,Wayne County,52e816a6bcbc57f1066b7a54,Warehouse Stores,55.0,"",56.0,49
+2020-03-31,Michigan,Wayne County,4bf58dd8d48988d1fa931735,Hotels,16.0,"",16.0,50
+2020-03-31,Michigan,Wayne County,4f04ae1f2fb6e1c99f3db0ba,Car Washes,33.0,"",34.0,51
+2020-03-31,Michigan,Allegan County,4d4b7105d754a06378d81259,Shops & Services,63.0,59.0,63.0,1
+2020-03-31,Michigan,Allegan County,4d4b7105d754a06375d81259,Professional & Other Places,35.0,"",35.0,2
+2020-03-31,Michigan,Allegan County,4d4b7105d754a06374d81259,Food,46.0,"",46.0,3
+2020-03-31,Michigan,Allegan County,4d4b7105d754a06377d81259,Outdoors & Recreation,53.0,"",53.0,4
+2020-03-31,Michigan,Allegan County,4bf58dd8d48988d113951735,Gas Stations,52.0,"",52.0,5
+2020-03-31,Michigan,Allegan County,4bf58dd8d48988d1f9941735,Food & Drink Shops,66.0,"",65.0,6
+2020-03-31,Michigan,Clinton County,4d4b7105d754a06378d81259,Shops & Services,45.0,36.0,45.0,1
+2020-03-31,Michigan,Clinton County,4d4b7105d754a06375d81259,Professional & Other Places,27.0,"",26.0,2
+2020-03-31,Michigan,Gratiot County,4d4b7105d754a06378d81259,Shops & Services,61.0,"",62.0,1
+2020-03-31,Michigan,Gratiot County,4d4b7105d754a06375d81259,Professional & Other Places,40.0,"",41.0,2
+2020-03-31,Michigan,Otsego County,4d4b7105d754a06378d81259,Shops & Services,44.0,"",45.0,1
+2020-03-31,Michigan,Ingham County,4d4b7105d754a06378d81259,Shops & Services,43.0,35.0,43.0,1
+2020-03-31,Michigan,Ingham County,4d4b7105d754a06375d81259,Professional & Other Places,22.0,21.0,22.0,2
+2020-03-31,Michigan,Ingham County,4d4b7105d754a06374d81259,Food,30.0,21.0,30.0,3
+2020-03-31,Michigan,Ingham County,4bf58dd8d48988d1f9941735,Food & Drink Shops,53.0,51.0,54.0,4
+2020-03-31,Michigan,Ingham County,52f2ab2ebcbc57f1066b8b46,Supermarkets,57.0,60.0,57.0,5
+2020-03-31,Michigan,Ingham County,4d4b7105d754a06377d81259,Outdoors & Recreation,34.0,"",34.0,6
+2020-03-31,Michigan,Ingham County,4bf58dd8d48988d113951735,Gas Stations,41.0,"",42.0,7
+2020-03-31,Michigan,Ingham County,4bf58dd8d48988d104941735,Medical Centers,25.0,"",26.0,8
+2020-03-31,Michigan,Ingham County,4bf58dd8d48988d16e941735,Fast Food Restaurants,42.0,"",43.0,9
+2020-03-31,Michigan,Wexford County,4d4b7105d754a06378d81259,Shops & Services,60.0,48.0,61.0,1
+2020-03-31,Michigan,Muskegon County,4d4b7105d754a06378d81259,Shops & Services,63.0,46.0,63.0,1
+2020-03-31,Michigan,Muskegon County,4d4b7105d754a06375d81259,Professional & Other Places,41.0,30.0,41.0,2
+2020-03-31,Michigan,Muskegon County,4d4b7105d754a06374d81259,Food,44.0,"",45.0,3
+2020-03-31,Michigan,Muskegon County,4bf58dd8d48988d1f9941735,Food & Drink Shops,73.0,60.0,73.0,4
+2020-03-31,Michigan,Muskegon County,4d4b7105d754a06377d81259,Outdoors & Recreation,61.0,"",61.0,5
+2020-03-31,Michigan,Muskegon County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",67.0,6
+2020-03-31,Michigan,Muskegon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,"",68.0,7
+2020-03-31,Michigan,Muskegon County,4bf58dd8d48988d104941735,Medical Centers,41.0,"",42.0,8
+2020-03-31,Michigan,Muskegon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,"",73.0,9
+2020-03-31,Michigan,Jackson County,4d4b7105d754a06378d81259,Shops & Services,54.0,53.0,54.0,1
+2020-03-31,Michigan,Jackson County,4d4b7105d754a06375d81259,Professional & Other Places,32.0,26.0,32.0,2
+2020-03-31,Michigan,Jackson County,4d4b7105d754a06374d81259,Food,37.0,28.0,38.0,3
+2020-03-31,Michigan,Jackson County,4bf58dd8d48988d1f9941735,Food & Drink Shops,66.0,72.0,66.0,4
+2020-03-31,Michigan,Jackson County,52f2ab2ebcbc57f1066b8b46,Supermarkets,62.0,"",61.0,5
+2020-03-31,Michigan,Jackson County,4bf58dd8d48988d113951735,Gas Stations,49.0,"",49.0,6
+2020-03-31,Michigan,Jackson County,4d4b7105d754a06377d81259,Outdoors & Recreation,45.0,"",45.0,7
+2020-03-31,Michigan,Kalamazoo County,4d4b7105d754a06378d81259,Shops & Services,49.0,43.0,50.0,1
+2020-03-31,Michigan,Kalamazoo County,4d4b7105d754a06375d81259,Professional & Other Places,31.0,27.0,31.0,2
+2020-03-31,Michigan,Kalamazoo County,4d4b7105d754a06374d81259,Food,38.0,28.0,39.0,3
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d1f9941735,Food & Drink Shops,64.0,59.0,64.0,4
+2020-03-31,Michigan,Kalamazoo County,4d4b7105d754a06377d81259,Outdoors & Recreation,44.0,48.0,44.0,5
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,6
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d104941735,Medical Centers,32.0,"",33.0,7
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d118951735,Grocery Stores,81.0,81.0,81.0,8
+2020-03-31,Michigan,Kalamazoo County,52f2ab2ebcbc57f1066b8b46,Supermarkets,57.0,"",57.0,9
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,"",58.0,10
+2020-03-31,Michigan,Kalamazoo County,4bf58dd8d48988d10f951735,Pharmacies,60.0,"",61.0,11
+2020-03-31,Michigan,Kalamazoo County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,56.0,"",56.0,12
+2020-03-31,Michigan,Kalamazoo County,4e67e38e036454776db1fb3a,Residences,45.0,"",45.0,13
+2020-03-31,Michigan,Grand Traverse County,4d4b7105d754a06378d81259,Shops & Services,44.0,32.0,45.0,1
+2020-03-31,Michigan,Grand Traverse County,4d4b7105d754a06374d81259,Food,29.0,"",30.0,2
+2020-03-31,Michigan,Grand Traverse County,4d4b7105d754a06375d81259,Professional & Other Places,27.0,29.0,27.0,3
+2020-03-31,Michigan,Grand Traverse County,4bf58dd8d48988d1f9941735,Food & Drink Shops,59.0,47.0,60.0,4
+2020-03-31,Michigan,Grand Traverse County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,"",46.0,5
+2020-03-31,Michigan,Manistee County,4d4b7105d754a06378d81259,Shops & Services,52.0,"",52.0,1
+2020-03-31,Michigan,Midland County,4d4b7105d754a06378d81259,Shops & Services,45.0,41.0,45.0,1
+2020-03-31,Michigan,Midland County,4d4b7105d754a06375d81259,Professional & Other Places,31.0,"",31.0,2
+2020-03-31,Michigan,Midland County,4d4b7105d754a06374d81259,Food,39.0,"",39.0,3
+2020-03-31,Michigan,Bay County,4d4b7105d754a06378d81259,Shops & Services,53.0,51.0,53.0,1
+2020-03-31,Michigan,Bay County,4d4b7105d754a06375d81259,Professional & Other Places,31.0,"",31.0,2
+2020-03-31,Michigan,Bay County,4d4b7105d754a06374d81259,Food,41.0,"",42.0,3
+2020-03-31,Michigan,Bay County,4bf58dd8d48988d1f9941735,Food & Drink Shops,65.0,"",65.0,4
+2020-03-31,Michigan,Bay County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,"",71.0,5
+2020-03-31,Michigan,Bay County,4d4b7105d754a06377d81259,Outdoors & Recreation,47.0,"",47.0,6
+2020-03-31,Michigan,Roscommon County,4d4b7105d754a06378d81259,Shops & Services,65.0,97.0,62.0,1
+2020-03-31,Michigan,Cheboygan County,4d4b7105d754a06378d81259,Shops & Services,75.0,"",76.0,1
+2020-03-31,Michigan,Mecosta County,4d4b7105d754a06378d81259,Shops & Services,57.0,58.0,57.0,1
+2020-03-31,Michigan,Sanilac County,4d4b7105d754a06378d81259,Shops & Services,59.0,"",58.0,1
+2020-03-31,Michigan,Branch County,4d4b7105d754a06378d81259,Shops & Services,51.0,"",52.0,1
+2020-03-31,Michigan,Berrien County,4d4b7105d754a06378d81259,Shops & Services,57.0,51.0,57.0,1
+2020-03-31,Michigan,Berrien County,4d4b7105d754a06375d81259,Professional & Other Places,39.0,35.0,39.0,2
+2020-03-31,Michigan,Berrien County,4d4b7105d754a06374d81259,Food,36.0,35.0,37.0,3
+2020-03-31,Michigan,Berrien County,4bf58dd8d48988d1f9941735,Food & Drink Shops,69.0,52.0,70.0,4
+2020-03-31,Michigan,Berrien County,4d4b7105d754a06377d81259,Outdoors & Recreation,56.0,65.0,55.0,5
+2020-03-31,Michigan,Berrien County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",54.0,6
+2020-03-31,Michigan,Berrien County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",65.0,7
+2020-03-31,Michigan,Livingston County,4d4b7105d754a06378d81259,Shops & Services,47.0,42.0,47.0,1
+2020-03-31,Michigan,Livingston County,4d4b7105d754a06377d81259,Outdoors & Recreation,45.0,51.0,45.0,2
+2020-03-31,Michigan,Livingston County,4bf58dd8d48988d1f9941735,Food & Drink Shops,58.0,51.0,58.0,3
+2020-03-31,Michigan,Livingston County,4d4b7105d754a06374d81259,Food,29.0,"",30.0,4
+2020-03-31,Michigan,Livingston County,4d4b7105d754a06375d81259,Professional & Other Places,22.0,"",22.0,5
+2020-03-31,Michigan,Livingston County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,56.0,63.0,6
+2020-03-31,Michigan,Livingston County,4bf58dd8d48988d113951735,Gas Stations,47.0,"",47.0,7
+2020-03-31,Michigan,Mason County,4d4b7105d754a06378d81259,Shops & Services,75.0,"",76.0,1
+2020-03-31,Michigan,Saint Joseph County,4d4b7105d754a06378d81259,Shops & Services,60.0,48.0,61.0,1
+2020-03-31,Michigan,Saint Joseph County,4d4b7105d754a06374d81259,Food,49.0,"",49.0,2
+2020-03-31,Michigan,Saint Joseph County,4d4b7105d754a06375d81259,Professional & Other Places,33.0,"",33.0,3
+2020-03-31,Michigan,Saint Joseph County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,"",64.0,4
+2020-03-31,Michigan,Tuscola County,4d4b7105d754a06378d81259,Shops & Services,49.0,"",49.0,1
+2020-03-31,Michigan,Hillsdale County,4d4b7105d754a06378d81259,Shops & Services,48.0,"",47.0,1
+2020-03-31,Michigan,Ottawa County,4d4b7105d754a06378d81259,Shops & Services,55.0,46.0,55.0,1
+2020-03-31,Michigan,Ottawa County,4d4b7105d754a06375d81259,Professional & Other Places,33.0,33.0,33.0,2
+2020-03-31,Michigan,Ottawa County,4d4b7105d754a06377d81259,Outdoors & Recreation,66.0,69.0,66.0,3
+2020-03-31,Michigan,Ottawa County,4d4b7105d754a06374d81259,Food,35.0,24.0,35.0,4
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d1f9941735,Food & Drink Shops,70.0,53.0,71.0,5
+2020-03-31,Michigan,Ottawa County,52f2ab2ebcbc57f1066b8b46,Supermarkets,61.0,"",61.0,6
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",52.0,7
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",55.0,8
+2020-03-31,Michigan,Ottawa County,4e67e38e036454776db1fb3a,Residences,59.0,"",59.0,9
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d118951735,Grocery Stores,87.0,"",88.0,10
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d131941735,Spiritual Centers,51.0,"",51.0,11
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,12
+2020-03-31,Michigan,Ottawa County,4bf58dd8d48988d104941735,Medical Centers,31.0,"",32.0,13
+2020-03-31,Michigan,Van Buren County,4d4b7105d754a06378d81259,Shops & Services,62.0,63.0,62.0,1
+2020-03-31,Michigan,Van Buren County,4d4b7105d754a06375d81259,Professional & Other Places,29.0,"",30.0,2
+2020-03-31,Michigan,Van Buren County,4d4b7105d754a06374d81259,Food,42.0,"",42.0,3
+2020-03-31,Michigan,Van Buren County,4d4b7105d754a06377d81259,Outdoors & Recreation,70.0,"",69.0,4
+2020-03-31,Michigan,Van Buren County,4bf58dd8d48988d1f9941735,Food & Drink Shops,63.0,"",62.0,5
