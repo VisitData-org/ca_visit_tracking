@@ -455,8 +455,10 @@ function parseSelection() {
 
 function setNavLinks() {
   document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
-  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedState + "/ALL/ALL";
+  document.getElementById('nav-chartgrouped').href = "/bystatesel/" + selectedState + "/ALL/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + selectedState + "/ALL/ALL?datafilename=raw";
+  document.getElementById('nav-stategrouped').href = "/bystatesel/" + selectedStates + "/ALL";
+  document.getElementById('nav-stateall').href = "/bystatesel/" + selectedStates + "/ALL?datafilename=raw";
 }
 
 essentialSel = document.getElementById('essential-select');
