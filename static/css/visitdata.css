@@ -84,7 +84,7 @@ body {
 
 .modal-open {
    max-width:75%;
- }
+}
 
  #enforce-landscape { display:block; }
 
@@ -107,11 +107,17 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .foursquare-logo {
+      max-width:240px;
+  }
 }
 
 @media (max-width: 989px) {
   .main-mobile {
     padding-top: 50px;
+  }
+  .foursquare-logo {
+      max-width:160px;
   }
 }
 
@@ -120,3 +126,4 @@ body {
     padding-top: 50px;
   }
 }
+
