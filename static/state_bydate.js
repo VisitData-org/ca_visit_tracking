@@ -45,17 +45,19 @@ function chartTitle() {
     result += "over 65 years old, ";
     break;
   }
-  switch (essentialSel.value) {
-    case "all":
-      result += "essential+non, ";
-      break;
-    case "essential":
-      result += "essential only, ";
-      break;
-    case "nonessential":
-      result += "non-essential only, ";
-      break;
+  if (!locationTypeSel.value) {
+    switch (essentialSel.value) {
+      case "all":
+        result += "essential+non, ";
+        break;
+      case "essential":
+        result += "essential only, ";
+        break;
+      case "nonessential":
+        result += "non-essential only, ";
+        break;
     }
+  }
   result += "Visits %";
   return result;
 }
