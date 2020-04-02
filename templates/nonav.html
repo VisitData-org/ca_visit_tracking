@@ -129,31 +129,25 @@
            ['Wyoming']
           ]
 
-    var options = { region: 'US', resolution: "provinces", keepAspectRatio: true, colorAxis: {colors: ['#FF0000', '#00FF00']}, defaultColor: '#4aa9b5' };
+    let selectedRow
+
+    var options = { region: 'US', resolution: "provinces", keepAspectRatio: true, defaultColor: '#4aa9b5' };
 
     var geochart = new google.visualization.GeoChart(document.getElementById('regions_div'));
 
-    let selectedRow
-
     geochart.draw(data, options);
 
-    google.visualization.events.addListener(geochart, 'regionClick', function(r) {
+    google.visualization.events.addListener(geochart, 'select', function(r) {
 
     var selection = geochart.getSelection()
 
     if (selection.length>0) {
       selectedRow = selection[0]['row']
-
-      console.log('selectedRow: ', selectedRow)
-      console.log('statesForUrl[selectedRow]: ', statesForUrl[selectedRow][0])
-
+      
       window.location.href = "http://127.0.0.1:8080/bydatesel/"+statesForUrl[selectedRow][0]+"/ALL/ALL"
     }
-
-  });
-
-
-    }
+    });
+  }
   </script>
 
     <meta charset="utf-8">
