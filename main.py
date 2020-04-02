@@ -36,15 +36,15 @@ def bydatesel(state, counties, venues):
 
 @app.route("/allstate.html")
 def bystate():
-    return render_template("allstate.html", states="", venues="")
+    return render_template("allstate.html", state="ALL", venues="ALL")
 
-@app.route("/bystatesel/<states>")
-def bystateselstate(states):
-    return render_template("allstate.html", states=states, venues="")
+@app.route("/bystatesel/<state>")
+def bystateselstate(state):
+    return render_template("allstate.html", state=state, venues="")
 
-@app.route("/bystatesel/<states>/<venues>")
-def bystatesel(states, venues):
-    return render_template("allstate.html", states=states, venues=venues)
+@app.route("/bystatesel/<state>/<venues>")
+def bystatesel(state, venues):
+    return render_template("allstate.html", state=state, venues=venues)
 
 @app.route("/faq")
 def faq():

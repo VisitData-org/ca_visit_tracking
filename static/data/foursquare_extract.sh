@@ -34,6 +34,7 @@ crunchGZs () {
     echo 'done renaming files'
 
     DATES=$( ls "$SOURCEDIR" | sed 's/date=//g' )
+    echo $DATES
     for DATE in $DATES
     do
         echo "doing $DATE"
@@ -61,13 +62,21 @@ processStates () {
     fi
 
     DATES=$( ls "$SOURCEDIR" | sed 's/date=//g' )
+    echo $DATES
     for DATE in $DATES
     do
         echo "doing $DATE"
         STATES=$( ls $SOURCEDIR/date=${DATE} | sed 's/state=//g' )
         for STATE in $STATES
         do
+            THISSTATEDESTFILE=${DESTFILEPREFIX}${STATE}.csv
+            if [ $REMOVE_ALSO -eq 1 ]
+            then
+            rm -f $THISSTATEDESTFILE
+            fi
+            echo $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz
             gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $ALLSTATEDESTFILE
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $THISSTATEDESTFILE
         done
     done
 }
@@ -80,5 +89,5 @@ fi
 
 crunchGZs $FOURSQUARE_DATA/countyCategoryGz $DIR/raw
 crunchGZs $FOURSQUARE_DATA/countyCategoryGroupGz $DIR/grouped
-processStates $FOURSQUARE_DATA/stateCategoryGz $DIR/raw
-processStates $FOURSQUARE_DATA/stateCategoryGroupGz $DIR/grouped
+processStates $FOURSQUARE_DATA/stateCategoryGz $DIR/allstate/raw
+processStates $FOURSQUARE_DATA/stateCategoryGroupGz $DIR/allstate/grouped
