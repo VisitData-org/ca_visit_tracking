@@ -1,9 +1,13 @@
 {% extends "nonav.html" %}
 {% block main %}
 <div class="container-fluid mt-2 main-mobile">
-  <h4 id="table-title">FAQ:</h4>
+  <h4 id="table-title">FAQ</h4>
   <ul class="faqlist">
-    <li> <b>What is the methodology?</b> The visitdata.org website is powered by Foursquare’s US foot traffic data, derived from our panel of 13 million always-on opted-in users. The data is represented as an index.  Foot traffic for a given county on a given day is indexed to average foot traffic for that county in the month of February 2020. Increases or decreases relative to that average are corroborated with a measure of statistical significance. In this case, we are simply testing for a difference in means, given “n” size, effect size, and variance.  To learn more about Pilgrim – Foursquare’s “snap-to-place” technology which powers our visit data – click <a href="https://enterprise.foursquare.com/intersections/article/phones-lambdas-and-the-joy-of-snap-to-place-techn/">here</a>.  
+    <li> <b>What is the methodology?</b> The visitdata.org website is powered by Foursquare’s US foot traffic data, derived from our panel of 13 million always-on opted-in users. The data is represented as an index.  Foot traffic for a given county on a given day is indexed to average foot traffic for that county in the month of February 2020. Increases or decreases relative to that average are corroborated with a measure of statistical significance. In this case, we are simply testing for a difference in means, given “n” size, effect size, and variance.  To learn more about Pilgrim – Foursquare’s “snap-to-place” technology which powers our visit data – click <a href="https://enterprise.foursquare.com/intersections/article/phones-lambdas-and-the-joy-of-snap-to-place-techn/">here</a>.
+    <li><b>What does the y-axis mean?  What is Visits %?</b> 100 = February average number of visits for that day of the week. So a 41% grocery store number for Fri Mar 27 means that 41% of people are visiting compared to the average of Fri Feb 7, Fri Feb 14, Fri Feb 21 and Fri Feb 28.</li>
+<li><b>Why are some days missing data?</b> If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
+<li><b>How do I reach you?</b>If you are a crisis response team who needs help working with this data — please contact support@visitdata.org. VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.    </li>
+  <li><b>Note</b> Each day is for the 24-hour period ending at 5pm on that date. For example Monday's data cover from Sunday 5pm to Monday 5pm. (Doing it this way allows us to post new data with the minimum lag.)</li>
     </ul>
 </div>	
 {% endblock %}
