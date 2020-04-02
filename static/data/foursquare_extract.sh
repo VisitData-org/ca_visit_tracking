@@ -41,7 +41,7 @@ crunchGZs () {
         for STATE in $STATES
         do
             DESTFILE=${DESTFILEPREFIX}${STATE}.csv
-            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $DESTFILE
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; $1=date; $2=state; print $0 }' >> $DESTFILE
         done
     done
 }
@@ -63,9 +63,9 @@ processStates () {
         STATES=$( ls $SOURCEDIR/date=${DATE} | sed 's/state=//g' )
         for STATE in $STATES
         do
-            THISSTATEDESTFILE=${DESTFILEPREFIX}${STATE}.csv
-            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $ALLSTATEDESTFILE
-            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $THISSTATEDESTFILE
+            THISSTATEDESTFILE=${DESTFILEPREFIX}${STATE/ //}.csv
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; $1=date; $2=state; print $0 }' >> $ALLSTATEDESTFILE
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; $1=date; $2=state; print $0 }' >> $THISSTATEDESTFILE
         done
     done
 }
