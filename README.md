@@ -44,5 +44,5 @@ Run:
 
 ```bash
 $ cd .../ca_visit_tracking
-$ gcloud app deploy .
+$ make deploy
 ```
