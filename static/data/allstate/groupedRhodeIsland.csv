@@ -1,872 +1,845 @@
-2020-03-01,RhodeIsland,Food,54.0,53.0,54.0,1
-2020-03-01,RhodeIsland,Shops & Services,31.0,32.0,31.0,2
-2020-03-01,RhodeIsland,Grocery,103.0,103.0,103.0,3
-2020-03-01,RhodeIsland,Nightlife Spots,45.0,45.0,45.0,4
-2020-03-01,RhodeIsland,Arts & Entertainment,74.0,68.0,74.0,5
-2020-03-01,RhodeIsland,Outdoors & Recreation,33.0,36.0,33.0,6
-2020-03-01,RhodeIsland,Big Box Stores,110.0,126.0,110.0,7
-2020-03-01,RhodeIsland,Gas Stations,108.0,97.0,108.0,8
-2020-03-01,RhodeIsland,Colleges & Universities,56.0,"",56.0,8
-2020-03-01,RhodeIsland,Drug Store,101.0,99.0,101.0,9
-2020-03-01,RhodeIsland,Fast Food Restaurants,111.0,108.0,111.0,10
-2020-03-01,RhodeIsland,Medical,58.0,50.0,58.0,11
-2020-03-01,RhodeIsland,Professional & Other Places,17.0,18.0,17.0,12
-2020-03-01,RhodeIsland,Convenience Store,91.0,84.0,91.0,13
-2020-03-01,RhodeIsland,Fitness Center,75.0,68.0,75.0,14
-2020-03-01,RhodeIsland,School,58.0,48.0,58.0,15
-2020-03-01,RhodeIsland,Hotel,72.0,66.0,72.0,16
-2020-03-01,RhodeIsland,Residences,112.0,122.0,111.0,17
-2020-03-01,RhodeIsland,Alcohol,92.0,"",92.0,18
-2020-03-01,RhodeIsland,Hardware Stores,97.0,88.0,98.0,19
-2020-03-01,RhodeIsland,Sports,41.0,"",42.0,20
-2020-03-01,RhodeIsland,Airport,85.0,"",87.0,21
-2020-03-01,RhodeIsland,Banks,114.0,"",114.0,22
-2020-03-01,RhodeIsland,Beach,70.0,"",70.0,23
-2020-03-01,RhodeIsland,Discount Stores,107.0,"",106.0,24
-2020-03-01,RhodeIsland,Travel & Transport,110.0,"",110.0,25
-2020-03-01,RhodeIsland,Office,89.0,"",89.0,26
-2020-03-01,RhodeIsland,Government,49.0,"",49.0,27
-2020-03-02,RhodeIsland,Food,50.0,50.0,50.0,1
-2020-03-02,RhodeIsland,Shops & Services,34.0,36.0,34.0,2
-2020-03-02,RhodeIsland,Medical,58.0,49.0,59.0,3
-2020-03-02,RhodeIsland,Grocery,112.0,105.0,112.0,4
-2020-03-02,RhodeIsland,Colleges & Universities,53.0,65.0,53.0,5
-2020-03-02,RhodeIsland,Outdoors & Recreation,39.0,42.0,39.0,6
-2020-03-02,RhodeIsland,Nightlife Spots,43.0,38.0,43.0,7
-2020-03-02,RhodeIsland,School,66.0,62.0,66.0,8
-2020-03-02,RhodeIsland,Professional & Other Places,18.0,20.0,18.0,9
-2020-03-02,RhodeIsland,Gas Stations,110.0,105.0,111.0,10
-2020-03-02,RhodeIsland,Drug Store,115.0,101.0,116.0,11
-2020-03-02,RhodeIsland,Arts & Entertainment,84.0,72.0,85.0,12
-2020-03-02,RhodeIsland,Convenience Store,105.0,119.0,104.0,13
-2020-03-02,RhodeIsland,Fitness Center,64.0,69.0,64.0,14
-2020-03-02,RhodeIsland,Office,94.0,94.0,94.0,15
-2020-03-02,RhodeIsland,Big Box Stores,111.0,101.0,111.0,16
-2020-03-02,RhodeIsland,Fast Food Restaurants,111.0,96.0,111.0,17
-2020-03-02,RhodeIsland,Government,74.0,71.0,74.0,18
-2020-03-02,RhodeIsland,Banks,120.0,117.0,120.0,19
-2020-03-02,RhodeIsland,Hotel,72.0,76.0,72.0,20
-2020-03-02,RhodeIsland,Residences,106.0,89.0,107.0,21
-2020-03-02,RhodeIsland,Hardware Stores,93.0,104.0,92.0,22
-2020-03-02,RhodeIsland,Alcohol,98.0,115.0,98.0,23
-2020-03-02,RhodeIsland,Sports,31.0,31.0,31.0,24
-2020-03-02,RhodeIsland,Travel & Transport,99.0,"",99.0,25
-2020-03-02,RhodeIsland,Airport,68.0,"",68.0,26
-2020-03-02,RhodeIsland,Beach,89.0,66.0,91.0,27
-2020-03-02,RhodeIsland,Discount Stores,112.0,"",113.0,28
-2020-03-03,RhodeIsland,Food,57.0,58.0,57.0,1
-2020-03-03,RhodeIsland,Shops & Services,35.0,36.0,35.0,2
-2020-03-03,RhodeIsland,Medical,53.0,49.0,53.0,3
-2020-03-03,RhodeIsland,Colleges & Universities,49.0,60.0,49.0,4
-2020-03-03,RhodeIsland,Grocery,104.0,100.0,104.0,5
-2020-03-03,RhodeIsland,Outdoors & Recreation,43.0,49.0,42.0,6
-2020-03-03,RhodeIsland,Nightlife Spots,45.0,41.0,45.0,7
-2020-03-03,RhodeIsland,School,65.0,69.0,64.0,8
-2020-03-03,RhodeIsland,Professional & Other Places,18.0,19.0,18.0,9
-2020-03-03,RhodeIsland,Gas Stations,111.0,110.0,111.0,10
-2020-03-03,RhodeIsland,Drug Store,111.0,99.0,112.0,10
-2020-03-03,RhodeIsland,Office,89.0,90.0,89.0,11
-2020-03-03,RhodeIsland,Fitness Center,65.0,61.0,65.0,12
-2020-03-03,RhodeIsland,Convenience Store,103.0,97.0,103.0,13
-2020-03-03,RhodeIsland,Arts & Entertainment,81.0,86.0,81.0,14
-2020-03-03,RhodeIsland,Fast Food Restaurants,114.0,108.0,114.0,15
-2020-03-03,RhodeIsland,Big Box Stores,118.0,124.0,117.0,16
-2020-03-03,RhodeIsland,Government,67.0,61.0,68.0,17
-2020-03-03,RhodeIsland,Banks,126.0,120.0,126.0,18
-2020-03-03,RhodeIsland,Hotel,87.0,77.0,87.0,19
-2020-03-03,RhodeIsland,Sports,37.0,46.0,37.0,20
-2020-03-03,RhodeIsland,Hardware Stores,113.0,113.0,113.0,21
-2020-03-03,RhodeIsland,Alcohol,103.0,91.0,103.0,22
-2020-03-03,RhodeIsland,Residences,101.0,110.0,100.0,23
-2020-03-03,RhodeIsland,Travel & Transport,116.0,125.0,116.0,24
-2020-03-03,RhodeIsland,Beach,130.0,138.0,130.0,25
-2020-03-03,RhodeIsland,Airport,70.0,78.0,70.0,26
-2020-03-03,RhodeIsland,Discount Stores,109.0,"",108.0,27
-2020-03-04,RhodeIsland,Food,56.0,58.0,55.0,1
-2020-03-04,RhodeIsland,Shops & Services,32.0,35.0,32.0,2
-2020-03-04,RhodeIsland,Medical,56.0,53.0,56.0,3
-2020-03-04,RhodeIsland,Colleges & Universities,51.0,58.0,51.0,4
-2020-03-04,RhodeIsland,Grocery,101.0,106.0,101.0,5
-2020-03-04,RhodeIsland,Nightlife Spots,47.0,49.0,47.0,6
-2020-03-04,RhodeIsland,Outdoors & Recreation,36.0,41.0,36.0,7
-2020-03-04,RhodeIsland,School,57.0,50.0,58.0,8
-2020-03-04,RhodeIsland,Professional & Other Places,16.0,19.0,16.0,9
-2020-03-04,RhodeIsland,Gas Stations,104.0,94.0,104.0,10
-2020-03-04,RhodeIsland,Arts & Entertainment,56.0,54.0,56.0,11
-2020-03-04,RhodeIsland,Drug Store,101.0,113.0,100.0,12
-2020-03-04,RhodeIsland,Fitness Center,65.0,63.0,65.0,13
-2020-03-04,RhodeIsland,Office,86.0,84.0,87.0,14
-2020-03-04,RhodeIsland,Convenience Store,97.0,118.0,97.0,15
-2020-03-04,RhodeIsland,Fast Food Restaurants,104.0,114.0,104.0,16
-2020-03-04,RhodeIsland,Big Box Stores,107.0,99.0,107.0,17
-2020-03-04,RhodeIsland,Government,66.0,72.0,66.0,18
-2020-03-04,RhodeIsland,Hotel,84.0,75.0,84.0,19
-2020-03-04,RhodeIsland,Hardware Stores,107.0,114.0,107.0,20
-2020-03-04,RhodeIsland,Banks,101.0,112.0,101.0,21
-2020-03-04,RhodeIsland,Alcohol,99.0,111.0,98.0,22
-2020-03-04,RhodeIsland,Sports,28.0,31.0,27.0,23
-2020-03-04,RhodeIsland,Residences,101.0,118.0,100.0,24
-2020-03-04,RhodeIsland,Travel & Transport,88.0,"",89.0,25
-2020-03-04,RhodeIsland,Beach,93.0,69.0,94.0,26
-2020-03-04,RhodeIsland,Airport,57.0,"",58.0,27
-2020-03-04,RhodeIsland,Discount Stores,88.0,"",87.0,28
-2020-03-05,RhodeIsland,Food,58.0,65.0,58.0,1
-2020-03-05,RhodeIsland,Shops & Services,35.0,37.0,35.0,2
-2020-03-05,RhodeIsland,Medical,52.0,51.0,52.0,3
-2020-03-05,RhodeIsland,Colleges & Universities,55.0,76.0,55.0,4
-2020-03-05,RhodeIsland,Grocery,103.0,94.0,103.0,5
-2020-03-05,RhodeIsland,Nightlife Spots,49.0,54.0,48.0,6
-2020-03-05,RhodeIsland,Outdoors & Recreation,45.0,54.0,45.0,7
-2020-03-05,RhodeIsland,School,58.0,60.0,58.0,8
-2020-03-05,RhodeIsland,Professional & Other Places,15.0,19.0,15.0,9
-2020-03-05,RhodeIsland,Gas Stations,104.0,114.0,104.0,10
-2020-03-05,RhodeIsland,Drug Store,100.0,96.0,101.0,11
-2020-03-05,RhodeIsland,Convenience Store,107.0,93.0,107.0,12
-2020-03-05,RhodeIsland,Arts & Entertainment,84.0,77.0,84.0,13
-2020-03-05,RhodeIsland,Office,90.0,96.0,90.0,14
-2020-03-05,RhodeIsland,Fitness Center,66.0,57.0,66.0,15
-2020-03-05,RhodeIsland,Fast Food Restaurants,107.0,104.0,107.0,16
-2020-03-05,RhodeIsland,Big Box Stores,99.0,92.0,100.0,17
-2020-03-05,RhodeIsland,Government,75.0,83.0,74.0,18
-2020-03-05,RhodeIsland,Hotel,88.0,95.0,87.0,19
-2020-03-05,RhodeIsland,Banks,124.0,148.0,123.0,20
-2020-03-05,RhodeIsland,Alcohol,108.0,102.0,108.0,21
-2020-03-05,RhodeIsland,Residences,117.0,108.0,117.0,22
-2020-03-05,RhodeIsland,Hardware Stores,105.0,113.0,104.0,23
-2020-03-05,RhodeIsland,Sports,30.0,36.0,30.0,24
-2020-03-05,RhodeIsland,Airport,71.0,93.0,70.0,25
-2020-03-05,RhodeIsland,Beach,129.0,128.0,129.0,26
-2020-03-05,RhodeIsland,Travel & Transport,93.0,"",93.0,27
-2020-03-05,RhodeIsland,Discount Stores,109.0,"",109.0,28
-2020-03-06,RhodeIsland,Food,54.0,59.0,53.0,1
-2020-03-06,RhodeIsland,Shops & Services,32.0,32.0,32.0,2
-2020-03-06,RhodeIsland,Grocery,100.0,95.0,100.0,3
-2020-03-06,RhodeIsland,Nightlife Spots,46.0,49.0,46.0,4
-2020-03-06,RhodeIsland,Medical,53.0,47.0,53.0,5
-2020-03-06,RhodeIsland,Outdoors & Recreation,39.0,47.0,39.0,6
-2020-03-06,RhodeIsland,Colleges & Universities,55.0,88.0,55.0,7
-2020-03-06,RhodeIsland,School,58.0,55.0,58.0,8
-2020-03-06,RhodeIsland,Professional & Other Places,17.0,20.0,17.0,9
-2020-03-06,RhodeIsland,Gas Stations,96.0,101.0,96.0,10
-2020-03-06,RhodeIsland,Arts & Entertainment,83.0,100.0,82.0,11
-2020-03-06,RhodeIsland,Drug Store,96.0,99.0,96.0,12
-2020-03-06,RhodeIsland,Convenience Store,102.0,89.0,103.0,13
-2020-03-06,RhodeIsland,Fitness Center,61.0,54.0,61.0,14
-2020-03-06,RhodeIsland,Fast Food Restaurants,106.0,94.0,106.0,15
-2020-03-06,RhodeIsland,Office,81.0,111.0,80.0,16
-2020-03-06,RhodeIsland,Big Box Stores,100.0,89.0,100.0,17
-2020-03-06,RhodeIsland,Alcohol,108.0,106.0,108.0,18
-2020-03-06,RhodeIsland,Government,70.0,78.0,70.0,19
-2020-03-06,RhodeIsland,Banks,97.0,85.0,97.0,20
-2020-03-06,RhodeIsland,Hotel,76.0,69.0,76.0,21
-2020-03-06,RhodeIsland,Hardware Stores,107.0,106.0,107.0,22
-2020-03-06,RhodeIsland,Sports,30.0,45.0,30.0,23
-2020-03-06,RhodeIsland,Residences,92.0,91.0,92.0,24
-2020-03-06,RhodeIsland,Airport,75.0,"",76.0,25
-2020-03-06,RhodeIsland,Travel & Transport,92.0,"",93.0,26
-2020-03-06,RhodeIsland,Discount Stores,92.0,"",92.0,27
-2020-03-06,RhodeIsland,Beach,96.0,143.0,93.0,28
-2020-03-07,RhodeIsland,Food,51.0,54.0,51.0,1
-2020-03-07,RhodeIsland,Shops & Services,34.0,33.0,34.0,2
-2020-03-07,RhodeIsland,Nightlife Spots,43.0,39.0,43.0,3
-2020-03-07,RhodeIsland,Grocery,102.0,93.0,102.0,4
-2020-03-07,RhodeIsland,Arts & Entertainment,79.0,77.0,79.0,5
-2020-03-07,RhodeIsland,Outdoors & Recreation,36.0,38.0,36.0,6
-2020-03-07,RhodeIsland,Gas Stations,104.0,97.0,104.0,7
-2020-03-07,RhodeIsland,Big Box Stores,101.0,91.0,102.0,8
-2020-03-07,RhodeIsland,Professional & Other Places,25.0,23.0,25.0,9
-2020-03-07,RhodeIsland,Medical,52.0,58.0,52.0,10
-2020-03-07,RhodeIsland,Drug Store,93.0,85.0,93.0,11
-2020-03-07,RhodeIsland,Convenience Store,96.0,83.0,96.0,12
-2020-03-07,RhodeIsland,Fast Food Restaurants,95.0,99.0,95.0,13
-2020-03-07,RhodeIsland,Colleges & Universities,42.0,51.0,42.0,14
-2020-03-07,RhodeIsland,Fitness Center,65.0,59.0,65.0,15
-2020-03-07,RhodeIsland,School,52.0,45.0,53.0,16
-2020-03-07,RhodeIsland,Hotel,76.0,68.0,76.0,17
-2020-03-07,RhodeIsland,Alcohol,102.0,83.0,103.0,18
-2020-03-07,RhodeIsland,Hardware Stores,102.0,80.0,103.0,19
-2020-03-07,RhodeIsland,Residences,103.0,101.0,103.0,20
-2020-03-07,RhodeIsland,Sports,28.0,"",28.0,20
-2020-03-07,RhodeIsland,Banks,88.0,"",88.0,21
-2020-03-07,RhodeIsland,Beach,83.0,110.0,82.0,22
-2020-03-07,RhodeIsland,Office,84.0,"",83.0,23
-2020-03-07,RhodeIsland,Airport,66.0,"",66.0,24
-2020-03-07,RhodeIsland,Government,66.0,"",66.0,25
-2020-03-07,RhodeIsland,Travel & Transport,95.0,"",96.0,26
-2020-03-07,RhodeIsland,Discount Stores,84.0,"",84.0,26
-2020-03-08,RhodeIsland,Food,59.0,57.0,59.0,1
-2020-03-08,RhodeIsland,Shops & Services,31.0,31.0,31.0,2
-2020-03-08,RhodeIsland,Grocery,100.0,93.0,101.0,3
-2020-03-08,RhodeIsland,Nightlife Spots,44.0,37.0,44.0,4
-2020-03-08,RhodeIsland,Outdoors & Recreation,43.0,44.0,43.0,5
-2020-03-08,RhodeIsland,Arts & Entertainment,77.0,71.0,77.0,6
-2020-03-08,RhodeIsland,Big Box Stores,113.0,94.0,113.0,7
-2020-03-08,RhodeIsland,Gas Stations,99.0,97.0,99.0,8
-2020-03-08,RhodeIsland,Drug Store,100.0,88.0,100.0,9
-2020-03-08,RhodeIsland,Fast Food Restaurants,111.0,95.0,111.0,10
-2020-03-08,RhodeIsland,Professional & Other Places,18.0,15.0,18.0,11
-2020-03-08,RhodeIsland,Convenience Store,102.0,97.0,102.0,12
-2020-03-08,RhodeIsland,Colleges & Universities,48.0,"",48.0,13
-2020-03-08,RhodeIsland,Medical,53.0,55.0,53.0,14
-2020-03-08,RhodeIsland,School,57.0,55.0,57.0,15
-2020-03-08,RhodeIsland,Fitness Center,69.0,55.0,69.0,16
-2020-03-08,RhodeIsland,Hotel,70.0,62.0,70.0,17
-2020-03-08,RhodeIsland,Hardware Stores,117.0,124.0,117.0,18
-2020-03-08,RhodeIsland,Alcohol,103.0,"",103.0,19
-2020-03-08,RhodeIsland,Residences,108.0,"",109.0,20
-2020-03-08,RhodeIsland,Beach,95.0,115.0,94.0,21
-2020-03-08,RhodeIsland,Sports,33.0,"",33.0,22
-2020-03-08,RhodeIsland,Travel & Transport,129.0,"",129.0,23
-2020-03-08,RhodeIsland,Airport,78.0,"",81.0,24
-2020-03-08,RhodeIsland,Discount Stores,110.0,"",110.0,25
-2020-03-08,RhodeIsland,Banks,107.0,"",107.0,26
-2020-03-08,RhodeIsland,Government,68.0,"",69.0,27
-2020-03-08,RhodeIsland,Office,71.0,"",71.0,28
-2020-03-09,RhodeIsland,Food,56.0,56.0,56.0,1
-2020-03-09,RhodeIsland,Shops & Services,34.0,37.0,34.0,2
-2020-03-09,RhodeIsland,Medical,59.0,49.0,59.0,3
-2020-03-09,RhodeIsland,Outdoors & Recreation,53.0,57.0,53.0,4
-2020-03-09,RhodeIsland,Grocery,105.0,103.0,105.0,5
-2020-03-09,RhodeIsland,Nightlife Spots,48.0,48.0,48.0,6
-2020-03-09,RhodeIsland,School,63.0,57.0,63.0,7
-2020-03-09,RhodeIsland,Colleges & Universities,36.0,55.0,36.0,8
-2020-03-09,RhodeIsland,Professional & Other Places,17.0,21.0,17.0,9
-2020-03-09,RhodeIsland,Gas Stations,110.0,105.0,111.0,10
-2020-03-09,RhodeIsland,Drug Store,112.0,110.0,112.0,11
-2020-03-09,RhodeIsland,Arts & Entertainment,82.0,71.0,83.0,12
-2020-03-09,RhodeIsland,Convenience Store,105.0,108.0,105.0,13
-2020-03-09,RhodeIsland,Fitness Center,67.0,65.0,67.0,13
-2020-03-09,RhodeIsland,Office,97.0,96.0,97.0,14
-2020-03-09,RhodeIsland,Fast Food Restaurants,113.0,91.0,114.0,15
-2020-03-09,RhodeIsland,Big Box Stores,100.0,87.0,101.0,16
-2020-03-09,RhodeIsland,Government,72.0,85.0,72.0,17
-2020-03-09,RhodeIsland,Hotel,80.0,80.0,80.0,18
-2020-03-09,RhodeIsland,Banks,117.0,115.0,117.0,19
-2020-03-09,RhodeIsland,Alcohol,121.0,117.0,121.0,20
-2020-03-09,RhodeIsland,Hardware Stores,107.0,114.0,107.0,21
-2020-03-09,RhodeIsland,Beach,129.0,113.0,130.0,22
-2020-03-09,RhodeIsland,Residences,108.0,112.0,108.0,23
-2020-03-09,RhodeIsland,Sports,31.0,35.0,30.0,24
-2020-03-09,RhodeIsland,Travel & Transport,107.0,"",107.0,25
-2020-03-09,RhodeIsland,Airport,64.0,78.0,64.0,26
-2020-03-09,RhodeIsland,Discount Stores,96.0,"",97.0,27
-2020-03-10,RhodeIsland,Food,56.0,52.0,56.0,1
-2020-03-10,RhodeIsland,Shops & Services,33.0,35.0,33.0,2
-2020-03-10,RhodeIsland,Medical,51.0,44.0,52.0,3
-2020-03-10,RhodeIsland,Grocery,105.0,94.0,106.0,4
-2020-03-10,RhodeIsland,Outdoors & Recreation,44.0,43.0,44.0,5
-2020-03-10,RhodeIsland,Nightlife Spots,46.0,48.0,46.0,6
-2020-03-10,RhodeIsland,Colleges & Universities,37.0,45.0,37.0,7
-2020-03-10,RhodeIsland,School,59.0,56.0,59.0,8
-2020-03-10,RhodeIsland,Professional & Other Places,16.0,16.0,16.0,9
-2020-03-10,RhodeIsland,Drug Store,104.0,121.0,103.0,10
-2020-03-10,RhodeIsland,Gas Stations,103.0,112.0,103.0,11
-2020-03-10,RhodeIsland,Office,87.0,87.0,87.0,12
-2020-03-10,RhodeIsland,Fitness Center,62.0,59.0,62.0,13
-2020-03-10,RhodeIsland,Convenience Store,100.0,94.0,100.0,14
-2020-03-10,RhodeIsland,Arts & Entertainment,84.0,80.0,84.0,15
-2020-03-10,RhodeIsland,Fast Food Restaurants,111.0,96.0,112.0,16
-2020-03-10,RhodeIsland,Big Box Stores,101.0,98.0,101.0,17
-2020-03-10,RhodeIsland,Government,66.0,77.0,66.0,18
-2020-03-10,RhodeIsland,Hotel,77.0,76.0,77.0,19
-2020-03-10,RhodeIsland,Alcohol,107.0,94.0,108.0,20
-2020-03-10,RhodeIsland,Hardware Stores,108.0,99.0,109.0,21
-2020-03-10,RhodeIsland,Sports,39.0,40.0,39.0,22
-2020-03-10,RhodeIsland,Banks,98.0,85.0,99.0,23
-2020-03-10,RhodeIsland,Residences,108.0,106.0,108.0,24
-2020-03-10,RhodeIsland,Travel & Transport,118.0,"",119.0,25
-2020-03-10,RhodeIsland,Airport,65.0,78.0,64.0,26
-2020-03-10,RhodeIsland,Beach,113.0,131.0,111.0,27
-2020-03-10,RhodeIsland,Discount Stores,110.0,"",109.0,28
-2020-03-11,RhodeIsland,Food,55.0,55.0,55.0,1
-2020-03-11,RhodeIsland,Shops & Services,33.0,36.0,33.0,2
-2020-03-11,RhodeIsland,Medical,48.0,43.0,48.0,3
-2020-03-11,RhodeIsland,Grocery,104.0,98.0,104.0,4
-2020-03-11,RhodeIsland,Outdoors & Recreation,40.0,43.0,40.0,5
-2020-03-11,RhodeIsland,Nightlife Spots,45.0,44.0,45.0,6
-2020-03-11,RhodeIsland,School,53.0,49.0,53.0,7
-2020-03-11,RhodeIsland,Colleges & Universities,37.0,51.0,37.0,8
-2020-03-11,RhodeIsland,Professional & Other Places,13.0,14.0,13.0,9
-2020-03-11,RhodeIsland,Gas Stations,104.0,93.0,105.0,10
-2020-03-11,RhodeIsland,Office,84.0,84.0,84.0,11
-2020-03-11,RhodeIsland,Convenience Store,100.0,99.0,100.0,12
-2020-03-11,RhodeIsland,Fitness Center,62.0,51.0,62.0,12
-2020-03-11,RhodeIsland,Drug Store,94.0,93.0,94.0,13
-2020-03-11,RhodeIsland,Arts & Entertainment,78.0,86.0,78.0,14
-2020-03-11,RhodeIsland,Fast Food Restaurants,112.0,133.0,111.0,15
-2020-03-11,RhodeIsland,Big Box Stores,110.0,80.0,111.0,16
-2020-03-11,RhodeIsland,Government,57.0,79.0,56.0,17
-2020-03-11,RhodeIsland,Hotel,73.0,79.0,73.0,18
-2020-03-11,RhodeIsland,Hardware Stores,111.0,110.0,111.0,19
-2020-03-11,RhodeIsland,Residences,116.0,104.0,117.0,20
-2020-03-11,RhodeIsland,Sports,39.0,42.0,39.0,21
-2020-03-11,RhodeIsland,Alcohol,102.0,111.0,102.0,22
-2020-03-11,RhodeIsland,Banks,93.0,92.0,93.0,23
-2020-03-11,RhodeIsland,Travel & Transport,93.0,"",95.0,24
-2020-03-11,RhodeIsland,Airport,70.0,83.0,69.0,25
-2020-03-11,RhodeIsland,Beach,92.0,82.0,93.0,26
-2020-03-11,RhodeIsland,Discount Stores,94.0,"",94.0,27
-2020-03-12,RhodeIsland,Food,52.0,58.0,52.0,1
-2020-03-12,RhodeIsland,Shops & Services,32.0,33.0,32.0,2
-2020-03-12,RhodeIsland,Grocery,118.0,107.0,119.0,3
-2020-03-12,RhodeIsland,Medical,48.0,49.0,48.0,4
-2020-03-12,RhodeIsland,Nightlife Spots,45.0,43.0,45.0,5
-2020-03-12,RhodeIsland,Outdoors & Recreation,37.0,39.0,37.0,6
-2020-03-12,RhodeIsland,School,52.0,46.0,52.0,7
-2020-03-12,RhodeIsland,Colleges & Universities,32.0,42.0,31.0,8
-2020-03-12,RhodeIsland,Drug Store,100.0,103.0,100.0,9
-2020-03-12,RhodeIsland,Gas Stations,98.0,95.0,98.0,10
-2020-03-12,RhodeIsland,Professional & Other Places,14.0,15.0,14.0,11
-2020-03-12,RhodeIsland,Convenience Store,100.0,102.0,100.0,12
-2020-03-12,RhodeIsland,Big Box Stores,114.0,104.0,115.0,13
-2020-03-12,RhodeIsland,Office,77.0,87.0,77.0,14
-2020-03-12,RhodeIsland,Fitness Center,59.0,45.0,60.0,15
-2020-03-12,RhodeIsland,Arts & Entertainment,66.0,74.0,66.0,16
-2020-03-12,RhodeIsland,Fast Food Restaurants,94.0,92.0,94.0,17
-2020-03-12,RhodeIsland,Government,66.0,69.0,66.0,18
-2020-03-12,RhodeIsland,Hardware Stores,121.0,104.0,122.0,19
-2020-03-12,RhodeIsland,Alcohol,116.0,132.0,115.0,20
-2020-03-12,RhodeIsland,Banks,103.0,111.0,103.0,21
-2020-03-12,RhodeIsland,Hotel,72.0,72.0,72.0,22
-2020-03-12,RhodeIsland,Residences,106.0,111.0,105.0,23
-2020-03-12,RhodeIsland,Sports,35.0,37.0,35.0,24
-2020-03-12,RhodeIsland,Travel & Transport,99.0,108.0,99.0,25
-2020-03-12,RhodeIsland,Discount Stores,125.0,172.0,124.0,26
-2020-03-12,RhodeIsland,Airport,53.0,"",53.0,27
-2020-03-12,RhodeIsland,Beach,98.0,105.0,98.0,28
-2020-03-13,RhodeIsland,Food,45.0,42.0,46.0,1
-2020-03-13,RhodeIsland,Shops & Services,32.0,34.0,32.0,2
-2020-03-13,RhodeIsland,Grocery,153.0,125.0,155.0,3
-2020-03-13,RhodeIsland,Nightlife Spots,40.0,39.0,40.0,4
-2020-03-13,RhodeIsland,Medical,47.0,44.0,47.0,5
-2020-03-13,RhodeIsland,Outdoors & Recreation,35.0,37.0,35.0,6
-2020-03-13,RhodeIsland,School,55.0,45.0,55.0,7
-2020-03-13,RhodeIsland,Drug Store,117.0,104.0,118.0,8
-2020-03-13,RhodeIsland,Big Box Stores,135.0,115.0,136.0,9
-2020-03-13,RhodeIsland,Gas Stations,92.0,94.0,92.0,10
-2020-03-13,RhodeIsland,Professional & Other Places,14.0,16.0,14.0,11
-2020-03-13,RhodeIsland,Convenience Store,100.0,101.0,100.0,12
-2020-03-13,RhodeIsland,Colleges & Universities,31.0,41.0,31.0,13
-2020-03-13,RhodeIsland,Fast Food Restaurants,105.0,78.0,106.0,14
-2020-03-13,RhodeIsland,Fitness Center,57.0,59.0,57.0,15
-2020-03-13,RhodeIsland,Arts & Entertainment,61.0,60.0,61.0,16
-2020-03-13,RhodeIsland,Office,75.0,69.0,75.0,17
-2020-03-13,RhodeIsland,Alcohol,123.0,112.0,123.0,18
-2020-03-13,RhodeIsland,Banks,101.0,83.0,102.0,19
-2020-03-13,RhodeIsland,Hardware Stores,120.0,97.0,122.0,20
-2020-03-13,RhodeIsland,Government,56.0,48.0,57.0,21
-2020-03-13,RhodeIsland,Hotel,63.0,66.0,63.0,22
-2020-03-13,RhodeIsland,Discount Stores,128.0,"",129.0,23
-2020-03-13,RhodeIsland,Residences,88.0,98.0,87.0,24
-2020-03-13,RhodeIsland,Sports,29.0,31.0,28.0,25
-2020-03-13,RhodeIsland,Airport,57.0,"",57.0,26
-2020-03-13,RhodeIsland,Beach,99.0,"",101.0,27
-2020-03-13,RhodeIsland,Travel & Transport,73.0,"",74.0,28
-2020-03-14,RhodeIsland,Food,41.0,42.0,41.0,1
-2020-03-14,RhodeIsland,Shops & Services,30.0,29.0,30.0,2
-2020-03-14,RhodeIsland,Grocery,129.0,105.0,130.0,3
-2020-03-14,RhodeIsland,Nightlife Spots,41.0,39.0,41.0,4
-2020-03-14,RhodeIsland,Outdoors & Recreation,42.0,41.0,42.0,5
-2020-03-14,RhodeIsland,Big Box Stores,113.0,84.0,114.0,6
-2020-03-14,RhodeIsland,Drug Store,112.0,104.0,112.0,7
-2020-03-14,RhodeIsland,Gas Stations,97.0,93.0,98.0,8
-2020-03-14,RhodeIsland,Convenience Store,93.0,82.0,93.0,9
-2020-03-14,RhodeIsland,Medical,45.0,43.0,45.0,10
-2020-03-14,RhodeIsland,Professional & Other Places,14.0,11.0,15.0,11
-2020-03-14,RhodeIsland,Arts & Entertainment,35.0,30.0,35.0,12
-2020-03-14,RhodeIsland,Fast Food Restaurants,80.0,70.0,80.0,13
-2020-03-14,RhodeIsland,Hardware Stores,121.0,86.0,123.0,14
-2020-03-14,RhodeIsland,Alcohol,100.0,69.0,101.0,15
-2020-03-14,RhodeIsland,Fitness Center,48.0,42.0,49.0,16
-2020-03-14,RhodeIsland,Colleges & Universities,33.0,"",33.0,17
-2020-03-14,RhodeIsland,Beach,143.0,142.0,143.0,18
-2020-03-14,RhodeIsland,School,38.0,41.0,38.0,19
-2020-03-14,RhodeIsland,Hotel,53.0,"",53.0,20
-2020-03-14,RhodeIsland,Residences,94.0,"",94.0,21
-2020-03-14,RhodeIsland,Sports,30.0,36.0,29.0,22
-2020-03-14,RhodeIsland,Discount Stores,111.0,"",110.0,23
-2020-03-14,RhodeIsland,Banks,81.0,"",81.0,24
-2020-03-14,RhodeIsland,Travel & Transport,91.0,"",91.0,25
-2020-03-14,RhodeIsland,Office,72.0,"",72.0,26
-2020-03-14,RhodeIsland,Government,56.0,"",56.0,27
-2020-03-14,RhodeIsland,Airport,45.0,"",45.0,28
-2020-03-15,RhodeIsland,Food,36.0,33.0,36.0,1
-2020-03-15,RhodeIsland,Shops & Services,43.0,36.0,43.0,2
-2020-03-15,RhodeIsland,Grocery,100.0,103.0,100.0,3
-2020-03-15,RhodeIsland,Outdoors & Recreation,39.0,36.0,39.0,4
-2020-03-15,RhodeIsland,Nightlife Spots,31.0,29.0,31.0,5
-2020-03-15,RhodeIsland,Drug Store,107.0,114.0,106.0,6
-2020-03-15,RhodeIsland,Gas Stations,92.0,82.0,93.0,7
-2020-03-15,RhodeIsland,Big Box Stores,83.0,81.0,83.0,8
-2020-03-15,RhodeIsland,Convenience Store,99.0,97.0,99.0,9
-2020-03-15,RhodeIsland,Fast Food Restaurants,90.0,"",90.0,10
-2020-03-15,RhodeIsland,Beach,126.0,124.0,126.0,11
-2020-03-15,RhodeIsland,Hardware Stores,118.0,113.0,118.0,12
-2020-03-15,RhodeIsland,Medical,40.0,47.0,40.0,13
-2020-03-15,RhodeIsland,Alcohol,103.0,92.0,103.0,14
-2020-03-15,RhodeIsland,Arts & Entertainment,27.0,"",27.0,15
-2020-03-15,RhodeIsland,Colleges & Universities,32.0,"",32.0,16
-2020-03-15,RhodeIsland,Hotel,56.0,"",57.0,17
-2020-03-15,RhodeIsland,School,43.0,"",43.0,18
-2020-03-15,RhodeIsland,Professional & Other Places,12.0,"",12.0,19
-2020-03-15,RhodeIsland,Fitness Center,48.0,"",48.0,20
-2020-03-15,RhodeIsland,Residences,99.0,"",100.0,21
-2020-03-15,RhodeIsland,Sports,28.0,"",28.0,22
-2020-03-15,RhodeIsland,Discount Stores,106.0,"",107.0,23
-2020-03-15,RhodeIsland,Airport,63.0,"",64.0,24
-2020-03-15,RhodeIsland,Travel & Transport,87.0,"",87.0,25
-2020-03-15,RhodeIsland,Government,51.0,"",52.0,26
-2020-03-15,RhodeIsland,Banks,77.0,"",78.0,27
-2020-03-15,RhodeIsland,Office,67.0,"",67.0,28
-2020-03-16,RhodeIsland,Food,44.0,41.0,44.0,1
-2020-03-16,RhodeIsland,Shops & Services,28.0,27.0,29.0,2
-2020-03-16,RhodeIsland,Grocery,133.0,126.0,134.0,3
-2020-03-16,RhodeIsland,Medical,44.0,35.0,44.0,4
-2020-03-16,RhodeIsland,Outdoors & Recreation,35.0,36.0,35.0,5
-2020-03-16,RhodeIsland,Nightlife Spots,36.0,32.0,36.0,6
-2020-03-16,RhodeIsland,Drug Store,121.0,89.0,123.0,7
-2020-03-16,RhodeIsland,Gas Stations,93.0,80.0,94.0,8
-2020-03-16,RhodeIsland,Professional & Other Places,13.0,12.0,13.0,9
-2020-03-16,RhodeIsland,Convenience Store,96.0,95.0,96.0,10
-2020-03-16,RhodeIsland,Big Box Stores,115.0,89.0,117.0,11
-2020-03-16,RhodeIsland,Fast Food Restaurants,93.0,67.0,94.0,12
-2020-03-16,RhodeIsland,Colleges & Universities,20.0,"",20.0,13
-2020-03-16,RhodeIsland,Office,66.0,66.0,66.0,14
-2020-03-16,RhodeIsland,School,26.0,29.0,26.0,15
-2020-03-16,RhodeIsland,Alcohol,128.0,108.0,129.0,16
-2020-03-16,RhodeIsland,Fitness Center,38.0,42.0,38.0,17
-2020-03-16,RhodeIsland,Hardware Stores,109.0,88.0,110.0,18
-2020-03-16,RhodeIsland,Banks,106.0,86.0,107.0,19
-2020-03-16,RhodeIsland,Government,58.0,60.0,58.0,20
-2020-03-16,RhodeIsland,Arts & Entertainment,44.0,"",44.0,21
-2020-03-16,RhodeIsland,Hotel,60.0,"",60.0,22
-2020-03-16,RhodeIsland,Residences,82.0,"",83.0,23
-2020-03-16,RhodeIsland,Beach,90.0,83.0,91.0,24
-2020-03-16,RhodeIsland,Sports,21.0,"",21.0,25
-2020-03-16,RhodeIsland,Airport,59.0,"",60.0,26
-2020-03-16,RhodeIsland,Travel & Transport,82.0,"",82.0,27
-2020-03-16,RhodeIsland,Discount Stores,112.0,"",112.0,28
-2020-03-17,RhodeIsland,Food,33.0,31.0,33.0,1
-2020-03-17,RhodeIsland,Shops & Services,18.0,16.0,18.0,2
-2020-03-17,RhodeIsland,Grocery,111.0,90.0,112.0,3
-2020-03-17,RhodeIsland,Medical,36.0,28.0,36.0,4
-2020-03-17,RhodeIsland,Outdoors & Recreation,27.0,25.0,28.0,5
-2020-03-17,RhodeIsland,Nightlife Spots,28.0,25.0,28.0,6
-2020-03-17,RhodeIsland,Drug Store,93.0,66.0,94.0,7
-2020-03-17,RhodeIsland,Gas Stations,82.0,71.0,82.0,8
-2020-03-17,RhodeIsland,Convenience Store,82.0,79.0,82.0,9
-2020-03-17,RhodeIsland,Professional & Other Places,9.0,8.0,9.0,10
-2020-03-17,RhodeIsland,Big Box Stores,99.0,70.0,101.0,11
-2020-03-17,RhodeIsland,Office,54.0,56.0,54.0,12
-2020-03-17,RhodeIsland,Colleges & Universities,27.0,"",27.0,13
-2020-03-17,RhodeIsland,School,22.0,25.0,22.0,14
-2020-03-17,RhodeIsland,Alcohol,107.0,79.0,108.0,15
-2020-03-17,RhodeIsland,Fast Food Restaurants,70.0,67.0,70.0,16
-2020-03-17,RhodeIsland,Hardware Stores,99.0,89.0,99.0,17
-2020-03-17,RhodeIsland,Arts & Entertainment,41.0,"",41.0,18
-2020-03-17,RhodeIsland,Government,39.0,39.0,39.0,19
-2020-03-17,RhodeIsland,Fitness Center,23.0,"",23.0,20
-2020-03-17,RhodeIsland,Banks,67.0,65.0,67.0,21
-2020-03-17,RhodeIsland,Residences,76.0,"",77.0,22
-2020-03-17,RhodeIsland,Hotel,49.0,"",49.0,23
-2020-03-17,RhodeIsland,Beach,94.0,"",95.0,24
-2020-03-17,RhodeIsland,Sports,20.0,"",20.0,25
-2020-03-17,RhodeIsland,Travel & Transport,71.0,"",71.0,26
-2020-03-17,RhodeIsland,Discount Stores,88.0,"",89.0,27
-2020-03-17,RhodeIsland,Airport,39.0,"",38.0,28
-2020-03-18,RhodeIsland,Food,34.0,34.0,34.0,1
-2020-03-18,RhodeIsland,Shops & Services,22.0,24.0,22.0,2
-2020-03-18,RhodeIsland,Grocery,101.0,79.0,102.0,3
-2020-03-18,RhodeIsland,Outdoors & Recreation,40.0,43.0,40.0,4
-2020-03-18,RhodeIsland,Medical,32.0,25.0,33.0,5
-2020-03-18,RhodeIsland,Drug Store,92.0,86.0,92.0,6
-2020-03-18,RhodeIsland,Nightlife Spots,26.0,29.0,26.0,7
-2020-03-18,RhodeIsland,Professional & Other Places,11.0,12.0,11.0,8
-2020-03-18,RhodeIsland,Gas Stations,83.0,84.0,83.0,9
-2020-03-18,RhodeIsland,Convenience Store,82.0,79.0,83.0,10
-2020-03-18,RhodeIsland,Big Box Stores,90.0,79.0,90.0,11
-2020-03-18,RhodeIsland,Fast Food Restaurants,83.0,103.0,82.0,12
-2020-03-18,RhodeIsland,School,23.0,24.0,23.0,13
-2020-03-18,RhodeIsland,Office,52.0,54.0,52.0,14
-2020-03-18,RhodeIsland,Colleges & Universities,16.0,"",16.0,15
-2020-03-18,RhodeIsland,Hardware Stores,116.0,104.0,117.0,16
-2020-03-18,RhodeIsland,Beach,146.0,128.0,147.0,17
-2020-03-18,RhodeIsland,Alcohol,100.0,122.0,99.0,18
-2020-03-18,RhodeIsland,Arts & Entertainment,42.0,42.0,42.0,19
-2020-03-18,RhodeIsland,Sports,25.0,26.0,25.0,20
-2020-03-18,RhodeIsland,Residences,89.0,82.0,89.0,21
-2020-03-18,RhodeIsland,Government,37.0,33.0,37.0,22
-2020-03-18,RhodeIsland,Banks,74.0,"",74.0,23
-2020-03-18,RhodeIsland,Fitness Center,24.0,27.0,23.0,24
-2020-03-18,RhodeIsland,Hotel,44.0,"",43.0,25
-2020-03-18,RhodeIsland,Discount Stores,93.0,"",94.0,26
-2020-03-18,RhodeIsland,Airport,47.0,"",47.0,27
-2020-03-18,RhodeIsland,Travel & Transport,59.0,"",59.0,27
-2020-03-19,RhodeIsland,Food,29.0,28.0,29.0,1
-2020-03-19,RhodeIsland,Shops & Services,20.0,19.0,20.0,2
-2020-03-19,RhodeIsland,Grocery,101.0,93.0,102.0,3
-2020-03-19,RhodeIsland,Medical,32.0,26.0,32.0,4
-2020-03-19,RhodeIsland,Outdoors & Recreation,27.0,30.0,27.0,5
-2020-03-19,RhodeIsland,Drug Store,87.0,76.0,88.0,6
-2020-03-19,RhodeIsland,Gas Stations,72.0,77.0,72.0,7
-2020-03-19,RhodeIsland,Nightlife Spots,19.0,17.0,19.0,8
-2020-03-19,RhodeIsland,Professional & Other Places,8.0,8.0,8.0,9
-2020-03-19,RhodeIsland,Big Box Stores,78.0,62.0,79.0,10
-2020-03-19,RhodeIsland,Convenience Store,58.0,55.0,58.0,11
-2020-03-19,RhodeIsland,School,20.0,24.0,20.0,12
-2020-03-19,RhodeIsland,Fast Food Restaurants,65.0,63.0,65.0,13
-2020-03-19,RhodeIsland,Office,47.0,48.0,47.0,14
-2020-03-19,RhodeIsland,Colleges & Universities,15.0,"",15.0,15
-2020-03-19,RhodeIsland,Hardware Stores,90.0,78.0,91.0,16
-2020-03-19,RhodeIsland,Alcohol,84.0,76.0,84.0,17
-2020-03-19,RhodeIsland,Arts & Entertainment,34.0,"",34.0,18
-2020-03-19,RhodeIsland,Government,37.0,44.0,37.0,19
-2020-03-19,RhodeIsland,Fitness Center,23.0,"",23.0,20
-2020-03-19,RhodeIsland,Banks,65.0,"",65.0,21
-2020-03-19,RhodeIsland,Discount Stores,100.0,"",100.0,22
-2020-03-19,RhodeIsland,Hotel,43.0,"",43.0,23
-2020-03-19,RhodeIsland,Beach,88.0,100.0,87.0,24
-2020-03-19,RhodeIsland,Residences,56.0,"",57.0,25
-2020-03-19,RhodeIsland,Sports,19.0,"",19.0,26
-2020-03-19,RhodeIsland,Airport,34.0,"",35.0,27
-2020-03-19,RhodeIsland,Travel & Transport,50.0,"",51.0,28
-2020-03-20,RhodeIsland,Food,28.0,27.0,28.0,1
-2020-03-20,RhodeIsland,Shops & Services,18.0,18.0,18.0,2
-2020-03-20,RhodeIsland,Grocery,118.0,100.0,119.0,3
-2020-03-20,RhodeIsland,Outdoors & Recreation,35.0,43.0,35.0,4
-2020-03-20,RhodeIsland,Medical,34.0,27.0,34.0,5
-2020-03-20,RhodeIsland,Drug Store,94.0,78.0,95.0,6
-2020-03-20,RhodeIsland,Nightlife Spots,22.0,23.0,22.0,7
-2020-03-20,RhodeIsland,Gas Stations,75.0,64.0,75.0,8
-2020-03-20,RhodeIsland,Big Box Stores,99.0,75.0,100.0,9
-2020-03-20,RhodeIsland,Convenience Store,76.0,75.0,76.0,10
-2020-03-20,RhodeIsland,Professional & Other Places,11.0,13.0,11.0,11
-2020-03-20,RhodeIsland,Alcohol,104.0,87.0,105.0,12
-2020-03-20,RhodeIsland,Fast Food Restaurants,73.0,63.0,73.0,13
-2020-03-20,RhodeIsland,School,25.0,28.0,25.0,14
-2020-03-20,RhodeIsland,Colleges & Universities,18.0,"",18.0,15
-2020-03-20,RhodeIsland,Office,51.0,54.0,51.0,15
-2020-03-20,RhodeIsland,Hardware Stores,108.0,100.0,109.0,15
-2020-03-20,RhodeIsland,Banks,77.0,68.0,77.0,16
-2020-03-20,RhodeIsland,Arts & Entertainment,37.0,"",37.0,17
-2020-03-20,RhodeIsland,Sports,30.0,33.0,30.0,18
-2020-03-20,RhodeIsland,Beach,135.0,104.0,137.0,19
-2020-03-20,RhodeIsland,Fitness Center,25.0,"",25.0,20
-2020-03-20,RhodeIsland,Government,39.0,"",39.0,21
-2020-03-20,RhodeIsland,Hotel,45.0,"",45.0,22
-2020-03-20,RhodeIsland,Residences,67.0,"",67.0,23
-2020-03-20,RhodeIsland,Travel & Transport,60.0,"",59.0,24
-2020-03-20,RhodeIsland,Discount Stores,69.0,"",69.0,25
-2020-03-20,RhodeIsland,Airport,37.0,"",37.0,26
-2020-03-21,RhodeIsland,Food,22.0,22.0,22.0,1
-2020-03-21,RhodeIsland,Shops & Services,16.0,17.0,16.0,2
-2020-03-21,RhodeIsland,Grocery,97.0,75.0,98.0,3
-2020-03-21,RhodeIsland,Outdoors & Recreation,42.0,51.0,41.0,4
-2020-03-21,RhodeIsland,Drug Store,90.0,94.0,90.0,5
-2020-03-21,RhodeIsland,Nightlife Spots,15.0,18.0,15.0,6
-2020-03-21,RhodeIsland,Gas Stations,79.0,79.0,79.0,7
-2020-03-21,RhodeIsland,Big Box Stores,77.0,59.0,77.0,8
-2020-03-21,RhodeIsland,Hardware Stores,118.0,86.0,120.0,9
-2020-03-21,RhodeIsland,Medical,36.0,33.0,36.0,10
-2020-03-21,RhodeIsland,Beach,163.0,152.0,164.0,11
-2020-03-21,RhodeIsland,Convenience Store,68.0,58.0,68.0,12
-2020-03-21,RhodeIsland,Alcohol,103.0,95.0,104.0,13
-2020-03-21,RhodeIsland,Fast Food Restaurants,67.0,71.0,67.0,14
-2020-03-21,RhodeIsland,Professional & Other Places,12.0,15.0,12.0,15
-2020-03-21,RhodeIsland,School,36.0,36.0,36.0,16
-2020-03-21,RhodeIsland,Sports,26.0,30.0,26.0,17
-2020-03-21,RhodeIsland,Banks,76.0,"",75.0,18
-2020-03-21,RhodeIsland,Arts & Entertainment,18.0,"",18.0,19
-2020-03-21,RhodeIsland,Colleges & Universities,29.0,"",29.0,20
-2020-03-21,RhodeIsland,Fitness Center,25.0,"",25.0,21
-2020-03-21,RhodeIsland,Residences,62.0,"",62.0,22
-2020-03-21,RhodeIsland,Discount Stores,72.0,"",72.0,23
-2020-03-21,RhodeIsland,Hotel,27.0,"",26.0,23
-2020-03-21,RhodeIsland,Travel & Transport,70.0,"",70.0,24
-2020-03-21,RhodeIsland,Government,44.0,"",44.0,25
-2020-03-21,RhodeIsland,Office,53.0,"",53.0,26
-2020-03-22,RhodeIsland,Food,23.0,24.0,23.0,1
-2020-03-22,RhodeIsland,Shops & Services,15.0,15.0,15.0,2
-2020-03-22,RhodeIsland,Grocery,76.0,73.0,76.0,3
-2020-03-22,RhodeIsland,Outdoors & Recreation,38.0,40.0,38.0,4
-2020-03-22,RhodeIsland,Nightlife Spots,13.0,15.0,12.0,5
-2020-03-22,RhodeIsland,Drug Store,76.0,96.0,75.0,6
-2020-03-22,RhodeIsland,Big Box Stores,67.0,69.0,67.0,7
-2020-03-22,RhodeIsland,Gas Stations,66.0,69.0,66.0,8
-2020-03-22,RhodeIsland,Convenience Store,67.0,"",67.0,9
-2020-03-22,RhodeIsland,Hardware Stores,100.0,101.0,100.0,10
-2020-03-22,RhodeIsland,Beach,98.0,77.0,99.0,11
-2020-03-22,RhodeIsland,Medical,33.0,34.0,33.0,12
-2020-03-22,RhodeIsland,Fast Food Restaurants,56.0,"",56.0,13
-2020-03-22,RhodeIsland,School,35.0,"",35.0,14
-2020-03-22,RhodeIsland,Alcohol,76.0,"",76.0,15
-2020-03-22,RhodeIsland,Professional & Other Places,9.0,"",9.0,16
-2020-03-22,RhodeIsland,Arts & Entertainment,19.0,"",19.0,17
-2020-03-22,RhodeIsland,Sports,21.0,"",21.0,18
-2020-03-22,RhodeIsland,Colleges & Universities,17.0,"",17.0,19
-2020-03-22,RhodeIsland,Discount Stores,84.0,"",85.0,20
-2020-03-22,RhodeIsland,Fitness Center,25.0,"",26.0,21
-2020-03-22,RhodeIsland,Residences,53.0,"",54.0,22
-2020-03-22,RhodeIsland,Hotel,23.0,"",23.0,23
-2020-03-22,RhodeIsland,Banks,64.0,"",64.0,24
-2020-03-23,RhodeIsland,Food,24.0,23.0,24.0,1
-2020-03-23,RhodeIsland,Shops & Services,18.0,19.0,18.0,2
-2020-03-23,RhodeIsland,Grocery,86.0,88.0,86.0,3
-2020-03-23,RhodeIsland,Medical,32.0,26.0,32.0,4
-2020-03-23,RhodeIsland,Outdoors & Recreation,26.0,33.0,26.0,5
-2020-03-23,RhodeIsland,Drug Store,82.0,76.0,82.0,6
-2020-03-23,RhodeIsland,Gas Stations,69.0,61.0,70.0,7
-2020-03-23,RhodeIsland,Professional & Other Places,10.0,11.0,10.0,8
-2020-03-23,RhodeIsland,Nightlife Spots,18.0,18.0,18.0,9
-2020-03-23,RhodeIsland,Convenience Store,63.0,77.0,62.0,10
-2020-03-23,RhodeIsland,Big Box Stores,79.0,66.0,80.0,11
-2020-03-23,RhodeIsland,School,22.0,26.0,22.0,12
-2020-03-23,RhodeIsland,Office,49.0,63.0,48.0,13
-2020-03-23,RhodeIsland,Fast Food Restaurants,61.0,"",61.0,14
-2020-03-23,RhodeIsland,Alcohol,91.0,93.0,91.0,15
-2020-03-23,RhodeIsland,Hardware Stores,83.0,85.0,83.0,15
-2020-03-23,RhodeIsland,Colleges & Universities,12.0,"",12.0,16
-2020-03-23,RhodeIsland,Government,37.0,"",37.0,17
-2020-03-23,RhodeIsland,Arts & Entertainment,30.0,"",30.0,17
-2020-03-23,RhodeIsland,Residences,65.0,"",65.0,18
-2020-03-23,RhodeIsland,Banks,60.0,"",60.0,19
-2020-03-23,RhodeIsland,Hotel,41.0,"",41.0,20
-2020-03-23,RhodeIsland,Fitness Center,20.0,"",20.0,21
-2020-03-23,RhodeIsland,Sports,20.0,"",19.0,22
-2020-03-23,RhodeIsland,Travel & Transport,56.0,"",56.0,23
-2020-03-23,RhodeIsland,Beach,57.0,"",59.0,24
-2020-03-23,RhodeIsland,Discount Stores,70.0,"",70.0,25
-2020-03-24,RhodeIsland,Food,28.0,31.0,28.0,1
-2020-03-24,RhodeIsland,Shops & Services,17.0,18.0,17.0,2
-2020-03-24,RhodeIsland,Grocery,82.0,77.0,83.0,3
-2020-03-24,RhodeIsland,Outdoors & Recreation,32.0,34.0,32.0,4
-2020-03-24,RhodeIsland,Medical,26.0,20.0,26.0,5
-2020-03-24,RhodeIsland,Drug Store,74.0,69.0,74.0,6
-2020-03-24,RhodeIsland,Nightlife Spots,21.0,22.0,21.0,7
-2020-03-24,RhodeIsland,Gas Stations,70.0,81.0,70.0,8
-2020-03-24,RhodeIsland,Professional & Other Places,9.0,10.0,9.0,9
-2020-03-24,RhodeIsland,Big Box Stores,87.0,95.0,87.0,10
-2020-03-24,RhodeIsland,School,22.0,27.0,22.0,11
-2020-03-24,RhodeIsland,Convenience Store,56.0,61.0,56.0,12
-2020-03-24,RhodeIsland,Colleges & Universities,14.0,"",14.0,13
-2020-03-24,RhodeIsland,Office,41.0,"",41.0,14
-2020-03-24,RhodeIsland,Fast Food Restaurants,60.0,"",60.0,15
-2020-03-24,RhodeIsland,Hardware Stores,91.0,84.0,91.0,16
-2020-03-24,RhodeIsland,Alcohol,86.0,88.0,85.0,17
-2020-03-24,RhodeIsland,Beach,138.0,134.0,138.0,18
-2020-03-24,RhodeIsland,Arts & Entertainment,35.0,"",35.0,19
-2020-03-24,RhodeIsland,Residences,70.0,"",70.0,20
-2020-03-24,RhodeIsland,Sports,21.0,25.0,21.0,21
-2020-03-24,RhodeIsland,Hotel,43.0,"",42.0,22
-2020-03-24,RhodeIsland,Banks,58.0,"",58.0,22
-2020-03-24,RhodeIsland,Government,28.0,"",28.0,23
-2020-03-24,RhodeIsland,Fitness Center,18.0,"",18.0,24
-2020-03-24,RhodeIsland,Discount Stores,80.0,"",80.0,25
-2020-03-24,RhodeIsland,Travel & Transport,57.0,"",58.0,26
-2020-03-25,RhodeIsland,Food,26.0,25.0,26.0,1
-2020-03-25,RhodeIsland,Shops & Services,16.0,17.0,16.0,2
-2020-03-25,RhodeIsland,Grocery,86.0,78.0,87.0,3
-2020-03-25,RhodeIsland,Outdoors & Recreation,30.0,33.0,29.0,4
-2020-03-25,RhodeIsland,Medical,26.0,22.0,26.0,5
-2020-03-25,RhodeIsland,Drug Store,72.0,59.0,72.0,6
-2020-03-25,RhodeIsland,Nightlife Spots,20.0,24.0,20.0,7
-2020-03-25,RhodeIsland,Gas Stations,69.0,80.0,68.0,8
-2020-03-25,RhodeIsland,Professional & Other Places,8.0,9.0,8.0,9
-2020-03-25,RhodeIsland,Big Box Stores,78.0,62.0,78.0,10
-2020-03-25,RhodeIsland,Convenience Store,52.0,48.0,52.0,11
-2020-03-25,RhodeIsland,School,18.0,21.0,18.0,12
-2020-03-25,RhodeIsland,Office,41.0,"",41.0,13
-2020-03-25,RhodeIsland,Hardware Stores,88.0,72.0,89.0,14
-2020-03-25,RhodeIsland,Fast Food Restaurants,56.0,"",56.0,15
-2020-03-25,RhodeIsland,Colleges & Universities,12.0,"",11.0,16
-2020-03-25,RhodeIsland,Alcohol,77.0,82.0,76.0,17
-2020-03-25,RhodeIsland,Arts & Entertainment,28.0,"",28.0,18
-2020-03-25,RhodeIsland,Banks,57.0,"",57.0,19
-2020-03-25,RhodeIsland,Government,26.0,"",26.0,20
-2020-03-25,RhodeIsland,Beach,72.0,63.0,72.0,21
-2020-03-25,RhodeIsland,Hotel,34.0,"",34.0,22
-2020-03-25,RhodeIsland,Sports,15.0,"",15.0,23
-2020-03-25,RhodeIsland,Residences,52.0,"",53.0,23
-2020-03-25,RhodeIsland,Fitness Center,16.0,"",16.0,24
-2020-03-25,RhodeIsland,Discount Stores,71.0,"",71.0,25
-2020-03-25,RhodeIsland,Travel & Transport,46.0,"",46.0,26
-2020-03-26,RhodeIsland,Food,27.0,24.0,27.0,1
-2020-03-26,RhodeIsland,Shops & Services,18.0,20.0,18.0,2
-2020-03-26,RhodeIsland,Grocery,88.0,84.0,88.0,3
-2020-03-26,RhodeIsland,Outdoors & Recreation,38.0,40.0,38.0,4
-2020-03-26,RhodeIsland,Medical,29.0,24.0,29.0,5
-2020-03-26,RhodeIsland,Drug Store,77.0,70.0,77.0,6
-2020-03-26,RhodeIsland,Nightlife Spots,20.0,24.0,19.0,7
-2020-03-26,RhodeIsland,Gas Stations,74.0,82.0,73.0,7
-2020-03-26,RhodeIsland,Professional & Other Places,11.0,13.0,11.0,8
-2020-03-26,RhodeIsland,Convenience Store,68.0,72.0,68.0,9
-2020-03-26,RhodeIsland,School,24.0,35.0,23.0,10
-2020-03-26,RhodeIsland,Big Box Stores,76.0,68.0,76.0,11
-2020-03-26,RhodeIsland,Fast Food Restaurants,66.0,58.0,66.0,12
-2020-03-26,RhodeIsland,Office,44.0,"",44.0,13
-2020-03-26,RhodeIsland,Beach,164.0,132.0,167.0,13
-2020-03-26,RhodeIsland,Hardware Stores,97.0,73.0,98.0,14
-2020-03-26,RhodeIsland,Colleges & Universities,15.0,"",14.0,15
-2020-03-26,RhodeIsland,Sports,27.0,30.0,27.0,16
-2020-03-26,RhodeIsland,Arts & Entertainment,37.0,"",38.0,17
-2020-03-26,RhodeIsland,Alcohol,81.0,71.0,82.0,18
-2020-03-26,RhodeIsland,Government,34.0,40.0,34.0,19
-2020-03-26,RhodeIsland,Residences,69.0,"",69.0,20
-2020-03-26,RhodeIsland,Fitness Center,20.0,"",20.0,21
-2020-03-26,RhodeIsland,Banks,57.0,"",56.0,22
-2020-03-26,RhodeIsland,Hotel,38.0,"",38.0,23
-2020-03-26,RhodeIsland,Travel & Transport,60.0,"",61.0,24
-2020-03-26,RhodeIsland,Discount Stores,68.0,"",67.0,25
-2020-03-26,RhodeIsland,Airport,26.0,"",26.0,26
-2020-03-27,RhodeIsland,Food,28.0,27.0,28.0,1
-2020-03-27,RhodeIsland,Shops & Services,17.0,18.0,17.0,2
-2020-03-27,RhodeIsland,Outdoors & Recreation,40.0,45.0,40.0,3
-2020-03-27,RhodeIsland,Grocery,80.0,74.0,81.0,4
-2020-03-27,RhodeIsland,Medical,29.0,23.0,29.0,5
-2020-03-27,RhodeIsland,Nightlife Spots,22.0,28.0,22.0,6
-2020-03-27,RhodeIsland,Gas Stations,67.0,64.0,67.0,7
-2020-03-27,RhodeIsland,Drug Store,70.0,58.0,70.0,8
-2020-03-27,RhodeIsland,Professional & Other Places,9.0,10.0,9.0,9
-2020-03-27,RhodeIsland,Convenience Store,65.0,70.0,65.0,10
-2020-03-27,RhodeIsland,Fast Food Restaurants,77.0,71.0,77.0,11
-2020-03-27,RhodeIsland,Beach,189.0,146.0,191.0,12
-2020-03-27,RhodeIsland,Alcohol,92.0,81.0,92.0,13
-2020-03-27,RhodeIsland,School,22.0,28.0,22.0,14
-2020-03-27,RhodeIsland,Big Box Stores,65.0,57.0,65.0,15
-2020-03-27,RhodeIsland,Hardware Stores,107.0,98.0,108.0,16
-2020-03-27,RhodeIsland,Office,42.0,52.0,42.0,17
-2020-03-27,RhodeIsland,Colleges & Universities,14.0,"",14.0,18
-2020-03-27,RhodeIsland,Sports,28.0,37.0,28.0,19
-2020-03-27,RhodeIsland,Arts & Entertainment,32.0,"",32.0,20
-2020-03-27,RhodeIsland,Banks,57.0,58.0,57.0,21
-2020-03-27,RhodeIsland,Residences,73.0,"",73.0,22
-2020-03-27,RhodeIsland,Government,36.0,41.0,35.0,23
-2020-03-27,RhodeIsland,Fitness Center,21.0,"",21.0,24
-2020-03-27,RhodeIsland,Hotel,37.0,"",37.0,25
-2020-03-27,RhodeIsland,Discount Stores,73.0,"",73.0,26
-2020-03-27,RhodeIsland,Travel & Transport,53.0,"",53.0,27
-2020-03-28,RhodeIsland,Food,24.0,24.0,24.0,1
-2020-03-28,RhodeIsland,Shops & Services,14.0,14.0,14.0,2
-2020-03-28,RhodeIsland,Grocery,78.0,67.0,79.0,3
-2020-03-28,RhodeIsland,Outdoors & Recreation,34.0,35.0,34.0,4
-2020-03-28,RhodeIsland,Nightlife Spots,14.0,19.0,14.0,5
-2020-03-28,RhodeIsland,Drug Store,74.0,74.0,74.0,6
-2020-03-28,RhodeIsland,Gas Stations,65.0,52.0,65.0,7
-2020-03-28,RhodeIsland,Hardware Stores,118.0,91.0,119.0,8
-2020-03-28,RhodeIsland,Big Box Stores,62.0,49.0,62.0,9
-2020-03-28,RhodeIsland,Medical,30.0,30.0,30.0,10
-2020-03-28,RhodeIsland,Alcohol,88.0,77.0,89.0,11
-2020-03-28,RhodeIsland,Fast Food Restaurants,61.0,"",61.0,12
-2020-03-28,RhodeIsland,Convenience Store,57.0,57.0,57.0,13
-2020-03-28,RhodeIsland,Beach,129.0,113.0,130.0,14
-2020-03-28,RhodeIsland,Professional & Other Places,11.0,"",11.0,15
-2020-03-28,RhodeIsland,School,31.0,"",31.0,16
-2020-03-28,RhodeIsland,Sports,29.0,34.0,29.0,17
-2020-03-28,RhodeIsland,Arts & Entertainment,17.0,"",17.0,18
-2020-03-28,RhodeIsland,Residences,63.0,"",64.0,19
-2020-03-28,RhodeIsland,Colleges & Universities,16.0,"",15.0,20
-2020-03-28,RhodeIsland,Fitness Center,20.0,"",20.0,21
-2020-03-28,RhodeIsland,Banks,52.0,"",52.0,22
-2020-03-28,RhodeIsland,Hotel,23.0,"",23.0,23
-2020-03-28,RhodeIsland,Discount Stores,59.0,"",59.0,24
-2020-03-28,RhodeIsland,Office,56.0,"",56.0,25
-2020-03-28,RhodeIsland,Government,34.0,"",34.0,26
-2020-03-29,RhodeIsland,Food,15.0,14.0,15.0,1
-2020-03-29,RhodeIsland,Grocery,57.0,48.0,57.0,2
-2020-03-29,RhodeIsland,Shops & Services,11.0,14.0,11.0,3
-2020-03-29,RhodeIsland,Outdoors & Recreation,13.0,10.0,13.0,4
-2020-03-29,RhodeIsland,Big Box Stores,55.0,"",55.0,5
-2020-03-29,RhodeIsland,Drug Store,51.0,"",51.0,6
-2020-03-29,RhodeIsland,Gas Stations,42.0,"",42.0,7
-2020-03-29,RhodeIsland,Fast Food Restaurants,48.0,"",48.0,8
-2020-03-29,RhodeIsland,Nightlife Spots,7.0,"",7.0,8
-2020-03-29,RhodeIsland,Hardware Stores,73.0,"",73.0,9
-2020-03-29,RhodeIsland,Convenience Store,41.0,"",40.0,10
-2020-03-29,RhodeIsland,Medical,23.0,"",23.0,11
-2020-03-29,RhodeIsland,Alcohol,54.0,"",54.0,12
-2020-03-29,RhodeIsland,Professional & Other Places,11.0,"",11.0,13
-2020-03-29,RhodeIsland,School,20.0,"",20.0,14
-2020-03-29,RhodeIsland,Discount Stores,64.0,"",65.0,15
-2020-03-29,RhodeIsland,Beach,39.0,"",40.0,16
-2020-03-29,RhodeIsland,Arts & Entertainment,11.0,"",11.0,17
-2020-03-30,RhodeIsland,Food,23.0,23.0,23.0,1
-2020-03-30,RhodeIsland,Shops & Services,15.0,16.0,15.0,2
-2020-03-30,RhodeIsland,Grocery,71.0,72.0,71.0,3
-2020-03-30,RhodeIsland,Outdoors & Recreation,22.0,24.0,22.0,4
-2020-03-30,RhodeIsland,Medical,25.0,21.0,25.0,5
-2020-03-30,RhodeIsland,Drug Store,69.0,63.0,69.0,6
-2020-03-30,RhodeIsland,Professional & Other Places,8.0,9.0,8.0,7
-2020-03-30,RhodeIsland,Nightlife Spots,17.0,20.0,17.0,8
-2020-03-30,RhodeIsland,Gas Stations,55.0,49.0,56.0,9
-2020-03-30,RhodeIsland,Convenience Store,53.0,63.0,53.0,10
-2020-03-30,RhodeIsland,Office,44.0,"",44.0,11
-2020-03-30,RhodeIsland,School,18.0,23.0,18.0,12
-2020-03-30,RhodeIsland,Big Box Stores,56.0,"",56.0,13
-2020-03-30,RhodeIsland,Fast Food Restaurants,56.0,"",57.0,14
-2020-03-30,RhodeIsland,Hardware Stores,73.0,64.0,73.0,15
-2020-03-30,RhodeIsland,Colleges & Universities,11.0,"",11.0,16
-2020-03-30,RhodeIsland,Alcohol,68.0,"",67.0,17
-2020-03-30,RhodeIsland,Arts & Entertainment,26.0,"",26.0,18
-2020-03-30,RhodeIsland,Banks,58.0,"",58.0,19
-2020-03-30,RhodeIsland,Beach,70.0,61.0,71.0,20
-2020-03-30,RhodeIsland,Government,30.0,"",30.0,21
-2020-03-30,RhodeIsland,Residences,57.0,"",57.0,22
-2020-03-30,RhodeIsland,Fitness Center,18.0,"",18.0,23
-2020-03-30,RhodeIsland,Sports,18.0,"",18.0,24
-2020-03-30,RhodeIsland,Discount Stores,75.0,"",74.0,25
-2020-03-30,RhodeIsland,Hotel,29.0,"",29.0,26
-2020-03-30,RhodeIsland,Travel & Transport,48.0,"",48.0,27
-2020-03-31,RhodeIsland,Food,22.0,21.0,22.0,1
-2020-03-31,RhodeIsland,Shops & Services,16.0,17.0,16.0,2
-2020-03-31,RhodeIsland,Grocery,73.0,68.0,73.0,3
-2020-03-31,RhodeIsland,Outdoors & Recreation,32.0,35.0,32.0,4
-2020-03-31,RhodeIsland,Medical,21.0,19.0,21.0,5
-2020-03-31,RhodeIsland,Nightlife Spots,21.0,27.0,20.0,6
-2020-03-31,RhodeIsland,Drug Store,63.0,59.0,63.0,7
-2020-03-31,RhodeIsland,Gas Stations,61.0,61.0,61.0,8
-2020-03-31,RhodeIsland,Professional & Other Places,8.0,8.0,8.0,9
-2020-03-31,RhodeIsland,Convenience Store,52.0,53.0,52.0,10
-2020-03-31,RhodeIsland,School,19.0,25.0,19.0,11
-2020-03-31,RhodeIsland,Office,39.0,"",39.0,12
-2020-03-31,RhodeIsland,Big Box Stores,62.0,"",62.0,13
-2020-03-31,RhodeIsland,Fast Food Restaurants,59.0,"",59.0,14
-2020-03-31,RhodeIsland,Hardware Stores,92.0,96.0,91.0,15
-2020-03-31,RhodeIsland,Colleges & Universities,19.0,60.0,18.0,16
-2020-03-31,RhodeIsland,Alcohol,68.0,68.0,68.0,17
-2020-03-31,RhodeIsland,Arts & Entertainment,31.0,"",31.0,18
-2020-03-31,RhodeIsland,Banks,60.0,"",60.0,19
-2020-03-31,RhodeIsland,Government,27.0,"",27.0,20
-2020-03-31,RhodeIsland,Beach,92.0,86.0,92.0,20
-2020-03-31,RhodeIsland,Fitness Center,17.0,"",17.0,21
-2020-03-31,RhodeIsland,Sports,20.0,26.0,20.0,22
-2020-03-31,RhodeIsland,Discount Stores,82.0,"",83.0,23
-2020-03-31,RhodeIsland,Hotel,31.0,"",31.0,24
-2020-03-31,RhodeIsland,Residences,46.0,"",47.0,25
-2020-03-31,RhodeIsland,Travel & Transport,56.0,"",56.0,26
-2020-04-01,RhodeIsland,Food,26.0,23.0,26.0,1
-2020-04-01,RhodeIsland,Shops & Services,17.0,17.0,17.0,2
-2020-04-01,RhodeIsland,Grocery,84.0,73.0,84.0,3
-2020-04-01,RhodeIsland,Outdoors & Recreation,28.0,31.0,27.0,4
-2020-04-01,RhodeIsland,Medical,23.0,17.0,23.0,5
-2020-04-01,RhodeIsland,Nightlife Spots,19.0,21.0,18.0,6
-2020-04-01,RhodeIsland,Drug Store,67.0,63.0,68.0,7
-2020-04-01,RhodeIsland,Gas Stations,65.0,53.0,65.0,8
-2020-04-01,RhodeIsland,Professional & Other Places,8.0,8.0,8.0,9
-2020-04-01,RhodeIsland,Convenience Store,60.0,57.0,60.0,10
-2020-04-01,RhodeIsland,Big Box Stores,70.0,65.0,71.0,11
-2020-04-01,RhodeIsland,School,19.0,18.0,19.0,12
-2020-04-01,RhodeIsland,Fast Food Restaurants,66.0,"",66.0,13
-2020-04-01,RhodeIsland,Hardware Stores,96.0,90.0,96.0,14
-2020-04-01,RhodeIsland,Office,37.0,"",37.0,15
-2020-04-01,RhodeIsland,Alcohol,79.0,82.0,79.0,16
-2020-04-01,RhodeIsland,Colleges & Universities,11.0,"",11.0,17
-2020-04-01,RhodeIsland,Banks,68.0,"",68.0,18
-2020-04-01,RhodeIsland,Arts & Entertainment,30.0,"",30.0,19
-2020-04-01,RhodeIsland,Sports,20.0,"",20.0,20
-2020-04-01,RhodeIsland,Fitness Center,17.0,"",16.0,21
-2020-04-01,RhodeIsland,Beach,69.0,"",70.0,22
-2020-04-01,RhodeIsland,Residences,51.0,"",52.0,23
-2020-04-01,RhodeIsland,Government,22.0,"",22.0,23
-2020-04-01,RhodeIsland,Hotel,30.0,"",30.0,24
-2020-04-01,RhodeIsland,Discount Stores,74.0,"",74.0,25
-2020-04-01,RhodeIsland,Travel & Transport,42.0,"",42.0,26
+2020-03-01,Rhode Island,Food,54.0,53.0,54.0,1
+2020-03-01,Rhode Island,Shops & Services,31.0,32.0,31.0,2
+2020-03-01,Rhode Island,Grocery,103.0,103.0,103.0,3
+2020-03-01,Rhode Island,Nightlife Spots,45.0,45.0,45.0,4
+2020-03-01,Rhode Island,Arts & Entertainment,74.0,68.0,74.0,5
+2020-03-01,Rhode Island,Outdoors & Recreation,33.0,36.0,33.0,6
+2020-03-01,Rhode Island,Big Box Stores,110.0,126.0,110.0,7
+2020-03-01,Rhode Island,Gas Stations,108.0,97.0,108.0,8
+2020-03-01,Rhode Island,Colleges & Universities,56.0,"",56.0,8
+2020-03-01,Rhode Island,Drug Store,101.0,99.0,101.0,9
+2020-03-01,Rhode Island,Fast Food Restaurants,111.0,108.0,111.0,10
+2020-03-01,Rhode Island,Medical,58.0,50.0,58.0,11
+2020-03-01,Rhode Island,Professional & Other Places,17.0,18.0,17.0,12
+2020-03-01,Rhode Island,Convenience Store,91.0,84.0,91.0,13
+2020-03-01,Rhode Island,Fitness Center,75.0,68.0,75.0,14
+2020-03-01,Rhode Island,School,58.0,48.0,58.0,15
+2020-03-01,Rhode Island,Hotel,72.0,66.0,72.0,16
+2020-03-01,Rhode Island,Residences,112.0,122.0,111.0,17
+2020-03-01,Rhode Island,Alcohol,92.0,"",92.0,18
+2020-03-01,Rhode Island,Hardware Stores,97.0,88.0,98.0,19
+2020-03-01,Rhode Island,Sports,41.0,"",42.0,20
+2020-03-01,Rhode Island,Airport,85.0,"",87.0,21
+2020-03-01,Rhode Island,Banks,114.0,"",114.0,22
+2020-03-01,Rhode Island,Beach,70.0,"",70.0,23
+2020-03-01,Rhode Island,Discount Stores,107.0,"",106.0,24
+2020-03-01,Rhode Island,Travel & Transport,110.0,"",110.0,25
+2020-03-01,Rhode Island,Office,89.0,"",89.0,26
+2020-03-01,Rhode Island,Government,49.0,"",49.0,27
+2020-03-02,Rhode Island,Food,50.0,50.0,50.0,1
+2020-03-02,Rhode Island,Shops & Services,34.0,36.0,34.0,2
+2020-03-02,Rhode Island,Medical,58.0,49.0,59.0,3
+2020-03-02,Rhode Island,Grocery,112.0,105.0,112.0,4
+2020-03-02,Rhode Island,Colleges & Universities,53.0,65.0,53.0,5
+2020-03-02,Rhode Island,Outdoors & Recreation,39.0,42.0,39.0,6
+2020-03-02,Rhode Island,Nightlife Spots,43.0,38.0,43.0,7
+2020-03-02,Rhode Island,School,66.0,62.0,66.0,8
+2020-03-02,Rhode Island,Professional & Other Places,18.0,20.0,18.0,9
+2020-03-02,Rhode Island,Gas Stations,110.0,105.0,111.0,10
+2020-03-02,Rhode Island,Drug Store,115.0,101.0,116.0,11
+2020-03-02,Rhode Island,Arts & Entertainment,84.0,72.0,85.0,12
+2020-03-02,Rhode Island,Convenience Store,105.0,119.0,104.0,13
+2020-03-02,Rhode Island,Fitness Center,64.0,69.0,64.0,14
+2020-03-02,Rhode Island,Office,94.0,94.0,94.0,15
+2020-03-02,Rhode Island,Big Box Stores,111.0,101.0,111.0,16
+2020-03-02,Rhode Island,Fast Food Restaurants,111.0,96.0,111.0,17
+2020-03-02,Rhode Island,Government,74.0,71.0,74.0,18
+2020-03-02,Rhode Island,Banks,120.0,117.0,120.0,19
+2020-03-02,Rhode Island,Hotel,72.0,76.0,72.0,20
+2020-03-02,Rhode Island,Residences,106.0,89.0,107.0,21
+2020-03-02,Rhode Island,Hardware Stores,93.0,104.0,92.0,22
+2020-03-02,Rhode Island,Alcohol,98.0,115.0,98.0,23
+2020-03-02,Rhode Island,Sports,31.0,31.0,31.0,24
+2020-03-02,Rhode Island,Travel & Transport,99.0,"",99.0,25
+2020-03-02,Rhode Island,Airport,68.0,"",68.0,26
+2020-03-02,Rhode Island,Beach,89.0,66.0,91.0,27
+2020-03-02,Rhode Island,Discount Stores,112.0,"",113.0,28
+2020-03-03,Rhode Island,Food,57.0,58.0,57.0,1
+2020-03-03,Rhode Island,Shops & Services,35.0,36.0,35.0,2
+2020-03-03,Rhode Island,Medical,53.0,49.0,53.0,3
+2020-03-03,Rhode Island,Colleges & Universities,49.0,60.0,49.0,4
+2020-03-03,Rhode Island,Grocery,104.0,100.0,104.0,5
+2020-03-03,Rhode Island,Outdoors & Recreation,43.0,49.0,42.0,6
+2020-03-03,Rhode Island,Nightlife Spots,45.0,41.0,45.0,7
+2020-03-03,Rhode Island,School,65.0,69.0,64.0,8
+2020-03-03,Rhode Island,Professional & Other Places,18.0,19.0,18.0,9
+2020-03-03,Rhode Island,Gas Stations,111.0,110.0,111.0,10
+2020-03-03,Rhode Island,Drug Store,111.0,99.0,112.0,10
+2020-03-03,Rhode Island,Office,89.0,90.0,89.0,11
+2020-03-03,Rhode Island,Fitness Center,65.0,61.0,65.0,12
+2020-03-03,Rhode Island,Convenience Store,103.0,97.0,103.0,13
+2020-03-03,Rhode Island,Arts & Entertainment,81.0,86.0,81.0,14
+2020-03-03,Rhode Island,Fast Food Restaurants,114.0,108.0,114.0,15
+2020-03-03,Rhode Island,Big Box Stores,118.0,124.0,117.0,16
+2020-03-03,Rhode Island,Government,67.0,61.0,68.0,17
+2020-03-03,Rhode Island,Banks,126.0,120.0,126.0,18
+2020-03-03,Rhode Island,Hotel,87.0,77.0,87.0,19
+2020-03-03,Rhode Island,Sports,37.0,46.0,37.0,20
+2020-03-03,Rhode Island,Hardware Stores,113.0,113.0,113.0,21
+2020-03-03,Rhode Island,Alcohol,103.0,91.0,103.0,22
+2020-03-03,Rhode Island,Residences,101.0,110.0,100.0,23
+2020-03-03,Rhode Island,Travel & Transport,116.0,125.0,116.0,24
+2020-03-03,Rhode Island,Beach,130.0,138.0,130.0,25
+2020-03-03,Rhode Island,Airport,70.0,78.0,70.0,26
+2020-03-03,Rhode Island,Discount Stores,109.0,"",108.0,27
+2020-03-04,Rhode Island,Food,56.0,58.0,55.0,1
+2020-03-04,Rhode Island,Shops & Services,32.0,35.0,32.0,2
+2020-03-04,Rhode Island,Medical,56.0,53.0,56.0,3
+2020-03-04,Rhode Island,Colleges & Universities,51.0,58.0,51.0,4
+2020-03-04,Rhode Island,Grocery,101.0,106.0,101.0,5
+2020-03-04,Rhode Island,Nightlife Spots,47.0,49.0,47.0,6
+2020-03-04,Rhode Island,Outdoors & Recreation,36.0,41.0,36.0,7
+2020-03-04,Rhode Island,School,57.0,50.0,58.0,8
+2020-03-04,Rhode Island,Professional & Other Places,16.0,19.0,16.0,9
+2020-03-04,Rhode Island,Gas Stations,104.0,94.0,104.0,10
+2020-03-04,Rhode Island,Arts & Entertainment,56.0,54.0,56.0,11
+2020-03-04,Rhode Island,Drug Store,101.0,113.0,100.0,12
+2020-03-04,Rhode Island,Fitness Center,65.0,63.0,65.0,13
+2020-03-04,Rhode Island,Office,86.0,84.0,87.0,14
+2020-03-04,Rhode Island,Convenience Store,97.0,118.0,97.0,15
+2020-03-04,Rhode Island,Fast Food Restaurants,104.0,114.0,104.0,16
+2020-03-04,Rhode Island,Big Box Stores,107.0,99.0,107.0,17
+2020-03-04,Rhode Island,Government,66.0,72.0,66.0,18
+2020-03-04,Rhode Island,Hotel,84.0,75.0,84.0,19
+2020-03-04,Rhode Island,Hardware Stores,107.0,114.0,107.0,20
+2020-03-04,Rhode Island,Banks,101.0,112.0,101.0,21
+2020-03-04,Rhode Island,Alcohol,99.0,111.0,98.0,22
+2020-03-04,Rhode Island,Sports,28.0,31.0,27.0,23
+2020-03-04,Rhode Island,Residences,101.0,118.0,100.0,24
+2020-03-04,Rhode Island,Travel & Transport,88.0,"",89.0,25
+2020-03-04,Rhode Island,Beach,93.0,69.0,94.0,26
+2020-03-04,Rhode Island,Airport,57.0,"",58.0,27
+2020-03-04,Rhode Island,Discount Stores,88.0,"",87.0,28
+2020-03-05,Rhode Island,Food,58.0,65.0,58.0,1
+2020-03-05,Rhode Island,Shops & Services,35.0,37.0,35.0,2
+2020-03-05,Rhode Island,Medical,52.0,51.0,52.0,3
+2020-03-05,Rhode Island,Colleges & Universities,55.0,76.0,55.0,4
+2020-03-05,Rhode Island,Grocery,103.0,94.0,103.0,5
+2020-03-05,Rhode Island,Nightlife Spots,49.0,54.0,48.0,6
+2020-03-05,Rhode Island,Outdoors & Recreation,45.0,54.0,45.0,7
+2020-03-05,Rhode Island,School,58.0,60.0,58.0,8
+2020-03-05,Rhode Island,Professional & Other Places,15.0,19.0,15.0,9
+2020-03-05,Rhode Island,Gas Stations,104.0,114.0,104.0,10
+2020-03-05,Rhode Island,Drug Store,100.0,96.0,101.0,11
+2020-03-05,Rhode Island,Convenience Store,107.0,93.0,107.0,12
+2020-03-05,Rhode Island,Arts & Entertainment,84.0,77.0,84.0,13
+2020-03-05,Rhode Island,Office,90.0,96.0,90.0,14
+2020-03-05,Rhode Island,Fitness Center,66.0,57.0,66.0,15
+2020-03-05,Rhode Island,Fast Food Restaurants,107.0,104.0,107.0,16
+2020-03-05,Rhode Island,Big Box Stores,99.0,92.0,100.0,17
+2020-03-05,Rhode Island,Government,75.0,83.0,74.0,18
+2020-03-05,Rhode Island,Hotel,88.0,95.0,87.0,19
+2020-03-05,Rhode Island,Banks,124.0,148.0,123.0,20
+2020-03-05,Rhode Island,Alcohol,108.0,102.0,108.0,21
+2020-03-05,Rhode Island,Residences,117.0,108.0,117.0,22
+2020-03-05,Rhode Island,Hardware Stores,105.0,113.0,104.0,23
+2020-03-05,Rhode Island,Sports,30.0,36.0,30.0,24
+2020-03-05,Rhode Island,Airport,71.0,93.0,70.0,25
+2020-03-05,Rhode Island,Beach,129.0,128.0,129.0,26
+2020-03-05,Rhode Island,Travel & Transport,93.0,"",93.0,27
+2020-03-05,Rhode Island,Discount Stores,109.0,"",109.0,28
+2020-03-06,Rhode Island,Food,54.0,59.0,53.0,1
+2020-03-06,Rhode Island,Shops & Services,32.0,32.0,32.0,2
+2020-03-06,Rhode Island,Grocery,100.0,95.0,100.0,3
+2020-03-06,Rhode Island,Nightlife Spots,46.0,49.0,46.0,4
+2020-03-06,Rhode Island,Medical,53.0,47.0,53.0,5
+2020-03-06,Rhode Island,Outdoors & Recreation,39.0,47.0,39.0,6
+2020-03-06,Rhode Island,Colleges & Universities,55.0,88.0,55.0,7
+2020-03-06,Rhode Island,School,58.0,55.0,58.0,8
+2020-03-06,Rhode Island,Professional & Other Places,17.0,20.0,17.0,9
+2020-03-06,Rhode Island,Gas Stations,96.0,101.0,96.0,10
+2020-03-06,Rhode Island,Arts & Entertainment,83.0,100.0,82.0,11
+2020-03-06,Rhode Island,Drug Store,96.0,99.0,96.0,12
+2020-03-06,Rhode Island,Convenience Store,102.0,89.0,103.0,13
+2020-03-06,Rhode Island,Fitness Center,61.0,54.0,61.0,14
+2020-03-06,Rhode Island,Fast Food Restaurants,106.0,94.0,106.0,15
+2020-03-06,Rhode Island,Office,81.0,111.0,80.0,16
+2020-03-06,Rhode Island,Big Box Stores,100.0,89.0,100.0,17
+2020-03-06,Rhode Island,Alcohol,108.0,106.0,108.0,18
+2020-03-06,Rhode Island,Government,70.0,78.0,70.0,19
+2020-03-06,Rhode Island,Banks,97.0,85.0,97.0,20
+2020-03-06,Rhode Island,Hotel,76.0,69.0,76.0,21
+2020-03-06,Rhode Island,Hardware Stores,107.0,106.0,107.0,22
+2020-03-06,Rhode Island,Sports,30.0,45.0,30.0,23
+2020-03-06,Rhode Island,Residences,92.0,91.0,92.0,24
+2020-03-06,Rhode Island,Airport,75.0,"",76.0,25
+2020-03-06,Rhode Island,Travel & Transport,92.0,"",93.0,26
+2020-03-06,Rhode Island,Discount Stores,92.0,"",92.0,27
+2020-03-06,Rhode Island,Beach,96.0,143.0,93.0,28
+2020-03-07,Rhode Island,Food,51.0,54.0,51.0,1
+2020-03-07,Rhode Island,Shops & Services,34.0,33.0,34.0,2
+2020-03-07,Rhode Island,Nightlife Spots,43.0,39.0,43.0,3
+2020-03-07,Rhode Island,Grocery,102.0,93.0,102.0,4
+2020-03-07,Rhode Island,Arts & Entertainment,79.0,77.0,79.0,5
+2020-03-07,Rhode Island,Outdoors & Recreation,36.0,38.0,36.0,6
+2020-03-07,Rhode Island,Gas Stations,104.0,97.0,104.0,7
+2020-03-07,Rhode Island,Big Box Stores,101.0,91.0,102.0,8
+2020-03-07,Rhode Island,Professional & Other Places,25.0,23.0,25.0,9
+2020-03-07,Rhode Island,Medical,52.0,58.0,52.0,10
+2020-03-07,Rhode Island,Drug Store,93.0,85.0,93.0,11
+2020-03-07,Rhode Island,Convenience Store,96.0,83.0,96.0,12
+2020-03-07,Rhode Island,Fast Food Restaurants,95.0,99.0,95.0,13
+2020-03-07,Rhode Island,Colleges & Universities,42.0,51.0,42.0,14
+2020-03-07,Rhode Island,Fitness Center,65.0,59.0,65.0,15
+2020-03-07,Rhode Island,School,52.0,45.0,53.0,16
+2020-03-07,Rhode Island,Hotel,76.0,68.0,76.0,17
+2020-03-07,Rhode Island,Alcohol,102.0,83.0,103.0,18
+2020-03-07,Rhode Island,Hardware Stores,102.0,80.0,103.0,19
+2020-03-07,Rhode Island,Residences,103.0,101.0,103.0,20
+2020-03-07,Rhode Island,Sports,28.0,"",28.0,20
+2020-03-07,Rhode Island,Banks,88.0,"",88.0,21
+2020-03-07,Rhode Island,Beach,83.0,110.0,82.0,22
+2020-03-07,Rhode Island,Office,84.0,"",83.0,23
+2020-03-07,Rhode Island,Airport,66.0,"",66.0,24
+2020-03-07,Rhode Island,Government,66.0,"",66.0,25
+2020-03-07,Rhode Island,Travel & Transport,95.0,"",96.0,26
+2020-03-07,Rhode Island,Discount Stores,84.0,"",84.0,26
+2020-03-08,Rhode Island,Food,59.0,57.0,59.0,1
+2020-03-08,Rhode Island,Shops & Services,31.0,31.0,31.0,2
+2020-03-08,Rhode Island,Grocery,100.0,93.0,101.0,3
+2020-03-08,Rhode Island,Nightlife Spots,44.0,37.0,44.0,4
+2020-03-08,Rhode Island,Outdoors & Recreation,43.0,44.0,43.0,5
+2020-03-08,Rhode Island,Arts & Entertainment,77.0,71.0,77.0,6
+2020-03-08,Rhode Island,Big Box Stores,113.0,94.0,113.0,7
+2020-03-08,Rhode Island,Gas Stations,99.0,97.0,99.0,8
+2020-03-08,Rhode Island,Drug Store,100.0,88.0,100.0,9
+2020-03-08,Rhode Island,Fast Food Restaurants,111.0,95.0,111.0,10
+2020-03-08,Rhode Island,Professional & Other Places,18.0,15.0,18.0,11
+2020-03-08,Rhode Island,Convenience Store,102.0,97.0,102.0,12
+2020-03-08,Rhode Island,Colleges & Universities,48.0,"",48.0,13
+2020-03-08,Rhode Island,Medical,53.0,55.0,53.0,14
+2020-03-08,Rhode Island,School,57.0,55.0,57.0,15
+2020-03-08,Rhode Island,Fitness Center,69.0,55.0,69.0,16
+2020-03-08,Rhode Island,Hotel,70.0,62.0,70.0,17
+2020-03-08,Rhode Island,Hardware Stores,117.0,124.0,117.0,18
+2020-03-08,Rhode Island,Alcohol,103.0,"",103.0,19
+2020-03-08,Rhode Island,Residences,108.0,"",109.0,20
+2020-03-08,Rhode Island,Beach,95.0,115.0,94.0,21
+2020-03-08,Rhode Island,Sports,33.0,"",33.0,22
+2020-03-08,Rhode Island,Travel & Transport,129.0,"",129.0,23
+2020-03-08,Rhode Island,Airport,78.0,"",81.0,24
+2020-03-08,Rhode Island,Discount Stores,110.0,"",110.0,25
+2020-03-08,Rhode Island,Banks,107.0,"",107.0,26
+2020-03-08,Rhode Island,Government,68.0,"",69.0,27
+2020-03-08,Rhode Island,Office,71.0,"",71.0,28
+2020-03-09,Rhode Island,Food,56.0,56.0,56.0,1
+2020-03-09,Rhode Island,Shops & Services,34.0,37.0,34.0,2
+2020-03-09,Rhode Island,Medical,59.0,49.0,59.0,3
+2020-03-09,Rhode Island,Outdoors & Recreation,53.0,57.0,53.0,4
+2020-03-09,Rhode Island,Grocery,105.0,103.0,105.0,5
+2020-03-09,Rhode Island,Nightlife Spots,48.0,48.0,48.0,6
+2020-03-09,Rhode Island,School,63.0,57.0,63.0,7
+2020-03-09,Rhode Island,Colleges & Universities,36.0,55.0,36.0,8
+2020-03-09,Rhode Island,Professional & Other Places,17.0,21.0,17.0,9
+2020-03-09,Rhode Island,Gas Stations,110.0,105.0,111.0,10
+2020-03-09,Rhode Island,Drug Store,112.0,110.0,112.0,11
+2020-03-09,Rhode Island,Arts & Entertainment,82.0,71.0,83.0,12
+2020-03-09,Rhode Island,Convenience Store,105.0,108.0,105.0,13
+2020-03-09,Rhode Island,Fitness Center,67.0,65.0,67.0,13
+2020-03-09,Rhode Island,Office,97.0,96.0,97.0,14
+2020-03-09,Rhode Island,Fast Food Restaurants,113.0,91.0,114.0,15
+2020-03-09,Rhode Island,Big Box Stores,100.0,87.0,101.0,16
+2020-03-09,Rhode Island,Government,72.0,85.0,72.0,17
+2020-03-09,Rhode Island,Hotel,80.0,80.0,80.0,18
+2020-03-09,Rhode Island,Banks,117.0,115.0,117.0,19
+2020-03-09,Rhode Island,Alcohol,121.0,117.0,121.0,20
+2020-03-09,Rhode Island,Hardware Stores,107.0,114.0,107.0,21
+2020-03-09,Rhode Island,Beach,129.0,113.0,130.0,22
+2020-03-09,Rhode Island,Residences,108.0,112.0,108.0,23
+2020-03-09,Rhode Island,Sports,31.0,35.0,30.0,24
+2020-03-09,Rhode Island,Travel & Transport,107.0,"",107.0,25
+2020-03-09,Rhode Island,Airport,64.0,78.0,64.0,26
+2020-03-09,Rhode Island,Discount Stores,96.0,"",97.0,27
+2020-03-10,Rhode Island,Food,56.0,52.0,56.0,1
+2020-03-10,Rhode Island,Shops & Services,33.0,35.0,33.0,2
+2020-03-10,Rhode Island,Medical,51.0,44.0,52.0,3
+2020-03-10,Rhode Island,Grocery,105.0,94.0,106.0,4
+2020-03-10,Rhode Island,Outdoors & Recreation,44.0,43.0,44.0,5
+2020-03-10,Rhode Island,Nightlife Spots,46.0,48.0,46.0,6
+2020-03-10,Rhode Island,Colleges & Universities,37.0,45.0,37.0,7
+2020-03-10,Rhode Island,School,59.0,56.0,59.0,8
+2020-03-10,Rhode Island,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-10,Rhode Island,Drug Store,104.0,121.0,103.0,10
+2020-03-10,Rhode Island,Gas Stations,103.0,112.0,103.0,11
+2020-03-10,Rhode Island,Office,87.0,87.0,87.0,12
+2020-03-10,Rhode Island,Fitness Center,62.0,59.0,62.0,13
+2020-03-10,Rhode Island,Convenience Store,100.0,94.0,100.0,14
+2020-03-10,Rhode Island,Arts & Entertainment,84.0,80.0,84.0,15
+2020-03-10,Rhode Island,Fast Food Restaurants,111.0,96.0,112.0,16
+2020-03-10,Rhode Island,Big Box Stores,101.0,98.0,101.0,17
+2020-03-10,Rhode Island,Government,66.0,77.0,66.0,18
+2020-03-10,Rhode Island,Hotel,77.0,76.0,77.0,19
+2020-03-10,Rhode Island,Alcohol,107.0,94.0,108.0,20
+2020-03-10,Rhode Island,Hardware Stores,108.0,99.0,109.0,21
+2020-03-10,Rhode Island,Sports,39.0,40.0,39.0,22
+2020-03-10,Rhode Island,Banks,98.0,85.0,99.0,23
+2020-03-10,Rhode Island,Residences,108.0,106.0,108.0,24
+2020-03-10,Rhode Island,Travel & Transport,118.0,"",119.0,25
+2020-03-10,Rhode Island,Airport,65.0,78.0,64.0,26
+2020-03-10,Rhode Island,Beach,113.0,131.0,111.0,27
+2020-03-10,Rhode Island,Discount Stores,110.0,"",109.0,28
+2020-03-11,Rhode Island,Food,55.0,55.0,55.0,1
+2020-03-11,Rhode Island,Shops & Services,33.0,36.0,33.0,2
+2020-03-11,Rhode Island,Medical,48.0,43.0,48.0,3
+2020-03-11,Rhode Island,Grocery,104.0,98.0,104.0,4
+2020-03-11,Rhode Island,Outdoors & Recreation,40.0,43.0,40.0,5
+2020-03-11,Rhode Island,Nightlife Spots,45.0,44.0,45.0,6
+2020-03-11,Rhode Island,School,53.0,49.0,53.0,7
+2020-03-11,Rhode Island,Colleges & Universities,37.0,51.0,37.0,8
+2020-03-11,Rhode Island,Professional & Other Places,13.0,14.0,13.0,9
+2020-03-11,Rhode Island,Gas Stations,104.0,93.0,105.0,10
+2020-03-11,Rhode Island,Office,84.0,84.0,84.0,11
+2020-03-11,Rhode Island,Convenience Store,100.0,99.0,100.0,12
+2020-03-11,Rhode Island,Fitness Center,62.0,51.0,62.0,12
+2020-03-11,Rhode Island,Drug Store,94.0,93.0,94.0,13
+2020-03-11,Rhode Island,Arts & Entertainment,78.0,86.0,78.0,14
+2020-03-11,Rhode Island,Fast Food Restaurants,112.0,133.0,111.0,15
+2020-03-11,Rhode Island,Big Box Stores,110.0,80.0,111.0,16
+2020-03-11,Rhode Island,Government,57.0,79.0,56.0,17
+2020-03-11,Rhode Island,Hotel,73.0,79.0,73.0,18
+2020-03-11,Rhode Island,Hardware Stores,111.0,110.0,111.0,19
+2020-03-11,Rhode Island,Residences,116.0,104.0,117.0,20
+2020-03-11,Rhode Island,Sports,39.0,42.0,39.0,21
+2020-03-11,Rhode Island,Alcohol,102.0,111.0,102.0,22
+2020-03-11,Rhode Island,Banks,93.0,92.0,93.0,23
+2020-03-11,Rhode Island,Travel & Transport,93.0,"",95.0,24
+2020-03-11,Rhode Island,Airport,70.0,83.0,69.0,25
+2020-03-11,Rhode Island,Beach,92.0,82.0,93.0,26
+2020-03-11,Rhode Island,Discount Stores,94.0,"",94.0,27
+2020-03-12,Rhode Island,Food,52.0,58.0,52.0,1
+2020-03-12,Rhode Island,Shops & Services,32.0,33.0,32.0,2
+2020-03-12,Rhode Island,Grocery,118.0,107.0,119.0,3
+2020-03-12,Rhode Island,Medical,48.0,49.0,48.0,4
+2020-03-12,Rhode Island,Nightlife Spots,45.0,43.0,45.0,5
+2020-03-12,Rhode Island,Outdoors & Recreation,37.0,39.0,37.0,6
+2020-03-12,Rhode Island,School,52.0,46.0,52.0,7
+2020-03-12,Rhode Island,Colleges & Universities,32.0,42.0,31.0,8
+2020-03-12,Rhode Island,Drug Store,100.0,103.0,100.0,9
+2020-03-12,Rhode Island,Gas Stations,98.0,95.0,98.0,10
+2020-03-12,Rhode Island,Professional & Other Places,14.0,15.0,14.0,11
+2020-03-12,Rhode Island,Convenience Store,100.0,102.0,100.0,12
+2020-03-12,Rhode Island,Big Box Stores,114.0,104.0,115.0,13
+2020-03-12,Rhode Island,Office,77.0,87.0,77.0,14
+2020-03-12,Rhode Island,Fitness Center,59.0,45.0,60.0,15
+2020-03-12,Rhode Island,Arts & Entertainment,66.0,74.0,66.0,16
+2020-03-12,Rhode Island,Fast Food Restaurants,94.0,92.0,94.0,17
+2020-03-12,Rhode Island,Government,66.0,69.0,66.0,18
+2020-03-12,Rhode Island,Hardware Stores,121.0,104.0,122.0,19
+2020-03-12,Rhode Island,Alcohol,116.0,132.0,115.0,20
+2020-03-12,Rhode Island,Banks,103.0,111.0,103.0,21
+2020-03-12,Rhode Island,Hotel,72.0,72.0,72.0,22
+2020-03-12,Rhode Island,Residences,106.0,111.0,105.0,23
+2020-03-12,Rhode Island,Sports,35.0,37.0,35.0,24
+2020-03-12,Rhode Island,Travel & Transport,99.0,108.0,99.0,25
+2020-03-12,Rhode Island,Discount Stores,125.0,172.0,124.0,26
+2020-03-12,Rhode Island,Airport,53.0,"",53.0,27
+2020-03-12,Rhode Island,Beach,98.0,105.0,98.0,28
+2020-03-13,Rhode Island,Food,45.0,42.0,46.0,1
+2020-03-13,Rhode Island,Shops & Services,32.0,34.0,32.0,2
+2020-03-13,Rhode Island,Grocery,153.0,125.0,155.0,3
+2020-03-13,Rhode Island,Nightlife Spots,40.0,39.0,40.0,4
+2020-03-13,Rhode Island,Medical,47.0,44.0,47.0,5
+2020-03-13,Rhode Island,Outdoors & Recreation,35.0,37.0,35.0,6
+2020-03-13,Rhode Island,School,55.0,45.0,55.0,7
+2020-03-13,Rhode Island,Drug Store,117.0,104.0,118.0,8
+2020-03-13,Rhode Island,Big Box Stores,135.0,115.0,136.0,9
+2020-03-13,Rhode Island,Gas Stations,92.0,94.0,92.0,10
+2020-03-13,Rhode Island,Professional & Other Places,14.0,16.0,14.0,11
+2020-03-13,Rhode Island,Convenience Store,100.0,101.0,100.0,12
+2020-03-13,Rhode Island,Colleges & Universities,31.0,41.0,31.0,13
+2020-03-13,Rhode Island,Fast Food Restaurants,105.0,78.0,106.0,14
+2020-03-13,Rhode Island,Fitness Center,57.0,59.0,57.0,15
+2020-03-13,Rhode Island,Arts & Entertainment,61.0,60.0,61.0,16
+2020-03-13,Rhode Island,Office,75.0,69.0,75.0,17
+2020-03-13,Rhode Island,Alcohol,123.0,112.0,123.0,18
+2020-03-13,Rhode Island,Banks,101.0,83.0,102.0,19
+2020-03-13,Rhode Island,Hardware Stores,120.0,97.0,122.0,20
+2020-03-13,Rhode Island,Government,56.0,48.0,57.0,21
+2020-03-13,Rhode Island,Hotel,63.0,66.0,63.0,22
+2020-03-13,Rhode Island,Discount Stores,128.0,"",129.0,23
+2020-03-13,Rhode Island,Residences,88.0,98.0,87.0,24
+2020-03-13,Rhode Island,Sports,29.0,31.0,28.0,25
+2020-03-13,Rhode Island,Airport,57.0,"",57.0,26
+2020-03-13,Rhode Island,Beach,99.0,"",101.0,27
+2020-03-13,Rhode Island,Travel & Transport,73.0,"",74.0,28
+2020-03-14,Rhode Island,Food,41.0,42.0,41.0,1
+2020-03-14,Rhode Island,Shops & Services,30.0,29.0,30.0,2
+2020-03-14,Rhode Island,Grocery,129.0,105.0,130.0,3
+2020-03-14,Rhode Island,Nightlife Spots,41.0,39.0,41.0,4
+2020-03-14,Rhode Island,Outdoors & Recreation,42.0,41.0,42.0,5
+2020-03-14,Rhode Island,Big Box Stores,113.0,84.0,114.0,6
+2020-03-14,Rhode Island,Drug Store,112.0,104.0,112.0,7
+2020-03-14,Rhode Island,Gas Stations,97.0,93.0,98.0,8
+2020-03-14,Rhode Island,Convenience Store,93.0,82.0,93.0,9
+2020-03-14,Rhode Island,Medical,45.0,43.0,45.0,10
+2020-03-14,Rhode Island,Professional & Other Places,14.0,11.0,15.0,11
+2020-03-14,Rhode Island,Arts & Entertainment,35.0,30.0,35.0,12
+2020-03-14,Rhode Island,Fast Food Restaurants,80.0,70.0,80.0,13
+2020-03-14,Rhode Island,Hardware Stores,121.0,86.0,123.0,14
+2020-03-14,Rhode Island,Alcohol,100.0,69.0,101.0,15
+2020-03-14,Rhode Island,Fitness Center,48.0,42.0,49.0,16
+2020-03-14,Rhode Island,Colleges & Universities,33.0,"",33.0,17
+2020-03-14,Rhode Island,Beach,143.0,142.0,143.0,18
+2020-03-14,Rhode Island,School,38.0,41.0,38.0,19
+2020-03-14,Rhode Island,Hotel,53.0,"",53.0,20
+2020-03-14,Rhode Island,Residences,94.0,"",94.0,21
+2020-03-14,Rhode Island,Sports,30.0,36.0,29.0,22
+2020-03-14,Rhode Island,Discount Stores,111.0,"",110.0,23
+2020-03-14,Rhode Island,Banks,81.0,"",81.0,24
+2020-03-14,Rhode Island,Travel & Transport,91.0,"",91.0,25
+2020-03-14,Rhode Island,Office,72.0,"",72.0,26
+2020-03-14,Rhode Island,Government,56.0,"",56.0,27
+2020-03-14,Rhode Island,Airport,45.0,"",45.0,28
+2020-03-15,Rhode Island,Food,36.0,33.0,36.0,1
+2020-03-15,Rhode Island,Shops & Services,43.0,36.0,43.0,2
+2020-03-15,Rhode Island,Grocery,100.0,103.0,100.0,3
+2020-03-15,Rhode Island,Outdoors & Recreation,39.0,36.0,39.0,4
+2020-03-15,Rhode Island,Nightlife Spots,31.0,29.0,31.0,5
+2020-03-15,Rhode Island,Drug Store,107.0,114.0,106.0,6
+2020-03-15,Rhode Island,Gas Stations,92.0,82.0,93.0,7
+2020-03-15,Rhode Island,Big Box Stores,83.0,81.0,83.0,8
+2020-03-15,Rhode Island,Convenience Store,99.0,97.0,99.0,9
+2020-03-15,Rhode Island,Fast Food Restaurants,90.0,"",90.0,10
+2020-03-15,Rhode Island,Beach,126.0,124.0,126.0,11
+2020-03-15,Rhode Island,Hardware Stores,118.0,113.0,118.0,12
+2020-03-15,Rhode Island,Medical,40.0,47.0,40.0,13
+2020-03-15,Rhode Island,Alcohol,103.0,92.0,103.0,14
+2020-03-15,Rhode Island,Arts & Entertainment,27.0,"",27.0,15
+2020-03-15,Rhode Island,Colleges & Universities,32.0,"",32.0,16
+2020-03-15,Rhode Island,Hotel,56.0,"",57.0,17
+2020-03-15,Rhode Island,School,43.0,"",43.0,18
+2020-03-15,Rhode Island,Professional & Other Places,12.0,"",12.0,19
+2020-03-15,Rhode Island,Fitness Center,48.0,"",48.0,20
+2020-03-15,Rhode Island,Residences,99.0,"",100.0,21
+2020-03-15,Rhode Island,Sports,28.0,"",28.0,22
+2020-03-15,Rhode Island,Discount Stores,106.0,"",107.0,23
+2020-03-15,Rhode Island,Airport,63.0,"",64.0,24
+2020-03-15,Rhode Island,Travel & Transport,87.0,"",87.0,25
+2020-03-15,Rhode Island,Government,51.0,"",52.0,26
+2020-03-15,Rhode Island,Banks,77.0,"",78.0,27
+2020-03-15,Rhode Island,Office,67.0,"",67.0,28
+2020-03-16,Rhode Island,Food,44.0,41.0,44.0,1
+2020-03-16,Rhode Island,Shops & Services,28.0,27.0,29.0,2
+2020-03-16,Rhode Island,Grocery,133.0,126.0,134.0,3
+2020-03-16,Rhode Island,Medical,44.0,35.0,44.0,4
+2020-03-16,Rhode Island,Outdoors & Recreation,35.0,36.0,35.0,5
+2020-03-16,Rhode Island,Nightlife Spots,36.0,32.0,36.0,6
+2020-03-16,Rhode Island,Drug Store,121.0,89.0,123.0,7
+2020-03-16,Rhode Island,Gas Stations,93.0,80.0,94.0,8
+2020-03-16,Rhode Island,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-16,Rhode Island,Convenience Store,96.0,95.0,96.0,10
+2020-03-16,Rhode Island,Big Box Stores,115.0,89.0,117.0,11
+2020-03-16,Rhode Island,Fast Food Restaurants,93.0,67.0,94.0,12
+2020-03-16,Rhode Island,Colleges & Universities,20.0,"",20.0,13
+2020-03-16,Rhode Island,Office,66.0,66.0,66.0,14
+2020-03-16,Rhode Island,School,26.0,29.0,26.0,15
+2020-03-16,Rhode Island,Alcohol,128.0,108.0,129.0,16
+2020-03-16,Rhode Island,Fitness Center,38.0,42.0,38.0,17
+2020-03-16,Rhode Island,Hardware Stores,109.0,88.0,110.0,18
+2020-03-16,Rhode Island,Banks,106.0,86.0,107.0,19
+2020-03-16,Rhode Island,Government,58.0,60.0,58.0,20
+2020-03-16,Rhode Island,Arts & Entertainment,44.0,"",44.0,21
+2020-03-16,Rhode Island,Hotel,60.0,"",60.0,22
+2020-03-16,Rhode Island,Residences,82.0,"",83.0,23
+2020-03-16,Rhode Island,Beach,90.0,83.0,91.0,24
+2020-03-16,Rhode Island,Sports,21.0,"",21.0,25
+2020-03-16,Rhode Island,Airport,59.0,"",60.0,26
+2020-03-16,Rhode Island,Travel & Transport,82.0,"",82.0,27
+2020-03-16,Rhode Island,Discount Stores,112.0,"",112.0,28
+2020-03-17,Rhode Island,Food,33.0,31.0,33.0,1
+2020-03-17,Rhode Island,Shops & Services,18.0,16.0,18.0,2
+2020-03-17,Rhode Island,Grocery,111.0,90.0,112.0,3
+2020-03-17,Rhode Island,Medical,36.0,28.0,36.0,4
+2020-03-17,Rhode Island,Outdoors & Recreation,27.0,25.0,28.0,5
+2020-03-17,Rhode Island,Nightlife Spots,28.0,25.0,28.0,6
+2020-03-17,Rhode Island,Drug Store,93.0,66.0,94.0,7
+2020-03-17,Rhode Island,Gas Stations,82.0,71.0,82.0,8
+2020-03-17,Rhode Island,Convenience Store,82.0,79.0,82.0,9
+2020-03-17,Rhode Island,Professional & Other Places,9.0,8.0,9.0,10
+2020-03-17,Rhode Island,Big Box Stores,99.0,70.0,101.0,11
+2020-03-17,Rhode Island,Office,54.0,56.0,54.0,12
+2020-03-17,Rhode Island,Colleges & Universities,27.0,"",27.0,13
+2020-03-17,Rhode Island,School,22.0,25.0,22.0,14
+2020-03-17,Rhode Island,Alcohol,107.0,79.0,108.0,15
+2020-03-17,Rhode Island,Fast Food Restaurants,70.0,67.0,70.0,16
+2020-03-17,Rhode Island,Hardware Stores,99.0,89.0,99.0,17
+2020-03-17,Rhode Island,Arts & Entertainment,41.0,"",41.0,18
+2020-03-17,Rhode Island,Government,39.0,39.0,39.0,19
+2020-03-17,Rhode Island,Fitness Center,23.0,"",23.0,20
+2020-03-17,Rhode Island,Banks,67.0,65.0,67.0,21
+2020-03-17,Rhode Island,Residences,76.0,"",77.0,22
+2020-03-17,Rhode Island,Hotel,49.0,"",49.0,23
+2020-03-17,Rhode Island,Beach,94.0,"",95.0,24
+2020-03-17,Rhode Island,Sports,20.0,"",20.0,25
+2020-03-17,Rhode Island,Travel & Transport,71.0,"",71.0,26
+2020-03-17,Rhode Island,Discount Stores,88.0,"",89.0,27
+2020-03-17,Rhode Island,Airport,39.0,"",38.0,28
+2020-03-18,Rhode Island,Food,34.0,34.0,34.0,1
+2020-03-18,Rhode Island,Shops & Services,22.0,24.0,22.0,2
+2020-03-18,Rhode Island,Grocery,101.0,79.0,102.0,3
+2020-03-18,Rhode Island,Outdoors & Recreation,40.0,43.0,40.0,4
+2020-03-18,Rhode Island,Medical,32.0,25.0,33.0,5
+2020-03-18,Rhode Island,Drug Store,92.0,86.0,92.0,6
+2020-03-18,Rhode Island,Nightlife Spots,26.0,29.0,26.0,7
+2020-03-18,Rhode Island,Professional & Other Places,11.0,12.0,11.0,8
+2020-03-18,Rhode Island,Gas Stations,83.0,84.0,83.0,9
+2020-03-18,Rhode Island,Convenience Store,82.0,79.0,83.0,10
+2020-03-18,Rhode Island,Big Box Stores,90.0,79.0,90.0,11
+2020-03-18,Rhode Island,Fast Food Restaurants,83.0,103.0,82.0,12
+2020-03-18,Rhode Island,School,23.0,24.0,23.0,13
+2020-03-18,Rhode Island,Office,52.0,54.0,52.0,14
+2020-03-18,Rhode Island,Colleges & Universities,16.0,"",16.0,15
+2020-03-18,Rhode Island,Hardware Stores,116.0,104.0,117.0,16
+2020-03-18,Rhode Island,Beach,146.0,128.0,147.0,17
+2020-03-18,Rhode Island,Alcohol,100.0,122.0,99.0,18
+2020-03-18,Rhode Island,Arts & Entertainment,42.0,42.0,42.0,19
+2020-03-18,Rhode Island,Sports,25.0,26.0,25.0,20
+2020-03-18,Rhode Island,Residences,89.0,82.0,89.0,21
+2020-03-18,Rhode Island,Government,37.0,33.0,37.0,22
+2020-03-18,Rhode Island,Banks,74.0,"",74.0,23
+2020-03-18,Rhode Island,Fitness Center,24.0,27.0,23.0,24
+2020-03-18,Rhode Island,Hotel,44.0,"",43.0,25
+2020-03-18,Rhode Island,Discount Stores,93.0,"",94.0,26
+2020-03-18,Rhode Island,Airport,47.0,"",47.0,27
+2020-03-18,Rhode Island,Travel & Transport,59.0,"",59.0,27
+2020-03-19,Rhode Island,Food,29.0,28.0,29.0,1
+2020-03-19,Rhode Island,Shops & Services,20.0,19.0,20.0,2
+2020-03-19,Rhode Island,Grocery,101.0,93.0,102.0,3
+2020-03-19,Rhode Island,Medical,32.0,26.0,32.0,4
+2020-03-19,Rhode Island,Outdoors & Recreation,27.0,30.0,27.0,5
+2020-03-19,Rhode Island,Drug Store,87.0,76.0,88.0,6
+2020-03-19,Rhode Island,Gas Stations,72.0,77.0,72.0,7
+2020-03-19,Rhode Island,Nightlife Spots,19.0,17.0,19.0,8
+2020-03-19,Rhode Island,Professional & Other Places,8.0,8.0,8.0,9
+2020-03-19,Rhode Island,Big Box Stores,78.0,62.0,79.0,10
+2020-03-19,Rhode Island,Convenience Store,58.0,55.0,58.0,11
+2020-03-19,Rhode Island,School,20.0,24.0,20.0,12
+2020-03-19,Rhode Island,Fast Food Restaurants,65.0,63.0,65.0,13
+2020-03-19,Rhode Island,Office,47.0,48.0,47.0,14
+2020-03-19,Rhode Island,Colleges & Universities,15.0,"",15.0,15
+2020-03-19,Rhode Island,Hardware Stores,90.0,78.0,91.0,16
+2020-03-19,Rhode Island,Alcohol,84.0,76.0,84.0,17
+2020-03-19,Rhode Island,Arts & Entertainment,34.0,"",34.0,18
+2020-03-19,Rhode Island,Government,37.0,44.0,37.0,19
+2020-03-19,Rhode Island,Fitness Center,23.0,"",23.0,20
+2020-03-19,Rhode Island,Banks,65.0,"",65.0,21
+2020-03-19,Rhode Island,Discount Stores,100.0,"",100.0,22
+2020-03-19,Rhode Island,Hotel,43.0,"",43.0,23
+2020-03-19,Rhode Island,Beach,88.0,100.0,87.0,24
+2020-03-19,Rhode Island,Residences,56.0,"",57.0,25
+2020-03-19,Rhode Island,Sports,19.0,"",19.0,26
+2020-03-19,Rhode Island,Airport,34.0,"",35.0,27
+2020-03-19,Rhode Island,Travel & Transport,50.0,"",51.0,28
+2020-03-20,Rhode Island,Food,28.0,27.0,28.0,1
+2020-03-20,Rhode Island,Shops & Services,18.0,18.0,18.0,2
+2020-03-20,Rhode Island,Grocery,118.0,100.0,119.0,3
+2020-03-20,Rhode Island,Outdoors & Recreation,35.0,43.0,35.0,4
+2020-03-20,Rhode Island,Medical,34.0,27.0,34.0,5
+2020-03-20,Rhode Island,Drug Store,94.0,78.0,95.0,6
+2020-03-20,Rhode Island,Nightlife Spots,22.0,23.0,22.0,7
+2020-03-20,Rhode Island,Gas Stations,75.0,64.0,75.0,8
+2020-03-20,Rhode Island,Big Box Stores,99.0,75.0,100.0,9
+2020-03-20,Rhode Island,Convenience Store,76.0,75.0,76.0,10
+2020-03-20,Rhode Island,Professional & Other Places,11.0,13.0,11.0,11
+2020-03-20,Rhode Island,Alcohol,104.0,87.0,105.0,12
+2020-03-20,Rhode Island,Fast Food Restaurants,73.0,63.0,73.0,13
+2020-03-20,Rhode Island,School,25.0,28.0,25.0,14
+2020-03-20,Rhode Island,Colleges & Universities,18.0,"",18.0,15
+2020-03-20,Rhode Island,Office,51.0,54.0,51.0,15
+2020-03-20,Rhode Island,Hardware Stores,108.0,100.0,109.0,15
+2020-03-20,Rhode Island,Banks,77.0,68.0,77.0,16
+2020-03-20,Rhode Island,Arts & Entertainment,37.0,"",37.0,17
+2020-03-20,Rhode Island,Sports,30.0,33.0,30.0,18
+2020-03-20,Rhode Island,Beach,135.0,104.0,137.0,19
+2020-03-20,Rhode Island,Fitness Center,25.0,"",25.0,20
+2020-03-20,Rhode Island,Government,39.0,"",39.0,21
+2020-03-20,Rhode Island,Hotel,45.0,"",45.0,22
+2020-03-20,Rhode Island,Residences,67.0,"",67.0,23
+2020-03-20,Rhode Island,Travel & Transport,60.0,"",59.0,24
+2020-03-20,Rhode Island,Discount Stores,69.0,"",69.0,25
+2020-03-20,Rhode Island,Airport,37.0,"",37.0,26
+2020-03-21,Rhode Island,Food,22.0,22.0,22.0,1
+2020-03-21,Rhode Island,Shops & Services,16.0,17.0,16.0,2
+2020-03-21,Rhode Island,Grocery,97.0,75.0,98.0,3
+2020-03-21,Rhode Island,Outdoors & Recreation,42.0,51.0,41.0,4
+2020-03-21,Rhode Island,Drug Store,90.0,94.0,90.0,5
+2020-03-21,Rhode Island,Nightlife Spots,15.0,18.0,15.0,6
+2020-03-21,Rhode Island,Gas Stations,79.0,79.0,79.0,7
+2020-03-21,Rhode Island,Big Box Stores,77.0,59.0,77.0,8
+2020-03-21,Rhode Island,Hardware Stores,118.0,86.0,120.0,9
+2020-03-21,Rhode Island,Medical,36.0,33.0,36.0,10
+2020-03-21,Rhode Island,Beach,163.0,152.0,164.0,11
+2020-03-21,Rhode Island,Convenience Store,68.0,58.0,68.0,12
+2020-03-21,Rhode Island,Alcohol,103.0,95.0,104.0,13
+2020-03-21,Rhode Island,Fast Food Restaurants,67.0,71.0,67.0,14
+2020-03-21,Rhode Island,Professional & Other Places,12.0,15.0,12.0,15
+2020-03-21,Rhode Island,School,36.0,36.0,36.0,16
+2020-03-21,Rhode Island,Sports,26.0,30.0,26.0,17
+2020-03-21,Rhode Island,Banks,76.0,"",75.0,18
+2020-03-21,Rhode Island,Arts & Entertainment,18.0,"",18.0,19
+2020-03-21,Rhode Island,Colleges & Universities,29.0,"",29.0,20
+2020-03-21,Rhode Island,Fitness Center,25.0,"",25.0,21
+2020-03-21,Rhode Island,Residences,62.0,"",62.0,22
+2020-03-21,Rhode Island,Discount Stores,72.0,"",72.0,23
+2020-03-21,Rhode Island,Hotel,27.0,"",26.0,23
+2020-03-21,Rhode Island,Travel & Transport,70.0,"",70.0,24
+2020-03-21,Rhode Island,Government,44.0,"",44.0,25
+2020-03-21,Rhode Island,Office,53.0,"",53.0,26
+2020-03-22,Rhode Island,Food,23.0,24.0,23.0,1
+2020-03-22,Rhode Island,Shops & Services,15.0,15.0,15.0,2
+2020-03-22,Rhode Island,Grocery,76.0,73.0,76.0,3
+2020-03-22,Rhode Island,Outdoors & Recreation,38.0,40.0,38.0,4
+2020-03-22,Rhode Island,Nightlife Spots,13.0,15.0,12.0,5
+2020-03-22,Rhode Island,Drug Store,76.0,96.0,75.0,6
+2020-03-22,Rhode Island,Big Box Stores,67.0,69.0,67.0,7
+2020-03-22,Rhode Island,Gas Stations,66.0,69.0,66.0,8
+2020-03-22,Rhode Island,Convenience Store,67.0,"",67.0,9
+2020-03-22,Rhode Island,Hardware Stores,100.0,101.0,100.0,10
+2020-03-22,Rhode Island,Beach,98.0,77.0,99.0,11
+2020-03-22,Rhode Island,Medical,33.0,34.0,33.0,12
+2020-03-22,Rhode Island,Fast Food Restaurants,56.0,"",56.0,13
+2020-03-22,Rhode Island,School,35.0,"",35.0,14
+2020-03-22,Rhode Island,Alcohol,76.0,"",76.0,15
+2020-03-22,Rhode Island,Professional & Other Places,9.0,"",9.0,16
+2020-03-22,Rhode Island,Arts & Entertainment,19.0,"",19.0,17
+2020-03-22,Rhode Island,Sports,21.0,"",21.0,18
+2020-03-22,Rhode Island,Colleges & Universities,17.0,"",17.0,19
+2020-03-22,Rhode Island,Discount Stores,84.0,"",85.0,20
+2020-03-22,Rhode Island,Fitness Center,25.0,"",26.0,21
+2020-03-22,Rhode Island,Residences,53.0,"",54.0,22
+2020-03-22,Rhode Island,Hotel,23.0,"",23.0,23
+2020-03-22,Rhode Island,Banks,64.0,"",64.0,24
+2020-03-23,Rhode Island,Food,24.0,23.0,24.0,1
+2020-03-23,Rhode Island,Shops & Services,18.0,19.0,18.0,2
+2020-03-23,Rhode Island,Grocery,86.0,88.0,86.0,3
+2020-03-23,Rhode Island,Medical,32.0,26.0,32.0,4
+2020-03-23,Rhode Island,Outdoors & Recreation,26.0,33.0,26.0,5
+2020-03-23,Rhode Island,Drug Store,82.0,76.0,82.0,6
+2020-03-23,Rhode Island,Gas Stations,69.0,61.0,70.0,7
+2020-03-23,Rhode Island,Professional & Other Places,10.0,11.0,10.0,8
+2020-03-23,Rhode Island,Nightlife Spots,18.0,18.0,18.0,9
+2020-03-23,Rhode Island,Convenience Store,63.0,77.0,62.0,10
+2020-03-23,Rhode Island,Big Box Stores,79.0,66.0,80.0,11
+2020-03-23,Rhode Island,School,22.0,26.0,22.0,12
+2020-03-23,Rhode Island,Office,49.0,63.0,48.0,13
+2020-03-23,Rhode Island,Fast Food Restaurants,61.0,"",61.0,14
+2020-03-23,Rhode Island,Alcohol,91.0,93.0,91.0,15
+2020-03-23,Rhode Island,Hardware Stores,83.0,85.0,83.0,15
+2020-03-23,Rhode Island,Colleges & Universities,12.0,"",12.0,16
+2020-03-23,Rhode Island,Government,37.0,"",37.0,17
+2020-03-23,Rhode Island,Arts & Entertainment,30.0,"",30.0,17
+2020-03-23,Rhode Island,Residences,65.0,"",65.0,18
+2020-03-23,Rhode Island,Banks,60.0,"",60.0,19
+2020-03-23,Rhode Island,Hotel,41.0,"",41.0,20
+2020-03-23,Rhode Island,Fitness Center,20.0,"",20.0,21
+2020-03-23,Rhode Island,Sports,20.0,"",19.0,22
+2020-03-23,Rhode Island,Travel & Transport,56.0,"",56.0,23
+2020-03-23,Rhode Island,Beach,57.0,"",59.0,24
+2020-03-23,Rhode Island,Discount Stores,70.0,"",70.0,25
+2020-03-24,Rhode Island,Food,28.0,31.0,28.0,1
+2020-03-24,Rhode Island,Shops & Services,17.0,18.0,17.0,2
+2020-03-24,Rhode Island,Grocery,82.0,77.0,83.0,3
+2020-03-24,Rhode Island,Outdoors & Recreation,32.0,34.0,32.0,4
+2020-03-24,Rhode Island,Medical,26.0,20.0,26.0,5
+2020-03-24,Rhode Island,Drug Store,74.0,69.0,74.0,6
+2020-03-24,Rhode Island,Nightlife Spots,21.0,22.0,21.0,7
+2020-03-24,Rhode Island,Gas Stations,70.0,81.0,70.0,8
+2020-03-24,Rhode Island,Professional & Other Places,9.0,10.0,9.0,9
+2020-03-24,Rhode Island,Big Box Stores,87.0,95.0,87.0,10
+2020-03-24,Rhode Island,School,22.0,27.0,22.0,11
+2020-03-24,Rhode Island,Convenience Store,56.0,61.0,56.0,12
+2020-03-24,Rhode Island,Colleges & Universities,14.0,"",14.0,13
+2020-03-24,Rhode Island,Office,41.0,"",41.0,14
+2020-03-24,Rhode Island,Fast Food Restaurants,60.0,"",60.0,15
+2020-03-24,Rhode Island,Hardware Stores,91.0,84.0,91.0,16
+2020-03-24,Rhode Island,Alcohol,86.0,88.0,85.0,17
+2020-03-24,Rhode Island,Beach,138.0,134.0,138.0,18
+2020-03-24,Rhode Island,Arts & Entertainment,35.0,"",35.0,19
+2020-03-24,Rhode Island,Residences,70.0,"",70.0,20
+2020-03-24,Rhode Island,Sports,21.0,25.0,21.0,21
+2020-03-24,Rhode Island,Hotel,43.0,"",42.0,22
+2020-03-24,Rhode Island,Banks,58.0,"",58.0,22
+2020-03-24,Rhode Island,Government,28.0,"",28.0,23
+2020-03-24,Rhode Island,Fitness Center,18.0,"",18.0,24
+2020-03-24,Rhode Island,Discount Stores,80.0,"",80.0,25
+2020-03-24,Rhode Island,Travel & Transport,57.0,"",58.0,26
+2020-03-25,Rhode Island,Food,26.0,25.0,26.0,1
+2020-03-25,Rhode Island,Shops & Services,16.0,17.0,16.0,2
+2020-03-25,Rhode Island,Grocery,86.0,78.0,87.0,3
+2020-03-25,Rhode Island,Outdoors & Recreation,30.0,33.0,29.0,4
+2020-03-25,Rhode Island,Medical,26.0,22.0,26.0,5
+2020-03-25,Rhode Island,Drug Store,72.0,59.0,72.0,6
+2020-03-25,Rhode Island,Nightlife Spots,20.0,24.0,20.0,7
+2020-03-25,Rhode Island,Gas Stations,69.0,80.0,68.0,8
+2020-03-25,Rhode Island,Professional & Other Places,8.0,9.0,8.0,9
+2020-03-25,Rhode Island,Big Box Stores,78.0,62.0,78.0,10
+2020-03-25,Rhode Island,Convenience Store,52.0,48.0,52.0,11
+2020-03-25,Rhode Island,School,18.0,21.0,18.0,12
+2020-03-25,Rhode Island,Office,41.0,"",41.0,13
+2020-03-25,Rhode Island,Hardware Stores,88.0,72.0,89.0,14
+2020-03-25,Rhode Island,Fast Food Restaurants,56.0,"",56.0,15
+2020-03-25,Rhode Island,Colleges & Universities,12.0,"",11.0,16
+2020-03-25,Rhode Island,Alcohol,77.0,82.0,76.0,17
+2020-03-25,Rhode Island,Arts & Entertainment,28.0,"",28.0,18
+2020-03-25,Rhode Island,Banks,57.0,"",57.0,19
+2020-03-25,Rhode Island,Government,26.0,"",26.0,20
+2020-03-25,Rhode Island,Beach,72.0,63.0,72.0,21
+2020-03-25,Rhode Island,Hotel,34.0,"",34.0,22
+2020-03-25,Rhode Island,Sports,15.0,"",15.0,23
+2020-03-25,Rhode Island,Residences,52.0,"",53.0,23
+2020-03-25,Rhode Island,Fitness Center,16.0,"",16.0,24
+2020-03-25,Rhode Island,Discount Stores,71.0,"",71.0,25
+2020-03-25,Rhode Island,Travel & Transport,46.0,"",46.0,26
+2020-03-26,Rhode Island,Food,27.0,24.0,27.0,1
+2020-03-26,Rhode Island,Shops & Services,18.0,20.0,18.0,2
+2020-03-26,Rhode Island,Grocery,88.0,84.0,88.0,3
+2020-03-26,Rhode Island,Outdoors & Recreation,38.0,40.0,38.0,4
+2020-03-26,Rhode Island,Medical,29.0,24.0,29.0,5
+2020-03-26,Rhode Island,Drug Store,77.0,70.0,77.0,6
+2020-03-26,Rhode Island,Nightlife Spots,20.0,24.0,19.0,7
+2020-03-26,Rhode Island,Gas Stations,74.0,82.0,73.0,7
+2020-03-26,Rhode Island,Professional & Other Places,11.0,13.0,11.0,8
+2020-03-26,Rhode Island,Convenience Store,68.0,72.0,68.0,9
+2020-03-26,Rhode Island,School,24.0,35.0,23.0,10
+2020-03-26,Rhode Island,Big Box Stores,76.0,68.0,76.0,11
+2020-03-26,Rhode Island,Fast Food Restaurants,66.0,58.0,66.0,12
+2020-03-26,Rhode Island,Office,44.0,"",44.0,13
+2020-03-26,Rhode Island,Beach,164.0,132.0,167.0,13
+2020-03-26,Rhode Island,Hardware Stores,97.0,73.0,98.0,14
+2020-03-26,Rhode Island,Colleges & Universities,15.0,"",14.0,15
+2020-03-26,Rhode Island,Sports,27.0,30.0,27.0,16
+2020-03-26,Rhode Island,Arts & Entertainment,37.0,"",38.0,17
+2020-03-26,Rhode Island,Alcohol,81.0,71.0,82.0,18
+2020-03-26,Rhode Island,Government,34.0,40.0,34.0,19
+2020-03-26,Rhode Island,Residences,69.0,"",69.0,20
+2020-03-26,Rhode Island,Fitness Center,20.0,"",20.0,21
+2020-03-26,Rhode Island,Banks,57.0,"",56.0,22
+2020-03-26,Rhode Island,Hotel,38.0,"",38.0,23
+2020-03-26,Rhode Island,Travel & Transport,60.0,"",61.0,24
+2020-03-26,Rhode Island,Discount Stores,68.0,"",67.0,25
+2020-03-26,Rhode Island,Airport,26.0,"",26.0,26
+2020-03-27,Rhode Island,Food,28.0,27.0,28.0,1
+2020-03-27,Rhode Island,Shops & Services,17.0,18.0,17.0,2
+2020-03-27,Rhode Island,Outdoors & Recreation,40.0,45.0,40.0,3
+2020-03-27,Rhode Island,Grocery,80.0,74.0,81.0,4
+2020-03-27,Rhode Island,Medical,29.0,23.0,29.0,5
+2020-03-27,Rhode Island,Nightlife Spots,22.0,28.0,22.0,6
+2020-03-27,Rhode Island,Gas Stations,67.0,64.0,67.0,7
+2020-03-27,Rhode Island,Drug Store,70.0,58.0,70.0,8
+2020-03-27,Rhode Island,Professional & Other Places,9.0,10.0,9.0,9
+2020-03-27,Rhode Island,Convenience Store,65.0,70.0,65.0,10
+2020-03-27,Rhode Island,Fast Food Restaurants,77.0,71.0,77.0,11
+2020-03-27,Rhode Island,Beach,189.0,146.0,191.0,12
+2020-03-27,Rhode Island,Alcohol,92.0,81.0,92.0,13
+2020-03-27,Rhode Island,School,22.0,28.0,22.0,14
+2020-03-27,Rhode Island,Big Box Stores,65.0,57.0,65.0,15
+2020-03-27,Rhode Island,Hardware Stores,107.0,98.0,108.0,16
+2020-03-27,Rhode Island,Office,42.0,52.0,42.0,17
+2020-03-27,Rhode Island,Colleges & Universities,14.0,"",14.0,18
+2020-03-27,Rhode Island,Sports,28.0,37.0,28.0,19
+2020-03-27,Rhode Island,Arts & Entertainment,32.0,"",32.0,20
+2020-03-27,Rhode Island,Banks,57.0,58.0,57.0,21
+2020-03-27,Rhode Island,Residences,73.0,"",73.0,22
+2020-03-27,Rhode Island,Government,36.0,41.0,35.0,23
+2020-03-27,Rhode Island,Fitness Center,21.0,"",21.0,24
+2020-03-27,Rhode Island,Hotel,37.0,"",37.0,25
+2020-03-27,Rhode Island,Discount Stores,73.0,"",73.0,26
+2020-03-27,Rhode Island,Travel & Transport,53.0,"",53.0,27
+2020-03-28,Rhode Island,Food,24.0,24.0,24.0,1
+2020-03-28,Rhode Island,Shops & Services,14.0,14.0,14.0,2
+2020-03-28,Rhode Island,Grocery,78.0,67.0,79.0,3
+2020-03-28,Rhode Island,Outdoors & Recreation,34.0,35.0,34.0,4
+2020-03-28,Rhode Island,Nightlife Spots,14.0,19.0,14.0,5
+2020-03-28,Rhode Island,Drug Store,74.0,74.0,74.0,6
+2020-03-28,Rhode Island,Gas Stations,65.0,52.0,65.0,7
+2020-03-28,Rhode Island,Hardware Stores,118.0,91.0,119.0,8
+2020-03-28,Rhode Island,Big Box Stores,62.0,49.0,62.0,9
+2020-03-28,Rhode Island,Medical,30.0,30.0,30.0,10
+2020-03-28,Rhode Island,Alcohol,88.0,77.0,89.0,11
+2020-03-28,Rhode Island,Fast Food Restaurants,61.0,"",61.0,12
+2020-03-28,Rhode Island,Convenience Store,57.0,57.0,57.0,13
+2020-03-28,Rhode Island,Beach,129.0,113.0,130.0,14
+2020-03-28,Rhode Island,Professional & Other Places,11.0,"",11.0,15
+2020-03-28,Rhode Island,School,31.0,"",31.0,16
+2020-03-28,Rhode Island,Sports,29.0,34.0,29.0,17
+2020-03-28,Rhode Island,Arts & Entertainment,17.0,"",17.0,18
+2020-03-28,Rhode Island,Residences,63.0,"",64.0,19
+2020-03-28,Rhode Island,Colleges & Universities,16.0,"",15.0,20
+2020-03-28,Rhode Island,Fitness Center,20.0,"",20.0,21
+2020-03-28,Rhode Island,Banks,52.0,"",52.0,22
+2020-03-28,Rhode Island,Hotel,23.0,"",23.0,23
+2020-03-28,Rhode Island,Discount Stores,59.0,"",59.0,24
+2020-03-28,Rhode Island,Office,56.0,"",56.0,25
+2020-03-28,Rhode Island,Government,34.0,"",34.0,26
+2020-03-29,Rhode Island,Food,15.0,14.0,15.0,1
+2020-03-29,Rhode Island,Grocery,57.0,48.0,57.0,2
+2020-03-29,Rhode Island,Shops & Services,11.0,14.0,11.0,3
+2020-03-29,Rhode Island,Outdoors & Recreation,13.0,10.0,13.0,4
+2020-03-29,Rhode Island,Big Box Stores,55.0,"",55.0,5
+2020-03-29,Rhode Island,Drug Store,51.0,"",51.0,6
+2020-03-29,Rhode Island,Gas Stations,42.0,"",42.0,7
+2020-03-29,Rhode Island,Fast Food Restaurants,48.0,"",48.0,8
+2020-03-29,Rhode Island,Nightlife Spots,7.0,"",7.0,8
+2020-03-29,Rhode Island,Hardware Stores,73.0,"",73.0,9
+2020-03-29,Rhode Island,Convenience Store,41.0,"",40.0,10
+2020-03-29,Rhode Island,Medical,23.0,"",23.0,11
+2020-03-29,Rhode Island,Alcohol,54.0,"",54.0,12
+2020-03-29,Rhode Island,Professional & Other Places,11.0,"",11.0,13
+2020-03-29,Rhode Island,School,20.0,"",20.0,14
+2020-03-29,Rhode Island,Discount Stores,64.0,"",65.0,15
+2020-03-29,Rhode Island,Beach,39.0,"",40.0,16
+2020-03-29,Rhode Island,Arts & Entertainment,11.0,"",11.0,17
+2020-03-30,Rhode Island,Food,23.0,23.0,23.0,1
+2020-03-30,Rhode Island,Shops & Services,15.0,16.0,15.0,2
+2020-03-30,Rhode Island,Grocery,71.0,72.0,71.0,3
+2020-03-30,Rhode Island,Outdoors & Recreation,22.0,24.0,22.0,4
+2020-03-30,Rhode Island,Medical,25.0,21.0,25.0,5
+2020-03-30,Rhode Island,Drug Store,69.0,63.0,69.0,6
+2020-03-30,Rhode Island,Professional & Other Places,8.0,9.0,8.0,7
+2020-03-30,Rhode Island,Nightlife Spots,17.0,20.0,17.0,8
+2020-03-30,Rhode Island,Gas Stations,55.0,49.0,56.0,9
+2020-03-30,Rhode Island,Convenience Store,53.0,63.0,53.0,10
+2020-03-30,Rhode Island,Office,44.0,"",44.0,11
+2020-03-30,Rhode Island,School,18.0,23.0,18.0,12
+2020-03-30,Rhode Island,Big Box Stores,56.0,"",56.0,13
+2020-03-30,Rhode Island,Fast Food Restaurants,56.0,"",57.0,14
+2020-03-30,Rhode Island,Hardware Stores,73.0,64.0,73.0,15
+2020-03-30,Rhode Island,Colleges & Universities,11.0,"",11.0,16
+2020-03-30,Rhode Island,Alcohol,68.0,"",67.0,17
+2020-03-30,Rhode Island,Arts & Entertainment,26.0,"",26.0,18
+2020-03-30,Rhode Island,Banks,58.0,"",58.0,19
+2020-03-30,Rhode Island,Beach,70.0,61.0,71.0,20
+2020-03-30,Rhode Island,Government,30.0,"",30.0,21
+2020-03-30,Rhode Island,Residences,57.0,"",57.0,22
+2020-03-30,Rhode Island,Fitness Center,18.0,"",18.0,23
+2020-03-30,Rhode Island,Sports,18.0,"",18.0,24
+2020-03-30,Rhode Island,Discount Stores,75.0,"",74.0,25
+2020-03-30,Rhode Island,Hotel,29.0,"",29.0,26
+2020-03-30,Rhode Island,Travel & Transport,48.0,"",48.0,27
+2020-03-31,Rhode Island,Food,22.0,21.0,22.0,1
+2020-03-31,Rhode Island,Shops & Services,16.0,17.0,16.0,2
+2020-03-31,Rhode Island,Grocery,73.0,68.0,73.0,3
+2020-03-31,Rhode Island,Outdoors & Recreation,32.0,35.0,32.0,4
+2020-03-31,Rhode Island,Medical,21.0,19.0,21.0,5
+2020-03-31,Rhode Island,Nightlife Spots,21.0,27.0,20.0,6
+2020-03-31,Rhode Island,Drug Store,63.0,59.0,63.0,7
+2020-03-31,Rhode Island,Gas Stations,61.0,61.0,61.0,8
+2020-03-31,Rhode Island,Professional & Other Places,8.0,8.0,8.0,9
+2020-03-31,Rhode Island,Convenience Store,52.0,53.0,52.0,10
+2020-03-31,Rhode Island,School,19.0,25.0,19.0,11
+2020-03-31,Rhode Island,Office,39.0,"",39.0,12
+2020-03-31,Rhode Island,Big Box Stores,62.0,"",62.0,13
+2020-03-31,Rhode Island,Fast Food Restaurants,59.0,"",59.0,14
+2020-03-31,Rhode Island,Hardware Stores,92.0,96.0,91.0,15
+2020-03-31,Rhode Island,Colleges & Universities,19.0,60.0,18.0,16
+2020-03-31,Rhode Island,Alcohol,68.0,68.0,68.0,17
+2020-03-31,Rhode Island,Arts & Entertainment,31.0,"",31.0,18
+2020-03-31,Rhode Island,Banks,60.0,"",60.0,19
+2020-03-31,Rhode Island,Government,27.0,"",27.0,20
+2020-03-31,Rhode Island,Beach,92.0,86.0,92.0,20
+2020-03-31,Rhode Island,Fitness Center,17.0,"",17.0,21
+2020-03-31,Rhode Island,Sports,20.0,26.0,20.0,22
+2020-03-31,Rhode Island,Discount Stores,82.0,"",83.0,23
+2020-03-31,Rhode Island,Hotel,31.0,"",31.0,24
+2020-03-31,Rhode Island,Residences,46.0,"",47.0,25
+2020-03-31,Rhode Island,Travel & Transport,56.0,"",56.0,26

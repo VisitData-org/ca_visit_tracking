@@ -1,1432 +1,1405 @@
-2020-03-01,NorthDakota,Richland County,Nightlife Spots,120.0,"",119.0,1
-2020-03-01,NorthDakota,Ward County,Nightlife Spots,91.0,"",91.0,1
-2020-03-01,NorthDakota,Ward County,Shops & Services,106.0,"",105.0,2
-2020-03-01,NorthDakota,Ward County,Food,99.0,"",98.0,3
-2020-03-01,NorthDakota,Ward County,Big Box Stores,110.0,"",109.0,4
-2020-03-01,NorthDakota,Ward County,Hotel,135.0,"",134.0,5
-2020-03-01,NorthDakota,Ward County,Gas Stations,94.0,"",94.0,6
-2020-03-01,NorthDakota,Ward County,Fast Food Restaurants,116.0,"",116.0,7
-2020-03-01,NorthDakota,Ward County,Grocery,103.0,"",104.0,8
-2020-03-01,NorthDakota,Burleigh County,Food,96.0,90.0,96.0,1
-2020-03-01,NorthDakota,Burleigh County,Shops & Services,100.0,"",100.0,2
-2020-03-01,NorthDakota,Burleigh County,Nightlife Spots,74.0,"",74.0,3
-2020-03-01,NorthDakota,Burleigh County,Big Box Stores,108.0,"",108.0,4
-2020-03-01,NorthDakota,Burleigh County,Gas Stations,94.0,"",95.0,5
-2020-03-01,NorthDakota,Burleigh County,Arts & Entertainment,61.0,"",61.0,6
-2020-03-01,NorthDakota,Burleigh County,Fast Food Restaurants,90.0,"",91.0,7
-2020-03-01,NorthDakota,Burleigh County,Grocery,80.0,"",81.0,8
-2020-03-01,NorthDakota,Burleigh County,Hotel,61.0,"",61.0,9
-2020-03-01,NorthDakota,Burleigh County,Hardware Stores,114.0,"",116.0,9
-2020-03-01,NorthDakota,Morton County,Nightlife Spots,82.0,"",82.0,1
-2020-03-01,NorthDakota,Cass County,Food,45.0,47.0,45.0,1
-2020-03-01,NorthDakota,Cass County,Shops & Services,75.0,64.0,75.0,2
-2020-03-01,NorthDakota,Cass County,Nightlife Spots,76.0,"",76.0,3
-2020-03-01,NorthDakota,Cass County,Grocery,98.0,"",98.0,4
-2020-03-01,NorthDakota,Cass County,Gas Stations,99.0,"",99.0,5
-2020-03-01,NorthDakota,Cass County,Arts & Entertainment,87.0,"",87.0,6
-2020-03-01,NorthDakota,Cass County,Big Box Stores,91.0,"",91.0,7
-2020-03-01,NorthDakota,Cass County,Hotel,83.0,"",82.0,8
-2020-03-01,NorthDakota,Cass County,Fast Food Restaurants,100.0,"",100.0,9
-2020-03-01,NorthDakota,Cass County,Outdoors & Recreation,30.0,"",30.0,10
-2020-03-01,NorthDakota,Cass County,Colleges & Universities,54.0,"",54.0,11
-2020-03-01,NorthDakota,Cass County,Residences,107.0,"",107.0,12
-2020-03-01,NorthDakota,Cass County,Medical,70.0,"",71.0,13
-2020-03-01,NorthDakota,Cass County,Fitness Center,54.0,"",54.0,13
-2020-03-01,NorthDakota,Cass County,School,56.0,"",56.0,14
-2020-03-01,NorthDakota,Cass County,Sports,31.0,"",31.0,15
-2020-03-01,NorthDakota,Cass County,Professional & Other Places,15.0,"",15.0,16
-2020-03-01,NorthDakota,Cass County,Hardware Stores,117.0,"",117.0,17
-2020-03-01,NorthDakota,Grand Forks County,Shops & Services,87.0,"",87.0,1
-2020-03-01,NorthDakota,Grand Forks County,Nightlife Spots,94.0,"",95.0,2
-2020-03-01,NorthDakota,Grand Forks County,Food,44.0,"",44.0,3
-2020-03-01,NorthDakota,Grand Forks County,Colleges & Universities,129.0,"",129.0,4
-2020-03-01,NorthDakota,Grand Forks County,Big Box Stores,96.0,"",96.0,5
-2020-03-01,NorthDakota,Grand Forks County,Gas Stations,96.0,"",96.0,6
-2020-03-01,NorthDakota,Grand Forks County,Fast Food Restaurants,93.0,"",93.0,7
-2020-03-01,NorthDakota,Grand Forks County,Hotel,82.0,"",83.0,8
-2020-03-01,NorthDakota,Williams County,Food,88.0,"",88.0,1
-2020-03-01,NorthDakota,Williams County,Shops & Services,107.0,"",107.0,2
-2020-03-01,NorthDakota,Williams County,Gas Stations,97.0,"",97.0,3
-2020-03-01,NorthDakota,Stark County,Food,103.0,"",103.0,1
-2020-03-01,NorthDakota,Stark County,Nightlife Spots,77.0,"",77.0,2
-2020-03-02,NorthDakota,Burleigh County,Shops & Services,94.0,88.0,94.0,1
-2020-03-02,NorthDakota,Burleigh County,Food,95.0,112.0,94.0,2
-2020-03-02,NorthDakota,Burleigh County,Medical,49.0,"",49.0,3
-2020-03-02,NorthDakota,Burleigh County,Nightlife Spots,78.0,"",78.0,4
-2020-03-02,NorthDakota,Burleigh County,Big Box Stores,97.0,"",97.0,5
-2020-03-02,NorthDakota,Burleigh County,Gas Stations,104.0,"",105.0,6
-2020-03-02,NorthDakota,Burleigh County,School,60.0,"",59.0,7
-2020-03-02,NorthDakota,Burleigh County,Grocery,114.0,"",114.0,8
-2020-03-02,NorthDakota,Burleigh County,Fast Food Restaurants,88.0,"",87.0,9
-2020-03-02,NorthDakota,Burleigh County,Outdoors & Recreation,36.0,"",36.0,10
-2020-03-02,NorthDakota,Ward County,Shops & Services,87.0,115.0,87.0,1
-2020-03-02,NorthDakota,Ward County,Food,43.0,49.0,43.0,2
-2020-03-02,NorthDakota,Ward County,Nightlife Spots,71.0,"",70.0,3
-2020-03-02,NorthDakota,Ward County,Gas Stations,94.0,"",93.0,4
-2020-03-02,NorthDakota,Ward County,Medical,60.0,"",60.0,5
-2020-03-02,NorthDakota,Ward County,Big Box Stores,100.0,"",99.0,6
-2020-03-02,NorthDakota,Ward County,Hotel,103.0,"",103.0,7
-2020-03-02,NorthDakota,Ward County,Fast Food Restaurants,91.0,"",91.0,8
-2020-03-02,NorthDakota,Stark County,Shops & Services,26.0,"",26.0,1
-2020-03-02,NorthDakota,Stark County,Food,101.0,"",102.0,2
-2020-03-02,NorthDakota,Cass County,Shops & Services,26.0,31.0,26.0,1
-2020-03-02,NorthDakota,Cass County,Food,41.0,39.0,41.0,2
-2020-03-02,NorthDakota,Cass County,Nightlife Spots,77.0,"",77.0,3
-2020-03-02,NorthDakota,Cass County,Medical,52.0,39.0,52.0,4
-2020-03-02,NorthDakota,Cass County,Gas Stations,93.0,102.0,93.0,5
-2020-03-02,NorthDakota,Cass County,Colleges & Universities,57.0,"",57.0,6
-2020-03-02,NorthDakota,Cass County,Grocery,86.0,"",87.0,7
-2020-03-02,NorthDakota,Cass County,School,66.0,"",65.0,8
-2020-03-02,NorthDakota,Cass County,Professional & Other Places,15.0,"",15.0,9
-2020-03-02,NorthDakota,Cass County,Fast Food Restaurants,89.0,"",89.0,10
-2020-03-02,NorthDakota,Cass County,Fitness Center,64.0,"",64.0,11
-2020-03-02,NorthDakota,Cass County,Outdoors & Recreation,29.0,"",29.0,12
-2020-03-02,NorthDakota,Cass County,Office,102.0,"",100.0,13
-2020-03-02,NorthDakota,Cass County,Big Box Stores,92.0,"",92.0,14
-2020-03-02,NorthDakota,Cass County,Arts & Entertainment,89.0,"",88.0,15
-2020-03-02,NorthDakota,Cass County,Residences,102.0,"",102.0,16
-2020-03-02,NorthDakota,Cass County,Hotel,75.0,"",75.0,17
-2020-03-02,NorthDakota,McKenzie County,Gas Stations,97.0,"",98.0,1
-2020-03-02,NorthDakota,McKenzie County,Shops & Services,124.0,"",124.0,2
-2020-03-02,NorthDakota,McKenzie County,Outdoors & Recreation,42.0,"",42.0,3
-2020-03-02,NorthDakota,Williams County,Food,91.0,"",91.0,1
-2020-03-02,NorthDakota,Williams County,Shops & Services,110.0,"",109.0,2
-2020-03-02,NorthDakota,Williams County,Gas Stations,97.0,"",97.0,3
-2020-03-02,NorthDakota,Morton County,Nightlife Spots,85.0,"",84.0,1
-2020-03-02,NorthDakota,Grand Forks County,Shops & Services,73.0,72.0,73.0,1
-2020-03-02,NorthDakota,Grand Forks County,Food,41.0,43.0,41.0,2
-2020-03-02,NorthDakota,Grand Forks County,Colleges & Universities,101.0,"",101.0,3
-2020-03-02,NorthDakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,4
-2020-03-02,NorthDakota,Grand Forks County,Big Box Stores,97.0,"",96.0,5
-2020-03-02,NorthDakota,Grand Forks County,Gas Stations,90.0,"",90.0,6
-2020-03-02,NorthDakota,Grand Forks County,Medical,53.0,"",53.0,7
-2020-03-02,NorthDakota,Grand Forks County,School,58.0,"",58.0,8
-2020-03-02,NorthDakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,9
-2020-03-02,NorthDakota,Grand Forks County,Fast Food Restaurants,81.0,"",80.0,10
-2020-03-03,NorthDakota,Mountrail County,Gas Stations,111.0,"",111.0,1
-2020-03-03,NorthDakota,McKenzie County,Gas Stations,96.0,"",96.0,1
-2020-03-03,NorthDakota,McKenzie County,Shops & Services,113.0,"",113.0,2
-2020-03-03,NorthDakota,McKenzie County,Professional & Other Places,29.0,"",29.0,3
-2020-03-03,NorthDakota,Ward County,Shops & Services,89.0,82.0,89.0,1
-2020-03-03,NorthDakota,Ward County,Food,43.0,"",43.0,2
-2020-03-03,NorthDakota,Ward County,Nightlife Spots,74.0,"",73.0,3
-2020-03-03,NorthDakota,Ward County,Gas Stations,97.0,"",97.0,4
-2020-03-03,NorthDakota,Ward County,Medical,50.0,"",50.0,5
-2020-03-03,NorthDakota,Ward County,Hotel,120.0,"",119.0,6
-2020-03-03,NorthDakota,Ward County,Big Box Stores,104.0,"",102.0,7
-2020-03-03,NorthDakota,Ward County,School,55.0,"",54.0,8
-2020-03-03,NorthDakota,Ward County,Fast Food Restaurants,101.0,"",101.0,9
-2020-03-03,NorthDakota,Stark County,Shops & Services,24.0,"",24.0,1
-2020-03-03,NorthDakota,Stark County,Food,102.0,"",103.0,2
-2020-03-03,NorthDakota,Williams County,Food,84.0,"",85.0,1
-2020-03-03,NorthDakota,Williams County,Gas Stations,113.0,"",113.0,2
-2020-03-03,NorthDakota,Williams County,Shops & Services,108.0,"",108.0,3
-2020-03-03,NorthDakota,Burleigh County,Shops & Services,101.0,90.0,102.0,1
-2020-03-03,NorthDakota,Burleigh County,Food,98.0,93.0,98.0,2
-2020-03-03,NorthDakota,Burleigh County,Medical,56.0,"",56.0,3
-2020-03-03,NorthDakota,Burleigh County,Nightlife Spots,80.0,"",81.0,4
-2020-03-03,NorthDakota,Burleigh County,Gas Stations,89.0,"",89.0,5
-2020-03-03,NorthDakota,Burleigh County,Big Box Stores,89.0,"",90.0,6
-2020-03-03,NorthDakota,Burleigh County,School,50.0,"",50.0,7
-2020-03-03,NorthDakota,Burleigh County,Grocery,104.0,"",104.0,8
-2020-03-03,NorthDakota,Burleigh County,Fast Food Restaurants,85.0,"",85.0,9
-2020-03-03,NorthDakota,Burleigh County,Professional & Other Places,12.0,"",12.0,10
-2020-03-03,NorthDakota,Burleigh County,Hotel,90.0,"",91.0,11
-2020-03-03,NorthDakota,Cass County,Shops & Services,29.0,28.0,29.0,1
-2020-03-03,NorthDakota,Cass County,Food,43.0,49.0,43.0,2
-2020-03-03,NorthDakota,Cass County,Nightlife Spots,74.0,86.0,74.0,3
-2020-03-03,NorthDakota,Cass County,Medical,58.0,52.0,58.0,4
-2020-03-03,NorthDakota,Cass County,Colleges & Universities,97.0,"",97.0,5
-2020-03-03,NorthDakota,Cass County,Gas Stations,90.0,"",91.0,6
-2020-03-03,NorthDakota,Cass County,Grocery,96.0,"",97.0,7
-2020-03-03,NorthDakota,Cass County,School,50.0,"",49.0,8
-2020-03-03,NorthDakota,Cass County,Professional & Other Places,14.0,"",14.0,9
-2020-03-03,NorthDakota,Cass County,Fitness Center,55.0,"",55.0,10
-2020-03-03,NorthDakota,Cass County,Fast Food Restaurants,100.0,"",100.0,11
-2020-03-03,NorthDakota,Cass County,Office,94.0,"",94.0,12
-2020-03-03,NorthDakota,Cass County,Big Box Stores,93.0,"",93.0,13
-2020-03-03,NorthDakota,Cass County,Outdoors & Recreation,27.0,"",27.0,14
-2020-03-03,NorthDakota,Cass County,Hotel,82.0,"",82.0,15
-2020-03-03,NorthDakota,Cass County,Arts & Entertainment,69.0,"",69.0,16
-2020-03-03,NorthDakota,Cass County,Residences,105.0,"",106.0,17
-2020-03-03,NorthDakota,Cass County,Hardware Stores,105.0,"",105.0,18
-2020-03-03,NorthDakota,Morton County,Nightlife Spots,86.0,"",86.0,1
-2020-03-03,NorthDakota,Grand Forks County,Shops & Services,71.0,77.0,71.0,1
-2020-03-03,NorthDakota,Grand Forks County,Food,40.0,49.0,40.0,2
-2020-03-03,NorthDakota,Grand Forks County,Colleges & Universities,90.0,"",90.0,3
-2020-03-03,NorthDakota,Grand Forks County,Nightlife Spots,76.0,"",77.0,4
-2020-03-03,NorthDakota,Grand Forks County,Gas Stations,82.0,"",82.0,5
-2020-03-03,NorthDakota,Grand Forks County,Big Box Stores,85.0,"",86.0,6
-2020-03-03,NorthDakota,Grand Forks County,School,55.0,"",55.0,7
-2020-03-03,NorthDakota,Grand Forks County,Medical,43.0,"",42.0,8
-2020-03-03,NorthDakota,Grand Forks County,Fast Food Restaurants,99.0,"",100.0,9
-2020-03-03,NorthDakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,10
-2020-03-04,NorthDakota,Ward County,Shops & Services,100.0,106.0,100.0,1
-2020-03-04,NorthDakota,Ward County,Food,47.0,47.0,47.0,2
-2020-03-04,NorthDakota,Ward County,Nightlife Spots,80.0,"",80.0,3
-2020-03-04,NorthDakota,Ward County,Gas Stations,92.0,"",92.0,4
-2020-03-04,NorthDakota,Ward County,Medical,49.0,"",48.0,5
-2020-03-04,NorthDakota,Ward County,Big Box Stores,106.0,"",105.0,6
-2020-03-04,NorthDakota,Ward County,Fast Food Restaurants,107.0,"",106.0,7
-2020-03-04,NorthDakota,Ward County,Hotel,100.0,"",100.0,8
-2020-03-04,NorthDakota,Williams County,Food,92.0,"",93.0,1
-2020-03-04,NorthDakota,Williams County,Shops & Services,116.0,"",116.0,2
-2020-03-04,NorthDakota,Williams County,Gas Stations,105.0,"",104.0,3
-2020-03-04,NorthDakota,Cass County,Shops & Services,34.0,35.0,34.0,1
-2020-03-04,NorthDakota,Cass County,Food,46.0,48.0,46.0,2
-2020-03-04,NorthDakota,Cass County,Nightlife Spots,81.0,"",81.0,3
-2020-03-04,NorthDakota,Cass County,Medical,61.0,48.0,62.0,4
-2020-03-04,NorthDakota,Cass County,Colleges & Universities,60.0,"",60.0,5
-2020-03-04,NorthDakota,Cass County,Gas Stations,95.0,"",95.0,6
-2020-03-04,NorthDakota,Cass County,Grocery,92.0,"",91.0,7
-2020-03-04,NorthDakota,Cass County,Professional & Other Places,16.0,"",16.0,8
-2020-03-04,NorthDakota,Cass County,Fast Food Restaurants,105.0,"",105.0,9
-2020-03-04,NorthDakota,Cass County,School,53.0,"",53.0,10
-2020-03-04,NorthDakota,Cass County,Hotel,97.0,"",98.0,11
-2020-03-04,NorthDakota,Cass County,Fitness Center,56.0,"",56.0,12
-2020-03-04,NorthDakota,Cass County,Arts & Entertainment,92.0,"",92.0,13
-2020-03-04,NorthDakota,Cass County,Big Box Stores,109.0,"",109.0,14
-2020-03-04,NorthDakota,Cass County,Office,114.0,"",114.0,15
-2020-03-04,NorthDakota,Cass County,Outdoors & Recreation,27.0,"",27.0,16
-2020-03-04,NorthDakota,Cass County,Residences,98.0,"",98.0,17
-2020-03-04,NorthDakota,Stark County,Food,113.0,"",113.0,1
-2020-03-04,NorthDakota,Stark County,Shops & Services,23.0,"",23.0,2
-2020-03-04,NorthDakota,Grand Forks County,Shops & Services,75.0,73.0,75.0,1
-2020-03-04,NorthDakota,Grand Forks County,Food,40.0,51.0,40.0,2
-2020-03-04,NorthDakota,Grand Forks County,Colleges & Universities,89.0,"",89.0,3
-2020-03-04,NorthDakota,Grand Forks County,Nightlife Spots,76.0,"",76.0,4
-2020-03-04,NorthDakota,Grand Forks County,Gas Stations,93.0,"",93.0,5
-2020-03-04,NorthDakota,Grand Forks County,Medical,58.0,"",57.0,6
-2020-03-04,NorthDakota,Grand Forks County,Big Box Stores,104.0,"",102.0,7
-2020-03-04,NorthDakota,Grand Forks County,Professional & Other Places,17.0,"",17.0,8
-2020-03-04,NorthDakota,Grand Forks County,School,50.0,"",50.0,9
-2020-03-04,NorthDakota,Grand Forks County,Fast Food Restaurants,103.0,"",104.0,10
-2020-03-04,NorthDakota,McKenzie County,Gas Stations,99.0,"",99.0,1
-2020-03-04,NorthDakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,2
-2020-03-04,NorthDakota,McKenzie County,Shops & Services,105.0,"",104.0,3
-2020-03-04,NorthDakota,Morton County,Nightlife Spots,113.0,"",113.0,1
-2020-03-04,NorthDakota,Burleigh County,Shops & Services,98.0,94.0,98.0,1
-2020-03-04,NorthDakota,Burleigh County,Food,94.0,96.0,94.0,2
-2020-03-04,NorthDakota,Burleigh County,Nightlife Spots,76.0,"",76.0,3
-2020-03-04,NorthDakota,Burleigh County,Medical,48.0,"",48.0,4
-2020-03-04,NorthDakota,Burleigh County,Gas Stations,94.0,"",94.0,5
-2020-03-04,NorthDakota,Burleigh County,Big Box Stores,92.0,"",92.0,6
-2020-03-04,NorthDakota,Burleigh County,Fast Food Restaurants,114.0,"",114.0,7
-2020-03-04,NorthDakota,Burleigh County,School,47.0,"",47.0,8
-2020-03-04,NorthDakota,Burleigh County,Grocery,102.0,"",103.0,9
-2020-03-04,NorthDakota,Burleigh County,Hotel,86.0,"",86.0,10
-2020-03-04,NorthDakota,Burleigh County,Professional & Other Places,11.0,"",11.0,11
-2020-03-04,NorthDakota,Burleigh County,Outdoors & Recreation,114.0,"",114.0,12
-2020-03-05,NorthDakota,Williams County,Food,102.0,"",102.0,1
-2020-03-05,NorthDakota,Williams County,Shops & Services,105.0,"",104.0,2
-2020-03-05,NorthDakota,Williams County,Gas Stations,99.0,"",99.0,3
-2020-03-05,NorthDakota,Morton County,Nightlife Spots,101.0,"",101.0,1
-2020-03-05,NorthDakota,Stark County,Food,103.0,"",102.0,1
-2020-03-05,NorthDakota,Stark County,Shops & Services,23.0,"",23.0,2
-2020-03-05,NorthDakota,Stark County,Nightlife Spots,97.0,"",97.0,3
-2020-03-05,NorthDakota,Ward County,Shops & Services,104.0,98.0,105.0,1
-2020-03-05,NorthDakota,Ward County,Food,48.0,48.0,48.0,2
-2020-03-05,NorthDakota,Ward County,Nightlife Spots,81.0,"",81.0,3
-2020-03-05,NorthDakota,Ward County,Medical,69.0,"",70.0,4
-2020-03-05,NorthDakota,Ward County,Gas Stations,90.0,"",89.0,5
-2020-03-05,NorthDakota,Ward County,Fast Food Restaurants,98.0,"",99.0,6
-2020-03-05,NorthDakota,Ward County,Big Box Stores,85.0,"",86.0,7
-2020-03-05,NorthDakota,Ward County,School,56.0,"",56.0,8
-2020-03-05,NorthDakota,Grand Forks County,Shops & Services,80.0,72.0,80.0,1
-2020-03-05,NorthDakota,Grand Forks County,Food,40.0,"",40.0,2
-2020-03-05,NorthDakota,Grand Forks County,Colleges & Universities,90.0,"",90.0,3
-2020-03-05,NorthDakota,Grand Forks County,Nightlife Spots,74.0,"",75.0,4
-2020-03-05,NorthDakota,Grand Forks County,School,67.0,"",68.0,5
-2020-03-05,NorthDakota,Grand Forks County,Gas Stations,84.0,"",85.0,6
-2020-03-05,NorthDakota,Grand Forks County,Big Box Stores,86.0,"",86.0,7
-2020-03-05,NorthDakota,Grand Forks County,Medical,48.0,"",48.0,8
-2020-03-05,NorthDakota,Grand Forks County,Fast Food Restaurants,98.0,"",99.0,9
-2020-03-05,NorthDakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,10
-2020-03-05,NorthDakota,McKenzie County,Gas Stations,98.0,"",97.0,1
-2020-03-05,NorthDakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,2
-2020-03-05,NorthDakota,McKenzie County,Professional & Other Places,30.0,"",30.0,2
-2020-03-05,NorthDakota,Burleigh County,Shops & Services,111.0,92.0,112.0,1
-2020-03-05,NorthDakota,Burleigh County,Food,99.0,105.0,99.0,2
-2020-03-05,NorthDakota,Burleigh County,Nightlife Spots,70.0,"",71.0,3
-2020-03-05,NorthDakota,Burleigh County,Medical,53.0,76.0,52.0,4
-2020-03-05,NorthDakota,Burleigh County,Gas Stations,106.0,"",106.0,5
-2020-03-05,NorthDakota,Burleigh County,Big Box Stores,98.0,"",98.0,6
-2020-03-05,NorthDakota,Burleigh County,School,48.0,"",48.0,7
-2020-03-05,NorthDakota,Burleigh County,Fast Food Restaurants,114.0,"",114.0,7
-2020-03-05,NorthDakota,Burleigh County,Hotel,113.0,"",113.0,8
-2020-03-05,NorthDakota,Burleigh County,Grocery,106.0,"",106.0,9
-2020-03-05,NorthDakota,Burleigh County,Arts & Entertainment,119.0,"",119.0,10
-2020-03-05,NorthDakota,Burleigh County,Professional & Other Places,13.0,"",13.0,11
-2020-03-05,NorthDakota,Burleigh County,Outdoors & Recreation,37.0,"",38.0,12
-2020-03-05,NorthDakota,Cass County,Shops & Services,29.0,23.0,30.0,1
-2020-03-05,NorthDakota,Cass County,Food,43.0,47.0,43.0,2
-2020-03-05,NorthDakota,Cass County,Nightlife Spots,79.0,79.0,79.0,3
-2020-03-05,NorthDakota,Cass County,Medical,55.0,51.0,55.0,4
-2020-03-05,NorthDakota,Cass County,Gas Stations,95.0,"",95.0,5
-2020-03-05,NorthDakota,Cass County,Colleges & Universities,51.0,"",51.0,6
-2020-03-05,NorthDakota,Cass County,Grocery,96.0,"",97.0,7
-2020-03-05,NorthDakota,Cass County,Professional & Other Places,17.0,21.0,17.0,8
-2020-03-05,NorthDakota,Cass County,Fast Food Restaurants,104.0,"",104.0,9
-2020-03-05,NorthDakota,Cass County,Fitness Center,62.0,"",62.0,10
-2020-03-05,NorthDakota,Cass County,School,45.0,"",45.0,11
-2020-03-05,NorthDakota,Cass County,Office,100.0,"",101.0,12
-2020-03-05,NorthDakota,Cass County,Big Box Stores,106.0,"",106.0,13
-2020-03-05,NorthDakota,Cass County,Outdoors & Recreation,25.0,"",25.0,14
-2020-03-05,NorthDakota,Cass County,Hotel,70.0,"",71.0,15
-2020-03-05,NorthDakota,Cass County,Arts & Entertainment,114.0,"",113.0,16
-2020-03-05,NorthDakota,Cass County,Residences,103.0,"",102.0,17
-2020-03-06,NorthDakota,Cass County,Shops & Services,66.0,83.0,66.0,1
-2020-03-06,NorthDakota,Cass County,Food,39.0,39.0,39.0,2
-2020-03-06,NorthDakota,Cass County,Nightlife Spots,75.0,69.0,75.0,3
-2020-03-06,NorthDakota,Cass County,Gas Stations,92.0,140.0,90.0,4
-2020-03-06,NorthDakota,Cass County,Colleges & Universities,47.0,"",47.0,5
-2020-03-06,NorthDakota,Cass County,Grocery,94.0,130.0,93.0,6
-2020-03-06,NorthDakota,Cass County,Medical,49.0,46.0,49.0,7
-2020-03-06,NorthDakota,Cass County,Fast Food Restaurants,96.0,"",96.0,8
-2020-03-06,NorthDakota,Cass County,Big Box Stores,98.0,"",98.0,9
-2020-03-06,NorthDakota,Cass County,Professional & Other Places,15.0,"",15.0,10
-2020-03-06,NorthDakota,Cass County,Hotel,75.0,"",75.0,11
-2020-03-06,NorthDakota,Cass County,Outdoors & Recreation,28.0,"",28.0,12
-2020-03-06,NorthDakota,Cass County,School,41.0,"",40.0,13
-2020-03-06,NorthDakota,Cass County,Arts & Entertainment,62.0,"",62.0,14
-2020-03-06,NorthDakota,Cass County,Fitness Center,48.0,"",47.0,15
-2020-03-06,NorthDakota,Cass County,Office,95.0,"",94.0,16
-2020-03-06,NorthDakota,Cass County,Residences,88.0,"",89.0,17
-2020-03-06,NorthDakota,Cass County,Airport,71.0,"",71.0,18
-2020-03-06,NorthDakota,Cass County,Hardware Stores,91.0,"",90.0,19
-2020-03-06,NorthDakota,Ward County,Shops & Services,103.0,90.0,103.0,1
-2020-03-06,NorthDakota,Ward County,Food,43.0,42.0,43.0,2
-2020-03-06,NorthDakota,Ward County,Nightlife Spots,79.0,88.0,79.0,3
-2020-03-06,NorthDakota,Ward County,Gas Stations,91.0,"",91.0,4
-2020-03-06,NorthDakota,Ward County,Medical,64.0,"",65.0,5
-2020-03-06,NorthDakota,Ward County,Big Box Stores,96.0,"",97.0,6
-2020-03-06,NorthDakota,Ward County,Fast Food Restaurants,98.0,"",98.0,7
-2020-03-06,NorthDakota,Ward County,School,49.0,"",49.0,8
-2020-03-06,NorthDakota,McKenzie County,Gas Stations,86.0,"",86.0,1
-2020-03-06,NorthDakota,McKenzie County,Shops & Services,105.0,"",104.0,2
-2020-03-06,NorthDakota,McKenzie County,Professional & Other Places,34.0,"",33.0,3
-2020-03-06,NorthDakota,Morton County,Nightlife Spots,74.0,"",74.0,1
-2020-03-06,NorthDakota,Morton County,Arts & Entertainment,137.0,"",137.0,2
-2020-03-06,NorthDakota,Grand Forks County,Shops & Services,79.0,53.0,80.0,1
-2020-03-06,NorthDakota,Grand Forks County,Food,43.0,34.0,43.0,2
-2020-03-06,NorthDakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,3
-2020-03-06,NorthDakota,Grand Forks County,Colleges & Universities,74.0,"",74.0,4
-2020-03-06,NorthDakota,Grand Forks County,Gas Stations,94.0,"",94.0,5
-2020-03-06,NorthDakota,Grand Forks County,School,68.0,"",69.0,6
-2020-03-06,NorthDakota,Grand Forks County,Big Box Stores,81.0,"",82.0,7
-2020-03-06,NorthDakota,Grand Forks County,Fast Food Restaurants,110.0,"",110.0,8
-2020-03-06,NorthDakota,Grand Forks County,Medical,42.0,"",42.0,9
-2020-03-06,NorthDakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,10
-2020-03-06,NorthDakota,Grand Forks County,Grocery,98.0,"",99.0,11
-2020-03-06,NorthDakota,Stark County,Food,104.0,"",104.0,1
-2020-03-06,NorthDakota,Stark County,Shops & Services,114.0,"",114.0,2
-2020-03-06,NorthDakota,Stark County,Nightlife Spots,59.0,"",58.0,3
-2020-03-06,NorthDakota,Williams County,Food,82.0,"",82.0,1
-2020-03-06,NorthDakota,Williams County,Shops & Services,116.0,"",116.0,2
-2020-03-06,NorthDakota,Williams County,Gas Stations,107.0,"",107.0,3
-2020-03-06,NorthDakota,Burleigh County,Food,106.0,84.0,106.0,1
-2020-03-06,NorthDakota,Burleigh County,Shops & Services,107.0,119.0,107.0,2
-2020-03-06,NorthDakota,Burleigh County,Hotel,186.0,"",189.0,3
-2020-03-06,NorthDakota,Burleigh County,Nightlife Spots,71.0,"",71.0,4
-2020-03-06,NorthDakota,Burleigh County,Big Box Stores,103.0,"",102.0,5
-2020-03-06,NorthDakota,Burleigh County,Gas Stations,103.0,"",103.0,6
-2020-03-06,NorthDakota,Burleigh County,Medical,54.0,"",54.0,7
-2020-03-06,NorthDakota,Burleigh County,Fast Food Restaurants,116.0,"",116.0,8
-2020-03-06,NorthDakota,Burleigh County,Arts & Entertainment,105.0,"",105.0,9
-2020-03-06,NorthDakota,Burleigh County,School,43.0,"",43.0,10
-2020-03-06,NorthDakota,Burleigh County,Grocery,100.0,"",101.0,11
-2020-03-06,NorthDakota,Burleigh County,Professional & Other Places,15.0,"",14.0,12
-2020-03-06,NorthDakota,Burleigh County,Hardware Stores,121.0,"",122.0,13
-2020-03-06,NorthDakota,Burleigh County,Outdoors & Recreation,113.0,"",114.0,14
-2020-03-07,NorthDakota,Stutsman County,Food,51.0,"",52.0,1
-2020-03-07,NorthDakota,Morton County,Nightlife Spots,71.0,"",71.0,1
-2020-03-07,NorthDakota,Morton County,Arts & Entertainment,112.0,"",112.0,2
-2020-03-07,NorthDakota,Grand Forks County,Shops & Services,79.0,70.0,79.0,1
-2020-03-07,NorthDakota,Grand Forks County,Food,42.0,"",42.0,2
-2020-03-07,NorthDakota,Grand Forks County,Nightlife Spots,64.0,"",64.0,3
-2020-03-07,NorthDakota,Grand Forks County,Big Box Stores,91.0,"",91.0,4
-2020-03-07,NorthDakota,Grand Forks County,Arts & Entertainment,48.0,"",48.0,5
-2020-03-07,NorthDakota,Grand Forks County,Gas Stations,96.0,"",96.0,6
-2020-03-07,NorthDakota,Grand Forks County,Fast Food Restaurants,97.0,"",97.0,7
-2020-03-07,NorthDakota,Grand Forks County,Colleges & Universities,64.0,"",64.0,8
-2020-03-07,NorthDakota,Grand Forks County,Hotel,88.0,"",88.0,9
-2020-03-07,NorthDakota,Grand Forks County,Grocery,97.0,"",98.0,10
-2020-03-07,NorthDakota,Grand Forks County,Hardware Stores,94.0,"",95.0,11
-2020-03-07,NorthDakota,Stark County,Food,89.0,"",90.0,1
-2020-03-07,NorthDakota,Stark County,Shops & Services,23.0,"",23.0,2
-2020-03-07,NorthDakota,Stark County,Nightlife Spots,60.0,"",60.0,3
-2020-03-07,NorthDakota,Cass County,Shops & Services,32.0,28.0,32.0,1
-2020-03-07,NorthDakota,Cass County,Food,40.0,40.0,40.0,2
-2020-03-07,NorthDakota,Cass County,Nightlife Spots,77.0,76.0,77.0,3
-2020-03-07,NorthDakota,Cass County,Gas Stations,90.0,"",90.0,4
-2020-03-07,NorthDakota,Cass County,Grocery,86.0,98.0,85.0,5
-2020-03-07,NorthDakota,Cass County,Fast Food Restaurants,104.0,"",105.0,6
-2020-03-07,NorthDakota,Cass County,Colleges & Universities,67.0,"",67.0,7
-2020-03-07,NorthDakota,Cass County,Big Box Stores,92.0,"",93.0,8
-2020-03-07,NorthDakota,Cass County,Hotel,72.0,"",72.0,9
-2020-03-07,NorthDakota,Cass County,Arts & Entertainment,65.0,"",65.0,10
-2020-03-07,NorthDakota,Cass County,Outdoors & Recreation,31.0,"",31.0,11
-2020-03-07,NorthDakota,Cass County,Residences,106.0,"",106.0,12
-2020-03-07,NorthDakota,Cass County,Fitness Center,53.0,"",53.0,13
-2020-03-07,NorthDakota,Cass County,Medical,57.0,"",58.0,14
-2020-03-07,NorthDakota,Cass County,Professional & Other Places,18.0,"",18.0,14
-2020-03-07,NorthDakota,Cass County,Hardware Stores,97.0,"",97.0,15
-2020-03-07,NorthDakota,Cass County,Sports,28.0,"",28.0,16
-2020-03-07,NorthDakota,Cass County,School,39.0,"",39.0,17
-2020-03-07,NorthDakota,Williams County,Food,93.0,"",93.0,1
-2020-03-07,NorthDakota,Williams County,Shops & Services,112.0,"",112.0,2
-2020-03-07,NorthDakota,Williams County,Gas Stations,110.0,"",110.0,3
-2020-03-07,NorthDakota,Ward County,Shops & Services,99.0,111.0,99.0,1
-2020-03-07,NorthDakota,Ward County,Food,42.0,"",42.0,2
-2020-03-07,NorthDakota,Ward County,Nightlife Spots,79.0,"",79.0,3
-2020-03-07,NorthDakota,Ward County,Arts & Entertainment,155.0,"",155.0,4
-2020-03-07,NorthDakota,Ward County,Fast Food Restaurants,119.0,"",119.0,5
-2020-03-07,NorthDakota,Ward County,Gas Stations,99.0,"",97.0,6
-2020-03-07,NorthDakota,Ward County,Big Box Stores,87.0,"",88.0,7
-2020-03-07,NorthDakota,Ward County,Hotel,73.0,"",73.0,8
-2020-03-07,NorthDakota,Ward County,School,71.0,"",71.0,9
-2020-03-07,NorthDakota,Ward County,Hardware Stores,107.0,"",107.0,10
-2020-03-07,NorthDakota,Barnes County,Gas Stations,302.0,"",302.0,1
-2020-03-07,NorthDakota,Burleigh County,Shops & Services,100.0,95.0,100.0,1
-2020-03-07,NorthDakota,Burleigh County,Food,93.0,89.0,94.0,2
-2020-03-07,NorthDakota,Burleigh County,Hotel,183.0,"",184.0,3
-2020-03-07,NorthDakota,Burleigh County,Nightlife Spots,79.0,"",79.0,4
-2020-03-07,NorthDakota,Burleigh County,Big Box Stores,95.0,"",94.0,5
-2020-03-07,NorthDakota,Burleigh County,Gas Stations,106.0,"",107.0,6
-2020-03-07,NorthDakota,Burleigh County,Arts & Entertainment,86.0,"",86.0,7
-2020-03-07,NorthDakota,Burleigh County,Fast Food Restaurants,117.0,"",116.0,8
-2020-03-07,NorthDakota,Burleigh County,Outdoors & Recreation,48.0,"",48.0,9
-2020-03-07,NorthDakota,Burleigh County,Hardware Stores,106.0,"",106.0,10
-2020-03-07,NorthDakota,Burleigh County,Grocery,90.0,"",91.0,11
-2020-03-08,NorthDakota,Burleigh County,Food,105.0,118.0,105.0,1
-2020-03-08,NorthDakota,Burleigh County,Shops & Services,101.0,"",102.0,2
-2020-03-08,NorthDakota,Burleigh County,Hotel,163.0,"",164.0,3
-2020-03-08,NorthDakota,Burleigh County,Nightlife Spots,62.0,"",62.0,4
-2020-03-08,NorthDakota,Burleigh County,Big Box Stores,99.0,"",100.0,5
-2020-03-08,NorthDakota,Burleigh County,Gas Stations,105.0,"",106.0,6
-2020-03-08,NorthDakota,Burleigh County,Arts & Entertainment,80.0,"",80.0,7
-2020-03-08,NorthDakota,Burleigh County,Fast Food Restaurants,115.0,"",114.0,8
-2020-03-08,NorthDakota,Burleigh County,Grocery,95.0,"",97.0,9
-2020-03-08,NorthDakota,Burleigh County,Outdoors & Recreation,38.0,"",38.0,10
-2020-03-08,NorthDakota,Ward County,Food,44.0,"",44.0,1
-2020-03-08,NorthDakota,Ward County,Shops & Services,94.0,"",94.0,2
-2020-03-08,NorthDakota,Ward County,Nightlife Spots,74.0,"",74.0,3
-2020-03-08,NorthDakota,Ward County,Big Box Stores,105.0,"",105.0,4
-2020-03-08,NorthDakota,Ward County,Gas Stations,95.0,"",95.0,5
-2020-03-08,NorthDakota,Ward County,Fast Food Restaurants,103.0,"",103.0,6
-2020-03-08,NorthDakota,Ward County,Hotel,97.0,"",97.0,7
-2020-03-08,NorthDakota,Stark County,Food,100.0,"",99.0,1
-2020-03-08,NorthDakota,Williams County,Food,99.0,"",99.0,1
-2020-03-08,NorthDakota,Williams County,Shops & Services,118.0,"",118.0,2
-2020-03-08,NorthDakota,Williams County,Gas Stations,87.0,"",87.0,3
-2020-03-08,NorthDakota,Morton County,Nightlife Spots,88.0,"",88.0,1
-2020-03-08,NorthDakota,Morton County,Arts & Entertainment,107.0,"",106.0,2
-2020-03-08,NorthDakota,Grand Forks County,Food,46.0,"",46.0,1
-2020-03-08,NorthDakota,Grand Forks County,Shops & Services,72.0,"",72.0,2
-2020-03-08,NorthDakota,Grand Forks County,Nightlife Spots,61.0,"",61.0,3
-2020-03-08,NorthDakota,Grand Forks County,Big Box Stores,97.0,"",98.0,4
-2020-03-08,NorthDakota,Grand Forks County,Gas Stations,90.0,"",91.0,5
-2020-03-08,NorthDakota,Grand Forks County,Fast Food Restaurants,91.0,"",91.0,6
-2020-03-08,NorthDakota,Grand Forks County,Arts & Entertainment,51.0,"",51.0,7
-2020-03-08,NorthDakota,Grand Forks County,Colleges & Universities,62.0,"",63.0,8
-2020-03-08,NorthDakota,Cass County,Food,40.0,36.0,40.0,1
-2020-03-08,NorthDakota,Cass County,Shops & Services,69.0,68.0,69.0,2
-2020-03-08,NorthDakota,Cass County,Nightlife Spots,72.0,"",72.0,3
-2020-03-08,NorthDakota,Cass County,Grocery,100.0,"",100.0,4
-2020-03-08,NorthDakota,Cass County,Gas Stations,88.0,"",88.0,5
-2020-03-08,NorthDakota,Cass County,Big Box Stores,90.0,"",90.0,6
-2020-03-08,NorthDakota,Cass County,Fast Food Restaurants,109.0,"",108.0,7
-2020-03-08,NorthDakota,Cass County,Arts & Entertainment,78.0,"",79.0,8
-2020-03-08,NorthDakota,Cass County,Hotel,76.0,"",76.0,9
-2020-03-08,NorthDakota,Cass County,Outdoors & Recreation,31.0,"",31.0,10
-2020-03-08,NorthDakota,Cass County,Colleges & Universities,61.0,"",61.0,11
-2020-03-08,NorthDakota,Cass County,Medical,84.0,"",84.0,12
-2020-03-08,NorthDakota,Cass County,Residences,100.0,"",100.0,13
-2020-03-08,NorthDakota,Cass County,Fitness Center,53.0,"",53.0,14
-2020-03-08,NorthDakota,Cass County,Professional & Other Places,16.0,"",16.0,15
-2020-03-08,NorthDakota,Cass County,Hardware Stores,136.0,"",135.0,15
-2020-03-08,NorthDakota,Cass County,School,49.0,"",48.0,16
-2020-03-08,NorthDakota,Cass County,Sports,30.0,"",30.0,17
-2020-03-09,NorthDakota,Cass County,Shops & Services,74.0,91.0,73.0,1
-2020-03-09,NorthDakota,Cass County,Food,41.0,41.0,41.0,2
-2020-03-09,NorthDakota,Cass County,Nightlife Spots,77.0,99.0,77.0,3
-2020-03-09,NorthDakota,Cass County,Medical,52.0,42.0,52.0,4
-2020-03-09,NorthDakota,Cass County,Gas Stations,86.0,"",86.0,5
-2020-03-09,NorthDakota,Cass County,Colleges & Universities,48.0,"",48.0,6
-2020-03-09,NorthDakota,Cass County,Grocery,85.0,"",86.0,7
-2020-03-09,NorthDakota,Cass County,Professional & Other Places,17.0,"",17.0,8
-2020-03-09,NorthDakota,Cass County,School,57.0,"",56.0,9
-2020-03-09,NorthDakota,Cass County,Fast Food Restaurants,85.0,"",85.0,10
-2020-03-09,NorthDakota,Cass County,Fitness Center,55.0,"",56.0,11
-2020-03-09,NorthDakota,Cass County,Big Box Stores,88.0,"",87.0,12
-2020-03-09,NorthDakota,Cass County,Outdoors & Recreation,25.0,"",25.0,13
-2020-03-09,NorthDakota,Cass County,Office,90.0,"",89.0,14
-2020-03-09,NorthDakota,Cass County,Hotel,82.0,"",82.0,15
-2020-03-09,NorthDakota,Cass County,Arts & Entertainment,79.0,"",78.0,16
-2020-03-09,NorthDakota,Cass County,Residences,77.0,"",78.0,17
-2020-03-09,NorthDakota,Morton County,Nightlife Spots,78.0,"",78.0,1
-2020-03-09,NorthDakota,McKenzie County,Gas Stations,89.0,"",89.0,1
-2020-03-09,NorthDakota,Ward County,Shops & Services,86.0,104.0,85.0,1
-2020-03-09,NorthDakota,Ward County,Food,41.0,47.0,41.0,2
-2020-03-09,NorthDakota,Ward County,Nightlife Spots,60.0,"",60.0,3
-2020-03-09,NorthDakota,Ward County,Gas Stations,90.0,"",91.0,4
-2020-03-09,NorthDakota,Ward County,Medical,55.0,"",55.0,5
-2020-03-09,NorthDakota,Ward County,Fast Food Restaurants,104.0,"",104.0,6
-2020-03-09,NorthDakota,Ward County,Big Box Stores,98.0,"",97.0,7
-2020-03-09,NorthDakota,Mountrail County,Gas Stations,106.0,"",106.0,1
-2020-03-09,NorthDakota,Grand Forks County,Shops & Services,69.0,75.0,69.0,1
-2020-03-09,NorthDakota,Grand Forks County,Food,41.0,"",41.0,2
-2020-03-09,NorthDakota,Grand Forks County,Colleges & Universities,109.0,"",109.0,3
-2020-03-09,NorthDakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,4
-2020-03-09,NorthDakota,Grand Forks County,Medical,60.0,"",60.0,5
-2020-03-09,NorthDakota,Grand Forks County,Big Box Stores,96.0,"",96.0,6
-2020-03-09,NorthDakota,Grand Forks County,Gas Stations,92.0,"",93.0,7
-2020-03-09,NorthDakota,Grand Forks County,School,59.0,"",59.0,8
-2020-03-09,NorthDakota,Grand Forks County,Professional & Other Places,17.0,"",17.0,9
-2020-03-09,NorthDakota,Grand Forks County,Fast Food Restaurants,90.0,"",90.0,10
-2020-03-09,NorthDakota,Burleigh County,Shops & Services,96.0,93.0,96.0,1
-2020-03-09,NorthDakota,Burleigh County,Food,96.0,104.0,96.0,2
-2020-03-09,NorthDakota,Burleigh County,Medical,53.0,58.0,53.0,3
-2020-03-09,NorthDakota,Burleigh County,Big Box Stores,103.0,"",103.0,4
-2020-03-09,NorthDakota,Burleigh County,Nightlife Spots,67.0,"",66.0,5
-2020-03-09,NorthDakota,Burleigh County,Gas Stations,103.0,"",103.0,6
-2020-03-09,NorthDakota,Burleigh County,School,52.0,"",52.0,7
-2020-03-09,NorthDakota,Burleigh County,Grocery,96.0,"",98.0,8
-2020-03-09,NorthDakota,Burleigh County,Fast Food Restaurants,91.0,"",90.0,9
-2020-03-09,NorthDakota,Burleigh County,Hotel,97.0,"",97.0,10
-2020-03-09,NorthDakota,Burleigh County,Hardware Stores,125.0,"",123.0,11
-2020-03-09,NorthDakota,Burleigh County,Arts & Entertainment,86.0,"",87.0,12
-2020-03-09,NorthDakota,Stark County,Shops & Services,104.0,"",103.0,1
-2020-03-09,NorthDakota,Stark County,Food,75.0,"",75.0,2
-2020-03-09,NorthDakota,Williams County,Food,92.0,"",92.0,1
-2020-03-09,NorthDakota,Williams County,Shops & Services,98.0,"",98.0,2
-2020-03-09,NorthDakota,Williams County,Gas Stations,84.0,"",84.0,3
-2020-03-10,NorthDakota,Morton County,Nightlife Spots,84.0,"",84.0,1
-2020-03-10,NorthDakota,Mountrail County,Gas Stations,110.0,"",110.0,1
-2020-03-10,NorthDakota,Grand Forks County,Shops & Services,79.0,74.0,79.0,1
-2020-03-10,NorthDakota,Grand Forks County,Food,41.0,54.0,41.0,2
-2020-03-10,NorthDakota,Grand Forks County,Colleges & Universities,97.0,"",97.0,3
-2020-03-10,NorthDakota,Grand Forks County,Nightlife Spots,81.0,"",82.0,4
-2020-03-10,NorthDakota,Grand Forks County,Big Box Stores,109.0,"",110.0,5
-2020-03-10,NorthDakota,Grand Forks County,Gas Stations,89.0,"",89.0,6
-2020-03-10,NorthDakota,Grand Forks County,Medical,48.0,"",48.0,7
-2020-03-10,NorthDakota,Grand Forks County,Fast Food Restaurants,94.0,"",95.0,8
-2020-03-10,NorthDakota,Grand Forks County,Professional & Other Places,14.0,"",14.0,9
-2020-03-10,NorthDakota,Grand Forks County,School,44.0,"",44.0,10
-2020-03-10,NorthDakota,McKenzie County,Professional & Other Places,33.0,"",33.0,1
-2020-03-10,NorthDakota,McKenzie County,Gas Stations,76.0,"",76.0,2
-2020-03-10,NorthDakota,McKenzie County,Shops & Services,104.0,"",104.0,3
-2020-03-10,NorthDakota,McKenzie County,Outdoors & Recreation,40.0,"",40.0,4
-2020-03-10,NorthDakota,Burleigh County,Food,102.0,91.0,102.0,1
-2020-03-10,NorthDakota,Burleigh County,Shops & Services,92.0,66.0,93.0,2
-2020-03-10,NorthDakota,Burleigh County,Nightlife Spots,90.0,"",90.0,3
-2020-03-10,NorthDakota,Burleigh County,Medical,51.0,"",51.0,4
-2020-03-10,NorthDakota,Burleigh County,Gas Stations,99.0,"",100.0,5
-2020-03-10,NorthDakota,Burleigh County,Big Box Stores,94.0,"",95.0,6
-2020-03-10,NorthDakota,Burleigh County,Fast Food Restaurants,123.0,"",123.0,7
-2020-03-10,NorthDakota,Burleigh County,School,50.0,"",50.0,8
-2020-03-10,NorthDakota,Burleigh County,Grocery,108.0,"",109.0,9
-2020-03-10,NorthDakota,Burleigh County,Hotel,96.0,"",96.0,10
-2020-03-10,NorthDakota,Burleigh County,Professional & Other Places,11.0,"",11.0,11
-2020-03-10,NorthDakota,Burleigh County,Arts & Entertainment,75.0,"",76.0,12
-2020-03-10,NorthDakota,Ward County,Shops & Services,90.0,88.0,90.0,1
-2020-03-10,NorthDakota,Ward County,Food,45.0,"",45.0,2
-2020-03-10,NorthDakota,Ward County,Nightlife Spots,75.0,"",75.0,3
-2020-03-10,NorthDakota,Ward County,Gas Stations,94.0,"",94.0,4
-2020-03-10,NorthDakota,Ward County,Medical,52.0,"",52.0,5
-2020-03-10,NorthDakota,Ward County,School,61.0,"",60.0,6
-2020-03-10,NorthDakota,Ward County,Big Box Stores,94.0,"",94.0,7
-2020-03-10,NorthDakota,Ward County,Fast Food Restaurants,89.0,"",90.0,8
-2020-03-10,NorthDakota,Cass County,Shops & Services,68.0,73.0,68.0,1
-2020-03-10,NorthDakota,Cass County,Food,41.0,41.0,41.0,2
-2020-03-10,NorthDakota,Cass County,Nightlife Spots,79.0,"",79.0,3
-2020-03-10,NorthDakota,Cass County,Medical,52.0,52.0,52.0,4
-2020-03-10,NorthDakota,Cass County,Grocery,101.0,82.0,101.0,5
-2020-03-10,NorthDakota,Cass County,Gas Stations,85.0,"",86.0,6
-2020-03-10,NorthDakota,Cass County,Colleges & Universities,84.0,"",84.0,7
-2020-03-10,NorthDakota,Cass County,School,51.0,"",51.0,8
-2020-03-10,NorthDakota,Cass County,Office,107.0,"",108.0,9
-2020-03-10,NorthDakota,Cass County,Fast Food Restaurants,102.0,"",103.0,10
-2020-03-10,NorthDakota,Cass County,Professional & Other Places,13.0,"",13.0,11
-2020-03-10,NorthDakota,Cass County,Fitness Center,51.0,"",52.0,12
-2020-03-10,NorthDakota,Cass County,Big Box Stores,92.0,"",92.0,13
-2020-03-10,NorthDakota,Cass County,Hotel,78.0,"",78.0,14
-2020-03-10,NorthDakota,Cass County,Outdoors & Recreation,23.0,"",23.0,15
-2020-03-10,NorthDakota,Cass County,Arts & Entertainment,71.0,"",70.0,16
-2020-03-10,NorthDakota,Cass County,Residences,101.0,"",102.0,17
-2020-03-10,NorthDakota,Cass County,Hardware Stores,109.0,"",107.0,18
-2020-03-10,NorthDakota,Cass County,Airport,79.0,"",79.0,19
-2020-03-10,NorthDakota,Williams County,Food,99.0,"",99.0,1
-2020-03-10,NorthDakota,Williams County,Gas Stations,102.0,"",102.0,2
-2020-03-10,NorthDakota,Williams County,Shops & Services,97.0,"",96.0,3
-2020-03-10,NorthDakota,Williams County,Outdoors & Recreation,46.0,"",45.0,4
-2020-03-10,NorthDakota,Stark County,Food,99.0,"",97.0,1
-2020-03-10,NorthDakota,Stark County,Shops & Services,81.0,"",80.0,2
-2020-03-11,NorthDakota,Burleigh County,Shops & Services,101.0,84.0,102.0,1
-2020-03-11,NorthDakota,Burleigh County,Food,100.0,103.0,99.0,2
-2020-03-11,NorthDakota,Burleigh County,Nightlife Spots,82.0,"",82.0,3
-2020-03-11,NorthDakota,Burleigh County,Medical,45.0,"",45.0,4
-2020-03-11,NorthDakota,Burleigh County,Big Box Stores,106.0,"",105.0,5
-2020-03-11,NorthDakota,Burleigh County,Gas Stations,93.0,"",93.0,6
-2020-03-11,NorthDakota,Burleigh County,School,47.0,"",47.0,7
-2020-03-11,NorthDakota,Burleigh County,Grocery,115.0,"",114.0,8
-2020-03-11,NorthDakota,Burleigh County,Fast Food Restaurants,104.0,"",105.0,9
-2020-03-11,NorthDakota,Burleigh County,Outdoors & Recreation,122.0,"",121.0,10
-2020-03-11,NorthDakota,Burleigh County,Hotel,79.0,"",79.0,11
-2020-03-11,NorthDakota,Burleigh County,Professional & Other Places,10.0,"",10.0,12
-2020-03-11,NorthDakota,Burleigh County,Arts & Entertainment,58.0,"",58.0,13
-2020-03-11,NorthDakota,Stark County,Food,103.0,"",103.0,1
-2020-03-11,NorthDakota,Stark County,Shops & Services,19.0,"",19.0,2
-2020-03-11,NorthDakota,Cass County,Shops & Services,32.0,31.0,32.0,1
-2020-03-11,NorthDakota,Cass County,Food,42.0,43.0,42.0,2
-2020-03-11,NorthDakota,Cass County,Nightlife Spots,83.0,86.0,83.0,3
-2020-03-11,NorthDakota,Cass County,Medical,59.0,52.0,59.0,4
-2020-03-11,NorthDakota,Cass County,Gas Stations,99.0,"",100.0,5
-2020-03-11,NorthDakota,Cass County,Colleges & Universities,107.0,"",107.0,6
-2020-03-11,NorthDakota,Cass County,Grocery,103.0,140.0,102.0,7
-2020-03-11,NorthDakota,Cass County,Professional & Other Places,18.0,"",18.0,8
-2020-03-11,NorthDakota,Cass County,School,54.0,"",54.0,9
-2020-03-11,NorthDakota,Cass County,Outdoors & Recreation,30.0,"",30.0,10
-2020-03-11,NorthDakota,Cass County,Office,116.0,"",116.0,10
-2020-03-11,NorthDakota,Cass County,Fast Food Restaurants,86.0,"",86.0,11
-2020-03-11,NorthDakota,Cass County,Fitness Center,54.0,"",54.0,11
-2020-03-11,NorthDakota,Cass County,Big Box Stores,101.0,"",101.0,12
-2020-03-11,NorthDakota,Cass County,Hotel,82.0,"",83.0,13
-2020-03-11,NorthDakota,Cass County,Arts & Entertainment,87.0,"",86.0,13
-2020-03-11,NorthDakota,Cass County,Residences,110.0,"",110.0,14
-2020-03-11,NorthDakota,Cass County,Hardware Stores,118.0,"",116.0,15
-2020-03-11,NorthDakota,Grand Forks County,Shops & Services,82.0,89.0,82.0,1
-2020-03-11,NorthDakota,Grand Forks County,Food,43.0,"",43.0,2
-2020-03-11,NorthDakota,Grand Forks County,Colleges & Universities,89.0,"",89.0,3
-2020-03-11,NorthDakota,Grand Forks County,Nightlife Spots,88.0,"",88.0,4
-2020-03-11,NorthDakota,Grand Forks County,Gas Stations,104.0,"",103.0,5
-2020-03-11,NorthDakota,Grand Forks County,Big Box Stores,104.0,"",104.0,6
-2020-03-11,NorthDakota,Grand Forks County,Medical,57.0,"",57.0,7
-2020-03-11,NorthDakota,Grand Forks County,Fast Food Restaurants,106.0,"",106.0,8
-2020-03-11,NorthDakota,Grand Forks County,School,48.0,"",48.0,8
-2020-03-11,NorthDakota,Grand Forks County,Arts & Entertainment,93.0,"",92.0,9
-2020-03-11,NorthDakota,Williams County,Food,93.0,"",93.0,1
-2020-03-11,NorthDakota,Williams County,Shops & Services,120.0,"",120.0,2
-2020-03-11,NorthDakota,Williams County,Gas Stations,90.0,"",89.0,3
-2020-03-11,NorthDakota,Williams County,Outdoors & Recreation,47.0,"",46.0,4
-2020-03-11,NorthDakota,Morton County,Nightlife Spots,83.0,"",83.0,1
-2020-03-11,NorthDakota,Ward County,Shops & Services,97.0,82.0,98.0,1
-2020-03-11,NorthDakota,Ward County,Food,45.0,44.0,45.0,2
-2020-03-11,NorthDakota,Ward County,Nightlife Spots,65.0,"",65.0,3
-2020-03-11,NorthDakota,Ward County,Gas Stations,94.0,"",93.0,4
-2020-03-11,NorthDakota,Ward County,Medical,50.0,"",50.0,5
-2020-03-11,NorthDakota,Ward County,Big Box Stores,91.0,"",91.0,6
-2020-03-11,NorthDakota,McKenzie County,Gas Stations,88.0,"",88.0,1
-2020-03-11,NorthDakota,McKenzie County,Shops & Services,122.0,"",123.0,2
-2020-03-11,NorthDakota,McKenzie County,Professional & Other Places,36.0,"",35.0,3
-2020-03-12,NorthDakota,Grand Forks County,Shops & Services,77.0,87.0,77.0,1
-2020-03-12,NorthDakota,Grand Forks County,Food,43.0,"",43.0,2
-2020-03-12,NorthDakota,Grand Forks County,Colleges & Universities,94.0,"",94.0,3
-2020-03-12,NorthDakota,Grand Forks County,Nightlife Spots,77.0,"",77.0,4
-2020-03-12,NorthDakota,Grand Forks County,Big Box Stores,119.0,"",120.0,5
-2020-03-12,NorthDakota,Grand Forks County,Gas Stations,87.0,"",87.0,6
-2020-03-12,NorthDakota,Grand Forks County,Medical,59.0,"",59.0,7
-2020-03-12,NorthDakota,Grand Forks County,Fast Food Restaurants,104.0,"",105.0,8
-2020-03-12,NorthDakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,9
-2020-03-12,NorthDakota,Grand Forks County,Grocery,140.0,"",139.0,10
-2020-03-12,NorthDakota,Grand Forks County,School,48.0,"",48.0,11
-2020-03-12,NorthDakota,Morton County,Nightlife Spots,85.0,"",85.0,1
-2020-03-12,NorthDakota,Ward County,Shops & Services,107.0,116.0,107.0,1
-2020-03-12,NorthDakota,Ward County,Food,43.0,40.0,43.0,2
-2020-03-12,NorthDakota,Ward County,Nightlife Spots,68.0,"",68.0,3
-2020-03-12,NorthDakota,Ward County,Gas Stations,82.0,"",80.0,4
-2020-03-12,NorthDakota,Ward County,Medical,52.0,"",52.0,5
-2020-03-12,NorthDakota,Ward County,Big Box Stores,94.0,"",93.0,6
-2020-03-12,NorthDakota,Ward County,Fast Food Restaurants,92.0,"",92.0,7
-2020-03-12,NorthDakota,Ward County,Grocery,115.0,"",116.0,8
-2020-03-12,NorthDakota,Burleigh County,Shops & Services,111.0,90.0,111.0,1
-2020-03-12,NorthDakota,Burleigh County,Food,98.0,85.0,98.0,2
-2020-03-12,NorthDakota,Burleigh County,Nightlife Spots,75.0,"",75.0,3
-2020-03-12,NorthDakota,Burleigh County,Medical,51.0,65.0,50.0,4
-2020-03-12,NorthDakota,Burleigh County,Big Box Stores,116.0,"",116.0,5
-2020-03-12,NorthDakota,Burleigh County,Gas Stations,94.0,"",95.0,6
-2020-03-12,NorthDakota,Burleigh County,School,50.0,"",49.0,7
-2020-03-12,NorthDakota,Burleigh County,Grocery,123.0,"",123.0,8
-2020-03-12,NorthDakota,Burleigh County,Fast Food Restaurants,104.0,"",104.0,9
-2020-03-12,NorthDakota,Burleigh County,Professional & Other Places,10.0,"",10.0,10
-2020-03-12,NorthDakota,Burleigh County,Arts & Entertainment,89.0,"",89.0,11
-2020-03-12,NorthDakota,Burleigh County,Government,82.0,"",83.0,12
-2020-03-12,NorthDakota,McKenzie County,Shops & Services,116.0,"",116.0,1
-2020-03-12,NorthDakota,McKenzie County,Gas Stations,77.0,"",77.0,2
-2020-03-12,NorthDakota,McKenzie County,Outdoors & Recreation,42.0,"",42.0,3
-2020-03-12,NorthDakota,Cass County,Shops & Services,105.0,95.0,106.0,1
-2020-03-12,NorthDakota,Cass County,Food,44.0,34.0,44.0,2
-2020-03-12,NorthDakota,Cass County,Nightlife Spots,77.0,95.0,77.0,3
-2020-03-12,NorthDakota,Cass County,Grocery,132.0,135.0,132.0,4
-2020-03-12,NorthDakota,Cass County,Medical,56.0,50.0,56.0,5
-2020-03-12,NorthDakota,Cass County,Gas Stations,86.0,"",86.0,6
-2020-03-12,NorthDakota,Cass County,Colleges & Universities,50.0,"",50.0,7
-2020-03-12,NorthDakota,Cass County,Fast Food Restaurants,119.0,"",119.0,8
-2020-03-12,NorthDakota,Cass County,Big Box Stores,133.0,"",134.0,9
-2020-03-12,NorthDakota,Cass County,Professional & Other Places,14.0,"",14.0,10
-2020-03-12,NorthDakota,Cass County,School,47.0,"",47.0,11
-2020-03-12,NorthDakota,Cass County,Hotel,83.0,"",83.0,12
-2020-03-12,NorthDakota,Cass County,Fitness Center,52.0,"",52.0,13
-2020-03-12,NorthDakota,Cass County,Outdoors & Recreation,25.0,"",25.0,14
-2020-03-12,NorthDakota,Cass County,Office,87.0,"",88.0,15
-2020-03-12,NorthDakota,Cass County,Arts & Entertainment,74.0,"",74.0,16
-2020-03-12,NorthDakota,Cass County,Residences,96.0,"",95.0,17
-2020-03-12,NorthDakota,Cass County,Hardware Stores,123.0,"",124.0,18
-2020-03-12,NorthDakota,Cass County,Airport,61.0,"",62.0,19
-2020-03-12,NorthDakota,Williams County,Food,96.0,"",97.0,1
-2020-03-12,NorthDakota,Williams County,Shops & Services,111.0,"",111.0,2
-2020-03-12,NorthDakota,Williams County,Gas Stations,89.0,"",88.0,3
-2020-03-12,NorthDakota,Williams County,Grocery,144.0,"",143.0,4
-2020-03-12,NorthDakota,Stark County,Food,97.0,"",97.0,1
-2020-03-12,NorthDakota,Stark County,Shops & Services,81.0,"",81.0,2
-2020-03-13,NorthDakota,Stark County,Food,105.0,"",105.0,1
-2020-03-13,NorthDakota,Stark County,Shops & Services,83.0,"",83.0,2
-2020-03-13,NorthDakota,Stark County,Nightlife Spots,61.0,"",61.0,3
-2020-03-13,NorthDakota,Stark County,Big Box Stores,110.0,"",111.0,4
-2020-03-13,NorthDakota,Cass County,Shops & Services,34.0,38.0,34.0,1
-2020-03-13,NorthDakota,Cass County,Food,41.0,34.0,41.0,2
-2020-03-13,NorthDakota,Cass County,Nightlife Spots,80.0,58.0,80.0,3
-2020-03-13,NorthDakota,Cass County,Grocery,142.0,170.0,141.0,4
-2020-03-13,NorthDakota,Cass County,Gas Stations,92.0,"",92.0,5
-2020-03-13,NorthDakota,Cass County,Medical,51.0,50.0,51.0,6
-2020-03-13,NorthDakota,Cass County,Big Box Stores,115.0,"",115.0,7
-2020-03-13,NorthDakota,Cass County,Hotel,93.0,"",94.0,8
-2020-03-13,NorthDakota,Cass County,Fast Food Restaurants,98.0,"",98.0,9
-2020-03-13,NorthDakota,Cass County,Colleges & Universities,34.0,"",33.0,10
-2020-03-13,NorthDakota,Cass County,Professional & Other Places,14.0,"",14.0,11
-2020-03-13,NorthDakota,Cass County,Arts & Entertainment,70.0,"",71.0,12
-2020-03-13,NorthDakota,Cass County,Outdoors & Recreation,26.0,"",26.0,13
-2020-03-13,NorthDakota,Cass County,School,36.0,"",36.0,14
-2020-03-13,NorthDakota,Cass County,Office,96.0,"",95.0,15
-2020-03-13,NorthDakota,Cass County,Residences,84.0,"",84.0,16
-2020-03-13,NorthDakota,Cass County,Fitness Center,41.0,"",41.0,16
-2020-03-13,NorthDakota,Cass County,Alcohol,135.0,"",135.0,17
-2020-03-13,NorthDakota,Cass County,Hardware Stores,94.0,"",95.0,18
-2020-03-13,NorthDakota,McKenzie County,Shops & Services,123.0,"",124.0,1
-2020-03-13,NorthDakota,McKenzie County,Gas Stations,83.0,"",84.0,2
-2020-03-13,NorthDakota,McKenzie County,Outdoors & Recreation,117.0,"",118.0,2
-2020-03-13,NorthDakota,Morton County,Nightlife Spots,86.0,"",86.0,1
-2020-03-13,NorthDakota,Grand Forks County,Shops & Services,71.0,56.0,72.0,1
-2020-03-13,NorthDakota,Grand Forks County,Food,40.0,33.0,40.0,2
-2020-03-13,NorthDakota,Grand Forks County,Nightlife Spots,79.0,"",79.0,3
-2020-03-13,NorthDakota,Grand Forks County,Gas Stations,105.0,"",105.0,4
-2020-03-13,NorthDakota,Grand Forks County,Big Box Stores,100.0,"",101.0,5
-2020-03-13,NorthDakota,Grand Forks County,Colleges & Universities,49.0,"",49.0,6
-2020-03-13,NorthDakota,Grand Forks County,Fast Food Restaurants,99.0,"",99.0,7
-2020-03-13,NorthDakota,Grand Forks County,Medical,49.0,"",49.0,8
-2020-03-13,NorthDakota,Grand Forks County,Grocery,130.0,"",129.0,9
-2020-03-13,NorthDakota,Grand Forks County,School,49.0,"",49.0,10
-2020-03-13,NorthDakota,Grand Forks County,Hardware Stores,127.0,"",127.0,11
-2020-03-13,NorthDakota,Burleigh County,Shops & Services,101.0,79.0,102.0,1
-2020-03-13,NorthDakota,Burleigh County,Food,90.0,64.0,91.0,2
-2020-03-13,NorthDakota,Burleigh County,Big Box Stores,117.0,"",117.0,3
-2020-03-13,NorthDakota,Burleigh County,Nightlife Spots,66.0,"",66.0,4
-2020-03-13,NorthDakota,Burleigh County,Grocery,144.0,"",145.0,5
-2020-03-13,NorthDakota,Burleigh County,Gas Stations,95.0,"",96.0,6
-2020-03-13,NorthDakota,Burleigh County,Medical,42.0,"",42.0,7
-2020-03-13,NorthDakota,Burleigh County,Fast Food Restaurants,102.0,"",102.0,8
-2020-03-13,NorthDakota,Burleigh County,Arts & Entertainment,83.0,"",84.0,9
-2020-03-13,NorthDakota,Burleigh County,Hotel,80.0,"",80.0,9
-2020-03-13,NorthDakota,Burleigh County,Outdoors & Recreation,40.0,"",41.0,10
-2020-03-13,NorthDakota,Burleigh County,Hardware Stores,117.0,"",119.0,11
-2020-03-13,NorthDakota,Burleigh County,Professional & Other Places,10.0,"",10.0,12
-2020-03-13,NorthDakota,Williams County,Food,95.0,"",95.0,1
-2020-03-13,NorthDakota,Williams County,Shops & Services,118.0,"",118.0,2
-2020-03-13,NorthDakota,Williams County,Gas Stations,106.0,"",106.0,3
-2020-03-13,NorthDakota,Williams County,Grocery,137.0,"",136.0,4
-2020-03-13,NorthDakota,Williams County,Big Box Stores,134.0,"",136.0,5
-2020-03-13,NorthDakota,Williams County,Professional & Other Places,29.0,"",30.0,6
-2020-03-13,NorthDakota,Ward County,Shops & Services,91.0,72.0,91.0,1
-2020-03-13,NorthDakota,Ward County,Food,41.0,39.0,41.0,2
-2020-03-13,NorthDakota,Ward County,Nightlife Spots,64.0,"",65.0,3
-2020-03-13,NorthDakota,Ward County,Gas Stations,82.0,"",83.0,4
-2020-03-13,NorthDakota,Ward County,Big Box Stores,94.0,"",95.0,5
-2020-03-13,NorthDakota,Ward County,Grocery,131.0,"",131.0,6
-2020-03-13,NorthDakota,Ward County,Fast Food Restaurants,87.0,"",88.0,6
-2020-03-13,NorthDakota,Ward County,Medical,48.0,"",48.0,7
-2020-03-13,NorthDakota,Ward County,Arts & Entertainment,96.0,"",95.0,8
-2020-03-14,NorthDakota,Ward County,Shops & Services,76.0,"",76.0,1
-2020-03-14,NorthDakota,Ward County,Food,35.0,"",35.0,2
-2020-03-14,NorthDakota,Ward County,Nightlife Spots,78.0,"",78.0,3
-2020-03-14,NorthDakota,Ward County,Big Box Stores,87.0,"",87.0,4
-2020-03-14,NorthDakota,Ward County,Arts & Entertainment,137.0,"",136.0,5
-2020-03-14,NorthDakota,Ward County,Gas Stations,89.0,"",89.0,6
-2020-03-14,NorthDakota,Ward County,Grocery,126.0,"",124.0,7
-2020-03-14,NorthDakota,Ward County,Hotel,72.0,"",70.0,8
-2020-03-14,NorthDakota,Ward County,Fast Food Restaurants,73.0,"",74.0,9
-2020-03-14,NorthDakota,Ward County,Hardware Stores,113.0,"",115.0,10
-2020-03-14,NorthDakota,Stark County,Nightlife Spots,83.0,"",83.0,1
-2020-03-14,NorthDakota,Stark County,Food,91.0,"",91.0,2
-2020-03-14,NorthDakota,Stark County,Shops & Services,80.0,"",81.0,3
-2020-03-14,NorthDakota,Stark County,Big Box Stores,99.0,"",100.0,4
-2020-03-14,NorthDakota,Grand Forks County,Shops & Services,68.0,"",69.0,1
-2020-03-14,NorthDakota,Grand Forks County,Food,30.0,"",31.0,2
-2020-03-14,NorthDakota,Grand Forks County,Nightlife Spots,66.0,"",66.0,3
-2020-03-14,NorthDakota,Grand Forks County,Big Box Stores,90.0,"",90.0,4
-2020-03-14,NorthDakota,Grand Forks County,Gas Stations,77.0,"",77.0,5
-2020-03-14,NorthDakota,Grand Forks County,Fast Food Restaurants,75.0,"",75.0,6
-2020-03-14,NorthDakota,Grand Forks County,Grocery,96.0,"",98.0,7
-2020-03-14,NorthDakota,Grand Forks County,Hardware Stores,95.0,"",95.0,8
-2020-03-14,NorthDakota,Cass County,Shops & Services,80.0,76.0,80.0,1
-2020-03-14,NorthDakota,Cass County,Food,34.0,36.0,34.0,2
-2020-03-14,NorthDakota,Cass County,Nightlife Spots,88.0,73.0,88.0,3
-2020-03-14,NorthDakota,Cass County,Grocery,117.0,125.0,116.0,4
-2020-03-14,NorthDakota,Cass County,Big Box Stores,102.0,"",102.0,5
-2020-03-14,NorthDakota,Cass County,Hotel,86.0,"",86.0,6
-2020-03-14,NorthDakota,Cass County,Gas Stations,77.0,"",77.0,7
-2020-03-14,NorthDakota,Cass County,Fast Food Restaurants,78.0,"",78.0,8
-2020-03-14,NorthDakota,Cass County,Arts & Entertainment,51.0,"",52.0,9
-2020-03-14,NorthDakota,Cass County,Outdoors & Recreation,24.0,"",24.0,10
-2020-03-14,NorthDakota,Cass County,Medical,53.0,"",54.0,11
-2020-03-14,NorthDakota,Cass County,Residences,88.0,"",87.0,12
-2020-03-14,NorthDakota,Cass County,Fitness Center,38.0,"",39.0,13
-2020-03-14,NorthDakota,Cass County,Hardware Stores,92.0,"",91.0,14
-2020-03-14,NorthDakota,Cass County,Professional & Other Places,12.0,"",12.0,15
-2020-03-14,NorthDakota,Cass County,Alcohol,99.0,"",99.0,16
-2020-03-14,NorthDakota,Morton County,Nightlife Spots,81.0,"",81.0,1
-2020-03-14,NorthDakota,Williams County,Food,82.0,"",82.0,1
-2020-03-14,NorthDakota,Williams County,Shops & Services,91.0,"",91.0,2
-2020-03-14,NorthDakota,Williams County,Gas Stations,81.0,"",81.0,3
-2020-03-14,NorthDakota,Williams County,Grocery,137.0,"",137.0,4
-2020-03-14,NorthDakota,Burleigh County,Shops & Services,89.0,68.0,89.0,1
-2020-03-14,NorthDakota,Burleigh County,Food,80.0,"",81.0,2
-2020-03-14,NorthDakota,Burleigh County,Big Box Stores,104.0,"",104.0,3
-2020-03-14,NorthDakota,Burleigh County,Nightlife Spots,70.0,"",71.0,4
-2020-03-14,NorthDakota,Burleigh County,Grocery,143.0,"",144.0,5
-2020-03-14,NorthDakota,Burleigh County,Gas Stations,75.0,"",75.0,6
-2020-03-14,NorthDakota,Burleigh County,Hotel,74.0,"",74.0,7
-2020-03-14,NorthDakota,Burleigh County,Arts & Entertainment,55.0,"",55.0,8
-2020-03-14,NorthDakota,Burleigh County,Fast Food Restaurants,77.0,"",77.0,9
-2020-03-14,NorthDakota,Burleigh County,Hardware Stores,98.0,"",98.0,10
-2020-03-14,NorthDakota,Burleigh County,Outdoors & Recreation,85.0,"",86.0,11
-2020-03-15,NorthDakota,Grand Forks County,Food,33.0,"",33.0,1
-2020-03-15,NorthDakota,Grand Forks County,Shops & Services,62.0,"",61.0,2
-2020-03-15,NorthDakota,Grand Forks County,Nightlife Spots,57.0,"",57.0,3
-2020-03-15,NorthDakota,Grand Forks County,Big Box Stores,91.0,"",90.0,4
-2020-03-15,NorthDakota,Grand Forks County,Gas Stations,73.0,"",73.0,5
-2020-03-15,NorthDakota,Grand Forks County,Grocery,122.0,"",122.0,6
-2020-03-15,NorthDakota,Grand Forks County,Fast Food Restaurants,80.0,"",80.0,7
-2020-03-15,NorthDakota,Grand Forks County,Hardware Stores,129.0,"",130.0,8
-2020-03-15,NorthDakota,Stark County,Food,81.0,"",81.0,1
-2020-03-15,NorthDakota,Stark County,Nightlife Spots,69.0,"",69.0,2
-2020-03-15,NorthDakota,Williams County,Food,83.0,"",83.0,1
-2020-03-15,NorthDakota,Williams County,Gas Stations,85.0,"",85.0,2
-2020-03-15,NorthDakota,Williams County,Shops & Services,73.0,"",73.0,3
-2020-03-15,NorthDakota,Burleigh County,Food,74.0,"",74.0,1
-2020-03-15,NorthDakota,Burleigh County,Shops & Services,76.0,"",76.0,2
-2020-03-15,NorthDakota,Burleigh County,Nightlife Spots,64.0,"",65.0,3
-2020-03-15,NorthDakota,Burleigh County,Big Box Stores,81.0,"",81.0,4
-2020-03-15,NorthDakota,Burleigh County,Grocery,105.0,"",106.0,5
-2020-03-15,NorthDakota,Burleigh County,Gas Stations,81.0,"",82.0,6
-2020-03-15,NorthDakota,Burleigh County,Fast Food Restaurants,83.0,"",83.0,7
-2020-03-15,NorthDakota,Burleigh County,Arts & Entertainment,50.0,"",50.0,8
-2020-03-15,NorthDakota,Burleigh County,Hotel,66.0,"",66.0,9
-2020-03-15,NorthDakota,Burleigh County,Outdoors & Recreation,103.0,"",103.0,10
-2020-03-15,NorthDakota,Cass County,Food,32.0,28.0,32.0,1
-2020-03-15,NorthDakota,Cass County,Nightlife Spots,76.0,103.0,75.0,2
-2020-03-15,NorthDakota,Cass County,Shops & Services,69.0,62.0,69.0,3
-2020-03-15,NorthDakota,Cass County,Grocery,101.0,"",102.0,4
-2020-03-15,NorthDakota,Cass County,Gas Stations,79.0,"",80.0,5
-2020-03-15,NorthDakota,Cass County,Big Box Stores,80.0,"",80.0,6
-2020-03-15,NorthDakota,Cass County,Hotel,60.0,"",60.0,7
-2020-03-15,NorthDakota,Cass County,Outdoors & Recreation,29.0,"",29.0,8
-2020-03-15,NorthDakota,Cass County,Fast Food Restaurants,74.0,"",74.0,9
-2020-03-15,NorthDakota,Cass County,Arts & Entertainment,43.0,"",43.0,10
-2020-03-15,NorthDakota,Cass County,Medical,54.0,"",54.0,11
-2020-03-15,NorthDakota,Ward County,Nightlife Spots,72.0,"",72.0,1
-2020-03-15,NorthDakota,Ward County,Food,28.0,"",28.0,2
-2020-03-15,NorthDakota,Ward County,Shops & Services,60.0,"",60.0,3
-2020-03-15,NorthDakota,Ward County,Big Box Stores,73.0,"",72.0,4
-2020-03-15,NorthDakota,Ward County,Gas Stations,72.0,"",73.0,5
-2020-03-15,NorthDakota,Ward County,Arts & Entertainment,140.0,"",140.0,6
-2020-03-15,NorthDakota,Richland County,Nightlife Spots,105.0,"",106.0,1
-2020-03-15,NorthDakota,Morton County,Nightlife Spots,78.0,"",78.0,1
-2020-03-16,NorthDakota,Williams County,Food,92.0,"",93.0,1
-2020-03-16,NorthDakota,Williams County,Gas Stations,84.0,"",84.0,2
-2020-03-16,NorthDakota,Williams County,Shops & Services,90.0,"",90.0,3
-2020-03-16,NorthDakota,Williams County,Grocery,164.0,"",161.0,4
-2020-03-16,NorthDakota,Morton County,Nightlife Spots,76.0,"",76.0,1
-2020-03-16,NorthDakota,Stark County,Food,88.0,"",89.0,1
-2020-03-16,NorthDakota,Grand Forks County,Shops & Services,75.0,70.0,75.0,1
-2020-03-16,NorthDakota,Grand Forks County,Food,34.0,"",34.0,2
-2020-03-16,NorthDakota,Grand Forks County,Big Box Stores,102.0,"",103.0,3
-2020-03-16,NorthDakota,Grand Forks County,Nightlife Spots,66.0,"",67.0,4
-2020-03-16,NorthDakota,Grand Forks County,Medical,50.0,"",51.0,5
-2020-03-16,NorthDakota,Grand Forks County,Gas Stations,80.0,"",80.0,5
-2020-03-16,NorthDakota,Grand Forks County,Grocery,139.0,"",139.0,6
-2020-03-16,NorthDakota,Grand Forks County,Professional & Other Places,16.0,"",17.0,7
-2020-03-16,NorthDakota,Ward County,Shops & Services,88.0,78.0,88.0,1
-2020-03-16,NorthDakota,Ward County,Food,38.0,"",38.0,2
-2020-03-16,NorthDakota,Ward County,Nightlife Spots,76.0,"",76.0,3
-2020-03-16,NorthDakota,Ward County,Gas Stations,93.0,"",93.0,4
-2020-03-16,NorthDakota,Ward County,Medical,54.0,"",54.0,5
-2020-03-16,NorthDakota,Ward County,Fast Food Restaurants,106.0,"",107.0,6
-2020-03-16,NorthDakota,Ward County,Big Box Stores,99.0,"",98.0,7
-2020-03-16,NorthDakota,Ward County,Grocery,166.0,"",171.0,7
-2020-03-16,NorthDakota,McKenzie County,Gas Stations,87.0,"",87.0,1
-2020-03-16,NorthDakota,McKenzie County,Outdoors & Recreation,44.0,"",44.0,2
-2020-03-16,NorthDakota,McKenzie County,Shops & Services,117.0,"",117.0,3
-2020-03-16,NorthDakota,Cass County,Shops & Services,28.0,29.0,28.0,1
-2020-03-16,NorthDakota,Cass County,Food,34.0,34.0,34.0,2
-2020-03-16,NorthDakota,Cass County,Grocery,131.0,"",132.0,3
-2020-03-16,NorthDakota,Cass County,Nightlife Spots,73.0,"",73.0,4
-2020-03-16,NorthDakota,Cass County,Medical,49.0,"",49.0,5
-2020-03-16,NorthDakota,Cass County,Gas Stations,83.0,"",84.0,6
-2020-03-16,NorthDakota,Cass County,Professional & Other Places,13.0,"",13.0,7
-2020-03-16,NorthDakota,Cass County,Big Box Stores,97.0,"",96.0,8
-2020-03-16,NorthDakota,Cass County,Office,99.0,"",99.0,9
-2020-03-16,NorthDakota,Cass County,Fast Food Restaurants,74.0,"",74.0,10
-2020-03-16,NorthDakota,Cass County,Outdoors & Recreation,24.0,"",24.0,11
-2020-03-16,NorthDakota,Cass County,Fitness Center,41.0,"",41.0,12
-2020-03-16,NorthDakota,Cass County,Residences,81.0,"",80.0,13
-2020-03-16,NorthDakota,Cass County,Hotel,63.0,"",63.0,14
-2020-03-16,NorthDakota,Cass County,Hardware Stores,107.0,"",108.0,15
-2020-03-16,NorthDakota,Burleigh County,Shops & Services,97.0,85.0,97.0,1
-2020-03-16,NorthDakota,Burleigh County,Food,84.0,74.0,84.0,2
-2020-03-16,NorthDakota,Burleigh County,Big Box Stores,115.0,"",116.0,3
-2020-03-16,NorthDakota,Burleigh County,Grocery,165.0,"",169.0,4
-2020-03-16,NorthDakota,Burleigh County,Medical,45.0,"",44.0,5
-2020-03-16,NorthDakota,Burleigh County,Nightlife Spots,75.0,"",74.0,6
-2020-03-16,NorthDakota,Burleigh County,Gas Stations,80.0,"",81.0,7
-2020-03-16,NorthDakota,Burleigh County,Fast Food Restaurants,94.0,"",93.0,8
-2020-03-17,NorthDakota,Ward County,Shops & Services,88.0,78.0,88.0,1
-2020-03-17,NorthDakota,Ward County,Food,36.0,"",36.0,2
-2020-03-17,NorthDakota,Ward County,Nightlife Spots,69.0,"",69.0,3
-2020-03-17,NorthDakota,Ward County,Gas Stations,80.0,"",81.0,4
-2020-03-17,NorthDakota,Ward County,Grocery,173.0,"",176.0,5
-2020-03-17,NorthDakota,Ward County,Big Box Stores,119.0,"",121.0,6
-2020-03-17,NorthDakota,Ward County,Medical,44.0,"",44.0,7
-2020-03-17,NorthDakota,Ward County,Fast Food Restaurants,102.0,"",104.0,8
-2020-03-17,NorthDakota,McKenzie County,Professional & Other Places,31.0,"",31.0,1
-2020-03-17,NorthDakota,McKenzie County,Shops & Services,107.0,"",107.0,2
-2020-03-17,NorthDakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,3
-2020-03-17,NorthDakota,Grand Forks County,Shops & Services,73.0,62.0,73.0,1
-2020-03-17,NorthDakota,Grand Forks County,Food,37.0,"",38.0,2
-2020-03-17,NorthDakota,Grand Forks County,Big Box Stores,115.0,"",116.0,3
-2020-03-17,NorthDakota,Grand Forks County,Nightlife Spots,67.0,"",67.0,4
-2020-03-17,NorthDakota,Grand Forks County,Gas Stations,84.0,"",84.0,5
-2020-03-17,NorthDakota,Grand Forks County,Grocery,161.0,"",162.0,6
-2020-03-17,NorthDakota,Grand Forks County,Medical,40.0,"",40.0,7
-2020-03-17,NorthDakota,Grand Forks County,Professional & Other Places,13.0,"",13.0,8
-2020-03-17,NorthDakota,Cass County,Shops & Services,60.0,58.0,61.0,1
-2020-03-17,NorthDakota,Cass County,Food,33.0,32.0,33.0,2
-2020-03-17,NorthDakota,Cass County,Nightlife Spots,73.0,"",73.0,3
-2020-03-17,NorthDakota,Cass County,Grocery,133.0,118.0,133.0,4
-2020-03-17,NorthDakota,Cass County,Gas Stations,91.0,108.0,91.0,5
-2020-03-17,NorthDakota,Cass County,Medical,46.0,"",46.0,6
-2020-03-17,NorthDakota,Cass County,Professional & Other Places,12.0,"",12.0,7
-2020-03-17,NorthDakota,Cass County,Big Box Stores,90.0,"",91.0,8
-2020-03-17,NorthDakota,Cass County,Fast Food Restaurants,80.0,"",80.0,9
-2020-03-17,NorthDakota,Cass County,Outdoors & Recreation,22.0,"",22.0,10
-2020-03-17,NorthDakota,Cass County,Office,68.0,"",68.0,11
-2020-03-17,NorthDakota,Cass County,Hotel,60.0,"",60.0,12
-2020-03-17,NorthDakota,Cass County,Residences,86.0,"",86.0,13
-2020-03-17,NorthDakota,Cass County,Arts & Entertainment,58.0,"",58.0,14
-2020-03-17,NorthDakota,Cass County,Fitness Center,31.0,"",31.0,15
-2020-03-17,NorthDakota,Cass County,School,25.0,"",25.0,15
-2020-03-17,NorthDakota,Cass County,Hardware Stores,109.0,"",109.0,16
-2020-03-17,NorthDakota,Stark County,Shops & Services,19.0,"",19.0,1
-2020-03-17,NorthDakota,Stark County,Food,78.0,"",79.0,2
-2020-03-17,NorthDakota,Williams County,Food,82.0,"",82.0,1
-2020-03-17,NorthDakota,Williams County,Shops & Services,98.0,"",98.0,2
-2020-03-17,NorthDakota,Williams County,Gas Stations,83.0,"",84.0,3
-2020-03-17,NorthDakota,Morton County,Nightlife Spots,77.0,"",77.0,1
-2020-03-17,NorthDakota,Burleigh County,Shops & Services,96.0,56.0,97.0,1
-2020-03-17,NorthDakota,Burleigh County,Food,74.0,53.0,75.0,2
-2020-03-17,NorthDakota,Burleigh County,Big Box Stores,113.0,"",114.0,3
-2020-03-17,NorthDakota,Burleigh County,Nightlife Spots,82.0,"",82.0,3
-2020-03-17,NorthDakota,Burleigh County,Medical,44.0,"",44.0,4
-2020-03-17,NorthDakota,Burleigh County,Gas Stations,92.0,"",91.0,5
-2020-03-17,NorthDakota,Burleigh County,Grocery,144.0,207.0,142.0,6
-2020-03-17,NorthDakota,Burleigh County,Fast Food Restaurants,86.0,"",87.0,7
-2020-03-18,NorthDakota,Cass County,Shops & Services,24.0,18.0,24.0,1
-2020-03-18,NorthDakota,Cass County,Food,31.0,33.0,31.0,2
-2020-03-18,NorthDakota,Cass County,Nightlife Spots,71.0,"",71.0,3
-2020-03-18,NorthDakota,Cass County,Grocery,124.0,"",125.0,4
-2020-03-18,NorthDakota,Cass County,Gas Stations,86.0,"",86.0,5
-2020-03-18,NorthDakota,Cass County,Medical,41.0,"",41.0,6
-2020-03-18,NorthDakota,Cass County,Professional & Other Places,13.0,"",13.0,7
-2020-03-18,NorthDakota,Cass County,Big Box Stores,102.0,"",102.0,8
-2020-03-18,NorthDakota,Cass County,Outdoors & Recreation,24.0,"",24.0,9
-2020-03-18,NorthDakota,Cass County,Fast Food Restaurants,68.0,"",68.0,10
-2020-03-18,NorthDakota,Cass County,Office,78.0,"",77.0,11
-2020-03-18,NorthDakota,Cass County,Hotel,54.0,"",54.0,12
-2020-03-18,NorthDakota,Cass County,School,27.0,"",27.0,13
-2020-03-18,NorthDakota,Cass County,Fitness Center,30.0,"",30.0,14
-2020-03-18,NorthDakota,Cass County,Arts & Entertainment,51.0,"",52.0,15
-2020-03-18,NorthDakota,Stark County,Food,71.0,"",71.0,1
-2020-03-18,NorthDakota,Stark County,Shops & Services,15.0,"",16.0,2
-2020-03-18,NorthDakota,Morton County,Nightlife Spots,86.0,"",86.0,1
-2020-03-18,NorthDakota,Grand Forks County,Shops & Services,71.0,58.0,72.0,1
-2020-03-18,NorthDakota,Grand Forks County,Food,29.0,"",29.0,2
-2020-03-18,NorthDakota,Grand Forks County,Nightlife Spots,74.0,"",75.0,3
-2020-03-18,NorthDakota,Grand Forks County,Big Box Stores,119.0,"",119.0,4
-2020-03-18,NorthDakota,Grand Forks County,Gas Stations,91.0,"",90.0,5
-2020-03-18,NorthDakota,Grand Forks County,Grocery,127.0,"",128.0,6
-2020-03-18,NorthDakota,Grand Forks County,Medical,47.0,"",47.0,6
-2020-03-18,NorthDakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,7
-2020-03-18,NorthDakota,Williams County,Food,66.0,"",66.0,1
-2020-03-18,NorthDakota,Williams County,Gas Stations,79.0,"",79.0,2
-2020-03-18,NorthDakota,Williams County,Shops & Services,82.0,"",82.0,3
-2020-03-18,NorthDakota,Williams County,Grocery,163.0,"",164.0,4
-2020-03-18,NorthDakota,Ward County,Shops & Services,78.0,71.0,79.0,1
-2020-03-18,NorthDakota,Ward County,Nightlife Spots,66.0,"",66.0,2
-2020-03-18,NorthDakota,Ward County,Food,29.0,"",29.0,3
-2020-03-18,NorthDakota,Ward County,Gas Stations,74.0,"",74.0,4
-2020-03-18,NorthDakota,Ward County,Grocery,146.0,"",148.0,5
-2020-03-18,NorthDakota,Ward County,Medical,37.0,"",37.0,6
-2020-03-18,NorthDakota,McKenzie County,Shops & Services,128.0,"",129.0,1
-2020-03-18,NorthDakota,McKenzie County,Gas Stations,87.0,"",87.0,2
-2020-03-18,NorthDakota,McKenzie County,Professional & Other Places,35.0,"",35.0,3
-2020-03-18,NorthDakota,Burleigh County,Shops & Services,89.0,71.0,89.0,1
-2020-03-18,NorthDakota,Burleigh County,Food,29.0,"",29.0,2
-2020-03-18,NorthDakota,Burleigh County,Medical,44.0,"",45.0,3
-2020-03-18,NorthDakota,Burleigh County,Gas Stations,94.0,"",95.0,4
-2020-03-18,NorthDakota,Burleigh County,Big Box Stores,98.0,"",99.0,5
-2020-03-18,NorthDakota,Burleigh County,Grocery,137.0,"",137.0,6
-2020-03-18,NorthDakota,Burleigh County,Nightlife Spots,56.0,"",55.0,7
-2020-03-18,NorthDakota,Burleigh County,Hardware Stores,124.0,"",125.0,8
-2020-03-18,NorthDakota,Burleigh County,Fast Food Restaurants,69.0,"",69.0,9
-2020-03-19,NorthDakota,Williams County,Food,76.0,"",76.0,1
-2020-03-19,NorthDakota,Williams County,Shops & Services,93.0,"",93.0,2
-2020-03-19,NorthDakota,Williams County,Gas Stations,77.0,"",77.0,3
-2020-03-19,NorthDakota,Williams County,Grocery,151.0,"",151.0,4
-2020-03-19,NorthDakota,McKenzie County,Shops & Services,103.0,"",103.0,1
-2020-03-19,NorthDakota,Morton County,Nightlife Spots,64.0,"",64.0,1
-2020-03-19,NorthDakota,Cass County,Shops & Services,18.0,13.0,18.0,1
-2020-03-19,NorthDakota,Cass County,Food,25.0,20.0,25.0,2
-2020-03-19,NorthDakota,Cass County,Grocery,120.0,"",121.0,3
-2020-03-19,NorthDakota,Cass County,Nightlife Spots,53.0,"",54.0,4
-2020-03-19,NorthDakota,Cass County,Gas Stations,65.0,"",66.0,5
-2020-03-19,NorthDakota,Cass County,Medical,36.0,"",36.0,6
-2020-03-19,NorthDakota,Cass County,Professional & Other Places,10.0,"",10.0,7
-2020-03-19,NorthDakota,Cass County,Outdoors & Recreation,22.0,"",22.0,8
-2020-03-19,NorthDakota,Cass County,Big Box Stores,87.0,"",87.0,9
-2020-03-19,NorthDakota,Cass County,Fast Food Restaurants,57.0,"",57.0,10
-2020-03-19,NorthDakota,Cass County,Office,59.0,"",59.0,11
-2020-03-19,NorthDakota,Cass County,Residences,75.0,"",75.0,12
-2020-03-19,NorthDakota,Cass County,Hotel,44.0,"",44.0,13
-2020-03-19,NorthDakota,Ward County,Shops & Services,71.0,"",71.0,1
-2020-03-19,NorthDakota,Ward County,Food,29.0,"",29.0,2
-2020-03-19,NorthDakota,Ward County,Nightlife Spots,41.0,"",42.0,3
-2020-03-19,NorthDakota,Ward County,Gas Stations,70.0,"",70.0,4
-2020-03-19,NorthDakota,Ward County,Big Box Stores,88.0,"",88.0,5
-2020-03-19,NorthDakota,Ward County,Medical,43.0,"",43.0,6
-2020-03-19,NorthDakota,Ward County,Grocery,111.0,"",113.0,7
-2020-03-19,NorthDakota,Grand Forks County,Shops & Services,59.0,60.0,59.0,1
-2020-03-19,NorthDakota,Grand Forks County,Food,29.0,"",29.0,2
-2020-03-19,NorthDakota,Grand Forks County,Nightlife Spots,56.0,"",56.0,3
-2020-03-19,NorthDakota,Grand Forks County,Big Box Stores,82.0,"",82.0,4
-2020-03-19,NorthDakota,Grand Forks County,Gas Stations,71.0,"",71.0,5
-2020-03-19,NorthDakota,Grand Forks County,Medical,41.0,"",41.0,6
-2020-03-19,NorthDakota,Grand Forks County,Grocery,134.0,"",134.0,7
-2020-03-19,NorthDakota,Burleigh County,Shops & Services,71.0,50.0,71.0,1
-2020-03-19,NorthDakota,Burleigh County,Food,21.0,"",22.0,2
-2020-03-19,NorthDakota,Burleigh County,Big Box Stores,100.0,"",101.0,3
-2020-03-19,NorthDakota,Burleigh County,Grocery,130.0,"",131.0,4
-2020-03-19,NorthDakota,Burleigh County,Medical,33.0,"",34.0,5
-2020-03-19,NorthDakota,Burleigh County,Gas Stations,72.0,"",73.0,6
-2020-03-19,NorthDakota,Burleigh County,Nightlife Spots,39.0,"",39.0,7
-2020-03-20,NorthDakota,Burleigh County,Shops & Services,57.0,54.0,57.0,1
-2020-03-20,NorthDakota,Burleigh County,Food,34.0,"",35.0,2
-2020-03-20,NorthDakota,Burleigh County,Gas Stations,84.0,"",83.0,3
-2020-03-20,NorthDakota,Burleigh County,Big Box Stores,83.0,"",83.0,3
-2020-03-20,NorthDakota,Burleigh County,Grocery,112.0,"",113.0,4
-2020-03-20,NorthDakota,Burleigh County,Nightlife Spots,42.0,"",42.0,5
-2020-03-20,NorthDakota,Burleigh County,Medical,32.0,"",32.0,6
-2020-03-20,NorthDakota,Burleigh County,Fast Food Restaurants,70.0,"",69.0,7
-2020-03-20,NorthDakota,Williams County,Food,62.0,"",62.0,1
-2020-03-20,NorthDakota,Williams County,Shops & Services,84.0,"",84.0,2
-2020-03-20,NorthDakota,Williams County,Gas Stations,79.0,"",80.0,3
-2020-03-20,NorthDakota,Williams County,Grocery,147.0,"",147.0,4
-2020-03-20,NorthDakota,McKenzie County,Shops & Services,122.0,"",122.0,1
-2020-03-20,NorthDakota,McKenzie County,Professional & Other Places,35.0,"",35.0,2
-2020-03-20,NorthDakota,Morton County,Nightlife Spots,44.0,"",44.0,1
-2020-03-20,NorthDakota,Cass County,Shops & Services,16.0,13.0,16.0,1
-2020-03-20,NorthDakota,Cass County,Food,20.0,18.0,20.0,2
-2020-03-20,NorthDakota,Cass County,Grocery,117.0,"",118.0,3
-2020-03-20,NorthDakota,Cass County,Gas Stations,76.0,"",76.0,4
-2020-03-20,NorthDakota,Cass County,Nightlife Spots,39.0,"",39.0,5
-2020-03-20,NorthDakota,Cass County,Medical,38.0,"",38.0,6
-2020-03-20,NorthDakota,Cass County,Big Box Stores,73.0,"",73.0,7
-2020-03-20,NorthDakota,Cass County,Fast Food Restaurants,65.0,"",65.0,8
-2020-03-20,NorthDakota,Cass County,Professional & Other Places,11.0,"",11.0,9
-2020-03-20,NorthDakota,Cass County,Outdoors & Recreation,71.0,"",71.0,10
-2020-03-20,NorthDakota,Cass County,Residences,75.0,"",75.0,11
-2020-03-20,NorthDakota,Cass County,Office,67.0,"",67.0,12
-2020-03-20,NorthDakota,Cass County,Hardware Stores,102.0,"",103.0,13
-2020-03-20,NorthDakota,Grand Forks County,Shops & Services,49.0,45.0,49.0,1
-2020-03-20,NorthDakota,Grand Forks County,Big Box Stores,95.0,"",96.0,2
-2020-03-20,NorthDakota,Grand Forks County,Food,16.0,"",16.0,3
-2020-03-20,NorthDakota,Grand Forks County,Grocery,136.0,"",138.0,4
-2020-03-20,NorthDakota,Grand Forks County,Gas Stations,65.0,"",65.0,5
-2020-03-20,NorthDakota,Grand Forks County,Fast Food Restaurants,67.0,"",67.0,6
-2020-03-20,NorthDakota,Ward County,Shops & Services,56.0,"",57.0,1
-2020-03-20,NorthDakota,Ward County,Food,21.0,"",21.0,2
-2020-03-20,NorthDakota,Ward County,Nightlife Spots,35.0,"",35.0,3
-2020-03-20,NorthDakota,Ward County,Gas Stations,80.0,"",80.0,4
-2020-03-20,NorthDakota,Ward County,Grocery,162.0,"",163.0,5
-2020-03-20,NorthDakota,Ward County,Medical,46.0,"",47.0,6
-2020-03-20,NorthDakota,Ward County,Fast Food Restaurants,73.0,"",74.0,7
-2020-03-20,NorthDakota,Ward County,Big Box Stores,68.0,"",69.0,8
-2020-03-21,NorthDakota,Cass County,Shops & Services,25.0,23.0,26.0,1
-2020-03-21,NorthDakota,Cass County,Food,15.0,"",15.0,2
-2020-03-21,NorthDakota,Cass County,Grocery,86.0,"",86.0,3
-2020-03-21,NorthDakota,Cass County,Big Box Stores,66.0,"",67.0,4
-2020-03-21,NorthDakota,Cass County,Gas Stations,53.0,"",53.0,5
-2020-03-21,NorthDakota,Cass County,Nightlife Spots,15.0,"",15.0,6
-2020-03-21,NorthDakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
-2020-03-21,NorthDakota,Cass County,Fast Food Restaurants,39.0,"",39.0,8
-2020-03-21,NorthDakota,Cass County,Residences,72.0,"",72.0,9
-2020-03-21,NorthDakota,Grand Forks County,Shops & Services,34.0,"",34.0,1
-2020-03-21,NorthDakota,Grand Forks County,Big Box Stores,69.0,"",69.0,2
-2020-03-21,NorthDakota,Grand Forks County,Food,12.0,"",12.0,3
-2020-03-21,NorthDakota,Grand Forks County,Gas Stations,64.0,"",64.0,4
-2020-03-21,NorthDakota,Grand Forks County,Grocery,104.0,"",105.0,5
-2020-03-21,NorthDakota,Ward County,Shops & Services,36.0,"",35.0,1
-2020-03-21,NorthDakota,Ward County,Food,29.0,"",29.0,2
-2020-03-21,NorthDakota,Ward County,Nightlife Spots,21.0,"",21.0,3
-2020-03-21,NorthDakota,Ward County,Grocery,99.0,"",99.0,3
-2020-03-21,NorthDakota,Ward County,Big Box Stores,56.0,"",56.0,3
-2020-03-21,NorthDakota,Ward County,Gas Stations,59.0,"",59.0,4
-2020-03-21,NorthDakota,Burleigh County,Shops & Services,33.0,"",33.0,1
-2020-03-21,NorthDakota,Burleigh County,Food,24.0,"",24.0,2
-2020-03-21,NorthDakota,Burleigh County,Big Box Stores,53.0,"",53.0,3
-2020-03-21,NorthDakota,Burleigh County,Grocery,87.0,"",88.0,4
-2020-03-21,NorthDakota,Burleigh County,Gas Stations,51.0,"",51.0,5
-2020-03-21,NorthDakota,Burleigh County,Nightlife Spots,27.0,"",27.0,6
-2020-03-21,NorthDakota,Morton County,Nightlife Spots,32.0,"",32.0,1
-2020-03-21,NorthDakota,Williams County,Food,48.0,"",48.0,1
-2020-03-21,NorthDakota,Williams County,Shops & Services,73.0,"",73.0,2
-2020-03-21,NorthDakota,Williams County,Gas Stations,79.0,"",79.0,3
-2020-03-22,NorthDakota,Cass County,Food,31.0,52.0,31.0,1
-2020-03-22,NorthDakota,Cass County,Shops & Services,30.0,"",30.0,2
-2020-03-22,NorthDakota,Cass County,Grocery,76.0,"",76.0,3
-2020-03-22,NorthDakota,Cass County,Gas Stations,54.0,"",54.0,4
-2020-03-22,NorthDakota,Cass County,Big Box Stores,49.0,"",49.0,5
-2020-03-22,NorthDakota,Cass County,Nightlife Spots,13.0,"",12.0,6
-2020-03-22,NorthDakota,Cass County,Outdoors & Recreation,74.0,"",73.0,7
-2020-03-22,NorthDakota,Cass County,Fast Food Restaurants,49.0,"",49.0,8
-2020-03-22,NorthDakota,Ward County,Shops & Services,39.0,"",39.0,1
-2020-03-22,NorthDakota,Ward County,Food,37.0,"",37.0,2
-2020-03-22,NorthDakota,Grand Forks County,Shops & Services,27.0,"",27.0,1
-2020-03-22,NorthDakota,Grand Forks County,Big Box Stores,51.0,"",51.0,2
-2020-03-22,NorthDakota,Grand Forks County,Food,11.0,"",11.0,3
-2020-03-22,NorthDakota,Williams County,Food,45.0,"",45.0,1
-2020-03-22,NorthDakota,Williams County,Shops & Services,78.0,"",79.0,2
-2020-03-22,NorthDakota,Williams County,Gas Stations,76.0,"",76.0,3
-2020-03-22,NorthDakota,Burleigh County,Shops & Services,42.0,"",42.0,1
-2020-03-22,NorthDakota,Burleigh County,Food,29.0,"",29.0,2
-2020-03-22,NorthDakota,Burleigh County,Gas Stations,72.0,"",72.0,3
-2020-03-22,NorthDakota,Burleigh County,Big Box Stores,49.0,"",49.0,4
-2020-03-22,NorthDakota,Burleigh County,Nightlife Spots,27.0,"",26.0,5
-2020-03-22,NorthDakota,Burleigh County,Grocery,64.0,"",65.0,6
-2020-03-22,NorthDakota,Burleigh County,Outdoors & Recreation,102.0,"",102.0,7
-2020-03-23,NorthDakota,McKenzie County,Professional & Other Places,39.0,"",39.0,1
-2020-03-23,NorthDakota,McKenzie County,Shops & Services,128.0,"",128.0,2
-2020-03-23,NorthDakota,Williams County,Food,62.0,"",62.0,1
-2020-03-23,NorthDakota,Williams County,Gas Stations,70.0,"",69.0,2
-2020-03-23,NorthDakota,Williams County,Shops & Services,72.0,"",72.0,3
-2020-03-23,NorthDakota,Morton County,Nightlife Spots,57.0,"",56.0,1
-2020-03-23,NorthDakota,Grand Forks County,Shops & Services,41.0,52.0,40.0,1
-2020-03-23,NorthDakota,Grand Forks County,Gas Stations,77.0,"",77.0,2
-2020-03-23,NorthDakota,Grand Forks County,Food,17.0,"",17.0,3
-2020-03-23,NorthDakota,Grand Forks County,Big Box Stores,61.0,"",60.0,4
-2020-03-23,NorthDakota,Grand Forks County,Medical,35.0,"",35.0,5
-2020-03-23,NorthDakota,Burleigh County,Shops & Services,63.0,49.0,63.0,1
-2020-03-23,NorthDakota,Burleigh County,Food,43.0,"",44.0,2
-2020-03-23,NorthDakota,Burleigh County,Gas Stations,74.0,"",75.0,3
-2020-03-23,NorthDakota,Burleigh County,Medical,26.0,"",26.0,4
-2020-03-23,NorthDakota,Burleigh County,Big Box Stores,58.0,"",59.0,5
-2020-03-23,NorthDakota,Burleigh County,Grocery,85.0,"",87.0,6
-2020-03-23,NorthDakota,Burleigh County,Nightlife Spots,40.0,"",39.0,7
-2020-03-23,NorthDakota,Ward County,Shops & Services,58.0,"",58.0,1
-2020-03-23,NorthDakota,Ward County,Food,23.0,"",23.0,2
-2020-03-23,NorthDakota,Ward County,Nightlife Spots,37.0,"",37.0,3
-2020-03-23,NorthDakota,Ward County,Gas Stations,64.0,"",64.0,4
-2020-03-23,NorthDakota,Cass County,Shops & Services,42.0,35.0,43.0,1
-2020-03-23,NorthDakota,Cass County,Food,18.0,"",18.0,2
-2020-03-23,NorthDakota,Cass County,Gas Stations,77.0,"",78.0,3
-2020-03-23,NorthDakota,Cass County,Grocery,86.0,"",86.0,4
-2020-03-23,NorthDakota,Cass County,Medical,37.0,"",38.0,5
-2020-03-23,NorthDakota,Cass County,Nightlife Spots,36.0,"",35.0,6
-2020-03-23,NorthDakota,Cass County,Professional & Other Places,12.0,"",12.0,7
-2020-03-23,NorthDakota,Cass County,Outdoors & Recreation,24.0,"",24.0,8
-2020-03-23,NorthDakota,Cass County,Fast Food Restaurants,58.0,"",59.0,9
-2020-03-23,NorthDakota,Cass County,Big Box Stores,64.0,"",64.0,10
-2020-03-23,NorthDakota,Cass County,Office,62.0,"",61.0,11
-2020-03-23,NorthDakota,Cass County,Residences,73.0,"",71.0,12
-2020-03-24,NorthDakota,Ward County,Shops & Services,55.0,"",56.0,1
-2020-03-24,NorthDakota,Ward County,Food,23.0,"",23.0,2
-2020-03-24,NorthDakota,Ward County,Gas Stations,80.0,"",81.0,3
-2020-03-24,NorthDakota,Ward County,Nightlife Spots,37.0,"",37.0,4
-2020-03-24,NorthDakota,McKenzie County,Professional & Other Places,32.0,"",32.0,1
-2020-03-24,NorthDakota,McKenzie County,Shops & Services,97.0,"",97.0,2
-2020-03-24,NorthDakota,Grand Forks County,Shops & Services,41.0,51.0,41.0,1
-2020-03-24,NorthDakota,Grand Forks County,Food,21.0,"",21.0,2
-2020-03-24,NorthDakota,Grand Forks County,Gas Stations,72.0,"",72.0,3
-2020-03-24,NorthDakota,Grand Forks County,Big Box Stores,76.0,"",77.0,4
-2020-03-24,NorthDakota,Grand Forks County,Medical,33.0,"",33.0,5
-2020-03-24,NorthDakota,Morton County,Nightlife Spots,59.0,"",59.0,1
-2020-03-24,NorthDakota,Burleigh County,Shops & Services,53.0,41.0,54.0,1
-2020-03-24,NorthDakota,Burleigh County,Food,18.0,"",18.0,2
-2020-03-24,NorthDakota,Burleigh County,Gas Stations,67.0,"",68.0,3
-2020-03-24,NorthDakota,Burleigh County,Medical,30.0,"",30.0,4
-2020-03-24,NorthDakota,Burleigh County,Big Box Stores,57.0,"",58.0,5
-2020-03-24,NorthDakota,Burleigh County,Nightlife Spots,41.0,"",41.0,6
-2020-03-24,NorthDakota,Burleigh County,Outdoors & Recreation,38.0,"",38.0,7
-2020-03-24,NorthDakota,Burleigh County,Fast Food Restaurants,67.0,"",69.0,7
-2020-03-24,NorthDakota,Burleigh County,Grocery,70.0,"",70.0,8
-2020-03-24,NorthDakota,Cass County,Shops & Services,14.0,12.0,15.0,1
-2020-03-24,NorthDakota,Cass County,Food,22.0,26.0,22.0,2
-2020-03-24,NorthDakota,Cass County,Gas Stations,76.0,"",76.0,3
-2020-03-24,NorthDakota,Cass County,Grocery,80.0,"",81.0,4
-2020-03-24,NorthDakota,Cass County,Medical,33.0,"",33.0,5
-2020-03-24,NorthDakota,Cass County,Nightlife Spots,33.0,"",32.0,6
-2020-03-24,NorthDakota,Cass County,Professional & Other Places,11.0,"",11.0,7
-2020-03-24,NorthDakota,Cass County,Outdoors & Recreation,80.0,"",78.0,8
-2020-03-24,NorthDakota,Cass County,Big Box Stores,64.0,"",63.0,9
-2020-03-24,NorthDakota,Cass County,Residences,88.0,"",86.0,10
-2020-03-24,NorthDakota,Cass County,Fast Food Restaurants,54.0,"",55.0,11
-2020-03-24,NorthDakota,Cass County,Office,50.0,"",50.0,12
-2020-03-24,NorthDakota,Williams County,Shops & Services,75.0,"",75.0,1
-2020-03-24,NorthDakota,Williams County,Food,50.0,"",51.0,1
-2020-03-24,NorthDakota,Williams County,Gas Stations,65.0,"",65.0,2
-2020-03-25,NorthDakota,Cass County,Shops & Services,61.0,41.0,61.0,1
-2020-03-25,NorthDakota,Cass County,Food,46.0,"",46.0,2
-2020-03-25,NorthDakota,Cass County,Gas Stations,70.0,"",70.0,3
-2020-03-25,NorthDakota,Cass County,Grocery,82.0,"",82.0,4
-2020-03-25,NorthDakota,Cass County,Medical,31.0,"",31.0,5
-2020-03-25,NorthDakota,Cass County,Nightlife Spots,18.0,"",17.0,6
-2020-03-25,NorthDakota,Cass County,Professional & Other Places,11.0,"",11.0,7
-2020-03-25,NorthDakota,Cass County,Outdoors & Recreation,25.0,"",25.0,8
-2020-03-25,NorthDakota,Cass County,Fast Food Restaurants,71.0,"",71.0,9
-2020-03-25,NorthDakota,Cass County,Big Box Stores,78.0,"",79.0,10
-2020-03-25,NorthDakota,Cass County,Office,69.0,"",68.0,11
-2020-03-25,NorthDakota,Williams County,Gas Stations,67.0,"",67.0,1
-2020-03-25,NorthDakota,Williams County,Food,47.0,"",48.0,1
-2020-03-25,NorthDakota,Williams County,Shops & Services,67.0,"",68.0,2
-2020-03-25,NorthDakota,Ward County,Shops & Services,61.0,"",61.0,1
-2020-03-25,NorthDakota,Ward County,Food,22.0,"",22.0,2
-2020-03-25,NorthDakota,Ward County,Nightlife Spots,38.0,"",38.0,3
-2020-03-25,NorthDakota,Ward County,Gas Stations,72.0,"",71.0,4
-2020-03-25,NorthDakota,Morton County,Nightlife Spots,57.0,"",57.0,1
-2020-03-25,NorthDakota,McKenzie County,Professional & Other Places,35.0,"",35.0,1
-2020-03-25,NorthDakota,McKenzie County,Shops & Services,108.0,"",108.0,2
-2020-03-25,NorthDakota,Grand Forks County,Shops & Services,47.0,"",47.0,1
-2020-03-25,NorthDakota,Grand Forks County,Food,19.0,"",19.0,2
-2020-03-25,NorthDakota,Grand Forks County,Big Box Stores,86.0,"",86.0,3
-2020-03-25,NorthDakota,Grand Forks County,Gas Stations,71.0,"",70.0,4
-2020-03-25,NorthDakota,Burleigh County,Shops & Services,55.0,45.0,55.0,1
-2020-03-25,NorthDakota,Burleigh County,Food,20.0,"",20.0,2
-2020-03-25,NorthDakota,Burleigh County,Nightlife Spots,46.0,"",46.0,3
-2020-03-25,NorthDakota,Burleigh County,Gas Stations,69.0,"",69.0,4
-2020-03-25,NorthDakota,Burleigh County,Medical,27.0,"",27.0,5
-2020-03-25,NorthDakota,Burleigh County,Big Box Stores,62.0,"",62.0,6
-2020-03-25,NorthDakota,Burleigh County,Grocery,86.0,"",87.0,7
-2020-03-26,NorthDakota,Burleigh County,Shops & Services,57.0,41.0,58.0,1
-2020-03-26,NorthDakota,Burleigh County,Food,42.0,"",43.0,2
-2020-03-26,NorthDakota,Burleigh County,Gas Stations,86.0,"",86.0,3
-2020-03-26,NorthDakota,Burleigh County,Big Box Stores,69.0,"",70.0,4
-2020-03-26,NorthDakota,Burleigh County,Nightlife Spots,38.0,"",38.0,5
-2020-03-26,NorthDakota,Burleigh County,Medical,27.0,"",27.0,6
-2020-03-26,NorthDakota,Burleigh County,Fast Food Restaurants,76.0,"",76.0,7
-2020-03-26,NorthDakota,Burleigh County,Grocery,79.0,"",81.0,8
-2020-03-26,NorthDakota,Burleigh County,Outdoors & Recreation,111.0,"",111.0,9
-2020-03-26,NorthDakota,Cass County,Shops & Services,16.0,13.0,16.0,1
-2020-03-26,NorthDakota,Cass County,Food,21.0,18.0,21.0,2
-2020-03-26,NorthDakota,Cass County,Gas Stations,70.0,"",70.0,3
-2020-03-26,NorthDakota,Cass County,Grocery,92.0,"",93.0,4
-2020-03-26,NorthDakota,Cass County,Nightlife Spots,34.0,"",34.0,5
-2020-03-26,NorthDakota,Cass County,Medical,30.0,"",30.0,6
-2020-03-26,NorthDakota,Cass County,Professional & Other Places,9.0,"",9.0,7
-2020-03-26,NorthDakota,Cass County,Outdoors & Recreation,22.0,"",22.0,8
-2020-03-26,NorthDakota,Cass County,Big Box Stores,80.0,"",82.0,9
-2020-03-26,NorthDakota,Cass County,Fast Food Restaurants,61.0,"",62.0,10
-2020-03-26,NorthDakota,Cass County,Office,56.0,"",56.0,11
-2020-03-26,NorthDakota,McKenzie County,Shops & Services,102.0,"",102.0,1
-2020-03-26,NorthDakota,McKenzie County,Professional & Other Places,29.0,"",29.0,2
-2020-03-26,NorthDakota,Grand Forks County,Shops & Services,50.0,53.0,50.0,1
-2020-03-26,NorthDakota,Grand Forks County,Food,19.0,"",19.0,2
-2020-03-26,NorthDakota,Grand Forks County,Big Box Stores,81.0,"",82.0,3
-2020-03-26,NorthDakota,Grand Forks County,Gas Stations,64.0,"",64.0,4
-2020-03-26,NorthDakota,Grand Forks County,Medical,37.0,"",37.0,5
-2020-03-26,NorthDakota,Williams County,Food,55.0,"",55.0,1
-2020-03-26,NorthDakota,Williams County,Gas Stations,70.0,"",69.0,2
-2020-03-26,NorthDakota,Williams County,Shops & Services,72.0,"",72.0,3
-2020-03-26,NorthDakota,Morton County,Nightlife Spots,51.0,"",51.0,1
-2020-03-26,NorthDakota,Ward County,Shops & Services,65.0,"",65.0,1
-2020-03-26,NorthDakota,Ward County,Food,22.0,"",23.0,2
-2020-03-26,NorthDakota,Ward County,Gas Stations,78.0,"",77.0,3
-2020-03-26,NorthDakota,Ward County,Nightlife Spots,33.0,"",33.0,4
-2020-03-27,NorthDakota,Cass County,Shops & Services,14.0,11.0,14.0,1
-2020-03-27,NorthDakota,Cass County,Food,20.0,"",20.0,2
-2020-03-27,NorthDakota,Cass County,Grocery,90.0,"",91.0,3
-2020-03-27,NorthDakota,Cass County,Gas Stations,68.0,"",68.0,4
-2020-03-27,NorthDakota,Cass County,Nightlife Spots,26.0,"",26.0,5
-2020-03-27,NorthDakota,Cass County,Medical,29.0,"",29.0,6
-2020-03-27,NorthDakota,Cass County,Big Box Stores,74.0,"",74.0,7
-2020-03-27,NorthDakota,Cass County,Fast Food Restaurants,57.0,"",57.0,8
-2020-03-27,NorthDakota,Cass County,Outdoors & Recreation,21.0,"",21.0,9
-2020-03-27,NorthDakota,Cass County,Professional & Other Places,10.0,"",10.0,10
-2020-03-27,NorthDakota,Cass County,Office,70.0,"",70.0,11
-2020-03-27,NorthDakota,Cass County,Residences,64.0,"",64.0,12
-2020-03-27,NorthDakota,Cass County,Hardware Stores,88.0,"",89.0,13
-2020-03-27,NorthDakota,Burleigh County,Shops & Services,53.0,40.0,53.0,1
-2020-03-27,NorthDakota,Burleigh County,Food,36.0,"",36.0,2
-2020-03-27,NorthDakota,Burleigh County,Gas Stations,72.0,"",73.0,3
-2020-03-27,NorthDakota,Burleigh County,Nightlife Spots,37.0,"",37.0,4
-2020-03-27,NorthDakota,Burleigh County,Medical,35.0,"",35.0,5
-2020-03-27,NorthDakota,Burleigh County,Big Box Stores,60.0,"",60.0,6
-2020-03-27,NorthDakota,Burleigh County,Grocery,82.0,"",83.0,7
-2020-03-27,NorthDakota,Burleigh County,Outdoors & Recreation,46.0,"",46.0,8
-2020-03-27,NorthDakota,Burleigh County,Fast Food Restaurants,61.0,"",60.0,9
-2020-03-27,NorthDakota,Grand Forks County,Shops & Services,38.0,"",38.0,1
-2020-03-27,NorthDakota,Grand Forks County,Big Box Stores,72.0,"",72.0,2
-2020-03-27,NorthDakota,Grand Forks County,Food,13.0,"",13.0,3
-2020-03-27,NorthDakota,Grand Forks County,Gas Stations,67.0,"",67.0,4
-2020-03-27,NorthDakota,Williams County,Food,46.0,"",46.0,1
-2020-03-27,NorthDakota,Williams County,Shops & Services,74.0,"",74.0,2
-2020-03-27,NorthDakota,Williams County,Gas Stations,66.0,"",66.0,3
-2020-03-27,NorthDakota,Morton County,Nightlife Spots,44.0,"",44.0,1
-2020-03-27,NorthDakota,Ward County,Shops & Services,59.0,"",60.0,1
-2020-03-27,NorthDakota,Ward County,Food,19.0,"",19.0,2
-2020-03-27,NorthDakota,Ward County,Nightlife Spots,33.0,"",33.0,3
-2020-03-27,NorthDakota,Ward County,Gas Stations,66.0,"",66.0,4
-2020-03-28,NorthDakota,Ward County,Shops & Services,42.0,"",42.0,1
-2020-03-28,NorthDakota,Ward County,Food,14.0,"",14.0,2
-2020-03-28,NorthDakota,Ward County,Nightlife Spots,26.0,"",26.0,3
-2020-03-28,NorthDakota,Ward County,Big Box Stores,69.0,"",69.0,4
-2020-03-28,NorthDakota,Ward County,Gas Stations,60.0,"",61.0,5
-2020-03-28,NorthDakota,Cass County,Food,14.0,"",14.0,1
-2020-03-28,NorthDakota,Cass County,Shops & Services,22.0,"",22.0,2
-2020-03-28,NorthDakota,Cass County,Grocery,77.0,"",77.0,3
-2020-03-28,NorthDakota,Cass County,Gas Stations,55.0,"",55.0,4
-2020-03-28,NorthDakota,Cass County,Nightlife Spots,17.0,"",17.0,5
-2020-03-28,NorthDakota,Cass County,Big Box Stores,60.0,"",60.0,6
-2020-03-28,NorthDakota,Cass County,Outdoors & Recreation,20.0,"",20.0,7
-2020-03-28,NorthDakota,Cass County,Fast Food Restaurants,43.0,"",43.0,8
-2020-03-28,NorthDakota,Cass County,Residences,78.0,"",78.0,9
-2020-03-28,NorthDakota,Cass County,Medical,41.0,"",40.0,10
-2020-03-28,NorthDakota,Williams County,Food,46.0,"",46.0,1
-2020-03-28,NorthDakota,Williams County,Shops & Services,64.0,"",64.0,2
-2020-03-28,NorthDakota,Williams County,Gas Stations,69.0,"",69.0,3
-2020-03-28,NorthDakota,Morton County,Nightlife Spots,36.0,"",36.0,1
-2020-03-28,NorthDakota,Burleigh County,Shops & Services,38.0,"",38.0,1
-2020-03-28,NorthDakota,Burleigh County,Food,31.0,"",31.0,2
-2020-03-28,NorthDakota,Burleigh County,Outdoors & Recreation,157.0,"",158.0,3
-2020-03-28,NorthDakota,Burleigh County,Big Box Stores,52.0,"",52.0,4
-2020-03-28,NorthDakota,Burleigh County,Nightlife Spots,37.0,"",37.0,5
-2020-03-28,NorthDakota,Burleigh County,Gas Stations,63.0,"",63.0,6
-2020-03-28,NorthDakota,Burleigh County,Grocery,82.0,"",83.0,7
-2020-03-28,NorthDakota,Burleigh County,Hardware Stores,80.0,"",82.0,8
-2020-03-28,NorthDakota,Grand Forks County,Shops & Services,32.0,"",32.0,1
-2020-03-28,NorthDakota,Grand Forks County,Big Box Stores,61.0,"",61.0,2
-2020-03-28,NorthDakota,Grand Forks County,Food,12.0,"",12.0,3
-2020-03-28,NorthDakota,Grand Forks County,Gas Stations,66.0,"",67.0,4
-2020-03-28,NorthDakota,Grand Forks County,Hardware Stores,109.0,"",110.0,5
-2020-03-29,NorthDakota,Ward County,Shops & Services,41.0,"",41.0,1
-2020-03-29,NorthDakota,Ward County,Food,15.0,"",15.0,2
-2020-03-29,NorthDakota,Ward County,Nightlife Spots,21.0,"",21.0,3
-2020-03-29,NorthDakota,Grand Forks County,Shops & Services,24.0,"",24.0,1
-2020-03-29,NorthDakota,Grand Forks County,Food,10.0,"",10.0,2
-2020-03-29,NorthDakota,Grand Forks County,Big Box Stores,45.0,"",45.0,3
-2020-03-29,NorthDakota,Cass County,Food,12.0,"",12.0,1
-2020-03-29,NorthDakota,Cass County,Shops & Services,20.0,"",20.0,2
-2020-03-29,NorthDakota,Cass County,Grocery,57.0,"",57.0,3
-2020-03-29,NorthDakota,Cass County,Nightlife Spots,9.0,"",9.0,4
-2020-03-29,NorthDakota,Cass County,Gas Stations,48.0,"",48.0,5
-2020-03-29,NorthDakota,Cass County,Big Box Stores,47.0,"",47.0,6
-2020-03-29,NorthDakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
-2020-03-29,NorthDakota,Burleigh County,Shops & Services,43.0,"",43.0,1
-2020-03-29,NorthDakota,Burleigh County,Food,24.0,"",24.0,2
-2020-03-29,NorthDakota,Burleigh County,Gas Stations,68.0,"",69.0,3
-2020-03-29,NorthDakota,Burleigh County,Big Box Stores,46.0,"",46.0,4
-2020-03-29,NorthDakota,Burleigh County,Outdoors & Recreation,122.0,"",121.0,5
-2020-03-29,NorthDakota,Burleigh County,Fast Food Restaurants,68.0,"",66.0,6
-2020-03-30,NorthDakota,Morton County,Nightlife Spots,60.0,"",60.0,1
-2020-03-30,NorthDakota,Grand Forks County,Shops & Services,34.0,"",34.0,1
-2020-03-30,NorthDakota,Grand Forks County,Food,16.0,"",16.0,2
-2020-03-30,NorthDakota,Cass County,Shops & Services,13.0,12.0,13.0,1
-2020-03-30,NorthDakota,Cass County,Food,17.0,"",17.0,2
-2020-03-30,NorthDakota,Cass County,Gas Stations,59.0,"",60.0,3
-2020-03-30,NorthDakota,Cass County,Grocery,70.0,"",70.0,4
-2020-03-30,NorthDakota,Cass County,Medical,26.0,"",26.0,5
-2020-03-30,NorthDakota,Cass County,Nightlife Spots,28.0,"",28.0,6
-2020-03-30,NorthDakota,Cass County,Professional & Other Places,11.0,"",11.0,6
-2020-03-30,NorthDakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
-2020-03-30,NorthDakota,Cass County,Fast Food Restaurants,50.0,"",51.0,8
-2020-03-30,NorthDakota,Cass County,Big Box Stores,56.0,"",57.0,9
-2020-03-30,NorthDakota,Ward County,Shops & Services,53.0,"",54.0,1
-2020-03-30,NorthDakota,Ward County,Food,24.0,"",24.0,2
-2020-03-30,NorthDakota,Ward County,Nightlife Spots,39.0,"",38.0,3
-2020-03-30,NorthDakota,Williams County,Food,60.0,"",60.0,1
-2020-03-30,NorthDakota,Williams County,Gas Stations,65.0,"",65.0,2
-2020-03-30,NorthDakota,Williams County,Shops & Services,61.0,"",61.0,3
-2020-03-30,NorthDakota,Burleigh County,Shops & Services,49.0,"",50.0,1
-2020-03-30,NorthDakota,Burleigh County,Food,47.0,"",48.0,2
-2020-03-30,NorthDakota,Burleigh County,Outdoors & Recreation,137.0,"",136.0,3
-2020-03-30,NorthDakota,Burleigh County,Big Box Stores,58.0,"",59.0,4
-2020-03-30,NorthDakota,Burleigh County,Nightlife Spots,42.0,"",41.0,5
-2020-03-30,NorthDakota,Burleigh County,Gas Stations,62.0,"",63.0,6
-2020-03-30,NorthDakota,Burleigh County,Medical,23.0,"",23.0,7
-2020-03-30,NorthDakota,Burleigh County,Grocery,74.0,"",74.0,8
-2020-03-30,NorthDakota,Burleigh County,Fast Food Restaurants,70.0,"",70.0,9
-2020-03-31,NorthDakota,Grand Forks County,Shops & Services,47.0,"",47.0,1
-2020-03-31,NorthDakota,Grand Forks County,Food,19.0,"",19.0,2
-2020-03-31,NorthDakota,Grand Forks County,Gas Stations,60.0,"",60.0,3
-2020-03-31,NorthDakota,Grand Forks County,Big Box Stores,65.0,"",65.0,4
-2020-03-31,NorthDakota,Ward County,Shops & Services,55.0,"",55.0,1
-2020-03-31,NorthDakota,Ward County,Food,24.0,"",24.0,2
-2020-03-31,NorthDakota,Ward County,Nightlife Spots,42.0,"",41.0,3
-2020-03-31,NorthDakota,Ward County,Gas Stations,54.0,"",55.0,4
-2020-03-31,NorthDakota,Williams County,Food,59.0,"",60.0,1
-2020-03-31,NorthDakota,Williams County,Shops & Services,81.0,"",81.0,2
-2020-03-31,NorthDakota,Williams County,Gas Stations,65.0,"",65.0,3
-2020-03-31,NorthDakota,Burleigh County,Shops & Services,47.0,37.0,47.0,1
-2020-03-31,NorthDakota,Burleigh County,Food,17.0,"",17.0,2
-2020-03-31,NorthDakota,Burleigh County,Gas Stations,65.0,"",67.0,3
-2020-03-31,NorthDakota,Burleigh County,Nightlife Spots,44.0,"",43.0,4
-2020-03-31,NorthDakota,Burleigh County,Medical,27.0,"",27.0,4
-2020-03-31,NorthDakota,Burleigh County,Grocery,89.0,"",90.0,5
-2020-03-31,NorthDakota,Burleigh County,Big Box Stores,58.0,"",59.0,6
-2020-03-31,NorthDakota,Burleigh County,Outdoors & Recreation,118.0,"",119.0,7
-2020-03-31,NorthDakota,Burleigh County,Fast Food Restaurants,66.0,"",66.0,8
-2020-03-31,NorthDakota,McKenzie County,Shops & Services,96.0,"",97.0,1
-2020-03-31,NorthDakota,Cass County,Shops & Services,13.0,11.0,13.0,1
-2020-03-31,NorthDakota,Cass County,Food,16.0,"",16.0,2
-2020-03-31,NorthDakota,Cass County,Grocery,67.0,"",67.0,3
-2020-03-31,NorthDakota,Cass County,Gas Stations,53.0,"",54.0,4
-2020-03-31,NorthDakota,Cass County,Nightlife Spots,28.0,"",28.0,5
-2020-03-31,NorthDakota,Cass County,Professional & Other Places,10.0,"",10.0,6
-2020-03-31,NorthDakota,Cass County,Medical,22.0,"",22.0,7
-2020-03-31,NorthDakota,Cass County,Outdoors & Recreation,18.0,"",18.0,8
-2020-03-31,NorthDakota,Cass County,Fast Food Restaurants,60.0,"",60.0,9
-2020-03-31,NorthDakota,Cass County,Big Box Stores,55.0,"",55.0,10
-2020-04-01,NorthDakota,Williams County,Food,48.0,"",48.0,1
-2020-04-01,NorthDakota,Williams County,Gas Stations,68.0,"",68.0,2
-2020-04-01,NorthDakota,Williams County,Shops & Services,62.0,"",62.0,3
-2020-04-01,NorthDakota,Burleigh County,Shops & Services,62.0,48.0,62.0,1
-2020-04-01,NorthDakota,Burleigh County,Food,36.0,"",36.0,2
-2020-04-01,NorthDakota,Burleigh County,Big Box Stores,77.0,"",77.0,3
-2020-04-01,NorthDakota,Burleigh County,Gas Stations,65.0,"",66.0,4
-2020-04-01,NorthDakota,Burleigh County,Medical,26.0,"",26.0,5
-2020-04-01,NorthDakota,Burleigh County,Grocery,83.0,"",83.0,6
-2020-04-01,NorthDakota,Burleigh County,Nightlife Spots,30.0,"",30.0,7
-2020-04-01,NorthDakota,Grand Forks County,Shops & Services,41.0,"",41.0,1
-2020-04-01,NorthDakota,Grand Forks County,Food,16.0,"",16.0,2
-2020-04-01,NorthDakota,Grand Forks County,Big Box Stores,81.0,"",81.0,3
-2020-04-01,NorthDakota,Grand Forks County,Gas Stations,58.0,"",57.0,4
-2020-04-01,NorthDakota,Ward County,Shops & Services,45.0,"",46.0,1
-2020-04-01,NorthDakota,Ward County,Food,21.0,"",21.0,2
-2020-04-01,NorthDakota,Ward County,Gas Stations,59.0,"",58.0,3
-2020-04-01,NorthDakota,Ward County,Nightlife Spots,28.0,"",28.0,4
-2020-04-01,NorthDakota,Cass County,Shops & Services,15.0,14.0,15.0,1
-2020-04-01,NorthDakota,Cass County,Food,20.0,"",20.0,2
-2020-04-01,NorthDakota,Cass County,Grocery,78.0,"",78.0,3
-2020-04-01,NorthDakota,Cass County,Gas Stations,60.0,"",60.0,4
-2020-04-01,NorthDakota,Cass County,Medical,28.0,"",28.0,5
-2020-04-01,NorthDakota,Cass County,Nightlife Spots,28.0,"",28.0,6
-2020-04-01,NorthDakota,Cass County,Big Box Stores,86.0,"",86.0,7
-2020-04-01,NorthDakota,Cass County,Professional & Other Places,10.0,"",10.0,8
-2020-04-01,NorthDakota,Cass County,Outdoors & Recreation,19.0,"",19.0,9
+2020-03-01,North Dakota,Richland County,Nightlife Spots,120.0,"",119.0,1
+2020-03-01,North Dakota,Ward County,Nightlife Spots,91.0,"",91.0,1
+2020-03-01,North Dakota,Ward County,Shops & Services,106.0,"",105.0,2
+2020-03-01,North Dakota,Ward County,Food,99.0,"",98.0,3
+2020-03-01,North Dakota,Ward County,Big Box Stores,110.0,"",109.0,4
+2020-03-01,North Dakota,Ward County,Hotel,135.0,"",134.0,5
+2020-03-01,North Dakota,Ward County,Gas Stations,94.0,"",94.0,6
+2020-03-01,North Dakota,Ward County,Fast Food Restaurants,116.0,"",116.0,7
+2020-03-01,North Dakota,Ward County,Grocery,103.0,"",104.0,8
+2020-03-01,North Dakota,Burleigh County,Food,96.0,90.0,96.0,1
+2020-03-01,North Dakota,Burleigh County,Shops & Services,100.0,"",100.0,2
+2020-03-01,North Dakota,Burleigh County,Nightlife Spots,74.0,"",74.0,3
+2020-03-01,North Dakota,Burleigh County,Big Box Stores,108.0,"",108.0,4
+2020-03-01,North Dakota,Burleigh County,Gas Stations,94.0,"",95.0,5
+2020-03-01,North Dakota,Burleigh County,Arts & Entertainment,61.0,"",61.0,6
+2020-03-01,North Dakota,Burleigh County,Fast Food Restaurants,90.0,"",91.0,7
+2020-03-01,North Dakota,Burleigh County,Grocery,80.0,"",81.0,8
+2020-03-01,North Dakota,Burleigh County,Hotel,61.0,"",61.0,9
+2020-03-01,North Dakota,Burleigh County,Hardware Stores,114.0,"",116.0,9
+2020-03-01,North Dakota,Morton County,Nightlife Spots,82.0,"",82.0,1
+2020-03-01,North Dakota,Cass County,Food,45.0,47.0,45.0,1
+2020-03-01,North Dakota,Cass County,Shops & Services,75.0,64.0,75.0,2
+2020-03-01,North Dakota,Cass County,Nightlife Spots,76.0,"",76.0,3
+2020-03-01,North Dakota,Cass County,Grocery,98.0,"",98.0,4
+2020-03-01,North Dakota,Cass County,Gas Stations,99.0,"",99.0,5
+2020-03-01,North Dakota,Cass County,Arts & Entertainment,87.0,"",87.0,6
+2020-03-01,North Dakota,Cass County,Big Box Stores,91.0,"",91.0,7
+2020-03-01,North Dakota,Cass County,Hotel,83.0,"",82.0,8
+2020-03-01,North Dakota,Cass County,Fast Food Restaurants,100.0,"",100.0,9
+2020-03-01,North Dakota,Cass County,Outdoors & Recreation,30.0,"",30.0,10
+2020-03-01,North Dakota,Cass County,Colleges & Universities,54.0,"",54.0,11
+2020-03-01,North Dakota,Cass County,Residences,107.0,"",107.0,12
+2020-03-01,North Dakota,Cass County,Medical,70.0,"",71.0,13
+2020-03-01,North Dakota,Cass County,Fitness Center,54.0,"",54.0,13
+2020-03-01,North Dakota,Cass County,School,56.0,"",56.0,14
+2020-03-01,North Dakota,Cass County,Sports,31.0,"",31.0,15
+2020-03-01,North Dakota,Cass County,Professional & Other Places,15.0,"",15.0,16
+2020-03-01,North Dakota,Cass County,Hardware Stores,117.0,"",117.0,17
+2020-03-01,North Dakota,Grand Forks County,Shops & Services,87.0,"",87.0,1
+2020-03-01,North Dakota,Grand Forks County,Nightlife Spots,94.0,"",95.0,2
+2020-03-01,North Dakota,Grand Forks County,Food,44.0,"",44.0,3
+2020-03-01,North Dakota,Grand Forks County,Colleges & Universities,129.0,"",129.0,4
+2020-03-01,North Dakota,Grand Forks County,Big Box Stores,96.0,"",96.0,5
+2020-03-01,North Dakota,Grand Forks County,Gas Stations,96.0,"",96.0,6
+2020-03-01,North Dakota,Grand Forks County,Fast Food Restaurants,93.0,"",93.0,7
+2020-03-01,North Dakota,Grand Forks County,Hotel,82.0,"",83.0,8
+2020-03-01,North Dakota,Williams County,Food,88.0,"",88.0,1
+2020-03-01,North Dakota,Williams County,Shops & Services,107.0,"",107.0,2
+2020-03-01,North Dakota,Williams County,Gas Stations,97.0,"",97.0,3
+2020-03-01,North Dakota,Stark County,Food,103.0,"",103.0,1
+2020-03-01,North Dakota,Stark County,Nightlife Spots,77.0,"",77.0,2
+2020-03-02,North Dakota,Burleigh County,Shops & Services,94.0,88.0,94.0,1
+2020-03-02,North Dakota,Burleigh County,Food,95.0,112.0,94.0,2
+2020-03-02,North Dakota,Burleigh County,Medical,49.0,"",49.0,3
+2020-03-02,North Dakota,Burleigh County,Nightlife Spots,78.0,"",78.0,4
+2020-03-02,North Dakota,Burleigh County,Big Box Stores,97.0,"",97.0,5
+2020-03-02,North Dakota,Burleigh County,Gas Stations,104.0,"",105.0,6
+2020-03-02,North Dakota,Burleigh County,School,60.0,"",59.0,7
+2020-03-02,North Dakota,Burleigh County,Grocery,114.0,"",114.0,8
+2020-03-02,North Dakota,Burleigh County,Fast Food Restaurants,88.0,"",87.0,9
+2020-03-02,North Dakota,Burleigh County,Outdoors & Recreation,36.0,"",36.0,10
+2020-03-02,North Dakota,Ward County,Shops & Services,87.0,115.0,87.0,1
+2020-03-02,North Dakota,Ward County,Food,43.0,49.0,43.0,2
+2020-03-02,North Dakota,Ward County,Nightlife Spots,71.0,"",70.0,3
+2020-03-02,North Dakota,Ward County,Gas Stations,94.0,"",93.0,4
+2020-03-02,North Dakota,Ward County,Medical,60.0,"",60.0,5
+2020-03-02,North Dakota,Ward County,Big Box Stores,100.0,"",99.0,6
+2020-03-02,North Dakota,Ward County,Hotel,103.0,"",103.0,7
+2020-03-02,North Dakota,Ward County,Fast Food Restaurants,91.0,"",91.0,8
+2020-03-02,North Dakota,Stark County,Shops & Services,26.0,"",26.0,1
+2020-03-02,North Dakota,Stark County,Food,101.0,"",102.0,2
+2020-03-02,North Dakota,Cass County,Shops & Services,26.0,31.0,26.0,1
+2020-03-02,North Dakota,Cass County,Food,41.0,39.0,41.0,2
+2020-03-02,North Dakota,Cass County,Nightlife Spots,77.0,"",77.0,3
+2020-03-02,North Dakota,Cass County,Medical,52.0,39.0,52.0,4
+2020-03-02,North Dakota,Cass County,Gas Stations,93.0,102.0,93.0,5
+2020-03-02,North Dakota,Cass County,Colleges & Universities,57.0,"",57.0,6
+2020-03-02,North Dakota,Cass County,Grocery,86.0,"",87.0,7
+2020-03-02,North Dakota,Cass County,School,66.0,"",65.0,8
+2020-03-02,North Dakota,Cass County,Professional & Other Places,15.0,"",15.0,9
+2020-03-02,North Dakota,Cass County,Fast Food Restaurants,89.0,"",89.0,10
+2020-03-02,North Dakota,Cass County,Fitness Center,64.0,"",64.0,11
+2020-03-02,North Dakota,Cass County,Outdoors & Recreation,29.0,"",29.0,12
+2020-03-02,North Dakota,Cass County,Office,102.0,"",100.0,13
+2020-03-02,North Dakota,Cass County,Big Box Stores,92.0,"",92.0,14
+2020-03-02,North Dakota,Cass County,Arts & Entertainment,89.0,"",88.0,15
+2020-03-02,North Dakota,Cass County,Residences,102.0,"",102.0,16
+2020-03-02,North Dakota,Cass County,Hotel,75.0,"",75.0,17
+2020-03-02,North Dakota,McKenzie County,Gas Stations,97.0,"",98.0,1
+2020-03-02,North Dakota,McKenzie County,Shops & Services,124.0,"",124.0,2
+2020-03-02,North Dakota,McKenzie County,Outdoors & Recreation,42.0,"",42.0,3
+2020-03-02,North Dakota,Williams County,Food,91.0,"",91.0,1
+2020-03-02,North Dakota,Williams County,Shops & Services,110.0,"",109.0,2
+2020-03-02,North Dakota,Williams County,Gas Stations,97.0,"",97.0,3
+2020-03-02,North Dakota,Morton County,Nightlife Spots,85.0,"",84.0,1
+2020-03-02,North Dakota,Grand Forks County,Shops & Services,73.0,72.0,73.0,1
+2020-03-02,North Dakota,Grand Forks County,Food,41.0,43.0,41.0,2
+2020-03-02,North Dakota,Grand Forks County,Colleges & Universities,101.0,"",101.0,3
+2020-03-02,North Dakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,4
+2020-03-02,North Dakota,Grand Forks County,Big Box Stores,97.0,"",96.0,5
+2020-03-02,North Dakota,Grand Forks County,Gas Stations,90.0,"",90.0,6
+2020-03-02,North Dakota,Grand Forks County,Medical,53.0,"",53.0,7
+2020-03-02,North Dakota,Grand Forks County,School,58.0,"",58.0,8
+2020-03-02,North Dakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,9
+2020-03-02,North Dakota,Grand Forks County,Fast Food Restaurants,81.0,"",80.0,10
+2020-03-03,North Dakota,Mountrail County,Gas Stations,111.0,"",111.0,1
+2020-03-03,North Dakota,McKenzie County,Gas Stations,96.0,"",96.0,1
+2020-03-03,North Dakota,McKenzie County,Shops & Services,113.0,"",113.0,2
+2020-03-03,North Dakota,McKenzie County,Professional & Other Places,29.0,"",29.0,3
+2020-03-03,North Dakota,Ward County,Shops & Services,89.0,82.0,89.0,1
+2020-03-03,North Dakota,Ward County,Food,43.0,"",43.0,2
+2020-03-03,North Dakota,Ward County,Nightlife Spots,74.0,"",73.0,3
+2020-03-03,North Dakota,Ward County,Gas Stations,97.0,"",97.0,4
+2020-03-03,North Dakota,Ward County,Medical,50.0,"",50.0,5
+2020-03-03,North Dakota,Ward County,Hotel,120.0,"",119.0,6
+2020-03-03,North Dakota,Ward County,Big Box Stores,104.0,"",102.0,7
+2020-03-03,North Dakota,Ward County,School,55.0,"",54.0,8
+2020-03-03,North Dakota,Ward County,Fast Food Restaurants,101.0,"",101.0,9
+2020-03-03,North Dakota,Stark County,Shops & Services,24.0,"",24.0,1
+2020-03-03,North Dakota,Stark County,Food,102.0,"",103.0,2
+2020-03-03,North Dakota,Williams County,Food,84.0,"",85.0,1
+2020-03-03,North Dakota,Williams County,Gas Stations,113.0,"",113.0,2
+2020-03-03,North Dakota,Williams County,Shops & Services,108.0,"",108.0,3
+2020-03-03,North Dakota,Burleigh County,Shops & Services,101.0,90.0,102.0,1
+2020-03-03,North Dakota,Burleigh County,Food,98.0,93.0,98.0,2
+2020-03-03,North Dakota,Burleigh County,Medical,56.0,"",56.0,3
+2020-03-03,North Dakota,Burleigh County,Nightlife Spots,80.0,"",81.0,4
+2020-03-03,North Dakota,Burleigh County,Gas Stations,89.0,"",89.0,5
+2020-03-03,North Dakota,Burleigh County,Big Box Stores,89.0,"",90.0,6
+2020-03-03,North Dakota,Burleigh County,School,50.0,"",50.0,7
+2020-03-03,North Dakota,Burleigh County,Grocery,104.0,"",104.0,8
+2020-03-03,North Dakota,Burleigh County,Fast Food Restaurants,85.0,"",85.0,9
+2020-03-03,North Dakota,Burleigh County,Professional & Other Places,12.0,"",12.0,10
+2020-03-03,North Dakota,Burleigh County,Hotel,90.0,"",91.0,11
+2020-03-03,North Dakota,Cass County,Shops & Services,29.0,28.0,29.0,1
+2020-03-03,North Dakota,Cass County,Food,43.0,49.0,43.0,2
+2020-03-03,North Dakota,Cass County,Nightlife Spots,74.0,86.0,74.0,3
+2020-03-03,North Dakota,Cass County,Medical,58.0,52.0,58.0,4
+2020-03-03,North Dakota,Cass County,Colleges & Universities,97.0,"",97.0,5
+2020-03-03,North Dakota,Cass County,Gas Stations,90.0,"",91.0,6
+2020-03-03,North Dakota,Cass County,Grocery,96.0,"",97.0,7
+2020-03-03,North Dakota,Cass County,School,50.0,"",49.0,8
+2020-03-03,North Dakota,Cass County,Professional & Other Places,14.0,"",14.0,9
+2020-03-03,North Dakota,Cass County,Fitness Center,55.0,"",55.0,10
+2020-03-03,North Dakota,Cass County,Fast Food Restaurants,100.0,"",100.0,11
+2020-03-03,North Dakota,Cass County,Office,94.0,"",94.0,12
+2020-03-03,North Dakota,Cass County,Big Box Stores,93.0,"",93.0,13
+2020-03-03,North Dakota,Cass County,Outdoors & Recreation,27.0,"",27.0,14
+2020-03-03,North Dakota,Cass County,Hotel,82.0,"",82.0,15
+2020-03-03,North Dakota,Cass County,Arts & Entertainment,69.0,"",69.0,16
+2020-03-03,North Dakota,Cass County,Residences,105.0,"",106.0,17
+2020-03-03,North Dakota,Cass County,Hardware Stores,105.0,"",105.0,18
+2020-03-03,North Dakota,Morton County,Nightlife Spots,86.0,"",86.0,1
+2020-03-03,North Dakota,Grand Forks County,Shops & Services,71.0,77.0,71.0,1
+2020-03-03,North Dakota,Grand Forks County,Food,40.0,49.0,40.0,2
+2020-03-03,North Dakota,Grand Forks County,Colleges & Universities,90.0,"",90.0,3
+2020-03-03,North Dakota,Grand Forks County,Nightlife Spots,76.0,"",77.0,4
+2020-03-03,North Dakota,Grand Forks County,Gas Stations,82.0,"",82.0,5
+2020-03-03,North Dakota,Grand Forks County,Big Box Stores,85.0,"",86.0,6
+2020-03-03,North Dakota,Grand Forks County,School,55.0,"",55.0,7
+2020-03-03,North Dakota,Grand Forks County,Medical,43.0,"",42.0,8
+2020-03-03,North Dakota,Grand Forks County,Fast Food Restaurants,99.0,"",100.0,9
+2020-03-03,North Dakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,10
+2020-03-04,North Dakota,Ward County,Shops & Services,100.0,106.0,100.0,1
+2020-03-04,North Dakota,Ward County,Food,47.0,47.0,47.0,2
+2020-03-04,North Dakota,Ward County,Nightlife Spots,80.0,"",80.0,3
+2020-03-04,North Dakota,Ward County,Gas Stations,92.0,"",92.0,4
+2020-03-04,North Dakota,Ward County,Medical,49.0,"",48.0,5
+2020-03-04,North Dakota,Ward County,Big Box Stores,106.0,"",105.0,6
+2020-03-04,North Dakota,Ward County,Fast Food Restaurants,107.0,"",106.0,7
+2020-03-04,North Dakota,Ward County,Hotel,100.0,"",100.0,8
+2020-03-04,North Dakota,Williams County,Food,92.0,"",93.0,1
+2020-03-04,North Dakota,Williams County,Shops & Services,116.0,"",116.0,2
+2020-03-04,North Dakota,Williams County,Gas Stations,105.0,"",104.0,3
+2020-03-04,North Dakota,Cass County,Shops & Services,34.0,35.0,34.0,1
+2020-03-04,North Dakota,Cass County,Food,46.0,48.0,46.0,2
+2020-03-04,North Dakota,Cass County,Nightlife Spots,81.0,"",81.0,3
+2020-03-04,North Dakota,Cass County,Medical,61.0,48.0,62.0,4
+2020-03-04,North Dakota,Cass County,Colleges & Universities,60.0,"",60.0,5
+2020-03-04,North Dakota,Cass County,Gas Stations,95.0,"",95.0,6
+2020-03-04,North Dakota,Cass County,Grocery,92.0,"",91.0,7
+2020-03-04,North Dakota,Cass County,Professional & Other Places,16.0,"",16.0,8
+2020-03-04,North Dakota,Cass County,Fast Food Restaurants,105.0,"",105.0,9
+2020-03-04,North Dakota,Cass County,School,53.0,"",53.0,10
+2020-03-04,North Dakota,Cass County,Hotel,97.0,"",98.0,11
+2020-03-04,North Dakota,Cass County,Fitness Center,56.0,"",56.0,12
+2020-03-04,North Dakota,Cass County,Arts & Entertainment,92.0,"",92.0,13
+2020-03-04,North Dakota,Cass County,Big Box Stores,109.0,"",109.0,14
+2020-03-04,North Dakota,Cass County,Office,114.0,"",114.0,15
+2020-03-04,North Dakota,Cass County,Outdoors & Recreation,27.0,"",27.0,16
+2020-03-04,North Dakota,Cass County,Residences,98.0,"",98.0,17
+2020-03-04,North Dakota,Stark County,Food,113.0,"",113.0,1
+2020-03-04,North Dakota,Stark County,Shops & Services,23.0,"",23.0,2
+2020-03-04,North Dakota,Grand Forks County,Shops & Services,75.0,73.0,75.0,1
+2020-03-04,North Dakota,Grand Forks County,Food,40.0,51.0,40.0,2
+2020-03-04,North Dakota,Grand Forks County,Colleges & Universities,89.0,"",89.0,3
+2020-03-04,North Dakota,Grand Forks County,Nightlife Spots,76.0,"",76.0,4
+2020-03-04,North Dakota,Grand Forks County,Gas Stations,93.0,"",93.0,5
+2020-03-04,North Dakota,Grand Forks County,Medical,58.0,"",57.0,6
+2020-03-04,North Dakota,Grand Forks County,Big Box Stores,104.0,"",102.0,7
+2020-03-04,North Dakota,Grand Forks County,Professional & Other Places,17.0,"",17.0,8
+2020-03-04,North Dakota,Grand Forks County,School,50.0,"",50.0,9
+2020-03-04,North Dakota,Grand Forks County,Fast Food Restaurants,103.0,"",104.0,10
+2020-03-04,North Dakota,McKenzie County,Gas Stations,99.0,"",99.0,1
+2020-03-04,North Dakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,2
+2020-03-04,North Dakota,McKenzie County,Shops & Services,105.0,"",104.0,3
+2020-03-04,North Dakota,Morton County,Nightlife Spots,113.0,"",113.0,1
+2020-03-04,North Dakota,Burleigh County,Shops & Services,98.0,94.0,98.0,1
+2020-03-04,North Dakota,Burleigh County,Food,94.0,96.0,94.0,2
+2020-03-04,North Dakota,Burleigh County,Nightlife Spots,76.0,"",76.0,3
+2020-03-04,North Dakota,Burleigh County,Medical,48.0,"",48.0,4
+2020-03-04,North Dakota,Burleigh County,Gas Stations,94.0,"",94.0,5
+2020-03-04,North Dakota,Burleigh County,Big Box Stores,92.0,"",92.0,6
+2020-03-04,North Dakota,Burleigh County,Fast Food Restaurants,114.0,"",114.0,7
+2020-03-04,North Dakota,Burleigh County,School,47.0,"",47.0,8
+2020-03-04,North Dakota,Burleigh County,Grocery,102.0,"",103.0,9
+2020-03-04,North Dakota,Burleigh County,Hotel,86.0,"",86.0,10
+2020-03-04,North Dakota,Burleigh County,Professional & Other Places,11.0,"",11.0,11
+2020-03-04,North Dakota,Burleigh County,Outdoors & Recreation,114.0,"",114.0,12
+2020-03-05,North Dakota,Williams County,Food,102.0,"",102.0,1
+2020-03-05,North Dakota,Williams County,Shops & Services,105.0,"",104.0,2
+2020-03-05,North Dakota,Williams County,Gas Stations,99.0,"",99.0,3
+2020-03-05,North Dakota,Morton County,Nightlife Spots,101.0,"",101.0,1
+2020-03-05,North Dakota,Stark County,Food,103.0,"",102.0,1
+2020-03-05,North Dakota,Stark County,Shops & Services,23.0,"",23.0,2
+2020-03-05,North Dakota,Stark County,Nightlife Spots,97.0,"",97.0,3
+2020-03-05,North Dakota,Ward County,Shops & Services,104.0,98.0,105.0,1
+2020-03-05,North Dakota,Ward County,Food,48.0,48.0,48.0,2
+2020-03-05,North Dakota,Ward County,Nightlife Spots,81.0,"",81.0,3
+2020-03-05,North Dakota,Ward County,Medical,69.0,"",70.0,4
+2020-03-05,North Dakota,Ward County,Gas Stations,90.0,"",89.0,5
+2020-03-05,North Dakota,Ward County,Fast Food Restaurants,98.0,"",99.0,6
+2020-03-05,North Dakota,Ward County,Big Box Stores,85.0,"",86.0,7
+2020-03-05,North Dakota,Ward County,School,56.0,"",56.0,8
+2020-03-05,North Dakota,Grand Forks County,Shops & Services,80.0,72.0,80.0,1
+2020-03-05,North Dakota,Grand Forks County,Food,40.0,"",40.0,2
+2020-03-05,North Dakota,Grand Forks County,Colleges & Universities,90.0,"",90.0,3
+2020-03-05,North Dakota,Grand Forks County,Nightlife Spots,74.0,"",75.0,4
+2020-03-05,North Dakota,Grand Forks County,School,67.0,"",68.0,5
+2020-03-05,North Dakota,Grand Forks County,Gas Stations,84.0,"",85.0,6
+2020-03-05,North Dakota,Grand Forks County,Big Box Stores,86.0,"",86.0,7
+2020-03-05,North Dakota,Grand Forks County,Medical,48.0,"",48.0,8
+2020-03-05,North Dakota,Grand Forks County,Fast Food Restaurants,98.0,"",99.0,9
+2020-03-05,North Dakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,10
+2020-03-05,North Dakota,McKenzie County,Gas Stations,98.0,"",97.0,1
+2020-03-05,North Dakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,2
+2020-03-05,North Dakota,McKenzie County,Professional & Other Places,30.0,"",30.0,2
+2020-03-05,North Dakota,Burleigh County,Shops & Services,111.0,92.0,112.0,1
+2020-03-05,North Dakota,Burleigh County,Food,99.0,105.0,99.0,2
+2020-03-05,North Dakota,Burleigh County,Nightlife Spots,70.0,"",71.0,3
+2020-03-05,North Dakota,Burleigh County,Medical,53.0,76.0,52.0,4
+2020-03-05,North Dakota,Burleigh County,Gas Stations,106.0,"",106.0,5
+2020-03-05,North Dakota,Burleigh County,Big Box Stores,98.0,"",98.0,6
+2020-03-05,North Dakota,Burleigh County,School,48.0,"",48.0,7
+2020-03-05,North Dakota,Burleigh County,Fast Food Restaurants,114.0,"",114.0,7
+2020-03-05,North Dakota,Burleigh County,Hotel,113.0,"",113.0,8
+2020-03-05,North Dakota,Burleigh County,Grocery,106.0,"",106.0,9
+2020-03-05,North Dakota,Burleigh County,Arts & Entertainment,119.0,"",119.0,10
+2020-03-05,North Dakota,Burleigh County,Professional & Other Places,13.0,"",13.0,11
+2020-03-05,North Dakota,Burleigh County,Outdoors & Recreation,37.0,"",38.0,12
+2020-03-05,North Dakota,Cass County,Shops & Services,29.0,23.0,30.0,1
+2020-03-05,North Dakota,Cass County,Food,43.0,47.0,43.0,2
+2020-03-05,North Dakota,Cass County,Nightlife Spots,79.0,79.0,79.0,3
+2020-03-05,North Dakota,Cass County,Medical,55.0,51.0,55.0,4
+2020-03-05,North Dakota,Cass County,Gas Stations,95.0,"",95.0,5
+2020-03-05,North Dakota,Cass County,Colleges & Universities,51.0,"",51.0,6
+2020-03-05,North Dakota,Cass County,Grocery,96.0,"",97.0,7
+2020-03-05,North Dakota,Cass County,Professional & Other Places,17.0,21.0,17.0,8
+2020-03-05,North Dakota,Cass County,Fast Food Restaurants,104.0,"",104.0,9
+2020-03-05,North Dakota,Cass County,Fitness Center,62.0,"",62.0,10
+2020-03-05,North Dakota,Cass County,School,45.0,"",45.0,11
+2020-03-05,North Dakota,Cass County,Office,100.0,"",101.0,12
+2020-03-05,North Dakota,Cass County,Big Box Stores,106.0,"",106.0,13
+2020-03-05,North Dakota,Cass County,Outdoors & Recreation,25.0,"",25.0,14
+2020-03-05,North Dakota,Cass County,Hotel,70.0,"",71.0,15
+2020-03-05,North Dakota,Cass County,Arts & Entertainment,114.0,"",113.0,16
+2020-03-05,North Dakota,Cass County,Residences,103.0,"",102.0,17
+2020-03-06,North Dakota,Cass County,Shops & Services,66.0,83.0,66.0,1
+2020-03-06,North Dakota,Cass County,Food,39.0,39.0,39.0,2
+2020-03-06,North Dakota,Cass County,Nightlife Spots,75.0,69.0,75.0,3
+2020-03-06,North Dakota,Cass County,Gas Stations,92.0,140.0,90.0,4
+2020-03-06,North Dakota,Cass County,Colleges & Universities,47.0,"",47.0,5
+2020-03-06,North Dakota,Cass County,Grocery,94.0,130.0,93.0,6
+2020-03-06,North Dakota,Cass County,Medical,49.0,46.0,49.0,7
+2020-03-06,North Dakota,Cass County,Fast Food Restaurants,96.0,"",96.0,8
+2020-03-06,North Dakota,Cass County,Big Box Stores,98.0,"",98.0,9
+2020-03-06,North Dakota,Cass County,Professional & Other Places,15.0,"",15.0,10
+2020-03-06,North Dakota,Cass County,Hotel,75.0,"",75.0,11
+2020-03-06,North Dakota,Cass County,Outdoors & Recreation,28.0,"",28.0,12
+2020-03-06,North Dakota,Cass County,School,41.0,"",40.0,13
+2020-03-06,North Dakota,Cass County,Arts & Entertainment,62.0,"",62.0,14
+2020-03-06,North Dakota,Cass County,Fitness Center,48.0,"",47.0,15
+2020-03-06,North Dakota,Cass County,Office,95.0,"",94.0,16
+2020-03-06,North Dakota,Cass County,Residences,88.0,"",89.0,17
+2020-03-06,North Dakota,Cass County,Airport,71.0,"",71.0,18
+2020-03-06,North Dakota,Cass County,Hardware Stores,91.0,"",90.0,19
+2020-03-06,North Dakota,Ward County,Shops & Services,103.0,90.0,103.0,1
+2020-03-06,North Dakota,Ward County,Food,43.0,42.0,43.0,2
+2020-03-06,North Dakota,Ward County,Nightlife Spots,79.0,88.0,79.0,3
+2020-03-06,North Dakota,Ward County,Gas Stations,91.0,"",91.0,4
+2020-03-06,North Dakota,Ward County,Medical,64.0,"",65.0,5
+2020-03-06,North Dakota,Ward County,Big Box Stores,96.0,"",97.0,6
+2020-03-06,North Dakota,Ward County,Fast Food Restaurants,98.0,"",98.0,7
+2020-03-06,North Dakota,Ward County,School,49.0,"",49.0,8
+2020-03-06,North Dakota,McKenzie County,Gas Stations,86.0,"",86.0,1
+2020-03-06,North Dakota,McKenzie County,Shops & Services,105.0,"",104.0,2
+2020-03-06,North Dakota,McKenzie County,Professional & Other Places,34.0,"",33.0,3
+2020-03-06,North Dakota,Morton County,Nightlife Spots,74.0,"",74.0,1
+2020-03-06,North Dakota,Morton County,Arts & Entertainment,137.0,"",137.0,2
+2020-03-06,North Dakota,Grand Forks County,Shops & Services,79.0,53.0,80.0,1
+2020-03-06,North Dakota,Grand Forks County,Food,43.0,34.0,43.0,2
+2020-03-06,North Dakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,3
+2020-03-06,North Dakota,Grand Forks County,Colleges & Universities,74.0,"",74.0,4
+2020-03-06,North Dakota,Grand Forks County,Gas Stations,94.0,"",94.0,5
+2020-03-06,North Dakota,Grand Forks County,School,68.0,"",69.0,6
+2020-03-06,North Dakota,Grand Forks County,Big Box Stores,81.0,"",82.0,7
+2020-03-06,North Dakota,Grand Forks County,Fast Food Restaurants,110.0,"",110.0,8
+2020-03-06,North Dakota,Grand Forks County,Medical,42.0,"",42.0,9
+2020-03-06,North Dakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,10
+2020-03-06,North Dakota,Grand Forks County,Grocery,98.0,"",99.0,11
+2020-03-06,North Dakota,Stark County,Food,104.0,"",104.0,1
+2020-03-06,North Dakota,Stark County,Shops & Services,114.0,"",114.0,2
+2020-03-06,North Dakota,Stark County,Nightlife Spots,59.0,"",58.0,3
+2020-03-06,North Dakota,Williams County,Food,82.0,"",82.0,1
+2020-03-06,North Dakota,Williams County,Shops & Services,116.0,"",116.0,2
+2020-03-06,North Dakota,Williams County,Gas Stations,107.0,"",107.0,3
+2020-03-06,North Dakota,Burleigh County,Food,106.0,84.0,106.0,1
+2020-03-06,North Dakota,Burleigh County,Shops & Services,107.0,119.0,107.0,2
+2020-03-06,North Dakota,Burleigh County,Hotel,186.0,"",189.0,3
+2020-03-06,North Dakota,Burleigh County,Nightlife Spots,71.0,"",71.0,4
+2020-03-06,North Dakota,Burleigh County,Big Box Stores,103.0,"",102.0,5
+2020-03-06,North Dakota,Burleigh County,Gas Stations,103.0,"",103.0,6
+2020-03-06,North Dakota,Burleigh County,Medical,54.0,"",54.0,7
+2020-03-06,North Dakota,Burleigh County,Fast Food Restaurants,116.0,"",116.0,8
+2020-03-06,North Dakota,Burleigh County,Arts & Entertainment,105.0,"",105.0,9
+2020-03-06,North Dakota,Burleigh County,School,43.0,"",43.0,10
+2020-03-06,North Dakota,Burleigh County,Grocery,100.0,"",101.0,11
+2020-03-06,North Dakota,Burleigh County,Professional & Other Places,15.0,"",14.0,12
+2020-03-06,North Dakota,Burleigh County,Hardware Stores,121.0,"",122.0,13
+2020-03-06,North Dakota,Burleigh County,Outdoors & Recreation,113.0,"",114.0,14
+2020-03-07,North Dakota,Stutsman County,Food,51.0,"",52.0,1
+2020-03-07,North Dakota,Morton County,Nightlife Spots,71.0,"",71.0,1
+2020-03-07,North Dakota,Morton County,Arts & Entertainment,112.0,"",112.0,2
+2020-03-07,North Dakota,Grand Forks County,Shops & Services,79.0,70.0,79.0,1
+2020-03-07,North Dakota,Grand Forks County,Food,42.0,"",42.0,2
+2020-03-07,North Dakota,Grand Forks County,Nightlife Spots,64.0,"",64.0,3
+2020-03-07,North Dakota,Grand Forks County,Big Box Stores,91.0,"",91.0,4
+2020-03-07,North Dakota,Grand Forks County,Arts & Entertainment,48.0,"",48.0,5
+2020-03-07,North Dakota,Grand Forks County,Gas Stations,96.0,"",96.0,6
+2020-03-07,North Dakota,Grand Forks County,Fast Food Restaurants,97.0,"",97.0,7
+2020-03-07,North Dakota,Grand Forks County,Colleges & Universities,64.0,"",64.0,8
+2020-03-07,North Dakota,Grand Forks County,Hotel,88.0,"",88.0,9
+2020-03-07,North Dakota,Grand Forks County,Grocery,97.0,"",98.0,10
+2020-03-07,North Dakota,Grand Forks County,Hardware Stores,94.0,"",95.0,11
+2020-03-07,North Dakota,Stark County,Food,89.0,"",90.0,1
+2020-03-07,North Dakota,Stark County,Shops & Services,23.0,"",23.0,2
+2020-03-07,North Dakota,Stark County,Nightlife Spots,60.0,"",60.0,3
+2020-03-07,North Dakota,Cass County,Shops & Services,32.0,28.0,32.0,1
+2020-03-07,North Dakota,Cass County,Food,40.0,40.0,40.0,2
+2020-03-07,North Dakota,Cass County,Nightlife Spots,77.0,76.0,77.0,3
+2020-03-07,North Dakota,Cass County,Gas Stations,90.0,"",90.0,4
+2020-03-07,North Dakota,Cass County,Grocery,86.0,98.0,85.0,5
+2020-03-07,North Dakota,Cass County,Fast Food Restaurants,104.0,"",105.0,6
+2020-03-07,North Dakota,Cass County,Colleges & Universities,67.0,"",67.0,7
+2020-03-07,North Dakota,Cass County,Big Box Stores,92.0,"",93.0,8
+2020-03-07,North Dakota,Cass County,Hotel,72.0,"",72.0,9
+2020-03-07,North Dakota,Cass County,Arts & Entertainment,65.0,"",65.0,10
+2020-03-07,North Dakota,Cass County,Outdoors & Recreation,31.0,"",31.0,11
+2020-03-07,North Dakota,Cass County,Residences,106.0,"",106.0,12
+2020-03-07,North Dakota,Cass County,Fitness Center,53.0,"",53.0,13
+2020-03-07,North Dakota,Cass County,Medical,57.0,"",58.0,14
+2020-03-07,North Dakota,Cass County,Professional & Other Places,18.0,"",18.0,14
+2020-03-07,North Dakota,Cass County,Hardware Stores,97.0,"",97.0,15
+2020-03-07,North Dakota,Cass County,Sports,28.0,"",28.0,16
+2020-03-07,North Dakota,Cass County,School,39.0,"",39.0,17
+2020-03-07,North Dakota,Williams County,Food,93.0,"",93.0,1
+2020-03-07,North Dakota,Williams County,Shops & Services,112.0,"",112.0,2
+2020-03-07,North Dakota,Williams County,Gas Stations,110.0,"",110.0,3
+2020-03-07,North Dakota,Ward County,Shops & Services,99.0,111.0,99.0,1
+2020-03-07,North Dakota,Ward County,Food,42.0,"",42.0,2
+2020-03-07,North Dakota,Ward County,Nightlife Spots,79.0,"",79.0,3
+2020-03-07,North Dakota,Ward County,Arts & Entertainment,155.0,"",155.0,4
+2020-03-07,North Dakota,Ward County,Fast Food Restaurants,119.0,"",119.0,5
+2020-03-07,North Dakota,Ward County,Gas Stations,99.0,"",97.0,6
+2020-03-07,North Dakota,Ward County,Big Box Stores,87.0,"",88.0,7
+2020-03-07,North Dakota,Ward County,Hotel,73.0,"",73.0,8
+2020-03-07,North Dakota,Ward County,School,71.0,"",71.0,9
+2020-03-07,North Dakota,Ward County,Hardware Stores,107.0,"",107.0,10
+2020-03-07,North Dakota,Barnes County,Gas Stations,302.0,"",302.0,1
+2020-03-07,North Dakota,Burleigh County,Shops & Services,100.0,95.0,100.0,1
+2020-03-07,North Dakota,Burleigh County,Food,93.0,89.0,94.0,2
+2020-03-07,North Dakota,Burleigh County,Hotel,183.0,"",184.0,3
+2020-03-07,North Dakota,Burleigh County,Nightlife Spots,79.0,"",79.0,4
+2020-03-07,North Dakota,Burleigh County,Big Box Stores,95.0,"",94.0,5
+2020-03-07,North Dakota,Burleigh County,Gas Stations,106.0,"",107.0,6
+2020-03-07,North Dakota,Burleigh County,Arts & Entertainment,86.0,"",86.0,7
+2020-03-07,North Dakota,Burleigh County,Fast Food Restaurants,117.0,"",116.0,8
+2020-03-07,North Dakota,Burleigh County,Outdoors & Recreation,48.0,"",48.0,9
+2020-03-07,North Dakota,Burleigh County,Hardware Stores,106.0,"",106.0,10
+2020-03-07,North Dakota,Burleigh County,Grocery,90.0,"",91.0,11
+2020-03-08,North Dakota,Burleigh County,Food,105.0,118.0,105.0,1
+2020-03-08,North Dakota,Burleigh County,Shops & Services,101.0,"",102.0,2
+2020-03-08,North Dakota,Burleigh County,Hotel,163.0,"",164.0,3
+2020-03-08,North Dakota,Burleigh County,Nightlife Spots,62.0,"",62.0,4
+2020-03-08,North Dakota,Burleigh County,Big Box Stores,99.0,"",100.0,5
+2020-03-08,North Dakota,Burleigh County,Gas Stations,105.0,"",106.0,6
+2020-03-08,North Dakota,Burleigh County,Arts & Entertainment,80.0,"",80.0,7
+2020-03-08,North Dakota,Burleigh County,Fast Food Restaurants,115.0,"",114.0,8
+2020-03-08,North Dakota,Burleigh County,Grocery,95.0,"",97.0,9
+2020-03-08,North Dakota,Burleigh County,Outdoors & Recreation,38.0,"",38.0,10
+2020-03-08,North Dakota,Ward County,Food,44.0,"",44.0,1
+2020-03-08,North Dakota,Ward County,Shops & Services,94.0,"",94.0,2
+2020-03-08,North Dakota,Ward County,Nightlife Spots,74.0,"",74.0,3
+2020-03-08,North Dakota,Ward County,Big Box Stores,105.0,"",105.0,4
+2020-03-08,North Dakota,Ward County,Gas Stations,95.0,"",95.0,5
+2020-03-08,North Dakota,Ward County,Fast Food Restaurants,103.0,"",103.0,6
+2020-03-08,North Dakota,Ward County,Hotel,97.0,"",97.0,7
+2020-03-08,North Dakota,Stark County,Food,100.0,"",99.0,1
+2020-03-08,North Dakota,Williams County,Food,99.0,"",99.0,1
+2020-03-08,North Dakota,Williams County,Shops & Services,118.0,"",118.0,2
+2020-03-08,North Dakota,Williams County,Gas Stations,87.0,"",87.0,3
+2020-03-08,North Dakota,Morton County,Nightlife Spots,88.0,"",88.0,1
+2020-03-08,North Dakota,Morton County,Arts & Entertainment,107.0,"",106.0,2
+2020-03-08,North Dakota,Grand Forks County,Food,46.0,"",46.0,1
+2020-03-08,North Dakota,Grand Forks County,Shops & Services,72.0,"",72.0,2
+2020-03-08,North Dakota,Grand Forks County,Nightlife Spots,61.0,"",61.0,3
+2020-03-08,North Dakota,Grand Forks County,Big Box Stores,97.0,"",98.0,4
+2020-03-08,North Dakota,Grand Forks County,Gas Stations,90.0,"",91.0,5
+2020-03-08,North Dakota,Grand Forks County,Fast Food Restaurants,91.0,"",91.0,6
+2020-03-08,North Dakota,Grand Forks County,Arts & Entertainment,51.0,"",51.0,7
+2020-03-08,North Dakota,Grand Forks County,Colleges & Universities,62.0,"",63.0,8
+2020-03-08,North Dakota,Cass County,Food,40.0,36.0,40.0,1
+2020-03-08,North Dakota,Cass County,Shops & Services,69.0,68.0,69.0,2
+2020-03-08,North Dakota,Cass County,Nightlife Spots,72.0,"",72.0,3
+2020-03-08,North Dakota,Cass County,Grocery,100.0,"",100.0,4
+2020-03-08,North Dakota,Cass County,Gas Stations,88.0,"",88.0,5
+2020-03-08,North Dakota,Cass County,Big Box Stores,90.0,"",90.0,6
+2020-03-08,North Dakota,Cass County,Fast Food Restaurants,109.0,"",108.0,7
+2020-03-08,North Dakota,Cass County,Arts & Entertainment,78.0,"",79.0,8
+2020-03-08,North Dakota,Cass County,Hotel,76.0,"",76.0,9
+2020-03-08,North Dakota,Cass County,Outdoors & Recreation,31.0,"",31.0,10
+2020-03-08,North Dakota,Cass County,Colleges & Universities,61.0,"",61.0,11
+2020-03-08,North Dakota,Cass County,Medical,84.0,"",84.0,12
+2020-03-08,North Dakota,Cass County,Residences,100.0,"",100.0,13
+2020-03-08,North Dakota,Cass County,Fitness Center,53.0,"",53.0,14
+2020-03-08,North Dakota,Cass County,Professional & Other Places,16.0,"",16.0,15
+2020-03-08,North Dakota,Cass County,Hardware Stores,136.0,"",135.0,15
+2020-03-08,North Dakota,Cass County,School,49.0,"",48.0,16
+2020-03-08,North Dakota,Cass County,Sports,30.0,"",30.0,17
+2020-03-09,North Dakota,Cass County,Shops & Services,74.0,91.0,73.0,1
+2020-03-09,North Dakota,Cass County,Food,41.0,41.0,41.0,2
+2020-03-09,North Dakota,Cass County,Nightlife Spots,77.0,99.0,77.0,3
+2020-03-09,North Dakota,Cass County,Medical,52.0,42.0,52.0,4
+2020-03-09,North Dakota,Cass County,Gas Stations,86.0,"",86.0,5
+2020-03-09,North Dakota,Cass County,Colleges & Universities,48.0,"",48.0,6
+2020-03-09,North Dakota,Cass County,Grocery,85.0,"",86.0,7
+2020-03-09,North Dakota,Cass County,Professional & Other Places,17.0,"",17.0,8
+2020-03-09,North Dakota,Cass County,School,57.0,"",56.0,9
+2020-03-09,North Dakota,Cass County,Fast Food Restaurants,85.0,"",85.0,10
+2020-03-09,North Dakota,Cass County,Fitness Center,55.0,"",56.0,11
+2020-03-09,North Dakota,Cass County,Big Box Stores,88.0,"",87.0,12
+2020-03-09,North Dakota,Cass County,Outdoors & Recreation,25.0,"",25.0,13
+2020-03-09,North Dakota,Cass County,Office,90.0,"",89.0,14
+2020-03-09,North Dakota,Cass County,Hotel,82.0,"",82.0,15
+2020-03-09,North Dakota,Cass County,Arts & Entertainment,79.0,"",78.0,16
+2020-03-09,North Dakota,Cass County,Residences,77.0,"",78.0,17
+2020-03-09,North Dakota,Morton County,Nightlife Spots,78.0,"",78.0,1
+2020-03-09,North Dakota,McKenzie County,Gas Stations,89.0,"",89.0,1
+2020-03-09,North Dakota,Ward County,Shops & Services,86.0,104.0,85.0,1
+2020-03-09,North Dakota,Ward County,Food,41.0,47.0,41.0,2
+2020-03-09,North Dakota,Ward County,Nightlife Spots,60.0,"",60.0,3
+2020-03-09,North Dakota,Ward County,Gas Stations,90.0,"",91.0,4
+2020-03-09,North Dakota,Ward County,Medical,55.0,"",55.0,5
+2020-03-09,North Dakota,Ward County,Fast Food Restaurants,104.0,"",104.0,6
+2020-03-09,North Dakota,Ward County,Big Box Stores,98.0,"",97.0,7
+2020-03-09,North Dakota,Mountrail County,Gas Stations,106.0,"",106.0,1
+2020-03-09,North Dakota,Grand Forks County,Shops & Services,69.0,75.0,69.0,1
+2020-03-09,North Dakota,Grand Forks County,Food,41.0,"",41.0,2
+2020-03-09,North Dakota,Grand Forks County,Colleges & Universities,109.0,"",109.0,3
+2020-03-09,North Dakota,Grand Forks County,Nightlife Spots,84.0,"",84.0,4
+2020-03-09,North Dakota,Grand Forks County,Medical,60.0,"",60.0,5
+2020-03-09,North Dakota,Grand Forks County,Big Box Stores,96.0,"",96.0,6
+2020-03-09,North Dakota,Grand Forks County,Gas Stations,92.0,"",93.0,7
+2020-03-09,North Dakota,Grand Forks County,School,59.0,"",59.0,8
+2020-03-09,North Dakota,Grand Forks County,Professional & Other Places,17.0,"",17.0,9
+2020-03-09,North Dakota,Grand Forks County,Fast Food Restaurants,90.0,"",90.0,10
+2020-03-09,North Dakota,Burleigh County,Shops & Services,96.0,93.0,96.0,1
+2020-03-09,North Dakota,Burleigh County,Food,96.0,104.0,96.0,2
+2020-03-09,North Dakota,Burleigh County,Medical,53.0,58.0,53.0,3
+2020-03-09,North Dakota,Burleigh County,Big Box Stores,103.0,"",103.0,4
+2020-03-09,North Dakota,Burleigh County,Nightlife Spots,67.0,"",66.0,5
+2020-03-09,North Dakota,Burleigh County,Gas Stations,103.0,"",103.0,6
+2020-03-09,North Dakota,Burleigh County,School,52.0,"",52.0,7
+2020-03-09,North Dakota,Burleigh County,Grocery,96.0,"",98.0,8
+2020-03-09,North Dakota,Burleigh County,Fast Food Restaurants,91.0,"",90.0,9
+2020-03-09,North Dakota,Burleigh County,Hotel,97.0,"",97.0,10
+2020-03-09,North Dakota,Burleigh County,Hardware Stores,125.0,"",123.0,11
+2020-03-09,North Dakota,Burleigh County,Arts & Entertainment,86.0,"",87.0,12
+2020-03-09,North Dakota,Stark County,Shops & Services,104.0,"",103.0,1
+2020-03-09,North Dakota,Stark County,Food,75.0,"",75.0,2
+2020-03-09,North Dakota,Williams County,Food,92.0,"",92.0,1
+2020-03-09,North Dakota,Williams County,Shops & Services,98.0,"",98.0,2
+2020-03-09,North Dakota,Williams County,Gas Stations,84.0,"",84.0,3
+2020-03-10,North Dakota,Morton County,Nightlife Spots,84.0,"",84.0,1
+2020-03-10,North Dakota,Mountrail County,Gas Stations,110.0,"",110.0,1
+2020-03-10,North Dakota,Grand Forks County,Shops & Services,79.0,74.0,79.0,1
+2020-03-10,North Dakota,Grand Forks County,Food,41.0,54.0,41.0,2
+2020-03-10,North Dakota,Grand Forks County,Colleges & Universities,97.0,"",97.0,3
+2020-03-10,North Dakota,Grand Forks County,Nightlife Spots,81.0,"",82.0,4
+2020-03-10,North Dakota,Grand Forks County,Big Box Stores,109.0,"",110.0,5
+2020-03-10,North Dakota,Grand Forks County,Gas Stations,89.0,"",89.0,6
+2020-03-10,North Dakota,Grand Forks County,Medical,48.0,"",48.0,7
+2020-03-10,North Dakota,Grand Forks County,Fast Food Restaurants,94.0,"",95.0,8
+2020-03-10,North Dakota,Grand Forks County,Professional & Other Places,14.0,"",14.0,9
+2020-03-10,North Dakota,Grand Forks County,School,44.0,"",44.0,10
+2020-03-10,North Dakota,McKenzie County,Professional & Other Places,33.0,"",33.0,1
+2020-03-10,North Dakota,McKenzie County,Gas Stations,76.0,"",76.0,2
+2020-03-10,North Dakota,McKenzie County,Shops & Services,104.0,"",104.0,3
+2020-03-10,North Dakota,McKenzie County,Outdoors & Recreation,40.0,"",40.0,4
+2020-03-10,North Dakota,Burleigh County,Food,102.0,91.0,102.0,1
+2020-03-10,North Dakota,Burleigh County,Shops & Services,92.0,66.0,93.0,2
+2020-03-10,North Dakota,Burleigh County,Nightlife Spots,90.0,"",90.0,3
+2020-03-10,North Dakota,Burleigh County,Medical,51.0,"",51.0,4
+2020-03-10,North Dakota,Burleigh County,Gas Stations,99.0,"",100.0,5
+2020-03-10,North Dakota,Burleigh County,Big Box Stores,94.0,"",95.0,6
+2020-03-10,North Dakota,Burleigh County,Fast Food Restaurants,123.0,"",123.0,7
+2020-03-10,North Dakota,Burleigh County,School,50.0,"",50.0,8
+2020-03-10,North Dakota,Burleigh County,Grocery,108.0,"",109.0,9
+2020-03-10,North Dakota,Burleigh County,Hotel,96.0,"",96.0,10
+2020-03-10,North Dakota,Burleigh County,Professional & Other Places,11.0,"",11.0,11
+2020-03-10,North Dakota,Burleigh County,Arts & Entertainment,75.0,"",76.0,12
+2020-03-10,North Dakota,Ward County,Shops & Services,90.0,88.0,90.0,1
+2020-03-10,North Dakota,Ward County,Food,45.0,"",45.0,2
+2020-03-10,North Dakota,Ward County,Nightlife Spots,75.0,"",75.0,3
+2020-03-10,North Dakota,Ward County,Gas Stations,94.0,"",94.0,4
+2020-03-10,North Dakota,Ward County,Medical,52.0,"",52.0,5
+2020-03-10,North Dakota,Ward County,School,61.0,"",60.0,6
+2020-03-10,North Dakota,Ward County,Big Box Stores,94.0,"",94.0,7
+2020-03-10,North Dakota,Ward County,Fast Food Restaurants,89.0,"",90.0,8
+2020-03-10,North Dakota,Cass County,Shops & Services,68.0,73.0,68.0,1
+2020-03-10,North Dakota,Cass County,Food,41.0,41.0,41.0,2
+2020-03-10,North Dakota,Cass County,Nightlife Spots,79.0,"",79.0,3
+2020-03-10,North Dakota,Cass County,Medical,52.0,52.0,52.0,4
+2020-03-10,North Dakota,Cass County,Grocery,101.0,82.0,101.0,5
+2020-03-10,North Dakota,Cass County,Gas Stations,85.0,"",86.0,6
+2020-03-10,North Dakota,Cass County,Colleges & Universities,84.0,"",84.0,7
+2020-03-10,North Dakota,Cass County,School,51.0,"",51.0,8
+2020-03-10,North Dakota,Cass County,Office,107.0,"",108.0,9
+2020-03-10,North Dakota,Cass County,Fast Food Restaurants,102.0,"",103.0,10
+2020-03-10,North Dakota,Cass County,Professional & Other Places,13.0,"",13.0,11
+2020-03-10,North Dakota,Cass County,Fitness Center,51.0,"",52.0,12
+2020-03-10,North Dakota,Cass County,Big Box Stores,92.0,"",92.0,13
+2020-03-10,North Dakota,Cass County,Hotel,78.0,"",78.0,14
+2020-03-10,North Dakota,Cass County,Outdoors & Recreation,23.0,"",23.0,15
+2020-03-10,North Dakota,Cass County,Arts & Entertainment,71.0,"",70.0,16
+2020-03-10,North Dakota,Cass County,Residences,101.0,"",102.0,17
+2020-03-10,North Dakota,Cass County,Hardware Stores,109.0,"",107.0,18
+2020-03-10,North Dakota,Cass County,Airport,79.0,"",79.0,19
+2020-03-10,North Dakota,Williams County,Food,99.0,"",99.0,1
+2020-03-10,North Dakota,Williams County,Gas Stations,102.0,"",102.0,2
+2020-03-10,North Dakota,Williams County,Shops & Services,97.0,"",96.0,3
+2020-03-10,North Dakota,Williams County,Outdoors & Recreation,46.0,"",45.0,4
+2020-03-10,North Dakota,Stark County,Food,99.0,"",97.0,1
+2020-03-10,North Dakota,Stark County,Shops & Services,81.0,"",80.0,2
+2020-03-11,North Dakota,Burleigh County,Shops & Services,101.0,84.0,102.0,1
+2020-03-11,North Dakota,Burleigh County,Food,100.0,103.0,99.0,2
+2020-03-11,North Dakota,Burleigh County,Nightlife Spots,82.0,"",82.0,3
+2020-03-11,North Dakota,Burleigh County,Medical,45.0,"",45.0,4
+2020-03-11,North Dakota,Burleigh County,Big Box Stores,106.0,"",105.0,5
+2020-03-11,North Dakota,Burleigh County,Gas Stations,93.0,"",93.0,6
+2020-03-11,North Dakota,Burleigh County,School,47.0,"",47.0,7
+2020-03-11,North Dakota,Burleigh County,Grocery,115.0,"",114.0,8
+2020-03-11,North Dakota,Burleigh County,Fast Food Restaurants,104.0,"",105.0,9
+2020-03-11,North Dakota,Burleigh County,Outdoors & Recreation,122.0,"",121.0,10
+2020-03-11,North Dakota,Burleigh County,Hotel,79.0,"",79.0,11
+2020-03-11,North Dakota,Burleigh County,Professional & Other Places,10.0,"",10.0,12
+2020-03-11,North Dakota,Burleigh County,Arts & Entertainment,58.0,"",58.0,13
+2020-03-11,North Dakota,Stark County,Food,103.0,"",103.0,1
+2020-03-11,North Dakota,Stark County,Shops & Services,19.0,"",19.0,2
+2020-03-11,North Dakota,Cass County,Shops & Services,32.0,31.0,32.0,1
+2020-03-11,North Dakota,Cass County,Food,42.0,43.0,42.0,2
+2020-03-11,North Dakota,Cass County,Nightlife Spots,83.0,86.0,83.0,3
+2020-03-11,North Dakota,Cass County,Medical,59.0,52.0,59.0,4
+2020-03-11,North Dakota,Cass County,Gas Stations,99.0,"",100.0,5
+2020-03-11,North Dakota,Cass County,Colleges & Universities,107.0,"",107.0,6
+2020-03-11,North Dakota,Cass County,Grocery,103.0,140.0,102.0,7
+2020-03-11,North Dakota,Cass County,Professional & Other Places,18.0,"",18.0,8
+2020-03-11,North Dakota,Cass County,School,54.0,"",54.0,9
+2020-03-11,North Dakota,Cass County,Outdoors & Recreation,30.0,"",30.0,10
+2020-03-11,North Dakota,Cass County,Office,116.0,"",116.0,10
+2020-03-11,North Dakota,Cass County,Fast Food Restaurants,86.0,"",86.0,11
+2020-03-11,North Dakota,Cass County,Fitness Center,54.0,"",54.0,11
+2020-03-11,North Dakota,Cass County,Big Box Stores,101.0,"",101.0,12
+2020-03-11,North Dakota,Cass County,Hotel,82.0,"",83.0,13
+2020-03-11,North Dakota,Cass County,Arts & Entertainment,87.0,"",86.0,13
+2020-03-11,North Dakota,Cass County,Residences,110.0,"",110.0,14
+2020-03-11,North Dakota,Cass County,Hardware Stores,118.0,"",116.0,15
+2020-03-11,North Dakota,Grand Forks County,Shops & Services,82.0,89.0,82.0,1
+2020-03-11,North Dakota,Grand Forks County,Food,43.0,"",43.0,2
+2020-03-11,North Dakota,Grand Forks County,Colleges & Universities,89.0,"",89.0,3
+2020-03-11,North Dakota,Grand Forks County,Nightlife Spots,88.0,"",88.0,4
+2020-03-11,North Dakota,Grand Forks County,Gas Stations,104.0,"",103.0,5
+2020-03-11,North Dakota,Grand Forks County,Big Box Stores,104.0,"",104.0,6
+2020-03-11,North Dakota,Grand Forks County,Medical,57.0,"",57.0,7
+2020-03-11,North Dakota,Grand Forks County,Fast Food Restaurants,106.0,"",106.0,8
+2020-03-11,North Dakota,Grand Forks County,School,48.0,"",48.0,8
+2020-03-11,North Dakota,Grand Forks County,Arts & Entertainment,93.0,"",92.0,9
+2020-03-11,North Dakota,Williams County,Food,93.0,"",93.0,1
+2020-03-11,North Dakota,Williams County,Shops & Services,120.0,"",120.0,2
+2020-03-11,North Dakota,Williams County,Gas Stations,90.0,"",89.0,3
+2020-03-11,North Dakota,Williams County,Outdoors & Recreation,47.0,"",46.0,4
+2020-03-11,North Dakota,Morton County,Nightlife Spots,83.0,"",83.0,1
+2020-03-11,North Dakota,Ward County,Shops & Services,97.0,82.0,98.0,1
+2020-03-11,North Dakota,Ward County,Food,45.0,44.0,45.0,2
+2020-03-11,North Dakota,Ward County,Nightlife Spots,65.0,"",65.0,3
+2020-03-11,North Dakota,Ward County,Gas Stations,94.0,"",93.0,4
+2020-03-11,North Dakota,Ward County,Medical,50.0,"",50.0,5
+2020-03-11,North Dakota,Ward County,Big Box Stores,91.0,"",91.0,6
+2020-03-11,North Dakota,McKenzie County,Gas Stations,88.0,"",88.0,1
+2020-03-11,North Dakota,McKenzie County,Shops & Services,122.0,"",123.0,2
+2020-03-11,North Dakota,McKenzie County,Professional & Other Places,36.0,"",35.0,3
+2020-03-12,North Dakota,Grand Forks County,Shops & Services,77.0,87.0,77.0,1
+2020-03-12,North Dakota,Grand Forks County,Food,43.0,"",43.0,2
+2020-03-12,North Dakota,Grand Forks County,Colleges & Universities,94.0,"",94.0,3
+2020-03-12,North Dakota,Grand Forks County,Nightlife Spots,77.0,"",77.0,4
+2020-03-12,North Dakota,Grand Forks County,Big Box Stores,119.0,"",120.0,5
+2020-03-12,North Dakota,Grand Forks County,Gas Stations,87.0,"",87.0,6
+2020-03-12,North Dakota,Grand Forks County,Medical,59.0,"",59.0,7
+2020-03-12,North Dakota,Grand Forks County,Fast Food Restaurants,104.0,"",105.0,8
+2020-03-12,North Dakota,Grand Forks County,Professional & Other Places,16.0,"",16.0,9
+2020-03-12,North Dakota,Grand Forks County,Grocery,140.0,"",139.0,10
+2020-03-12,North Dakota,Grand Forks County,School,48.0,"",48.0,11
+2020-03-12,North Dakota,Morton County,Nightlife Spots,85.0,"",85.0,1
+2020-03-12,North Dakota,Ward County,Shops & Services,107.0,116.0,107.0,1
+2020-03-12,North Dakota,Ward County,Food,43.0,40.0,43.0,2
+2020-03-12,North Dakota,Ward County,Nightlife Spots,68.0,"",68.0,3
+2020-03-12,North Dakota,Ward County,Gas Stations,82.0,"",80.0,4
+2020-03-12,North Dakota,Ward County,Medical,52.0,"",52.0,5
+2020-03-12,North Dakota,Ward County,Big Box Stores,94.0,"",93.0,6
+2020-03-12,North Dakota,Ward County,Fast Food Restaurants,92.0,"",92.0,7
+2020-03-12,North Dakota,Ward County,Grocery,115.0,"",116.0,8
+2020-03-12,North Dakota,Burleigh County,Shops & Services,111.0,90.0,111.0,1
+2020-03-12,North Dakota,Burleigh County,Food,98.0,85.0,98.0,2
+2020-03-12,North Dakota,Burleigh County,Nightlife Spots,75.0,"",75.0,3
+2020-03-12,North Dakota,Burleigh County,Medical,51.0,65.0,50.0,4
+2020-03-12,North Dakota,Burleigh County,Big Box Stores,116.0,"",116.0,5
+2020-03-12,North Dakota,Burleigh County,Gas Stations,94.0,"",95.0,6
+2020-03-12,North Dakota,Burleigh County,School,50.0,"",49.0,7
+2020-03-12,North Dakota,Burleigh County,Grocery,123.0,"",123.0,8
+2020-03-12,North Dakota,Burleigh County,Fast Food Restaurants,104.0,"",104.0,9
+2020-03-12,North Dakota,Burleigh County,Professional & Other Places,10.0,"",10.0,10
+2020-03-12,North Dakota,Burleigh County,Arts & Entertainment,89.0,"",89.0,11
+2020-03-12,North Dakota,Burleigh County,Government,82.0,"",83.0,12
+2020-03-12,North Dakota,McKenzie County,Shops & Services,116.0,"",116.0,1
+2020-03-12,North Dakota,McKenzie County,Gas Stations,77.0,"",77.0,2
+2020-03-12,North Dakota,McKenzie County,Outdoors & Recreation,42.0,"",42.0,3
+2020-03-12,North Dakota,Cass County,Shops & Services,105.0,95.0,106.0,1
+2020-03-12,North Dakota,Cass County,Food,44.0,34.0,44.0,2
+2020-03-12,North Dakota,Cass County,Nightlife Spots,77.0,95.0,77.0,3
+2020-03-12,North Dakota,Cass County,Grocery,132.0,135.0,132.0,4
+2020-03-12,North Dakota,Cass County,Medical,56.0,50.0,56.0,5
+2020-03-12,North Dakota,Cass County,Gas Stations,86.0,"",86.0,6
+2020-03-12,North Dakota,Cass County,Colleges & Universities,50.0,"",50.0,7
+2020-03-12,North Dakota,Cass County,Fast Food Restaurants,119.0,"",119.0,8
+2020-03-12,North Dakota,Cass County,Big Box Stores,133.0,"",134.0,9
+2020-03-12,North Dakota,Cass County,Professional & Other Places,14.0,"",14.0,10
+2020-03-12,North Dakota,Cass County,School,47.0,"",47.0,11
+2020-03-12,North Dakota,Cass County,Hotel,83.0,"",83.0,12
+2020-03-12,North Dakota,Cass County,Fitness Center,52.0,"",52.0,13
+2020-03-12,North Dakota,Cass County,Outdoors & Recreation,25.0,"",25.0,14
+2020-03-12,North Dakota,Cass County,Office,87.0,"",88.0,15
+2020-03-12,North Dakota,Cass County,Arts & Entertainment,74.0,"",74.0,16
+2020-03-12,North Dakota,Cass County,Residences,96.0,"",95.0,17
+2020-03-12,North Dakota,Cass County,Hardware Stores,123.0,"",124.0,18
+2020-03-12,North Dakota,Cass County,Airport,61.0,"",62.0,19
+2020-03-12,North Dakota,Williams County,Food,96.0,"",97.0,1
+2020-03-12,North Dakota,Williams County,Shops & Services,111.0,"",111.0,2
+2020-03-12,North Dakota,Williams County,Gas Stations,89.0,"",88.0,3
+2020-03-12,North Dakota,Williams County,Grocery,144.0,"",143.0,4
+2020-03-12,North Dakota,Stark County,Food,97.0,"",97.0,1
+2020-03-12,North Dakota,Stark County,Shops & Services,81.0,"",81.0,2
+2020-03-13,North Dakota,Stark County,Food,105.0,"",105.0,1
+2020-03-13,North Dakota,Stark County,Shops & Services,83.0,"",83.0,2
+2020-03-13,North Dakota,Stark County,Nightlife Spots,61.0,"",61.0,3
+2020-03-13,North Dakota,Stark County,Big Box Stores,110.0,"",111.0,4
+2020-03-13,North Dakota,Cass County,Shops & Services,34.0,38.0,34.0,1
+2020-03-13,North Dakota,Cass County,Food,41.0,34.0,41.0,2
+2020-03-13,North Dakota,Cass County,Nightlife Spots,80.0,58.0,80.0,3
+2020-03-13,North Dakota,Cass County,Grocery,142.0,170.0,141.0,4
+2020-03-13,North Dakota,Cass County,Gas Stations,92.0,"",92.0,5
+2020-03-13,North Dakota,Cass County,Medical,51.0,50.0,51.0,6
+2020-03-13,North Dakota,Cass County,Big Box Stores,115.0,"",115.0,7
+2020-03-13,North Dakota,Cass County,Hotel,93.0,"",94.0,8
+2020-03-13,North Dakota,Cass County,Fast Food Restaurants,98.0,"",98.0,9
+2020-03-13,North Dakota,Cass County,Colleges & Universities,34.0,"",33.0,10
+2020-03-13,North Dakota,Cass County,Professional & Other Places,14.0,"",14.0,11
+2020-03-13,North Dakota,Cass County,Arts & Entertainment,70.0,"",71.0,12
+2020-03-13,North Dakota,Cass County,Outdoors & Recreation,26.0,"",26.0,13
+2020-03-13,North Dakota,Cass County,School,36.0,"",36.0,14
+2020-03-13,North Dakota,Cass County,Office,96.0,"",95.0,15
+2020-03-13,North Dakota,Cass County,Residences,84.0,"",84.0,16
+2020-03-13,North Dakota,Cass County,Fitness Center,41.0,"",41.0,16
+2020-03-13,North Dakota,Cass County,Alcohol,135.0,"",135.0,17
+2020-03-13,North Dakota,Cass County,Hardware Stores,94.0,"",95.0,18
+2020-03-13,North Dakota,McKenzie County,Shops & Services,123.0,"",124.0,1
+2020-03-13,North Dakota,McKenzie County,Gas Stations,83.0,"",84.0,2
+2020-03-13,North Dakota,McKenzie County,Outdoors & Recreation,117.0,"",118.0,2
+2020-03-13,North Dakota,Morton County,Nightlife Spots,86.0,"",86.0,1
+2020-03-13,North Dakota,Grand Forks County,Shops & Services,71.0,56.0,72.0,1
+2020-03-13,North Dakota,Grand Forks County,Food,40.0,33.0,40.0,2
+2020-03-13,North Dakota,Grand Forks County,Nightlife Spots,79.0,"",79.0,3
+2020-03-13,North Dakota,Grand Forks County,Gas Stations,105.0,"",105.0,4
+2020-03-13,North Dakota,Grand Forks County,Big Box Stores,100.0,"",101.0,5
+2020-03-13,North Dakota,Grand Forks County,Colleges & Universities,49.0,"",49.0,6
+2020-03-13,North Dakota,Grand Forks County,Fast Food Restaurants,99.0,"",99.0,7
+2020-03-13,North Dakota,Grand Forks County,Medical,49.0,"",49.0,8
+2020-03-13,North Dakota,Grand Forks County,Grocery,130.0,"",129.0,9
+2020-03-13,North Dakota,Grand Forks County,School,49.0,"",49.0,10
+2020-03-13,North Dakota,Grand Forks County,Hardware Stores,127.0,"",127.0,11
+2020-03-13,North Dakota,Burleigh County,Shops & Services,101.0,79.0,102.0,1
+2020-03-13,North Dakota,Burleigh County,Food,90.0,64.0,91.0,2
+2020-03-13,North Dakota,Burleigh County,Big Box Stores,117.0,"",117.0,3
+2020-03-13,North Dakota,Burleigh County,Nightlife Spots,66.0,"",66.0,4
+2020-03-13,North Dakota,Burleigh County,Grocery,144.0,"",145.0,5
+2020-03-13,North Dakota,Burleigh County,Gas Stations,95.0,"",96.0,6
+2020-03-13,North Dakota,Burleigh County,Medical,42.0,"",42.0,7
+2020-03-13,North Dakota,Burleigh County,Fast Food Restaurants,102.0,"",102.0,8
+2020-03-13,North Dakota,Burleigh County,Arts & Entertainment,83.0,"",84.0,9
+2020-03-13,North Dakota,Burleigh County,Hotel,80.0,"",80.0,9
+2020-03-13,North Dakota,Burleigh County,Outdoors & Recreation,40.0,"",41.0,10
+2020-03-13,North Dakota,Burleigh County,Hardware Stores,117.0,"",119.0,11
+2020-03-13,North Dakota,Burleigh County,Professional & Other Places,10.0,"",10.0,12
+2020-03-13,North Dakota,Williams County,Food,95.0,"",95.0,1
+2020-03-13,North Dakota,Williams County,Shops & Services,118.0,"",118.0,2
+2020-03-13,North Dakota,Williams County,Gas Stations,106.0,"",106.0,3
+2020-03-13,North Dakota,Williams County,Grocery,137.0,"",136.0,4
+2020-03-13,North Dakota,Williams County,Big Box Stores,134.0,"",136.0,5
+2020-03-13,North Dakota,Williams County,Professional & Other Places,29.0,"",30.0,6
+2020-03-13,North Dakota,Ward County,Shops & Services,91.0,72.0,91.0,1
+2020-03-13,North Dakota,Ward County,Food,41.0,39.0,41.0,2
+2020-03-13,North Dakota,Ward County,Nightlife Spots,64.0,"",65.0,3
+2020-03-13,North Dakota,Ward County,Gas Stations,82.0,"",83.0,4
+2020-03-13,North Dakota,Ward County,Big Box Stores,94.0,"",95.0,5
+2020-03-13,North Dakota,Ward County,Grocery,131.0,"",131.0,6
+2020-03-13,North Dakota,Ward County,Fast Food Restaurants,87.0,"",88.0,6
+2020-03-13,North Dakota,Ward County,Medical,48.0,"",48.0,7
+2020-03-13,North Dakota,Ward County,Arts & Entertainment,96.0,"",95.0,8
+2020-03-14,North Dakota,Ward County,Shops & Services,76.0,"",76.0,1
+2020-03-14,North Dakota,Ward County,Food,35.0,"",35.0,2
+2020-03-14,North Dakota,Ward County,Nightlife Spots,78.0,"",78.0,3
+2020-03-14,North Dakota,Ward County,Big Box Stores,87.0,"",87.0,4
+2020-03-14,North Dakota,Ward County,Arts & Entertainment,137.0,"",136.0,5
+2020-03-14,North Dakota,Ward County,Gas Stations,89.0,"",89.0,6
+2020-03-14,North Dakota,Ward County,Grocery,126.0,"",124.0,7
+2020-03-14,North Dakota,Ward County,Hotel,72.0,"",70.0,8
+2020-03-14,North Dakota,Ward County,Fast Food Restaurants,73.0,"",74.0,9
+2020-03-14,North Dakota,Ward County,Hardware Stores,113.0,"",115.0,10
+2020-03-14,North Dakota,Stark County,Nightlife Spots,83.0,"",83.0,1
+2020-03-14,North Dakota,Stark County,Food,91.0,"",91.0,2
+2020-03-14,North Dakota,Stark County,Shops & Services,80.0,"",81.0,3
+2020-03-14,North Dakota,Stark County,Big Box Stores,99.0,"",100.0,4
+2020-03-14,North Dakota,Grand Forks County,Shops & Services,68.0,"",69.0,1
+2020-03-14,North Dakota,Grand Forks County,Food,30.0,"",31.0,2
+2020-03-14,North Dakota,Grand Forks County,Nightlife Spots,66.0,"",66.0,3
+2020-03-14,North Dakota,Grand Forks County,Big Box Stores,90.0,"",90.0,4
+2020-03-14,North Dakota,Grand Forks County,Gas Stations,77.0,"",77.0,5
+2020-03-14,North Dakota,Grand Forks County,Fast Food Restaurants,75.0,"",75.0,6
+2020-03-14,North Dakota,Grand Forks County,Grocery,96.0,"",98.0,7
+2020-03-14,North Dakota,Grand Forks County,Hardware Stores,95.0,"",95.0,8
+2020-03-14,North Dakota,Cass County,Shops & Services,80.0,76.0,80.0,1
+2020-03-14,North Dakota,Cass County,Food,34.0,36.0,34.0,2
+2020-03-14,North Dakota,Cass County,Nightlife Spots,88.0,73.0,88.0,3
+2020-03-14,North Dakota,Cass County,Grocery,117.0,125.0,116.0,4
+2020-03-14,North Dakota,Cass County,Big Box Stores,102.0,"",102.0,5
+2020-03-14,North Dakota,Cass County,Hotel,86.0,"",86.0,6
+2020-03-14,North Dakota,Cass County,Gas Stations,77.0,"",77.0,7
+2020-03-14,North Dakota,Cass County,Fast Food Restaurants,78.0,"",78.0,8
+2020-03-14,North Dakota,Cass County,Arts & Entertainment,51.0,"",52.0,9
+2020-03-14,North Dakota,Cass County,Outdoors & Recreation,24.0,"",24.0,10
+2020-03-14,North Dakota,Cass County,Medical,53.0,"",54.0,11
+2020-03-14,North Dakota,Cass County,Residences,88.0,"",87.0,12
+2020-03-14,North Dakota,Cass County,Fitness Center,38.0,"",39.0,13
+2020-03-14,North Dakota,Cass County,Hardware Stores,92.0,"",91.0,14
+2020-03-14,North Dakota,Cass County,Professional & Other Places,12.0,"",12.0,15
+2020-03-14,North Dakota,Cass County,Alcohol,99.0,"",99.0,16
+2020-03-14,North Dakota,Morton County,Nightlife Spots,81.0,"",81.0,1
+2020-03-14,North Dakota,Williams County,Food,82.0,"",82.0,1
+2020-03-14,North Dakota,Williams County,Shops & Services,91.0,"",91.0,2
+2020-03-14,North Dakota,Williams County,Gas Stations,81.0,"",81.0,3
+2020-03-14,North Dakota,Williams County,Grocery,137.0,"",137.0,4
+2020-03-14,North Dakota,Burleigh County,Shops & Services,89.0,68.0,89.0,1
+2020-03-14,North Dakota,Burleigh County,Food,80.0,"",81.0,2
+2020-03-14,North Dakota,Burleigh County,Big Box Stores,104.0,"",104.0,3
+2020-03-14,North Dakota,Burleigh County,Nightlife Spots,70.0,"",71.0,4
+2020-03-14,North Dakota,Burleigh County,Grocery,143.0,"",144.0,5
+2020-03-14,North Dakota,Burleigh County,Gas Stations,75.0,"",75.0,6
+2020-03-14,North Dakota,Burleigh County,Hotel,74.0,"",74.0,7
+2020-03-14,North Dakota,Burleigh County,Arts & Entertainment,55.0,"",55.0,8
+2020-03-14,North Dakota,Burleigh County,Fast Food Restaurants,77.0,"",77.0,9
+2020-03-14,North Dakota,Burleigh County,Hardware Stores,98.0,"",98.0,10
+2020-03-14,North Dakota,Burleigh County,Outdoors & Recreation,85.0,"",86.0,11
+2020-03-15,North Dakota,Grand Forks County,Food,33.0,"",33.0,1
+2020-03-15,North Dakota,Grand Forks County,Shops & Services,62.0,"",61.0,2
+2020-03-15,North Dakota,Grand Forks County,Nightlife Spots,57.0,"",57.0,3
+2020-03-15,North Dakota,Grand Forks County,Big Box Stores,91.0,"",90.0,4
+2020-03-15,North Dakota,Grand Forks County,Gas Stations,73.0,"",73.0,5
+2020-03-15,North Dakota,Grand Forks County,Grocery,122.0,"",122.0,6
+2020-03-15,North Dakota,Grand Forks County,Fast Food Restaurants,80.0,"",80.0,7
+2020-03-15,North Dakota,Grand Forks County,Hardware Stores,129.0,"",130.0,8
+2020-03-15,North Dakota,Stark County,Food,81.0,"",81.0,1
+2020-03-15,North Dakota,Stark County,Nightlife Spots,69.0,"",69.0,2
+2020-03-15,North Dakota,Williams County,Food,83.0,"",83.0,1
+2020-03-15,North Dakota,Williams County,Gas Stations,85.0,"",85.0,2
+2020-03-15,North Dakota,Williams County,Shops & Services,73.0,"",73.0,3
+2020-03-15,North Dakota,Burleigh County,Food,74.0,"",74.0,1
+2020-03-15,North Dakota,Burleigh County,Shops & Services,76.0,"",76.0,2
+2020-03-15,North Dakota,Burleigh County,Nightlife Spots,64.0,"",65.0,3
+2020-03-15,North Dakota,Burleigh County,Big Box Stores,81.0,"",81.0,4
+2020-03-15,North Dakota,Burleigh County,Grocery,105.0,"",106.0,5
+2020-03-15,North Dakota,Burleigh County,Gas Stations,81.0,"",82.0,6
+2020-03-15,North Dakota,Burleigh County,Fast Food Restaurants,83.0,"",83.0,7
+2020-03-15,North Dakota,Burleigh County,Arts & Entertainment,50.0,"",50.0,8
+2020-03-15,North Dakota,Burleigh County,Hotel,66.0,"",66.0,9
+2020-03-15,North Dakota,Burleigh County,Outdoors & Recreation,103.0,"",103.0,10
+2020-03-15,North Dakota,Cass County,Food,32.0,28.0,32.0,1
+2020-03-15,North Dakota,Cass County,Nightlife Spots,76.0,103.0,75.0,2
+2020-03-15,North Dakota,Cass County,Shops & Services,69.0,62.0,69.0,3
+2020-03-15,North Dakota,Cass County,Grocery,101.0,"",102.0,4
+2020-03-15,North Dakota,Cass County,Gas Stations,79.0,"",80.0,5
+2020-03-15,North Dakota,Cass County,Big Box Stores,80.0,"",80.0,6
+2020-03-15,North Dakota,Cass County,Hotel,60.0,"",60.0,7
+2020-03-15,North Dakota,Cass County,Outdoors & Recreation,29.0,"",29.0,8
+2020-03-15,North Dakota,Cass County,Fast Food Restaurants,74.0,"",74.0,9
+2020-03-15,North Dakota,Cass County,Arts & Entertainment,43.0,"",43.0,10
+2020-03-15,North Dakota,Cass County,Medical,54.0,"",54.0,11
+2020-03-15,North Dakota,Ward County,Nightlife Spots,72.0,"",72.0,1
+2020-03-15,North Dakota,Ward County,Food,28.0,"",28.0,2
+2020-03-15,North Dakota,Ward County,Shops & Services,60.0,"",60.0,3
+2020-03-15,North Dakota,Ward County,Big Box Stores,73.0,"",72.0,4
+2020-03-15,North Dakota,Ward County,Gas Stations,72.0,"",73.0,5
+2020-03-15,North Dakota,Ward County,Arts & Entertainment,140.0,"",140.0,6
+2020-03-15,North Dakota,Richland County,Nightlife Spots,105.0,"",106.0,1
+2020-03-15,North Dakota,Morton County,Nightlife Spots,78.0,"",78.0,1
+2020-03-16,North Dakota,Williams County,Food,92.0,"",93.0,1
+2020-03-16,North Dakota,Williams County,Gas Stations,84.0,"",84.0,2
+2020-03-16,North Dakota,Williams County,Shops & Services,90.0,"",90.0,3
+2020-03-16,North Dakota,Williams County,Grocery,164.0,"",161.0,4
+2020-03-16,North Dakota,Morton County,Nightlife Spots,76.0,"",76.0,1
+2020-03-16,North Dakota,Stark County,Food,88.0,"",89.0,1
+2020-03-16,North Dakota,Grand Forks County,Shops & Services,75.0,70.0,75.0,1
+2020-03-16,North Dakota,Grand Forks County,Food,34.0,"",34.0,2
+2020-03-16,North Dakota,Grand Forks County,Big Box Stores,102.0,"",103.0,3
+2020-03-16,North Dakota,Grand Forks County,Nightlife Spots,66.0,"",67.0,4
+2020-03-16,North Dakota,Grand Forks County,Medical,50.0,"",51.0,5
+2020-03-16,North Dakota,Grand Forks County,Gas Stations,80.0,"",80.0,5
+2020-03-16,North Dakota,Grand Forks County,Grocery,139.0,"",139.0,6
+2020-03-16,North Dakota,Grand Forks County,Professional & Other Places,16.0,"",17.0,7
+2020-03-16,North Dakota,Ward County,Shops & Services,88.0,78.0,88.0,1
+2020-03-16,North Dakota,Ward County,Food,38.0,"",38.0,2
+2020-03-16,North Dakota,Ward County,Nightlife Spots,76.0,"",76.0,3
+2020-03-16,North Dakota,Ward County,Gas Stations,93.0,"",93.0,4
+2020-03-16,North Dakota,Ward County,Medical,54.0,"",54.0,5
+2020-03-16,North Dakota,Ward County,Fast Food Restaurants,106.0,"",107.0,6
+2020-03-16,North Dakota,Ward County,Big Box Stores,99.0,"",98.0,7
+2020-03-16,North Dakota,Ward County,Grocery,166.0,"",171.0,7
+2020-03-16,North Dakota,McKenzie County,Gas Stations,87.0,"",87.0,1
+2020-03-16,North Dakota,McKenzie County,Outdoors & Recreation,44.0,"",44.0,2
+2020-03-16,North Dakota,McKenzie County,Shops & Services,117.0,"",117.0,3
+2020-03-16,North Dakota,Cass County,Shops & Services,28.0,29.0,28.0,1
+2020-03-16,North Dakota,Cass County,Food,34.0,34.0,34.0,2
+2020-03-16,North Dakota,Cass County,Grocery,131.0,"",132.0,3
+2020-03-16,North Dakota,Cass County,Nightlife Spots,73.0,"",73.0,4
+2020-03-16,North Dakota,Cass County,Medical,49.0,"",49.0,5
+2020-03-16,North Dakota,Cass County,Gas Stations,83.0,"",84.0,6
+2020-03-16,North Dakota,Cass County,Professional & Other Places,13.0,"",13.0,7
+2020-03-16,North Dakota,Cass County,Big Box Stores,97.0,"",96.0,8
+2020-03-16,North Dakota,Cass County,Office,99.0,"",99.0,9
+2020-03-16,North Dakota,Cass County,Fast Food Restaurants,74.0,"",74.0,10
+2020-03-16,North Dakota,Cass County,Outdoors & Recreation,24.0,"",24.0,11
+2020-03-16,North Dakota,Cass County,Fitness Center,41.0,"",41.0,12
+2020-03-16,North Dakota,Cass County,Residences,81.0,"",80.0,13
+2020-03-16,North Dakota,Cass County,Hotel,63.0,"",63.0,14
+2020-03-16,North Dakota,Cass County,Hardware Stores,107.0,"",108.0,15
+2020-03-16,North Dakota,Burleigh County,Shops & Services,97.0,85.0,97.0,1
+2020-03-16,North Dakota,Burleigh County,Food,84.0,74.0,84.0,2
+2020-03-16,North Dakota,Burleigh County,Big Box Stores,115.0,"",116.0,3
+2020-03-16,North Dakota,Burleigh County,Grocery,165.0,"",169.0,4
+2020-03-16,North Dakota,Burleigh County,Medical,45.0,"",44.0,5
+2020-03-16,North Dakota,Burleigh County,Nightlife Spots,75.0,"",74.0,6
+2020-03-16,North Dakota,Burleigh County,Gas Stations,80.0,"",81.0,7
+2020-03-16,North Dakota,Burleigh County,Fast Food Restaurants,94.0,"",93.0,8
+2020-03-17,North Dakota,Ward County,Shops & Services,88.0,78.0,88.0,1
+2020-03-17,North Dakota,Ward County,Food,36.0,"",36.0,2
+2020-03-17,North Dakota,Ward County,Nightlife Spots,69.0,"",69.0,3
+2020-03-17,North Dakota,Ward County,Gas Stations,80.0,"",81.0,4
+2020-03-17,North Dakota,Ward County,Grocery,173.0,"",176.0,5
+2020-03-17,North Dakota,Ward County,Big Box Stores,119.0,"",121.0,6
+2020-03-17,North Dakota,Ward County,Medical,44.0,"",44.0,7
+2020-03-17,North Dakota,Ward County,Fast Food Restaurants,102.0,"",104.0,8
+2020-03-17,North Dakota,McKenzie County,Professional & Other Places,31.0,"",31.0,1
+2020-03-17,North Dakota,McKenzie County,Shops & Services,107.0,"",107.0,2
+2020-03-17,North Dakota,McKenzie County,Outdoors & Recreation,39.0,"",39.0,3
+2020-03-17,North Dakota,Grand Forks County,Shops & Services,73.0,62.0,73.0,1
+2020-03-17,North Dakota,Grand Forks County,Food,37.0,"",38.0,2
+2020-03-17,North Dakota,Grand Forks County,Big Box Stores,115.0,"",116.0,3
+2020-03-17,North Dakota,Grand Forks County,Nightlife Spots,67.0,"",67.0,4
+2020-03-17,North Dakota,Grand Forks County,Gas Stations,84.0,"",84.0,5
+2020-03-17,North Dakota,Grand Forks County,Grocery,161.0,"",162.0,6
+2020-03-17,North Dakota,Grand Forks County,Medical,40.0,"",40.0,7
+2020-03-17,North Dakota,Grand Forks County,Professional & Other Places,13.0,"",13.0,8
+2020-03-17,North Dakota,Cass County,Shops & Services,60.0,58.0,61.0,1
+2020-03-17,North Dakota,Cass County,Food,33.0,32.0,33.0,2
+2020-03-17,North Dakota,Cass County,Nightlife Spots,73.0,"",73.0,3
+2020-03-17,North Dakota,Cass County,Grocery,133.0,118.0,133.0,4
+2020-03-17,North Dakota,Cass County,Gas Stations,91.0,108.0,91.0,5
+2020-03-17,North Dakota,Cass County,Medical,46.0,"",46.0,6
+2020-03-17,North Dakota,Cass County,Professional & Other Places,12.0,"",12.0,7
+2020-03-17,North Dakota,Cass County,Big Box Stores,90.0,"",91.0,8
+2020-03-17,North Dakota,Cass County,Fast Food Restaurants,80.0,"",80.0,9
+2020-03-17,North Dakota,Cass County,Outdoors & Recreation,22.0,"",22.0,10
+2020-03-17,North Dakota,Cass County,Office,68.0,"",68.0,11
+2020-03-17,North Dakota,Cass County,Hotel,60.0,"",60.0,12
+2020-03-17,North Dakota,Cass County,Residences,86.0,"",86.0,13
+2020-03-17,North Dakota,Cass County,Arts & Entertainment,58.0,"",58.0,14
+2020-03-17,North Dakota,Cass County,Fitness Center,31.0,"",31.0,15
+2020-03-17,North Dakota,Cass County,School,25.0,"",25.0,15
+2020-03-17,North Dakota,Cass County,Hardware Stores,109.0,"",109.0,16
+2020-03-17,North Dakota,Stark County,Shops & Services,19.0,"",19.0,1
+2020-03-17,North Dakota,Stark County,Food,78.0,"",79.0,2
+2020-03-17,North Dakota,Williams County,Food,82.0,"",82.0,1
+2020-03-17,North Dakota,Williams County,Shops & Services,98.0,"",98.0,2
+2020-03-17,North Dakota,Williams County,Gas Stations,83.0,"",84.0,3
+2020-03-17,North Dakota,Morton County,Nightlife Spots,77.0,"",77.0,1
+2020-03-17,North Dakota,Burleigh County,Shops & Services,96.0,56.0,97.0,1
+2020-03-17,North Dakota,Burleigh County,Food,74.0,53.0,75.0,2
+2020-03-17,North Dakota,Burleigh County,Big Box Stores,113.0,"",114.0,3
+2020-03-17,North Dakota,Burleigh County,Nightlife Spots,82.0,"",82.0,3
+2020-03-17,North Dakota,Burleigh County,Medical,44.0,"",44.0,4
+2020-03-17,North Dakota,Burleigh County,Gas Stations,92.0,"",91.0,5
+2020-03-17,North Dakota,Burleigh County,Grocery,144.0,207.0,142.0,6
+2020-03-17,North Dakota,Burleigh County,Fast Food Restaurants,86.0,"",87.0,7
+2020-03-18,North Dakota,Cass County,Shops & Services,24.0,18.0,24.0,1
+2020-03-18,North Dakota,Cass County,Food,31.0,33.0,31.0,2
+2020-03-18,North Dakota,Cass County,Nightlife Spots,71.0,"",71.0,3
+2020-03-18,North Dakota,Cass County,Grocery,124.0,"",125.0,4
+2020-03-18,North Dakota,Cass County,Gas Stations,86.0,"",86.0,5
+2020-03-18,North Dakota,Cass County,Medical,41.0,"",41.0,6
+2020-03-18,North Dakota,Cass County,Professional & Other Places,13.0,"",13.0,7
+2020-03-18,North Dakota,Cass County,Big Box Stores,102.0,"",102.0,8
+2020-03-18,North Dakota,Cass County,Outdoors & Recreation,24.0,"",24.0,9
+2020-03-18,North Dakota,Cass County,Fast Food Restaurants,68.0,"",68.0,10
+2020-03-18,North Dakota,Cass County,Office,78.0,"",77.0,11
+2020-03-18,North Dakota,Cass County,Hotel,54.0,"",54.0,12
+2020-03-18,North Dakota,Cass County,School,27.0,"",27.0,13
+2020-03-18,North Dakota,Cass County,Fitness Center,30.0,"",30.0,14
+2020-03-18,North Dakota,Cass County,Arts & Entertainment,51.0,"",52.0,15
+2020-03-18,North Dakota,Stark County,Food,71.0,"",71.0,1
+2020-03-18,North Dakota,Stark County,Shops & Services,15.0,"",16.0,2
+2020-03-18,North Dakota,Morton County,Nightlife Spots,86.0,"",86.0,1
+2020-03-18,North Dakota,Grand Forks County,Shops & Services,71.0,58.0,72.0,1
+2020-03-18,North Dakota,Grand Forks County,Food,29.0,"",29.0,2
+2020-03-18,North Dakota,Grand Forks County,Nightlife Spots,74.0,"",75.0,3
+2020-03-18,North Dakota,Grand Forks County,Big Box Stores,119.0,"",119.0,4
+2020-03-18,North Dakota,Grand Forks County,Gas Stations,91.0,"",90.0,5
+2020-03-18,North Dakota,Grand Forks County,Grocery,127.0,"",128.0,6
+2020-03-18,North Dakota,Grand Forks County,Medical,47.0,"",47.0,6
+2020-03-18,North Dakota,Grand Forks County,Professional & Other Places,15.0,"",15.0,7
+2020-03-18,North Dakota,Williams County,Food,66.0,"",66.0,1
+2020-03-18,North Dakota,Williams County,Gas Stations,79.0,"",79.0,2
+2020-03-18,North Dakota,Williams County,Shops & Services,82.0,"",82.0,3
+2020-03-18,North Dakota,Williams County,Grocery,163.0,"",164.0,4
+2020-03-18,North Dakota,Ward County,Shops & Services,78.0,71.0,79.0,1
+2020-03-18,North Dakota,Ward County,Nightlife Spots,66.0,"",66.0,2
+2020-03-18,North Dakota,Ward County,Food,29.0,"",29.0,3
+2020-03-18,North Dakota,Ward County,Gas Stations,74.0,"",74.0,4
+2020-03-18,North Dakota,Ward County,Grocery,146.0,"",148.0,5
+2020-03-18,North Dakota,Ward County,Medical,37.0,"",37.0,6
+2020-03-18,North Dakota,McKenzie County,Shops & Services,128.0,"",129.0,1
+2020-03-18,North Dakota,McKenzie County,Gas Stations,87.0,"",87.0,2
+2020-03-18,North Dakota,McKenzie County,Professional & Other Places,35.0,"",35.0,3
+2020-03-18,North Dakota,Burleigh County,Shops & Services,89.0,71.0,89.0,1
+2020-03-18,North Dakota,Burleigh County,Food,29.0,"",29.0,2
+2020-03-18,North Dakota,Burleigh County,Medical,44.0,"",45.0,3
+2020-03-18,North Dakota,Burleigh County,Gas Stations,94.0,"",95.0,4
+2020-03-18,North Dakota,Burleigh County,Big Box Stores,98.0,"",99.0,5
+2020-03-18,North Dakota,Burleigh County,Grocery,137.0,"",137.0,6
+2020-03-18,North Dakota,Burleigh County,Nightlife Spots,56.0,"",55.0,7
+2020-03-18,North Dakota,Burleigh County,Hardware Stores,124.0,"",125.0,8
+2020-03-18,North Dakota,Burleigh County,Fast Food Restaurants,69.0,"",69.0,9
+2020-03-19,North Dakota,Williams County,Food,76.0,"",76.0,1
+2020-03-19,North Dakota,Williams County,Shops & Services,93.0,"",93.0,2
+2020-03-19,North Dakota,Williams County,Gas Stations,77.0,"",77.0,3
+2020-03-19,North Dakota,Williams County,Grocery,151.0,"",151.0,4
+2020-03-19,North Dakota,McKenzie County,Shops & Services,103.0,"",103.0,1
+2020-03-19,North Dakota,Morton County,Nightlife Spots,64.0,"",64.0,1
+2020-03-19,North Dakota,Cass County,Shops & Services,18.0,13.0,18.0,1
+2020-03-19,North Dakota,Cass County,Food,25.0,20.0,25.0,2
+2020-03-19,North Dakota,Cass County,Grocery,120.0,"",121.0,3
+2020-03-19,North Dakota,Cass County,Nightlife Spots,53.0,"",54.0,4
+2020-03-19,North Dakota,Cass County,Gas Stations,65.0,"",66.0,5
+2020-03-19,North Dakota,Cass County,Medical,36.0,"",36.0,6
+2020-03-19,North Dakota,Cass County,Professional & Other Places,10.0,"",10.0,7
+2020-03-19,North Dakota,Cass County,Outdoors & Recreation,22.0,"",22.0,8
+2020-03-19,North Dakota,Cass County,Big Box Stores,87.0,"",87.0,9
+2020-03-19,North Dakota,Cass County,Fast Food Restaurants,57.0,"",57.0,10
+2020-03-19,North Dakota,Cass County,Office,59.0,"",59.0,11
+2020-03-19,North Dakota,Cass County,Residences,75.0,"",75.0,12
+2020-03-19,North Dakota,Cass County,Hotel,44.0,"",44.0,13
+2020-03-19,North Dakota,Ward County,Shops & Services,71.0,"",71.0,1
+2020-03-19,North Dakota,Ward County,Food,29.0,"",29.0,2
+2020-03-19,North Dakota,Ward County,Nightlife Spots,41.0,"",42.0,3
+2020-03-19,North Dakota,Ward County,Gas Stations,70.0,"",70.0,4
+2020-03-19,North Dakota,Ward County,Big Box Stores,88.0,"",88.0,5
+2020-03-19,North Dakota,Ward County,Medical,43.0,"",43.0,6
+2020-03-19,North Dakota,Ward County,Grocery,111.0,"",113.0,7
+2020-03-19,North Dakota,Grand Forks County,Shops & Services,59.0,60.0,59.0,1
+2020-03-19,North Dakota,Grand Forks County,Food,29.0,"",29.0,2
+2020-03-19,North Dakota,Grand Forks County,Nightlife Spots,56.0,"",56.0,3
+2020-03-19,North Dakota,Grand Forks County,Big Box Stores,82.0,"",82.0,4
+2020-03-19,North Dakota,Grand Forks County,Gas Stations,71.0,"",71.0,5
+2020-03-19,North Dakota,Grand Forks County,Medical,41.0,"",41.0,6
+2020-03-19,North Dakota,Grand Forks County,Grocery,134.0,"",134.0,7
+2020-03-19,North Dakota,Burleigh County,Shops & Services,71.0,50.0,71.0,1
+2020-03-19,North Dakota,Burleigh County,Food,21.0,"",22.0,2
+2020-03-19,North Dakota,Burleigh County,Big Box Stores,100.0,"",101.0,3
+2020-03-19,North Dakota,Burleigh County,Grocery,130.0,"",131.0,4
+2020-03-19,North Dakota,Burleigh County,Medical,33.0,"",34.0,5
+2020-03-19,North Dakota,Burleigh County,Gas Stations,72.0,"",73.0,6
+2020-03-19,North Dakota,Burleigh County,Nightlife Spots,39.0,"",39.0,7
+2020-03-20,North Dakota,Burleigh County,Shops & Services,57.0,54.0,57.0,1
+2020-03-20,North Dakota,Burleigh County,Food,34.0,"",35.0,2
+2020-03-20,North Dakota,Burleigh County,Gas Stations,84.0,"",83.0,3
+2020-03-20,North Dakota,Burleigh County,Big Box Stores,83.0,"",83.0,3
+2020-03-20,North Dakota,Burleigh County,Grocery,112.0,"",113.0,4
+2020-03-20,North Dakota,Burleigh County,Nightlife Spots,42.0,"",42.0,5
+2020-03-20,North Dakota,Burleigh County,Medical,32.0,"",32.0,6
+2020-03-20,North Dakota,Burleigh County,Fast Food Restaurants,70.0,"",69.0,7
+2020-03-20,North Dakota,Williams County,Food,62.0,"",62.0,1
+2020-03-20,North Dakota,Williams County,Shops & Services,84.0,"",84.0,2
+2020-03-20,North Dakota,Williams County,Gas Stations,79.0,"",80.0,3
+2020-03-20,North Dakota,Williams County,Grocery,147.0,"",147.0,4
+2020-03-20,North Dakota,McKenzie County,Shops & Services,122.0,"",122.0,1
+2020-03-20,North Dakota,McKenzie County,Professional & Other Places,35.0,"",35.0,2
+2020-03-20,North Dakota,Morton County,Nightlife Spots,44.0,"",44.0,1
+2020-03-20,North Dakota,Cass County,Shops & Services,16.0,13.0,16.0,1
+2020-03-20,North Dakota,Cass County,Food,20.0,18.0,20.0,2
+2020-03-20,North Dakota,Cass County,Grocery,117.0,"",118.0,3
+2020-03-20,North Dakota,Cass County,Gas Stations,76.0,"",76.0,4
+2020-03-20,North Dakota,Cass County,Nightlife Spots,39.0,"",39.0,5
+2020-03-20,North Dakota,Cass County,Medical,38.0,"",38.0,6
+2020-03-20,North Dakota,Cass County,Big Box Stores,73.0,"",73.0,7
+2020-03-20,North Dakota,Cass County,Fast Food Restaurants,65.0,"",65.0,8
+2020-03-20,North Dakota,Cass County,Professional & Other Places,11.0,"",11.0,9
+2020-03-20,North Dakota,Cass County,Outdoors & Recreation,71.0,"",71.0,10
+2020-03-20,North Dakota,Cass County,Residences,75.0,"",75.0,11
+2020-03-20,North Dakota,Cass County,Office,67.0,"",67.0,12
+2020-03-20,North Dakota,Cass County,Hardware Stores,102.0,"",103.0,13
+2020-03-20,North Dakota,Grand Forks County,Shops & Services,49.0,45.0,49.0,1
+2020-03-20,North Dakota,Grand Forks County,Big Box Stores,95.0,"",96.0,2
+2020-03-20,North Dakota,Grand Forks County,Food,16.0,"",16.0,3
+2020-03-20,North Dakota,Grand Forks County,Grocery,136.0,"",138.0,4
+2020-03-20,North Dakota,Grand Forks County,Gas Stations,65.0,"",65.0,5
+2020-03-20,North Dakota,Grand Forks County,Fast Food Restaurants,67.0,"",67.0,6
+2020-03-20,North Dakota,Ward County,Shops & Services,56.0,"",57.0,1
+2020-03-20,North Dakota,Ward County,Food,21.0,"",21.0,2
+2020-03-20,North Dakota,Ward County,Nightlife Spots,35.0,"",35.0,3
+2020-03-20,North Dakota,Ward County,Gas Stations,80.0,"",80.0,4
+2020-03-20,North Dakota,Ward County,Grocery,162.0,"",163.0,5
+2020-03-20,North Dakota,Ward County,Medical,46.0,"",47.0,6
+2020-03-20,North Dakota,Ward County,Fast Food Restaurants,73.0,"",74.0,7
+2020-03-20,North Dakota,Ward County,Big Box Stores,68.0,"",69.0,8
+2020-03-21,North Dakota,Cass County,Shops & Services,25.0,23.0,26.0,1
+2020-03-21,North Dakota,Cass County,Food,15.0,"",15.0,2
+2020-03-21,North Dakota,Cass County,Grocery,86.0,"",86.0,3
+2020-03-21,North Dakota,Cass County,Big Box Stores,66.0,"",67.0,4
+2020-03-21,North Dakota,Cass County,Gas Stations,53.0,"",53.0,5
+2020-03-21,North Dakota,Cass County,Nightlife Spots,15.0,"",15.0,6
+2020-03-21,North Dakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
+2020-03-21,North Dakota,Cass County,Fast Food Restaurants,39.0,"",39.0,8
+2020-03-21,North Dakota,Cass County,Residences,72.0,"",72.0,9
+2020-03-21,North Dakota,Grand Forks County,Shops & Services,34.0,"",34.0,1
+2020-03-21,North Dakota,Grand Forks County,Big Box Stores,69.0,"",69.0,2
+2020-03-21,North Dakota,Grand Forks County,Food,12.0,"",12.0,3
+2020-03-21,North Dakota,Grand Forks County,Gas Stations,64.0,"",64.0,4
+2020-03-21,North Dakota,Grand Forks County,Grocery,104.0,"",105.0,5
+2020-03-21,North Dakota,Ward County,Shops & Services,36.0,"",35.0,1
+2020-03-21,North Dakota,Ward County,Food,29.0,"",29.0,2
+2020-03-21,North Dakota,Ward County,Nightlife Spots,21.0,"",21.0,3
+2020-03-21,North Dakota,Ward County,Grocery,99.0,"",99.0,3
+2020-03-21,North Dakota,Ward County,Big Box Stores,56.0,"",56.0,3
+2020-03-21,North Dakota,Ward County,Gas Stations,59.0,"",59.0,4
+2020-03-21,North Dakota,Burleigh County,Shops & Services,33.0,"",33.0,1
+2020-03-21,North Dakota,Burleigh County,Food,24.0,"",24.0,2
+2020-03-21,North Dakota,Burleigh County,Big Box Stores,53.0,"",53.0,3
+2020-03-21,North Dakota,Burleigh County,Grocery,87.0,"",88.0,4
+2020-03-21,North Dakota,Burleigh County,Gas Stations,51.0,"",51.0,5
+2020-03-21,North Dakota,Burleigh County,Nightlife Spots,27.0,"",27.0,6
+2020-03-21,North Dakota,Morton County,Nightlife Spots,32.0,"",32.0,1
+2020-03-21,North Dakota,Williams County,Food,48.0,"",48.0,1
+2020-03-21,North Dakota,Williams County,Shops & Services,73.0,"",73.0,2
+2020-03-21,North Dakota,Williams County,Gas Stations,79.0,"",79.0,3
+2020-03-22,North Dakota,Cass County,Food,31.0,52.0,31.0,1
+2020-03-22,North Dakota,Cass County,Shops & Services,30.0,"",30.0,2
+2020-03-22,North Dakota,Cass County,Grocery,76.0,"",76.0,3
+2020-03-22,North Dakota,Cass County,Gas Stations,54.0,"",54.0,4
+2020-03-22,North Dakota,Cass County,Big Box Stores,49.0,"",49.0,5
+2020-03-22,North Dakota,Cass County,Nightlife Spots,13.0,"",12.0,6
+2020-03-22,North Dakota,Cass County,Outdoors & Recreation,74.0,"",73.0,7
+2020-03-22,North Dakota,Cass County,Fast Food Restaurants,49.0,"",49.0,8
+2020-03-22,North Dakota,Ward County,Shops & Services,39.0,"",39.0,1
+2020-03-22,North Dakota,Ward County,Food,37.0,"",37.0,2
+2020-03-22,North Dakota,Grand Forks County,Shops & Services,27.0,"",27.0,1
+2020-03-22,North Dakota,Grand Forks County,Big Box Stores,51.0,"",51.0,2
+2020-03-22,North Dakota,Grand Forks County,Food,11.0,"",11.0,3
+2020-03-22,North Dakota,Williams County,Food,45.0,"",45.0,1
+2020-03-22,North Dakota,Williams County,Shops & Services,78.0,"",79.0,2
+2020-03-22,North Dakota,Williams County,Gas Stations,76.0,"",76.0,3
+2020-03-22,North Dakota,Burleigh County,Shops & Services,42.0,"",42.0,1
+2020-03-22,North Dakota,Burleigh County,Food,29.0,"",29.0,2
+2020-03-22,North Dakota,Burleigh County,Gas Stations,72.0,"",72.0,3
+2020-03-22,North Dakota,Burleigh County,Big Box Stores,49.0,"",49.0,4
+2020-03-22,North Dakota,Burleigh County,Nightlife Spots,27.0,"",26.0,5
+2020-03-22,North Dakota,Burleigh County,Grocery,64.0,"",65.0,6
+2020-03-22,North Dakota,Burleigh County,Outdoors & Recreation,102.0,"",102.0,7
+2020-03-23,North Dakota,McKenzie County,Professional & Other Places,39.0,"",39.0,1
+2020-03-23,North Dakota,McKenzie County,Shops & Services,128.0,"",128.0,2
+2020-03-23,North Dakota,Williams County,Food,62.0,"",62.0,1
+2020-03-23,North Dakota,Williams County,Gas Stations,70.0,"",69.0,2
+2020-03-23,North Dakota,Williams County,Shops & Services,72.0,"",72.0,3
+2020-03-23,North Dakota,Morton County,Nightlife Spots,57.0,"",56.0,1
+2020-03-23,North Dakota,Grand Forks County,Shops & Services,41.0,52.0,40.0,1
+2020-03-23,North Dakota,Grand Forks County,Gas Stations,77.0,"",77.0,2
+2020-03-23,North Dakota,Grand Forks County,Food,17.0,"",17.0,3
+2020-03-23,North Dakota,Grand Forks County,Big Box Stores,61.0,"",60.0,4
+2020-03-23,North Dakota,Grand Forks County,Medical,35.0,"",35.0,5
+2020-03-23,North Dakota,Burleigh County,Shops & Services,63.0,49.0,63.0,1
+2020-03-23,North Dakota,Burleigh County,Food,43.0,"",44.0,2
+2020-03-23,North Dakota,Burleigh County,Gas Stations,74.0,"",75.0,3
+2020-03-23,North Dakota,Burleigh County,Medical,26.0,"",26.0,4
+2020-03-23,North Dakota,Burleigh County,Big Box Stores,58.0,"",59.0,5
+2020-03-23,North Dakota,Burleigh County,Grocery,85.0,"",87.0,6
+2020-03-23,North Dakota,Burleigh County,Nightlife Spots,40.0,"",39.0,7
+2020-03-23,North Dakota,Ward County,Shops & Services,58.0,"",58.0,1
+2020-03-23,North Dakota,Ward County,Food,23.0,"",23.0,2
+2020-03-23,North Dakota,Ward County,Nightlife Spots,37.0,"",37.0,3
+2020-03-23,North Dakota,Ward County,Gas Stations,64.0,"",64.0,4
+2020-03-23,North Dakota,Cass County,Shops & Services,42.0,35.0,43.0,1
+2020-03-23,North Dakota,Cass County,Food,18.0,"",18.0,2
+2020-03-23,North Dakota,Cass County,Gas Stations,77.0,"",78.0,3
+2020-03-23,North Dakota,Cass County,Grocery,86.0,"",86.0,4
+2020-03-23,North Dakota,Cass County,Medical,37.0,"",38.0,5
+2020-03-23,North Dakota,Cass County,Nightlife Spots,36.0,"",35.0,6
+2020-03-23,North Dakota,Cass County,Professional & Other Places,12.0,"",12.0,7
+2020-03-23,North Dakota,Cass County,Outdoors & Recreation,24.0,"",24.0,8
+2020-03-23,North Dakota,Cass County,Fast Food Restaurants,58.0,"",59.0,9
+2020-03-23,North Dakota,Cass County,Big Box Stores,64.0,"",64.0,10
+2020-03-23,North Dakota,Cass County,Office,62.0,"",61.0,11
+2020-03-23,North Dakota,Cass County,Residences,73.0,"",71.0,12
+2020-03-24,North Dakota,Ward County,Shops & Services,55.0,"",56.0,1
+2020-03-24,North Dakota,Ward County,Food,23.0,"",23.0,2
+2020-03-24,North Dakota,Ward County,Gas Stations,80.0,"",81.0,3
+2020-03-24,North Dakota,Ward County,Nightlife Spots,37.0,"",37.0,4
+2020-03-24,North Dakota,McKenzie County,Professional & Other Places,32.0,"",32.0,1
+2020-03-24,North Dakota,McKenzie County,Shops & Services,97.0,"",97.0,2
+2020-03-24,North Dakota,Grand Forks County,Shops & Services,41.0,51.0,41.0,1
+2020-03-24,North Dakota,Grand Forks County,Food,21.0,"",21.0,2
+2020-03-24,North Dakota,Grand Forks County,Gas Stations,72.0,"",72.0,3
+2020-03-24,North Dakota,Grand Forks County,Big Box Stores,76.0,"",77.0,4
+2020-03-24,North Dakota,Grand Forks County,Medical,33.0,"",33.0,5
+2020-03-24,North Dakota,Morton County,Nightlife Spots,59.0,"",59.0,1
+2020-03-24,North Dakota,Burleigh County,Shops & Services,53.0,41.0,54.0,1
+2020-03-24,North Dakota,Burleigh County,Food,18.0,"",18.0,2
+2020-03-24,North Dakota,Burleigh County,Gas Stations,67.0,"",68.0,3
+2020-03-24,North Dakota,Burleigh County,Medical,30.0,"",30.0,4
+2020-03-24,North Dakota,Burleigh County,Big Box Stores,57.0,"",58.0,5
+2020-03-24,North Dakota,Burleigh County,Nightlife Spots,41.0,"",41.0,6
+2020-03-24,North Dakota,Burleigh County,Outdoors & Recreation,38.0,"",38.0,7
+2020-03-24,North Dakota,Burleigh County,Fast Food Restaurants,67.0,"",69.0,7
+2020-03-24,North Dakota,Burleigh County,Grocery,70.0,"",70.0,8
+2020-03-24,North Dakota,Cass County,Shops & Services,14.0,12.0,15.0,1
+2020-03-24,North Dakota,Cass County,Food,22.0,26.0,22.0,2
+2020-03-24,North Dakota,Cass County,Gas Stations,76.0,"",76.0,3
+2020-03-24,North Dakota,Cass County,Grocery,80.0,"",81.0,4
+2020-03-24,North Dakota,Cass County,Medical,33.0,"",33.0,5
+2020-03-24,North Dakota,Cass County,Nightlife Spots,33.0,"",32.0,6
+2020-03-24,North Dakota,Cass County,Professional & Other Places,11.0,"",11.0,7
+2020-03-24,North Dakota,Cass County,Outdoors & Recreation,80.0,"",78.0,8
+2020-03-24,North Dakota,Cass County,Big Box Stores,64.0,"",63.0,9
+2020-03-24,North Dakota,Cass County,Residences,88.0,"",86.0,10
+2020-03-24,North Dakota,Cass County,Fast Food Restaurants,54.0,"",55.0,11
+2020-03-24,North Dakota,Cass County,Office,50.0,"",50.0,12
+2020-03-24,North Dakota,Williams County,Shops & Services,75.0,"",75.0,1
+2020-03-24,North Dakota,Williams County,Food,50.0,"",51.0,1
+2020-03-24,North Dakota,Williams County,Gas Stations,65.0,"",65.0,2
+2020-03-25,North Dakota,Cass County,Shops & Services,61.0,41.0,61.0,1
+2020-03-25,North Dakota,Cass County,Food,46.0,"",46.0,2
+2020-03-25,North Dakota,Cass County,Gas Stations,70.0,"",70.0,3
+2020-03-25,North Dakota,Cass County,Grocery,82.0,"",82.0,4
+2020-03-25,North Dakota,Cass County,Medical,31.0,"",31.0,5
+2020-03-25,North Dakota,Cass County,Nightlife Spots,18.0,"",17.0,6
+2020-03-25,North Dakota,Cass County,Professional & Other Places,11.0,"",11.0,7
+2020-03-25,North Dakota,Cass County,Outdoors & Recreation,25.0,"",25.0,8
+2020-03-25,North Dakota,Cass County,Fast Food Restaurants,71.0,"",71.0,9
+2020-03-25,North Dakota,Cass County,Big Box Stores,78.0,"",79.0,10
+2020-03-25,North Dakota,Cass County,Office,69.0,"",68.0,11
+2020-03-25,North Dakota,Williams County,Gas Stations,67.0,"",67.0,1
+2020-03-25,North Dakota,Williams County,Food,47.0,"",48.0,1
+2020-03-25,North Dakota,Williams County,Shops & Services,67.0,"",68.0,2
+2020-03-25,North Dakota,Ward County,Shops & Services,61.0,"",61.0,1
+2020-03-25,North Dakota,Ward County,Food,22.0,"",22.0,2
+2020-03-25,North Dakota,Ward County,Nightlife Spots,38.0,"",38.0,3
+2020-03-25,North Dakota,Ward County,Gas Stations,72.0,"",71.0,4
+2020-03-25,North Dakota,Morton County,Nightlife Spots,57.0,"",57.0,1
+2020-03-25,North Dakota,McKenzie County,Professional & Other Places,35.0,"",35.0,1
+2020-03-25,North Dakota,McKenzie County,Shops & Services,108.0,"",108.0,2
+2020-03-25,North Dakota,Grand Forks County,Shops & Services,47.0,"",47.0,1
+2020-03-25,North Dakota,Grand Forks County,Food,19.0,"",19.0,2
+2020-03-25,North Dakota,Grand Forks County,Big Box Stores,86.0,"",86.0,3
+2020-03-25,North Dakota,Grand Forks County,Gas Stations,71.0,"",70.0,4
+2020-03-25,North Dakota,Burleigh County,Shops & Services,55.0,45.0,55.0,1
+2020-03-25,North Dakota,Burleigh County,Food,20.0,"",20.0,2
+2020-03-25,North Dakota,Burleigh County,Nightlife Spots,46.0,"",46.0,3
+2020-03-25,North Dakota,Burleigh County,Gas Stations,69.0,"",69.0,4
+2020-03-25,North Dakota,Burleigh County,Medical,27.0,"",27.0,5
+2020-03-25,North Dakota,Burleigh County,Big Box Stores,62.0,"",62.0,6
+2020-03-25,North Dakota,Burleigh County,Grocery,86.0,"",87.0,7
+2020-03-26,North Dakota,Burleigh County,Shops & Services,57.0,41.0,58.0,1
+2020-03-26,North Dakota,Burleigh County,Food,42.0,"",43.0,2
+2020-03-26,North Dakota,Burleigh County,Gas Stations,86.0,"",86.0,3
+2020-03-26,North Dakota,Burleigh County,Big Box Stores,69.0,"",70.0,4
+2020-03-26,North Dakota,Burleigh County,Nightlife Spots,38.0,"",38.0,5
+2020-03-26,North Dakota,Burleigh County,Medical,27.0,"",27.0,6
+2020-03-26,North Dakota,Burleigh County,Fast Food Restaurants,76.0,"",76.0,7
+2020-03-26,North Dakota,Burleigh County,Grocery,79.0,"",81.0,8
+2020-03-26,North Dakota,Burleigh County,Outdoors & Recreation,111.0,"",111.0,9
+2020-03-26,North Dakota,Cass County,Shops & Services,16.0,13.0,16.0,1
+2020-03-26,North Dakota,Cass County,Food,21.0,18.0,21.0,2
+2020-03-26,North Dakota,Cass County,Gas Stations,70.0,"",70.0,3
+2020-03-26,North Dakota,Cass County,Grocery,92.0,"",93.0,4
+2020-03-26,North Dakota,Cass County,Nightlife Spots,34.0,"",34.0,5
+2020-03-26,North Dakota,Cass County,Medical,30.0,"",30.0,6
+2020-03-26,North Dakota,Cass County,Professional & Other Places,9.0,"",9.0,7
+2020-03-26,North Dakota,Cass County,Outdoors & Recreation,22.0,"",22.0,8
+2020-03-26,North Dakota,Cass County,Big Box Stores,80.0,"",82.0,9
+2020-03-26,North Dakota,Cass County,Fast Food Restaurants,61.0,"",62.0,10
+2020-03-26,North Dakota,Cass County,Office,56.0,"",56.0,11
+2020-03-26,North Dakota,McKenzie County,Shops & Services,102.0,"",102.0,1
+2020-03-26,North Dakota,McKenzie County,Professional & Other Places,29.0,"",29.0,2
+2020-03-26,North Dakota,Grand Forks County,Shops & Services,50.0,53.0,50.0,1
+2020-03-26,North Dakota,Grand Forks County,Food,19.0,"",19.0,2
+2020-03-26,North Dakota,Grand Forks County,Big Box Stores,81.0,"",82.0,3
+2020-03-26,North Dakota,Grand Forks County,Gas Stations,64.0,"",64.0,4
+2020-03-26,North Dakota,Grand Forks County,Medical,37.0,"",37.0,5
+2020-03-26,North Dakota,Williams County,Food,55.0,"",55.0,1
+2020-03-26,North Dakota,Williams County,Gas Stations,70.0,"",69.0,2
+2020-03-26,North Dakota,Williams County,Shops & Services,72.0,"",72.0,3
+2020-03-26,North Dakota,Morton County,Nightlife Spots,51.0,"",51.0,1
+2020-03-26,North Dakota,Ward County,Shops & Services,65.0,"",65.0,1
+2020-03-26,North Dakota,Ward County,Food,22.0,"",23.0,2
+2020-03-26,North Dakota,Ward County,Gas Stations,78.0,"",77.0,3
+2020-03-26,North Dakota,Ward County,Nightlife Spots,33.0,"",33.0,4
+2020-03-27,North Dakota,Cass County,Shops & Services,14.0,11.0,14.0,1
+2020-03-27,North Dakota,Cass County,Food,20.0,"",20.0,2
+2020-03-27,North Dakota,Cass County,Grocery,90.0,"",91.0,3
+2020-03-27,North Dakota,Cass County,Gas Stations,68.0,"",68.0,4
+2020-03-27,North Dakota,Cass County,Nightlife Spots,26.0,"",26.0,5
+2020-03-27,North Dakota,Cass County,Medical,29.0,"",29.0,6
+2020-03-27,North Dakota,Cass County,Big Box Stores,74.0,"",74.0,7
+2020-03-27,North Dakota,Cass County,Fast Food Restaurants,57.0,"",57.0,8
+2020-03-27,North Dakota,Cass County,Outdoors & Recreation,21.0,"",21.0,9
+2020-03-27,North Dakota,Cass County,Professional & Other Places,10.0,"",10.0,10
+2020-03-27,North Dakota,Cass County,Office,70.0,"",70.0,11
+2020-03-27,North Dakota,Cass County,Residences,64.0,"",64.0,12
+2020-03-27,North Dakota,Cass County,Hardware Stores,88.0,"",89.0,13
+2020-03-27,North Dakota,Burleigh County,Shops & Services,53.0,40.0,53.0,1
+2020-03-27,North Dakota,Burleigh County,Food,36.0,"",36.0,2
+2020-03-27,North Dakota,Burleigh County,Gas Stations,72.0,"",73.0,3
+2020-03-27,North Dakota,Burleigh County,Nightlife Spots,37.0,"",37.0,4
+2020-03-27,North Dakota,Burleigh County,Medical,35.0,"",35.0,5
+2020-03-27,North Dakota,Burleigh County,Big Box Stores,60.0,"",60.0,6
+2020-03-27,North Dakota,Burleigh County,Grocery,82.0,"",83.0,7
+2020-03-27,North Dakota,Burleigh County,Outdoors & Recreation,46.0,"",46.0,8
+2020-03-27,North Dakota,Burleigh County,Fast Food Restaurants,61.0,"",60.0,9
+2020-03-27,North Dakota,Grand Forks County,Shops & Services,38.0,"",38.0,1
+2020-03-27,North Dakota,Grand Forks County,Big Box Stores,72.0,"",72.0,2
+2020-03-27,North Dakota,Grand Forks County,Food,13.0,"",13.0,3
+2020-03-27,North Dakota,Grand Forks County,Gas Stations,67.0,"",67.0,4
+2020-03-27,North Dakota,Williams County,Food,46.0,"",46.0,1
+2020-03-27,North Dakota,Williams County,Shops & Services,74.0,"",74.0,2
+2020-03-27,North Dakota,Williams County,Gas Stations,66.0,"",66.0,3
+2020-03-27,North Dakota,Morton County,Nightlife Spots,44.0,"",44.0,1
+2020-03-27,North Dakota,Ward County,Shops & Services,59.0,"",60.0,1
+2020-03-27,North Dakota,Ward County,Food,19.0,"",19.0,2
+2020-03-27,North Dakota,Ward County,Nightlife Spots,33.0,"",33.0,3
+2020-03-27,North Dakota,Ward County,Gas Stations,66.0,"",66.0,4
+2020-03-28,North Dakota,Ward County,Shops & Services,42.0,"",42.0,1
+2020-03-28,North Dakota,Ward County,Food,14.0,"",14.0,2
+2020-03-28,North Dakota,Ward County,Nightlife Spots,26.0,"",26.0,3
+2020-03-28,North Dakota,Ward County,Big Box Stores,69.0,"",69.0,4
+2020-03-28,North Dakota,Ward County,Gas Stations,60.0,"",61.0,5
+2020-03-28,North Dakota,Cass County,Food,14.0,"",14.0,1
+2020-03-28,North Dakota,Cass County,Shops & Services,22.0,"",22.0,2
+2020-03-28,North Dakota,Cass County,Grocery,77.0,"",77.0,3
+2020-03-28,North Dakota,Cass County,Gas Stations,55.0,"",55.0,4
+2020-03-28,North Dakota,Cass County,Nightlife Spots,17.0,"",17.0,5
+2020-03-28,North Dakota,Cass County,Big Box Stores,60.0,"",60.0,6
+2020-03-28,North Dakota,Cass County,Outdoors & Recreation,20.0,"",20.0,7
+2020-03-28,North Dakota,Cass County,Fast Food Restaurants,43.0,"",43.0,8
+2020-03-28,North Dakota,Cass County,Residences,78.0,"",78.0,9
+2020-03-28,North Dakota,Cass County,Medical,41.0,"",40.0,10
+2020-03-28,North Dakota,Williams County,Food,46.0,"",46.0,1
+2020-03-28,North Dakota,Williams County,Shops & Services,64.0,"",64.0,2
+2020-03-28,North Dakota,Williams County,Gas Stations,69.0,"",69.0,3
+2020-03-28,North Dakota,Morton County,Nightlife Spots,36.0,"",36.0,1
+2020-03-28,North Dakota,Burleigh County,Shops & Services,38.0,"",38.0,1
+2020-03-28,North Dakota,Burleigh County,Food,31.0,"",31.0,2
+2020-03-28,North Dakota,Burleigh County,Outdoors & Recreation,157.0,"",158.0,3
+2020-03-28,North Dakota,Burleigh County,Big Box Stores,52.0,"",52.0,4
+2020-03-28,North Dakota,Burleigh County,Nightlife Spots,37.0,"",37.0,5
+2020-03-28,North Dakota,Burleigh County,Gas Stations,63.0,"",63.0,6
+2020-03-28,North Dakota,Burleigh County,Grocery,82.0,"",83.0,7
+2020-03-28,North Dakota,Burleigh County,Hardware Stores,80.0,"",82.0,8
+2020-03-28,North Dakota,Grand Forks County,Shops & Services,32.0,"",32.0,1
+2020-03-28,North Dakota,Grand Forks County,Big Box Stores,61.0,"",61.0,2
+2020-03-28,North Dakota,Grand Forks County,Food,12.0,"",12.0,3
+2020-03-28,North Dakota,Grand Forks County,Gas Stations,66.0,"",67.0,4
+2020-03-28,North Dakota,Grand Forks County,Hardware Stores,109.0,"",110.0,5
+2020-03-29,North Dakota,Ward County,Shops & Services,41.0,"",41.0,1
+2020-03-29,North Dakota,Ward County,Food,15.0,"",15.0,2
+2020-03-29,North Dakota,Ward County,Nightlife Spots,21.0,"",21.0,3
+2020-03-29,North Dakota,Grand Forks County,Shops & Services,24.0,"",24.0,1
+2020-03-29,North Dakota,Grand Forks County,Food,10.0,"",10.0,2
+2020-03-29,North Dakota,Grand Forks County,Big Box Stores,45.0,"",45.0,3
+2020-03-29,North Dakota,Cass County,Food,12.0,"",12.0,1
+2020-03-29,North Dakota,Cass County,Shops & Services,20.0,"",20.0,2
+2020-03-29,North Dakota,Cass County,Grocery,57.0,"",57.0,3
+2020-03-29,North Dakota,Cass County,Nightlife Spots,9.0,"",9.0,4
+2020-03-29,North Dakota,Cass County,Gas Stations,48.0,"",48.0,5
+2020-03-29,North Dakota,Cass County,Big Box Stores,47.0,"",47.0,6
+2020-03-29,North Dakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
+2020-03-29,North Dakota,Burleigh County,Shops & Services,43.0,"",43.0,1
+2020-03-29,North Dakota,Burleigh County,Food,24.0,"",24.0,2
+2020-03-29,North Dakota,Burleigh County,Gas Stations,68.0,"",69.0,3
+2020-03-29,North Dakota,Burleigh County,Big Box Stores,46.0,"",46.0,4
+2020-03-29,North Dakota,Burleigh County,Outdoors & Recreation,122.0,"",121.0,5
+2020-03-29,North Dakota,Burleigh County,Fast Food Restaurants,68.0,"",66.0,6
+2020-03-30,North Dakota,Morton County,Nightlife Spots,60.0,"",60.0,1
+2020-03-30,North Dakota,Grand Forks County,Shops & Services,34.0,"",34.0,1
+2020-03-30,North Dakota,Grand Forks County,Food,16.0,"",16.0,2
+2020-03-30,North Dakota,Cass County,Shops & Services,13.0,12.0,13.0,1
+2020-03-30,North Dakota,Cass County,Food,17.0,"",17.0,2
+2020-03-30,North Dakota,Cass County,Gas Stations,59.0,"",60.0,3
+2020-03-30,North Dakota,Cass County,Grocery,70.0,"",70.0,4
+2020-03-30,North Dakota,Cass County,Medical,26.0,"",26.0,5
+2020-03-30,North Dakota,Cass County,Nightlife Spots,28.0,"",28.0,6
+2020-03-30,North Dakota,Cass County,Professional & Other Places,11.0,"",11.0,6
+2020-03-30,North Dakota,Cass County,Outdoors & Recreation,19.0,"",19.0,7
+2020-03-30,North Dakota,Cass County,Fast Food Restaurants,50.0,"",51.0,8
+2020-03-30,North Dakota,Cass County,Big Box Stores,56.0,"",57.0,9
+2020-03-30,North Dakota,Ward County,Shops & Services,53.0,"",54.0,1
+2020-03-30,North Dakota,Ward County,Food,24.0,"",24.0,2
+2020-03-30,North Dakota,Ward County,Nightlife Spots,39.0,"",38.0,3
+2020-03-30,North Dakota,Williams County,Food,60.0,"",60.0,1
+2020-03-30,North Dakota,Williams County,Gas Stations,65.0,"",65.0,2
+2020-03-30,North Dakota,Williams County,Shops & Services,61.0,"",61.0,3
+2020-03-30,North Dakota,Burleigh County,Shops & Services,49.0,"",50.0,1
+2020-03-30,North Dakota,Burleigh County,Food,47.0,"",48.0,2
+2020-03-30,North Dakota,Burleigh County,Outdoors & Recreation,137.0,"",136.0,3
+2020-03-30,North Dakota,Burleigh County,Big Box Stores,58.0,"",59.0,4
+2020-03-30,North Dakota,Burleigh County,Nightlife Spots,42.0,"",41.0,5
+2020-03-30,North Dakota,Burleigh County,Gas Stations,62.0,"",63.0,6
+2020-03-30,North Dakota,Burleigh County,Medical,23.0,"",23.0,7
+2020-03-30,North Dakota,Burleigh County,Grocery,74.0,"",74.0,8
+2020-03-30,North Dakota,Burleigh County,Fast Food Restaurants,70.0,"",70.0,9
+2020-03-31,North Dakota,Grand Forks County,Shops & Services,47.0,"",47.0,1
+2020-03-31,North Dakota,Grand Forks County,Food,19.0,"",19.0,2
+2020-03-31,North Dakota,Grand Forks County,Gas Stations,60.0,"",60.0,3
+2020-03-31,North Dakota,Grand Forks County,Big Box Stores,65.0,"",65.0,4
+2020-03-31,North Dakota,Ward County,Shops & Services,55.0,"",55.0,1
+2020-03-31,North Dakota,Ward County,Food,24.0,"",24.0,2
+2020-03-31,North Dakota,Ward County,Nightlife Spots,42.0,"",41.0,3
+2020-03-31,North Dakota,Ward County,Gas Stations,54.0,"",55.0,4
+2020-03-31,North Dakota,Williams County,Food,59.0,"",60.0,1
+2020-03-31,North Dakota,Williams County,Shops & Services,81.0,"",81.0,2
+2020-03-31,North Dakota,Williams County,Gas Stations,65.0,"",65.0,3
+2020-03-31,North Dakota,Burleigh County,Shops & Services,47.0,37.0,47.0,1
+2020-03-31,North Dakota,Burleigh County,Food,17.0,"",17.0,2
+2020-03-31,North Dakota,Burleigh County,Gas Stations,65.0,"",67.0,3
+2020-03-31,North Dakota,Burleigh County,Nightlife Spots,44.0,"",43.0,4
+2020-03-31,North Dakota,Burleigh County,Medical,27.0,"",27.0,4
+2020-03-31,North Dakota,Burleigh County,Grocery,89.0,"",90.0,5
+2020-03-31,North Dakota,Burleigh County,Big Box Stores,58.0,"",59.0,6
+2020-03-31,North Dakota,Burleigh County,Outdoors & Recreation,118.0,"",119.0,7
+2020-03-31,North Dakota,Burleigh County,Fast Food Restaurants,66.0,"",66.0,8
+2020-03-31,North Dakota,McKenzie County,Shops & Services,96.0,"",97.0,1
+2020-03-31,North Dakota,Cass County,Shops & Services,13.0,11.0,13.0,1
+2020-03-31,North Dakota,Cass County,Food,16.0,"",16.0,2
+2020-03-31,North Dakota,Cass County,Grocery,67.0,"",67.0,3
+2020-03-31,North Dakota,Cass County,Gas Stations,53.0,"",54.0,4
+2020-03-31,North Dakota,Cass County,Nightlife Spots,28.0,"",28.0,5
+2020-03-31,North Dakota,Cass County,Professional & Other Places,10.0,"",10.0,6
+2020-03-31,North Dakota,Cass County,Medical,22.0,"",22.0,7
+2020-03-31,North Dakota,Cass County,Outdoors & Recreation,18.0,"",18.0,8
+2020-03-31,North Dakota,Cass County,Fast Food Restaurants,60.0,"",60.0,9
+2020-03-31,North Dakota,Cass County,Big Box Stores,55.0,"",55.0,10

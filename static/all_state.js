@@ -298,11 +298,9 @@ function redoFilter() {
 
 function populateSelect(selectElement, stringList, selected) {
   debugger;
-  console.log("populate select "+selected+"-"+stringList);
   // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
-    console.log(option);
     option.value = theString;
     option.text = theString;
     if (_.contains(selected, option.text)) {
@@ -575,7 +573,8 @@ function parse() {
     filePrefix = 'raw';
   }
 
-  datafilename = '/data/allstate/' + filePrefix + selectedState + '.csv';
+  debugger;
+  datafilename = '/data/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   Papa.parse(datafilename, { download: true, complete: parsingDone });
 }
 

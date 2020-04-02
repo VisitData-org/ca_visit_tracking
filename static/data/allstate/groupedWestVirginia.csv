@@ -1,825 +1,800 @@
-2020-03-01,WestVirginia,Food,67.0,68.0,67.0,1
-2020-03-01,WestVirginia,Shops & Services,51.0,50.0,51.0,2
-2020-03-01,WestVirginia,Gas Stations,114.0,121.0,113.0,3
-2020-03-01,WestVirginia,Fast Food Restaurants,120.0,116.0,120.0,4
-2020-03-01,WestVirginia,Big Box Stores,110.0,114.0,110.0,5
-2020-03-01,WestVirginia,Grocery,100.0,96.0,100.0,6
-2020-03-01,WestVirginia,Nightlife Spots,73.0,72.0,73.0,7
-2020-03-01,WestVirginia,Outdoors & Recreation,81.0,82.0,81.0,8
-2020-03-01,WestVirginia,Arts & Entertainment,95.0,87.0,95.0,9
-2020-03-01,WestVirginia,Discount Stores,111.0,108.0,112.0,10
-2020-03-01,WestVirginia,Medical,62.0,65.0,62.0,11
-2020-03-01,WestVirginia,Hotel,87.0,95.0,86.0,12
-2020-03-01,WestVirginia,Convenience Store,114.0,95.0,114.0,13
-2020-03-01,WestVirginia,School,64.0,63.0,64.0,14
-2020-03-01,WestVirginia,Professional & Other Places,29.0,27.0,29.0,15
-2020-03-01,WestVirginia,Hardware Stores,118.0,125.0,118.0,16
-2020-03-01,WestVirginia,Drug Store,104.0,96.0,105.0,17
-2020-03-01,WestVirginia,Travel & Transport,71.0,88.0,71.0,18
-2020-03-01,WestVirginia,Colleges & Universities,86.0,110.0,85.0,19
-2020-03-01,WestVirginia,Government,71.0,71.0,71.0,20
-2020-03-01,WestVirginia,Sports,53.0,61.0,53.0,21
-2020-03-01,WestVirginia,Fitness Center,70.0,81.0,70.0,22
-2020-03-01,WestVirginia,Residences,98.0,"",99.0,23
-2020-03-01,WestVirginia,Banks,115.0,"",116.0,24
-2020-03-01,WestVirginia,Office,99.0,"",99.0,25
-2020-03-01,WestVirginia,Skiing,65.0,"",65.0,26
-2020-03-01,WestVirginia,Airport,112.0,"",113.0,27
-2020-03-02,WestVirginia,Food,61.0,59.0,61.0,1
-2020-03-02,WestVirginia,Shops & Services,49.0,52.0,49.0,2
-2020-03-02,WestVirginia,Gas Stations,106.0,92.0,107.0,3
-2020-03-02,WestVirginia,Fast Food Restaurants,112.0,112.0,112.0,4
-2020-03-02,WestVirginia,Medical,59.0,55.0,59.0,5
-2020-03-02,WestVirginia,Grocery,107.0,106.0,107.0,6
-2020-03-02,WestVirginia,Big Box Stores,106.0,102.0,106.0,7
-2020-03-02,WestVirginia,School,63.0,58.0,63.0,8
-2020-03-02,WestVirginia,Colleges & Universities,80.0,81.0,80.0,9
-2020-03-02,WestVirginia,Nightlife Spots,74.0,69.0,74.0,10
-2020-03-02,WestVirginia,Outdoors & Recreation,62.0,55.0,62.0,11
-2020-03-02,WestVirginia,Professional & Other Places,22.0,20.0,22.0,12
-2020-03-02,WestVirginia,Discount Stores,114.0,110.0,114.0,13
-2020-03-02,WestVirginia,Government,81.0,73.0,82.0,14
-2020-03-02,WestVirginia,Convenience Store,101.0,91.0,101.0,15
-2020-03-02,WestVirginia,Drug Store,107.0,101.0,108.0,16
-2020-03-02,WestVirginia,Arts & Entertainment,101.0,95.0,101.0,17
-2020-03-02,WestVirginia,Hotel,81.0,77.0,81.0,18
-2020-03-02,WestVirginia,Hardware Stores,103.0,91.0,104.0,19
-2020-03-02,WestVirginia,Travel & Transport,74.0,68.0,75.0,20
-2020-03-02,WestVirginia,Fitness Center,69.0,62.0,69.0,21
-2020-03-02,WestVirginia,Office,99.0,93.0,99.0,22
-2020-03-02,WestVirginia,Banks,123.0,117.0,124.0,23
-2020-03-02,WestVirginia,Sports,49.0,44.0,49.0,24
-2020-03-02,WestVirginia,Residences,106.0,"",106.0,25
-2020-03-02,WestVirginia,Airport,96.0,"",96.0,26
-2020-03-03,WestVirginia,Food,56.0,57.0,56.0,1
-2020-03-03,WestVirginia,Shops & Services,51.0,52.0,51.0,2
-2020-03-03,WestVirginia,Gas Stations,104.0,109.0,103.0,3
-2020-03-03,WestVirginia,Fast Food Restaurants,108.0,99.0,109.0,4
-2020-03-03,WestVirginia,Medical,58.0,52.0,58.0,5
-2020-03-03,WestVirginia,Grocery,106.0,105.0,106.0,6
-2020-03-03,WestVirginia,Big Box Stores,114.0,112.0,114.0,7
-2020-03-03,WestVirginia,School,61.0,66.0,61.0,8
-2020-03-03,WestVirginia,Colleges & Universities,85.0,97.0,85.0,9
-2020-03-03,WestVirginia,Outdoors & Recreation,64.0,64.0,64.0,10
-2020-03-03,WestVirginia,Nightlife Spots,81.0,65.0,81.0,11
-2020-03-03,WestVirginia,Professional & Other Places,26.0,23.0,26.0,12
-2020-03-03,WestVirginia,Discount Stores,113.0,102.0,113.0,13
-2020-03-03,WestVirginia,Government,77.0,75.0,77.0,14
-2020-03-03,WestVirginia,Drug Store,112.0,113.0,112.0,15
-2020-03-03,WestVirginia,Convenience Store,103.0,90.0,104.0,16
-2020-03-03,WestVirginia,Arts & Entertainment,91.0,86.0,91.0,17
-2020-03-03,WestVirginia,Hotel,79.0,75.0,79.0,18
-2020-03-03,WestVirginia,Hardware Stores,116.0,115.0,116.0,19
-2020-03-03,WestVirginia,Travel & Transport,58.0,62.0,58.0,20
-2020-03-03,WestVirginia,Fitness Center,75.0,67.0,75.0,21
-2020-03-03,WestVirginia,Banks,136.0,139.0,136.0,22
-2020-03-03,WestVirginia,Sports,51.0,50.0,51.0,23
-2020-03-03,WestVirginia,Office,91.0,89.0,91.0,24
-2020-03-03,WestVirginia,Residences,106.0,135.0,106.0,25
-2020-03-03,WestVirginia,Airport,88.0,"",88.0,26
-2020-03-03,WestVirginia,Alcohol,130.0,"",129.0,27
-2020-03-04,WestVirginia,Food,60.0,60.0,60.0,1
-2020-03-04,WestVirginia,Shops & Services,52.0,51.0,52.0,2
-2020-03-04,WestVirginia,Gas Stations,106.0,102.0,106.0,3
-2020-03-04,WestVirginia,Fast Food Restaurants,113.0,115.0,113.0,4
-2020-03-04,WestVirginia,Medical,58.0,52.0,58.0,5
-2020-03-04,WestVirginia,Grocery,103.0,96.0,104.0,6
-2020-03-04,WestVirginia,School,63.0,62.0,63.0,7
-2020-03-04,WestVirginia,Big Box Stores,102.0,101.0,102.0,8
-2020-03-04,WestVirginia,Outdoors & Recreation,90.0,90.0,90.0,9
-2020-03-04,WestVirginia,Colleges & Universities,88.0,103.0,88.0,10
-2020-03-04,WestVirginia,Nightlife Spots,74.0,72.0,74.0,11
-2020-03-04,WestVirginia,Professional & Other Places,23.0,21.0,23.0,12
-2020-03-04,WestVirginia,Discount Stores,112.0,117.0,112.0,13
-2020-03-04,WestVirginia,Government,73.0,66.0,73.0,14
-2020-03-04,WestVirginia,Arts & Entertainment,95.0,109.0,95.0,15
-2020-03-04,WestVirginia,Convenience Store,100.0,93.0,101.0,16
-2020-03-04,WestVirginia,Drug Store,104.0,86.0,104.0,17
-2020-03-04,WestVirginia,Hotel,84.0,83.0,84.0,18
-2020-03-04,WestVirginia,Hardware Stores,111.0,108.0,111.0,19
-2020-03-04,WestVirginia,Travel & Transport,54.0,62.0,54.0,20
-2020-03-04,WestVirginia,Fitness Center,73.0,69.0,73.0,21
-2020-03-04,WestVirginia,Banks,119.0,119.0,119.0,22
-2020-03-04,WestVirginia,Office,89.0,85.0,89.0,23
-2020-03-04,WestVirginia,Sports,56.0,65.0,55.0,24
-2020-03-04,WestVirginia,Residences,109.0,"",109.0,25
-2020-03-04,WestVirginia,Airport,97.0,"",98.0,26
-2020-03-04,WestVirginia,Alcohol,119.0,"",118.0,27
-2020-03-05,WestVirginia,Food,62.0,60.0,62.0,1
-2020-03-05,WestVirginia,Shops & Services,53.0,60.0,53.0,2
-2020-03-05,WestVirginia,Gas Stations,110.0,105.0,111.0,3
-2020-03-05,WestVirginia,Fast Food Restaurants,113.0,120.0,113.0,4
-2020-03-05,WestVirginia,Medical,58.0,62.0,58.0,5
-2020-03-05,WestVirginia,Grocery,111.0,105.0,112.0,6
-2020-03-05,WestVirginia,School,62.0,65.0,62.0,7
-2020-03-05,WestVirginia,Big Box Stores,104.0,100.0,104.0,8
-2020-03-05,WestVirginia,Outdoors & Recreation,82.0,77.0,82.0,9
-2020-03-05,WestVirginia,Nightlife Spots,80.0,79.0,80.0,10
-2020-03-05,WestVirginia,Professional & Other Places,25.0,25.0,25.0,11
-2020-03-05,WestVirginia,Colleges & Universities,89.0,95.0,89.0,12
-2020-03-05,WestVirginia,Discount Stores,113.0,120.0,113.0,13
-2020-03-05,WestVirginia,Arts & Entertainment,107.0,103.0,107.0,14
-2020-03-05,WestVirginia,Government,74.0,72.0,74.0,15
-2020-03-05,WestVirginia,Convenience Store,105.0,103.0,105.0,16
-2020-03-05,WestVirginia,Drug Store,110.0,99.0,111.0,17
-2020-03-05,WestVirginia,Hotel,90.0,93.0,89.0,18
-2020-03-05,WestVirginia,Hardware Stores,115.0,124.0,115.0,19
-2020-03-05,WestVirginia,Travel & Transport,57.0,50.0,58.0,20
-2020-03-05,WestVirginia,Fitness Center,78.0,75.0,78.0,21
-2020-03-05,WestVirginia,Sports,61.0,65.0,61.0,22
-2020-03-05,WestVirginia,Banks,128.0,137.0,127.0,23
-2020-03-05,WestVirginia,Office,97.0,120.0,96.0,24
-2020-03-05,WestVirginia,Residences,115.0,"",115.0,25
-2020-03-05,WestVirginia,Airport,116.0,"",117.0,26
-2020-03-05,WestVirginia,Alcohol,128.0,"",127.0,27
-2020-03-06,WestVirginia,Food,58.0,58.0,58.0,1
-2020-03-06,WestVirginia,Shops & Services,49.0,46.0,49.0,2
-2020-03-06,WestVirginia,Gas Stations,104.0,99.0,104.0,3
-2020-03-06,WestVirginia,Fast Food Restaurants,110.0,105.0,110.0,4
-2020-03-06,WestVirginia,Grocery,103.0,98.0,103.0,5
-2020-03-06,WestVirginia,Medical,60.0,59.0,60.0,6
-2020-03-06,WestVirginia,Big Box Stores,102.0,100.0,102.0,7
-2020-03-06,WestVirginia,School,75.0,78.0,75.0,8
-2020-03-06,WestVirginia,Nightlife Spots,72.0,63.0,72.0,9
-2020-03-06,WestVirginia,Outdoors & Recreation,67.0,61.0,68.0,10
-2020-03-06,WestVirginia,Professional & Other Places,29.0,24.0,29.0,11
-2020-03-06,WestVirginia,Colleges & Universities,94.0,98.0,94.0,12
-2020-03-06,WestVirginia,Discount Stores,103.0,92.0,103.0,13
-2020-03-06,WestVirginia,Arts & Entertainment,98.0,89.0,99.0,14
-2020-03-06,WestVirginia,Convenience Store,104.0,88.0,104.0,15
-2020-03-06,WestVirginia,Hotel,91.0,85.0,91.0,16
-2020-03-06,WestVirginia,Drug Store,106.0,104.0,106.0,17
-2020-03-06,WestVirginia,Government,79.0,81.0,79.0,18
-2020-03-06,WestVirginia,Hardware Stores,101.0,100.0,101.0,19
-2020-03-06,WestVirginia,Travel & Transport,56.0,58.0,56.0,20
-2020-03-06,WestVirginia,Banks,113.0,109.0,113.0,21
-2020-03-06,WestVirginia,Fitness Center,78.0,78.0,78.0,22
-2020-03-06,WestVirginia,Office,99.0,100.0,99.0,23
-2020-03-06,WestVirginia,Sports,55.0,61.0,55.0,24
-2020-03-06,WestVirginia,Residences,115.0,"",115.0,25
-2020-03-06,WestVirginia,Airport,90.0,"",91.0,26
-2020-03-06,WestVirginia,Alcohol,126.0,"",126.0,27
-2020-03-07,WestVirginia,Food,66.0,67.0,66.0,1
-2020-03-07,WestVirginia,Shops & Services,52.0,51.0,53.0,2
-2020-03-07,WestVirginia,Gas Stations,109.0,97.0,109.0,3
-2020-03-07,WestVirginia,Fast Food Restaurants,105.0,97.0,105.0,4
-2020-03-07,WestVirginia,Big Box Stores,101.0,95.0,101.0,5
-2020-03-07,WestVirginia,Grocery,102.0,100.0,102.0,6
-2020-03-07,WestVirginia,Nightlife Spots,70.0,67.0,70.0,7
-2020-03-07,WestVirginia,Arts & Entertainment,100.0,107.0,100.0,8
-2020-03-07,WestVirginia,Outdoors & Recreation,79.0,74.0,80.0,9
-2020-03-07,WestVirginia,Discount Stores,108.0,105.0,108.0,10
-2020-03-07,WestVirginia,Hotel,94.0,90.0,94.0,11
-2020-03-07,WestVirginia,Medical,60.0,58.0,60.0,12
-2020-03-07,WestVirginia,Professional & Other Places,36.0,33.0,36.0,13
-2020-03-07,WestVirginia,Colleges & Universities,119.0,78.0,120.0,14
-2020-03-07,WestVirginia,School,61.0,59.0,61.0,15
-2020-03-07,WestVirginia,Hardware Stores,113.0,114.0,113.0,16
-2020-03-07,WestVirginia,Convenience Store,95.0,82.0,95.0,17
-2020-03-07,WestVirginia,Drug Store,103.0,101.0,103.0,18
-2020-03-07,WestVirginia,Travel & Transport,58.0,64.0,58.0,19
-2020-03-07,WestVirginia,Government,78.0,65.0,79.0,20
-2020-03-07,WestVirginia,Fitness Center,67.0,72.0,67.0,21
-2020-03-07,WestVirginia,Sports,45.0,45.0,45.0,22
-2020-03-07,WestVirginia,Residences,114.0,"",113.0,23
-2020-03-07,WestVirginia,Banks,103.0,"",104.0,24
-2020-03-07,WestVirginia,Office,89.0,"",89.0,25
-2020-03-07,WestVirginia,Skiing,46.0,"",46.0,26
-2020-03-07,WestVirginia,Airport,101.0,"",102.0,27
-2020-03-07,WestVirginia,Alcohol,116.0,"",117.0,28
-2020-03-08,WestVirginia,Food,67.0,60.0,67.0,1
-2020-03-08,WestVirginia,Shops & Services,51.0,49.0,51.0,2
-2020-03-08,WestVirginia,Gas Stations,116.0,115.0,116.0,3
-2020-03-08,WestVirginia,Fast Food Restaurants,121.0,117.0,121.0,4
-2020-03-08,WestVirginia,Big Box Stores,106.0,104.0,106.0,5
-2020-03-08,WestVirginia,Grocery,102.0,93.0,102.0,6
-2020-03-08,WestVirginia,Outdoors & Recreation,100.0,91.0,100.0,7
-2020-03-08,WestVirginia,Nightlife Spots,77.0,66.0,77.0,8
-2020-03-08,WestVirginia,Arts & Entertainment,108.0,94.0,108.0,9
-2020-03-08,WestVirginia,Discount Stores,112.0,106.0,112.0,10
-2020-03-08,WestVirginia,Medical,66.0,63.0,66.0,11
-2020-03-08,WestVirginia,Professional & Other Places,32.0,26.0,32.0,12
-2020-03-08,WestVirginia,Hotel,91.0,88.0,91.0,13
-2020-03-08,WestVirginia,Convenience Store,122.0,111.0,122.0,14
-2020-03-08,WestVirginia,School,67.0,54.0,67.0,15
-2020-03-08,WestVirginia,Hardware Stores,115.0,104.0,115.0,16
-2020-03-08,WestVirginia,Colleges & Universities,109.0,99.0,109.0,17
-2020-03-08,WestVirginia,Drug Store,103.0,100.0,104.0,18
-2020-03-08,WestVirginia,Travel & Transport,105.0,135.0,104.0,19
-2020-03-08,WestVirginia,Government,78.0,78.0,78.0,20
-2020-03-08,WestVirginia,Sports,58.0,71.0,58.0,21
-2020-03-08,WestVirginia,Residences,121.0,124.0,121.0,22
-2020-03-08,WestVirginia,Fitness Center,78.0,74.0,78.0,23
-2020-03-08,WestVirginia,Banks,98.0,"",98.0,24
-2020-03-08,WestVirginia,Office,93.0,"",93.0,25
-2020-03-08,WestVirginia,Airport,135.0,"",136.0,26
-2020-03-08,WestVirginia,Skiing,58.0,"",59.0,27
-2020-03-09,WestVirginia,Food,60.0,58.0,60.0,1
-2020-03-09,WestVirginia,Shops & Services,49.0,51.0,49.0,2
-2020-03-09,WestVirginia,Gas Stations,106.0,103.0,106.0,3
-2020-03-09,WestVirginia,Fast Food Restaurants,108.0,110.0,108.0,4
-2020-03-09,WestVirginia,Medical,58.0,55.0,58.0,5
-2020-03-09,WestVirginia,Grocery,107.0,101.0,108.0,6
-2020-03-09,WestVirginia,Big Box Stores,107.0,105.0,107.0,7
-2020-03-09,WestVirginia,Outdoors & Recreation,94.0,73.0,95.0,8
-2020-03-09,WestVirginia,School,61.0,66.0,61.0,9
-2020-03-09,WestVirginia,Colleges & Universities,80.0,88.0,80.0,10
-2020-03-09,WestVirginia,Nightlife Spots,78.0,79.0,78.0,11
-2020-03-09,WestVirginia,Professional & Other Places,23.0,21.0,23.0,12
-2020-03-09,WestVirginia,Discount Stores,111.0,102.0,111.0,13
-2020-03-09,WestVirginia,Government,76.0,74.0,76.0,14
-2020-03-09,WestVirginia,Arts & Entertainment,104.0,94.0,105.0,15
-2020-03-09,WestVirginia,Convenience Store,103.0,93.0,103.0,16
-2020-03-09,WestVirginia,Drug Store,110.0,108.0,111.0,17
-2020-03-09,WestVirginia,Hotel,90.0,94.0,90.0,18
-2020-03-09,WestVirginia,Hardware Stores,111.0,118.0,111.0,19
-2020-03-09,WestVirginia,Travel & Transport,64.0,74.0,64.0,20
-2020-03-09,WestVirginia,Sports,54.0,62.0,54.0,21
-2020-03-09,WestVirginia,Fitness Center,70.0,57.0,70.0,22
-2020-03-09,WestVirginia,Banks,125.0,132.0,125.0,23
-2020-03-09,WestVirginia,Office,91.0,90.0,91.0,24
-2020-03-09,WestVirginia,Residences,114.0,114.0,114.0,25
-2020-03-09,WestVirginia,Airport,99.0,"",99.0,26
-2020-03-09,WestVirginia,Alcohol,136.0,"",137.0,27
-2020-03-10,WestVirginia,Food,54.0,51.0,54.0,1
-2020-03-10,WestVirginia,Shops & Services,46.0,45.0,46.0,2
-2020-03-10,WestVirginia,Gas Stations,103.0,102.0,103.0,3
-2020-03-10,WestVirginia,Fast Food Restaurants,101.0,95.0,102.0,4
-2020-03-10,WestVirginia,Medical,58.0,54.0,58.0,5
-2020-03-10,WestVirginia,Grocery,101.0,95.0,101.0,6
-2020-03-10,WestVirginia,Big Box Stores,100.0,86.0,101.0,7
-2020-03-10,WestVirginia,School,55.0,49.0,55.0,8
-2020-03-10,WestVirginia,Outdoors & Recreation,68.0,65.0,68.0,9
-2020-03-10,WestVirginia,Colleges & Universities,74.0,77.0,74.0,10
-2020-03-10,WestVirginia,Nightlife Spots,73.0,64.0,73.0,11
-2020-03-10,WestVirginia,Professional & Other Places,22.0,21.0,22.0,12
-2020-03-10,WestVirginia,Discount Stores,106.0,110.0,106.0,13
-2020-03-10,WestVirginia,Government,67.0,64.0,67.0,14
-2020-03-10,WestVirginia,Convenience Store,99.0,96.0,99.0,15
-2020-03-10,WestVirginia,Arts & Entertainment,92.0,87.0,93.0,16
-2020-03-10,WestVirginia,Drug Store,104.0,103.0,104.0,17
-2020-03-10,WestVirginia,Hotel,78.0,69.0,79.0,18
-2020-03-10,WestVirginia,Hardware Stores,105.0,91.0,106.0,19
-2020-03-10,WestVirginia,Travel & Transport,53.0,46.0,53.0,20
-2020-03-10,WestVirginia,Fitness Center,69.0,59.0,70.0,21
-2020-03-10,WestVirginia,Banks,117.0,139.0,116.0,22
-2020-03-10,WestVirginia,Office,84.0,90.0,84.0,23
-2020-03-10,WestVirginia,Sports,46.0,57.0,46.0,24
-2020-03-10,WestVirginia,Residences,104.0,129.0,103.0,25
-2020-03-10,WestVirginia,Airport,88.0,"",86.0,26
-2020-03-10,WestVirginia,Alcohol,119.0,"",118.0,27
-2020-03-11,WestVirginia,Food,56.0,56.0,55.0,1
-2020-03-11,WestVirginia,Shops & Services,50.0,51.0,50.0,2
-2020-03-11,WestVirginia,Gas Stations,101.0,91.0,102.0,3
-2020-03-11,WestVirginia,Fast Food Restaurants,102.0,99.0,103.0,4
-2020-03-11,WestVirginia,Medical,55.0,48.0,55.0,5
-2020-03-11,WestVirginia,Grocery,106.0,97.0,107.0,6
-2020-03-11,WestVirginia,Big Box Stores,103.0,95.0,104.0,7
-2020-03-11,WestVirginia,School,58.0,56.0,58.0,8
-2020-03-11,WestVirginia,Outdoors & Recreation,80.0,73.0,80.0,9
-2020-03-11,WestVirginia,Colleges & Universities,77.0,81.0,76.0,10
-2020-03-11,WestVirginia,Nightlife Spots,67.0,68.0,67.0,11
-2020-03-11,WestVirginia,Professional & Other Places,21.0,22.0,21.0,12
-2020-03-11,WestVirginia,Discount Stores,105.0,101.0,105.0,13
-2020-03-11,WestVirginia,Arts & Entertainment,94.0,87.0,95.0,14
-2020-03-11,WestVirginia,Convenience Store,100.0,88.0,100.0,15
-2020-03-11,WestVirginia,Government,63.0,53.0,64.0,16
-2020-03-11,WestVirginia,Drug Store,100.0,88.0,101.0,17
-2020-03-11,WestVirginia,Hotel,85.0,69.0,86.0,18
-2020-03-11,WestVirginia,Hardware Stores,104.0,114.0,103.0,19
-2020-03-11,WestVirginia,Travel & Transport,57.0,53.0,57.0,20
-2020-03-11,WestVirginia,Sports,55.0,56.0,55.0,21
-2020-03-11,WestVirginia,Banks,118.0,114.0,118.0,22
-2020-03-11,WestVirginia,Fitness Center,61.0,58.0,61.0,22
-2020-03-11,WestVirginia,Office,81.0,99.0,80.0,23
-2020-03-11,WestVirginia,Residences,111.0,141.0,110.0,24
-2020-03-11,WestVirginia,Airport,77.0,"",77.0,25
-2020-03-12,WestVirginia,Food,52.0,51.0,52.0,1
-2020-03-12,WestVirginia,Shops & Services,49.0,51.0,49.0,2
-2020-03-12,WestVirginia,Gas Stations,107.0,105.0,107.0,3
-2020-03-12,WestVirginia,Fast Food Restaurants,107.0,104.0,107.0,4
-2020-03-12,WestVirginia,Grocery,112.0,110.0,112.0,5
-2020-03-12,WestVirginia,Medical,54.0,59.0,54.0,6
-2020-03-12,WestVirginia,Big Box Stores,110.0,108.0,110.0,7
-2020-03-12,WestVirginia,School,56.0,59.0,56.0,8
-2020-03-12,WestVirginia,Outdoors & Recreation,77.0,70.0,78.0,9
-2020-03-12,WestVirginia,Nightlife Spots,82.0,83.0,82.0,10
-2020-03-12,WestVirginia,Professional & Other Places,23.0,23.0,23.0,11
-2020-03-12,WestVirginia,Discount Stores,122.0,130.0,121.0,12
-2020-03-12,WestVirginia,Colleges & Universities,76.0,79.0,76.0,13
-2020-03-12,WestVirginia,Convenience Store,105.0,103.0,105.0,14
-2020-03-12,WestVirginia,Arts & Entertainment,97.0,87.0,97.0,15
-2020-03-12,WestVirginia,Drug Store,108.0,104.0,108.0,16
-2020-03-12,WestVirginia,Government,66.0,58.0,67.0,17
-2020-03-12,WestVirginia,Hotel,86.0,73.0,86.0,18
-2020-03-12,WestVirginia,Hardware Stores,111.0,116.0,111.0,19
-2020-03-12,WestVirginia,Travel & Transport,61.0,56.0,61.0,20
-2020-03-12,WestVirginia,Sports,65.0,67.0,64.0,21
-2020-03-12,WestVirginia,Fitness Center,64.0,53.0,65.0,22
-2020-03-12,WestVirginia,Office,91.0,106.0,91.0,23
-2020-03-12,WestVirginia,Banks,110.0,107.0,110.0,24
-2020-03-12,WestVirginia,Residences,118.0,134.0,117.0,25
-2020-03-12,WestVirginia,Airport,97.0,"",97.0,26
-2020-03-13,WestVirginia,Food,56.0,52.0,57.0,1
-2020-03-13,WestVirginia,Shops & Services,50.0,51.0,50.0,2
-2020-03-13,WestVirginia,Gas Stations,114.0,109.0,114.0,3
-2020-03-13,WestVirginia,Fast Food Restaurants,114.0,110.0,114.0,4
-2020-03-13,WestVirginia,Grocery,140.0,139.0,140.0,5
-2020-03-13,WestVirginia,Big Box Stores,121.0,117.0,122.0,6
-2020-03-13,WestVirginia,Medical,56.0,52.0,56.0,7
-2020-03-13,WestVirginia,Outdoors & Recreation,78.0,74.0,79.0,8
-2020-03-13,WestVirginia,Nightlife Spots,78.0,66.0,78.0,9
-2020-03-13,WestVirginia,Discount Stores,150.0,130.0,150.0,10
-2020-03-13,WestVirginia,School,63.0,66.0,62.0,11
-2020-03-13,WestVirginia,Professional & Other Places,25.0,23.0,25.0,12
-2020-03-13,WestVirginia,Drug Store,123.0,112.0,124.0,13
-2020-03-13,WestVirginia,Convenience Store,109.0,112.0,109.0,14
-2020-03-13,WestVirginia,Colleges & Universities,78.0,113.0,78.0,15
-2020-03-13,WestVirginia,Arts & Entertainment,93.0,87.0,94.0,16
-2020-03-13,WestVirginia,Hardware Stores,139.0,126.0,139.0,17
-2020-03-13,WestVirginia,Hotel,86.0,80.0,86.0,18
-2020-03-13,WestVirginia,Government,75.0,69.0,75.0,19
-2020-03-13,WestVirginia,Travel & Transport,60.0,71.0,60.0,20
-2020-03-13,WestVirginia,Banks,116.0,111.0,116.0,21
-2020-03-13,WestVirginia,Fitness Center,73.0,72.0,73.0,22
-2020-03-13,WestVirginia,Office,99.0,93.0,99.0,23
-2020-03-13,WestVirginia,Sports,59.0,58.0,59.0,24
-2020-03-13,WestVirginia,Residences,115.0,150.0,114.0,25
-2020-03-13,WestVirginia,Alcohol,146.0,"",145.0,26
-2020-03-13,WestVirginia,Airport,77.0,"",77.0,27
-2020-03-14,WestVirginia,Food,50.0,48.0,50.0,1
-2020-03-14,WestVirginia,Shops & Services,47.0,44.0,47.0,2
-2020-03-14,WestVirginia,Gas Stations,107.0,105.0,107.0,3
-2020-03-14,WestVirginia,Grocery,127.0,122.0,127.0,4
-2020-03-14,WestVirginia,Big Box Stores,111.0,100.0,112.0,5
-2020-03-14,WestVirginia,Fast Food Restaurants,96.0,87.0,96.0,6
-2020-03-14,WestVirginia,Nightlife Spots,68.0,58.0,68.0,7
-2020-03-14,WestVirginia,Outdoors & Recreation,79.0,70.0,79.0,8
-2020-03-14,WestVirginia,Discount Stores,127.0,121.0,127.0,9
-2020-03-14,WestVirginia,Arts & Entertainment,78.0,89.0,78.0,10
-2020-03-14,WestVirginia,Medical,55.0,51.0,56.0,11
-2020-03-14,WestVirginia,Hardware Stores,121.0,113.0,121.0,12
-2020-03-14,WestVirginia,Drug Store,117.0,114.0,117.0,13
-2020-03-14,WestVirginia,Hotel,76.0,91.0,76.0,14
-2020-03-14,WestVirginia,Convenience Store,98.0,93.0,98.0,15
-2020-03-14,WestVirginia,Professional & Other Places,23.0,23.0,23.0,16
-2020-03-14,WestVirginia,School,45.0,41.0,45.0,17
-2020-03-14,WestVirginia,Travel & Transport,65.0,77.0,65.0,18
-2020-03-14,WestVirginia,Colleges & Universities,54.0,"",54.0,19
-2020-03-14,WestVirginia,Government,64.0,64.0,64.0,20
-2020-03-14,WestVirginia,Sports,49.0,49.0,49.0,21
-2020-03-14,WestVirginia,Fitness Center,55.0,"",55.0,22
-2020-03-14,WestVirginia,Residences,93.0,"",93.0,23
-2020-03-14,WestVirginia,Banks,96.0,"",97.0,24
-2020-03-14,WestVirginia,Office,95.0,"",96.0,25
-2020-03-14,WestVirginia,Airport,88.0,"",89.0,26
-2020-03-14,WestVirginia,Alcohol,103.0,"",104.0,27
-2020-03-15,WestVirginia,Food,53.0,45.0,53.0,1
-2020-03-15,WestVirginia,Shops & Services,41.0,37.0,41.0,2
-2020-03-15,WestVirginia,Gas Stations,91.0,83.0,91.0,3
-2020-03-15,WestVirginia,Grocery,106.0,101.0,106.0,4
-2020-03-15,WestVirginia,Big Box Stores,93.0,89.0,93.0,5
-2020-03-15,WestVirginia,Fast Food Restaurants,84.0,78.0,84.0,6
-2020-03-15,WestVirginia,Outdoors & Recreation,67.0,60.0,68.0,7
-2020-03-15,WestVirginia,Nightlife Spots,58.0,44.0,58.0,8
-2020-03-15,WestVirginia,Discount Stores,106.0,92.0,106.0,9
-2020-03-15,WestVirginia,Arts & Entertainment,71.0,53.0,71.0,10
-2020-03-15,WestVirginia,Medical,49.0,41.0,49.0,11
-2020-03-15,WestVirginia,Convenience Store,86.0,60.0,87.0,12
-2020-03-15,WestVirginia,Hardware Stores,107.0,110.0,107.0,13
-2020-03-15,WestVirginia,Drug Store,97.0,90.0,98.0,14
-2020-03-15,WestVirginia,Professional & Other Places,23.0,22.0,23.0,15
-2020-03-15,WestVirginia,Hotel,63.0,61.0,63.0,16
-2020-03-15,WestVirginia,School,51.0,39.0,51.0,17
-2020-03-15,WestVirginia,Travel & Transport,72.0,70.0,72.0,18
-2020-03-15,WestVirginia,Government,63.0,"",63.0,19
-2020-03-15,WestVirginia,Sports,45.0,52.0,45.0,20
-2020-03-15,WestVirginia,Colleges & Universities,50.0,"",50.0,21
-2020-03-15,WestVirginia,Fitness Center,55.0,"",55.0,22
-2020-03-15,WestVirginia,Residences,73.0,"",73.0,23
-2020-03-15,WestVirginia,Office,75.0,"",75.0,24
-2020-03-15,WestVirginia,Banks,66.0,"",66.0,25
-2020-03-16,WestVirginia,Food,53.0,45.0,54.0,1
-2020-03-16,WestVirginia,Shops & Services,46.0,41.0,46.0,2
-2020-03-16,WestVirginia,Gas Stations,102.0,95.0,102.0,3
-2020-03-16,WestVirginia,Grocery,134.0,129.0,134.0,4
-2020-03-16,WestVirginia,Fast Food Restaurants,91.0,80.0,91.0,5
-2020-03-16,WestVirginia,Big Box Stores,113.0,95.0,113.0,6
-2020-03-16,WestVirginia,Medical,48.0,41.0,48.0,7
-2020-03-16,WestVirginia,Outdoors & Recreation,79.0,63.0,80.0,8
-2020-03-16,WestVirginia,Professional & Other Places,28.0,28.0,28.0,9
-2020-03-16,WestVirginia,Nightlife Spots,59.0,48.0,60.0,10
-2020-03-16,WestVirginia,Discount Stores,115.0,100.0,115.0,11
-2020-03-16,WestVirginia,Drug Store,111.0,105.0,111.0,12
-2020-03-16,WestVirginia,Convenience Store,99.0,89.0,99.0,13
-2020-03-16,WestVirginia,School,32.0,35.0,31.0,14
-2020-03-16,WestVirginia,Government,67.0,56.0,67.0,15
-2020-03-16,WestVirginia,Arts & Entertainment,80.0,75.0,80.0,16
-2020-03-16,WestVirginia,Hotel,72.0,72.0,72.0,17
-2020-03-16,WestVirginia,Hardware Stores,107.0,98.0,108.0,18
-2020-03-16,WestVirginia,Colleges & Universities,34.0,62.0,34.0,19
-2020-03-16,WestVirginia,Travel & Transport,67.0,66.0,67.0,20
-2020-03-16,WestVirginia,Banks,123.0,126.0,122.0,21
-2020-03-16,WestVirginia,Office,84.0,74.0,84.0,22
-2020-03-16,WestVirginia,Sports,48.0,41.0,48.0,23
-2020-03-16,WestVirginia,Fitness Center,52.0,48.0,52.0,24
-2020-03-16,WestVirginia,Residences,79.0,"",79.0,25
-2020-03-17,WestVirginia,Food,47.0,41.0,47.0,1
-2020-03-17,WestVirginia,Shops & Services,41.0,36.0,41.0,2
-2020-03-17,WestVirginia,Gas Stations,97.0,90.0,97.0,3
-2020-03-17,WestVirginia,Grocery,127.0,117.0,127.0,4
-2020-03-17,WestVirginia,Fast Food Restaurants,79.0,69.0,79.0,5
-2020-03-17,WestVirginia,Big Box Stores,113.0,98.0,113.0,6
-2020-03-17,WestVirginia,Medical,43.0,40.0,43.0,7
-2020-03-17,WestVirginia,Outdoors & Recreation,69.0,70.0,69.0,8
-2020-03-17,WestVirginia,Nightlife Spots,66.0,52.0,67.0,9
-2020-03-17,WestVirginia,Professional & Other Places,22.0,21.0,22.0,10
-2020-03-17,WestVirginia,Discount Stores,113.0,104.0,113.0,11
-2020-03-17,WestVirginia,Drug Store,101.0,110.0,101.0,12
-2020-03-17,WestVirginia,Convenience Store,92.0,77.0,93.0,13
-2020-03-17,WestVirginia,School,27.0,31.0,27.0,14
-2020-03-17,WestVirginia,Government,54.0,48.0,55.0,15
-2020-03-17,WestVirginia,Arts & Entertainment,75.0,71.0,75.0,16
-2020-03-17,WestVirginia,Hotel,70.0,61.0,70.0,17
-2020-03-17,WestVirginia,Hardware Stores,108.0,86.0,109.0,18
-2020-03-17,WestVirginia,Travel & Transport,64.0,73.0,64.0,19
-2020-03-17,WestVirginia,Colleges & Universities,32.0,46.0,31.0,20
-2020-03-17,WestVirginia,Fitness Center,50.0,39.0,51.0,21
-2020-03-17,WestVirginia,Office,69.0,"",69.0,22
-2020-03-17,WestVirginia,Banks,84.0,92.0,83.0,23
-2020-03-17,WestVirginia,Sports,42.0,41.0,42.0,24
-2020-03-17,WestVirginia,Residences,94.0,"",94.0,25
-2020-03-18,WestVirginia,Food,39.0,35.0,39.0,1
-2020-03-18,WestVirginia,Shops & Services,39.0,38.0,39.0,2
-2020-03-18,WestVirginia,Gas Stations,97.0,91.0,97.0,3
-2020-03-18,WestVirginia,Grocery,124.0,117.0,124.0,4
-2020-03-18,WestVirginia,Fast Food Restaurants,79.0,75.0,79.0,5
-2020-03-18,WestVirginia,Big Box Stores,101.0,82.0,101.0,6
-2020-03-18,WestVirginia,Medical,42.0,35.0,42.0,7
-2020-03-18,WestVirginia,Outdoors & Recreation,80.0,68.0,80.0,8
-2020-03-18,WestVirginia,Nightlife Spots,56.0,50.0,56.0,9
-2020-03-18,WestVirginia,Professional & Other Places,16.0,14.0,16.0,10
-2020-03-18,WestVirginia,Discount Stores,104.0,86.0,104.0,11
-2020-03-18,WestVirginia,Drug Store,101.0,89.0,102.0,12
-2020-03-18,WestVirginia,Convenience Store,89.0,78.0,90.0,13
-2020-03-18,WestVirginia,School,29.0,33.0,29.0,14
-2020-03-18,WestVirginia,Government,51.0,47.0,51.0,15
-2020-03-18,WestVirginia,Hardware Stores,107.0,86.0,109.0,16
-2020-03-18,WestVirginia,Hotel,64.0,50.0,64.0,17
-2020-03-18,WestVirginia,Arts & Entertainment,63.0,57.0,63.0,18
-2020-03-18,WestVirginia,Travel & Transport,61.0,58.0,61.0,19
-2020-03-18,WestVirginia,Colleges & Universities,28.0,62.0,27.0,20
-2020-03-18,WestVirginia,Office,68.0,71.0,68.0,21
-2020-03-18,WestVirginia,Sports,47.0,49.0,47.0,22
-2020-03-18,WestVirginia,Banks,80.0,70.0,81.0,23
-2020-03-18,WestVirginia,Fitness Center,37.0,39.0,37.0,24
-2020-03-18,WestVirginia,Residences,91.0,"",91.0,25
-2020-03-19,WestVirginia,Food,36.0,34.0,36.0,1
-2020-03-19,WestVirginia,Shops & Services,37.0,32.0,37.0,2
-2020-03-19,WestVirginia,Gas Stations,93.0,88.0,93.0,3
-2020-03-19,WestVirginia,Grocery,116.0,108.0,117.0,4
-2020-03-19,WestVirginia,Fast Food Restaurants,72.0,60.0,72.0,5
-2020-03-19,WestVirginia,Big Box Stores,92.0,89.0,92.0,6
-2020-03-19,WestVirginia,Medical,38.0,33.0,39.0,7
-2020-03-19,WestVirginia,Outdoors & Recreation,72.0,61.0,72.0,8
-2020-03-19,WestVirginia,Professional & Other Places,19.0,18.0,19.0,9
-2020-03-19,WestVirginia,Discount Stores,98.0,90.0,98.0,10
-2020-03-19,WestVirginia,School,33.0,34.0,32.0,11
-2020-03-19,WestVirginia,Nightlife Spots,52.0,53.0,52.0,12
-2020-03-19,WestVirginia,Drug Store,99.0,96.0,99.0,13
-2020-03-19,WestVirginia,Convenience Store,88.0,79.0,88.0,14
-2020-03-19,WestVirginia,Hardware Stores,100.0,95.0,101.0,15
-2020-03-19,WestVirginia,Hotel,66.0,62.0,66.0,16
-2020-03-19,WestVirginia,Government,49.0,42.0,49.0,17
-2020-03-19,WestVirginia,Arts & Entertainment,65.0,69.0,64.0,18
-2020-03-19,WestVirginia,Travel & Transport,62.0,61.0,62.0,19
-2020-03-19,WestVirginia,Colleges & Universities,29.0,54.0,29.0,20
-2020-03-19,WestVirginia,Sports,47.0,61.0,46.0,21
-2020-03-19,WestVirginia,Office,69.0,80.0,69.0,22
-2020-03-19,WestVirginia,Banks,79.0,60.0,80.0,23
-2020-03-19,WestVirginia,Residences,87.0,"",87.0,24
-2020-03-19,WestVirginia,Fitness Center,27.0,"",27.0,25
-2020-03-19,WestVirginia,Alcohol,112.0,"",112.0,26
-2020-03-20,WestVirginia,Food,34.0,29.0,34.0,1
-2020-03-20,WestVirginia,Shops & Services,36.0,33.0,36.0,2
-2020-03-20,WestVirginia,Gas Stations,91.0,81.0,91.0,3
-2020-03-20,WestVirginia,Grocery,119.0,107.0,120.0,4
-2020-03-20,WestVirginia,Fast Food Restaurants,73.0,68.0,74.0,5
-2020-03-20,WestVirginia,Big Box Stores,97.0,81.0,97.0,6
-2020-03-20,WestVirginia,Outdoors & Recreation,70.0,68.0,70.0,7
-2020-03-20,WestVirginia,Medical,41.0,33.0,41.0,8
-2020-03-20,WestVirginia,Discount Stores,104.0,90.0,105.0,9
-2020-03-20,WestVirginia,Professional & Other Places,17.0,18.0,17.0,10
-2020-03-20,WestVirginia,Nightlife Spots,50.0,41.0,51.0,11
-2020-03-20,WestVirginia,Convenience Store,94.0,77.0,95.0,12
-2020-03-20,WestVirginia,Drug Store,99.0,90.0,99.0,13
-2020-03-20,WestVirginia,School,38.0,42.0,38.0,14
-2020-03-20,WestVirginia,Hardware Stores,118.0,105.0,119.0,15
-2020-03-20,WestVirginia,Government,53.0,52.0,53.0,16
-2020-03-20,WestVirginia,Hotel,56.0,52.0,56.0,17
-2020-03-20,WestVirginia,Travel & Transport,52.0,49.0,52.0,18
-2020-03-20,WestVirginia,Arts & Entertainment,59.0,57.0,60.0,19
-2020-03-20,WestVirginia,Colleges & Universities,38.0,"",38.0,20
-2020-03-20,WestVirginia,Banks,85.0,92.0,85.0,21
-2020-03-20,WestVirginia,Sports,49.0,55.0,48.0,22
-2020-03-20,WestVirginia,Office,70.0,"",70.0,23
-2020-03-20,WestVirginia,Residences,90.0,"",90.0,24
-2020-03-20,WestVirginia,Fitness Center,36.0,"",36.0,25
-2020-03-21,WestVirginia,Food,30.0,27.0,30.0,1
-2020-03-21,WestVirginia,Shops & Services,27.0,24.0,28.0,2
-2020-03-21,WestVirginia,Grocery,122.0,109.0,122.0,3
-2020-03-21,WestVirginia,Gas Stations,86.0,76.0,86.0,4
-2020-03-21,WestVirginia,Big Box Stores,81.0,66.0,81.0,5
-2020-03-21,WestVirginia,Fast Food Restaurants,64.0,53.0,65.0,6
-2020-03-21,WestVirginia,Outdoors & Recreation,56.0,54.0,56.0,7
-2020-03-21,WestVirginia,Discount Stores,96.0,82.0,96.0,8
-2020-03-21,WestVirginia,Hardware Stores,106.0,92.0,106.0,9
-2020-03-21,WestVirginia,Nightlife Spots,36.0,32.0,36.0,10
-2020-03-21,WestVirginia,Convenience Store,84.0,82.0,84.0,11
-2020-03-21,WestVirginia,Drug Store,94.0,82.0,94.0,12
-2020-03-21,WestVirginia,Medical,40.0,32.0,40.0,13
-2020-03-21,WestVirginia,Professional & Other Places,18.0,14.0,18.0,14
-2020-03-21,WestVirginia,School,39.0,38.0,39.0,15
-2020-03-21,WestVirginia,Arts & Entertainment,39.0,37.0,39.0,16
-2020-03-21,WestVirginia,Hotel,44.0,52.0,43.0,17
-2020-03-21,WestVirginia,Travel & Transport,57.0,53.0,57.0,18
-2020-03-21,WestVirginia,Government,52.0,"",53.0,19
-2020-03-21,WestVirginia,Sports,43.0,"",43.0,20
-2020-03-21,WestVirginia,Colleges & Universities,38.0,"",38.0,21
-2020-03-21,WestVirginia,Residences,68.0,"",68.0,22
-2020-03-21,WestVirginia,Banks,68.0,"",69.0,23
-2020-03-21,WestVirginia,Office,71.0,"",71.0,24
-2020-03-21,WestVirginia,Fitness Center,25.0,"",25.0,25
-2020-03-22,WestVirginia,Food,28.0,21.0,28.0,1
-2020-03-22,WestVirginia,Gas Stations,68.0,68.0,68.0,2
-2020-03-22,WestVirginia,Grocery,78.0,72.0,78.0,3
-2020-03-22,WestVirginia,Shops & Services,22.0,20.0,22.0,4
-2020-03-22,WestVirginia,Big Box Stores,61.0,60.0,61.0,5
-2020-03-22,WestVirginia,Outdoors & Recreation,61.0,54.0,61.0,6
-2020-03-22,WestVirginia,Fast Food Restaurants,55.0,46.0,56.0,7
-2020-03-22,WestVirginia,Discount Stores,74.0,63.0,74.0,8
-2020-03-22,WestVirginia,Nightlife Spots,31.0,24.0,31.0,9
-2020-03-22,WestVirginia,Convenience Store,71.0,64.0,71.0,10
-2020-03-22,WestVirginia,Hardware Stores,87.0,70.0,88.0,11
-2020-03-22,WestVirginia,Medical,36.0,25.0,37.0,12
-2020-03-22,WestVirginia,Drug Store,73.0,59.0,73.0,13
-2020-03-22,WestVirginia,Professional & Other Places,14.0,12.0,14.0,14
-2020-03-22,WestVirginia,School,37.0,32.0,37.0,15
-2020-03-22,WestVirginia,Travel & Transport,77.0,82.0,77.0,16
-2020-03-22,WestVirginia,Arts & Entertainment,41.0,47.0,40.0,17
-2020-03-22,WestVirginia,Hotel,40.0,50.0,39.0,18
-2020-03-22,WestVirginia,Sports,45.0,"",45.0,19
-2020-03-22,WestVirginia,Colleges & Universities,43.0,"",43.0,19
-2020-03-22,WestVirginia,Government,47.0,"",47.0,20
-2020-03-22,WestVirginia,Residences,55.0,"",55.0,21
-2020-03-22,WestVirginia,Fitness Center,33.0,"",34.0,22
-2020-03-22,WestVirginia,Banks,64.0,"",65.0,23
-2020-03-22,WestVirginia,Office,58.0,"",59.0,24
-2020-03-23,WestVirginia,Food,31.0,26.0,32.0,1
-2020-03-23,WestVirginia,Shops & Services,32.0,29.0,32.0,2
-2020-03-23,WestVirginia,Gas Stations,74.0,66.0,74.0,3
-2020-03-23,WestVirginia,Grocery,103.0,108.0,103.0,4
-2020-03-23,WestVirginia,Fast Food Restaurants,61.0,48.0,62.0,5
-2020-03-23,WestVirginia,Big Box Stores,77.0,65.0,78.0,6
-2020-03-23,WestVirginia,Medical,31.0,22.0,32.0,7
-2020-03-23,WestVirginia,Outdoors & Recreation,61.0,53.0,62.0,8
-2020-03-23,WestVirginia,Discount Stores,90.0,75.0,90.0,9
-2020-03-23,WestVirginia,Professional & Other Places,14.0,15.0,14.0,10
-2020-03-23,WestVirginia,Nightlife Spots,45.0,40.0,45.0,11
-2020-03-23,WestVirginia,Drug Store,82.0,71.0,82.0,12
-2020-03-23,WestVirginia,School,27.0,27.0,27.0,13
-2020-03-23,WestVirginia,Convenience Store,72.0,66.0,72.0,14
-2020-03-23,WestVirginia,Hardware Stores,83.0,67.0,84.0,15
-2020-03-23,WestVirginia,Government,40.0,37.0,40.0,16
-2020-03-23,WestVirginia,Hotel,49.0,41.0,49.0,17
-2020-03-23,WestVirginia,Travel & Transport,51.0,55.0,51.0,18
-2020-03-23,WestVirginia,Arts & Entertainment,51.0,46.0,51.0,19
-2020-03-23,WestVirginia,Colleges & Universities,24.0,"",24.0,20
-2020-03-23,WestVirginia,Sports,37.0,35.0,37.0,21
-2020-03-23,WestVirginia,Office,63.0,73.0,63.0,21
-2020-03-23,WestVirginia,Banks,71.0,"",72.0,22
-2020-03-23,WestVirginia,Residences,68.0,"",68.0,23
-2020-03-23,WestVirginia,Fitness Center,27.0,"",27.0,24
-2020-03-24,WestVirginia,Food,31.0,24.0,31.0,1
-2020-03-24,WestVirginia,Shops & Services,27.0,23.0,27.0,2
-2020-03-24,WestVirginia,Gas Stations,72.0,67.0,72.0,3
-2020-03-24,WestVirginia,Grocery,89.0,78.0,89.0,4
-2020-03-24,WestVirginia,Fast Food Restaurants,57.0,52.0,57.0,5
-2020-03-24,WestVirginia,Big Box Stores,73.0,72.0,73.0,6
-2020-03-24,WestVirginia,Medical,29.0,23.0,29.0,7
-2020-03-24,WestVirginia,Outdoors & Recreation,53.0,46.0,53.0,8
-2020-03-24,WestVirginia,Professional & Other Places,14.0,15.0,14.0,9
-2020-03-24,WestVirginia,Nightlife Spots,40.0,40.0,40.0,10
-2020-03-24,WestVirginia,Discount Stores,73.0,61.0,73.0,11
-2020-03-24,WestVirginia,School,25.0,29.0,25.0,12
-2020-03-24,WestVirginia,Drug Store,75.0,80.0,75.0,13
-2020-03-24,WestVirginia,Hardware Stores,96.0,85.0,97.0,14
-2020-03-24,WestVirginia,Convenience Store,65.0,64.0,65.0,15
-2020-03-24,WestVirginia,Government,39.0,36.0,39.0,16
-2020-03-24,WestVirginia,Arts & Entertainment,55.0,62.0,55.0,17
-2020-03-24,WestVirginia,Travel & Transport,52.0,42.0,52.0,18
-2020-03-24,WestVirginia,Hotel,42.0,34.0,42.0,19
-2020-03-24,WestVirginia,Colleges & Universities,24.0,"",24.0,20
-2020-03-24,WestVirginia,Sports,39.0,41.0,39.0,21
-2020-03-24,WestVirginia,Office,53.0,"",53.0,22
-2020-03-24,WestVirginia,Banks,59.0,"",59.0,23
-2020-03-24,WestVirginia,Residences,75.0,"",75.0,24
-2020-03-24,WestVirginia,Fitness Center,22.0,"",22.0,25
-2020-03-25,WestVirginia,Food,25.0,20.0,25.0,1
-2020-03-25,WestVirginia,Shops & Services,24.0,22.0,24.0,2
-2020-03-25,WestVirginia,Gas Stations,61.0,50.0,61.0,3
-2020-03-25,WestVirginia,Grocery,76.0,59.0,76.0,4
-2020-03-25,WestVirginia,Fast Food Restaurants,49.0,42.0,49.0,5
-2020-03-25,WestVirginia,Big Box Stores,61.0,52.0,61.0,6
-2020-03-25,WestVirginia,Medical,26.0,20.0,26.0,7
-2020-03-25,WestVirginia,Outdoors & Recreation,52.0,42.0,52.0,8
-2020-03-25,WestVirginia,Professional & Other Places,14.0,11.0,14.0,9
-2020-03-25,WestVirginia,Discount Stores,65.0,52.0,66.0,10
-2020-03-25,WestVirginia,Nightlife Spots,35.0,35.0,35.0,11
-2020-03-25,WestVirginia,Drug Store,67.0,54.0,67.0,12
-2020-03-25,WestVirginia,Convenience Store,61.0,48.0,62.0,13
-2020-03-25,WestVirginia,School,20.0,24.0,20.0,14
-2020-03-25,WestVirginia,Hardware Stores,75.0,64.0,76.0,15
-2020-03-25,WestVirginia,Government,34.0,32.0,34.0,16
-2020-03-25,WestVirginia,Travel & Transport,40.0,33.0,40.0,17
-2020-03-25,WestVirginia,Arts & Entertainment,45.0,36.0,45.0,18
-2020-03-25,WestVirginia,Hotel,41.0,31.0,41.0,19
-2020-03-25,WestVirginia,Colleges & Universities,21.0,"",21.0,20
-2020-03-25,WestVirginia,Sports,37.0,39.0,37.0,21
-2020-03-25,WestVirginia,Banks,52.0,"",53.0,22
-2020-03-25,WestVirginia,Residences,69.0,"",70.0,23
-2020-03-25,WestVirginia,Office,38.0,"",38.0,24
-2020-03-25,WestVirginia,Fitness Center,19.0,"",19.0,25
-2020-03-26,WestVirginia,Food,31.0,28.0,32.0,1
-2020-03-26,WestVirginia,Shops & Services,27.0,26.0,27.0,2
-2020-03-26,WestVirginia,Gas Stations,72.0,63.0,72.0,3
-2020-03-26,WestVirginia,Fast Food Restaurants,57.0,58.0,57.0,4
-2020-03-26,WestVirginia,Grocery,75.0,67.0,75.0,5
-2020-03-26,WestVirginia,Outdoors & Recreation,78.0,77.0,78.0,6
-2020-03-26,WestVirginia,Big Box Stores,62.0,45.0,62.0,7
-2020-03-26,WestVirginia,Medical,27.0,23.0,28.0,8
-2020-03-26,WestVirginia,Professional & Other Places,14.0,12.0,14.0,9
-2020-03-26,WestVirginia,Nightlife Spots,44.0,37.0,44.0,10
-2020-03-26,WestVirginia,Discount Stores,71.0,60.0,72.0,11
-2020-03-26,WestVirginia,School,25.0,30.0,25.0,12
-2020-03-26,WestVirginia,Convenience Store,68.0,57.0,69.0,13
-2020-03-26,WestVirginia,Hardware Stores,95.0,80.0,96.0,14
-2020-03-26,WestVirginia,Drug Store,70.0,56.0,70.0,15
-2020-03-26,WestVirginia,Arts & Entertainment,62.0,57.0,62.0,16
-2020-03-26,WestVirginia,Government,39.0,35.0,39.0,17
-2020-03-26,WestVirginia,Travel & Transport,51.0,42.0,51.0,18
-2020-03-26,WestVirginia,Hotel,46.0,47.0,46.0,19
-2020-03-26,WestVirginia,Sports,52.0,75.0,51.0,20
-2020-03-26,WestVirginia,Colleges & Universities,26.0,"",26.0,21
-2020-03-26,WestVirginia,Office,55.0,"",55.0,22
-2020-03-26,WestVirginia,Residences,83.0,"",83.0,23
-2020-03-26,WestVirginia,Banks,52.0,"",52.0,24
-2020-03-26,WestVirginia,Fitness Center,20.0,"",20.0,25
-2020-03-27,WestVirginia,Food,31.0,27.0,31.0,1
-2020-03-27,WestVirginia,Shops & Services,26.0,24.0,26.0,2
-2020-03-27,WestVirginia,Gas Stations,71.0,63.0,71.0,3
-2020-03-27,WestVirginia,Fast Food Restaurants,61.0,55.0,62.0,4
-2020-03-27,WestVirginia,Grocery,77.0,73.0,77.0,5
-2020-03-27,WestVirginia,Big Box Stores,69.0,51.0,69.0,6
-2020-03-27,WestVirginia,Outdoors & Recreation,60.0,59.0,60.0,7
-2020-03-27,WestVirginia,Medical,30.0,23.0,30.0,8
-2020-03-27,WestVirginia,Professional & Other Places,20.0,20.0,20.0,9
-2020-03-27,WestVirginia,Nightlife Spots,41.0,38.0,41.0,10
-2020-03-27,WestVirginia,Discount Stores,74.0,64.0,74.0,11
-2020-03-27,WestVirginia,Convenience Store,75.0,62.0,75.0,12
-2020-03-27,WestVirginia,Drug Store,76.0,71.0,76.0,13
-2020-03-27,WestVirginia,Hardware Stores,103.0,85.0,104.0,14
-2020-03-27,WestVirginia,School,27.0,29.0,27.0,15
-2020-03-27,WestVirginia,Arts & Entertainment,49.0,49.0,49.0,16
-2020-03-27,WestVirginia,Government,39.0,33.0,39.0,17
-2020-03-27,WestVirginia,Hotel,42.0,40.0,42.0,18
-2020-03-27,WestVirginia,Travel & Transport,44.0,45.0,44.0,19
-2020-03-27,WestVirginia,Colleges & Universities,29.0,"",29.0,20
-2020-03-27,WestVirginia,Banks,59.0,50.0,59.0,21
-2020-03-27,WestVirginia,Sports,36.0,42.0,36.0,22
-2020-03-27,WestVirginia,Office,51.0,"",51.0,23
-2020-03-27,WestVirginia,Residences,71.0,"",71.0,24
-2020-03-27,WestVirginia,Fitness Center,29.0,"",29.0,25
-2020-03-28,WestVirginia,Food,26.0,22.0,26.0,1
-2020-03-28,WestVirginia,Shops & Services,23.0,19.0,23.0,2
-2020-03-28,WestVirginia,Gas Stations,76.0,55.0,77.0,3
-2020-03-28,WestVirginia,Grocery,81.0,63.0,82.0,4
-2020-03-28,WestVirginia,Fast Food Restaurants,65.0,57.0,65.0,5
-2020-03-28,WestVirginia,Outdoors & Recreation,75.0,67.0,76.0,6
-2020-03-28,WestVirginia,Big Box Stores,61.0,46.0,62.0,7
-2020-03-28,WestVirginia,Hardware Stores,116.0,81.0,117.0,8
-2020-03-28,WestVirginia,Discount Stores,76.0,62.0,77.0,9
-2020-03-28,WestVirginia,Nightlife Spots,36.0,31.0,36.0,10
-2020-03-28,WestVirginia,Medical,39.0,33.0,39.0,11
-2020-03-28,WestVirginia,Convenience Store,73.0,60.0,73.0,12
-2020-03-28,WestVirginia,Professional & Other Places,18.0,14.0,18.0,13
-2020-03-28,WestVirginia,Drug Store,76.0,57.0,77.0,14
-2020-03-28,WestVirginia,School,39.0,35.0,39.0,15
-2020-03-28,WestVirginia,Arts & Entertainment,40.0,46.0,39.0,16
-2020-03-28,WestVirginia,Travel & Transport,70.0,60.0,71.0,17
-2020-03-28,WestVirginia,Hotel,34.0,28.0,34.0,18
-2020-03-28,WestVirginia,Government,53.0,"",53.0,19
-2020-03-28,WestVirginia,Sports,53.0,74.0,52.0,20
-2020-03-28,WestVirginia,Colleges & Universities,38.0,"",38.0,21
-2020-03-28,WestVirginia,Residences,67.0,"",67.0,22
-2020-03-28,WestVirginia,Banks,66.0,"",67.0,23
-2020-03-28,WestVirginia,Office,61.0,"",61.0,24
-2020-03-28,WestVirginia,Fitness Center,22.0,"",22.0,25
-2020-03-29,WestVirginia,Food,22.0,18.0,22.0,1
-2020-03-29,WestVirginia,Gas Stations,63.0,52.0,64.0,2
-2020-03-29,WestVirginia,Shops & Services,20.0,19.0,20.0,3
-2020-03-29,WestVirginia,Grocery,64.0,59.0,64.0,4
-2020-03-29,WestVirginia,Fast Food Restaurants,59.0,55.0,59.0,5
-2020-03-29,WestVirginia,Outdoors & Recreation,59.0,47.0,59.0,6
-2020-03-29,WestVirginia,Big Box Stores,55.0,53.0,55.0,7
-2020-03-29,WestVirginia,Hardware Stores,101.0,73.0,102.0,8
-2020-03-29,WestVirginia,Discount Stores,63.0,62.0,63.0,9
-2020-03-29,WestVirginia,Nightlife Spots,27.0,26.0,28.0,10
-2020-03-29,WestVirginia,Convenience Store,67.0,64.0,67.0,11
-2020-03-29,WestVirginia,Drug Store,70.0,61.0,71.0,12
-2020-03-29,WestVirginia,Medical,32.0,26.0,32.0,13
-2020-03-29,WestVirginia,Professional & Other Places,17.0,16.0,17.0,14
-2020-03-29,WestVirginia,School,39.0,"",39.0,15
-2020-03-29,WestVirginia,Arts & Entertainment,35.0,39.0,35.0,16
-2020-03-29,WestVirginia,Travel & Transport,49.0,45.0,50.0,17
-2020-03-29,WestVirginia,Hotel,32.0,"",32.0,18
-2020-03-29,WestVirginia,Sports,51.0,"",51.0,19
-2020-03-29,WestVirginia,Government,46.0,"",46.0,20
-2020-03-29,WestVirginia,Colleges & Universities,41.0,"",41.0,21
-2020-03-29,WestVirginia,Residences,53.0,"",53.0,22
-2020-03-29,WestVirginia,Fitness Center,27.0,"",27.0,23
-2020-03-29,WestVirginia,Office,56.0,"",56.0,24
-2020-03-30,WestVirginia,Food,31.0,25.0,32.0,1
-2020-03-30,WestVirginia,Gas Stations,69.0,61.0,69.0,2
-2020-03-30,WestVirginia,Shops & Services,26.0,27.0,26.0,3
-2020-03-30,WestVirginia,Fast Food Restaurants,62.0,54.0,63.0,4
-2020-03-30,WestVirginia,Grocery,77.0,79.0,77.0,5
-2020-03-30,WestVirginia,Big Box Stores,65.0,57.0,65.0,6
-2020-03-30,WestVirginia,Outdoors & Recreation,62.0,52.0,63.0,7
-2020-03-30,WestVirginia,Medical,25.0,18.0,26.0,8
-2020-03-30,WestVirginia,Professional & Other Places,18.0,15.0,18.0,9
-2020-03-30,WestVirginia,Discount Stores,75.0,61.0,75.0,10
-2020-03-30,WestVirginia,Nightlife Spots,39.0,39.0,39.0,11
-2020-03-30,WestVirginia,Hardware Stores,98.0,88.0,99.0,12
-2020-03-30,WestVirginia,Convenience Store,68.0,64.0,68.0,13
-2020-03-30,WestVirginia,School,25.0,31.0,25.0,13
-2020-03-30,WestVirginia,Drug Store,71.0,67.0,71.0,14
-2020-03-30,WestVirginia,Government,37.0,37.0,37.0,15
-2020-03-30,WestVirginia,Arts & Entertainment,54.0,62.0,54.0,16
-2020-03-30,WestVirginia,Travel & Transport,47.0,39.0,48.0,17
-2020-03-30,WestVirginia,Hotel,38.0,34.0,39.0,18
-2020-03-30,WestVirginia,Colleges & Universities,21.0,"",20.0,19
-2020-03-30,WestVirginia,Sports,40.0,47.0,39.0,20
-2020-03-30,WestVirginia,Banks,68.0,58.0,69.0,21
-2020-03-30,WestVirginia,Office,48.0,"",49.0,22
-2020-03-30,WestVirginia,Residences,62.0,"",62.0,23
-2020-03-30,WestVirginia,Fitness Center,20.0,"",20.0,24
-2020-03-31,WestVirginia,Food,26.0,22.0,26.0,1
-2020-03-31,WestVirginia,Shops & Services,24.0,24.0,24.0,2
-2020-03-31,WestVirginia,Gas Stations,61.0,58.0,61.0,3
-2020-03-31,WestVirginia,Grocery,73.0,72.0,73.0,4
-2020-03-31,WestVirginia,Fast Food Restaurants,54.0,48.0,54.0,5
-2020-03-31,WestVirginia,Big Box Stores,66.0,68.0,66.0,6
-2020-03-31,WestVirginia,Outdoors & Recreation,55.0,55.0,55.0,7
-2020-03-31,WestVirginia,Medical,22.0,18.0,22.0,8
-2020-03-31,WestVirginia,Professional & Other Places,13.0,12.0,13.0,9
-2020-03-31,WestVirginia,Nightlife Spots,35.0,34.0,35.0,10
-2020-03-31,WestVirginia,Discount Stores,60.0,55.0,60.0,11
-2020-03-31,WestVirginia,Drug Store,66.0,58.0,66.0,12
-2020-03-31,WestVirginia,Hardware Stores,87.0,63.0,88.0,13
-2020-03-31,WestVirginia,School,21.0,29.0,21.0,14
-2020-03-31,WestVirginia,Convenience Store,59.0,51.0,59.0,15
-2020-03-31,WestVirginia,Government,31.0,27.0,31.0,16
-2020-03-31,WestVirginia,Arts & Entertainment,42.0,39.0,42.0,17
-2020-03-31,WestVirginia,Hotel,37.0,29.0,38.0,18
-2020-03-31,WestVirginia,Travel & Transport,52.0,61.0,52.0,19
-2020-03-31,WestVirginia,Colleges & Universities,23.0,"",22.0,20
-2020-03-31,WestVirginia,Banks,66.0,63.0,66.0,21
-2020-03-31,WestVirginia,Sports,30.0,"",30.0,22
-2020-03-31,WestVirginia,Office,39.0,"",39.0,23
-2020-03-31,WestVirginia,Residences,65.0,"",65.0,24
-2020-04-01,WestVirginia,Food,26.0,21.0,26.0,1
-2020-04-01,WestVirginia,Shops & Services,25.0,22.0,25.0,2
-2020-04-01,WestVirginia,Gas Stations,62.0,52.0,62.0,3
-2020-04-01,WestVirginia,Grocery,84.0,77.0,84.0,4
-2020-04-01,WestVirginia,Fast Food Restaurants,56.0,52.0,56.0,5
-2020-04-01,WestVirginia,Big Box Stores,70.0,55.0,71.0,6
-2020-04-01,WestVirginia,Medical,24.0,19.0,24.0,7
-2020-04-01,WestVirginia,Outdoors & Recreation,49.0,38.0,50.0,8
-2020-04-01,WestVirginia,Professional & Other Places,17.0,13.0,17.0,9
-2020-04-01,WestVirginia,Drug Store,78.0,66.0,78.0,10
-2020-04-01,WestVirginia,Discount Stores,67.0,56.0,67.0,11
-2020-04-01,WestVirginia,Convenience Store,65.0,52.0,65.0,12
-2020-04-01,WestVirginia,Nightlife Spots,34.0,35.0,34.0,13
-2020-04-01,WestVirginia,Hardware Stores,84.0,78.0,84.0,14
-2020-04-01,WestVirginia,School,19.0,21.0,19.0,15
-2020-04-01,WestVirginia,Government,33.0,31.0,34.0,16
-2020-04-01,WestVirginia,Arts & Entertainment,44.0,48.0,44.0,17
-2020-04-01,WestVirginia,Travel & Transport,56.0,"",57.0,18
-2020-04-01,WestVirginia,Hotel,38.0,31.0,38.0,19
-2020-04-01,WestVirginia,Colleges & Universities,20.0,"",20.0,20
-2020-04-01,WestVirginia,Banks,65.0,52.0,66.0,21
-2020-04-01,WestVirginia,Residences,65.0,"",64.0,22
-2020-04-01,WestVirginia,Office,38.0,"",38.0,23
-2020-04-01,WestVirginia,Sports,26.0,"",27.0,24
-2020-04-01,WestVirginia,Fitness Center,21.0,"",21.0,25
+2020-03-01,West Virginia,Food,67.0,68.0,67.0,1
+2020-03-01,West Virginia,Shops & Services,51.0,50.0,51.0,2
+2020-03-01,West Virginia,Gas Stations,114.0,121.0,113.0,3
+2020-03-01,West Virginia,Fast Food Restaurants,120.0,116.0,120.0,4
+2020-03-01,West Virginia,Big Box Stores,110.0,114.0,110.0,5
+2020-03-01,West Virginia,Grocery,100.0,96.0,100.0,6
+2020-03-01,West Virginia,Nightlife Spots,73.0,72.0,73.0,7
+2020-03-01,West Virginia,Outdoors & Recreation,81.0,82.0,81.0,8
+2020-03-01,West Virginia,Arts & Entertainment,95.0,87.0,95.0,9
+2020-03-01,West Virginia,Discount Stores,111.0,108.0,112.0,10
+2020-03-01,West Virginia,Medical,62.0,65.0,62.0,11
+2020-03-01,West Virginia,Hotel,87.0,95.0,86.0,12
+2020-03-01,West Virginia,Convenience Store,114.0,95.0,114.0,13
+2020-03-01,West Virginia,School,64.0,63.0,64.0,14
+2020-03-01,West Virginia,Professional & Other Places,29.0,27.0,29.0,15
+2020-03-01,West Virginia,Hardware Stores,118.0,125.0,118.0,16
+2020-03-01,West Virginia,Drug Store,104.0,96.0,105.0,17
+2020-03-01,West Virginia,Travel & Transport,71.0,88.0,71.0,18
+2020-03-01,West Virginia,Colleges & Universities,86.0,110.0,85.0,19
+2020-03-01,West Virginia,Government,71.0,71.0,71.0,20
+2020-03-01,West Virginia,Sports,53.0,61.0,53.0,21
+2020-03-01,West Virginia,Fitness Center,70.0,81.0,70.0,22
+2020-03-01,West Virginia,Residences,98.0,"",99.0,23
+2020-03-01,West Virginia,Banks,115.0,"",116.0,24
+2020-03-01,West Virginia,Office,99.0,"",99.0,25
+2020-03-01,West Virginia,Skiing,65.0,"",65.0,26
+2020-03-01,West Virginia,Airport,112.0,"",113.0,27
+2020-03-02,West Virginia,Food,61.0,59.0,61.0,1
+2020-03-02,West Virginia,Shops & Services,49.0,52.0,49.0,2
+2020-03-02,West Virginia,Gas Stations,106.0,92.0,107.0,3
+2020-03-02,West Virginia,Fast Food Restaurants,112.0,112.0,112.0,4
+2020-03-02,West Virginia,Medical,59.0,55.0,59.0,5
+2020-03-02,West Virginia,Grocery,107.0,106.0,107.0,6
+2020-03-02,West Virginia,Big Box Stores,106.0,102.0,106.0,7
+2020-03-02,West Virginia,School,63.0,58.0,63.0,8
+2020-03-02,West Virginia,Colleges & Universities,80.0,81.0,80.0,9
+2020-03-02,West Virginia,Nightlife Spots,74.0,69.0,74.0,10
+2020-03-02,West Virginia,Outdoors & Recreation,62.0,55.0,62.0,11
+2020-03-02,West Virginia,Professional & Other Places,22.0,20.0,22.0,12
+2020-03-02,West Virginia,Discount Stores,114.0,110.0,114.0,13
+2020-03-02,West Virginia,Government,81.0,73.0,82.0,14
+2020-03-02,West Virginia,Convenience Store,101.0,91.0,101.0,15
+2020-03-02,West Virginia,Drug Store,107.0,101.0,108.0,16
+2020-03-02,West Virginia,Arts & Entertainment,101.0,95.0,101.0,17
+2020-03-02,West Virginia,Hotel,81.0,77.0,81.0,18
+2020-03-02,West Virginia,Hardware Stores,103.0,91.0,104.0,19
+2020-03-02,West Virginia,Travel & Transport,74.0,68.0,75.0,20
+2020-03-02,West Virginia,Fitness Center,69.0,62.0,69.0,21
+2020-03-02,West Virginia,Office,99.0,93.0,99.0,22
+2020-03-02,West Virginia,Banks,123.0,117.0,124.0,23
+2020-03-02,West Virginia,Sports,49.0,44.0,49.0,24
+2020-03-02,West Virginia,Residences,106.0,"",106.0,25
+2020-03-02,West Virginia,Airport,96.0,"",96.0,26
+2020-03-03,West Virginia,Food,56.0,57.0,56.0,1
+2020-03-03,West Virginia,Shops & Services,51.0,52.0,51.0,2
+2020-03-03,West Virginia,Gas Stations,104.0,109.0,103.0,3
+2020-03-03,West Virginia,Fast Food Restaurants,108.0,99.0,109.0,4
+2020-03-03,West Virginia,Medical,58.0,52.0,58.0,5
+2020-03-03,West Virginia,Grocery,106.0,105.0,106.0,6
+2020-03-03,West Virginia,Big Box Stores,114.0,112.0,114.0,7
+2020-03-03,West Virginia,School,61.0,66.0,61.0,8
+2020-03-03,West Virginia,Colleges & Universities,85.0,97.0,85.0,9
+2020-03-03,West Virginia,Outdoors & Recreation,64.0,64.0,64.0,10
+2020-03-03,West Virginia,Nightlife Spots,81.0,65.0,81.0,11
+2020-03-03,West Virginia,Professional & Other Places,26.0,23.0,26.0,12
+2020-03-03,West Virginia,Discount Stores,113.0,102.0,113.0,13
+2020-03-03,West Virginia,Government,77.0,75.0,77.0,14
+2020-03-03,West Virginia,Drug Store,112.0,113.0,112.0,15
+2020-03-03,West Virginia,Convenience Store,103.0,90.0,104.0,16
+2020-03-03,West Virginia,Arts & Entertainment,91.0,86.0,91.0,17
+2020-03-03,West Virginia,Hotel,79.0,75.0,79.0,18
+2020-03-03,West Virginia,Hardware Stores,116.0,115.0,116.0,19
+2020-03-03,West Virginia,Travel & Transport,58.0,62.0,58.0,20
+2020-03-03,West Virginia,Fitness Center,75.0,67.0,75.0,21
+2020-03-03,West Virginia,Banks,136.0,139.0,136.0,22
+2020-03-03,West Virginia,Sports,51.0,50.0,51.0,23
+2020-03-03,West Virginia,Office,91.0,89.0,91.0,24
+2020-03-03,West Virginia,Residences,106.0,135.0,106.0,25
+2020-03-03,West Virginia,Airport,88.0,"",88.0,26
+2020-03-03,West Virginia,Alcohol,130.0,"",129.0,27
+2020-03-04,West Virginia,Food,60.0,60.0,60.0,1
+2020-03-04,West Virginia,Shops & Services,52.0,51.0,52.0,2
+2020-03-04,West Virginia,Gas Stations,106.0,102.0,106.0,3
+2020-03-04,West Virginia,Fast Food Restaurants,113.0,115.0,113.0,4
+2020-03-04,West Virginia,Medical,58.0,52.0,58.0,5
+2020-03-04,West Virginia,Grocery,103.0,96.0,104.0,6
+2020-03-04,West Virginia,School,63.0,62.0,63.0,7
+2020-03-04,West Virginia,Big Box Stores,102.0,101.0,102.0,8
+2020-03-04,West Virginia,Outdoors & Recreation,90.0,90.0,90.0,9
+2020-03-04,West Virginia,Colleges & Universities,88.0,103.0,88.0,10
+2020-03-04,West Virginia,Nightlife Spots,74.0,72.0,74.0,11
+2020-03-04,West Virginia,Professional & Other Places,23.0,21.0,23.0,12
+2020-03-04,West Virginia,Discount Stores,112.0,117.0,112.0,13
+2020-03-04,West Virginia,Government,73.0,66.0,73.0,14
+2020-03-04,West Virginia,Arts & Entertainment,95.0,109.0,95.0,15
+2020-03-04,West Virginia,Convenience Store,100.0,93.0,101.0,16
+2020-03-04,West Virginia,Drug Store,104.0,86.0,104.0,17
+2020-03-04,West Virginia,Hotel,84.0,83.0,84.0,18
+2020-03-04,West Virginia,Hardware Stores,111.0,108.0,111.0,19
+2020-03-04,West Virginia,Travel & Transport,54.0,62.0,54.0,20
+2020-03-04,West Virginia,Fitness Center,73.0,69.0,73.0,21
+2020-03-04,West Virginia,Banks,119.0,119.0,119.0,22
+2020-03-04,West Virginia,Office,89.0,85.0,89.0,23
+2020-03-04,West Virginia,Sports,56.0,65.0,55.0,24
+2020-03-04,West Virginia,Residences,109.0,"",109.0,25
+2020-03-04,West Virginia,Airport,97.0,"",98.0,26
+2020-03-04,West Virginia,Alcohol,119.0,"",118.0,27
+2020-03-05,West Virginia,Food,62.0,60.0,62.0,1
+2020-03-05,West Virginia,Shops & Services,53.0,60.0,53.0,2
+2020-03-05,West Virginia,Gas Stations,110.0,105.0,111.0,3
+2020-03-05,West Virginia,Fast Food Restaurants,113.0,120.0,113.0,4
+2020-03-05,West Virginia,Medical,58.0,62.0,58.0,5
+2020-03-05,West Virginia,Grocery,111.0,105.0,112.0,6
+2020-03-05,West Virginia,School,62.0,65.0,62.0,7
+2020-03-05,West Virginia,Big Box Stores,104.0,100.0,104.0,8
+2020-03-05,West Virginia,Outdoors & Recreation,82.0,77.0,82.0,9
+2020-03-05,West Virginia,Nightlife Spots,80.0,79.0,80.0,10
+2020-03-05,West Virginia,Professional & Other Places,25.0,25.0,25.0,11
+2020-03-05,West Virginia,Colleges & Universities,89.0,95.0,89.0,12
+2020-03-05,West Virginia,Discount Stores,113.0,120.0,113.0,13
+2020-03-05,West Virginia,Arts & Entertainment,107.0,103.0,107.0,14
+2020-03-05,West Virginia,Government,74.0,72.0,74.0,15
+2020-03-05,West Virginia,Convenience Store,105.0,103.0,105.0,16
+2020-03-05,West Virginia,Drug Store,110.0,99.0,111.0,17
+2020-03-05,West Virginia,Hotel,90.0,93.0,89.0,18
+2020-03-05,West Virginia,Hardware Stores,115.0,124.0,115.0,19
+2020-03-05,West Virginia,Travel & Transport,57.0,50.0,58.0,20
+2020-03-05,West Virginia,Fitness Center,78.0,75.0,78.0,21
+2020-03-05,West Virginia,Sports,61.0,65.0,61.0,22
+2020-03-05,West Virginia,Banks,128.0,137.0,127.0,23
+2020-03-05,West Virginia,Office,97.0,120.0,96.0,24
+2020-03-05,West Virginia,Residences,115.0,"",115.0,25
+2020-03-05,West Virginia,Airport,116.0,"",117.0,26
+2020-03-05,West Virginia,Alcohol,128.0,"",127.0,27
+2020-03-06,West Virginia,Food,58.0,58.0,58.0,1
+2020-03-06,West Virginia,Shops & Services,49.0,46.0,49.0,2
+2020-03-06,West Virginia,Gas Stations,104.0,99.0,104.0,3
+2020-03-06,West Virginia,Fast Food Restaurants,110.0,105.0,110.0,4
+2020-03-06,West Virginia,Grocery,103.0,98.0,103.0,5
+2020-03-06,West Virginia,Medical,60.0,59.0,60.0,6
+2020-03-06,West Virginia,Big Box Stores,102.0,100.0,102.0,7
+2020-03-06,West Virginia,School,75.0,78.0,75.0,8
+2020-03-06,West Virginia,Nightlife Spots,72.0,63.0,72.0,9
+2020-03-06,West Virginia,Outdoors & Recreation,67.0,61.0,68.0,10
+2020-03-06,West Virginia,Professional & Other Places,29.0,24.0,29.0,11
+2020-03-06,West Virginia,Colleges & Universities,94.0,98.0,94.0,12
+2020-03-06,West Virginia,Discount Stores,103.0,92.0,103.0,13
+2020-03-06,West Virginia,Arts & Entertainment,98.0,89.0,99.0,14
+2020-03-06,West Virginia,Convenience Store,104.0,88.0,104.0,15
+2020-03-06,West Virginia,Hotel,91.0,85.0,91.0,16
+2020-03-06,West Virginia,Drug Store,106.0,104.0,106.0,17
+2020-03-06,West Virginia,Government,79.0,81.0,79.0,18
+2020-03-06,West Virginia,Hardware Stores,101.0,100.0,101.0,19
+2020-03-06,West Virginia,Travel & Transport,56.0,58.0,56.0,20
+2020-03-06,West Virginia,Banks,113.0,109.0,113.0,21
+2020-03-06,West Virginia,Fitness Center,78.0,78.0,78.0,22
+2020-03-06,West Virginia,Office,99.0,100.0,99.0,23
+2020-03-06,West Virginia,Sports,55.0,61.0,55.0,24
+2020-03-06,West Virginia,Residences,115.0,"",115.0,25
+2020-03-06,West Virginia,Airport,90.0,"",91.0,26
+2020-03-06,West Virginia,Alcohol,126.0,"",126.0,27
+2020-03-07,West Virginia,Food,66.0,67.0,66.0,1
+2020-03-07,West Virginia,Shops & Services,52.0,51.0,53.0,2
+2020-03-07,West Virginia,Gas Stations,109.0,97.0,109.0,3
+2020-03-07,West Virginia,Fast Food Restaurants,105.0,97.0,105.0,4
+2020-03-07,West Virginia,Big Box Stores,101.0,95.0,101.0,5
+2020-03-07,West Virginia,Grocery,102.0,100.0,102.0,6
+2020-03-07,West Virginia,Nightlife Spots,70.0,67.0,70.0,7
+2020-03-07,West Virginia,Arts & Entertainment,100.0,107.0,100.0,8
+2020-03-07,West Virginia,Outdoors & Recreation,79.0,74.0,80.0,9
+2020-03-07,West Virginia,Discount Stores,108.0,105.0,108.0,10
+2020-03-07,West Virginia,Hotel,94.0,90.0,94.0,11
+2020-03-07,West Virginia,Medical,60.0,58.0,60.0,12
+2020-03-07,West Virginia,Professional & Other Places,36.0,33.0,36.0,13
+2020-03-07,West Virginia,Colleges & Universities,119.0,78.0,120.0,14
+2020-03-07,West Virginia,School,61.0,59.0,61.0,15
+2020-03-07,West Virginia,Hardware Stores,113.0,114.0,113.0,16
+2020-03-07,West Virginia,Convenience Store,95.0,82.0,95.0,17
+2020-03-07,West Virginia,Drug Store,103.0,101.0,103.0,18
+2020-03-07,West Virginia,Travel & Transport,58.0,64.0,58.0,19
+2020-03-07,West Virginia,Government,78.0,65.0,79.0,20
+2020-03-07,West Virginia,Fitness Center,67.0,72.0,67.0,21
+2020-03-07,West Virginia,Sports,45.0,45.0,45.0,22
+2020-03-07,West Virginia,Residences,114.0,"",113.0,23
+2020-03-07,West Virginia,Banks,103.0,"",104.0,24
+2020-03-07,West Virginia,Office,89.0,"",89.0,25
+2020-03-07,West Virginia,Skiing,46.0,"",46.0,26
+2020-03-07,West Virginia,Airport,101.0,"",102.0,27
+2020-03-07,West Virginia,Alcohol,116.0,"",117.0,28
+2020-03-08,West Virginia,Food,67.0,60.0,67.0,1
+2020-03-08,West Virginia,Shops & Services,51.0,49.0,51.0,2
+2020-03-08,West Virginia,Gas Stations,116.0,115.0,116.0,3
+2020-03-08,West Virginia,Fast Food Restaurants,121.0,117.0,121.0,4
+2020-03-08,West Virginia,Big Box Stores,106.0,104.0,106.0,5
+2020-03-08,West Virginia,Grocery,102.0,93.0,102.0,6
+2020-03-08,West Virginia,Outdoors & Recreation,100.0,91.0,100.0,7
+2020-03-08,West Virginia,Nightlife Spots,77.0,66.0,77.0,8
+2020-03-08,West Virginia,Arts & Entertainment,108.0,94.0,108.0,9
+2020-03-08,West Virginia,Discount Stores,112.0,106.0,112.0,10
+2020-03-08,West Virginia,Medical,66.0,63.0,66.0,11
+2020-03-08,West Virginia,Professional & Other Places,32.0,26.0,32.0,12
+2020-03-08,West Virginia,Hotel,91.0,88.0,91.0,13
+2020-03-08,West Virginia,Convenience Store,122.0,111.0,122.0,14
+2020-03-08,West Virginia,School,67.0,54.0,67.0,15
+2020-03-08,West Virginia,Hardware Stores,115.0,104.0,115.0,16
+2020-03-08,West Virginia,Colleges & Universities,109.0,99.0,109.0,17
+2020-03-08,West Virginia,Drug Store,103.0,100.0,104.0,18
+2020-03-08,West Virginia,Travel & Transport,105.0,135.0,104.0,19
+2020-03-08,West Virginia,Government,78.0,78.0,78.0,20
+2020-03-08,West Virginia,Sports,58.0,71.0,58.0,21
+2020-03-08,West Virginia,Residences,121.0,124.0,121.0,22
+2020-03-08,West Virginia,Fitness Center,78.0,74.0,78.0,23
+2020-03-08,West Virginia,Banks,98.0,"",98.0,24
+2020-03-08,West Virginia,Office,93.0,"",93.0,25
+2020-03-08,West Virginia,Airport,135.0,"",136.0,26
+2020-03-08,West Virginia,Skiing,58.0,"",59.0,27
+2020-03-09,West Virginia,Food,60.0,58.0,60.0,1
+2020-03-09,West Virginia,Shops & Services,49.0,51.0,49.0,2
+2020-03-09,West Virginia,Gas Stations,106.0,103.0,106.0,3
+2020-03-09,West Virginia,Fast Food Restaurants,108.0,110.0,108.0,4
+2020-03-09,West Virginia,Medical,58.0,55.0,58.0,5
+2020-03-09,West Virginia,Grocery,107.0,101.0,108.0,6
+2020-03-09,West Virginia,Big Box Stores,107.0,105.0,107.0,7
+2020-03-09,West Virginia,Outdoors & Recreation,94.0,73.0,95.0,8
+2020-03-09,West Virginia,School,61.0,66.0,61.0,9
+2020-03-09,West Virginia,Colleges & Universities,80.0,88.0,80.0,10
+2020-03-09,West Virginia,Nightlife Spots,78.0,79.0,78.0,11
+2020-03-09,West Virginia,Professional & Other Places,23.0,21.0,23.0,12
+2020-03-09,West Virginia,Discount Stores,111.0,102.0,111.0,13
+2020-03-09,West Virginia,Government,76.0,74.0,76.0,14
+2020-03-09,West Virginia,Arts & Entertainment,104.0,94.0,105.0,15
+2020-03-09,West Virginia,Convenience Store,103.0,93.0,103.0,16
+2020-03-09,West Virginia,Drug Store,110.0,108.0,111.0,17
+2020-03-09,West Virginia,Hotel,90.0,94.0,90.0,18
+2020-03-09,West Virginia,Hardware Stores,111.0,118.0,111.0,19
+2020-03-09,West Virginia,Travel & Transport,64.0,74.0,64.0,20
+2020-03-09,West Virginia,Sports,54.0,62.0,54.0,21
+2020-03-09,West Virginia,Fitness Center,70.0,57.0,70.0,22
+2020-03-09,West Virginia,Banks,125.0,132.0,125.0,23
+2020-03-09,West Virginia,Office,91.0,90.0,91.0,24
+2020-03-09,West Virginia,Residences,114.0,114.0,114.0,25
+2020-03-09,West Virginia,Airport,99.0,"",99.0,26
+2020-03-09,West Virginia,Alcohol,136.0,"",137.0,27
+2020-03-10,West Virginia,Food,54.0,51.0,54.0,1
+2020-03-10,West Virginia,Shops & Services,46.0,45.0,46.0,2
+2020-03-10,West Virginia,Gas Stations,103.0,102.0,103.0,3
+2020-03-10,West Virginia,Fast Food Restaurants,101.0,95.0,102.0,4
+2020-03-10,West Virginia,Medical,58.0,54.0,58.0,5
+2020-03-10,West Virginia,Grocery,101.0,95.0,101.0,6
+2020-03-10,West Virginia,Big Box Stores,100.0,86.0,101.0,7
+2020-03-10,West Virginia,School,55.0,49.0,55.0,8
+2020-03-10,West Virginia,Outdoors & Recreation,68.0,65.0,68.0,9
+2020-03-10,West Virginia,Colleges & Universities,74.0,77.0,74.0,10
+2020-03-10,West Virginia,Nightlife Spots,73.0,64.0,73.0,11
+2020-03-10,West Virginia,Professional & Other Places,22.0,21.0,22.0,12
+2020-03-10,West Virginia,Discount Stores,106.0,110.0,106.0,13
+2020-03-10,West Virginia,Government,67.0,64.0,67.0,14
+2020-03-10,West Virginia,Convenience Store,99.0,96.0,99.0,15
+2020-03-10,West Virginia,Arts & Entertainment,92.0,87.0,93.0,16
+2020-03-10,West Virginia,Drug Store,104.0,103.0,104.0,17
+2020-03-10,West Virginia,Hotel,78.0,69.0,79.0,18
+2020-03-10,West Virginia,Hardware Stores,105.0,91.0,106.0,19
+2020-03-10,West Virginia,Travel & Transport,53.0,46.0,53.0,20
+2020-03-10,West Virginia,Fitness Center,69.0,59.0,70.0,21
+2020-03-10,West Virginia,Banks,117.0,139.0,116.0,22
+2020-03-10,West Virginia,Office,84.0,90.0,84.0,23
+2020-03-10,West Virginia,Sports,46.0,57.0,46.0,24
+2020-03-10,West Virginia,Residences,104.0,129.0,103.0,25
+2020-03-10,West Virginia,Airport,88.0,"",86.0,26
+2020-03-10,West Virginia,Alcohol,119.0,"",118.0,27
+2020-03-11,West Virginia,Food,56.0,56.0,55.0,1
+2020-03-11,West Virginia,Shops & Services,50.0,51.0,50.0,2
+2020-03-11,West Virginia,Gas Stations,101.0,91.0,102.0,3
+2020-03-11,West Virginia,Fast Food Restaurants,102.0,99.0,103.0,4
+2020-03-11,West Virginia,Medical,55.0,48.0,55.0,5
+2020-03-11,West Virginia,Grocery,106.0,97.0,107.0,6
+2020-03-11,West Virginia,Big Box Stores,103.0,95.0,104.0,7
+2020-03-11,West Virginia,School,58.0,56.0,58.0,8
+2020-03-11,West Virginia,Outdoors & Recreation,80.0,73.0,80.0,9
+2020-03-11,West Virginia,Colleges & Universities,77.0,81.0,76.0,10
+2020-03-11,West Virginia,Nightlife Spots,67.0,68.0,67.0,11
+2020-03-11,West Virginia,Professional & Other Places,21.0,22.0,21.0,12
+2020-03-11,West Virginia,Discount Stores,105.0,101.0,105.0,13
+2020-03-11,West Virginia,Arts & Entertainment,94.0,87.0,95.0,14
+2020-03-11,West Virginia,Convenience Store,100.0,88.0,100.0,15
+2020-03-11,West Virginia,Government,63.0,53.0,64.0,16
+2020-03-11,West Virginia,Drug Store,100.0,88.0,101.0,17
+2020-03-11,West Virginia,Hotel,85.0,69.0,86.0,18
+2020-03-11,West Virginia,Hardware Stores,104.0,114.0,103.0,19
+2020-03-11,West Virginia,Travel & Transport,57.0,53.0,57.0,20
+2020-03-11,West Virginia,Sports,55.0,56.0,55.0,21
+2020-03-11,West Virginia,Banks,118.0,114.0,118.0,22
+2020-03-11,West Virginia,Fitness Center,61.0,58.0,61.0,22
+2020-03-11,West Virginia,Office,81.0,99.0,80.0,23
+2020-03-11,West Virginia,Residences,111.0,141.0,110.0,24
+2020-03-11,West Virginia,Airport,77.0,"",77.0,25
+2020-03-12,West Virginia,Food,52.0,51.0,52.0,1
+2020-03-12,West Virginia,Shops & Services,49.0,51.0,49.0,2
+2020-03-12,West Virginia,Gas Stations,107.0,105.0,107.0,3
+2020-03-12,West Virginia,Fast Food Restaurants,107.0,104.0,107.0,4
+2020-03-12,West Virginia,Grocery,112.0,110.0,112.0,5
+2020-03-12,West Virginia,Medical,54.0,59.0,54.0,6
+2020-03-12,West Virginia,Big Box Stores,110.0,108.0,110.0,7
+2020-03-12,West Virginia,School,56.0,59.0,56.0,8
+2020-03-12,West Virginia,Outdoors & Recreation,77.0,70.0,78.0,9
+2020-03-12,West Virginia,Nightlife Spots,82.0,83.0,82.0,10
+2020-03-12,West Virginia,Professional & Other Places,23.0,23.0,23.0,11
+2020-03-12,West Virginia,Discount Stores,122.0,130.0,121.0,12
+2020-03-12,West Virginia,Colleges & Universities,76.0,79.0,76.0,13
+2020-03-12,West Virginia,Convenience Store,105.0,103.0,105.0,14
+2020-03-12,West Virginia,Arts & Entertainment,97.0,87.0,97.0,15
+2020-03-12,West Virginia,Drug Store,108.0,104.0,108.0,16
+2020-03-12,West Virginia,Government,66.0,58.0,67.0,17
+2020-03-12,West Virginia,Hotel,86.0,73.0,86.0,18
+2020-03-12,West Virginia,Hardware Stores,111.0,116.0,111.0,19
+2020-03-12,West Virginia,Travel & Transport,61.0,56.0,61.0,20
+2020-03-12,West Virginia,Sports,65.0,67.0,64.0,21
+2020-03-12,West Virginia,Fitness Center,64.0,53.0,65.0,22
+2020-03-12,West Virginia,Office,91.0,106.0,91.0,23
+2020-03-12,West Virginia,Banks,110.0,107.0,110.0,24
+2020-03-12,West Virginia,Residences,118.0,134.0,117.0,25
+2020-03-12,West Virginia,Airport,97.0,"",97.0,26
+2020-03-13,West Virginia,Food,56.0,52.0,57.0,1
+2020-03-13,West Virginia,Shops & Services,50.0,51.0,50.0,2
+2020-03-13,West Virginia,Gas Stations,114.0,109.0,114.0,3
+2020-03-13,West Virginia,Fast Food Restaurants,114.0,110.0,114.0,4
+2020-03-13,West Virginia,Grocery,140.0,139.0,140.0,5
+2020-03-13,West Virginia,Big Box Stores,121.0,117.0,122.0,6
+2020-03-13,West Virginia,Medical,56.0,52.0,56.0,7
+2020-03-13,West Virginia,Outdoors & Recreation,78.0,74.0,79.0,8
+2020-03-13,West Virginia,Nightlife Spots,78.0,66.0,78.0,9
+2020-03-13,West Virginia,Discount Stores,150.0,130.0,150.0,10
+2020-03-13,West Virginia,School,63.0,66.0,62.0,11
+2020-03-13,West Virginia,Professional & Other Places,25.0,23.0,25.0,12
+2020-03-13,West Virginia,Drug Store,123.0,112.0,124.0,13
+2020-03-13,West Virginia,Convenience Store,109.0,112.0,109.0,14
+2020-03-13,West Virginia,Colleges & Universities,78.0,113.0,78.0,15
+2020-03-13,West Virginia,Arts & Entertainment,93.0,87.0,94.0,16
+2020-03-13,West Virginia,Hardware Stores,139.0,126.0,139.0,17
+2020-03-13,West Virginia,Hotel,86.0,80.0,86.0,18
+2020-03-13,West Virginia,Government,75.0,69.0,75.0,19
+2020-03-13,West Virginia,Travel & Transport,60.0,71.0,60.0,20
+2020-03-13,West Virginia,Banks,116.0,111.0,116.0,21
+2020-03-13,West Virginia,Fitness Center,73.0,72.0,73.0,22
+2020-03-13,West Virginia,Office,99.0,93.0,99.0,23
+2020-03-13,West Virginia,Sports,59.0,58.0,59.0,24
+2020-03-13,West Virginia,Residences,115.0,150.0,114.0,25
+2020-03-13,West Virginia,Alcohol,146.0,"",145.0,26
+2020-03-13,West Virginia,Airport,77.0,"",77.0,27
+2020-03-14,West Virginia,Food,50.0,48.0,50.0,1
+2020-03-14,West Virginia,Shops & Services,47.0,44.0,47.0,2
+2020-03-14,West Virginia,Gas Stations,107.0,105.0,107.0,3
+2020-03-14,West Virginia,Grocery,127.0,122.0,127.0,4
+2020-03-14,West Virginia,Big Box Stores,111.0,100.0,112.0,5
+2020-03-14,West Virginia,Fast Food Restaurants,96.0,87.0,96.0,6
+2020-03-14,West Virginia,Nightlife Spots,68.0,58.0,68.0,7
+2020-03-14,West Virginia,Outdoors & Recreation,79.0,70.0,79.0,8
+2020-03-14,West Virginia,Discount Stores,127.0,121.0,127.0,9
+2020-03-14,West Virginia,Arts & Entertainment,78.0,89.0,78.0,10
+2020-03-14,West Virginia,Medical,55.0,51.0,56.0,11
+2020-03-14,West Virginia,Hardware Stores,121.0,113.0,121.0,12
+2020-03-14,West Virginia,Drug Store,117.0,114.0,117.0,13
+2020-03-14,West Virginia,Hotel,76.0,91.0,76.0,14
+2020-03-14,West Virginia,Convenience Store,98.0,93.0,98.0,15
+2020-03-14,West Virginia,Professional & Other Places,23.0,23.0,23.0,16
+2020-03-14,West Virginia,School,45.0,41.0,45.0,17
+2020-03-14,West Virginia,Travel & Transport,65.0,77.0,65.0,18
+2020-03-14,West Virginia,Colleges & Universities,54.0,"",54.0,19
+2020-03-14,West Virginia,Government,64.0,64.0,64.0,20
+2020-03-14,West Virginia,Sports,49.0,49.0,49.0,21
+2020-03-14,West Virginia,Fitness Center,55.0,"",55.0,22
+2020-03-14,West Virginia,Residences,93.0,"",93.0,23
+2020-03-14,West Virginia,Banks,96.0,"",97.0,24
+2020-03-14,West Virginia,Office,95.0,"",96.0,25
+2020-03-14,West Virginia,Airport,88.0,"",89.0,26
+2020-03-14,West Virginia,Alcohol,103.0,"",104.0,27
+2020-03-15,West Virginia,Food,53.0,45.0,53.0,1
+2020-03-15,West Virginia,Shops & Services,41.0,37.0,41.0,2
+2020-03-15,West Virginia,Gas Stations,91.0,83.0,91.0,3
+2020-03-15,West Virginia,Grocery,106.0,101.0,106.0,4
+2020-03-15,West Virginia,Big Box Stores,93.0,89.0,93.0,5
+2020-03-15,West Virginia,Fast Food Restaurants,84.0,78.0,84.0,6
+2020-03-15,West Virginia,Outdoors & Recreation,67.0,60.0,68.0,7
+2020-03-15,West Virginia,Nightlife Spots,58.0,44.0,58.0,8
+2020-03-15,West Virginia,Discount Stores,106.0,92.0,106.0,9
+2020-03-15,West Virginia,Arts & Entertainment,71.0,53.0,71.0,10
+2020-03-15,West Virginia,Medical,49.0,41.0,49.0,11
+2020-03-15,West Virginia,Convenience Store,86.0,60.0,87.0,12
+2020-03-15,West Virginia,Hardware Stores,107.0,110.0,107.0,13
+2020-03-15,West Virginia,Drug Store,97.0,90.0,98.0,14
+2020-03-15,West Virginia,Professional & Other Places,23.0,22.0,23.0,15
+2020-03-15,West Virginia,Hotel,63.0,61.0,63.0,16
+2020-03-15,West Virginia,School,51.0,39.0,51.0,17
+2020-03-15,West Virginia,Travel & Transport,72.0,70.0,72.0,18
+2020-03-15,West Virginia,Government,63.0,"",63.0,19
+2020-03-15,West Virginia,Sports,45.0,52.0,45.0,20
+2020-03-15,West Virginia,Colleges & Universities,50.0,"",50.0,21
+2020-03-15,West Virginia,Fitness Center,55.0,"",55.0,22
+2020-03-15,West Virginia,Residences,73.0,"",73.0,23
+2020-03-15,West Virginia,Office,75.0,"",75.0,24
+2020-03-15,West Virginia,Banks,66.0,"",66.0,25
+2020-03-16,West Virginia,Food,53.0,45.0,54.0,1
+2020-03-16,West Virginia,Shops & Services,46.0,41.0,46.0,2
+2020-03-16,West Virginia,Gas Stations,102.0,95.0,102.0,3
+2020-03-16,West Virginia,Grocery,134.0,129.0,134.0,4
+2020-03-16,West Virginia,Fast Food Restaurants,91.0,80.0,91.0,5
+2020-03-16,West Virginia,Big Box Stores,113.0,95.0,113.0,6
+2020-03-16,West Virginia,Medical,48.0,41.0,48.0,7
+2020-03-16,West Virginia,Outdoors & Recreation,79.0,63.0,80.0,8
+2020-03-16,West Virginia,Professional & Other Places,28.0,28.0,28.0,9
+2020-03-16,West Virginia,Nightlife Spots,59.0,48.0,60.0,10
+2020-03-16,West Virginia,Discount Stores,115.0,100.0,115.0,11
+2020-03-16,West Virginia,Drug Store,111.0,105.0,111.0,12
+2020-03-16,West Virginia,Convenience Store,99.0,89.0,99.0,13
+2020-03-16,West Virginia,School,32.0,35.0,31.0,14
+2020-03-16,West Virginia,Government,67.0,56.0,67.0,15
+2020-03-16,West Virginia,Arts & Entertainment,80.0,75.0,80.0,16
+2020-03-16,West Virginia,Hotel,72.0,72.0,72.0,17
+2020-03-16,West Virginia,Hardware Stores,107.0,98.0,108.0,18
+2020-03-16,West Virginia,Colleges & Universities,34.0,62.0,34.0,19
+2020-03-16,West Virginia,Travel & Transport,67.0,66.0,67.0,20
+2020-03-16,West Virginia,Banks,123.0,126.0,122.0,21
+2020-03-16,West Virginia,Office,84.0,74.0,84.0,22
+2020-03-16,West Virginia,Sports,48.0,41.0,48.0,23
+2020-03-16,West Virginia,Fitness Center,52.0,48.0,52.0,24
+2020-03-16,West Virginia,Residences,79.0,"",79.0,25
+2020-03-17,West Virginia,Food,47.0,41.0,47.0,1
+2020-03-17,West Virginia,Shops & Services,41.0,36.0,41.0,2
+2020-03-17,West Virginia,Gas Stations,97.0,90.0,97.0,3
+2020-03-17,West Virginia,Grocery,127.0,117.0,127.0,4
+2020-03-17,West Virginia,Fast Food Restaurants,79.0,69.0,79.0,5
+2020-03-17,West Virginia,Big Box Stores,113.0,98.0,113.0,6
+2020-03-17,West Virginia,Medical,43.0,40.0,43.0,7
+2020-03-17,West Virginia,Outdoors & Recreation,69.0,70.0,69.0,8
+2020-03-17,West Virginia,Nightlife Spots,66.0,52.0,67.0,9
+2020-03-17,West Virginia,Professional & Other Places,22.0,21.0,22.0,10
+2020-03-17,West Virginia,Discount Stores,113.0,104.0,113.0,11
+2020-03-17,West Virginia,Drug Store,101.0,110.0,101.0,12
+2020-03-17,West Virginia,Convenience Store,92.0,77.0,93.0,13
+2020-03-17,West Virginia,School,27.0,31.0,27.0,14
+2020-03-17,West Virginia,Government,54.0,48.0,55.0,15
+2020-03-17,West Virginia,Arts & Entertainment,75.0,71.0,75.0,16
+2020-03-17,West Virginia,Hotel,70.0,61.0,70.0,17
+2020-03-17,West Virginia,Hardware Stores,108.0,86.0,109.0,18
+2020-03-17,West Virginia,Travel & Transport,64.0,73.0,64.0,19
+2020-03-17,West Virginia,Colleges & Universities,32.0,46.0,31.0,20
+2020-03-17,West Virginia,Fitness Center,50.0,39.0,51.0,21
+2020-03-17,West Virginia,Office,69.0,"",69.0,22
+2020-03-17,West Virginia,Banks,84.0,92.0,83.0,23
+2020-03-17,West Virginia,Sports,42.0,41.0,42.0,24
+2020-03-17,West Virginia,Residences,94.0,"",94.0,25
+2020-03-18,West Virginia,Food,39.0,35.0,39.0,1
+2020-03-18,West Virginia,Shops & Services,39.0,38.0,39.0,2
+2020-03-18,West Virginia,Gas Stations,97.0,91.0,97.0,3
+2020-03-18,West Virginia,Grocery,124.0,117.0,124.0,4
+2020-03-18,West Virginia,Fast Food Restaurants,79.0,75.0,79.0,5
+2020-03-18,West Virginia,Big Box Stores,101.0,82.0,101.0,6
+2020-03-18,West Virginia,Medical,42.0,35.0,42.0,7
+2020-03-18,West Virginia,Outdoors & Recreation,80.0,68.0,80.0,8
+2020-03-18,West Virginia,Nightlife Spots,56.0,50.0,56.0,9
+2020-03-18,West Virginia,Professional & Other Places,16.0,14.0,16.0,10
+2020-03-18,West Virginia,Discount Stores,104.0,86.0,104.0,11
+2020-03-18,West Virginia,Drug Store,101.0,89.0,102.0,12
+2020-03-18,West Virginia,Convenience Store,89.0,78.0,90.0,13
+2020-03-18,West Virginia,School,29.0,33.0,29.0,14
+2020-03-18,West Virginia,Government,51.0,47.0,51.0,15
+2020-03-18,West Virginia,Hardware Stores,107.0,86.0,109.0,16
+2020-03-18,West Virginia,Hotel,64.0,50.0,64.0,17
+2020-03-18,West Virginia,Arts & Entertainment,63.0,57.0,63.0,18
+2020-03-18,West Virginia,Travel & Transport,61.0,58.0,61.0,19
+2020-03-18,West Virginia,Colleges & Universities,28.0,62.0,27.0,20
+2020-03-18,West Virginia,Office,68.0,71.0,68.0,21
+2020-03-18,West Virginia,Sports,47.0,49.0,47.0,22
+2020-03-18,West Virginia,Banks,80.0,70.0,81.0,23
+2020-03-18,West Virginia,Fitness Center,37.0,39.0,37.0,24
+2020-03-18,West Virginia,Residences,91.0,"",91.0,25
+2020-03-19,West Virginia,Food,36.0,34.0,36.0,1
+2020-03-19,West Virginia,Shops & Services,37.0,32.0,37.0,2
+2020-03-19,West Virginia,Gas Stations,93.0,88.0,93.0,3
+2020-03-19,West Virginia,Grocery,116.0,108.0,117.0,4
+2020-03-19,West Virginia,Fast Food Restaurants,72.0,60.0,72.0,5
+2020-03-19,West Virginia,Big Box Stores,92.0,89.0,92.0,6
+2020-03-19,West Virginia,Medical,38.0,33.0,39.0,7
+2020-03-19,West Virginia,Outdoors & Recreation,72.0,61.0,72.0,8
+2020-03-19,West Virginia,Professional & Other Places,19.0,18.0,19.0,9
+2020-03-19,West Virginia,Discount Stores,98.0,90.0,98.0,10
+2020-03-19,West Virginia,School,33.0,34.0,32.0,11
+2020-03-19,West Virginia,Nightlife Spots,52.0,53.0,52.0,12
+2020-03-19,West Virginia,Drug Store,99.0,96.0,99.0,13
+2020-03-19,West Virginia,Convenience Store,88.0,79.0,88.0,14
+2020-03-19,West Virginia,Hardware Stores,100.0,95.0,101.0,15
+2020-03-19,West Virginia,Hotel,66.0,62.0,66.0,16
+2020-03-19,West Virginia,Government,49.0,42.0,49.0,17
+2020-03-19,West Virginia,Arts & Entertainment,65.0,69.0,64.0,18
+2020-03-19,West Virginia,Travel & Transport,62.0,61.0,62.0,19
+2020-03-19,West Virginia,Colleges & Universities,29.0,54.0,29.0,20
+2020-03-19,West Virginia,Sports,47.0,61.0,46.0,21
+2020-03-19,West Virginia,Office,69.0,80.0,69.0,22
+2020-03-19,West Virginia,Banks,79.0,60.0,80.0,23
+2020-03-19,West Virginia,Residences,87.0,"",87.0,24
+2020-03-19,West Virginia,Fitness Center,27.0,"",27.0,25
+2020-03-19,West Virginia,Alcohol,112.0,"",112.0,26
+2020-03-20,West Virginia,Food,34.0,29.0,34.0,1
+2020-03-20,West Virginia,Shops & Services,36.0,33.0,36.0,2
+2020-03-20,West Virginia,Gas Stations,91.0,81.0,91.0,3
+2020-03-20,West Virginia,Grocery,119.0,107.0,120.0,4
+2020-03-20,West Virginia,Fast Food Restaurants,73.0,68.0,74.0,5
+2020-03-20,West Virginia,Big Box Stores,97.0,81.0,97.0,6
+2020-03-20,West Virginia,Outdoors & Recreation,70.0,68.0,70.0,7
+2020-03-20,West Virginia,Medical,41.0,33.0,41.0,8
+2020-03-20,West Virginia,Discount Stores,104.0,90.0,105.0,9
+2020-03-20,West Virginia,Professional & Other Places,17.0,18.0,17.0,10
+2020-03-20,West Virginia,Nightlife Spots,50.0,41.0,51.0,11
+2020-03-20,West Virginia,Convenience Store,94.0,77.0,95.0,12
+2020-03-20,West Virginia,Drug Store,99.0,90.0,99.0,13
+2020-03-20,West Virginia,School,38.0,42.0,38.0,14
+2020-03-20,West Virginia,Hardware Stores,118.0,105.0,119.0,15
+2020-03-20,West Virginia,Government,53.0,52.0,53.0,16
+2020-03-20,West Virginia,Hotel,56.0,52.0,56.0,17
+2020-03-20,West Virginia,Travel & Transport,52.0,49.0,52.0,18
+2020-03-20,West Virginia,Arts & Entertainment,59.0,57.0,60.0,19
+2020-03-20,West Virginia,Colleges & Universities,38.0,"",38.0,20
+2020-03-20,West Virginia,Banks,85.0,92.0,85.0,21
+2020-03-20,West Virginia,Sports,49.0,55.0,48.0,22
+2020-03-20,West Virginia,Office,70.0,"",70.0,23
+2020-03-20,West Virginia,Residences,90.0,"",90.0,24
+2020-03-20,West Virginia,Fitness Center,36.0,"",36.0,25
+2020-03-21,West Virginia,Food,30.0,27.0,30.0,1
+2020-03-21,West Virginia,Shops & Services,27.0,24.0,28.0,2
+2020-03-21,West Virginia,Grocery,122.0,109.0,122.0,3
+2020-03-21,West Virginia,Gas Stations,86.0,76.0,86.0,4
+2020-03-21,West Virginia,Big Box Stores,81.0,66.0,81.0,5
+2020-03-21,West Virginia,Fast Food Restaurants,64.0,53.0,65.0,6
+2020-03-21,West Virginia,Outdoors & Recreation,56.0,54.0,56.0,7
+2020-03-21,West Virginia,Discount Stores,96.0,82.0,96.0,8
+2020-03-21,West Virginia,Hardware Stores,106.0,92.0,106.0,9
+2020-03-21,West Virginia,Nightlife Spots,36.0,32.0,36.0,10
+2020-03-21,West Virginia,Convenience Store,84.0,82.0,84.0,11
+2020-03-21,West Virginia,Drug Store,94.0,82.0,94.0,12
+2020-03-21,West Virginia,Medical,40.0,32.0,40.0,13
+2020-03-21,West Virginia,Professional & Other Places,18.0,14.0,18.0,14
+2020-03-21,West Virginia,School,39.0,38.0,39.0,15
+2020-03-21,West Virginia,Arts & Entertainment,39.0,37.0,39.0,16
+2020-03-21,West Virginia,Hotel,44.0,52.0,43.0,17
+2020-03-21,West Virginia,Travel & Transport,57.0,53.0,57.0,18
+2020-03-21,West Virginia,Government,52.0,"",53.0,19
+2020-03-21,West Virginia,Sports,43.0,"",43.0,20
+2020-03-21,West Virginia,Colleges & Universities,38.0,"",38.0,21
+2020-03-21,West Virginia,Residences,68.0,"",68.0,22
+2020-03-21,West Virginia,Banks,68.0,"",69.0,23
+2020-03-21,West Virginia,Office,71.0,"",71.0,24
+2020-03-21,West Virginia,Fitness Center,25.0,"",25.0,25
+2020-03-22,West Virginia,Food,28.0,21.0,28.0,1
+2020-03-22,West Virginia,Gas Stations,68.0,68.0,68.0,2
+2020-03-22,West Virginia,Grocery,78.0,72.0,78.0,3
+2020-03-22,West Virginia,Shops & Services,22.0,20.0,22.0,4
+2020-03-22,West Virginia,Big Box Stores,61.0,60.0,61.0,5
+2020-03-22,West Virginia,Outdoors & Recreation,61.0,54.0,61.0,6
+2020-03-22,West Virginia,Fast Food Restaurants,55.0,46.0,56.0,7
+2020-03-22,West Virginia,Discount Stores,74.0,63.0,74.0,8
+2020-03-22,West Virginia,Nightlife Spots,31.0,24.0,31.0,9
+2020-03-22,West Virginia,Convenience Store,71.0,64.0,71.0,10
+2020-03-22,West Virginia,Hardware Stores,87.0,70.0,88.0,11
+2020-03-22,West Virginia,Medical,36.0,25.0,37.0,12
+2020-03-22,West Virginia,Drug Store,73.0,59.0,73.0,13
+2020-03-22,West Virginia,Professional & Other Places,14.0,12.0,14.0,14
+2020-03-22,West Virginia,School,37.0,32.0,37.0,15
+2020-03-22,West Virginia,Travel & Transport,77.0,82.0,77.0,16
+2020-03-22,West Virginia,Arts & Entertainment,41.0,47.0,40.0,17
+2020-03-22,West Virginia,Hotel,40.0,50.0,39.0,18
+2020-03-22,West Virginia,Sports,45.0,"",45.0,19
+2020-03-22,West Virginia,Colleges & Universities,43.0,"",43.0,19
+2020-03-22,West Virginia,Government,47.0,"",47.0,20
+2020-03-22,West Virginia,Residences,55.0,"",55.0,21
+2020-03-22,West Virginia,Fitness Center,33.0,"",34.0,22
+2020-03-22,West Virginia,Banks,64.0,"",65.0,23
+2020-03-22,West Virginia,Office,58.0,"",59.0,24
+2020-03-23,West Virginia,Food,31.0,26.0,32.0,1
+2020-03-23,West Virginia,Shops & Services,32.0,29.0,32.0,2
+2020-03-23,West Virginia,Gas Stations,74.0,66.0,74.0,3
+2020-03-23,West Virginia,Grocery,103.0,108.0,103.0,4
+2020-03-23,West Virginia,Fast Food Restaurants,61.0,48.0,62.0,5
+2020-03-23,West Virginia,Big Box Stores,77.0,65.0,78.0,6
+2020-03-23,West Virginia,Medical,31.0,22.0,32.0,7
+2020-03-23,West Virginia,Outdoors & Recreation,61.0,53.0,62.0,8
+2020-03-23,West Virginia,Discount Stores,90.0,75.0,90.0,9
+2020-03-23,West Virginia,Professional & Other Places,14.0,15.0,14.0,10
+2020-03-23,West Virginia,Nightlife Spots,45.0,40.0,45.0,11
+2020-03-23,West Virginia,Drug Store,82.0,71.0,82.0,12
+2020-03-23,West Virginia,School,27.0,27.0,27.0,13
+2020-03-23,West Virginia,Convenience Store,72.0,66.0,72.0,14
+2020-03-23,West Virginia,Hardware Stores,83.0,67.0,84.0,15
+2020-03-23,West Virginia,Government,40.0,37.0,40.0,16
+2020-03-23,West Virginia,Hotel,49.0,41.0,49.0,17
+2020-03-23,West Virginia,Travel & Transport,51.0,55.0,51.0,18
+2020-03-23,West Virginia,Arts & Entertainment,51.0,46.0,51.0,19
+2020-03-23,West Virginia,Colleges & Universities,24.0,"",24.0,20
+2020-03-23,West Virginia,Sports,37.0,35.0,37.0,21
+2020-03-23,West Virginia,Office,63.0,73.0,63.0,21
+2020-03-23,West Virginia,Banks,71.0,"",72.0,22
+2020-03-23,West Virginia,Residences,68.0,"",68.0,23
+2020-03-23,West Virginia,Fitness Center,27.0,"",27.0,24
+2020-03-24,West Virginia,Food,31.0,24.0,31.0,1
+2020-03-24,West Virginia,Shops & Services,27.0,23.0,27.0,2
+2020-03-24,West Virginia,Gas Stations,72.0,67.0,72.0,3
+2020-03-24,West Virginia,Grocery,89.0,78.0,89.0,4
+2020-03-24,West Virginia,Fast Food Restaurants,57.0,52.0,57.0,5
+2020-03-24,West Virginia,Big Box Stores,73.0,72.0,73.0,6
+2020-03-24,West Virginia,Medical,29.0,23.0,29.0,7
+2020-03-24,West Virginia,Outdoors & Recreation,53.0,46.0,53.0,8
+2020-03-24,West Virginia,Professional & Other Places,14.0,15.0,14.0,9
+2020-03-24,West Virginia,Nightlife Spots,40.0,40.0,40.0,10
+2020-03-24,West Virginia,Discount Stores,73.0,61.0,73.0,11
+2020-03-24,West Virginia,School,25.0,29.0,25.0,12
+2020-03-24,West Virginia,Drug Store,75.0,80.0,75.0,13
+2020-03-24,West Virginia,Hardware Stores,96.0,85.0,97.0,14
+2020-03-24,West Virginia,Convenience Store,65.0,64.0,65.0,15
+2020-03-24,West Virginia,Government,39.0,36.0,39.0,16
+2020-03-24,West Virginia,Arts & Entertainment,55.0,62.0,55.0,17
+2020-03-24,West Virginia,Travel & Transport,52.0,42.0,52.0,18
+2020-03-24,West Virginia,Hotel,42.0,34.0,42.0,19
+2020-03-24,West Virginia,Colleges & Universities,24.0,"",24.0,20
+2020-03-24,West Virginia,Sports,39.0,41.0,39.0,21
+2020-03-24,West Virginia,Office,53.0,"",53.0,22
+2020-03-24,West Virginia,Banks,59.0,"",59.0,23
+2020-03-24,West Virginia,Residences,75.0,"",75.0,24
+2020-03-24,West Virginia,Fitness Center,22.0,"",22.0,25
+2020-03-25,West Virginia,Food,25.0,20.0,25.0,1
+2020-03-25,West Virginia,Shops & Services,24.0,22.0,24.0,2
+2020-03-25,West Virginia,Gas Stations,61.0,50.0,61.0,3
+2020-03-25,West Virginia,Grocery,76.0,59.0,76.0,4
+2020-03-25,West Virginia,Fast Food Restaurants,49.0,42.0,49.0,5
+2020-03-25,West Virginia,Big Box Stores,61.0,52.0,61.0,6
+2020-03-25,West Virginia,Medical,26.0,20.0,26.0,7
+2020-03-25,West Virginia,Outdoors & Recreation,52.0,42.0,52.0,8
+2020-03-25,West Virginia,Professional & Other Places,14.0,11.0,14.0,9
+2020-03-25,West Virginia,Discount Stores,65.0,52.0,66.0,10
+2020-03-25,West Virginia,Nightlife Spots,35.0,35.0,35.0,11
+2020-03-25,West Virginia,Drug Store,67.0,54.0,67.0,12
+2020-03-25,West Virginia,Convenience Store,61.0,48.0,62.0,13
+2020-03-25,West Virginia,School,20.0,24.0,20.0,14
+2020-03-25,West Virginia,Hardware Stores,75.0,64.0,76.0,15
+2020-03-25,West Virginia,Government,34.0,32.0,34.0,16
+2020-03-25,West Virginia,Travel & Transport,40.0,33.0,40.0,17
+2020-03-25,West Virginia,Arts & Entertainment,45.0,36.0,45.0,18
+2020-03-25,West Virginia,Hotel,41.0,31.0,41.0,19
+2020-03-25,West Virginia,Colleges & Universities,21.0,"",21.0,20
+2020-03-25,West Virginia,Sports,37.0,39.0,37.0,21
+2020-03-25,West Virginia,Banks,52.0,"",53.0,22
+2020-03-25,West Virginia,Residences,69.0,"",70.0,23
+2020-03-25,West Virginia,Office,38.0,"",38.0,24
+2020-03-25,West Virginia,Fitness Center,19.0,"",19.0,25
+2020-03-26,West Virginia,Food,31.0,28.0,32.0,1
+2020-03-26,West Virginia,Shops & Services,27.0,26.0,27.0,2
+2020-03-26,West Virginia,Gas Stations,72.0,63.0,72.0,3
+2020-03-26,West Virginia,Fast Food Restaurants,57.0,58.0,57.0,4
+2020-03-26,West Virginia,Grocery,75.0,67.0,75.0,5
+2020-03-26,West Virginia,Outdoors & Recreation,78.0,77.0,78.0,6
+2020-03-26,West Virginia,Big Box Stores,62.0,45.0,62.0,7
+2020-03-26,West Virginia,Medical,27.0,23.0,28.0,8
+2020-03-26,West Virginia,Professional & Other Places,14.0,12.0,14.0,9
+2020-03-26,West Virginia,Nightlife Spots,44.0,37.0,44.0,10
+2020-03-26,West Virginia,Discount Stores,71.0,60.0,72.0,11
+2020-03-26,West Virginia,School,25.0,30.0,25.0,12
+2020-03-26,West Virginia,Convenience Store,68.0,57.0,69.0,13
+2020-03-26,West Virginia,Hardware Stores,95.0,80.0,96.0,14
+2020-03-26,West Virginia,Drug Store,70.0,56.0,70.0,15
+2020-03-26,West Virginia,Arts & Entertainment,62.0,57.0,62.0,16
+2020-03-26,West Virginia,Government,39.0,35.0,39.0,17
+2020-03-26,West Virginia,Travel & Transport,51.0,42.0,51.0,18
+2020-03-26,West Virginia,Hotel,46.0,47.0,46.0,19
+2020-03-26,West Virginia,Sports,52.0,75.0,51.0,20
+2020-03-26,West Virginia,Colleges & Universities,26.0,"",26.0,21
+2020-03-26,West Virginia,Office,55.0,"",55.0,22
+2020-03-26,West Virginia,Residences,83.0,"",83.0,23
+2020-03-26,West Virginia,Banks,52.0,"",52.0,24
+2020-03-26,West Virginia,Fitness Center,20.0,"",20.0,25
+2020-03-27,West Virginia,Food,31.0,27.0,31.0,1
+2020-03-27,West Virginia,Shops & Services,26.0,24.0,26.0,2
+2020-03-27,West Virginia,Gas Stations,71.0,63.0,71.0,3
+2020-03-27,West Virginia,Fast Food Restaurants,61.0,55.0,62.0,4
+2020-03-27,West Virginia,Grocery,77.0,73.0,77.0,5
+2020-03-27,West Virginia,Big Box Stores,69.0,51.0,69.0,6
+2020-03-27,West Virginia,Outdoors & Recreation,60.0,59.0,60.0,7
+2020-03-27,West Virginia,Medical,30.0,23.0,30.0,8
+2020-03-27,West Virginia,Professional & Other Places,20.0,20.0,20.0,9
+2020-03-27,West Virginia,Nightlife Spots,41.0,38.0,41.0,10
+2020-03-27,West Virginia,Discount Stores,74.0,64.0,74.0,11
+2020-03-27,West Virginia,Convenience Store,75.0,62.0,75.0,12
+2020-03-27,West Virginia,Drug Store,76.0,71.0,76.0,13
+2020-03-27,West Virginia,Hardware Stores,103.0,85.0,104.0,14
+2020-03-27,West Virginia,School,27.0,29.0,27.0,15
+2020-03-27,West Virginia,Arts & Entertainment,49.0,49.0,49.0,16
+2020-03-27,West Virginia,Government,39.0,33.0,39.0,17
+2020-03-27,West Virginia,Hotel,42.0,40.0,42.0,18
+2020-03-27,West Virginia,Travel & Transport,44.0,45.0,44.0,19
+2020-03-27,West Virginia,Colleges & Universities,29.0,"",29.0,20
+2020-03-27,West Virginia,Banks,59.0,50.0,59.0,21
+2020-03-27,West Virginia,Sports,36.0,42.0,36.0,22
+2020-03-27,West Virginia,Office,51.0,"",51.0,23
+2020-03-27,West Virginia,Residences,71.0,"",71.0,24
+2020-03-27,West Virginia,Fitness Center,29.0,"",29.0,25
+2020-03-28,West Virginia,Food,26.0,22.0,26.0,1
+2020-03-28,West Virginia,Shops & Services,23.0,19.0,23.0,2
+2020-03-28,West Virginia,Gas Stations,76.0,55.0,77.0,3
+2020-03-28,West Virginia,Grocery,81.0,63.0,82.0,4
+2020-03-28,West Virginia,Fast Food Restaurants,65.0,57.0,65.0,5
+2020-03-28,West Virginia,Outdoors & Recreation,75.0,67.0,76.0,6
+2020-03-28,West Virginia,Big Box Stores,61.0,46.0,62.0,7
+2020-03-28,West Virginia,Hardware Stores,116.0,81.0,117.0,8
+2020-03-28,West Virginia,Discount Stores,76.0,62.0,77.0,9
+2020-03-28,West Virginia,Nightlife Spots,36.0,31.0,36.0,10
+2020-03-28,West Virginia,Medical,39.0,33.0,39.0,11
+2020-03-28,West Virginia,Convenience Store,73.0,60.0,73.0,12
+2020-03-28,West Virginia,Professional & Other Places,18.0,14.0,18.0,13
+2020-03-28,West Virginia,Drug Store,76.0,57.0,77.0,14
+2020-03-28,West Virginia,School,39.0,35.0,39.0,15
+2020-03-28,West Virginia,Arts & Entertainment,40.0,46.0,39.0,16
+2020-03-28,West Virginia,Travel & Transport,70.0,60.0,71.0,17
+2020-03-28,West Virginia,Hotel,34.0,28.0,34.0,18
+2020-03-28,West Virginia,Government,53.0,"",53.0,19
+2020-03-28,West Virginia,Sports,53.0,74.0,52.0,20
+2020-03-28,West Virginia,Colleges & Universities,38.0,"",38.0,21
+2020-03-28,West Virginia,Residences,67.0,"",67.0,22
+2020-03-28,West Virginia,Banks,66.0,"",67.0,23
+2020-03-28,West Virginia,Office,61.0,"",61.0,24
+2020-03-28,West Virginia,Fitness Center,22.0,"",22.0,25
+2020-03-29,West Virginia,Food,22.0,18.0,22.0,1
+2020-03-29,West Virginia,Gas Stations,63.0,52.0,64.0,2
+2020-03-29,West Virginia,Shops & Services,20.0,19.0,20.0,3
+2020-03-29,West Virginia,Grocery,64.0,59.0,64.0,4
+2020-03-29,West Virginia,Fast Food Restaurants,59.0,55.0,59.0,5
+2020-03-29,West Virginia,Outdoors & Recreation,59.0,47.0,59.0,6
+2020-03-29,West Virginia,Big Box Stores,55.0,53.0,55.0,7
+2020-03-29,West Virginia,Hardware Stores,101.0,73.0,102.0,8
+2020-03-29,West Virginia,Discount Stores,63.0,62.0,63.0,9
+2020-03-29,West Virginia,Nightlife Spots,27.0,26.0,28.0,10
+2020-03-29,West Virginia,Convenience Store,67.0,64.0,67.0,11
+2020-03-29,West Virginia,Drug Store,70.0,61.0,71.0,12
+2020-03-29,West Virginia,Medical,32.0,26.0,32.0,13
+2020-03-29,West Virginia,Professional & Other Places,17.0,16.0,17.0,14
+2020-03-29,West Virginia,School,39.0,"",39.0,15
+2020-03-29,West Virginia,Arts & Entertainment,35.0,39.0,35.0,16
+2020-03-29,West Virginia,Travel & Transport,49.0,45.0,50.0,17
+2020-03-29,West Virginia,Hotel,32.0,"",32.0,18
+2020-03-29,West Virginia,Sports,51.0,"",51.0,19
+2020-03-29,West Virginia,Government,46.0,"",46.0,20
+2020-03-29,West Virginia,Colleges & Universities,41.0,"",41.0,21
+2020-03-29,West Virginia,Residences,53.0,"",53.0,22
+2020-03-29,West Virginia,Fitness Center,27.0,"",27.0,23
+2020-03-29,West Virginia,Office,56.0,"",56.0,24
+2020-03-30,West Virginia,Food,31.0,25.0,32.0,1
+2020-03-30,West Virginia,Gas Stations,69.0,61.0,69.0,2
+2020-03-30,West Virginia,Shops & Services,26.0,27.0,26.0,3
+2020-03-30,West Virginia,Fast Food Restaurants,62.0,54.0,63.0,4
+2020-03-30,West Virginia,Grocery,77.0,79.0,77.0,5
+2020-03-30,West Virginia,Big Box Stores,65.0,57.0,65.0,6
+2020-03-30,West Virginia,Outdoors & Recreation,62.0,52.0,63.0,7
+2020-03-30,West Virginia,Medical,25.0,18.0,26.0,8
+2020-03-30,West Virginia,Professional & Other Places,18.0,15.0,18.0,9
+2020-03-30,West Virginia,Discount Stores,75.0,61.0,75.0,10
+2020-03-30,West Virginia,Nightlife Spots,39.0,39.0,39.0,11
+2020-03-30,West Virginia,Hardware Stores,98.0,88.0,99.0,12
+2020-03-30,West Virginia,Convenience Store,68.0,64.0,68.0,13
+2020-03-30,West Virginia,School,25.0,31.0,25.0,13
+2020-03-30,West Virginia,Drug Store,71.0,67.0,71.0,14
+2020-03-30,West Virginia,Government,37.0,37.0,37.0,15
+2020-03-30,West Virginia,Arts & Entertainment,54.0,62.0,54.0,16
+2020-03-30,West Virginia,Travel & Transport,47.0,39.0,48.0,17
+2020-03-30,West Virginia,Hotel,38.0,34.0,39.0,18
+2020-03-30,West Virginia,Colleges & Universities,21.0,"",20.0,19
+2020-03-30,West Virginia,Sports,40.0,47.0,39.0,20
+2020-03-30,West Virginia,Banks,68.0,58.0,69.0,21
+2020-03-30,West Virginia,Office,48.0,"",49.0,22
+2020-03-30,West Virginia,Residences,62.0,"",62.0,23
+2020-03-30,West Virginia,Fitness Center,20.0,"",20.0,24
+2020-03-31,West Virginia,Food,26.0,22.0,26.0,1
+2020-03-31,West Virginia,Shops & Services,24.0,24.0,24.0,2
+2020-03-31,West Virginia,Gas Stations,61.0,58.0,61.0,3
+2020-03-31,West Virginia,Grocery,73.0,72.0,73.0,4
+2020-03-31,West Virginia,Fast Food Restaurants,54.0,48.0,54.0,5
+2020-03-31,West Virginia,Big Box Stores,66.0,68.0,66.0,6
+2020-03-31,West Virginia,Outdoors & Recreation,55.0,55.0,55.0,7
+2020-03-31,West Virginia,Medical,22.0,18.0,22.0,8
+2020-03-31,West Virginia,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-31,West Virginia,Nightlife Spots,35.0,34.0,35.0,10
+2020-03-31,West Virginia,Discount Stores,60.0,55.0,60.0,11
+2020-03-31,West Virginia,Drug Store,66.0,58.0,66.0,12
+2020-03-31,West Virginia,Hardware Stores,87.0,63.0,88.0,13
+2020-03-31,West Virginia,School,21.0,29.0,21.0,14
+2020-03-31,West Virginia,Convenience Store,59.0,51.0,59.0,15
+2020-03-31,West Virginia,Government,31.0,27.0,31.0,16
+2020-03-31,West Virginia,Arts & Entertainment,42.0,39.0,42.0,17
+2020-03-31,West Virginia,Hotel,37.0,29.0,38.0,18
+2020-03-31,West Virginia,Travel & Transport,52.0,61.0,52.0,19
+2020-03-31,West Virginia,Colleges & Universities,23.0,"",22.0,20
+2020-03-31,West Virginia,Banks,66.0,63.0,66.0,21
+2020-03-31,West Virginia,Sports,30.0,"",30.0,22
+2020-03-31,West Virginia,Office,39.0,"",39.0,23
+2020-03-31,West Virginia,Residences,65.0,"",65.0,24

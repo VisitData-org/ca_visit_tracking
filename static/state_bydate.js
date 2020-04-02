@@ -500,8 +500,8 @@ essentialSel.addEventListener('change', function() {
 parseSelection();
 setNavLinks();
 if (!datafilename) {
-  datafilename = '/data/grouped' + selectedState + '.csv';
+  datafilename = '/data/grouped' + selectedState.replace(/\s/g, '') + '.csv';
 } else {
-  datafilename = '/data/' + datafilename + selectedState + '.csv';
+  datafilename = '/data/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
 }
 Papa.parse(datafilename, {download: true, complete: parsingDone});
