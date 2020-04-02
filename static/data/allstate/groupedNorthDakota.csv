@@ -1,0 +1,836 @@
+2020-03-01,NorthDakota,Food,60.0,64.0,60.0,1
+2020-03-01,NorthDakota,Nightlife Spots,83.0,73.0,83.0,2
+2020-03-01,NorthDakota,Shops & Services,78.0,69.0,78.0,3
+2020-03-01,NorthDakota,Gas Stations,100.0,94.0,100.0,4
+2020-03-01,NorthDakota,Big Box Stores,101.0,101.0,101.0,5
+2020-03-01,NorthDakota,Grocery,98.0,90.0,98.0,6
+2020-03-01,NorthDakota,Arts & Entertainment,81.0,92.0,81.0,7
+2020-03-01,NorthDakota,Fast Food Restaurants,103.0,96.0,103.0,8
+2020-03-01,NorthDakota,Outdoors & Recreation,57.0,62.0,57.0,9
+2020-03-01,NorthDakota,Hotel,85.0,110.0,85.0,10
+2020-03-01,NorthDakota,Professional & Other Places,22.0,20.0,22.0,11
+2020-03-01,NorthDakota,School,62.0,66.0,62.0,12
+2020-03-01,NorthDakota,Colleges & Universities,85.0,"",85.0,13
+2020-03-01,NorthDakota,Hardware Stores,113.0,97.0,114.0,14
+2020-03-01,NorthDakota,Convenience Store,99.0,"",99.0,15
+2020-03-01,NorthDakota,Medical,69.0,"",69.0,16
+2020-03-01,NorthDakota,Sports,56.0,"",56.0,17
+2020-03-01,NorthDakota,Residences,104.0,"",104.0,18
+2020-03-01,NorthDakota,Fitness Center,65.0,"",65.0,19
+2020-03-01,NorthDakota,Alcohol,100.0,"",100.0,20
+2020-03-01,NorthDakota,Travel & Transport,86.0,"",86.0,21
+2020-03-01,NorthDakota,Government,86.0,"",86.0,22
+2020-03-01,NorthDakota,Office,100.0,"",100.0,23
+2020-03-01,NorthDakota,Airport,67.0,"",68.0,24
+2020-03-01,NorthDakota,Discount Stores,93.0,"",93.0,25
+2020-03-01,NorthDakota,Banks,99.0,"",99.0,26
+2020-03-01,NorthDakota,Drug Store,99.0,"",98.0,27
+2020-03-02,NorthDakota,Food,57.0,57.0,57.0,1
+2020-03-02,NorthDakota,Shops & Services,49.0,53.0,48.0,2
+2020-03-02,NorthDakota,Nightlife Spots,81.0,82.0,81.0,3
+2020-03-02,NorthDakota,Gas Stations,98.0,101.0,98.0,4
+2020-03-02,NorthDakota,Medical,54.0,48.0,55.0,5
+2020-03-02,NorthDakota,School,67.0,74.0,67.0,6
+2020-03-02,NorthDakota,Professional & Other Places,20.0,17.0,20.0,7
+2020-03-02,NorthDakota,Outdoors & Recreation,44.0,47.0,44.0,8
+2020-03-02,NorthDakota,Big Box Stores,99.0,94.0,99.0,9
+2020-03-02,NorthDakota,Grocery,103.0,101.0,103.0,10
+2020-03-02,NorthDakota,Colleges & Universities,79.0,"",79.0,11
+2020-03-02,NorthDakota,Fast Food Restaurants,92.0,101.0,91.0,12
+2020-03-02,NorthDakota,Hotel,85.0,85.0,85.0,13
+2020-03-02,NorthDakota,Arts & Entertainment,93.0,100.0,93.0,14
+2020-03-02,NorthDakota,Convenience Store,90.0,81.0,90.0,15
+2020-03-02,NorthDakota,Office,83.0,80.0,84.0,16
+2020-03-02,NorthDakota,Hardware Stores,99.0,121.0,98.0,17
+2020-03-02,NorthDakota,Fitness Center,75.0,64.0,76.0,18
+2020-03-02,NorthDakota,Government,84.0,"",84.0,19
+2020-03-02,NorthDakota,Residences,99.0,"",99.0,20
+2020-03-02,NorthDakota,Banks,109.0,108.0,109.0,21
+2020-03-02,NorthDakota,Sports,51.0,"",51.0,22
+2020-03-02,NorthDakota,Travel & Transport,90.0,"",89.0,23
+2020-03-02,NorthDakota,Airport,76.0,"",76.0,24
+2020-03-02,NorthDakota,Alcohol,102.0,"",102.0,25
+2020-03-02,NorthDakota,Drug Store,94.0,"",95.0,26
+2020-03-02,NorthDakota,Discount Stores,101.0,"",101.0,27
+2020-03-03,NorthDakota,Shops & Services,47.0,45.0,47.0,1
+2020-03-03,NorthDakota,Food,56.0,60.0,56.0,2
+2020-03-03,NorthDakota,Nightlife Spots,79.0,84.0,79.0,3
+2020-03-03,NorthDakota,Gas Stations,97.0,97.0,97.0,4
+2020-03-03,NorthDakota,Medical,57.0,56.0,57.0,5
+2020-03-03,NorthDakota,School,55.0,51.0,55.0,6
+2020-03-03,NorthDakota,Professional & Other Places,19.0,18.0,19.0,7
+2020-03-03,NorthDakota,Outdoors & Recreation,56.0,64.0,56.0,8
+2020-03-03,NorthDakota,Grocery,100.0,93.0,100.0,9
+2020-03-03,NorthDakota,Big Box Stores,96.0,90.0,96.0,10
+2020-03-03,NorthDakota,Colleges & Universities,89.0,"",89.0,11
+2020-03-03,NorthDakota,Fast Food Restaurants,93.0,83.0,93.0,12
+2020-03-03,NorthDakota,Hotel,87.0,89.0,87.0,13
+2020-03-03,NorthDakota,Arts & Entertainment,84.0,87.0,84.0,14
+2020-03-03,NorthDakota,Convenience Store,95.0,92.0,95.0,15
+2020-03-03,NorthDakota,Fitness Center,68.0,64.0,68.0,16
+2020-03-03,NorthDakota,Office,79.0,77.0,79.0,16
+2020-03-03,NorthDakota,Hardware Stores,98.0,103.0,98.0,17
+2020-03-03,NorthDakota,Government,72.0,68.0,72.0,18
+2020-03-03,NorthDakota,Sports,42.0,"",42.0,19
+2020-03-03,NorthDakota,Residences,96.0,"",96.0,20
+2020-03-03,NorthDakota,Banks,107.0,"",108.0,21
+2020-03-03,NorthDakota,Travel & Transport,84.0,"",83.0,22
+2020-03-03,NorthDakota,Alcohol,101.0,"",101.0,23
+2020-03-03,NorthDakota,Airport,77.0,"",76.0,24
+2020-03-03,NorthDakota,Drug Store,89.0,"",89.0,25
+2020-03-03,NorthDakota,Discount Stores,74.0,"",75.0,26
+2020-03-04,NorthDakota,Food,61.0,62.0,61.0,1
+2020-03-04,NorthDakota,Shops & Services,52.0,53.0,52.0,2
+2020-03-04,NorthDakota,Nightlife Spots,84.0,75.0,84.0,3
+2020-03-04,NorthDakota,Gas Stations,101.0,100.0,101.0,4
+2020-03-04,NorthDakota,Medical,59.0,55.0,59.0,5
+2020-03-04,NorthDakota,Professional & Other Places,20.0,20.0,20.0,6
+2020-03-04,NorthDakota,Outdoors & Recreation,61.0,58.0,61.0,7
+2020-03-04,NorthDakota,School,54.0,59.0,54.0,7
+2020-03-04,NorthDakota,Big Box Stores,102.0,109.0,101.0,8
+2020-03-04,NorthDakota,Grocery,98.0,93.0,98.0,9
+2020-03-04,NorthDakota,Fast Food Restaurants,106.0,96.0,106.0,10
+2020-03-04,NorthDakota,Colleges & Universities,76.0,"",76.0,11
+2020-03-04,NorthDakota,Hotel,88.0,74.0,88.0,12
+2020-03-04,NorthDakota,Arts & Entertainment,89.0,81.0,89.0,13
+2020-03-04,NorthDakota,Convenience Store,108.0,92.0,109.0,14
+2020-03-04,NorthDakota,Office,92.0,101.0,92.0,15
+2020-03-04,NorthDakota,Fitness Center,74.0,97.0,73.0,16
+2020-03-04,NorthDakota,Hardware Stores,103.0,88.0,104.0,17
+2020-03-04,NorthDakota,Government,73.0,80.0,73.0,18
+2020-03-04,NorthDakota,Sports,54.0,"",54.0,19
+2020-03-04,NorthDakota,Residences,103.0,"",103.0,20
+2020-03-04,NorthDakota,Travel & Transport,98.0,"",98.0,21
+2020-03-04,NorthDakota,Banks,113.0,136.0,112.0,22
+2020-03-04,NorthDakota,Alcohol,104.0,"",104.0,23
+2020-03-04,NorthDakota,Airport,79.0,"",79.0,24
+2020-03-04,NorthDakota,Drug Store,115.0,"",115.0,25
+2020-03-04,NorthDakota,Discount Stores,110.0,"",110.0,26
+2020-03-05,NorthDakota,Food,58.0,61.0,58.0,1
+2020-03-05,NorthDakota,Shops & Services,49.0,44.0,49.0,2
+2020-03-05,NorthDakota,Nightlife Spots,83.0,80.0,83.0,3
+2020-03-05,NorthDakota,Gas Stations,99.0,99.0,99.0,4
+2020-03-05,NorthDakota,Medical,58.0,60.0,58.0,5
+2020-03-05,NorthDakota,Professional & Other Places,20.0,20.0,20.0,6
+2020-03-05,NorthDakota,School,56.0,53.0,56.0,7
+2020-03-05,NorthDakota,Outdoors & Recreation,50.0,49.0,50.0,8
+2020-03-05,NorthDakota,Big Box Stores,96.0,87.0,96.0,9
+2020-03-05,NorthDakota,Grocery,98.0,96.0,99.0,10
+2020-03-05,NorthDakota,Fast Food Restaurants,103.0,104.0,103.0,11
+2020-03-05,NorthDakota,Colleges & Universities,68.0,"",68.0,12
+2020-03-05,NorthDakota,Arts & Entertainment,104.0,97.0,104.0,13
+2020-03-05,NorthDakota,Hotel,83.0,64.0,84.0,14
+2020-03-05,NorthDakota,Convenience Store,97.0,83.0,97.0,15
+2020-03-05,NorthDakota,Office,89.0,84.0,89.0,16
+2020-03-05,NorthDakota,Hardware Stores,99.0,97.0,99.0,17
+2020-03-05,NorthDakota,Government,81.0,94.0,81.0,18
+2020-03-05,NorthDakota,Fitness Center,67.0,"",67.0,19
+2020-03-05,NorthDakota,Sports,53.0,"",53.0,20
+2020-03-05,NorthDakota,Residences,105.0,"",105.0,21
+2020-03-05,NorthDakota,Banks,116.0,"",116.0,22
+2020-03-05,NorthDakota,Travel & Transport,82.0,"",82.0,23
+2020-03-05,NorthDakota,Airport,69.0,"",70.0,24
+2020-03-05,NorthDakota,Alcohol,91.0,"",91.0,24
+2020-03-05,NorthDakota,Drug Store,103.0,"",102.0,25
+2020-03-05,NorthDakota,Discount Stores,102.0,"",101.0,26
+2020-03-06,NorthDakota,Food,56.0,53.0,56.0,1
+2020-03-06,NorthDakota,Shops & Services,75.0,77.0,75.0,2
+2020-03-06,NorthDakota,Nightlife Spots,77.0,76.0,77.0,3
+2020-03-06,NorthDakota,Gas Stations,95.0,99.0,95.0,4
+2020-03-06,NorthDakota,Big Box Stores,93.0,77.0,94.0,5
+2020-03-06,NorthDakota,Professional & Other Places,20.0,20.0,20.0,6
+2020-03-06,NorthDakota,Fast Food Restaurants,105.0,99.0,106.0,7
+2020-03-06,NorthDakota,Outdoors & Recreation,60.0,60.0,60.0,8
+2020-03-06,NorthDakota,Grocery,98.0,104.0,97.0,9
+2020-03-06,NorthDakota,School,50.0,56.0,50.0,10
+2020-03-06,NorthDakota,Hotel,95.0,74.0,96.0,11
+2020-03-06,NorthDakota,Arts & Entertainment,96.0,89.0,96.0,12
+2020-03-06,NorthDakota,Medical,54.0,49.0,54.0,13
+2020-03-06,NorthDakota,Colleges & Universities,63.0,97.0,63.0,14
+2020-03-06,NorthDakota,Convenience Store,107.0,123.0,107.0,15
+2020-03-06,NorthDakota,Hardware Stores,104.0,103.0,104.0,16
+2020-03-06,NorthDakota,Office,84.0,105.0,84.0,17
+2020-03-06,NorthDakota,Government,79.0,81.0,79.0,18
+2020-03-06,NorthDakota,Fitness Center,63.0,"",63.0,19
+2020-03-06,NorthDakota,Banks,106.0,104.0,106.0,20
+2020-03-06,NorthDakota,Sports,47.0,"",47.0,21
+2020-03-06,NorthDakota,Residences,94.0,"",95.0,22
+2020-03-06,NorthDakota,Alcohol,87.0,"",87.0,23
+2020-03-06,NorthDakota,Travel & Transport,85.0,"",86.0,24
+2020-03-06,NorthDakota,Airport,77.0,"",77.0,25
+2020-03-06,NorthDakota,Drug Store,91.0,"",91.0,26
+2020-03-06,NorthDakota,Discount Stores,96.0,"",96.0,27
+2020-03-07,NorthDakota,Shops & Services,50.0,46.0,50.0,1
+2020-03-07,NorthDakota,Food,53.0,53.0,53.0,2
+2020-03-07,NorthDakota,Nightlife Spots,77.0,76.0,77.0,3
+2020-03-07,NorthDakota,Gas Stations,103.0,104.0,103.0,4
+2020-03-07,NorthDakota,Arts & Entertainment,85.0,83.0,85.0,5
+2020-03-07,NorthDakota,Big Box Stores,92.0,94.0,92.0,6
+2020-03-07,NorthDakota,Hotel,99.0,81.0,100.0,7
+2020-03-07,NorthDakota,Outdoors & Recreation,64.0,63.0,64.0,8
+2020-03-07,NorthDakota,Fast Food Restaurants,109.0,100.0,109.0,9
+2020-03-07,NorthDakota,Grocery,92.0,97.0,92.0,10
+2020-03-07,NorthDakota,Professional & Other Places,27.0,22.0,27.0,11
+2020-03-07,NorthDakota,School,52.0,49.0,52.0,12
+2020-03-07,NorthDakota,Hardware Stores,101.0,93.0,101.0,13
+2020-03-07,NorthDakota,Colleges & Universities,73.0,"",73.0,14
+2020-03-07,NorthDakota,Convenience Store,100.0,"",100.0,15
+2020-03-07,NorthDakota,Medical,57.0,57.0,57.0,16
+2020-03-07,NorthDakota,Sports,49.0,"",49.0,17
+2020-03-07,NorthDakota,Fitness Center,68.0,"",68.0,18
+2020-03-07,NorthDakota,Residences,98.0,"",98.0,19
+2020-03-07,NorthDakota,Alcohol,89.0,"",89.0,20
+2020-03-07,NorthDakota,Office,90.0,"",91.0,21
+2020-03-07,NorthDakota,Travel & Transport,57.0,"",57.0,22
+2020-03-07,NorthDakota,Airport,72.0,"",72.0,23
+2020-03-07,NorthDakota,Government,81.0,"",81.0,24
+2020-03-07,NorthDakota,Banks,104.0,"",105.0,25
+2020-03-07,NorthDakota,Discount Stores,88.0,"",88.0,26
+2020-03-07,NorthDakota,Drug Store,88.0,"",89.0,27
+2020-03-08,NorthDakota,Food,56.0,57.0,56.0,1
+2020-03-08,NorthDakota,Nightlife Spots,75.0,72.0,75.0,2
+2020-03-08,NorthDakota,Shops & Services,76.0,67.0,76.0,3
+2020-03-08,NorthDakota,Gas Stations,96.0,88.0,96.0,4
+2020-03-08,NorthDakota,Big Box Stores,95.0,85.0,95.0,5
+2020-03-08,NorthDakota,Arts & Entertainment,93.0,100.0,93.0,6
+2020-03-08,NorthDakota,Grocery,97.0,84.0,98.0,7
+2020-03-08,NorthDakota,Hotel,100.0,105.0,100.0,8
+2020-03-08,NorthDakota,Outdoors & Recreation,59.0,59.0,59.0,9
+2020-03-08,NorthDakota,Fast Food Restaurants,103.0,109.0,103.0,10
+2020-03-08,NorthDakota,Professional & Other Places,21.0,17.0,21.0,11
+2020-03-08,NorthDakota,School,63.0,"",63.0,12
+2020-03-08,NorthDakota,Hardware Stores,107.0,89.0,108.0,13
+2020-03-08,NorthDakota,Colleges & Universities,73.0,"",73.0,14
+2020-03-08,NorthDakota,Convenience Store,93.0,"",93.0,15
+2020-03-08,NorthDakota,Medical,65.0,"",65.0,16
+2020-03-08,NorthDakota,Residences,94.0,"",94.0,17
+2020-03-08,NorthDakota,Sports,48.0,"",48.0,18
+2020-03-08,NorthDakota,Fitness Center,61.0,"",61.0,19
+2020-03-08,NorthDakota,Alcohol,92.0,"",92.0,20
+2020-03-08,NorthDakota,Travel & Transport,75.0,"",75.0,21
+2020-03-08,NorthDakota,Airport,75.0,"",76.0,22
+2020-03-08,NorthDakota,Office,95.0,"",95.0,23
+2020-03-08,NorthDakota,Government,79.0,"",80.0,24
+2020-03-08,NorthDakota,Discount Stores,112.0,"",112.0,25
+2020-03-08,NorthDakota,Banks,95.0,"",96.0,26
+2020-03-09,NorthDakota,Food,56.0,55.0,56.0,1
+2020-03-09,NorthDakota,Shops & Services,76.0,84.0,76.0,2
+2020-03-09,NorthDakota,Nightlife Spots,77.0,88.0,77.0,3
+2020-03-09,NorthDakota,Gas Stations,91.0,84.0,91.0,4
+2020-03-09,NorthDakota,Medical,57.0,51.0,58.0,5
+2020-03-09,NorthDakota,Professional & Other Places,21.0,19.0,21.0,6
+2020-03-09,NorthDakota,School,60.0,62.0,60.0,7
+2020-03-09,NorthDakota,Big Box Stores,98.0,105.0,98.0,8
+2020-03-09,NorthDakota,Outdoors & Recreation,54.0,49.0,54.0,9
+2020-03-09,NorthDakota,Grocery,97.0,76.0,98.0,10
+2020-03-09,NorthDakota,Colleges & Universities,79.0,"",79.0,11
+2020-03-09,NorthDakota,Fast Food Restaurants,94.0,90.0,94.0,12
+2020-03-09,NorthDakota,Hotel,85.0,78.0,85.0,13
+2020-03-09,NorthDakota,Arts & Entertainment,92.0,92.0,92.0,14
+2020-03-09,NorthDakota,Convenience Store,101.0,77.0,102.0,15
+2020-03-09,NorthDakota,Hardware Stores,107.0,115.0,106.0,16
+2020-03-09,NorthDakota,Office,86.0,82.0,86.0,17
+2020-03-09,NorthDakota,Fitness Center,70.0,"",70.0,18
+2020-03-09,NorthDakota,Government,74.0,"",74.0,19
+2020-03-09,NorthDakota,Banks,118.0,128.0,118.0,20
+2020-03-09,NorthDakota,Sports,56.0,"",56.0,21
+2020-03-09,NorthDakota,Residences,87.0,"",87.0,22
+2020-03-09,NorthDakota,Airport,76.0,"",77.0,23
+2020-03-09,NorthDakota,Travel & Transport,75.0,"",75.0,23
+2020-03-09,NorthDakota,Alcohol,90.0,"",90.0,24
+2020-03-09,NorthDakota,Drug Store,93.0,"",92.0,25
+2020-03-09,NorthDakota,Discount Stores,84.0,"",84.0,26
+2020-03-10,NorthDakota,Food,59.0,60.0,58.0,1
+2020-03-10,NorthDakota,Shops & Services,81.0,75.0,81.0,2
+2020-03-10,NorthDakota,Nightlife Spots,82.0,74.0,82.0,3
+2020-03-10,NorthDakota,Gas Stations,95.0,96.0,95.0,4
+2020-03-10,NorthDakota,School,55.0,49.0,55.0,5
+2020-03-10,NorthDakota,Medical,54.0,57.0,54.0,6
+2020-03-10,NorthDakota,Professional & Other Places,18.0,17.0,18.0,7
+2020-03-10,NorthDakota,Outdoors & Recreation,58.0,59.0,58.0,8
+2020-03-10,NorthDakota,Big Box Stores,103.0,86.0,103.0,9
+2020-03-10,NorthDakota,Grocery,97.0,93.0,97.0,10
+2020-03-10,NorthDakota,Colleges & Universities,92.0,"",92.0,11
+2020-03-10,NorthDakota,Fast Food Restaurants,102.0,90.0,102.0,12
+2020-03-10,NorthDakota,Arts & Entertainment,95.0,99.0,95.0,13
+2020-03-10,NorthDakota,Hotel,87.0,91.0,87.0,14
+2020-03-10,NorthDakota,Office,95.0,83.0,95.0,15
+2020-03-10,NorthDakota,Convenience Store,96.0,98.0,96.0,16
+2020-03-10,NorthDakota,Hardware Stores,105.0,113.0,104.0,17
+2020-03-10,NorthDakota,Fitness Center,64.0,67.0,64.0,18
+2020-03-10,NorthDakota,Government,68.0,"",68.0,19
+2020-03-10,NorthDakota,Residences,99.0,"",99.0,20
+2020-03-10,NorthDakota,Sports,41.0,"",41.0,21
+2020-03-10,NorthDakota,Banks,113.0,130.0,112.0,22
+2020-03-10,NorthDakota,Travel & Transport,73.0,"",73.0,23
+2020-03-10,NorthDakota,Airport,91.0,"",91.0,24
+2020-03-10,NorthDakota,Alcohol,102.0,"",102.0,25
+2020-03-10,NorthDakota,Drug Store,84.0,"",83.0,26
+2020-03-10,NorthDakota,Discount Stores,95.0,"",95.0,27
+2020-03-11,NorthDakota,Food,59.0,58.0,59.0,1
+2020-03-11,NorthDakota,Shops & Services,53.0,51.0,53.0,2
+2020-03-11,NorthDakota,Nightlife Spots,82.0,80.0,82.0,3
+2020-03-11,NorthDakota,Gas Stations,95.0,92.0,95.0,4
+2020-03-11,NorthDakota,Medical,56.0,48.0,56.0,5
+2020-03-11,NorthDakota,Professional & Other Places,20.0,19.0,20.0,6
+2020-03-11,NorthDakota,Outdoors & Recreation,58.0,57.0,58.0,7
+2020-03-11,NorthDakota,School,54.0,52.0,54.0,8
+2020-03-11,NorthDakota,Grocery,107.0,125.0,106.0,9
+2020-03-11,NorthDakota,Big Box Stores,100.0,121.0,99.0,10
+2020-03-11,NorthDakota,Colleges & Universities,93.0,"",93.0,11
+2020-03-11,NorthDakota,Fast Food Restaurants,100.0,103.0,100.0,11
+2020-03-11,NorthDakota,Hotel,83.0,72.0,83.0,12
+2020-03-11,NorthDakota,Arts & Entertainment,85.0,93.0,85.0,13
+2020-03-11,NorthDakota,Convenience Store,108.0,118.0,108.0,14
+2020-03-11,NorthDakota,Hardware Stores,114.0,121.0,114.0,15
+2020-03-11,NorthDakota,Office,89.0,104.0,89.0,16
+2020-03-11,NorthDakota,Fitness Center,69.0,"",69.0,17
+2020-03-11,NorthDakota,Government,75.0,82.0,75.0,18
+2020-03-11,NorthDakota,Residences,106.0,"",107.0,19
+2020-03-11,NorthDakota,Sports,40.0,"",40.0,20
+2020-03-11,NorthDakota,Travel & Transport,81.0,"",81.0,21
+2020-03-11,NorthDakota,Banks,106.0,151.0,105.0,22
+2020-03-11,NorthDakota,Airport,87.0,"",87.0,23
+2020-03-11,NorthDakota,Alcohol,104.0,"",104.0,24
+2020-03-11,NorthDakota,Drug Store,99.0,"",100.0,25
+2020-03-11,NorthDakota,Discount Stores,113.0,"",113.0,26
+2020-03-12,NorthDakota,Food,57.0,51.0,57.0,1
+2020-03-12,NorthDakota,Shops & Services,91.0,88.0,92.0,2
+2020-03-12,NorthDakota,Nightlife Spots,78.0,76.0,78.0,3
+2020-03-12,NorthDakota,Gas Stations,86.0,91.0,86.0,4
+2020-03-12,NorthDakota,Grocery,123.0,128.0,123.0,5
+2020-03-12,NorthDakota,Big Box Stores,116.0,112.0,116.0,6
+2020-03-12,NorthDakota,Medical,56.0,55.0,56.0,7
+2020-03-12,NorthDakota,Professional & Other Places,18.0,21.0,18.0,8
+2020-03-12,NorthDakota,School,51.0,55.0,51.0,9
+2020-03-12,NorthDakota,Outdoors & Recreation,48.0,47.0,48.0,10
+2020-03-12,NorthDakota,Fast Food Restaurants,109.0,112.0,109.0,11
+2020-03-12,NorthDakota,Colleges & Universities,71.0,"",70.0,12
+2020-03-12,NorthDakota,Hotel,78.0,75.0,78.0,13
+2020-03-12,NorthDakota,Arts & Entertainment,87.0,79.0,87.0,14
+2020-03-12,NorthDakota,Convenience Store,93.0,89.0,94.0,15
+2020-03-12,NorthDakota,Hardware Stores,105.0,97.0,106.0,16
+2020-03-12,NorthDakota,Office,80.0,"",80.0,17
+2020-03-12,NorthDakota,Government,70.0,74.0,70.0,18
+2020-03-12,NorthDakota,Fitness Center,61.0,"",61.0,19
+2020-03-12,NorthDakota,Residences,100.0,"",100.0,20
+2020-03-12,NorthDakota,Alcohol,122.0,"",122.0,21
+2020-03-12,NorthDakota,Sports,41.0,"",41.0,22
+2020-03-12,NorthDakota,Travel & Transport,86.0,"",85.0,23
+2020-03-12,NorthDakota,Airport,77.0,"",78.0,24
+2020-03-12,NorthDakota,Banks,91.0,"",91.0,25
+2020-03-12,NorthDakota,Drug Store,106.0,"",106.0,26
+2020-03-12,NorthDakota,Discount Stores,97.0,"",97.0,27
+2020-03-13,NorthDakota,Food,55.0,49.0,55.0,1
+2020-03-13,NorthDakota,Shops & Services,55.0,52.0,56.0,2
+2020-03-13,NorthDakota,Nightlife Spots,75.0,64.0,76.0,3
+2020-03-13,NorthDakota,Gas Stations,92.0,80.0,93.0,4
+2020-03-13,NorthDakota,Grocery,133.0,144.0,133.0,5
+2020-03-13,NorthDakota,Big Box Stores,112.0,94.0,112.0,6
+2020-03-13,NorthDakota,Outdoors & Recreation,51.0,46.0,52.0,7
+2020-03-13,NorthDakota,Fast Food Restaurants,101.0,85.0,102.0,8
+2020-03-13,NorthDakota,Professional & Other Places,19.0,20.0,19.0,9
+2020-03-13,NorthDakota,Medical,51.0,49.0,51.0,10
+2020-03-13,NorthDakota,Arts & Entertainment,82.0,70.0,83.0,11
+2020-03-13,NorthDakota,Hotel,79.0,58.0,79.0,12
+2020-03-13,NorthDakota,School,39.0,42.0,39.0,13
+2020-03-13,NorthDakota,Colleges & Universities,48.0,"",48.0,14
+2020-03-13,NorthDakota,Hardware Stores,119.0,98.0,120.0,15
+2020-03-13,NorthDakota,Convenience Store,102.0,100.0,102.0,16
+2020-03-13,NorthDakota,Office,82.0,"",82.0,17
+2020-03-13,NorthDakota,Alcohol,124.0,"",125.0,18
+2020-03-13,NorthDakota,Government,68.0,"",69.0,19
+2020-03-13,NorthDakota,Residences,98.0,"",99.0,20
+2020-03-13,NorthDakota,Fitness Center,52.0,"",52.0,21
+2020-03-13,NorthDakota,Banks,99.0,"",99.0,22
+2020-03-13,NorthDakota,Sports,44.0,"",44.0,23
+2020-03-13,NorthDakota,Travel & Transport,55.0,"",55.0,24
+2020-03-13,NorthDakota,Airport,72.0,"",72.0,25
+2020-03-13,NorthDakota,Drug Store,118.0,"",117.0,26
+2020-03-13,NorthDakota,Discount Stores,106.0,"",105.0,27
+2020-03-14,NorthDakota,Food,47.0,44.0,47.0,1
+2020-03-14,NorthDakota,Shops & Services,76.0,64.0,76.0,2
+2020-03-14,NorthDakota,Nightlife Spots,79.0,66.0,79.0,3
+2020-03-14,NorthDakota,Gas Stations,81.0,78.0,81.0,4
+2020-03-14,NorthDakota,Big Box Stores,99.0,91.0,99.0,5
+2020-03-14,NorthDakota,Grocery,121.0,118.0,121.0,6
+2020-03-14,NorthDakota,Hotel,76.0,72.0,76.0,7
+2020-03-14,NorthDakota,Arts & Entertainment,67.0,63.0,67.0,8
+2020-03-14,NorthDakota,Outdoors & Recreation,54.0,51.0,54.0,9
+2020-03-14,NorthDakota,Fast Food Restaurants,79.0,54.0,79.0,10
+2020-03-14,NorthDakota,Professional & Other Places,21.0,16.0,21.0,11
+2020-03-14,NorthDakota,Hardware Stores,98.0,92.0,99.0,12
+2020-03-14,NorthDakota,Convenience Store,91.0,"",91.0,13
+2020-03-14,NorthDakota,School,34.0,"",34.0,14
+2020-03-14,NorthDakota,Medical,49.0,"",50.0,15
+2020-03-14,NorthDakota,Alcohol,90.0,"",91.0,16
+2020-03-14,NorthDakota,Residences,85.0,"",85.0,17
+2020-03-14,NorthDakota,Sports,36.0,"",36.0,18
+2020-03-14,NorthDakota,Fitness Center,49.0,"",49.0,19
+2020-03-14,NorthDakota,Office,85.0,"",85.0,20
+2020-03-14,NorthDakota,Airport,65.0,"",66.0,21
+2020-03-14,NorthDakota,Colleges & Universities,22.0,"",22.0,22
+2020-03-14,NorthDakota,Discount Stores,94.0,"",95.0,23
+2020-03-14,NorthDakota,Travel & Transport,68.0,"",68.0,23
+2020-03-14,NorthDakota,Government,64.0,"",63.0,24
+2020-03-14,NorthDakota,Drug Store,109.0,"",109.0,25
+2020-03-14,NorthDakota,Banks,75.0,"",75.0,26
+2020-03-15,NorthDakota,Nightlife Spots,72.0,62.0,72.0,1
+2020-03-15,NorthDakota,Food,43.0,44.0,43.0,2
+2020-03-15,NorthDakota,Shops & Services,62.0,58.0,62.0,3
+2020-03-15,NorthDakota,Gas Stations,83.0,66.0,83.0,4
+2020-03-15,NorthDakota,Grocery,104.0,90.0,104.0,5
+2020-03-15,NorthDakota,Big Box Stores,80.0,83.0,80.0,6
+2020-03-15,NorthDakota,Outdoors & Recreation,55.0,48.0,56.0,7
+2020-03-15,NorthDakota,Arts & Entertainment,62.0,59.0,62.0,8
+2020-03-15,NorthDakota,Fast Food Restaurants,80.0,"",80.0,9
+2020-03-15,NorthDakota,Hotel,67.0,"",67.0,10
+2020-03-15,NorthDakota,Professional & Other Places,18.0,"",18.0,11
+2020-03-15,NorthDakota,Hardware Stores,102.0,"",102.0,12
+2020-03-15,NorthDakota,School,47.0,"",47.0,13
+2020-03-15,NorthDakota,Convenience Store,86.0,"",86.0,14
+2020-03-15,NorthDakota,Medical,49.0,"",49.0,15
+2020-03-15,NorthDakota,Sports,40.0,"",40.0,16
+2020-03-15,NorthDakota,Residences,76.0,"",77.0,17
+2020-03-15,NorthDakota,Alcohol,86.0,"",85.0,18
+2020-03-15,NorthDakota,Fitness Center,52.0,"",52.0,19
+2020-03-15,NorthDakota,Travel & Transport,46.0,"",46.0,20
+2020-03-15,NorthDakota,Airport,58.0,"",59.0,21
+2020-03-15,NorthDakota,Colleges & Universities,23.0,"",23.0,22
+2020-03-15,NorthDakota,Office,71.0,"",72.0,23
+2020-03-15,NorthDakota,Government,61.0,"",61.0,24
+2020-03-15,NorthDakota,Discount Stores,94.0,"",93.0,25
+2020-03-16,NorthDakota,Shops & Services,48.0,47.0,48.0,1
+2020-03-16,NorthDakota,Food,49.0,47.0,49.0,2
+2020-03-16,NorthDakota,Nightlife Spots,79.0,81.0,79.0,3
+2020-03-16,NorthDakota,Gas Stations,90.0,82.0,90.0,4
+2020-03-16,NorthDakota,Grocery,148.0,117.0,150.0,5
+2020-03-16,NorthDakota,Medical,52.0,44.0,52.0,6
+2020-03-16,NorthDakota,Big Box Stores,102.0,90.0,102.0,7
+2020-03-16,NorthDakota,Professional & Other Places,21.0,16.0,22.0,8
+2020-03-16,NorthDakota,Outdoors & Recreation,53.0,51.0,53.0,9
+2020-03-16,NorthDakota,Fast Food Restaurants,84.0,80.0,84.0,10
+2020-03-16,NorthDakota,Hotel,73.0,59.0,73.0,11
+2020-03-16,NorthDakota,Arts & Entertainment,79.0,68.0,79.0,12
+2020-03-16,NorthDakota,School,32.0,38.0,32.0,13
+2020-03-16,NorthDakota,Hardware Stores,107.0,95.0,107.0,14
+2020-03-16,NorthDakota,Convenience Store,90.0,"",91.0,15
+2020-03-16,NorthDakota,Office,86.0,"",86.0,15
+2020-03-16,NorthDakota,Government,77.0,88.0,77.0,16
+2020-03-16,NorthDakota,Banks,110.0,"",111.0,17
+2020-03-16,NorthDakota,Residences,90.0,"",90.0,18
+2020-03-16,NorthDakota,Alcohol,121.0,"",121.0,19
+2020-03-16,NorthDakota,Fitness Center,48.0,"",49.0,20
+2020-03-16,NorthDakota,Colleges & Universities,26.0,"",26.0,21
+2020-03-16,NorthDakota,Travel & Transport,78.0,"",77.0,22
+2020-03-16,NorthDakota,Sports,35.0,"",35.0,23
+2020-03-16,NorthDakota,Airport,63.0,"",64.0,24
+2020-03-16,NorthDakota,Drug Store,113.0,"",115.0,25
+2020-03-16,NorthDakota,Discount Stores,100.0,"",100.0,26
+2020-03-17,NorthDakota,Shops & Services,65.0,59.0,66.0,1
+2020-03-17,NorthDakota,Food,49.0,44.0,49.0,2
+2020-03-17,NorthDakota,Nightlife Spots,78.0,70.0,78.0,3
+2020-03-17,NorthDakota,Gas Stations,88.0,85.0,88.0,4
+2020-03-17,NorthDakota,Grocery,140.0,131.0,141.0,5
+2020-03-17,NorthDakota,Big Box Stores,107.0,77.0,108.0,6
+2020-03-17,NorthDakota,Professional & Other Places,17.0,14.0,17.0,7
+2020-03-17,NorthDakota,Medical,48.0,40.0,48.0,8
+2020-03-17,NorthDakota,Outdoors & Recreation,50.0,52.0,50.0,9
+2020-03-17,NorthDakota,Fast Food Restaurants,82.0,58.0,83.0,10
+2020-03-17,NorthDakota,Hotel,71.0,61.0,71.0,11
+2020-03-17,NorthDakota,Arts & Entertainment,68.0,62.0,68.0,12
+2020-03-17,NorthDakota,School,28.0,29.0,28.0,13
+2020-03-17,NorthDakota,Hardware Stores,113.0,90.0,114.0,14
+2020-03-17,NorthDakota,Convenience Store,96.0,88.0,96.0,15
+2020-03-17,NorthDakota,Office,73.0,"",73.0,16
+2020-03-17,NorthDakota,Government,58.0,"",59.0,17
+2020-03-17,NorthDakota,Alcohol,127.0,"",127.0,18
+2020-03-17,NorthDakota,Residences,92.0,"",92.0,19
+2020-03-17,NorthDakota,Fitness Center,41.0,"",41.0,20
+2020-03-17,NorthDakota,Colleges & Universities,22.0,"",22.0,21
+2020-03-17,NorthDakota,Sports,42.0,"",41.0,22
+2020-03-17,NorthDakota,Travel & Transport,79.0,"",79.0,23
+2020-03-17,NorthDakota,Banks,84.0,"",84.0,24
+2020-03-17,NorthDakota,Airport,70.0,"",71.0,25
+2020-03-17,NorthDakota,Drug Store,95.0,"",96.0,26
+2020-03-17,NorthDakota,Discount Stores,85.0,"",85.0,27
+2020-03-18,NorthDakota,Shops & Services,43.0,36.0,43.0,1
+2020-03-18,NorthDakota,Food,38.0,38.0,38.0,2
+2020-03-18,NorthDakota,Nightlife Spots,74.0,70.0,75.0,3
+2020-03-18,NorthDakota,Gas Stations,88.0,82.0,88.0,4
+2020-03-18,NorthDakota,Grocery,135.0,112.0,136.0,5
+2020-03-18,NorthDakota,Big Box Stores,103.0,96.0,103.0,6
+2020-03-18,NorthDakota,Professional & Other Places,18.0,15.0,18.0,7
+2020-03-18,NorthDakota,Outdoors & Recreation,63.0,57.0,64.0,8
+2020-03-18,NorthDakota,Medical,45.0,33.0,46.0,9
+2020-03-18,NorthDakota,Fast Food Restaurants,76.0,69.0,77.0,10
+2020-03-18,NorthDakota,Hotel,64.0,68.0,64.0,11
+2020-03-18,NorthDakota,Arts & Entertainment,62.0,51.0,62.0,12
+2020-03-18,NorthDakota,Hardware Stores,117.0,81.0,119.0,13
+2020-03-18,NorthDakota,School,27.0,"",27.0,14
+2020-03-18,NorthDakota,Convenience Store,96.0,73.0,97.0,15
+2020-03-18,NorthDakota,Office,70.0,"",70.0,16
+2020-03-18,NorthDakota,Government,58.0,"",59.0,17
+2020-03-18,NorthDakota,Alcohol,122.0,"",122.0,18
+2020-03-18,NorthDakota,Residences,91.0,"",91.0,19
+2020-03-18,NorthDakota,Travel & Transport,89.0,"",90.0,20
+2020-03-18,NorthDakota,Colleges & Universities,22.0,"",22.0,21
+2020-03-18,NorthDakota,Sports,40.0,"",39.0,22
+2020-03-18,NorthDakota,Fitness Center,34.0,"",34.0,23
+2020-03-18,NorthDakota,Banks,81.0,"",80.0,24
+2020-03-18,NorthDakota,Airport,53.0,"",52.0,25
+2020-03-18,NorthDakota,Drug Store,97.0,"",98.0,26
+2020-03-18,NorthDakota,Discount Stores,94.0,"",94.0,27
+2020-03-19,NorthDakota,Shops & Services,34.0,26.0,34.0,1
+2020-03-19,NorthDakota,Food,34.0,28.0,34.0,2
+2020-03-19,NorthDakota,Nightlife Spots,55.0,49.0,55.0,3
+2020-03-19,NorthDakota,Gas Stations,72.0,63.0,72.0,4
+2020-03-19,NorthDakota,Grocery,122.0,87.0,123.0,5
+2020-03-19,NorthDakota,Big Box Stores,92.0,69.0,93.0,6
+2020-03-19,NorthDakota,Medical,41.0,31.0,41.0,7
+2020-03-19,NorthDakota,Outdoors & Recreation,43.0,35.0,43.0,8
+2020-03-19,NorthDakota,Professional & Other Places,14.0,12.0,14.0,9
+2020-03-19,NorthDakota,Hotel,60.0,44.0,60.0,10
+2020-03-19,NorthDakota,Fast Food Restaurants,62.0,50.0,62.0,11
+2020-03-19,NorthDakota,School,24.0,"",24.0,12
+2020-03-19,NorthDakota,Arts & Entertainment,60.0,"",60.0,13
+2020-03-19,NorthDakota,Hardware Stores,95.0,69.0,96.0,14
+2020-03-19,NorthDakota,Convenience Store,82.0,79.0,82.0,15
+2020-03-19,NorthDakota,Office,59.0,"",59.0,16
+2020-03-19,NorthDakota,Government,56.0,"",56.0,17
+2020-03-19,NorthDakota,Alcohol,127.0,"",127.0,18
+2020-03-19,NorthDakota,Residences,85.0,"",85.0,19
+2020-03-19,NorthDakota,Colleges & Universities,20.0,"",19.0,20
+2020-03-19,NorthDakota,Travel & Transport,61.0,"",62.0,21
+2020-03-19,NorthDakota,Banks,74.0,"",75.0,22
+2020-03-19,NorthDakota,Sports,26.0,"",26.0,23
+2020-03-19,NorthDakota,Airport,45.0,"",46.0,24
+2020-03-19,NorthDakota,Fitness Center,23.0,"",23.0,25
+2020-03-19,NorthDakota,Drug Store,63.0,"",64.0,26
+2020-03-19,NorthDakota,Discount Stores,73.0,"",73.0,27
+2020-03-20,NorthDakota,Shops & Services,30.0,26.0,30.0,1
+2020-03-20,NorthDakota,Food,28.0,26.0,28.0,2
+2020-03-20,NorthDakota,Nightlife Spots,47.0,42.0,47.0,3
+2020-03-20,NorthDakota,Gas Stations,75.0,68.0,76.0,4
+2020-03-20,NorthDakota,Grocery,123.0,103.0,124.0,5
+2020-03-20,NorthDakota,Big Box Stores,84.0,62.0,84.0,6
+2020-03-20,NorthDakota,Outdoors & Recreation,74.0,69.0,74.0,7
+2020-03-20,NorthDakota,Professional & Other Places,17.0,16.0,17.0,8
+2020-03-20,NorthDakota,Medical,40.0,34.0,41.0,9
+2020-03-20,NorthDakota,Fast Food Restaurants,70.0,65.0,70.0,10
+2020-03-20,NorthDakota,Hotel,48.0,46.0,48.0,11
+2020-03-20,NorthDakota,Arts & Entertainment,47.0,"",47.0,12
+2020-03-20,NorthDakota,School,23.0,"",23.0,13
+2020-03-20,NorthDakota,Hardware Stores,89.0,82.0,90.0,14
+2020-03-20,NorthDakota,Convenience Store,81.0,"",81.0,15
+2020-03-20,NorthDakota,Alcohol,111.0,"",112.0,16
+2020-03-20,NorthDakota,Office,66.0,"",66.0,17
+2020-03-20,NorthDakota,Government,56.0,"",57.0,18
+2020-03-20,NorthDakota,Residences,83.0,"",83.0,19
+2020-03-20,NorthDakota,Travel & Transport,65.0,"",65.0,20
+2020-03-20,NorthDakota,Sports,26.0,"",26.0,21
+2020-03-20,NorthDakota,Banks,64.0,"",64.0,22
+2020-03-20,NorthDakota,Colleges & Universities,14.0,"",14.0,23
+2020-03-20,NorthDakota,Airport,42.0,"",42.0,24
+2020-03-20,NorthDakota,Drug Store,83.0,"",82.0,25
+2020-03-20,NorthDakota,Fitness Center,21.0,"",22.0,26
+2020-03-20,NorthDakota,Discount Stores,80.0,"",80.0,27
+2020-03-21,NorthDakota,Shops & Services,33.0,35.0,33.0,1
+2020-03-21,NorthDakota,Food,21.0,21.0,21.0,2
+2020-03-21,NorthDakota,Gas Stations,63.0,60.0,63.0,3
+2020-03-21,NorthDakota,Nightlife Spots,26.0,33.0,26.0,4
+2020-03-21,NorthDakota,Grocery,98.0,83.0,99.0,5
+2020-03-21,NorthDakota,Big Box Stores,62.0,56.0,63.0,6
+2020-03-21,NorthDakota,Outdoors & Recreation,42.0,48.0,42.0,7
+2020-03-21,NorthDakota,Professional & Other Places,17.0,"",17.0,8
+2020-03-21,NorthDakota,Fast Food Restaurants,47.0,53.0,47.0,9
+2020-03-21,NorthDakota,Hardware Stores,72.0,59.0,72.0,10
+2020-03-21,NorthDakota,Arts & Entertainment,28.0,"",28.0,11
+2020-03-21,NorthDakota,Hotel,27.0,"",27.0,12
+2020-03-21,NorthDakota,Medical,41.0,"",41.0,13
+2020-03-21,NorthDakota,School,24.0,"",24.0,14
+2020-03-21,NorthDakota,Convenience Store,60.0,"",60.0,15
+2020-03-21,NorthDakota,Alcohol,83.0,"",82.0,16
+2020-03-21,NorthDakota,Residences,71.0,"",71.0,17
+2020-03-21,NorthDakota,Sports,51.0,"",51.0,18
+2020-03-21,NorthDakota,Office,70.0,"",70.0,19
+2020-03-21,NorthDakota,Travel & Transport,29.0,"",29.0,20
+2020-03-21,NorthDakota,Government,59.0,"",59.0,21
+2020-03-21,NorthDakota,Colleges & Universities,20.0,"",20.0,22
+2020-03-21,NorthDakota,Airport,35.0,"",35.0,23
+2020-03-22,NorthDakota,Food,29.0,33.0,28.0,1
+2020-03-22,NorthDakota,Shops & Services,40.0,44.0,40.0,2
+2020-03-22,NorthDakota,Gas Stations,60.0,58.0,60.0,3
+2020-03-22,NorthDakota,Nightlife Spots,24.0,36.0,24.0,4
+2020-03-22,NorthDakota,Outdoors & Recreation,81.0,102.0,81.0,5
+2020-03-22,NorthDakota,Grocery,74.0,65.0,74.0,6
+2020-03-22,NorthDakota,Big Box Stores,56.0,70.0,56.0,7
+2020-03-22,NorthDakota,Fast Food Restaurants,53.0,"",53.0,8
+2020-03-22,NorthDakota,Professional & Other Places,14.0,"",14.0,9
+2020-03-22,NorthDakota,Arts & Entertainment,36.0,"",36.0,10
+2020-03-22,NorthDakota,Hardware Stores,72.0,"",72.0,11
+2020-03-22,NorthDakota,Hotel,29.0,"",29.0,12
+2020-03-22,NorthDakota,Convenience Store,68.0,"",68.0,13
+2020-03-22,NorthDakota,Medical,43.0,"",44.0,14
+2020-03-22,NorthDakota,School,29.0,"",29.0,15
+2020-03-22,NorthDakota,Residences,65.0,"",64.0,16
+2020-03-22,NorthDakota,Sports,31.0,"",31.0,17
+2020-03-22,NorthDakota,Alcohol,68.0,"",68.0,18
+2020-03-22,NorthDakota,Office,73.0,"",72.0,19
+2020-03-22,NorthDakota,Government,62.0,"",62.0,20
+2020-03-22,NorthDakota,Colleges & Universities,34.0,"",34.0,21
+2020-03-22,NorthDakota,Travel & Transport,34.0,"",34.0,22
+2020-03-22,NorthDakota,Airport,39.0,"",39.0,23
+2020-03-23,NorthDakota,Shops & Services,47.0,42.0,47.0,1
+2020-03-23,NorthDakota,Food,30.0,29.0,30.0,2
+2020-03-23,NorthDakota,Gas Stations,78.0,70.0,78.0,3
+2020-03-23,NorthDakota,Nightlife Spots,49.0,63.0,48.0,4
+2020-03-23,NorthDakota,Outdoors & Recreation,59.0,60.0,59.0,5
+2020-03-23,NorthDakota,Professional & Other Places,18.0,19.0,18.0,6
+2020-03-23,NorthDakota,Grocery,94.0,80.0,94.0,7
+2020-03-23,NorthDakota,Medical,35.0,31.0,35.0,8
+2020-03-23,NorthDakota,Big Box Stores,66.0,61.0,66.0,9
+2020-03-23,NorthDakota,Fast Food Restaurants,62.0,60.0,62.0,10
+2020-03-23,NorthDakota,School,27.0,"",27.0,11
+2020-03-23,NorthDakota,Arts & Entertainment,61.0,67.0,61.0,12
+2020-03-23,NorthDakota,Hotel,51.0,49.0,51.0,13
+2020-03-23,NorthDakota,Hardware Stores,90.0,79.0,91.0,14
+2020-03-23,NorthDakota,Convenience Store,78.0,"",78.0,15
+2020-03-23,NorthDakota,Office,62.0,"",62.0,16
+2020-03-23,NorthDakota,Residences,81.0,"",81.0,17
+2020-03-23,NorthDakota,Government,51.0,"",51.0,18
+2020-03-23,NorthDakota,Travel & Transport,49.0,"",49.0,19
+2020-03-23,NorthDakota,Alcohol,90.0,"",90.0,20
+2020-03-23,NorthDakota,Colleges & Universities,30.0,"",30.0,21
+2020-03-23,NorthDakota,Sports,30.0,"",30.0,22
+2020-03-23,NorthDakota,Banks,65.0,"",64.0,23
+2020-03-23,NorthDakota,Fitness Center,21.0,"",21.0,24
+2020-03-23,NorthDakota,Airport,34.0,"",33.0,25
+2020-03-24,NorthDakota,Shops & Services,29.0,26.0,29.0,1
+2020-03-24,NorthDakota,Food,27.0,26.0,27.0,2
+2020-03-24,NorthDakota,Gas Stations,73.0,64.0,74.0,3
+2020-03-24,NorthDakota,Nightlife Spots,45.0,48.0,45.0,4
+2020-03-24,NorthDakota,Outdoors & Recreation,69.0,78.0,69.0,5
+2020-03-24,NorthDakota,Grocery,85.0,60.0,86.0,6
+2020-03-24,NorthDakota,Professional & Other Places,15.0,13.0,16.0,7
+2020-03-24,NorthDakota,Big Box Stores,70.0,56.0,71.0,8
+2020-03-24,NorthDakota,Medical,34.0,28.0,34.0,9
+2020-03-24,NorthDakota,Fast Food Restaurants,63.0,53.0,63.0,10
+2020-03-24,NorthDakota,School,24.0,"",24.0,11
+2020-03-24,NorthDakota,Arts & Entertainment,60.0,55.0,60.0,12
+2020-03-24,NorthDakota,Hotel,50.0,"",50.0,13
+2020-03-24,NorthDakota,Convenience Store,80.0,66.0,80.0,14
+2020-03-24,NorthDakota,Hardware Stores,89.0,71.0,90.0,15
+2020-03-24,NorthDakota,Office,53.0,"",53.0,16
+2020-03-24,NorthDakota,Residences,82.0,"",81.0,17
+2020-03-24,NorthDakota,Government,41.0,"",41.0,18
+2020-03-24,NorthDakota,Travel & Transport,54.0,"",54.0,19
+2020-03-24,NorthDakota,Colleges & Universities,19.0,"",18.0,20
+2020-03-24,NorthDakota,Alcohol,84.0,"",84.0,21
+2020-03-24,NorthDakota,Sports,31.0,"",31.0,22
+2020-03-24,NorthDakota,Banks,58.0,"",59.0,23
+2020-03-24,NorthDakota,Fitness Center,17.0,"",17.0,24
+2020-03-24,NorthDakota,Drug Store,69.0,"",70.0,25
+2020-03-24,NorthDakota,Airport,39.0,"",39.0,26
+2020-03-24,NorthDakota,Discount Stores,71.0,"",71.0,27
+2020-03-25,NorthDakota,Shops & Services,49.0,41.0,49.0,1
+2020-03-25,NorthDakota,Food,32.0,29.0,32.0,2
+2020-03-25,NorthDakota,Gas Stations,72.0,70.0,72.0,3
+2020-03-25,NorthDakota,Nightlife Spots,38.0,41.0,38.0,4
+2020-03-25,NorthDakota,Outdoors & Recreation,51.0,48.0,51.0,5
+2020-03-25,NorthDakota,Grocery,89.0,79.0,89.0,6
+2020-03-25,NorthDakota,Professional & Other Places,16.0,13.0,16.0,7
+2020-03-25,NorthDakota,Big Box Stores,74.0,63.0,74.0,8
+2020-03-25,NorthDakota,Medical,33.0,29.0,33.0,9
+2020-03-25,NorthDakota,Fast Food Restaurants,70.0,72.0,70.0,10
+2020-03-25,NorthDakota,School,26.0,"",25.0,11
+2020-03-25,NorthDakota,Hotel,48.0,"",48.0,12
+2020-03-25,NorthDakota,Hardware Stores,93.0,58.0,95.0,13
+2020-03-25,NorthDakota,Arts & Entertainment,51.0,"",52.0,14
+2020-03-25,NorthDakota,Convenience Store,81.0,80.0,81.0,15
+2020-03-25,NorthDakota,Office,58.0,"",58.0,16
+2020-03-25,NorthDakota,Government,47.0,"",47.0,17
+2020-03-25,NorthDakota,Alcohol,95.0,"",95.0,18
+2020-03-25,NorthDakota,Residences,73.0,"",73.0,19
+2020-03-25,NorthDakota,Sports,29.0,"",29.0,20
+2020-03-25,NorthDakota,Colleges & Universities,19.0,"",18.0,21
+2020-03-25,NorthDakota,Travel & Transport,43.0,"",43.0,22
+2020-03-25,NorthDakota,Banks,67.0,"",67.0,23
+2020-03-25,NorthDakota,Fitness Center,21.0,"",21.0,24
+2020-03-25,NorthDakota,Airport,43.0,"",43.0,25
+2020-03-25,NorthDakota,Drug Store,67.0,"",67.0,26
+2020-03-26,NorthDakota,Shops & Services,30.0,26.0,31.0,1
+2020-03-26,NorthDakota,Food,29.0,23.0,29.0,2
+2020-03-26,NorthDakota,Gas Stations,72.0,75.0,72.0,3
+2020-03-26,NorthDakota,Nightlife Spots,42.0,41.0,42.0,4
+2020-03-26,NorthDakota,Outdoors & Recreation,57.0,62.0,57.0,5
+2020-03-26,NorthDakota,Grocery,88.0,67.0,88.0,6
+2020-03-26,NorthDakota,Professional & Other Places,15.0,14.0,15.0,7
+2020-03-26,NorthDakota,Big Box Stores,74.0,51.0,75.0,8
+2020-03-26,NorthDakota,Medical,33.0,26.0,34.0,9
+2020-03-26,NorthDakota,Fast Food Restaurants,66.0,53.0,66.0,10
+2020-03-26,NorthDakota,Hotel,48.0,"",48.0,11
+2020-03-26,NorthDakota,School,23.0,"",23.0,12
+2020-03-26,NorthDakota,Arts & Entertainment,57.0,"",57.0,13
+2020-03-26,NorthDakota,Hardware Stores,88.0,78.0,89.0,14
+2020-03-26,NorthDakota,Convenience Store,73.0,"",73.0,15
+2020-03-26,NorthDakota,Office,57.0,"",58.0,16
+2020-03-26,NorthDakota,Government,48.0,"",48.0,17
+2020-03-26,NorthDakota,Sports,31.0,"",31.0,18
+2020-03-26,NorthDakota,Colleges & Universities,28.0,"",28.0,19
+2020-03-26,NorthDakota,Residences,70.0,"",70.0,20
+2020-03-26,NorthDakota,Alcohol,86.0,"",86.0,21
+2020-03-26,NorthDakota,Travel & Transport,46.0,"",46.0,22
+2020-03-26,NorthDakota,Banks,55.0,"",55.0,23
+2020-03-26,NorthDakota,Airport,35.0,"",35.0,24
+2020-03-26,NorthDakota,Fitness Center,18.0,"",18.0,25
+2020-03-26,NorthDakota,Drug Store,64.0,"",64.0,26
+2020-03-27,NorthDakota,Shops & Services,30.0,26.0,30.0,1
+2020-03-27,NorthDakota,Food,26.0,23.0,26.0,2
+2020-03-27,NorthDakota,Gas Stations,70.0,63.0,71.0,3
+2020-03-27,NorthDakota,Nightlife Spots,40.0,41.0,40.0,4
+2020-03-27,NorthDakota,Outdoors & Recreation,53.0,50.0,53.0,5
+2020-03-27,NorthDakota,Grocery,88.0,81.0,89.0,6
+2020-03-27,NorthDakota,Big Box Stores,67.0,54.0,67.0,7
+2020-03-27,NorthDakota,Professional & Other Places,14.0,13.0,14.0,8
+2020-03-27,NorthDakota,Fast Food Restaurants,63.0,63.0,63.0,9
+2020-03-27,NorthDakota,Medical,33.0,28.0,33.0,10
+2020-03-27,NorthDakota,Hardware Stores,91.0,60.0,92.0,11
+2020-03-27,NorthDakota,Hotel,38.0,"",39.0,12
+2020-03-27,NorthDakota,School,20.0,"",20.0,13
+2020-03-27,NorthDakota,Convenience Store,71.0,71.0,71.0,14
+2020-03-27,NorthDakota,Arts & Entertainment,42.0,"",43.0,15
+2020-03-27,NorthDakota,Office,64.0,"",65.0,16
+2020-03-27,NorthDakota,Alcohol,92.0,"",93.0,17
+2020-03-27,NorthDakota,Residences,77.0,"",78.0,18
+2020-03-27,NorthDakota,Government,51.0,"",51.0,19
+2020-03-27,NorthDakota,Colleges & Universities,29.0,"",28.0,20
+2020-03-27,NorthDakota,Sports,29.0,"",28.0,21
+2020-03-27,NorthDakota,Banks,57.0,"",57.0,22
+2020-03-27,NorthDakota,Travel & Transport,38.0,"",38.0,23
+2020-03-27,NorthDakota,Fitness Center,21.0,"",21.0,24
+2020-03-27,NorthDakota,Drug Store,75.0,"",75.0,25
+2020-03-27,NorthDakota,Airport,33.0,"",33.0,26
+2020-03-28,NorthDakota,Shops & Services,33.0,29.0,33.0,1
+2020-03-28,NorthDakota,Food,21.0,21.0,21.0,2
+2020-03-28,NorthDakota,Nightlife Spots,30.0,33.0,30.0,3
+2020-03-28,NorthDakota,Gas Stations,66.0,60.0,66.0,4
+2020-03-28,NorthDakota,Outdoors & Recreation,58.0,61.0,58.0,5
+2020-03-28,NorthDakota,Grocery,85.0,70.0,85.0,6
+2020-03-28,NorthDakota,Big Box Stores,61.0,55.0,61.0,7
+2020-03-28,NorthDakota,Fast Food Restaurants,55.0,50.0,55.0,8
+2020-03-28,NorthDakota,Hardware Stores,87.0,64.0,88.0,9
+2020-03-28,NorthDakota,Professional & Other Places,17.0,16.0,17.0,10
+2020-03-28,NorthDakota,Arts & Entertainment,32.0,"",32.0,11
+2020-03-28,NorthDakota,School,31.0,"",31.0,12
+2020-03-28,NorthDakota,Convenience Store,68.0,"",68.0,13
+2020-03-28,NorthDakota,Hotel,26.0,"",26.0,14
+2020-03-28,NorthDakota,Medical,40.0,"",40.0,15
+2020-03-28,NorthDakota,Alcohol,84.0,"",84.0,16
+2020-03-28,NorthDakota,Residences,87.0,"",88.0,17
+2020-03-28,NorthDakota,Sports,36.0,"",36.0,18
+2020-03-28,NorthDakota,Travel & Transport,57.0,"",57.0,19
+2020-03-28,NorthDakota,Office,67.0,"",67.0,20
+2020-03-28,NorthDakota,Colleges & Universities,34.0,"",34.0,21
+2020-03-28,NorthDakota,Government,58.0,"",59.0,22
+2020-03-28,NorthDakota,Banks,65.0,"",65.0,23
+2020-03-28,NorthDakota,Discount Stores,65.0,"",65.0,24
+2020-03-28,NorthDakota,Fitness Center,19.0,"",19.0,25
+2020-03-28,NorthDakota,Drug Store,67.0,"",68.0,26
+2020-03-29,NorthDakota,Food,18.0,18.0,18.0,1
+2020-03-29,NorthDakota,Shops & Services,33.0,35.0,33.0,2
+2020-03-29,NorthDakota,Gas Stations,61.0,51.0,61.0,3
+2020-03-29,NorthDakota,Outdoors & Recreation,63.0,73.0,62.0,4
+2020-03-29,NorthDakota,Nightlife Spots,19.0,26.0,19.0,5
+2020-03-29,NorthDakota,Grocery,60.0,46.0,60.0,6
+2020-03-29,NorthDakota,Big Box Stores,47.0,"",47.0,7
+2020-03-29,NorthDakota,Fast Food Restaurants,53.0,70.0,53.0,8
+2020-03-29,NorthDakota,Professional & Other Places,16.0,"",16.0,9
+2020-03-29,NorthDakota,Hardware Stores,71.0,"",71.0,10
+2020-03-29,NorthDakota,School,44.0,"",44.0,11
+2020-03-29,NorthDakota,Arts & Entertainment,32.0,"",32.0,12
+2020-03-29,NorthDakota,Hotel,25.0,"",25.0,13
+2020-03-29,NorthDakota,Convenience Store,54.0,"",54.0,14
+2020-03-29,NorthDakota,Residences,63.0,"",63.0,15
+2020-03-29,NorthDakota,Sports,28.0,"",27.0,16
+2020-03-29,NorthDakota,Medical,33.0,"",33.0,17
+2020-03-29,NorthDakota,Alcohol,56.0,"",56.0,18
+2020-03-29,NorthDakota,Office,63.0,"",63.0,19
+2020-03-29,NorthDakota,Travel & Transport,44.0,"",44.0,20
+2020-03-29,NorthDakota,Government,53.0,"",53.0,21
+2020-03-29,NorthDakota,Colleges & Universities,22.0,"",22.0,22
+2020-03-30,NorthDakota,Shops & Services,30.0,25.0,30.0,1
+2020-03-30,NorthDakota,Food,29.0,25.0,29.0,2
+2020-03-30,NorthDakota,Gas Stations,62.0,54.0,63.0,3
+2020-03-30,NorthDakota,Nightlife Spots,44.0,51.0,43.0,4
+2020-03-30,NorthDakota,Outdoors & Recreation,53.0,62.0,52.0,5
+2020-03-30,NorthDakota,Grocery,78.0,74.0,78.0,6
+2020-03-30,NorthDakota,Professional & Other Places,16.0,15.0,16.0,7
+2020-03-30,NorthDakota,Big Box Stores,55.0,39.0,56.0,8
+2020-03-30,NorthDakota,Medical,26.0,24.0,26.0,9
+2020-03-30,NorthDakota,Fast Food Restaurants,57.0,44.0,58.0,10
+2020-03-30,NorthDakota,School,25.0,"",25.0,11
+2020-03-30,NorthDakota,Arts & Entertainment,56.0,"",56.0,12
+2020-03-30,NorthDakota,Convenience Store,70.0,"",70.0,13
+2020-03-30,NorthDakota,Hotel,44.0,"",44.0,14
+2020-03-30,NorthDakota,Hardware Stores,76.0,65.0,76.0,15
+2020-03-30,NorthDakota,Office,53.0,"",53.0,16
+2020-03-30,NorthDakota,Residences,77.0,"",77.0,17
+2020-03-30,NorthDakota,Sports,43.0,"",43.0,18
+2020-03-30,NorthDakota,Government,45.0,"",45.0,19
+2020-03-30,NorthDakota,Alcohol,82.0,"",82.0,20
+2020-03-30,NorthDakota,Colleges & Universities,28.0,"",27.0,21
+2020-03-30,NorthDakota,Travel & Transport,43.0,"",43.0,22
+2020-03-30,NorthDakota,Banks,64.0,"",64.0,23
+2020-03-30,NorthDakota,Fitness Center,18.0,"",18.0,24
+2020-03-31,NorthDakota,Shops & Services,29.0,26.0,29.0,1
+2020-03-31,NorthDakota,Food,25.0,24.0,25.0,2
+2020-03-31,NorthDakota,Gas Stations,62.0,53.0,63.0,3
+2020-03-31,NorthDakota,Nightlife Spots,42.0,48.0,42.0,4
+2020-03-31,NorthDakota,Outdoors & Recreation,44.0,51.0,44.0,5
+2020-03-31,NorthDakota,Grocery,80.0,67.0,80.0,6
+2020-03-31,NorthDakota,Professional & Other Places,12.0,12.0,12.0,7
+2020-03-31,NorthDakota,Big Box Stores,61.0,53.0,61.0,8
+2020-03-31,NorthDakota,Fast Food Restaurants,60.0,44.0,60.0,9
+2020-03-31,NorthDakota,Medical,26.0,20.0,26.0,10
+2020-03-31,NorthDakota,School,21.0,"",21.0,11
+2020-03-31,NorthDakota,Hardware Stores,81.0,75.0,82.0,12
+2020-03-31,NorthDakota,Hotel,42.0,"",43.0,13
+2020-03-31,NorthDakota,Arts & Entertainment,56.0,"",57.0,14
+2020-03-31,NorthDakota,Convenience Store,70.0,70.0,70.0,15
+2020-03-31,NorthDakota,Office,49.0,"",49.0,16
+2020-03-31,NorthDakota,Government,43.0,"",43.0,17
+2020-03-31,NorthDakota,Sports,33.0,"",32.0,18
+2020-03-31,NorthDakota,Residences,73.0,"",74.0,18
+2020-03-31,NorthDakota,Banks,79.0,"",79.0,19
+2020-03-31,NorthDakota,Colleges & Universities,18.0,"",18.0,20
+2020-03-31,NorthDakota,Alcohol,77.0,"",77.0,21
+2020-03-31,NorthDakota,Travel & Transport,43.0,"",43.0,22
+2020-03-31,NorthDakota,Fitness Center,16.0,"",16.0,23
+2020-03-31,NorthDakota,Airport,36.0,"",36.0,24
+2020-03-31,NorthDakota,Drug Store,61.0,"",61.0,24
+2020-04-01,NorthDakota,Shops & Services,32.0,29.0,32.0,1
+2020-04-01,NorthDakota,Food,27.0,25.0,27.0,2
+2020-04-01,NorthDakota,Gas Stations,62.0,59.0,62.0,3
+2020-04-01,NorthDakota,Nightlife Spots,37.0,40.0,37.0,4
+2020-04-01,NorthDakota,Grocery,84.0,76.0,84.0,5
+2020-04-01,NorthDakota,Big Box Stores,75.0,63.0,75.0,6
+2020-04-01,NorthDakota,Outdoors & Recreation,38.0,36.0,38.0,7
+2020-04-01,NorthDakota,Professional & Other Places,14.0,11.0,14.0,8
+2020-04-01,NorthDakota,Medical,30.0,22.0,30.0,9
+2020-04-01,NorthDakota,Fast Food Restaurants,61.0,55.0,61.0,10
+2020-04-01,NorthDakota,Hardware Stores,88.0,70.0,89.0,11
+2020-04-01,NorthDakota,Hotel,40.0,"",40.0,12
+2020-04-01,NorthDakota,Convenience Store,72.0,"",72.0,13
+2020-04-01,NorthDakota,Arts & Entertainment,49.0,"",49.0,14
+2020-04-01,NorthDakota,School,18.0,"",18.0,15
+2020-04-01,NorthDakota,Office,51.0,"",51.0,16
+2020-04-01,NorthDakota,Government,40.0,"",40.0,17
+2020-04-01,NorthDakota,Residences,72.0,"",72.0,18
+2020-04-01,NorthDakota,Banks,85.0,"",85.0,19
+2020-04-01,NorthDakota,Colleges & Universities,19.0,"",19.0,20
+2020-04-01,NorthDakota,Alcohol,82.0,"",81.0,21
+2020-04-01,NorthDakota,Sports,27.0,"",27.0,22
+2020-04-01,NorthDakota,Travel & Transport,50.0,"",51.0,23
+2020-04-01,NorthDakota,Fitness Center,18.0,"",18.0,24
+2020-04-01,NorthDakota,Discount Stores,91.0,"",90.0,25

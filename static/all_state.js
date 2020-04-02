@@ -8,7 +8,7 @@ var states = [];
 var locationTypeSel;
 var locationTypes = [];
 var selectedVenues;
-var selectedStates;
+var selectedState;
 
 const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
@@ -297,8 +297,12 @@ function redoFilter() {
 }
 
 function populateSelect(selectElement, stringList, selected) {
+  debugger;
+  console.log("populate select "+selected+"-"+stringList);
+  // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
+    console.log(option);
     option.value = theString;
     option.text = theString;
     if (_.contains(selected, option.text)) {
@@ -357,10 +361,64 @@ function parseRow(row) {
   return parseGroupedRow(row);
 }
 
-function parsingDone(results, file) {
+function getStates() {
+  return [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming",
+    ];
+}
 
+function parsingDone(results, file) {
   fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
-  states = _.uniq(_.pluck(fileData, 'state')).sort();
+  states = getStates();
   locationTypes = _.uniq(_.pluck(fileData, 'location_type')).sort();
 
   table = new Tabulator("#data-table", {
@@ -382,11 +440,17 @@ function parsingDone(results, file) {
   });
 
   stateSel = document.getElementById('state-select');
-  populateSelect(stateSel, states, selectedStates);
+  populateSelect(stateSel, states, [selectedState]);
 
   // TODO - probably should think about filtering the location types for grouped when there is an essential filter
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
+
+  if(locationTypeSel.value) {
+    // ok, we selected a location type so disable essential
+    essentialSel.value = 'all';
+    essentialSel.style.display = 'none';
+  }
 
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
@@ -406,7 +470,6 @@ function parsingDone(results, file) {
       break;
     }
 
-
     if (stateSel.value || locationTypeSel.value) {
       drawChart();
     }
@@ -417,6 +480,7 @@ function parsingDone(results, file) {
   _.each([stateSel, locationTypeSel], function(sel) {
     sel.addEventListener('change', eventListener);
   });
+
 }
 
 var groupToEssentialMap = new Map();
@@ -461,9 +525,11 @@ for (var groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
 }
 
 var eventListener = function() {
-  var state = stateSel.value ? encodeURIComponent(stateSel.value) : ALL
-  var venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
-  windowLocationToSet = "/bystatesel/" + state + "/" + venue;
+  var newState = stateSel.value ? encodeURIComponent(stateSel.value) : ALL;
+  var stateChanged = newState != selectedState;
+  selectedState = newState;
+  selectedVenue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
+  windowLocationToSet = "/bystatesel/" + selectedState + "/" + selectedVenue;
   if (urlParams.get('datafilename')) {
     windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
   }
@@ -471,17 +537,17 @@ var eventListener = function() {
 };
 
 function parseSelection() {
-  selectedStates = _selectedStates == ALL ? [] : _selectedStates.split(",");
+  selectedState = _selectedState == ALL ? '' : _selectedState;
   selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
 }
 
 function setNavLinks() {
   // TODO fix the nav links to handle the new state stuff
   document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
-  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedStates + "/ALL/ALL";
-  document.getElementById('nav-chartall').href = "/bydatesel/" + selectedStates + "/ALL/ALL?datafilename=raw";
-  document.getElementById('nav-stategrouped').href = "/bystatesel/" + selectedStates + "/ALL";
-  document.getElementById('nav-stateall').href = "/bystatesel/" + selectedStates + "/ALL?datafilename=raw";
+  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedState + "/ALL/ALL";
+  document.getElementById('nav-chartall').href = "/bydatesel/" + selectedState + "/ALL/ALL?datafilename=raw";
+  document.getElementById('nav-stategrouped').href = "/bystatesel/" + selectedState + "/ALL";
+  document.getElementById('nav-stateall').href = "/bystatesel/" + selectedState + "/ALL?datafilename=raw";
 }
 
 essentialSel = document.getElementById('essential-select');
@@ -494,9 +560,23 @@ essentialSel.addEventListener('change', function() {
 
 parseSelection();
 setNavLinks();
-if (!datafilename) {
-  datafilename = '/data/grouped.csv';
-} else {
-  datafilename = '/data/' + datafilename + '.csv';
+
+function parse() {
+  /*
+   to set the filename we have a few questions
+   1) is this grouped or raw?
+   2) is the state set yet?
+  */
+  var filePrefix;
+  if (!urlParams.get('datafilename')) {
+    // OK, this is really just grouped
+    filePrefix = 'grouped';
+  } else {
+    filePrefix = 'raw';
+  }
+
+  datafilename = '/data/allstate/' + filePrefix + selectedState + '.csv';
+  Papa.parse(datafilename, { download: true, complete: parsingDone });
 }
-Papa.parse(datafilename, {download: true, complete: parsingDone});
+
+parse();

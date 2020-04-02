@@ -1,0 +1,635 @@
+2020-03-01,Vermont,Skiing,48.0,49.0,48.0,1
+2020-03-01,Vermont,Food,74.0,72.0,74.0,2
+2020-03-01,Vermont,Shops & Services,65.0,61.0,66.0,3
+2020-03-01,Vermont,Grocery,96.0,90.0,96.0,4
+2020-03-01,Vermont,Outdoors & Recreation,48.0,52.0,48.0,5
+2020-03-01,Vermont,Hotel,58.0,51.0,59.0,6
+2020-03-01,Vermont,Nightlife Spots,60.0,72.0,59.0,7
+2020-03-01,Vermont,Gas Stations,97.0,94.0,97.0,8
+2020-03-01,Vermont,Convenience Store,101.0,107.0,100.0,9
+2020-03-01,Vermont,Colleges & Universities,103.0,"",105.0,10
+2020-03-01,Vermont,Arts & Entertainment,82.0,"",82.0,11
+2020-03-01,Vermont,Professional & Other Places,101.0,101.0,101.0,12
+2020-03-01,Vermont,Fast Food Restaurants,105.0,"",106.0,13
+2020-03-01,Vermont,Big Box Stores,112.0,"",112.0,14
+2020-03-01,Vermont,Medical,62.0,"",64.0,15
+2020-03-01,Vermont,Hardware Stores,89.0,"",89.0,16
+2020-03-01,Vermont,Drug Store,105.0,"",103.0,17
+2020-03-01,Vermont,School,51.0,"",51.0,18
+2020-03-01,Vermont,Sports,71.0,"",71.0,19
+2020-03-01,Vermont,Fitness Center,62.0,"",62.0,20
+2020-03-01,Vermont,Travel & Transport,110.0,"",110.0,21
+2020-03-01,Vermont,Residences,97.0,"",97.0,22
+2020-03-02,Vermont,Food,72.0,72.0,72.0,1
+2020-03-02,Vermont,Shops & Services,44.0,43.0,44.0,2
+2020-03-02,Vermont,Skiing,47.0,56.0,47.0,3
+2020-03-02,Vermont,Grocery,105.0,105.0,105.0,4
+2020-03-02,Vermont,Outdoors & Recreation,99.0,99.0,99.0,5
+2020-03-02,Vermont,Gas Stations,98.0,94.0,98.0,6
+2020-03-02,Vermont,Hotel,63.0,61.0,63.0,7
+2020-03-02,Vermont,Medical,53.0,55.0,53.0,8
+2020-03-02,Vermont,Colleges & Universities,92.0,106.0,92.0,9
+2020-03-02,Vermont,Convenience Store,100.0,98.0,100.0,10
+2020-03-02,Vermont,Professional & Other Places,103.0,92.0,104.0,11
+2020-03-02,Vermont,Nightlife Spots,73.0,76.0,72.0,12
+2020-03-02,Vermont,School,43.0,48.0,43.0,13
+2020-03-02,Vermont,Fast Food Restaurants,116.0,110.0,117.0,14
+2020-03-02,Vermont,Hardware Stores,111.0,98.0,113.0,15
+2020-03-02,Vermont,Arts & Entertainment,100.0,93.0,101.0,16
+2020-03-02,Vermont,Government,71.0,59.0,72.0,17
+2020-03-02,Vermont,Fitness Center,63.0,64.0,63.0,18
+2020-03-02,Vermont,Drug Store,92.0,90.0,92.0,19
+2020-03-02,Vermont,Big Box Stores,108.0,"",109.0,20
+2020-03-02,Vermont,Travel & Transport,103.0,"",104.0,21
+2020-03-02,Vermont,Office,87.0,"",87.0,22
+2020-03-02,Vermont,Alcohol,132.0,"",133.0,23
+2020-03-02,Vermont,Sports,70.0,"",70.0,24
+2020-03-02,Vermont,Residences,116.0,"",113.0,25
+2020-03-03,Vermont,Food,83.0,82.0,83.0,1
+2020-03-03,Vermont,Shops & Services,49.0,48.0,49.0,2
+2020-03-03,Vermont,Grocery,110.0,114.0,110.0,3
+2020-03-03,Vermont,Outdoors & Recreation,118.0,124.0,118.0,4
+2020-03-03,Vermont,Skiing,50.0,64.0,49.0,5
+2020-03-03,Vermont,Gas Stations,99.0,97.0,99.0,6
+2020-03-03,Vermont,Medical,61.0,59.0,61.0,7
+2020-03-03,Vermont,Colleges & Universities,84.0,76.0,85.0,8
+2020-03-03,Vermont,Hotel,61.0,58.0,61.0,9
+2020-03-03,Vermont,Professional & Other Places,52.0,52.0,52.0,10
+2020-03-03,Vermont,Convenience Store,103.0,109.0,103.0,11
+2020-03-03,Vermont,School,71.0,98.0,70.0,12
+2020-03-03,Vermont,Nightlife Spots,80.0,84.0,80.0,13
+2020-03-03,Vermont,Arts & Entertainment,113.0,111.0,113.0,14
+2020-03-03,Vermont,Government,101.0,84.0,102.0,15
+2020-03-03,Vermont,Hardware Stores,115.0,104.0,116.0,16
+2020-03-03,Vermont,Fast Food Restaurants,105.0,"",107.0,17
+2020-03-03,Vermont,Fitness Center,71.0,64.0,71.0,18
+2020-03-03,Vermont,Drug Store,109.0,91.0,110.0,19
+2020-03-03,Vermont,Sports,63.0,64.0,63.0,20
+2020-03-03,Vermont,Office,86.0,"",87.0,21
+2020-03-03,Vermont,Big Box Stores,106.0,"",107.0,22
+2020-03-03,Vermont,Alcohol,128.0,"",129.0,23
+2020-03-03,Vermont,Travel & Transport,55.0,"",55.0,24
+2020-03-03,Vermont,Banks,115.0,"",117.0,25
+2020-03-04,Vermont,Food,77.0,71.0,77.0,1
+2020-03-04,Vermont,Shops & Services,45.0,42.0,45.0,2
+2020-03-04,Vermont,Grocery,94.0,87.0,95.0,3
+2020-03-04,Vermont,Outdoors & Recreation,95.0,90.0,96.0,4
+2020-03-04,Vermont,Colleges & Universities,88.0,85.0,88.0,5
+2020-03-04,Vermont,Gas Stations,92.0,85.0,92.0,6
+2020-03-04,Vermont,Medical,55.0,51.0,56.0,7
+2020-03-04,Vermont,Hotel,60.0,60.0,60.0,8
+2020-03-04,Vermont,Skiing,37.0,41.0,36.0,9
+2020-03-04,Vermont,Professional & Other Places,43.0,45.0,43.0,10
+2020-03-04,Vermont,Convenience Store,87.0,86.0,87.0,11
+2020-03-04,Vermont,Nightlife Spots,75.0,70.0,75.0,12
+2020-03-04,Vermont,School,51.0,49.0,51.0,13
+2020-03-04,Vermont,Arts & Entertainment,104.0,105.0,104.0,14
+2020-03-04,Vermont,Hardware Stores,101.0,88.0,102.0,15
+2020-03-04,Vermont,Fast Food Restaurants,94.0,94.0,94.0,16
+2020-03-04,Vermont,Drug Store,104.0,116.0,103.0,16
+2020-03-04,Vermont,Fitness Center,65.0,63.0,65.0,17
+2020-03-04,Vermont,Government,65.0,"",66.0,18
+2020-03-04,Vermont,Office,78.0,"",78.0,19
+2020-03-04,Vermont,Big Box Stores,99.0,"",100.0,20
+2020-03-04,Vermont,Travel & Transport,118.0,"",119.0,21
+2020-03-04,Vermont,Sports,61.0,70.0,60.0,22
+2020-03-05,Vermont,Food,90.0,88.0,90.0,1
+2020-03-05,Vermont,Shops & Services,47.0,47.0,47.0,2
+2020-03-05,Vermont,Grocery,101.0,98.0,101.0,3
+2020-03-05,Vermont,Skiing,57.0,69.0,56.0,4
+2020-03-05,Vermont,Outdoors & Recreation,75.0,80.0,75.0,5
+2020-03-05,Vermont,Colleges & Universities,98.0,115.0,98.0,6
+2020-03-05,Vermont,Gas Stations,104.0,98.0,104.0,7
+2020-03-05,Vermont,Medical,66.0,72.0,65.0,8
+2020-03-05,Vermont,Hotel,66.0,68.0,66.0,9
+2020-03-05,Vermont,Convenience Store,109.0,106.0,110.0,10
+2020-03-05,Vermont,Nightlife Spots,76.0,74.0,76.0,11
+2020-03-05,Vermont,Professional & Other Places,45.0,40.0,45.0,12
+2020-03-05,Vermont,School,59.0,50.0,59.0,13
+2020-03-05,Vermont,Arts & Entertainment,95.0,103.0,95.0,14
+2020-03-05,Vermont,Hardware Stores,107.0,104.0,107.0,15
+2020-03-05,Vermont,Fast Food Restaurants,108.0,113.0,107.0,16
+2020-03-05,Vermont,Government,77.0,66.0,77.0,17
+2020-03-05,Vermont,Drug Store,108.0,117.0,108.0,18
+2020-03-05,Vermont,Fitness Center,64.0,78.0,63.0,19
+2020-03-05,Vermont,Big Box Stores,119.0,"",121.0,20
+2020-03-05,Vermont,Office,87.0,"",86.0,21
+2020-03-05,Vermont,Travel & Transport,64.0,"",64.0,22
+2020-03-05,Vermont,Alcohol,116.0,"",115.0,23
+2020-03-05,Vermont,Sports,52.0,59.0,51.0,24
+2020-03-05,Vermont,Banks,127.0,"",125.0,25
+2020-03-06,Vermont,Food,78.0,77.0,78.0,1
+2020-03-06,Vermont,Shops & Services,48.0,48.0,48.0,2
+2020-03-06,Vermont,Skiing,58.0,46.0,58.0,3
+2020-03-06,Vermont,Grocery,105.0,100.0,106.0,4
+2020-03-06,Vermont,Outdoors & Recreation,71.0,82.0,70.0,5
+2020-03-06,Vermont,Hotel,65.0,62.0,65.0,6
+2020-03-06,Vermont,Gas Stations,98.0,100.0,98.0,7
+2020-03-06,Vermont,Nightlife Spots,78.0,76.0,78.0,8
+2020-03-06,Vermont,Medical,72.0,72.0,72.0,9
+2020-03-06,Vermont,Convenience Store,99.0,82.0,100.0,10
+2020-03-06,Vermont,Colleges & Universities,87.0,126.0,86.0,11
+2020-03-06,Vermont,Professional & Other Places,46.0,43.0,46.0,12
+2020-03-06,Vermont,School,70.0,66.0,70.0,13
+2020-03-06,Vermont,Arts & Entertainment,100.0,98.0,100.0,14
+2020-03-06,Vermont,Fast Food Restaurants,107.0,110.0,107.0,15
+2020-03-06,Vermont,Hardware Stores,94.0,112.0,93.0,16
+2020-03-06,Vermont,Drug Store,106.0,125.0,104.0,17
+2020-03-06,Vermont,Fitness Center,72.0,77.0,72.0,18
+2020-03-06,Vermont,Big Box Stores,119.0,"",119.0,18
+2020-03-06,Vermont,Government,62.0,"",63.0,19
+2020-03-06,Vermont,Office,105.0,"",104.0,20
+2020-03-06,Vermont,Alcohol,117.0,"",118.0,20
+2020-03-06,Vermont,Banks,136.0,151.0,135.0,21
+2020-03-06,Vermont,Travel & Transport,91.0,"",91.0,22
+2020-03-06,Vermont,Sports,86.0,"",85.0,23
+2020-03-07,Vermont,Skiing,56.0,48.0,56.0,1
+2020-03-07,Vermont,Food,84.0,78.0,84.0,2
+2020-03-07,Vermont,Shops & Services,80.0,72.0,81.0,3
+2020-03-07,Vermont,Hotel,66.0,68.0,66.0,4
+2020-03-07,Vermont,Grocery,96.0,91.0,97.0,5
+2020-03-07,Vermont,Outdoors & Recreation,47.0,58.0,47.0,6
+2020-03-07,Vermont,Nightlife Spots,77.0,65.0,77.0,7
+2020-03-07,Vermont,Gas Stations,97.0,87.0,97.0,8
+2020-03-07,Vermont,Convenience Store,86.0,89.0,85.0,9
+2020-03-07,Vermont,Professional & Other Places,56.0,45.0,57.0,10
+2020-03-07,Vermont,Arts & Entertainment,90.0,79.0,91.0,11
+2020-03-07,Vermont,Colleges & Universities,74.0,"",74.0,12
+2020-03-07,Vermont,Hardware Stores,117.0,102.0,118.0,13
+2020-03-07,Vermont,Medical,74.0,51.0,76.0,14
+2020-03-07,Vermont,Fast Food Restaurants,97.0,"",98.0,15
+2020-03-07,Vermont,Big Box Stores,102.0,"",104.0,16
+2020-03-07,Vermont,School,44.0,53.0,43.0,17
+2020-03-07,Vermont,Fitness Center,72.0,"",72.0,18
+2020-03-07,Vermont,Sports,56.0,"",57.0,19
+2020-03-07,Vermont,Drug Store,94.0,"",94.0,20
+2020-03-07,Vermont,Alcohol,106.0,"",105.0,21
+2020-03-07,Vermont,Travel & Transport,96.0,"",97.0,22
+2020-03-07,Vermont,Government,89.0,"",90.0,23
+2020-03-08,Vermont,Skiing,47.0,55.0,47.0,1
+2020-03-08,Vermont,Food,79.0,79.0,79.0,2
+2020-03-08,Vermont,Shops & Services,67.0,52.0,68.0,3
+2020-03-08,Vermont,Grocery,100.0,92.0,100.0,4
+2020-03-08,Vermont,Outdoors & Recreation,69.0,69.0,69.0,5
+2020-03-08,Vermont,Hotel,61.0,59.0,61.0,6
+2020-03-08,Vermont,Gas Stations,108.0,95.0,108.0,7
+2020-03-08,Vermont,Nightlife Spots,63.0,86.0,62.0,7
+2020-03-08,Vermont,Convenience Store,101.0,102.0,101.0,8
+2020-03-08,Vermont,Professional & Other Places,52.0,37.0,53.0,9
+2020-03-08,Vermont,Arts & Entertainment,91.0,99.0,91.0,10
+2020-03-08,Vermont,Fast Food Restaurants,118.0,"",119.0,11
+2020-03-08,Vermont,Colleges & Universities,79.0,"",78.0,12
+2020-03-08,Vermont,Hardware Stores,102.0,101.0,102.0,13
+2020-03-08,Vermont,Medical,62.0,"",63.0,14
+2020-03-08,Vermont,Big Box Stores,100.0,"",102.0,15
+2020-03-08,Vermont,School,46.0,"",46.0,16
+2020-03-08,Vermont,Travel & Transport,50.0,"",50.0,17
+2020-03-08,Vermont,Drug Store,92.0,"",92.0,18
+2020-03-08,Vermont,Sports,65.0,"",65.0,19
+2020-03-08,Vermont,Fitness Center,64.0,"",65.0,20
+2020-03-09,Vermont,Shops & Services,67.0,64.0,67.0,1
+2020-03-09,Vermont,Food,70.0,70.0,70.0,2
+2020-03-09,Vermont,Skiing,42.0,48.0,41.0,3
+2020-03-09,Vermont,Grocery,101.0,96.0,102.0,4
+2020-03-09,Vermont,Outdoors & Recreation,105.0,111.0,105.0,5
+2020-03-09,Vermont,Gas Stations,100.0,94.0,100.0,6
+2020-03-09,Vermont,Medical,55.0,48.0,56.0,7
+2020-03-09,Vermont,Hotel,62.0,67.0,62.0,8
+2020-03-09,Vermont,Convenience Store,99.0,97.0,99.0,9
+2020-03-09,Vermont,Professional & Other Places,44.0,41.0,44.0,10
+2020-03-09,Vermont,Colleges & Universities,74.0,104.0,73.0,11
+2020-03-09,Vermont,Nightlife Spots,77.0,70.0,77.0,12
+2020-03-09,Vermont,School,64.0,59.0,64.0,13
+2020-03-09,Vermont,Arts & Entertainment,104.0,110.0,104.0,14
+2020-03-09,Vermont,Hardware Stores,102.0,86.0,103.0,15
+2020-03-09,Vermont,Government,81.0,57.0,83.0,16
+2020-03-09,Vermont,Fast Food Restaurants,100.0,"",101.0,17
+2020-03-09,Vermont,Drug Store,111.0,123.0,110.0,18
+2020-03-09,Vermont,Fitness Center,56.0,"",57.0,19
+2020-03-09,Vermont,Office,100.0,"",102.0,20
+2020-03-09,Vermont,Big Box Stores,103.0,"",105.0,21
+2020-03-09,Vermont,Travel & Transport,89.0,"",90.0,22
+2020-03-09,Vermont,Sports,45.0,"",46.0,23
+2020-03-09,Vermont,Alcohol,112.0,"",114.0,24
+2020-03-10,Vermont,Food,84.0,79.0,85.0,1
+2020-03-10,Vermont,Shops & Services,46.0,44.0,46.0,2
+2020-03-10,Vermont,Grocery,97.0,90.0,97.0,3
+2020-03-10,Vermont,Outdoors & Recreation,48.0,50.0,48.0,4
+2020-03-10,Vermont,Gas Stations,96.0,98.0,96.0,5
+2020-03-10,Vermont,Medical,57.0,55.0,58.0,6
+2020-03-10,Vermont,Skiing,40.0,53.0,39.0,7
+2020-03-10,Vermont,Hotel,54.0,63.0,54.0,8
+2020-03-10,Vermont,Colleges & Universities,72.0,113.0,71.0,9
+2020-03-10,Vermont,Convenience Store,84.0,83.0,84.0,10
+2020-03-10,Vermont,School,58.0,49.0,59.0,11
+2020-03-10,Vermont,Professional & Other Places,39.0,35.0,39.0,12
+2020-03-10,Vermont,Nightlife Spots,72.0,66.0,72.0,13
+2020-03-10,Vermont,Arts & Entertainment,93.0,85.0,93.0,14
+2020-03-10,Vermont,Hardware Stores,103.0,90.0,104.0,15
+2020-03-10,Vermont,Fitness Center,66.0,78.0,65.0,16
+2020-03-10,Vermont,Drug Store,103.0,117.0,102.0,17
+2020-03-10,Vermont,Fast Food Restaurants,93.0,"",95.0,17
+2020-03-10,Vermont,Government,63.0,53.0,64.0,18
+2020-03-10,Vermont,Office,86.0,"",88.0,19
+2020-03-10,Vermont,Big Box Stores,114.0,"",113.0,20
+2020-03-10,Vermont,Alcohol,113.0,"",114.0,21
+2020-03-10,Vermont,Travel & Transport,49.0,"",50.0,22
+2020-03-11,Vermont,Food,71.0,69.0,72.0,1
+2020-03-11,Vermont,Shops & Services,67.0,61.0,68.0,2
+2020-03-11,Vermont,Grocery,96.0,91.0,97.0,3
+2020-03-11,Vermont,Gas Stations,102.0,103.0,102.0,4
+2020-03-11,Vermont,Outdoors & Recreation,64.0,59.0,64.0,5
+2020-03-11,Vermont,Skiing,42.0,33.0,43.0,6
+2020-03-11,Vermont,Medical,51.0,58.0,51.0,7
+2020-03-11,Vermont,Hotel,57.0,52.0,58.0,8
+2020-03-11,Vermont,Convenience Store,86.0,86.0,86.0,9
+2020-03-11,Vermont,Colleges & Universities,66.0,81.0,65.0,10
+2020-03-11,Vermont,School,54.0,61.0,54.0,11
+2020-03-11,Vermont,Professional & Other Places,39.0,40.0,39.0,12
+2020-03-11,Vermont,Nightlife Spots,72.0,63.0,73.0,13
+2020-03-11,Vermont,Arts & Entertainment,89.0,96.0,88.0,14
+2020-03-11,Vermont,Hardware Stores,99.0,98.0,99.0,15
+2020-03-11,Vermont,Fast Food Restaurants,90.0,93.0,90.0,16
+2020-03-11,Vermont,Government,71.0,"",72.0,17
+2020-03-11,Vermont,Drug Store,97.0,75.0,99.0,17
+2020-03-11,Vermont,Fitness Center,61.0,"",61.0,18
+2020-03-11,Vermont,Office,75.0,"",75.0,19
+2020-03-11,Vermont,Big Box Stores,99.0,128.0,97.0,20
+2020-03-11,Vermont,Sports,58.0,76.0,56.0,21
+2020-03-11,Vermont,Travel & Transport,56.0,"",55.0,21
+2020-03-12,Vermont,Food,76.0,80.0,76.0,1
+2020-03-12,Vermont,Shops & Services,41.0,41.0,41.0,2
+2020-03-12,Vermont,Grocery,108.0,104.0,108.0,3
+2020-03-12,Vermont,Skiing,51.0,73.0,50.0,4
+2020-03-12,Vermont,Outdoors & Recreation,70.0,71.0,70.0,5
+2020-03-12,Vermont,Gas Stations,102.0,99.0,102.0,6
+2020-03-12,Vermont,Hotel,61.0,63.0,61.0,7
+2020-03-12,Vermont,Medical,58.0,64.0,58.0,8
+2020-03-12,Vermont,Convenience Store,94.0,98.0,94.0,9
+2020-03-12,Vermont,Nightlife Spots,69.0,79.0,68.0,10
+2020-03-12,Vermont,Professional & Other Places,42.0,41.0,43.0,11
+2020-03-12,Vermont,School,63.0,57.0,64.0,12
+2020-03-12,Vermont,Colleges & Universities,56.0,79.0,56.0,13
+2020-03-12,Vermont,Hardware Stores,104.0,98.0,105.0,14
+2020-03-12,Vermont,Drug Store,111.0,127.0,110.0,15
+2020-03-12,Vermont,Government,84.0,99.0,83.0,16
+2020-03-12,Vermont,Arts & Entertainment,87.0,75.0,88.0,17
+2020-03-12,Vermont,Fitness Center,60.0,"",60.0,18
+2020-03-12,Vermont,Fast Food Restaurants,84.0,"",84.0,19
+2020-03-12,Vermont,Big Box Stores,121.0,"",120.0,20
+2020-03-12,Vermont,Office,76.0,"",76.0,21
+2020-03-12,Vermont,Travel & Transport,54.0,"",54.0,22
+2020-03-12,Vermont,Alcohol,96.0,"",97.0,23
+2020-03-13,Vermont,Food,71.0,64.0,72.0,1
+2020-03-13,Vermont,Shops & Services,46.0,39.0,46.0,2
+2020-03-13,Vermont,Grocery,127.0,120.0,128.0,3
+2020-03-13,Vermont,Gas Stations,99.0,97.0,99.0,4
+2020-03-13,Vermont,Outdoors & Recreation,57.0,61.0,57.0,5
+2020-03-13,Vermont,Hotel,54.0,47.0,55.0,6
+2020-03-13,Vermont,Convenience Store,99.0,83.0,100.0,7
+2020-03-13,Vermont,Nightlife Spots,72.0,59.0,72.0,8
+2020-03-13,Vermont,Medical,61.0,64.0,61.0,9
+2020-03-13,Vermont,Professional & Other Places,48.0,43.0,48.0,10
+2020-03-13,Vermont,Skiing,19.0,17.0,19.0,11
+2020-03-13,Vermont,School,67.0,67.0,67.0,12
+2020-03-13,Vermont,Colleges & Universities,58.0,100.0,57.0,13
+2020-03-13,Vermont,Fast Food Restaurants,103.0,97.0,103.0,14
+2020-03-13,Vermont,Hardware Stores,104.0,90.0,105.0,15
+2020-03-13,Vermont,Arts & Entertainment,92.0,"",94.0,16
+2020-03-13,Vermont,Drug Store,117.0,103.0,118.0,17
+2020-03-13,Vermont,Big Box Stores,142.0,"",143.0,18
+2020-03-13,Vermont,Government,67.0,56.0,68.0,19
+2020-03-13,Vermont,Fitness Center,62.0,"",63.0,20
+2020-03-13,Vermont,Travel & Transport,53.0,"",54.0,21
+2020-03-13,Vermont,Alcohol,109.0,"",111.0,22
+2020-03-13,Vermont,Office,90.0,"",92.0,23
+2020-03-13,Vermont,Banks,117.0,"",117.0,24
+2020-03-13,Vermont,Sports,38.0,"",39.0,25
+2020-03-13,Vermont,Discount Stores,165.0,"",167.0,26
+2020-03-14,Vermont,Food,59.0,56.0,60.0,1
+2020-03-14,Vermont,Skiing,33.0,30.0,33.0,2
+2020-03-14,Vermont,Shops & Services,59.0,51.0,59.0,3
+2020-03-14,Vermont,Grocery,118.0,113.0,118.0,4
+2020-03-14,Vermont,Outdoors & Recreation,44.0,57.0,44.0,5
+2020-03-14,Vermont,Hotel,51.0,53.0,51.0,6
+2020-03-14,Vermont,Nightlife Spots,60.0,48.0,60.0,7
+2020-03-14,Vermont,Gas Stations,86.0,81.0,86.0,8
+2020-03-14,Vermont,Convenience Store,79.0,74.0,80.0,9
+2020-03-14,Vermont,Professional & Other Places,49.0,49.0,49.0,10
+2020-03-14,Vermont,Hardware Stores,112.0,83.0,114.0,11
+2020-03-14,Vermont,Arts & Entertainment,76.0,"",77.0,12
+2020-03-14,Vermont,Big Box Stores,109.0,"",110.0,13
+2020-03-14,Vermont,Medical,58.0,"",60.0,14
+2020-03-14,Vermont,Colleges & Universities,51.0,"",51.0,15
+2020-03-14,Vermont,Drug Store,99.0,103.0,99.0,16
+2020-03-14,Vermont,Fast Food Restaurants,70.0,"",72.0,17
+2020-03-14,Vermont,School,33.0,"",32.0,18
+2020-03-14,Vermont,Alcohol,99.0,"",100.0,19
+2020-03-14,Vermont,Fitness Center,49.0,"",50.0,20
+2020-03-14,Vermont,Travel & Transport,85.0,"",86.0,21
+2020-03-14,Vermont,Government,86.0,"",87.0,22
+2020-03-15,Vermont,Food,53.0,55.0,53.0,1
+2020-03-15,Vermont,Shops & Services,51.0,46.0,51.0,2
+2020-03-15,Vermont,Grocery,106.0,96.0,107.0,3
+2020-03-15,Vermont,Outdoors & Recreation,30.0,29.0,30.0,4
+2020-03-15,Vermont,Hotel,39.0,34.0,40.0,5
+2020-03-15,Vermont,Gas Stations,82.0,89.0,82.0,6
+2020-03-15,Vermont,Skiing,10.0,10.0,10.0,7
+2020-03-15,Vermont,Nightlife Spots,42.0,44.0,42.0,8
+2020-03-15,Vermont,Convenience Store,78.0,74.0,78.0,9
+2020-03-15,Vermont,Professional & Other Places,41.0,36.0,41.0,10
+2020-03-15,Vermont,Arts & Entertainment,76.0,"",75.0,11
+2020-03-15,Vermont,Hardware Stores,110.0,"",112.0,12
+2020-03-15,Vermont,Big Box Stores,99.0,"",99.0,13
+2020-03-15,Vermont,Fast Food Restaurants,79.0,"",80.0,14
+2020-03-15,Vermont,Colleges & Universities,55.0,"",55.0,15
+2020-03-15,Vermont,Medical,51.0,73.0,50.0,16
+2020-03-15,Vermont,Drug Store,97.0,"",97.0,17
+2020-03-16,Vermont,Shops & Services,45.0,39.0,45.0,1
+2020-03-16,Vermont,Food,61.0,54.0,61.0,2
+2020-03-16,Vermont,Grocery,131.0,124.0,132.0,3
+2020-03-16,Vermont,Outdoors & Recreation,61.0,65.0,61.0,4
+2020-03-16,Vermont,Gas Stations,96.0,88.0,97.0,5
+2020-03-16,Vermont,Medical,45.0,35.0,46.0,6
+2020-03-16,Vermont,Convenience Store,82.0,81.0,82.0,7
+2020-03-16,Vermont,Hotel,45.0,43.0,45.0,8
+2020-03-16,Vermont,Professional & Other Places,39.0,34.0,39.0,9
+2020-03-16,Vermont,Nightlife Spots,58.0,52.0,58.0,10
+2020-03-16,Vermont,School,45.0,39.0,45.0,11
+2020-03-16,Vermont,Colleges & Universities,46.0,"",46.0,12
+2020-03-16,Vermont,Drug Store,142.0,114.0,145.0,13
+2020-03-16,Vermont,Skiing,12.0,14.0,11.0,14
+2020-03-16,Vermont,Hardware Stores,114.0,105.0,115.0,15
+2020-03-16,Vermont,Fast Food Restaurants,88.0,"",89.0,16
+2020-03-16,Vermont,Arts & Entertainment,93.0,99.0,93.0,17
+2020-03-16,Vermont,Big Box Stores,122.0,"",126.0,18
+2020-03-16,Vermont,Government,64.0,62.0,64.0,19
+2020-03-16,Vermont,Office,77.0,"",78.0,20
+2020-03-16,Vermont,Alcohol,117.0,"",119.0,21
+2020-03-16,Vermont,Travel & Transport,88.0,"",88.0,22
+2020-03-16,Vermont,Fitness Center,36.0,"",37.0,23
+2020-03-17,Vermont,Shops & Services,57.0,47.0,57.0,1
+2020-03-17,Vermont,Food,59.0,54.0,60.0,2
+2020-03-17,Vermont,Grocery,117.0,116.0,117.0,3
+2020-03-17,Vermont,Gas Stations,76.0,67.0,77.0,4
+2020-03-17,Vermont,Outdoors & Recreation,50.0,48.0,50.0,5
+2020-03-17,Vermont,Convenience Store,73.0,60.0,74.0,6
+2020-03-17,Vermont,Medical,36.0,34.0,36.0,7
+2020-03-17,Vermont,Hotel,38.0,32.0,39.0,8
+2020-03-17,Vermont,Professional & Other Places,28.0,25.0,28.0,9
+2020-03-17,Vermont,Nightlife Spots,48.0,47.0,48.0,10
+2020-03-17,Vermont,School,34.0,35.0,34.0,11
+2020-03-17,Vermont,Colleges & Universities,33.0,"",32.0,12
+2020-03-17,Vermont,Drug Store,105.0,93.0,106.0,13
+2020-03-17,Vermont,Skiing,13.0,18.0,12.0,14
+2020-03-17,Vermont,Hardware Stores,79.0,58.0,81.0,15
+2020-03-17,Vermont,Fast Food Restaurants,78.0,"",80.0,16
+2020-03-17,Vermont,Arts & Entertainment,74.0,"",75.0,17
+2020-03-17,Vermont,Government,43.0,"",45.0,18
+2020-03-17,Vermont,Big Box Stores,86.0,"",87.0,19
+2020-03-17,Vermont,Office,56.0,"",56.0,20
+2020-03-18,Vermont,Shops & Services,36.0,32.0,36.0,1
+2020-03-18,Vermont,Food,47.0,44.0,47.0,2
+2020-03-18,Vermont,Grocery,91.0,87.0,92.0,3
+2020-03-18,Vermont,Outdoors & Recreation,63.0,68.0,62.0,4
+2020-03-18,Vermont,Gas Stations,80.0,84.0,80.0,5
+2020-03-18,Vermont,Convenience Store,76.0,71.0,76.0,6
+2020-03-18,Vermont,Hotel,39.0,36.0,40.0,7
+2020-03-18,Vermont,Professional & Other Places,33.0,32.0,33.0,8
+2020-03-18,Vermont,Medical,33.0,33.0,33.0,9
+2020-03-18,Vermont,Nightlife Spots,44.0,51.0,44.0,10
+2020-03-18,Vermont,Skiing,14.0,21.0,14.0,11
+2020-03-18,Vermont,Hardware Stores,90.0,72.0,92.0,12
+2020-03-18,Vermont,School,26.0,30.0,26.0,13
+2020-03-18,Vermont,Drug Store,90.0,68.0,92.0,14
+2020-03-18,Vermont,Colleges & Universities,26.0,"",26.0,15
+2020-03-18,Vermont,Fast Food Restaurants,60.0,"",60.0,16
+2020-03-18,Vermont,Government,46.0,"",46.0,17
+2020-03-18,Vermont,Arts & Entertainment,69.0,"",69.0,18
+2020-03-18,Vermont,Big Box Stores,79.0,"",80.0,18
+2020-03-18,Vermont,Alcohol,107.0,141.0,105.0,19
+2020-03-18,Vermont,Office,50.0,"",51.0,20
+2020-03-19,Vermont,Shops & Services,52.0,51.0,52.0,1
+2020-03-19,Vermont,Food,43.0,44.0,43.0,2
+2020-03-19,Vermont,Grocery,85.0,79.0,86.0,3
+2020-03-19,Vermont,Outdoors & Recreation,57.0,61.0,57.0,4
+2020-03-19,Vermont,Gas Stations,75.0,78.0,74.0,5
+2020-03-19,Vermont,Convenience Store,72.0,74.0,71.0,6
+2020-03-19,Vermont,Medical,40.0,38.0,40.0,7
+2020-03-19,Vermont,Hotel,35.0,34.0,35.0,8
+2020-03-19,Vermont,Professional & Other Places,27.0,30.0,27.0,9
+2020-03-19,Vermont,Nightlife Spots,39.0,58.0,38.0,10
+2020-03-19,Vermont,Colleges & Universities,34.0,"",33.0,11
+2020-03-19,Vermont,Hardware Stores,94.0,93.0,94.0,12
+2020-03-19,Vermont,Drug Store,83.0,101.0,82.0,13
+2020-03-19,Vermont,School,25.0,"",25.0,14
+2020-03-19,Vermont,Big Box Stores,102.0,"",101.0,15
+2020-03-19,Vermont,Skiing,10.0,"",10.0,16
+2020-03-19,Vermont,Fast Food Restaurants,62.0,"",61.0,17
+2020-03-19,Vermont,Arts & Entertainment,66.0,"",65.0,18
+2020-03-19,Vermont,Government,46.0,"",46.0,19
+2020-03-20,Vermont,Shops & Services,54.0,50.0,54.0,1
+2020-03-20,Vermont,Food,38.0,34.0,39.0,2
+2020-03-20,Vermont,Grocery,93.0,82.0,94.0,3
+2020-03-20,Vermont,Outdoors & Recreation,50.0,59.0,49.0,4
+2020-03-20,Vermont,Gas Stations,67.0,68.0,67.0,5
+2020-03-20,Vermont,Convenience Store,64.0,56.0,65.0,6
+2020-03-20,Vermont,Hotel,31.0,32.0,30.0,7
+2020-03-20,Vermont,Medical,40.0,34.0,41.0,8
+2020-03-20,Vermont,Professional & Other Places,35.0,31.0,35.0,9
+2020-03-20,Vermont,Nightlife Spots,37.0,37.0,37.0,10
+2020-03-20,Vermont,Hardware Stores,96.0,83.0,97.0,11
+2020-03-20,Vermont,School,32.0,37.0,31.0,12
+2020-03-20,Vermont,Drug Store,90.0,81.0,91.0,13
+2020-03-20,Vermont,Fast Food Restaurants,68.0,"",69.0,14
+2020-03-20,Vermont,Big Box Stores,100.0,"",100.0,15
+2020-03-20,Vermont,Alcohol,120.0,"",122.0,16
+2020-03-20,Vermont,Colleges & Universities,29.0,"",28.0,17
+2020-03-20,Vermont,Skiing,6.0,"",6.0,18
+2020-03-20,Vermont,Arts & Entertainment,62.0,"",63.0,18
+2020-03-20,Vermont,Government,53.0,"",55.0,19
+2020-03-21,Vermont,Shops & Services,42.0,42.0,42.0,1
+2020-03-21,Vermont,Grocery,86.0,80.0,87.0,2
+2020-03-21,Vermont,Food,29.0,31.0,29.0,3
+2020-03-21,Vermont,Outdoors & Recreation,31.0,47.0,31.0,4
+2020-03-21,Vermont,Gas Stations,65.0,59.0,66.0,5
+2020-03-21,Vermont,Convenience Store,69.0,58.0,70.0,6
+2020-03-21,Vermont,Hotel,22.0,30.0,21.0,7
+2020-03-21,Vermont,Professional & Other Places,53.0,51.0,53.0,8
+2020-03-21,Vermont,Nightlife Spots,26.0,35.0,26.0,9
+2020-03-21,Vermont,Hardware Stores,90.0,71.0,91.0,10
+2020-03-21,Vermont,Skiing,3.0,"",3.0,11
+2020-03-21,Vermont,Big Box Stores,71.0,"",71.0,12
+2020-03-21,Vermont,Medical,41.0,"",42.0,13
+2020-03-21,Vermont,Fast Food Restaurants,62.0,"",62.0,13
+2020-03-21,Vermont,Arts & Entertainment,54.0,"",54.0,14
+2020-03-21,Vermont,Drug Store,70.0,"",70.0,15
+2020-03-21,Vermont,Colleges & Universities,31.0,"",32.0,16
+2020-03-21,Vermont,Alcohol,93.0,"",93.0,17
+2020-03-21,Vermont,School,25.0,"",25.0,17
+2020-03-22,Vermont,Grocery,66.0,57.0,67.0,1
+2020-03-22,Vermont,Shops & Services,37.0,36.0,37.0,2
+2020-03-22,Vermont,Food,28.0,34.0,28.0,3
+2020-03-22,Vermont,Outdoors & Recreation,60.0,62.0,60.0,4
+2020-03-22,Vermont,Gas Stations,57.0,60.0,56.0,5
+2020-03-22,Vermont,Convenience Store,58.0,55.0,58.0,6
+2020-03-22,Vermont,Hotel,21.0,30.0,20.0,7
+2020-03-22,Vermont,Nightlife Spots,24.0,"",24.0,8
+2020-03-22,Vermont,Professional & Other Places,29.0,"",29.0,9
+2020-03-22,Vermont,Hardware Stores,77.0,"",77.0,10
+2020-03-22,Vermont,Skiing,3.0,"",3.0,11
+2020-03-22,Vermont,Arts & Entertainment,60.0,"",59.0,12
+2020-03-22,Vermont,Big Box Stores,75.0,"",75.0,12
+2020-03-22,Vermont,Fast Food Restaurants,57.0,"",58.0,13
+2020-03-23,Vermont,Shops & Services,47.0,40.0,47.0,1
+2020-03-23,Vermont,Food,40.0,39.0,40.0,2
+2020-03-23,Vermont,Grocery,82.0,75.0,82.0,3
+2020-03-23,Vermont,Outdoors & Recreation,66.0,70.0,65.0,4
+2020-03-23,Vermont,Gas Stations,65.0,57.0,65.0,5
+2020-03-23,Vermont,Convenience Store,64.0,54.0,65.0,6
+2020-03-23,Vermont,Medical,30.0,22.0,31.0,7
+2020-03-23,Vermont,Hotel,30.0,29.0,30.0,7
+2020-03-23,Vermont,Professional & Other Places,26.0,23.0,26.0,8
+2020-03-23,Vermont,Nightlife Spots,41.0,47.0,41.0,9
+2020-03-23,Vermont,Colleges & Universities,28.0,"",28.0,10
+2020-03-23,Vermont,School,23.0,"",23.0,11
+2020-03-23,Vermont,Hardware Stores,71.0,65.0,71.0,12
+2020-03-23,Vermont,Drug Store,73.0,"",74.0,13
+2020-03-23,Vermont,Fast Food Restaurants,55.0,"",54.0,14
+2020-03-23,Vermont,Arts & Entertainment,74.0,"",74.0,15
+2020-03-23,Vermont,Government,41.0,"",43.0,16
+2020-03-24,Vermont,Shops & Services,42.0,36.0,43.0,1
+2020-03-24,Vermont,Food,37.0,32.0,37.0,2
+2020-03-24,Vermont,Grocery,80.0,76.0,80.0,3
+2020-03-24,Vermont,Outdoors & Recreation,46.0,47.0,46.0,4
+2020-03-24,Vermont,Gas Stations,61.0,49.0,61.0,5
+2020-03-24,Vermont,Convenience Store,58.0,58.0,58.0,6
+2020-03-24,Vermont,Medical,29.0,30.0,29.0,7
+2020-03-24,Vermont,Hotel,30.0,31.0,30.0,8
+2020-03-24,Vermont,Professional & Other Places,64.0,59.0,64.0,9
+2020-03-24,Vermont,Skiing,15.0,"",14.0,10
+2020-03-24,Vermont,Nightlife Spots,36.0,41.0,35.0,11
+2020-03-24,Vermont,Hardware Stores,73.0,56.0,74.0,12
+2020-03-24,Vermont,School,22.0,"",22.0,13
+2020-03-24,Vermont,Drug Store,81.0,79.0,81.0,14
+2020-03-24,Vermont,Colleges & Universities,23.0,"",23.0,15
+2020-03-24,Vermont,Fast Food Restaurants,63.0,"",64.0,16
+2020-03-24,Vermont,Arts & Entertainment,74.0,"",74.0,17
+2020-03-25,Vermont,Shops & Services,44.0,37.0,45.0,1
+2020-03-25,Vermont,Food,39.0,32.0,39.0,2
+2020-03-25,Vermont,Grocery,88.0,86.0,89.0,3
+2020-03-25,Vermont,Outdoors & Recreation,38.0,40.0,37.0,4
+2020-03-25,Vermont,Gas Stations,60.0,56.0,60.0,5
+2020-03-25,Vermont,Convenience Store,63.0,53.0,64.0,6
+2020-03-25,Vermont,Hotel,32.0,28.0,32.0,7
+2020-03-25,Vermont,Medical,29.0,26.0,29.0,8
+2020-03-25,Vermont,Professional & Other Places,26.0,28.0,26.0,9
+2020-03-25,Vermont,Nightlife Spots,37.0,39.0,37.0,10
+2020-03-25,Vermont,Hardware Stores,78.0,57.0,80.0,11
+2020-03-25,Vermont,Big Box Stores,102.0,"",103.0,12
+2020-03-25,Vermont,Colleges & Universities,24.0,"",23.0,13
+2020-03-25,Vermont,Drug Store,70.0,66.0,71.0,14
+2020-03-25,Vermont,Fast Food Restaurants,63.0,"",63.0,15
+2020-03-25,Vermont,Arts & Entertainment,71.0,"",70.0,16
+2020-03-25,Vermont,School,18.0,"",18.0,17
+2020-03-25,Vermont,Alcohol,109.0,"",110.0,18
+2020-03-26,Vermont,Shops & Services,36.0,35.0,36.0,1
+2020-03-26,Vermont,Food,31.0,29.0,31.0,2
+2020-03-26,Vermont,Grocery,67.0,67.0,67.0,3
+2020-03-26,Vermont,Outdoors & Recreation,41.0,51.0,41.0,4
+2020-03-26,Vermont,Gas Stations,58.0,55.0,58.0,5
+2020-03-26,Vermont,Convenience Store,56.0,49.0,56.0,6
+2020-03-26,Vermont,Medical,29.0,29.0,29.0,7
+2020-03-26,Vermont,Hotel,29.0,31.0,29.0,8
+2020-03-26,Vermont,Professional & Other Places,21.0,18.0,21.0,9
+2020-03-26,Vermont,Nightlife Spots,30.0,43.0,30.0,10
+2020-03-26,Vermont,School,25.0,"",25.0,11
+2020-03-26,Vermont,Skiing,10.0,"",10.0,12
+2020-03-26,Vermont,Hardware Stores,62.0,"",64.0,13
+2020-03-26,Vermont,Drug Store,60.0,"",60.0,14
+2020-03-26,Vermont,Fast Food Restaurants,57.0,"",58.0,15
+2020-03-26,Vermont,Colleges & Universities,21.0,"",21.0,16
+2020-03-27,Vermont,Food,32.0,32.0,32.0,1
+2020-03-27,Vermont,Shops & Services,37.0,32.0,38.0,2
+2020-03-27,Vermont,Grocery,68.0,56.0,69.0,3
+2020-03-27,Vermont,Outdoors & Recreation,55.0,57.0,55.0,4
+2020-03-27,Vermont,Gas Stations,51.0,56.0,50.0,5
+2020-03-27,Vermont,Convenience Store,54.0,52.0,54.0,6
+2020-03-27,Vermont,Professional & Other Places,28.0,27.0,28.0,7
+2020-03-27,Vermont,Hotel,22.0,26.0,22.0,8
+2020-03-27,Vermont,Medical,32.0,28.0,32.0,9
+2020-03-27,Vermont,Nightlife Spots,30.0,34.0,30.0,10
+2020-03-27,Vermont,Hardware Stores,74.0,"",76.0,11
+2020-03-27,Vermont,School,30.0,"",30.0,12
+2020-03-27,Vermont,Drug Store,67.0,76.0,67.0,13
+2020-03-27,Vermont,Fast Food Restaurants,56.0,"",56.0,14
+2020-03-27,Vermont,Skiing,6.0,"",6.0,15
+2020-03-27,Vermont,Colleges & Universities,24.0,"",23.0,16
+2020-03-27,Vermont,Big Box Stores,71.0,"",71.0,17
+2020-03-27,Vermont,Arts & Entertainment,59.0,"",60.0,18
+2020-03-28,Vermont,Food,27.0,28.0,26.0,1
+2020-03-28,Vermont,Shops & Services,20.0,18.0,20.0,2
+2020-03-28,Vermont,Grocery,66.0,57.0,67.0,3
+2020-03-28,Vermont,Outdoors & Recreation,27.0,39.0,26.0,4
+2020-03-28,Vermont,Gas Stations,51.0,47.0,51.0,5
+2020-03-28,Vermont,Convenience Store,53.0,45.0,54.0,6
+2020-03-28,Vermont,Hotel,17.0,23.0,17.0,7
+2020-03-28,Vermont,Professional & Other Places,60.0,49.0,61.0,8
+2020-03-28,Vermont,Hardware Stores,77.0,"",78.0,9
+2020-03-28,Vermont,Nightlife Spots,20.0,"",20.0,10
+2020-03-28,Vermont,Fast Food Restaurants,60.0,"",61.0,11
+2020-03-28,Vermont,Skiing,3.0,"",3.0,12
+2020-03-28,Vermont,Arts & Entertainment,54.0,"",55.0,13
+2020-03-28,Vermont,Big Box Stores,59.0,"",60.0,13
+2020-03-28,Vermont,Medical,37.0,"",38.0,14
+2020-03-28,Vermont,School,29.0,"",30.0,15
+2020-03-29,Vermont,Grocery,44.0,36.0,45.0,1
+2020-03-29,Vermont,Food,20.0,20.0,20.0,2
+2020-03-29,Vermont,Shops & Services,28.0,25.0,28.0,3
+2020-03-29,Vermont,Outdoors & Recreation,31.0,"",31.0,4
+2020-03-29,Vermont,Gas Stations,34.0,"",34.0,5
+2020-03-29,Vermont,Convenience Store,30.0,"",30.0,6
+2020-03-29,Vermont,Hotel,9.0,"",9.0,7
+2020-03-30,Vermont,Shops & Services,32.0,29.0,32.0,1
+2020-03-30,Vermont,Food,31.0,29.0,32.0,2
+2020-03-30,Vermont,Grocery,65.0,52.0,65.0,3
+2020-03-30,Vermont,Outdoors & Recreation,29.0,33.0,28.0,4
+2020-03-30,Vermont,Gas Stations,46.0,47.0,46.0,5
+2020-03-30,Vermont,Convenience Store,47.0,47.0,47.0,6
+2020-03-30,Vermont,Medical,23.0,23.0,23.0,7
+2020-03-30,Vermont,Professional & Other Places,58.0,48.0,58.0,8
+2020-03-30,Vermont,Hotel,18.0,21.0,18.0,9
+2020-03-30,Vermont,Hardware Stores,72.0,66.0,73.0,10
+2020-03-30,Vermont,Nightlife Spots,27.0,"",27.0,11
+2020-03-30,Vermont,School,20.0,"",20.0,12
+2020-03-30,Vermont,Colleges & Universities,22.0,"",21.0,13
+2020-03-31,Vermont,Shops & Services,32.0,32.0,32.0,1
+2020-03-31,Vermont,Food,36.0,34.0,36.0,2
+2020-03-31,Vermont,Grocery,68.0,67.0,68.0,3
+2020-03-31,Vermont,Outdoors & Recreation,47.0,48.0,47.0,4
+2020-03-31,Vermont,Gas Stations,50.0,52.0,50.0,5
+2020-03-31,Vermont,Convenience Store,45.0,40.0,45.0,6
+2020-03-31,Vermont,Professional & Other Places,22.0,21.0,22.0,7
+2020-03-31,Vermont,Medical,23.0,26.0,23.0,8
+2020-03-31,Vermont,Hotel,19.0,20.0,19.0,9
+2020-03-31,Vermont,Nightlife Spots,30.0,"",30.0,10
+2020-03-31,Vermont,Hardware Stores,64.0,"",66.0,11
+2020-03-31,Vermont,School,20.0,"",20.0,12
+2020-03-31,Vermont,Colleges & Universities,22.0,"",21.0,13
+2020-03-31,Vermont,Arts & Entertainment,69.0,"",69.0,14
+2020-03-31,Vermont,Drug Store,60.0,"",60.0,15
+2020-04-01,Vermont,Shops & Services,40.0,36.0,40.0,1
+2020-04-01,Vermont,Food,31.0,25.0,31.0,2
+2020-04-01,Vermont,Grocery,60.0,52.0,60.0,3
+2020-04-01,Vermont,Outdoors & Recreation,34.0,33.0,34.0,4
+2020-04-01,Vermont,Gas Stations,53.0,49.0,53.0,5
+2020-04-01,Vermont,Convenience Store,56.0,59.0,56.0,6
+2020-04-01,Vermont,Professional & Other Places,23.0,22.0,23.0,7
+2020-04-01,Vermont,Medical,24.0,28.0,24.0,8
+2020-04-01,Vermont,Hotel,23.0,21.0,23.0,9
+2020-04-01,Vermont,Nightlife Spots,34.0,40.0,33.0,10
+2020-04-01,Vermont,Hardware Stores,66.0,"",68.0,11
+2020-04-01,Vermont,School,18.0,"",18.0,12
+2020-04-01,Vermont,Fast Food Restaurants,51.0,"",51.0,13
+2020-04-01,Vermont,Arts & Entertainment,72.0,"",73.0,14
+2020-04-01,Vermont,Drug Store,51.0,"",52.0,15

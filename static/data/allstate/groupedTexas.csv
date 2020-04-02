@@ -1,0 +1,1022 @@
+2020-03-01,Texas,Food,49.0,49.0,49.0,1
+2020-03-01,Texas,Shops & Services,30.0,27.0,30.0,2
+2020-03-01,Texas,Grocery,94.0,95.0,94.0,3
+2020-03-01,Texas,Gas Stations,105.0,103.0,105.0,4
+2020-03-01,Texas,Big Box Stores,105.0,101.0,105.0,5
+2020-03-01,Texas,Fast Food Restaurants,109.0,104.0,109.0,6
+2020-03-01,Texas,Outdoors & Recreation,47.0,43.0,47.0,7
+2020-03-01,Texas,Nightlife Spots,51.0,52.0,51.0,8
+2020-03-01,Texas,Arts & Entertainment,57.0,55.0,57.0,9
+2020-03-01,Texas,Convenience Store,104.0,106.0,104.0,10
+2020-03-01,Texas,School,55.0,54.0,55.0,11
+2020-03-01,Texas,Residences,99.0,94.0,99.0,12
+2020-03-01,Texas,Professional & Other Places,18.0,14.0,19.0,13
+2020-03-01,Texas,Hotel,93.0,82.0,93.0,14
+2020-03-01,Texas,Hardware Stores,116.0,120.0,116.0,15
+2020-03-01,Texas,Discount Stores,104.0,102.0,104.0,16
+2020-03-01,Texas,Medical,58.0,56.0,59.0,17
+2020-03-01,Texas,Airport,63.0,64.0,63.0,18
+2020-03-01,Texas,Drug Store,102.0,98.0,102.0,19
+2020-03-01,Texas,Sports,38.0,42.0,38.0,20
+2020-03-01,Texas,Travel & Transport,23.0,24.0,23.0,21
+2020-03-01,Texas,Fitness Center,68.0,66.0,68.0,22
+2020-03-01,Texas,Colleges & Universities,65.0,64.0,65.0,23
+2020-03-01,Texas,Office,82.0,80.0,82.0,24
+2020-03-01,Texas,Government,67.0,66.0,67.0,25
+2020-03-01,Texas,Banks,109.0,98.0,110.0,26
+2020-03-01,Texas,Alcohol,104.0,98.0,104.0,27
+2020-03-01,Texas,Beach,85.0,64.0,86.0,28
+2020-03-01,Texas,Bus,80.0,74.0,80.0,29
+2020-03-01,Texas,Light Rail Stations,122.0,133.0,122.0,30
+2020-03-01,Texas,Spiritual Center,3.0,2.0,3.0,31
+2020-03-01,Texas,Gun Shops,102.0,"",102.0,32
+2020-03-01,Texas,Events,124.0,"",125.0,33
+2020-03-02,Texas,Food,47.0,46.0,47.0,1
+2020-03-02,Texas,Shops & Services,29.0,30.0,29.0,2
+2020-03-02,Texas,School,60.0,59.0,60.0,3
+2020-03-02,Texas,Grocery,105.0,104.0,105.0,4
+2020-03-02,Texas,Gas Stations,105.0,105.0,105.0,5
+2020-03-02,Texas,Fast Food Restaurants,111.0,105.0,112.0,6
+2020-03-02,Texas,Medical,57.0,56.0,57.0,7
+2020-03-02,Texas,Outdoors & Recreation,41.0,41.0,41.0,8
+2020-03-02,Texas,Big Box Stores,109.0,105.0,109.0,9
+2020-03-02,Texas,Professional & Other Places,16.0,15.0,16.0,10
+2020-03-02,Texas,Convenience Store,102.0,99.0,102.0,11
+2020-03-02,Texas,Colleges & Universities,57.0,58.0,57.0,12
+2020-03-02,Texas,Residences,101.0,98.0,101.0,13
+2020-03-02,Texas,Office,87.0,86.0,87.0,14
+2020-03-02,Texas,Nightlife Spots,49.0,53.0,49.0,15
+2020-03-02,Texas,Arts & Entertainment,55.0,57.0,55.0,16
+2020-03-02,Texas,Airport,62.0,57.0,62.0,17
+2020-03-02,Texas,Hotel,88.0,75.0,88.0,18
+2020-03-02,Texas,Fitness Center,73.0,70.0,73.0,19
+2020-03-02,Texas,Government,77.0,72.0,77.0,20
+2020-03-02,Texas,Hardware Stores,108.0,107.0,108.0,21
+2020-03-02,Texas,Discount Stores,106.0,102.0,106.0,22
+2020-03-02,Texas,Drug Store,109.0,106.0,109.0,23
+2020-03-02,Texas,Travel & Transport,23.0,24.0,23.0,24
+2020-03-02,Texas,Banks,128.0,127.0,128.0,25
+2020-03-02,Texas,Sports,31.0,34.0,31.0,26
+2020-03-02,Texas,Alcohol,103.0,97.0,103.0,27
+2020-03-02,Texas,Bus,86.0,83.0,86.0,28
+2020-03-02,Texas,Light Rail Stations,107.0,101.0,107.0,29
+2020-03-02,Texas,Beach,98.0,85.0,99.0,30
+2020-03-02,Texas,Spiritual Center,5.0,5.0,5.0,31
+2020-03-02,Texas,Gun Shops,104.0,"",105.0,32
+2020-03-03,Texas,Food,47.0,47.0,47.0,1
+2020-03-03,Texas,Shops & Services,30.0,30.0,30.0,2
+2020-03-03,Texas,School,58.0,63.0,58.0,3
+2020-03-03,Texas,Grocery,104.0,100.0,104.0,4
+2020-03-03,Texas,Gas Stations,104.0,103.0,104.0,5
+2020-03-03,Texas,Fast Food Restaurants,108.0,104.0,108.0,6
+2020-03-03,Texas,Medical,56.0,55.0,56.0,7
+2020-03-03,Texas,Outdoors & Recreation,43.0,45.0,43.0,8
+2020-03-03,Texas,Big Box Stores,109.0,108.0,109.0,9
+2020-03-03,Texas,Professional & Other Places,15.0,15.0,15.0,10
+2020-03-03,Texas,Colleges & Universities,57.0,61.0,57.0,11
+2020-03-03,Texas,Convenience Store,102.0,98.0,102.0,12
+2020-03-03,Texas,Office,82.0,82.0,82.0,13
+2020-03-03,Texas,Residences,104.0,104.0,104.0,14
+2020-03-03,Texas,Nightlife Spots,53.0,52.0,53.0,15
+2020-03-03,Texas,Arts & Entertainment,57.0,57.0,57.0,16
+2020-03-03,Texas,Fitness Center,70.0,67.0,70.0,17
+2020-03-03,Texas,Government,79.0,77.0,79.0,18
+2020-03-03,Texas,Hotel,84.0,73.0,85.0,19
+2020-03-03,Texas,Airport,59.0,59.0,59.0,20
+2020-03-03,Texas,Drug Store,107.0,105.0,108.0,21
+2020-03-03,Texas,Discount Stores,106.0,105.0,106.0,22
+2020-03-03,Texas,Hardware Stores,112.0,111.0,112.0,23
+2020-03-03,Texas,Travel & Transport,23.0,24.0,23.0,24
+2020-03-03,Texas,Banks,124.0,120.0,124.0,25
+2020-03-03,Texas,Sports,31.0,37.0,31.0,26
+2020-03-03,Texas,Alcohol,109.0,120.0,109.0,27
+2020-03-03,Texas,Bus,83.0,82.0,83.0,28
+2020-03-03,Texas,Light Rail Stations,107.0,102.0,107.0,29
+2020-03-03,Texas,Beach,87.0,84.0,87.0,30
+2020-03-03,Texas,Spiritual Center,5.0,3.0,5.0,31
+2020-03-03,Texas,Gun Shops,102.0,"",102.0,32
+2020-03-04,Texas,Food,46.0,46.0,46.0,1
+2020-03-04,Texas,Shops & Services,29.0,28.0,29.0,2
+2020-03-04,Texas,School,54.0,53.0,54.0,3
+2020-03-04,Texas,Grocery,100.0,94.0,100.0,4
+2020-03-04,Texas,Gas Stations,101.0,97.0,102.0,5
+2020-03-04,Texas,Fast Food Restaurants,106.0,100.0,106.0,6
+2020-03-04,Texas,Medical,56.0,54.0,56.0,7
+2020-03-04,Texas,Big Box Stores,103.0,98.0,103.0,8
+2020-03-04,Texas,Outdoors & Recreation,40.0,40.0,40.0,9
+2020-03-04,Texas,Professional & Other Places,14.0,13.0,14.0,10
+2020-03-04,Texas,Colleges & Universities,55.0,53.0,55.0,11
+2020-03-04,Texas,Convenience Store,100.0,94.0,100.0,12
+2020-03-04,Texas,Office,82.0,82.0,82.0,13
+2020-03-04,Texas,Residences,99.0,98.0,99.0,14
+2020-03-04,Texas,Nightlife Spots,52.0,48.0,52.0,15
+2020-03-04,Texas,Arts & Entertainment,59.0,59.0,59.0,16
+2020-03-04,Texas,Hotel,83.0,73.0,83.0,17
+2020-03-04,Texas,Fitness Center,68.0,64.0,68.0,18
+2020-03-04,Texas,Airport,61.0,56.0,61.0,19
+2020-03-04,Texas,Government,70.0,63.0,71.0,20
+2020-03-04,Texas,Drug Store,104.0,99.0,105.0,21
+2020-03-04,Texas,Discount Stores,101.0,96.0,101.0,22
+2020-03-04,Texas,Hardware Stores,106.0,100.0,106.0,23
+2020-03-04,Texas,Travel & Transport,23.0,23.0,23.0,24
+2020-03-04,Texas,Banks,110.0,114.0,109.0,25
+2020-03-04,Texas,Sports,28.0,30.0,28.0,26
+2020-03-04,Texas,Alcohol,98.0,89.0,98.0,27
+2020-03-04,Texas,Bus,84.0,88.0,84.0,28
+2020-03-04,Texas,Light Rail Stations,110.0,103.0,111.0,29
+2020-03-04,Texas,Beach,101.0,102.0,101.0,30
+2020-03-04,Texas,Spiritual Center,4.0,3.0,4.0,31
+2020-03-04,Texas,Gun Shops,102.0,"",101.0,32
+2020-03-05,Texas,Food,46.0,46.0,46.0,1
+2020-03-05,Texas,Shops & Services,30.0,31.0,30.0,2
+2020-03-05,Texas,School,55.0,54.0,55.0,3
+2020-03-05,Texas,Grocery,101.0,99.0,101.0,4
+2020-03-05,Texas,Gas Stations,103.0,102.0,103.0,5
+2020-03-05,Texas,Fast Food Restaurants,105.0,102.0,105.0,6
+2020-03-05,Texas,Medical,57.0,56.0,57.0,7
+2020-03-05,Texas,Outdoors & Recreation,43.0,46.0,43.0,8
+2020-03-05,Texas,Big Box Stores,101.0,102.0,101.0,9
+2020-03-05,Texas,Professional & Other Places,15.0,14.0,15.0,10
+2020-03-05,Texas,Convenience Store,101.0,99.0,101.0,11
+2020-03-05,Texas,Colleges & Universities,56.0,57.0,56.0,12
+2020-03-05,Texas,Residences,103.0,104.0,103.0,13
+2020-03-05,Texas,Office,83.0,82.0,83.0,14
+2020-03-05,Texas,Nightlife Spots,50.0,50.0,50.0,15
+2020-03-05,Texas,Arts & Entertainment,61.0,60.0,61.0,16
+2020-03-05,Texas,Hotel,84.0,79.0,84.0,17
+2020-03-05,Texas,Airport,61.0,57.0,61.0,18
+2020-03-05,Texas,Fitness Center,70.0,67.0,70.0,19
+2020-03-05,Texas,Government,69.0,65.0,69.0,20
+2020-03-05,Texas,Hardware Stores,114.0,120.0,113.0,21
+2020-03-05,Texas,Drug Store,102.0,101.0,102.0,22
+2020-03-05,Texas,Discount Stores,100.0,101.0,100.0,23
+2020-03-05,Texas,Travel & Transport,23.0,25.0,23.0,24
+2020-03-05,Texas,Banks,111.0,111.0,111.0,25
+2020-03-05,Texas,Sports,31.0,40.0,30.0,26
+2020-03-05,Texas,Alcohol,99.0,100.0,99.0,27
+2020-03-05,Texas,Bus,91.0,92.0,91.0,28
+2020-03-05,Texas,Light Rail Stations,113.0,111.0,113.0,29
+2020-03-05,Texas,Beach,103.0,116.0,102.0,30
+2020-03-05,Texas,Spiritual Center,4.0,3.0,4.0,31
+2020-03-05,Texas,Gun Shops,116.0,"",116.0,32
+2020-03-06,Texas,Food,44.0,44.0,44.0,1
+2020-03-06,Texas,Shops & Services,29.0,29.0,29.0,2
+2020-03-06,Texas,School,55.0,53.0,55.0,3
+2020-03-06,Texas,Grocery,96.0,95.0,96.0,4
+2020-03-06,Texas,Gas Stations,101.0,97.0,101.0,5
+2020-03-06,Texas,Fast Food Restaurants,103.0,101.0,103.0,6
+2020-03-06,Texas,Outdoors & Recreation,42.0,41.0,42.0,7
+2020-03-06,Texas,Medical,56.0,53.0,56.0,8
+2020-03-06,Texas,Big Box Stores,96.0,96.0,96.0,9
+2020-03-06,Texas,Convenience Store,101.0,95.0,101.0,10
+2020-03-06,Texas,Professional & Other Places,15.0,15.0,15.0,11
+2020-03-06,Texas,Nightlife Spots,51.0,49.0,51.0,12
+2020-03-06,Texas,Residences,101.0,99.0,101.0,13
+2020-03-06,Texas,Arts & Entertainment,57.0,54.0,57.0,14
+2020-03-06,Texas,Colleges & Universities,56.0,59.0,56.0,15
+2020-03-06,Texas,Office,82.0,81.0,82.0,16
+2020-03-06,Texas,Hotel,83.0,79.0,83.0,17
+2020-03-06,Texas,Airport,60.0,53.0,60.0,18
+2020-03-06,Texas,Fitness Center,68.0,62.0,68.0,19
+2020-03-06,Texas,Hardware Stores,111.0,108.0,111.0,20
+2020-03-06,Texas,Discount Stores,93.0,88.0,93.0,21
+2020-03-06,Texas,Drug Store,96.0,96.0,96.0,22
+2020-03-06,Texas,Government,66.0,59.0,66.0,23
+2020-03-06,Texas,Travel & Transport,23.0,26.0,23.0,24
+2020-03-06,Texas,Banks,101.0,101.0,101.0,25
+2020-03-06,Texas,Sports,33.0,36.0,33.0,26
+2020-03-06,Texas,Alcohol,97.0,98.0,97.0,27
+2020-03-06,Texas,Bus,89.0,90.0,88.0,28
+2020-03-06,Texas,Light Rail Stations,112.0,115.0,112.0,29
+2020-03-06,Texas,Beach,102.0,82.0,103.0,30
+2020-03-06,Texas,Spiritual Center,5.0,5.0,5.0,31
+2020-03-06,Texas,Gun Shops,99.0,"",98.0,32
+2020-03-07,Texas,Food,43.0,43.0,43.0,1
+2020-03-07,Texas,Shops & Services,30.0,28.0,30.0,2
+2020-03-07,Texas,Grocery,95.0,94.0,95.0,3
+2020-03-07,Texas,Gas Stations,103.0,99.0,103.0,4
+2020-03-07,Texas,Fast Food Restaurants,99.0,95.0,99.0,5
+2020-03-07,Texas,Outdoors & Recreation,43.0,42.0,43.0,6
+2020-03-07,Texas,Big Box Stores,99.0,97.0,99.0,7
+2020-03-07,Texas,Arts & Entertainment,53.0,52.0,53.0,8
+2020-03-07,Texas,Nightlife Spots,48.0,48.0,48.0,9
+2020-03-07,Texas,School,48.0,47.0,48.0,10
+2020-03-07,Texas,Convenience Store,97.0,93.0,97.0,11
+2020-03-07,Texas,Professional & Other Places,19.0,18.0,19.0,12
+2020-03-07,Texas,Residences,97.0,94.0,97.0,13
+2020-03-07,Texas,Hotel,86.0,73.0,87.0,14
+2020-03-07,Texas,Medical,56.0,54.0,56.0,15
+2020-03-07,Texas,Hardware Stores,109.0,107.0,109.0,16
+2020-03-07,Texas,Discount Stores,97.0,99.0,97.0,17
+2020-03-07,Texas,Airport,62.0,55.0,62.0,18
+2020-03-07,Texas,Drug Store,99.0,104.0,99.0,19
+2020-03-07,Texas,Colleges & Universities,61.0,58.0,61.0,20
+2020-03-07,Texas,Fitness Center,66.0,60.0,66.0,21
+2020-03-07,Texas,Sports,37.0,38.0,37.0,22
+2020-03-07,Texas,Travel & Transport,24.0,24.0,24.0,23
+2020-03-07,Texas,Office,80.0,77.0,80.0,24
+2020-03-07,Texas,Government,68.0,66.0,68.0,25
+2020-03-07,Texas,Banks,86.0,81.0,86.0,26
+2020-03-07,Texas,Alcohol,95.0,91.0,95.0,27
+2020-03-07,Texas,Bus,88.0,88.0,88.0,28
+2020-03-07,Texas,Beach,89.0,64.0,90.0,29
+2020-03-07,Texas,Light Rail Stations,116.0,112.0,116.0,30
+2020-03-07,Texas,Spiritual Center,4.0,3.0,4.0,31
+2020-03-07,Texas,Gun Shops,104.0,"",103.0,32
+2020-03-07,Texas,Events,81.0,"",82.0,33
+2020-03-08,Texas,Food,46.0,46.0,46.0,1
+2020-03-08,Texas,Shops & Services,28.0,26.0,28.0,2
+2020-03-08,Texas,Grocery,92.0,91.0,92.0,3
+2020-03-08,Texas,Gas Stations,103.0,97.0,103.0,4
+2020-03-08,Texas,Outdoors & Recreation,45.0,43.0,45.0,5
+2020-03-08,Texas,Big Box Stores,101.0,95.0,101.0,6
+2020-03-08,Texas,Fast Food Restaurants,103.0,98.0,103.0,7
+2020-03-08,Texas,Arts & Entertainment,60.0,53.0,60.0,8
+2020-03-08,Texas,Nightlife Spots,47.0,47.0,47.0,9
+2020-03-08,Texas,Convenience Store,101.0,96.0,101.0,10
+2020-03-08,Texas,School,53.0,50.0,53.0,11
+2020-03-08,Texas,Residences,98.0,92.0,98.0,12
+2020-03-08,Texas,Professional & Other Places,17.0,13.0,17.0,13
+2020-03-08,Texas,Hotel,91.0,76.0,92.0,14
+2020-03-08,Texas,Hardware Stores,116.0,116.0,116.0,15
+2020-03-08,Texas,Discount Stores,100.0,95.0,100.0,16
+2020-03-08,Texas,Airport,63.0,53.0,63.0,17
+2020-03-08,Texas,Medical,57.0,55.0,57.0,18
+2020-03-08,Texas,Drug Store,105.0,99.0,105.0,19
+2020-03-08,Texas,Sports,39.0,40.0,39.0,20
+2020-03-08,Texas,Travel & Transport,24.0,24.0,24.0,21
+2020-03-08,Texas,Fitness Center,67.0,62.0,67.0,22
+2020-03-08,Texas,Colleges & Universities,61.0,58.0,62.0,23
+2020-03-08,Texas,Office,81.0,75.0,81.0,24
+2020-03-08,Texas,Government,66.0,69.0,66.0,25
+2020-03-08,Texas,Banks,85.0,85.0,85.0,26
+2020-03-08,Texas,Alcohol,95.0,82.0,95.0,27
+2020-03-08,Texas,Beach,125.0,78.0,127.0,28
+2020-03-08,Texas,Bus,89.0,68.0,89.0,29
+2020-03-08,Texas,Light Rail Stations,116.0,114.0,116.0,30
+2020-03-08,Texas,Spiritual Center,3.0,2.0,3.0,31
+2020-03-08,Texas,Gun Shops,111.0,"",110.0,32
+2020-03-09,Texas,Food,45.0,42.0,45.0,1
+2020-03-09,Texas,Shops & Services,28.0,28.0,29.0,2
+2020-03-09,Texas,Grocery,100.0,93.0,101.0,3
+2020-03-09,Texas,Gas Stations,99.0,92.0,99.0,4
+2020-03-09,Texas,Fast Food Restaurants,101.0,93.0,102.0,5
+2020-03-09,Texas,Medical,52.0,48.0,52.0,6
+2020-03-09,Texas,School,39.0,39.0,39.0,7
+2020-03-09,Texas,Outdoors & Recreation,40.0,35.0,40.0,8
+2020-03-09,Texas,Big Box Stores,104.0,95.0,105.0,9
+2020-03-09,Texas,Professional & Other Places,14.0,13.0,14.0,10
+2020-03-09,Texas,Convenience Store,98.0,88.0,98.0,11
+2020-03-09,Texas,Residences,93.0,89.0,94.0,12
+2020-03-09,Texas,Arts & Entertainment,67.0,59.0,67.0,13
+2020-03-09,Texas,Office,77.0,77.0,77.0,14
+2020-03-09,Texas,Nightlife Spots,49.0,47.0,49.0,15
+2020-03-09,Texas,Hotel,86.0,66.0,86.0,16
+2020-03-09,Texas,Colleges & Universities,38.0,47.0,38.0,17
+2020-03-09,Texas,Airport,54.0,51.0,54.0,18
+2020-03-09,Texas,Fitness Center,67.0,59.0,67.0,19
+2020-03-09,Texas,Hardware Stores,105.0,97.0,106.0,20
+2020-03-09,Texas,Government,69.0,58.0,69.0,21
+2020-03-09,Texas,Discount Stores,99.0,90.0,100.0,22
+2020-03-09,Texas,Drug Store,101.0,94.0,101.0,23
+2020-03-09,Texas,Travel & Transport,22.0,23.0,22.0,24
+2020-03-09,Texas,Banks,110.0,109.0,110.0,25
+2020-03-09,Texas,Sports,28.0,27.0,28.0,26
+2020-03-09,Texas,Alcohol,104.0,99.0,104.0,27
+2020-03-09,Texas,Bus,83.0,67.0,83.0,28
+2020-03-09,Texas,Light Rail Stations,105.0,103.0,105.0,29
+2020-03-09,Texas,Beach,130.0,78.0,133.0,30
+2020-03-09,Texas,Spiritual Center,4.0,3.0,4.0,31
+2020-03-09,Texas,Gun Shops,96.0,"",96.0,32
+2020-03-10,Texas,Food,45.0,44.0,45.0,1
+2020-03-10,Texas,Shops & Services,30.0,29.0,30.0,2
+2020-03-10,Texas,Grocery,94.0,92.0,94.0,3
+2020-03-10,Texas,Gas Stations,99.0,96.0,99.0,4
+2020-03-10,Texas,Fast Food Restaurants,99.0,97.0,100.0,5
+2020-03-10,Texas,Medical,51.0,48.0,51.0,6
+2020-03-10,Texas,Outdoors & Recreation,46.0,44.0,46.0,7
+2020-03-10,Texas,School,35.0,38.0,35.0,8
+2020-03-10,Texas,Big Box Stores,103.0,100.0,103.0,9
+2020-03-10,Texas,Professional & Other Places,13.0,13.0,13.0,10
+2020-03-10,Texas,Convenience Store,97.0,93.0,97.0,11
+2020-03-10,Texas,Arts & Entertainment,71.0,60.0,71.0,12
+2020-03-10,Texas,Residences,97.0,93.0,97.0,13
+2020-03-10,Texas,Office,74.0,74.0,74.0,14
+2020-03-10,Texas,Nightlife Spots,49.0,46.0,49.0,15
+2020-03-10,Texas,Hotel,83.0,73.0,84.0,16
+2020-03-10,Texas,Colleges & Universities,35.0,41.0,35.0,17
+2020-03-10,Texas,Fitness Center,62.0,58.0,62.0,18
+2020-03-10,Texas,Hardware Stores,112.0,107.0,113.0,19
+2020-03-10,Texas,Government,63.0,56.0,63.0,20
+2020-03-10,Texas,Discount Stores,98.0,94.0,98.0,21
+2020-03-10,Texas,Airport,52.0,50.0,52.0,22
+2020-03-10,Texas,Drug Store,97.0,94.0,97.0,23
+2020-03-10,Texas,Travel & Transport,23.0,23.0,23.0,24
+2020-03-10,Texas,Sports,29.0,37.0,29.0,25
+2020-03-10,Texas,Banks,93.0,98.0,93.0,26
+2020-03-10,Texas,Alcohol,101.0,95.0,102.0,27
+2020-03-10,Texas,Bus,75.0,67.0,75.0,28
+2020-03-10,Texas,Light Rail Stations,101.0,93.0,101.0,29
+2020-03-10,Texas,Beach,125.0,71.0,128.0,30
+2020-03-10,Texas,Spiritual Center,4.0,4.0,4.0,31
+2020-03-10,Texas,Gun Shops,88.0,"",87.0,32
+2020-03-11,Texas,Food,45.0,45.0,45.0,1
+2020-03-11,Texas,Shops & Services,31.0,30.0,31.0,2
+2020-03-11,Texas,Grocery,103.0,99.0,104.0,3
+2020-03-11,Texas,Gas Stations,106.0,103.0,106.0,4
+2020-03-11,Texas,Fast Food Restaurants,104.0,103.0,104.0,5
+2020-03-11,Texas,Outdoors & Recreation,49.0,49.0,49.0,6
+2020-03-11,Texas,Medical,52.0,49.0,52.0,7
+2020-03-11,Texas,School,35.0,39.0,35.0,8
+2020-03-11,Texas,Big Box Stores,106.0,104.0,106.0,9
+2020-03-11,Texas,Professional & Other Places,14.0,13.0,14.0,10
+2020-03-11,Texas,Convenience Store,103.0,100.0,103.0,11
+2020-03-11,Texas,Arts & Entertainment,70.0,62.0,71.0,12
+2020-03-11,Texas,Residences,105.0,106.0,104.0,13
+2020-03-11,Texas,Office,75.0,77.0,75.0,14
+2020-03-11,Texas,Nightlife Spots,51.0,50.0,52.0,15
+2020-03-11,Texas,Hotel,86.0,74.0,86.0,16
+2020-03-11,Texas,Colleges & Universities,38.0,43.0,38.0,17
+2020-03-11,Texas,Fitness Center,61.0,59.0,62.0,18
+2020-03-11,Texas,Hardware Stores,118.0,116.0,118.0,19
+2020-03-11,Texas,Discount Stores,107.0,107.0,107.0,20
+2020-03-11,Texas,Airport,56.0,48.0,57.0,21
+2020-03-11,Texas,Drug Store,104.0,107.0,104.0,22
+2020-03-11,Texas,Government,65.0,59.0,65.0,23
+2020-03-11,Texas,Travel & Transport,24.0,25.0,24.0,24
+2020-03-11,Texas,Sports,31.0,44.0,31.0,25
+2020-03-11,Texas,Banks,97.0,103.0,97.0,26
+2020-03-11,Texas,Alcohol,102.0,99.0,102.0,27
+2020-03-11,Texas,Bus,81.0,81.0,81.0,28
+2020-03-11,Texas,Beach,200.0,132.0,204.0,29
+2020-03-11,Texas,Light Rail Stations,104.0,104.0,104.0,30
+2020-03-11,Texas,Spiritual Center,4.0,3.0,4.0,31
+2020-03-11,Texas,Gun Shops,106.0,"",107.0,32
+2020-03-12,Texas,Food,44.0,42.0,44.0,1
+2020-03-12,Texas,Shops & Services,29.0,28.0,30.0,2
+2020-03-12,Texas,Grocery,125.0,116.0,125.0,3
+2020-03-12,Texas,Gas Stations,105.0,101.0,105.0,4
+2020-03-12,Texas,Fast Food Restaurants,103.0,96.0,103.0,5
+2020-03-12,Texas,Outdoors & Recreation,46.0,44.0,46.0,6
+2020-03-12,Texas,Big Box Stores,116.0,109.0,117.0,7
+2020-03-12,Texas,School,35.0,37.0,35.0,8
+2020-03-12,Texas,Medical,51.0,47.0,51.0,9
+2020-03-12,Texas,Convenience Store,101.0,95.0,101.0,10
+2020-03-12,Texas,Professional & Other Places,13.0,12.0,13.0,11
+2020-03-12,Texas,Residences,101.0,96.0,102.0,12
+2020-03-12,Texas,Nightlife Spots,53.0,48.0,53.0,13
+2020-03-12,Texas,Arts & Entertainment,62.0,56.0,62.0,14
+2020-03-12,Texas,Office,73.0,77.0,73.0,15
+2020-03-12,Texas,Hotel,83.0,70.0,83.0,16
+2020-03-12,Texas,Discount Stores,114.0,107.0,114.0,17
+2020-03-12,Texas,Drug Store,111.0,107.0,111.0,18
+2020-03-12,Texas,Hardware Stores,120.0,114.0,121.0,19
+2020-03-12,Texas,Colleges & Universities,33.0,40.0,33.0,20
+2020-03-12,Texas,Airport,50.0,45.0,50.0,21
+2020-03-12,Texas,Fitness Center,58.0,53.0,58.0,22
+2020-03-12,Texas,Government,62.0,57.0,62.0,23
+2020-03-12,Texas,Travel & Transport,23.0,22.0,23.0,24
+2020-03-12,Texas,Sports,30.0,39.0,30.0,25
+2020-03-12,Texas,Banks,95.0,95.0,95.0,26
+2020-03-12,Texas,Alcohol,114.0,112.0,114.0,27
+2020-03-12,Texas,Bus,76.0,69.0,76.0,28
+2020-03-12,Texas,Beach,175.0,109.0,179.0,29
+2020-03-12,Texas,Light Rail Stations,93.0,85.0,93.0,30
+2020-03-12,Texas,Spiritual Center,3.0,3.0,4.0,31
+2020-03-12,Texas,Gun Shops,115.0,"",117.0,32
+2020-03-13,Texas,Food,41.0,38.0,41.0,1
+2020-03-13,Texas,Shops & Services,28.0,24.0,28.0,2
+2020-03-13,Texas,Grocery,143.0,124.0,144.0,3
+2020-03-13,Texas,Gas Stations,101.0,90.0,102.0,4
+2020-03-13,Texas,Big Box Stores,126.0,109.0,126.0,5
+2020-03-13,Texas,Fast Food Restaurants,95.0,87.0,95.0,6
+2020-03-13,Texas,Outdoors & Recreation,41.0,36.0,41.0,7
+2020-03-13,Texas,Medical,49.0,44.0,49.0,8
+2020-03-13,Texas,School,30.0,30.0,30.0,9
+2020-03-13,Texas,Convenience Store,98.0,90.0,98.0,10
+2020-03-13,Texas,Professional & Other Places,12.0,12.0,12.0,11
+2020-03-13,Texas,Nightlife Spots,48.0,42.0,48.0,12
+2020-03-13,Texas,Residences,93.0,79.0,93.0,13
+2020-03-13,Texas,Discount Stores,127.0,114.0,127.0,14
+2020-03-13,Texas,Arts & Entertainment,49.0,42.0,49.0,15
+2020-03-13,Texas,Drug Store,124.0,116.0,125.0,16
+2020-03-13,Texas,Office,69.0,64.0,70.0,17
+2020-03-13,Texas,Hotel,79.0,63.0,80.0,18
+2020-03-13,Texas,Hardware Stores,123.0,104.0,123.0,19
+2020-03-13,Texas,Airport,47.0,44.0,47.0,20
+2020-03-13,Texas,Fitness Center,54.0,48.0,55.0,21
+2020-03-13,Texas,Government,56.0,48.0,57.0,22
+2020-03-13,Texas,Travel & Transport,21.0,21.0,21.0,23
+2020-03-13,Texas,Colleges & Universities,31.0,35.0,31.0,24
+2020-03-13,Texas,Banks,95.0,86.0,95.0,25
+2020-03-13,Texas,Sports,26.0,28.0,26.0,26
+2020-03-13,Texas,Alcohol,118.0,99.0,119.0,27
+2020-03-13,Texas,Bus,74.0,70.0,74.0,28
+2020-03-13,Texas,Beach,152.0,79.0,156.0,29
+2020-03-13,Texas,Light Rail Stations,82.0,90.0,81.0,30
+2020-03-13,Texas,Spiritual Center,4.0,4.0,4.0,31
+2020-03-13,Texas,Gun Shops,109.0,"",110.0,32
+2020-03-14,Texas,Food,36.0,33.0,36.0,1
+2020-03-14,Texas,Shops & Services,25.0,22.0,25.0,2
+2020-03-14,Texas,Grocery,119.0,109.0,119.0,3
+2020-03-14,Texas,Big Box Stores,107.0,94.0,107.0,4
+2020-03-14,Texas,Gas Stations,93.0,87.0,94.0,5
+2020-03-14,Texas,Fast Food Restaurants,81.0,78.0,81.0,6
+2020-03-14,Texas,Outdoors & Recreation,37.0,34.0,37.0,7
+2020-03-14,Texas,Nightlife Spots,40.0,35.0,40.0,8
+2020-03-14,Texas,Convenience Store,88.0,82.0,88.0,9
+2020-03-14,Texas,Residences,86.0,77.0,86.0,10
+2020-03-14,Texas,School,35.0,34.0,35.0,11
+2020-03-14,Texas,Arts & Entertainment,32.0,29.0,32.0,12
+2020-03-14,Texas,Discount Stores,111.0,102.0,111.0,13
+2020-03-14,Texas,Hardware Stores,113.0,99.0,114.0,14
+2020-03-14,Texas,Professional & Other Places,14.0,13.0,14.0,15
+2020-03-14,Texas,Hotel,72.0,58.0,72.0,16
+2020-03-14,Texas,Drug Store,112.0,107.0,112.0,17
+2020-03-14,Texas,Medical,46.0,39.0,46.0,18
+2020-03-14,Texas,Airport,51.0,41.0,51.0,19
+2020-03-14,Texas,Fitness Center,50.0,44.0,50.0,20
+2020-03-14,Texas,Travel & Transport,22.0,21.0,22.0,21
+2020-03-14,Texas,Sports,22.0,27.0,22.0,22
+2020-03-14,Texas,Office,68.0,63.0,68.0,23
+2020-03-14,Texas,Colleges & Universities,31.0,33.0,31.0,24
+2020-03-14,Texas,Banks,70.0,66.0,70.0,25
+2020-03-14,Texas,Government,53.0,45.0,53.0,26
+2020-03-14,Texas,Alcohol,95.0,82.0,96.0,27
+2020-03-14,Texas,Beach,130.0,65.0,133.0,28
+2020-03-14,Texas,Bus,76.0,69.0,76.0,29
+2020-03-14,Texas,Light Rail Stations,67.0,"",67.0,30
+2020-03-14,Texas,Spiritual Center,3.0,"",3.0,31
+2020-03-14,Texas,Gun Shops,92.0,"",93.0,32
+2020-03-15,Texas,Food,34.0,30.0,35.0,1
+2020-03-15,Texas,Shops & Services,22.0,19.0,22.0,2
+2020-03-15,Texas,Grocery,92.0,92.0,92.0,3
+2020-03-15,Texas,Big Box Stores,96.0,90.0,96.0,4
+2020-03-15,Texas,Gas Stations,90.0,82.0,90.0,5
+2020-03-15,Texas,Outdoors & Recreation,37.0,34.0,37.0,6
+2020-03-15,Texas,Fast Food Restaurants,81.0,73.0,82.0,7
+2020-03-15,Texas,Nightlife Spots,37.0,32.0,37.0,8
+2020-03-15,Texas,Convenience Store,87.0,78.0,87.0,9
+2020-03-15,Texas,Residences,82.0,67.0,82.0,10
+2020-03-15,Texas,School,43.0,38.0,43.0,11
+2020-03-15,Texas,Arts & Entertainment,30.0,26.0,30.0,12
+2020-03-15,Texas,Discount Stores,99.0,95.0,99.0,13
+2020-03-15,Texas,Hardware Stores,108.0,97.0,108.0,14
+2020-03-15,Texas,Hotel,67.0,52.0,67.0,15
+2020-03-15,Texas,Professional & Other Places,11.0,9.0,11.0,16
+2020-03-15,Texas,Drug Store,105.0,101.0,105.0,17
+2020-03-15,Texas,Medical,45.0,37.0,46.0,18
+2020-03-15,Texas,Airport,47.0,40.0,47.0,19
+2020-03-15,Texas,Travel & Transport,19.0,17.0,20.0,20
+2020-03-15,Texas,Fitness Center,52.0,47.0,52.0,21
+2020-03-15,Texas,Sports,24.0,26.0,24.0,22
+2020-03-15,Texas,Office,65.0,63.0,65.0,23
+2020-03-15,Texas,Colleges & Universities,37.0,33.0,37.0,24
+2020-03-15,Texas,Government,52.0,40.0,52.0,25
+2020-03-15,Texas,Banks,70.0,57.0,70.0,26
+2020-03-15,Texas,Alcohol,77.0,61.0,77.0,27
+2020-03-15,Texas,Beach,135.0,66.0,138.0,28
+2020-03-15,Texas,Bus,70.0,60.0,70.0,29
+2020-03-15,Texas,Light Rail Stations,66.0,"",66.0,30
+2020-03-15,Texas,Spiritual Center,1.0,"",1.0,31
+2020-03-15,Texas,Gun Shops,93.0,"",93.0,32
+2020-03-16,Texas,Food,38.0,34.0,38.0,1
+2020-03-16,Texas,Shops & Services,27.0,24.0,27.0,2
+2020-03-16,Texas,Grocery,121.0,115.0,122.0,3
+2020-03-16,Texas,Gas Stations,95.0,89.0,95.0,4
+2020-03-16,Texas,Big Box Stores,114.0,100.0,114.0,5
+2020-03-16,Texas,Fast Food Restaurants,89.0,82.0,90.0,6
+2020-03-16,Texas,Medical,47.0,39.0,48.0,7
+2020-03-16,Texas,Outdoors & Recreation,38.0,33.0,38.0,8
+2020-03-16,Texas,Convenience Store,93.0,82.0,93.0,9
+2020-03-16,Texas,Professional & Other Places,12.0,12.0,12.0,10
+2020-03-16,Texas,School,26.0,29.0,26.0,11
+2020-03-16,Texas,Residences,90.0,82.0,90.0,12
+2020-03-16,Texas,Office,65.0,64.0,65.0,13
+2020-03-16,Texas,Nightlife Spots,46.0,41.0,46.0,14
+2020-03-16,Texas,Discount Stores,115.0,101.0,116.0,15
+2020-03-16,Texas,Drug Store,117.0,105.0,117.0,16
+2020-03-16,Texas,Hardware Stores,112.0,94.0,113.0,17
+2020-03-16,Texas,Arts & Entertainment,39.0,38.0,39.0,18
+2020-03-16,Texas,Hotel,69.0,54.0,70.0,19
+2020-03-16,Texas,Government,61.0,51.0,61.0,20
+2020-03-16,Texas,Airport,38.0,33.0,38.0,21
+2020-03-16,Texas,Fitness Center,52.0,42.0,52.0,22
+2020-03-16,Texas,Travel & Transport,20.0,20.0,20.0,23
+2020-03-16,Texas,Colleges & Universities,23.0,33.0,22.0,24
+2020-03-16,Texas,Banks,104.0,100.0,104.0,25
+2020-03-16,Texas,Sports,25.0,25.0,25.0,26
+2020-03-16,Texas,Alcohol,123.0,113.0,124.0,27
+2020-03-16,Texas,Beach,133.0,68.0,136.0,28
+2020-03-16,Texas,Bus,65.0,59.0,65.0,29
+2020-03-16,Texas,Light Rail Stations,76.0,57.0,76.0,30
+2020-03-16,Texas,Spiritual Center,4.0,4.0,4.0,31
+2020-03-16,Texas,Gun Shops,109.0,"",109.0,32
+2020-03-17,Texas,Food,34.0,29.0,34.0,1
+2020-03-17,Texas,Shops & Services,24.0,20.0,24.0,2
+2020-03-17,Texas,Grocery,118.0,106.0,118.0,3
+2020-03-17,Texas,Gas Stations,91.0,82.0,91.0,4
+2020-03-17,Texas,Big Box Stores,111.0,92.0,112.0,5
+2020-03-17,Texas,Fast Food Restaurants,83.0,73.0,83.0,6
+2020-03-17,Texas,Outdoors & Recreation,37.0,34.0,37.0,7
+2020-03-17,Texas,Medical,41.0,33.0,41.0,8
+2020-03-17,Texas,Convenience Store,88.0,78.0,89.0,9
+2020-03-17,Texas,Professional & Other Places,11.0,10.0,11.0,10
+2020-03-17,Texas,School,21.0,24.0,21.0,11
+2020-03-17,Texas,Residences,89.0,79.0,89.0,12
+2020-03-17,Texas,Office,56.0,52.0,56.0,13
+2020-03-17,Texas,Nightlife Spots,42.0,37.0,43.0,14
+2020-03-17,Texas,Discount Stores,112.0,96.0,112.0,15
+2020-03-17,Texas,Drug Store,109.0,97.0,109.0,16
+2020-03-17,Texas,Hardware Stores,113.0,91.0,114.0,17
+2020-03-17,Texas,Hotel,61.0,49.0,61.0,18
+2020-03-17,Texas,Arts & Entertainment,38.0,33.0,38.0,19
+2020-03-17,Texas,Government,48.0,38.0,48.0,20
+2020-03-17,Texas,Airport,38.0,34.0,38.0,21
+2020-03-17,Texas,Travel & Transport,19.0,18.0,19.0,22
+2020-03-17,Texas,Colleges & Universities,19.0,27.0,18.0,23
+2020-03-17,Texas,Fitness Center,34.0,30.0,34.0,24
+2020-03-17,Texas,Sports,21.0,25.0,21.0,25
+2020-03-17,Texas,Banks,77.0,63.0,78.0,26
+2020-03-17,Texas,Alcohol,127.0,123.0,127.0,27
+2020-03-17,Texas,Bus,62.0,54.0,62.0,28
+2020-03-17,Texas,Beach,124.0,63.0,128.0,29
+2020-03-17,Texas,Light Rail Stations,68.0,50.0,68.0,30
+2020-03-17,Texas,Spiritual Center,3.0,3.0,3.0,31
+2020-03-17,Texas,Gun Shops,105.0,"",105.0,32
+2020-03-18,Texas,Food,31.0,27.0,31.0,1
+2020-03-18,Texas,Shops & Services,23.0,20.0,23.0,2
+2020-03-18,Texas,Grocery,112.0,103.0,113.0,3
+2020-03-18,Texas,Gas Stations,90.0,84.0,91.0,4
+2020-03-18,Texas,Big Box Stores,106.0,93.0,106.0,5
+2020-03-18,Texas,Outdoors & Recreation,41.0,39.0,41.0,6
+2020-03-18,Texas,Fast Food Restaurants,79.0,71.0,79.0,7
+2020-03-18,Texas,Medical,40.0,33.0,40.0,8
+2020-03-18,Texas,Convenience Store,88.0,80.0,88.0,9
+2020-03-18,Texas,School,22.0,26.0,22.0,10
+2020-03-18,Texas,Professional & Other Places,10.0,10.0,10.0,11
+2020-03-18,Texas,Residences,90.0,82.0,90.0,12
+2020-03-18,Texas,Office,54.0,55.0,54.0,13
+2020-03-18,Texas,Nightlife Spots,36.0,35.0,36.0,14
+2020-03-18,Texas,Discount Stores,109.0,101.0,109.0,15
+2020-03-18,Texas,Hardware Stores,116.0,97.0,117.0,16
+2020-03-18,Texas,Drug Store,104.0,92.0,105.0,17
+2020-03-18,Texas,Hotel,57.0,46.0,57.0,18
+2020-03-18,Texas,Arts & Entertainment,33.0,32.0,33.0,19
+2020-03-18,Texas,Government,48.0,42.0,48.0,20
+2020-03-18,Texas,Travel & Transport,18.0,19.0,18.0,21
+2020-03-18,Texas,Airport,34.0,28.0,34.0,22
+2020-03-18,Texas,Colleges & Universities,17.0,26.0,17.0,23
+2020-03-18,Texas,Fitness Center,29.0,25.0,29.0,24
+2020-03-18,Texas,Sports,23.0,28.0,23.0,25
+2020-03-18,Texas,Banks,81.0,79.0,81.0,26
+2020-03-18,Texas,Alcohol,111.0,98.0,112.0,27
+2020-03-18,Texas,Bus,61.0,54.0,62.0,28
+2020-03-18,Texas,Beach,166.0,97.0,169.0,29
+2020-03-18,Texas,Light Rail Stations,67.0,66.0,68.0,30
+2020-03-18,Texas,Spiritual Center,3.0,"",3.0,31
+2020-03-18,Texas,Gun Shops,116.0,"",117.0,32
+2020-03-19,Texas,Food,28.0,24.0,28.0,1
+2020-03-19,Texas,Shops & Services,20.0,18.0,21.0,2
+2020-03-19,Texas,Grocery,110.0,97.0,110.0,3
+2020-03-19,Texas,Gas Stations,85.0,76.0,85.0,4
+2020-03-19,Texas,Big Box Stores,98.0,84.0,98.0,5
+2020-03-19,Texas,Outdoors & Recreation,37.0,33.0,37.0,6
+2020-03-19,Texas,Fast Food Restaurants,73.0,65.0,73.0,7
+2020-03-19,Texas,Medical,37.0,30.0,37.0,8
+2020-03-19,Texas,Convenience Store,83.0,74.0,83.0,9
+2020-03-19,Texas,School,21.0,23.0,21.0,10
+2020-03-19,Texas,Professional & Other Places,10.0,8.0,10.0,11
+2020-03-19,Texas,Residences,85.0,75.0,85.0,12
+2020-03-19,Texas,Office,51.0,51.0,52.0,13
+2020-03-19,Texas,Hardware Stores,110.0,90.0,111.0,14
+2020-03-19,Texas,Discount Stores,97.0,89.0,97.0,15
+2020-03-19,Texas,Drug Store,95.0,85.0,96.0,16
+2020-03-19,Texas,Nightlife Spots,32.0,31.0,32.0,17
+2020-03-19,Texas,Hotel,51.0,43.0,51.0,18
+2020-03-19,Texas,Arts & Entertainment,30.0,29.0,30.0,19
+2020-03-19,Texas,Government,42.0,36.0,42.0,20
+2020-03-19,Texas,Travel & Transport,17.0,17.0,17.0,21
+2020-03-19,Texas,Colleges & Universities,17.0,25.0,17.0,22
+2020-03-19,Texas,Airport,28.0,22.0,28.0,23
+2020-03-19,Texas,Sports,22.0,27.0,21.0,24
+2020-03-19,Texas,Fitness Center,27.0,25.0,27.0,25
+2020-03-19,Texas,Banks,73.0,64.0,73.0,26
+2020-03-19,Texas,Alcohol,107.0,85.0,107.0,27
+2020-03-19,Texas,Beach,138.0,77.0,142.0,28
+2020-03-19,Texas,Bus,54.0,45.0,54.0,29
+2020-03-19,Texas,Light Rail Stations,61.0,48.0,61.0,30
+2020-03-19,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-19,Texas,Gun Shops,108.0,"",109.0,32
+2020-03-20,Texas,Food,25.0,19.0,25.0,1
+2020-03-20,Texas,Shops & Services,19.0,16.0,19.0,2
+2020-03-20,Texas,Grocery,110.0,92.0,110.0,3
+2020-03-20,Texas,Gas Stations,77.0,63.0,77.0,4
+2020-03-20,Texas,Big Box Stores,94.0,78.0,95.0,5
+2020-03-20,Texas,Fast Food Restaurants,67.0,58.0,68.0,6
+2020-03-20,Texas,Outdoors & Recreation,30.0,24.0,30.0,7
+2020-03-20,Texas,Medical,36.0,29.0,36.0,8
+2020-03-20,Texas,Convenience Store,77.0,63.0,77.0,9
+2020-03-20,Texas,School,19.0,19.0,19.0,10
+2020-03-20,Texas,Professional & Other Places,10.0,8.0,10.0,11
+2020-03-20,Texas,Residences,72.0,57.0,72.0,12
+2020-03-20,Texas,Discount Stores,92.0,77.0,92.0,13
+2020-03-20,Texas,Drug Store,91.0,82.0,92.0,14
+2020-03-20,Texas,Hardware Stores,96.0,71.0,98.0,15
+2020-03-20,Texas,Office,49.0,45.0,50.0,16
+2020-03-20,Texas,Nightlife Spots,25.0,24.0,25.0,17
+2020-03-20,Texas,Hotel,44.0,35.0,45.0,18
+2020-03-20,Texas,Arts & Entertainment,23.0,21.0,23.0,19
+2020-03-20,Texas,Government,39.0,31.0,39.0,20
+2020-03-20,Texas,Travel & Transport,16.0,15.0,16.0,21
+2020-03-20,Texas,Banks,72.0,61.0,72.0,22
+2020-03-20,Texas,Airport,25.0,19.0,25.0,23
+2020-03-20,Texas,Colleges & Universities,19.0,22.0,19.0,24
+2020-03-20,Texas,Fitness Center,25.0,19.0,25.0,25
+2020-03-20,Texas,Sports,17.0,17.0,17.0,26
+2020-03-20,Texas,Alcohol,101.0,81.0,102.0,27
+2020-03-20,Texas,Bus,51.0,40.0,51.0,28
+2020-03-20,Texas,Beach,105.0,61.0,107.0,29
+2020-03-20,Texas,Light Rail Stations,51.0,41.0,52.0,30
+2020-03-20,Texas,Spiritual Center,3.0,"",3.0,31
+2020-03-20,Texas,Gun Shops,106.0,"",107.0,32
+2020-03-21,Texas,Food,19.0,16.0,19.0,1
+2020-03-21,Texas,Shops & Services,14.0,12.0,14.0,2
+2020-03-21,Texas,Grocery,93.0,81.0,93.0,3
+2020-03-21,Texas,Big Box Stores,81.0,73.0,81.0,4
+2020-03-21,Texas,Gas Stations,66.0,60.0,67.0,5
+2020-03-21,Texas,Fast Food Restaurants,58.0,53.0,58.0,6
+2020-03-21,Texas,Outdoors & Recreation,26.0,23.0,26.0,7
+2020-03-21,Texas,Convenience Store,64.0,56.0,64.0,8
+2020-03-21,Texas,School,26.0,24.0,26.0,9
+2020-03-21,Texas,Residences,62.0,51.0,62.0,10
+2020-03-21,Texas,Hardware Stores,87.0,67.0,87.0,11
+2020-03-21,Texas,Discount Stores,78.0,68.0,78.0,12
+2020-03-21,Texas,Drug Store,89.0,84.0,89.0,13
+2020-03-21,Texas,Professional & Other Places,9.0,8.0,9.0,14
+2020-03-21,Texas,Medical,32.0,27.0,32.0,15
+2020-03-21,Texas,Nightlife Spots,16.0,17.0,16.0,16
+2020-03-21,Texas,Arts & Entertainment,13.0,13.0,13.0,17
+2020-03-21,Texas,Hotel,32.0,25.0,32.0,18
+2020-03-21,Texas,Travel & Transport,14.0,12.0,14.0,19
+2020-03-21,Texas,Airport,25.0,19.0,25.0,20
+2020-03-21,Texas,Office,51.0,43.0,51.0,21
+2020-03-21,Texas,Sports,14.0,15.0,14.0,22
+2020-03-21,Texas,Banks,57.0,52.0,57.0,23
+2020-03-21,Texas,Colleges & Universities,23.0,19.0,23.0,24
+2020-03-21,Texas,Government,38.0,31.0,39.0,25
+2020-03-21,Texas,Fitness Center,21.0,18.0,21.0,26
+2020-03-21,Texas,Alcohol,81.0,67.0,82.0,27
+2020-03-21,Texas,Beach,53.0,29.0,54.0,28
+2020-03-21,Texas,Bus,44.0,36.0,44.0,29
+2020-03-21,Texas,Light Rail Stations,44.0,"",44.0,30
+2020-03-21,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-21,Texas,Gun Shops,97.0,"",98.0,32
+2020-03-22,Texas,Food,17.0,14.0,18.0,1
+2020-03-22,Texas,Shops & Services,11.0,10.0,11.0,2
+2020-03-22,Texas,Grocery,73.0,69.0,73.0,3
+2020-03-22,Texas,Big Box Stores,72.0,66.0,72.0,4
+2020-03-22,Texas,Gas Stations,61.0,52.0,62.0,5
+2020-03-22,Texas,Outdoors & Recreation,26.0,23.0,26.0,6
+2020-03-22,Texas,Fast Food Restaurants,57.0,51.0,58.0,7
+2020-03-22,Texas,Convenience Store,60.0,50.0,60.0,8
+2020-03-22,Texas,Residences,58.0,47.0,58.0,9
+2020-03-22,Texas,School,31.0,26.0,31.0,10
+2020-03-22,Texas,Hardware Stores,81.0,68.0,81.0,11
+2020-03-22,Texas,Discount Stores,72.0,64.0,72.0,12
+2020-03-22,Texas,Drug Store,84.0,75.0,85.0,13
+2020-03-22,Texas,Professional & Other Places,8.0,5.0,8.0,14
+2020-03-22,Texas,Medical,32.0,26.0,32.0,15
+2020-03-22,Texas,Nightlife Spots,12.0,14.0,12.0,16
+2020-03-22,Texas,Arts & Entertainment,12.0,12.0,12.0,17
+2020-03-22,Texas,Hotel,29.0,23.0,30.0,18
+2020-03-22,Texas,Travel & Transport,12.0,10.0,12.0,19
+2020-03-22,Texas,Airport,22.0,16.0,22.0,20
+2020-03-22,Texas,Sports,17.0,18.0,17.0,21
+2020-03-22,Texas,Office,48.0,39.0,48.0,22
+2020-03-22,Texas,Colleges & Universities,28.0,25.0,28.0,23
+2020-03-22,Texas,Government,37.0,30.0,37.0,24
+2020-03-22,Texas,Fitness Center,22.0,18.0,22.0,25
+2020-03-22,Texas,Banks,58.0,49.0,58.0,26
+2020-03-22,Texas,Alcohol,54.0,42.0,54.0,27
+2020-03-22,Texas,Beach,72.0,44.0,74.0,28
+2020-03-22,Texas,Bus,42.0,"",42.0,29
+2020-03-22,Texas,Light Rail Stations,49.0,"",49.0,30
+2020-03-22,Texas,Spiritual Center,1.0,"",1.0,31
+2020-03-23,Texas,Food,24.0,20.0,24.0,1
+2020-03-23,Texas,Shops & Services,18.0,16.0,18.0,2
+2020-03-23,Texas,Grocery,91.0,87.0,91.0,3
+2020-03-23,Texas,Gas Stations,75.0,68.0,75.0,4
+2020-03-23,Texas,Outdoors & Recreation,34.0,30.0,34.0,5
+2020-03-23,Texas,Fast Food Restaurants,69.0,62.0,70.0,6
+2020-03-23,Texas,Big Box Stores,84.0,74.0,84.0,7
+2020-03-23,Texas,Medical,33.0,26.0,33.0,8
+2020-03-23,Texas,School,24.0,26.0,24.0,9
+2020-03-23,Texas,Convenience Store,74.0,64.0,74.0,10
+2020-03-23,Texas,Professional & Other Places,10.0,9.0,10.0,11
+2020-03-23,Texas,Residences,73.0,65.0,74.0,12
+2020-03-23,Texas,Office,48.0,47.0,48.0,13
+2020-03-23,Texas,Hardware Stores,93.0,77.0,94.0,14
+2020-03-23,Texas,Discount Stores,89.0,79.0,89.0,15
+2020-03-23,Texas,Drug Store,92.0,79.0,93.0,16
+2020-03-23,Texas,Nightlife Spots,24.0,25.0,24.0,17
+2020-03-23,Texas,Hotel,46.0,36.0,46.0,18
+2020-03-23,Texas,Arts & Entertainment,26.0,27.0,26.0,19
+2020-03-23,Texas,Government,41.0,33.0,41.0,20
+2020-03-23,Texas,Colleges & Universities,18.0,28.0,18.0,21
+2020-03-23,Texas,Travel & Transport,15.0,15.0,15.0,22
+2020-03-23,Texas,Banks,73.0,67.0,74.0,23
+2020-03-23,Texas,Airport,20.0,20.0,20.0,24
+2020-03-23,Texas,Sports,21.0,22.0,21.0,25
+2020-03-23,Texas,Fitness Center,24.0,19.0,24.0,26
+2020-03-23,Texas,Alcohol,100.0,81.0,101.0,27
+2020-03-23,Texas,Bus,50.0,44.0,50.0,28
+2020-03-23,Texas,Beach,86.0,55.0,87.0,29
+2020-03-23,Texas,Light Rail Stations,54.0,47.0,54.0,30
+2020-03-23,Texas,Spiritual Center,3.0,"",3.0,31
+2020-03-23,Texas,Gun Shops,89.0,"",89.0,32
+2020-03-24,Texas,Food,23.0,20.0,23.0,1
+2020-03-24,Texas,Shops & Services,17.0,15.0,17.0,2
+2020-03-24,Texas,Grocery,83.0,79.0,84.0,3
+2020-03-24,Texas,Gas Stations,75.0,69.0,75.0,4
+2020-03-24,Texas,Outdoors & Recreation,34.0,31.0,34.0,5
+2020-03-24,Texas,Fast Food Restaurants,67.0,61.0,68.0,6
+2020-03-24,Texas,Big Box Stores,84.0,79.0,84.0,7
+2020-03-24,Texas,Medical,29.0,23.0,29.0,8
+2020-03-24,Texas,School,20.0,22.0,20.0,9
+2020-03-24,Texas,Convenience Store,73.0,64.0,73.0,10
+2020-03-24,Texas,Professional & Other Places,9.0,8.0,9.0,11
+2020-03-24,Texas,Residences,75.0,70.0,75.0,12
+2020-03-24,Texas,Hardware Stores,99.0,81.0,100.0,13
+2020-03-24,Texas,Office,41.0,41.0,41.0,14
+2020-03-24,Texas,Drug Store,85.0,79.0,85.0,15
+2020-03-24,Texas,Discount Stores,80.0,74.0,80.0,16
+2020-03-24,Texas,Nightlife Spots,25.0,26.0,25.0,17
+2020-03-24,Texas,Arts & Entertainment,27.0,27.0,27.0,18
+2020-03-24,Texas,Hotel,40.0,31.0,41.0,19
+2020-03-24,Texas,Government,34.0,27.0,34.0,20
+2020-03-24,Texas,Travel & Transport,16.0,14.0,16.0,21
+2020-03-24,Texas,Colleges & Universities,15.0,22.0,15.0,22
+2020-03-24,Texas,Sports,19.0,25.0,19.0,23
+2020-03-24,Texas,Airport,21.0,17.0,21.0,24
+2020-03-24,Texas,Banks,60.0,56.0,60.0,25
+2020-03-24,Texas,Fitness Center,19.0,19.0,19.0,26
+2020-03-24,Texas,Alcohol,103.0,101.0,103.0,27
+2020-03-24,Texas,Beach,90.0,48.0,93.0,28
+2020-03-24,Texas,Bus,40.0,34.0,41.0,29
+2020-03-24,Texas,Light Rail Stations,47.0,35.0,47.0,30
+2020-03-24,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-24,Texas,Gun Shops,77.0,"",79.0,32
+2020-03-25,Texas,Food,22.0,19.0,22.0,1
+2020-03-25,Texas,Shops & Services,15.0,13.0,15.0,2
+2020-03-25,Texas,Grocery,75.0,70.0,76.0,3
+2020-03-25,Texas,Gas Stations,72.0,65.0,73.0,4
+2020-03-25,Texas,Outdoors & Recreation,35.0,35.0,35.0,5
+2020-03-25,Texas,Fast Food Restaurants,64.0,61.0,64.0,6
+2020-03-25,Texas,Big Box Stores,74.0,64.0,74.0,7
+2020-03-25,Texas,Medical,28.0,23.0,28.0,8
+2020-03-25,Texas,School,19.0,22.0,19.0,9
+2020-03-25,Texas,Convenience Store,71.0,65.0,71.0,10
+2020-03-25,Texas,Professional & Other Places,9.0,8.0,9.0,11
+2020-03-25,Texas,Residences,75.0,74.0,75.0,12
+2020-03-25,Texas,Hardware Stores,98.0,83.0,98.0,13
+2020-03-25,Texas,Office,40.0,40.0,40.0,14
+2020-03-25,Texas,Drug Store,76.0,73.0,76.0,15
+2020-03-25,Texas,Discount Stores,75.0,67.0,75.0,16
+2020-03-25,Texas,Nightlife Spots,23.0,26.0,23.0,17
+2020-03-25,Texas,Arts & Entertainment,27.0,28.0,26.0,18
+2020-03-25,Texas,Hotel,39.0,35.0,39.0,19
+2020-03-25,Texas,Travel & Transport,16.0,14.0,16.0,20
+2020-03-25,Texas,Government,34.0,28.0,34.0,21
+2020-03-25,Texas,Colleges & Universities,14.0,22.0,14.0,22
+2020-03-25,Texas,Sports,20.0,29.0,20.0,23
+2020-03-25,Texas,Airport,21.0,14.0,22.0,24
+2020-03-25,Texas,Banks,58.0,54.0,58.0,25
+2020-03-25,Texas,Fitness Center,18.0,16.0,19.0,26
+2020-03-25,Texas,Alcohol,82.0,67.0,82.0,27
+2020-03-25,Texas,Bus,40.0,34.0,40.0,28
+2020-03-25,Texas,Beach,104.0,64.0,106.0,29
+2020-03-25,Texas,Light Rail Stations,49.0,43.0,49.0,30
+2020-03-25,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-25,Texas,Gun Shops,80.0,"",79.0,32
+2020-03-26,Texas,Food,21.0,18.0,21.0,1
+2020-03-26,Texas,Shops & Services,14.0,13.0,14.0,2
+2020-03-26,Texas,Grocery,75.0,68.0,75.0,3
+2020-03-26,Texas,Gas Stations,70.0,62.0,70.0,4
+2020-03-26,Texas,Outdoors & Recreation,36.0,35.0,36.0,5
+2020-03-26,Texas,Fast Food Restaurants,63.0,53.0,63.0,6
+2020-03-26,Texas,Big Box Stores,70.0,62.0,70.0,7
+2020-03-26,Texas,School,19.0,21.0,19.0,8
+2020-03-26,Texas,Medical,27.0,22.0,27.0,9
+2020-03-26,Texas,Convenience Store,67.0,61.0,68.0,10
+2020-03-26,Texas,Professional & Other Places,8.0,8.0,8.0,11
+2020-03-26,Texas,Residences,73.0,68.0,73.0,12
+2020-03-26,Texas,Hardware Stores,98.0,84.0,98.0,13
+2020-03-26,Texas,Office,40.0,41.0,40.0,14
+2020-03-26,Texas,Discount Stores,71.0,62.0,71.0,15
+2020-03-26,Texas,Drug Store,70.0,64.0,70.0,16
+2020-03-26,Texas,Nightlife Spots,22.0,23.0,22.0,17
+2020-03-26,Texas,Arts & Entertainment,25.0,26.0,25.0,18
+2020-03-26,Texas,Hotel,38.0,32.0,38.0,19
+2020-03-26,Texas,Government,33.0,27.0,33.0,20
+2020-03-26,Texas,Travel & Transport,14.0,14.0,14.0,21
+2020-03-26,Texas,Colleges & Universities,14.0,22.0,14.0,22
+2020-03-26,Texas,Sports,20.0,25.0,20.0,23
+2020-03-26,Texas,Airport,17.0,13.0,17.0,24
+2020-03-26,Texas,Banks,55.0,47.0,55.0,25
+2020-03-26,Texas,Fitness Center,19.0,18.0,19.0,26
+2020-03-26,Texas,Alcohol,78.0,68.0,79.0,27
+2020-03-26,Texas,Beach,95.0,58.0,97.0,28
+2020-03-26,Texas,Bus,40.0,35.0,40.0,29
+2020-03-26,Texas,Light Rail Stations,49.0,40.0,49.0,30
+2020-03-26,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-26,Texas,Gun Shops,68.0,"",69.0,32
+2020-03-27,Texas,Food,20.0,17.0,20.0,1
+2020-03-27,Texas,Shops & Services,13.0,11.0,13.0,2
+2020-03-27,Texas,Grocery,71.0,63.0,72.0,3
+2020-03-27,Texas,Gas Stations,65.0,56.0,65.0,4
+2020-03-27,Texas,Fast Food Restaurants,60.0,53.0,60.0,5
+2020-03-27,Texas,Outdoors & Recreation,32.0,29.0,32.0,6
+2020-03-27,Texas,Big Box Stores,67.0,56.0,68.0,7
+2020-03-27,Texas,Convenience Store,63.0,56.0,64.0,8
+2020-03-27,Texas,School,18.0,20.0,18.0,9
+2020-03-27,Texas,Medical,28.0,22.0,28.0,10
+2020-03-27,Texas,Professional & Other Places,8.0,8.0,8.0,11
+2020-03-27,Texas,Residences,68.0,60.0,68.0,12
+2020-03-27,Texas,Hardware Stores,99.0,80.0,100.0,13
+2020-03-27,Texas,Office,42.0,39.0,42.0,14
+2020-03-27,Texas,Discount Stores,66.0,59.0,66.0,15
+2020-03-27,Texas,Drug Store,68.0,60.0,68.0,16
+2020-03-27,Texas,Nightlife Spots,20.0,21.0,20.0,17
+2020-03-27,Texas,Arts & Entertainment,22.0,21.0,22.0,18
+2020-03-27,Texas,Hotel,35.0,30.0,35.0,19
+2020-03-27,Texas,Travel & Transport,14.0,13.0,14.0,20
+2020-03-27,Texas,Government,32.0,24.0,32.0,21
+2020-03-27,Texas,Banks,54.0,47.0,54.0,22
+2020-03-27,Texas,Sports,19.0,23.0,19.0,23
+2020-03-27,Texas,Colleges & Universities,17.0,21.0,17.0,24
+2020-03-27,Texas,Fitness Center,19.0,16.0,20.0,25
+2020-03-27,Texas,Airport,15.0,10.0,15.0,26
+2020-03-27,Texas,Alcohol,77.0,56.0,77.0,27
+2020-03-27,Texas,Bus,43.0,33.0,43.0,28
+2020-03-27,Texas,Beach,87.0,50.0,89.0,29
+2020-03-27,Texas,Light Rail Stations,45.0,37.0,45.0,30
+2020-03-27,Texas,Spiritual Center,3.0,"",3.0,31
+2020-03-27,Texas,Gun Shops,64.0,"",65.0,32
+2020-03-28,Texas,Food,16.0,14.0,16.0,1
+2020-03-28,Texas,Shops & Services,11.0,9.0,11.0,2
+2020-03-28,Texas,Grocery,70.0,59.0,70.0,3
+2020-03-28,Texas,Big Box Stores,66.0,54.0,66.0,4
+2020-03-28,Texas,Gas Stations,58.0,49.0,58.0,5
+2020-03-28,Texas,Outdoors & Recreation,26.0,23.0,26.0,6
+2020-03-28,Texas,Fast Food Restaurants,53.0,47.0,53.0,7
+2020-03-28,Texas,Convenience Store,54.0,49.0,54.0,8
+2020-03-28,Texas,Hardware Stores,89.0,68.0,90.0,9
+2020-03-28,Texas,Residences,57.0,49.0,57.0,10
+2020-03-28,Texas,School,22.0,22.0,23.0,11
+2020-03-28,Texas,Professional & Other Places,8.0,7.0,8.0,12
+2020-03-28,Texas,Discount Stores,58.0,50.0,58.0,13
+2020-03-28,Texas,Drug Store,68.0,60.0,68.0,14
+2020-03-28,Texas,Medical,27.0,23.0,27.0,15
+2020-03-28,Texas,Nightlife Spots,13.0,15.0,13.0,16
+2020-03-28,Texas,Arts & Entertainment,12.0,13.0,12.0,17
+2020-03-28,Texas,Hotel,27.0,21.0,27.0,18
+2020-03-28,Texas,Travel & Transport,12.0,10.0,12.0,19
+2020-03-28,Texas,Sports,15.0,18.0,14.0,20
+2020-03-28,Texas,Office,44.0,39.0,44.0,21
+2020-03-28,Texas,Colleges & Universities,20.0,22.0,20.0,22
+2020-03-28,Texas,Banks,46.0,41.0,46.0,23
+2020-03-28,Texas,Government,34.0,28.0,35.0,24
+2020-03-28,Texas,Airport,16.0,10.0,16.0,25
+2020-03-28,Texas,Fitness Center,17.0,14.0,17.0,26
+2020-03-28,Texas,Alcohol,64.0,47.0,65.0,27
+2020-03-28,Texas,Beach,62.0,30.0,63.0,28
+2020-03-28,Texas,Bus,40.0,48.0,40.0,29
+2020-03-28,Texas,Light Rail Stations,44.0,"",44.0,30
+2020-03-28,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-28,Texas,Gun Shops,67.0,"",67.0,32
+2020-03-29,Texas,Food,14.0,12.0,14.0,1
+2020-03-29,Texas,Shops & Services,9.0,9.0,9.0,2
+2020-03-29,Texas,Grocery,53.0,50.0,53.0,3
+2020-03-29,Texas,Outdoors & Recreation,25.0,25.0,25.0,4
+2020-03-29,Texas,Big Box Stores,54.0,51.0,54.0,5
+2020-03-29,Texas,Gas Stations,51.0,45.0,51.0,6
+2020-03-29,Texas,Fast Food Restaurants,52.0,46.0,52.0,7
+2020-03-29,Texas,Convenience Store,51.0,45.0,51.0,8
+2020-03-29,Texas,Hardware Stores,86.0,73.0,86.0,9
+2020-03-29,Texas,Residences,48.0,44.0,48.0,10
+2020-03-29,Texas,School,24.0,23.0,24.0,11
+2020-03-29,Texas,Discount Stores,53.0,47.0,53.0,12
+2020-03-29,Texas,Professional & Other Places,6.0,5.0,6.0,13
+2020-03-29,Texas,Drug Store,59.0,56.0,59.0,14
+2020-03-29,Texas,Nightlife Spots,10.0,13.0,10.0,15
+2020-03-29,Texas,Medical,24.0,19.0,25.0,16
+2020-03-29,Texas,Arts & Entertainment,10.0,12.0,10.0,17
+2020-03-29,Texas,Hotel,23.0,19.0,23.0,18
+2020-03-29,Texas,Sports,16.0,20.0,15.0,19
+2020-03-29,Texas,Travel & Transport,10.0,9.0,10.0,20
+2020-03-29,Texas,Office,39.0,36.0,39.0,21
+2020-03-29,Texas,Colleges & Universities,24.0,24.0,24.0,22
+2020-03-29,Texas,Airport,12.0,7.0,13.0,23
+2020-03-29,Texas,Government,31.0,26.0,31.0,24
+2020-03-29,Texas,Fitness Center,17.0,16.0,17.0,25
+2020-03-29,Texas,Banks,48.0,39.0,49.0,26
+2020-03-29,Texas,Alcohol,44.0,38.0,45.0,27
+2020-03-29,Texas,Beach,51.0,30.0,52.0,28
+2020-03-29,Texas,Bus,34.0,"",35.0,29
+2020-03-29,Texas,Light Rail Stations,38.0,"",38.0,30
+2020-03-29,Texas,Spiritual Center,1.0,"",1.0,31
+2020-03-30,Texas,Food,19.0,16.0,19.0,1
+2020-03-30,Texas,Shops & Services,14.0,12.0,14.0,2
+2020-03-30,Texas,Grocery,65.0,62.0,65.0,3
+2020-03-30,Texas,Gas Stations,60.0,51.0,60.0,4
+2020-03-30,Texas,Fast Food Restaurants,57.0,48.0,58.0,5
+2020-03-30,Texas,Outdoors & Recreation,25.0,22.0,26.0,6
+2020-03-30,Texas,Big Box Stores,61.0,55.0,62.0,7
+2020-03-30,Texas,Medical,24.0,19.0,24.0,8
+2020-03-30,Texas,Convenience Store,58.0,50.0,58.0,9
+2020-03-30,Texas,Professional & Other Places,8.0,8.0,8.0,10
+2020-03-30,Texas,School,18.0,21.0,18.0,11
+2020-03-30,Texas,Residences,56.0,49.0,56.0,12
+2020-03-30,Texas,Hardware Stores,78.0,64.0,78.0,13
+2020-03-30,Texas,Office,36.0,37.0,36.0,14
+2020-03-30,Texas,Drug Store,66.0,59.0,66.0,15
+2020-03-30,Texas,Discount Stores,63.0,55.0,63.0,16
+2020-03-30,Texas,Nightlife Spots,19.0,21.0,19.0,17
+2020-03-30,Texas,Arts & Entertainment,21.0,22.0,21.0,18
+2020-03-30,Texas,Hotel,32.0,25.0,33.0,19
+2020-03-30,Texas,Government,31.0,26.0,31.0,20
+2020-03-30,Texas,Travel & Transport,12.0,11.0,12.0,21
+2020-03-30,Texas,Colleges & Universities,15.0,22.0,14.0,22
+2020-03-30,Texas,Banks,58.0,51.0,59.0,23
+2020-03-30,Texas,Sports,15.0,15.0,15.0,24
+2020-03-30,Texas,Airport,13.0,9.0,13.0,25
+2020-03-30,Texas,Fitness Center,17.0,13.0,17.0,26
+2020-03-30,Texas,Alcohol,71.0,56.0,72.0,27
+2020-03-30,Texas,Bus,36.0,29.0,36.0,28
+2020-03-30,Texas,Light Rail Stations,45.0,37.0,45.0,29
+2020-03-30,Texas,Beach,54.0,37.0,55.0,30
+2020-03-30,Texas,Spiritual Center,2.0,"",2.0,31
+2020-03-31,Texas,Food,19.0,17.0,19.0,1
+2020-03-31,Texas,Shops & Services,13.0,13.0,13.0,2
+2020-03-31,Texas,Grocery,64.0,64.0,64.0,3
+2020-03-31,Texas,Gas Stations,60.0,56.0,60.0,4
+2020-03-31,Texas,Fast Food Restaurants,58.0,52.0,58.0,5
+2020-03-31,Texas,Outdoors & Recreation,26.0,25.0,26.0,6
+2020-03-31,Texas,Big Box Stores,63.0,62.0,63.0,7
+2020-03-31,Texas,Medical,22.0,18.0,22.0,8
+2020-03-31,Texas,Convenience Store,58.0,54.0,58.0,9
+2020-03-31,Texas,Professional & Other Places,7.0,7.0,7.0,10
+2020-03-31,Texas,School,14.0,18.0,14.0,11
+2020-03-31,Texas,Residences,58.0,57.0,58.0,12
+2020-03-31,Texas,Hardware Stores,81.0,68.0,82.0,13
+2020-03-31,Texas,Office,32.0,35.0,32.0,14
+2020-03-31,Texas,Drug Store,62.0,62.0,62.0,15
+2020-03-31,Texas,Discount Stores,59.0,51.0,59.0,16
+2020-03-31,Texas,Nightlife Spots,19.0,21.0,19.0,17
+2020-03-31,Texas,Arts & Entertainment,22.0,23.0,22.0,18
+2020-03-31,Texas,Hotel,30.0,26.0,30.0,19
+2020-03-31,Texas,Government,28.0,23.0,28.0,20
+2020-03-31,Texas,Travel & Transport,12.0,11.0,12.0,21
+2020-03-31,Texas,Banks,58.0,55.0,58.0,22
+2020-03-31,Texas,Colleges & Universities,11.0,18.0,11.0,23
+2020-03-31,Texas,Sports,15.0,19.0,15.0,24
+2020-03-31,Texas,Airport,15.0,10.0,15.0,25
+2020-03-31,Texas,Fitness Center,14.0,15.0,14.0,26
+2020-03-31,Texas,Alcohol,77.0,66.0,78.0,27
+2020-03-31,Texas,Bus,32.0,32.0,32.0,28
+2020-03-31,Texas,Beach,62.0,36.0,64.0,29
+2020-03-31,Texas,Light Rail Stations,39.0,"",39.0,30
+2020-03-31,Texas,Spiritual Center,2.0,"",2.0,31
+2020-04-01,Texas,Food,20.0,17.0,20.0,1
+2020-04-01,Texas,Shops & Services,14.0,13.0,14.0,2
+2020-04-01,Texas,Grocery,71.0,64.0,71.0,3
+2020-04-01,Texas,Gas Stations,67.0,62.0,67.0,4
+2020-04-01,Texas,Fast Food Restaurants,65.0,58.0,65.0,5
+2020-04-01,Texas,Outdoors & Recreation,32.0,32.0,32.0,6
+2020-04-01,Texas,Big Box Stores,71.0,61.0,72.0,7
+2020-04-01,Texas,Convenience Store,64.0,57.0,65.0,8
+2020-04-01,Texas,Medical,24.0,19.0,24.0,9
+2020-04-01,Texas,School,16.0,20.0,16.0,10
+2020-04-01,Texas,Professional & Other Places,8.0,8.0,8.0,11
+2020-04-01,Texas,Residences,66.0,68.0,66.0,12
+2020-04-01,Texas,Hardware Stores,96.0,81.0,97.0,13
+2020-04-01,Texas,Office,35.0,34.0,35.0,14
+2020-04-01,Texas,Discount Stores,71.0,63.0,71.0,15
+2020-04-01,Texas,Drug Store,69.0,67.0,69.0,16
+2020-04-01,Texas,Nightlife Spots,20.0,23.0,20.0,17
+2020-04-01,Texas,Arts & Entertainment,23.0,25.0,23.0,18
+2020-04-01,Texas,Government,31.0,27.0,31.0,19
+2020-04-01,Texas,Hotel,32.0,28.0,32.0,20
+2020-04-01,Texas,Travel & Transport,13.0,13.0,13.0,21
+2020-04-01,Texas,Banks,69.0,65.0,69.0,22
+2020-04-01,Texas,Colleges & Universities,13.0,21.0,12.0,23
+2020-04-01,Texas,Sports,18.0,25.0,18.0,24
+2020-04-01,Texas,Fitness Center,16.0,16.0,16.0,25
+2020-04-01,Texas,Airport,15.0,10.0,15.0,26
+2020-04-01,Texas,Alcohol,84.0,73.0,84.0,27
+2020-04-01,Texas,Bus,37.0,39.0,37.0,28
+2020-04-01,Texas,Beach,89.0,53.0,91.0,29
+2020-04-01,Texas,Light Rail Stations,44.0,38.0,44.0,30
+2020-04-01,Texas,Spiritual Center,2.0,"",2.0,31
+2020-04-01,Texas,Gun Shops,83.0,"",83.0,32

@@ -1,0 +1,842 @@
+2020-03-01,Hawaii,Shops & Services,61.0,53.0,62.0,1
+2020-03-01,Hawaii,Food,41.0,42.0,41.0,2
+2020-03-01,Hawaii,Hotel,59.0,51.0,60.0,3
+2020-03-01,Hawaii,Outdoors & Recreation,30.0,29.0,30.0,4
+2020-03-01,Hawaii,Grocery,94.0,89.0,94.0,5
+2020-03-01,Hawaii,Airport,61.0,46.0,61.0,6
+2020-03-01,Hawaii,Beach,69.0,59.0,69.0,7
+2020-03-01,Hawaii,Arts & Entertainment,54.0,51.0,54.0,8
+2020-03-01,Hawaii,Nightlife Spots,60.0,56.0,60.0,9
+2020-03-01,Hawaii,Fast Food Restaurants,102.0,103.0,102.0,10
+2020-03-01,Hawaii,Residences,87.0,83.0,87.0,11
+2020-03-01,Hawaii,Big Box Stores,106.0,94.0,106.0,12
+2020-03-01,Hawaii,Professional & Other Places,19.0,18.0,19.0,13
+2020-03-01,Hawaii,Gas Stations,97.0,91.0,97.0,14
+2020-03-01,Hawaii,Travel & Transport,29.0,23.0,29.0,15
+2020-03-01,Hawaii,Drug Store,110.0,107.0,110.0,16
+2020-03-01,Hawaii,Convenience Store,90.0,93.0,90.0,17
+2020-03-01,Hawaii,Sports,33.0,36.0,33.0,18
+2020-03-01,Hawaii,School,44.0,47.0,44.0,19
+2020-03-01,Hawaii,Fitness Center,66.0,73.0,65.0,20
+2020-03-01,Hawaii,Government,73.0,79.0,73.0,21
+2020-03-01,Hawaii,Hardware Stores,95.0,96.0,95.0,22
+2020-03-01,Hawaii,Medical,52.0,"",53.0,23
+2020-03-01,Hawaii,Colleges & Universities,76.0,"",77.0,24
+2020-03-01,Hawaii,Banks,109.0,"",108.0,25
+2020-03-01,Hawaii,Office,78.0,"",77.0,26
+2020-03-01,Hawaii,Bus,74.0,"",74.0,27
+2020-03-02,Hawaii,Food,41.0,40.0,41.0,1
+2020-03-02,Hawaii,Shops & Services,37.0,37.0,37.0,2
+2020-03-02,Hawaii,Hotel,63.0,60.0,64.0,3
+2020-03-02,Hawaii,Outdoors & Recreation,32.0,30.0,32.0,4
+2020-03-02,Hawaii,Airport,62.0,72.0,62.0,5
+2020-03-02,Hawaii,Grocery,98.0,104.0,98.0,6
+2020-03-02,Hawaii,Beach,72.0,72.0,72.0,7
+2020-03-02,Hawaii,Professional & Other Places,20.0,19.0,20.0,8
+2020-03-02,Hawaii,Fast Food Restaurants,105.0,94.0,105.0,9
+2020-03-02,Hawaii,Nightlife Spots,46.0,45.0,46.0,10
+2020-03-02,Hawaii,Arts & Entertainment,78.0,86.0,78.0,11
+2020-03-02,Hawaii,Residences,90.0,84.0,90.0,12
+2020-03-02,Hawaii,Medical,64.0,74.0,63.0,13
+2020-03-02,Hawaii,Government,99.0,90.0,100.0,14
+2020-03-02,Hawaii,Gas Stations,106.0,123.0,105.0,15
+2020-03-02,Hawaii,Travel & Transport,19.0,14.0,19.0,16
+2020-03-02,Hawaii,Drug Store,110.0,150.0,108.0,17
+2020-03-02,Hawaii,Big Box Stores,106.0,105.0,106.0,18
+2020-03-02,Hawaii,School,56.0,50.0,56.0,19
+2020-03-02,Hawaii,Convenience Store,91.0,77.0,92.0,20
+2020-03-02,Hawaii,Fitness Center,74.0,63.0,75.0,21
+2020-03-02,Hawaii,Colleges & Universities,99.0,"",99.0,22
+2020-03-02,Hawaii,Sports,33.0,35.0,33.0,23
+2020-03-02,Hawaii,Hardware Stores,106.0,99.0,107.0,24
+2020-03-02,Hawaii,Office,94.0,94.0,94.0,25
+2020-03-02,Hawaii,Banks,116.0,"",117.0,26
+2020-03-02,Hawaii,Bus,85.0,"",84.0,27
+2020-03-03,Hawaii,Food,39.0,36.0,39.0,1
+2020-03-03,Hawaii,Shops & Services,74.0,70.0,74.0,2
+2020-03-03,Hawaii,Hotel,59.0,59.0,59.0,3
+2020-03-03,Hawaii,Outdoors & Recreation,34.0,33.0,34.0,4
+2020-03-03,Hawaii,Grocery,104.0,100.0,104.0,5
+2020-03-03,Hawaii,Airport,54.0,48.0,54.0,6
+2020-03-03,Hawaii,Beach,78.0,83.0,78.0,7
+2020-03-03,Hawaii,Professional & Other Places,19.0,20.0,19.0,8
+2020-03-03,Hawaii,Medical,57.0,48.0,58.0,9
+2020-03-03,Hawaii,School,56.0,55.0,57.0,10
+2020-03-03,Hawaii,Fast Food Restaurants,102.0,97.0,103.0,11
+2020-03-03,Hawaii,Government,83.0,81.0,83.0,12
+2020-03-03,Hawaii,Nightlife Spots,45.0,42.0,45.0,13
+2020-03-03,Hawaii,Residences,96.0,85.0,96.0,14
+2020-03-03,Hawaii,Gas Stations,102.0,89.0,102.0,15
+2020-03-03,Hawaii,Arts & Entertainment,73.0,81.0,73.0,16
+2020-03-03,Hawaii,Travel & Transport,21.0,19.0,22.0,17
+2020-03-03,Hawaii,Drug Store,108.0,115.0,108.0,18
+2020-03-03,Hawaii,Convenience Store,98.0,101.0,98.0,19
+2020-03-03,Hawaii,Fitness Center,65.0,59.0,65.0,20
+2020-03-03,Hawaii,Big Box Stores,95.0,86.0,95.0,21
+2020-03-03,Hawaii,Colleges & Universities,50.0,56.0,50.0,22
+2020-03-03,Hawaii,Sports,31.0,39.0,31.0,23
+2020-03-03,Hawaii,Office,83.0,102.0,82.0,24
+2020-03-03,Hawaii,Banks,122.0,158.0,120.0,25
+2020-03-03,Hawaii,Hardware Stores,106.0,73.0,109.0,26
+2020-03-03,Hawaii,Bus,84.0,"",84.0,27
+2020-03-04,Hawaii,Food,40.0,37.0,40.0,1
+2020-03-04,Hawaii,Shops & Services,65.0,55.0,66.0,2
+2020-03-04,Hawaii,Hotel,60.0,56.0,61.0,3
+2020-03-04,Hawaii,Outdoors & Recreation,33.0,29.0,34.0,4
+2020-03-04,Hawaii,Grocery,98.0,85.0,99.0,5
+2020-03-04,Hawaii,Beach,78.0,63.0,79.0,6
+2020-03-04,Hawaii,Airport,57.0,47.0,57.0,7
+2020-03-04,Hawaii,Professional & Other Places,18.0,18.0,18.0,8
+2020-03-04,Hawaii,School,53.0,62.0,53.0,9
+2020-03-04,Hawaii,Fast Food Restaurants,95.0,97.0,95.0,10
+2020-03-04,Hawaii,Medical,51.0,48.0,51.0,11
+2020-03-04,Hawaii,Arts & Entertainment,75.0,78.0,75.0,12
+2020-03-04,Hawaii,Residences,94.0,87.0,94.0,13
+2020-03-04,Hawaii,Nightlife Spots,42.0,46.0,42.0,14
+2020-03-04,Hawaii,Government,73.0,69.0,73.0,15
+2020-03-04,Hawaii,Gas Stations,96.0,78.0,97.0,16
+2020-03-04,Hawaii,Travel & Transport,19.0,15.0,19.0,17
+2020-03-04,Hawaii,Convenience Store,100.0,91.0,101.0,18
+2020-03-04,Hawaii,Drug Store,96.0,90.0,96.0,19
+2020-03-04,Hawaii,Fitness Center,65.0,59.0,65.0,20
+2020-03-04,Hawaii,Big Box Stores,99.0,91.0,100.0,21
+2020-03-04,Hawaii,Colleges & Universities,45.0,44.0,45.0,22
+2020-03-04,Hawaii,Sports,34.0,45.0,33.0,23
+2020-03-04,Hawaii,Office,82.0,69.0,83.0,24
+2020-03-04,Hawaii,Hardware Stores,93.0,78.0,94.0,25
+2020-03-04,Hawaii,Banks,100.0,94.0,100.0,26
+2020-03-04,Hawaii,Bus,71.0,"",70.0,27
+2020-03-05,Hawaii,Food,39.0,37.0,40.0,1
+2020-03-05,Hawaii,Shops & Services,63.0,58.0,63.0,2
+2020-03-05,Hawaii,Hotel,62.0,60.0,62.0,3
+2020-03-05,Hawaii,Outdoors & Recreation,39.0,38.0,39.0,4
+2020-03-05,Hawaii,Beach,83.0,77.0,84.0,5
+2020-03-05,Hawaii,Grocery,96.0,89.0,96.0,6
+2020-03-05,Hawaii,Airport,53.0,39.0,53.0,7
+2020-03-05,Hawaii,Professional & Other Places,18.0,19.0,18.0,8
+2020-03-05,Hawaii,Medical,56.0,66.0,55.0,9
+2020-03-05,Hawaii,School,56.0,61.0,56.0,10
+2020-03-05,Hawaii,Fast Food Restaurants,96.0,98.0,96.0,11
+2020-03-05,Hawaii,Nightlife Spots,43.0,43.0,43.0,11
+2020-03-05,Hawaii,Arts & Entertainment,75.0,76.0,75.0,12
+2020-03-05,Hawaii,Residences,97.0,90.0,98.0,13
+2020-03-05,Hawaii,Government,73.0,63.0,73.0,14
+2020-03-05,Hawaii,Gas Stations,102.0,101.0,102.0,15
+2020-03-05,Hawaii,Travel & Transport,10.0,10.0,10.0,16
+2020-03-05,Hawaii,Drug Store,101.0,98.0,101.0,17
+2020-03-05,Hawaii,Convenience Store,102.0,104.0,101.0,18
+2020-03-05,Hawaii,Big Box Stores,99.0,93.0,99.0,19
+2020-03-05,Hawaii,Fitness Center,69.0,81.0,68.0,20
+2020-03-05,Hawaii,Colleges & Universities,81.0,94.0,81.0,21
+2020-03-05,Hawaii,Sports,36.0,45.0,36.0,22
+2020-03-05,Hawaii,Office,77.0,63.0,78.0,23
+2020-03-05,Hawaii,Hardware Stores,91.0,81.0,92.0,24
+2020-03-05,Hawaii,Banks,103.0,91.0,104.0,25
+2020-03-05,Hawaii,Bus,79.0,"",80.0,26
+2020-03-06,Hawaii,Food,40.0,38.0,40.0,1
+2020-03-06,Hawaii,Shops & Services,53.0,46.0,53.0,2
+2020-03-06,Hawaii,Hotel,63.0,64.0,63.0,3
+2020-03-06,Hawaii,Outdoors & Recreation,34.0,29.0,34.0,4
+2020-03-06,Hawaii,Grocery,94.0,87.0,94.0,5
+2020-03-06,Hawaii,Airport,56.0,50.0,56.0,6
+2020-03-06,Hawaii,Beach,75.0,67.0,75.0,7
+2020-03-06,Hawaii,Professional & Other Places,18.0,19.0,18.0,8
+2020-03-06,Hawaii,Fast Food Restaurants,100.0,86.0,100.0,9
+2020-03-06,Hawaii,Nightlife Spots,46.0,39.0,46.0,10
+2020-03-06,Hawaii,School,53.0,54.0,53.0,11
+2020-03-06,Hawaii,Arts & Entertainment,75.0,87.0,75.0,12
+2020-03-06,Hawaii,Medical,51.0,47.0,52.0,13
+2020-03-06,Hawaii,Residences,96.0,80.0,96.0,14
+2020-03-06,Hawaii,Government,73.0,64.0,73.0,15
+2020-03-06,Hawaii,Gas Stations,95.0,89.0,95.0,16
+2020-03-06,Hawaii,Travel & Transport,18.0,16.0,18.0,17
+2020-03-06,Hawaii,Convenience Store,98.0,90.0,99.0,18
+2020-03-06,Hawaii,Big Box Stores,96.0,80.0,97.0,19
+2020-03-06,Hawaii,Drug Store,89.0,81.0,89.0,20
+2020-03-06,Hawaii,Colleges & Universities,50.0,48.0,50.0,21
+2020-03-06,Hawaii,Fitness Center,66.0,67.0,66.0,22
+2020-03-06,Hawaii,Sports,32.0,30.0,32.0,23
+2020-03-06,Hawaii,Office,82.0,70.0,82.0,24
+2020-03-06,Hawaii,Hardware Stores,98.0,95.0,99.0,25
+2020-03-06,Hawaii,Banks,94.0,107.0,94.0,26
+2020-03-06,Hawaii,Bus,65.0,"",65.0,27
+2020-03-07,Hawaii,Shops & Services,60.0,51.0,61.0,1
+2020-03-07,Hawaii,Food,40.0,34.0,40.0,2
+2020-03-07,Hawaii,Hotel,60.0,57.0,60.0,3
+2020-03-07,Hawaii,Outdoors & Recreation,66.0,53.0,66.0,4
+2020-03-07,Hawaii,Grocery,92.0,93.0,92.0,5
+2020-03-07,Hawaii,Airport,63.0,56.0,63.0,6
+2020-03-07,Hawaii,Beach,72.0,69.0,72.0,7
+2020-03-07,Hawaii,Nightlife Spots,44.0,39.0,44.0,8
+2020-03-07,Hawaii,Fast Food Restaurants,100.0,91.0,101.0,9
+2020-03-07,Hawaii,Professional & Other Places,23.0,23.0,23.0,10
+2020-03-07,Hawaii,Arts & Entertainment,77.0,66.0,77.0,11
+2020-03-07,Hawaii,Residences,88.0,82.0,88.0,12
+2020-03-07,Hawaii,School,57.0,62.0,57.0,13
+2020-03-07,Hawaii,Gas Stations,90.0,80.0,91.0,14
+2020-03-07,Hawaii,Travel & Transport,23.0,18.0,23.0,15
+2020-03-07,Hawaii,Big Box Stores,102.0,101.0,102.0,16
+2020-03-07,Hawaii,Drug Store,102.0,103.0,102.0,17
+2020-03-07,Hawaii,Convenience Store,92.0,85.0,92.0,18
+2020-03-07,Hawaii,Medical,52.0,49.0,52.0,19
+2020-03-07,Hawaii,Colleges & Universities,62.0,80.0,61.0,20
+2020-03-07,Hawaii,Sports,35.0,35.0,35.0,21
+2020-03-07,Hawaii,Fitness Center,63.0,58.0,64.0,22
+2020-03-07,Hawaii,Government,70.0,71.0,70.0,23
+2020-03-07,Hawaii,Hardware Stores,98.0,90.0,99.0,24
+2020-03-07,Hawaii,Banks,89.0,"",89.0,25
+2020-03-07,Hawaii,Office,80.0,"",80.0,26
+2020-03-07,Hawaii,Bus,77.0,"",78.0,27
+2020-03-08,Hawaii,Food,41.0,39.0,41.0,1
+2020-03-08,Hawaii,Shops & Services,35.0,34.0,35.0,2
+2020-03-08,Hawaii,Hotel,60.0,52.0,61.0,3
+2020-03-08,Hawaii,Outdoors & Recreation,55.0,41.0,56.0,4
+2020-03-08,Hawaii,Grocery,93.0,79.0,93.0,5
+2020-03-08,Hawaii,Airport,58.0,49.0,59.0,6
+2020-03-08,Hawaii,Beach,71.0,59.0,71.0,7
+2020-03-08,Hawaii,Nightlife Spots,46.0,39.0,46.0,8
+2020-03-08,Hawaii,Arts & Entertainment,81.0,68.0,81.0,9
+2020-03-08,Hawaii,Fast Food Restaurants,97.0,98.0,97.0,10
+2020-03-08,Hawaii,Residences,93.0,80.0,94.0,11
+2020-03-08,Hawaii,Professional & Other Places,22.0,18.0,22.0,12
+2020-03-08,Hawaii,Travel & Transport,31.0,29.0,32.0,13
+2020-03-08,Hawaii,Big Box Stores,100.0,94.0,100.0,14
+2020-03-08,Hawaii,Gas Stations,92.0,85.0,92.0,15
+2020-03-08,Hawaii,Drug Store,99.0,85.0,100.0,16
+2020-03-08,Hawaii,Convenience Store,89.0,91.0,89.0,17
+2020-03-08,Hawaii,School,51.0,51.0,51.0,18
+2020-03-08,Hawaii,Sports,34.0,28.0,34.0,19
+2020-03-08,Hawaii,Fitness Center,70.0,57.0,71.0,20
+2020-03-08,Hawaii,Hardware Stores,109.0,98.0,110.0,21
+2020-03-08,Hawaii,Government,77.0,78.0,77.0,22
+2020-03-08,Hawaii,Colleges & Universities,47.0,"",47.0,23
+2020-03-08,Hawaii,Medical,46.0,"",46.0,24
+2020-03-08,Hawaii,Banks,93.0,"",93.0,25
+2020-03-08,Hawaii,Bus,80.0,"",80.0,26
+2020-03-08,Hawaii,Office,73.0,"",74.0,27
+2020-03-09,Hawaii,Food,43.0,42.0,43.0,1
+2020-03-09,Hawaii,Shops & Services,34.0,30.0,34.0,2
+2020-03-09,Hawaii,Hotel,63.0,53.0,64.0,3
+2020-03-09,Hawaii,Outdoors & Recreation,57.0,43.0,57.0,4
+2020-03-09,Hawaii,Airport,57.0,50.0,57.0,5
+2020-03-09,Hawaii,Beach,78.0,82.0,78.0,6
+2020-03-09,Hawaii,Grocery,99.0,95.0,99.0,7
+2020-03-09,Hawaii,Professional & Other Places,21.0,19.0,21.0,8
+2020-03-09,Hawaii,Nightlife Spots,46.0,51.0,46.0,9
+2020-03-09,Hawaii,Arts & Entertainment,79.0,76.0,79.0,10
+2020-03-09,Hawaii,Fast Food Restaurants,100.0,88.0,101.0,11
+2020-03-09,Hawaii,Residences,95.0,83.0,96.0,12
+2020-03-09,Hawaii,Travel & Transport,34.0,28.0,34.0,13
+2020-03-09,Hawaii,Gas Stations,105.0,107.0,105.0,14
+2020-03-09,Hawaii,Medical,57.0,54.0,57.0,15
+2020-03-09,Hawaii,Government,87.0,83.0,87.0,16
+2020-03-09,Hawaii,School,58.0,66.0,58.0,17
+2020-03-09,Hawaii,Big Box Stores,107.0,90.0,107.0,18
+2020-03-09,Hawaii,Drug Store,103.0,104.0,103.0,19
+2020-03-09,Hawaii,Convenience Store,96.0,88.0,97.0,20
+2020-03-09,Hawaii,Fitness Center,77.0,59.0,78.0,21
+2020-03-09,Hawaii,Sports,38.0,39.0,38.0,22
+2020-03-09,Hawaii,Colleges & Universities,96.0,"",97.0,23
+2020-03-09,Hawaii,Hardware Stores,102.0,101.0,102.0,24
+2020-03-09,Hawaii,Office,80.0,77.0,80.0,25
+2020-03-09,Hawaii,Banks,107.0,108.0,107.0,26
+2020-03-09,Hawaii,Bus,74.0,"",74.0,27
+2020-03-10,Hawaii,Food,40.0,36.0,40.0,1
+2020-03-10,Hawaii,Shops & Services,32.0,31.0,32.0,2
+2020-03-10,Hawaii,Hotel,58.0,41.0,59.0,3
+2020-03-10,Hawaii,Outdoors & Recreation,69.0,54.0,70.0,4
+2020-03-10,Hawaii,Airport,54.0,40.0,55.0,5
+2020-03-10,Hawaii,Grocery,95.0,88.0,95.0,6
+2020-03-10,Hawaii,Beach,75.0,58.0,76.0,7
+2020-03-10,Hawaii,Professional & Other Places,18.0,17.0,18.0,8
+2020-03-10,Hawaii,Medical,55.0,51.0,56.0,9
+2020-03-10,Hawaii,Fast Food Restaurants,101.0,91.0,101.0,10
+2020-03-10,Hawaii,School,56.0,52.0,56.0,11
+2020-03-10,Hawaii,Nightlife Spots,45.0,46.0,45.0,12
+2020-03-10,Hawaii,Residences,93.0,82.0,93.0,13
+2020-03-10,Hawaii,Government,78.0,73.0,78.0,14
+2020-03-10,Hawaii,Arts & Entertainment,46.0,50.0,46.0,15
+2020-03-10,Hawaii,Travel & Transport,29.0,23.0,30.0,16
+2020-03-10,Hawaii,Gas Stations,87.0,72.0,88.0,17
+2020-03-10,Hawaii,Drug Store,99.0,107.0,99.0,18
+2020-03-10,Hawaii,Big Box Stores,104.0,88.0,105.0,19
+2020-03-10,Hawaii,Fitness Center,62.0,57.0,62.0,20
+2020-03-10,Hawaii,Colleges & Universities,50.0,60.0,50.0,21
+2020-03-10,Hawaii,Convenience Store,88.0,76.0,89.0,22
+2020-03-10,Hawaii,Sports,33.0,38.0,32.0,23
+2020-03-10,Hawaii,Office,77.0,76.0,77.0,24
+2020-03-10,Hawaii,Hardware Stores,90.0,84.0,90.0,25
+2020-03-10,Hawaii,Banks,95.0,101.0,95.0,26
+2020-03-10,Hawaii,Bus,76.0,"",75.0,27
+2020-03-11,Hawaii,Food,38.0,33.0,38.0,1
+2020-03-11,Hawaii,Shops & Services,32.0,29.0,32.0,2
+2020-03-11,Hawaii,Hotel,60.0,47.0,61.0,3
+2020-03-11,Hawaii,Outdoors & Recreation,31.0,25.0,31.0,4
+2020-03-11,Hawaii,Grocery,96.0,85.0,97.0,5
+2020-03-11,Hawaii,Airport,58.0,50.0,59.0,6
+2020-03-11,Hawaii,Beach,78.0,61.0,79.0,7
+2020-03-11,Hawaii,Professional & Other Places,17.0,18.0,17.0,8
+2020-03-11,Hawaii,School,54.0,62.0,54.0,9
+2020-03-11,Hawaii,Medical,53.0,54.0,53.0,10
+2020-03-11,Hawaii,Fast Food Restaurants,96.0,102.0,96.0,11
+2020-03-11,Hawaii,Nightlife Spots,44.0,43.0,44.0,12
+2020-03-11,Hawaii,Arts & Entertainment,73.0,51.0,74.0,13
+2020-03-11,Hawaii,Residences,93.0,87.0,93.0,14
+2020-03-11,Hawaii,Government,73.0,73.0,74.0,15
+2020-03-11,Hawaii,Gas Stations,95.0,90.0,95.0,16
+2020-03-11,Hawaii,Travel & Transport,33.0,26.0,34.0,17
+2020-03-11,Hawaii,Fitness Center,66.0,53.0,67.0,18
+2020-03-11,Hawaii,Drug Store,93.0,88.0,93.0,19
+2020-03-11,Hawaii,Colleges & Universities,46.0,48.0,46.0,20
+2020-03-11,Hawaii,Convenience Store,84.0,70.0,84.0,21
+2020-03-11,Hawaii,Big Box Stores,92.0,67.0,93.0,22
+2020-03-11,Hawaii,Sports,33.0,37.0,33.0,23
+2020-03-11,Hawaii,Office,72.0,83.0,72.0,24
+2020-03-11,Hawaii,Hardware Stores,86.0,85.0,86.0,25
+2020-03-11,Hawaii,Banks,91.0,87.0,91.0,26
+2020-03-11,Hawaii,Bus,71.0,"",72.0,27
+2020-03-12,Hawaii,Food,39.0,35.0,39.0,1
+2020-03-12,Hawaii,Shops & Services,33.0,31.0,33.0,2
+2020-03-12,Hawaii,Hotel,60.0,53.0,60.0,3
+2020-03-12,Hawaii,Outdoors & Recreation,31.0,28.0,31.0,4
+2020-03-12,Hawaii,Grocery,102.0,94.0,103.0,5
+2020-03-12,Hawaii,Airport,56.0,49.0,56.0,6
+2020-03-12,Hawaii,Beach,71.0,62.0,72.0,7
+2020-03-12,Hawaii,Professional & Other Places,17.0,18.0,17.0,8
+2020-03-12,Hawaii,Nightlife Spots,43.0,40.0,43.0,9
+2020-03-12,Hawaii,Fast Food Restaurants,94.0,86.0,94.0,10
+2020-03-12,Hawaii,School,51.0,47.0,51.0,11
+2020-03-12,Hawaii,Medical,48.0,43.0,48.0,12
+2020-03-12,Hawaii,Residences,93.0,78.0,94.0,13
+2020-03-12,Hawaii,Arts & Entertainment,63.0,55.0,63.0,14
+2020-03-12,Hawaii,Gas Stations,96.0,104.0,96.0,15
+2020-03-12,Hawaii,Government,64.0,48.0,65.0,16
+2020-03-12,Hawaii,Travel & Transport,50.0,37.0,51.0,17
+2020-03-12,Hawaii,Drug Store,100.0,97.0,100.0,18
+2020-03-12,Hawaii,Big Box Stores,99.0,93.0,99.0,19
+2020-03-12,Hawaii,Convenience Store,89.0,73.0,89.0,20
+2020-03-12,Hawaii,Fitness Center,60.0,69.0,60.0,21
+2020-03-12,Hawaii,Colleges & Universities,45.0,"",45.0,22
+2020-03-12,Hawaii,Sports,32.0,31.0,32.0,23
+2020-03-12,Hawaii,Office,70.0,60.0,70.0,24
+2020-03-12,Hawaii,Hardware Stores,85.0,73.0,86.0,25
+2020-03-12,Hawaii,Banks,89.0,88.0,89.0,26
+2020-03-12,Hawaii,Bus,72.0,"",73.0,27
+2020-03-13,Hawaii,Shops & Services,60.0,46.0,61.0,1
+2020-03-13,Hawaii,Food,38.0,33.0,38.0,2
+2020-03-13,Hawaii,Hotel,58.0,51.0,59.0,3
+2020-03-13,Hawaii,Outdoors & Recreation,35.0,31.0,35.0,4
+2020-03-13,Hawaii,Grocery,105.0,93.0,105.0,5
+2020-03-13,Hawaii,Airport,63.0,46.0,63.0,6
+2020-03-13,Hawaii,Beach,73.0,62.0,74.0,7
+2020-03-13,Hawaii,Professional & Other Places,18.0,18.0,18.0,8
+2020-03-13,Hawaii,Fast Food Restaurants,99.0,90.0,99.0,9
+2020-03-13,Hawaii,Medical,56.0,50.0,57.0,10
+2020-03-13,Hawaii,Nightlife Spots,42.0,35.0,42.0,11
+2020-03-13,Hawaii,School,50.0,50.0,50.0,12
+2020-03-13,Hawaii,Arts & Entertainment,71.0,59.0,71.0,13
+2020-03-13,Hawaii,Residences,93.0,76.0,93.0,14
+2020-03-13,Hawaii,Travel & Transport,33.0,23.0,34.0,15
+2020-03-13,Hawaii,Gas Stations,96.0,79.0,97.0,16
+2020-03-13,Hawaii,Government,69.0,52.0,69.0,17
+2020-03-13,Hawaii,Big Box Stores,109.0,85.0,110.0,18
+2020-03-13,Hawaii,Drug Store,101.0,105.0,101.0,19
+2020-03-13,Hawaii,Convenience Store,89.0,83.0,89.0,20
+2020-03-13,Hawaii,Fitness Center,60.0,55.0,60.0,21
+2020-03-13,Hawaii,Colleges & Universities,39.0,34.0,40.0,22
+2020-03-13,Hawaii,Sports,30.0,36.0,29.0,23
+2020-03-13,Hawaii,Hardware Stores,93.0,95.0,93.0,24
+2020-03-13,Hawaii,Office,70.0,65.0,70.0,25
+2020-03-13,Hawaii,Banks,95.0,88.0,95.0,26
+2020-03-13,Hawaii,Bus,69.0,"",69.0,27
+2020-03-14,Hawaii,Shops & Services,66.0,56.0,67.0,1
+2020-03-14,Hawaii,Food,37.0,32.0,37.0,2
+2020-03-14,Hawaii,Hotel,59.0,49.0,60.0,3
+2020-03-14,Hawaii,Outdoors & Recreation,29.0,27.0,29.0,4
+2020-03-14,Hawaii,Grocery,102.0,105.0,102.0,5
+2020-03-14,Hawaii,Airport,62.0,54.0,63.0,6
+2020-03-14,Hawaii,Beach,73.0,65.0,73.0,7
+2020-03-14,Hawaii,Nightlife Spots,44.0,40.0,45.0,8
+2020-03-14,Hawaii,Fast Food Restaurants,92.0,88.0,92.0,9
+2020-03-14,Hawaii,Arts & Entertainment,70.0,63.0,70.0,10
+2020-03-14,Hawaii,Professional & Other Places,18.0,15.0,18.0,11
+2020-03-14,Hawaii,Residences,90.0,85.0,90.0,12
+2020-03-14,Hawaii,Gas Stations,93.0,79.0,94.0,13
+2020-03-14,Hawaii,Big Box Stores,105.0,85.0,106.0,14
+2020-03-14,Hawaii,Travel & Transport,43.0,30.0,44.0,15
+2020-03-14,Hawaii,Drug Store,108.0,96.0,108.0,16
+2020-03-14,Hawaii,School,46.0,43.0,46.0,17
+2020-03-14,Hawaii,Medical,50.0,54.0,50.0,18
+2020-03-14,Hawaii,Convenience Store,81.0,66.0,82.0,19
+2020-03-14,Hawaii,Fitness Center,63.0,57.0,63.0,20
+2020-03-14,Hawaii,Sports,28.0,29.0,28.0,21
+2020-03-14,Hawaii,Government,66.0,65.0,66.0,22
+2020-03-14,Hawaii,Hardware Stores,95.0,94.0,95.0,23
+2020-03-14,Hawaii,Banks,86.0,104.0,85.0,24
+2020-03-14,Hawaii,Colleges & Universities,32.0,"",32.0,25
+2020-03-14,Hawaii,Office,73.0,"",73.0,26
+2020-03-14,Hawaii,Bus,70.0,"",70.0,27
+2020-03-15,Hawaii,Shops & Services,30.0,26.0,30.0,1
+2020-03-15,Hawaii,Food,34.0,27.0,34.0,2
+2020-03-15,Hawaii,Hotel,55.0,44.0,56.0,3
+2020-03-15,Hawaii,Outdoors & Recreation,28.0,23.0,28.0,4
+2020-03-15,Hawaii,Grocery,97.0,89.0,97.0,5
+2020-03-15,Hawaii,Airport,56.0,48.0,56.0,6
+2020-03-15,Hawaii,Beach,69.0,48.0,71.0,7
+2020-03-15,Hawaii,Nightlife Spots,41.0,35.0,41.0,8
+2020-03-15,Hawaii,Arts & Entertainment,42.0,43.0,42.0,9
+2020-03-15,Hawaii,Fast Food Restaurants,88.0,81.0,88.0,10
+2020-03-15,Hawaii,Residences,79.0,82.0,79.0,11
+2020-03-15,Hawaii,Big Box Stores,101.0,79.0,101.0,12
+2020-03-15,Hawaii,Drug Store,100.0,91.0,101.0,13
+2020-03-15,Hawaii,Gas Stations,83.0,70.0,83.0,14
+2020-03-15,Hawaii,Professional & Other Places,16.0,15.0,16.0,15
+2020-03-15,Hawaii,Travel & Transport,25.0,13.0,25.0,16
+2020-03-15,Hawaii,Convenience Store,79.0,72.0,79.0,17
+2020-03-15,Hawaii,Sports,29.0,25.0,30.0,18
+2020-03-15,Hawaii,School,38.0,35.0,38.0,19
+2020-03-15,Hawaii,Fitness Center,62.0,"",63.0,20
+2020-03-15,Hawaii,Hardware Stores,97.0,74.0,98.0,21
+2020-03-15,Hawaii,Government,57.0,"",58.0,22
+2020-03-15,Hawaii,Medical,42.0,"",42.0,23
+2020-03-15,Hawaii,Colleges & Universities,30.0,"",31.0,24
+2020-03-15,Hawaii,Banks,83.0,"",82.0,25
+2020-03-15,Hawaii,Office,65.0,"",66.0,26
+2020-03-15,Hawaii,Bus,63.0,"",63.0,27
+2020-03-16,Hawaii,Shops & Services,68.0,56.0,69.0,1
+2020-03-16,Hawaii,Food,34.0,29.0,35.0,2
+2020-03-16,Hawaii,Hotel,51.0,36.0,52.0,3
+2020-03-16,Hawaii,Outdoors & Recreation,25.0,18.0,25.0,4
+2020-03-16,Hawaii,Grocery,115.0,94.0,117.0,5
+2020-03-16,Hawaii,Airport,51.0,44.0,52.0,6
+2020-03-16,Hawaii,Beach,58.0,46.0,59.0,7
+2020-03-16,Hawaii,Professional & Other Places,20.0,19.0,20.0,8
+2020-03-16,Hawaii,Fast Food Restaurants,92.0,80.0,92.0,9
+2020-03-16,Hawaii,Residences,92.0,84.0,92.0,10
+2020-03-16,Hawaii,Nightlife Spots,39.0,28.0,40.0,11
+2020-03-16,Hawaii,Arts & Entertainment,70.0,47.0,70.0,12
+2020-03-16,Hawaii,Gas Stations,96.0,73.0,97.0,13
+2020-03-16,Hawaii,Drug Store,114.0,107.0,114.0,14
+2020-03-16,Hawaii,Big Box Stores,108.0,85.0,109.0,15
+2020-03-16,Hawaii,Medical,53.0,45.0,53.0,16
+2020-03-16,Hawaii,Government,80.0,62.0,81.0,17
+2020-03-16,Hawaii,Travel & Transport,23.0,14.0,24.0,18
+2020-03-16,Hawaii,Convenience Store,81.0,66.0,82.0,19
+2020-03-16,Hawaii,Fitness Center,64.0,48.0,64.0,20
+2020-03-16,Hawaii,Sports,27.0,23.0,28.0,21
+2020-03-16,Hawaii,School,31.0,37.0,31.0,22
+2020-03-16,Hawaii,Hardware Stores,98.0,69.0,101.0,23
+2020-03-16,Hawaii,Office,68.0,"",69.0,24
+2020-03-16,Hawaii,Banks,116.0,"",117.0,24
+2020-03-16,Hawaii,Colleges & Universities,27.0,"",27.0,25
+2020-03-16,Hawaii,Bus,74.0,"",74.0,26
+2020-03-17,Hawaii,Shops & Services,30.0,24.0,30.0,1
+2020-03-17,Hawaii,Food,32.0,24.0,32.0,2
+2020-03-17,Hawaii,Hotel,44.0,26.0,45.0,3
+2020-03-17,Hawaii,Grocery,114.0,84.0,115.0,4
+2020-03-17,Hawaii,Outdoors & Recreation,22.0,14.0,23.0,5
+2020-03-17,Hawaii,Airport,50.0,38.0,50.0,6
+2020-03-17,Hawaii,Beach,44.0,37.0,45.0,7
+2020-03-17,Hawaii,Professional & Other Places,14.0,12.0,14.0,8
+2020-03-17,Hawaii,Fast Food Restaurants,88.0,66.0,89.0,9
+2020-03-17,Hawaii,Medical,44.0,36.0,44.0,10
+2020-03-17,Hawaii,Residences,83.0,73.0,83.0,11
+2020-03-17,Hawaii,Nightlife Spots,36.0,28.0,36.0,12
+2020-03-17,Hawaii,Drug Store,105.0,86.0,106.0,13
+2020-03-17,Hawaii,Gas Stations,79.0,67.0,80.0,14
+2020-03-17,Hawaii,Government,58.0,35.0,59.0,15
+2020-03-17,Hawaii,Big Box Stores,101.0,66.0,103.0,16
+2020-03-17,Hawaii,Arts & Entertainment,53.0,41.0,54.0,17
+2020-03-17,Hawaii,Travel & Transport,18.0,9.0,19.0,18
+2020-03-17,Hawaii,Convenience Store,67.0,65.0,68.0,19
+2020-03-17,Hawaii,Fitness Center,45.0,27.0,45.0,20
+2020-03-17,Hawaii,School,22.0,28.0,22.0,21
+2020-03-17,Hawaii,Sports,21.0,23.0,21.0,22
+2020-03-17,Hawaii,Office,63.0,"",64.0,23
+2020-03-17,Hawaii,Hardware Stores,88.0,52.0,91.0,23
+2020-03-17,Hawaii,Banks,78.0,76.0,78.0,24
+2020-03-17,Hawaii,Colleges & Universities,19.0,"",19.0,25
+2020-03-17,Hawaii,Bus,56.0,"",57.0,26
+2020-03-18,Hawaii,Shops & Services,48.0,33.0,49.0,1
+2020-03-18,Hawaii,Food,29.0,21.0,29.0,2
+2020-03-18,Hawaii,Hotel,43.0,29.0,44.0,3
+2020-03-18,Hawaii,Grocery,106.0,80.0,107.0,4
+2020-03-18,Hawaii,Outdoors & Recreation,21.0,16.0,21.0,5
+2020-03-18,Hawaii,Airport,58.0,41.0,58.0,6
+2020-03-18,Hawaii,Beach,53.0,37.0,54.0,7
+2020-03-18,Hawaii,Professional & Other Places,12.0,11.0,12.0,8
+2020-03-18,Hawaii,Fast Food Restaurants,76.0,71.0,76.0,9
+2020-03-18,Hawaii,Medical,40.0,30.0,41.0,10
+2020-03-18,Hawaii,Residences,76.0,68.0,76.0,11
+2020-03-18,Hawaii,Nightlife Spots,32.0,26.0,32.0,12
+2020-03-18,Hawaii,Drug Store,100.0,80.0,101.0,13
+2020-03-18,Hawaii,Gas Stations,73.0,63.0,74.0,13
+2020-03-18,Hawaii,Government,50.0,39.0,51.0,14
+2020-03-18,Hawaii,Big Box Stores,99.0,68.0,101.0,14
+2020-03-18,Hawaii,Travel & Transport,62.0,35.0,64.0,15
+2020-03-18,Hawaii,Arts & Entertainment,39.0,30.0,40.0,16
+2020-03-18,Hawaii,Convenience Store,71.0,55.0,72.0,17
+2020-03-18,Hawaii,Fitness Center,40.0,32.0,40.0,18
+2020-03-18,Hawaii,School,19.0,25.0,19.0,19
+2020-03-18,Hawaii,Sports,21.0,18.0,21.0,20
+2020-03-18,Hawaii,Hardware Stores,89.0,68.0,90.0,21
+2020-03-18,Hawaii,Office,57.0,"",57.0,22
+2020-03-18,Hawaii,Banks,87.0,"",88.0,23
+2020-03-18,Hawaii,Colleges & Universities,32.0,"",32.0,24
+2020-03-18,Hawaii,Bus,53.0,"",53.0,25
+2020-03-19,Hawaii,Shops & Services,46.0,35.0,46.0,1
+2020-03-19,Hawaii,Food,25.0,19.0,25.0,2
+2020-03-19,Hawaii,Hotel,36.0,20.0,37.0,3
+2020-03-19,Hawaii,Grocery,103.0,84.0,104.0,4
+2020-03-19,Hawaii,Outdoors & Recreation,21.0,15.0,21.0,5
+2020-03-19,Hawaii,Airport,42.0,30.0,42.0,6
+2020-03-19,Hawaii,Beach,53.0,41.0,53.0,7
+2020-03-19,Hawaii,Professional & Other Places,12.0,12.0,12.0,8
+2020-03-19,Hawaii,Fast Food Restaurants,75.0,62.0,76.0,9
+2020-03-19,Hawaii,Residences,79.0,74.0,80.0,10
+2020-03-19,Hawaii,Medical,34.0,27.0,34.0,11
+2020-03-19,Hawaii,Gas Stations,74.0,64.0,74.0,12
+2020-03-19,Hawaii,Drug Store,93.0,70.0,94.0,13
+2020-03-19,Hawaii,Big Box Stores,94.0,72.0,95.0,14
+2020-03-19,Hawaii,Nightlife Spots,26.0,19.0,26.0,15
+2020-03-19,Hawaii,Government,46.0,38.0,46.0,16
+2020-03-19,Hawaii,Convenience Store,70.0,70.0,70.0,17
+2020-03-19,Hawaii,Travel & Transport,53.0,30.0,54.0,18
+2020-03-19,Hawaii,Arts & Entertainment,33.0,26.0,33.0,19
+2020-03-19,Hawaii,Sports,23.0,24.0,23.0,20
+2020-03-19,Hawaii,School,20.0,24.0,20.0,21
+2020-03-19,Hawaii,Fitness Center,35.0,"",35.0,22
+2020-03-19,Hawaii,Hardware Stores,85.0,76.0,85.0,23
+2020-03-19,Hawaii,Office,59.0,"",60.0,24
+2020-03-19,Hawaii,Banks,83.0,75.0,84.0,25
+2020-03-19,Hawaii,Colleges & Universities,21.0,"",21.0,26
+2020-03-19,Hawaii,Bus,56.0,"",57.0,27
+2020-03-20,Hawaii,Shops & Services,42.0,30.0,42.0,1
+2020-03-20,Hawaii,Food,23.0,18.0,24.0,2
+2020-03-20,Hawaii,Grocery,98.0,76.0,100.0,3
+2020-03-20,Hawaii,Hotel,35.0,27.0,36.0,4
+2020-03-20,Hawaii,Outdoors & Recreation,19.0,14.0,19.0,5
+2020-03-20,Hawaii,Beach,62.0,52.0,62.0,6
+2020-03-20,Hawaii,Airport,37.0,21.0,38.0,7
+2020-03-20,Hawaii,Fast Food Restaurants,73.0,64.0,74.0,8
+2020-03-20,Hawaii,Professional & Other Places,12.0,13.0,12.0,9
+2020-03-20,Hawaii,Residences,76.0,64.0,77.0,10
+2020-03-20,Hawaii,Drug Store,92.0,88.0,92.0,11
+2020-03-20,Hawaii,Medical,34.0,25.0,35.0,12
+2020-03-20,Hawaii,Big Box Stores,93.0,70.0,94.0,13
+2020-03-20,Hawaii,Gas Stations,71.0,59.0,71.0,14
+2020-03-20,Hawaii,Nightlife Spots,24.0,23.0,24.0,15
+2020-03-20,Hawaii,Government,44.0,39.0,44.0,16
+2020-03-20,Hawaii,Convenience Store,69.0,65.0,69.0,17
+2020-03-20,Hawaii,Travel & Transport,17.0,11.0,17.0,18
+2020-03-20,Hawaii,Arts & Entertainment,34.0,25.0,35.0,19
+2020-03-20,Hawaii,Hardware Stores,103.0,81.0,105.0,20
+2020-03-20,Hawaii,School,19.0,21.0,18.0,21
+2020-03-20,Hawaii,Sports,20.0,19.0,20.0,22
+2020-03-20,Hawaii,Banks,83.0,68.0,84.0,23
+2020-03-20,Hawaii,Office,57.0,63.0,57.0,24
+2020-03-20,Hawaii,Fitness Center,29.0,"",29.0,24
+2020-03-20,Hawaii,Colleges & Universities,17.0,"",17.0,25
+2020-03-20,Hawaii,Bus,46.0,"",47.0,26
+2020-03-21,Hawaii,Shops & Services,19.0,18.0,19.0,1
+2020-03-21,Hawaii,Food,18.0,14.0,18.0,2
+2020-03-21,Hawaii,Grocery,88.0,72.0,89.0,3
+2020-03-21,Hawaii,Hotel,24.0,16.0,25.0,4
+2020-03-21,Hawaii,Outdoors & Recreation,16.0,16.0,16.0,5
+2020-03-21,Hawaii,Beach,49.0,45.0,49.0,6
+2020-03-21,Hawaii,Airport,34.0,22.0,35.0,7
+2020-03-21,Hawaii,Fast Food Restaurants,62.0,50.0,63.0,8
+2020-03-21,Hawaii,Residences,67.0,71.0,67.0,9
+2020-03-21,Hawaii,Big Box Stores,81.0,55.0,82.0,10
+2020-03-21,Hawaii,Gas Stations,67.0,64.0,67.0,11
+2020-03-21,Hawaii,Drug Store,86.0,62.0,88.0,11
+2020-03-21,Hawaii,Professional & Other Places,10.0,9.0,10.0,12
+2020-03-21,Hawaii,Medical,36.0,42.0,36.0,13
+2020-03-21,Hawaii,Convenience Store,62.0,62.0,62.0,14
+2020-03-21,Hawaii,Nightlife Spots,15.0,13.0,15.0,15
+2020-03-21,Hawaii,Hardware Stores,100.0,84.0,102.0,16
+2020-03-21,Hawaii,Sports,25.0,33.0,25.0,17
+2020-03-21,Hawaii,Arts & Entertainment,23.0,22.0,23.0,18
+2020-03-21,Hawaii,Travel & Transport,19.0,11.0,20.0,19
+2020-03-21,Hawaii,School,20.0,"",20.0,20
+2020-03-21,Hawaii,Government,45.0,"",45.0,21
+2020-03-21,Hawaii,Banks,76.0,"",76.0,22
+2020-03-21,Hawaii,Fitness Center,25.0,"",25.0,23
+2020-03-21,Hawaii,Office,42.0,"",42.0,24
+2020-03-21,Hawaii,Colleges & Universities,35.0,"",35.0,25
+2020-03-21,Hawaii,Bus,43.0,"",43.0,26
+2020-03-22,Hawaii,Shops & Services,33.0,27.0,34.0,1
+2020-03-22,Hawaii,Food,17.0,12.0,17.0,2
+2020-03-22,Hawaii,Grocery,74.0,61.0,74.0,3
+2020-03-22,Hawaii,Outdoors & Recreation,18.0,17.0,18.0,4
+2020-03-22,Hawaii,Hotel,18.0,13.0,19.0,5
+2020-03-22,Hawaii,Beach,42.0,34.0,43.0,6
+2020-03-22,Hawaii,Airport,31.0,17.0,31.0,7
+2020-03-22,Hawaii,Fast Food Restaurants,58.0,40.0,59.0,8
+2020-03-22,Hawaii,Residences,58.0,54.0,58.0,9
+2020-03-22,Hawaii,Drug Store,87.0,80.0,87.0,10
+2020-03-22,Hawaii,Big Box Stores,71.0,55.0,71.0,11
+2020-03-22,Hawaii,Gas Stations,57.0,40.0,57.0,12
+2020-03-22,Hawaii,Convenience Store,52.0,51.0,52.0,13
+2020-03-22,Hawaii,Nightlife Spots,12.0,14.0,12.0,14
+2020-03-22,Hawaii,Professional & Other Places,8.0,"",8.0,15
+2020-03-22,Hawaii,Hardware Stores,86.0,73.0,87.0,16
+2020-03-22,Hawaii,Sports,21.0,25.0,20.0,17
+2020-03-22,Hawaii,Arts & Entertainment,12.0,"",12.0,18
+2020-03-22,Hawaii,Travel & Transport,13.0,"",14.0,19
+2020-03-22,Hawaii,School,22.0,"",22.0,20
+2020-03-22,Hawaii,Government,43.0,"",43.0,21
+2020-03-22,Hawaii,Medical,32.0,"",32.0,22
+2020-03-22,Hawaii,Fitness Center,23.0,"",23.0,23
+2020-03-22,Hawaii,Banks,69.0,"",69.0,24
+2020-03-23,Hawaii,Shops & Services,31.0,27.0,32.0,1
+2020-03-23,Hawaii,Food,16.0,15.0,17.0,2
+2020-03-23,Hawaii,Grocery,93.0,80.0,93.0,3
+2020-03-23,Hawaii,Outdoors & Recreation,15.0,12.0,15.0,4
+2020-03-23,Hawaii,Airport,29.0,20.0,30.0,5
+2020-03-23,Hawaii,Hotel,16.0,13.0,16.0,6
+2020-03-23,Hawaii,Beach,33.0,38.0,32.0,7
+2020-03-23,Hawaii,Residences,72.0,72.0,72.0,8
+2020-03-23,Hawaii,Fast Food Restaurants,67.0,59.0,67.0,9
+2020-03-23,Hawaii,Professional & Other Places,12.0,11.0,12.0,10
+2020-03-23,Hawaii,Drug Store,90.0,97.0,90.0,11
+2020-03-23,Hawaii,Gas Stations,74.0,61.0,74.0,11
+2020-03-23,Hawaii,Big Box Stores,78.0,64.0,78.0,12
+2020-03-23,Hawaii,Medical,37.0,32.0,38.0,13
+2020-03-23,Hawaii,Government,54.0,"",55.0,14
+2020-03-23,Hawaii,Convenience Store,60.0,50.0,61.0,15
+2020-03-23,Hawaii,Travel & Transport,19.0,16.0,19.0,16
+2020-03-23,Hawaii,School,28.0,"",28.0,17
+2020-03-23,Hawaii,Hardware Stores,94.0,64.0,96.0,18
+2020-03-23,Hawaii,Nightlife Spots,14.0,21.0,14.0,19
+2020-03-23,Hawaii,Arts & Entertainment,27.0,"",27.0,20
+2020-03-23,Hawaii,Sports,19.0,21.0,19.0,21
+2020-03-23,Hawaii,Office,65.0,"",66.0,22
+2020-03-23,Hawaii,Banks,104.0,"",105.0,23
+2020-03-23,Hawaii,Fitness Center,28.0,"",29.0,24
+2020-03-23,Hawaii,Colleges & Universities,39.0,"",39.0,25
+2020-03-24,Hawaii,Shops & Services,30.0,25.0,31.0,1
+2020-03-24,Hawaii,Food,15.0,12.0,15.0,2
+2020-03-24,Hawaii,Grocery,73.0,56.0,74.0,3
+2020-03-24,Hawaii,Outdoors & Recreation,12.0,12.0,12.0,4
+2020-03-24,Hawaii,Airport,26.0,27.0,26.0,5
+2020-03-24,Hawaii,Hotel,14.0,10.0,14.0,6
+2020-03-24,Hawaii,Professional & Other Places,9.0,8.0,9.0,7
+2020-03-24,Hawaii,Beach,25.0,25.0,25.0,8
+2020-03-24,Hawaii,Fast Food Restaurants,60.0,58.0,60.0,9
+2020-03-24,Hawaii,Medical,31.0,22.0,31.0,10
+2020-03-24,Hawaii,Residences,56.0,49.0,56.0,11
+2020-03-24,Hawaii,Drug Store,75.0,74.0,75.0,12
+2020-03-24,Hawaii,Big Box Stores,77.0,63.0,78.0,13
+2020-03-24,Hawaii,Gas Stations,56.0,44.0,56.0,14
+2020-03-24,Hawaii,Government,40.0,39.0,40.0,15
+2020-03-24,Hawaii,Convenience Store,50.0,64.0,49.0,16
+2020-03-24,Hawaii,School,18.0,22.0,18.0,17
+2020-03-24,Hawaii,Travel & Transport,36.0,37.0,36.0,18
+2020-03-24,Hawaii,Hardware Stores,85.0,67.0,87.0,19
+2020-03-24,Hawaii,Nightlife Spots,17.0,18.0,17.0,20
+2020-03-24,Hawaii,Sports,19.0,25.0,19.0,21
+2020-03-24,Hawaii,Office,52.0,"",52.0,21
+2020-03-24,Hawaii,Arts & Entertainment,23.0,"",23.0,22
+2020-03-24,Hawaii,Colleges & Universities,36.0,"",36.0,23
+2020-03-24,Hawaii,Banks,66.0,"",66.0,24
+2020-03-24,Hawaii,Fitness Center,20.0,"",20.0,25
+2020-03-24,Hawaii,Bus,45.0,"",45.0,26
+2020-03-25,Hawaii,Shops & Services,29.0,23.0,29.0,1
+2020-03-25,Hawaii,Food,15.0,12.0,15.0,2
+2020-03-25,Hawaii,Grocery,68.0,61.0,68.0,3
+2020-03-25,Hawaii,Outdoors & Recreation,13.0,9.0,13.0,4
+2020-03-25,Hawaii,Airport,24.0,17.0,24.0,5
+2020-03-25,Hawaii,Hotel,12.0,9.0,12.0,6
+2020-03-25,Hawaii,Professional & Other Places,8.0,6.0,8.0,7
+2020-03-25,Hawaii,Medical,29.0,23.0,30.0,8
+2020-03-25,Hawaii,Beach,23.0,24.0,23.0,9
+2020-03-25,Hawaii,Fast Food Restaurants,50.0,45.0,50.0,10
+2020-03-25,Hawaii,Residences,49.0,40.0,50.0,11
+2020-03-25,Hawaii,Gas Stations,49.0,41.0,49.0,12
+2020-03-25,Hawaii,Drug Store,66.0,55.0,67.0,13
+2020-03-25,Hawaii,Big Box Stores,68.0,48.0,70.0,14
+2020-03-25,Hawaii,Government,35.0,"",35.0,15
+2020-03-25,Hawaii,School,18.0,18.0,18.0,16
+2020-03-25,Hawaii,Convenience Store,46.0,36.0,46.0,17
+2020-03-25,Hawaii,Hardware Stores,79.0,51.0,82.0,18
+2020-03-25,Hawaii,Arts & Entertainment,21.0,"",21.0,19
+2020-03-25,Hawaii,Sports,14.0,14.0,14.0,20
+2020-03-25,Hawaii,Nightlife Spots,10.0,13.0,9.0,21
+2020-03-25,Hawaii,Travel & Transport,10.0,"",11.0,22
+2020-03-25,Hawaii,Office,39.0,"",39.0,22
+2020-03-25,Hawaii,Banks,60.0,"",60.0,23
+2020-03-25,Hawaii,Colleges & Universities,13.0,"",13.0,24
+2020-03-25,Hawaii,Fitness Center,16.0,"",16.0,25
+2020-03-26,Hawaii,Shops & Services,16.0,15.0,16.0,1
+2020-03-26,Hawaii,Food,13.0,10.0,13.0,2
+2020-03-26,Hawaii,Grocery,72.0,57.0,73.0,3
+2020-03-26,Hawaii,Outdoors & Recreation,13.0,10.0,13.0,4
+2020-03-26,Hawaii,Residences,56.0,48.0,57.0,5
+2020-03-26,Hawaii,Fast Food Restaurants,53.0,38.0,53.0,6
+2020-03-26,Hawaii,Airport,16.0,10.0,17.0,7
+2020-03-26,Hawaii,Hotel,9.0,6.0,9.0,8
+2020-03-26,Hawaii,Professional & Other Places,7.0,6.0,7.0,9
+2020-03-26,Hawaii,Beach,22.0,17.0,22.0,10
+2020-03-26,Hawaii,Drug Store,71.0,61.0,72.0,11
+2020-03-26,Hawaii,Medical,23.0,15.0,24.0,12
+2020-03-26,Hawaii,Big Box Stores,63.0,48.0,64.0,13
+2020-03-26,Hawaii,Gas Stations,44.0,34.0,44.0,14
+2020-03-26,Hawaii,Government,30.0,"",30.0,15
+2020-03-26,Hawaii,School,17.0,19.0,17.0,16
+2020-03-26,Hawaii,Convenience Store,44.0,"",45.0,17
+2020-03-26,Hawaii,Hardware Stores,69.0,50.0,71.0,18
+2020-03-26,Hawaii,Travel & Transport,13.0,"",13.0,19
+2020-03-26,Hawaii,Arts & Entertainment,18.0,"",18.0,20
+2020-03-26,Hawaii,Nightlife Spots,9.0,"",9.0,21
+2020-03-26,Hawaii,Sports,12.0,"",12.0,22
+2020-03-26,Hawaii,Office,38.0,"",38.0,23
+2020-03-26,Hawaii,Banks,56.0,"",56.0,24
+2020-03-26,Hawaii,Fitness Center,17.0,"",17.0,25
+2020-03-26,Hawaii,Colleges & Universities,13.0,"",13.0,26
+2020-03-27,Hawaii,Shops & Services,29.0,24.0,29.0,1
+2020-03-27,Hawaii,Food,11.0,9.0,12.0,2
+2020-03-27,Hawaii,Grocery,60.0,47.0,61.0,3
+2020-03-27,Hawaii,Outdoors & Recreation,25.0,15.0,26.0,4
+2020-03-27,Hawaii,Fast Food Restaurants,50.0,46.0,50.0,5
+2020-03-27,Hawaii,Professional & Other Places,8.0,7.0,8.0,6
+2020-03-27,Hawaii,Residences,51.0,41.0,51.0,7
+2020-03-27,Hawaii,Medical,26.0,24.0,26.0,8
+2020-03-27,Hawaii,Beach,20.0,16.0,21.0,9
+2020-03-27,Hawaii,Hotel,8.0,6.0,8.0,9
+2020-03-27,Hawaii,Gas Stations,45.0,35.0,46.0,10
+2020-03-27,Hawaii,Drug Store,55.0,50.0,55.0,11
+2020-03-27,Hawaii,Big Box Stores,57.0,42.0,58.0,12
+2020-03-27,Hawaii,Airport,11.0,8.0,11.0,13
+2020-03-27,Hawaii,Government,28.0,"",28.0,14
+2020-03-27,Hawaii,School,16.0,18.0,16.0,15
+2020-03-27,Hawaii,Hardware Stores,79.0,70.0,80.0,16
+2020-03-27,Hawaii,Convenience Store,42.0,39.0,42.0,17
+2020-03-27,Hawaii,Banks,67.0,"",67.0,18
+2020-03-27,Hawaii,Arts & Entertainment,21.0,"",21.0,19
+2020-03-27,Hawaii,Nightlife Spots,10.0,"",10.0,20
+2020-03-27,Hawaii,Travel & Transport,8.0,"",8.0,21
+2020-03-27,Hawaii,Office,42.0,"",42.0,22
+2020-03-27,Hawaii,Sports,13.0,12.0,13.0,23
+2020-03-27,Hawaii,Colleges & Universities,14.0,"",14.0,24
+2020-03-27,Hawaii,Fitness Center,15.0,"",15.0,25
+2020-03-28,Hawaii,Shops & Services,26.0,19.0,26.0,1
+2020-03-28,Hawaii,Food,11.0,9.0,11.0,2
+2020-03-28,Hawaii,Grocery,63.0,52.0,64.0,3
+2020-03-28,Hawaii,Outdoors & Recreation,17.0,13.0,18.0,4
+2020-03-28,Hawaii,Fast Food Restaurants,43.0,27.0,43.0,5
+2020-03-28,Hawaii,Residences,51.0,44.0,52.0,6
+2020-03-28,Hawaii,Beach,19.0,20.0,19.0,7
+2020-03-28,Hawaii,Big Box Stores,60.0,44.0,60.0,8
+2020-03-28,Hawaii,Hotel,7.0,6.0,7.0,9
+2020-03-28,Hawaii,Drug Store,60.0,48.0,60.0,10
+2020-03-28,Hawaii,Professional & Other Places,7.0,8.0,7.0,11
+2020-03-28,Hawaii,Gas Stations,42.0,32.0,43.0,12
+2020-03-28,Hawaii,Medical,28.0,28.0,28.0,13
+2020-03-28,Hawaii,Hardware Stores,64.0,45.0,65.0,14
+2020-03-28,Hawaii,Convenience Store,36.0,"",37.0,15
+2020-03-28,Hawaii,Airport,7.0,10.0,7.0,16
+2020-03-28,Hawaii,School,16.0,"",16.0,17
+2020-03-28,Hawaii,Government,31.0,"",32.0,18
+2020-03-28,Hawaii,Nightlife Spots,7.0,"",7.0,19
+2020-03-28,Hawaii,Sports,22.0,"",22.0,20
+2020-03-28,Hawaii,Arts & Entertainment,16.0,"",16.0,21
+2020-03-28,Hawaii,Banks,50.0,"",51.0,22
+2020-03-28,Hawaii,Travel & Transport,9.0,"",9.0,23
+2020-03-28,Hawaii,Colleges & Universities,15.0,"",15.0,24
+2020-03-29,Hawaii,Shops & Services,17.0,13.0,17.0,1
+2020-03-29,Hawaii,Food,9.0,7.0,9.0,2
+2020-03-29,Hawaii,Grocery,46.0,36.0,46.0,3
+2020-03-29,Hawaii,Outdoors & Recreation,10.0,11.0,10.0,4
+2020-03-29,Hawaii,Beach,16.0,17.0,16.0,5
+2020-03-29,Hawaii,Fast Food Restaurants,41.0,37.0,41.0,6
+2020-03-29,Hawaii,Drug Store,59.0,60.0,59.0,7
+2020-03-29,Hawaii,Residences,37.0,33.0,37.0,8
+2020-03-29,Hawaii,Hotel,6.0,6.0,6.0,9
+2020-03-29,Hawaii,Big Box Stores,49.0,"",49.0,10
+2020-03-29,Hawaii,Gas Stations,35.0,"",36.0,11
+2020-03-29,Hawaii,Hardware Stores,66.0,"",68.0,12
+2020-03-29,Hawaii,Professional & Other Places,6.0,"",6.0,13
+2020-03-29,Hawaii,Convenience Store,34.0,"",35.0,14
+2020-03-29,Hawaii,Airport,6.0,"",6.0,15
+2020-03-29,Hawaii,School,16.0,"",16.0,16
+2020-03-29,Hawaii,Sports,11.0,12.0,10.0,17
+2020-03-29,Hawaii,Arts & Entertainment,13.0,"",13.0,18
+2020-03-29,Hawaii,Nightlife Spots,5.0,"",5.0,19
+2020-03-29,Hawaii,Medical,19.0,"",20.0,20
+2020-03-30,Hawaii,Shops & Services,13.0,12.0,13.0,1
+2020-03-30,Hawaii,Food,11.0,11.0,11.0,2
+2020-03-30,Hawaii,Grocery,55.0,49.0,56.0,3
+2020-03-30,Hawaii,Outdoors & Recreation,13.0,14.0,13.0,4
+2020-03-30,Hawaii,Fast Food Restaurants,54.0,44.0,54.0,5
+2020-03-30,Hawaii,Beach,18.0,19.0,18.0,6
+2020-03-30,Hawaii,Residences,48.0,46.0,49.0,7
+2020-03-30,Hawaii,Drug Store,64.0,51.0,64.0,8
+2020-03-30,Hawaii,Professional & Other Places,8.0,7.0,8.0,9
+2020-03-30,Hawaii,Big Box Stores,57.0,41.0,57.0,10
+2020-03-30,Hawaii,Hotel,6.0,6.0,6.0,11
+2020-03-30,Hawaii,Gas Stations,42.0,"",43.0,12
+2020-03-30,Hawaii,Medical,25.0,"",25.0,13
+2020-03-30,Hawaii,School,25.0,33.0,25.0,14
+2020-03-30,Hawaii,Airport,8.0,"",8.0,15
+2020-03-30,Hawaii,Convenience Store,43.0,"",44.0,16
+2020-03-30,Hawaii,Government,31.0,"",31.0,17
+2020-03-30,Hawaii,Hardware Stores,65.0,45.0,67.0,18
+2020-03-30,Hawaii,Banks,76.0,"",75.0,19
+2020-03-30,Hawaii,Arts & Entertainment,16.0,"",16.0,20
+2020-03-30,Hawaii,Sports,12.0,12.0,12.0,21
+2020-03-30,Hawaii,Travel & Transport,23.0,"",24.0,22
+2020-03-30,Hawaii,Nightlife Spots,11.0,"",11.0,23
+2020-03-30,Hawaii,Office,34.0,"",34.0,24
+2020-03-31,Hawaii,Shops & Services,27.0,24.0,27.0,1
+2020-03-31,Hawaii,Food,11.0,9.0,12.0,2
+2020-03-31,Hawaii,Grocery,56.0,51.0,56.0,3
+2020-03-31,Hawaii,Outdoors & Recreation,13.0,13.0,13.0,4
+2020-03-31,Hawaii,Fast Food Restaurants,52.0,46.0,52.0,5
+2020-03-31,Hawaii,Professional & Other Places,7.0,6.0,7.0,6
+2020-03-31,Hawaii,Residences,47.0,51.0,47.0,7
+2020-03-31,Hawaii,Beach,18.0,15.0,18.0,8
+2020-03-31,Hawaii,Medical,23.0,16.0,23.0,9
+2020-03-31,Hawaii,Drug Store,61.0,53.0,61.0,10
+2020-03-31,Hawaii,Gas Stations,45.0,35.0,46.0,11
+2020-03-31,Hawaii,Big Box Stores,61.0,54.0,62.0,12
+2020-03-31,Hawaii,Hotel,6.0,5.0,6.0,13
+2020-03-31,Hawaii,Airport,10.0,"",10.0,14
+2020-03-31,Hawaii,Government,28.0,"",28.0,15
+2020-03-31,Hawaii,School,17.0,21.0,17.0,16
+2020-03-31,Hawaii,Hardware Stores,76.0,54.0,78.0,17
+2020-03-31,Hawaii,Convenience Store,38.0,"",38.0,18
+2020-03-31,Hawaii,Arts & Entertainment,20.0,"",20.0,19
+2020-03-31,Hawaii,Sports,13.0,13.0,13.0,20
+2020-03-31,Hawaii,Banks,57.0,"",56.0,21
+2020-03-31,Hawaii,Nightlife Spots,8.0,"",8.0,22
+2020-03-31,Hawaii,Travel & Transport,8.0,"",9.0,23
+2020-03-31,Hawaii,Office,31.0,"",31.0,24
+2020-03-31,Hawaii,Fitness Center,14.0,"",14.0,25
+2020-03-31,Hawaii,Colleges & Universities,12.0,"",12.0,26
+2020-04-01,Hawaii,Shops & Services,28.0,23.0,28.0,1
+2020-04-01,Hawaii,Food,11.0,9.0,12.0,2
+2020-04-01,Hawaii,Grocery,57.0,43.0,57.0,3
+2020-04-01,Hawaii,Outdoors & Recreation,14.0,12.0,14.0,4
+2020-04-01,Hawaii,Fast Food Restaurants,52.0,53.0,52.0,5
+2020-04-01,Hawaii,Professional & Other Places,7.0,7.0,7.0,6
+2020-04-01,Hawaii,Residences,47.0,40.0,47.0,7
+2020-04-01,Hawaii,Drug Store,63.0,46.0,64.0,8
+2020-04-01,Hawaii,Beach,16.0,14.0,16.0,9
+2020-04-01,Hawaii,Big Box Stores,62.0,44.0,63.0,10
+2020-04-01,Hawaii,Hotel,6.0,7.0,6.0,10
+2020-04-01,Hawaii,Gas Stations,42.0,36.0,42.0,11
+2020-04-01,Hawaii,Medical,19.0,16.0,19.0,12
+2020-04-01,Hawaii,Government,27.0,"",27.0,13
+2020-04-01,Hawaii,Airport,9.0,"",10.0,14
+2020-04-01,Hawaii,Convenience Store,42.0,45.0,41.0,15
+2020-04-01,Hawaii,School,14.0,17.0,14.0,15
+2020-04-01,Hawaii,Hardware Stores,71.0,48.0,72.0,16
+2020-04-01,Hawaii,Arts & Entertainment,11.0,"",11.0,17
+2020-04-01,Hawaii,Banks,75.0,"",76.0,18
+2020-04-01,Hawaii,Sports,12.0,15.0,12.0,19
+2020-04-01,Hawaii,Travel & Transport,23.0,"",24.0,20
+2020-04-01,Hawaii,Colleges & Universities,25.0,"",25.0,21
+2020-04-01,Hawaii,Nightlife Spots,11.0,"",11.0,22
+2020-04-01,Hawaii,Office,30.0,"",29.0,23
+2020-04-01,Hawaii,Fitness Center,12.0,"",12.0,24

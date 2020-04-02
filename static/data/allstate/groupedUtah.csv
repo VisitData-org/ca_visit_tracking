@@ -1,0 +1,911 @@
+2020-03-01,Utah,Food,54.0,56.0,54.0,1
+2020-03-01,Utah,Shops & Services,34.0,32.0,34.0,2
+2020-03-01,Utah,Grocery,90.0,81.0,91.0,3
+2020-03-01,Utah,Outdoors & Recreation,37.0,36.0,37.0,4
+2020-03-01,Utah,Gas Stations,96.0,86.0,96.0,5
+2020-03-01,Utah,Big Box Stores,97.0,96.0,97.0,6
+2020-03-01,Utah,Fast Food Restaurants,99.0,86.0,99.0,7
+2020-03-01,Utah,Hotel,85.0,74.0,85.0,8
+2020-03-01,Utah,Airport,62.0,58.0,62.0,8
+2020-03-01,Utah,Arts & Entertainment,54.0,53.0,54.0,9
+2020-03-01,Utah,Skiing,71.0,54.0,72.0,10
+2020-03-01,Utah,Nightlife Spots,48.0,37.0,48.0,11
+2020-03-01,Utah,School,52.0,46.0,52.0,12
+2020-03-01,Utah,Professional & Other Places,10.0,8.0,10.0,13
+2020-03-01,Utah,Medical,53.0,53.0,53.0,14
+2020-03-01,Utah,Residences,94.0,74.0,95.0,15
+2020-03-01,Utah,Convenience Store,96.0,107.0,96.0,16
+2020-03-01,Utah,Hardware Stores,96.0,91.0,96.0,17
+2020-03-01,Utah,Colleges & Universities,60.0,51.0,60.0,18
+2020-03-01,Utah,Sports,34.0,32.0,34.0,19
+2020-03-01,Utah,Fitness Center,67.0,58.0,67.0,20
+2020-03-01,Utah,Travel & Transport,64.0,46.0,64.0,21
+2020-03-01,Utah,Drug Store,93.0,103.0,92.0,22
+2020-03-01,Utah,Office,79.0,"",79.0,23
+2020-03-01,Utah,Discount Stores,96.0,"",96.0,24
+2020-03-01,Utah,Government,58.0,"",58.0,25
+2020-03-01,Utah,Light Rail Stations,103.0,"",103.0,26
+2020-03-01,Utah,Alcohol,100.0,"",100.0,27
+2020-03-01,Utah,Banks,107.0,"",109.0,28
+2020-03-01,Utah,Spiritual Center,3.0,"",3.0,29
+2020-03-02,Utah,Food,46.0,51.0,46.0,1
+2020-03-02,Utah,Shops & Services,79.0,90.0,78.0,2
+2020-03-02,Utah,Gas Stations,102.0,109.0,102.0,3
+2020-03-02,Utah,Grocery,107.0,112.0,106.0,4
+2020-03-02,Utah,Outdoors & Recreation,67.0,63.0,68.0,5
+2020-03-02,Utah,School,67.0,66.0,67.0,6
+2020-03-02,Utah,Fast Food Restaurants,110.0,107.0,110.0,7
+2020-03-02,Utah,Medical,62.0,59.0,62.0,8
+2020-03-02,Utah,Airport,61.0,46.0,61.0,9
+2020-03-02,Utah,Big Box Stores,104.0,101.0,104.0,10
+2020-03-02,Utah,Professional & Other Places,16.0,17.0,16.0,11
+2020-03-02,Utah,Colleges & Universities,81.0,103.0,81.0,12
+2020-03-02,Utah,Hotel,85.0,80.0,86.0,13
+2020-03-02,Utah,Office,94.0,103.0,94.0,14
+2020-03-02,Utah,Skiing,78.0,68.0,78.0,15
+2020-03-02,Utah,Arts & Entertainment,55.0,57.0,55.0,16
+2020-03-02,Utah,Government,88.0,92.0,87.0,17
+2020-03-02,Utah,Nightlife Spots,71.0,59.0,72.0,18
+2020-03-02,Utah,Fitness Center,74.0,84.0,73.0,19
+2020-03-02,Utah,Convenience Store,106.0,106.0,106.0,20
+2020-03-02,Utah,Hardware Stores,107.0,105.0,107.0,21
+2020-03-02,Utah,Residences,94.0,75.0,94.0,22
+2020-03-02,Utah,Travel & Transport,60.0,54.0,61.0,23
+2020-03-02,Utah,Sports,32.0,35.0,32.0,24
+2020-03-02,Utah,Drug Store,105.0,101.0,105.0,25
+2020-03-02,Utah,Discount Stores,104.0,135.0,103.0,26
+2020-03-02,Utah,Banks,121.0,109.0,122.0,27
+2020-03-02,Utah,Light Rail Stations,102.0,"",103.0,28
+2020-03-02,Utah,Alcohol,135.0,"",135.0,29
+2020-03-03,Utah,Food,52.0,53.0,52.0,1
+2020-03-03,Utah,Shops & Services,52.0,57.0,52.0,2
+2020-03-03,Utah,Grocery,112.0,97.0,113.0,3
+2020-03-03,Utah,Gas Stations,97.0,82.0,97.0,4
+2020-03-03,Utah,Outdoors & Recreation,58.0,55.0,58.0,5
+2020-03-03,Utah,School,52.0,55.0,52.0,6
+2020-03-03,Utah,Fast Food Restaurants,107.0,103.0,107.0,7
+2020-03-03,Utah,Medical,54.0,50.0,54.0,8
+2020-03-03,Utah,Professional & Other Places,15.0,13.0,15.0,9
+2020-03-03,Utah,Big Box Stores,108.0,100.0,108.0,10
+2020-03-03,Utah,Airport,57.0,56.0,57.0,11
+2020-03-03,Utah,Colleges & Universities,58.0,63.0,58.0,12
+2020-03-03,Utah,Hotel,91.0,81.0,91.0,13
+2020-03-03,Utah,Arts & Entertainment,57.0,63.0,57.0,14
+2020-03-03,Utah,Office,81.0,72.0,82.0,15
+2020-03-03,Utah,Government,73.0,64.0,73.0,16
+2020-03-03,Utah,Fitness Center,67.0,63.0,68.0,17
+2020-03-03,Utah,Nightlife Spots,52.0,40.0,52.0,18
+2020-03-03,Utah,Hardware Stores,105.0,123.0,104.0,19
+2020-03-03,Utah,Skiing,68.0,43.0,69.0,20
+2020-03-03,Utah,Convenience Store,99.0,88.0,100.0,21
+2020-03-03,Utah,Residences,95.0,92.0,95.0,22
+2020-03-03,Utah,Sports,31.0,36.0,30.0,23
+2020-03-03,Utah,Travel & Transport,63.0,63.0,64.0,24
+2020-03-03,Utah,Drug Store,102.0,105.0,102.0,25
+2020-03-03,Utah,Discount Stores,110.0,95.0,110.0,26
+2020-03-03,Utah,Banks,114.0,77.0,116.0,27
+2020-03-03,Utah,Light Rail Stations,96.0,"",96.0,28
+2020-03-03,Utah,Alcohol,102.0,"",104.0,29
+2020-03-04,Utah,Food,49.0,51.0,49.0,1
+2020-03-04,Utah,Shops & Services,63.0,64.0,63.0,2
+2020-03-04,Utah,Gas Stations,105.0,100.0,105.0,3
+2020-03-04,Utah,Grocery,104.0,94.0,105.0,4
+2020-03-04,Utah,Outdoors & Recreation,46.0,49.0,46.0,5
+2020-03-04,Utah,School,53.0,49.0,53.0,6
+2020-03-04,Utah,Fast Food Restaurants,102.0,95.0,102.0,7
+2020-03-04,Utah,Medical,51.0,46.0,51.0,8
+2020-03-04,Utah,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-04,Utah,Big Box Stores,101.0,93.0,101.0,10
+2020-03-04,Utah,Colleges & Universities,56.0,56.0,56.0,11
+2020-03-04,Utah,Airport,58.0,45.0,59.0,12
+2020-03-04,Utah,Hotel,84.0,75.0,85.0,13
+2020-03-04,Utah,Arts & Entertainment,60.0,57.0,60.0,14
+2020-03-04,Utah,Office,82.0,91.0,81.0,15
+2020-03-04,Utah,Government,74.0,75.0,74.0,16
+2020-03-04,Utah,Fitness Center,66.0,60.0,67.0,17
+2020-03-04,Utah,Nightlife Spots,76.0,77.0,76.0,18
+2020-03-04,Utah,Convenience Store,101.0,87.0,102.0,19
+2020-03-04,Utah,Skiing,78.0,62.0,79.0,20
+2020-03-04,Utah,Hardware Stores,105.0,102.0,105.0,21
+2020-03-04,Utah,Residences,103.0,101.0,103.0,22
+2020-03-04,Utah,Travel & Transport,53.0,34.0,54.0,23
+2020-03-04,Utah,Sports,29.0,37.0,29.0,24
+2020-03-04,Utah,Drug Store,103.0,120.0,102.0,25
+2020-03-04,Utah,Discount Stores,109.0,98.0,109.0,26
+2020-03-04,Utah,Banks,114.0,95.0,115.0,27
+2020-03-04,Utah,Light Rail Stations,112.0,"",112.0,28
+2020-03-04,Utah,Alcohol,107.0,126.0,106.0,29
+2020-03-05,Utah,Food,51.0,55.0,51.0,1
+2020-03-05,Utah,Shops & Services,54.0,56.0,54.0,2
+2020-03-05,Utah,Gas Stations,102.0,100.0,102.0,3
+2020-03-05,Utah,Outdoors & Recreation,48.0,54.0,48.0,4
+2020-03-05,Utah,Grocery,105.0,101.0,105.0,5
+2020-03-05,Utah,School,53.0,50.0,53.0,6
+2020-03-05,Utah,Fast Food Restaurants,103.0,95.0,103.0,7
+2020-03-05,Utah,Medical,53.0,50.0,54.0,8
+2020-03-05,Utah,Professional & Other Places,15.0,16.0,15.0,9
+2020-03-05,Utah,Big Box Stores,102.0,91.0,102.0,10
+2020-03-05,Utah,Airport,59.0,59.0,59.0,11
+2020-03-05,Utah,Hotel,87.0,82.0,88.0,12
+2020-03-05,Utah,Colleges & Universities,57.0,58.0,57.0,13
+2020-03-05,Utah,Office,85.0,85.0,85.0,14
+2020-03-05,Utah,Arts & Entertainment,55.0,53.0,55.0,15
+2020-03-05,Utah,Nightlife Spots,58.0,71.0,57.0,16
+2020-03-05,Utah,Government,74.0,75.0,74.0,17
+2020-03-05,Utah,Skiing,70.0,54.0,71.0,18
+2020-03-05,Utah,Hardware Stores,115.0,115.0,115.0,19
+2020-03-05,Utah,Convenience Store,109.0,106.0,109.0,20
+2020-03-05,Utah,Fitness Center,66.0,69.0,66.0,20
+2020-03-05,Utah,Residences,111.0,102.0,111.0,21
+2020-03-05,Utah,Sports,41.0,47.0,41.0,22
+2020-03-05,Utah,Travel & Transport,51.0,52.0,51.0,23
+2020-03-05,Utah,Drug Store,107.0,104.0,107.0,24
+2020-03-05,Utah,Discount Stores,98.0,74.0,99.0,25
+2020-03-05,Utah,Banks,109.0,89.0,109.0,26
+2020-03-05,Utah,Light Rail Stations,95.0,"",96.0,27
+2020-03-05,Utah,Alcohol,92.0,"",91.0,28
+2020-03-06,Utah,Food,48.0,51.0,48.0,1
+2020-03-06,Utah,Shops & Services,49.0,48.0,49.0,2
+2020-03-06,Utah,Gas Stations,102.0,95.0,102.0,3
+2020-03-06,Utah,Outdoors & Recreation,65.0,69.0,64.0,4
+2020-03-06,Utah,Grocery,97.0,98.0,97.0,5
+2020-03-06,Utah,School,57.0,57.0,57.0,6
+2020-03-06,Utah,Fast Food Restaurants,100.0,106.0,100.0,7
+2020-03-06,Utah,Medical,56.0,50.0,56.0,8
+2020-03-06,Utah,Big Box Stores,95.0,98.0,95.0,9
+2020-03-06,Utah,Airport,56.0,58.0,56.0,10
+2020-03-06,Utah,Professional & Other Places,15.0,14.0,15.0,11
+2020-03-06,Utah,Hotel,88.0,86.0,88.0,12
+2020-03-06,Utah,Colleges & Universities,60.0,57.0,60.0,13
+2020-03-06,Utah,Arts & Entertainment,57.0,65.0,57.0,14
+2020-03-06,Utah,Skiing,68.0,54.0,68.0,15
+2020-03-06,Utah,Nightlife Spots,53.0,47.0,54.0,16
+2020-03-06,Utah,Office,81.0,85.0,81.0,17
+2020-03-06,Utah,Fitness Center,70.0,59.0,71.0,18
+2020-03-06,Utah,Convenience Store,108.0,108.0,108.0,19
+2020-03-06,Utah,Hardware Stores,110.0,110.0,110.0,20
+2020-03-06,Utah,Government,70.0,57.0,70.0,21
+2020-03-06,Utah,Residences,104.0,81.0,105.0,22
+2020-03-06,Utah,Sports,34.0,41.0,34.0,23
+2020-03-06,Utah,Travel & Transport,53.0,60.0,53.0,24
+2020-03-06,Utah,Drug Store,92.0,87.0,92.0,25
+2020-03-06,Utah,Discount Stores,90.0,59.0,91.0,26
+2020-03-06,Utah,Banks,103.0,89.0,103.0,27
+2020-03-06,Utah,Light Rail Stations,89.0,"",89.0,28
+2020-03-06,Utah,Alcohol,98.0,"",99.0,29
+2020-03-07,Utah,Food,49.0,50.0,49.0,1
+2020-03-07,Utah,Shops & Services,32.0,31.0,32.0,2
+2020-03-07,Utah,Outdoors & Recreation,47.0,48.0,47.0,3
+2020-03-07,Utah,Grocery,97.0,90.0,97.0,4
+2020-03-07,Utah,Gas Stations,100.0,96.0,101.0,5
+2020-03-07,Utah,Fast Food Restaurants,99.0,91.0,99.0,6
+2020-03-07,Utah,Big Box Stores,97.0,84.0,98.0,7
+2020-03-07,Utah,Arts & Entertainment,63.0,56.0,64.0,8
+2020-03-07,Utah,Hotel,85.0,82.0,85.0,9
+2020-03-07,Utah,School,58.0,52.0,58.0,10
+2020-03-07,Utah,Airport,59.0,55.0,59.0,11
+2020-03-07,Utah,Professional & Other Places,16.0,18.0,16.0,12
+2020-03-07,Utah,Skiing,63.0,48.0,63.0,13
+2020-03-07,Utah,Nightlife Spots,71.0,71.0,71.0,14
+2020-03-07,Utah,Hardware Stores,115.0,108.0,116.0,15
+2020-03-07,Utah,Medical,56.0,57.0,56.0,16
+2020-03-07,Utah,Convenience Store,109.0,101.0,109.0,17
+2020-03-07,Utah,Fitness Center,70.0,77.0,69.0,18
+2020-03-07,Utah,Colleges & Universities,74.0,97.0,74.0,19
+2020-03-07,Utah,Sports,37.0,42.0,37.0,20
+2020-03-07,Utah,Residences,92.0,78.0,93.0,21
+2020-03-07,Utah,Drug Store,111.0,110.0,111.0,22
+2020-03-07,Utah,Travel & Transport,14.0,15.0,14.0,23
+2020-03-07,Utah,Office,82.0,82.0,82.0,24
+2020-03-07,Utah,Government,79.0,74.0,79.0,25
+2020-03-07,Utah,Discount Stores,99.0,86.0,100.0,26
+2020-03-07,Utah,Alcohol,112.0,121.0,112.0,27
+2020-03-07,Utah,Banks,92.0,"",92.0,28
+2020-03-07,Utah,Light Rail Stations,93.0,"",93.0,29
+2020-03-08,Utah,Food,49.0,51.0,49.0,1
+2020-03-08,Utah,Shops & Services,58.0,54.0,58.0,2
+2020-03-08,Utah,Grocery,96.0,92.0,96.0,3
+2020-03-08,Utah,Outdoors & Recreation,52.0,50.0,52.0,4
+2020-03-08,Utah,Gas Stations,105.0,99.0,105.0,5
+2020-03-08,Utah,Big Box Stores,99.0,93.0,99.0,6
+2020-03-08,Utah,Fast Food Restaurants,100.0,98.0,100.0,7
+2020-03-08,Utah,Hotel,87.0,82.0,88.0,8
+2020-03-08,Utah,Airport,62.0,58.0,62.0,9
+2020-03-08,Utah,Arts & Entertainment,56.0,62.0,56.0,10
+2020-03-08,Utah,School,58.0,56.0,58.0,11
+2020-03-08,Utah,Nightlife Spots,50.0,46.0,50.0,12
+2020-03-08,Utah,Skiing,62.0,53.0,62.0,13
+2020-03-08,Utah,Professional & Other Places,13.0,10.0,13.0,14
+2020-03-08,Utah,Medical,53.0,60.0,52.0,15
+2020-03-08,Utah,Hardware Stores,110.0,96.0,111.0,16
+2020-03-08,Utah,Residences,100.0,80.0,101.0,17
+2020-03-08,Utah,Convenience Store,105.0,112.0,105.0,18
+2020-03-08,Utah,Sports,38.0,41.0,38.0,19
+2020-03-08,Utah,Colleges & Universities,59.0,"",59.0,20
+2020-03-08,Utah,Fitness Center,65.0,52.0,65.0,21
+2020-03-08,Utah,Drug Store,108.0,110.0,108.0,22
+2020-03-08,Utah,Travel & Transport,15.0,20.0,14.0,23
+2020-03-08,Utah,Office,89.0,121.0,89.0,24
+2020-03-08,Utah,Discount Stores,96.0,"",96.0,25
+2020-03-08,Utah,Government,64.0,"",64.0,26
+2020-03-08,Utah,Light Rail Stations,95.0,"",95.0,27
+2020-03-08,Utah,Alcohol,95.0,"",95.0,28
+2020-03-08,Utah,Banks,106.0,"",105.0,29
+2020-03-08,Utah,Spiritual Center,3.0,"",3.0,30
+2020-03-09,Utah,Food,51.0,51.0,51.0,1
+2020-03-09,Utah,Shops & Services,35.0,40.0,34.0,2
+2020-03-09,Utah,Outdoors & Recreation,50.0,52.0,50.0,3
+2020-03-09,Utah,Gas Stations,103.0,102.0,103.0,3
+2020-03-09,Utah,Grocery,106.0,106.0,106.0,4
+2020-03-09,Utah,School,65.0,62.0,65.0,5
+2020-03-09,Utah,Fast Food Restaurants,110.0,106.0,110.0,6
+2020-03-09,Utah,Medical,61.0,61.0,61.0,7
+2020-03-09,Utah,Airport,53.0,44.0,53.0,8
+2020-03-09,Utah,Big Box Stores,108.0,88.0,109.0,9
+2020-03-09,Utah,Professional & Other Places,17.0,16.0,17.0,10
+2020-03-09,Utah,Colleges & Universities,86.0,86.0,86.0,11
+2020-03-09,Utah,Hotel,91.0,87.0,91.0,12
+2020-03-09,Utah,Arts & Entertainment,91.0,95.0,91.0,13
+2020-03-09,Utah,Office,96.0,93.0,96.0,14
+2020-03-09,Utah,Government,92.0,79.0,93.0,15
+2020-03-09,Utah,Skiing,63.0,50.0,64.0,16
+2020-03-09,Utah,Nightlife Spots,51.0,51.0,51.0,17
+2020-03-09,Utah,Convenience Store,117.0,96.0,117.0,18
+2020-03-09,Utah,Fitness Center,77.0,79.0,77.0,19
+2020-03-09,Utah,Hardware Stores,115.0,113.0,115.0,20
+2020-03-09,Utah,Residences,105.0,90.0,105.0,21
+2020-03-09,Utah,Sports,37.0,39.0,37.0,22
+2020-03-09,Utah,Travel & Transport,15.0,17.0,15.0,23
+2020-03-09,Utah,Drug Store,108.0,134.0,107.0,24
+2020-03-09,Utah,Discount Stores,121.0,130.0,121.0,25
+2020-03-09,Utah,Light Rail Stations,112.0,"",112.0,26
+2020-03-09,Utah,Banks,114.0,107.0,115.0,27
+2020-03-09,Utah,Alcohol,128.0,"",129.0,28
+2020-03-10,Utah,Food,51.0,51.0,51.0,1
+2020-03-10,Utah,Shops & Services,58.0,57.0,58.0,2
+2020-03-10,Utah,Gas Stations,97.0,90.0,98.0,3
+2020-03-10,Utah,Outdoors & Recreation,59.0,55.0,60.0,4
+2020-03-10,Utah,Grocery,100.0,85.0,101.0,5
+2020-03-10,Utah,School,56.0,52.0,57.0,6
+2020-03-10,Utah,Fast Food Restaurants,109.0,106.0,109.0,7
+2020-03-10,Utah,Medical,53.0,48.0,53.0,8
+2020-03-10,Utah,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-10,Utah,Big Box Stores,101.0,88.0,101.0,10
+2020-03-10,Utah,Colleges & Universities,59.0,50.0,60.0,11
+2020-03-10,Utah,Hotel,89.0,87.0,89.0,12
+2020-03-10,Utah,Airport,47.0,60.0,46.0,13
+2020-03-10,Utah,Arts & Entertainment,59.0,54.0,59.0,14
+2020-03-10,Utah,Office,78.0,75.0,78.0,15
+2020-03-10,Utah,Government,74.0,63.0,75.0,16
+2020-03-10,Utah,Fitness Center,67.0,62.0,67.0,17
+2020-03-10,Utah,Hardware Stores,108.0,109.0,108.0,18
+2020-03-10,Utah,Convenience Store,106.0,95.0,106.0,19
+2020-03-10,Utah,Nightlife Spots,63.0,65.0,63.0,20
+2020-03-10,Utah,Skiing,67.0,44.0,68.0,21
+2020-03-10,Utah,Residences,101.0,79.0,101.0,22
+2020-03-10,Utah,Sports,31.0,37.0,31.0,23
+2020-03-10,Utah,Travel & Transport,59.0,53.0,59.0,24
+2020-03-10,Utah,Drug Store,101.0,105.0,100.0,25
+2020-03-10,Utah,Discount Stores,110.0,81.0,111.0,26
+2020-03-10,Utah,Light Rail Stations,100.0,"",101.0,27
+2020-03-10,Utah,Banks,97.0,84.0,98.0,28
+2020-03-10,Utah,Alcohol,114.0,"",116.0,29
+2020-03-10,Utah,Bus,85.0,"",87.0,30
+2020-03-11,Utah,Food,47.0,45.0,47.0,1
+2020-03-11,Utah,Shops & Services,50.0,49.0,50.0,2
+2020-03-11,Utah,Gas Stations,101.0,91.0,101.0,3
+2020-03-11,Utah,Outdoors & Recreation,52.0,50.0,52.0,4
+2020-03-11,Utah,Grocery,103.0,96.0,104.0,5
+2020-03-11,Utah,School,52.0,48.0,52.0,6
+2020-03-11,Utah,Fast Food Restaurants,100.0,83.0,100.0,7
+2020-03-11,Utah,Medical,50.0,45.0,51.0,8
+2020-03-11,Utah,Colleges & Universities,62.0,75.0,62.0,9
+2020-03-11,Utah,Big Box Stores,100.0,88.0,100.0,10
+2020-03-11,Utah,Professional & Other Places,13.0,12.0,13.0,11
+2020-03-11,Utah,Airport,55.0,43.0,56.0,12
+2020-03-11,Utah,Hotel,78.0,70.0,78.0,13
+2020-03-11,Utah,Arts & Entertainment,56.0,56.0,56.0,14
+2020-03-11,Utah,Office,73.0,85.0,73.0,15
+2020-03-11,Utah,Government,67.0,61.0,67.0,16
+2020-03-11,Utah,Nightlife Spots,70.0,66.0,70.0,17
+2020-03-11,Utah,Fitness Center,60.0,59.0,60.0,18
+2020-03-11,Utah,Convenience Store,99.0,99.0,99.0,19
+2020-03-11,Utah,Hardware Stores,103.0,92.0,103.0,20
+2020-03-11,Utah,Residences,97.0,87.0,97.0,21
+2020-03-11,Utah,Skiing,69.0,71.0,68.0,22
+2020-03-11,Utah,Sports,30.0,32.0,30.0,23
+2020-03-11,Utah,Travel & Transport,50.0,49.0,50.0,24
+2020-03-11,Utah,Drug Store,98.0,92.0,99.0,25
+2020-03-11,Utah,Discount Stores,104.0,123.0,103.0,26
+2020-03-11,Utah,Light Rail Stations,106.0,"",105.0,27
+2020-03-11,Utah,Banks,92.0,80.0,93.0,28
+2020-03-11,Utah,Alcohol,112.0,"",113.0,29
+2020-03-11,Utah,Bus,90.0,"",90.0,30
+2020-03-12,Utah,Food,42.0,39.0,42.0,1
+2020-03-12,Utah,Shops & Services,51.0,53.0,51.0,2
+2020-03-12,Utah,Grocery,131.0,135.0,131.0,3
+2020-03-12,Utah,Gas Stations,105.0,100.0,105.0,4
+2020-03-12,Utah,Outdoors & Recreation,53.0,50.0,53.0,5
+2020-03-12,Utah,School,52.0,53.0,52.0,6
+2020-03-12,Utah,Fast Food Restaurants,97.0,87.0,97.0,7
+2020-03-12,Utah,Medical,50.0,48.0,50.0,8
+2020-03-12,Utah,Big Box Stores,114.0,113.0,114.0,9
+2020-03-12,Utah,Professional & Other Places,16.0,15.0,16.0,10
+2020-03-12,Utah,Colleges & Universities,74.0,86.0,74.0,11
+2020-03-12,Utah,Hotel,81.0,73.0,82.0,12
+2020-03-12,Utah,Airport,46.0,46.0,46.0,13
+2020-03-12,Utah,Office,79.0,92.0,78.0,14
+2020-03-12,Utah,Arts & Entertainment,48.0,45.0,48.0,15
+2020-03-12,Utah,Nightlife Spots,47.0,47.0,47.0,16
+2020-03-12,Utah,Government,68.0,75.0,67.0,17
+2020-03-12,Utah,Hardware Stores,115.0,132.0,114.0,18
+2020-03-12,Utah,Skiing,66.0,59.0,66.0,19
+2020-03-12,Utah,Convenience Store,103.0,98.0,103.0,20
+2020-03-12,Utah,Fitness Center,62.0,57.0,62.0,21
+2020-03-12,Utah,Residences,96.0,80.0,96.0,22
+2020-03-12,Utah,Sports,32.0,34.0,32.0,23
+2020-03-12,Utah,Travel & Transport,51.0,41.0,52.0,24
+2020-03-12,Utah,Drug Store,112.0,109.0,113.0,25
+2020-03-12,Utah,Discount Stores,115.0,113.0,115.0,26
+2020-03-12,Utah,Banks,101.0,135.0,99.0,27
+2020-03-12,Utah,Light Rail Stations,86.0,"",86.0,28
+2020-03-12,Utah,Alcohol,108.0,"",108.0,29
+2020-03-13,Utah,Food,45.0,42.0,45.0,1
+2020-03-13,Utah,Shops & Services,51.0,48.0,52.0,2
+2020-03-13,Utah,Grocery,159.0,139.0,160.0,3
+2020-03-13,Utah,Gas Stations,105.0,89.0,106.0,4
+2020-03-13,Utah,Outdoors & Recreation,55.0,51.0,55.0,5
+2020-03-13,Utah,Big Box Stores,133.0,121.0,133.0,6
+2020-03-13,Utah,Fast Food Restaurants,104.0,88.0,104.0,7
+2020-03-13,Utah,School,46.0,37.0,46.0,8
+2020-03-13,Utah,Medical,52.0,46.0,52.0,9
+2020-03-13,Utah,Professional & Other Places,13.0,12.0,13.0,10
+2020-03-13,Utah,Hotel,77.0,66.0,78.0,11
+2020-03-13,Utah,Airport,44.0,39.0,44.0,12
+2020-03-13,Utah,Arts & Entertainment,49.0,42.0,50.0,13
+2020-03-13,Utah,Colleges & Universities,45.0,54.0,45.0,14
+2020-03-13,Utah,Hardware Stores,129.0,107.0,130.0,15
+2020-03-13,Utah,Office,73.0,61.0,73.0,16
+2020-03-13,Utah,Nightlife Spots,62.0,52.0,62.0,17
+2020-03-13,Utah,Convenience Store,104.0,102.0,104.0,18
+2020-03-13,Utah,Government,70.0,59.0,70.0,19
+2020-03-13,Utah,Skiing,46.0,47.0,45.0,20
+2020-03-13,Utah,Fitness Center,56.0,59.0,56.0,21
+2020-03-13,Utah,Drug Store,146.0,128.0,147.0,22
+2020-03-13,Utah,Residences,92.0,77.0,92.0,23
+2020-03-13,Utah,Sports,30.0,23.0,30.0,24
+2020-03-13,Utah,Travel & Transport,51.0,47.0,51.0,25
+2020-03-13,Utah,Discount Stores,122.0,106.0,123.0,26
+2020-03-13,Utah,Banks,106.0,102.0,106.0,27
+2020-03-13,Utah,Alcohol,126.0,109.0,127.0,28
+2020-03-13,Utah,Light Rail Stations,89.0,"",90.0,29
+2020-03-14,Utah,Food,38.0,38.0,38.0,1
+2020-03-14,Utah,Shops & Services,28.0,27.0,28.0,2
+2020-03-14,Utah,Grocery,133.0,115.0,134.0,3
+2020-03-14,Utah,Gas Stations,94.0,80.0,94.0,4
+2020-03-14,Utah,Outdoors & Recreation,48.0,45.0,48.0,5
+2020-03-14,Utah,Big Box Stores,107.0,88.0,108.0,6
+2020-03-14,Utah,Fast Food Restaurants,83.0,76.0,83.0,7
+2020-03-14,Utah,Hotel,70.0,63.0,70.0,8
+2020-03-14,Utah,Airport,48.0,43.0,48.0,9
+2020-03-14,Utah,Hardware Stores,118.0,92.0,119.0,10
+2020-03-14,Utah,School,39.0,36.0,39.0,11
+2020-03-14,Utah,Arts & Entertainment,48.0,42.0,48.0,12
+2020-03-14,Utah,Professional & Other Places,12.0,9.0,12.0,13
+2020-03-14,Utah,Nightlife Spots,41.0,39.0,41.0,14
+2020-03-14,Utah,Medical,47.0,52.0,47.0,15
+2020-03-14,Utah,Skiing,43.0,37.0,43.0,16
+2020-03-14,Utah,Convenience Store,93.0,76.0,94.0,17
+2020-03-14,Utah,Residences,83.0,80.0,84.0,18
+2020-03-14,Utah,Drug Store,123.0,126.0,123.0,19
+2020-03-14,Utah,Fitness Center,49.0,50.0,49.0,20
+2020-03-14,Utah,Sports,26.0,26.0,26.0,21
+2020-03-14,Utah,Discount Stores,122.0,109.0,122.0,21
+2020-03-14,Utah,Travel & Transport,55.0,43.0,56.0,22
+2020-03-14,Utah,Colleges & Universities,41.0,48.0,41.0,23
+2020-03-14,Utah,Office,67.0,"",67.0,24
+2020-03-14,Utah,Government,63.0,"",63.0,25
+2020-03-14,Utah,Alcohol,102.0,"",102.0,26
+2020-03-14,Utah,Banks,74.0,"",75.0,27
+2020-03-14,Utah,Light Rail Stations,65.0,"",65.0,28
+2020-03-15,Utah,Food,38.0,38.0,38.0,1
+2020-03-15,Utah,Shops & Services,37.0,44.0,36.0,2
+2020-03-15,Utah,Grocery,98.0,98.0,98.0,3
+2020-03-15,Utah,Outdoors & Recreation,41.0,40.0,41.0,4
+2020-03-15,Utah,Gas Stations,95.0,103.0,95.0,5
+2020-03-15,Utah,Big Box Stores,92.0,89.0,92.0,6
+2020-03-15,Utah,Fast Food Restaurants,81.0,74.0,81.0,7
+2020-03-15,Utah,Hotel,67.0,67.0,67.0,8
+2020-03-15,Utah,Airport,48.0,58.0,48.0,9
+2020-03-15,Utah,Nightlife Spots,42.0,41.0,42.0,10
+2020-03-15,Utah,Arts & Entertainment,35.0,38.0,35.0,11
+2020-03-15,Utah,School,42.0,40.0,42.0,12
+2020-03-15,Utah,Professional & Other Places,12.0,10.0,12.0,13
+2020-03-15,Utah,Hardware Stores,118.0,100.0,119.0,14
+2020-03-15,Utah,Convenience Store,99.0,114.0,98.0,15
+2020-03-15,Utah,Residences,85.0,77.0,85.0,16
+2020-03-15,Utah,Medical,45.0,48.0,45.0,17
+2020-03-15,Utah,Sports,32.0,31.0,32.0,18
+2020-03-15,Utah,Drug Store,109.0,102.0,109.0,19
+2020-03-15,Utah,Travel & Transport,61.0,46.0,62.0,20
+2020-03-15,Utah,Discount Stores,117.0,122.0,117.0,21
+2020-03-15,Utah,Fitness Center,50.0,"",50.0,22
+2020-03-15,Utah,Government,62.0,"",62.0,23
+2020-03-15,Utah,Office,70.0,"",71.0,23
+2020-03-15,Utah,Colleges & Universities,41.0,"",41.0,24
+2020-03-15,Utah,Skiing,15.0,"",15.0,25
+2020-03-15,Utah,Alcohol,75.0,"",76.0,26
+2020-03-15,Utah,Banks,99.0,"",99.0,27
+2020-03-15,Utah,Light Rail Stations,73.0,"",73.0,28
+2020-03-16,Utah,Shops & Services,51.0,56.0,51.0,1
+2020-03-16,Utah,Food,42.0,41.0,42.0,2
+2020-03-16,Utah,Grocery,142.0,152.0,141.0,3
+2020-03-16,Utah,Outdoors & Recreation,49.0,46.0,49.0,4
+2020-03-16,Utah,Gas Stations,108.0,103.0,108.0,5
+2020-03-16,Utah,Fast Food Restaurants,101.0,96.0,101.0,6
+2020-03-16,Utah,Big Box Stores,116.0,118.0,116.0,7
+2020-03-16,Utah,Medical,55.0,50.0,55.0,8
+2020-03-16,Utah,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-16,Utah,School,43.0,49.0,43.0,10
+2020-03-16,Utah,Airport,36.0,28.0,36.0,11
+2020-03-16,Utah,Hotel,68.0,66.0,68.0,12
+2020-03-16,Utah,Office,84.0,83.0,84.0,13
+2020-03-16,Utah,Hardware Stores,131.0,115.0,132.0,14
+2020-03-16,Utah,Arts & Entertainment,63.0,58.0,63.0,15
+2020-03-16,Utah,Convenience Store,117.0,102.0,117.0,16
+2020-03-16,Utah,Government,80.0,73.0,80.0,17
+2020-03-16,Utah,Colleges & Universities,44.0,70.0,44.0,18
+2020-03-16,Utah,Nightlife Spots,45.0,46.0,45.0,19
+2020-03-16,Utah,Residences,94.0,63.0,96.0,20
+2020-03-16,Utah,Sports,37.0,40.0,36.0,21
+2020-03-16,Utah,Travel & Transport,56.0,55.0,56.0,22
+2020-03-16,Utah,Fitness Center,54.0,45.0,55.0,23
+2020-03-16,Utah,Drug Store,128.0,131.0,127.0,24
+2020-03-16,Utah,Discount Stores,126.0,107.0,127.0,25
+2020-03-16,Utah,Banks,131.0,126.0,131.0,26
+2020-03-16,Utah,Light Rail Stations,88.0,"",88.0,27
+2020-03-16,Utah,Alcohol,167.0,186.0,166.0,28
+2020-03-16,Utah,Skiing,10.0,"",10.0,29
+2020-03-17,Utah,Shops & Services,43.0,42.0,43.0,1
+2020-03-17,Utah,Food,38.0,36.0,38.0,2
+2020-03-17,Utah,Grocery,123.0,105.0,124.0,3
+2020-03-17,Utah,Outdoors & Recreation,50.0,45.0,50.0,4
+2020-03-17,Utah,Gas Stations,94.0,77.0,94.0,5
+2020-03-17,Utah,Big Box Stores,109.0,86.0,110.0,6
+2020-03-17,Utah,Fast Food Restaurants,87.0,75.0,87.0,7
+2020-03-17,Utah,Medical,43.0,32.0,44.0,8
+2020-03-17,Utah,School,32.0,32.0,32.0,9
+2020-03-17,Utah,Professional & Other Places,12.0,9.0,12.0,10
+2020-03-17,Utah,Hotel,66.0,66.0,66.0,11
+2020-03-17,Utah,Airport,35.0,33.0,35.0,12
+2020-03-17,Utah,Hardware Stores,114.0,91.0,115.0,13
+2020-03-17,Utah,Office,58.0,56.0,58.0,14
+2020-03-17,Utah,Arts & Entertainment,42.0,41.0,42.0,15
+2020-03-17,Utah,Colleges & Universities,30.0,37.0,30.0,16
+2020-03-17,Utah,Government,59.0,48.0,59.0,17
+2020-03-17,Utah,Convenience Store,101.0,88.0,102.0,18
+2020-03-17,Utah,Nightlife Spots,54.0,47.0,54.0,19
+2020-03-17,Utah,Residences,92.0,87.0,92.0,20
+2020-03-17,Utah,Sports,31.0,35.0,31.0,21
+2020-03-17,Utah,Travel & Transport,47.0,44.0,47.0,22
+2020-03-17,Utah,Drug Store,111.0,108.0,111.0,22
+2020-03-17,Utah,Fitness Center,35.0,42.0,35.0,23
+2020-03-17,Utah,Discount Stores,111.0,92.0,112.0,24
+2020-03-17,Utah,Banks,88.0,"",90.0,25
+2020-03-17,Utah,Alcohol,124.0,"",127.0,26
+2020-03-17,Utah,Light Rail Stations,77.0,"",77.0,27
+2020-03-17,Utah,Skiing,13.0,16.0,13.0,28
+2020-03-18,Utah,Shops & Services,35.0,31.0,35.0,1
+2020-03-18,Utah,Food,29.0,25.0,29.0,2
+2020-03-18,Utah,Grocery,113.0,99.0,114.0,3
+2020-03-18,Utah,Gas Stations,100.0,95.0,101.0,4
+2020-03-18,Utah,Outdoors & Recreation,69.0,53.0,70.0,5
+2020-03-18,Utah,Fast Food Restaurants,76.0,61.0,77.0,6
+2020-03-18,Utah,Big Box Stores,93.0,75.0,93.0,7
+2020-03-18,Utah,Medical,37.0,26.0,37.0,8
+2020-03-18,Utah,School,29.0,31.0,29.0,9
+2020-03-18,Utah,Professional & Other Places,12.0,10.0,12.0,10
+2020-03-18,Utah,Hotel,52.0,41.0,52.0,11
+2020-03-18,Utah,Hardware Stores,113.0,95.0,114.0,12
+2020-03-18,Utah,Convenience Store,97.0,78.0,98.0,13
+2020-03-18,Utah,Office,47.0,46.0,47.0,14
+2020-03-18,Utah,Arts & Entertainment,47.0,40.0,47.0,15
+2020-03-18,Utah,Government,48.0,45.0,48.0,16
+2020-03-18,Utah,Residences,80.0,56.0,81.0,17
+2020-03-18,Utah,Colleges & Universities,20.0,31.0,20.0,18
+2020-03-18,Utah,Airport,20.0,13.0,21.0,19
+2020-03-18,Utah,Nightlife Spots,31.0,29.0,31.0,20
+2020-03-18,Utah,Sports,23.0,20.0,23.0,21
+2020-03-18,Utah,Drug Store,102.0,94.0,102.0,22
+2020-03-18,Utah,Travel & Transport,49.0,54.0,49.0,23
+2020-03-18,Utah,Fitness Center,25.0,25.0,25.0,24
+2020-03-18,Utah,Discount Stores,77.0,"",78.0,25
+2020-03-18,Utah,Banks,81.0,"",81.0,26
+2020-03-18,Utah,Alcohol,91.0,"",92.0,27
+2020-03-18,Utah,Light Rail Stations,60.0,"",60.0,28
+2020-03-19,Utah,Shops & Services,33.0,30.0,33.0,1
+2020-03-19,Utah,Food,28.0,25.0,28.0,2
+2020-03-19,Utah,Grocery,96.0,88.0,97.0,3
+2020-03-19,Utah,Gas Stations,80.0,70.0,81.0,4
+2020-03-19,Utah,Outdoors & Recreation,55.0,54.0,55.0,5
+2020-03-19,Utah,Fast Food Restaurants,67.0,60.0,67.0,6
+2020-03-19,Utah,Big Box Stores,85.0,72.0,86.0,7
+2020-03-19,Utah,Medical,35.0,29.0,35.0,8
+2020-03-19,Utah,School,26.0,28.0,26.0,9
+2020-03-19,Utah,Professional & Other Places,11.0,10.0,11.0,10
+2020-03-19,Utah,Hotel,47.0,47.0,46.0,11
+2020-03-19,Utah,Hardware Stores,100.0,79.0,101.0,12
+2020-03-19,Utah,Office,50.0,48.0,50.0,13
+2020-03-19,Utah,Airport,22.0,18.0,22.0,14
+2020-03-19,Utah,Convenience Store,79.0,64.0,80.0,15
+2020-03-19,Utah,Arts & Entertainment,37.0,33.0,37.0,16
+2020-03-19,Utah,Government,43.0,40.0,44.0,17
+2020-03-19,Utah,Residences,75.0,57.0,76.0,18
+2020-03-19,Utah,Colleges & Universities,20.0,30.0,20.0,19
+2020-03-19,Utah,Travel & Transport,47.0,45.0,47.0,20
+2020-03-19,Utah,Nightlife Spots,25.0,26.0,25.0,21
+2020-03-19,Utah,Sports,21.0,22.0,21.0,22
+2020-03-19,Utah,Drug Store,85.0,85.0,85.0,23
+2020-03-19,Utah,Fitness Center,23.0,28.0,23.0,24
+2020-03-19,Utah,Discount Stores,78.0,75.0,78.0,25
+2020-03-19,Utah,Banks,78.0,"",78.0,26
+2020-03-19,Utah,Alcohol,100.0,"",100.0,27
+2020-03-19,Utah,Light Rail Stations,48.0,"",47.0,28
+2020-03-20,Utah,Shops & Services,30.0,24.0,30.0,1
+2020-03-20,Utah,Food,26.0,25.0,26.0,2
+2020-03-20,Utah,Grocery,101.0,100.0,101.0,3
+2020-03-20,Utah,Gas Stations,77.0,69.0,77.0,4
+2020-03-20,Utah,Outdoors & Recreation,29.0,29.0,29.0,5
+2020-03-20,Utah,Big Box Stores,86.0,81.0,86.0,6
+2020-03-20,Utah,Fast Food Restaurants,67.0,60.0,68.0,7
+2020-03-20,Utah,Medical,38.0,29.0,38.0,8
+2020-03-20,Utah,Professional & Other Places,12.0,9.0,12.0,9
+2020-03-20,Utah,School,25.0,25.0,25.0,10
+2020-03-20,Utah,Hardware Stores,105.0,91.0,106.0,11
+2020-03-20,Utah,Hotel,40.0,35.0,40.0,12
+2020-03-20,Utah,Office,54.0,53.0,54.0,13
+2020-03-20,Utah,Arts & Entertainment,42.0,34.0,42.0,14
+2020-03-20,Utah,Convenience Store,77.0,72.0,77.0,15
+2020-03-20,Utah,Government,47.0,42.0,47.0,16
+2020-03-20,Utah,Residences,71.0,61.0,71.0,17
+2020-03-20,Utah,Airport,16.0,11.0,16.0,18
+2020-03-20,Utah,Colleges & Universities,22.0,"",22.0,19
+2020-03-20,Utah,Drug Store,97.0,88.0,98.0,20
+2020-03-20,Utah,Sports,26.0,20.0,26.0,21
+2020-03-20,Utah,Travel & Transport,56.0,57.0,56.0,22
+2020-03-20,Utah,Nightlife Spots,28.0,29.0,28.0,23
+2020-03-20,Utah,Discount Stores,75.0,59.0,76.0,24
+2020-03-20,Utah,Fitness Center,23.0,"",23.0,25
+2020-03-20,Utah,Banks,80.0,79.0,80.0,26
+2020-03-20,Utah,Alcohol,89.0,"",90.0,27
+2020-03-20,Utah,Light Rail Stations,59.0,"",59.0,28
+2020-03-21,Utah,Shops & Services,33.0,30.0,33.0,1
+2020-03-21,Utah,Food,23.0,24.0,23.0,2
+2020-03-21,Utah,Grocery,89.0,71.0,90.0,3
+2020-03-21,Utah,Outdoors & Recreation,35.0,37.0,35.0,4
+2020-03-21,Utah,Gas Stations,79.0,77.0,79.0,5
+2020-03-21,Utah,Big Box Stores,79.0,73.0,79.0,6
+2020-03-21,Utah,Fast Food Restaurants,64.0,51.0,64.0,7
+2020-03-21,Utah,Hardware Stores,111.0,91.0,111.0,8
+2020-03-21,Utah,School,35.0,36.0,35.0,9
+2020-03-21,Utah,Professional & Other Places,11.0,12.0,11.0,10
+2020-03-21,Utah,Medical,39.0,35.0,39.0,11
+2020-03-21,Utah,Hotel,34.0,33.0,34.0,12
+2020-03-21,Utah,Convenience Store,77.0,67.0,78.0,13
+2020-03-21,Utah,Arts & Entertainment,27.0,29.0,27.0,14
+2020-03-21,Utah,Residences,63.0,74.0,63.0,15
+2020-03-21,Utah,Sports,26.0,29.0,26.0,16
+2020-03-21,Utah,Airport,18.0,14.0,18.0,17
+2020-03-21,Utah,Drug Store,85.0,93.0,85.0,18
+2020-03-21,Utah,Office,67.0,69.0,66.0,19
+2020-03-21,Utah,Nightlife Spots,25.0,"",25.0,20
+2020-03-21,Utah,Discount Stores,79.0,"",80.0,21
+2020-03-21,Utah,Travel & Transport,56.0,"",56.0,22
+2020-03-21,Utah,Government,56.0,"",56.0,23
+2020-03-21,Utah,Colleges & Universities,34.0,"",34.0,24
+2020-03-21,Utah,Fitness Center,22.0,"",22.0,25
+2020-03-21,Utah,Alcohol,84.0,"",84.0,26
+2020-03-21,Utah,Banks,73.0,"",73.0,27
+2020-03-21,Utah,Light Rail Stations,46.0,"",47.0,28
+2020-03-22,Utah,Food,20.0,18.0,20.0,1
+2020-03-22,Utah,Outdoors & Recreation,45.0,50.0,45.0,2
+2020-03-22,Utah,Shops & Services,15.0,14.0,15.0,3
+2020-03-22,Utah,Grocery,70.0,56.0,71.0,4
+2020-03-22,Utah,Gas Stations,76.0,74.0,76.0,5
+2020-03-22,Utah,Big Box Stores,70.0,54.0,70.0,6
+2020-03-22,Utah,Fast Food Restaurants,66.0,52.0,67.0,7
+2020-03-22,Utah,School,39.0,40.0,39.0,8
+2020-03-22,Utah,Hardware Stores,100.0,90.0,100.0,9
+2020-03-22,Utah,Professional & Other Places,9.0,8.0,9.0,10
+2020-03-22,Utah,Arts & Entertainment,27.0,29.0,26.0,11
+2020-03-22,Utah,Hotel,29.0,31.0,28.0,11
+2020-03-22,Utah,Convenience Store,79.0,83.0,79.0,12
+2020-03-22,Utah,Sports,31.0,40.0,30.0,13
+2020-03-22,Utah,Medical,36.0,30.0,37.0,14
+2020-03-22,Utah,Airport,18.0,"",18.0,15
+2020-03-22,Utah,Residences,63.0,"",63.0,16
+2020-03-22,Utah,Nightlife Spots,13.0,"",13.0,17
+2020-03-22,Utah,Travel & Transport,56.0,"",56.0,18
+2020-03-22,Utah,Drug Store,75.0,"",75.0,19
+2020-03-22,Utah,Office,57.0,"",57.0,20
+2020-03-22,Utah,Government,50.0,"",51.0,21
+2020-03-22,Utah,Discount Stores,68.0,"",68.0,22
+2020-03-22,Utah,Colleges & Universities,26.0,"",26.0,23
+2020-03-22,Utah,Fitness Center,25.0,"",25.0,24
+2020-03-22,Utah,Alcohol,79.0,"",79.0,25
+2020-03-23,Utah,Shops & Services,37.0,35.0,37.0,1
+2020-03-23,Utah,Food,30.0,25.0,30.0,2
+2020-03-23,Utah,Grocery,99.0,107.0,99.0,3
+2020-03-23,Utah,Gas Stations,84.0,72.0,84.0,4
+2020-03-23,Utah,Outdoors & Recreation,40.0,39.0,40.0,5
+2020-03-23,Utah,Fast Food Restaurants,79.0,73.0,80.0,6
+2020-03-23,Utah,Medical,43.0,33.0,44.0,7
+2020-03-23,Utah,Big Box Stores,85.0,73.0,85.0,8
+2020-03-23,Utah,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-23,Utah,School,36.0,39.0,36.0,10
+2020-03-23,Utah,Hardware Stores,122.0,97.0,123.0,11
+2020-03-23,Utah,Office,68.0,68.0,68.0,12
+2020-03-23,Utah,Hotel,42.0,39.0,42.0,13
+2020-03-23,Utah,Arts & Entertainment,52.0,70.0,52.0,14
+2020-03-23,Utah,Convenience Store,87.0,76.0,88.0,15
+2020-03-23,Utah,Airport,18.0,14.0,18.0,16
+2020-03-23,Utah,Government,60.0,53.0,60.0,17
+2020-03-23,Utah,Residences,80.0,72.0,81.0,18
+2020-03-23,Utah,Colleges & Universities,30.0,44.0,30.0,19
+2020-03-23,Utah,Sports,29.0,29.0,29.0,20
+2020-03-23,Utah,Nightlife Spots,29.0,30.0,29.0,21
+2020-03-23,Utah,Travel & Transport,44.0,43.0,44.0,22
+2020-03-23,Utah,Drug Store,97.0,74.0,98.0,23
+2020-03-23,Utah,Fitness Center,27.0,28.0,27.0,24
+2020-03-23,Utah,Discount Stores,93.0,"",94.0,25
+2020-03-23,Utah,Banks,96.0,"",97.0,26
+2020-03-23,Utah,Light Rail Stations,69.0,"",69.0,27
+2020-03-23,Utah,Alcohol,123.0,"",124.0,28
+2020-03-24,Utah,Shops & Services,31.0,27.0,32.0,1
+2020-03-24,Utah,Food,26.0,22.0,26.0,2
+2020-03-24,Utah,Gas Stations,75.0,59.0,76.0,3
+2020-03-24,Utah,Grocery,83.0,74.0,84.0,4
+2020-03-24,Utah,Outdoors & Recreation,50.0,48.0,50.0,5
+2020-03-24,Utah,Fast Food Restaurants,74.0,68.0,74.0,6
+2020-03-24,Utah,Big Box Stores,81.0,71.0,82.0,7
+2020-03-24,Utah,Medical,32.0,26.0,33.0,8
+2020-03-24,Utah,Professional & Other Places,12.0,12.0,12.0,9
+2020-03-24,Utah,School,25.0,26.0,25.0,10
+2020-03-24,Utah,Office,53.0,50.0,54.0,11
+2020-03-24,Utah,Hardware Stores,99.0,73.0,100.0,12
+2020-03-24,Utah,Hotel,41.0,36.0,41.0,13
+2020-03-24,Utah,Arts & Entertainment,44.0,41.0,44.0,14
+2020-03-24,Utah,Convenience Store,78.0,50.0,79.0,15
+2020-03-24,Utah,Government,42.0,38.0,42.0,16
+2020-03-24,Utah,Colleges & Universities,20.0,30.0,20.0,17
+2020-03-24,Utah,Residences,68.0,69.0,68.0,18
+2020-03-24,Utah,Sports,22.0,26.0,22.0,19
+2020-03-24,Utah,Drug Store,89.0,73.0,90.0,20
+2020-03-24,Utah,Airport,13.0,"",13.0,21
+2020-03-24,Utah,Travel & Transport,50.0,51.0,50.0,22
+2020-03-24,Utah,Nightlife Spots,24.0,26.0,24.0,23
+2020-03-24,Utah,Fitness Center,21.0,"",21.0,24
+2020-03-24,Utah,Discount Stores,78.0,"",79.0,25
+2020-03-24,Utah,Banks,77.0,"",79.0,26
+2020-03-24,Utah,Light Rail Stations,62.0,"",62.0,27
+2020-03-24,Utah,Alcohol,97.0,"",99.0,28
+2020-03-25,Utah,Shops & Services,21.0,19.0,21.0,1
+2020-03-25,Utah,Food,25.0,23.0,25.0,2
+2020-03-25,Utah,Gas Stations,76.0,69.0,77.0,3
+2020-03-25,Utah,Grocery,83.0,65.0,84.0,4
+2020-03-25,Utah,Outdoors & Recreation,57.0,56.0,57.0,5
+2020-03-25,Utah,Fast Food Restaurants,69.0,60.0,69.0,6
+2020-03-25,Utah,Big Box Stores,77.0,60.0,77.0,7
+2020-03-25,Utah,Medical,31.0,22.0,31.0,8
+2020-03-25,Utah,Professional & Other Places,11.0,9.0,11.0,9
+2020-03-25,Utah,School,22.0,24.0,22.0,10
+2020-03-25,Utah,Office,46.0,49.0,46.0,11
+2020-03-25,Utah,Hardware Stores,88.0,84.0,89.0,12
+2020-03-25,Utah,Hotel,37.0,35.0,37.0,13
+2020-03-25,Utah,Convenience Store,72.0,66.0,72.0,14
+2020-03-25,Utah,Arts & Entertainment,33.0,28.0,33.0,15
+2020-03-25,Utah,Government,38.0,29.0,39.0,16
+2020-03-25,Utah,Colleges & Universities,24.0,40.0,24.0,17
+2020-03-25,Utah,Residences,70.0,60.0,70.0,18
+2020-03-25,Utah,Sports,21.0,29.0,20.0,19
+2020-03-25,Utah,Airport,16.0,12.0,16.0,20
+2020-03-25,Utah,Travel & Transport,38.0,36.0,38.0,21
+2020-03-25,Utah,Drug Store,79.0,59.0,80.0,22
+2020-03-25,Utah,Nightlife Spots,32.0,31.0,32.0,23
+2020-03-25,Utah,Fitness Center,21.0,21.0,21.0,24
+2020-03-25,Utah,Discount Stores,73.0,"",73.0,25
+2020-03-25,Utah,Banks,74.0,"",74.0,26
+2020-03-25,Utah,Alcohol,88.0,"",90.0,27
+2020-03-25,Utah,Light Rail Stations,58.0,"",59.0,28
+2020-03-26,Utah,Shops & Services,20.0,18.0,20.0,1
+2020-03-26,Utah,Food,26.0,19.0,26.0,2
+2020-03-26,Utah,Grocery,82.0,73.0,83.0,3
+2020-03-26,Utah,Gas Stations,72.0,59.0,73.0,4
+2020-03-26,Utah,Outdoors & Recreation,28.0,30.0,28.0,5
+2020-03-26,Utah,Fast Food Restaurants,64.0,53.0,65.0,6
+2020-03-26,Utah,Big Box Stores,81.0,66.0,81.0,7
+2020-03-26,Utah,Medical,30.0,22.0,31.0,8
+2020-03-26,Utah,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-26,Utah,School,21.0,25.0,20.0,10
+2020-03-26,Utah,Hardware Stores,95.0,79.0,96.0,11
+2020-03-26,Utah,Office,45.0,54.0,45.0,12
+2020-03-26,Utah,Hotel,34.0,34.0,34.0,13
+2020-03-26,Utah,Convenience Store,69.0,62.0,69.0,14
+2020-03-26,Utah,Arts & Entertainment,38.0,37.0,38.0,15
+2020-03-26,Utah,Government,38.0,36.0,38.0,16
+2020-03-26,Utah,Colleges & Universities,18.0,33.0,18.0,17
+2020-03-26,Utah,Residences,69.0,65.0,69.0,18
+2020-03-26,Utah,Airport,14.0,"",14.0,19
+2020-03-26,Utah,Travel & Transport,36.0,36.0,36.0,20
+2020-03-26,Utah,Sports,19.0,24.0,19.0,21
+2020-03-26,Utah,Nightlife Spots,21.0,25.0,21.0,22
+2020-03-26,Utah,Drug Store,82.0,64.0,83.0,23
+2020-03-26,Utah,Fitness Center,20.0,24.0,20.0,24
+2020-03-26,Utah,Discount Stores,67.0,"",68.0,25
+2020-03-26,Utah,Banks,63.0,"",64.0,26
+2020-03-26,Utah,Alcohol,81.0,"",82.0,27
+2020-03-26,Utah,Light Rail Stations,46.0,"",46.0,28
+2020-03-27,Utah,Shops & Services,32.0,28.0,32.0,1
+2020-03-27,Utah,Food,23.0,19.0,23.0,2
+2020-03-27,Utah,Grocery,82.0,73.0,83.0,3
+2020-03-27,Utah,Gas Stations,67.0,59.0,68.0,4
+2020-03-27,Utah,Outdoors & Recreation,28.0,30.0,28.0,5
+2020-03-27,Utah,Fast Food Restaurants,65.0,60.0,66.0,6
+2020-03-27,Utah,Big Box Stores,74.0,64.0,75.0,7
+2020-03-27,Utah,Medical,32.0,22.0,32.0,8
+2020-03-27,Utah,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-27,Utah,School,24.0,24.0,24.0,10
+2020-03-27,Utah,Hardware Stores,101.0,80.0,102.0,11
+2020-03-27,Utah,Office,46.0,39.0,46.0,12
+2020-03-27,Utah,Hotel,32.0,24.0,32.0,13
+2020-03-27,Utah,Convenience Store,67.0,64.0,67.0,14
+2020-03-27,Utah,Arts & Entertainment,26.0,23.0,26.0,15
+2020-03-27,Utah,Residences,68.0,46.0,68.0,16
+2020-03-27,Utah,Government,40.0,36.0,40.0,17
+2020-03-27,Utah,Colleges & Universities,20.0,37.0,20.0,18
+2020-03-27,Utah,Sports,20.0,22.0,20.0,19
+2020-03-27,Utah,Airport,12.0,10.0,12.0,20
+2020-03-27,Utah,Drug Store,76.0,66.0,77.0,21
+2020-03-27,Utah,Travel & Transport,39.0,37.0,39.0,21
+2020-03-27,Utah,Nightlife Spots,18.0,17.0,18.0,22
+2020-03-27,Utah,Fitness Center,21.0,"",21.0,23
+2020-03-27,Utah,Discount Stores,63.0,"",63.0,24
+2020-03-27,Utah,Banks,72.0,"",73.0,25
+2020-03-27,Utah,Alcohol,84.0,"",85.0,26
+2020-03-27,Utah,Light Rail Stations,60.0,"",60.0,27
+2020-03-28,Utah,Shops & Services,28.0,24.0,29.0,1
+2020-03-28,Utah,Food,21.0,18.0,21.0,2
+2020-03-28,Utah,Grocery,76.0,61.0,76.0,3
+2020-03-28,Utah,Outdoors & Recreation,27.0,31.0,27.0,4
+2020-03-28,Utah,Gas Stations,69.0,60.0,69.0,5
+2020-03-28,Utah,Big Box Stores,73.0,55.0,73.0,6
+2020-03-28,Utah,Fast Food Restaurants,61.0,54.0,61.0,7
+2020-03-28,Utah,Hardware Stores,98.0,77.0,98.0,8
+2020-03-28,Utah,School,28.0,29.0,28.0,9
+2020-03-28,Utah,Professional & Other Places,12.0,12.0,12.0,10
+2020-03-28,Utah,Medical,31.0,25.0,31.0,11
+2020-03-28,Utah,Hotel,25.0,27.0,25.0,12
+2020-03-28,Utah,Arts & Entertainment,25.0,22.0,25.0,13
+2020-03-28,Utah,Convenience Store,58.0,51.0,58.0,14
+2020-03-28,Utah,Residences,59.0,56.0,59.0,15
+2020-03-28,Utah,Sports,18.0,18.0,18.0,16
+2020-03-28,Utah,Airport,14.0,"",14.0,17
+2020-03-28,Utah,Drug Store,68.0,60.0,68.0,18
+2020-03-28,Utah,Nightlife Spots,20.0,"",20.0,19
+2020-03-28,Utah,Office,45.0,"",45.0,20
+2020-03-28,Utah,Travel & Transport,43.0,55.0,43.0,21
+2020-03-28,Utah,Discount Stores,60.0,"",60.0,22
+2020-03-28,Utah,Colleges & Universities,25.0,"",25.0,23
+2020-03-28,Utah,Fitness Center,19.0,"",19.0,24
+2020-03-28,Utah,Government,42.0,"",42.0,25
+2020-03-28,Utah,Alcohol,80.0,"",81.0,26
+2020-03-28,Utah,Banks,57.0,"",58.0,27
+2020-03-29,Utah,Food,16.0,14.0,17.0,1
+2020-03-29,Utah,Shops & Services,16.0,18.0,16.0,2
+2020-03-29,Utah,Outdoors & Recreation,26.0,29.0,26.0,3
+2020-03-29,Utah,Grocery,52.0,45.0,52.0,4
+2020-03-29,Utah,Gas Stations,59.0,58.0,59.0,5
+2020-03-29,Utah,Big Box Stores,55.0,57.0,55.0,6
+2020-03-29,Utah,Fast Food Restaurants,51.0,42.0,51.0,7
+2020-03-29,Utah,School,24.0,24.0,24.0,8
+2020-03-29,Utah,Hardware Stores,79.0,59.0,79.0,9
+2020-03-29,Utah,Professional & Other Places,7.0,5.0,7.0,10
+2020-03-29,Utah,Hotel,22.0,24.0,21.0,11
+2020-03-29,Utah,Convenience Store,58.0,"",58.0,12
+2020-03-29,Utah,Arts & Entertainment,14.0,21.0,14.0,13
+2020-03-29,Utah,Medical,27.0,24.0,27.0,14
+2020-03-29,Utah,Residences,44.0,"",44.0,15
+2020-03-29,Utah,Sports,17.0,21.0,17.0,16
+2020-03-29,Utah,Drug Store,62.0,"",62.0,17
+2020-03-29,Utah,Airport,10.0,"",10.0,18
+2020-03-29,Utah,Nightlife Spots,9.0,"",9.0,19
+2020-03-29,Utah,Travel & Transport,46.0,"",47.0,19
+2020-03-29,Utah,Colleges & Universities,29.0,"",30.0,20
+2020-03-29,Utah,Discount Stores,54.0,"",54.0,21
+2020-03-29,Utah,Office,41.0,"",40.0,22
+2020-03-29,Utah,Government,36.0,"",35.0,22
+2020-03-29,Utah,Fitness Center,21.0,"",21.0,23
+2020-03-30,Utah,Shops & Services,21.0,20.0,21.0,1
+2020-03-30,Utah,Food,24.0,22.0,24.0,2
+2020-03-30,Utah,Gas Stations,70.0,67.0,70.0,3
+2020-03-30,Utah,Outdoors & Recreation,35.0,38.0,35.0,4
+2020-03-30,Utah,Grocery,71.0,72.0,71.0,5
+2020-03-30,Utah,Fast Food Restaurants,68.0,65.0,68.0,6
+2020-03-30,Utah,Big Box Stores,74.0,77.0,74.0,7
+2020-03-30,Utah,Professional & Other Places,13.0,15.0,13.0,8
+2020-03-30,Utah,Medical,32.0,23.0,32.0,9
+2020-03-30,Utah,School,30.0,32.0,29.0,10
+2020-03-30,Utah,Hardware Stores,101.0,80.0,102.0,11
+2020-03-30,Utah,Office,53.0,59.0,52.0,12
+2020-03-30,Utah,Hotel,33.0,35.0,33.0,13
+2020-03-30,Utah,Arts & Entertainment,42.0,49.0,42.0,14
+2020-03-30,Utah,Convenience Store,69.0,61.0,69.0,15
+2020-03-30,Utah,Government,48.0,45.0,48.0,16
+2020-03-30,Utah,Residences,65.0,55.0,66.0,17
+2020-03-30,Utah,Airport,12.0,10.0,12.0,18
+2020-03-30,Utah,Colleges & Universities,25.0,46.0,25.0,19
+2020-03-30,Utah,Sports,24.0,33.0,24.0,20
+2020-03-30,Utah,Travel & Transport,41.0,38.0,41.0,21
+2020-03-30,Utah,Nightlife Spots,33.0,48.0,32.0,22
+2020-03-30,Utah,Drug Store,73.0,69.0,73.0,23
+2020-03-30,Utah,Fitness Center,23.0,"",23.0,24
+2020-03-30,Utah,Discount Stores,71.0,"",72.0,25
+2020-03-30,Utah,Banks,76.0,"",76.0,26
+2020-03-30,Utah,Alcohol,110.0,"",111.0,27
+2020-03-30,Utah,Light Rail Stations,52.0,"",53.0,28
+2020-03-31,Utah,Shops & Services,27.0,25.0,27.0,1
+2020-03-31,Utah,Food,23.0,21.0,23.0,2
+2020-03-31,Utah,Gas Stations,67.0,55.0,68.0,3
+2020-03-31,Utah,Outdoors & Recreation,30.0,31.0,30.0,4
+2020-03-31,Utah,Grocery,67.0,57.0,67.0,5
+2020-03-31,Utah,Fast Food Restaurants,70.0,58.0,71.0,6
+2020-03-31,Utah,Big Box Stores,67.0,52.0,68.0,7
+2020-03-31,Utah,Professional & Other Places,12.0,11.0,12.0,8
+2020-03-31,Utah,Medical,24.0,18.0,24.0,9
+2020-03-31,Utah,School,21.0,22.0,21.0,10
+2020-03-31,Utah,Hardware Stores,95.0,91.0,95.0,11
+2020-03-31,Utah,Office,40.0,46.0,40.0,12
+2020-03-31,Utah,Convenience Store,67.0,51.0,67.0,13
+2020-03-31,Utah,Hotel,32.0,33.0,32.0,14
+2020-03-31,Utah,Arts & Entertainment,36.0,35.0,36.0,15
+2020-03-31,Utah,Residences,62.0,56.0,63.0,16
+2020-03-31,Utah,Government,31.0,30.0,31.0,17
+2020-03-31,Utah,Colleges & Universities,22.0,42.0,22.0,18
+2020-03-31,Utah,Sports,21.0,26.0,21.0,19
+2020-03-31,Utah,Airport,12.0,"",12.0,20
+2020-03-31,Utah,Nightlife Spots,20.0,24.0,20.0,21
+2020-03-31,Utah,Travel & Transport,31.0,31.0,31.0,22
+2020-03-31,Utah,Drug Store,68.0,60.0,69.0,23
+2020-03-31,Utah,Fitness Center,20.0,24.0,20.0,24
+2020-03-31,Utah,Discount Stores,65.0,78.0,64.0,25
+2020-03-31,Utah,Banks,68.0,"",69.0,26
+2020-03-31,Utah,Alcohol,81.0,"",82.0,27
+2020-03-31,Utah,Light Rail Stations,40.0,"",40.0,28
+2020-04-01,Utah,Shops & Services,34.0,30.0,34.0,1
+2020-04-01,Utah,Food,23.0,20.0,23.0,2
+2020-04-01,Utah,Gas Stations,70.0,65.0,71.0,3
+2020-04-01,Utah,Outdoors & Recreation,31.0,37.0,31.0,4
+2020-04-01,Utah,Grocery,72.0,67.0,73.0,5
+2020-04-01,Utah,Fast Food Restaurants,70.0,58.0,70.0,6
+2020-04-01,Utah,Big Box Stores,72.0,56.0,73.0,7
+2020-04-01,Utah,Professional & Other Places,10.0,9.0,11.0,8
+2020-04-01,Utah,Medical,24.0,21.0,25.0,9
+2020-04-01,Utah,School,21.0,25.0,21.0,10
+2020-04-01,Utah,Hardware Stores,98.0,82.0,99.0,11
+2020-04-01,Utah,Office,41.0,53.0,40.0,12
+2020-04-01,Utah,Convenience Store,68.0,55.0,68.0,13
+2020-04-01,Utah,Arts & Entertainment,25.0,29.0,25.0,14
+2020-04-01,Utah,Hotel,30.0,31.0,30.0,15
+2020-04-01,Utah,Residences,63.0,72.0,63.0,16
+2020-04-01,Utah,Government,33.0,33.0,33.0,17
+2020-04-01,Utah,Colleges & Universities,16.0,"",16.0,18
+2020-04-01,Utah,Sports,21.0,29.0,21.0,19
+2020-04-01,Utah,Airport,14.0,11.0,14.0,20
+2020-04-01,Utah,Drug Store,83.0,77.0,84.0,21
+2020-04-01,Utah,Nightlife Spots,20.0,23.0,20.0,22
+2020-04-01,Utah,Travel & Transport,28.0,"",29.0,23
+2020-04-01,Utah,Fitness Center,17.0,21.0,17.0,24
+2020-04-01,Utah,Discount Stores,56.0,"",57.0,25
+2020-04-01,Utah,Banks,67.0,"",68.0,26
+2020-04-01,Utah,Alcohol,104.0,"",106.0,27
+2020-04-01,Utah,Light Rail Stations,45.0,"",46.0,28

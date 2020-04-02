@@ -55,10 +55,6 @@ processStates () {
     echo 'done fixing filenames'
     
     ALLSTATEDESTFILE=${DESTFILEPREFIX}.csv
-    if [ $REMOVE_ALSO -eq 1 ]
-    then
-       rm -f $ALLSTATEDESTFILE
-    fi
 
     DATES=$( ls "$SOURCEDIR" | sed 's/date=//g' )
     for DATE in $DATES
@@ -67,7 +63,9 @@ processStates () {
         STATES=$( ls $SOURCEDIR/date=${DATE} | sed 's/state=//g' )
         for STATE in $STATES
         do
+            THISSTATEDESTFILE=${DESTFILEPREFIX}${STATE}.csv
             gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $ALLSTATEDESTFILE
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; gsub (" ", "", state); $1=date; $2=state; print $0 }' >> $THISSTATEDESTFILE
         done
     done
 }
@@ -76,9 +74,11 @@ if [ $REMOVE_ALSO -eq 1 ]
 then
     rm $DIR/raw*.csv
     rm $DIR/grouped*.csv
+    rm $DIR/allstate/raw*.csv
+    rm $DIR/allstate/grouped*.csv
 fi
 
 crunchGZs $FOURSQUARE_DATA/countyCategoryGz $DIR/raw
 crunchGZs $FOURSQUARE_DATA/countyCategoryGroupGz $DIR/grouped
-processStates $FOURSQUARE_DATA/stateCategoryGz $DIR/raw
-processStates $FOURSQUARE_DATA/stateCategoryGroupGz $DIR/grouped
+processStates $FOURSQUARE_DATA/stateCategoryGz $DIR/allstate/raw
+processStates $FOURSQUARE_DATA/stateCategoryGroupGz $DIR/allstate/grouped

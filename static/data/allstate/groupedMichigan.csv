@@ -1,0 +1,975 @@
+2020-03-01,Michigan,Food,50.0,51.0,50.0,1
+2020-03-01,Michigan,Shops & Services,33.0,33.0,33.0,2
+2020-03-01,Michigan,Grocery,96.0,99.0,96.0,3
+2020-03-01,Michigan,Nightlife Spots,55.0,57.0,55.0,4
+2020-03-01,Michigan,Gas Stations,104.0,101.0,104.0,5
+2020-03-01,Michigan,Outdoors & Recreation,51.0,52.0,51.0,6
+2020-03-01,Michigan,Fast Food Restaurants,112.0,108.0,112.0,7
+2020-03-01,Michigan,Arts & Entertainment,57.0,60.0,57.0,8
+2020-03-01,Michigan,Big Box Stores,108.0,104.0,108.0,9
+2020-03-01,Michigan,Professional & Other Places,20.0,18.0,21.0,10
+2020-03-01,Michigan,School,58.0,53.0,58.0,11
+2020-03-01,Michigan,Medical,56.0,60.0,56.0,12
+2020-03-01,Michigan,Hardware Stores,111.0,104.0,111.0,13
+2020-03-01,Michigan,Drug Store,102.0,105.0,102.0,14
+2020-03-01,Michigan,Residences,100.0,97.0,100.0,15
+2020-03-01,Michigan,Airport,59.0,63.0,59.0,16
+2020-03-01,Michigan,Discount Stores,109.0,104.0,109.0,17
+2020-03-01,Michigan,Hotel,82.0,72.0,82.0,18
+2020-03-01,Michigan,Convenience Store,102.0,95.0,103.0,19
+2020-03-01,Michigan,Sports,38.0,37.0,38.0,20
+2020-03-01,Michigan,Fitness Center,74.0,72.0,74.0,21
+2020-03-01,Michigan,Colleges & Universities,56.0,75.0,56.0,22
+2020-03-01,Michigan,Alcohol,102.0,103.0,102.0,23
+2020-03-01,Michigan,Office,88.0,83.0,88.0,24
+2020-03-01,Michigan,Government,67.0,73.0,67.0,25
+2020-03-01,Michigan,Travel & Transport,17.0,19.0,17.0,26
+2020-03-01,Michigan,Banks,121.0,107.0,122.0,27
+2020-03-01,Michigan,Beach,101.0,106.0,100.0,28
+2020-03-01,Michigan,Skiing,67.0,88.0,66.0,29
+2020-03-01,Michigan,Bus,72.0,"",72.0,30
+2020-03-01,Michigan,Spiritual Center,3.0,2.0,3.0,31
+2020-03-01,Michigan,Light Rail Stations,159.0,"",158.0,32
+2020-03-02,Michigan,Shops & Services,33.0,35.0,33.0,1
+2020-03-02,Michigan,Food,46.0,47.0,46.0,2
+2020-03-02,Michigan,Grocery,100.0,97.0,100.0,3
+2020-03-02,Michigan,Gas Stations,103.0,100.0,103.0,4
+2020-03-02,Michigan,Medical,56.0,55.0,56.0,5
+2020-03-02,Michigan,School,63.0,58.0,63.0,6
+2020-03-02,Michigan,Professional & Other Places,18.0,18.0,18.0,7
+2020-03-02,Michigan,Fast Food Restaurants,111.0,106.0,111.0,8
+2020-03-02,Michigan,Outdoors & Recreation,45.0,47.0,45.0,9
+2020-03-02,Michigan,Nightlife Spots,57.0,58.0,57.0,10
+2020-03-02,Michigan,Office,86.0,89.0,86.0,11
+2020-03-02,Michigan,Big Box Stores,106.0,96.0,107.0,12
+2020-03-02,Michigan,Arts & Entertainment,65.0,65.0,65.0,13
+2020-03-02,Michigan,Colleges & Universities,51.0,72.0,50.0,14
+2020-03-02,Michigan,Airport,61.0,67.0,61.0,15
+2020-03-02,Michigan,Drug Store,102.0,100.0,102.0,16
+2020-03-02,Michigan,Fitness Center,71.0,66.0,72.0,17
+2020-03-02,Michigan,Residences,99.0,102.0,99.0,18
+2020-03-02,Michigan,Government,76.0,73.0,76.0,19
+2020-03-02,Michigan,Hardware Stores,102.0,99.0,102.0,20
+2020-03-02,Michigan,Convenience Store,104.0,101.0,105.0,21
+2020-03-02,Michigan,Discount Stores,102.0,100.0,102.0,22
+2020-03-02,Michigan,Banks,125.0,124.0,126.0,23
+2020-03-02,Michigan,Sports,31.0,31.0,30.0,24
+2020-03-02,Michigan,Hotel,78.0,75.0,78.0,25
+2020-03-02,Michigan,Alcohol,107.0,106.0,107.0,26
+2020-03-02,Michigan,Travel & Transport,20.0,26.0,20.0,27
+2020-03-02,Michigan,Bus,83.0,104.0,82.0,28
+2020-03-02,Michigan,Beach,98.0,105.0,97.0,29
+2020-03-02,Michigan,Spiritual Center,5.0,"",5.0,30
+2020-03-02,Michigan,Skiing,51.0,"",50.0,31
+2020-03-02,Michigan,Light Rail Stations,114.0,"",115.0,32
+2020-03-03,Michigan,Food,47.0,47.0,47.0,1
+2020-03-03,Michigan,Shops & Services,33.0,34.0,33.0,2
+2020-03-03,Michigan,Grocery,101.0,98.0,101.0,3
+2020-03-03,Michigan,Gas Stations,104.0,100.0,104.0,4
+2020-03-03,Michigan,School,57.0,56.0,57.0,5
+2020-03-03,Michigan,Medical,52.0,51.0,52.0,6
+2020-03-03,Michigan,Professional & Other Places,18.0,17.0,18.0,7
+2020-03-03,Michigan,Fast Food Restaurants,109.0,109.0,109.0,8
+2020-03-03,Michigan,Outdoors & Recreation,49.0,52.0,49.0,9
+2020-03-03,Michigan,Nightlife Spots,56.0,55.0,56.0,10
+2020-03-03,Michigan,Office,82.0,82.0,82.0,11
+2020-03-03,Michigan,Arts & Entertainment,73.0,77.0,73.0,12
+2020-03-03,Michigan,Big Box Stores,109.0,111.0,109.0,13
+2020-03-03,Michigan,Colleges & Universities,52.0,70.0,52.0,14
+2020-03-03,Michigan,Drug Store,104.0,97.0,104.0,15
+2020-03-03,Michigan,Fitness Center,70.0,64.0,70.0,16
+2020-03-03,Michigan,Hardware Stores,103.0,107.0,102.0,17
+2020-03-03,Michigan,Airport,59.0,56.0,59.0,18
+2020-03-03,Michigan,Government,68.0,66.0,68.0,19
+2020-03-03,Michigan,Residences,99.0,95.0,99.0,20
+2020-03-03,Michigan,Convenience Store,101.0,99.0,102.0,21
+2020-03-03,Michigan,Discount Stores,106.0,106.0,106.0,22
+2020-03-03,Michigan,Banks,130.0,126.0,130.0,23
+2020-03-03,Michigan,Hotel,81.0,73.0,82.0,24
+2020-03-03,Michigan,Sports,30.0,33.0,30.0,25
+2020-03-03,Michigan,Alcohol,104.0,94.0,104.0,26
+2020-03-03,Michigan,Travel & Transport,21.0,24.0,21.0,27
+2020-03-03,Michigan,Bus,81.0,98.0,80.0,28
+2020-03-03,Michigan,Beach,95.0,99.0,95.0,29
+2020-03-03,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-03,Michigan,Skiing,57.0,"",56.0,31
+2020-03-04,Michigan,Food,47.0,48.0,47.0,1
+2020-03-04,Michigan,Shops & Services,35.0,37.0,35.0,2
+2020-03-04,Michigan,Grocery,95.0,97.0,95.0,3
+2020-03-04,Michigan,School,61.0,60.0,61.0,4
+2020-03-04,Michigan,Gas Stations,101.0,101.0,101.0,5
+2020-03-04,Michigan,Medical,54.0,56.0,53.0,6
+2020-03-04,Michigan,Professional & Other Places,18.0,18.0,18.0,7
+2020-03-04,Michigan,Fast Food Restaurants,106.0,105.0,106.0,8
+2020-03-04,Michigan,Outdoors & Recreation,49.0,53.0,49.0,9
+2020-03-04,Michigan,Nightlife Spots,57.0,57.0,58.0,10
+2020-03-04,Michigan,Office,83.0,84.0,83.0,11
+2020-03-04,Michigan,Arts & Entertainment,64.0,65.0,64.0,12
+2020-03-04,Michigan,Big Box Stores,103.0,104.0,103.0,13
+2020-03-04,Michigan,Colleges & Universities,52.0,69.0,51.0,14
+2020-03-04,Michigan,Drug Store,100.0,97.0,100.0,15
+2020-03-04,Michigan,Fitness Center,69.0,68.0,69.0,16
+2020-03-04,Michigan,Hardware Stores,108.0,103.0,108.0,17
+2020-03-04,Michigan,Residences,101.0,107.0,101.0,18
+2020-03-04,Michigan,Government,70.0,73.0,69.0,19
+2020-03-04,Michigan,Airport,56.0,58.0,56.0,20
+2020-03-04,Michigan,Convenience Store,100.0,91.0,100.0,21
+2020-03-04,Michigan,Discount Stores,98.0,97.0,98.0,22
+2020-03-04,Michigan,Hotel,82.0,77.0,82.0,23
+2020-03-04,Michigan,Sports,32.0,36.0,32.0,24
+2020-03-04,Michigan,Banks,111.0,105.0,111.0,25
+2020-03-04,Michigan,Alcohol,104.0,104.0,104.0,26
+2020-03-04,Michigan,Travel & Transport,18.0,21.0,18.0,27
+2020-03-04,Michigan,Bus,83.0,80.0,84.0,28
+2020-03-04,Michigan,Beach,112.0,108.0,112.0,29
+2020-03-04,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-04,Michigan,Skiing,65.0,"",66.0,31
+2020-03-04,Michigan,Light Rail Stations,97.0,"",98.0,32
+2020-03-05,Michigan,Food,49.0,51.0,49.0,1
+2020-03-05,Michigan,Shops & Services,39.0,42.0,39.0,2
+2020-03-05,Michigan,Grocery,104.0,108.0,104.0,3
+2020-03-05,Michigan,Gas Stations,105.0,104.0,105.0,4
+2020-03-05,Michigan,School,65.0,64.0,65.0,5
+2020-03-05,Michigan,Medical,56.0,57.0,56.0,6
+2020-03-05,Michigan,Professional & Other Places,19.0,19.0,19.0,7
+2020-03-05,Michigan,Fast Food Restaurants,113.0,111.0,114.0,8
+2020-03-05,Michigan,Nightlife Spots,58.0,61.0,58.0,9
+2020-03-05,Michigan,Outdoors & Recreation,49.0,53.0,49.0,10
+2020-03-05,Michigan,Office,84.0,86.0,84.0,11
+2020-03-05,Michigan,Arts & Entertainment,62.0,66.0,62.0,12
+2020-03-05,Michigan,Big Box Stores,110.0,114.0,109.0,13
+2020-03-05,Michigan,Colleges & Universities,53.0,70.0,53.0,14
+2020-03-05,Michigan,Drug Store,100.0,106.0,100.0,15
+2020-03-05,Michigan,Fitness Center,73.0,73.0,73.0,16
+2020-03-05,Michigan,Hardware Stores,113.0,117.0,113.0,16
+2020-03-05,Michigan,Residences,102.0,103.0,102.0,17
+2020-03-05,Michigan,Airport,53.0,57.0,53.0,18
+2020-03-05,Michigan,Government,72.0,76.0,72.0,19
+2020-03-05,Michigan,Convenience Store,106.0,99.0,106.0,20
+2020-03-05,Michigan,Discount Stores,103.0,110.0,103.0,21
+2020-03-05,Michigan,Hotel,84.0,76.0,85.0,22
+2020-03-05,Michigan,Sports,34.0,39.0,34.0,23
+2020-03-05,Michigan,Banks,122.0,126.0,122.0,24
+2020-03-05,Michigan,Alcohol,107.0,113.0,107.0,25
+2020-03-05,Michigan,Travel & Transport,18.0,20.0,18.0,26
+2020-03-05,Michigan,Bus,84.0,90.0,84.0,27
+2020-03-05,Michigan,Beach,110.0,125.0,109.0,28
+2020-03-05,Michigan,Skiing,73.0,86.0,73.0,29
+2020-03-05,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-05,Michigan,Light Rail Stations,119.0,"",120.0,31
+2020-03-06,Michigan,Food,45.0,46.0,45.0,1
+2020-03-06,Michigan,Shops & Services,31.0,31.0,31.0,2
+2020-03-06,Michigan,Grocery,95.0,95.0,95.0,3
+2020-03-06,Michigan,Gas Stations,97.0,91.0,97.0,4
+2020-03-06,Michigan,School,55.0,56.0,55.0,5
+2020-03-06,Michigan,Medical,55.0,55.0,55.0,6
+2020-03-06,Michigan,Fast Food Restaurants,106.0,105.0,106.0,7
+2020-03-06,Michigan,Professional & Other Places,19.0,19.0,19.0,8
+2020-03-06,Michigan,Nightlife Spots,53.0,54.0,53.0,9
+2020-03-06,Michigan,Outdoors & Recreation,46.0,49.0,46.0,10
+2020-03-06,Michigan,Arts & Entertainment,61.0,62.0,61.0,11
+2020-03-06,Michigan,Big Box Stores,94.0,94.0,94.0,12
+2020-03-06,Michigan,Office,82.0,83.0,82.0,13
+2020-03-06,Michigan,Drug Store,92.0,92.0,93.0,14
+2020-03-06,Michigan,Colleges & Universities,60.0,75.0,60.0,15
+2020-03-06,Michigan,Airport,53.0,41.0,53.0,16
+2020-03-06,Michigan,Hardware Stores,103.0,102.0,103.0,17
+2020-03-06,Michigan,Residences,95.0,97.0,95.0,18
+2020-03-06,Michigan,Fitness Center,70.0,65.0,70.0,19
+2020-03-06,Michigan,Government,66.0,68.0,66.0,20
+2020-03-06,Michigan,Convenience Store,95.0,98.0,95.0,21
+2020-03-06,Michigan,Hotel,82.0,76.0,82.0,22
+2020-03-06,Michigan,Discount Stores,90.0,88.0,90.0,23
+2020-03-06,Michigan,Banks,103.0,96.0,104.0,24
+2020-03-06,Michigan,Sports,32.0,33.0,32.0,25
+2020-03-06,Michigan,Alcohol,98.0,96.0,98.0,26
+2020-03-06,Michigan,Travel & Transport,18.0,18.0,18.0,27
+2020-03-06,Michigan,Bus,81.0,75.0,81.0,28
+2020-03-06,Michigan,Beach,111.0,118.0,110.0,29
+2020-03-06,Michigan,Skiing,58.0,66.0,57.0,30
+2020-03-06,Michigan,Spiritual Center,4.0,"",4.0,31
+2020-03-06,Michigan,Light Rail Stations,100.0,"",101.0,32
+2020-03-07,Michigan,Shops & Services,38.0,38.0,39.0,1
+2020-03-07,Michigan,Food,47.0,48.0,47.0,2
+2020-03-07,Michigan,Grocery,100.0,101.0,100.0,3
+2020-03-07,Michigan,Gas Stations,108.0,111.0,107.0,4
+2020-03-07,Michigan,Nightlife Spots,54.0,56.0,54.0,5
+2020-03-07,Michigan,Outdoors & Recreation,55.0,58.0,55.0,6
+2020-03-07,Michigan,Fast Food Restaurants,108.0,109.0,108.0,7
+2020-03-07,Michigan,Arts & Entertainment,60.0,60.0,60.0,8
+2020-03-07,Michigan,Professional & Other Places,25.0,25.0,25.0,9
+2020-03-07,Michigan,Big Box Stores,101.0,98.0,101.0,10
+2020-03-07,Michigan,School,56.0,57.0,56.0,11
+2020-03-07,Michigan,Medical,58.0,58.0,58.0,12
+2020-03-07,Michigan,Hardware Stores,116.0,111.0,116.0,13
+2020-03-07,Michigan,Drug Store,102.0,99.0,102.0,14
+2020-03-07,Michigan,Residences,101.0,98.0,101.0,15
+2020-03-07,Michigan,Hotel,85.0,88.0,85.0,16
+2020-03-07,Michigan,Discount Stores,105.0,105.0,105.0,17
+2020-03-07,Michigan,Fitness Center,70.0,76.0,70.0,18
+2020-03-07,Michigan,Sports,39.0,41.0,39.0,19
+2020-03-07,Michigan,Convenience Store,104.0,95.0,104.0,20
+2020-03-07,Michigan,Airport,57.0,58.0,57.0,21
+2020-03-07,Michigan,Colleges & Universities,73.0,93.0,73.0,22
+2020-03-07,Michigan,Alcohol,108.0,110.0,108.0,23
+2020-03-07,Michigan,Office,86.0,90.0,86.0,24
+2020-03-07,Michigan,Government,74.0,76.0,73.0,25
+2020-03-07,Michigan,Banks,93.0,90.0,93.0,26
+2020-03-07,Michigan,Travel & Transport,19.0,21.0,19.0,27
+2020-03-07,Michigan,Beach,117.0,94.0,118.0,28
+2020-03-07,Michigan,Skiing,62.0,77.0,62.0,29
+2020-03-07,Michigan,Bus,90.0,86.0,90.0,30
+2020-03-07,Michigan,Spiritual Center,4.0,"",4.0,31
+2020-03-08,Michigan,Food,51.0,49.0,51.0,1
+2020-03-08,Michigan,Shops & Services,32.0,28.0,32.0,2
+2020-03-08,Michigan,Grocery,100.0,95.0,100.0,3
+2020-03-08,Michigan,Outdoors & Recreation,61.0,59.0,61.0,4
+2020-03-08,Michigan,Gas Stations,113.0,104.0,113.0,5
+2020-03-08,Michigan,Nightlife Spots,58.0,60.0,58.0,6
+2020-03-08,Michigan,Fast Food Restaurants,118.0,113.0,118.0,7
+2020-03-08,Michigan,Arts & Entertainment,67.0,67.0,67.0,8
+2020-03-08,Michigan,Big Box Stores,106.0,99.0,106.0,9
+2020-03-08,Michigan,Professional & Other Places,22.0,19.0,22.0,10
+2020-03-08,Michigan,School,65.0,60.0,65.0,11
+2020-03-08,Michigan,Medical,61.0,61.0,61.0,12
+2020-03-08,Michigan,Hardware Stores,118.0,109.0,118.0,13
+2020-03-08,Michigan,Drug Store,107.0,104.0,107.0,14
+2020-03-08,Michigan,Residences,107.0,108.0,107.0,15
+2020-03-08,Michigan,Sports,47.0,49.0,47.0,16
+2020-03-08,Michigan,Airport,60.0,53.0,60.0,17
+2020-03-08,Michigan,Discount Stores,109.0,94.0,110.0,18
+2020-03-08,Michigan,Hotel,84.0,76.0,84.0,19
+2020-03-08,Michigan,Convenience Store,109.0,104.0,109.0,20
+2020-03-08,Michigan,Colleges & Universities,93.0,112.0,93.0,21
+2020-03-08,Michigan,Fitness Center,69.0,64.0,69.0,22
+2020-03-08,Michigan,Alcohol,115.0,111.0,115.0,23
+2020-03-08,Michigan,Government,79.0,76.0,79.0,24
+2020-03-08,Michigan,Office,96.0,81.0,96.0,25
+2020-03-08,Michigan,Travel & Transport,19.0,22.0,19.0,26
+2020-03-08,Michigan,Banks,101.0,94.0,101.0,27
+2020-03-08,Michigan,Beach,125.0,119.0,126.0,28
+2020-03-08,Michigan,Skiing,49.0,70.0,49.0,29
+2020-03-08,Michigan,Bus,95.0,102.0,95.0,30
+2020-03-08,Michigan,Spiritual Center,3.0,3.0,3.0,31
+2020-03-09,Michigan,Shops & Services,34.0,32.0,34.0,1
+2020-03-09,Michigan,Food,47.0,44.0,47.0,2
+2020-03-09,Michigan,Grocery,107.0,99.0,107.0,3
+2020-03-09,Michigan,Gas Stations,102.0,96.0,102.0,4
+2020-03-09,Michigan,Medical,55.0,54.0,55.0,5
+2020-03-09,Michigan,School,65.0,63.0,66.0,6
+2020-03-09,Michigan,Professional & Other Places,18.0,17.0,18.0,7
+2020-03-09,Michigan,Fast Food Restaurants,108.0,93.0,109.0,8
+2020-03-09,Michigan,Outdoors & Recreation,48.0,48.0,48.0,9
+2020-03-09,Michigan,Nightlife Spots,54.0,53.0,54.0,10
+2020-03-09,Michigan,Colleges & Universities,62.0,69.0,62.0,11
+2020-03-09,Michigan,Office,82.0,83.0,82.0,12
+2020-03-09,Michigan,Big Box Stores,106.0,92.0,107.0,13
+2020-03-09,Michigan,Arts & Entertainment,65.0,68.0,65.0,14
+2020-03-09,Michigan,Drug Store,102.0,100.0,102.0,15
+2020-03-09,Michigan,Airport,53.0,45.0,54.0,16
+2020-03-09,Michigan,Fitness Center,71.0,64.0,71.0,17
+2020-03-09,Michigan,Hardware Stores,106.0,101.0,106.0,18
+2020-03-09,Michigan,Residences,98.0,88.0,99.0,19
+2020-03-09,Michigan,Government,74.0,75.0,74.0,20
+2020-03-09,Michigan,Convenience Store,103.0,98.0,103.0,21
+2020-03-09,Michigan,Discount Stores,102.0,94.0,102.0,22
+2020-03-09,Michigan,Sports,34.0,34.0,33.0,23
+2020-03-09,Michigan,Hotel,82.0,70.0,82.0,24
+2020-03-09,Michigan,Banks,119.0,107.0,119.0,25
+2020-03-09,Michigan,Alcohol,105.0,105.0,105.0,26
+2020-03-09,Michigan,Travel & Transport,18.0,22.0,18.0,27
+2020-03-09,Michigan,Bus,88.0,64.0,89.0,28
+2020-03-09,Michigan,Beach,97.0,74.0,98.0,29
+2020-03-09,Michigan,Spiritual Center,5.0,"",5.0,30
+2020-03-10,Michigan,Food,48.0,47.0,48.0,1
+2020-03-10,Michigan,Shops & Services,33.0,31.0,33.0,2
+2020-03-10,Michigan,School,64.0,70.0,64.0,3
+2020-03-10,Michigan,Grocery,98.0,94.0,99.0,4
+2020-03-10,Michigan,Gas Stations,102.0,98.0,102.0,5
+2020-03-10,Michigan,Medical,53.0,50.0,53.0,6
+2020-03-10,Michigan,Professional & Other Places,19.0,18.0,19.0,7
+2020-03-10,Michigan,Fast Food Restaurants,106.0,102.0,106.0,8
+2020-03-10,Michigan,Outdoors & Recreation,48.0,49.0,48.0,9
+2020-03-10,Michigan,Nightlife Spots,59.0,59.0,59.0,10
+2020-03-10,Michigan,Colleges & Universities,62.0,62.0,62.0,11
+2020-03-10,Michigan,Office,79.0,82.0,79.0,12
+2020-03-10,Michigan,Arts & Entertainment,84.0,83.0,84.0,13
+2020-03-10,Michigan,Big Box Stores,102.0,96.0,102.0,14
+2020-03-10,Michigan,Government,83.0,82.0,83.0,15
+2020-03-10,Michigan,Drug Store,101.0,99.0,102.0,16
+2020-03-10,Michigan,Fitness Center,67.0,59.0,67.0,17
+2020-03-10,Michigan,Hardware Stores,108.0,106.0,108.0,18
+2020-03-10,Michigan,Residences,104.0,102.0,104.0,19
+2020-03-10,Michigan,Airport,50.0,59.0,50.0,20
+2020-03-10,Michigan,Convenience Store,99.0,92.0,99.0,21
+2020-03-10,Michigan,Discount Stores,103.0,95.0,103.0,22
+2020-03-10,Michigan,Sports,33.0,36.0,33.0,23
+2020-03-10,Michigan,Hotel,85.0,76.0,86.0,24
+2020-03-10,Michigan,Banks,103.0,101.0,103.0,25
+2020-03-10,Michigan,Alcohol,102.0,97.0,102.0,26
+2020-03-10,Michigan,Travel & Transport,17.0,19.0,17.0,27
+2020-03-10,Michigan,Bus,84.0,85.0,84.0,28
+2020-03-10,Michigan,Beach,112.0,108.0,112.0,29
+2020-03-10,Michigan,Spiritual Center,6.0,"",6.0,30
+2020-03-10,Michigan,Skiing,53.0,"",53.0,31
+2020-03-10,Michigan,Light Rail Stations,99.0,"",99.0,32
+2020-03-11,Michigan,Food,45.0,45.0,45.0,1
+2020-03-11,Michigan,Shops & Services,36.0,35.0,36.0,2
+2020-03-11,Michigan,Grocery,109.0,102.0,110.0,3
+2020-03-11,Michigan,School,61.0,58.0,61.0,4
+2020-03-11,Michigan,Gas Stations,101.0,96.0,101.0,5
+2020-03-11,Michigan,Medical,52.0,51.0,52.0,6
+2020-03-11,Michigan,Professional & Other Places,18.0,18.0,18.0,7
+2020-03-11,Michigan,Fast Food Restaurants,101.0,94.0,102.0,8
+2020-03-11,Michigan,Nightlife Spots,57.0,56.0,57.0,9
+2020-03-11,Michigan,Outdoors & Recreation,44.0,43.0,44.0,10
+2020-03-11,Michigan,Colleges & Universities,62.0,68.0,61.0,11
+2020-03-11,Michigan,Office,81.0,80.0,81.0,12
+2020-03-11,Michigan,Big Box Stores,107.0,101.0,107.0,13
+2020-03-11,Michigan,Arts & Entertainment,61.0,59.0,61.0,14
+2020-03-11,Michigan,Drug Store,111.0,105.0,111.0,15
+2020-03-11,Michigan,Hardware Stores,107.0,104.0,107.0,16
+2020-03-11,Michigan,Fitness Center,66.0,58.0,66.0,17
+2020-03-11,Michigan,Residences,99.0,100.0,99.0,18
+2020-03-11,Michigan,Government,66.0,68.0,66.0,19
+2020-03-11,Michigan,Airport,54.0,51.0,54.0,20
+2020-03-11,Michigan,Discount Stores,108.0,99.0,108.0,21
+2020-03-11,Michigan,Convenience Store,98.0,89.0,99.0,22
+2020-03-11,Michigan,Hotel,82.0,66.0,83.0,23
+2020-03-11,Michigan,Sports,30.0,30.0,30.0,24
+2020-03-11,Michigan,Banks,103.0,112.0,103.0,25
+2020-03-11,Michigan,Alcohol,103.0,96.0,103.0,26
+2020-03-11,Michigan,Travel & Transport,18.0,22.0,18.0,27
+2020-03-11,Michigan,Bus,85.0,72.0,85.0,28
+2020-03-11,Michigan,Beach,114.0,113.0,114.0,29
+2020-03-11,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-11,Michigan,Skiing,47.0,"",48.0,31
+2020-03-11,Michigan,Light Rail Stations,100.0,"",100.0,32
+2020-03-12,Michigan,Food,45.0,47.0,45.0,1
+2020-03-12,Michigan,Shops & Services,33.0,35.0,33.0,2
+2020-03-12,Michigan,Grocery,128.0,136.0,128.0,3
+2020-03-12,Michigan,Gas Stations,99.0,102.0,99.0,4
+2020-03-12,Michigan,Medical,51.0,51.0,51.0,5
+2020-03-12,Michigan,School,54.0,54.0,54.0,6
+2020-03-12,Michigan,Professional & Other Places,17.0,17.0,17.0,7
+2020-03-12,Michigan,Fast Food Restaurants,101.0,100.0,101.0,8
+2020-03-12,Michigan,Nightlife Spots,54.0,55.0,54.0,9
+2020-03-12,Michigan,Outdoors & Recreation,48.0,53.0,48.0,10
+2020-03-12,Michigan,Big Box Stores,124.0,132.0,124.0,11
+2020-03-12,Michigan,Office,76.0,79.0,76.0,12
+2020-03-12,Michigan,Drug Store,121.0,124.0,121.0,13
+2020-03-12,Michigan,Arts & Entertainment,67.0,68.0,67.0,14
+2020-03-12,Michigan,Hardware Stores,119.0,120.0,119.0,15
+2020-03-12,Michigan,Colleges & Universities,43.0,61.0,43.0,16
+2020-03-12,Michigan,Discount Stores,130.0,133.0,130.0,17
+2020-03-12,Michigan,Residences,96.0,99.0,96.0,18
+2020-03-12,Michigan,Airport,46.0,48.0,46.0,19
+2020-03-12,Michigan,Fitness Center,61.0,60.0,61.0,20
+2020-03-12,Michigan,Government,62.0,63.0,62.0,21
+2020-03-12,Michigan,Convenience Store,97.0,93.0,98.0,22
+2020-03-12,Michigan,Sports,31.0,38.0,31.0,23
+2020-03-12,Michigan,Hotel,73.0,67.0,74.0,24
+2020-03-12,Michigan,Banks,111.0,119.0,111.0,25
+2020-03-12,Michigan,Alcohol,102.0,107.0,102.0,26
+2020-03-12,Michigan,Travel & Transport,17.0,21.0,17.0,27
+2020-03-12,Michigan,Bus,79.0,92.0,78.0,28
+2020-03-12,Michigan,Beach,112.0,104.0,112.0,29
+2020-03-12,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-12,Michigan,Skiing,43.0,"",43.0,31
+2020-03-12,Michigan,Light Rail Stations,113.0,"",113.0,31
+2020-03-13,Michigan,Shops & Services,35.0,32.0,35.0,1
+2020-03-13,Michigan,Food,43.0,40.0,43.0,2
+2020-03-13,Michigan,Grocery,150.0,131.0,151.0,3
+2020-03-13,Michigan,Gas Stations,101.0,97.0,101.0,4
+2020-03-13,Michigan,Medical,52.0,47.0,52.0,5
+2020-03-13,Michigan,Nightlife Spots,52.0,48.0,52.0,6
+2020-03-13,Michigan,Professional & Other Places,18.0,16.0,18.0,7
+2020-03-13,Michigan,Fast Food Restaurants,96.0,95.0,96.0,8
+2020-03-13,Michigan,Outdoors & Recreation,45.0,44.0,45.0,9
+2020-03-13,Michigan,School,40.0,42.0,40.0,10
+2020-03-13,Michigan,Big Box Stores,128.0,116.0,128.0,11
+2020-03-13,Michigan,Drug Store,132.0,122.0,133.0,12
+2020-03-13,Michigan,Arts & Entertainment,60.0,54.0,61.0,13
+2020-03-13,Michigan,Hardware Stores,128.0,114.0,129.0,14
+2020-03-13,Michigan,Office,73.0,77.0,73.0,15
+2020-03-13,Michigan,Discount Stores,136.0,118.0,137.0,16
+2020-03-13,Michigan,Residences,98.0,89.0,99.0,17
+2020-03-13,Michigan,Convenience Store,104.0,97.0,104.0,18
+2020-03-13,Michigan,Airport,43.0,39.0,43.0,19
+2020-03-13,Michigan,Colleges & Universities,45.0,54.0,45.0,20
+2020-03-13,Michigan,Government,60.0,57.0,60.0,21
+2020-03-13,Michigan,Banks,106.0,96.0,107.0,22
+2020-03-13,Michigan,Fitness Center,55.0,51.0,55.0,23
+2020-03-13,Michigan,Hotel,68.0,56.0,68.0,24
+2020-03-13,Michigan,Sports,27.0,28.0,27.0,25
+2020-03-13,Michigan,Alcohol,109.0,104.0,109.0,26
+2020-03-13,Michigan,Travel & Transport,16.0,17.0,16.0,27
+2020-03-13,Michigan,Bus,81.0,88.0,81.0,28
+2020-03-13,Michigan,Beach,119.0,102.0,120.0,29
+2020-03-13,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-13,Michigan,Skiing,37.0,"",38.0,31
+2020-03-14,Michigan,Shops & Services,28.0,26.0,28.0,1
+2020-03-14,Michigan,Food,36.0,34.0,36.0,2
+2020-03-14,Michigan,Grocery,117.0,104.0,118.0,3
+2020-03-14,Michigan,Gas Stations,91.0,89.0,91.0,4
+2020-03-14,Michigan,Nightlife Spots,45.0,42.0,46.0,5
+2020-03-14,Michigan,Outdoors & Recreation,45.0,44.0,45.0,6
+2020-03-14,Michigan,Fast Food Restaurants,79.0,75.0,79.0,7
+2020-03-14,Michigan,Big Box Stores,100.0,90.0,100.0,8
+2020-03-14,Michigan,Professional & Other Places,20.0,19.0,20.0,9
+2020-03-14,Michigan,Hardware Stores,111.0,96.0,111.0,10
+2020-03-14,Michigan,Arts & Entertainment,41.0,38.0,41.0,11
+2020-03-14,Michigan,Drug Store,107.0,92.0,108.0,12
+2020-03-14,Michigan,Medical,47.0,42.0,47.0,13
+2020-03-14,Michigan,Discount Stores,111.0,101.0,112.0,14
+2020-03-14,Michigan,School,31.0,30.0,31.0,15
+2020-03-14,Michigan,Residences,91.0,80.0,91.0,16
+2020-03-14,Michigan,Convenience Store,93.0,86.0,93.0,17
+2020-03-14,Michigan,Hotel,57.0,51.0,57.0,18
+2020-03-14,Michigan,Airport,45.0,44.0,45.0,19
+2020-03-14,Michigan,Fitness Center,45.0,47.0,45.0,20
+2020-03-14,Michigan,Sports,24.0,27.0,24.0,21
+2020-03-14,Michigan,Alcohol,102.0,102.0,102.0,22
+2020-03-14,Michigan,Office,72.0,69.0,72.0,23
+2020-03-14,Michigan,Colleges & Universities,45.0,52.0,45.0,24
+2020-03-14,Michigan,Government,57.0,54.0,57.0,25
+2020-03-14,Michigan,Banks,80.0,77.0,80.0,26
+2020-03-14,Michigan,Travel & Transport,16.0,16.0,16.0,27
+2020-03-14,Michigan,Beach,87.0,78.0,88.0,28
+2020-03-14,Michigan,Bus,70.0,"",70.0,29
+2020-03-14,Michigan,Skiing,31.0,"",31.0,30
+2020-03-14,Michigan,Spiritual Center,3.0,"",3.0,31
+2020-03-15,Michigan,Food,34.0,32.0,34.0,1
+2020-03-15,Michigan,Shops & Services,26.0,23.0,26.0,2
+2020-03-15,Michigan,Grocery,95.0,92.0,96.0,3
+2020-03-15,Michigan,Gas Stations,90.0,83.0,90.0,4
+2020-03-15,Michigan,Outdoors & Recreation,49.0,47.0,49.0,5
+2020-03-15,Michigan,Nightlife Spots,44.0,45.0,44.0,6
+2020-03-15,Michigan,Fast Food Restaurants,80.0,70.0,80.0,7
+2020-03-15,Michigan,Big Box Stores,89.0,86.0,89.0,8
+2020-03-15,Michigan,Professional & Other Places,16.0,13.0,16.0,9
+2020-03-15,Michigan,Arts & Entertainment,50.0,46.0,50.0,10
+2020-03-15,Michigan,Hardware Stores,110.0,96.0,111.0,11
+2020-03-15,Michigan,Drug Store,98.0,92.0,99.0,12
+2020-03-15,Michigan,School,43.0,37.0,43.0,13
+2020-03-15,Michigan,Medical,45.0,41.0,45.0,14
+2020-03-15,Michigan,Residences,85.0,73.0,86.0,15
+2020-03-15,Michigan,Discount Stores,102.0,90.0,103.0,16
+2020-03-15,Michigan,Convenience Store,90.0,81.0,90.0,17
+2020-03-15,Michigan,Airport,41.0,39.0,41.0,18
+2020-03-15,Michigan,Hotel,54.0,52.0,54.0,19
+2020-03-15,Michigan,Sports,28.0,29.0,28.0,20
+2020-03-15,Michigan,Fitness Center,46.0,40.0,46.0,21
+2020-03-15,Michigan,Alcohol,92.0,89.0,92.0,22
+2020-03-15,Michigan,Colleges & Universities,51.0,51.0,51.0,23
+2020-03-15,Michigan,Office,75.0,64.0,75.0,24
+2020-03-15,Michigan,Government,57.0,48.0,57.0,25
+2020-03-15,Michigan,Travel & Transport,15.0,16.0,15.0,26
+2020-03-15,Michigan,Banks,83.0,78.0,83.0,27
+2020-03-15,Michigan,Beach,108.0,115.0,107.0,28
+2020-03-15,Michigan,Bus,69.0,"",69.0,29
+2020-03-15,Michigan,Skiing,33.0,"",33.0,30
+2020-03-15,Michigan,Spiritual Center,2.0,"",2.0,31
+2020-03-16,Michigan,Shops & Services,30.0,26.0,30.0,1
+2020-03-16,Michigan,Food,37.0,32.0,37.0,2
+2020-03-16,Michigan,Grocery,142.0,125.0,143.0,3
+2020-03-16,Michigan,Gas Stations,98.0,91.0,99.0,4
+2020-03-16,Michigan,Medical,43.0,38.0,43.0,5
+2020-03-16,Michigan,Professional & Other Places,16.0,13.0,16.0,6
+2020-03-16,Michigan,Outdoors & Recreation,44.0,44.0,44.0,7
+2020-03-16,Michigan,Fast Food Restaurants,85.0,70.0,85.0,8
+2020-03-16,Michigan,Nightlife Spots,45.0,41.0,45.0,9
+2020-03-16,Michigan,Big Box Stores,116.0,99.0,117.0,10
+2020-03-16,Michigan,Drug Store,123.0,108.0,124.0,11
+2020-03-16,Michigan,School,26.0,29.0,26.0,12
+2020-03-16,Michigan,Office,62.0,62.0,62.0,13
+2020-03-16,Michigan,Hardware Stores,113.0,92.0,115.0,14
+2020-03-16,Michigan,Residences,90.0,77.0,90.0,15
+2020-03-16,Michigan,Arts & Entertainment,55.0,49.0,55.0,16
+2020-03-16,Michigan,Discount Stores,118.0,98.0,119.0,17
+2020-03-16,Michigan,Convenience Store,99.0,93.0,99.0,18
+2020-03-16,Michigan,Government,56.0,48.0,56.0,19
+2020-03-16,Michigan,Airport,36.0,32.0,36.0,20
+2020-03-16,Michigan,Banks,122.0,118.0,122.0,21
+2020-03-16,Michigan,Colleges & Universities,28.0,45.0,28.0,22
+2020-03-16,Michigan,Sports,25.0,24.0,25.0,23
+2020-03-16,Michigan,Fitness Center,35.0,32.0,35.0,24
+2020-03-16,Michigan,Alcohol,114.0,105.0,114.0,25
+2020-03-16,Michigan,Hotel,61.0,53.0,62.0,26
+2020-03-16,Michigan,Travel & Transport,15.0,19.0,15.0,27
+2020-03-16,Michigan,Beach,110.0,116.0,109.0,28
+2020-03-16,Michigan,Bus,66.0,"",66.0,29
+2020-03-16,Michigan,Spiritual Center,4.0,"",4.0,30
+2020-03-17,Michigan,Shops & Services,26.0,23.0,26.0,1
+2020-03-17,Michigan,Food,28.0,24.0,28.0,2
+2020-03-17,Michigan,Grocery,112.0,99.0,113.0,3
+2020-03-17,Michigan,Gas Stations,85.0,79.0,85.0,4
+2020-03-17,Michigan,Outdoors & Recreation,51.0,51.0,51.0,5
+2020-03-17,Michigan,Medical,36.0,31.0,36.0,6
+2020-03-17,Michigan,Professional & Other Places,14.0,12.0,14.0,7
+2020-03-17,Michigan,Fast Food Restaurants,71.0,60.0,71.0,8
+2020-03-17,Michigan,Nightlife Spots,37.0,32.0,37.0,9
+2020-03-17,Michigan,School,22.0,27.0,22.0,10
+2020-03-17,Michigan,Big Box Stores,95.0,80.0,96.0,11
+2020-03-17,Michigan,Drug Store,101.0,82.0,102.0,12
+2020-03-17,Michigan,Office,51.0,56.0,50.0,13
+2020-03-17,Michigan,Hardware Stores,103.0,89.0,104.0,14
+2020-03-17,Michigan,Residences,91.0,80.0,91.0,15
+2020-03-17,Michigan,Arts & Entertainment,41.0,36.0,41.0,16
+2020-03-17,Michigan,Discount Stores,97.0,82.0,98.0,17
+2020-03-17,Michigan,Convenience Store,88.0,85.0,89.0,18
+2020-03-17,Michigan,Government,42.0,37.0,43.0,19
+2020-03-17,Michigan,Colleges & Universities,21.0,28.0,21.0,20
+2020-03-17,Michigan,Airport,34.0,27.0,34.0,21
+2020-03-17,Michigan,Sports,25.0,26.0,25.0,22
+2020-03-17,Michigan,Banks,81.0,78.0,82.0,23
+2020-03-17,Michigan,Alcohol,99.0,88.0,100.0,24
+2020-03-17,Michigan,Hotel,53.0,47.0,53.0,25
+2020-03-17,Michigan,Travel & Transport,15.0,17.0,15.0,26
+2020-03-17,Michigan,Fitness Center,20.0,21.0,19.0,27
+2020-03-17,Michigan,Beach,134.0,119.0,135.0,28
+2020-03-17,Michigan,Bus,59.0,"",59.0,29
+2020-03-17,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-18,Michigan,Shops & Services,24.0,22.0,24.0,1
+2020-03-18,Michigan,Food,27.0,23.0,27.0,2
+2020-03-18,Michigan,Grocery,104.0,89.0,105.0,3
+2020-03-18,Michigan,Gas Stations,83.0,79.0,83.0,4
+2020-03-18,Michigan,Outdoors & Recreation,41.0,41.0,41.0,5
+2020-03-18,Michigan,Professional & Other Places,13.0,12.0,13.0,6
+2020-03-18,Michigan,Medical,34.0,28.0,34.0,7
+2020-03-18,Michigan,Fast Food Restaurants,67.0,60.0,67.0,8
+2020-03-18,Michigan,Nightlife Spots,31.0,32.0,31.0,9
+2020-03-18,Michigan,Big Box Stores,88.0,77.0,89.0,10
+2020-03-18,Michigan,School,21.0,25.0,21.0,11
+2020-03-18,Michigan,Drug Store,98.0,86.0,98.0,12
+2020-03-18,Michigan,Office,51.0,56.0,51.0,13
+2020-03-18,Michigan,Hardware Stores,103.0,88.0,104.0,14
+2020-03-18,Michigan,Residences,88.0,79.0,88.0,15
+2020-03-18,Michigan,Arts & Entertainment,41.0,38.0,41.0,16
+2020-03-18,Michigan,Discount Stores,94.0,76.0,95.0,17
+2020-03-18,Michigan,Convenience Store,86.0,77.0,86.0,18
+2020-03-18,Michigan,Government,40.0,36.0,40.0,19
+2020-03-18,Michigan,Colleges & Universities,23.0,38.0,23.0,20
+2020-03-18,Michigan,Airport,29.0,29.0,29.0,21
+2020-03-18,Michigan,Sports,23.0,25.0,23.0,22
+2020-03-18,Michigan,Banks,74.0,68.0,75.0,23
+2020-03-18,Michigan,Alcohol,93.0,83.0,94.0,24
+2020-03-18,Michigan,Hotel,47.0,37.0,47.0,25
+2020-03-18,Michigan,Travel & Transport,15.0,19.0,15.0,26
+2020-03-18,Michigan,Fitness Center,20.0,18.0,20.0,27
+2020-03-18,Michigan,Beach,115.0,91.0,116.0,28
+2020-03-18,Michigan,Bus,61.0,"",61.0,29
+2020-03-18,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-19,Michigan,Shops & Services,24.0,22.0,24.0,1
+2020-03-19,Michigan,Food,25.0,24.0,25.0,2
+2020-03-19,Michigan,Grocery,112.0,102.0,112.0,3
+2020-03-19,Michigan,Gas Stations,79.0,75.0,79.0,4
+2020-03-19,Michigan,Outdoors & Recreation,44.0,48.0,44.0,5
+2020-03-19,Michigan,Professional & Other Places,12.0,11.0,12.0,6
+2020-03-19,Michigan,Medical,32.0,29.0,32.0,7
+2020-03-19,Michigan,Fast Food Restaurants,64.0,60.0,64.0,8
+2020-03-19,Michigan,Big Box Stores,96.0,84.0,97.0,9
+2020-03-19,Michigan,Nightlife Spots,30.0,29.0,30.0,10
+2020-03-19,Michigan,Drug Store,99.0,96.0,99.0,11
+2020-03-19,Michigan,School,19.0,23.0,19.0,12
+2020-03-19,Michigan,Hardware Stores,106.0,92.0,107.0,13
+2020-03-19,Michigan,Office,48.0,49.0,48.0,14
+2020-03-19,Michigan,Residences,80.0,78.0,80.0,15
+2020-03-19,Michigan,Discount Stores,94.0,92.0,94.0,16
+2020-03-19,Michigan,Arts & Entertainment,38.0,38.0,38.0,17
+2020-03-19,Michigan,Convenience Store,83.0,78.0,83.0,18
+2020-03-19,Michigan,Government,38.0,36.0,38.0,19
+2020-03-19,Michigan,Colleges & Universities,23.0,38.0,23.0,20
+2020-03-19,Michigan,Sports,23.0,28.0,23.0,21
+2020-03-19,Michigan,Airport,24.0,19.0,24.0,22
+2020-03-19,Michigan,Banks,81.0,79.0,81.0,23
+2020-03-19,Michigan,Alcohol,89.0,78.0,90.0,24
+2020-03-19,Michigan,Hotel,46.0,43.0,46.0,25
+2020-03-19,Michigan,Travel & Transport,14.0,16.0,14.0,26
+2020-03-19,Michigan,Fitness Center,20.0,20.0,20.0,27
+2020-03-19,Michigan,Beach,107.0,130.0,106.0,28
+2020-03-19,Michigan,Bus,49.0,"",49.0,29
+2020-03-19,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-20,Michigan,Shops & Services,22.0,19.0,22.0,1
+2020-03-20,Michigan,Food,23.0,20.0,24.0,2
+2020-03-20,Michigan,Grocery,113.0,95.0,114.0,3
+2020-03-20,Michigan,Gas Stations,75.0,70.0,76.0,4
+2020-03-20,Michigan,Outdoors & Recreation,39.0,39.0,39.0,5
+2020-03-20,Michigan,Medical,34.0,28.0,34.0,6
+2020-03-20,Michigan,Professional & Other Places,12.0,11.0,12.0,7
+2020-03-20,Michigan,Fast Food Restaurants,63.0,56.0,63.0,8
+2020-03-20,Michigan,Big Box Stores,90.0,76.0,90.0,9
+2020-03-20,Michigan,Nightlife Spots,27.0,25.0,27.0,10
+2020-03-20,Michigan,Drug Store,97.0,82.0,98.0,11
+2020-03-20,Michigan,School,19.0,22.0,19.0,12
+2020-03-20,Michigan,Hardware Stores,104.0,88.0,104.0,13
+2020-03-20,Michigan,Residences,83.0,75.0,83.0,14
+2020-03-20,Michigan,Office,47.0,51.0,47.0,15
+2020-03-20,Michigan,Discount Stores,87.0,78.0,87.0,16
+2020-03-20,Michigan,Convenience Store,80.0,74.0,81.0,17
+2020-03-20,Michigan,Arts & Entertainment,35.0,35.0,35.0,18
+2020-03-20,Michigan,Banks,74.0,66.0,74.0,19
+2020-03-20,Michigan,Government,37.0,34.0,37.0,20
+2020-03-20,Michigan,Alcohol,90.0,86.0,90.0,21
+2020-03-20,Michigan,Sports,22.0,24.0,22.0,22
+2020-03-20,Michigan,Colleges & Universities,29.0,37.0,29.0,23
+2020-03-20,Michigan,Airport,21.0,20.0,21.0,24
+2020-03-20,Michigan,Hotel,39.0,34.0,40.0,25
+2020-03-20,Michigan,Travel & Transport,15.0,18.0,15.0,26
+2020-03-20,Michigan,Fitness Center,21.0,18.0,21.0,27
+2020-03-20,Michigan,Beach,110.0,107.0,110.0,28
+2020-03-20,Michigan,Bus,56.0,"",56.0,29
+2020-03-20,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-21,Michigan,Shops & Services,17.0,16.0,17.0,1
+2020-03-21,Michigan,Food,19.0,18.0,19.0,2
+2020-03-21,Michigan,Grocery,89.0,78.0,89.0,3
+2020-03-21,Michigan,Gas Stations,70.0,68.0,70.0,4
+2020-03-21,Michigan,Outdoors & Recreation,45.0,47.0,45.0,5
+2020-03-21,Michigan,Fast Food Restaurants,55.0,55.0,55.0,6
+2020-03-21,Michigan,Big Box Stores,72.0,64.0,72.0,7
+2020-03-21,Michigan,Hardware Stores,98.0,83.0,99.0,8
+2020-03-21,Michigan,Nightlife Spots,19.0,21.0,19.0,9
+2020-03-21,Michigan,Professional & Other Places,12.0,12.0,12.0,10
+2020-03-21,Michigan,Drug Store,85.0,76.0,86.0,11
+2020-03-21,Michigan,Medical,35.0,31.0,35.0,12
+2020-03-21,Michigan,School,26.0,29.0,26.0,13
+2020-03-21,Michigan,Residences,76.0,78.0,76.0,14
+2020-03-21,Michigan,Discount Stores,77.0,63.0,77.0,15
+2020-03-21,Michigan,Convenience Store,75.0,71.0,75.0,16
+2020-03-21,Michigan,Arts & Entertainment,21.0,22.0,21.0,17
+2020-03-21,Michigan,Alcohol,80.0,75.0,80.0,18
+2020-03-21,Michigan,Sports,19.0,22.0,19.0,19
+2020-03-21,Michigan,Office,55.0,57.0,54.0,20
+2020-03-21,Michigan,Hotel,27.0,28.0,27.0,21
+2020-03-21,Michigan,Colleges & Universities,35.0,39.0,35.0,22
+2020-03-21,Michigan,Banks,67.0,65.0,67.0,23
+2020-03-21,Michigan,Airport,20.0,16.0,21.0,24
+2020-03-21,Michigan,Government,44.0,42.0,44.0,25
+2020-03-21,Michigan,Travel & Transport,16.0,18.0,16.0,26
+2020-03-21,Michigan,Fitness Center,16.0,17.0,16.0,27
+2020-03-21,Michigan,Beach,109.0,107.0,110.0,28
+2020-03-21,Michigan,Bus,52.0,"",52.0,29
+2020-03-21,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-22,Michigan,Grocery,68.0,64.0,68.0,1
+2020-03-22,Michigan,Food,18.0,16.0,18.0,2
+2020-03-22,Michigan,Shops & Services,18.0,16.0,18.0,3
+2020-03-22,Michigan,Outdoors & Recreation,42.0,46.0,42.0,4
+2020-03-22,Michigan,Gas Stations,64.0,61.0,64.0,5
+2020-03-22,Michigan,Fast Food Restaurants,52.0,46.0,52.0,6
+2020-03-22,Michigan,Big Box Stores,62.0,59.0,62.0,7
+2020-03-22,Michigan,Nightlife Spots,17.0,22.0,17.0,8
+2020-03-22,Michigan,Hardware Stores,89.0,78.0,89.0,9
+2020-03-22,Michigan,Professional & Other Places,10.0,8.0,10.0,10
+2020-03-22,Michigan,Drug Store,74.0,69.0,74.0,11
+2020-03-22,Michigan,School,33.0,31.0,33.0,12
+2020-03-22,Michigan,Medical,33.0,26.0,33.0,13
+2020-03-22,Michigan,Residences,68.0,66.0,68.0,14
+2020-03-22,Michigan,Discount Stores,71.0,64.0,72.0,15
+2020-03-22,Michigan,Arts & Entertainment,19.0,23.0,19.0,16
+2020-03-22,Michigan,Convenience Store,69.0,67.0,70.0,17
+2020-03-22,Michigan,Sports,20.0,25.0,20.0,18
+2020-03-22,Michigan,Alcohol,72.0,78.0,72.0,19
+2020-03-22,Michigan,Airport,21.0,19.0,21.0,20
+2020-03-22,Michigan,Colleges & Universities,38.0,46.0,38.0,21
+2020-03-22,Michigan,Office,56.0,52.0,56.0,22
+2020-03-22,Michigan,Hotel,26.0,29.0,26.0,23
+2020-03-22,Michigan,Government,43.0,38.0,43.0,24
+2020-03-22,Michigan,Travel & Transport,12.0,15.0,12.0,25
+2020-03-22,Michigan,Banks,61.0,48.0,61.0,26
+2020-03-22,Michigan,Fitness Center,16.0,17.0,16.0,27
+2020-03-22,Michigan,Beach,100.0,116.0,99.0,28
+2020-03-22,Michigan,Bus,39.0,"",39.0,29
+2020-03-22,Michigan,Spiritual Center,1.0,"",1.0,30
+2020-03-23,Michigan,Shops & Services,23.0,19.0,23.0,1
+2020-03-23,Michigan,Grocery,117.0,101.0,118.0,2
+2020-03-23,Michigan,Food,25.0,21.0,25.0,3
+2020-03-23,Michigan,Gas Stations,80.0,73.0,80.0,4
+2020-03-23,Michigan,Outdoors & Recreation,38.0,40.0,38.0,5
+2020-03-23,Michigan,Medical,29.0,23.0,29.0,6
+2020-03-23,Michigan,Professional & Other Places,11.0,10.0,11.0,7
+2020-03-23,Michigan,Fast Food Restaurants,64.0,53.0,64.0,8
+2020-03-23,Michigan,Big Box Stores,99.0,74.0,100.0,9
+2020-03-23,Michigan,Drug Store,110.0,91.0,111.0,10
+2020-03-23,Michigan,Nightlife Spots,31.0,28.0,31.0,11
+2020-03-23,Michigan,Hardware Stores,115.0,87.0,116.0,12
+2020-03-23,Michigan,School,21.0,24.0,21.0,13
+2020-03-23,Michigan,Office,45.0,47.0,45.0,14
+2020-03-23,Michigan,Residences,77.0,64.0,78.0,15
+2020-03-23,Michigan,Discount Stores,100.0,78.0,101.0,16
+2020-03-23,Michigan,Convenience Store,84.0,79.0,85.0,17
+2020-03-23,Michigan,Arts & Entertainment,38.0,36.0,38.0,18
+2020-03-23,Michigan,Government,37.0,35.0,37.0,19
+2020-03-23,Michigan,Banks,82.0,75.0,83.0,20
+2020-03-23,Michigan,Sports,21.0,20.0,21.0,21
+2020-03-23,Michigan,Alcohol,98.0,90.0,99.0,22
+2020-03-23,Michigan,Colleges & Universities,20.0,34.0,20.0,23
+2020-03-23,Michigan,Airport,19.0,15.0,19.0,24
+2020-03-23,Michigan,Hotel,41.0,35.0,42.0,25
+2020-03-23,Michigan,Travel & Transport,13.0,17.0,13.0,26
+2020-03-23,Michigan,Fitness Center,18.0,13.0,18.0,27
+2020-03-23,Michigan,Beach,105.0,92.0,106.0,28
+2020-03-23,Michigan,Bus,50.0,"",50.0,29
+2020-03-23,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-24,Michigan,Shops & Services,13.0,12.0,14.0,1
+2020-03-24,Michigan,Food,17.0,15.0,17.0,2
+2020-03-24,Michigan,Grocery,67.0,60.0,67.0,3
+2020-03-24,Michigan,Gas Stations,55.0,47.0,55.0,4
+2020-03-24,Michigan,Outdoors & Recreation,35.0,35.0,35.0,5
+2020-03-24,Michigan,Medical,21.0,15.0,22.0,6
+2020-03-24,Michigan,Professional & Other Places,8.0,7.0,8.0,7
+2020-03-24,Michigan,Fast Food Restaurants,42.0,36.0,42.0,8
+2020-03-24,Michigan,Nightlife Spots,21.0,19.0,21.0,9
+2020-03-24,Michigan,School,14.0,17.0,14.0,10
+2020-03-24,Michigan,Drug Store,67.0,61.0,67.0,11
+2020-03-24,Michigan,Big Box Stores,58.0,48.0,58.0,12
+2020-03-24,Michigan,Residences,64.0,58.0,64.0,13
+2020-03-24,Michigan,Hardware Stores,56.0,44.0,57.0,14
+2020-03-24,Michigan,Office,27.0,31.0,27.0,15
+2020-03-24,Michigan,Arts & Entertainment,28.0,27.0,28.0,16
+2020-03-24,Michigan,Convenience Store,56.0,49.0,56.0,17
+2020-03-24,Michigan,Discount Stores,54.0,43.0,55.0,18
+2020-03-24,Michigan,Sports,17.0,19.0,17.0,19
+2020-03-24,Michigan,Government,23.0,20.0,23.0,20
+2020-03-24,Michigan,Alcohol,67.0,60.0,67.0,21
+2020-03-24,Michigan,Airport,17.0,15.0,17.0,22
+2020-03-24,Michigan,Colleges & Universities,12.0,20.0,12.0,23
+2020-03-24,Michigan,Banks,46.0,40.0,47.0,24
+2020-03-24,Michigan,Hotel,32.0,31.0,32.0,25
+2020-03-24,Michigan,Travel & Transport,11.0,13.0,11.0,26
+2020-03-24,Michigan,Fitness Center,11.0,10.0,11.0,27
+2020-03-24,Michigan,Beach,112.0,119.0,111.0,28
+2020-03-24,Michigan,Bus,43.0,"",42.0,29
+2020-03-25,Michigan,Shops & Services,15.0,12.0,15.0,1
+2020-03-25,Michigan,Food,18.0,15.0,18.0,2
+2020-03-25,Michigan,Grocery,70.0,58.0,70.0,3
+2020-03-25,Michigan,Outdoors & Recreation,46.0,46.0,46.0,4
+2020-03-25,Michigan,Gas Stations,57.0,51.0,58.0,5
+2020-03-25,Michigan,Medical,23.0,18.0,24.0,6
+2020-03-25,Michigan,Professional & Other Places,9.0,8.0,9.0,7
+2020-03-25,Michigan,Fast Food Restaurants,47.0,41.0,47.0,8
+2020-03-25,Michigan,Nightlife Spots,25.0,25.0,25.0,9
+2020-03-25,Michigan,School,17.0,21.0,17.0,10
+2020-03-25,Michigan,Big Box Stores,59.0,47.0,60.0,11
+2020-03-25,Michigan,Drug Store,69.0,57.0,70.0,12
+2020-03-25,Michigan,Hardware Stores,73.0,59.0,74.0,13
+2020-03-25,Michigan,Residences,71.0,61.0,72.0,14
+2020-03-25,Michigan,Office,31.0,37.0,30.0,15
+2020-03-25,Michigan,Arts & Entertainment,34.0,31.0,34.0,16
+2020-03-25,Michigan,Convenience Store,65.0,52.0,65.0,17
+2020-03-25,Michigan,Sports,22.0,23.0,22.0,18
+2020-03-25,Michigan,Discount Stores,60.0,50.0,60.0,19
+2020-03-25,Michigan,Government,27.0,23.0,27.0,20
+2020-03-25,Michigan,Alcohol,73.0,63.0,74.0,21
+2020-03-25,Michigan,Banks,53.0,51.0,53.0,22
+2020-03-25,Michigan,Colleges & Universities,14.0,27.0,14.0,23
+2020-03-25,Michigan,Airport,17.0,13.0,17.0,24
+2020-03-25,Michigan,Travel & Transport,13.0,14.0,13.0,25
+2020-03-25,Michigan,Hotel,31.0,27.0,31.0,26
+2020-03-25,Michigan,Fitness Center,14.0,11.0,14.0,27
+2020-03-25,Michigan,Beach,143.0,137.0,143.0,28
+2020-03-25,Michigan,Bus,39.0,"",39.0,29
+2020-03-25,Michigan,Spiritual Center,2.0,"",2.0,30
+2020-03-26,Michigan,Shops & Services,15.0,14.0,15.0,1
+2020-03-26,Michigan,Food,18.0,15.0,18.0,2
+2020-03-26,Michigan,Grocery,74.0,68.0,74.0,3
+2020-03-26,Michigan,Gas Stations,56.0,51.0,56.0,4
+2020-03-26,Michigan,Outdoors & Recreation,39.0,39.0,39.0,5
+2020-03-26,Michigan,Medical,23.0,19.0,24.0,6
+2020-03-26,Michigan,Professional & Other Places,9.0,9.0,9.0,7
+2020-03-26,Michigan,Fast Food Restaurants,48.0,43.0,48.0,8
+2020-03-26,Michigan,Nightlife Spots,24.0,24.0,24.0,9
+2020-03-26,Michigan,Big Box Stores,64.0,56.0,64.0,10
+2020-03-26,Michigan,School,15.0,19.0,15.0,11
+2020-03-26,Michigan,Drug Store,68.0,58.0,69.0,12
+2020-03-26,Michigan,Hardware Stores,81.0,64.0,82.0,13
+2020-03-26,Michigan,Residences,65.0,59.0,65.0,14
+2020-03-26,Michigan,Office,29.0,32.0,29.0,15
+2020-03-26,Michigan,Arts & Entertainment,34.0,35.0,34.0,16
+2020-03-26,Michigan,Convenience Store,62.0,57.0,62.0,17
+2020-03-26,Michigan,Discount Stores,64.0,55.0,64.0,18
+2020-03-26,Michigan,Sports,19.0,23.0,19.0,19
+2020-03-26,Michigan,Government,27.0,24.0,27.0,20
+2020-03-26,Michigan,Alcohol,68.0,63.0,68.0,21
+2020-03-26,Michigan,Banks,55.0,52.0,55.0,22
+2020-03-26,Michigan,Colleges & Universities,14.0,22.0,14.0,23
+2020-03-26,Michigan,Hotel,29.0,30.0,29.0,24
+2020-03-26,Michigan,Travel & Transport,11.0,12.0,11.0,25
+2020-03-26,Michigan,Airport,12.0,8.0,12.0,26
+2020-03-26,Michigan,Fitness Center,14.0,14.0,14.0,27
+2020-03-26,Michigan,Beach,107.0,105.0,107.0,28
+2020-03-26,Michigan,Bus,47.0,"",47.0,29
+2020-03-26,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-27,Michigan,Shops & Services,13.0,12.0,13.0,1
+2020-03-27,Michigan,Food,17.0,15.0,17.0,2
+2020-03-27,Michigan,Grocery,71.0,61.0,72.0,3
+2020-03-27,Michigan,Outdoors & Recreation,43.0,44.0,43.0,4
+2020-03-27,Michigan,Gas Stations,53.0,49.0,53.0,5
+2020-03-27,Michigan,Professional & Other Places,9.0,9.0,9.0,6
+2020-03-27,Michigan,Medical,24.0,19.0,24.0,7
+2020-03-27,Michigan,Fast Food Restaurants,46.0,41.0,46.0,8
+2020-03-27,Michigan,Big Box Stores,63.0,58.0,64.0,9
+2020-03-27,Michigan,Nightlife Spots,20.0,19.0,20.0,10
+2020-03-27,Michigan,Drug Store,66.0,53.0,67.0,11
+2020-03-27,Michigan,School,15.0,19.0,15.0,12
+2020-03-27,Michigan,Hardware Stores,78.0,60.0,79.0,13
+2020-03-27,Michigan,Residences,63.0,57.0,63.0,14
+2020-03-27,Michigan,Office,31.0,33.0,31.0,15
+2020-03-27,Michigan,Discount Stores,59.0,47.0,59.0,16
+2020-03-27,Michigan,Convenience Store,57.0,49.0,58.0,17
+2020-03-27,Michigan,Arts & Entertainment,27.0,26.0,27.0,18
+2020-03-27,Michigan,Sports,19.0,22.0,19.0,19
+2020-03-27,Michigan,Banks,51.0,49.0,51.0,20
+2020-03-27,Michigan,Alcohol,67.0,59.0,67.0,21
+2020-03-27,Michigan,Government,26.0,25.0,26.0,22
+2020-03-27,Michigan,Colleges & Universities,19.0,26.0,18.0,23
+2020-03-27,Michigan,Hotel,27.0,28.0,26.0,24
+2020-03-27,Michigan,Travel & Transport,11.0,12.0,11.0,25
+2020-03-27,Michigan,Airport,11.0,8.0,11.0,26
+2020-03-27,Michigan,Fitness Center,15.0,13.0,15.0,27
+2020-03-27,Michigan,Beach,116.0,118.0,116.0,28
+2020-03-27,Michigan,Bus,37.0,"",37.0,29
+2020-03-27,Michigan,Spiritual Center,3.0,"",3.0,30
+2020-03-28,Michigan,Grocery,66.0,52.0,66.0,1
+2020-03-28,Michigan,Food,13.0,12.0,13.0,2
+2020-03-28,Michigan,Shops & Services,13.0,11.0,13.0,3
+2020-03-28,Michigan,Gas Stations,49.0,43.0,49.0,4
+2020-03-28,Michigan,Outdoors & Recreation,28.0,30.0,28.0,5
+2020-03-28,Michigan,Fast Food Restaurants,39.0,35.0,39.0,6
+2020-03-28,Michigan,Big Box Stores,53.0,44.0,53.0,7
+2020-03-28,Michigan,Hardware Stores,67.0,50.0,68.0,8
+2020-03-28,Michigan,Nightlife Spots,13.0,13.0,13.0,9
+2020-03-28,Michigan,Professional & Other Places,9.0,8.0,9.0,10
+2020-03-28,Michigan,Drug Store,62.0,53.0,63.0,11
+2020-03-28,Michigan,Medical,26.0,22.0,26.0,12
+2020-03-28,Michigan,School,18.0,19.0,18.0,13
+2020-03-28,Michigan,Residences,52.0,47.0,53.0,14
+2020-03-28,Michigan,Discount Stores,52.0,39.0,53.0,15
+2020-03-28,Michigan,Convenience Store,50.0,45.0,50.0,16
+2020-03-28,Michigan,Arts & Entertainment,15.0,15.0,15.0,17
+2020-03-28,Michigan,Alcohol,57.0,51.0,57.0,18
+2020-03-28,Michigan,Sports,14.0,14.0,14.0,19
+2020-03-28,Michigan,Office,36.0,29.0,37.0,20
+2020-03-28,Michigan,Banks,46.0,40.0,46.0,21
+2020-03-28,Michigan,Hotel,18.0,19.0,18.0,22
+2020-03-28,Michigan,Government,32.0,30.0,32.0,23
+2020-03-28,Michigan,Airport,13.0,10.0,13.0,24
+2020-03-28,Michigan,Colleges & Universities,21.0,24.0,21.0,25
+2020-03-28,Michigan,Travel & Transport,8.0,10.0,8.0,26
+2020-03-28,Michigan,Fitness Center,11.0,10.0,11.0,27
+2020-03-28,Michigan,Beach,73.0,88.0,72.0,28
+2020-03-28,Michigan,Bus,37.0,"",37.0,29
+2020-03-29,Michigan,Grocery,53.0,51.0,53.0,1
+2020-03-29,Michigan,Food,13.0,12.0,13.0,2
+2020-03-29,Michigan,Shops & Services,9.0,8.0,9.0,3
+2020-03-29,Michigan,Outdoors & Recreation,30.0,33.0,29.0,4
+2020-03-29,Michigan,Gas Stations,43.0,42.0,43.0,5
+2020-03-29,Michigan,Big Box Stores,48.0,48.0,48.0,6
+2020-03-29,Michigan,Fast Food Restaurants,37.0,37.0,38.0,7
+2020-03-29,Michigan,Hardware Stores,64.0,49.0,64.0,8
+2020-03-29,Michigan,Drug Store,59.0,54.0,59.0,9
+2020-03-29,Michigan,Nightlife Spots,12.0,14.0,12.0,10
+2020-03-29,Michigan,Professional & Other Places,7.0,6.0,7.0,11
+2020-03-29,Michigan,School,22.0,22.0,22.0,12
+2020-03-29,Michigan,Medical,23.0,20.0,23.0,13
+2020-03-29,Michigan,Residences,42.0,43.0,42.0,14
+2020-03-29,Michigan,Discount Stores,51.0,51.0,51.0,15
+2020-03-29,Michigan,Convenience Store,47.0,37.0,47.0,16
+2020-03-29,Michigan,Arts & Entertainment,15.0,16.0,15.0,17
+2020-03-29,Michigan,Sports,14.0,18.0,14.0,18
+2020-03-29,Michigan,Alcohol,50.0,58.0,50.0,19
+2020-03-29,Michigan,Office,39.0,34.0,39.0,20
+2020-03-29,Michigan,Airport,11.0,8.0,11.0,21
+2020-03-29,Michigan,Government,30.0,27.0,30.0,22
+2020-03-29,Michigan,Hotel,17.0,17.0,17.0,23
+2020-03-29,Michigan,Colleges & Universities,22.0,30.0,22.0,24
+2020-03-29,Michigan,Travel & Transport,41.0,42.0,41.0,25
+2020-03-29,Michigan,Banks,51.0,48.0,51.0,26
+2020-03-29,Michigan,Fitness Center,11.0,10.0,11.0,27
+2020-03-29,Michigan,Beach,68.0,85.0,67.0,28
+2020-03-30,Michigan,Shops & Services,13.0,11.0,13.0,1
+2020-03-30,Michigan,Grocery,69.0,62.0,70.0,2
+2020-03-30,Michigan,Food,16.0,14.0,16.0,3
+2020-03-30,Michigan,Gas Stations,50.0,43.0,51.0,4
+2020-03-30,Michigan,Outdoors & Recreation,31.0,30.0,31.0,5
+2020-03-30,Michigan,Medical,19.0,15.0,20.0,6
+2020-03-30,Michigan,Professional & Other Places,7.0,7.0,7.0,7
+2020-03-30,Michigan,Fast Food Restaurants,42.0,35.0,43.0,8
+2020-03-30,Michigan,Big Box Stores,63.0,50.0,64.0,9
+2020-03-30,Michigan,Drug Store,66.0,59.0,66.0,10
+2020-03-30,Michigan,Nightlife Spots,21.0,21.0,21.0,11
+2020-03-30,Michigan,Hardware Stores,71.0,51.0,73.0,12
+2020-03-30,Michigan,School,14.0,17.0,14.0,13
+2020-03-30,Michigan,Residences,51.0,47.0,51.0,14
+2020-03-30,Michigan,Office,26.0,28.0,26.0,15
+2020-03-30,Michigan,Discount Stores,60.0,51.0,60.0,16
+2020-03-30,Michigan,Convenience Store,51.0,45.0,51.0,17
+2020-03-30,Michigan,Arts & Entertainment,28.0,28.0,28.0,18
+2020-03-30,Michigan,Sports,15.0,16.0,15.0,19
+2020-03-30,Michigan,Government,22.0,18.0,23.0,20
+2020-03-30,Michigan,Banks,51.0,39.0,52.0,21
+2020-03-30,Michigan,Alcohol,62.0,55.0,63.0,22
+2020-03-30,Michigan,Colleges & Universities,12.0,22.0,12.0,23
+2020-03-30,Michigan,Airport,10.0,9.0,10.0,24
+2020-03-30,Michigan,Hotel,25.0,21.0,25.0,25
+2020-03-30,Michigan,Travel & Transport,8.0,9.0,8.0,26
+2020-03-30,Michigan,Fitness Center,11.0,10.0,11.0,27
+2020-03-30,Michigan,Beach,71.0,86.0,70.0,28
+2020-03-30,Michigan,Bus,29.0,"",29.0,29
+2020-03-31,Michigan,Shops & Services,12.0,11.0,12.0,1
+2020-03-31,Michigan,Food,16.0,13.0,16.0,2
+2020-03-31,Michigan,Grocery,63.0,58.0,63.0,3
+2020-03-31,Michigan,Gas Stations,49.0,44.0,50.0,4
+2020-03-31,Michigan,Outdoors & Recreation,31.0,32.0,31.0,5
+2020-03-31,Michigan,Medical,18.0,13.0,18.0,6
+2020-03-31,Michigan,Fast Food Restaurants,46.0,37.0,47.0,7
+2020-03-31,Michigan,Professional & Other Places,7.0,7.0,7.0,8
+2020-03-31,Michigan,Big Box Stores,60.0,50.0,61.0,9
+2020-03-31,Michigan,Drug Store,63.0,57.0,64.0,10
+2020-03-31,Michigan,Nightlife Spots,20.0,18.0,20.0,11
+2020-03-31,Michigan,Hardware Stores,65.0,54.0,66.0,12
+2020-03-31,Michigan,School,11.0,15.0,11.0,13
+2020-03-31,Michigan,Residences,50.0,52.0,50.0,14
+2020-03-31,Michigan,Office,23.0,26.0,23.0,15
+2020-03-31,Michigan,Discount Stores,57.0,45.0,57.0,16
+2020-03-31,Michigan,Convenience Store,50.0,45.0,50.0,17
+2020-03-31,Michigan,Arts & Entertainment,23.0,22.0,23.0,18
+2020-03-31,Michigan,Banks,50.0,47.0,51.0,19
+2020-03-31,Michigan,Sports,13.0,14.0,13.0,20
+2020-03-31,Michigan,Government,19.0,15.0,19.0,21
+2020-03-31,Michigan,Alcohol,58.0,50.0,59.0,22
+2020-03-31,Michigan,Airport,12.0,9.0,12.0,23
+2020-03-31,Michigan,Colleges & Universities,11.0,21.0,10.0,24
+2020-03-31,Michigan,Travel & Transport,9.0,9.0,9.0,25
+2020-03-31,Michigan,Hotel,24.0,23.0,24.0,26
+2020-03-31,Michigan,Fitness Center,10.0,9.0,10.0,27
+2020-03-31,Michigan,Beach,80.0,84.0,80.0,28
+2020-03-31,Michigan,Bus,30.0,"",30.0,29
+2020-04-01,Michigan,Shops & Services,14.0,12.0,14.0,1
+2020-04-01,Michigan,Food,17.0,15.0,18.0,2
+2020-04-01,Michigan,Grocery,70.0,62.0,70.0,3
+2020-04-01,Michigan,Gas Stations,54.0,48.0,55.0,4
+2020-04-01,Michigan,Outdoors & Recreation,33.0,34.0,33.0,5
+2020-04-01,Michigan,Medical,19.0,14.0,19.0,6
+2020-04-01,Michigan,Professional & Other Places,7.0,7.0,7.0,7
+2020-04-01,Michigan,Fast Food Restaurants,47.0,41.0,47.0,8
+2020-04-01,Michigan,Big Box Stores,67.0,55.0,67.0,9
+2020-04-01,Michigan,Drug Store,71.0,61.0,72.0,10
+2020-04-01,Michigan,Nightlife Spots,20.0,19.0,20.0,11
+2020-04-01,Michigan,Hardware Stores,75.0,59.0,76.0,12
+2020-04-01,Michigan,School,13.0,17.0,13.0,13
+2020-04-01,Michigan,Residences,55.0,52.0,55.0,14
+2020-04-01,Michigan,Discount Stores,68.0,55.0,69.0,15
+2020-04-01,Michigan,Office,26.0,29.0,26.0,16
+2020-04-01,Michigan,Arts & Entertainment,33.0,31.0,33.0,17
+2020-04-01,Michigan,Convenience Store,57.0,46.0,57.0,18
+2020-04-01,Michigan,Banks,67.0,62.0,67.0,19
+2020-04-01,Michigan,Government,24.0,22.0,24.0,20
+2020-04-01,Michigan,Sports,16.0,17.0,16.0,21
+2020-04-01,Michigan,Alcohol,66.0,56.0,66.0,22
+2020-04-01,Michigan,Colleges & Universities,12.0,22.0,12.0,23
+2020-04-01,Michigan,Hotel,25.0,30.0,25.0,24
+2020-04-01,Michigan,Travel & Transport,11.0,11.0,11.0,25
+2020-04-01,Michigan,Airport,11.0,7.0,11.0,26
+2020-04-01,Michigan,Fitness Center,11.0,11.0,12.0,27
+2020-04-01,Michigan,Beach,106.0,115.0,106.0,28
+2020-04-01,Michigan,Bus,32.0,"",32.0,29

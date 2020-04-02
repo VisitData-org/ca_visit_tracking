@@ -1,0 +1,748 @@
+2020-03-01,Montana,Food,51.0,54.0,51.0,1
+2020-03-01,Montana,Shops & Services,98.0,95.0,98.0,2
+2020-03-01,Montana,Nightlife Spots,73.0,79.0,72.0,3
+2020-03-01,Montana,Gas Stations,106.0,114.0,105.0,4
+2020-03-01,Montana,Grocery,102.0,110.0,102.0,5
+2020-03-01,Montana,Outdoors & Recreation,103.0,104.0,102.0,6
+2020-03-01,Montana,Hotel,79.0,68.0,80.0,7
+2020-03-01,Montana,Big Box Stores,109.0,94.0,109.0,8
+2020-03-01,Montana,Fast Food Restaurants,114.0,110.0,114.0,9
+2020-03-01,Montana,Arts & Entertainment,95.0,85.0,95.0,10
+2020-03-01,Montana,Skiing,67.0,63.0,68.0,11
+2020-03-01,Montana,Hardware Stores,116.0,97.0,117.0,12
+2020-03-01,Montana,School,73.0,60.0,73.0,13
+2020-03-01,Montana,Professional & Other Places,57.0,59.0,57.0,14
+2020-03-01,Montana,Medical,61.0,58.0,61.0,15
+2020-03-01,Montana,Convenience Store,97.0,107.0,96.0,16
+2020-03-01,Montana,Airport,82.0,82.0,82.0,17
+2020-03-01,Montana,Colleges & Universities,109.0,"",107.0,18
+2020-03-01,Montana,Sports,48.0,51.0,48.0,19
+2020-03-01,Montana,Travel & Transport,116.0,"",117.0,20
+2020-03-01,Montana,Fitness Center,66.0,"",66.0,21
+2020-03-01,Montana,Drug Store,107.0,128.0,106.0,22
+2020-03-01,Montana,Residences,102.0,"",100.0,23
+2020-03-02,Montana,Food,57.0,57.0,57.0,1
+2020-03-02,Montana,Shops & Services,82.0,88.0,82.0,2
+2020-03-02,Montana,Nightlife Spots,66.0,66.0,66.0,3
+2020-03-02,Montana,Gas Stations,106.0,108.0,106.0,4
+2020-03-02,Montana,Grocery,107.0,104.0,107.0,5
+2020-03-02,Montana,Outdoors & Recreation,92.0,87.0,92.0,6
+2020-03-02,Montana,Hotel,77.0,77.0,77.0,7
+2020-03-02,Montana,Medical,58.0,62.0,57.0,8
+2020-03-02,Montana,Fast Food Restaurants,109.0,111.0,109.0,9
+2020-03-02,Montana,Big Box Stores,116.0,112.0,116.0,10
+2020-03-02,Montana,Colleges & Universities,111.0,114.0,111.0,11
+2020-03-02,Montana,School,79.0,86.0,79.0,12
+2020-03-02,Montana,Professional & Other Places,52.0,66.0,51.0,13
+2020-03-02,Montana,Arts & Entertainment,88.0,98.0,87.0,14
+2020-03-02,Montana,Hardware Stores,122.0,128.0,121.0,15
+2020-03-02,Montana,Airport,81.0,89.0,80.0,16
+2020-03-02,Montana,Skiing,68.0,85.0,67.0,17
+2020-03-02,Montana,Fitness Center,68.0,76.0,68.0,18
+2020-03-02,Montana,Convenience Store,99.0,92.0,100.0,19
+2020-03-02,Montana,Travel & Transport,132.0,123.0,133.0,20
+2020-03-02,Montana,Government,82.0,107.0,81.0,21
+2020-03-02,Montana,Sports,42.0,44.0,42.0,22
+2020-03-02,Montana,Office,81.0,86.0,80.0,23
+2020-03-02,Montana,Drug Store,100.0,80.0,102.0,24
+2020-03-02,Montana,Banks,126.0,"",130.0,25
+2020-03-02,Montana,Residences,100.0,"",101.0,26
+2020-03-03,Montana,Food,62.0,63.0,61.0,1
+2020-03-03,Montana,Shops & Services,78.0,81.0,78.0,2
+2020-03-03,Montana,Nightlife Spots,78.0,78.0,78.0,3
+2020-03-03,Montana,Gas Stations,103.0,104.0,103.0,4
+2020-03-03,Montana,Grocery,106.0,101.0,106.0,5
+2020-03-03,Montana,Outdoors & Recreation,76.0,71.0,76.0,6
+2020-03-03,Montana,Hotel,76.0,66.0,76.0,7
+2020-03-03,Montana,Medical,51.0,44.0,51.0,8
+2020-03-03,Montana,Fast Food Restaurants,110.0,110.0,110.0,9
+2020-03-03,Montana,Big Box Stores,119.0,111.0,119.0,10
+2020-03-03,Montana,School,67.0,71.0,66.0,11
+2020-03-03,Montana,Colleges & Universities,90.0,120.0,90.0,12
+2020-03-03,Montana,Arts & Entertainment,102.0,106.0,102.0,13
+2020-03-03,Montana,Professional & Other Places,60.0,55.0,60.0,14
+2020-03-03,Montana,Hardware Stores,105.0,92.0,107.0,15
+2020-03-03,Montana,Fitness Center,68.0,67.0,68.0,16
+2020-03-03,Montana,Convenience Store,111.0,106.0,111.0,17
+2020-03-03,Montana,Airport,83.0,71.0,84.0,18
+2020-03-03,Montana,Government,82.0,91.0,82.0,19
+2020-03-03,Montana,Skiing,56.0,43.0,57.0,20
+2020-03-03,Montana,Sports,46.0,59.0,45.0,21
+2020-03-03,Montana,Travel & Transport,130.0,168.0,128.0,22
+2020-03-03,Montana,Drug Store,116.0,113.0,116.0,23
+2020-03-03,Montana,Office,79.0,82.0,78.0,24
+2020-03-03,Montana,Banks,125.0,122.0,125.0,25
+2020-03-03,Montana,Residences,112.0,"",113.0,26
+2020-03-04,Montana,Food,51.0,51.0,51.0,1
+2020-03-04,Montana,Shops & Services,76.0,79.0,75.0,2
+2020-03-04,Montana,Nightlife Spots,66.0,69.0,66.0,3
+2020-03-04,Montana,Gas Stations,100.0,101.0,100.0,4
+2020-03-04,Montana,Grocery,102.0,102.0,102.0,5
+2020-03-04,Montana,Hotel,80.0,79.0,81.0,6
+2020-03-04,Montana,Outdoors & Recreation,78.0,76.0,79.0,7
+2020-03-04,Montana,Medical,59.0,59.0,59.0,8
+2020-03-04,Montana,Fast Food Restaurants,101.0,104.0,101.0,9
+2020-03-04,Montana,School,66.0,65.0,66.0,10
+2020-03-04,Montana,Colleges & Universities,87.0,81.0,87.0,11
+2020-03-04,Montana,Big Box Stores,100.0,96.0,100.0,12
+2020-03-04,Montana,Professional & Other Places,61.0,55.0,62.0,13
+2020-03-04,Montana,Arts & Entertainment,94.0,89.0,94.0,14
+2020-03-04,Montana,Fitness Center,76.0,75.0,76.0,15
+2020-03-04,Montana,Hardware Stores,118.0,114.0,118.0,16
+2020-03-04,Montana,Convenience Store,108.0,80.0,110.0,17
+2020-03-04,Montana,Airport,83.0,83.0,83.0,18
+2020-03-04,Montana,Travel & Transport,128.0,132.0,127.0,19
+2020-03-04,Montana,Government,78.0,"",79.0,19
+2020-03-04,Montana,Sports,38.0,53.0,36.0,20
+2020-03-04,Montana,Drug Store,107.0,99.0,107.0,21
+2020-03-04,Montana,Skiing,49.0,47.0,49.0,22
+2020-03-04,Montana,Office,71.0,71.0,71.0,23
+2020-03-04,Montana,Banks,121.0,163.0,118.0,24
+2020-03-04,Montana,Residences,97.0,"",98.0,25
+2020-03-05,Montana,Food,58.0,61.0,58.0,1
+2020-03-05,Montana,Shops & Services,83.0,91.0,83.0,2
+2020-03-05,Montana,Nightlife Spots,64.0,65.0,64.0,3
+2020-03-05,Montana,Gas Stations,102.0,97.0,102.0,4
+2020-03-05,Montana,Grocery,109.0,109.0,110.0,5
+2020-03-05,Montana,Outdoors & Recreation,89.0,82.0,89.0,6
+2020-03-05,Montana,Hotel,74.0,75.0,74.0,7
+2020-03-05,Montana,Medical,52.0,49.0,52.0,8
+2020-03-05,Montana,Fast Food Restaurants,103.0,99.0,103.0,9
+2020-03-05,Montana,Colleges & Universities,102.0,113.0,102.0,10
+2020-03-05,Montana,School,62.0,63.0,62.0,11
+2020-03-05,Montana,Big Box Stores,94.0,93.0,94.0,12
+2020-03-05,Montana,Arts & Entertainment,109.0,104.0,109.0,13
+2020-03-05,Montana,Professional & Other Places,41.0,49.0,41.0,14
+2020-03-05,Montana,Hardware Stores,110.0,103.0,110.0,15
+2020-03-05,Montana,Fitness Center,69.0,59.0,70.0,16
+2020-03-05,Montana,Skiing,64.0,62.0,64.0,17
+2020-03-05,Montana,Convenience Store,97.0,104.0,97.0,18
+2020-03-05,Montana,Airport,72.0,95.0,71.0,19
+2020-03-05,Montana,Government,68.0,61.0,69.0,20
+2020-03-05,Montana,Sports,44.0,56.0,43.0,21
+2020-03-05,Montana,Travel & Transport,123.0,131.0,122.0,22
+2020-03-05,Montana,Drug Store,105.0,112.0,105.0,23
+2020-03-05,Montana,Office,77.0,70.0,77.0,24
+2020-03-05,Montana,Banks,122.0,118.0,122.0,25
+2020-03-05,Montana,Residences,105.0,"",106.0,26
+2020-03-06,Montana,Food,56.0,56.0,56.0,1
+2020-03-06,Montana,Shops & Services,74.0,72.0,74.0,2
+2020-03-06,Montana,Nightlife Spots,75.0,77.0,75.0,3
+2020-03-06,Montana,Gas Stations,105.0,100.0,105.0,4
+2020-03-06,Montana,Grocery,98.0,93.0,98.0,5
+2020-03-06,Montana,Outdoors & Recreation,83.0,76.0,84.0,6
+2020-03-06,Montana,Hotel,83.0,82.0,83.0,7
+2020-03-06,Montana,Fast Food Restaurants,100.0,95.0,100.0,8
+2020-03-06,Montana,Medical,56.0,53.0,56.0,9
+2020-03-06,Montana,Big Box Stores,97.0,83.0,97.0,10
+2020-03-06,Montana,Colleges & Universities,100.0,122.0,100.0,11
+2020-03-06,Montana,Arts & Entertainment,99.0,104.0,99.0,12
+2020-03-06,Montana,School,57.0,54.0,57.0,13
+2020-03-06,Montana,Professional & Other Places,65.0,65.0,65.0,14
+2020-03-06,Montana,Skiing,69.0,44.0,70.0,15
+2020-03-06,Montana,Hardware Stores,103.0,101.0,104.0,16
+2020-03-06,Montana,Convenience Store,99.0,93.0,99.0,17
+2020-03-06,Montana,Fitness Center,73.0,88.0,73.0,18
+2020-03-06,Montana,Airport,70.0,100.0,69.0,19
+2020-03-06,Montana,Sports,46.0,54.0,46.0,20
+2020-03-06,Montana,Government,71.0,73.0,71.0,21
+2020-03-06,Montana,Travel & Transport,102.0,122.0,102.0,22
+2020-03-06,Montana,Office,87.0,"",87.0,23
+2020-03-06,Montana,Banks,131.0,151.0,130.0,24
+2020-03-06,Montana,Drug Store,87.0,70.0,89.0,24
+2020-03-06,Montana,Residences,106.0,"",109.0,25
+2020-03-07,Montana,Food,54.0,58.0,54.0,1
+2020-03-07,Montana,Shops & Services,70.0,68.0,70.0,2
+2020-03-07,Montana,Nightlife Spots,65.0,68.0,65.0,3
+2020-03-07,Montana,Gas Stations,103.0,107.0,103.0,4
+2020-03-07,Montana,Grocery,92.0,92.0,92.0,5
+2020-03-07,Montana,Outdoors & Recreation,90.0,91.0,90.0,6
+2020-03-07,Montana,Hotel,79.0,65.0,79.0,7
+2020-03-07,Montana,Fast Food Restaurants,112.0,122.0,111.0,8
+2020-03-07,Montana,Big Box Stores,93.0,91.0,93.0,9
+2020-03-07,Montana,Arts & Entertainment,120.0,113.0,121.0,10
+2020-03-07,Montana,School,71.0,71.0,71.0,11
+2020-03-07,Montana,Hardware Stores,115.0,107.0,115.0,12
+2020-03-07,Montana,Professional & Other Places,59.0,51.0,60.0,13
+2020-03-07,Montana,Skiing,64.0,57.0,65.0,14
+2020-03-07,Montana,Medical,68.0,49.0,69.0,15
+2020-03-07,Montana,Airport,82.0,76.0,82.0,16
+2020-03-07,Montana,Colleges & Universities,120.0,150.0,119.0,17
+2020-03-07,Montana,Convenience Store,100.0,101.0,100.0,18
+2020-03-07,Montana,Fitness Center,72.0,66.0,72.0,19
+2020-03-07,Montana,Sports,55.0,52.0,56.0,20
+2020-03-07,Montana,Travel & Transport,124.0,"",124.0,21
+2020-03-07,Montana,Drug Store,87.0,122.0,85.0,22
+2020-03-07,Montana,Residences,122.0,"",121.0,23
+2020-03-07,Montana,Government,82.0,"",82.0,24
+2020-03-07,Montana,Office,98.0,"",97.0,25
+2020-03-08,Montana,Food,52.0,51.0,52.0,1
+2020-03-08,Montana,Shops & Services,76.0,77.0,76.0,2
+2020-03-08,Montana,Nightlife Spots,76.0,70.0,76.0,3
+2020-03-08,Montana,Gas Stations,106.0,100.0,106.0,4
+2020-03-08,Montana,Grocery,102.0,105.0,101.0,5
+2020-03-08,Montana,Outdoors & Recreation,91.0,78.0,91.0,6
+2020-03-08,Montana,Hotel,79.0,61.0,80.0,7
+2020-03-08,Montana,Big Box Stores,110.0,90.0,111.0,8
+2020-03-08,Montana,Fast Food Restaurants,105.0,110.0,104.0,9
+2020-03-08,Montana,Arts & Entertainment,113.0,120.0,113.0,10
+2020-03-08,Montana,School,85.0,88.0,85.0,11
+2020-03-08,Montana,Skiing,59.0,56.0,59.0,12
+2020-03-08,Montana,Professional & Other Places,57.0,51.0,58.0,13
+2020-03-08,Montana,Hardware Stores,111.0,117.0,111.0,14
+2020-03-08,Montana,Medical,69.0,80.0,69.0,15
+2020-03-08,Montana,Convenience Store,104.0,121.0,103.0,16
+2020-03-08,Montana,Airport,87.0,90.0,87.0,17
+2020-03-08,Montana,Colleges & Universities,100.0,"",100.0,18
+2020-03-08,Montana,Sports,56.0,50.0,56.0,19
+2020-03-08,Montana,Travel & Transport,122.0,"",122.0,20
+2020-03-08,Montana,Drug Store,121.0,136.0,120.0,21
+2020-03-08,Montana,Fitness Center,72.0,"",73.0,22
+2020-03-08,Montana,Residences,113.0,"",113.0,23
+2020-03-09,Montana,Food,55.0,54.0,55.0,1
+2020-03-09,Montana,Shops & Services,88.0,86.0,88.0,2
+2020-03-09,Montana,Nightlife Spots,57.0,54.0,58.0,3
+2020-03-09,Montana,Gas Stations,105.0,110.0,104.0,4
+2020-03-09,Montana,Grocery,108.0,99.0,109.0,5
+2020-03-09,Montana,Outdoors & Recreation,90.0,92.0,90.0,6
+2020-03-09,Montana,Hotel,75.0,67.0,75.0,7
+2020-03-09,Montana,Fast Food Restaurants,108.0,101.0,109.0,8
+2020-03-09,Montana,Medical,54.0,58.0,54.0,9
+2020-03-09,Montana,Big Box Stores,114.0,97.0,115.0,10
+2020-03-09,Montana,School,83.0,84.0,83.0,11
+2020-03-09,Montana,Colleges & Universities,97.0,110.0,97.0,12
+2020-03-09,Montana,Arts & Entertainment,96.0,96.0,96.0,13
+2020-03-09,Montana,Professional & Other Places,49.0,50.0,49.0,14
+2020-03-09,Montana,Hardware Stores,114.0,123.0,113.0,15
+2020-03-09,Montana,Convenience Store,113.0,94.0,114.0,16
+2020-03-09,Montana,Fitness Center,72.0,77.0,72.0,17
+2020-03-09,Montana,Airport,78.0,63.0,79.0,18
+2020-03-09,Montana,Skiing,60.0,84.0,59.0,19
+2020-03-09,Montana,Travel & Transport,127.0,"",129.0,20
+2020-03-09,Montana,Government,78.0,"",79.0,21
+2020-03-09,Montana,Sports,41.0,41.0,41.0,22
+2020-03-09,Montana,Drug Store,117.0,94.0,120.0,23
+2020-03-09,Montana,Office,84.0,"",85.0,24
+2020-03-09,Montana,Banks,134.0,142.0,133.0,25
+2020-03-09,Montana,Residences,95.0,"",95.0,26
+2020-03-10,Montana,Food,55.0,52.0,55.0,1
+2020-03-10,Montana,Shops & Services,80.0,83.0,79.0,2
+2020-03-10,Montana,Nightlife Spots,77.0,72.0,77.0,3
+2020-03-10,Montana,Gas Stations,104.0,108.0,104.0,4
+2020-03-10,Montana,Grocery,106.0,100.0,106.0,5
+2020-03-10,Montana,Outdoors & Recreation,83.0,76.0,84.0,6
+2020-03-10,Montana,Hotel,75.0,59.0,76.0,7
+2020-03-10,Montana,Medical,52.0,48.0,52.0,8
+2020-03-10,Montana,Fast Food Restaurants,100.0,95.0,101.0,9
+2020-03-10,Montana,School,71.0,81.0,71.0,10
+2020-03-10,Montana,Big Box Stores,105.0,94.0,106.0,11
+2020-03-10,Montana,Colleges & Universities,87.0,85.0,87.0,12
+2020-03-10,Montana,Arts & Entertainment,113.0,96.0,114.0,13
+2020-03-10,Montana,Professional & Other Places,62.0,58.0,63.0,14
+2020-03-10,Montana,Hardware Stores,118.0,124.0,117.0,15
+2020-03-10,Montana,Fitness Center,65.0,58.0,65.0,16
+2020-03-10,Montana,Convenience Store,114.0,94.0,115.0,17
+2020-03-10,Montana,Skiing,68.0,53.0,69.0,18
+2020-03-10,Montana,Airport,76.0,53.0,78.0,19
+2020-03-10,Montana,Government,71.0,"",71.0,20
+2020-03-10,Montana,Sports,46.0,58.0,45.0,21
+2020-03-10,Montana,Office,89.0,87.0,89.0,22
+2020-03-10,Montana,Travel & Transport,114.0,"",114.0,23
+2020-03-10,Montana,Drug Store,104.0,96.0,105.0,24
+2020-03-10,Montana,Banks,106.0,132.0,104.0,25
+2020-03-10,Montana,Residences,107.0,"",109.0,26
+2020-03-11,Montana,Food,56.0,54.0,56.0,1
+2020-03-11,Montana,Shops & Services,72.0,75.0,72.0,2
+2020-03-11,Montana,Nightlife Spots,68.0,66.0,68.0,3
+2020-03-11,Montana,Gas Stations,103.0,116.0,103.0,4
+2020-03-11,Montana,Grocery,106.0,100.0,107.0,5
+2020-03-11,Montana,Hotel,79.0,69.0,80.0,6
+2020-03-11,Montana,Outdoors & Recreation,78.0,72.0,79.0,7
+2020-03-11,Montana,Medical,60.0,60.0,60.0,8
+2020-03-11,Montana,Fast Food Restaurants,104.0,95.0,105.0,9
+2020-03-11,Montana,School,69.0,70.0,69.0,10
+2020-03-11,Montana,Big Box Stores,99.0,102.0,99.0,11
+2020-03-11,Montana,Colleges & Universities,81.0,97.0,80.0,12
+2020-03-11,Montana,Arts & Entertainment,105.0,103.0,105.0,13
+2020-03-11,Montana,Professional & Other Places,43.0,43.0,43.0,14
+2020-03-11,Montana,Hardware Stores,112.0,102.0,113.0,15
+2020-03-11,Montana,Airport,89.0,102.0,88.0,16
+2020-03-11,Montana,Fitness Center,66.0,60.0,66.0,17
+2020-03-11,Montana,Convenience Store,100.0,90.0,101.0,18
+2020-03-11,Montana,Skiing,61.0,58.0,61.0,19
+2020-03-11,Montana,Travel & Transport,129.0,137.0,129.0,20
+2020-03-11,Montana,Drug Store,125.0,133.0,124.0,21
+2020-03-11,Montana,Government,73.0,72.0,73.0,22
+2020-03-11,Montana,Sports,39.0,42.0,39.0,23
+2020-03-11,Montana,Office,75.0,"",76.0,24
+2020-03-11,Montana,Banks,119.0,142.0,117.0,25
+2020-03-11,Montana,Residences,92.0,"",94.0,26
+2020-03-12,Montana,Food,59.0,58.0,59.0,1
+2020-03-12,Montana,Shops & Services,95.0,91.0,95.0,2
+2020-03-12,Montana,Nightlife Spots,66.0,62.0,67.0,3
+2020-03-12,Montana,Gas Stations,104.0,98.0,105.0,4
+2020-03-12,Montana,Grocery,114.0,116.0,114.0,5
+2020-03-12,Montana,Outdoors & Recreation,85.0,80.0,85.0,6
+2020-03-12,Montana,Hotel,72.0,58.0,73.0,7
+2020-03-12,Montana,Fast Food Restaurants,104.0,107.0,104.0,8
+2020-03-12,Montana,Medical,52.0,44.0,53.0,9
+2020-03-12,Montana,Big Box Stores,113.0,106.0,113.0,10
+2020-03-12,Montana,School,62.0,69.0,62.0,11
+2020-03-12,Montana,Colleges & Universities,95.0,135.0,94.0,12
+2020-03-12,Montana,Arts & Entertainment,103.0,109.0,102.0,13
+2020-03-12,Montana,Professional & Other Places,103.0,83.0,104.0,14
+2020-03-12,Montana,Hardware Stores,104.0,96.0,104.0,15
+2020-03-12,Montana,Convenience Store,106.0,99.0,106.0,16
+2020-03-12,Montana,Airport,80.0,65.0,81.0,17
+2020-03-12,Montana,Fitness Center,60.0,62.0,60.0,18
+2020-03-12,Montana,Drug Store,140.0,114.0,143.0,19
+2020-03-12,Montana,Skiing,53.0,43.0,53.0,20
+2020-03-12,Montana,Government,72.0,"",73.0,21
+2020-03-12,Montana,Sports,42.0,49.0,41.0,22
+2020-03-12,Montana,Travel & Transport,123.0,"",124.0,23
+2020-03-12,Montana,Office,77.0,"",79.0,24
+2020-03-12,Montana,Residences,113.0,"",114.0,25
+2020-03-12,Montana,Banks,103.0,116.0,102.0,26
+2020-03-13,Montana,Food,59.0,51.0,59.0,1
+2020-03-13,Montana,Shops & Services,78.0,72.0,79.0,2
+2020-03-13,Montana,Nightlife Spots,64.0,55.0,64.0,3
+2020-03-13,Montana,Grocery,128.0,118.0,129.0,4
+2020-03-13,Montana,Gas Stations,106.0,91.0,107.0,5
+2020-03-13,Montana,Hotel,81.0,56.0,83.0,6
+2020-03-13,Montana,Outdoors & Recreation,64.0,50.0,65.0,7
+2020-03-13,Montana,Big Box Stores,128.0,116.0,128.0,8
+2020-03-13,Montana,Fast Food Restaurants,105.0,86.0,106.0,9
+2020-03-13,Montana,Medical,56.0,51.0,56.0,10
+2020-03-13,Montana,School,58.0,53.0,58.0,11
+2020-03-13,Montana,Arts & Entertainment,102.0,86.0,103.0,12
+2020-03-13,Montana,Colleges & Universities,89.0,91.0,89.0,13
+2020-03-13,Montana,Professional & Other Places,46.0,41.0,47.0,14
+2020-03-13,Montana,Hardware Stores,132.0,107.0,134.0,15
+2020-03-13,Montana,Airport,85.0,80.0,86.0,16
+2020-03-13,Montana,Convenience Store,101.0,83.0,102.0,17
+2020-03-13,Montana,Skiing,55.0,32.0,57.0,18
+2020-03-13,Montana,Drug Store,123.0,102.0,125.0,19
+2020-03-13,Montana,Fitness Center,59.0,51.0,59.0,20
+2020-03-13,Montana,Government,69.0,65.0,69.0,21
+2020-03-13,Montana,Sports,41.0,51.0,41.0,22
+2020-03-13,Montana,Travel & Transport,108.0,"",109.0,23
+2020-03-13,Montana,Office,79.0,"",80.0,24
+2020-03-13,Montana,Banks,101.0,130.0,99.0,25
+2020-03-13,Montana,Residences,107.0,"",111.0,26
+2020-03-14,Montana,Food,48.0,42.0,48.0,1
+2020-03-14,Montana,Shops & Services,75.0,61.0,76.0,2
+2020-03-14,Montana,Nightlife Spots,61.0,47.0,62.0,3
+2020-03-14,Montana,Grocery,122.0,95.0,123.0,4
+2020-03-14,Montana,Gas Stations,94.0,84.0,95.0,5
+2020-03-14,Montana,Hotel,70.0,58.0,70.0,6
+2020-03-14,Montana,Big Box Stores,101.0,91.0,101.0,7
+2020-03-14,Montana,Outdoors & Recreation,62.0,48.0,63.0,8
+2020-03-14,Montana,Fast Food Restaurants,77.0,63.0,77.0,9
+2020-03-14,Montana,Arts & Entertainment,85.0,58.0,86.0,10
+2020-03-14,Montana,Hardware Stores,102.0,86.0,103.0,11
+2020-03-14,Montana,School,44.0,46.0,44.0,12
+2020-03-14,Montana,Professional & Other Places,69.0,49.0,70.0,13
+2020-03-14,Montana,Airport,78.0,58.0,79.0,14
+2020-03-14,Montana,Convenience Store,102.0,"",103.0,15
+2020-03-14,Montana,Medical,48.0,36.0,49.0,16
+2020-03-14,Montana,Drug Store,111.0,102.0,112.0,17
+2020-03-14,Montana,Travel & Transport,119.0,"",119.0,18
+2020-03-14,Montana,Colleges & Universities,87.0,"",87.0,19
+2020-03-14,Montana,Skiing,33.0,"",34.0,20
+2020-03-14,Montana,Sports,37.0,35.0,37.0,21
+2020-03-14,Montana,Fitness Center,53.0,70.0,53.0,22
+2020-03-14,Montana,Residences,102.0,"",101.0,23
+2020-03-14,Montana,Government,77.0,"",77.0,24
+2020-03-15,Montana,Food,47.0,45.0,47.0,1
+2020-03-15,Montana,Nightlife Spots,64.0,56.0,64.0,2
+2020-03-15,Montana,Shops & Services,60.0,52.0,60.0,3
+2020-03-15,Montana,Grocery,98.0,84.0,99.0,4
+2020-03-15,Montana,Gas Stations,92.0,83.0,92.0,5
+2020-03-15,Montana,Outdoors & Recreation,75.0,62.0,76.0,6
+2020-03-15,Montana,Hotel,67.0,54.0,68.0,7
+2020-03-15,Montana,Big Box Stores,83.0,73.0,83.0,8
+2020-03-15,Montana,Fast Food Restaurants,78.0,65.0,78.0,9
+2020-03-15,Montana,Arts & Entertainment,75.0,67.0,76.0,10
+2020-03-15,Montana,Skiing,61.0,60.0,61.0,11
+2020-03-15,Montana,Hardware Stores,93.0,86.0,94.0,12
+2020-03-15,Montana,Convenience Store,103.0,"",104.0,13
+2020-03-15,Montana,Medical,58.0,"",59.0,14
+2020-03-15,Montana,School,63.0,63.0,63.0,15
+2020-03-15,Montana,Airport,80.0,78.0,80.0,16
+2020-03-15,Montana,Professional & Other Places,42.0,51.0,41.0,17
+2020-03-15,Montana,Travel & Transport,115.0,"",116.0,18
+2020-03-15,Montana,Drug Store,115.0,"",116.0,19
+2020-03-15,Montana,Sports,38.0,"",38.0,20
+2020-03-15,Montana,Fitness Center,54.0,"",55.0,21
+2020-03-15,Montana,Colleges & Universities,65.0,"",65.0,22
+2020-03-15,Montana,Residences,97.0,"",97.0,23
+2020-03-16,Montana,Food,46.0,40.0,46.0,1
+2020-03-16,Montana,Shops & Services,97.0,83.0,99.0,2
+2020-03-16,Montana,Grocery,138.0,136.0,139.0,3
+2020-03-16,Montana,Gas Stations,112.0,103.0,112.0,4
+2020-03-16,Montana,Nightlife Spots,66.0,58.0,67.0,5
+2020-03-16,Montana,Outdoors & Recreation,79.0,72.0,80.0,6
+2020-03-16,Montana,Hotel,65.0,48.0,66.0,7
+2020-03-16,Montana,Big Box Stores,119.0,110.0,120.0,8
+2020-03-16,Montana,Medical,50.0,44.0,51.0,9
+2020-03-16,Montana,Fast Food Restaurants,98.0,80.0,99.0,10
+2020-03-16,Montana,Professional & Other Places,49.0,53.0,49.0,11
+2020-03-16,Montana,Arts & Entertainment,98.0,98.0,98.0,12
+2020-03-16,Montana,Hardware Stores,131.0,112.0,132.0,13
+2020-03-16,Montana,School,53.0,65.0,52.0,14
+2020-03-16,Montana,Convenience Store,113.0,111.0,113.0,15
+2020-03-16,Montana,Airport,68.0,"",69.0,16
+2020-03-16,Montana,Colleges & Universities,47.0,"",46.0,17
+2020-03-16,Montana,Travel & Transport,129.0,"",130.0,18
+2020-03-16,Montana,Government,84.0,"",84.0,19
+2020-03-16,Montana,Drug Store,117.0,84.0,121.0,20
+2020-03-16,Montana,Sports,49.0,55.0,49.0,20
+2020-03-16,Montana,Fitness Center,46.0,45.0,47.0,21
+2020-03-16,Montana,Banks,130.0,114.0,131.0,22
+2020-03-16,Montana,Office,69.0,"",69.0,23
+2020-03-16,Montana,Residences,109.0,"",111.0,24
+2020-03-17,Montana,Food,43.0,36.0,43.0,1
+2020-03-17,Montana,Shops & Services,69.0,60.0,70.0,2
+2020-03-17,Montana,Grocery,121.0,109.0,122.0,3
+2020-03-17,Montana,Nightlife Spots,59.0,44.0,60.0,4
+2020-03-17,Montana,Gas Stations,98.0,90.0,98.0,5
+2020-03-17,Montana,Outdoors & Recreation,73.0,66.0,74.0,6
+2020-03-17,Montana,Hotel,64.0,51.0,65.0,7
+2020-03-17,Montana,Big Box Stores,104.0,94.0,105.0,8
+2020-03-17,Montana,Medical,39.0,30.0,40.0,9
+2020-03-17,Montana,Fast Food Restaurants,79.0,67.0,80.0,10
+2020-03-17,Montana,Professional & Other Places,42.0,43.0,42.0,11
+2020-03-17,Montana,School,37.0,36.0,37.0,12
+2020-03-17,Montana,Arts & Entertainment,71.0,56.0,72.0,13
+2020-03-17,Montana,Hardware Stores,104.0,93.0,105.0,14
+2020-03-17,Montana,Convenience Store,112.0,95.0,113.0,15
+2020-03-17,Montana,Airport,66.0,46.0,67.0,16
+2020-03-17,Montana,Government,67.0,"",67.0,17
+2020-03-17,Montana,Sports,36.0,34.0,37.0,18
+2020-03-17,Montana,Drug Store,107.0,75.0,110.0,19
+2020-03-17,Montana,Travel & Transport,112.0,147.0,110.0,20
+2020-03-17,Montana,Fitness Center,36.0,"",37.0,21
+2020-03-17,Montana,Colleges & Universities,41.0,"",41.0,22
+2020-03-17,Montana,Office,64.0,"",64.0,23
+2020-03-17,Montana,Residences,98.0,"",100.0,24
+2020-03-17,Montana,Banks,86.0,"",86.0,25
+2020-03-18,Montana,Food,35.0,29.0,36.0,1
+2020-03-18,Montana,Shops & Services,69.0,55.0,70.0,2
+2020-03-18,Montana,Gas Stations,92.0,89.0,92.0,3
+2020-03-18,Montana,Nightlife Spots,50.0,41.0,50.0,4
+2020-03-18,Montana,Grocery,104.0,96.0,104.0,5
+2020-03-18,Montana,Outdoors & Recreation,92.0,88.0,92.0,6
+2020-03-18,Montana,Hotel,58.0,47.0,59.0,7
+2020-03-18,Montana,Medical,41.0,37.0,41.0,8
+2020-03-18,Montana,Fast Food Restaurants,72.0,63.0,73.0,9
+2020-03-18,Montana,Big Box Stores,88.0,79.0,88.0,10
+2020-03-18,Montana,School,41.0,44.0,41.0,11
+2020-03-18,Montana,Professional & Other Places,53.0,43.0,53.0,12
+2020-03-18,Montana,Hardware Stores,109.0,82.0,111.0,13
+2020-03-18,Montana,Arts & Entertainment,67.0,57.0,68.0,14
+2020-03-18,Montana,Convenience Store,83.0,85.0,83.0,15
+2020-03-18,Montana,Drug Store,106.0,87.0,108.0,16
+2020-03-18,Montana,Travel & Transport,105.0,"",106.0,17
+2020-03-18,Montana,Sports,34.0,30.0,35.0,18
+2020-03-18,Montana,Airport,53.0,"",54.0,19
+2020-03-18,Montana,Government,60.0,"",60.0,20
+2020-03-18,Montana,Colleges & Universities,28.0,"",27.0,21
+2020-03-18,Montana,Office,62.0,"",63.0,22
+2020-03-18,Montana,Fitness Center,30.0,"",30.0,23
+2020-03-18,Montana,Banks,79.0,"",79.0,24
+2020-03-19,Montana,Food,34.0,31.0,34.0,1
+2020-03-19,Montana,Shops & Services,61.0,55.0,61.0,2
+2020-03-19,Montana,Gas Stations,82.0,73.0,82.0,3
+2020-03-19,Montana,Grocery,93.0,82.0,94.0,4
+2020-03-19,Montana,Nightlife Spots,43.0,41.0,43.0,5
+2020-03-19,Montana,Outdoors & Recreation,74.0,66.0,74.0,6
+2020-03-19,Montana,Hotel,56.0,46.0,57.0,7
+2020-03-19,Montana,Fast Food Restaurants,64.0,50.0,65.0,8
+2020-03-19,Montana,Big Box Stores,75.0,64.0,75.0,9
+2020-03-19,Montana,Medical,31.0,24.0,32.0,10
+2020-03-19,Montana,Professional & Other Places,30.0,31.0,30.0,11
+2020-03-19,Montana,Hardware Stores,97.0,101.0,96.0,12
+2020-03-19,Montana,School,36.0,43.0,35.0,13
+2020-03-19,Montana,Arts & Entertainment,59.0,45.0,59.0,14
+2020-03-19,Montana,Convenience Store,87.0,81.0,87.0,15
+2020-03-19,Montana,Government,58.0,"",58.0,16
+2020-03-19,Montana,Drug Store,97.0,71.0,100.0,17
+2020-03-19,Montana,Sports,40.0,34.0,40.0,18
+2020-03-19,Montana,Colleges & Universities,32.0,"",31.0,19
+2020-03-19,Montana,Travel & Transport,103.0,"",103.0,20
+2020-03-19,Montana,Airport,44.0,"",45.0,21
+2020-03-19,Montana,Office,53.0,"",53.0,22
+2020-03-19,Montana,Fitness Center,26.0,"",26.0,23
+2020-03-20,Montana,Food,35.0,32.0,35.0,1
+2020-03-20,Montana,Shops & Services,77.0,63.0,78.0,2
+2020-03-20,Montana,Gas Stations,89.0,84.0,89.0,3
+2020-03-20,Montana,Grocery,95.0,83.0,96.0,4
+2020-03-20,Montana,Nightlife Spots,40.0,35.0,41.0,5
+2020-03-20,Montana,Outdoors & Recreation,78.0,66.0,79.0,6
+2020-03-20,Montana,Hotel,50.0,42.0,50.0,7
+2020-03-20,Montana,Fast Food Restaurants,72.0,55.0,72.0,8
+2020-03-20,Montana,Big Box Stores,78.0,51.0,80.0,9
+2020-03-20,Montana,Medical,36.0,33.0,36.0,10
+2020-03-20,Montana,Professional & Other Places,52.0,42.0,52.0,11
+2020-03-20,Montana,Hardware Stores,92.0,91.0,92.0,12
+2020-03-20,Montana,Arts & Entertainment,50.0,44.0,51.0,13
+2020-03-20,Montana,School,31.0,36.0,30.0,14
+2020-03-20,Montana,Convenience Store,86.0,73.0,87.0,15
+2020-03-20,Montana,Travel & Transport,109.0,119.0,109.0,16
+2020-03-20,Montana,Sports,39.0,41.0,39.0,17
+2020-03-20,Montana,Drug Store,84.0,62.0,87.0,18
+2020-03-20,Montana,Colleges & Universities,34.0,"",34.0,19
+2020-03-20,Montana,Government,55.0,"",54.0,20
+2020-03-20,Montana,Airport,43.0,"",44.0,21
+2020-03-20,Montana,Office,53.0,"",53.0,22
+2020-03-20,Montana,Banks,79.0,"",78.0,23
+2020-03-20,Montana,Fitness Center,30.0,"",30.0,24
+2020-03-20,Montana,Residences,73.0,"",76.0,25
+2020-03-21,Montana,Food,26.0,27.0,26.0,1
+2020-03-21,Montana,Shops & Services,63.0,61.0,64.0,2
+2020-03-21,Montana,Gas Stations,85.0,95.0,85.0,3
+2020-03-21,Montana,Grocery,88.0,75.0,89.0,4
+2020-03-21,Montana,Outdoors & Recreation,80.0,93.0,79.0,5
+2020-03-21,Montana,Nightlife Spots,31.0,36.0,31.0,6
+2020-03-21,Montana,Big Box Stores,71.0,67.0,71.0,7
+2020-03-21,Montana,Fast Food Restaurants,68.0,70.0,68.0,8
+2020-03-21,Montana,Hotel,41.0,39.0,41.0,9
+2020-03-21,Montana,Hardware Stores,102.0,86.0,103.0,10
+2020-03-21,Montana,School,41.0,32.0,41.0,11
+2020-03-21,Montana,Arts & Entertainment,55.0,54.0,55.0,12
+2020-03-21,Montana,Professional & Other Places,36.0,36.0,37.0,13
+2020-03-21,Montana,Convenience Store,91.0,94.0,91.0,14
+2020-03-21,Montana,Medical,40.0,"",40.0,15
+2020-03-21,Montana,Sports,39.0,36.0,39.0,16
+2020-03-21,Montana,Travel & Transport,101.0,161.0,99.0,17
+2020-03-21,Montana,Airport,45.0,"",46.0,18
+2020-03-21,Montana,Drug Store,66.0,"",66.0,19
+2020-03-21,Montana,Colleges & Universities,59.0,"",58.0,20
+2020-03-22,Montana,Food,24.0,25.0,24.0,1
+2020-03-22,Montana,Shops & Services,61.0,62.0,61.0,2
+2020-03-22,Montana,Gas Stations,79.0,74.0,79.0,3
+2020-03-22,Montana,Grocery,76.0,75.0,76.0,4
+2020-03-22,Montana,Outdoors & Recreation,92.0,91.0,93.0,5
+2020-03-22,Montana,Nightlife Spots,33.0,39.0,33.0,6
+2020-03-22,Montana,Big Box Stores,63.0,51.0,63.0,7
+2020-03-22,Montana,Fast Food Restaurants,69.0,70.0,69.0,8
+2020-03-22,Montana,Hotel,40.0,32.0,40.0,9
+2020-03-22,Montana,Hardware Stores,87.0,65.0,88.0,10
+2020-03-22,Montana,School,52.0,"",52.0,11
+2020-03-22,Montana,Arts & Entertainment,47.0,"",48.0,12
+2020-03-22,Montana,Professional & Other Places,64.0,"",65.0,13
+2020-03-22,Montana,Convenience Store,76.0,"",76.0,14
+2020-03-22,Montana,Sports,39.0,45.0,39.0,15
+2020-03-22,Montana,Medical,39.0,"",39.0,15
+2020-03-22,Montana,Travel & Transport,95.0,"",94.0,16
+2020-03-22,Montana,Airport,48.0,"",48.0,17
+2020-03-22,Montana,Colleges & Universities,63.0,"",61.0,18
+2020-03-22,Montana,Drug Store,66.0,"",67.0,19
+2020-03-23,Montana,Food,38.0,32.0,38.0,1
+2020-03-23,Montana,Shops & Services,58.0,51.0,59.0,2
+2020-03-23,Montana,Gas Stations,90.0,87.0,90.0,3
+2020-03-23,Montana,Grocery,92.0,88.0,92.0,4
+2020-03-23,Montana,Nightlife Spots,40.0,41.0,40.0,5
+2020-03-23,Montana,Outdoors & Recreation,70.0,68.0,70.0,6
+2020-03-23,Montana,Hotel,52.0,46.0,52.0,7
+2020-03-23,Montana,Fast Food Restaurants,78.0,75.0,78.0,8
+2020-03-23,Montana,Medical,37.0,33.0,37.0,9
+2020-03-23,Montana,Big Box Stores,79.0,77.0,79.0,10
+2020-03-23,Montana,Professional & Other Places,60.0,47.0,61.0,11
+2020-03-23,Montana,School,57.0,56.0,58.0,12
+2020-03-23,Montana,Hardware Stores,101.0,97.0,101.0,13
+2020-03-23,Montana,Arts & Entertainment,76.0,81.0,76.0,14
+2020-03-23,Montana,Convenience Store,91.0,77.0,91.0,15
+2020-03-23,Montana,Sports,46.0,57.0,45.0,16
+2020-03-23,Montana,Travel & Transport,118.0,164.0,115.0,17
+2020-03-23,Montana,Colleges & Universities,42.0,"",41.0,18
+2020-03-23,Montana,Government,69.0,93.0,68.0,19
+2020-03-23,Montana,Drug Store,100.0,66.0,103.0,20
+2020-03-23,Montana,Airport,46.0,"",46.0,21
+2020-03-23,Montana,Office,60.0,"",60.0,22
+2020-03-23,Montana,Fitness Center,27.0,"",28.0,23
+2020-03-24,Montana,Food,37.0,31.0,37.0,1
+2020-03-24,Montana,Shops & Services,66.0,53.0,67.0,2
+2020-03-24,Montana,Gas Stations,76.0,70.0,76.0,3
+2020-03-24,Montana,Grocery,84.0,84.0,84.0,4
+2020-03-24,Montana,Nightlife Spots,36.0,34.0,36.0,5
+2020-03-24,Montana,Outdoors & Recreation,78.0,75.0,78.0,6
+2020-03-24,Montana,Hotel,46.0,33.0,47.0,7
+2020-03-24,Montana,Fast Food Restaurants,78.0,64.0,78.0,8
+2020-03-24,Montana,Big Box Stores,82.0,83.0,82.0,9
+2020-03-24,Montana,Medical,31.0,28.0,31.0,10
+2020-03-24,Montana,School,36.0,40.0,35.0,11
+2020-03-24,Montana,Professional & Other Places,39.0,36.0,39.0,12
+2020-03-24,Montana,Hardware Stores,91.0,88.0,91.0,13
+2020-03-24,Montana,Arts & Entertainment,70.0,58.0,70.0,14
+2020-03-24,Montana,Convenience Store,91.0,81.0,91.0,15
+2020-03-24,Montana,Travel & Transport,111.0,144.0,110.0,16
+2020-03-24,Montana,Sports,32.0,37.0,32.0,17
+2020-03-24,Montana,Government,54.0,"",55.0,18
+2020-03-24,Montana,Colleges & Universities,31.0,"",30.0,19
+2020-03-24,Montana,Airport,40.0,"",41.0,20
+2020-03-24,Montana,Drug Store,73.0,"",75.0,21
+2020-03-24,Montana,Office,47.0,"",47.0,22
+2020-03-25,Montana,Food,28.0,25.0,29.0,1
+2020-03-25,Montana,Shops & Services,51.0,42.0,52.0,2
+2020-03-25,Montana,Gas Stations,81.0,73.0,81.0,3
+2020-03-25,Montana,Grocery,79.0,68.0,80.0,4
+2020-03-25,Montana,Nightlife Spots,34.0,34.0,34.0,5
+2020-03-25,Montana,Outdoors & Recreation,79.0,83.0,78.0,6
+2020-03-25,Montana,Hotel,45.0,36.0,45.0,7
+2020-03-25,Montana,Big Box Stores,82.0,73.0,83.0,8
+2020-03-25,Montana,Medical,33.0,23.0,34.0,9
+2020-03-25,Montana,Fast Food Restaurants,63.0,55.0,63.0,9
+2020-03-25,Montana,Professional & Other Places,35.0,29.0,35.0,10
+2020-03-25,Montana,School,34.0,42.0,34.0,11
+2020-03-25,Montana,Hardware Stores,97.0,74.0,99.0,12
+2020-03-25,Montana,Arts & Entertainment,59.0,45.0,60.0,13
+2020-03-25,Montana,Convenience Store,80.0,72.0,81.0,14
+2020-03-25,Montana,Travel & Transport,98.0,"",99.0,15
+2020-03-25,Montana,Colleges & Universities,29.0,"",28.0,16
+2020-03-25,Montana,Drug Store,82.0,"",85.0,17
+2020-03-25,Montana,Government,53.0,"",53.0,18
+2020-03-25,Montana,Sports,26.0,31.0,26.0,19
+2020-03-25,Montana,Airport,40.0,"",40.0,20
+2020-03-25,Montana,Office,45.0,"",46.0,21
+2020-03-26,Montana,Food,29.0,26.0,29.0,1
+2020-03-26,Montana,Shops & Services,65.0,54.0,66.0,2
+2020-03-26,Montana,Gas Stations,83.0,74.0,83.0,3
+2020-03-26,Montana,Grocery,84.0,77.0,84.0,4
+2020-03-26,Montana,Nightlife Spots,38.0,35.0,38.0,5
+2020-03-26,Montana,Outdoors & Recreation,91.0,88.0,92.0,6
+2020-03-26,Montana,Hotel,48.0,38.0,48.0,7
+2020-03-26,Montana,Big Box Stores,77.0,68.0,77.0,8
+2020-03-26,Montana,Fast Food Restaurants,65.0,58.0,65.0,9
+2020-03-26,Montana,Medical,29.0,23.0,30.0,10
+2020-03-26,Montana,Hardware Stores,98.0,100.0,98.0,11
+2020-03-26,Montana,Professional & Other Places,44.0,34.0,44.0,12
+2020-03-26,Montana,School,34.0,41.0,33.0,13
+2020-03-26,Montana,Arts & Entertainment,61.0,58.0,61.0,14
+2020-03-26,Montana,Convenience Store,77.0,80.0,77.0,15
+2020-03-26,Montana,Sports,37.0,30.0,37.0,16
+2020-03-26,Montana,Drug Store,89.0,58.0,93.0,17
+2020-03-26,Montana,Airport,46.0,60.0,45.0,18
+2020-03-26,Montana,Colleges & Universities,33.0,"",32.0,19
+2020-03-26,Montana,Travel & Transport,82.0,"",82.0,20
+2020-03-26,Montana,Government,47.0,"",48.0,21
+2020-03-26,Montana,Office,52.0,"",53.0,22
+2020-03-27,Montana,Shops & Services,56.0,57.0,56.0,1
+2020-03-27,Montana,Food,29.0,26.0,29.0,2
+2020-03-27,Montana,Grocery,99.0,101.0,99.0,3
+2020-03-27,Montana,Gas Stations,81.0,83.0,81.0,4
+2020-03-27,Montana,Nightlife Spots,34.0,37.0,34.0,5
+2020-03-27,Montana,Outdoors & Recreation,81.0,83.0,81.0,6
+2020-03-27,Montana,Big Box Stores,92.0,91.0,92.0,7
+2020-03-27,Montana,Fast Food Restaurants,69.0,79.0,69.0,8
+2020-03-27,Montana,Hotel,47.0,39.0,47.0,9
+2020-03-27,Montana,Medical,33.0,26.0,33.0,10
+2020-03-27,Montana,Hardware Stores,112.0,117.0,111.0,11
+2020-03-27,Montana,Professional & Other Places,46.0,37.0,46.0,12
+2020-03-27,Montana,School,33.0,31.0,33.0,13
+2020-03-27,Montana,Arts & Entertainment,55.0,44.0,56.0,14
+2020-03-27,Montana,Convenience Store,78.0,74.0,79.0,15
+2020-03-27,Montana,Sports,43.0,50.0,43.0,16
+2020-03-27,Montana,Travel & Transport,89.0,"",89.0,17
+2020-03-27,Montana,Drug Store,77.0,67.0,78.0,18
+2020-03-27,Montana,Colleges & Universities,25.0,"",25.0,19
+2020-03-27,Montana,Airport,32.0,"",32.0,20
+2020-03-27,Montana,Government,41.0,"",41.0,21
+2020-03-27,Montana,Office,54.0,"",54.0,22
+2020-03-28,Montana,Food,20.0,20.0,20.0,1
+2020-03-28,Montana,Shops & Services,41.0,37.0,41.0,2
+2020-03-28,Montana,Gas Stations,66.0,76.0,66.0,3
+2020-03-28,Montana,Grocery,64.0,59.0,65.0,4
+2020-03-28,Montana,Outdoors & Recreation,83.0,88.0,82.0,5
+2020-03-28,Montana,Nightlife Spots,25.0,30.0,24.0,6
+2020-03-28,Montana,Big Box Stores,50.0,45.0,50.0,7
+2020-03-28,Montana,Fast Food Restaurants,49.0,47.0,49.0,8
+2020-03-28,Montana,Hotel,34.0,33.0,34.0,9
+2020-03-28,Montana,Hardware Stores,61.0,55.0,62.0,10
+2020-03-28,Montana,School,33.0,"",33.0,11
+2020-03-28,Montana,Arts & Entertainment,39.0,"",40.0,12
+2020-03-28,Montana,Professional & Other Places,32.0,"",32.0,13
+2020-03-28,Montana,Medical,35.0,"",35.0,14
+2020-03-28,Montana,Convenience Store,67.0,"",67.0,15
+2020-03-28,Montana,Sports,33.0,38.0,33.0,16
+2020-03-28,Montana,Travel & Transport,88.0,"",87.0,17
+2020-03-28,Montana,Drug Store,53.0,"",53.0,18
+2020-03-28,Montana,Airport,31.0,"",32.0,19
+2020-03-29,Montana,Food,18.0,20.0,18.0,1
+2020-03-29,Montana,Shops & Services,50.0,53.0,50.0,2
+2020-03-29,Montana,Gas Stations,59.0,64.0,59.0,3
+2020-03-29,Montana,Outdoors & Recreation,72.0,75.0,72.0,4
+2020-03-29,Montana,Grocery,51.0,53.0,50.0,5
+2020-03-29,Montana,Nightlife Spots,25.0,30.0,25.0,6
+2020-03-29,Montana,Fast Food Restaurants,48.0,45.0,48.0,7
+2020-03-29,Montana,Big Box Stores,41.0,38.0,41.0,8
+2020-03-29,Montana,Hotel,30.0,29.0,30.0,9
+2020-03-29,Montana,Arts & Entertainment,51.0,"",51.0,10
+2020-03-29,Montana,School,45.0,"",46.0,11
+2020-03-29,Montana,Hardware Stores,62.0,69.0,61.0,12
+2020-03-29,Montana,Professional & Other Places,49.0,"",49.0,13
+2020-03-29,Montana,Sports,40.0,"",40.0,14
+2020-03-29,Montana,Convenience Store,54.0,"",54.0,15
+2020-03-29,Montana,Medical,31.0,"",31.0,16
+2020-03-29,Montana,Travel & Transport,85.0,"",86.0,17
+2020-03-30,Montana,Food,26.0,24.0,26.0,1
+2020-03-30,Montana,Shops & Services,44.0,41.0,44.0,2
+2020-03-30,Montana,Gas Stations,70.0,70.0,70.0,3
+2020-03-30,Montana,Grocery,71.0,77.0,71.0,4
+2020-03-30,Montana,Nightlife Spots,40.0,43.0,40.0,5
+2020-03-30,Montana,Outdoors & Recreation,68.0,70.0,68.0,6
+2020-03-30,Montana,Hotel,41.0,38.0,41.0,7
+2020-03-30,Montana,Fast Food Restaurants,60.0,56.0,61.0,8
+2020-03-30,Montana,Medical,30.0,26.0,30.0,9
+2020-03-30,Montana,Professional & Other Places,39.0,41.0,39.0,10
+2020-03-30,Montana,Big Box Stores,56.0,63.0,56.0,11
+2020-03-30,Montana,School,42.0,43.0,42.0,12
+2020-03-30,Montana,Hardware Stores,88.0,88.0,88.0,13
+2020-03-30,Montana,Arts & Entertainment,65.0,61.0,65.0,14
+2020-03-30,Montana,Convenience Store,73.0,"",73.0,15
+2020-03-30,Montana,Sports,40.0,49.0,40.0,16
+2020-03-30,Montana,Travel & Transport,92.0,"",91.0,17
+2020-03-30,Montana,Colleges & Universities,28.0,"",27.0,18
+2020-03-30,Montana,Airport,34.0,"",34.0,19
+2020-03-30,Montana,Drug Store,60.0,"",61.0,20
+2020-03-31,Montana,Food,24.0,21.0,24.0,1
+2020-03-31,Montana,Shops & Services,59.0,46.0,60.0,2
+2020-03-31,Montana,Gas Stations,65.0,57.0,66.0,3
+2020-03-31,Montana,Grocery,66.0,66.0,66.0,4
+2020-03-31,Montana,Nightlife Spots,34.0,28.0,34.0,5
+2020-03-31,Montana,Outdoors & Recreation,76.0,66.0,76.0,6
+2020-03-31,Montana,Hotel,37.0,30.0,38.0,7
+2020-03-31,Montana,Fast Food Restaurants,59.0,47.0,59.0,8
+2020-03-31,Montana,Medical,26.0,18.0,27.0,9
+2020-03-31,Montana,Big Box Stores,61.0,54.0,62.0,10
+2020-03-31,Montana,Professional & Other Places,47.0,43.0,47.0,11
+2020-03-31,Montana,School,26.0,31.0,26.0,12
+2020-03-31,Montana,Hardware Stores,77.0,66.0,78.0,13
+2020-03-31,Montana,Arts & Entertainment,56.0,"",56.0,14
+2020-03-31,Montana,Convenience Store,58.0,65.0,58.0,15
+2020-03-31,Montana,Travel & Transport,92.0,"",92.0,16
+2020-03-31,Montana,Sports,33.0,35.0,33.0,17
+2020-03-31,Montana,Colleges & Universities,24.0,"",23.0,18
+2020-03-31,Montana,Airport,32.0,"",34.0,19
+2020-03-31,Montana,Drug Store,64.0,"",65.0,20
+2020-03-31,Montana,Government,36.0,"",37.0,21
+2020-03-31,Montana,Office,48.0,"",48.0,22
+2020-04-01,Montana,Food,24.0,21.0,24.0,1
+2020-04-01,Montana,Shops & Services,55.0,44.0,55.0,2
+2020-04-01,Montana,Gas Stations,59.0,54.0,60.0,3
+2020-04-01,Montana,Grocery,62.0,52.0,62.0,4
+2020-04-01,Montana,Nightlife Spots,31.0,29.0,31.0,5
+2020-04-01,Montana,Outdoors & Recreation,59.0,56.0,59.0,6
+2020-04-01,Montana,Fast Food Restaurants,56.0,38.0,56.0,7
+2020-04-01,Montana,Hotel,34.0,21.0,35.0,8
+2020-04-01,Montana,Big Box Stores,61.0,47.0,61.0,9
+2020-04-01,Montana,Medical,25.0,22.0,26.0,10
+2020-04-01,Montana,Professional & Other Places,62.0,41.0,64.0,11
+2020-04-01,Montana,Arts & Entertainment,50.0,42.0,50.0,12
+2020-04-01,Montana,Hardware Stores,70.0,53.0,72.0,13
+2020-04-01,Montana,School,21.0,24.0,21.0,14
+2020-04-01,Montana,Convenience Store,61.0,"",60.0,15
+2020-04-01,Montana,Travel & Transport,77.0,"",77.0,16
+2020-04-01,Montana,Sports,27.0,34.0,26.0,17
+2020-04-01,Montana,Airport,34.0,"",35.0,18
+2020-04-01,Montana,Drug Store,59.0,"",59.0,19

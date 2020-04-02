@@ -1,0 +1,913 @@
+2020-03-01,SouthCarolina,Food,48.0,47.0,48.0,1
+2020-03-01,SouthCarolina,Shops & Services,38.0,33.0,38.0,2
+2020-03-01,SouthCarolina,Grocery,95.0,95.0,95.0,3
+2020-03-01,SouthCarolina,Gas Stations,110.0,110.0,110.0,4
+2020-03-01,SouthCarolina,Fast Food Restaurants,116.0,113.0,116.0,5
+2020-03-01,SouthCarolina,Big Box Stores,107.0,103.0,107.0,6
+2020-03-01,SouthCarolina,Outdoors & Recreation,46.0,45.0,46.0,7
+2020-03-01,SouthCarolina,Nightlife Spots,66.0,64.0,66.0,8
+2020-03-01,SouthCarolina,Hotel,81.0,72.0,81.0,9
+2020-03-01,SouthCarolina,Arts & Entertainment,83.0,73.0,83.0,10
+2020-03-01,SouthCarolina,Residences,100.0,98.0,100.0,11
+2020-03-01,SouthCarolina,Convenience Store,109.0,113.0,109.0,12
+2020-03-01,SouthCarolina,Discount Stores,105.0,102.0,105.0,13
+2020-03-01,SouthCarolina,School,61.0,58.0,61.0,14
+2020-03-01,SouthCarolina,Professional & Other Places,18.0,13.0,18.0,15
+2020-03-01,SouthCarolina,Hardware Stores,117.0,110.0,117.0,16
+2020-03-01,SouthCarolina,Sports,48.0,49.0,48.0,17
+2020-03-01,SouthCarolina,Medical,58.0,59.0,58.0,18
+2020-03-01,SouthCarolina,Drug Store,104.0,105.0,104.0,19
+2020-03-01,SouthCarolina,Colleges & Universities,83.0,98.0,82.0,20
+2020-03-01,SouthCarolina,Travel & Transport,28.0,29.0,28.0,21
+2020-03-01,SouthCarolina,Government,71.0,62.0,71.0,22
+2020-03-01,SouthCarolina,Fitness Center,71.0,60.0,72.0,23
+2020-03-01,SouthCarolina,Airport,81.0,67.0,82.0,24
+2020-03-01,SouthCarolina,Beach,87.0,75.0,88.0,25
+2020-03-01,SouthCarolina,Office,88.0,91.0,87.0,26
+2020-03-01,SouthCarolina,Banks,103.0,95.0,103.0,27
+2020-03-01,SouthCarolina,Alcohol,114.0,99.0,114.0,28
+2020-03-02,SouthCarolina,Food,46.0,45.0,46.0,1
+2020-03-02,SouthCarolina,Shops & Services,35.0,34.0,35.0,2
+2020-03-02,SouthCarolina,Gas Stations,108.0,107.0,108.0,3
+2020-03-02,SouthCarolina,Grocery,108.0,102.0,108.0,4
+2020-03-02,SouthCarolina,Fast Food Restaurants,115.0,108.0,115.0,5
+2020-03-02,SouthCarolina,Medical,57.0,54.0,58.0,6
+2020-03-02,SouthCarolina,School,61.0,57.0,61.0,7
+2020-03-02,SouthCarolina,Outdoors & Recreation,43.0,40.0,43.0,8
+2020-03-02,SouthCarolina,Big Box Stores,111.0,101.0,111.0,9
+2020-03-02,SouthCarolina,Professional & Other Places,18.0,16.0,18.0,10
+2020-03-02,SouthCarolina,Colleges & Universities,68.0,76.0,68.0,11
+2020-03-02,SouthCarolina,Convenience Store,103.0,100.0,103.0,12
+2020-03-02,SouthCarolina,Residences,102.0,108.0,102.0,13
+2020-03-02,SouthCarolina,Hotel,78.0,65.0,79.0,14
+2020-03-02,SouthCarolina,Nightlife Spots,63.0,57.0,63.0,15
+2020-03-02,SouthCarolina,Discount Stores,104.0,107.0,104.0,16
+2020-03-02,SouthCarolina,Government,80.0,76.0,80.0,17
+2020-03-02,SouthCarolina,Sports,42.0,44.0,42.0,18
+2020-03-02,SouthCarolina,Office,90.0,89.0,90.0,19
+2020-03-02,SouthCarolina,Arts & Entertainment,79.0,73.0,80.0,20
+2020-03-02,SouthCarolina,Drug Store,104.0,106.0,104.0,21
+2020-03-02,SouthCarolina,Hardware Stores,104.0,103.0,105.0,22
+2020-03-02,SouthCarolina,Fitness Center,74.0,74.0,74.0,23
+2020-03-02,SouthCarolina,Travel & Transport,37.0,36.0,37.0,24
+2020-03-02,SouthCarolina,Banks,124.0,124.0,124.0,25
+2020-03-02,SouthCarolina,Airport,77.0,69.0,77.0,26
+2020-03-02,SouthCarolina,Beach,98.0,94.0,99.0,27
+2020-03-02,SouthCarolina,Alcohol,118.0,105.0,119.0,28
+2020-03-02,SouthCarolina,Bus,82.0,"",84.0,29
+2020-03-03,SouthCarolina,Food,46.0,44.0,46.0,1
+2020-03-03,SouthCarolina,Shops & Services,34.0,33.0,34.0,2
+2020-03-03,SouthCarolina,Gas Stations,102.0,96.0,102.0,3
+2020-03-03,SouthCarolina,Grocery,105.0,106.0,105.0,4
+2020-03-03,SouthCarolina,Fast Food Restaurants,107.0,99.0,108.0,5
+2020-03-03,SouthCarolina,Medical,54.0,50.0,55.0,6
+2020-03-03,SouthCarolina,School,54.0,52.0,54.0,7
+2020-03-03,SouthCarolina,Outdoors & Recreation,42.0,40.0,42.0,8
+2020-03-03,SouthCarolina,Big Box Stores,108.0,104.0,108.0,9
+2020-03-03,SouthCarolina,Professional & Other Places,17.0,14.0,17.0,10
+2020-03-03,SouthCarolina,Colleges & Universities,65.0,74.0,65.0,11
+2020-03-03,SouthCarolina,Convenience Store,103.0,106.0,102.0,12
+2020-03-03,SouthCarolina,Hotel,77.0,63.0,78.0,13
+2020-03-03,SouthCarolina,Residences,100.0,95.0,100.0,14
+2020-03-03,SouthCarolina,Nightlife Spots,59.0,49.0,59.0,15
+2020-03-03,SouthCarolina,Discount Stores,103.0,107.0,103.0,16
+2020-03-03,SouthCarolina,Government,70.0,66.0,70.0,17
+2020-03-03,SouthCarolina,Drug Store,106.0,107.0,106.0,18
+2020-03-03,SouthCarolina,Arts & Entertainment,81.0,70.0,81.0,19
+2020-03-03,SouthCarolina,Office,82.0,74.0,82.0,20
+2020-03-03,SouthCarolina,Hardware Stores,104.0,101.0,104.0,21
+2020-03-03,SouthCarolina,Sports,40.0,43.0,39.0,22
+2020-03-03,SouthCarolina,Fitness Center,70.0,66.0,70.0,23
+2020-03-03,SouthCarolina,Banks,123.0,122.0,123.0,24
+2020-03-03,SouthCarolina,Travel & Transport,23.0,21.0,24.0,25
+2020-03-03,SouthCarolina,Airport,71.0,76.0,71.0,26
+2020-03-03,SouthCarolina,Beach,90.0,80.0,91.0,27
+2020-03-03,SouthCarolina,Alcohol,103.0,95.0,103.0,28
+2020-03-03,SouthCarolina,Bus,76.0,"",76.0,29
+2020-03-04,SouthCarolina,Food,42.0,41.0,42.0,1
+2020-03-04,SouthCarolina,Shops & Services,35.0,34.0,35.0,2
+2020-03-04,SouthCarolina,Gas Stations,100.0,92.0,101.0,3
+2020-03-04,SouthCarolina,Grocery,98.0,91.0,99.0,4
+2020-03-04,SouthCarolina,Fast Food Restaurants,103.0,98.0,104.0,5
+2020-03-04,SouthCarolina,Medical,54.0,52.0,54.0,6
+2020-03-04,SouthCarolina,School,52.0,50.0,52.0,7
+2020-03-04,SouthCarolina,Outdoors & Recreation,38.0,34.0,39.0,8
+2020-03-04,SouthCarolina,Big Box Stores,100.0,96.0,100.0,9
+2020-03-04,SouthCarolina,Professional & Other Places,15.0,13.0,15.0,10
+2020-03-04,SouthCarolina,Colleges & Universities,68.0,66.0,68.0,11
+2020-03-04,SouthCarolina,Convenience Store,100.0,100.0,100.0,12
+2020-03-04,SouthCarolina,Hotel,77.0,56.0,79.0,13
+2020-03-04,SouthCarolina,Nightlife Spots,57.0,48.0,57.0,14
+2020-03-04,SouthCarolina,Residences,95.0,86.0,95.0,15
+2020-03-04,SouthCarolina,Discount Stores,100.0,99.0,100.0,16
+2020-03-04,SouthCarolina,Arts & Entertainment,78.0,69.0,79.0,17
+2020-03-04,SouthCarolina,Drug Store,105.0,103.0,106.0,18
+2020-03-04,SouthCarolina,Government,66.0,60.0,67.0,19
+2020-03-04,SouthCarolina,Office,80.0,67.0,80.0,20
+2020-03-04,SouthCarolina,Hardware Stores,99.0,81.0,101.0,21
+2020-03-04,SouthCarolina,Sports,36.0,35.0,36.0,22
+2020-03-04,SouthCarolina,Fitness Center,67.0,60.0,67.0,23
+2020-03-04,SouthCarolina,Travel & Transport,51.0,45.0,51.0,24
+2020-03-04,SouthCarolina,Banks,103.0,91.0,103.0,25
+2020-03-04,SouthCarolina,Airport,69.0,58.0,69.0,26
+2020-03-04,SouthCarolina,Beach,72.0,63.0,73.0,27
+2020-03-04,SouthCarolina,Alcohol,91.0,97.0,91.0,28
+2020-03-04,SouthCarolina,Bus,82.0,"",81.0,29
+2020-03-05,SouthCarolina,Food,43.0,40.0,43.0,1
+2020-03-05,SouthCarolina,Shops & Services,30.0,26.0,30.0,2
+2020-03-05,SouthCarolina,Gas Stations,94.0,88.0,95.0,3
+2020-03-05,SouthCarolina,Grocery,96.0,90.0,96.0,4
+2020-03-05,SouthCarolina,Fast Food Restaurants,97.0,92.0,97.0,5
+2020-03-05,SouthCarolina,Medical,53.0,50.0,54.0,6
+2020-03-05,SouthCarolina,School,51.0,48.0,51.0,7
+2020-03-05,SouthCarolina,Big Box Stores,99.0,97.0,99.0,8
+2020-03-05,SouthCarolina,Professional & Other Places,15.0,13.0,15.0,9
+2020-03-05,SouthCarolina,Outdoors & Recreation,42.0,35.0,42.0,10
+2020-03-05,SouthCarolina,Colleges & Universities,63.0,60.0,63.0,11
+2020-03-05,SouthCarolina,Convenience Store,95.0,84.0,96.0,12
+2020-03-05,SouthCarolina,Hotel,75.0,59.0,76.0,13
+2020-03-05,SouthCarolina,Nightlife Spots,59.0,45.0,60.0,14
+2020-03-05,SouthCarolina,Residences,91.0,85.0,91.0,15
+2020-03-05,SouthCarolina,Discount Stores,91.0,82.0,92.0,16
+2020-03-05,SouthCarolina,Arts & Entertainment,78.0,64.0,79.0,17
+2020-03-05,SouthCarolina,Drug Store,99.0,94.0,99.0,18
+2020-03-05,SouthCarolina,Government,66.0,57.0,66.0,19
+2020-03-05,SouthCarolina,Office,81.0,75.0,81.0,20
+2020-03-05,SouthCarolina,Hardware Stores,92.0,85.0,93.0,21
+2020-03-05,SouthCarolina,Fitness Center,72.0,61.0,72.0,22
+2020-03-05,SouthCarolina,Sports,32.0,28.0,32.0,23
+2020-03-05,SouthCarolina,Travel & Transport,25.0,20.0,25.0,24
+2020-03-05,SouthCarolina,Banks,101.0,94.0,102.0,25
+2020-03-05,SouthCarolina,Airport,72.0,68.0,72.0,26
+2020-03-05,SouthCarolina,Alcohol,97.0,82.0,98.0,27
+2020-03-05,SouthCarolina,Beach,69.0,60.0,70.0,28
+2020-03-05,SouthCarolina,Bus,79.0,"",79.0,29
+2020-03-06,SouthCarolina,Food,46.0,45.0,46.0,1
+2020-03-06,SouthCarolina,Shops & Services,33.0,31.0,33.0,2
+2020-03-06,SouthCarolina,Gas Stations,101.0,99.0,102.0,3
+2020-03-06,SouthCarolina,Grocery,97.0,96.0,97.0,4
+2020-03-06,SouthCarolina,Fast Food Restaurants,102.0,99.0,102.0,5
+2020-03-06,SouthCarolina,School,59.0,58.0,59.0,6
+2020-03-06,SouthCarolina,Outdoors & Recreation,45.0,43.0,45.0,7
+2020-03-06,SouthCarolina,Medical,56.0,56.0,56.0,8
+2020-03-06,SouthCarolina,Big Box Stores,98.0,98.0,98.0,9
+2020-03-06,SouthCarolina,Professional & Other Places,17.0,17.0,17.0,10
+2020-03-06,SouthCarolina,Hotel,83.0,68.0,84.0,11
+2020-03-06,SouthCarolina,Nightlife Spots,49.0,44.0,49.0,12
+2020-03-06,SouthCarolina,Convenience Store,104.0,97.0,104.0,13
+2020-03-06,SouthCarolina,Residences,100.0,101.0,100.0,14
+2020-03-06,SouthCarolina,Arts & Entertainment,74.0,80.0,74.0,15
+2020-03-06,SouthCarolina,Colleges & Universities,67.0,75.0,67.0,16
+2020-03-06,SouthCarolina,Discount Stores,95.0,92.0,96.0,17
+2020-03-06,SouthCarolina,Drug Store,95.0,90.0,95.0,18
+2020-03-06,SouthCarolina,Hardware Stores,107.0,100.0,108.0,19
+2020-03-06,SouthCarolina,Sports,46.0,50.0,45.0,20
+2020-03-06,SouthCarolina,Government,68.0,59.0,69.0,21
+2020-03-06,SouthCarolina,Office,88.0,80.0,88.0,22
+2020-03-06,SouthCarolina,Fitness Center,73.0,63.0,74.0,23
+2020-03-06,SouthCarolina,Banks,102.0,100.0,102.0,24
+2020-03-06,SouthCarolina,Travel & Transport,27.0,24.0,27.0,25
+2020-03-06,SouthCarolina,Airport,70.0,62.0,70.0,26
+2020-03-06,SouthCarolina,Beach,113.0,99.0,115.0,27
+2020-03-06,SouthCarolina,Alcohol,99.0,101.0,99.0,28
+2020-03-06,SouthCarolina,Bus,71.0,"",71.0,29
+2020-03-07,SouthCarolina,Food,44.0,43.0,44.0,1
+2020-03-07,SouthCarolina,Shops & Services,36.0,33.0,36.0,2
+2020-03-07,SouthCarolina,Grocery,98.0,97.0,98.0,3
+2020-03-07,SouthCarolina,Gas Stations,108.0,101.0,108.0,4
+2020-03-07,SouthCarolina,Fast Food Restaurants,107.0,104.0,107.0,5
+2020-03-07,SouthCarolina,Outdoors & Recreation,49.0,46.0,49.0,6
+2020-03-07,SouthCarolina,Big Box Stores,96.0,99.0,95.0,7
+2020-03-07,SouthCarolina,Hotel,84.0,68.0,85.0,8
+2020-03-07,SouthCarolina,Nightlife Spots,54.0,47.0,54.0,9
+2020-03-07,SouthCarolina,Arts & Entertainment,76.0,70.0,76.0,10
+2020-03-07,SouthCarolina,Convenience Store,106.0,110.0,106.0,11
+2020-03-07,SouthCarolina,Discount Stores,100.0,102.0,100.0,12
+2020-03-07,SouthCarolina,Professional & Other Places,21.0,19.0,21.0,13
+2020-03-07,SouthCarolina,Residences,101.0,104.0,101.0,14
+2020-03-07,SouthCarolina,School,54.0,50.0,55.0,15
+2020-03-07,SouthCarolina,Hardware Stores,113.0,106.0,114.0,16
+2020-03-07,SouthCarolina,Sports,48.0,52.0,48.0,17
+2020-03-07,SouthCarolina,Medical,57.0,52.0,57.0,18
+2020-03-07,SouthCarolina,Drug Store,102.0,103.0,102.0,19
+2020-03-07,SouthCarolina,Colleges & Universities,64.0,68.0,64.0,20
+2020-03-07,SouthCarolina,Travel & Transport,25.0,23.0,25.0,21
+2020-03-07,SouthCarolina,Fitness Center,68.0,59.0,69.0,22
+2020-03-07,SouthCarolina,Government,71.0,67.0,71.0,23
+2020-03-07,SouthCarolina,Office,86.0,91.0,86.0,24
+2020-03-07,SouthCarolina,Beach,106.0,88.0,107.0,25
+2020-03-07,SouthCarolina,Alcohol,108.0,99.0,109.0,26
+2020-03-07,SouthCarolina,Airport,77.0,66.0,78.0,27
+2020-03-07,SouthCarolina,Banks,84.0,87.0,84.0,28
+2020-03-07,SouthCarolina,Bus,94.0,"",94.0,29
+2020-03-08,SouthCarolina,Food,50.0,47.0,50.0,1
+2020-03-08,SouthCarolina,Shops & Services,34.0,28.0,34.0,2
+2020-03-08,SouthCarolina,Grocery,99.0,91.0,99.0,3
+2020-03-08,SouthCarolina,Gas Stations,110.0,104.0,111.0,4
+2020-03-08,SouthCarolina,Outdoors & Recreation,49.0,45.0,49.0,5
+2020-03-08,SouthCarolina,Fast Food Restaurants,114.0,109.0,114.0,6
+2020-03-08,SouthCarolina,Big Box Stores,104.0,95.0,104.0,7
+2020-03-08,SouthCarolina,Hotel,87.0,71.0,88.0,8
+2020-03-08,SouthCarolina,Nightlife Spots,62.0,53.0,63.0,9
+2020-03-08,SouthCarolina,Arts & Entertainment,85.0,74.0,85.0,10
+2020-03-08,SouthCarolina,Convenience Store,113.0,107.0,113.0,11
+2020-03-08,SouthCarolina,Residences,100.0,103.0,100.0,12
+2020-03-08,SouthCarolina,Discount Stores,106.0,97.0,106.0,13
+2020-03-08,SouthCarolina,School,61.0,58.0,61.0,14
+2020-03-08,SouthCarolina,Professional & Other Places,17.0,12.0,17.0,15
+2020-03-08,SouthCarolina,Sports,51.0,51.0,51.0,16
+2020-03-08,SouthCarolina,Hardware Stores,121.0,115.0,121.0,17
+2020-03-08,SouthCarolina,Medical,60.0,51.0,60.0,18
+2020-03-08,SouthCarolina,Drug Store,107.0,103.0,107.0,19
+2020-03-08,SouthCarolina,Travel & Transport,30.0,27.0,30.0,20
+2020-03-08,SouthCarolina,Colleges & Universities,66.0,84.0,66.0,21
+2020-03-08,SouthCarolina,Government,72.0,68.0,72.0,22
+2020-03-08,SouthCarolina,Fitness Center,70.0,60.0,71.0,23
+2020-03-08,SouthCarolina,Beach,110.0,90.0,112.0,24
+2020-03-08,SouthCarolina,Office,91.0,101.0,91.0,25
+2020-03-08,SouthCarolina,Airport,73.0,70.0,73.0,26
+2020-03-08,SouthCarolina,Banks,91.0,72.0,92.0,27
+2020-03-08,SouthCarolina,Alcohol,103.0,90.0,103.0,28
+2020-03-09,SouthCarolina,Food,46.0,43.0,46.0,1
+2020-03-09,SouthCarolina,Shops & Services,32.0,31.0,32.0,2
+2020-03-09,SouthCarolina,Gas Stations,105.0,98.0,105.0,3
+2020-03-09,SouthCarolina,Grocery,103.0,98.0,103.0,4
+2020-03-09,SouthCarolina,Fast Food Restaurants,105.0,105.0,106.0,5
+2020-03-09,SouthCarolina,Medical,56.0,54.0,56.0,6
+2020-03-09,SouthCarolina,School,61.0,58.0,62.0,7
+2020-03-09,SouthCarolina,Outdoors & Recreation,49.0,45.0,49.0,8
+2020-03-09,SouthCarolina,Big Box Stores,106.0,99.0,107.0,9
+2020-03-09,SouthCarolina,Professional & Other Places,17.0,15.0,17.0,10
+2020-03-09,SouthCarolina,Hotel,85.0,64.0,87.0,11
+2020-03-09,SouthCarolina,Convenience Store,100.0,97.0,100.0,12
+2020-03-09,SouthCarolina,Residences,97.0,98.0,97.0,13
+2020-03-09,SouthCarolina,Nightlife Spots,61.0,50.0,62.0,14
+2020-03-09,SouthCarolina,Sports,48.0,49.0,47.0,15
+2020-03-09,SouthCarolina,Colleges & Universities,53.0,84.0,53.0,16
+2020-03-09,SouthCarolina,Discount Stores,102.0,104.0,102.0,17
+2020-03-09,SouthCarolina,Arts & Entertainment,80.0,71.0,80.0,18
+2020-03-09,SouthCarolina,Government,75.0,71.0,75.0,19
+2020-03-09,SouthCarolina,Hardware Stores,108.0,99.0,109.0,20
+2020-03-09,SouthCarolina,Drug Store,107.0,98.0,108.0,21
+2020-03-09,SouthCarolina,Office,84.0,86.0,84.0,22
+2020-03-09,SouthCarolina,Fitness Center,71.0,61.0,71.0,23
+2020-03-09,SouthCarolina,Travel & Transport,30.0,28.0,30.0,24
+2020-03-09,SouthCarolina,Banks,115.0,117.0,115.0,25
+2020-03-09,SouthCarolina,Beach,107.0,92.0,109.0,26
+2020-03-09,SouthCarolina,Airport,70.0,64.0,70.0,27
+2020-03-09,SouthCarolina,Alcohol,105.0,110.0,105.0,28
+2020-03-09,SouthCarolina,Bus,81.0,"",82.0,29
+2020-03-10,SouthCarolina,Food,47.0,45.0,47.0,1
+2020-03-10,SouthCarolina,Shops & Services,34.0,32.0,34.0,2
+2020-03-10,SouthCarolina,Gas Stations,102.0,98.0,102.0,3
+2020-03-10,SouthCarolina,Grocery,100.0,100.0,100.0,4
+2020-03-10,SouthCarolina,Medical,54.0,51.0,54.0,5
+2020-03-10,SouthCarolina,School,55.0,53.0,55.0,6
+2020-03-10,SouthCarolina,Fast Food Restaurants,104.0,101.0,104.0,7
+2020-03-10,SouthCarolina,Outdoors & Recreation,46.0,44.0,46.0,8
+2020-03-10,SouthCarolina,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-10,SouthCarolina,Big Box Stores,100.0,99.0,100.0,10
+2020-03-10,SouthCarolina,Hotel,87.0,71.0,88.0,11
+2020-03-10,SouthCarolina,Convenience Store,103.0,104.0,103.0,12
+2020-03-10,SouthCarolina,Nightlife Spots,64.0,55.0,64.0,13
+2020-03-10,SouthCarolina,Residences,100.0,96.0,101.0,14
+2020-03-10,SouthCarolina,Colleges & Universities,46.0,61.0,46.0,15
+2020-03-10,SouthCarolina,Sports,50.0,53.0,50.0,16
+2020-03-10,SouthCarolina,Discount Stores,102.0,96.0,103.0,17
+2020-03-10,SouthCarolina,Arts & Entertainment,70.0,61.0,70.0,18
+2020-03-10,SouthCarolina,Government,69.0,67.0,69.0,19
+2020-03-10,SouthCarolina,Drug Store,100.0,100.0,100.0,20
+2020-03-10,SouthCarolina,Hardware Stores,109.0,107.0,109.0,21
+2020-03-10,SouthCarolina,Office,79.0,74.0,80.0,22
+2020-03-10,SouthCarolina,Fitness Center,64.0,55.0,65.0,23
+2020-03-10,SouthCarolina,Travel & Transport,28.0,21.0,28.0,24
+2020-03-10,SouthCarolina,Banks,100.0,105.0,99.0,25
+2020-03-10,SouthCarolina,Beach,114.0,92.0,116.0,26
+2020-03-10,SouthCarolina,Airport,67.0,58.0,67.0,27
+2020-03-10,SouthCarolina,Alcohol,106.0,98.0,107.0,28
+2020-03-10,SouthCarolina,Bus,85.0,"",85.0,29
+2020-03-10,SouthCarolina,Light Rail Stations,107.0,"",108.0,30
+2020-03-11,SouthCarolina,Food,44.0,43.0,44.0,1
+2020-03-11,SouthCarolina,Shops & Services,33.0,31.0,33.0,2
+2020-03-11,SouthCarolina,Gas Stations,105.0,105.0,105.0,3
+2020-03-11,SouthCarolina,Grocery,99.0,96.0,99.0,4
+2020-03-11,SouthCarolina,Fast Food Restaurants,102.0,95.0,103.0,5
+2020-03-11,SouthCarolina,School,55.0,55.0,55.0,6
+2020-03-11,SouthCarolina,Medical,53.0,52.0,53.0,7
+2020-03-11,SouthCarolina,Outdoors & Recreation,49.0,45.0,49.0,8
+2020-03-11,SouthCarolina,Professional & Other Places,16.0,13.0,16.0,9
+2020-03-11,SouthCarolina,Big Box Stores,102.0,94.0,102.0,10
+2020-03-11,SouthCarolina,Hotel,89.0,73.0,90.0,11
+2020-03-11,SouthCarolina,Convenience Store,106.0,107.0,106.0,12
+2020-03-11,SouthCarolina,Nightlife Spots,68.0,59.0,68.0,13
+2020-03-11,SouthCarolina,Residences,102.0,102.0,102.0,14
+2020-03-11,SouthCarolina,Colleges & Universities,51.0,66.0,51.0,15
+2020-03-11,SouthCarolina,Sports,46.0,51.0,46.0,16
+2020-03-11,SouthCarolina,Arts & Entertainment,79.0,78.0,79.0,17
+2020-03-11,SouthCarolina,Discount Stores,99.0,88.0,99.0,18
+2020-03-11,SouthCarolina,Government,70.0,63.0,70.0,19
+2020-03-11,SouthCarolina,Drug Store,101.0,90.0,102.0,20
+2020-03-11,SouthCarolina,Hardware Stores,109.0,101.0,109.0,21
+2020-03-11,SouthCarolina,Office,80.0,72.0,80.0,22
+2020-03-11,SouthCarolina,Fitness Center,65.0,65.0,65.0,23
+2020-03-11,SouthCarolina,Travel & Transport,30.0,24.0,31.0,24
+2020-03-11,SouthCarolina,Banks,108.0,102.0,109.0,25
+2020-03-11,SouthCarolina,Beach,129.0,110.0,132.0,26
+2020-03-11,SouthCarolina,Airport,69.0,78.0,68.0,27
+2020-03-11,SouthCarolina,Alcohol,98.0,99.0,98.0,28
+2020-03-11,SouthCarolina,Bus,79.0,"",79.0,29
+2020-03-12,SouthCarolina,Food,46.0,44.0,46.0,1
+2020-03-12,SouthCarolina,Shops & Services,33.0,32.0,33.0,2
+2020-03-12,SouthCarolina,Gas Stations,105.0,106.0,105.0,3
+2020-03-12,SouthCarolina,Grocery,106.0,105.0,106.0,4
+2020-03-12,SouthCarolina,Fast Food Restaurants,104.0,103.0,104.0,5
+2020-03-12,SouthCarolina,School,55.0,54.0,55.0,6
+2020-03-12,SouthCarolina,Medical,53.0,51.0,53.0,7
+2020-03-12,SouthCarolina,Outdoors & Recreation,54.0,50.0,55.0,8
+2020-03-12,SouthCarolina,Big Box Stores,108.0,105.0,108.0,9
+2020-03-12,SouthCarolina,Professional & Other Places,16.0,15.0,16.0,10
+2020-03-12,SouthCarolina,Hotel,91.0,77.0,93.0,11
+2020-03-12,SouthCarolina,Nightlife Spots,66.0,58.0,67.0,12
+2020-03-12,SouthCarolina,Convenience Store,106.0,100.0,106.0,13
+2020-03-12,SouthCarolina,Residences,108.0,111.0,108.0,14
+2020-03-12,SouthCarolina,Discount Stores,107.0,100.0,107.0,15
+2020-03-12,SouthCarolina,Sports,51.0,61.0,51.0,16
+2020-03-12,SouthCarolina,Arts & Entertainment,82.0,75.0,82.0,17
+2020-03-12,SouthCarolina,Colleges & Universities,53.0,62.0,53.0,18
+2020-03-12,SouthCarolina,Drug Store,107.0,105.0,107.0,19
+2020-03-12,SouthCarolina,Government,70.0,62.0,71.0,20
+2020-03-12,SouthCarolina,Hardware Stores,112.0,112.0,112.0,21
+2020-03-12,SouthCarolina,Office,82.0,78.0,82.0,22
+2020-03-12,SouthCarolina,Fitness Center,66.0,62.0,67.0,23
+2020-03-12,SouthCarolina,Travel & Transport,29.0,25.0,29.0,24
+2020-03-12,SouthCarolina,Banks,103.0,91.0,103.0,25
+2020-03-12,SouthCarolina,Beach,140.0,118.0,142.0,26
+2020-03-12,SouthCarolina,Airport,66.0,69.0,65.0,27
+2020-03-12,SouthCarolina,Alcohol,123.0,111.0,124.0,28
+2020-03-12,SouthCarolina,Bus,91.0,"",90.0,29
+2020-03-13,SouthCarolina,Food,45.0,42.0,45.0,1
+2020-03-13,SouthCarolina,Shops & Services,34.0,29.0,34.0,2
+2020-03-13,SouthCarolina,Grocery,126.0,116.0,127.0,3
+2020-03-13,SouthCarolina,Gas Stations,111.0,103.0,112.0,4
+2020-03-13,SouthCarolina,Fast Food Restaurants,105.0,94.0,106.0,5
+2020-03-13,SouthCarolina,Big Box Stores,119.0,109.0,119.0,6
+2020-03-13,SouthCarolina,Outdoors & Recreation,53.0,48.0,54.0,7
+2020-03-13,SouthCarolina,School,54.0,54.0,54.0,8
+2020-03-13,SouthCarolina,Medical,55.0,51.0,55.0,9
+2020-03-13,SouthCarolina,Professional & Other Places,17.0,15.0,17.0,10
+2020-03-13,SouthCarolina,Hotel,91.0,75.0,92.0,11
+2020-03-13,SouthCarolina,Nightlife Spots,66.0,52.0,67.0,12
+2020-03-13,SouthCarolina,Convenience Store,111.0,95.0,111.0,13
+2020-03-13,SouthCarolina,Discount Stores,117.0,106.0,117.0,14
+2020-03-13,SouthCarolina,Residences,107.0,103.0,108.0,15
+2020-03-13,SouthCarolina,Drug Store,116.0,107.0,117.0,16
+2020-03-13,SouthCarolina,Hardware Stores,119.0,111.0,120.0,17
+2020-03-13,SouthCarolina,Arts & Entertainment,77.0,69.0,77.0,18
+2020-03-13,SouthCarolina,Sports,51.0,56.0,50.0,19
+2020-03-13,SouthCarolina,Government,73.0,65.0,73.0,20
+2020-03-13,SouthCarolina,Colleges & Universities,55.0,67.0,55.0,21
+2020-03-13,SouthCarolina,Office,85.0,79.0,86.0,22
+2020-03-13,SouthCarolina,Travel & Transport,29.0,28.0,29.0,23
+2020-03-13,SouthCarolina,Fitness Center,65.0,49.0,66.0,24
+2020-03-13,SouthCarolina,Banks,103.0,110.0,102.0,25
+2020-03-13,SouthCarolina,Beach,148.0,118.0,151.0,26
+2020-03-13,SouthCarolina,Airport,63.0,55.0,63.0,27
+2020-03-13,SouthCarolina,Alcohol,116.0,105.0,117.0,28
+2020-03-13,SouthCarolina,Bus,73.0,"",73.0,29
+2020-03-13,SouthCarolina,Light Rail Stations,113.0,"",115.0,30
+2020-03-14,SouthCarolina,Food,43.0,40.0,44.0,1
+2020-03-14,SouthCarolina,Shops & Services,31.0,26.0,32.0,2
+2020-03-14,SouthCarolina,Grocery,122.0,112.0,123.0,3
+2020-03-14,SouthCarolina,Gas Stations,110.0,110.0,110.0,4
+2020-03-14,SouthCarolina,Outdoors & Recreation,55.0,49.0,56.0,5
+2020-03-14,SouthCarolina,Big Box Stores,105.0,96.0,105.0,6
+2020-03-14,SouthCarolina,Fast Food Restaurants,96.0,93.0,97.0,7
+2020-03-14,SouthCarolina,Nightlife Spots,68.0,55.0,68.0,8
+2020-03-14,SouthCarolina,Hotel,82.0,67.0,83.0,9
+2020-03-14,SouthCarolina,Discount Stores,113.0,100.0,113.0,10
+2020-03-14,SouthCarolina,Arts & Entertainment,61.0,48.0,62.0,11
+2020-03-14,SouthCarolina,Convenience Store,100.0,89.0,101.0,12
+2020-03-14,SouthCarolina,Residences,101.0,93.0,101.0,13
+2020-03-14,SouthCarolina,Hardware Stores,119.0,118.0,119.0,14
+2020-03-14,SouthCarolina,Professional & Other Places,19.0,17.0,19.0,15
+2020-03-14,SouthCarolina,School,53.0,46.0,53.0,16
+2020-03-14,SouthCarolina,Drug Store,116.0,115.0,116.0,17
+2020-03-14,SouthCarolina,Sports,50.0,53.0,49.0,18
+2020-03-14,SouthCarolina,Medical,52.0,45.0,52.0,19
+2020-03-14,SouthCarolina,Travel & Transport,27.0,23.0,27.0,20
+2020-03-14,SouthCarolina,Fitness Center,57.0,50.0,58.0,21
+2020-03-14,SouthCarolina,Government,68.0,57.0,69.0,22
+2020-03-14,SouthCarolina,Beach,131.0,107.0,133.0,23
+2020-03-14,SouthCarolina,Colleges & Universities,43.0,43.0,43.0,24
+2020-03-14,SouthCarolina,Office,76.0,71.0,76.0,25
+2020-03-14,SouthCarolina,Alcohol,104.0,112.0,103.0,26
+2020-03-14,SouthCarolina,Banks,88.0,84.0,88.0,27
+2020-03-14,SouthCarolina,Airport,63.0,48.0,63.0,28
+2020-03-14,SouthCarolina,Bus,86.0,"",88.0,29
+2020-03-15,SouthCarolina,Food,42.0,36.0,43.0,1
+2020-03-15,SouthCarolina,Shops & Services,31.0,25.0,31.0,2
+2020-03-15,SouthCarolina,Grocery,123.0,110.0,124.0,3
+2020-03-15,SouthCarolina,Gas Stations,107.0,103.0,108.0,4
+2020-03-15,SouthCarolina,Big Box Stores,109.0,102.0,109.0,5
+2020-03-15,SouthCarolina,Outdoors & Recreation,45.0,41.0,45.0,6
+2020-03-15,SouthCarolina,Fast Food Restaurants,96.0,89.0,96.0,7
+2020-03-15,SouthCarolina,Hotel,77.0,57.0,78.0,8
+2020-03-15,SouthCarolina,Nightlife Spots,49.0,37.0,49.0,9
+2020-03-15,SouthCarolina,Discount Stores,117.0,105.0,117.0,10
+2020-03-15,SouthCarolina,Residences,95.0,87.0,96.0,11
+2020-03-15,SouthCarolina,Convenience Store,98.0,95.0,99.0,12
+2020-03-15,SouthCarolina,Hardware Stores,122.0,115.0,122.0,13
+2020-03-15,SouthCarolina,Arts & Entertainment,61.0,50.0,61.0,14
+2020-03-15,SouthCarolina,Drug Store,119.0,113.0,120.0,15
+2020-03-15,SouthCarolina,School,57.0,49.0,57.0,16
+2020-03-15,SouthCarolina,Professional & Other Places,18.0,11.0,18.0,17
+2020-03-15,SouthCarolina,Sports,43.0,47.0,43.0,18
+2020-03-15,SouthCarolina,Medical,51.0,41.0,51.0,19
+2020-03-15,SouthCarolina,Travel & Transport,27.0,23.0,27.0,20
+2020-03-15,SouthCarolina,Beach,118.0,85.0,121.0,21
+2020-03-15,SouthCarolina,Government,67.0,51.0,67.0,22
+2020-03-15,SouthCarolina,Fitness Center,61.0,50.0,62.0,23
+2020-03-15,SouthCarolina,Colleges & Universities,43.0,44.0,43.0,24
+2020-03-15,SouthCarolina,Office,81.0,85.0,81.0,25
+2020-03-15,SouthCarolina,Airport,61.0,34.0,63.0,26
+2020-03-15,SouthCarolina,Banks,86.0,62.0,87.0,27
+2020-03-15,SouthCarolina,Alcohol,98.0,72.0,99.0,28
+2020-03-16,SouthCarolina,Food,43.0,36.0,43.0,1
+2020-03-16,SouthCarolina,Shops & Services,33.0,28.0,33.0,2
+2020-03-16,SouthCarolina,Grocery,150.0,135.0,151.0,3
+2020-03-16,SouthCarolina,Gas Stations,105.0,101.0,105.0,4
+2020-03-16,SouthCarolina,Fast Food Restaurants,98.0,86.0,98.0,5
+2020-03-16,SouthCarolina,Medical,51.0,44.0,51.0,6
+2020-03-16,SouthCarolina,Big Box Stores,125.0,110.0,126.0,7
+2020-03-16,SouthCarolina,Outdoors & Recreation,43.0,33.0,44.0,8
+2020-03-16,SouthCarolina,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-16,SouthCarolina,School,35.0,35.0,35.0,10
+2020-03-16,SouthCarolina,Hotel,78.0,51.0,80.0,11
+2020-03-16,SouthCarolina,Convenience Store,100.0,101.0,100.0,12
+2020-03-16,SouthCarolina,Residences,95.0,84.0,96.0,13
+2020-03-16,SouthCarolina,Discount Stores,116.0,103.0,117.0,14
+2020-03-16,SouthCarolina,Drug Store,124.0,107.0,125.0,15
+2020-03-16,SouthCarolina,Nightlife Spots,55.0,43.0,56.0,16
+2020-03-16,SouthCarolina,Hardware Stores,109.0,94.0,111.0,17
+2020-03-16,SouthCarolina,Government,72.0,61.0,72.0,18
+2020-03-16,SouthCarolina,Arts & Entertainment,67.0,56.0,68.0,19
+2020-03-16,SouthCarolina,Sports,37.0,34.0,38.0,20
+2020-03-16,SouthCarolina,Office,77.0,73.0,77.0,21
+2020-03-16,SouthCarolina,Colleges & Universities,29.0,50.0,28.0,22
+2020-03-16,SouthCarolina,Fitness Center,53.0,44.0,53.0,23
+2020-03-16,SouthCarolina,Travel & Transport,28.0,20.0,28.0,24
+2020-03-16,SouthCarolina,Banks,114.0,103.0,114.0,25
+2020-03-16,SouthCarolina,Beach,105.0,68.0,109.0,26
+2020-03-16,SouthCarolina,Airport,58.0,58.0,58.0,27
+2020-03-16,SouthCarolina,Alcohol,129.0,118.0,130.0,28
+2020-03-16,SouthCarolina,Bus,73.0,"",74.0,29
+2020-03-17,SouthCarolina,Food,38.0,30.0,38.0,1
+2020-03-17,SouthCarolina,Shops & Services,28.0,22.0,29.0,2
+2020-03-17,SouthCarolina,Grocery,128.0,116.0,128.0,3
+2020-03-17,SouthCarolina,Gas Stations,93.0,85.0,93.0,4
+2020-03-17,SouthCarolina,Fast Food Restaurants,81.0,70.0,81.0,5
+2020-03-17,SouthCarolina,Medical,41.0,35.0,42.0,6
+2020-03-17,SouthCarolina,Outdoors & Recreation,41.0,33.0,42.0,7
+2020-03-17,SouthCarolina,Big Box Stores,106.0,84.0,107.0,8
+2020-03-17,SouthCarolina,Professional & Other Places,13.0,9.0,14.0,9
+2020-03-17,SouthCarolina,School,29.0,29.0,29.0,10
+2020-03-17,SouthCarolina,Discount Stores,108.0,89.0,109.0,11
+2020-03-17,SouthCarolina,Convenience Store,88.0,79.0,89.0,12
+2020-03-17,SouthCarolina,Hotel,69.0,50.0,71.0,13
+2020-03-17,SouthCarolina,Residences,91.0,81.0,91.0,14
+2020-03-17,SouthCarolina,Nightlife Spots,50.0,36.0,51.0,15
+2020-03-17,SouthCarolina,Drug Store,105.0,94.0,106.0,16
+2020-03-17,SouthCarolina,Hardware Stores,103.0,90.0,104.0,17
+2020-03-17,SouthCarolina,Government,56.0,44.0,56.0,18
+2020-03-17,SouthCarolina,Sports,35.0,37.0,35.0,19
+2020-03-17,SouthCarolina,Office,64.0,57.0,64.0,20
+2020-03-17,SouthCarolina,Arts & Entertainment,64.0,49.0,65.0,21
+2020-03-17,SouthCarolina,Colleges & Universities,24.0,41.0,24.0,22
+2020-03-17,SouthCarolina,Travel & Transport,25.0,23.0,25.0,23
+2020-03-17,SouthCarolina,Fitness Center,39.0,31.0,39.0,24
+2020-03-17,SouthCarolina,Banks,87.0,79.0,88.0,25
+2020-03-17,SouthCarolina,Beach,103.0,72.0,106.0,26
+2020-03-17,SouthCarolina,Airport,53.0,52.0,53.0,27
+2020-03-17,SouthCarolina,Alcohol,116.0,110.0,116.0,28
+2020-03-18,SouthCarolina,Shops & Services,24.0,20.0,24.0,1
+2020-03-18,SouthCarolina,Food,30.0,24.0,31.0,2
+2020-03-18,SouthCarolina,Grocery,121.0,105.0,122.0,3
+2020-03-18,SouthCarolina,Gas Stations,94.0,91.0,94.0,4
+2020-03-18,SouthCarolina,Fast Food Restaurants,80.0,73.0,80.0,5
+2020-03-18,SouthCarolina,Outdoors & Recreation,43.0,37.0,43.0,6
+2020-03-18,SouthCarolina,Medical,40.0,33.0,40.0,7
+2020-03-18,SouthCarolina,Big Box Stores,99.0,79.0,100.0,8
+2020-03-18,SouthCarolina,Professional & Other Places,13.0,10.0,13.0,9
+2020-03-18,SouthCarolina,School,28.0,30.0,28.0,10
+2020-03-18,SouthCarolina,Residences,95.0,81.0,95.0,11
+2020-03-18,SouthCarolina,Convenience Store,86.0,79.0,86.0,12
+2020-03-18,SouthCarolina,Discount Stores,104.0,81.0,105.0,13
+2020-03-18,SouthCarolina,Hotel,68.0,52.0,69.0,14
+2020-03-18,SouthCarolina,Nightlife Spots,46.0,36.0,46.0,15
+2020-03-18,SouthCarolina,Drug Store,102.0,88.0,103.0,16
+2020-03-18,SouthCarolina,Hardware Stores,107.0,87.0,109.0,17
+2020-03-18,SouthCarolina,Sports,40.0,44.0,40.0,18
+2020-03-18,SouthCarolina,Government,53.0,42.0,54.0,19
+2020-03-18,SouthCarolina,Office,63.0,53.0,64.0,20
+2020-03-18,SouthCarolina,Arts & Entertainment,54.0,41.0,55.0,21
+2020-03-18,SouthCarolina,Colleges & Universities,24.0,32.0,24.0,22
+2020-03-18,SouthCarolina,Travel & Transport,28.0,27.0,28.0,23
+2020-03-18,SouthCarolina,Fitness Center,37.0,34.0,37.0,24
+2020-03-18,SouthCarolina,Banks,81.0,70.0,82.0,25
+2020-03-18,SouthCarolina,Beach,115.0,76.0,119.0,26
+2020-03-18,SouthCarolina,Alcohol,106.0,90.0,107.0,27
+2020-03-18,SouthCarolina,Airport,44.0,38.0,44.0,28
+2020-03-19,SouthCarolina,Food,29.0,23.0,30.0,1
+2020-03-19,SouthCarolina,Shops & Services,24.0,19.0,24.0,2
+2020-03-19,SouthCarolina,Grocery,109.0,98.0,110.0,3
+2020-03-19,SouthCarolina,Gas Stations,90.0,87.0,90.0,4
+2020-03-19,SouthCarolina,Outdoors & Recreation,55.0,55.0,55.0,5
+2020-03-19,SouthCarolina,Fast Food Restaurants,74.0,70.0,74.0,6
+2020-03-19,SouthCarolina,Medical,39.0,34.0,39.0,7
+2020-03-19,SouthCarolina,Big Box Stores,93.0,82.0,93.0,8
+2020-03-19,SouthCarolina,Professional & Other Places,13.0,11.0,13.0,9
+2020-03-19,SouthCarolina,Residences,97.0,98.0,97.0,10
+2020-03-19,SouthCarolina,Convenience Store,89.0,80.0,89.0,11
+2020-03-19,SouthCarolina,School,25.0,28.0,25.0,12
+2020-03-19,SouthCarolina,Discount Stores,97.0,91.0,98.0,13
+2020-03-19,SouthCarolina,Hotel,64.0,48.0,65.0,14
+2020-03-19,SouthCarolina,Hardware Stores,108.0,102.0,109.0,15
+2020-03-19,SouthCarolina,Drug Store,92.0,82.0,92.0,16
+2020-03-19,SouthCarolina,Sports,42.0,49.0,41.0,17
+2020-03-19,SouthCarolina,Nightlife Spots,38.0,31.0,39.0,18
+2020-03-19,SouthCarolina,Government,51.0,44.0,51.0,19
+2020-03-19,SouthCarolina,Arts & Entertainment,53.0,36.0,54.0,20
+2020-03-19,SouthCarolina,Office,60.0,57.0,60.0,21
+2020-03-19,SouthCarolina,Travel & Transport,25.0,23.0,25.0,22
+2020-03-19,SouthCarolina,Beach,173.0,130.0,178.0,23
+2020-03-19,SouthCarolina,Colleges & Universities,24.0,34.0,24.0,24
+2020-03-19,SouthCarolina,Fitness Center,39.0,32.0,39.0,25
+2020-03-19,SouthCarolina,Banks,80.0,72.0,80.0,26
+2020-03-19,SouthCarolina,Alcohol,106.0,96.0,106.0,27
+2020-03-19,SouthCarolina,Airport,39.0,32.0,40.0,28
+2020-03-19,SouthCarolina,Bus,65.0,"",65.0,29
+2020-03-20,SouthCarolina,Shops & Services,23.0,18.0,23.0,1
+2020-03-20,SouthCarolina,Food,27.0,22.0,27.0,2
+2020-03-20,SouthCarolina,Grocery,115.0,97.0,117.0,3
+2020-03-20,SouthCarolina,Gas Stations,89.0,83.0,89.0,4
+2020-03-20,SouthCarolina,Outdoors & Recreation,49.0,39.0,49.0,5
+2020-03-20,SouthCarolina,Fast Food Restaurants,74.0,68.0,75.0,6
+2020-03-20,SouthCarolina,Big Box Stores,90.0,71.0,91.0,7
+2020-03-20,SouthCarolina,Medical,40.0,34.0,40.0,8
+2020-03-20,SouthCarolina,Professional & Other Places,13.0,10.0,13.0,9
+2020-03-20,SouthCarolina,Residences,97.0,93.0,97.0,10
+2020-03-20,SouthCarolina,Convenience Store,87.0,76.0,87.0,11
+2020-03-20,SouthCarolina,Discount Stores,94.0,75.0,95.0,12
+2020-03-20,SouthCarolina,Hardware Stores,118.0,96.0,120.0,13
+2020-03-20,SouthCarolina,School,28.0,32.0,28.0,14
+2020-03-20,SouthCarolina,Hotel,57.0,54.0,57.0,15
+2020-03-20,SouthCarolina,Drug Store,90.0,73.0,91.0,16
+2020-03-20,SouthCarolina,Sports,41.0,48.0,41.0,17
+2020-03-20,SouthCarolina,Nightlife Spots,34.0,29.0,34.0,18
+2020-03-20,SouthCarolina,Government,51.0,43.0,51.0,19
+2020-03-20,SouthCarolina,Arts & Entertainment,48.0,40.0,48.0,20
+2020-03-20,SouthCarolina,Office,61.0,58.0,61.0,21
+2020-03-20,SouthCarolina,Travel & Transport,24.0,23.0,24.0,22
+2020-03-20,SouthCarolina,Banks,80.0,68.0,81.0,23
+2020-03-20,SouthCarolina,Beach,152.0,124.0,154.0,24
+2020-03-20,SouthCarolina,Colleges & Universities,25.0,39.0,25.0,25
+2020-03-20,SouthCarolina,Fitness Center,35.0,28.0,36.0,26
+2020-03-20,SouthCarolina,Alcohol,99.0,97.0,99.0,27
+2020-03-20,SouthCarolina,Airport,30.0,19.0,30.0,28
+2020-03-20,SouthCarolina,Bus,61.0,"",60.0,29
+2020-03-21,SouthCarolina,Shops & Services,18.0,15.0,18.0,1
+2020-03-21,SouthCarolina,Food,22.0,18.0,23.0,2
+2020-03-21,SouthCarolina,Grocery,101.0,82.0,102.0,3
+2020-03-21,SouthCarolina,Gas Stations,88.0,83.0,88.0,4
+2020-03-21,SouthCarolina,Outdoors & Recreation,46.0,39.0,46.0,5
+2020-03-21,SouthCarolina,Big Box Stores,78.0,66.0,79.0,6
+2020-03-21,SouthCarolina,Fast Food Restaurants,66.0,63.0,66.0,7
+2020-03-21,SouthCarolina,Hardware Stores,124.0,109.0,125.0,8
+2020-03-21,SouthCarolina,Discount Stores,87.0,77.0,88.0,9
+2020-03-21,SouthCarolina,Convenience Store,79.0,69.0,80.0,10
+2020-03-21,SouthCarolina,Residences,81.0,73.0,81.0,11
+2020-03-21,SouthCarolina,Hotel,40.0,38.0,41.0,12
+2020-03-21,SouthCarolina,Professional & Other Places,14.0,11.0,14.0,13
+2020-03-21,SouthCarolina,School,38.0,34.0,38.0,14
+2020-03-21,SouthCarolina,Drug Store,84.0,77.0,85.0,15
+2020-03-21,SouthCarolina,Sports,38.0,45.0,38.0,16
+2020-03-21,SouthCarolina,Nightlife Spots,29.0,30.0,29.0,17
+2020-03-21,SouthCarolina,Medical,38.0,32.0,38.0,18
+2020-03-21,SouthCarolina,Arts & Entertainment,35.0,34.0,35.0,19
+2020-03-21,SouthCarolina,Travel & Transport,23.0,25.0,23.0,20
+2020-03-21,SouthCarolina,Beach,116.0,104.0,118.0,21
+2020-03-21,SouthCarolina,Government,56.0,42.0,56.0,22
+2020-03-21,SouthCarolina,Office,67.0,65.0,67.0,23
+2020-03-21,SouthCarolina,Colleges & Universities,29.0,26.0,29.0,24
+2020-03-21,SouthCarolina,Fitness Center,29.0,24.0,29.0,25
+2020-03-21,SouthCarolina,Alcohol,79.0,73.0,79.0,26
+2020-03-21,SouthCarolina,Banks,72.0,60.0,72.0,27
+2020-03-21,SouthCarolina,Airport,37.0,26.0,38.0,28
+2020-03-22,SouthCarolina,Food,21.0,15.0,21.0,1
+2020-03-22,SouthCarolina,Shops & Services,17.0,14.0,17.0,2
+2020-03-22,SouthCarolina,Grocery,81.0,74.0,81.0,3
+2020-03-22,SouthCarolina,Gas Stations,70.0,64.0,70.0,4
+2020-03-22,SouthCarolina,Outdoors & Recreation,42.0,36.0,43.0,5
+2020-03-22,SouthCarolina,Big Box Stores,68.0,67.0,68.0,6
+2020-03-22,SouthCarolina,Fast Food Restaurants,61.0,51.0,61.0,7
+2020-03-22,SouthCarolina,Discount Stores,76.0,59.0,76.0,8
+2020-03-22,SouthCarolina,Hardware Stores,102.0,90.0,102.0,9
+2020-03-22,SouthCarolina,Residences,67.0,62.0,68.0,10
+2020-03-22,SouthCarolina,Convenience Store,66.0,52.0,66.0,11
+2020-03-22,SouthCarolina,School,41.0,33.0,41.0,12
+2020-03-22,SouthCarolina,Hotel,32.0,27.0,32.0,13
+2020-03-22,SouthCarolina,Drug Store,77.0,80.0,77.0,13
+2020-03-22,SouthCarolina,Professional & Other Places,10.0,6.0,11.0,14
+2020-03-22,SouthCarolina,Sports,30.0,31.0,30.0,15
+2020-03-22,SouthCarolina,Nightlife Spots,24.0,22.0,24.0,16
+2020-03-22,SouthCarolina,Medical,33.0,22.0,34.0,17
+2020-03-22,SouthCarolina,Arts & Entertainment,31.0,23.0,31.0,18
+2020-03-22,SouthCarolina,Travel & Transport,18.0,14.0,18.0,19
+2020-03-22,SouthCarolina,Government,53.0,39.0,54.0,20
+2020-03-22,SouthCarolina,Colleges & Universities,34.0,36.0,34.0,21
+2020-03-22,SouthCarolina,Office,55.0,46.0,56.0,22
+2020-03-22,SouthCarolina,Beach,53.0,40.0,54.0,23
+2020-03-22,SouthCarolina,Fitness Center,31.0,29.0,31.0,24
+2020-03-22,SouthCarolina,Banks,69.0,48.0,70.0,25
+2020-03-22,SouthCarolina,Airport,27.0,"",27.0,26
+2020-03-22,SouthCarolina,Alcohol,66.0,53.0,66.0,27
+2020-03-23,SouthCarolina,Shops & Services,21.0,15.0,21.0,1
+2020-03-23,SouthCarolina,Food,24.0,19.0,24.0,2
+2020-03-23,SouthCarolina,Grocery,94.0,80.0,95.0,3
+2020-03-23,SouthCarolina,Gas Stations,76.0,63.0,76.0,4
+2020-03-23,SouthCarolina,Outdoors & Recreation,35.0,26.0,36.0,5
+2020-03-23,SouthCarolina,Fast Food Restaurants,63.0,52.0,63.0,6
+2020-03-23,SouthCarolina,Medical,33.0,27.0,33.0,7
+2020-03-23,SouthCarolina,Big Box Stores,82.0,64.0,83.0,8
+2020-03-23,SouthCarolina,Professional & Other Places,12.0,9.0,12.0,9
+2020-03-23,SouthCarolina,Convenience Store,71.0,64.0,71.0,10
+2020-03-23,SouthCarolina,Residences,71.0,60.0,72.0,11
+2020-03-23,SouthCarolina,School,23.0,23.0,23.0,12
+2020-03-23,SouthCarolina,Discount Stores,83.0,70.0,84.0,13
+2020-03-23,SouthCarolina,Hardware Stores,87.0,70.0,89.0,14
+2020-03-23,SouthCarolina,Drug Store,86.0,73.0,87.0,15
+2020-03-23,SouthCarolina,Hotel,42.0,27.0,43.0,16
+2020-03-23,SouthCarolina,Sports,27.0,27.0,28.0,17
+2020-03-23,SouthCarolina,Government,47.0,35.0,47.0,18
+2020-03-23,SouthCarolina,Office,55.0,55.0,55.0,19
+2020-03-23,SouthCarolina,Nightlife Spots,31.0,25.0,32.0,20
+2020-03-23,SouthCarolina,Arts & Entertainment,39.0,27.0,40.0,21
+2020-03-23,SouthCarolina,Colleges & Universities,23.0,30.0,23.0,22
+2020-03-23,SouthCarolina,Travel & Transport,18.0,14.0,18.0,23
+2020-03-23,SouthCarolina,Banks,74.0,51.0,75.0,24
+2020-03-23,SouthCarolina,Fitness Center,26.0,18.0,26.0,25
+2020-03-23,SouthCarolina,Beach,70.0,50.0,72.0,26
+2020-03-23,SouthCarolina,Alcohol,86.0,62.0,88.0,27
+2020-03-23,SouthCarolina,Airport,27.0,23.0,27.0,28
+2020-03-24,SouthCarolina,Food,23.0,16.0,23.0,1
+2020-03-24,SouthCarolina,Shops & Services,19.0,15.0,20.0,2
+2020-03-24,SouthCarolina,Grocery,86.0,79.0,87.0,3
+2020-03-24,SouthCarolina,Gas Stations,71.0,58.0,72.0,4
+2020-03-24,SouthCarolina,Fast Food Restaurants,60.0,47.0,60.0,5
+2020-03-24,SouthCarolina,Outdoors & Recreation,35.0,28.0,35.0,6
+2020-03-24,SouthCarolina,Medical,29.0,22.0,30.0,7
+2020-03-24,SouthCarolina,Big Box Stores,75.0,62.0,75.0,8
+2020-03-24,SouthCarolina,Professional & Other Places,13.0,9.0,13.0,9
+2020-03-24,SouthCarolina,Residences,76.0,67.0,77.0,10
+2020-03-24,SouthCarolina,School,19.0,21.0,19.0,11
+2020-03-24,SouthCarolina,Convenience Store,65.0,52.0,66.0,12
+2020-03-24,SouthCarolina,Discount Stores,74.0,59.0,74.0,13
+2020-03-24,SouthCarolina,Hardware Stores,82.0,66.0,83.0,14
+2020-03-24,SouthCarolina,Drug Store,72.0,63.0,72.0,15
+2020-03-24,SouthCarolina,Hotel,40.0,27.0,41.0,16
+2020-03-24,SouthCarolina,Sports,28.0,28.0,28.0,17
+2020-03-24,SouthCarolina,Office,49.0,44.0,49.0,18
+2020-03-24,SouthCarolina,Government,41.0,31.0,41.0,19
+2020-03-24,SouthCarolina,Nightlife Spots,33.0,25.0,33.0,20
+2020-03-24,SouthCarolina,Arts & Entertainment,40.0,28.0,41.0,21
+2020-03-24,SouthCarolina,Travel & Transport,18.0,13.0,19.0,22
+2020-03-24,SouthCarolina,Colleges & Universities,21.0,29.0,20.0,23
+2020-03-24,SouthCarolina,Fitness Center,24.0,20.0,24.0,24
+2020-03-24,SouthCarolina,Banks,61.0,52.0,62.0,25
+2020-03-24,SouthCarolina,Beach,69.0,56.0,71.0,26
+2020-03-24,SouthCarolina,Alcohol,81.0,62.0,82.0,27
+2020-03-24,SouthCarolina,Airport,27.0,17.0,28.0,28
+2020-03-25,SouthCarolina,Food,25.0,19.0,25.0,1
+2020-03-25,SouthCarolina,Shops & Services,20.0,15.0,20.0,2
+2020-03-25,SouthCarolina,Grocery,87.0,75.0,88.0,3
+2020-03-25,SouthCarolina,Gas Stations,79.0,67.0,79.0,4
+2020-03-25,SouthCarolina,Outdoors & Recreation,43.0,34.0,43.0,5
+2020-03-25,SouthCarolina,Fast Food Restaurants,64.0,55.0,64.0,6
+2020-03-25,SouthCarolina,Medical,32.0,23.0,32.0,7
+2020-03-25,SouthCarolina,Big Box Stores,78.0,59.0,79.0,8
+2020-03-25,SouthCarolina,Professional & Other Places,11.0,8.0,11.0,9
+2020-03-25,SouthCarolina,Residences,87.0,77.0,87.0,10
+2020-03-25,SouthCarolina,Convenience Store,77.0,67.0,78.0,11
+2020-03-25,SouthCarolina,School,23.0,24.0,23.0,12
+2020-03-25,SouthCarolina,Discount Stores,82.0,67.0,83.0,13
+2020-03-25,SouthCarolina,Hardware Stores,101.0,79.0,102.0,14
+2020-03-25,SouthCarolina,Sports,34.0,35.0,34.0,15
+2020-03-25,SouthCarolina,Drug Store,76.0,70.0,77.0,16
+2020-03-25,SouthCarolina,Hotel,43.0,31.0,44.0,17
+2020-03-25,SouthCarolina,Nightlife Spots,31.0,24.0,32.0,18
+2020-03-25,SouthCarolina,Office,53.0,45.0,53.0,19
+2020-03-25,SouthCarolina,Government,42.0,31.0,43.0,20
+2020-03-25,SouthCarolina,Arts & Entertainment,46.0,38.0,47.0,21
+2020-03-25,SouthCarolina,Colleges & Universities,19.0,27.0,19.0,22
+2020-03-25,SouthCarolina,Travel & Transport,20.0,16.0,21.0,23
+2020-03-25,SouthCarolina,Fitness Center,25.0,19.0,25.0,24
+2020-03-25,SouthCarolina,Beach,88.0,65.0,91.0,25
+2020-03-25,SouthCarolina,Banks,61.0,49.0,62.0,25
+2020-03-25,SouthCarolina,Alcohol,83.0,61.0,84.0,26
+2020-03-25,SouthCarolina,Airport,31.0,20.0,31.0,27
+2020-03-26,SouthCarolina,Food,25.0,20.0,26.0,1
+2020-03-26,SouthCarolina,Shops & Services,21.0,16.0,21.0,2
+2020-03-26,SouthCarolina,Grocery,87.0,75.0,88.0,3
+2020-03-26,SouthCarolina,Gas Stations,79.0,72.0,79.0,4
+2020-03-26,SouthCarolina,Outdoors & Recreation,43.0,37.0,44.0,5
+2020-03-26,SouthCarolina,Fast Food Restaurants,64.0,56.0,65.0,6
+2020-03-26,SouthCarolina,Big Box Stores,78.0,65.0,79.0,7
+2020-03-26,SouthCarolina,Medical,32.0,23.0,32.0,8
+2020-03-26,SouthCarolina,Professional & Other Places,11.0,9.0,12.0,9
+2020-03-26,SouthCarolina,Residences,92.0,84.0,92.0,10
+2020-03-26,SouthCarolina,School,22.0,25.0,22.0,11
+2020-03-26,SouthCarolina,Convenience Store,76.0,68.0,76.0,12
+2020-03-26,SouthCarolina,Hardware Stores,108.0,96.0,109.0,13
+2020-03-26,SouthCarolina,Discount Stores,83.0,73.0,84.0,14
+2020-03-26,SouthCarolina,Sports,38.0,40.0,38.0,15
+2020-03-26,SouthCarolina,Drug Store,77.0,69.0,77.0,16
+2020-03-26,SouthCarolina,Hotel,43.0,34.0,44.0,17
+2020-03-26,SouthCarolina,Nightlife Spots,32.0,26.0,32.0,18
+2020-03-26,SouthCarolina,Government,45.0,38.0,46.0,19
+2020-03-26,SouthCarolina,Office,55.0,53.0,55.0,20
+2020-03-26,SouthCarolina,Arts & Entertainment,46.0,33.0,47.0,21
+2020-03-26,SouthCarolina,Travel & Transport,25.0,21.0,25.0,22
+2020-03-26,SouthCarolina,Colleges & Universities,23.0,32.0,23.0,23
+2020-03-26,SouthCarolina,Banks,68.0,56.0,69.0,24
+2020-03-26,SouthCarolina,Fitness Center,27.0,24.0,27.0,25
+2020-03-26,SouthCarolina,Beach,86.0,70.0,88.0,26
+2020-03-26,SouthCarolina,Alcohol,86.0,66.0,88.0,27
+2020-03-26,SouthCarolina,Airport,27.0,20.0,28.0,28
+2020-03-27,SouthCarolina,Food,22.0,17.0,23.0,1
+2020-03-27,SouthCarolina,Shops & Services,19.0,15.0,20.0,2
+2020-03-27,SouthCarolina,Grocery,87.0,70.0,88.0,3
+2020-03-27,SouthCarolina,Gas Stations,78.0,64.0,79.0,4
+2020-03-27,SouthCarolina,Outdoors & Recreation,45.0,37.0,45.0,5
+2020-03-27,SouthCarolina,Fast Food Restaurants,65.0,57.0,65.0,6
+2020-03-27,SouthCarolina,Big Box Stores,76.0,62.0,77.0,7
+2020-03-27,SouthCarolina,Medical,33.0,26.0,33.0,8
+2020-03-27,SouthCarolina,Professional & Other Places,12.0,10.0,12.0,9
+2020-03-27,SouthCarolina,Residences,87.0,83.0,88.0,10
+2020-03-27,SouthCarolina,Convenience Store,75.0,63.0,76.0,11
+2020-03-27,SouthCarolina,Hardware Stores,113.0,91.0,115.0,12
+2020-03-27,SouthCarolina,School,25.0,31.0,25.0,13
+2020-03-27,SouthCarolina,Discount Stores,81.0,70.0,82.0,14
+2020-03-27,SouthCarolina,Sports,38.0,45.0,38.0,15
+2020-03-27,SouthCarolina,Nightlife Spots,35.0,30.0,35.0,16
+2020-03-27,SouthCarolina,Drug Store,69.0,63.0,69.0,17
+2020-03-27,SouthCarolina,Hotel,38.0,32.0,38.0,18
+2020-03-27,SouthCarolina,Government,45.0,38.0,45.0,19
+2020-03-27,SouthCarolina,Arts & Entertainment,41.0,30.0,42.0,20
+2020-03-27,SouthCarolina,Office,53.0,51.0,53.0,21
+2020-03-27,SouthCarolina,Travel & Transport,20.0,16.0,20.0,22
+2020-03-27,SouthCarolina,Banks,67.0,51.0,68.0,23
+2020-03-27,SouthCarolina,Colleges & Universities,23.0,31.0,23.0,24
+2020-03-27,SouthCarolina,Beach,105.0,81.0,108.0,25
+2020-03-27,SouthCarolina,Fitness Center,28.0,22.0,28.0,26
+2020-03-27,SouthCarolina,Alcohol,82.0,67.0,82.0,27
+2020-03-27,SouthCarolina,Airport,26.0,19.0,27.0,28
+2020-03-28,SouthCarolina,Food,20.0,16.0,21.0,1
+2020-03-28,SouthCarolina,Shops & Services,16.0,13.0,16.0,2
+2020-03-28,SouthCarolina,Grocery,88.0,67.0,89.0,3
+2020-03-28,SouthCarolina,Gas Stations,77.0,64.0,78.0,4
+2020-03-28,SouthCarolina,Outdoors & Recreation,44.0,36.0,45.0,5
+2020-03-28,SouthCarolina,Big Box Stores,73.0,62.0,74.0,6
+2020-03-28,SouthCarolina,Fast Food Restaurants,64.0,58.0,65.0,7
+2020-03-28,SouthCarolina,Hardware Stores,124.0,97.0,126.0,8
+2020-03-28,SouthCarolina,Residences,83.0,80.0,83.0,9
+2020-03-28,SouthCarolina,Discount Stores,77.0,68.0,78.0,10
+2020-03-28,SouthCarolina,Convenience Store,75.0,57.0,76.0,11
+2020-03-28,SouthCarolina,Professional & Other Places,13.0,11.0,13.0,12
+2020-03-28,SouthCarolina,School,36.0,32.0,36.0,13
+2020-03-28,SouthCarolina,Nightlife Spots,27.0,26.0,27.0,14
+2020-03-28,SouthCarolina,Sports,34.0,40.0,34.0,15
+2020-03-28,SouthCarolina,Drug Store,75.0,63.0,75.0,16
+2020-03-28,SouthCarolina,Hotel,32.0,31.0,32.0,17
+2020-03-28,SouthCarolina,Medical,36.0,27.0,37.0,18
+2020-03-28,SouthCarolina,Arts & Entertainment,33.0,27.0,33.0,19
+2020-03-28,SouthCarolina,Travel & Transport,20.0,16.0,21.0,20
+2020-03-28,SouthCarolina,Government,53.0,47.0,54.0,21
+2020-03-28,SouthCarolina,Beach,102.0,87.0,104.0,22
+2020-03-28,SouthCarolina,Colleges & Universities,37.0,35.0,37.0,23
+2020-03-28,SouthCarolina,Office,57.0,57.0,57.0,24
+2020-03-28,SouthCarolina,Alcohol,79.0,74.0,79.0,25
+2020-03-28,SouthCarolina,Banks,65.0,52.0,65.0,26
+2020-03-28,SouthCarolina,Fitness Center,23.0,20.0,23.0,27
+2020-03-28,SouthCarolina,Airport,31.0,"",32.0,28
+2020-03-29,SouthCarolina,Food,17.0,14.0,17.0,1
+2020-03-29,SouthCarolina,Shops & Services,15.0,13.0,15.0,2
+2020-03-29,SouthCarolina,Grocery,67.0,58.0,68.0,3
+2020-03-29,SouthCarolina,Gas Stations,63.0,56.0,63.0,4
+2020-03-29,SouthCarolina,Outdoors & Recreation,39.0,34.0,39.0,5
+2020-03-29,SouthCarolina,Big Box Stores,63.0,56.0,63.0,6
+2020-03-29,SouthCarolina,Fast Food Restaurants,56.0,47.0,56.0,7
+2020-03-29,SouthCarolina,Hardware Stores,113.0,100.0,113.0,8
+2020-03-29,SouthCarolina,Discount Stores,69.0,60.0,69.0,9
+2020-03-29,SouthCarolina,Residences,63.0,64.0,63.0,10
+2020-03-29,SouthCarolina,Convenience Store,63.0,54.0,63.0,11
+2020-03-29,SouthCarolina,Sports,32.0,34.0,32.0,12
+2020-03-29,SouthCarolina,School,35.0,29.0,35.0,13
+2020-03-29,SouthCarolina,Nightlife Spots,21.0,20.0,21.0,14
+2020-03-29,SouthCarolina,Drug Store,67.0,59.0,67.0,15
+2020-03-29,SouthCarolina,Hotel,27.0,26.0,28.0,16
+2020-03-29,SouthCarolina,Professional & Other Places,9.0,6.0,9.0,17
+2020-03-29,SouthCarolina,Medical,30.0,24.0,30.0,18
+2020-03-29,SouthCarolina,Arts & Entertainment,26.0,23.0,26.0,19
+2020-03-29,SouthCarolina,Travel & Transport,17.0,16.0,18.0,20
+2020-03-29,SouthCarolina,Government,46.0,41.0,46.0,21
+2020-03-29,SouthCarolina,Beach,76.0,65.0,76.0,22
+2020-03-29,SouthCarolina,Colleges & Universities,27.0,30.0,27.0,23
+2020-03-29,SouthCarolina,Office,49.0,47.0,50.0,24
+2020-03-29,SouthCarolina,Fitness Center,23.0,22.0,23.0,25
+2020-03-29,SouthCarolina,Banks,60.0,43.0,60.0,26
+2020-03-29,SouthCarolina,Alcohol,52.0,"",52.0,27
+2020-03-29,SouthCarolina,Airport,19.0,"",19.0,28
+2020-03-30,SouthCarolina,Shops & Services,20.0,15.0,20.0,1
+2020-03-30,SouthCarolina,Food,25.0,19.0,25.0,2
+2020-03-30,SouthCarolina,Grocery,81.0,70.0,82.0,3
+2020-03-30,SouthCarolina,Gas Stations,74.0,59.0,75.0,4
+2020-03-30,SouthCarolina,Outdoors & Recreation,36.0,28.0,36.0,5
+2020-03-30,SouthCarolina,Fast Food Restaurants,65.0,57.0,65.0,6
+2020-03-30,SouthCarolina,Medical,30.0,24.0,30.0,7
+2020-03-30,SouthCarolina,Big Box Stores,75.0,62.0,76.0,8
+2020-03-30,SouthCarolina,Professional & Other Places,10.0,9.0,10.0,9
+2020-03-30,SouthCarolina,Residences,78.0,71.0,79.0,10
+2020-03-30,SouthCarolina,School,25.0,29.0,24.0,11
+2020-03-30,SouthCarolina,Hardware Stores,109.0,95.0,110.0,12
+2020-03-30,SouthCarolina,Convenience Store,72.0,59.0,73.0,13
+2020-03-30,SouthCarolina,Discount Stores,81.0,73.0,82.0,14
+2020-03-30,SouthCarolina,Sports,29.0,28.0,29.0,15
+2020-03-30,SouthCarolina,Drug Store,76.0,71.0,76.0,16
+2020-03-30,SouthCarolina,Nightlife Spots,31.0,26.0,31.0,17
+2020-03-30,SouthCarolina,Hotel,35.0,26.0,36.0,18
+2020-03-30,SouthCarolina,Government,44.0,34.0,45.0,19
+2020-03-30,SouthCarolina,Office,48.0,52.0,48.0,20
+2020-03-30,SouthCarolina,Arts & Entertainment,38.0,29.0,39.0,21
+2020-03-30,SouthCarolina,Colleges & Universities,21.0,33.0,21.0,22
+2020-03-30,SouthCarolina,Travel & Transport,20.0,15.0,20.0,23
+2020-03-30,SouthCarolina,Banks,75.0,67.0,75.0,24
+2020-03-30,SouthCarolina,Fitness Center,22.0,15.0,22.0,25
+2020-03-30,SouthCarolina,Beach,63.0,46.0,65.0,26
+2020-03-30,SouthCarolina,Alcohol,79.0,59.0,80.0,27
+2020-03-30,SouthCarolina,Airport,23.0,24.0,23.0,28
+2020-03-31,SouthCarolina,Food,22.0,17.0,23.0,1
+2020-03-31,SouthCarolina,Shops & Services,23.0,17.0,23.0,2
+2020-03-31,SouthCarolina,Grocery,80.0,76.0,81.0,3
+2020-03-31,SouthCarolina,Gas Stations,69.0,58.0,70.0,4
+2020-03-31,SouthCarolina,Fast Food Restaurants,62.0,52.0,62.0,5
+2020-03-31,SouthCarolina,Outdoors & Recreation,29.0,24.0,30.0,6
+2020-03-31,SouthCarolina,Big Box Stores,72.0,64.0,73.0,7
+2020-03-31,SouthCarolina,Medical,25.0,20.0,25.0,8
+2020-03-31,SouthCarolina,Professional & Other Places,9.0,7.0,9.0,9
+2020-03-31,SouthCarolina,Residences,69.0,65.0,69.0,10
+2020-03-31,SouthCarolina,Hardware Stores,98.0,86.0,99.0,11
+2020-03-31,SouthCarolina,Convenience Store,66.0,56.0,67.0,12
+2020-03-31,SouthCarolina,School,19.0,21.0,19.0,13
+2020-03-31,SouthCarolina,Discount Stores,74.0,64.0,74.0,14
+2020-03-31,SouthCarolina,Drug Store,68.0,66.0,68.0,15
+2020-03-31,SouthCarolina,Sports,27.0,28.0,27.0,16
+2020-03-31,SouthCarolina,Nightlife Spots,31.0,24.0,32.0,17
+2020-03-31,SouthCarolina,Government,37.0,32.0,37.0,18
+2020-03-31,SouthCarolina,Office,42.0,42.0,42.0,19
+2020-03-31,SouthCarolina,Hotel,29.0,24.0,30.0,20
+2020-03-31,SouthCarolina,Arts & Entertainment,36.0,26.0,37.0,21
+2020-03-31,SouthCarolina,Travel & Transport,17.0,11.0,18.0,22
+2020-03-31,SouthCarolina,Colleges & Universities,17.0,31.0,17.0,23
+2020-03-31,SouthCarolina,Banks,68.0,59.0,68.0,24
+2020-03-31,SouthCarolina,Fitness Center,19.0,18.0,19.0,25
+2020-03-31,SouthCarolina,Beach,54.0,45.0,56.0,26
+2020-03-31,SouthCarolina,Alcohol,79.0,79.0,79.0,27
+2020-03-31,SouthCarolina,Airport,24.0,18.0,24.0,28
+2020-04-01,SouthCarolina,Shops & Services,22.0,16.0,22.0,1
+2020-04-01,SouthCarolina,Food,22.0,17.0,22.0,2
+2020-04-01,SouthCarolina,Grocery,87.0,76.0,88.0,3
+2020-04-01,SouthCarolina,Gas Stations,74.0,63.0,74.0,4
+2020-04-01,SouthCarolina,Fast Food Restaurants,62.0,52.0,63.0,5
+2020-04-01,SouthCarolina,Outdoors & Recreation,37.0,35.0,37.0,6
+2020-04-01,SouthCarolina,Big Box Stores,78.0,65.0,79.0,7
+2020-04-01,SouthCarolina,Medical,27.0,20.0,28.0,8
+2020-04-01,SouthCarolina,Professional & Other Places,9.0,7.0,9.0,9
+2020-04-01,SouthCarolina,Residences,77.0,66.0,77.0,10
+2020-04-01,SouthCarolina,School,20.0,22.0,20.0,11
+2020-04-01,SouthCarolina,Convenience Store,69.0,59.0,69.0,12
+2020-04-01,SouthCarolina,Hardware Stores,100.0,78.0,101.0,13
+2020-04-01,SouthCarolina,Discount Stores,80.0,70.0,80.0,14
+2020-04-01,SouthCarolina,Drug Store,80.0,70.0,80.0,15
+2020-04-01,SouthCarolina,Sports,30.0,28.0,30.0,16
+2020-04-01,SouthCarolina,Nightlife Spots,29.0,26.0,30.0,17
+2020-04-01,SouthCarolina,Government,39.0,32.0,39.0,18
+2020-04-01,SouthCarolina,Office,45.0,44.0,45.0,19
+2020-04-01,SouthCarolina,Hotel,31.0,23.0,31.0,20
+2020-04-01,SouthCarolina,Arts & Entertainment,42.0,30.0,43.0,21
+2020-04-01,SouthCarolina,Colleges & Universities,19.0,27.0,19.0,22
+2020-04-01,SouthCarolina,Travel & Transport,17.0,13.0,18.0,23
+2020-04-01,SouthCarolina,Banks,76.0,65.0,77.0,24
+2020-04-01,SouthCarolina,Fitness Center,18.0,14.0,18.0,25
+2020-04-01,SouthCarolina,Alcohol,89.0,67.0,90.0,26
+2020-04-01,SouthCarolina,Beach,54.0,45.0,55.0,27
+2020-04-01,SouthCarolina,Airport,24.0,"",25.0,28

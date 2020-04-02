@@ -1,0 +1,885 @@
+2020-03-01,NewHampshire,Food,54.0,58.0,54.0,1
+2020-03-01,NewHampshire,Shops & Services,31.0,26.0,31.0,2
+2020-03-01,NewHampshire,Grocery,97.0,94.0,97.0,3
+2020-03-01,NewHampshire,Big Box Stores,105.0,98.0,106.0,4
+2020-03-01,NewHampshire,Outdoors & Recreation,31.0,30.0,31.0,5
+2020-03-01,NewHampshire,Nightlife Spots,69.0,56.0,69.0,6
+2020-03-01,NewHampshire,Gas Stations,96.0,84.0,96.0,7
+2020-03-01,NewHampshire,Arts & Entertainment,53.0,57.0,52.0,8
+2020-03-01,NewHampshire,Hardware Stores,111.0,107.0,111.0,9
+2020-03-01,NewHampshire,Convenience Store,94.0,89.0,94.0,10
+2020-03-01,NewHampshire,Fast Food Restaurants,109.0,95.0,109.0,11
+2020-03-01,NewHampshire,Hotel,64.0,64.0,64.0,12
+2020-03-01,NewHampshire,Skiing,63.0,49.0,63.0,13
+2020-03-01,NewHampshire,Drug Store,100.0,76.0,101.0,14
+2020-03-01,NewHampshire,Medical,57.0,65.0,57.0,15
+2020-03-01,NewHampshire,Professional & Other Places,19.0,18.0,19.0,16
+2020-03-01,NewHampshire,Fitness Center,73.0,64.0,73.0,17
+2020-03-01,NewHampshire,School,53.0,50.0,53.0,18
+2020-03-01,NewHampshire,Colleges & Universities,103.0,"",103.0,19
+2020-03-01,NewHampshire,Sports,33.0,27.0,34.0,20
+2020-03-01,NewHampshire,Residences,94.0,"",95.0,21
+2020-03-01,NewHampshire,Alcohol,100.0,129.0,99.0,22
+2020-03-01,NewHampshire,Travel & Transport,89.0,"",89.0,23
+2020-03-01,NewHampshire,Discount Stores,99.0,"",99.0,24
+2020-03-01,NewHampshire,Government,54.0,"",54.0,25
+2020-03-01,NewHampshire,Banks,111.0,"",111.0,26
+2020-03-01,NewHampshire,Beach,71.0,"",72.0,27
+2020-03-01,NewHampshire,Office,73.0,"",74.0,28
+2020-03-02,NewHampshire,Food,49.0,51.0,49.0,1
+2020-03-02,NewHampshire,Shops & Services,40.0,45.0,40.0,2
+2020-03-02,NewHampshire,Grocery,103.0,117.0,102.0,3
+2020-03-02,NewHampshire,Medical,58.0,57.0,58.0,4
+2020-03-02,NewHampshire,Outdoors & Recreation,42.0,47.0,42.0,5
+2020-03-02,NewHampshire,Gas Stations,101.0,104.0,101.0,6
+2020-03-02,NewHampshire,School,66.0,64.0,66.0,7
+2020-03-02,NewHampshire,Big Box Stores,105.0,109.0,105.0,8
+2020-03-02,NewHampshire,Professional & Other Places,21.0,22.0,20.0,9
+2020-03-02,NewHampshire,Nightlife Spots,57.0,61.0,57.0,10
+2020-03-02,NewHampshire,Convenience Store,99.0,96.0,99.0,11
+2020-03-02,NewHampshire,Colleges & Universities,86.0,67.0,86.0,12
+2020-03-02,NewHampshire,Fitness Center,67.0,78.0,67.0,13
+2020-03-02,NewHampshire,Fast Food Restaurants,112.0,115.0,111.0,14
+2020-03-02,NewHampshire,Hardware Stores,98.0,96.0,98.0,15
+2020-03-02,NewHampshire,Drug Store,107.0,109.0,107.0,16
+2020-03-02,NewHampshire,Arts & Entertainment,49.0,57.0,49.0,17
+2020-03-02,NewHampshire,Office,88.0,82.0,88.0,18
+2020-03-02,NewHampshire,Government,72.0,69.0,72.0,19
+2020-03-02,NewHampshire,Hotel,61.0,48.0,61.0,20
+2020-03-02,NewHampshire,Sports,28.0,30.0,28.0,21
+2020-03-02,NewHampshire,Banks,116.0,136.0,114.0,22
+2020-03-02,NewHampshire,Residences,91.0,103.0,91.0,23
+2020-03-02,NewHampshire,Alcohol,105.0,108.0,104.0,24
+2020-03-02,NewHampshire,Travel & Transport,35.0,36.0,35.0,25
+2020-03-02,NewHampshire,Skiing,41.0,46.0,41.0,26
+2020-03-02,NewHampshire,Discount Stores,99.0,"",100.0,27
+2020-03-02,NewHampshire,Airport,77.0,"",76.0,28
+2020-03-02,NewHampshire,Beach,68.0,"",67.0,29
+2020-03-03,NewHampshire,Food,55.0,54.0,55.0,1
+2020-03-03,NewHampshire,Shops & Services,45.0,45.0,45.0,2
+2020-03-03,NewHampshire,Grocery,103.0,107.0,103.0,3
+2020-03-03,NewHampshire,Medical,56.0,52.0,56.0,4
+2020-03-03,NewHampshire,Outdoors & Recreation,51.0,49.0,51.0,5
+2020-03-03,NewHampshire,Gas Stations,106.0,113.0,106.0,6
+2020-03-03,NewHampshire,School,50.0,42.0,50.0,7
+2020-03-03,NewHampshire,Big Box Stores,117.0,129.0,116.0,8
+2020-03-03,NewHampshire,Professional & Other Places,17.0,19.0,17.0,9
+2020-03-03,NewHampshire,Nightlife Spots,56.0,55.0,56.0,10
+2020-03-03,NewHampshire,Convenience Store,97.0,93.0,97.0,11
+2020-03-03,NewHampshire,Colleges & Universities,80.0,75.0,80.0,12
+2020-03-03,NewHampshire,Fitness Center,64.0,63.0,64.0,13
+2020-03-03,NewHampshire,Fast Food Restaurants,111.0,109.0,111.0,14
+2020-03-03,NewHampshire,Hardware Stores,106.0,119.0,105.0,15
+2020-03-03,NewHampshire,Drug Store,108.0,109.0,108.0,16
+2020-03-03,NewHampshire,Arts & Entertainment,53.0,55.0,53.0,17
+2020-03-03,NewHampshire,Office,87.0,79.0,87.0,18
+2020-03-03,NewHampshire,Government,59.0,52.0,59.0,19
+2020-03-03,NewHampshire,Hotel,60.0,59.0,61.0,20
+2020-03-03,NewHampshire,Sports,32.0,32.0,32.0,21
+2020-03-03,NewHampshire,Banks,119.0,136.0,118.0,22
+2020-03-03,NewHampshire,Residences,96.0,93.0,97.0,23
+2020-03-03,NewHampshire,Alcohol,108.0,126.0,107.0,24
+2020-03-03,NewHampshire,Travel & Transport,31.0,35.0,31.0,25
+2020-03-03,NewHampshire,Skiing,45.0,45.0,45.0,26
+2020-03-03,NewHampshire,Discount Stores,96.0,119.0,95.0,27
+2020-03-03,NewHampshire,Airport,70.0,"",68.0,28
+2020-03-03,NewHampshire,Beach,104.0,"",103.0,29
+2020-03-04,NewHampshire,Food,53.0,52.0,53.0,1
+2020-03-04,NewHampshire,Shops & Services,30.0,29.0,30.0,2
+2020-03-04,NewHampshire,Grocery,97.0,91.0,98.0,3
+2020-03-04,NewHampshire,Medical,49.0,49.0,49.0,4
+2020-03-04,NewHampshire,Outdoors & Recreation,32.0,32.0,32.0,5
+2020-03-04,NewHampshire,Gas Stations,99.0,92.0,100.0,6
+2020-03-04,NewHampshire,School,59.0,58.0,59.0,7
+2020-03-04,NewHampshire,Big Box Stores,98.0,100.0,98.0,8
+2020-03-04,NewHampshire,Nightlife Spots,53.0,54.0,53.0,9
+2020-03-04,NewHampshire,Professional & Other Places,18.0,18.0,18.0,10
+2020-03-04,NewHampshire,Colleges & Universities,84.0,77.0,84.0,11
+2020-03-04,NewHampshire,Convenience Store,92.0,84.0,92.0,12
+2020-03-04,NewHampshire,Fitness Center,66.0,66.0,66.0,13
+2020-03-04,NewHampshire,Fast Food Restaurants,98.0,89.0,98.0,14
+2020-03-04,NewHampshire,Hardware Stores,102.0,103.0,101.0,15
+2020-03-04,NewHampshire,Drug Store,98.0,94.0,99.0,16
+2020-03-04,NewHampshire,Arts & Entertainment,50.0,46.0,50.0,17
+2020-03-04,NewHampshire,Office,85.0,72.0,85.0,18
+2020-03-04,NewHampshire,Hotel,60.0,51.0,61.0,19
+2020-03-04,NewHampshire,Government,61.0,62.0,61.0,20
+2020-03-04,NewHampshire,Sports,27.0,31.0,27.0,21
+2020-03-04,NewHampshire,Residences,93.0,98.0,92.0,22
+2020-03-04,NewHampshire,Banks,99.0,90.0,100.0,23
+2020-03-04,NewHampshire,Alcohol,92.0,82.0,93.0,24
+2020-03-04,NewHampshire,Travel & Transport,26.0,"",26.0,25
+2020-03-04,NewHampshire,Discount Stores,98.0,"",98.0,26
+2020-03-04,NewHampshire,Skiing,35.0,"",35.0,27
+2020-03-04,NewHampshire,Airport,77.0,"",77.0,28
+2020-03-05,NewHampshire,Food,56.0,60.0,56.0,1
+2020-03-05,NewHampshire,Shops & Services,48.0,52.0,48.0,2
+2020-03-05,NewHampshire,Grocery,108.0,103.0,108.0,3
+2020-03-05,NewHampshire,Medical,58.0,59.0,58.0,4
+2020-03-05,NewHampshire,Outdoors & Recreation,38.0,40.0,38.0,5
+2020-03-05,NewHampshire,Gas Stations,102.0,100.0,102.0,6
+2020-03-05,NewHampshire,Big Box Stores,116.0,128.0,115.0,7
+2020-03-05,NewHampshire,School,87.0,77.0,87.0,8
+2020-03-05,NewHampshire,Nightlife Spots,51.0,53.0,51.0,9
+2020-03-05,NewHampshire,Professional & Other Places,20.0,19.0,20.0,10
+2020-03-05,NewHampshire,Convenience Store,104.0,109.0,104.0,11
+2020-03-05,NewHampshire,Colleges & Universities,93.0,100.0,93.0,12
+2020-03-05,NewHampshire,Hardware Stores,121.0,153.0,119.0,13
+2020-03-05,NewHampshire,Fast Food Restaurants,108.0,106.0,108.0,14
+2020-03-05,NewHampshire,Fitness Center,64.0,65.0,64.0,15
+2020-03-05,NewHampshire,Arts & Entertainment,56.0,51.0,56.0,16
+2020-03-05,NewHampshire,Drug Store,102.0,101.0,102.0,17
+2020-03-05,NewHampshire,Hotel,66.0,72.0,66.0,18
+2020-03-05,NewHampshire,Office,93.0,90.0,94.0,19
+2020-03-05,NewHampshire,Government,71.0,72.0,71.0,20
+2020-03-05,NewHampshire,Sports,31.0,37.0,31.0,21
+2020-03-05,NewHampshire,Banks,131.0,142.0,130.0,22
+2020-03-05,NewHampshire,Residences,104.0,110.0,103.0,23
+2020-03-05,NewHampshire,Alcohol,118.0,114.0,119.0,24
+2020-03-05,NewHampshire,Skiing,57.0,92.0,56.0,25
+2020-03-05,NewHampshire,Travel & Transport,108.0,"",109.0,26
+2020-03-05,NewHampshire,Discount Stores,101.0,141.0,99.0,27
+2020-03-05,NewHampshire,Airport,66.0,"",66.0,28
+2020-03-05,NewHampshire,Beach,112.0,"",113.0,29
+2020-03-06,NewHampshire,Food,55.0,55.0,55.0,1
+2020-03-06,NewHampshire,Shops & Services,40.0,40.0,40.0,2
+2020-03-06,NewHampshire,Grocery,104.0,106.0,104.0,3
+2020-03-06,NewHampshire,Medical,55.0,62.0,55.0,4
+2020-03-06,NewHampshire,Outdoors & Recreation,44.0,45.0,44.0,5
+2020-03-06,NewHampshire,Gas Stations,99.0,94.0,100.0,6
+2020-03-06,NewHampshire,Big Box Stores,101.0,106.0,101.0,7
+2020-03-06,NewHampshire,Nightlife Spots,73.0,73.0,73.0,8
+2020-03-06,NewHampshire,School,65.0,64.0,65.0,9
+2020-03-06,NewHampshire,Convenience Store,102.0,101.0,102.0,10
+2020-03-06,NewHampshire,Professional & Other Places,17.0,17.0,17.0,11
+2020-03-06,NewHampshire,Fast Food Restaurants,107.0,104.0,107.0,12
+2020-03-06,NewHampshire,Arts & Entertainment,56.0,61.0,56.0,13
+2020-03-06,NewHampshire,Hardware Stores,111.0,121.0,110.0,14
+2020-03-06,NewHampshire,Hotel,71.0,72.0,71.0,15
+2020-03-06,NewHampshire,Fitness Center,66.0,68.0,66.0,16
+2020-03-06,NewHampshire,Drug Store,92.0,108.0,91.0,17
+2020-03-06,NewHampshire,Colleges & Universities,84.0,89.0,84.0,18
+2020-03-06,NewHampshire,Government,71.0,72.0,71.0,19
+2020-03-06,NewHampshire,Office,93.0,92.0,93.0,20
+2020-03-06,NewHampshire,Banks,118.0,112.0,118.0,21
+2020-03-06,NewHampshire,Sports,34.0,33.0,34.0,22
+2020-03-06,NewHampshire,Residences,101.0,103.0,101.0,23
+2020-03-06,NewHampshire,Alcohol,91.0,95.0,91.0,24
+2020-03-06,NewHampshire,Skiing,62.0,69.0,61.0,25
+2020-03-06,NewHampshire,Travel & Transport,33.0,32.0,33.0,26
+2020-03-06,NewHampshire,Discount Stores,104.0,120.0,103.0,27
+2020-03-06,NewHampshire,Airport,71.0,"",71.0,28
+2020-03-06,NewHampshire,Beach,82.0,"",81.0,29
+2020-03-07,NewHampshire,Food,51.0,50.0,51.0,1
+2020-03-07,NewHampshire,Shops & Services,31.0,30.0,31.0,2
+2020-03-07,NewHampshire,Grocery,98.0,93.0,98.0,3
+2020-03-07,NewHampshire,Big Box Stores,102.0,98.0,102.0,4
+2020-03-07,NewHampshire,Outdoors & Recreation,35.0,36.0,35.0,5
+2020-03-07,NewHampshire,Nightlife Spots,64.0,64.0,64.0,6
+2020-03-07,NewHampshire,Gas Stations,95.0,99.0,95.0,7
+2020-03-07,NewHampshire,Arts & Entertainment,69.0,82.0,69.0,8
+2020-03-07,NewHampshire,Hardware Stores,110.0,102.0,110.0,9
+2020-03-07,NewHampshire,Hotel,64.0,61.0,64.0,10
+2020-03-07,NewHampshire,Convenience Store,95.0,95.0,95.0,10
+2020-03-07,NewHampshire,Fast Food Restaurants,104.0,104.0,104.0,11
+2020-03-07,NewHampshire,Professional & Other Places,23.0,22.0,23.0,12
+2020-03-07,NewHampshire,Medical,56.0,57.0,56.0,13
+2020-03-07,NewHampshire,Skiing,59.0,55.0,59.0,14
+2020-03-07,NewHampshire,Drug Store,98.0,97.0,98.0,14
+2020-03-07,NewHampshire,School,56.0,54.0,56.0,15
+2020-03-07,NewHampshire,Fitness Center,66.0,56.0,66.0,16
+2020-03-07,NewHampshire,Sports,36.0,37.0,36.0,17
+2020-03-07,NewHampshire,Colleges & Universities,87.0,110.0,87.0,18
+2020-03-07,NewHampshire,Alcohol,107.0,114.0,107.0,19
+2020-03-07,NewHampshire,Residences,97.0,96.0,97.0,20
+2020-03-07,NewHampshire,Government,66.0,67.0,66.0,21
+2020-03-07,NewHampshire,Banks,83.0,"",84.0,22
+2020-03-07,NewHampshire,Discount Stores,92.0,96.0,92.0,23
+2020-03-07,NewHampshire,Travel & Transport,45.0,"",45.0,24
+2020-03-07,NewHampshire,Office,93.0,"",93.0,25
+2020-03-07,NewHampshire,Beach,102.0,"",103.0,26
+2020-03-07,NewHampshire,Airport,70.0,"",71.0,27
+2020-03-08,NewHampshire,Food,53.0,51.0,53.0,1
+2020-03-08,NewHampshire,Shops & Services,43.0,41.0,43.0,2
+2020-03-08,NewHampshire,Grocery,97.0,96.0,97.0,3
+2020-03-08,NewHampshire,Outdoors & Recreation,36.0,34.0,36.0,4
+2020-03-08,NewHampshire,Big Box Stores,103.0,99.0,103.0,5
+2020-03-08,NewHampshire,Nightlife Spots,76.0,72.0,76.0,6
+2020-03-08,NewHampshire,Gas Stations,105.0,98.0,105.0,7
+2020-03-08,NewHampshire,Arts & Entertainment,75.0,71.0,75.0,8
+2020-03-08,NewHampshire,Convenience Store,98.0,90.0,98.0,9
+2020-03-08,NewHampshire,Hardware Stores,113.0,103.0,113.0,10
+2020-03-08,NewHampshire,Fast Food Restaurants,111.0,102.0,112.0,11
+2020-03-08,NewHampshire,Hotel,65.0,64.0,65.0,12
+2020-03-08,NewHampshire,Skiing,58.0,55.0,58.0,13
+2020-03-08,NewHampshire,Professional & Other Places,22.0,21.0,23.0,14
+2020-03-08,NewHampshire,School,64.0,67.0,64.0,15
+2020-03-08,NewHampshire,Drug Store,94.0,95.0,94.0,16
+2020-03-08,NewHampshire,Medical,56.0,63.0,56.0,17
+2020-03-08,NewHampshire,Sports,38.0,31.0,38.0,18
+2020-03-08,NewHampshire,Fitness Center,62.0,53.0,63.0,19
+2020-03-08,NewHampshire,Residences,105.0,86.0,105.0,20
+2020-03-08,NewHampshire,Colleges & Universities,79.0,"",79.0,21
+2020-03-08,NewHampshire,Alcohol,109.0,96.0,110.0,22
+2020-03-08,NewHampshire,Government,63.0,67.0,62.0,23
+2020-03-08,NewHampshire,Discount Stores,110.0,"",111.0,24
+2020-03-08,NewHampshire,Travel & Transport,50.0,"",50.0,25
+2020-03-08,NewHampshire,Beach,106.0,"",107.0,26
+2020-03-08,NewHampshire,Office,104.0,"",105.0,27
+2020-03-08,NewHampshire,Banks,95.0,"",95.0,28
+2020-03-08,NewHampshire,Airport,98.0,"",96.0,29
+2020-03-09,NewHampshire,Food,49.0,49.0,49.0,1
+2020-03-09,NewHampshire,Shops & Services,39.0,39.0,39.0,2
+2020-03-09,NewHampshire,Grocery,103.0,102.0,103.0,3
+2020-03-09,NewHampshire,Medical,54.0,52.0,54.0,4
+2020-03-09,NewHampshire,Outdoors & Recreation,60.0,62.0,59.0,5
+2020-03-09,NewHampshire,Gas Stations,102.0,97.0,103.0,6
+2020-03-09,NewHampshire,School,67.0,65.0,67.0,7
+2020-03-09,NewHampshire,Big Box Stores,103.0,101.0,103.0,8
+2020-03-09,NewHampshire,Nightlife Spots,66.0,77.0,65.0,9
+2020-03-09,NewHampshire,Professional & Other Places,18.0,19.0,18.0,10
+2020-03-09,NewHampshire,Convenience Store,102.0,100.0,102.0,11
+2020-03-09,NewHampshire,Fitness Center,64.0,68.0,64.0,12
+2020-03-09,NewHampshire,Colleges & Universities,73.0,68.0,74.0,13
+2020-03-09,NewHampshire,Arts & Entertainment,53.0,62.0,52.0,14
+2020-03-09,NewHampshire,Fast Food Restaurants,104.0,93.0,105.0,15
+2020-03-09,NewHampshire,Hardware Stores,98.0,93.0,99.0,16
+2020-03-09,NewHampshire,Drug Store,99.0,101.0,99.0,17
+2020-03-09,NewHampshire,Office,88.0,91.0,88.0,18
+2020-03-09,NewHampshire,Government,72.0,66.0,72.0,19
+2020-03-09,NewHampshire,Hotel,62.0,60.0,62.0,19
+2020-03-09,NewHampshire,Sports,33.0,35.0,33.0,20
+2020-03-09,NewHampshire,Banks,119.0,101.0,120.0,21
+2020-03-09,NewHampshire,Residences,110.0,110.0,110.0,22
+2020-03-09,NewHampshire,Alcohol,115.0,98.0,116.0,23
+2020-03-09,NewHampshire,Travel & Transport,75.0,66.0,76.0,24
+2020-03-09,NewHampshire,Skiing,45.0,85.0,43.0,25
+2020-03-09,NewHampshire,Discount Stores,98.0,"",99.0,26
+2020-03-09,NewHampshire,Beach,118.0,124.0,118.0,27
+2020-03-09,NewHampshire,Airport,75.0,"",74.0,28
+2020-03-10,NewHampshire,Food,54.0,52.0,54.0,1
+2020-03-10,NewHampshire,Shops & Services,34.0,32.0,34.0,2
+2020-03-10,NewHampshire,Grocery,111.0,109.0,112.0,3
+2020-03-10,NewHampshire,Medical,52.0,50.0,53.0,4
+2020-03-10,NewHampshire,School,60.0,60.0,60.0,5
+2020-03-10,NewHampshire,Outdoors & Recreation,50.0,53.0,50.0,6
+2020-03-10,NewHampshire,Gas Stations,100.0,94.0,100.0,7
+2020-03-10,NewHampshire,Big Box Stores,111.0,102.0,111.0,8
+2020-03-10,NewHampshire,Professional & Other Places,18.0,17.0,18.0,9
+2020-03-10,NewHampshire,Nightlife Spots,70.0,68.0,70.0,10
+2020-03-10,NewHampshire,Colleges & Universities,68.0,60.0,68.0,11
+2020-03-10,NewHampshire,Convenience Store,94.0,84.0,94.0,12
+2020-03-10,NewHampshire,Fitness Center,62.0,52.0,62.0,13
+2020-03-10,NewHampshire,Fast Food Restaurants,108.0,129.0,107.0,14
+2020-03-10,NewHampshire,Arts & Entertainment,70.0,68.0,70.0,15
+2020-03-10,NewHampshire,Hardware Stores,105.0,94.0,106.0,16
+2020-03-10,NewHampshire,Drug Store,105.0,95.0,105.0,17
+2020-03-10,NewHampshire,Government,64.0,62.0,64.0,18
+2020-03-10,NewHampshire,Office,88.0,87.0,88.0,19
+2020-03-10,NewHampshire,Hotel,60.0,72.0,60.0,20
+2020-03-10,NewHampshire,Sports,33.0,37.0,32.0,21
+2020-03-10,NewHampshire,Residences,89.0,85.0,90.0,22
+2020-03-10,NewHampshire,Banks,100.0,113.0,99.0,23
+2020-03-10,NewHampshire,Alcohol,105.0,113.0,104.0,24
+2020-03-10,NewHampshire,Travel & Transport,100.0,"",102.0,25
+2020-03-10,NewHampshire,Discount Stores,106.0,115.0,106.0,26
+2020-03-10,NewHampshire,Skiing,38.0,62.0,36.0,27
+2020-03-10,NewHampshire,Airport,62.0,"",61.0,28
+2020-03-10,NewHampshire,Beach,97.0,"",97.0,29
+2020-03-11,NewHampshire,Food,48.0,45.0,48.0,1
+2020-03-11,NewHampshire,Shops & Services,31.0,28.0,31.0,2
+2020-03-11,NewHampshire,Grocery,100.0,94.0,100.0,3
+2020-03-11,NewHampshire,Medical,47.0,48.0,47.0,4
+2020-03-11,NewHampshire,Outdoors & Recreation,41.0,43.0,41.0,5
+2020-03-11,NewHampshire,Gas Stations,98.0,94.0,98.0,6
+2020-03-11,NewHampshire,School,60.0,63.0,60.0,7
+2020-03-11,NewHampshire,Nightlife Spots,71.0,71.0,71.0,8
+2020-03-11,NewHampshire,Big Box Stores,95.0,101.0,95.0,9
+2020-03-11,NewHampshire,Professional & Other Places,17.0,16.0,17.0,10
+2020-03-11,NewHampshire,Convenience Store,86.0,88.0,86.0,11
+2020-03-11,NewHampshire,Colleges & Universities,74.0,65.0,74.0,12
+2020-03-11,NewHampshire,Hardware Stores,111.0,116.0,111.0,13
+2020-03-11,NewHampshire,Fitness Center,59.0,51.0,60.0,14
+2020-03-11,NewHampshire,Arts & Entertainment,69.0,64.0,70.0,15
+2020-03-11,NewHampshire,Drug Store,99.0,109.0,99.0,16
+2020-03-11,NewHampshire,Fast Food Restaurants,95.0,96.0,95.0,17
+2020-03-11,NewHampshire,Office,79.0,89.0,78.0,18
+2020-03-11,NewHampshire,Government,63.0,59.0,63.0,19
+2020-03-11,NewHampshire,Hotel,57.0,57.0,57.0,20
+2020-03-11,NewHampshire,Sports,30.0,28.0,30.0,21
+2020-03-11,NewHampshire,Banks,103.0,96.0,104.0,22
+2020-03-11,NewHampshire,Residences,91.0,101.0,91.0,23
+2020-03-11,NewHampshire,Alcohol,98.0,103.0,98.0,24
+2020-03-11,NewHampshire,Travel & Transport,36.0,47.0,36.0,25
+2020-03-11,NewHampshire,Skiing,44.0,55.0,43.0,26
+2020-03-11,NewHampshire,Discount Stores,104.0,108.0,104.0,27
+2020-03-11,NewHampshire,Airport,69.0,"",69.0,28
+2020-03-11,NewHampshire,Beach,85.0,"",85.0,29
+2020-03-12,NewHampshire,Food,63.0,60.0,63.0,1
+2020-03-12,NewHampshire,Shops & Services,46.0,44.0,46.0,2
+2020-03-12,NewHampshire,Grocery,132.0,119.0,133.0,3
+2020-03-12,NewHampshire,Medical,55.0,54.0,55.0,4
+2020-03-12,NewHampshire,Outdoors & Recreation,50.0,53.0,50.0,5
+2020-03-12,NewHampshire,Big Box Stores,121.0,125.0,120.0,6
+2020-03-12,NewHampshire,Gas Stations,100.0,105.0,100.0,7
+2020-03-12,NewHampshire,School,79.0,74.0,79.0,8
+2020-03-12,NewHampshire,Nightlife Spots,56.0,58.0,56.0,8
+2020-03-12,NewHampshire,Professional & Other Places,18.0,19.0,18.0,9
+2020-03-12,NewHampshire,Convenience Store,100.0,94.0,100.0,10
+2020-03-12,NewHampshire,Drug Store,114.0,120.0,114.0,11
+2020-03-12,NewHampshire,Fast Food Restaurants,109.0,133.0,108.0,12
+2020-03-12,NewHampshire,Hardware Stores,115.0,122.0,115.0,13
+2020-03-12,NewHampshire,Colleges & Universities,74.0,97.0,74.0,14
+2020-03-12,NewHampshire,Fitness Center,57.0,51.0,57.0,15
+2020-03-12,NewHampshire,Arts & Entertainment,53.0,47.0,53.0,16
+2020-03-12,NewHampshire,Office,81.0,75.0,81.0,17
+2020-03-12,NewHampshire,Hotel,55.0,55.0,55.0,18
+2020-03-12,NewHampshire,Government,60.0,55.0,60.0,19
+2020-03-12,NewHampshire,Sports,27.0,28.0,27.0,20
+2020-03-12,NewHampshire,Banks,113.0,120.0,113.0,21
+2020-03-12,NewHampshire,Alcohol,125.0,111.0,126.0,22
+2020-03-12,NewHampshire,Residences,88.0,94.0,88.0,23
+2020-03-12,NewHampshire,Travel & Transport,117.0,137.0,116.0,24
+2020-03-12,NewHampshire,Discount Stores,122.0,124.0,121.0,25
+2020-03-12,NewHampshire,Skiing,55.0,71.0,54.0,26
+2020-03-12,NewHampshire,Airport,54.0,"",54.0,27
+2020-03-12,NewHampshire,Beach,93.0,"",94.0,28
+2020-03-13,NewHampshire,Food,49.0,46.0,50.0,1
+2020-03-13,NewHampshire,Shops & Services,31.0,28.0,31.0,2
+2020-03-13,NewHampshire,Grocery,152.0,132.0,153.0,3
+2020-03-13,NewHampshire,Big Box Stores,139.0,122.0,139.0,4
+2020-03-13,NewHampshire,Medical,52.0,48.0,53.0,5
+2020-03-13,NewHampshire,Gas Stations,104.0,97.0,104.0,6
+2020-03-13,NewHampshire,Outdoors & Recreation,40.0,38.0,41.0,7
+2020-03-13,NewHampshire,Nightlife Spots,72.0,59.0,72.0,8
+2020-03-13,NewHampshire,School,58.0,58.0,58.0,9
+2020-03-13,NewHampshire,Convenience Store,94.0,81.0,94.0,10
+2020-03-13,NewHampshire,Professional & Other Places,18.0,15.0,18.0,11
+2020-03-13,NewHampshire,Drug Store,120.0,127.0,119.0,12
+2020-03-13,NewHampshire,Hardware Stores,119.0,99.0,120.0,13
+2020-03-13,NewHampshire,Fast Food Restaurants,98.0,98.0,98.0,14
+2020-03-13,NewHampshire,Arts & Entertainment,52.0,52.0,52.0,15
+2020-03-13,NewHampshire,Fitness Center,60.0,49.0,61.0,16
+2020-03-13,NewHampshire,Hotel,57.0,41.0,58.0,17
+2020-03-13,NewHampshire,Colleges & Universities,62.0,60.0,62.0,18
+2020-03-13,NewHampshire,Alcohol,122.0,89.0,124.0,19
+2020-03-13,NewHampshire,Government,60.0,53.0,60.0,20
+2020-03-13,NewHampshire,Office,84.0,67.0,84.0,21
+2020-03-13,NewHampshire,Banks,107.0,100.0,108.0,22
+2020-03-13,NewHampshire,Sports,27.0,19.0,27.0,23
+2020-03-13,NewHampshire,Residences,89.0,80.0,90.0,24
+2020-03-13,NewHampshire,Discount Stores,134.0,114.0,135.0,25
+2020-03-13,NewHampshire,Travel & Transport,34.0,36.0,34.0,26
+2020-03-13,NewHampshire,Skiing,28.0,"",28.0,27
+2020-03-13,NewHampshire,Airport,56.0,"",55.0,28
+2020-03-13,NewHampshire,Beach,79.0,"",79.0,29
+2020-03-14,NewHampshire,Food,54.0,49.0,54.0,1
+2020-03-14,NewHampshire,Shops & Services,29.0,24.0,29.0,2
+2020-03-14,NewHampshire,Grocery,125.0,112.0,126.0,3
+2020-03-14,NewHampshire,Big Box Stores,106.0,93.0,107.0,4
+2020-03-14,NewHampshire,Outdoors & Recreation,37.0,38.0,37.0,5
+2020-03-14,NewHampshire,Nightlife Spots,47.0,45.0,47.0,6
+2020-03-14,NewHampshire,Gas Stations,95.0,93.0,95.0,7
+2020-03-14,NewHampshire,Hardware Stores,127.0,109.0,128.0,8
+2020-03-14,NewHampshire,Convenience Store,90.0,85.0,90.0,9
+2020-03-14,NewHampshire,Drug Store,123.0,126.0,123.0,10
+2020-03-14,NewHampshire,Professional & Other Places,24.0,24.0,24.0,11
+2020-03-14,NewHampshire,Arts & Entertainment,50.0,54.0,50.0,12
+2020-03-14,NewHampshire,Fast Food Restaurants,83.0,73.0,83.0,13
+2020-03-14,NewHampshire,Hotel,45.0,40.0,45.0,14
+2020-03-14,NewHampshire,Medical,47.0,42.0,47.0,15
+2020-03-14,NewHampshire,Fitness Center,51.0,46.0,52.0,16
+2020-03-14,NewHampshire,Alcohol,118.0,127.0,118.0,17
+2020-03-14,NewHampshire,Skiing,39.0,37.0,39.0,18
+2020-03-14,NewHampshire,School,35.0,38.0,35.0,19
+2020-03-14,NewHampshire,Sports,29.0,30.0,29.0,20
+2020-03-14,NewHampshire,Discount Stores,135.0,116.0,136.0,21
+2020-03-14,NewHampshire,Residences,93.0,69.0,94.0,21
+2020-03-14,NewHampshire,Government,69.0,"",69.0,22
+2020-03-14,NewHampshire,Banks,75.0,"",75.0,23
+2020-03-14,NewHampshire,Travel & Transport,37.0,"",37.0,24
+2020-03-14,NewHampshire,Office,93.0,"",94.0,25
+2020-03-14,NewHampshire,Beach,104.0,"",105.0,26
+2020-03-14,NewHampshire,Colleges & Universities,41.0,"",41.0,27
+2020-03-15,NewHampshire,Food,48.0,46.0,48.0,1
+2020-03-15,NewHampshire,Shops & Services,25.0,20.0,25.0,2
+2020-03-15,NewHampshire,Grocery,97.0,94.0,97.0,3
+2020-03-15,NewHampshire,Outdoors & Recreation,38.0,36.0,38.0,4
+2020-03-15,NewHampshire,Big Box Stores,105.0,95.0,105.0,5
+2020-03-15,NewHampshire,Nightlife Spots,42.0,39.0,42.0,6
+2020-03-15,NewHampshire,Gas Stations,89.0,81.0,90.0,7
+2020-03-15,NewHampshire,Hardware Stores,114.0,105.0,115.0,8
+2020-03-15,NewHampshire,Convenience Store,90.0,76.0,91.0,9
+2020-03-15,NewHampshire,Drug Store,120.0,96.0,121.0,10
+2020-03-15,NewHampshire,Fast Food Restaurants,87.0,73.0,87.0,11
+2020-03-15,NewHampshire,Arts & Entertainment,45.0,49.0,45.0,12
+2020-03-15,NewHampshire,Hotel,42.0,46.0,42.0,13
+2020-03-15,NewHampshire,Professional & Other Places,16.0,14.0,17.0,14
+2020-03-15,NewHampshire,Medical,45.0,33.0,45.0,15
+2020-03-15,NewHampshire,Skiing,36.0,33.0,36.0,16
+2020-03-15,NewHampshire,School,42.0,42.0,42.0,17
+2020-03-15,NewHampshire,Sports,29.0,25.0,29.0,18
+2020-03-15,NewHampshire,Fitness Center,46.0,39.0,46.0,19
+2020-03-15,NewHampshire,Alcohol,110.0,135.0,109.0,20
+2020-03-15,NewHampshire,Residences,88.0,82.0,88.0,21
+2020-03-15,NewHampshire,Discount Stores,123.0,"",124.0,22
+2020-03-15,NewHampshire,Colleges & Universities,49.0,"",48.0,23
+2020-03-15,NewHampshire,Travel & Transport,46.0,"",46.0,24
+2020-03-15,NewHampshire,Beach,99.0,"",99.0,25
+2020-03-15,NewHampshire,Government,52.0,"",53.0,26
+2020-03-15,NewHampshire,Banks,94.0,"",94.0,27
+2020-03-15,NewHampshire,Office,74.0,"",74.0,28
+2020-03-16,NewHampshire,Food,61.0,57.0,61.0,1
+2020-03-16,NewHampshire,Shops & Services,41.0,39.0,41.0,2
+2020-03-16,NewHampshire,Grocery,146.0,148.0,146.0,3
+2020-03-16,NewHampshire,Medical,44.0,38.0,45.0,4
+2020-03-16,NewHampshire,Outdoors & Recreation,52.0,47.0,52.0,5
+2020-03-16,NewHampshire,Big Box Stores,123.0,123.0,123.0,6
+2020-03-16,NewHampshire,Gas Stations,96.0,88.0,96.0,7
+2020-03-16,NewHampshire,Nightlife Spots,53.0,55.0,53.0,8
+2020-03-16,NewHampshire,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-16,NewHampshire,Convenience Store,93.0,87.0,93.0,10
+2020-03-16,NewHampshire,Hardware Stores,115.0,102.0,116.0,11
+2020-03-16,NewHampshire,Drug Store,126.0,103.0,127.0,12
+2020-03-16,NewHampshire,Fast Food Restaurants,90.0,80.0,90.0,13
+2020-03-16,NewHampshire,School,30.0,29.0,30.0,14
+2020-03-16,NewHampshire,Arts & Entertainment,40.0,43.0,40.0,15
+2020-03-16,NewHampshire,Government,62.0,49.0,63.0,16
+2020-03-16,NewHampshire,Fitness Center,42.0,39.0,42.0,17
+2020-03-16,NewHampshire,Hotel,52.0,46.0,52.0,18
+2020-03-16,NewHampshire,Office,68.0,74.0,67.0,19
+2020-03-16,NewHampshire,Banks,112.0,112.0,112.0,20
+2020-03-16,NewHampshire,Alcohol,144.0,133.0,144.0,21
+2020-03-16,NewHampshire,Colleges & Universities,36.0,46.0,36.0,22
+2020-03-16,NewHampshire,Sports,23.0,23.0,23.0,23
+2020-03-16,NewHampshire,Residences,90.0,113.0,89.0,24
+2020-03-16,NewHampshire,Discount Stores,114.0,"",115.0,25
+2020-03-16,NewHampshire,Travel & Transport,35.0,"",36.0,26
+2020-03-16,NewHampshire,Beach,94.0,"",95.0,27
+2020-03-16,NewHampshire,Skiing,25.0,"",25.0,28
+2020-03-16,NewHampshire,Airport,59.0,"",58.0,29
+2020-03-17,NewHampshire,Shops & Services,26.0,22.0,26.0,1
+2020-03-17,NewHampshire,Food,40.0,33.0,40.0,2
+2020-03-17,NewHampshire,Grocery,133.0,111.0,134.0,3
+2020-03-17,NewHampshire,Medical,35.0,28.0,35.0,4
+2020-03-17,NewHampshire,Outdoors & Recreation,42.0,40.0,42.0,5
+2020-03-17,NewHampshire,Big Box Stores,116.0,93.0,117.0,6
+2020-03-17,NewHampshire,Gas Stations,82.0,76.0,82.0,7
+2020-03-17,NewHampshire,Nightlife Spots,40.0,35.0,40.0,8
+2020-03-17,NewHampshire,Convenience Store,82.0,71.0,82.0,9
+2020-03-17,NewHampshire,Professional & Other Places,11.0,9.0,11.0,10
+2020-03-17,NewHampshire,Drug Store,104.0,83.0,105.0,11
+2020-03-17,NewHampshire,Hardware Stores,98.0,89.0,99.0,12
+2020-03-17,NewHampshire,School,22.0,19.0,22.0,13
+2020-03-17,NewHampshire,Fast Food Restaurants,80.0,77.0,81.0,14
+2020-03-17,NewHampshire,Fitness Center,35.0,28.0,35.0,15
+2020-03-17,NewHampshire,Hotel,45.0,47.0,45.0,16
+2020-03-17,NewHampshire,Arts & Entertainment,40.0,43.0,40.0,17
+2020-03-17,NewHampshire,Alcohol,144.0,130.0,145.0,18
+2020-03-17,NewHampshire,Office,51.0,52.0,51.0,19
+2020-03-17,NewHampshire,Government,38.0,35.0,38.0,20
+2020-03-17,NewHampshire,Sports,23.0,26.0,23.0,21
+2020-03-17,NewHampshire,Residences,83.0,86.0,83.0,22
+2020-03-17,NewHampshire,Banks,85.0,90.0,84.0,23
+2020-03-17,NewHampshire,Colleges & Universities,28.0,"",28.0,24
+2020-03-17,NewHampshire,Discount Stores,96.0,"",97.0,25
+2020-03-17,NewHampshire,Travel & Transport,78.0,"",79.0,26
+2020-03-17,NewHampshire,Airport,46.0,"",45.0,27
+2020-03-18,NewHampshire,Shops & Services,24.0,22.0,24.0,1
+2020-03-18,NewHampshire,Food,34.0,29.0,34.0,2
+2020-03-18,NewHampshire,Grocery,113.0,98.0,114.0,3
+2020-03-18,NewHampshire,Outdoors & Recreation,52.0,59.0,52.0,4
+2020-03-18,NewHampshire,Big Box Stores,103.0,88.0,104.0,5
+2020-03-18,NewHampshire,Medical,32.0,29.0,32.0,6
+2020-03-18,NewHampshire,Gas Stations,83.0,73.0,83.0,7
+2020-03-18,NewHampshire,Professional & Other Places,14.0,14.0,14.0,8
+2020-03-18,NewHampshire,Convenience Store,80.0,76.0,81.0,9
+2020-03-18,NewHampshire,Nightlife Spots,33.0,35.0,33.0,10
+2020-03-18,NewHampshire,Hardware Stores,108.0,86.0,110.0,11
+2020-03-18,NewHampshire,Drug Store,99.0,95.0,99.0,12
+2020-03-18,NewHampshire,School,28.0,35.0,28.0,13
+2020-03-18,NewHampshire,Fast Food Restaurants,72.0,75.0,72.0,14
+2020-03-18,NewHampshire,Arts & Entertainment,36.0,34.0,36.0,15
+2020-03-18,NewHampshire,Hotel,44.0,40.0,44.0,16
+2020-03-18,NewHampshire,Government,44.0,43.0,44.0,17
+2020-03-18,NewHampshire,Sports,25.0,30.0,25.0,18
+2020-03-18,NewHampshire,Office,53.0,50.0,53.0,19
+2020-03-18,NewHampshire,Fitness Center,27.0,29.0,27.0,20
+2020-03-18,NewHampshire,Colleges & Universities,35.0,58.0,34.0,21
+2020-03-18,NewHampshire,Alcohol,116.0,103.0,117.0,22
+2020-03-18,NewHampshire,Residences,86.0,85.0,86.0,23
+2020-03-18,NewHampshire,Banks,79.0,99.0,78.0,24
+2020-03-18,NewHampshire,Beach,143.0,131.0,144.0,25
+2020-03-18,NewHampshire,Travel & Transport,78.0,"",79.0,26
+2020-03-18,NewHampshire,Discount Stores,90.0,"",90.0,27
+2020-03-18,NewHampshire,Skiing,27.0,38.0,26.0,28
+2020-03-19,NewHampshire,Shops & Services,22.0,21.0,22.0,1
+2020-03-19,NewHampshire,Food,29.0,29.0,29.0,2
+2020-03-19,NewHampshire,Grocery,116.0,100.0,116.0,3
+2020-03-19,NewHampshire,Big Box Stores,100.0,100.0,100.0,4
+2020-03-19,NewHampshire,Outdoors & Recreation,31.0,34.0,31.0,5
+2020-03-19,NewHampshire,Gas Stations,75.0,78.0,75.0,6
+2020-03-19,NewHampshire,Medical,29.0,24.0,30.0,7
+2020-03-19,NewHampshire,Convenience Store,73.0,76.0,73.0,8
+2020-03-19,NewHampshire,Hardware Stores,101.0,79.0,103.0,9
+2020-03-19,NewHampshire,Professional & Other Places,12.0,11.0,12.0,10
+2020-03-19,NewHampshire,Drug Store,89.0,77.0,89.0,11
+2020-03-19,NewHampshire,Nightlife Spots,30.0,31.0,30.0,12
+2020-03-19,NewHampshire,Fast Food Restaurants,69.0,77.0,68.0,13
+2020-03-19,NewHampshire,School,30.0,31.0,30.0,14
+2020-03-19,NewHampshire,Arts & Entertainment,35.0,34.0,35.0,15
+2020-03-19,NewHampshire,Hotel,36.0,28.0,36.0,16
+2020-03-19,NewHampshire,Office,49.0,50.0,49.0,17
+2020-03-19,NewHampshire,Alcohol,105.0,76.0,107.0,18
+2020-03-19,NewHampshire,Fitness Center,25.0,25.0,25.0,19
+2020-03-19,NewHampshire,Government,33.0,33.0,33.0,20
+2020-03-19,NewHampshire,Banks,84.0,92.0,84.0,21
+2020-03-19,NewHampshire,Residences,74.0,77.0,74.0,22
+2020-03-19,NewHampshire,Colleges & Universities,29.0,"",29.0,23
+2020-03-19,NewHampshire,Sports,19.0,19.0,19.0,24
+2020-03-19,NewHampshire,Discount Stores,83.0,"",83.0,25
+2020-03-19,NewHampshire,Travel & Transport,77.0,"",77.0,26
+2020-03-20,NewHampshire,Shops & Services,23.0,21.0,23.0,1
+2020-03-20,NewHampshire,Food,40.0,34.0,40.0,2
+2020-03-20,NewHampshire,Grocery,124.0,106.0,125.0,3
+2020-03-20,NewHampshire,Outdoors & Recreation,34.0,38.0,34.0,4
+2020-03-20,NewHampshire,Big Box Stores,109.0,93.0,109.0,5
+2020-03-20,NewHampshire,Gas Stations,80.0,71.0,80.0,6
+2020-03-20,NewHampshire,Medical,32.0,27.0,33.0,7
+2020-03-20,NewHampshire,Convenience Store,78.0,80.0,78.0,8
+2020-03-20,NewHampshire,Hardware Stores,114.0,91.0,115.0,9
+2020-03-20,NewHampshire,Drug Store,95.0,92.0,95.0,10
+2020-03-20,NewHampshire,Professional & Other Places,12.0,11.0,12.0,11
+2020-03-20,NewHampshire,Nightlife Spots,31.0,34.0,31.0,12
+2020-03-20,NewHampshire,Fast Food Restaurants,74.0,73.0,74.0,13
+2020-03-20,NewHampshire,School,25.0,35.0,25.0,14
+2020-03-20,NewHampshire,Arts & Entertainment,33.0,38.0,32.0,15
+2020-03-20,NewHampshire,Alcohol,96.0,88.0,96.0,16
+2020-03-20,NewHampshire,Hotel,35.0,30.0,35.0,17
+2020-03-20,NewHampshire,Sports,25.0,24.0,25.0,18
+2020-03-20,NewHampshire,Banks,77.0,69.0,77.0,19
+2020-03-20,NewHampshire,Government,41.0,36.0,42.0,20
+2020-03-20,NewHampshire,Office,57.0,54.0,57.0,21
+2020-03-20,NewHampshire,Residences,69.0,66.0,69.0,22
+2020-03-20,NewHampshire,Fitness Center,25.0,"",25.0,23
+2020-03-20,NewHampshire,Colleges & Universities,31.0,"",31.0,24
+2020-03-20,NewHampshire,Discount Stores,91.0,"",91.0,25
+2020-03-20,NewHampshire,Travel & Transport,23.0,"",23.0,26
+2020-03-20,NewHampshire,Beach,123.0,"",124.0,27
+2020-03-20,NewHampshire,Airport,50.0,"",51.0,28
+2020-03-21,NewHampshire,Shops & Services,24.0,22.0,24.0,1
+2020-03-21,NewHampshire,Food,31.0,29.0,31.0,2
+2020-03-21,NewHampshire,Grocery,97.0,83.0,98.0,3
+2020-03-21,NewHampshire,Outdoors & Recreation,50.0,50.0,50.0,4
+2020-03-21,NewHampshire,Big Box Stores,85.0,77.0,85.0,5
+2020-03-21,NewHampshire,Gas Stations,74.0,75.0,74.0,6
+2020-03-21,NewHampshire,Hardware Stores,114.0,100.0,115.0,7
+2020-03-21,NewHampshire,Convenience Store,71.0,67.0,71.0,8
+2020-03-21,NewHampshire,Nightlife Spots,25.0,32.0,24.0,9
+2020-03-21,NewHampshire,Drug Store,87.0,72.0,88.0,10
+2020-03-21,NewHampshire,Fast Food Restaurants,66.0,56.0,67.0,11
+2020-03-21,NewHampshire,Professional & Other Places,15.0,17.0,14.0,12
+2020-03-21,NewHampshire,Medical,37.0,41.0,37.0,13
+2020-03-21,NewHampshire,Arts & Entertainment,21.0,25.0,21.0,14
+2020-03-21,NewHampshire,School,27.0,22.0,27.0,15
+2020-03-21,NewHampshire,Alcohol,84.0,74.0,84.0,16
+2020-03-21,NewHampshire,Hotel,22.0,23.0,22.0,17
+2020-03-21,NewHampshire,Sports,22.0,27.0,21.0,18
+2020-03-21,NewHampshire,Residences,78.0,79.0,78.0,19
+2020-03-21,NewHampshire,Beach,127.0,"",128.0,20
+2020-03-21,NewHampshire,Banks,71.0,78.0,70.0,21
+2020-03-21,NewHampshire,Fitness Center,23.0,"",23.0,22
+2020-03-21,NewHampshire,Discount Stores,78.0,"",78.0,23
+2020-03-21,NewHampshire,Government,45.0,"",45.0,24
+2020-03-21,NewHampshire,Office,73.0,"",74.0,25
+2020-03-21,NewHampshire,Colleges & Universities,35.0,"",35.0,26
+2020-03-21,NewHampshire,Travel & Transport,26.0,"",26.0,27
+2020-03-21,NewHampshire,Skiing,9.0,"",8.0,28
+2020-03-22,NewHampshire,Food,22.0,22.0,22.0,1
+2020-03-22,NewHampshire,Shops & Services,27.0,23.0,27.0,2
+2020-03-22,NewHampshire,Grocery,73.0,69.0,73.0,3
+2020-03-22,NewHampshire,Outdoors & Recreation,40.0,40.0,40.0,4
+2020-03-22,NewHampshire,Big Box Stores,81.0,77.0,81.0,5
+2020-03-22,NewHampshire,Gas Stations,67.0,63.0,67.0,6
+2020-03-22,NewHampshire,Hardware Stores,107.0,98.0,108.0,7
+2020-03-22,NewHampshire,Convenience Store,68.0,72.0,68.0,8
+2020-03-22,NewHampshire,Drug Store,84.0,64.0,85.0,9
+2020-03-22,NewHampshire,Nightlife Spots,27.0,26.0,27.0,10
+2020-03-22,NewHampshire,Fast Food Restaurants,63.0,52.0,63.0,11
+2020-03-22,NewHampshire,Arts & Entertainment,29.0,31.0,29.0,12
+2020-03-22,NewHampshire,Professional & Other Places,13.0,11.0,14.0,13
+2020-03-22,NewHampshire,Medical,33.0,43.0,32.0,14
+2020-03-22,NewHampshire,School,33.0,37.0,33.0,15
+2020-03-22,NewHampshire,Sports,24.0,29.0,23.0,16
+2020-03-22,NewHampshire,Alcohol,88.0,95.0,88.0,17
+2020-03-22,NewHampshire,Hotel,21.0,22.0,21.0,18
+2020-03-22,NewHampshire,Residences,61.0,"",61.0,19
+2020-03-22,NewHampshire,Beach,103.0,118.0,102.0,20
+2020-03-22,NewHampshire,Fitness Center,24.0,"",24.0,21
+2020-03-22,NewHampshire,Colleges & Universities,46.0,"",45.0,22
+2020-03-22,NewHampshire,Government,45.0,"",45.0,23
+2020-03-22,NewHampshire,Discount Stores,70.0,"",71.0,24
+2020-03-22,NewHampshire,Travel & Transport,47.0,"",47.0,25
+2020-03-22,NewHampshire,Office,62.0,"",63.0,26
+2020-03-23,NewHampshire,Shops & Services,26.0,24.0,26.0,1
+2020-03-23,NewHampshire,Food,30.0,33.0,30.0,2
+2020-03-23,NewHampshire,Grocery,98.0,100.0,98.0,3
+2020-03-23,NewHampshire,Outdoors & Recreation,34.0,36.0,34.0,4
+2020-03-23,NewHampshire,Gas Stations,72.0,64.0,72.0,5
+2020-03-23,NewHampshire,Medical,28.0,26.0,28.0,6
+2020-03-23,NewHampshire,Big Box Stores,81.0,61.0,82.0,7
+2020-03-23,NewHampshire,Hardware Stores,95.0,76.0,96.0,8
+2020-03-23,NewHampshire,Professional & Other Places,12.0,11.0,12.0,9
+2020-03-23,NewHampshire,Convenience Store,68.0,67.0,68.0,10
+2020-03-23,NewHampshire,Nightlife Spots,39.0,45.0,39.0,11
+2020-03-23,NewHampshire,Drug Store,83.0,68.0,84.0,12
+2020-03-23,NewHampshire,Fast Food Restaurants,59.0,56.0,59.0,13
+2020-03-23,NewHampshire,School,19.0,29.0,19.0,14
+2020-03-23,NewHampshire,Arts & Entertainment,26.0,37.0,26.0,15
+2020-03-23,NewHampshire,Office,50.0,53.0,50.0,16
+2020-03-23,NewHampshire,Hotel,34.0,30.0,34.0,17
+2020-03-23,NewHampshire,Sports,22.0,21.0,22.0,18
+2020-03-23,NewHampshire,Fitness Center,23.0,20.0,23.0,19
+2020-03-23,NewHampshire,Government,33.0,28.0,34.0,20
+2020-03-23,NewHampshire,Banks,75.0,76.0,75.0,21
+2020-03-23,NewHampshire,Residences,68.0,67.0,69.0,22
+2020-03-23,NewHampshire,Alcohol,84.0,66.0,86.0,23
+2020-03-23,NewHampshire,Colleges & Universities,25.0,"",25.0,24
+2020-03-23,NewHampshire,Travel & Transport,26.0,"",26.0,25
+2020-03-23,NewHampshire,Discount Stores,72.0,"",73.0,26
+2020-03-23,NewHampshire,Beach,71.0,"",72.0,27
+2020-03-24,NewHampshire,Food,30.0,26.0,30.0,1
+2020-03-24,NewHampshire,Shops & Services,23.0,17.0,23.0,2
+2020-03-24,NewHampshire,Grocery,81.0,68.0,82.0,3
+2020-03-24,NewHampshire,Outdoors & Recreation,28.0,30.0,28.0,4
+2020-03-24,NewHampshire,Medical,25.0,19.0,25.0,5
+2020-03-24,NewHampshire,Gas Stations,65.0,63.0,65.0,6
+2020-03-24,NewHampshire,Big Box Stores,82.0,59.0,84.0,7
+2020-03-24,NewHampshire,Convenience Store,67.0,51.0,68.0,8
+2020-03-24,NewHampshire,Professional & Other Places,10.0,9.0,10.0,9
+2020-03-24,NewHampshire,Nightlife Spots,29.0,31.0,29.0,10
+2020-03-24,NewHampshire,Hardware Stores,73.0,47.0,75.0,11
+2020-03-24,NewHampshire,Drug Store,66.0,49.0,66.0,12
+2020-03-24,NewHampshire,Fast Food Restaurants,59.0,46.0,60.0,13
+2020-03-24,NewHampshire,School,14.0,16.0,14.0,14
+2020-03-24,NewHampshire,Arts & Entertainment,29.0,37.0,29.0,15
+2020-03-24,NewHampshire,Office,46.0,44.0,47.0,16
+2020-03-24,NewHampshire,Hotel,35.0,35.0,35.0,17
+2020-03-24,NewHampshire,Government,30.0,22.0,30.0,18
+2020-03-24,NewHampshire,Fitness Center,23.0,"",24.0,19
+2020-03-24,NewHampshire,Residences,75.0,64.0,76.0,20
+2020-03-24,NewHampshire,Sports,17.0,15.0,17.0,21
+2020-03-24,NewHampshire,Alcohol,93.0,80.0,94.0,22
+2020-03-24,NewHampshire,Colleges & Universities,18.0,"",18.0,23
+2020-03-24,NewHampshire,Banks,59.0,"",59.0,24
+2020-03-24,NewHampshire,Travel & Transport,22.0,"",22.0,25
+2020-03-24,NewHampshire,Discount Stores,64.0,"",64.0,26
+2020-03-24,NewHampshire,Beach,100.0,"",100.0,26
+2020-03-25,NewHampshire,Food,29.0,26.0,29.0,1
+2020-03-25,NewHampshire,Shops & Services,23.0,21.0,23.0,2
+2020-03-25,NewHampshire,Grocery,83.0,74.0,83.0,3
+2020-03-25,NewHampshire,Outdoors & Recreation,39.0,44.0,39.0,4
+2020-03-25,NewHampshire,Big Box Stores,79.0,75.0,80.0,5
+2020-03-25,NewHampshire,Medical,24.0,22.0,24.0,6
+2020-03-25,NewHampshire,Gas Stations,62.0,54.0,63.0,7
+2020-03-25,NewHampshire,Convenience Store,67.0,54.0,68.0,8
+2020-03-25,NewHampshire,Hardware Stores,90.0,67.0,91.0,9
+2020-03-25,NewHampshire,Professional & Other Places,14.0,13.0,14.0,10
+2020-03-25,NewHampshire,Nightlife Spots,29.0,32.0,29.0,11
+2020-03-25,NewHampshire,Drug Store,75.0,68.0,76.0,12
+2020-03-25,NewHampshire,Fast Food Restaurants,59.0,60.0,59.0,13
+2020-03-25,NewHampshire,School,18.0,22.0,18.0,14
+2020-03-25,NewHampshire,Arts & Entertainment,26.0,25.0,26.0,15
+2020-03-25,NewHampshire,Office,42.0,45.0,42.0,16
+2020-03-25,NewHampshire,Hotel,31.0,20.0,31.0,17
+2020-03-25,NewHampshire,Government,32.0,26.0,33.0,18
+2020-03-25,NewHampshire,Fitness Center,20.0,22.0,20.0,19
+2020-03-25,NewHampshire,Sports,18.0,19.0,18.0,20
+2020-03-25,NewHampshire,Residences,70.0,81.0,69.0,21
+2020-03-25,NewHampshire,Colleges & Universities,25.0,"",24.0,22
+2020-03-25,NewHampshire,Alcohol,81.0,80.0,81.0,23
+2020-03-25,NewHampshire,Banks,64.0,63.0,64.0,24
+2020-03-25,NewHampshire,Discount Stores,68.0,"",68.0,25
+2020-03-25,NewHampshire,Beach,90.0,"",90.0,26
+2020-03-25,NewHampshire,Travel & Transport,53.0,"",54.0,27
+2020-03-26,NewHampshire,Food,30.0,27.0,30.0,1
+2020-03-26,NewHampshire,Shops & Services,28.0,26.0,29.0,2
+2020-03-26,NewHampshire,Grocery,101.0,96.0,102.0,3
+2020-03-26,NewHampshire,Outdoors & Recreation,46.0,54.0,46.0,4
+2020-03-26,NewHampshire,Big Box Stores,91.0,82.0,91.0,5
+2020-03-26,NewHampshire,Gas Stations,73.0,72.0,73.0,6
+2020-03-26,NewHampshire,Medical,26.0,22.0,26.0,7
+2020-03-26,NewHampshire,Convenience Store,80.0,74.0,81.0,8
+2020-03-26,NewHampshire,Hardware Stores,110.0,100.0,111.0,9
+2020-03-26,NewHampshire,Professional & Other Places,18.0,14.0,18.0,10
+2020-03-26,NewHampshire,Nightlife Spots,31.0,35.0,31.0,11
+2020-03-26,NewHampshire,Drug Store,85.0,79.0,85.0,12
+2020-03-26,NewHampshire,Fast Food Restaurants,70.0,76.0,70.0,13
+2020-03-26,NewHampshire,School,28.0,32.0,28.0,14
+2020-03-26,NewHampshire,Arts & Entertainment,30.0,37.0,30.0,15
+2020-03-26,NewHampshire,Hotel,38.0,32.0,38.0,16
+2020-03-26,NewHampshire,Office,48.0,54.0,48.0,17
+2020-03-26,NewHampshire,Sports,24.0,26.0,24.0,18
+2020-03-26,NewHampshire,Fitness Center,25.0,21.0,26.0,18
+2020-03-26,NewHampshire,Government,34.0,41.0,34.0,19
+2020-03-26,NewHampshire,Residences,76.0,103.0,75.0,20
+2020-03-26,NewHampshire,Alcohol,98.0,75.0,100.0,21
+2020-03-26,NewHampshire,Colleges & Universities,30.0,"",29.0,22
+2020-03-26,NewHampshire,Banks,66.0,70.0,66.0,23
+2020-03-26,NewHampshire,Beach,184.0,152.0,186.0,24
+2020-03-26,NewHampshire,Travel & Transport,29.0,"",29.0,25
+2020-03-26,NewHampshire,Discount Stores,80.0,"",80.0,26
+2020-03-27,NewHampshire,Food,29.0,27.0,30.0,1
+2020-03-27,NewHampshire,Shops & Services,19.0,18.0,19.0,2
+2020-03-27,NewHampshire,Grocery,89.0,80.0,89.0,3
+2020-03-27,NewHampshire,Outdoors & Recreation,48.0,45.0,48.0,4
+2020-03-27,NewHampshire,Big Box Stores,84.0,74.0,85.0,5
+2020-03-27,NewHampshire,Gas Stations,71.0,73.0,71.0,6
+2020-03-27,NewHampshire,Medical,27.0,22.0,27.0,7
+2020-03-27,NewHampshire,Hardware Stores,116.0,92.0,117.0,8
+2020-03-27,NewHampshire,Convenience Store,69.0,62.0,70.0,9
+2020-03-27,NewHampshire,Nightlife Spots,34.0,40.0,34.0,10
+2020-03-27,NewHampshire,Professional & Other Places,13.0,10.0,13.0,11
+2020-03-27,NewHampshire,Drug Store,83.0,78.0,83.0,12
+2020-03-27,NewHampshire,Fast Food Restaurants,63.0,60.0,63.0,13
+2020-03-27,NewHampshire,School,25.0,30.0,25.0,14
+2020-03-27,NewHampshire,Arts & Entertainment,33.0,35.0,33.0,15
+2020-03-27,NewHampshire,Sports,27.0,25.0,27.0,16
+2020-03-27,NewHampshire,Alcohol,92.0,89.0,93.0,17
+2020-03-27,NewHampshire,Hotel,31.0,25.0,31.0,18
+2020-03-27,NewHampshire,Banks,73.0,63.0,74.0,19
+2020-03-27,NewHampshire,Government,41.0,37.0,41.0,20
+2020-03-27,NewHampshire,Office,55.0,49.0,55.0,21
+2020-03-27,NewHampshire,Residences,77.0,76.0,77.0,21
+2020-03-27,NewHampshire,Fitness Center,25.0,22.0,25.0,22
+2020-03-27,NewHampshire,Beach,194.0,167.0,195.0,23
+2020-03-27,NewHampshire,Colleges & Universities,28.0,"",27.0,24
+2020-03-27,NewHampshire,Discount Stores,83.0,"",84.0,25
+2020-03-27,NewHampshire,Travel & Transport,37.0,"",37.0,26
+2020-03-28,NewHampshire,Food,27.0,25.0,27.0,1
+2020-03-28,NewHampshire,Shops & Services,19.0,15.0,19.0,2
+2020-03-28,NewHampshire,Grocery,75.0,56.0,76.0,3
+2020-03-28,NewHampshire,Outdoors & Recreation,42.0,41.0,42.0,4
+2020-03-28,NewHampshire,Big Box Stores,67.0,50.0,67.0,5
+2020-03-28,NewHampshire,Hardware Stores,96.0,74.0,97.0,6
+2020-03-28,NewHampshire,Gas Stations,61.0,50.0,61.0,7
+2020-03-28,NewHampshire,Convenience Store,64.0,62.0,64.0,8
+2020-03-28,NewHampshire,Nightlife Spots,19.0,22.0,19.0,9
+2020-03-28,NewHampshire,Fast Food Restaurants,59.0,59.0,59.0,10
+2020-03-28,NewHampshire,Drug Store,71.0,59.0,71.0,11
+2020-03-28,NewHampshire,Professional & Other Places,15.0,15.0,15.0,12
+2020-03-28,NewHampshire,Medical,33.0,31.0,34.0,13
+2020-03-28,NewHampshire,School,27.0,24.0,27.0,14
+2020-03-28,NewHampshire,Arts & Entertainment,28.0,32.0,28.0,15
+2020-03-28,NewHampshire,Alcohol,80.0,70.0,80.0,16
+2020-03-28,NewHampshire,Sports,25.0,26.0,25.0,17
+2020-03-28,NewHampshire,Residences,69.0,94.0,68.0,18
+2020-03-28,NewHampshire,Hotel,16.0,19.0,16.0,19
+2020-03-28,NewHampshire,Government,52.0,"",52.0,20
+2020-03-28,NewHampshire,Fitness Center,18.0,"",18.0,21
+2020-03-28,NewHampshire,Banks,53.0,"",53.0,22
+2020-03-28,NewHampshire,Discount Stores,61.0,"",62.0,23
+2020-03-28,NewHampshire,Colleges & Universities,24.0,"",24.0,23
+2020-03-28,NewHampshire,Beach,85.0,"",85.0,24
+2020-03-28,NewHampshire,Office,65.0,"",66.0,25
+2020-03-28,NewHampshire,Travel & Transport,45.0,"",44.0,26
+2020-03-29,NewHampshire,Food,18.0,17.0,18.0,1
+2020-03-29,NewHampshire,Grocery,51.0,43.0,51.0,2
+2020-03-29,NewHampshire,Shops & Services,11.0,9.0,11.0,3
+2020-03-29,NewHampshire,Big Box Stores,57.0,42.0,57.0,4
+2020-03-29,NewHampshire,Outdoors & Recreation,18.0,18.0,18.0,5
+2020-03-29,NewHampshire,Hardware Stores,64.0,52.0,65.0,6
+2020-03-29,NewHampshire,Gas Stations,39.0,28.0,39.0,7
+2020-03-29,NewHampshire,Convenience Store,40.0,44.0,40.0,8
+2020-03-29,NewHampshire,Drug Store,55.0,45.0,56.0,9
+2020-03-29,NewHampshire,Fast Food Restaurants,37.0,"",37.0,10
+2020-03-29,NewHampshire,Nightlife Spots,11.0,"",11.0,11
+2020-03-29,NewHampshire,Medical,27.0,26.0,27.0,12
+2020-03-29,NewHampshire,Professional & Other Places,8.0,"",8.0,13
+2020-03-29,NewHampshire,School,19.0,"",19.0,14
+2020-03-29,NewHampshire,Arts & Entertainment,14.0,"",14.0,15
+2020-03-29,NewHampshire,Residences,40.0,"",40.0,16
+2020-03-29,NewHampshire,Alcohol,47.0,"",47.0,17
+2020-03-29,NewHampshire,Hotel,11.0,"",11.0,18
+2020-03-29,NewHampshire,Sports,10.0,"",10.0,19
+2020-03-29,NewHampshire,Government,30.0,"",30.0,20
+2020-03-29,NewHampshire,Discount Stores,46.0,"",46.0,21
+2020-03-30,NewHampshire,Food,29.0,26.0,29.0,1
+2020-03-30,NewHampshire,Shops & Services,31.0,28.0,31.0,2
+2020-03-30,NewHampshire,Grocery,73.0,70.0,73.0,3
+2020-03-30,NewHampshire,Outdoors & Recreation,20.0,25.0,20.0,4
+2020-03-30,NewHampshire,Gas Stations,60.0,49.0,60.0,5
+2020-03-30,NewHampshire,Big Box Stores,67.0,61.0,68.0,6
+2020-03-30,NewHampshire,Medical,21.0,20.0,21.0,7
+2020-03-30,NewHampshire,Hardware Stores,85.0,68.0,86.0,8
+2020-03-30,NewHampshire,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-30,NewHampshire,Convenience Store,56.0,53.0,56.0,10
+2020-03-30,NewHampshire,Drug Store,71.0,60.0,71.0,11
+2020-03-30,NewHampshire,Nightlife Spots,29.0,35.0,29.0,12
+2020-03-30,NewHampshire,Fast Food Restaurants,55.0,51.0,55.0,13
+2020-03-30,NewHampshire,School,16.0,16.0,16.0,14
+2020-03-30,NewHampshire,Arts & Entertainment,23.0,30.0,22.0,15
+2020-03-30,NewHampshire,Office,37.0,"",37.0,16
+2020-03-30,NewHampshire,Hotel,25.0,27.0,25.0,17
+2020-03-30,NewHampshire,Government,28.0,29.0,28.0,18
+2020-03-30,NewHampshire,Fitness Center,18.0,"",17.0,19
+2020-03-30,NewHampshire,Banks,58.0,51.0,58.0,20
+2020-03-30,NewHampshire,Alcohol,73.0,"",74.0,21
+2020-03-30,NewHampshire,Sports,14.0,"",14.0,22
+2020-03-30,NewHampshire,Colleges & Universities,21.0,"",21.0,23
+2020-03-30,NewHampshire,Residences,49.0,"",49.0,24
+2020-03-30,NewHampshire,Travel & Transport,19.0,"",19.0,25
+2020-03-30,NewHampshire,Discount Stores,56.0,"",57.0,26
+2020-03-31,NewHampshire,Food,39.0,33.0,39.0,1
+2020-03-31,NewHampshire,Shops & Services,32.0,27.0,32.0,2
+2020-03-31,NewHampshire,Grocery,75.0,69.0,76.0,3
+2020-03-31,NewHampshire,Outdoors & Recreation,32.0,33.0,32.0,4
+2020-03-31,NewHampshire,Big Box Stores,74.0,69.0,75.0,5
+2020-03-31,NewHampshire,Gas Stations,56.0,53.0,56.0,6
+2020-03-31,NewHampshire,Medical,20.0,16.0,20.0,7
+2020-03-31,NewHampshire,Hardware Stores,91.0,70.0,92.0,8
+2020-03-31,NewHampshire,Convenience Store,61.0,57.0,61.0,9
+2020-03-31,NewHampshire,Professional & Other Places,8.0,7.0,8.0,10
+2020-03-31,NewHampshire,Nightlife Spots,28.0,29.0,28.0,11
+2020-03-31,NewHampshire,Drug Store,67.0,63.0,67.0,12
+2020-03-31,NewHampshire,Fast Food Restaurants,56.0,41.0,56.0,13
+2020-03-31,NewHampshire,School,13.0,14.0,13.0,14
+2020-03-31,NewHampshire,Arts & Entertainment,29.0,31.0,29.0,15
+2020-03-31,NewHampshire,Government,25.0,20.0,25.0,16
+2020-03-31,NewHampshire,Banks,71.0,68.0,71.0,17
+2020-03-31,NewHampshire,Hotel,25.0,27.0,25.0,18
+2020-03-31,NewHampshire,Office,32.0,"",32.0,19
+2020-03-31,NewHampshire,Sports,15.0,15.0,15.0,20
+2020-03-31,NewHampshire,Residences,51.0,61.0,50.0,21
+2020-03-31,NewHampshire,Fitness Center,15.0,"",16.0,21
+2020-03-31,NewHampshire,Alcohol,75.0,92.0,74.0,22
+2020-03-31,NewHampshire,Colleges & Universities,19.0,"",19.0,23
+2020-03-31,NewHampshire,Travel & Transport,61.0,"",62.0,24
+2020-03-31,NewHampshire,Beach,83.0,"",83.0,25
+2020-04-01,NewHampshire,Food,27.0,22.0,27.0,1
+2020-04-01,NewHampshire,Shops & Services,17.0,15.0,17.0,2
+2020-04-01,NewHampshire,Grocery,77.0,65.0,78.0,3
+2020-04-01,NewHampshire,Outdoors & Recreation,31.0,33.0,31.0,4
+2020-04-01,NewHampshire,Gas Stations,67.0,57.0,67.0,5
+2020-04-01,NewHampshire,Big Box Stores,72.0,57.0,73.0,6
+2020-04-01,NewHampshire,Medical,19.0,16.0,19.0,7
+2020-04-01,NewHampshire,Hardware Stores,90.0,75.0,91.0,8
+2020-04-01,NewHampshire,Professional & Other Places,10.0,9.0,11.0,9
+2020-04-01,NewHampshire,Convenience Store,59.0,52.0,60.0,10
+2020-04-01,NewHampshire,Nightlife Spots,28.0,27.0,28.0,11
+2020-04-01,NewHampshire,Drug Store,70.0,62.0,70.0,12
+2020-04-01,NewHampshire,Fast Food Restaurants,61.0,54.0,61.0,13
+2020-04-01,NewHampshire,School,18.0,22.0,18.0,14
+2020-04-01,NewHampshire,Arts & Entertainment,27.0,25.0,27.0,15
+2020-04-01,NewHampshire,Office,38.0,"",38.0,16
+2020-04-01,NewHampshire,Government,29.0,"",29.0,17
+2020-04-01,NewHampshire,Hotel,27.0,24.0,27.0,18
+2020-04-01,NewHampshire,Banks,75.0,72.0,75.0,19
+2020-04-01,NewHampshire,Alcohol,88.0,76.0,89.0,20
+2020-04-01,NewHampshire,Sports,15.0,16.0,14.0,21
+2020-04-01,NewHampshire,Residences,64.0,78.0,64.0,22
+2020-04-01,NewHampshire,Fitness Center,17.0,22.0,17.0,23
+2020-04-01,NewHampshire,Colleges & Universities,18.0,"",18.0,24
+2020-04-01,NewHampshire,Discount Stores,72.0,"",73.0,25
+2020-04-01,NewHampshire,Beach,94.0,"",95.0,26
+2020-04-01,NewHampshire,Travel & Transport,37.0,"",37.0,27

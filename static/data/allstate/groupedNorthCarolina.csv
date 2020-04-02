@@ -1,0 +1,987 @@
+2020-03-01,NorthCarolina,Food,53.0,52.0,53.0,1
+2020-03-01,NorthCarolina,Shops & Services,39.0,36.0,40.0,2
+2020-03-01,NorthCarolina,Grocery,98.0,94.0,98.0,3
+2020-03-01,NorthCarolina,Gas Stations,109.0,105.0,109.0,4
+2020-03-01,NorthCarolina,Fast Food Restaurants,116.0,110.0,117.0,5
+2020-03-01,NorthCarolina,Big Box Stores,109.0,103.0,109.0,6
+2020-03-01,NorthCarolina,Outdoors & Recreation,59.0,57.0,59.0,7
+2020-03-01,NorthCarolina,Nightlife Spots,57.0,58.0,57.0,8
+2020-03-01,NorthCarolina,Arts & Entertainment,79.0,82.0,79.0,9
+2020-03-01,NorthCarolina,Residences,83.0,86.0,83.0,10
+2020-03-01,NorthCarolina,Professional & Other Places,19.0,16.0,19.0,11
+2020-03-01,NorthCarolina,School,61.0,60.0,61.0,12
+2020-03-01,NorthCarolina,Hotel,98.0,88.0,98.0,13
+2020-03-01,NorthCarolina,Convenience Store,110.0,101.0,110.0,14
+2020-03-01,NorthCarolina,Airport,64.0,56.0,64.0,15
+2020-03-01,NorthCarolina,Discount Stores,110.0,99.0,110.0,16
+2020-03-01,NorthCarolina,Hardware Stores,111.0,100.0,111.0,17
+2020-03-01,NorthCarolina,Medical,58.0,56.0,58.0,18
+2020-03-01,NorthCarolina,Sports,47.0,50.0,46.0,19
+2020-03-01,NorthCarolina,Drug Store,103.0,100.0,103.0,20
+2020-03-01,NorthCarolina,Colleges & Universities,72.0,71.0,72.0,21
+2020-03-01,NorthCarolina,Fitness Center,65.0,68.0,65.0,22
+2020-03-01,NorthCarolina,Travel & Transport,20.0,27.0,20.0,23
+2020-03-01,NorthCarolina,Government,69.0,68.0,69.0,24
+2020-03-01,NorthCarolina,Office,93.0,82.0,93.0,25
+2020-03-01,NorthCarolina,Alcohol,108.0,107.0,108.0,26
+2020-03-01,NorthCarolina,Banks,117.0,130.0,116.0,27
+2020-03-01,NorthCarolina,Beach,81.0,72.0,82.0,28
+2020-03-01,NorthCarolina,Bus,105.0,"",105.0,29
+2020-03-01,NorthCarolina,Skiing,62.0,"",62.0,30
+2020-03-01,NorthCarolina,Spiritual Center,3.0,3.0,3.0,31
+2020-03-01,NorthCarolina,Light Rail Stations,165.0,"",165.0,32
+2020-03-02,NorthCarolina,Food,49.0,48.0,49.0,1
+2020-03-02,NorthCarolina,Shops & Services,39.0,38.0,39.0,2
+2020-03-02,NorthCarolina,Grocery,108.0,103.0,109.0,3
+2020-03-02,NorthCarolina,Gas Stations,108.0,103.0,108.0,4
+2020-03-02,NorthCarolina,Fast Food Restaurants,116.0,105.0,117.0,5
+2020-03-02,NorthCarolina,Medical,58.0,55.0,58.0,6
+2020-03-02,NorthCarolina,School,62.0,58.0,62.0,7
+2020-03-02,NorthCarolina,Outdoors & Recreation,51.0,50.0,51.0,8
+2020-03-02,NorthCarolina,Big Box Stores,112.0,102.0,113.0,9
+2020-03-02,NorthCarolina,Professional & Other Places,17.0,17.0,17.0,10
+2020-03-02,NorthCarolina,Colleges & Universities,61.0,71.0,61.0,11
+2020-03-02,NorthCarolina,Residences,86.0,87.0,86.0,12
+2020-03-02,NorthCarolina,Nightlife Spots,61.0,63.0,60.0,13
+2020-03-02,NorthCarolina,Office,93.0,91.0,93.0,14
+2020-03-02,NorthCarolina,Airport,61.0,64.0,61.0,15
+2020-03-02,NorthCarolina,Convenience Store,104.0,100.0,105.0,16
+2020-03-02,NorthCarolina,Arts & Entertainment,79.0,83.0,79.0,17
+2020-03-02,NorthCarolina,Government,77.0,70.0,77.0,18
+2020-03-02,NorthCarolina,Fitness Center,67.0,66.0,67.0,19
+2020-03-02,NorthCarolina,Hardware Stores,111.0,107.0,111.0,20
+2020-03-02,NorthCarolina,Hotel,87.0,79.0,88.0,21
+2020-03-02,NorthCarolina,Discount Stores,108.0,97.0,108.0,22
+2020-03-02,NorthCarolina,Drug Store,107.0,99.0,108.0,23
+2020-03-02,NorthCarolina,Sports,38.0,40.0,38.0,24
+2020-03-02,NorthCarolina,Banks,126.0,123.0,126.0,25
+2020-03-02,NorthCarolina,Travel & Transport,21.0,28.0,21.0,26
+2020-03-02,NorthCarolina,Alcohol,108.0,111.0,107.0,27
+2020-03-02,NorthCarolina,Beach,92.0,88.0,93.0,28
+2020-03-02,NorthCarolina,Bus,97.0,97.0,97.0,29
+2020-03-02,NorthCarolina,Light Rail Stations,107.0,"",107.0,30
+2020-03-02,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-03,NorthCarolina,Food,51.0,48.0,51.0,1
+2020-03-03,NorthCarolina,Shops & Services,36.0,34.0,36.0,2
+2020-03-03,NorthCarolina,Grocery,110.0,105.0,110.0,3
+2020-03-03,NorthCarolina,Gas Stations,106.0,101.0,106.0,4
+2020-03-03,NorthCarolina,School,65.0,73.0,64.0,5
+2020-03-03,NorthCarolina,Fast Food Restaurants,113.0,107.0,114.0,6
+2020-03-03,NorthCarolina,Medical,55.0,53.0,55.0,7
+2020-03-03,NorthCarolina,Outdoors & Recreation,57.0,56.0,57.0,8
+2020-03-03,NorthCarolina,Professional & Other Places,17.0,17.0,17.0,9
+2020-03-03,NorthCarolina,Big Box Stores,112.0,104.0,113.0,10
+2020-03-03,NorthCarolina,Colleges & Universities,63.0,81.0,63.0,11
+2020-03-03,NorthCarolina,Nightlife Spots,57.0,60.0,57.0,12
+2020-03-03,NorthCarolina,Residences,81.0,86.0,81.0,13
+2020-03-03,NorthCarolina,Office,85.0,84.0,85.0,14
+2020-03-03,NorthCarolina,Government,82.0,83.0,82.0,15
+2020-03-03,NorthCarolina,Convenience Store,104.0,97.0,104.0,16
+2020-03-03,NorthCarolina,Arts & Entertainment,91.0,84.0,91.0,17
+2020-03-03,NorthCarolina,Fitness Center,62.0,59.0,63.0,18
+2020-03-03,NorthCarolina,Airport,55.0,61.0,55.0,19
+2020-03-03,NorthCarolina,Hardware Stores,110.0,100.0,110.0,20
+2020-03-03,NorthCarolina,Hotel,84.0,73.0,85.0,21
+2020-03-03,NorthCarolina,Drug Store,110.0,104.0,110.0,22
+2020-03-03,NorthCarolina,Discount Stores,110.0,106.0,110.0,23
+2020-03-03,NorthCarolina,Sports,34.0,36.0,34.0,24
+2020-03-03,NorthCarolina,Banks,118.0,108.0,119.0,25
+2020-03-03,NorthCarolina,Travel & Transport,23.0,27.0,22.0,26
+2020-03-03,NorthCarolina,Alcohol,104.0,102.0,105.0,27
+2020-03-03,NorthCarolina,Beach,86.0,78.0,87.0,28
+2020-03-03,NorthCarolina,Bus,84.0,89.0,84.0,29
+2020-03-03,NorthCarolina,Spiritual Center,5.0,"",5.0,30
+2020-03-03,NorthCarolina,Light Rail Stations,86.0,"",86.0,31
+2020-03-04,NorthCarolina,Food,46.0,45.0,46.0,1
+2020-03-04,NorthCarolina,Shops & Services,39.0,38.0,39.0,2
+2020-03-04,NorthCarolina,Grocery,97.0,94.0,97.0,3
+2020-03-04,NorthCarolina,Gas Stations,102.0,97.0,102.0,4
+2020-03-04,NorthCarolina,Fast Food Restaurants,106.0,101.0,106.0,5
+2020-03-04,NorthCarolina,Medical,54.0,52.0,54.0,6
+2020-03-04,NorthCarolina,School,56.0,57.0,56.0,7
+2020-03-04,NorthCarolina,Outdoors & Recreation,54.0,53.0,55.0,8
+2020-03-04,NorthCarolina,Professional & Other Places,16.0,15.0,16.0,9
+2020-03-04,NorthCarolina,Big Box Stores,102.0,100.0,102.0,10
+2020-03-04,NorthCarolina,Colleges & Universities,61.0,69.0,61.0,11
+2020-03-04,NorthCarolina,Nightlife Spots,54.0,55.0,54.0,12
+2020-03-04,NorthCarolina,Residences,82.0,84.0,82.0,13
+2020-03-04,NorthCarolina,Office,84.0,84.0,84.0,14
+2020-03-04,NorthCarolina,Convenience Store,97.0,93.0,97.0,15
+2020-03-04,NorthCarolina,Arts & Entertainment,71.0,70.0,71.0,16
+2020-03-04,NorthCarolina,Fitness Center,61.0,56.0,61.0,17
+2020-03-04,NorthCarolina,Government,70.0,66.0,70.0,18
+2020-03-04,NorthCarolina,Hotel,86.0,75.0,86.0,19
+2020-03-04,NorthCarolina,Airport,57.0,51.0,57.0,20
+2020-03-04,NorthCarolina,Hardware Stores,104.0,100.0,105.0,21
+2020-03-04,NorthCarolina,Drug Store,105.0,98.0,105.0,22
+2020-03-04,NorthCarolina,Discount Stores,103.0,103.0,104.0,23
+2020-03-04,NorthCarolina,Sports,37.0,44.0,36.0,24
+2020-03-04,NorthCarolina,Banks,104.0,106.0,104.0,25
+2020-03-04,NorthCarolina,Travel & Transport,21.0,25.0,21.0,26
+2020-03-04,NorthCarolina,Alcohol,96.0,94.0,96.0,27
+2020-03-04,NorthCarolina,Beach,91.0,84.0,92.0,28
+2020-03-04,NorthCarolina,Bus,76.0,"",76.0,29
+2020-03-04,NorthCarolina,Light Rail Stations,95.0,"",95.0,30
+2020-03-04,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-05,NorthCarolina,Food,48.0,50.0,48.0,1
+2020-03-05,NorthCarolina,Shops & Services,36.0,37.0,36.0,2
+2020-03-05,NorthCarolina,Grocery,97.0,100.0,96.0,3
+2020-03-05,NorthCarolina,Gas Stations,101.0,97.0,102.0,4
+2020-03-05,NorthCarolina,Fast Food Restaurants,106.0,100.0,106.0,5
+2020-03-05,NorthCarolina,Medical,56.0,56.0,57.0,6
+2020-03-05,NorthCarolina,School,60.0,60.0,60.0,7
+2020-03-05,NorthCarolina,Outdoors & Recreation,53.0,55.0,52.0,8
+2020-03-05,NorthCarolina,Professional & Other Places,17.0,17.0,17.0,9
+2020-03-05,NorthCarolina,Big Box Stores,98.0,104.0,98.0,10
+2020-03-05,NorthCarolina,Colleges & Universities,59.0,69.0,59.0,11
+2020-03-05,NorthCarolina,Nightlife Spots,60.0,62.0,60.0,12
+2020-03-05,NorthCarolina,Residences,84.0,82.0,85.0,13
+2020-03-05,NorthCarolina,Office,89.0,96.0,88.0,14
+2020-03-05,NorthCarolina,Convenience Store,103.0,100.0,103.0,15
+2020-03-05,NorthCarolina,Arts & Entertainment,77.0,83.0,77.0,16
+2020-03-05,NorthCarolina,Airport,60.0,61.0,60.0,17
+2020-03-05,NorthCarolina,Government,72.0,66.0,73.0,18
+2020-03-05,NorthCarolina,Hotel,87.0,78.0,87.0,19
+2020-03-05,NorthCarolina,Hardware Stores,112.0,113.0,112.0,20
+2020-03-05,NorthCarolina,Fitness Center,65.0,61.0,65.0,21
+2020-03-05,NorthCarolina,Discount Stores,102.0,100.0,102.0,22
+2020-03-05,NorthCarolina,Drug Store,101.0,97.0,102.0,23
+2020-03-05,NorthCarolina,Sports,39.0,41.0,39.0,24
+2020-03-05,NorthCarolina,Banks,114.0,113.0,114.0,25
+2020-03-05,NorthCarolina,Travel & Transport,20.0,25.0,20.0,26
+2020-03-05,NorthCarolina,Alcohol,97.0,102.0,97.0,27
+2020-03-05,NorthCarolina,Beach,81.0,69.0,82.0,28
+2020-03-05,NorthCarolina,Bus,84.0,76.0,84.0,29
+2020-03-05,NorthCarolina,Light Rail Stations,92.0,"",92.0,30
+2020-03-05,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-06,NorthCarolina,Food,46.0,46.0,46.0,1
+2020-03-06,NorthCarolina,Shops & Services,35.0,35.0,35.0,2
+2020-03-06,NorthCarolina,Grocery,98.0,97.0,98.0,3
+2020-03-06,NorthCarolina,Gas Stations,105.0,104.0,105.0,4
+2020-03-06,NorthCarolina,Fast Food Restaurants,107.0,101.0,107.0,5
+2020-03-06,NorthCarolina,School,70.0,67.0,70.0,6
+2020-03-06,NorthCarolina,Medical,58.0,55.0,58.0,7
+2020-03-06,NorthCarolina,Outdoors & Recreation,55.0,53.0,55.0,8
+2020-03-06,NorthCarolina,Big Box Stores,98.0,98.0,98.0,9
+2020-03-06,NorthCarolina,Professional & Other Places,18.0,18.0,18.0,10
+2020-03-06,NorthCarolina,Nightlife Spots,64.0,60.0,64.0,11
+2020-03-06,NorthCarolina,Residences,87.0,93.0,86.0,12
+2020-03-06,NorthCarolina,Colleges & Universities,68.0,79.0,67.0,13
+2020-03-06,NorthCarolina,Convenience Store,106.0,109.0,106.0,14
+2020-03-06,NorthCarolina,Arts & Entertainment,72.0,72.0,72.0,15
+2020-03-06,NorthCarolina,Office,91.0,96.0,91.0,16
+2020-03-06,NorthCarolina,Airport,55.0,47.0,56.0,17
+2020-03-06,NorthCarolina,Hotel,88.0,81.0,89.0,18
+2020-03-06,NorthCarolina,Hardware Stores,106.0,111.0,106.0,19
+2020-03-06,NorthCarolina,Government,73.0,71.0,73.0,20
+2020-03-06,NorthCarolina,Discount Stores,95.0,96.0,95.0,21
+2020-03-06,NorthCarolina,Drug Store,100.0,97.0,101.0,22
+2020-03-06,NorthCarolina,Fitness Center,67.0,65.0,67.0,23
+2020-03-06,NorthCarolina,Sports,40.0,45.0,40.0,24
+2020-03-06,NorthCarolina,Banks,103.0,95.0,104.0,25
+2020-03-06,NorthCarolina,Travel & Transport,20.0,25.0,20.0,26
+2020-03-06,NorthCarolina,Alcohol,104.0,94.0,104.0,27
+2020-03-06,NorthCarolina,Beach,98.0,97.0,98.0,28
+2020-03-06,NorthCarolina,Bus,88.0,96.0,87.0,29
+2020-03-06,NorthCarolina,Light Rail Stations,101.0,"",101.0,30
+2020-03-06,NorthCarolina,Spiritual Center,5.0,"",5.0,31
+2020-03-06,NorthCarolina,Skiing,41.0,"",41.0,32
+2020-03-07,NorthCarolina,Food,46.0,45.0,46.0,1
+2020-03-07,NorthCarolina,Shops & Services,38.0,35.0,38.0,2
+2020-03-07,NorthCarolina,Grocery,97.0,93.0,97.0,3
+2020-03-07,NorthCarolina,Fast Food Restaurants,107.0,101.0,107.0,4
+2020-03-07,NorthCarolina,Gas Stations,105.0,98.0,105.0,5
+2020-03-07,NorthCarolina,Big Box Stores,99.0,97.0,99.0,6
+2020-03-07,NorthCarolina,Outdoors & Recreation,49.0,47.0,50.0,7
+2020-03-07,NorthCarolina,Nightlife Spots,54.0,53.0,54.0,8
+2020-03-07,NorthCarolina,Arts & Entertainment,68.0,72.0,68.0,9
+2020-03-07,NorthCarolina,Professional & Other Places,21.0,21.0,21.0,10
+2020-03-07,NorthCarolina,Residences,83.0,87.0,83.0,11
+2020-03-07,NorthCarolina,Hardware Stores,115.0,110.0,115.0,12
+2020-03-07,NorthCarolina,School,57.0,53.0,57.0,13
+2020-03-07,NorthCarolina,Hotel,90.0,82.0,91.0,14
+2020-03-07,NorthCarolina,Convenience Store,103.0,101.0,103.0,15
+2020-03-07,NorthCarolina,Discount Stores,105.0,102.0,105.0,16
+2020-03-07,NorthCarolina,Medical,54.0,52.0,55.0,17
+2020-03-07,NorthCarolina,Airport,60.0,54.0,60.0,18
+2020-03-07,NorthCarolina,Sports,45.0,48.0,45.0,19
+2020-03-07,NorthCarolina,Drug Store,103.0,100.0,103.0,20
+2020-03-07,NorthCarolina,Fitness Center,60.0,56.0,60.0,21
+2020-03-07,NorthCarolina,Colleges & Universities,73.0,89.0,72.0,22
+2020-03-07,NorthCarolina,Travel & Transport,21.0,24.0,21.0,23
+2020-03-07,NorthCarolina,Government,68.0,61.0,68.0,24
+2020-03-07,NorthCarolina,Office,85.0,80.0,85.0,25
+2020-03-07,NorthCarolina,Alcohol,99.0,86.0,100.0,26
+2020-03-07,NorthCarolina,Banks,81.0,77.0,81.0,27
+2020-03-07,NorthCarolina,Beach,101.0,86.0,102.0,28
+2020-03-07,NorthCarolina,Bus,84.0,"",84.0,29
+2020-03-07,NorthCarolina,Skiing,43.0,"",42.0,30
+2020-03-07,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-07,NorthCarolina,Light Rail Stations,102.0,"",102.0,32
+2020-03-08,NorthCarolina,Food,50.0,48.0,50.0,1
+2020-03-08,NorthCarolina,Shops & Services,36.0,33.0,36.0,2
+2020-03-08,NorthCarolina,Grocery,98.0,94.0,99.0,3
+2020-03-08,NorthCarolina,Gas Stations,110.0,106.0,110.0,4
+2020-03-08,NorthCarolina,Fast Food Restaurants,114.0,113.0,114.0,5
+2020-03-08,NorthCarolina,Outdoors & Recreation,57.0,55.0,57.0,6
+2020-03-08,NorthCarolina,Big Box Stores,106.0,98.0,106.0,7
+2020-03-08,NorthCarolina,Nightlife Spots,55.0,55.0,55.0,8
+2020-03-08,NorthCarolina,Arts & Entertainment,78.0,76.0,78.0,9
+2020-03-08,NorthCarolina,Residences,83.0,77.0,84.0,10
+2020-03-08,NorthCarolina,Professional & Other Places,19.0,16.0,19.0,11
+2020-03-08,NorthCarolina,School,61.0,58.0,61.0,12
+2020-03-08,NorthCarolina,Airport,66.0,60.0,66.0,13
+2020-03-08,NorthCarolina,Hardware Stores,122.0,114.0,122.0,14
+2020-03-08,NorthCarolina,Hotel,92.0,80.0,92.0,15
+2020-03-08,NorthCarolina,Convenience Store,107.0,110.0,107.0,16
+2020-03-08,NorthCarolina,Discount Stores,105.0,98.0,106.0,17
+2020-03-08,NorthCarolina,Medical,58.0,58.0,58.0,18
+2020-03-08,NorthCarolina,Sports,49.0,55.0,49.0,19
+2020-03-08,NorthCarolina,Drug Store,108.0,106.0,108.0,20
+2020-03-08,NorthCarolina,Fitness Center,62.0,63.0,62.0,21
+2020-03-08,NorthCarolina,Colleges & Universities,64.0,72.0,64.0,22
+2020-03-08,NorthCarolina,Travel & Transport,21.0,25.0,21.0,23
+2020-03-08,NorthCarolina,Government,66.0,62.0,66.0,24
+2020-03-08,NorthCarolina,Office,85.0,80.0,85.0,25
+2020-03-08,NorthCarolina,Alcohol,102.0,85.0,103.0,26
+2020-03-08,NorthCarolina,Beach,106.0,105.0,106.0,27
+2020-03-08,NorthCarolina,Banks,86.0,85.0,86.0,28
+2020-03-08,NorthCarolina,Bus,83.0,"",83.0,29
+2020-03-08,NorthCarolina,Spiritual Center,3.0,2.0,3.0,30
+2020-03-08,NorthCarolina,Skiing,40.0,"",39.0,31
+2020-03-08,NorthCarolina,Light Rail Stations,106.0,"",106.0,32
+2020-03-09,NorthCarolina,Food,47.0,45.0,47.0,1
+2020-03-09,NorthCarolina,Shops & Services,38.0,37.0,38.0,2
+2020-03-09,NorthCarolina,Grocery,103.0,96.0,103.0,3
+2020-03-09,NorthCarolina,Gas Stations,105.0,100.0,105.0,4
+2020-03-09,NorthCarolina,Fast Food Restaurants,108.0,98.0,108.0,5
+2020-03-09,NorthCarolina,Medical,54.0,49.0,54.0,6
+2020-03-09,NorthCarolina,School,57.0,56.0,57.0,7
+2020-03-09,NorthCarolina,Outdoors & Recreation,55.0,51.0,55.0,8
+2020-03-09,NorthCarolina,Big Box Stores,106.0,99.0,106.0,9
+2020-03-09,NorthCarolina,Professional & Other Places,17.0,17.0,17.0,10
+2020-03-09,NorthCarolina,Residences,83.0,85.0,83.0,11
+2020-03-09,NorthCarolina,Nightlife Spots,67.0,66.0,67.0,12
+2020-03-09,NorthCarolina,Office,86.0,81.0,86.0,13
+2020-03-09,NorthCarolina,Colleges & Universities,53.0,69.0,53.0,14
+2020-03-09,NorthCarolina,Airport,54.0,52.0,54.0,15
+2020-03-09,NorthCarolina,Convenience Store,102.0,96.0,103.0,16
+2020-03-09,NorthCarolina,Arts & Entertainment,76.0,75.0,76.0,17
+2020-03-09,NorthCarolina,Government,73.0,64.0,73.0,18
+2020-03-09,NorthCarolina,Hardware Stores,111.0,107.0,112.0,19
+2020-03-09,NorthCarolina,Fitness Center,64.0,61.0,64.0,20
+2020-03-09,NorthCarolina,Hotel,83.0,73.0,84.0,21
+2020-03-09,NorthCarolina,Drug Store,108.0,97.0,108.0,22
+2020-03-09,NorthCarolina,Sports,40.0,44.0,39.0,23
+2020-03-09,NorthCarolina,Discount Stores,102.0,95.0,103.0,24
+2020-03-09,NorthCarolina,Travel & Transport,20.0,27.0,20.0,25
+2020-03-09,NorthCarolina,Banks,117.0,107.0,117.0,26
+2020-03-09,NorthCarolina,Alcohol,100.0,105.0,100.0,27
+2020-03-09,NorthCarolina,Beach,119.0,113.0,119.0,28
+2020-03-09,NorthCarolina,Bus,80.0,"",81.0,29
+2020-03-09,NorthCarolina,Light Rail Stations,119.0,"",119.0,30
+2020-03-09,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-09,NorthCarolina,Skiing,60.0,"",57.0,32
+2020-03-10,NorthCarolina,Food,46.0,43.0,46.0,1
+2020-03-10,NorthCarolina,Shops & Services,36.0,35.0,37.0,2
+2020-03-10,NorthCarolina,Grocery,104.0,100.0,104.0,3
+2020-03-10,NorthCarolina,Gas Stations,101.0,94.0,102.0,4
+2020-03-10,NorthCarolina,Fast Food Restaurants,104.0,95.0,104.0,5
+2020-03-10,NorthCarolina,Medical,52.0,47.0,52.0,6
+2020-03-10,NorthCarolina,School,55.0,54.0,55.0,7
+2020-03-10,NorthCarolina,Outdoors & Recreation,49.0,51.0,49.0,8
+2020-03-10,NorthCarolina,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-10,NorthCarolina,Big Box Stores,104.0,94.0,104.0,10
+2020-03-10,NorthCarolina,Residences,83.0,78.0,83.0,11
+2020-03-10,NorthCarolina,Nightlife Spots,56.0,56.0,56.0,12
+2020-03-10,NorthCarolina,Office,83.0,79.0,83.0,13
+2020-03-10,NorthCarolina,Colleges & Universities,46.0,63.0,46.0,14
+2020-03-10,NorthCarolina,Convenience Store,101.0,94.0,101.0,15
+2020-03-10,NorthCarolina,Arts & Entertainment,77.0,71.0,77.0,16
+2020-03-10,NorthCarolina,Government,67.0,62.0,68.0,17
+2020-03-10,NorthCarolina,Fitness Center,59.0,53.0,59.0,18
+2020-03-10,NorthCarolina,Hardware Stores,110.0,107.0,110.0,19
+2020-03-10,NorthCarolina,Hotel,83.0,77.0,84.0,20
+2020-03-10,NorthCarolina,Drug Store,105.0,102.0,105.0,21
+2020-03-10,NorthCarolina,Airport,50.0,56.0,49.0,22
+2020-03-10,NorthCarolina,Discount Stores,102.0,91.0,102.0,23
+2020-03-10,NorthCarolina,Sports,38.0,43.0,38.0,24
+2020-03-10,NorthCarolina,Travel & Transport,20.0,24.0,20.0,25
+2020-03-10,NorthCarolina,Banks,97.0,92.0,97.0,26
+2020-03-10,NorthCarolina,Alcohol,101.0,92.0,101.0,27
+2020-03-10,NorthCarolina,Beach,102.0,102.0,102.0,28
+2020-03-10,NorthCarolina,Bus,83.0,"",84.0,29
+2020-03-10,NorthCarolina,Light Rail Stations,94.0,"",94.0,30
+2020-03-10,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-11,NorthCarolina,Food,45.0,44.0,45.0,1
+2020-03-11,NorthCarolina,Shops & Services,35.0,34.0,35.0,2
+2020-03-11,NorthCarolina,Grocery,99.0,96.0,99.0,3
+2020-03-11,NorthCarolina,Gas Stations,104.0,101.0,104.0,4
+2020-03-11,NorthCarolina,Fast Food Restaurants,102.0,98.0,103.0,5
+2020-03-11,NorthCarolina,Medical,51.0,47.0,51.0,6
+2020-03-11,NorthCarolina,School,57.0,55.0,57.0,7
+2020-03-11,NorthCarolina,Outdoors & Recreation,56.0,53.0,56.0,8
+2020-03-11,NorthCarolina,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-11,NorthCarolina,Big Box Stores,99.0,93.0,100.0,10
+2020-03-11,NorthCarolina,Nightlife Spots,57.0,57.0,57.0,11
+2020-03-11,NorthCarolina,Residences,82.0,83.0,82.0,12
+2020-03-11,NorthCarolina,Office,80.0,79.0,80.0,13
+2020-03-11,NorthCarolina,Colleges & Universities,49.0,63.0,49.0,14
+2020-03-11,NorthCarolina,Convenience Store,99.0,99.0,99.0,15
+2020-03-11,NorthCarolina,Arts & Entertainment,72.0,70.0,73.0,16
+2020-03-11,NorthCarolina,Hardware Stores,110.0,106.0,111.0,17
+2020-03-11,NorthCarolina,Fitness Center,58.0,52.0,58.0,18
+2020-03-11,NorthCarolina,Hotel,84.0,79.0,84.0,19
+2020-03-11,NorthCarolina,Government,67.0,58.0,67.0,19
+2020-03-11,NorthCarolina,Discount Stores,105.0,102.0,105.0,20
+2020-03-11,NorthCarolina,Sports,41.0,48.0,41.0,21
+2020-03-11,NorthCarolina,Drug Store,100.0,95.0,100.0,22
+2020-03-11,NorthCarolina,Airport,50.0,46.0,50.0,23
+2020-03-11,NorthCarolina,Travel & Transport,21.0,26.0,21.0,24
+2020-03-11,NorthCarolina,Banks,101.0,105.0,100.0,25
+2020-03-11,NorthCarolina,Alcohol,98.0,99.0,98.0,26
+2020-03-11,NorthCarolina,Beach,125.0,121.0,125.0,27
+2020-03-11,NorthCarolina,Bus,73.0,"",73.0,28
+2020-03-11,NorthCarolina,Light Rail Stations,94.0,"",94.0,29
+2020-03-11,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-12,NorthCarolina,Food,46.0,46.0,46.0,1
+2020-03-12,NorthCarolina,Shops & Services,40.0,41.0,40.0,2
+2020-03-12,NorthCarolina,Grocery,110.0,112.0,109.0,3
+2020-03-12,NorthCarolina,Gas Stations,105.0,105.0,105.0,4
+2020-03-12,NorthCarolina,Fast Food Restaurants,104.0,100.0,104.0,5
+2020-03-12,NorthCarolina,Medical,54.0,50.0,54.0,6
+2020-03-12,NorthCarolina,School,56.0,58.0,56.0,7
+2020-03-12,NorthCarolina,Outdoors & Recreation,56.0,57.0,56.0,8
+2020-03-12,NorthCarolina,Big Box Stores,105.0,111.0,105.0,9
+2020-03-12,NorthCarolina,Professional & Other Places,16.0,17.0,16.0,10
+2020-03-12,NorthCarolina,Nightlife Spots,56.0,55.0,56.0,11
+2020-03-12,NorthCarolina,Residences,85.0,89.0,85.0,12
+2020-03-12,NorthCarolina,Office,81.0,82.0,81.0,13
+2020-03-12,NorthCarolina,Colleges & Universities,53.0,63.0,53.0,14
+2020-03-12,NorthCarolina,Convenience Store,104.0,103.0,104.0,15
+2020-03-12,NorthCarolina,Arts & Entertainment,75.0,74.0,75.0,16
+2020-03-12,NorthCarolina,Hardware Stores,122.0,125.0,122.0,17
+2020-03-12,NorthCarolina,Airport,54.0,51.0,54.0,18
+2020-03-12,NorthCarolina,Discount Stores,110.0,107.0,110.0,19
+2020-03-12,NorthCarolina,Drug Store,109.0,107.0,109.0,20
+2020-03-12,NorthCarolina,Government,68.0,62.0,69.0,21
+2020-03-12,NorthCarolina,Hotel,83.0,77.0,83.0,22
+2020-03-12,NorthCarolina,Fitness Center,60.0,55.0,60.0,23
+2020-03-12,NorthCarolina,Sports,45.0,56.0,44.0,24
+2020-03-12,NorthCarolina,Travel & Transport,37.0,40.0,37.0,25
+2020-03-12,NorthCarolina,Banks,108.0,117.0,107.0,26
+2020-03-12,NorthCarolina,Alcohol,108.0,116.0,108.0,27
+2020-03-12,NorthCarolina,Beach,128.0,132.0,128.0,28
+2020-03-12,NorthCarolina,Bus,73.0,"",73.0,29
+2020-03-12,NorthCarolina,Light Rail Stations,102.0,"",103.0,30
+2020-03-12,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-13,NorthCarolina,Food,47.0,43.0,47.0,1
+2020-03-13,NorthCarolina,Shops & Services,37.0,34.0,37.0,2
+2020-03-13,NorthCarolina,Grocery,140.0,130.0,141.0,3
+2020-03-13,NorthCarolina,Gas Stations,110.0,104.0,110.0,4
+2020-03-13,NorthCarolina,Fast Food Restaurants,105.0,94.0,105.0,5
+2020-03-13,NorthCarolina,Big Box Stores,124.0,114.0,124.0,6
+2020-03-13,NorthCarolina,Outdoors & Recreation,59.0,56.0,59.0,7
+2020-03-13,NorthCarolina,Medical,55.0,50.0,55.0,8
+2020-03-13,NorthCarolina,School,62.0,59.0,63.0,9
+2020-03-13,NorthCarolina,Professional & Other Places,18.0,18.0,18.0,10
+2020-03-13,NorthCarolina,Nightlife Spots,55.0,57.0,55.0,11
+2020-03-13,NorthCarolina,Residences,89.0,87.0,89.0,12
+2020-03-13,NorthCarolina,Convenience Store,112.0,102.0,112.0,13
+2020-03-13,NorthCarolina,Hardware Stores,127.0,113.0,128.0,14
+2020-03-13,NorthCarolina,Discount Stores,125.0,115.0,125.0,15
+2020-03-13,NorthCarolina,Drug Store,128.0,120.0,129.0,16
+2020-03-13,NorthCarolina,Arts & Entertainment,67.0,62.0,67.0,17
+2020-03-13,NorthCarolina,Office,82.0,81.0,82.0,18
+2020-03-13,NorthCarolina,Hotel,82.0,77.0,83.0,19
+2020-03-13,NorthCarolina,Colleges & Universities,46.0,55.0,46.0,20
+2020-03-13,NorthCarolina,Government,72.0,64.0,73.0,21
+2020-03-13,NorthCarolina,Airport,46.0,37.0,46.0,22
+2020-03-13,NorthCarolina,Sports,45.0,52.0,45.0,23
+2020-03-13,NorthCarolina,Fitness Center,60.0,58.0,60.0,24
+2020-03-13,NorthCarolina,Banks,107.0,94.0,108.0,25
+2020-03-13,NorthCarolina,Travel & Transport,21.0,27.0,21.0,26
+2020-03-13,NorthCarolina,Alcohol,116.0,112.0,117.0,27
+2020-03-13,NorthCarolina,Beach,147.0,124.0,149.0,28
+2020-03-13,NorthCarolina,Bus,81.0,"",81.0,29
+2020-03-13,NorthCarolina,Light Rail Stations,94.0,"",94.0,30
+2020-03-13,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-14,NorthCarolina,Food,39.0,38.0,39.0,1
+2020-03-14,NorthCarolina,Shops & Services,32.0,29.0,33.0,2
+2020-03-14,NorthCarolina,Grocery,123.0,113.0,124.0,3
+2020-03-14,NorthCarolina,Gas Stations,104.0,100.0,105.0,4
+2020-03-14,NorthCarolina,Fast Food Restaurants,93.0,88.0,93.0,5
+2020-03-14,NorthCarolina,Big Box Stores,106.0,96.0,106.0,6
+2020-03-14,NorthCarolina,Outdoors & Recreation,57.0,57.0,57.0,7
+2020-03-14,NorthCarolina,Nightlife Spots,50.0,47.0,50.0,8
+2020-03-14,NorthCarolina,Hardware Stores,133.0,124.0,133.0,9
+2020-03-14,NorthCarolina,Residences,82.0,79.0,82.0,10
+2020-03-14,NorthCarolina,Professional & Other Places,19.0,20.0,19.0,11
+2020-03-14,NorthCarolina,Discount Stores,117.0,107.0,117.0,12
+2020-03-14,NorthCarolina,Arts & Entertainment,50.0,50.0,50.0,13
+2020-03-14,NorthCarolina,School,47.0,48.0,47.0,14
+2020-03-14,NorthCarolina,Convenience Store,97.0,90.0,97.0,15
+2020-03-14,NorthCarolina,Medical,51.0,46.0,51.0,16
+2020-03-14,NorthCarolina,Drug Store,115.0,110.0,115.0,17
+2020-03-14,NorthCarolina,Hotel,69.0,61.0,69.0,18
+2020-03-14,NorthCarolina,Sports,39.0,50.0,39.0,19
+2020-03-14,NorthCarolina,Airport,46.0,29.0,46.0,20
+2020-03-14,NorthCarolina,Fitness Center,50.0,44.0,51.0,21
+2020-03-14,NorthCarolina,Travel & Transport,21.0,27.0,21.0,22
+2020-03-14,NorthCarolina,Government,63.0,53.0,64.0,23
+2020-03-14,NorthCarolina,Alcohol,105.0,107.0,104.0,24
+2020-03-14,NorthCarolina,Office,77.0,66.0,77.0,25
+2020-03-14,NorthCarolina,Colleges & Universities,41.0,41.0,41.0,26
+2020-03-14,NorthCarolina,Banks,84.0,92.0,83.0,27
+2020-03-14,NorthCarolina,Beach,135.0,115.0,137.0,28
+2020-03-14,NorthCarolina,Bus,69.0,"",69.0,29
+2020-03-14,NorthCarolina,Spiritual Center,4.0,"",3.0,30
+2020-03-14,NorthCarolina,Light Rail Stations,75.0,"",75.0,31
+2020-03-15,NorthCarolina,Food,38.0,33.0,39.0,1
+2020-03-15,NorthCarolina,Shops & Services,28.0,25.0,28.0,2
+2020-03-15,NorthCarolina,Grocery,114.0,106.0,114.0,3
+2020-03-15,NorthCarolina,Gas Stations,94.0,88.0,94.0,4
+2020-03-15,NorthCarolina,Big Box Stores,103.0,90.0,103.0,5
+2020-03-15,NorthCarolina,Fast Food Restaurants,87.0,75.0,87.0,6
+2020-03-15,NorthCarolina,Outdoors & Recreation,46.0,41.0,46.0,7
+2020-03-15,NorthCarolina,Nightlife Spots,43.0,38.0,43.0,8
+2020-03-15,NorthCarolina,Residences,68.0,58.0,68.0,9
+2020-03-15,NorthCarolina,Hardware Stores,121.0,111.0,121.0,10
+2020-03-15,NorthCarolina,Discount Stores,110.0,95.0,111.0,11
+2020-03-15,NorthCarolina,Professional & Other Places,13.0,9.0,13.0,12
+2020-03-15,NorthCarolina,Arts & Entertainment,49.0,43.0,50.0,13
+2020-03-15,NorthCarolina,Convenience Store,90.0,80.0,90.0,14
+2020-03-15,NorthCarolina,School,46.0,37.0,46.0,15
+2020-03-15,NorthCarolina,Drug Store,115.0,112.0,115.0,16
+2020-03-15,NorthCarolina,Medical,47.0,42.0,47.0,17
+2020-03-15,NorthCarolina,Hotel,64.0,54.0,64.0,18
+2020-03-15,NorthCarolina,Airport,40.0,32.0,40.0,19
+2020-03-15,NorthCarolina,Sports,35.0,37.0,34.0,20
+2020-03-15,NorthCarolina,Fitness Center,47.0,44.0,47.0,21
+2020-03-15,NorthCarolina,Travel & Transport,18.0,22.0,18.0,22
+2020-03-15,NorthCarolina,Government,60.0,54.0,60.0,23
+2020-03-15,NorthCarolina,Colleges & Universities,37.0,32.0,37.0,24
+2020-03-15,NorthCarolina,Office,71.0,54.0,72.0,25
+2020-03-15,NorthCarolina,Alcohol,86.0,87.0,86.0,26
+2020-03-15,NorthCarolina,Banks,82.0,76.0,82.0,27
+2020-03-15,NorthCarolina,Beach,77.0,54.0,79.0,28
+2020-03-15,NorthCarolina,Bus,77.0,"",77.0,29
+2020-03-15,NorthCarolina,Spiritual Center,2.0,"",2.0,30
+2020-03-16,NorthCarolina,Food,40.0,36.0,40.0,1
+2020-03-16,NorthCarolina,Shops & Services,36.0,31.0,36.0,2
+2020-03-16,NorthCarolina,Grocery,140.0,127.0,141.0,3
+2020-03-16,NorthCarolina,Gas Stations,100.0,93.0,100.0,4
+2020-03-16,NorthCarolina,Fast Food Restaurants,93.0,77.0,93.0,5
+2020-03-16,NorthCarolina,Medical,47.0,40.0,48.0,6
+2020-03-16,NorthCarolina,Outdoors & Recreation,49.0,42.0,49.0,7
+2020-03-16,NorthCarolina,Big Box Stores,115.0,100.0,115.0,8
+2020-03-16,NorthCarolina,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-16,NorthCarolina,School,33.0,35.0,33.0,10
+2020-03-16,NorthCarolina,Residences,77.0,71.0,77.0,11
+2020-03-16,NorthCarolina,Nightlife Spots,49.0,46.0,49.0,12
+2020-03-16,NorthCarolina,Convenience Store,96.0,82.0,96.0,13
+2020-03-16,NorthCarolina,Hardware Stores,113.0,97.0,114.0,14
+2020-03-16,NorthCarolina,Office,70.0,74.0,70.0,15
+2020-03-16,NorthCarolina,Drug Store,122.0,110.0,123.0,16
+2020-03-16,NorthCarolina,Discount Stores,120.0,101.0,120.0,17
+2020-03-16,NorthCarolina,Government,62.0,54.0,62.0,18
+2020-03-16,NorthCarolina,Arts & Entertainment,59.0,56.0,59.0,19
+2020-03-16,NorthCarolina,Hotel,69.0,62.0,69.0,20
+2020-03-16,NorthCarolina,Colleges & Universities,29.0,42.0,29.0,21
+2020-03-16,NorthCarolina,Fitness Center,45.0,36.0,45.0,22
+2020-03-16,NorthCarolina,Sports,32.0,34.0,32.0,23
+2020-03-16,NorthCarolina,Airport,33.0,34.0,33.0,24
+2020-03-16,NorthCarolina,Banks,120.0,121.0,120.0,25
+2020-03-16,NorthCarolina,Travel & Transport,18.0,23.0,18.0,26
+2020-03-16,NorthCarolina,Alcohol,121.0,132.0,121.0,27
+2020-03-16,NorthCarolina,Beach,103.0,92.0,104.0,28
+2020-03-16,NorthCarolina,Bus,75.0,"",76.0,29
+2020-03-16,NorthCarolina,Light Rail Stations,78.0,"",78.0,30
+2020-03-16,NorthCarolina,Spiritual Center,4.0,"",4.0,31
+2020-03-16,NorthCarolina,Skiing,58.0,"",57.0,32
+2020-03-17,NorthCarolina,Food,34.0,30.0,34.0,1
+2020-03-17,NorthCarolina,Shops & Services,31.0,27.0,31.0,2
+2020-03-17,NorthCarolina,Grocery,136.0,122.0,137.0,3
+2020-03-17,NorthCarolina,Gas Stations,92.0,83.0,92.0,4
+2020-03-17,NorthCarolina,Medical,41.0,35.0,42.0,5
+2020-03-17,NorthCarolina,Fast Food Restaurants,80.0,66.0,81.0,6
+2020-03-17,NorthCarolina,Outdoors & Recreation,44.0,38.0,44.0,7
+2020-03-17,NorthCarolina,Big Box Stores,111.0,85.0,112.0,8
+2020-03-17,NorthCarolina,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-17,NorthCarolina,School,27.0,29.0,27.0,10
+2020-03-17,NorthCarolina,Residences,73.0,62.0,73.0,11
+2020-03-17,NorthCarolina,Nightlife Spots,44.0,41.0,44.0,12
+2020-03-17,NorthCarolina,Convenience Store,89.0,78.0,89.0,13
+2020-03-17,NorthCarolina,Hardware Stores,105.0,82.0,107.0,14
+2020-03-17,NorthCarolina,Drug Store,108.0,88.0,109.0,15
+2020-03-17,NorthCarolina,Discount Stores,109.0,91.0,110.0,16
+2020-03-17,NorthCarolina,Office,59.0,62.0,59.0,17
+2020-03-17,NorthCarolina,Government,55.0,49.0,56.0,18
+2020-03-17,NorthCarolina,Arts & Entertainment,55.0,47.0,55.0,19
+2020-03-17,NorthCarolina,Hotel,60.0,51.0,60.0,20
+2020-03-17,NorthCarolina,Colleges & Universities,27.0,39.0,26.0,21
+2020-03-17,NorthCarolina,Sports,28.0,29.0,28.0,22
+2020-03-17,NorthCarolina,Fitness Center,33.0,29.0,33.0,23
+2020-03-17,NorthCarolina,Airport,30.0,28.0,30.0,24
+2020-03-17,NorthCarolina,Banks,84.0,72.0,85.0,25
+2020-03-17,NorthCarolina,Travel & Transport,17.0,22.0,17.0,26
+2020-03-17,NorthCarolina,Alcohol,122.0,104.0,123.0,27
+2020-03-17,NorthCarolina,Beach,94.0,66.0,96.0,28
+2020-03-17,NorthCarolina,Bus,65.0,"",65.0,29
+2020-03-17,NorthCarolina,Spiritual Center,3.0,"",4.0,30
+2020-03-17,NorthCarolina,Light Rail Stations,47.0,"",47.0,31
+2020-03-18,NorthCarolina,Shops & Services,26.0,23.0,26.0,1
+2020-03-18,NorthCarolina,Food,27.0,24.0,28.0,2
+2020-03-18,NorthCarolina,Grocery,112.0,103.0,113.0,3
+2020-03-18,NorthCarolina,Gas Stations,89.0,86.0,89.0,4
+2020-03-18,NorthCarolina,Outdoors & Recreation,48.0,43.0,49.0,5
+2020-03-18,NorthCarolina,Fast Food Restaurants,74.0,63.0,74.0,6
+2020-03-18,NorthCarolina,Medical,37.0,31.0,38.0,7
+2020-03-18,NorthCarolina,Big Box Stores,93.0,78.0,94.0,8
+2020-03-18,NorthCarolina,Professional & Other Places,12.0,11.0,12.0,9
+2020-03-18,NorthCarolina,School,26.0,29.0,26.0,10
+2020-03-18,NorthCarolina,Residences,71.0,67.0,71.0,11
+2020-03-18,NorthCarolina,Hardware Stores,107.0,87.0,109.0,12
+2020-03-18,NorthCarolina,Convenience Store,84.0,78.0,84.0,13
+2020-03-18,NorthCarolina,Nightlife Spots,39.0,38.0,39.0,14
+2020-03-18,NorthCarolina,Discount Stores,102.0,93.0,103.0,15
+2020-03-18,NorthCarolina,Office,54.0,55.0,54.0,16
+2020-03-18,NorthCarolina,Drug Store,96.0,86.0,97.0,17
+2020-03-18,NorthCarolina,Government,53.0,50.0,53.0,18
+2020-03-18,NorthCarolina,Sports,31.0,36.0,31.0,19
+2020-03-18,NorthCarolina,Arts & Entertainment,47.0,44.0,47.0,20
+2020-03-18,NorthCarolina,Hotel,55.0,50.0,55.0,21
+2020-03-18,NorthCarolina,Colleges & Universities,23.0,34.0,23.0,22
+2020-03-18,NorthCarolina,Fitness Center,28.0,25.0,28.0,23
+2020-03-18,NorthCarolina,Airport,26.0,22.0,27.0,24
+2020-03-18,NorthCarolina,Travel & Transport,18.0,26.0,18.0,25
+2020-03-18,NorthCarolina,Banks,79.0,74.0,80.0,26
+2020-03-18,NorthCarolina,Alcohol,93.0,90.0,93.0,27
+2020-03-18,NorthCarolina,Beach,138.0,119.0,140.0,28
+2020-03-18,NorthCarolina,Bus,59.0,"",59.0,29
+2020-03-18,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-18,NorthCarolina,Light Rail Stations,52.0,"",52.0,31
+2020-03-19,NorthCarolina,Food,29.0,27.0,29.0,1
+2020-03-19,NorthCarolina,Shops & Services,25.0,23.0,25.0,2
+2020-03-19,NorthCarolina,Grocery,100.0,95.0,100.0,3
+2020-03-19,NorthCarolina,Gas Stations,89.0,85.0,89.0,4
+2020-03-19,NorthCarolina,Outdoors & Recreation,58.0,58.0,58.0,5
+2020-03-19,NorthCarolina,Fast Food Restaurants,71.0,66.0,71.0,6
+2020-03-19,NorthCarolina,Medical,37.0,32.0,37.0,7
+2020-03-19,NorthCarolina,Big Box Stores,87.0,81.0,88.0,8
+2020-03-19,NorthCarolina,Professional & Other Places,12.0,13.0,12.0,9
+2020-03-19,NorthCarolina,Residences,77.0,77.0,77.0,10
+2020-03-19,NorthCarolina,School,26.0,31.0,26.0,11
+2020-03-19,NorthCarolina,Hardware Stores,117.0,109.0,117.0,12
+2020-03-19,NorthCarolina,Convenience Store,85.0,78.0,85.0,13
+2020-03-19,NorthCarolina,Nightlife Spots,42.0,41.0,42.0,14
+2020-03-19,NorthCarolina,Office,55.0,61.0,55.0,15
+2020-03-19,NorthCarolina,Drug Store,92.0,91.0,92.0,16
+2020-03-19,NorthCarolina,Discount Stores,91.0,90.0,92.0,17
+2020-03-19,NorthCarolina,Government,52.0,44.0,53.0,18
+2020-03-19,NorthCarolina,Sports,38.0,47.0,38.0,19
+2020-03-19,NorthCarolina,Arts & Entertainment,48.0,49.0,48.0,20
+2020-03-19,NorthCarolina,Hotel,53.0,54.0,53.0,21
+2020-03-19,NorthCarolina,Colleges & Universities,27.0,42.0,27.0,22
+2020-03-19,NorthCarolina,Airport,24.0,18.0,24.0,23
+2020-03-19,NorthCarolina,Fitness Center,30.0,29.0,30.0,24
+2020-03-19,NorthCarolina,Travel & Transport,17.0,23.0,17.0,25
+2020-03-19,NorthCarolina,Banks,81.0,78.0,81.0,26
+2020-03-19,NorthCarolina,Alcohol,89.0,91.0,88.0,27
+2020-03-19,NorthCarolina,Beach,148.0,124.0,150.0,28
+2020-03-19,NorthCarolina,Bus,58.0,"",58.0,29
+2020-03-19,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-19,NorthCarolina,Light Rail Stations,56.0,"",56.0,31
+2020-03-20,NorthCarolina,Food,27.0,23.0,27.0,1
+2020-03-20,NorthCarolina,Shops & Services,25.0,22.0,26.0,2
+2020-03-20,NorthCarolina,Grocery,118.0,102.0,119.0,3
+2020-03-20,NorthCarolina,Gas Stations,95.0,85.0,96.0,4
+2020-03-20,NorthCarolina,Outdoors & Recreation,57.0,50.0,57.0,5
+2020-03-20,NorthCarolina,Fast Food Restaurants,76.0,66.0,76.0,6
+2020-03-20,NorthCarolina,Big Box Stores,92.0,78.0,93.0,7
+2020-03-20,NorthCarolina,Medical,40.0,33.0,40.0,8
+2020-03-20,NorthCarolina,Professional & Other Places,14.0,13.0,14.0,9
+2020-03-20,NorthCarolina,Residences,81.0,81.0,81.0,10
+2020-03-20,NorthCarolina,School,33.0,36.0,32.0,11
+2020-03-20,NorthCarolina,Hardware Stores,123.0,99.0,124.0,12
+2020-03-20,NorthCarolina,Convenience Store,92.0,81.0,92.0,13
+2020-03-20,NorthCarolina,Nightlife Spots,39.0,36.0,39.0,14
+2020-03-20,NorthCarolina,Discount Stores,94.0,81.0,95.0,15
+2020-03-20,NorthCarolina,Drug Store,95.0,85.0,96.0,16
+2020-03-20,NorthCarolina,Office,62.0,63.0,62.0,17
+2020-03-20,NorthCarolina,Sports,42.0,50.0,42.0,18
+2020-03-20,NorthCarolina,Government,55.0,51.0,55.0,19
+2020-03-20,NorthCarolina,Arts & Entertainment,44.0,39.0,44.0,20
+2020-03-20,NorthCarolina,Hotel,52.0,54.0,51.0,21
+2020-03-20,NorthCarolina,Colleges & Universities,30.0,38.0,30.0,22
+2020-03-20,NorthCarolina,Banks,82.0,74.0,82.0,23
+2020-03-20,NorthCarolina,Airport,22.0,17.0,22.0,24
+2020-03-20,NorthCarolina,Travel & Transport,17.0,23.0,16.0,25
+2020-03-20,NorthCarolina,Fitness Center,31.0,26.0,31.0,26
+2020-03-20,NorthCarolina,Alcohol,94.0,82.0,95.0,27
+2020-03-20,NorthCarolina,Beach,154.0,126.0,156.0,28
+2020-03-20,NorthCarolina,Bus,61.0,"",61.0,29
+2020-03-20,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-20,NorthCarolina,Light Rail Stations,50.0,"",50.0,31
+2020-03-21,NorthCarolina,Food,22.0,20.0,22.0,1
+2020-03-21,NorthCarolina,Shops & Services,20.0,18.0,20.0,2
+2020-03-21,NorthCarolina,Grocery,105.0,89.0,106.0,3
+2020-03-21,NorthCarolina,Gas Stations,87.0,81.0,87.0,4
+2020-03-21,NorthCarolina,Outdoors & Recreation,50.0,46.0,51.0,5
+2020-03-21,NorthCarolina,Fast Food Restaurants,69.0,59.0,69.0,6
+2020-03-21,NorthCarolina,Big Box Stores,79.0,70.0,79.0,7
+2020-03-21,NorthCarolina,Hardware Stores,124.0,106.0,125.0,8
+2020-03-21,NorthCarolina,Residences,65.0,65.0,65.0,9
+2020-03-21,NorthCarolina,Professional & Other Places,14.0,13.0,14.0,10
+2020-03-21,NorthCarolina,Discount Stores,87.0,74.0,87.0,11
+2020-03-21,NorthCarolina,School,41.0,40.0,41.0,12
+2020-03-21,NorthCarolina,Nightlife Spots,25.0,29.0,25.0,13
+2020-03-21,NorthCarolina,Convenience Store,80.0,68.0,80.0,14
+2020-03-21,NorthCarolina,Drug Store,98.0,87.0,98.0,15
+2020-03-21,NorthCarolina,Medical,38.0,33.0,38.0,16
+2020-03-21,NorthCarolina,Sports,31.0,37.0,31.0,17
+2020-03-21,NorthCarolina,Arts & Entertainment,26.0,27.0,25.0,18
+2020-03-21,NorthCarolina,Hotel,39.0,37.0,39.0,19
+2020-03-21,NorthCarolina,Travel & Transport,16.0,22.0,16.0,20
+2020-03-21,NorthCarolina,Government,51.0,42.0,51.0,21
+2020-03-21,NorthCarolina,Airport,23.0,15.0,23.0,22
+2020-03-21,NorthCarolina,Office,62.0,54.0,62.0,23
+2020-03-21,NorthCarolina,Colleges & Universities,30.0,27.0,30.0,24
+2020-03-21,NorthCarolina,Alcohol,75.0,63.0,76.0,25
+2020-03-21,NorthCarolina,Fitness Center,24.0,23.0,24.0,26
+2020-03-21,NorthCarolina,Banks,79.0,66.0,79.0,27
+2020-03-21,NorthCarolina,Beach,103.0,115.0,102.0,28
+2020-03-21,NorthCarolina,Bus,58.0,"",58.0,29
+2020-03-21,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-22,NorthCarolina,Food,21.0,17.0,21.0,1
+2020-03-22,NorthCarolina,Grocery,84.0,76.0,85.0,2
+2020-03-22,NorthCarolina,Shops & Services,18.0,15.0,18.0,3
+2020-03-22,NorthCarolina,Gas Stations,72.0,65.0,72.0,4
+2020-03-22,NorthCarolina,Outdoors & Recreation,39.0,34.0,39.0,5
+2020-03-22,NorthCarolina,Big Box Stores,73.0,66.0,73.0,6
+2020-03-22,NorthCarolina,Fast Food Restaurants,62.0,51.0,62.0,7
+2020-03-22,NorthCarolina,Residences,56.0,54.0,56.0,8
+2020-03-22,NorthCarolina,Hardware Stores,106.0,85.0,107.0,9
+2020-03-22,NorthCarolina,School,39.0,33.0,39.0,10
+2020-03-22,NorthCarolina,Discount Stores,78.0,64.0,78.0,11
+2020-03-22,NorthCarolina,Professional & Other Places,11.0,9.0,11.0,12
+2020-03-22,NorthCarolina,Convenience Store,69.0,60.0,69.0,13
+2020-03-22,NorthCarolina,Nightlife Spots,22.0,23.0,22.0,14
+2020-03-22,NorthCarolina,Drug Store,90.0,82.0,90.0,15
+2020-03-22,NorthCarolina,Medical,35.0,25.0,35.0,16
+2020-03-22,NorthCarolina,Arts & Entertainment,36.0,34.0,36.0,17
+2020-03-22,NorthCarolina,Sports,30.0,31.0,29.0,18
+2020-03-22,NorthCarolina,Hotel,33.0,30.0,34.0,19
+2020-03-22,NorthCarolina,Airport,21.0,13.0,21.0,20
+2020-03-22,NorthCarolina,Travel & Transport,16.0,18.0,16.0,21
+2020-03-22,NorthCarolina,Government,44.0,41.0,44.0,22
+2020-03-22,NorthCarolina,Colleges & Universities,29.0,26.0,29.0,23
+2020-03-22,NorthCarolina,Office,54.0,42.0,54.0,24
+2020-03-22,NorthCarolina,Fitness Center,24.0,23.0,24.0,25
+2020-03-22,NorthCarolina,Banks,75.0,57.0,75.0,26
+2020-03-22,NorthCarolina,Alcohol,54.0,56.0,54.0,27
+2020-03-22,NorthCarolina,Beach,51.0,44.0,52.0,28
+2020-03-22,NorthCarolina,Bus,53.0,"",53.0,29
+2020-03-22,NorthCarolina,Spiritual Center,2.0,"",2.0,30
+2020-03-23,NorthCarolina,Shops & Services,23.0,19.0,23.0,1
+2020-03-23,NorthCarolina,Food,24.0,20.0,24.0,2
+2020-03-23,NorthCarolina,Grocery,99.0,91.0,99.0,3
+2020-03-23,NorthCarolina,Gas Stations,75.0,66.0,75.0,4
+2020-03-23,NorthCarolina,Fast Food Restaurants,64.0,49.0,64.0,5
+2020-03-23,NorthCarolina,Medical,32.0,25.0,32.0,6
+2020-03-23,NorthCarolina,Outdoors & Recreation,38.0,33.0,38.0,7
+2020-03-23,NorthCarolina,Big Box Stores,83.0,65.0,84.0,8
+2020-03-23,NorthCarolina,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-23,NorthCarolina,Residences,59.0,52.0,60.0,10
+2020-03-23,NorthCarolina,School,23.0,24.0,23.0,11
+2020-03-23,NorthCarolina,Hardware Stores,96.0,77.0,97.0,12
+2020-03-23,NorthCarolina,Convenience Store,72.0,62.0,72.0,13
+2020-03-23,NorthCarolina,Drug Store,94.0,77.0,95.0,14
+2020-03-23,NorthCarolina,Office,50.0,49.0,50.0,15
+2020-03-23,NorthCarolina,Discount Stores,88.0,71.0,89.0,16
+2020-03-23,NorthCarolina,Nightlife Spots,36.0,36.0,36.0,17
+2020-03-23,NorthCarolina,Government,45.0,37.0,45.0,18
+2020-03-23,NorthCarolina,Arts & Entertainment,44.0,42.0,45.0,19
+2020-03-23,NorthCarolina,Sports,25.0,24.0,25.0,20
+2020-03-23,NorthCarolina,Hotel,45.0,39.0,45.0,21
+2020-03-23,NorthCarolina,Colleges & Universities,17.0,30.0,17.0,22
+2020-03-23,NorthCarolina,Banks,80.0,61.0,81.0,23
+2020-03-23,NorthCarolina,Airport,16.0,13.0,16.0,24
+2020-03-23,NorthCarolina,Fitness Center,22.0,18.0,22.0,25
+2020-03-23,NorthCarolina,Travel & Transport,13.0,17.0,13.0,26
+2020-03-23,NorthCarolina,Alcohol,80.0,79.0,80.0,27
+2020-03-23,NorthCarolina,Beach,72.0,62.0,73.0,28
+2020-03-23,NorthCarolina,Bus,48.0,"",48.0,29
+2020-03-23,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-24,NorthCarolina,Food,25.0,22.0,26.0,1
+2020-03-24,NorthCarolina,Shops & Services,24.0,21.0,24.0,2
+2020-03-24,NorthCarolina,Grocery,96.0,89.0,97.0,3
+2020-03-24,NorthCarolina,Gas Stations,74.0,67.0,75.0,4
+2020-03-24,NorthCarolina,Fast Food Restaurants,66.0,55.0,66.0,5
+2020-03-24,NorthCarolina,Outdoors & Recreation,40.0,38.0,40.0,6
+2020-03-24,NorthCarolina,Medical,29.0,22.0,30.0,7
+2020-03-24,NorthCarolina,Big Box Stores,84.0,72.0,84.0,8
+2020-03-24,NorthCarolina,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-24,NorthCarolina,Residences,62.0,56.0,62.0,10
+2020-03-24,NorthCarolina,School,21.0,26.0,21.0,11
+2020-03-24,NorthCarolina,Hardware Stores,92.0,72.0,93.0,12
+2020-03-24,NorthCarolina,Convenience Store,71.0,60.0,71.0,13
+2020-03-24,NorthCarolina,Nightlife Spots,32.0,30.0,32.0,14
+2020-03-24,NorthCarolina,Drug Store,86.0,72.0,86.0,15
+2020-03-24,NorthCarolina,Office,46.0,44.0,46.0,16
+2020-03-24,NorthCarolina,Discount Stores,79.0,68.0,80.0,17
+2020-03-24,NorthCarolina,Government,43.0,37.0,43.0,18
+2020-03-24,NorthCarolina,Sports,27.0,29.0,26.0,19
+2020-03-24,NorthCarolina,Arts & Entertainment,37.0,34.0,37.0,20
+2020-03-24,NorthCarolina,Hotel,41.0,38.0,41.0,21
+2020-03-24,NorthCarolina,Colleges & Universities,18.0,32.0,18.0,22
+2020-03-24,NorthCarolina,Fitness Center,20.0,17.0,20.0,23
+2020-03-24,NorthCarolina,Travel & Transport,13.0,13.0,13.0,24
+2020-03-24,NorthCarolina,Banks,66.0,59.0,67.0,25
+2020-03-24,NorthCarolina,Airport,17.0,11.0,17.0,26
+2020-03-24,NorthCarolina,Alcohol,79.0,66.0,80.0,27
+2020-03-24,NorthCarolina,Beach,70.0,56.0,72.0,28
+2020-03-24,NorthCarolina,Bus,55.0,"",55.0,29
+2020-03-24,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-24,NorthCarolina,Light Rail Stations,42.0,"",42.0,31
+2020-03-25,NorthCarolina,Food,25.0,21.0,25.0,1
+2020-03-25,NorthCarolina,Shops & Services,26.0,23.0,26.0,2
+2020-03-25,NorthCarolina,Grocery,97.0,84.0,98.0,3
+2020-03-25,NorthCarolina,Gas Stations,77.0,69.0,77.0,4
+2020-03-25,NorthCarolina,Outdoors & Recreation,43.0,43.0,43.0,5
+2020-03-25,NorthCarolina,Fast Food Restaurants,65.0,59.0,65.0,6
+2020-03-25,NorthCarolina,Medical,29.0,24.0,30.0,7
+2020-03-25,NorthCarolina,Big Box Stores,81.0,65.0,82.0,8
+2020-03-25,NorthCarolina,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-25,NorthCarolina,Residences,68.0,64.0,68.0,10
+2020-03-25,NorthCarolina,School,23.0,27.0,23.0,11
+2020-03-25,NorthCarolina,Hardware Stores,103.0,83.0,104.0,12
+2020-03-25,NorthCarolina,Convenience Store,74.0,65.0,75.0,13
+2020-03-25,NorthCarolina,Nightlife Spots,36.0,36.0,36.0,14
+2020-03-25,NorthCarolina,Drug Store,91.0,74.0,92.0,15
+2020-03-25,NorthCarolina,Office,46.0,45.0,46.0,16
+2020-03-25,NorthCarolina,Discount Stores,85.0,74.0,85.0,17
+2020-03-25,NorthCarolina,Government,42.0,35.0,43.0,18
+2020-03-25,NorthCarolina,Sports,27.0,30.0,27.0,19
+2020-03-25,NorthCarolina,Arts & Entertainment,37.0,37.0,38.0,20
+2020-03-25,NorthCarolina,Hotel,42.0,37.0,42.0,21
+2020-03-25,NorthCarolina,Colleges & Universities,17.0,28.0,17.0,22
+2020-03-25,NorthCarolina,Fitness Center,21.0,19.0,21.0,23
+2020-03-25,NorthCarolina,Travel & Transport,15.0,18.0,15.0,24
+2020-03-25,NorthCarolina,Banks,70.0,64.0,70.0,25
+2020-03-25,NorthCarolina,Airport,16.0,10.0,16.0,26
+2020-03-25,NorthCarolina,Alcohol,88.0,81.0,88.0,27
+2020-03-25,NorthCarolina,Beach,76.0,72.0,77.0,28
+2020-03-25,NorthCarolina,Bus,48.0,"",48.0,29
+2020-03-25,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-25,NorthCarolina,Light Rail Stations,49.0,"",48.0,31
+2020-03-26,NorthCarolina,Food,24.0,22.0,24.0,1
+2020-03-26,NorthCarolina,Shops & Services,22.0,19.0,22.0,2
+2020-03-26,NorthCarolina,Grocery,87.0,84.0,87.0,3
+2020-03-26,NorthCarolina,Gas Stations,77.0,71.0,77.0,4
+2020-03-26,NorthCarolina,Outdoors & Recreation,47.0,49.0,47.0,5
+2020-03-26,NorthCarolina,Fast Food Restaurants,62.0,55.0,62.0,6
+2020-03-26,NorthCarolina,Big Box Stores,74.0,71.0,74.0,7
+2020-03-26,NorthCarolina,Medical,29.0,24.0,29.0,8
+2020-03-26,NorthCarolina,Professional & Other Places,11.0,11.0,11.0,9
+2020-03-26,NorthCarolina,Residences,71.0,72.0,71.0,10
+2020-03-26,NorthCarolina,School,25.0,30.0,25.0,11
+2020-03-26,NorthCarolina,Hardware Stores,117.0,99.0,118.0,12
+2020-03-26,NorthCarolina,Nightlife Spots,30.0,33.0,30.0,13
+2020-03-26,NorthCarolina,Convenience Store,72.0,64.0,72.0,14
+2020-03-26,NorthCarolina,Office,49.0,53.0,48.0,15
+2020-03-26,NorthCarolina,Drug Store,81.0,74.0,82.0,16
+2020-03-26,NorthCarolina,Discount Stores,78.0,68.0,79.0,17
+2020-03-26,NorthCarolina,Sports,34.0,46.0,33.0,18
+2020-03-26,NorthCarolina,Government,43.0,39.0,44.0,19
+2020-03-26,NorthCarolina,Arts & Entertainment,46.0,47.0,46.0,20
+2020-03-26,NorthCarolina,Hotel,43.0,41.0,43.0,21
+2020-03-26,NorthCarolina,Colleges & Universities,21.0,34.0,21.0,22
+2020-03-26,NorthCarolina,Travel & Transport,14.0,16.0,14.0,23
+2020-03-26,NorthCarolina,Fitness Center,23.0,25.0,22.0,24
+2020-03-26,NorthCarolina,Banks,69.0,65.0,69.0,25
+2020-03-26,NorthCarolina,Airport,14.0,11.0,14.0,26
+2020-03-26,NorthCarolina,Alcohol,78.0,81.0,78.0,27
+2020-03-26,NorthCarolina,Beach,96.0,100.0,96.0,28
+2020-03-26,NorthCarolina,Bus,42.0,"",42.0,29
+2020-03-26,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-27,NorthCarolina,Food,23.0,19.0,23.0,1
+2020-03-27,NorthCarolina,Shops & Services,21.0,17.0,21.0,2
+2020-03-27,NorthCarolina,Grocery,95.0,80.0,96.0,3
+2020-03-27,NorthCarolina,Gas Stations,80.0,72.0,81.0,4
+2020-03-27,NorthCarolina,Outdoors & Recreation,52.0,51.0,52.0,5
+2020-03-27,NorthCarolina,Fast Food Restaurants,66.0,56.0,66.0,6
+2020-03-27,NorthCarolina,Big Box Stores,78.0,64.0,79.0,7
+2020-03-27,NorthCarolina,Medical,32.0,25.0,32.0,8
+2020-03-27,NorthCarolina,Professional & Other Places,12.0,12.0,12.0,9
+2020-03-27,NorthCarolina,Residences,71.0,68.0,71.0,10
+2020-03-27,NorthCarolina,Hardware Stores,121.0,97.0,122.0,11
+2020-03-27,NorthCarolina,School,31.0,31.0,31.0,12
+2020-03-27,NorthCarolina,Nightlife Spots,32.0,35.0,32.0,13
+2020-03-27,NorthCarolina,Convenience Store,78.0,71.0,78.0,14
+2020-03-27,NorthCarolina,Discount Stores,81.0,68.0,81.0,15
+2020-03-27,NorthCarolina,Drug Store,81.0,67.0,82.0,16
+2020-03-27,NorthCarolina,Sports,39.0,47.0,38.0,17
+2020-03-27,NorthCarolina,Office,52.0,51.0,52.0,18
+2020-03-27,NorthCarolina,Arts & Entertainment,39.0,39.0,39.0,19
+2020-03-27,NorthCarolina,Government,45.0,40.0,45.0,20
+2020-03-27,NorthCarolina,Hotel,41.0,37.0,41.0,21
+2020-03-27,NorthCarolina,Banks,66.0,57.0,67.0,22
+2020-03-27,NorthCarolina,Colleges & Universities,23.0,35.0,23.0,23
+2020-03-27,NorthCarolina,Travel & Transport,13.0,16.0,13.0,24
+2020-03-27,NorthCarolina,Fitness Center,23.0,22.0,24.0,25
+2020-03-27,NorthCarolina,Alcohol,81.0,71.0,81.0,26
+2020-03-27,NorthCarolina,Airport,14.0,14.0,14.0,27
+2020-03-27,NorthCarolina,Beach,108.0,100.0,109.0,28
+2020-03-27,NorthCarolina,Bus,43.0,"",43.0,29
+2020-03-27,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-28,NorthCarolina,Food,21.0,19.0,21.0,1
+2020-03-28,NorthCarolina,Shops & Services,17.0,16.0,17.0,2
+2020-03-28,NorthCarolina,Grocery,86.0,71.0,87.0,3
+2020-03-28,NorthCarolina,Outdoors & Recreation,50.0,48.0,50.0,4
+2020-03-28,NorthCarolina,Gas Stations,77.0,71.0,77.0,5
+2020-03-28,NorthCarolina,Big Box Stores,73.0,62.0,73.0,6
+2020-03-28,NorthCarolina,Fast Food Restaurants,61.0,54.0,61.0,7
+2020-03-28,NorthCarolina,Hardware Stores,129.0,110.0,130.0,8
+2020-03-28,NorthCarolina,Residences,62.0,61.0,62.0,9
+2020-03-28,NorthCarolina,Professional & Other Places,13.0,12.0,13.0,10
+2020-03-28,NorthCarolina,School,37.0,36.0,37.0,11
+2020-03-28,NorthCarolina,Discount Stores,77.0,69.0,78.0,12
+2020-03-28,NorthCarolina,Convenience Store,72.0,62.0,72.0,13
+2020-03-28,NorthCarolina,Nightlife Spots,22.0,24.0,22.0,14
+2020-03-28,NorthCarolina,Medical,34.0,28.0,34.0,15
+2020-03-28,NorthCarolina,Drug Store,80.0,63.0,80.0,16
+2020-03-28,NorthCarolina,Sports,34.0,49.0,33.0,17
+2020-03-28,NorthCarolina,Arts & Entertainment,29.0,33.0,29.0,18
+2020-03-28,NorthCarolina,Hotel,30.0,32.0,30.0,19
+2020-03-28,NorthCarolina,Government,51.0,44.0,51.0,20
+2020-03-28,NorthCarolina,Travel & Transport,14.0,16.0,14.0,21
+2020-03-28,NorthCarolina,Office,54.0,48.0,54.0,22
+2020-03-28,NorthCarolina,Alcohol,67.0,70.0,67.0,23
+2020-03-28,NorthCarolina,Colleges & Universities,27.0,26.0,27.0,24
+2020-03-28,NorthCarolina,Fitness Center,20.0,21.0,20.0,25
+2020-03-28,NorthCarolina,Airport,14.0,9.0,14.0,26
+2020-03-28,NorthCarolina,Banks,65.0,59.0,65.0,27
+2020-03-28,NorthCarolina,Beach,102.0,89.0,102.0,28
+2020-03-28,NorthCarolina,Bus,45.0,"",45.0,29
+2020-03-28,NorthCarolina,Spiritual Center,3.0,"",3.0,30
+2020-03-29,NorthCarolina,Food,18.0,16.0,18.0,1
+2020-03-29,NorthCarolina,Grocery,68.0,62.0,68.0,2
+2020-03-29,NorthCarolina,Shops & Services,16.0,15.0,16.0,3
+2020-03-29,NorthCarolina,Outdoors & Recreation,43.0,41.0,43.0,4
+2020-03-29,NorthCarolina,Gas Stations,64.0,59.0,64.0,5
+2020-03-29,NorthCarolina,Big Box Stores,62.0,59.0,62.0,6
+2020-03-29,NorthCarolina,Fast Food Restaurants,56.0,51.0,57.0,7
+2020-03-29,NorthCarolina,Hardware Stores,120.0,106.0,120.0,8
+2020-03-29,NorthCarolina,Residences,50.0,50.0,50.0,9
+2020-03-29,NorthCarolina,School,35.0,32.0,35.0,10
+2020-03-29,NorthCarolina,Discount Stores,68.0,61.0,68.0,11
+2020-03-29,NorthCarolina,Professional & Other Places,9.0,8.0,9.0,12
+2020-03-29,NorthCarolina,Convenience Store,60.0,59.0,60.0,13
+2020-03-29,NorthCarolina,Nightlife Spots,18.0,21.0,18.0,14
+2020-03-29,NorthCarolina,Drug Store,73.0,64.0,74.0,15
+2020-03-29,NorthCarolina,Sports,30.0,38.0,29.0,16
+2020-03-29,NorthCarolina,Medical,28.0,23.0,28.0,17
+2020-03-29,NorthCarolina,Arts & Entertainment,26.0,30.0,26.0,18
+2020-03-29,NorthCarolina,Hotel,24.0,24.0,24.0,19
+2020-03-29,NorthCarolina,Government,42.0,35.0,42.0,20
+2020-03-29,NorthCarolina,Travel & Transport,11.0,13.0,11.0,21
+2020-03-29,NorthCarolina,Office,44.0,37.0,45.0,22
+2020-03-29,NorthCarolina,Colleges & Universities,21.0,20.0,21.0,23
+2020-03-29,NorthCarolina,Airport,11.0,8.0,11.0,24
+2020-03-29,NorthCarolina,Fitness Center,18.0,17.0,18.0,25
+2020-03-29,NorthCarolina,Alcohol,51.0,52.0,51.0,26
+2020-03-29,NorthCarolina,Banks,64.0,71.0,64.0,27
+2020-03-29,NorthCarolina,Beach,66.0,69.0,66.0,28
+2020-03-29,NorthCarolina,Bus,42.0,"",42.0,29
+2020-03-29,NorthCarolina,Spiritual Center,1.0,"",1.0,30
+2020-03-30,NorthCarolina,Shops & Services,23.0,21.0,23.0,1
+2020-03-30,NorthCarolina,Food,23.0,21.0,23.0,2
+2020-03-30,NorthCarolina,Grocery,84.0,76.0,84.0,3
+2020-03-30,NorthCarolina,Gas Stations,73.0,69.0,74.0,4
+2020-03-30,NorthCarolina,Outdoors & Recreation,43.0,40.0,43.0,5
+2020-03-30,NorthCarolina,Fast Food Restaurants,64.0,52.0,64.0,6
+2020-03-30,NorthCarolina,Medical,28.0,22.0,28.0,7
+2020-03-30,NorthCarolina,Big Box Stores,74.0,65.0,75.0,8
+2020-03-30,NorthCarolina,Professional & Other Places,10.0,10.0,10.0,9
+2020-03-30,NorthCarolina,Residences,61.0,59.0,61.0,10
+2020-03-30,NorthCarolina,Hardware Stores,115.0,101.0,116.0,11
+2020-03-30,NorthCarolina,School,24.0,27.0,24.0,12
+2020-03-30,NorthCarolina,Convenience Store,69.0,67.0,69.0,13
+2020-03-30,NorthCarolina,Nightlife Spots,31.0,32.0,31.0,14
+2020-03-30,NorthCarolina,Discount Stores,83.0,68.0,83.0,15
+2020-03-30,NorthCarolina,Drug Store,80.0,65.0,80.0,16
+2020-03-30,NorthCarolina,Office,44.0,49.0,44.0,17
+2020-03-30,NorthCarolina,Sports,29.0,32.0,29.0,18
+2020-03-30,NorthCarolina,Government,41.0,40.0,41.0,19
+2020-03-30,NorthCarolina,Arts & Entertainment,40.0,39.0,40.0,20
+2020-03-30,NorthCarolina,Hotel,36.0,37.0,36.0,21
+2020-03-30,NorthCarolina,Colleges & Universities,18.0,30.0,18.0,22
+2020-03-30,NorthCarolina,Banks,75.0,64.0,75.0,23
+2020-03-30,NorthCarolina,Travel & Transport,15.0,20.0,15.0,24
+2020-03-30,NorthCarolina,Fitness Center,18.0,16.0,18.0,25
+2020-03-30,NorthCarolina,Airport,11.0,9.0,12.0,26
+2020-03-30,NorthCarolina,Alcohol,78.0,65.0,79.0,27
+2020-03-30,NorthCarolina,Beach,69.0,72.0,69.0,28
+2020-03-30,NorthCarolina,Bus,45.0,"",45.0,29
+2020-03-30,NorthCarolina,Spiritual Center,4.0,"",4.0,30
+2020-03-31,NorthCarolina,Food,20.0,17.0,21.0,1
+2020-03-31,NorthCarolina,Shops & Services,19.0,15.0,19.0,2
+2020-03-31,NorthCarolina,Grocery,75.0,67.0,75.0,3
+2020-03-31,NorthCarolina,Gas Stations,61.0,51.0,61.0,4
+2020-03-31,NorthCarolina,Fast Food Restaurants,56.0,46.0,56.0,5
+2020-03-31,NorthCarolina,Outdoors & Recreation,33.0,31.0,33.0,6
+2020-03-31,NorthCarolina,Medical,24.0,18.0,24.0,7
+2020-03-31,NorthCarolina,Big Box Stores,66.0,55.0,67.0,8
+2020-03-31,NorthCarolina,Professional & Other Places,9.0,8.0,9.0,9
+2020-03-31,NorthCarolina,Residences,53.0,48.0,53.0,10
+2020-03-31,NorthCarolina,School,18.0,22.0,18.0,11
+2020-03-31,NorthCarolina,Hardware Stores,79.0,62.0,80.0,12
+2020-03-31,NorthCarolina,Convenience Store,58.0,50.0,58.0,13
+2020-03-31,NorthCarolina,Nightlife Spots,30.0,31.0,30.0,14
+2020-03-31,NorthCarolina,Drug Store,68.0,59.0,69.0,15
+2020-03-31,NorthCarolina,Office,37.0,39.0,37.0,16
+2020-03-31,NorthCarolina,Discount Stores,64.0,58.0,64.0,17
+2020-03-31,NorthCarolina,Government,35.0,31.0,35.0,18
+2020-03-31,NorthCarolina,Sports,21.0,23.0,21.0,19
+2020-03-31,NorthCarolina,Arts & Entertainment,31.0,26.0,31.0,20
+2020-03-31,NorthCarolina,Hotel,31.0,29.0,31.0,21
+2020-03-31,NorthCarolina,Colleges & Universities,14.0,24.0,13.0,22
+2020-03-31,NorthCarolina,Banks,62.0,54.0,62.0,23
+2020-03-31,NorthCarolina,Travel & Transport,11.0,14.0,11.0,24
+2020-03-31,NorthCarolina,Fitness Center,15.0,14.0,15.0,25
+2020-03-31,NorthCarolina,Airport,12.0,9.0,13.0,26
+2020-03-31,NorthCarolina,Alcohol,67.0,56.0,68.0,27
+2020-03-31,NorthCarolina,Beach,60.0,49.0,61.0,28
+2020-03-31,NorthCarolina,Bus,37.0,"",37.0,29
+2020-04-01,NorthCarolina,Food,21.0,17.0,21.0,1
+2020-04-01,NorthCarolina,Shops & Services,20.0,16.0,20.0,2
+2020-04-01,NorthCarolina,Grocery,77.0,62.0,77.0,3
+2020-04-01,NorthCarolina,Gas Stations,65.0,56.0,65.0,4
+2020-04-01,NorthCarolina,Fast Food Restaurants,57.0,46.0,57.0,5
+2020-04-01,NorthCarolina,Outdoors & Recreation,36.0,33.0,36.0,6
+2020-04-01,NorthCarolina,Big Box Stores,69.0,59.0,69.0,7
+2020-04-01,NorthCarolina,Medical,23.0,19.0,24.0,8
+2020-04-01,NorthCarolina,Professional & Other Places,9.0,9.0,9.0,9
+2020-04-01,NorthCarolina,Residences,55.0,56.0,55.0,10
+2020-04-01,NorthCarolina,School,19.0,22.0,19.0,11
+2020-04-01,NorthCarolina,Hardware Stores,82.0,64.0,83.0,12
+2020-04-01,NorthCarolina,Convenience Store,59.0,51.0,60.0,13
+2020-04-01,NorthCarolina,Drug Store,71.0,63.0,71.0,14
+2020-04-01,NorthCarolina,Nightlife Spots,28.0,26.0,28.0,15
+2020-04-01,NorthCarolina,Discount Stores,71.0,58.0,72.0,16
+2020-04-01,NorthCarolina,Office,36.0,38.0,36.0,17
+2020-04-01,NorthCarolina,Government,36.0,29.0,36.0,18
+2020-04-01,NorthCarolina,Sports,24.0,25.0,24.0,19
+2020-04-01,NorthCarolina,Arts & Entertainment,36.0,31.0,37.0,20
+2020-04-01,NorthCarolina,Hotel,30.0,26.0,30.0,21
+2020-04-01,NorthCarolina,Banks,70.0,66.0,70.0,22
+2020-04-01,NorthCarolina,Colleges & Universities,14.0,26.0,13.0,23
+2020-04-01,NorthCarolina,Fitness Center,16.0,13.0,16.0,24
+2020-04-01,NorthCarolina,Travel & Transport,11.0,13.0,11.0,25
+2020-04-01,NorthCarolina,Alcohol,70.0,62.0,71.0,26
+2020-04-01,NorthCarolina,Airport,12.0,8.0,12.0,27
+2020-04-01,NorthCarolina,Beach,54.0,49.0,55.0,28
+2020-04-01,NorthCarolina,Bus,35.0,"",35.0,29
+2020-04-01,NorthCarolina,Spiritual Center,2.0,"",3.0,30
+2020-04-01,NorthCarolina,Light Rail Stations,43.0,"",43.0,31

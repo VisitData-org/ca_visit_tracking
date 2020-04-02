@@ -387,6 +387,12 @@ function parsingDone(results, file) {
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
+  if(locationTypeSel.value) {
+    // ok, we selected a location type so disable essential
+    essentialSel.value = 'all';
+    essentialSel.style.display = 'none';
+  }
+
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     // hide all 3

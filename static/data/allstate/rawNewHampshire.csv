@@ -1,0 +1,1921 @@
+2020-03-01,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,98.0,106.0,1
+2020-03-01,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,87.0,93.0,2
+2020-03-01,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,101.0,102.0,101.0,3
+2020-03-01,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,96.0,84.0,96.0,4
+2020-03-01,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,93.0,111.0,92.0,5
+2020-03-01,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,98.0,93.0,98.0,6
+2020-03-01,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,111.0,107.0,111.0,7
+2020-03-01,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,109.0,95.0,109.0,8
+2020-03-01,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,95.0,85.0,96.0,9
+2020-03-01,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,109.0,100.0,109.0,10
+2020-03-01,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,100.0,76.0,101.0,11
+2020-03-01,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,91.0,90.0,91.0,12
+2020-03-01,NewHampshire,4bf58dd8d48988d116941735,Bars,54.0,40.0,54.0,13
+2020-03-01,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,105.0,98.0,105.0,14
+2020-03-01,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,52.0,48.0,52.0,15
+2020-03-01,NewHampshire,4bf58dd8d48988d161941735,Lakes,80.0,76.0,80.0,16
+2020-03-01,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,48.0,41.0,48.0,17
+2020-03-01,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,97.0,"",97.0,18
+2020-03-01,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,84.0,"",84.0,19
+2020-03-01,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,100.0,"",100.0,19
+2020-03-01,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,96.0,"",97.0,20
+2020-03-01,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,60.0,"",60.0,21
+2020-03-01,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,104.0,117.0,104.0,22
+2020-03-01,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,96.0,81.0,97.0,23
+2020-03-01,NewHampshire,4bf58dd8d48988d147941735,Diners,103.0,88.0,104.0,24
+2020-03-01,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,121.0,113.0,122.0,25
+2020-03-01,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,100.0,"",100.0,26
+2020-03-01,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,104.0,"",105.0,27
+2020-03-01,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,96.0,139.0,94.0,28
+2020-03-01,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),89.0,"",90.0,29
+2020-03-01,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,99.0,"",99.0,30
+2020-03-01,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,99.0,"",99.0,31
+2020-03-01,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,98.0,"",98.0,32
+2020-03-01,NewHampshire,4bf58dd8d48988d196941735,Hospitals,100.0,106.0,100.0,32
+2020-03-01,NewHampshire,4bf58dd8d48988d159941735,Trails,95.0,101.0,95.0,33
+2020-03-01,NewHampshire,4bf58dd8d48988d16d941735,Cafés,103.0,"",103.0,34
+2020-03-01,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,112.0,"",112.0,35
+2020-03-01,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,52.0,"",53.0,36
+2020-03-01,NewHampshire,4bf58dd8d48988d163941735,Parks,86.0,"",86.0,37
+2020-03-01,NewHampshire,4bf58dd8d48988d176941735,Gyms,103.0,"",104.0,38
+2020-03-01,NewHampshire,4bf58dd8d48988d13d941735,High Schools,84.0,"",84.0,39
+2020-03-01,NewHampshire,4bf58dd8d48988d12f951735,Resorts,95.0,"",95.0,40
+2020-03-01,NewHampshire,4bf58dd8d48988d11b941735,Pubs,95.0,"",96.0,41
+2020-03-01,NewHampshire,4bf58dd8d48988d10a951735,Banks,111.0,"",111.0,42
+2020-03-01,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,107.0,"",108.0,43
+2020-03-01,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,98.0,"",99.0,44
+2020-03-01,NewHampshire,4bf58dd8d48988d1eb941735,Ski Lodges,91.0,"",92.0,45
+2020-03-01,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,113.0,"",112.0,46
+2020-03-01,NewHampshire,4bf58dd8d48988d15b941735,Farms,93.0,"",93.0,47
+2020-03-01,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,99.0,"",100.0,48
+2020-03-01,NewHampshire,4bf58dd8d48988d1ae941735,Universities,106.0,"",105.0,48
+2020-03-01,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,100.0,"",99.0,48
+2020-03-01,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,119.0,"",119.0,49
+2020-03-01,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,110.0,"",110.0,50
+2020-03-01,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,81.0,"",81.0,51
+2020-03-01,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,90.0,"",91.0,52
+2020-03-01,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,93.0,"",93.0,53
+2020-03-01,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,110.0,"",109.0,54
+2020-03-01,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,70.0,"",71.0,54
+2020-03-01,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,121.0,"",122.0,55
+2020-03-01,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,114.0,"",115.0,55
+2020-03-01,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,56
+2020-03-01,NewHampshire,4bf58dd8d48988d17f941735,Movie Theaters,83.0,"",83.0,57
+2020-03-01,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,85.0,"",85.0,58
+2020-03-01,NewHampshire,4bf58dd8d48988d124941735,Offices,72.0,"",73.0,59
+2020-03-01,NewHampshire,4bf58dd8d48988d1ea941735,Apres Ski Bars,111.0,"",113.0,60
+2020-03-01,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,65.0,"",65.0,61
+2020-03-01,NewHampshire,5744ccdfe4b0c0459246b4dc,Shopping Plazas,104.0,"",103.0,62
+2020-03-01,NewHampshire,4c38df4de52ce0d596b336e1,Parking,99.0,"",98.0,63
+2020-03-01,NewHampshire,5744ccdfe4b0c0459246b4df,Outlet Malls,108.0,"",108.0,64
+2020-03-01,NewHampshire,4bf58dd8d48988d10c951735,Cosmetics Shops,145.0,"",145.0,65
+2020-03-01,NewHampshire,4bf58dd8d48988d101951735,Thrift / Vintage Stores,102.0,"",101.0,66
+2020-03-01,NewHampshire,4bf58dd8d48988d1f8931735,Bed & Breakfasts,96.0,"",96.0,67
+2020-03-01,NewHampshire,4bf58dd8d48988d111941735,Japanese Restaurants,74.0,"",74.0,68
+2020-03-01,NewHampshire,4bf58dd8d48988d1e4931735,Bowling Alleys,100.0,"",101.0,69
+2020-03-02,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,101.0,104.0,101.0,1
+2020-03-02,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,109.0,105.0,2
+2020-03-02,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,104.0,118.0,104.0,3
+2020-03-02,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,101.0,107.0,101.0,4
+2020-03-02,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,101.0,119.0,100.0,5
+2020-03-02,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,100.0,95.0,100.0,6
+2020-03-02,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,112.0,115.0,111.0,7
+2020-03-02,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,98.0,96.0,98.0,8
+2020-03-02,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,107.0,109.0,107.0,9
+2020-03-02,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,83.0,77.0,84.0,10
+2020-03-02,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,107.0,108.0,107.0,11
+2020-03-02,NewHampshire,4bf58dd8d48988d196941735,Hospitals,99.0,89.0,100.0,12
+2020-03-02,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,101.0,104.0,100.0,13
+2020-03-02,NewHampshire,4bf58dd8d48988d124941735,Offices,89.0,79.0,89.0,14
+2020-03-02,NewHampshire,4bf58dd8d48988d13d941735,High Schools,112.0,100.0,112.0,15
+2020-03-02,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,104.0,108.0,104.0,16
+2020-03-02,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,55.0,51.0,17
+2020-03-02,NewHampshire,4bf58dd8d48988d10a951735,Banks,116.0,136.0,114.0,18
+2020-03-02,NewHampshire,4bf58dd8d48988d161941735,Lakes,95.0,106.0,95.0,19
+2020-03-02,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,52.0,35.0,53.0,20
+2020-03-02,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,89.0,100.0,88.0,21
+2020-03-02,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,96.0,94.0,97.0,22
+2020-03-02,NewHampshire,4bf58dd8d48988d116941735,Bars,45.0,46.0,45.0,22
+2020-03-02,NewHampshire,4bf58dd8d48988d172941735,Post Offices,129.0,132.0,128.0,23
+2020-03-02,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,106.0,128.0,105.0,24
+2020-03-02,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,122.0,112.0,122.0,25
+2020-03-02,NewHampshire,4bf58dd8d48988d176941735,Gyms,102.0,134.0,100.0,26
+2020-03-02,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,105.0,120.0,104.0,27
+2020-03-02,NewHampshire,4bf58dd8d48988d13b941735,Schools,24.0,30.0,24.0,28
+2020-03-02,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,107.0,119.0,106.0,29
+2020-03-02,NewHampshire,4bf58dd8d48988d1ae941735,Universities,93.0,"",93.0,30
+2020-03-02,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,78.0,92.0,77.0,31
+2020-03-02,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,113.0,154.0,112.0,32
+2020-03-02,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,12.0,11.0,12.0,33
+2020-03-02,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,145.0,163.0,145.0,34
+2020-03-02,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),91.0,124.0,90.0,35
+2020-03-02,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,86.0,"",87.0,36
+2020-03-02,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,131.0,"",131.0,37
+2020-03-02,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,103.0,97.0,103.0,37
+2020-03-02,NewHampshire,4bf58dd8d48988d163941735,Parks,101.0,127.0,100.0,37
+2020-03-02,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,99.0,"",100.0,38
+2020-03-02,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,111.0,"",112.0,39
+2020-03-02,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,114.0,"",113.0,40
+2020-03-02,NewHampshire,4bf58dd8d48988d16d941735,Cafés,99.0,"",100.0,40
+2020-03-02,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,100.0,98.0,100.0,41
+2020-03-02,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,36.0,"",36.0,42
+2020-03-02,NewHampshire,4bf58dd8d48988d159941735,Trails,99.0,88.0,99.0,43
+2020-03-02,NewHampshire,4bf58dd8d48988d147941735,Diners,93.0,"",93.0,44
+2020-03-02,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,92.0,"",92.0,45
+2020-03-02,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,72.0,"",72.0,46
+2020-03-02,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,121.0,130.0,120.0,47
+2020-03-02,NewHampshire,4bf58dd8d48988d15b941735,Farms,97.0,"",96.0,48
+2020-03-02,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,104.0,"",104.0,49
+2020-03-02,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,101.0,"",101.0,50
+2020-03-02,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,97.0,"",97.0,51
+2020-03-02,NewHampshire,4bf58dd8d48988d12f941735,Libraries,113.0,"",113.0,51
+2020-03-02,NewHampshire,4bf58dd8d48988d129941735,City Halls,131.0,"",131.0,52
+2020-03-02,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,80.0,"",81.0,53
+2020-03-02,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,34.0,"",34.0,54
+2020-03-02,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,90.0,114.0,89.0,55
+2020-03-02,NewHampshire,4d954af4a243a5684765b473,Veterinarians,115.0,"",115.0,56
+2020-03-02,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,80.0,"",80.0,57
+2020-03-02,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,86.0,"",86.0,58
+2020-03-02,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,86.0,"",87.0,59
+2020-03-02,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,118.0,"",118.0,60
+2020-03-02,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,121.0,"",122.0,61
+2020-03-02,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,43.0,"",43.0,62
+2020-03-02,NewHampshire,4bf58dd8d48988d1ed931735,Airports,73.0,"",72.0,63
+2020-03-02,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,118.0,"",119.0,64
+2020-03-02,NewHampshire,4bf58dd8d48988d11b941735,Pubs,93.0,"",92.0,65
+2020-03-02,NewHampshire,4bf58dd8d48988d12f951735,Resorts,79.0,"",79.0,66
+2020-03-02,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,100.0,"",100.0,67
+2020-03-02,NewHampshire,4c38df4de52ce0d596b336e1,Parking,95.0,"",92.0,67
+2020-03-03,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,106.0,113.0,106.0,1
+2020-03-03,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,117.0,129.0,116.0,2
+2020-03-03,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,105.0,97.0,3
+2020-03-03,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,106.0,106.0,106.0,4
+2020-03-03,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,109.0,108.0,110.0,5
+2020-03-03,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,97.0,93.0,97.0,6
+2020-03-03,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,111.0,109.0,111.0,7
+2020-03-03,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,93.0,103.0,93.0,8
+2020-03-03,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,106.0,119.0,105.0,9
+2020-03-03,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,108.0,110.0,108.0,10
+2020-03-03,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,108.0,99.0,108.0,11
+2020-03-03,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,101.0,99.0,101.0,12
+2020-03-03,NewHampshire,4bf58dd8d48988d13d941735,High Schools,96.0,77.0,97.0,13
+2020-03-03,NewHampshire,4bf58dd8d48988d196941735,Hospitals,90.0,77.0,91.0,14
+2020-03-03,NewHampshire,4bf58dd8d48988d124941735,Offices,84.0,75.0,84.0,15
+2020-03-03,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,113.0,101.0,114.0,16
+2020-03-03,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,48.0,42.0,48.0,17
+2020-03-03,NewHampshire,4bf58dd8d48988d10a951735,Banks,119.0,136.0,118.0,18
+2020-03-03,NewHampshire,4bf58dd8d48988d161941735,Lakes,104.0,110.0,104.0,19
+2020-03-03,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,98.0,91.0,99.0,20
+2020-03-03,NewHampshire,4bf58dd8d48988d116941735,Bars,50.0,43.0,50.0,21
+2020-03-03,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,54.0,41.0,55.0,22
+2020-03-03,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,106.0,94.0,107.0,23
+2020-03-03,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,111.0,116.0,111.0,24
+2020-03-03,NewHampshire,4bf58dd8d48988d176941735,Gyms,96.0,103.0,95.0,25
+2020-03-03,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,84.0,71.0,85.0,25
+2020-03-03,NewHampshire,4bf58dd8d48988d172941735,Post Offices,105.0,106.0,105.0,26
+2020-03-03,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,122.0,139.0,121.0,27
+2020-03-03,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,86.0,92.0,85.0,28
+2020-03-03,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,114.0,90.0,116.0,29
+2020-03-03,NewHampshire,4bf58dd8d48988d13b941735,Schools,18.0,"",18.0,30
+2020-03-03,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),97.0,102.0,97.0,31
+2020-03-03,NewHampshire,4bf58dd8d48988d163941735,Parks,120.0,109.0,120.0,32
+2020-03-03,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,94.0,"",95.0,33
+2020-03-03,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,97.0,95.0,97.0,34
+2020-03-03,NewHampshire,4bf58dd8d48988d1ae941735,Universities,89.0,"",89.0,35
+2020-03-03,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,113.0,114.0,113.0,36
+2020-03-03,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,11.0,10.0,11.0,37
+2020-03-03,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,137.0,152.0,136.0,38
+2020-03-03,NewHampshire,4bf58dd8d48988d159941735,Trails,120.0,97.0,121.0,39
+2020-03-03,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,33.0,"",33.0,40
+2020-03-03,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,99.0,125.0,98.0,41
+2020-03-03,NewHampshire,4bf58dd8d48988d16d941735,Cafés,101.0,112.0,101.0,42
+2020-03-03,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,96.0,119.0,95.0,43
+2020-03-03,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,103.0,103.0,103.0,44
+2020-03-03,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,91.0,"",92.0,44
+2020-03-03,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,73.0,"",74.0,45
+2020-03-03,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,100.0,"",100.0,46
+2020-03-03,NewHampshire,4bf58dd8d48988d15b941735,Farms,113.0,"",114.0,47
+2020-03-03,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,115.0,"",118.0,48
+2020-03-03,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,108.0,"",111.0,49
+2020-03-03,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,67.0,"",68.0,50
+2020-03-03,NewHampshire,4bf58dd8d48988d12f941735,Libraries,98.0,126.0,96.0,50
+2020-03-03,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,165.0,195.0,163.0,51
+2020-03-03,NewHampshire,4bf58dd8d48988d147941735,Diners,88.0,95.0,87.0,52
+2020-03-03,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,106.0,"",106.0,53
+2020-03-03,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,92.0,"",92.0,54
+2020-03-03,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,132.0,136.0,131.0,55
+2020-03-03,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,125.0,"",126.0,56
+2020-03-03,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,133.0,"",135.0,57
+2020-03-03,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,92.0,"",92.0,58
+2020-03-03,NewHampshire,4d954af4a243a5684765b473,Veterinarians,118.0,"",116.0,59
+2020-03-03,NewHampshire,4bf58dd8d48988d11b941735,Pubs,105.0,"",104.0,60
+2020-03-03,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,55.0,"",55.0,60
+2020-03-03,NewHampshire,4c38df4de52ce0d596b336e1,Parking,103.0,"",102.0,61
+2020-03-03,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,101.0,"",102.0,62
+2020-03-03,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,122.0,"",121.0,63
+2020-03-03,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,88.0,"",90.0,64
+2020-03-03,NewHampshire,4bf58dd8d48988d129941735,City Halls,84.0,"",86.0,65
+2020-03-03,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,32.0,"",33.0,66
+2020-03-03,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,98.0,"",96.0,67
+2020-03-03,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,98.0,"",99.0,68
+2020-03-03,NewHampshire,4bf58dd8d48988d1ed931735,Airports,62.0,"",61.0,69
+2020-03-03,NewHampshire,4bf58dd8d48988d101951735,Thrift / Vintage Stores,102.0,"",103.0,70
+2020-03-03,NewHampshire,4bf58dd8d48988d1e8941735,Baseball Fields,134.0,"",133.0,71
+2020-03-03,NewHampshire,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,115.0,"",115.0,72
+2020-03-03,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,97.0,"",98.0,73
+2020-03-04,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,99.0,92.0,100.0,1
+2020-03-04,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,98.0,100.0,98.0,2
+2020-03-04,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,95.0,88.0,96.0,3
+2020-03-04,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,100.0,96.0,100.0,4
+2020-03-04,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,94.0,89.0,95.0,5
+2020-03-04,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,92.0,88.0,93.0,6
+2020-03-04,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,92.0,88.0,92.0,7
+2020-03-04,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,89.0,98.0,8
+2020-03-04,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,102.0,103.0,101.0,9
+2020-03-04,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,98.0,94.0,98.0,10
+2020-03-04,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,102.0,104.0,102.0,11
+2020-03-04,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,87.0,90.0,87.0,12
+2020-03-04,NewHampshire,4bf58dd8d48988d13d941735,High Schools,107.0,110.0,107.0,13
+2020-03-04,NewHampshire,4bf58dd8d48988d124941735,Offices,83.0,73.0,83.0,14
+2020-03-04,NewHampshire,4bf58dd8d48988d196941735,Hospitals,80.0,77.0,80.0,15
+2020-03-04,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,99.0,73.0,101.0,16
+2020-03-04,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,49.0,41.0,49.0,17
+2020-03-04,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,95.0,102.0,94.0,18
+2020-03-04,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,56.0,40.0,57.0,19
+2020-03-04,NewHampshire,4bf58dd8d48988d116941735,Bars,47.0,45.0,47.0,20
+2020-03-04,NewHampshire,4bf58dd8d48988d161941735,Lakes,85.0,83.0,85.0,21
+2020-03-04,NewHampshire,4bf58dd8d48988d10a951735,Banks,99.0,90.0,100.0,21
+2020-03-04,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,85.0,80.0,86.0,22
+2020-03-04,NewHampshire,4bf58dd8d48988d176941735,Gyms,94.0,115.0,93.0,23
+2020-03-04,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,79.0,100.0,24
+2020-03-04,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,97.0,102.0,97.0,24
+2020-03-04,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,114.0,110.0,114.0,25
+2020-03-04,NewHampshire,4bf58dd8d48988d172941735,Post Offices,93.0,90.0,94.0,26
+2020-03-04,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,78.0,79.0,78.0,26
+2020-03-04,NewHampshire,4bf58dd8d48988d1ae941735,Universities,98.0,"",98.0,27
+2020-03-04,NewHampshire,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,28
+2020-03-04,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,95.0,89.0,95.0,29
+2020-03-04,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),95.0,"",95.0,30
+2020-03-04,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,92.0,68.0,93.0,30
+2020-03-04,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,113.0,109.0,113.0,31
+2020-03-04,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,11.0,10.0,11.0,32
+2020-03-04,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,97.0,"",97.0,33
+2020-03-04,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,100.0,"",100.0,34
+2020-03-04,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,85.0,100.0,84.0,35
+2020-03-04,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,33.0,37.0,32.0,36
+2020-03-04,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,98.0,"",98.0,37
+2020-03-04,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,87.0,85.0,87.0,38
+2020-03-04,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,107.0,"",107.0,39
+2020-03-04,NewHampshire,4bf58dd8d48988d163941735,Parks,87.0,"",87.0,40
+2020-03-04,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,103.0,"",104.0,41
+2020-03-04,NewHampshire,4bf58dd8d48988d147941735,Diners,99.0,118.0,98.0,42
+2020-03-04,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,85.0,94.0,85.0,43
+2020-03-04,NewHampshire,4bf58dd8d48988d16d941735,Cafés,90.0,"",91.0,44
+2020-03-04,NewHampshire,4bf58dd8d48988d159941735,Trails,88.0,78.0,88.0,45
+2020-03-04,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,75.0,"",76.0,46
+2020-03-04,NewHampshire,4bf58dd8d48988d12f941735,Libraries,114.0,"",114.0,47
+2020-03-04,NewHampshire,4bf58dd8d48988d15b941735,Farms,90.0,"",91.0,48
+2020-03-04,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,102.0,"",103.0,49
+2020-03-04,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,117.0,120.0,117.0,50
+2020-03-04,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,80.0,"",79.0,51
+2020-03-04,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,92.0,"",90.0,52
+2020-03-04,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,93.0,"",94.0,53
+2020-03-04,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,96.0,"",96.0,54
+2020-03-04,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,111.0,"",110.0,55
+2020-03-04,NewHampshire,4bf58dd8d48988d129941735,City Halls,115.0,"",117.0,56
+2020-03-04,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,49.0,"",49.0,57
+2020-03-04,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,96.0,"",97.0,58
+2020-03-04,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,92.0,"",92.0,59
+2020-03-04,NewHampshire,4bf58dd8d48988d11b941735,Pubs,86.0,"",87.0,60
+2020-03-04,NewHampshire,4d954af4a243a5684765b473,Veterinarians,104.0,"",104.0,61
+2020-03-04,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,114.0,"",113.0,62
+2020-03-04,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,91.0,"",92.0,63
+2020-03-04,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,30.0,"",31.0,64
+2020-03-04,NewHampshire,4c38df4de52ce0d596b336e1,Parking,101.0,"",101.0,65
+2020-03-04,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,83.0,"",83.0,66
+2020-03-04,NewHampshire,4bf58dd8d48988d1ed931735,Airports,67.0,"",66.0,67
+2020-03-04,NewHampshire,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,106.0,"",106.0,68
+2020-03-04,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,73.0,"",74.0,69
+2020-03-04,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,69
+2020-03-04,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,81.0,"",81.0,69
+2020-03-05,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,102.0,100.0,102.0,1
+2020-03-05,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,116.0,128.0,115.0,2
+2020-03-05,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,106.0,102.0,106.0,3
+2020-03-05,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,112.0,123.0,112.0,4
+2020-03-05,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,111.0,101.0,112.0,5
+2020-03-05,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,106.0,113.0,106.0,6
+2020-03-05,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,96.0,98.0,96.0,7
+2020-03-05,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,121.0,153.0,119.0,8
+2020-03-05,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,108.0,106.0,108.0,9
+2020-03-05,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,103.0,102.0,103.0,10
+2020-03-05,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,109.0,123.0,108.0,11
+2020-03-05,NewHampshire,4bf58dd8d48988d196941735,Hospitals,105.0,94.0,105.0,12
+2020-03-05,NewHampshire,4bf58dd8d48988d13d941735,High Schools,166.0,155.0,166.0,13
+2020-03-05,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,106.0,117.0,106.0,14
+2020-03-05,NewHampshire,4bf58dd8d48988d124941735,Offices,92.0,86.0,92.0,15
+2020-03-05,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,115.0,126.0,114.0,16
+2020-03-05,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,106.0,121.0,105.0,17
+2020-03-05,NewHampshire,4bf58dd8d48988d10a951735,Banks,131.0,142.0,130.0,18
+2020-03-05,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,58.0,51.0,58.0,19
+2020-03-05,NewHampshire,4bf58dd8d48988d116941735,Bars,50.0,55.0,49.0,20
+2020-03-05,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,48.0,46.0,48.0,21
+2020-03-05,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,112.0,128.0,111.0,22
+2020-03-05,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,105.0,82.0,106.0,23
+2020-03-05,NewHampshire,4bf58dd8d48988d161941735,Lakes,88.0,102.0,88.0,24
+2020-03-05,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,101.0,90.0,101.0,25
+2020-03-05,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,160.0,126.0,161.0,25
+2020-03-05,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,112.0,120.0,111.0,26
+2020-03-05,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,81.0,101.0,80.0,26
+2020-03-05,NewHampshire,4bf58dd8d48988d176941735,Gyms,99.0,98.0,99.0,27
+2020-03-05,NewHampshire,4bf58dd8d48988d13b941735,Schools,31.0,"",31.0,28
+2020-03-05,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,118.0,125.0,117.0,29
+2020-03-05,NewHampshire,4bf58dd8d48988d172941735,Post Offices,105.0,128.0,104.0,30
+2020-03-05,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,113.0,108.0,113.0,31
+2020-03-05,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),95.0,108.0,95.0,32
+2020-03-05,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,113.0,109.0,113.0,33
+2020-03-05,NewHampshire,4bf58dd8d48988d1ae941735,Universities,96.0,"",96.0,34
+2020-03-05,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,12.0,15.0,12.0,35
+2020-03-05,NewHampshire,4bf58dd8d48988d163941735,Parks,112.0,"",113.0,36
+2020-03-05,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,107.0,"",109.0,37
+2020-03-05,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,102.0,109.0,102.0,38
+2020-03-05,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,138.0,"",139.0,39
+2020-03-05,NewHampshire,4bf58dd8d48988d159941735,Trails,120.0,96.0,122.0,39
+2020-03-05,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,38.0,"",38.0,40
+2020-03-05,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,98.0,"",98.0,41
+2020-03-05,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,101.0,141.0,99.0,42
+2020-03-05,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,116.0,"",115.0,43
+2020-03-05,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,98.0,124.0,96.0,44
+2020-03-05,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,106.0,"",105.0,45
+2020-03-05,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,93.0,"",93.0,46
+2020-03-05,NewHampshire,4bf58dd8d48988d16d941735,Cafés,89.0,"",89.0,46
+2020-03-05,NewHampshire,4bf58dd8d48988d147941735,Diners,96.0,"",96.0,47
+2020-03-05,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,110.0,105.0,111.0,48
+2020-03-05,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,141.0,175.0,138.0,48
+2020-03-05,NewHampshire,4bf58dd8d48988d15b941735,Farms,100.0,"",101.0,49
+2020-03-05,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,122.0,"",122.0,50
+2020-03-05,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,83.0,"",83.0,51
+2020-03-05,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,143.0,"",142.0,52
+2020-03-05,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,99.0,100.0,99.0,53
+2020-03-05,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,48.0,83.0,47.0,54
+2020-03-05,NewHampshire,4bf58dd8d48988d12f941735,Libraries,115.0,"",115.0,54
+2020-03-05,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,136.0,"",135.0,55
+2020-03-05,NewHampshire,4d954af4a243a5684765b473,Veterinarians,114.0,"",114.0,56
+2020-03-05,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,108.0,"",108.0,57
+2020-03-05,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,52.0,"",51.0,58
+2020-03-05,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,113.0,"",112.0,59
+2020-03-05,NewHampshire,4bf58dd8d48988d129941735,City Halls,109.0,"",110.0,60
+2020-03-05,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,114.0,"",113.0,61
+2020-03-05,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,102.0,"",102.0,62
+2020-03-05,NewHampshire,4bf58dd8d48988d11b941735,Pubs,89.0,"",90.0,63
+2020-03-05,NewHampshire,4c38df4de52ce0d596b336e1,Parking,96.0,"",96.0,64
+2020-03-05,NewHampshire,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,117.0,"",115.0,65
+2020-03-05,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,117.0,"",118.0,65
+2020-03-05,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,101.0,"",103.0,66
+2020-03-05,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,89.0,"",90.0,67
+2020-03-05,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,106.0,"",106.0,68
+2020-03-05,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,115.0,"",115.0,68
+2020-03-05,NewHampshire,4bf58dd8d48988d171941735,Event Spaces,114.0,"",115.0,69
+2020-03-06,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,99.0,94.0,100.0,1
+2020-03-06,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,106.0,101.0,2
+2020-03-06,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,101.0,100.0,3
+2020-03-06,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,108.0,105.0,108.0,4
+2020-03-06,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,107.0,111.0,107.0,5
+2020-03-06,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,93.0,89.0,93.0,6
+2020-03-06,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,103.0,105.0,103.0,7
+2020-03-06,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,107.0,104.0,107.0,8
+2020-03-06,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,109.0,102.0,109.0,9
+2020-03-06,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,111.0,121.0,110.0,10
+2020-03-06,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,92.0,108.0,91.0,11
+2020-03-06,NewHampshire,4bf58dd8d48988d13d941735,High Schools,115.0,100.0,116.0,12
+2020-03-06,NewHampshire,4bf58dd8d48988d196941735,Hospitals,94.0,123.0,93.0,13
+2020-03-06,NewHampshire,4bf58dd8d48988d10a951735,Banks,118.0,112.0,118.0,14
+2020-03-06,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,102.0,117.0,102.0,15
+2020-03-06,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,100.0,114.0,100.0,16
+2020-03-06,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,104.0,92.0,104.0,17
+2020-03-06,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,63.0,54.0,63.0,18
+2020-03-06,NewHampshire,4bf58dd8d48988d116941735,Bars,53.0,41.0,53.0,19
+2020-03-06,NewHampshire,4bf58dd8d48988d124941735,Offices,90.0,87.0,90.0,20
+2020-03-06,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,52.0,48.0,52.0,21
+2020-03-06,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,94.0,99.0,94.0,22
+2020-03-06,NewHampshire,4bf58dd8d48988d161941735,Lakes,97.0,99.0,97.0,23
+2020-03-06,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,100.0,104.0,100.0,24
+2020-03-06,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,97.0,91.0,25
+2020-03-06,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,80.0,75.0,80.0,26
+2020-03-06,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,100.0,108.0,100.0,27
+2020-03-06,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,118.0,127.0,118.0,28
+2020-03-06,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,87.0,96.0,87.0,29
+2020-03-06,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),102.0,111.0,102.0,30
+2020-03-06,NewHampshire,4bf58dd8d48988d13b941735,Schools,24.0,"",24.0,31
+2020-03-06,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,108.0,103.0,109.0,32
+2020-03-06,NewHampshire,4bf58dd8d48988d172941735,Post Offices,97.0,113.0,96.0,33
+2020-03-06,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,112.0,86.0,113.0,34
+2020-03-06,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,103.0,108.0,103.0,35
+2020-03-06,NewHampshire,4bf58dd8d48988d176941735,Gyms,95.0,122.0,94.0,36
+2020-03-06,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,93.0,"",95.0,37
+2020-03-06,NewHampshire,4bf58dd8d48988d16d941735,Cafés,114.0,"",115.0,38
+2020-03-06,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,104.0,120.0,103.0,39
+2020-03-06,NewHampshire,4bf58dd8d48988d163941735,Parks,108.0,"",109.0,40
+2020-03-06,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,110.0,169.0,107.0,40
+2020-03-06,NewHampshire,4bf58dd8d48988d147941735,Diners,95.0,94.0,95.0,41
+2020-03-06,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,54.0,71.0,54.0,42
+2020-03-06,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,97.0,89.0,97.0,43
+2020-03-06,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,100.0,99.0,100.0,44
+2020-03-06,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,40.0,"",40.0,45
+2020-03-06,NewHampshire,4bf58dd8d48988d1ae941735,Universities,79.0,"",80.0,46
+2020-03-06,NewHampshire,4bf58dd8d48988d159941735,Trails,112.0,95.0,113.0,47
+2020-03-06,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,11.0,12.0,11.0,48
+2020-03-06,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,112.0,"",111.0,49
+2020-03-06,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,97.0,113.0,96.0,50
+2020-03-06,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,109.0,"",109.0,51
+2020-03-06,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,99.0,100.0,99.0,52
+2020-03-06,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,117.0,93.0,119.0,53
+2020-03-06,NewHampshire,4bf58dd8d48988d15b941735,Farms,108.0,"",108.0,54
+2020-03-06,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,114.0,"",116.0,55
+2020-03-06,NewHampshire,4bf58dd8d48988d11b941735,Pubs,110.0,"",109.0,56
+2020-03-06,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,99.0,"",99.0,57
+2020-03-06,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,55.0,"",55.0,58
+2020-03-06,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,104.0,"",105.0,59
+2020-03-06,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,100.0,"",102.0,60
+2020-03-06,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,99.0,107.0,98.0,61
+2020-03-06,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,95.0,"",95.0,62
+2020-03-06,NewHampshire,4d954af4a243a5684765b473,Veterinarians,116.0,"",117.0,63
+2020-03-06,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,99.0,"",100.0,64
+2020-03-06,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,101.0,"",100.0,65
+2020-03-06,NewHampshire,4bf58dd8d48988d12f951735,Resorts,87.0,111.0,86.0,66
+2020-03-06,NewHampshire,4bf58dd8d48988d12f941735,Libraries,99.0,"",100.0,67
+2020-03-06,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,82.0,"",81.0,68
+2020-03-06,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,95.0,"",95.0,69
+2020-03-06,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,115.0,"",114.0,69
+2020-03-06,NewHampshire,4bf58dd8d48988d129941735,City Halls,105.0,"",105.0,70
+2020-03-06,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,71.0,"",71.0,71
+2020-03-06,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,93.0,"",94.0,72
+2020-03-06,NewHampshire,4c38df4de52ce0d596b336e1,Parking,93.0,"",93.0,73
+2020-03-06,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,121.0,"",121.0,74
+2020-03-06,NewHampshire,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,126.0,"",126.0,75
+2020-03-06,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,87.0,"",85.0,76
+2020-03-06,NewHampshire,4bf58dd8d48988d171941735,Event Spaces,102.0,"",103.0,77
+2020-03-06,NewHampshire,4bf58dd8d48988d1e8941735,Baseball Fields,117.0,"",117.0,78
+2020-03-06,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,78
+2020-03-06,NewHampshire,4bf58dd8d48988d1ed931735,Airports,63.0,"",62.0,79
+2020-03-06,NewHampshire,4bf58dd8d48988d146941735,Delis / Bodegas,92.0,"",93.0,80
+2020-03-06,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,86.0,"",86.0,80
+2020-03-07,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,98.0,102.0,1
+2020-03-07,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,91.0,98.0,2
+2020-03-07,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,95.0,99.0,95.0,3
+2020-03-07,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,91.0,86.0,91.0,4
+2020-03-07,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,98.0,97.0,99.0,5
+2020-03-07,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,97.0,90.0,98.0,6
+2020-03-07,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,110.0,102.0,110.0,7
+2020-03-07,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,104.0,104.0,104.0,8
+2020-03-07,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,97.0,98.0,97.0,9
+2020-03-07,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,104.0,104.0,104.0,10
+2020-03-07,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,99.0,100.0,99.0,11
+2020-03-07,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,98.0,98.0,98.0,12
+2020-03-07,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,100.0,110.0,100.0,13
+2020-03-07,NewHampshire,4bf58dd8d48988d116941735,Bars,53.0,53.0,53.0,14
+2020-03-07,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,55.0,51.0,55.0,15
+2020-03-07,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,100.0,115.0,100.0,16
+2020-03-07,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,104.0,109.0,104.0,17
+2020-03-07,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,100.0,102.0,18
+2020-03-07,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,47.0,44.0,47.0,19
+2020-03-07,NewHampshire,4bf58dd8d48988d161941735,Lakes,80.0,79.0,81.0,20
+2020-03-07,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,75.0,85.0,75.0,21
+2020-03-07,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,101.0,105.0,101.0,22
+2020-03-07,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,"",52.0,23
+2020-03-07,NewHampshire,4bf58dd8d48988d13d941735,High Schools,103.0,"",104.0,24
+2020-03-07,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,99.0,96.0,99.0,24
+2020-03-07,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,106.0,124.0,105.0,25
+2020-03-07,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,106.0,115.0,106.0,26
+2020-03-07,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,104.0,120.0,103.0,27
+2020-03-07,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,92.0,"",92.0,28
+2020-03-07,NewHampshire,4bf58dd8d48988d10a951735,Banks,83.0,"",84.0,29
+2020-03-07,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),93.0,"",93.0,30
+2020-03-07,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,93.0,118.0,92.0,31
+2020-03-07,NewHampshire,4bf58dd8d48988d147941735,Diners,91.0,90.0,91.0,32
+2020-03-07,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,101.0,101.0,101.0,32
+2020-03-07,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,54.0,82.0,53.0,33
+2020-03-07,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,92.0,96.0,92.0,34
+2020-03-07,NewHampshire,4bf58dd8d48988d163941735,Parks,101.0,"",102.0,35
+2020-03-07,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,98.0,"",98.0,36
+2020-03-07,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,105.0,113.0,104.0,37
+2020-03-07,NewHampshire,4bf58dd8d48988d196941735,Hospitals,93.0,"",94.0,38
+2020-03-07,NewHampshire,4bf58dd8d48988d159941735,Trails,99.0,"",100.0,39
+2020-03-07,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,92.0,"",93.0,40
+2020-03-07,NewHampshire,4bf58dd8d48988d176941735,Gyms,93.0,"",93.0,41
+2020-03-07,NewHampshire,4bf58dd8d48988d16d941735,Cafés,95.0,"",95.0,41
+2020-03-07,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,103.0,"",103.0,42
+2020-03-07,NewHampshire,4bf58dd8d48988d11b941735,Pubs,104.0,"",104.0,42
+2020-03-07,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,95.0,"",96.0,43
+2020-03-07,NewHampshire,4bf58dd8d48988d1eb941735,Ski Lodges,96.0,"",96.0,44
+2020-03-07,NewHampshire,4bf58dd8d48988d12f951735,Resorts,78.0,"",78.0,45
+2020-03-07,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,84.0,"",84.0,45
+2020-03-07,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,94.0,"",94.0,46
+2020-03-07,NewHampshire,4bf58dd8d48988d124941735,Offices,89.0,"",90.0,46
+2020-03-07,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,115.0,"",116.0,47
+2020-03-07,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,110.0,"",110.0,48
+2020-03-07,NewHampshire,4bf58dd8d48988d172941735,Post Offices,86.0,"",86.0,49
+2020-03-07,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,99.0,"",99.0,49
+2020-03-07,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,106.0,"",107.0,50
+2020-03-07,NewHampshire,4bf58dd8d48988d15b941735,Farms,96.0,"",96.0,50
+2020-03-07,NewHampshire,4bf58dd8d48988d1ae941735,Universities,92.0,"",90.0,51
+2020-03-07,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,103.0,"",104.0,52
+2020-03-07,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,89.0,"",89.0,53
+2020-03-07,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,103.0,"",103.0,54
+2020-03-07,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,89.0,"",91.0,55
+2020-03-07,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,111.0,"",111.0,56
+2020-03-07,NewHampshire,4bf58dd8d48988d17f941735,Movie Theaters,86.0,"",86.0,57
+2020-03-07,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,101.0,"",101.0,58
+2020-03-07,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,79.0,"",79.0,59
+2020-03-07,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,106.0,"",105.0,60
+2020-03-07,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,104.0,"",104.0,61
+2020-03-07,NewHampshire,4bf58dd8d48988d101951735,Thrift / Vintage Stores,90.0,"",90.0,62
+2020-03-07,NewHampshire,4bf58dd8d48988d128951735,Gift Shops,101.0,"",102.0,62
+2020-03-07,NewHampshire,4bf58dd8d48988d1f8931735,Bed & Breakfasts,95.0,"",95.0,63
+2020-03-07,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,92.0,"",92.0,63
+2020-03-07,NewHampshire,5744ccdfe4b0c0459246b4dc,Shopping Plazas,98.0,"",99.0,64
+2020-03-07,NewHampshire,5744ccdfe4b0c0459246b4df,Outlet Malls,108.0,"",107.0,65
+2020-03-07,NewHampshire,4bf58dd8d48988d10c951735,Cosmetics Shops,97.0,"",97.0,66
+2020-03-07,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,66
+2020-03-07,NewHampshire,4bf58dd8d48988d171941735,Event Spaces,96.0,"",97.0,67
+2020-03-07,NewHampshire,4bf58dd8d48988d12f941735,Libraries,99.0,"",99.0,68
+2020-03-07,NewHampshire,4bf58dd8d48988d1e4931735,Bowling Alleys,123.0,"",122.0,69
+2020-03-07,NewHampshire,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,70
+2020-03-07,NewHampshire,4bf58dd8d48988d142941735,Asian Restaurants,16.0,"",17.0,71
+2020-03-07,NewHampshire,4bf58dd8d48988d168941735,Skating Rinks,97.0,"",97.0,72
+2020-03-07,NewHampshire,5370f356bcbc57f1066c94c2,Beer Stores,135.0,"",134.0,72
+2020-03-07,NewHampshire,4bf58dd8d48988d1df931735,BBQ Joints,102.0,"",102.0,72
+2020-03-07,NewHampshire,4d954afda243a5684865b473,Optical Shops,101.0,"",101.0,73
+2020-03-07,NewHampshire,4cce455aebf7b749d5e191f5,Soccer Fields,109.0,"",107.0,74
+2020-03-07,NewHampshire,4f04aa0c2fb6e1c99f3db0b8,Nail Salons,100.0,"",100.0,75
+2020-03-07,NewHampshire,4c38df4de52ce0d596b336e1,Parking,76.0,"",76.0,75
+2020-03-07,NewHampshire,4bf58dd8d48988d127951735,Arts & Crafts Stores,92.0,"",93.0,76
+2020-03-08,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,99.0,103.0,1
+2020-03-08,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,90.0,93.0,2
+2020-03-08,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,101.0,104.0,101.0,3
+2020-03-08,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,105.0,98.0,105.0,4
+2020-03-08,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,99.0,95.0,99.0,5
+2020-03-08,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,106.0,110.0,106.0,6
+2020-03-08,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,113.0,103.0,113.0,7
+2020-03-08,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,111.0,102.0,112.0,8
+2020-03-08,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,98.0,91.0,98.0,9
+2020-03-08,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,100.0,95.0,100.0,10
+2020-03-08,NewHampshire,4bf58dd8d48988d116941735,Bars,58.0,49.0,58.0,11
+2020-03-08,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,102.0,90.0,102.0,12
+2020-03-08,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,93.0,94.0,93.0,13
+2020-03-08,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,56.0,54.0,56.0,14
+2020-03-08,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,98.0,95.0,98.0,15
+2020-03-08,NewHampshire,4bf58dd8d48988d161941735,Lakes,83.0,68.0,83.0,16
+2020-03-08,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,119.0,121.0,119.0,17
+2020-03-08,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,113.0,"",114.0,18
+2020-03-08,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,46.0,48.0,46.0,19
+2020-03-08,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,86.0,"",86.0,20
+2020-03-08,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,"",91.0,21
+2020-03-08,NewHampshire,4bf58dd8d48988d163941735,Parks,135.0,127.0,135.0,22
+2020-03-08,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,107.0,"",108.0,23
+2020-03-08,NewHampshire,4bf58dd8d48988d159941735,Trails,123.0,108.0,123.0,24
+2020-03-08,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,91.0,101.0,91.0,25
+2020-03-08,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),103.0,"",103.0,26
+2020-03-08,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,110.0,"",111.0,27
+2020-03-08,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,99.0,"",99.0,28
+2020-03-08,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,108.0,"",108.0,29
+2020-03-08,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,46.0,"",46.0,29
+2020-03-08,NewHampshire,4bf58dd8d48988d13d941735,High Schools,107.0,"",108.0,30
+2020-03-08,NewHampshire,4bf58dd8d48988d147941735,Diners,93.0,89.0,93.0,31
+2020-03-08,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,105.0,"",105.0,32
+2020-03-08,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,98.0,"",99.0,33
+2020-03-08,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,86.0,"",86.0,34
+2020-03-08,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,54.0,"",54.0,35
+2020-03-08,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,96.0,"",98.0,36
+2020-03-08,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,115.0,"",115.0,36
+2020-03-08,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,105.0,"",107.0,37
+2020-03-08,NewHampshire,4bf58dd8d48988d11b941735,Pubs,101.0,"",100.0,38
+2020-03-08,NewHampshire,4bf58dd8d48988d196941735,Hospitals,88.0,102.0,87.0,39
+2020-03-08,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,129.0,"",132.0,40
+2020-03-08,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,101.0,"",103.0,41
+2020-03-08,NewHampshire,4bf58dd8d48988d16d941735,Cafés,91.0,"",92.0,42
+2020-03-08,NewHampshire,4bf58dd8d48988d1eb941735,Ski Lodges,90.0,"",91.0,43
+2020-03-08,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,108.0,"",108.0,43
+2020-03-08,NewHampshire,4bf58dd8d48988d124941735,Offices,104.0,"",104.0,44
+2020-03-08,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,104.0,"",105.0,45
+2020-03-08,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,105.0,"",104.0,46
+2020-03-08,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,112.0,"",113.0,47
+2020-03-08,NewHampshire,4bf58dd8d48988d176941735,Gyms,92.0,"",93.0,48
+2020-03-08,NewHampshire,4bf58dd8d48988d12f951735,Resorts,85.0,"",84.0,49
+2020-03-08,NewHampshire,4bf58dd8d48988d10a951735,Banks,95.0,"",95.0,50
+2020-03-08,NewHampshire,4bf58dd8d48988d15b941735,Farms,89.0,"",88.0,50
+2020-03-08,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,90.0,"",91.0,50
+2020-03-08,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,84.0,"",83.0,51
+2020-03-08,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,124.0,"",125.0,52
+2020-03-08,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,101.0,"",100.0,53
+2020-03-08,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,103.0,"",103.0,54
+2020-03-08,NewHampshire,4bf58dd8d48988d17f941735,Movie Theaters,93.0,"",94.0,55
+2020-03-08,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,122.0,"",123.0,56
+2020-03-08,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,100.0,"",100.0,57
+2020-03-08,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,121.0,"",121.0,58
+2020-03-08,NewHampshire,4bf58dd8d48988d1ae941735,Universities,80.0,"",78.0,59
+2020-03-08,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,88.0,"",88.0,59
+2020-03-08,NewHampshire,4bf58dd8d48988d13b941735,Schools,22.0,"",22.0,60
+2020-03-08,NewHampshire,4bf58dd8d48988d128951735,Gift Shops,111.0,"",111.0,61
+2020-03-08,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,111.0,"",111.0,62
+2020-03-08,NewHampshire,4bf58dd8d48988d101951735,Thrift / Vintage Stores,103.0,"",103.0,63
+2020-03-08,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,64
+2020-03-08,NewHampshire,4cce455aebf7b749d5e191f5,Soccer Fields,142.0,"",144.0,65
+2020-03-08,NewHampshire,4bf58dd8d48988d171941735,Event Spaces,111.0,"",111.0,66
+2020-03-08,NewHampshire,5744ccdfe4b0c0459246b4df,Outlet Malls,100.0,"",100.0,67
+2020-03-08,NewHampshire,4bf58dd8d48988d1e4931735,Bowling Alleys,102.0,"",103.0,68
+2020-03-09,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,102.0,97.0,103.0,1
+2020-03-09,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,101.0,103.0,2
+2020-03-09,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,101.0,100.0,3
+2020-03-09,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,105.0,103.0,105.0,4
+2020-03-09,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,102.0,107.0,102.0,5
+2020-03-09,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,101.0,98.0,101.0,6
+2020-03-09,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,89.0,85.0,90.0,7
+2020-03-09,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,104.0,93.0,105.0,8
+2020-03-09,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,98.0,93.0,99.0,9
+2020-03-09,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,100.0,101.0,99.0,10
+2020-03-09,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,97.0,96.0,97.0,11
+2020-03-09,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,95.0,85.0,95.0,12
+2020-03-09,NewHampshire,4bf58dd8d48988d196941735,Hospitals,89.0,89.0,89.0,13
+2020-03-09,NewHampshire,4bf58dd8d48988d13d941735,High Schools,115.0,91.0,116.0,14
+2020-03-09,NewHampshire,4bf58dd8d48988d124941735,Offices,87.0,92.0,86.0,15
+2020-03-09,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,105.0,119.0,105.0,16
+2020-03-09,NewHampshire,4bf58dd8d48988d10a951735,Banks,119.0,101.0,120.0,17
+2020-03-09,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,50.0,47.0,50.0,18
+2020-03-09,NewHampshire,4bf58dd8d48988d116941735,Bars,56.0,50.0,56.0,19
+2020-03-09,NewHampshire,4bf58dd8d48988d161941735,Lakes,97.0,97.0,97.0,20
+2020-03-09,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,99.0,98.0,99.0,21
+2020-03-09,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,52.0,49.0,52.0,22
+2020-03-09,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,133.0,128.0,133.0,23
+2020-03-09,NewHampshire,4bf58dd8d48988d163941735,Parks,147.0,122.0,148.0,24
+2020-03-09,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,89.0,73.0,90.0,25
+2020-03-09,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,110.0,116.0,109.0,26
+2020-03-09,NewHampshire,4bf58dd8d48988d172941735,Post Offices,111.0,121.0,110.0,27
+2020-03-09,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,107.0,80.0,108.0,28
+2020-03-09,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,77.0,92.0,29
+2020-03-09,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,87.0,95.0,87.0,30
+2020-03-09,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,109.0,101.0,110.0,31
+2020-03-09,NewHampshire,4bf58dd8d48988d176941735,Gyms,91.0,104.0,91.0,32
+2020-03-09,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),106.0,126.0,106.0,32
+2020-03-09,NewHampshire,4bf58dd8d48988d13b941735,Schools,22.0,"",22.0,33
+2020-03-09,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,118.0,141.0,117.0,33
+2020-03-09,NewHampshire,4bf58dd8d48988d159941735,Trails,124.0,100.0,126.0,34
+2020-03-09,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,136.0,"",135.0,35
+2020-03-09,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,118.0,"",119.0,35
+2020-03-09,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,106.0,91.0,107.0,36
+2020-03-09,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,11.0,11.0,11.0,37
+2020-03-09,NewHampshire,4bf58dd8d48988d16d941735,Cafés,109.0,"",109.0,38
+2020-03-09,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,115.0,137.0,114.0,39
+2020-03-09,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,129.0,143.0,128.0,40
+2020-03-09,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,98.0,"",99.0,41
+2020-03-09,NewHampshire,4bf58dd8d48988d1ae941735,Universities,74.0,"",74.0,42
+2020-03-09,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,38.0,"",39.0,43
+2020-03-09,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,131.0,130.0,131.0,44
+2020-03-09,NewHampshire,4bf58dd8d48988d15b941735,Farms,116.0,"",116.0,45
+2020-03-09,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,98.0,97.0,98.0,46
+2020-03-09,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,107.0,"",107.0,47
+2020-03-09,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,109.0,163.0,106.0,48
+2020-03-09,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,119.0,136.0,118.0,49
+2020-03-09,NewHampshire,4bf58dd8d48988d147941735,Diners,83.0,"",83.0,50
+2020-03-09,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,93.0,"",92.0,51
+2020-03-09,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,117.0,90.0,120.0,51
+2020-03-09,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,37.0,66.0,36.0,52
+2020-03-09,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,99.0,"",100.0,53
+2020-03-09,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,99.0,"",99.0,54
+2020-03-09,NewHampshire,4bf58dd8d48988d12f941735,Libraries,110.0,"",110.0,55
+2020-03-09,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,122.0,"",124.0,56
+2020-03-09,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,138.0,"",140.0,57
+2020-03-09,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,91.0,"",90.0,57
+2020-03-09,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,91.0,120.0,89.0,58
+2020-03-09,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,56.0,"",56.0,58
+2020-03-09,NewHampshire,4d954af4a243a5684765b473,Veterinarians,115.0,"",116.0,59
+2020-03-09,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,89.0,"",90.0,59
+2020-03-09,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,47.0,"",47.0,60
+2020-03-09,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,126.0,"",127.0,61
+2020-03-09,NewHampshire,4bf58dd8d48988d129941735,City Halls,114.0,"",113.0,62
+2020-03-09,NewHampshire,4bf58dd8d48988d11b941735,Pubs,106.0,"",105.0,63
+2020-03-09,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,113.0,"",113.0,64
+2020-03-09,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,111.0,"",112.0,65
+2020-03-09,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,88.0,"",89.0,66
+2020-03-09,NewHampshire,4c38df4de52ce0d596b336e1,Parking,100.0,"",99.0,67
+2020-03-09,NewHampshire,4bf58dd8d48988d1ed931735,Airports,70.0,"",69.0,68
+2020-03-09,NewHampshire,4bf58dd8d48988d12f951735,Resorts,79.0,"",79.0,69
+2020-03-09,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,113.0,"",111.0,70
+2020-03-09,NewHampshire,4bf58dd8d48988d1e8941735,Baseball Fields,124.0,"",126.0,71
+2020-03-10,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,100.0,94.0,100.0,1
+2020-03-10,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,111.0,102.0,111.0,2
+2020-03-10,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,108.0,101.0,109.0,3
+2020-03-10,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,114.0,116.0,114.0,4
+2020-03-10,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,98.0,92.0,99.0,5
+2020-03-10,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,94.0,85.0,94.0,6
+2020-03-10,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,108.0,129.0,107.0,7
+2020-03-10,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,93.0,102.0,93.0,8
+2020-03-10,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,105.0,94.0,106.0,9
+2020-03-10,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,105.0,95.0,105.0,10
+2020-03-10,NewHampshire,4bf58dd8d48988d13d941735,High Schools,118.0,126.0,117.0,11
+2020-03-10,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,103.0,112.0,102.0,12
+2020-03-10,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,96.0,85.0,97.0,13
+2020-03-10,NewHampshire,4bf58dd8d48988d124941735,Offices,83.0,87.0,83.0,14
+2020-03-10,NewHampshire,4bf58dd8d48988d196941735,Hospitals,87.0,71.0,88.0,15
+2020-03-10,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,113.0,99.0,113.0,16
+2020-03-10,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,101.0,117.0,100.0,17
+2020-03-10,NewHampshire,4bf58dd8d48988d161941735,Lakes,103.0,116.0,102.0,18
+2020-03-10,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,45.0,34.0,45.0,19
+2020-03-10,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,54.0,50.0,54.0,20
+2020-03-10,NewHampshire,4bf58dd8d48988d116941735,Bars,48.0,51.0,48.0,21
+2020-03-10,NewHampshire,4bf58dd8d48988d10a951735,Banks,100.0,113.0,99.0,22
+2020-03-10,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,104.0,113.0,103.0,23
+2020-03-10,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,128.0,146.0,127.0,24
+2020-03-10,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,91.0,72.0,92.0,25
+2020-03-10,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,116.0,102.0,116.0,26
+2020-03-10,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,94.0,"",95.0,27
+2020-03-10,NewHampshire,4bf58dd8d48988d176941735,Gyms,91.0,78.0,91.0,28
+2020-03-10,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,94.0,101.0,94.0,29
+2020-03-10,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,100.0,83.0,101.0,30
+2020-03-10,NewHampshire,4bf58dd8d48988d172941735,Post Offices,87.0,87.0,87.0,31
+2020-03-10,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,118.0,111.0,119.0,31
+2020-03-10,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,103.0,99.0,103.0,32
+2020-03-10,NewHampshire,4bf58dd8d48988d13b941735,Schools,16.0,"",16.0,32
+2020-03-10,NewHampshire,4bf58dd8d48988d163941735,Parks,110.0,"",111.0,33
+2020-03-10,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),88.0,"",87.0,34
+2020-03-10,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,12.0,14.0,11.0,35
+2020-03-10,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,35.0,"",35.0,36
+2020-03-10,NewHampshire,4bf58dd8d48988d1ae941735,Universities,82.0,"",82.0,37
+2020-03-10,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,106.0,115.0,106.0,38
+2020-03-10,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,95.0,112.0,95.0,39
+2020-03-10,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,102.0,126.0,100.0,40
+2020-03-10,NewHampshire,4bf58dd8d48988d16d941735,Cafés,100.0,114.0,99.0,41
+2020-03-10,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,93.0,"",93.0,42
+2020-03-10,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,101.0,"",101.0,43
+2020-03-10,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,76.0,"",76.0,44
+2020-03-10,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,109.0,"",110.0,45
+2020-03-10,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,94.0,72.0,96.0,46
+2020-03-10,NewHampshire,4bf58dd8d48988d15b941735,Farms,104.0,"",105.0,47
+2020-03-10,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,110.0,"",111.0,48
+2020-03-10,NewHampshire,4bf58dd8d48988d12f941735,Libraries,104.0,"",105.0,49
+2020-03-10,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,105.0,"",106.0,50
+2020-03-10,NewHampshire,4bf58dd8d48988d147941735,Diners,94.0,92.0,95.0,51
+2020-03-10,NewHampshire,4bf58dd8d48988d159941735,Trails,93.0,"",94.0,52
+2020-03-10,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,115.0,"",116.0,52
+2020-03-10,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,141.0,104.0,145.0,53
+2020-03-10,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,105.0,"",106.0,54
+2020-03-10,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,101.0,104.0,101.0,55
+2020-03-10,NewHampshire,4bf58dd8d48988d129941735,City Halls,109.0,"",110.0,56
+2020-03-10,NewHampshire,4bf58dd8d48988d11b941735,Pubs,110.0,"",111.0,57
+2020-03-10,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,120.0,"",122.0,58
+2020-03-10,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,58.0,"",58.0,59
+2020-03-10,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,131.0,"",131.0,60
+2020-03-10,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,104.0,"",104.0,60
+2020-03-10,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,34.0,"",34.0,61
+2020-03-10,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,114.0,"",117.0,62
+2020-03-10,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,121.0,"",119.0,63
+2020-03-10,NewHampshire,4d954af4a243a5684765b473,Veterinarians,105.0,"",104.0,64
+2020-03-10,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,82.0,"",82.0,65
+2020-03-10,NewHampshire,4c38df4de52ce0d596b336e1,Parking,90.0,"",90.0,66
+2020-03-10,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,95.0,"",95.0,66
+2020-03-10,NewHampshire,4bf58dd8d48988d1e8941735,Baseball Fields,140.0,"",138.0,67
+2020-03-10,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,117.0,"",120.0,68
+2020-03-10,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,93.0,"",94.0,68
+2020-03-10,NewHampshire,52e81612bcbc57f1066b7a34,Community Centers,170.0,"",171.0,69
+2020-03-10,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,105.0,"",105.0,70
+2020-03-10,NewHampshire,4bf58dd8d48988d12c941735,Fire Stations,121.0,"",119.0,70
+2020-03-11,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,98.0,94.0,98.0,1
+2020-03-11,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,95.0,101.0,95.0,2
+2020-03-11,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,92.0,99.0,3
+2020-03-11,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,101.0,94.0,101.0,4
+2020-03-11,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,95.0,94.0,95.0,5
+2020-03-11,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,88.0,94.0,88.0,6
+2020-03-11,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,88.0,76.0,89.0,6
+2020-03-11,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,111.0,116.0,111.0,7
+2020-03-11,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,95.0,96.0,95.0,8
+2020-03-11,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,99.0,109.0,99.0,9
+2020-03-11,NewHampshire,4bf58dd8d48988d13d941735,High Schools,111.0,108.0,111.0,10
+2020-03-11,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,87.0,89.0,87.0,11
+2020-03-11,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,93.0,92.0,93.0,12
+2020-03-11,NewHampshire,4bf58dd8d48988d196941735,Hospitals,80.0,82.0,80.0,13
+2020-03-11,NewHampshire,4bf58dd8d48988d124941735,Offices,77.0,84.0,77.0,14
+2020-03-11,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,91.0,83.0,92.0,15
+2020-03-11,NewHampshire,4bf58dd8d48988d116941735,Bars,50.0,45.0,50.0,16
+2020-03-11,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,93.0,94.0,93.0,17
+2020-03-11,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,43.0,41.0,43.0,18
+2020-03-11,NewHampshire,4bf58dd8d48988d161941735,Lakes,89.0,87.0,90.0,19
+2020-03-11,NewHampshire,4bf58dd8d48988d10a951735,Banks,103.0,96.0,104.0,20
+2020-03-11,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,50.0,40.0,50.0,21
+2020-03-11,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,98.0,99.0,98.0,22
+2020-03-11,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,108.0,98.0,108.0,23
+2020-03-11,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,98.0,90.0,98.0,24
+2020-03-11,NewHampshire,4bf58dd8d48988d176941735,Gyms,92.0,68.0,93.0,25
+2020-03-11,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,111.0,113.0,111.0,26
+2020-03-11,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,105.0,99.0,105.0,27
+2020-03-11,NewHampshire,4bf58dd8d48988d172941735,Post Offices,90.0,92.0,90.0,28
+2020-03-11,NewHampshire,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,29
+2020-03-11,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,71.0,"",72.0,30
+2020-03-11,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,94.0,76.0,95.0,31
+2020-03-11,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,115.0,"",114.0,32
+2020-03-11,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),94.0,112.0,93.0,33
+2020-03-11,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,101.0,"",103.0,34
+2020-03-11,NewHampshire,4bf58dd8d48988d163941735,Parks,103.0,116.0,103.0,35
+2020-03-11,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,157.0,146.0,158.0,36
+2020-03-11,NewHampshire,4bf58dd8d48988d1ae941735,Universities,78.0,"",78.0,37
+2020-03-11,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,88.0,87.0,89.0,38
+2020-03-11,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,95.0,102.0,95.0,39
+2020-03-11,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,104.0,108.0,104.0,40
+2020-03-11,NewHampshire,4bf58dd8d48988d159941735,Trails,102.0,89.0,103.0,41
+2020-03-11,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,99.0,"",99.0,41
+2020-03-11,NewHampshire,4bf58dd8d48988d15b941735,Farms,109.0,"",109.0,42
+2020-03-11,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,96.0,120.0,95.0,43
+2020-03-11,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,9.0,10.0,9.0,44
+2020-03-11,NewHampshire,4bf58dd8d48988d16d941735,Cafés,97.0,"",97.0,45
+2020-03-11,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,115.0,"",115.0,45
+2020-03-11,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,104.0,"",105.0,46
+2020-03-11,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,32.0,"",32.0,47
+2020-03-11,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,80.0,99.0,78.0,48
+2020-03-11,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,103.0,100.0,104.0,49
+2020-03-11,NewHampshire,4bf58dd8d48988d147941735,Diners,90.0,"",90.0,50
+2020-03-11,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,89.0,"",89.0,51
+2020-03-11,NewHampshire,4bf58dd8d48988d11b941735,Pubs,114.0,"",114.0,51
+2020-03-11,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,121.0,143.0,119.0,52
+2020-03-11,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,65.0,"",65.0,53
+2020-03-11,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,93.0,"",94.0,54
+2020-03-11,NewHampshire,4bf58dd8d48988d12f941735,Libraries,95.0,"",96.0,55
+2020-03-11,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,89.0,"",88.0,55
+2020-03-11,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,36.0,50.0,35.0,56
+2020-03-11,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,102.0,"",102.0,57
+2020-03-11,NewHampshire,4bf58dd8d48988d129941735,City Halls,110.0,"",112.0,58
+2020-03-11,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,118.0,"",119.0,58
+2020-03-11,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,86.0,"",88.0,59
+2020-03-11,NewHampshire,4d954af4a243a5684765b473,Veterinarians,100.0,"",100.0,60
+2020-03-11,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,93.0,"",92.0,61
+2020-03-11,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,43.0,"",43.0,62
+2020-03-11,NewHampshire,4c38df4de52ce0d596b336e1,Parking,91.0,"",92.0,63
+2020-03-11,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,81.0,"",80.0,63
+2020-03-11,NewHampshire,4bf58dd8d48988d1ed931735,Airports,68.0,"",68.0,64
+2020-03-11,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,101.0,"",102.0,65
+2020-03-11,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,78.0,"",81.0,66
+2020-03-12,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,135.0,128.0,135.0,1
+2020-03-12,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,121.0,125.0,120.0,2
+2020-03-12,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,100.0,105.0,100.0,3
+2020-03-12,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,129.0,108.0,131.0,4
+2020-03-12,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,101.0,97.0,101.0,5
+2020-03-12,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,101.0,99.0,101.0,6
+2020-03-12,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,90.0,84.0,90.0,7
+2020-03-12,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,115.0,120.0,114.0,8
+2020-03-12,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,109.0,133.0,108.0,9
+2020-03-12,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,115.0,122.0,115.0,10
+2020-03-12,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,99.0,94.0,100.0,11
+2020-03-12,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,101.0,97.0,101.0,12
+2020-03-12,NewHampshire,4bf58dd8d48988d196941735,Hospitals,89.0,81.0,90.0,13
+2020-03-12,NewHampshire,4bf58dd8d48988d13d941735,High Schools,147.0,161.0,147.0,14
+2020-03-12,NewHampshire,4bf58dd8d48988d124941735,Offices,77.0,71.0,78.0,15
+2020-03-12,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,98.0,94.0,98.0,16
+2020-03-12,NewHampshire,4bf58dd8d48988d116941735,Bars,53.0,53.0,53.0,17
+2020-03-12,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,95.0,110.0,94.0,18
+2020-03-12,NewHampshire,4bf58dd8d48988d10a951735,Banks,113.0,120.0,113.0,19
+2020-03-12,NewHampshire,4bf58dd8d48988d161941735,Lakes,100.0,109.0,99.0,20
+2020-03-12,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,43.0,42.0,43.0,21
+2020-03-12,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,49.0,46.0,49.0,22
+2020-03-12,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,107.0,113.0,107.0,23
+2020-03-12,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,102.0,97.0,102.0,24
+2020-03-12,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,95.0,84.0,95.0,25
+2020-03-12,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,160.0,"",162.0,25
+2020-03-12,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,117.0,113.0,117.0,26
+2020-03-12,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,244.0,248.0,243.0,27
+2020-03-12,NewHampshire,4bf58dd8d48988d172941735,Post Offices,109.0,117.0,109.0,28
+2020-03-12,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,125.0,107.0,126.0,29
+2020-03-12,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,75.0,"",75.0,30
+2020-03-12,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,102.0,102.0,102.0,31
+2020-03-12,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,122.0,124.0,121.0,32
+2020-03-12,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,106.0,96.0,106.0,33
+2020-03-12,NewHampshire,4bf58dd8d48988d176941735,Gyms,78.0,"",79.0,34
+2020-03-12,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),87.0,"",87.0,35
+2020-03-12,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,102.0,"",103.0,36
+2020-03-12,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,12.0,11.0,12.0,37
+2020-03-12,NewHampshire,4bf58dd8d48988d13b941735,Schools,24.0,"",24.0,38
+2020-03-12,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,138.0,"",138.0,39
+2020-03-12,NewHampshire,4bf58dd8d48988d163941735,Parks,98.0,"",98.0,40
+2020-03-12,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,96.0,"",96.0,41
+2020-03-12,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,110.0,"",109.0,42
+2020-03-12,NewHampshire,4bf58dd8d48988d16d941735,Cafés,95.0,"",95.0,43
+2020-03-12,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,114.0,"",115.0,44
+2020-03-12,NewHampshire,4bf58dd8d48988d1ae941735,Universities,73.0,"",73.0,45
+2020-03-12,NewHampshire,4bf58dd8d48988d147941735,Diners,100.0,106.0,99.0,46
+2020-03-12,NewHampshire,4bf58dd8d48988d15b941735,Farms,105.0,"",105.0,47
+2020-03-12,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,86.0,"",87.0,48
+2020-03-12,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,32.0,"",32.0,49
+2020-03-12,NewHampshire,4bf58dd8d48988d159941735,Trails,96.0,"",98.0,50
+2020-03-12,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,115.0,"",114.0,51
+2020-03-12,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,102.0,101.0,102.0,52
+2020-03-12,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,82.0,113.0,80.0,53
+2020-03-12,NewHampshire,4d954af4a243a5684765b473,Veterinarians,130.0,"",130.0,54
+2020-03-12,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,147.0,"",145.0,55
+2020-03-12,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,76.0,"",75.0,56
+2020-03-12,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,96.0,"",98.0,57
+2020-03-12,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,46.0,"",45.0,58
+2020-03-12,NewHampshire,4bf58dd8d48988d12f941735,Libraries,106.0,"",107.0,59
+2020-03-12,NewHampshire,4bf58dd8d48988d11b941735,Pubs,95.0,"",95.0,60
+2020-03-12,NewHampshire,4bf58dd8d48988d198941735,College Academic Buildings,61.0,"",61.0,60
+2020-03-12,NewHampshire,4c38df4de52ce0d596b336e1,Parking,102.0,"",102.0,61
+2020-03-12,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,5.0,"",5.0,61
+2020-03-12,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,109.0,"",110.0,62
+2020-03-12,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,108.0,"",109.0,63
+2020-03-12,NewHampshire,4bf58dd8d48988d129941735,City Halls,102.0,"",103.0,64
+2020-03-12,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,44.0,"",44.0,64
+2020-03-12,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,84.0,"",85.0,65
+2020-03-12,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,113.0,"",111.0,66
+2020-03-12,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,90.0,"",91.0,66
+2020-03-12,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,91.0,"",91.0,67
+2020-03-12,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,120.0,"",119.0,67
+2020-03-12,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,85.0,"",85.0,68
+2020-03-12,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,103.0,"",104.0,68
+2020-03-13,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,150.0,127.0,152.0,1
+2020-03-13,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,139.0,122.0,139.0,2
+2020-03-13,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,155.0,140.0,156.0,3
+2020-03-13,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,104.0,97.0,104.0,4
+2020-03-13,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,101.0,104.0,101.0,5
+2020-03-13,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,85.0,73.0,86.0,6
+2020-03-13,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,120.0,127.0,119.0,7
+2020-03-13,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,93.0,79.0,94.0,8
+2020-03-13,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,119.0,99.0,120.0,9
+2020-03-13,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,98.0,98.0,10
+2020-03-13,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,107.0,93.0,107.0,11
+2020-03-13,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,101.0,91.0,102.0,12
+2020-03-13,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,97.0,92.0,98.0,13
+2020-03-13,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,97.0,88.0,97.0,14
+2020-03-13,NewHampshire,4bf58dd8d48988d196941735,Hospitals,87.0,77.0,87.0,14
+2020-03-13,NewHampshire,4bf58dd8d48988d10a951735,Banks,107.0,100.0,108.0,15
+2020-03-13,NewHampshire,4bf58dd8d48988d116941735,Bars,50.0,33.0,51.0,16
+2020-03-13,NewHampshire,4bf58dd8d48988d13d941735,High Schools,95.0,95.0,95.0,17
+2020-03-13,NewHampshire,4bf58dd8d48988d124941735,Offices,80.0,68.0,80.0,18
+2020-03-13,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,123.0,90.0,125.0,19
+2020-03-13,NewHampshire,4bf58dd8d48988d161941735,Lakes,100.0,111.0,99.0,20
+2020-03-13,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,103.0,81.0,104.0,21
+2020-03-13,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,47.0,32.0,48.0,22
+2020-03-13,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,89.0,75.0,90.0,23
+2020-03-13,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,46.0,39.0,46.0,24
+2020-03-13,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,226.0,150.0,233.0,25
+2020-03-13,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,112.0,106.0,113.0,26
+2020-03-13,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,92.0,106.0,91.0,27
+2020-03-13,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,80.0,65.0,81.0,28
+2020-03-13,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,134.0,114.0,135.0,29
+2020-03-13,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,120.0,"",121.0,30
+2020-03-13,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,123.0,114.0,123.0,31
+2020-03-13,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,128.0,123.0,128.0,32
+2020-03-13,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,108.0,"",110.0,33
+2020-03-13,NewHampshire,4bf58dd8d48988d172941735,Post Offices,94.0,84.0,94.0,34
+2020-03-13,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,95.0,68.0,97.0,35
+2020-03-13,NewHampshire,4bf58dd8d48988d176941735,Gyms,92.0,75.0,93.0,36
+2020-03-13,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),85.0,"",85.0,37
+2020-03-13,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,93.0,"",93.0,38
+2020-03-13,NewHampshire,4bf58dd8d48988d13b941735,Schools,20.0,"",20.0,39
+2020-03-13,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,105.0,"",105.0,40
+2020-03-13,NewHampshire,4bf58dd8d48988d147941735,Diners,89.0,85.0,90.0,41
+2020-03-13,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,114.0,"",114.0,42
+2020-03-13,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,91.0,98.0,91.0,43
+2020-03-13,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,87.0,87.0,87.0,44
+2020-03-13,NewHampshire,4bf58dd8d48988d163941735,Parks,87.0,"",87.0,45
+2020-03-13,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,10.0,"",10.0,46
+2020-03-13,NewHampshire,4bf58dd8d48988d159941735,Trails,101.0,"",103.0,47
+2020-03-13,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,102.0,"",103.0,47
+2020-03-13,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,94.0,"",95.0,47
+2020-03-13,NewHampshire,4bf58dd8d48988d15b941735,Farms,105.0,"",106.0,48
+2020-03-13,NewHampshire,4bf58dd8d48988d16d941735,Cafés,84.0,"",84.0,49
+2020-03-13,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,96.0,"",95.0,50
+2020-03-13,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,126.0,"",125.0,51
+2020-03-13,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,31.0,"",31.0,52
+2020-03-13,NewHampshire,4bf58dd8d48988d11b941735,Pubs,100.0,"",101.0,52
+2020-03-13,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,101.0,"",104.0,53
+2020-03-13,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,104.0,"",106.0,54
+2020-03-13,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,96.0,"",97.0,55
+2020-03-13,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,48.0,"",48.0,56
+2020-03-13,NewHampshire,4bf58dd8d48988d1ae941735,Universities,54.0,"",54.0,57
+2020-03-13,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,58
+2020-03-13,NewHampshire,4bf58dd8d48988d12f941735,Libraries,102.0,"",103.0,58
+2020-03-13,NewHampshire,4d954af4a243a5684765b473,Veterinarians,109.0,"",108.0,59
+2020-03-13,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,80.0,"",80.0,60
+2020-03-13,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,81.0,"",81.0,61
+2020-03-13,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,108.0,"",109.0,62
+2020-03-13,NewHampshire,5744ccdfe4b0c0459246b4dc,Shopping Plazas,137.0,"",137.0,63
+2020-03-13,NewHampshire,4bf58dd8d48988d12f951735,Resorts,79.0,"",81.0,63
+2020-03-13,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,85.0,"",86.0,64
+2020-03-13,NewHampshire,4bf58dd8d48988d129941735,City Halls,102.0,"",101.0,65
+2020-03-13,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,28.0,"",28.0,66
+2020-03-13,NewHampshire,4c38df4de52ce0d596b336e1,Parking,92.0,"",92.0,67
+2020-03-13,NewHampshire,4d954b16a243a5684b65b473,Rest Areas,71.0,"",71.0,67
+2020-03-13,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,87.0,"",87.0,68
+2020-03-13,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,100.0,"",100.0,69
+2020-03-13,NewHampshire,4bf58dd8d48988d146941735,Delis / Bodegas,98.0,"",98.0,70
+2020-03-13,NewHampshire,4d954afda243a5684865b473,Optical Shops,142.0,"",142.0,70
+2020-03-13,NewHampshire,4f2a210c4b9023bd5841ed28,Housing Developments,120.0,"",122.0,70
+2020-03-13,NewHampshire,4bf58dd8d48988d17f941735,Movie Theaters,92.0,"",93.0,71
+2020-03-14,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,93.0,107.0,1
+2020-03-14,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,126.0,114.0,127.0,2
+2020-03-14,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,125.0,110.0,126.0,3
+2020-03-14,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,95.0,93.0,95.0,4
+2020-03-14,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,127.0,109.0,128.0,5
+2020-03-14,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,72.0,68.0,72.0,6
+2020-03-14,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,85.0,78.0,85.0,7
+2020-03-14,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,123.0,127.0,123.0,8
+2020-03-14,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,91.0,84.0,91.0,9
+2020-03-14,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,73.0,83.0,10
+2020-03-14,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,88.0,79.0,88.0,11
+2020-03-14,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,69.0,58.0,69.0,12
+2020-03-14,NewHampshire,4bf58dd8d48988d116941735,Bars,46.0,36.0,46.0,13
+2020-03-14,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,76.0,70.0,76.0,14
+2020-03-14,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,102.0,88.0,102.0,15
+2020-03-14,NewHampshire,4bf58dd8d48988d161941735,Lakes,89.0,95.0,89.0,16
+2020-03-14,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,86.0,76.0,86.0,17
+2020-03-14,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,116.0,122.0,116.0,18
+2020-03-14,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,36.0,27.0,36.0,19
+2020-03-14,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,135.0,116.0,136.0,20
+2020-03-14,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,77.0,76.0,77.0,21
+2020-03-14,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,131.0,103.0,133.0,22
+2020-03-14,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,60.0,"",60.0,23
+2020-03-14,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,45.0,"",45.0,24
+2020-03-14,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,87.0,73.0,88.0,25
+2020-03-14,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,32.0,"",32.0,26
+2020-03-14,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,100.0,"",101.0,27
+2020-03-14,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,112.0,"",113.0,28
+2020-03-14,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),93.0,"",94.0,29
+2020-03-14,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,89.0,82.0,90.0,30
+2020-03-14,NewHampshire,4bf58dd8d48988d163941735,Parks,103.0,"",104.0,31
+2020-03-14,NewHampshire,4bf58dd8d48988d10a951735,Banks,75.0,"",75.0,32
+2020-03-14,NewHampshire,4bf58dd8d48988d159941735,Trails,105.0,"",105.0,33
+2020-03-14,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,83.0,"",83.0,34
+2020-03-14,NewHampshire,4bf58dd8d48988d147941735,Diners,78.0,"",78.0,35
+2020-03-14,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,71.0,"",71.0,36
+2020-03-14,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,44.0,"",44.0,37
+2020-03-14,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,87.0,"",87.0,38
+2020-03-14,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,71.0,"",70.0,39
+2020-03-14,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,89.0,"",89.0,40
+2020-03-14,NewHampshire,4bf58dd8d48988d15b941735,Farms,111.0,"",111.0,40
+2020-03-14,NewHampshire,4bf58dd8d48988d172941735,Post Offices,95.0,93.0,95.0,41
+2020-03-14,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,87.0,"",87.0,42
+2020-03-14,NewHampshire,4bf58dd8d48988d124941735,Offices,92.0,"",92.0,43
+2020-03-14,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,116.0,"",118.0,44
+2020-03-14,NewHampshire,4bf58dd8d48988d16d941735,Cafés,81.0,"",81.0,44
+2020-03-14,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,94.0,"",94.0,45
+2020-03-14,NewHampshire,4bf58dd8d48988d13d941735,High Schools,57.0,"",56.0,46
+2020-03-14,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,83.0,"",83.0,47
+2020-03-14,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,98.0,"",99.0,48
+2020-03-14,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,108.0,"",109.0,49
+2020-03-14,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,92.0,"",93.0,50
+2020-03-14,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,99.0,"",99.0,51
+2020-03-14,NewHampshire,4bf58dd8d48988d196941735,Hospitals,66.0,"",66.0,52
+2020-03-14,NewHampshire,4bf58dd8d48988d11b941735,Pubs,80.0,"",81.0,53
+2020-03-14,NewHampshire,4bf58dd8d48988d12f951735,Resorts,66.0,"",66.0,54
+2020-03-14,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,79.0,"",79.0,55
+2020-03-14,NewHampshire,4bf58dd8d48988d176941735,Gyms,64.0,"",64.0,56
+2020-03-14,NewHampshire,5744ccdfe4b0c0459246b4dc,Shopping Plazas,111.0,"",112.0,57
+2020-03-14,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,86.0,"",86.0,58
+2020-03-14,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,75.0,"",76.0,59
+2020-03-14,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,101.0,"",102.0,60
+2020-03-14,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,89.0,"",90.0,61
+2020-03-14,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,61
+2020-03-14,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,70.0,"",71.0,62
+2020-03-14,NewHampshire,4bf58dd8d48988d16c941735,Burger Joints,73.0,"",74.0,63
+2020-03-14,NewHampshire,4bf58dd8d48988d17f941735,Movie Theaters,63.0,"",63.0,64
+2020-03-14,NewHampshire,4bf58dd8d48988d1eb941735,Ski Lodges,54.0,"",54.0,64
+2020-03-14,NewHampshire,4bf58dd8d48988d121951735,Paper / Office Supplies Stores,146.0,"",151.0,64
+2020-03-14,NewHampshire,4bf58dd8d48988d171941735,Event Spaces,93.0,"",94.0,65
+2020-03-14,NewHampshire,4bf58dd8d48988d10c951735,Cosmetics Shops,91.0,"",91.0,66
+2020-03-14,NewHampshire,52f2ab2ebcbc57f1066b8b1c,Fruit & Vegetable Stores,114.0,"",115.0,67
+2020-03-14,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,71.0,"",71.0,68
+2020-03-14,NewHampshire,4bf58dd8d48988d128951735,Gift Shops,79.0,"",78.0,69
+2020-03-14,NewHampshire,5744ccdfe4b0c0459246b4df,Outlet Malls,91.0,"",91.0,69
+2020-03-14,NewHampshire,4bf58dd8d48988d12f941735,Libraries,92.0,"",90.0,70
+2020-03-14,NewHampshire,4f4531084b9074f6e4fb0101,Recycling Facilities,140.0,"",138.0,71
+2020-03-14,NewHampshire,5370f356bcbc57f1066c94c2,Beer Stores,129.0,"",128.0,71
+2020-03-14,NewHampshire,4bf58dd8d48988d142941735,Asian Restaurants,16.0,"",16.0,71
+2020-03-14,NewHampshire,4c38df4de52ce0d596b336e1,Parking,73.0,"",73.0,72
+2020-03-15,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,95.0,105.0,1
+2020-03-15,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,92.0,93.0,2
+2020-03-15,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,102.0,98.0,103.0,3
+2020-03-15,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,89.0,81.0,90.0,4
+2020-03-15,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,74.0,71.0,74.0,5
+2020-03-15,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,114.0,105.0,115.0,6
+2020-03-15,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,86.0,81.0,86.0,7
+2020-03-15,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,91.0,75.0,92.0,8
+2020-03-15,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,121.0,97.0,122.0,9
+2020-03-15,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,87.0,73.0,87.0,10
+2020-03-15,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,77.0,73.0,77.0,11
+2020-03-15,NewHampshire,4bf58dd8d48988d116941735,Bars,40.0,37.0,40.0,12
+2020-03-15,NewHampshire,4bf58dd8d48988d161941735,Lakes,84.0,77.0,85.0,12
+2020-03-15,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,65.0,"",65.0,13
+2020-03-15,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,68.0,59.0,69.0,14
+2020-03-15,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,35.0,34.0,35.0,15
+2020-03-15,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,95.0,100.0,95.0,16
+2020-03-15,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,84.0,"",85.0,17
+2020-03-15,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,123.0,"",124.0,18
+2020-03-15,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,111.0,143.0,110.0,19
+2020-03-15,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,71.0,"",70.0,20
+2020-03-15,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,65.0,"",64.0,21
+2020-03-15,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,93.0,"",94.0,22
+2020-03-15,NewHampshire,4bf58dd8d48988d1e9941735,Ski Areas,29.0,"",29.0,23
+2020-03-15,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,107.0,"",109.0,24
+2020-03-15,NewHampshire,4bf58dd8d48988d159941735,Trails,99.0,"",99.0,25
+2020-03-15,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,76.0,93.0,75.0,26
+2020-03-15,NewHampshire,4bf58dd8d48988d163941735,Parks,95.0,"",95.0,27
+2020-03-15,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,92.0,"",92.0,28
+2020-03-15,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),85.0,"",85.0,29
+2020-03-15,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,38.0,"",38.0,30
+2020-03-15,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,95.0,"",95.0,31
+2020-03-15,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,90.0,"",89.0,32
+2020-03-15,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,72.0,"",72.0,33
+2020-03-15,NewHampshire,4bf58dd8d48988d15b941735,Farms,88.0,"",88.0,34
+2020-03-15,NewHampshire,4bf58dd8d48988d16d941735,Cafés,78.0,"",78.0,34
+2020-03-15,NewHampshire,4bf58dd8d48988d147941735,Diners,59.0,"",60.0,35
+2020-03-15,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,63.0,"",64.0,35
+2020-03-15,NewHampshire,4bf58dd8d48988d10a951735,Banks,94.0,"",94.0,35
+2020-03-15,NewHampshire,4bf58dd8d48988d11b941735,Pubs,77.0,"",77.0,36
+2020-03-15,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,96.0,"",96.0,37
+2020-03-15,NewHampshire,4bf58dd8d48988d196941735,Hospitals,66.0,"",67.0,38
+2020-03-15,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,79.0,"",81.0,39
+2020-03-15,NewHampshire,4bf58dd8d48988d13d941735,High Schools,64.0,"",64.0,40
+2020-03-15,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,139.0,"",140.0,41
+2020-03-15,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,85.0,"",85.0,42
+2020-03-15,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,94.0,"",94.0,43
+2020-03-15,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,116.0,"",117.0,44
+2020-03-15,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,56.0,"",56.0,45
+2020-03-15,NewHampshire,4bf58dd8d48988d103951735,Clothing Stores,31.0,"",31.0,46
+2020-03-15,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,80.0,"",82.0,46
+2020-03-15,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,65.0,"",66.0,47
+2020-03-15,NewHampshire,4bf58dd8d48988d124941735,Offices,70.0,"",70.0,47
+2020-03-15,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,71.0,"",72.0,48
+2020-03-15,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,67.0,"",66.0,49
+2020-03-15,NewHampshire,4bf58dd8d48988d176941735,Gyms,62.0,"",63.0,50
+2020-03-15,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,82.0,"",82.0,51
+2020-03-15,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,63.0,"",64.0,52
+2020-03-15,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,53
+2020-03-15,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,74.0,"",74.0,54
+2020-03-16,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,149.0,141.0,150.0,1
+2020-03-16,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,123.0,123.0,123.0,2
+2020-03-16,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,144.0,162.0,143.0,3
+2020-03-16,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,96.0,88.0,96.0,4
+2020-03-16,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,100.0,110.0,100.0,5
+2020-03-16,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,115.0,102.0,116.0,6
+2020-03-16,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,126.0,103.0,127.0,7
+2020-03-16,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,94.0,87.0,94.0,8
+2020-03-16,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,77.0,57.0,78.0,9
+2020-03-16,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,90.0,80.0,90.0,10
+2020-03-16,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,94.0,79.0,95.0,11
+2020-03-16,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,98.0,80.0,98.0,12
+2020-03-16,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,80.0,78.0,80.0,13
+2020-03-16,NewHampshire,4bf58dd8d48988d10a951735,Banks,112.0,112.0,112.0,14
+2020-03-16,NewHampshire,4bf58dd8d48988d124941735,Offices,66.0,76.0,66.0,15
+2020-03-16,NewHampshire,4bf58dd8d48988d196941735,Hospitals,67.0,53.0,68.0,15
+2020-03-16,NewHampshire,4bf58dd8d48988d161941735,Lakes,90.0,95.0,90.0,16
+2020-03-16,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,150.0,134.0,152.0,17
+2020-03-16,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,78.0,99.0,77.0,18
+2020-03-16,NewHampshire,4bf58dd8d48988d116941735,Bars,44.0,40.0,44.0,19
+2020-03-16,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,104.0,109.0,104.0,20
+2020-03-16,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,40.0,"",41.0,20
+2020-03-16,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,105.0,101.0,105.0,21
+2020-03-16,NewHampshire,4bf58dd8d48988d172941735,Post Offices,107.0,88.0,108.0,21
+2020-03-16,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,89.0,79.0,90.0,22
+2020-03-16,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,196.0,135.0,203.0,23
+2020-03-16,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,30.0,"",30.0,24
+2020-03-16,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,105.0,100.0,105.0,25
+2020-03-16,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,68.0,51.0,69.0,26
+2020-03-16,NewHampshire,4bf58dd8d48988d13d941735,High Schools,52.0,"",52.0,26
+2020-03-16,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,114.0,"",115.0,27
+2020-03-16,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),90.0,135.0,88.0,28
+2020-03-16,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,71.0,"",71.0,29
+2020-03-16,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,97.0,"",97.0,30
+2020-03-16,NewHampshire,4bf58dd8d48988d163941735,Parks,96.0,"",96.0,31
+2020-03-16,NewHampshire,4bf58dd8d48988d159941735,Trails,106.0,93.0,107.0,32
+2020-03-16,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,100.0,"",101.0,33
+2020-03-16,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,119.0,202.0,115.0,34
+2020-03-16,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,9.0,"",10.0,35
+2020-03-16,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,108.0,"",108.0,36
+2020-03-16,NewHampshire,4bf58dd8d48988d15b941735,Farms,111.0,"",112.0,37
+2020-03-16,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,99.0,"",99.0,38
+2020-03-16,NewHampshire,4bf58dd8d48988d176941735,Gyms,59.0,"",59.0,38
+2020-03-16,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,34.0,"",34.0,39
+2020-03-16,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,91.0,"",91.0,40
+2020-03-16,NewHampshire,4bf58dd8d48988d13b941735,Schools,13.0,"",13.0,41
+2020-03-16,NewHampshire,4bf58dd8d48988d16d941735,Cafés,74.0,"",73.0,42
+2020-03-16,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,73.0,86.0,73.0,43
+2020-03-16,NewHampshire,4bf58dd8d48988d147941735,Diners,73.0,"",73.0,44
+2020-03-16,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,97.0,"",97.0,45
+2020-03-16,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,52.0,"",52.0,46
+2020-03-16,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,143.0,"",143.0,47
+2020-03-16,NewHampshire,4d954af4a243a5684765b473,Veterinarians,114.0,"",115.0,48
+2020-03-16,NewHampshire,4bf58dd8d48988d129941735,City Halls,120.0,"",120.0,49
+2020-03-16,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,121.0,"",122.0,50
+2020-03-16,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,87.0,"",89.0,50
+2020-03-16,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,89.0,"",90.0,51
+2020-03-16,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,81.0,"",79.0,52
+2020-03-16,NewHampshire,4bf58dd8d48988d11b941735,Pubs,99.0,"",99.0,53
+2020-03-16,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,81.0,"",81.0,54
+2020-03-16,NewHampshire,4bf58dd8d48988d1cc941735,Steakhouses,101.0,"",100.0,55
+2020-03-16,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,70.0,"",70.0,56
+2020-03-16,NewHampshire,4bf58dd8d48988d122951735,Electronics Stores,107.0,"",108.0,57
+2020-03-16,NewHampshire,4bf58dd8d48988d1f2941735,Sporting Goods Shops,84.0,"",85.0,57
+2020-03-16,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,74.0,"",75.0,58
+2020-03-16,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,58
+2020-03-16,NewHampshire,4bf58dd8d48988d16a941735,Bakeries,72.0,"",72.0,59
+2020-03-17,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,131.0,107.0,133.0,1
+2020-03-17,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,116.0,93.0,117.0,2
+2020-03-17,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,133.0,115.0,135.0,3
+2020-03-17,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,82.0,76.0,82.0,4
+2020-03-17,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,87.0,70.0,88.0,5
+2020-03-17,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,83.0,71.0,83.0,6
+2020-03-17,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,103.0,83.0,104.0,7
+2020-03-17,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,98.0,89.0,99.0,8
+2020-03-17,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,80.0,77.0,81.0,9
+2020-03-17,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,67.0,58.0,68.0,10
+2020-03-17,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,49.0,40.0,50.0,11
+2020-03-17,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,67.0,48.0,68.0,12
+2020-03-17,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,78.0,62.0,78.0,13
+2020-03-17,NewHampshire,4bf58dd8d48988d196941735,Hospitals,55.0,47.0,55.0,14
+2020-03-17,NewHampshire,4bf58dd8d48988d124941735,Offices,51.0,47.0,51.0,14
+2020-03-17,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,156.0,144.0,156.0,15
+2020-03-17,NewHampshire,4bf58dd8d48988d10a951735,Banks,85.0,90.0,84.0,16
+2020-03-17,NewHampshire,4bf58dd8d48988d161941735,Lakes,77.0,95.0,76.0,16
+2020-03-17,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,39.0,35.0,39.0,17
+2020-03-17,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,60.0,58.0,60.0,18
+2020-03-17,NewHampshire,4bf58dd8d48988d116941735,Bars,31.0,"",32.0,19
+2020-03-17,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,26.0,"",26.0,20
+2020-03-17,NewHampshire,4bf58dd8d48988d13d941735,High Schools,35.0,"",35.0,21
+2020-03-17,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,71.0,"",71.0,22
+2020-03-17,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),79.0,"",79.0,22
+2020-03-17,NewHampshire,4bf58dd8d48988d172941735,Post Offices,71.0,63.0,72.0,23
+2020-03-17,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,59.0,"",60.0,24
+2020-03-17,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,96.0,"",97.0,24
+2020-03-17,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,180.0,142.0,184.0,25
+2020-03-17,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,73.0,"",74.0,26
+2020-03-17,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,77.0,"",77.0,26
+2020-03-17,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,80.0,"",82.0,27
+2020-03-17,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,90.0,102.0,90.0,28
+2020-03-17,NewHampshire,4bf58dd8d48988d163941735,Parks,80.0,"",81.0,29
+2020-03-17,NewHampshire,4bf58dd8d48988d159941735,Trails,97.0,"",99.0,30
+2020-03-17,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,72.0,"",73.0,31
+2020-03-17,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,99.0,"",100.0,32
+2020-03-17,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,49.0,"",49.0,33
+2020-03-17,NewHampshire,4bf58dd8d48988d176941735,Gyms,50.0,"",50.0,34
+2020-03-17,NewHampshire,4bf58dd8d48988d15b941735,Farms,99.0,"",100.0,34
+2020-03-17,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,42.0,"",42.0,35
+2020-03-17,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,7.0,"",7.0,36
+2020-03-17,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,95.0,"",95.0,37
+2020-03-17,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,21.0,"",21.0,38
+2020-03-17,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,57.0,"",57.0,39
+2020-03-17,NewHampshire,4bf58dd8d48988d13b941735,Schools,8.0,"",8.0,40
+2020-03-17,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,78.0,"",79.0,41
+2020-03-17,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,81.0,"",82.0,41
+2020-03-17,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,61.0,"",62.0,42
+2020-03-17,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,44.0,"",44.0,42
+2020-03-17,NewHampshire,4bf58dd8d48988d16d941735,Cafés,57.0,"",57.0,43
+2020-03-17,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,77.0,"",80.0,44
+2020-03-17,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,45
+2020-03-17,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,83.0,"",84.0,46
+2020-03-18,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,88.0,104.0,1
+2020-03-18,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,109.0,96.0,110.0,2
+2020-03-18,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,83.0,73.0,83.0,3
+2020-03-18,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,117.0,101.0,118.0,4
+2020-03-18,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,83.0,74.0,83.0,5
+2020-03-18,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,108.0,86.0,110.0,6
+2020-03-18,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,80.0,77.0,80.0,7
+2020-03-18,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,99.0,96.0,99.0,8
+2020-03-18,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,72.0,75.0,72.0,9
+2020-03-18,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,67.0,67.0,67.0,10
+2020-03-18,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,85.0,82.0,86.0,11
+2020-03-18,NewHampshire,4bf58dd8d48988d161941735,Lakes,105.0,110.0,104.0,12
+2020-03-18,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,45.0,37.0,45.0,13
+2020-03-18,NewHampshire,4bf58dd8d48988d124941735,Offices,52.0,49.0,53.0,14
+2020-03-18,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,58.0,65.0,58.0,15
+2020-03-18,NewHampshire,4bf58dd8d48988d196941735,Hospitals,49.0,36.0,50.0,16
+2020-03-18,NewHampshire,4bf58dd8d48988d10a951735,Banks,79.0,99.0,78.0,17
+2020-03-18,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,36.0,"",36.0,18
+2020-03-18,NewHampshire,4bf58dd8d48988d163941735,Parks,123.0,128.0,123.0,19
+2020-03-18,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,117.0,109.0,117.0,20
+2020-03-18,NewHampshire,4bf58dd8d48988d172941735,Post Offices,85.0,91.0,85.0,21
+2020-03-18,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,78.0,"",79.0,22
+2020-03-18,NewHampshire,4bf58dd8d48988d159941735,Trails,119.0,104.0,120.0,23
+2020-03-18,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,74.0,"",74.0,24
+2020-03-18,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,53.0,64.0,52.0,25
+2020-03-18,NewHampshire,4bf58dd8d48988d13d941735,High Schools,42.0,"",42.0,26
+2020-03-18,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,87.0,97.0,86.0,27
+2020-03-18,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,83.0,"",83.0,28
+2020-03-18,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),80.0,"",80.0,29
+2020-03-18,NewHampshire,4bf58dd8d48988d116941735,Bars,24.0,"",24.0,30
+2020-03-18,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,135.0,82.0,140.0,31
+2020-03-18,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,141.0,133.0,142.0,32
+2020-03-18,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,50.0,43.0,50.0,33
+2020-03-18,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,90.0,"",90.0,34
+2020-03-18,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,51.0,"",51.0,35
+2020-03-18,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,77.0,"",78.0,36
+2020-03-18,NewHampshire,4bf58dd8d48988d15b941735,Farms,94.0,"",93.0,37
+2020-03-18,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,90.0,"",90.0,38
+2020-03-18,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,103.0,102.0,104.0,39
+2020-03-18,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,17.0,"",17.0,39
+2020-03-18,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,7.0,"",8.0,40
+2020-03-18,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,57.0,"",57.0,41
+2020-03-18,NewHampshire,4bf58dd8d48988d13b941735,Schools,11.0,"",11.0,42
+2020-03-18,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,25.0,"",25.0,43
+2020-03-18,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,89.0,"",89.0,44
+2020-03-18,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,68.0,"",68.0,45
+2020-03-18,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,57.0,"",56.0,46
+2020-03-18,NewHampshire,4bf58dd8d48988d176941735,Gyms,41.0,"",41.0,47
+2020-03-18,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,80.0,"",80.0,48
+2020-03-18,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,99.0,"",100.0,49
+2020-03-18,NewHampshire,4bf58dd8d48988d16d941735,Cafés,66.0,"",67.0,50
+2020-03-18,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,58.0,"",59.0,51
+2020-03-18,NewHampshire,4f4533814b9074f6e4fb0106,Middle Schools,57.0,"",56.0,52
+2020-03-18,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,4.0,"",4.0,53
+2020-03-18,NewHampshire,4eb1bea83b7b6f98df247e06,Factories,93.0,"",94.0,54
+2020-03-18,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,83.0,"",84.0,55
+2020-03-18,NewHampshire,4d954af4a243a5684765b473,Veterinarians,93.0,"",93.0,56
+2020-03-18,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,108.0,"",108.0,57
+2020-03-18,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,82.0,"",84.0,58
+2020-03-18,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,113.0,"",115.0,59
+2020-03-19,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,117.0,97.0,119.0,1
+2020-03-19,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,100.0,100.0,100.0,2
+2020-03-19,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,75.0,78.0,75.0,3
+2020-03-19,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,113.0,103.0,113.0,3
+2020-03-19,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,77.0,81.0,77.0,4
+2020-03-19,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,101.0,79.0,103.0,5
+2020-03-19,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,74.0,75.0,74.0,6
+2020-03-19,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,88.0,77.0,89.0,7
+2020-03-19,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,69.0,77.0,68.0,8
+2020-03-19,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,60.0,63.0,60.0,9
+2020-03-19,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,39.0,31.0,39.0,10
+2020-03-19,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,75.0,77.0,74.0,11
+2020-03-19,NewHampshire,4bf58dd8d48988d124941735,Offices,50.0,51.0,50.0,12
+2020-03-19,NewHampshire,4bf58dd8d48988d161941735,Lakes,79.0,97.0,78.0,13
+2020-03-19,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,54.0,45.0,54.0,14
+2020-03-19,NewHampshire,4bf58dd8d48988d10a951735,Banks,84.0,92.0,84.0,15
+2020-03-19,NewHampshire,4bf58dd8d48988d196941735,Hospitals,47.0,40.0,47.0,16
+2020-03-19,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,111.0,75.0,114.0,17
+2020-03-19,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,158.0,125.0,161.0,18
+2020-03-19,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),74.0,"",73.0,18
+2020-03-19,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,26.0,"",27.0,19
+2020-03-19,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,59.0,"",59.0,20
+2020-03-19,NewHampshire,4bf58dd8d48988d13d941735,High Schools,52.0,"",52.0,21
+2020-03-19,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,59.0,"",59.0,22
+2020-03-19,NewHampshire,4bf58dd8d48988d172941735,Post Offices,72.0,76.0,71.0,23
+2020-03-19,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,42.0,"",42.0,24
+2020-03-19,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,67.0,"",67.0,25
+2020-03-19,NewHampshire,4bf58dd8d48988d163941735,Parks,79.0,"",79.0,26
+2020-03-19,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,91.0,"",93.0,26
+2020-03-19,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,83.0,"",83.0,27
+2020-03-19,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,64.0,79.0,64.0,28
+2020-03-19,NewHampshire,4bf58dd8d48988d116941735,Bars,19.0,"",19.0,29
+2020-03-19,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,91.0,"",92.0,30
+2020-03-19,NewHampshire,4bf58dd8d48988d159941735,Trails,84.0,"",86.0,31
+2020-03-19,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,63.0,"",63.0,32
+2020-03-19,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,16.0,"",16.0,33
+2020-03-19,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,39.0,"",40.0,34
+2020-03-19,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,37.0,"",36.0,35
+2020-03-19,NewHampshire,4bf58dd8d48988d15b941735,Farms,75.0,"",75.0,36
+2020-03-19,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,55.0,"",55.0,37
+2020-03-19,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,58.0,"",58.0,38
+2020-03-19,NewHampshire,4bf58dd8d48988d176941735,Gyms,39.0,"",39.0,39
+2020-03-19,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,6.0,"",6.0,39
+2020-03-19,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,109.0,"",110.0,40
+2020-03-19,NewHampshire,4d954af4a243a5684765b473,Veterinarians,86.0,"",87.0,41
+2020-03-19,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,49.0,"",49.0,42
+2020-03-19,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,51.0,"",51.0,43
+2020-03-20,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,121.0,98.0,122.0,1
+2020-03-20,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,93.0,109.0,2
+2020-03-20,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,127.0,117.0,128.0,3
+2020-03-20,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,80.0,71.0,80.0,4
+2020-03-20,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,80.0,71.0,81.0,5
+2020-03-20,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,114.0,91.0,115.0,6
+2020-03-20,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,95.0,91.0,95.0,7
+2020-03-20,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,78.0,82.0,78.0,8
+2020-03-20,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,74.0,73.0,74.0,9
+2020-03-20,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,67.0,65.0,67.0,10
+2020-03-20,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,37.0,32.0,37.0,11
+2020-03-20,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,81.0,58.0,83.0,12
+2020-03-20,NewHampshire,4bf58dd8d48988d161941735,Lakes,103.0,113.0,103.0,13
+2020-03-20,NewHampshire,4bf58dd8d48988d10a951735,Banks,77.0,69.0,77.0,14
+2020-03-20,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,62.0,62.0,62.0,15
+2020-03-20,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,94.0,83.0,94.0,16
+2020-03-20,NewHampshire,4bf58dd8d48988d124941735,Offices,57.0,54.0,57.0,17
+2020-03-20,NewHampshire,4bf58dd8d48988d196941735,Hospitals,50.0,35.0,51.0,18
+2020-03-20,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,162.0,115.0,166.0,19
+2020-03-20,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,77.0,"",77.0,20
+2020-03-20,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,61.0,"",61.0,21
+2020-03-20,NewHampshire,4bf58dd8d48988d172941735,Post Offices,80.0,75.0,80.0,22
+2020-03-20,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,27.0,"",27.0,23
+2020-03-20,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,80.0,75.0,81.0,24
+2020-03-20,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,42.0,"",42.0,25
+2020-03-20,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,55.0,"",55.0,26
+2020-03-20,NewHampshire,4bf58dd8d48988d163941735,Parks,96.0,101.0,96.0,26
+2020-03-20,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,91.0,"",91.0,27
+2020-03-20,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,94.0,"",94.0,28
+2020-03-20,NewHampshire,4bf58dd8d48988d159941735,Trails,112.0,89.0,113.0,29
+2020-03-20,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,82.0,"",82.0,30
+2020-03-20,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,44.0,"",45.0,31
+2020-03-20,NewHampshire,4bf58dd8d48988d13d941735,High Schools,35.0,"",34.0,32
+2020-03-20,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),61.0,"",61.0,33
+2020-03-20,NewHampshire,4bf58dd8d48988d116941735,Bars,19.0,"",19.0,34
+2020-03-20,NewHampshire,4bf58dd8d48988d15b941735,Farms,95.0,"",94.0,35
+2020-03-20,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,78.0,"",78.0,36
+2020-03-20,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,98.0,"",100.0,37
+2020-03-20,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,59.0,"",60.0,38
+2020-03-20,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,117.0,"",117.0,39
+2020-03-20,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,56.0,"",54.0,40
+2020-03-20,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,32.0,"",33.0,41
+2020-03-20,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,17.0,"",17.0,42
+2020-03-20,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,96.0,"",94.0,43
+2020-03-20,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,102.0,"",102.0,44
+2020-03-20,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,76.0,"",77.0,45
+2020-03-20,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,52.0,"",53.0,46
+2020-03-20,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,7.0,"",7.0,47
+2020-03-20,NewHampshire,4bf58dd8d48988d16d941735,Cafés,55.0,"",56.0,48
+2020-03-20,NewHampshire,4bf58dd8d48988d13b941735,Schools,10.0,"",10.0,49
+2020-03-20,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,21.0,"",21.0,50
+2020-03-20,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,58.0,"",58.0,51
+2020-03-20,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,45.0,"",46.0,51
+2020-03-20,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,52
+2020-03-20,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,66.0,"",65.0,52
+2020-03-20,NewHampshire,4bf58dd8d48988d176941735,Gyms,37.0,"",37.0,53
+2020-03-20,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,106.0,"",106.0,54
+2020-03-20,NewHampshire,4d954af4a243a5684765b473,Veterinarians,80.0,"",80.0,54
+2020-03-21,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,85.0,77.0,85.0,1
+2020-03-21,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,84.0,101.0,2
+2020-03-21,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,96.0,83.0,97.0,3
+2020-03-21,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,74.0,75.0,74.0,4
+2020-03-21,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,114.0,100.0,115.0,5
+2020-03-21,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,69.0,66.0,69.0,6
+2020-03-21,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,71.0,71.0,71.0,7
+2020-03-21,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,86.0,72.0,87.0,8
+2020-03-21,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,66.0,56.0,67.0,9
+2020-03-21,NewHampshire,4bf58dd8d48988d161941735,Lakes,89.0,95.0,89.0,10
+2020-03-21,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,50.0,45.0,50.0,11
+2020-03-21,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,25.0,24.0,25.0,12
+2020-03-21,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,83.0,78.0,83.0,13
+2020-03-21,NewHampshire,4bf58dd8d48988d159941735,Trails,128.0,104.0,129.0,14
+2020-03-21,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,86.0,82.0,86.0,15
+2020-03-21,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,80.0,70.0,81.0,16
+2020-03-21,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,96.0,"",97.0,17
+2020-03-21,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,28.0,41.0,28.0,18
+2020-03-21,NewHampshire,4bf58dd8d48988d10a951735,Banks,71.0,78.0,70.0,19
+2020-03-21,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,48.0,"",48.0,20
+2020-03-21,NewHampshire,4bf58dd8d48988d163941735,Parks,91.0,"",92.0,21
+2020-03-21,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,78.0,"",78.0,22
+2020-03-21,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,124.0,"",126.0,23
+2020-03-21,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,42.0,"",42.0,24
+2020-03-21,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),70.0,"",71.0,25
+2020-03-21,NewHampshire,4bf58dd8d48988d15b941735,Farms,99.0,"",99.0,26
+2020-03-21,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,64.0,"",65.0,27
+2020-03-21,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,16.0,"",16.0,28
+2020-03-21,NewHampshire,4bf58dd8d48988d116941735,Bars,15.0,"",14.0,29
+2020-03-21,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,67.0,"",68.0,30
+2020-03-21,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,31.0,"",31.0,31
+2020-03-21,NewHampshire,4bf58dd8d48988d172941735,Post Offices,76.0,"",75.0,32
+2020-03-21,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,84.0,"",85.0,33
+2020-03-21,NewHampshire,4bf58dd8d48988d124941735,Offices,73.0,"",74.0,34
+2020-03-21,NewHampshire,4bf58dd8d48988d196941735,Hospitals,59.0,"",58.0,35
+2020-03-21,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,89.0,"",91.0,36
+2020-03-21,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,21.0,"",20.0,37
+2020-03-21,NewHampshire,4bf58dd8d48988d13d941735,High Schools,41.0,"",41.0,38
+2020-03-21,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,69.0,"",71.0,39
+2020-03-21,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,45.0,"",45.0,40
+2020-03-21,NewHampshire,4bf58dd8d48988d16d941735,Cafés,53.0,"",54.0,41
+2020-03-21,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,54.0,"",54.0,41
+2020-03-21,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,72.0,"",73.0,42
+2020-03-21,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,61.0,"",62.0,43
+2020-03-21,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,17.0,"",17.0,44
+2020-03-21,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,39.0,"",39.0,45
+2020-03-21,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,67.0,"",66.0,46
+2020-03-21,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,83.0,"",84.0,47
+2020-03-21,NewHampshire,4f4531084b9074f6e4fb0101,Recycling Facilities,142.0,"",143.0,48
+2020-03-21,NewHampshire,4bf58dd8d48988d1f9941735,Food & Drink Shops,3.0,"",3.0,49
+2020-03-21,NewHampshire,4bf58dd8d48988d1f8941735,Furniture / Home Stores,46.0,"",46.0,50
+2020-03-21,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,65.0,"",65.0,51
+2020-03-21,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,34.0,"",33.0,52
+2020-03-21,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,66.0,"",67.0,53
+2020-03-22,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,81.0,77.0,81.0,1
+2020-03-22,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,69.0,69.0,2
+2020-03-22,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,77.0,70.0,77.0,3
+2020-03-22,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,67.0,63.0,67.0,4
+2020-03-22,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,107.0,98.0,108.0,5
+2020-03-22,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,69.0,70.0,69.0,6
+2020-03-22,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,68.0,74.0,68.0,7
+2020-03-22,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,84.0,64.0,85.0,8
+2020-03-22,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,52.0,63.0,9
+2020-03-22,NewHampshire,4bf58dd8d48988d161941735,Lakes,72.0,62.0,72.0,10
+2020-03-22,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,43.0,"",43.0,11
+2020-03-22,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,23.0,23.0,23.0,12
+2020-03-22,NewHampshire,4bf58dd8d48988d159941735,Trails,113.0,"",115.0,13
+2020-03-22,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,73.0,"",74.0,14
+2020-03-22,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,86.0,"",87.0,15
+2020-03-22,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,82.0,"",82.0,16
+2020-03-22,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,106.0,132.0,105.0,17
+2020-03-22,NewHampshire,4bf58dd8d48988d163941735,Parks,85.0,"",85.0,18
+2020-03-22,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,80.0,"",81.0,19
+2020-03-22,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,70.0,"",71.0,20
+2020-03-22,NewHampshire,4bf58dd8d48988d15b941735,Farms,89.0,"",90.0,20
+2020-03-22,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),59.0,"",59.0,21
+2020-03-22,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,40.0,"",39.0,22
+2020-03-22,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,14.0,"",15.0,23
+2020-03-22,NewHampshire,4bf58dd8d48988d116941735,Bars,12.0,"",12.0,24
+2020-03-22,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,37.0,"",38.0,25
+2020-03-22,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,21.0,"",21.0,26
+2020-03-22,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,51.0,"",52.0,27
+2020-03-22,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,74.0,"",73.0,28
+2020-03-22,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,26.0,"",26.0,29
+2020-03-22,NewHampshire,4bf58dd8d48988d13d941735,High Schools,46.0,"",46.0,30
+2020-03-22,NewHampshire,4bf58dd8d48988d196941735,Hospitals,46.0,"",46.0,31
+2020-03-22,NewHampshire,4bf58dd8d48988d124941735,Offices,60.0,"",61.0,32
+2020-03-22,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,102.0,"",101.0,33
+2020-03-22,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,56.0,"",56.0,33
+2020-03-22,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,78.0,"",78.0,33
+2020-03-23,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,103.0,96.0,103.0,1
+2020-03-23,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,72.0,64.0,72.0,2
+2020-03-23,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,81.0,61.0,82.0,3
+2020-03-23,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,95.0,108.0,94.0,4
+2020-03-23,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,70.0,80.0,69.0,5
+2020-03-23,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,95.0,76.0,96.0,6
+2020-03-23,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,68.0,66.0,68.0,7
+2020-03-23,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,83.0,68.0,84.0,8
+2020-03-23,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,56.0,59.0,9
+2020-03-23,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,80.0,72.0,80.0,10
+2020-03-23,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,59.0,60.0,59.0,11
+2020-03-23,NewHampshire,4bf58dd8d48988d161941735,Lakes,74.0,78.0,73.0,12
+2020-03-23,NewHampshire,4bf58dd8d48988d124941735,Offices,51.0,57.0,50.0,13
+2020-03-23,NewHampshire,4bf58dd8d48988d196941735,Hospitals,49.0,43.0,49.0,14
+2020-03-23,NewHampshire,4bf58dd8d48988d10a951735,Banks,75.0,76.0,75.0,15
+2020-03-23,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,32.0,28.0,32.0,16
+2020-03-23,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,45.0,43.0,45.0,17
+2020-03-23,NewHampshire,4bf58dd8d48988d172941735,Post Offices,84.0,70.0,85.0,18
+2020-03-23,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,76.0,"",77.0,19
+2020-03-23,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,27.0,"",27.0,20
+2020-03-23,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,86.0,"",88.0,21
+2020-03-23,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,69.0,"",68.0,22
+2020-03-23,NewHampshire,4bf58dd8d48988d159941735,Trails,85.0,"",85.0,23
+2020-03-23,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,50.0,"",50.0,24
+2020-03-23,NewHampshire,4bf58dd8d48988d15b941735,Farms,97.0,"",96.0,24
+2020-03-23,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),60.0,"",61.0,25
+2020-03-23,NewHampshire,4bf58dd8d48988d163941735,Parks,70.0,"",70.0,26
+2020-03-23,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,95.0,"",95.0,26
+2020-03-23,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,62.0,"",63.0,27
+2020-03-23,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,111.0,95.0,113.0,28
+2020-03-23,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,72.0,"",73.0,29
+2020-03-23,NewHampshire,4bf58dd8d48988d13d941735,High Schools,31.0,"",30.0,30
+2020-03-23,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,16.0,"",16.0,31
+2020-03-23,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,35.0,"",35.0,32
+2020-03-23,NewHampshire,4bf58dd8d48988d116941735,Bars,17.0,"",17.0,33
+2020-03-23,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,39.0,"",38.0,34
+2020-03-23,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,61.0,"",61.0,35
+2020-03-23,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,78.0,"",79.0,36
+2020-03-23,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,6.0,"",6.0,37
+2020-03-23,NewHampshire,4bf58dd8d48988d176941735,Gyms,36.0,"",37.0,38
+2020-03-23,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,49.0,"",50.0,39
+2020-03-23,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,59.0,"",58.0,40
+2020-03-24,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,65.0,63.0,65.0,1
+2020-03-24,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,82.0,59.0,84.0,2
+2020-03-24,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,78.0,63.0,79.0,3
+2020-03-24,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,85.0,72.0,86.0,4
+2020-03-24,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,65.0,59.0,65.0,5
+2020-03-24,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,68.0,49.0,69.0,6
+2020-03-24,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,73.0,47.0,75.0,7
+2020-03-24,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,65.0,49.0,66.0,8
+2020-03-24,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,46.0,60.0,9
+2020-03-24,NewHampshire,4bf58dd8d48988d161941735,Lakes,87.0,87.0,87.0,10
+2020-03-24,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,53.0,62.0,53.0,11
+2020-03-24,NewHampshire,4bf58dd8d48988d124941735,Offices,46.0,43.0,46.0,12
+2020-03-24,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,37.0,32.0,37.0,13
+2020-03-24,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,62.0,48.0,63.0,14
+2020-03-24,NewHampshire,4bf58dd8d48988d196941735,Hospitals,44.0,29.0,44.0,15
+2020-03-24,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,46.0,36.0,47.0,16
+2020-03-24,NewHampshire,4bf58dd8d48988d10a951735,Banks,59.0,"",59.0,17
+2020-03-24,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,99.0,"",100.0,18
+2020-03-24,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,27.0,"",28.0,19
+2020-03-24,NewHampshire,4bf58dd8d48988d172941735,Post Offices,65.0,61.0,65.0,20
+2020-03-24,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),69.0,"",70.0,21
+2020-03-24,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,72.0,"",73.0,22
+2020-03-24,NewHampshire,4bf58dd8d48988d159941735,Trails,94.0,93.0,94.0,23
+2020-03-24,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,62.0,"",63.0,24
+2020-03-24,NewHampshire,4bf58dd8d48988d163941735,Parks,72.0,"",71.0,25
+2020-03-24,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,61.0,"",63.0,26
+2020-03-24,NewHampshire,4bf58dd8d48988d15b941735,Farms,81.0,"",82.0,27
+2020-03-24,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,64.0,"",64.0,28
+2020-03-24,NewHampshire,4bf58dd8d48988d116941735,Bars,17.0,"",17.0,29
+2020-03-24,NewHampshire,4bf58dd8d48988d13d941735,High Schools,21.0,"",21.0,29
+2020-03-24,NewHampshire,4bf58dd8d48988d176941735,Gyms,39.0,"",40.0,30
+2020-03-24,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,57.0,"",58.0,31
+2020-03-24,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,42.0,"",42.0,32
+2020-03-24,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,13.0,"",13.0,33
+2020-03-24,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,70.0,"",71.0,33
+2020-03-24,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,102.0,"",100.0,34
+2020-03-24,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,104.0,"",107.0,35
+2020-03-24,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,27.0,"",27.0,36
+2020-03-24,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,49.0,"",49.0,37
+2020-03-24,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,33.0,"",33.0,38
+2020-03-24,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,30.0,"",30.0,39
+2020-03-24,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,49.0,"",49.0,40
+2020-03-24,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,66.0,"",68.0,41
+2020-03-25,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,86.0,75.0,87.0,1
+2020-03-25,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,79.0,75.0,80.0,2
+2020-03-25,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,62.0,54.0,63.0,3
+2020-03-25,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,80.0,74.0,80.0,4
+2020-03-25,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,62.0,66.0,61.0,5
+2020-03-25,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,90.0,67.0,91.0,6
+2020-03-25,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,68.0,58.0,68.0,7
+2020-03-25,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,75.0,68.0,75.0,8
+2020-03-25,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,60.0,59.0,9
+2020-03-25,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,51.0,47.0,52.0,10
+2020-03-25,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,65.0,56.0,65.0,11
+2020-03-25,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,32.0,25.0,33.0,12
+2020-03-25,NewHampshire,4bf58dd8d48988d124941735,Offices,43.0,49.0,42.0,13
+2020-03-25,NewHampshire,4bf58dd8d48988d196941735,Hospitals,43.0,32.0,43.0,14
+2020-03-25,NewHampshire,4bf58dd8d48988d161941735,Lakes,65.0,69.0,65.0,15
+2020-03-25,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,40.0,45.0,39.0,16
+2020-03-25,NewHampshire,4bf58dd8d48988d10a951735,Banks,64.0,63.0,64.0,17
+2020-03-25,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,79.0,76.0,79.0,18
+2020-03-25,NewHampshire,4bf58dd8d48988d172941735,Post Offices,71.0,63.0,72.0,19
+2020-03-25,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,79.0,81.0,79.0,20
+2020-03-25,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,23.0,"",24.0,21
+2020-03-25,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,65.0,65.0,65.0,22
+2020-03-25,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),64.0,"",64.0,23
+2020-03-25,NewHampshire,4bf58dd8d48988d13d941735,High Schools,28.0,"",28.0,24
+2020-03-25,NewHampshire,4bf58dd8d48988d159941735,Trails,76.0,"",77.0,25
+2020-03-25,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,47.0,"",47.0,26
+2020-03-25,NewHampshire,4bf58dd8d48988d15b941735,Farms,81.0,"",81.0,27
+2020-03-25,NewHampshire,4bf58dd8d48988d163941735,Parks,67.0,"",67.0,28
+2020-03-25,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,46.0,"",47.0,29
+2020-03-25,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,68.0,"",68.0,30
+2020-03-25,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,30.0,"",30.0,31
+2020-03-25,NewHampshire,4bf58dd8d48988d116941735,Bars,16.0,"",16.0,32
+2020-03-25,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,96.0,"",96.0,33
+2020-03-25,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,53.0,"",54.0,33
+2020-03-25,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,86.0,"",87.0,34
+2020-03-25,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,13.0,"",13.0,35
+2020-03-25,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,60.0,"",61.0,36
+2020-03-25,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,40.0,"",40.0,37
+2020-03-25,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,64.0,"",65.0,38
+2020-03-25,NewHampshire,4bf58dd8d48988d176941735,Gyms,31.0,"",31.0,39
+2020-03-25,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,52.0,"",52.0,40
+2020-03-26,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,102.0,96.0,102.0,1
+2020-03-26,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,91.0,82.0,91.0,2
+2020-03-26,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,73.0,72.0,73.0,3
+2020-03-26,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,100.0,97.0,100.0,4
+2020-03-26,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,75.0,69.0,75.0,5
+2020-03-26,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,110.0,100.0,111.0,6
+2020-03-26,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,79.0,67.0,80.0,7
+2020-03-26,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,84.0,79.0,84.0,8
+2020-03-26,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,70.0,76.0,70.0,9
+2020-03-26,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,88.0,76.0,89.0,10
+2020-03-26,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,59.0,56.0,59.0,11
+2020-03-26,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,41.0,34.0,41.0,12
+2020-03-26,NewHampshire,4bf58dd8d48988d161941735,Lakes,87.0,109.0,85.0,13
+2020-03-26,NewHampshire,4bf58dd8d48988d124941735,Offices,48.0,51.0,48.0,14
+2020-03-26,NewHampshire,4bf58dd8d48988d196941735,Hospitals,44.0,37.0,45.0,15
+2020-03-26,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,45.0,41.0,46.0,16
+2020-03-26,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,88.0,"",89.0,17
+2020-03-26,NewHampshire,4bf58dd8d48988d172941735,Post Offices,87.0,75.0,88.0,18
+2020-03-26,NewHampshire,4bf58dd8d48988d10a951735,Banks,66.0,70.0,66.0,18
+2020-03-26,NewHampshire,4bf58dd8d48988d163941735,Parks,104.0,111.0,104.0,19
+2020-03-26,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,30.0,"",30.0,20
+2020-03-26,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,92.0,"",93.0,21
+2020-03-26,NewHampshire,4bf58dd8d48988d159941735,Trails,114.0,122.0,113.0,22
+2020-03-26,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,83.0,83.0,83.0,23
+2020-03-26,NewHampshire,4bf58dd8d48988d15b941735,Farms,112.0,"",111.0,24
+2020-03-26,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,181.0,157.0,182.0,25
+2020-03-26,NewHampshire,4bf58dd8d48988d116941735,Bars,22.0,"",22.0,26
+2020-03-26,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),66.0,"",65.0,27
+2020-03-26,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,53.0,"",52.0,28
+2020-03-26,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,127.0,104.0,129.0,29
+2020-03-26,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,49.0,"",49.0,29
+2020-03-26,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,80.0,"",80.0,30
+2020-03-26,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,37.0,"",36.0,31
+2020-03-26,NewHampshire,4bf58dd8d48988d13d941735,High Schools,43.0,"",43.0,31
+2020-03-26,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,69.0,"",70.0,32
+2020-03-26,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,17.0,"",17.0,33
+2020-03-26,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,39.0,"",39.0,34
+2020-03-26,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,78.0,"",78.0,35
+2020-03-26,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,100.0,"",100.0,36
+2020-03-26,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,120.0,"",123.0,36
+2020-03-26,NewHampshire,4bf58dd8d48988d176941735,Gyms,40.0,"",40.0,37
+2020-03-26,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,6.0,"",6.0,38
+2020-03-26,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,57.0,"",57.0,38
+2020-03-26,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,67.0,"",69.0,39
+2020-03-26,NewHampshire,4bf58dd8d48988d13b941735,Schools,12.0,"",12.0,40
+2020-03-26,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,75.0,"",76.0,41
+2020-03-26,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,111.0,"",114.0,42
+2020-03-26,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,46.0,"",47.0,43
+2020-03-26,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,49.0,"",49.0,43
+2020-03-26,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,18.0,"",18.0,44
+2020-03-26,NewHampshire,4bf58dd8d48988d16d941735,Cafés,48.0,"",48.0,44
+2020-03-27,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,84.0,74.0,85.0,1
+2020-03-27,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,71.0,73.0,71.0,2
+2020-03-27,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,85.0,68.0,86.0,3
+2020-03-27,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,94.0,95.0,94.0,4
+2020-03-27,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,116.0,92.0,117.0,5
+2020-03-27,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,71.0,72.0,71.0,6
+2020-03-27,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,72.0,67.0,72.0,7
+2020-03-27,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,82.0,78.0,82.0,8
+2020-03-27,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,60.0,63.0,9
+2020-03-27,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,63.0,66.0,62.0,10
+2020-03-27,NewHampshire,4bf58dd8d48988d161941735,Lakes,109.0,128.0,108.0,11
+2020-03-27,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,34.0,31.0,35.0,12
+2020-03-27,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,78.0,63.0,79.0,13
+2020-03-27,NewHampshire,4bf58dd8d48988d10a951735,Banks,73.0,63.0,74.0,14
+2020-03-27,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,88.0,85.0,89.0,15
+2020-03-27,NewHampshire,4bf58dd8d48988d124941735,Offices,55.0,"",55.0,16
+2020-03-27,NewHampshire,4bf58dd8d48988d163941735,Parks,116.0,104.0,117.0,17
+2020-03-27,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,46.0,39.0,46.0,18
+2020-03-27,NewHampshire,4bf58dd8d48988d196941735,Hospitals,41.0,34.0,41.0,19
+2020-03-27,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,194.0,170.0,195.0,19
+2020-03-27,NewHampshire,4bf58dd8d48988d172941735,Post Offices,82.0,66.0,82.0,20
+2020-03-27,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,70.0,"",71.0,21
+2020-03-27,NewHampshire,4bf58dd8d48988d159941735,Trails,119.0,"",122.0,22
+2020-03-27,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,55.0,"",55.0,23
+2020-03-27,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),73.0,"",73.0,24
+2020-03-27,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,24.0,"",24.0,25
+2020-03-27,NewHampshire,4bf58dd8d48988d15b941735,Farms,112.0,"",113.0,26
+2020-03-27,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,88.0,"",87.0,27
+2020-03-27,NewHampshire,4bf58dd8d48988d13d941735,High Schools,38.0,"",38.0,28
+2020-03-27,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,83.0,"",84.0,28
+2020-03-27,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,70.0,83.0,69.0,29
+2020-03-27,NewHampshire,4bf58dd8d48988d116941735,Bars,21.0,"",21.0,30
+2020-03-27,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,115.0,"",118.0,31
+2020-03-27,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,41.0,"",41.0,32
+2020-03-27,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,47.0,"",47.0,33
+2020-03-27,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,71.0,"",71.0,34
+2020-03-27,NewHampshire,4f04ae1f2fb6e1c99f3db0ba,Car Washes,116.0,"",118.0,35
+2020-03-27,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,31.0,"",32.0,36
+2020-03-27,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,102.0,"",105.0,37
+2020-03-27,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,53.0,"",53.0,38
+2020-03-27,NewHampshire,4bf58dd8d48988d175941735,Gyms or Fitness Centers,16.0,"",16.0,39
+2020-03-27,NewHampshire,4bf58dd8d48988d13b941735,Schools,11.0,"",11.0,40
+2020-03-27,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,60.0,"",60.0,41
+2020-03-27,NewHampshire,4bf58dd8d48988d1ce941735,Seafood Restaurants,76.0,"",75.0,41
+2020-03-27,NewHampshire,4bf58dd8d48988d145941735,Chinese Restaurants,47.0,"",47.0,42
+2020-03-27,NewHampshire,4bf58dd8d48988d1c4941735,Restaurants,47.0,"",47.0,43
+2020-03-27,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,50.0,"",50.0,44
+2020-03-27,NewHampshire,4bf58dd8d48988d104941735,Medical Centers,6.0,"",6.0,45
+2020-03-27,NewHampshire,4bf58dd8d48988d16d941735,Cafés,53.0,"",53.0,45
+2020-03-27,NewHampshire,4bf58dd8d48988d176941735,Gyms,39.0,"",40.0,46
+2020-03-27,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,79.0,"",79.0,47
+2020-03-27,NewHampshire,4bf58dd8d48988d1c9941735,Ice Cream Shops,113.0,"",116.0,48
+2020-03-27,NewHampshire,4bf58dd8d48988d126941735,Government Buildings,21.0,"",21.0,48
+2020-03-27,NewHampshire,4bf58dd8d48988d1f6941735,Department Stores,25.0,"",25.0,49
+2020-03-27,NewHampshire,4bf58dd8d48988d178941735,Dentist's Offices,57.0,"",58.0,50
+2020-03-27,NewHampshire,4bf58dd8d48988d110941735,Italian Restaurants,47.0,"",47.0,50
+2020-03-28,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,50.0,67.0,1
+2020-03-28,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,56.0,75.0,2
+2020-03-28,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,75.0,55.0,76.0,3
+2020-03-28,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,96.0,74.0,97.0,4
+2020-03-28,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,61.0,50.0,61.0,5
+2020-03-28,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,60.0,49.0,61.0,6
+2020-03-28,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,65.0,66.0,65.0,7
+2020-03-28,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,59.0,59.0,8
+2020-03-28,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,70.0,60.0,71.0,9
+2020-03-28,NewHampshire,4bf58dd8d48988d161941735,Lakes,92.0,95.0,92.0,10
+2020-03-28,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,48.0,50.0,48.0,11
+2020-03-28,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,24.0,21.0,24.0,12
+2020-03-28,NewHampshire,4bf58dd8d48988d159941735,Trails,153.0,115.0,155.0,13
+2020-03-28,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,69.0,"",70.0,14
+2020-03-28,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,73.0,"",73.0,15
+2020-03-28,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,69.0,"",70.0,16
+2020-03-28,NewHampshire,4bf58dd8d48988d163941735,Parks,84.0,"",85.0,17
+2020-03-28,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),66.0,"",66.0,18
+2020-03-28,NewHampshire,4bf58dd8d48988d10a951735,Banks,53.0,"",53.0,19
+2020-03-28,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,61.0,"",62.0,20
+2020-03-28,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,39.0,"",38.0,20
+2020-03-28,NewHampshire,4bf58dd8d48988d15b941735,Farms,91.0,"",91.0,21
+2020-03-28,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,34.0,"",34.0,22
+2020-03-28,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,63.0,"",64.0,23
+2020-03-28,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,20.0,"",20.0,24
+2020-03-28,NewHampshire,4bf58dd8d48988d116941735,Bars,13.0,"",13.0,25
+2020-03-28,NewHampshire,4bf58dd8d48988d172941735,Post Offices,72.0,"",73.0,26
+2020-03-28,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,29.0,"",29.0,27
+2020-03-28,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,82.0,"",82.0,28
+2020-03-28,NewHampshire,4bf58dd8d48988d1e6941735,Golf Courses,85.0,"",86.0,29
+2020-03-28,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,12.0,"",12.0,30
+2020-03-28,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,71.0,"",72.0,31
+2020-03-28,NewHampshire,4bf58dd8d48988d124941735,Offices,64.0,"",65.0,31
+2020-03-28,NewHampshire,4bf58dd8d48988d100951735,Pet Stores,45.0,"",45.0,32
+2020-03-28,NewHampshire,4bf58dd8d48988d1e4941735,Campgrounds,67.0,"",67.0,33
+2020-03-28,NewHampshire,4bf58dd8d48988d196941735,Hospitals,49.0,"",49.0,34
+2020-03-28,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,79.0,"",79.0,35
+2020-03-28,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,51.0,"",51.0,35
+2020-03-28,NewHampshire,4bf58dd8d48988d13d941735,High Schools,35.0,"",36.0,35
+2020-03-28,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,46.0,"",46.0,36
+2020-03-28,NewHampshire,4bf58dd8d48988d1ff941735,Miscellaneous Shops,57.0,"",58.0,37
+2020-03-28,NewHampshire,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,63.0,"",64.0,38
+2020-03-28,NewHampshire,4bf58dd8d48988d143941735,Breakfast Spots,35.0,"",36.0,39
+2020-03-29,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,42.0,57.0,1
+2020-03-29,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,51.0,42.0,51.0,2
+2020-03-29,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,50.0,44.0,50.0,3
+2020-03-29,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,64.0,52.0,65.0,4
+2020-03-29,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,39.0,28.0,39.0,5
+2020-03-29,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,44.0,39.0,45.0,6
+2020-03-29,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,55.0,45.0,56.0,7
+2020-03-29,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,40.0,43.0,40.0,8
+2020-03-29,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,37.0,"",37.0,9
+2020-03-29,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,15.0,"",15.0,10
+2020-03-29,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,26.0,"",26.0,11
+2020-03-29,NewHampshire,4bf58dd8d48988d161941735,Lakes,32.0,"",32.0,12
+2020-03-29,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,45.0,"",45.0,13
+2020-03-29,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,53.0,"",53.0,14
+2020-03-29,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,55.0,"",56.0,15
+2020-03-29,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,46.0,"",46.0,16
+2020-03-29,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,46.0,"",46.0,17
+2020-03-30,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,72.0,74.0,1
+2020-03-30,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,60.0,49.0,60.0,2
+2020-03-30,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,61.0,68.0,3
+2020-03-30,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,71.0,70.0,72.0,4
+2020-03-30,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,85.0,68.0,86.0,5
+2020-03-30,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,57.0,56.0,57.0,6
+2020-03-30,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,56.0,55.0,56.0,7
+2020-03-30,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,70.0,59.0,71.0,8
+2020-03-30,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,51.0,55.0,9
+2020-03-30,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,65.0,58.0,65.0,10
+2020-03-30,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,51.0,47.0,51.0,11
+2020-03-30,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,33.0,26.0,33.0,12
+2020-03-30,NewHampshire,4bf58dd8d48988d196941735,Hospitals,38.0,31.0,39.0,13
+2020-03-30,NewHampshire,4bf58dd8d48988d124941735,Offices,36.0,"",37.0,14
+2020-03-30,NewHampshire,4bf58dd8d48988d161941735,Lakes,52.0,66.0,51.0,14
+2020-03-30,NewHampshire,4bf58dd8d48988d10a951735,Banks,58.0,51.0,58.0,15
+2020-03-30,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,34.0,42.0,33.0,16
+2020-03-30,NewHampshire,4bf58dd8d48988d172941735,Post Offices,76.0,"",77.0,17
+2020-03-30,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,72.0,"",73.0,18
+2020-03-30,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,62.0,"",62.0,19
+2020-03-30,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,72.0,"",73.0,20
+2020-03-30,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,53.0,"",53.0,21
+2020-03-30,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,18.0,"",18.0,22
+2020-03-30,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,78.0,"",78.0,23
+2020-03-30,NewHampshire,4bf58dd8d48988d159941735,Trails,65.0,"",64.0,24
+2020-03-30,NewHampshire,4bf58dd8d48988d163941735,Parks,56.0,"",55.0,25
+2020-03-30,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,37.0,"",37.0,26
+2020-03-30,NewHampshire,4bf58dd8d48988d116941735,Bars,16.0,"",16.0,27
+2020-03-30,NewHampshire,4bf58dd8d48988d13d941735,High Schools,24.0,"",24.0,27
+2020-03-30,NewHampshire,4bf58dd8d48988d15b941735,Farms,71.0,"",71.0,28
+2020-03-30,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,56.0,"",57.0,29
+2020-03-30,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),44.0,"",44.0,30
+2020-03-31,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,77.0,73.0,78.0,1
+2020-03-31,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,69.0,75.0,2
+2020-03-31,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,56.0,53.0,56.0,3
+2020-03-31,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,72.0,62.0,73.0,4
+2020-03-31,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,91.0,70.0,92.0,5
+2020-03-31,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,60.0,55.0,60.0,6
+2020-03-31,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,61.0,60.0,61.0,7
+2020-03-31,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,67.0,63.0,67.0,8
+2020-03-31,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,41.0,56.0,9
+2020-03-31,NewHampshire,4bf58dd8d48988d161941735,Lakes,76.0,78.0,75.0,10
+2020-03-31,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,35.0,26.0,36.0,11
+2020-03-31,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,62.0,51.0,62.0,12
+2020-03-31,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,44.0,44.0,44.0,13
+2020-03-31,NewHampshire,4bf58dd8d48988d10a951735,Banks,71.0,68.0,71.0,14
+2020-03-31,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,37.0,28.0,38.0,15
+2020-03-31,NewHampshire,4bf58dd8d48988d124941735,Offices,33.0,"",33.0,16
+2020-03-31,NewHampshire,4bf58dd8d48988d172941735,Post Offices,70.0,60.0,71.0,17
+2020-03-31,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,78.0,"",79.0,18
+2020-03-31,NewHampshire,4bf58dd8d48988d196941735,Hospitals,31.0,"",32.0,19
+2020-03-31,NewHampshire,4bf58dd8d48988d159941735,Trails,102.0,"",104.0,20
+2020-03-31,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,64.0,"",64.0,21
+2020-03-31,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,80.0,"",80.0,22
+2020-03-31,NewHampshire,4bf58dd8d48988d15b941735,Farms,89.0,"",90.0,23
+2020-03-31,NewHampshire,4bf58dd8d48988d163941735,Parks,68.0,"",68.0,24
+2020-03-31,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,20.0,"",20.0,25
+2020-03-31,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,83.0,"",82.0,26
+2020-03-31,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,57.0,"",57.0,27
+2020-03-31,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,45.0,"",46.0,28
+2020-03-31,NewHampshire,4bf58dd8d48988d13d941735,High Schools,19.0,"",19.0,29
+2020-03-31,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),44.0,"",44.0,30
+2020-03-31,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,107.0,"",109.0,31
+2020-03-31,NewHampshire,4bf58dd8d48988d116941735,Bars,16.0,"",16.0,32
+2020-03-31,NewHampshire,4bf58dd8d48988d1c1941735,Mexican Restaurants,32.0,"",33.0,33
+2020-03-31,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,24.0,"",24.0,34
+2020-03-31,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,46.0,"",46.0,34
+2020-04-01,NewHampshire,4bf58dd8d48988d113951735,Gas Stations,67.0,57.0,67.0,1
+2020-04-01,NewHampshire,52f2ab2ebcbc57f1066b8b46,Supermarkets,78.0,59.0,80.0,2
+2020-04-01,NewHampshire,52f2ab2ebcbc57f1066b8b42,Big Box Stores,72.0,57.0,73.0,3
+2020-04-01,NewHampshire,4bf58dd8d48988d118951735,Grocery Stores,76.0,72.0,76.0,4
+2020-04-01,NewHampshire,4bf58dd8d48988d112951735,Hardware Stores,90.0,75.0,91.0,5
+2020-04-01,NewHampshire,4bf58dd8d48988d148941735,Donut Shops,58.0,41.0,58.0,6
+2020-04-01,NewHampshire,4d954b0ea243a5684a65b473,Convenience Stores,59.0,53.0,60.0,7
+2020-04-01,NewHampshire,4bf58dd8d48988d10f951735,Pharmacies,70.0,62.0,70.0,8
+2020-04-01,NewHampshire,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,54.0,61.0,9
+2020-04-01,NewHampshire,4bf58dd8d48988d161941735,Lakes,78.0,84.0,78.0,10
+2020-04-01,NewHampshire,4bf58dd8d48988d14e941735,American Restaurants,34.0,25.0,34.0,11
+2020-04-01,NewHampshire,4bf58dd8d48988d124951735,Automotive Shops,60.0,47.0,61.0,12
+2020-04-01,NewHampshire,4bf58dd8d48988d1ca941735,Pizza Places,45.0,36.0,45.0,13
+2020-04-01,NewHampshire,4bf58dd8d48988d10a951735,Banks,75.0,72.0,75.0,14
+2020-04-01,NewHampshire,4bf58dd8d48988d124941735,Offices,38.0,"",38.0,15
+2020-04-01,NewHampshire,4bf58dd8d48988d177941735,Doctor's Offices,38.0,34.0,38.0,16
+2020-04-01,NewHampshire,4bf58dd8d48988d1c5941735,Sandwich Places,79.0,"",80.0,17
+2020-04-01,NewHampshire,4bf58dd8d48988d186941735,Liquor Stores,92.0,84.0,93.0,18
+2020-04-01,NewHampshire,4bf58dd8d48988d172941735,Post Offices,69.0,63.0,69.0,19
+2020-04-01,NewHampshire,4bf58dd8d48988d196941735,Hospitals,29.0,"",29.0,20
+2020-04-01,NewHampshire,5032850891d4c4b30a586d62,Credit Unions,95.0,"",94.0,21
+2020-04-01,NewHampshire,4bf58dd8d48988d159941735,Trails,84.0,76.0,84.0,22
+2020-04-01,NewHampshire,4bf58dd8d48988d163941735,Parks,73.0,"",73.0,23
+2020-04-01,NewHampshire,50327c8591d4c4b30a586d5d,Breweries,49.0,"",49.0,24
+2020-04-01,NewHampshire,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),60.0,"",59.0,25
+2020-04-01,NewHampshire,52e816a6bcbc57f1066b7a54,Warehouse Stores,104.0,"",107.0,26
+2020-04-01,NewHampshire,52dea92d3cf9994f4e043dbb,Discount Stores,72.0,"",73.0,27
+2020-04-01,NewHampshire,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,55.0,65.0,55.0,28
+2020-04-01,NewHampshire,4bf58dd8d48988d13d941735,High Schools,26.0,"",26.0,28
+2020-04-01,NewHampshire,4bf58dd8d48988d15b941735,Farms,76.0,"",76.0,29
+2020-04-01,NewHampshire,4bf58dd8d48988d1fa931735,Hotels,18.0,"",18.0,30
+2020-04-01,NewHampshire,4bf58dd8d48988d1e0931735,Coffee Shops,43.0,"",44.0,31
+2020-04-01,NewHampshire,4bf58dd8d48988d116941735,Bars,17.0,"",17.0,32
+2020-04-01,NewHampshire,4bf58dd8d48988d1e2941735,Beaches,92.0,"",92.0,33
+2020-04-01,NewHampshire,4bf58dd8d48988d1fd941735,Shopping Malls,28.0,"",28.0,34
+2020-04-01,NewHampshire,4f4533804b9074f6e4fb0105,Elementary Schools,44.0,"",44.0,35
+2020-04-01,NewHampshire,4bf58dd8d48988d110951735,Salons / Barbershops,44.0,"",45.0,36

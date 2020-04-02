@@ -1,0 +1,2070 @@
+2020-03-01,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,114.0,121.0,113.0,1
+2020-03-01,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,120.0,116.0,120.0,2
+2020-03-01,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,114.0,110.0,3
+2020-03-01,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,99.0,90.0,99.0,4
+2020-03-01,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,106.0,108.0,106.0,5
+2020-03-01,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,111.0,108.0,112.0,6
+2020-03-01,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,102.0,106.0,102.0,7
+2020-03-01,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,114.0,97.0,115.0,8
+2020-03-01,WestVirginia,4bf58dd8d48988d116941735,Bars,63.0,63.0,63.0,9
+2020-03-01,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,118.0,125.0,118.0,10
+2020-03-01,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,112.0,119.0,111.0,11
+2020-03-01,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,104.0,96.0,105.0,12
+2020-03-01,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,80.0,92.0,79.0,13
+2020-03-01,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,120.0,145.0,119.0,14
+2020-03-01,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,97.0,87.0,97.0,15
+2020-03-01,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,119.0,105.0,120.0,16
+2020-03-01,WestVirginia,4bf58dd8d48988d163941735,Parks,106.0,120.0,106.0,17
+2020-03-01,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,126.0,114.0,126.0,18
+2020-03-01,WestVirginia,4bf58dd8d48988d196941735,Hospitals,101.0,116.0,100.0,19
+2020-03-01,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,115.0,92.0,116.0,20
+2020-03-01,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,115.0,109.0,115.0,21
+2020-03-01,WestVirginia,4bf58dd8d48988d13d941735,High Schools,97.0,"",97.0,22
+2020-03-01,WestVirginia,4bf58dd8d48988d17c941735,Casinos,116.0,"",116.0,23
+2020-03-01,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,111.0,"",110.0,24
+2020-03-01,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,105.0,"",105.0,25
+2020-03-01,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,108.0,135.0,107.0,26
+2020-03-01,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,123.0,143.0,122.0,27
+2020-03-01,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,119.0,110.0,119.0,28
+2020-03-01,WestVirginia,4bf58dd8d48988d172941735,Post Offices,114.0,"",114.0,29
+2020-03-01,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,110.0,"",110.0,30
+2020-03-01,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,112.0,"",112.0,31
+2020-03-01,WestVirginia,4bf58dd8d48988d10a951735,Banks,115.0,"",116.0,32
+2020-03-01,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,127.0,"",128.0,33
+2020-03-01,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,97.0,"",97.0,34
+2020-03-01,WestVirginia,4bf58dd8d48988d147941735,Diners,90.0,101.0,89.0,35
+2020-03-01,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,51.0,"",51.0,36
+2020-03-01,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,90.0,"",89.0,37
+2020-03-01,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,112.0,"",113.0,38
+2020-03-01,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,139.0,"",138.0,39
+2020-03-01,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,160.0,"",160.0,40
+2020-03-01,WestVirginia,4bf58dd8d48988d176941735,Gyms,117.0,"",117.0,41
+2020-03-01,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,82.0,"",83.0,42
+2020-03-01,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,21.0,"",21.0,43
+2020-03-01,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,113.0,"",113.0,44
+2020-03-01,WestVirginia,4bf58dd8d48988d124941735,Offices,100.0,"",101.0,45
+2020-03-01,WestVirginia,4bf58dd8d48988d1ae941735,Universities,78.0,"",77.0,46
+2020-03-01,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,111.0,"",110.0,47
+2020-03-01,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,115.0,"",115.0,47
+2020-03-01,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,113.0,"",112.0,48
+2020-03-01,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,116.0,"",115.0,49
+2020-03-01,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,90.0,"",89.0,50
+2020-03-01,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,112.0,"",112.0,50
+2020-03-01,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,102.0,"",102.0,51
+2020-03-01,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,112.0,"",112.0,52
+2020-03-01,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,47.0,"",46.0,52
+2020-03-01,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),87.0,"",87.0,53
+2020-03-01,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,124.0,"",123.0,54
+2020-03-01,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,103.0,"",104.0,55
+2020-03-01,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,136.0,"",136.0,56
+2020-03-01,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,100.0,"",101.0,57
+2020-03-01,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,122.0,"",122.0,58
+2020-03-01,WestVirginia,4bf58dd8d48988d159941735,Trails,110.0,"",110.0,59
+2020-03-01,WestVirginia,4bf58dd8d48988d15b941735,Farms,98.0,"",98.0,59
+2020-03-01,WestVirginia,4bf58dd8d48988d12f951735,Resorts,102.0,"",102.0,60
+2020-03-01,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,98.0,"",99.0,60
+2020-03-01,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,94.0,"",93.0,61
+2020-03-01,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,109.0,"",109.0,62
+2020-03-01,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,109.0,"",109.0,63
+2020-03-01,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,128.0,"",130.0,64
+2020-03-01,WestVirginia,4bf58dd8d48988d13b941735,Schools,18.0,"",18.0,65
+2020-03-01,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,101.0,"",103.0,66
+2020-03-01,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,102.0,"",103.0,67
+2020-03-01,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,111.0,"",112.0,68
+2020-03-01,WestVirginia,4bf58dd8d48988d11b941735,Pubs,98.0,"",96.0,68
+2020-03-01,WestVirginia,4bf58dd8d48988d127951735,Arts & Crafts Stores,118.0,"",115.0,68
+2020-03-01,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,110.0,"",109.0,68
+2020-03-01,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,114.0,"",113.0,69
+2020-03-01,WestVirginia,4bf58dd8d48988d111941735,Japanese Restaurants,98.0,"",98.0,70
+2020-03-02,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,106.0,92.0,107.0,1
+2020-03-02,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,112.0,112.0,112.0,2
+2020-03-02,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,102.0,106.0,3
+2020-03-02,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,111.0,107.0,4
+2020-03-02,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,114.0,110.0,114.0,5
+2020-03-02,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,99.0,80.0,100.0,6
+2020-03-02,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,108.0,101.0,108.0,7
+2020-03-02,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,100.0,91.0,100.0,8
+2020-03-02,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,106.0,98.0,107.0,9
+2020-03-02,WestVirginia,4bf58dd8d48988d196941735,Hospitals,93.0,98.0,92.0,10
+2020-03-02,WestVirginia,4bf58dd8d48988d13d941735,High Schools,103.0,94.0,103.0,11
+2020-03-02,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,115.0,122.0,115.0,12
+2020-03-02,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,103.0,91.0,104.0,13
+2020-03-02,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,106.0,99.0,107.0,14
+2020-03-02,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,117.0,120.0,117.0,15
+2020-03-02,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,76.0,72.0,76.0,16
+2020-03-02,WestVirginia,4bf58dd8d48988d116941735,Bars,60.0,57.0,60.0,17
+2020-03-02,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,103.0,119.0,102.0,18
+2020-03-02,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,105.0,88.0,105.0,19
+2020-03-02,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,59.0,51.0,59.0,19
+2020-03-02,WestVirginia,4bf58dd8d48988d172941735,Post Offices,113.0,96.0,114.0,20
+2020-03-02,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,96.0,79.0,96.0,21
+2020-03-02,WestVirginia,4bf58dd8d48988d10a951735,Banks,123.0,117.0,124.0,22
+2020-03-02,WestVirginia,4bf58dd8d48988d124941735,Offices,97.0,97.0,97.0,23
+2020-03-02,WestVirginia,4bf58dd8d48988d1ae941735,Universities,91.0,"",91.0,24
+2020-03-02,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,13.0,17.0,25
+2020-03-02,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,107.0,"",107.0,26
+2020-03-02,WestVirginia,4bf58dd8d48988d163941735,Parks,91.0,98.0,91.0,27
+2020-03-02,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,112.0,94.0,113.0,28
+2020-03-02,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,"",100.0,29
+2020-03-02,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,122.0,109.0,122.0,30
+2020-03-02,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,106.0,101.0,106.0,31
+2020-03-02,WestVirginia,4bf58dd8d48988d176941735,Gyms,98.0,"",100.0,32
+2020-03-02,WestVirginia,4bf58dd8d48988d147941735,Diners,108.0,98.0,109.0,33
+2020-03-02,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,106.0,"",107.0,34
+2020-03-02,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,91.0,"",92.0,35
+2020-03-02,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,54.0,50.0,36
+2020-03-02,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,109.0,95.0,109.0,37
+2020-03-02,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,105.0,93.0,106.0,38
+2020-03-02,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,104.0,"",104.0,38
+2020-03-02,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,113.0,129.0,112.0,39
+2020-03-02,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,117.0,"",118.0,40
+2020-03-02,WestVirginia,4bf58dd8d48988d13b941735,Schools,16.0,"",15.0,41
+2020-03-02,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,96.0,"",97.0,42
+2020-03-02,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,87.0,"",88.0,43
+2020-03-02,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,45.0,"",45.0,44
+2020-03-02,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,112.0,"",112.0,45
+2020-03-02,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,106.0,"",105.0,46
+2020-03-02,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,103.0,"",103.0,47
+2020-03-02,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,99.0,"",100.0,48
+2020-03-02,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),108.0,"",108.0,49
+2020-03-02,WestVirginia,4d954af4a243a5684765b473,Veterinarians,122.0,"",123.0,50
+2020-03-02,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,110.0,136.0,108.0,51
+2020-03-02,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,110.0,"",110.0,52
+2020-03-02,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,136.0,"",137.0,53
+2020-03-02,WestVirginia,4bf58dd8d48988d16d941735,Cafés,109.0,"",107.0,54
+2020-03-02,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,114.0,"",114.0,55
+2020-03-02,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,102.0,"",102.0,56
+2020-03-02,WestVirginia,4bf58dd8d48988d17c941735,Casinos,100.0,"",100.0,57
+2020-03-02,WestVirginia,4bf58dd8d48988d12f941735,Libraries,133.0,"",135.0,58
+2020-03-02,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,69.0,"",70.0,59
+2020-03-02,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,114.0,"",115.0,60
+2020-03-02,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,101.0,"",101.0,61
+2020-03-02,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,84.0,"",85.0,62
+2020-03-02,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,97.0,"",98.0,63
+2020-03-02,WestVirginia,4bf58dd8d48988d116951735,Antique Shops,159.0,"",161.0,63
+2020-03-02,WestVirginia,4bf58dd8d48988d15b941735,Farms,107.0,"",108.0,63
+2020-03-02,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,92.0,"",93.0,64
+2020-03-02,WestVirginia,4bf58dd8d48988d11b941735,Pubs,124.0,"",125.0,65
+2020-03-02,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,120.0,"",119.0,66
+2020-03-02,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,117.0,"",117.0,67
+2020-03-02,WestVirginia,4d4b7105d754a06375d81259,Professional & Other Places,2.0,"",2.0,68
+2020-03-02,WestVirginia,4bf58dd8d48988d16f941735,Hot Dog Joints,127.0,"",128.0,68
+2020-03-02,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,111.0,"",109.0,69
+2020-03-02,WestVirginia,4bf58dd8d48988d159941735,Trails,95.0,"",96.0,69
+2020-03-02,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,109.0,"",109.0,70
+2020-03-02,WestVirginia,4bf58dd8d48988d19b941735,College Science Buildings,91.0,"",90.0,71
+2020-03-02,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,89.0,"",90.0,71
+2020-03-02,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,133.0,"",130.0,72
+2020-03-02,WestVirginia,4bf58dd8d48988d1ed931735,Airports,90.0,"",90.0,72
+2020-03-02,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,96.0,"",97.0,73
+2020-03-03,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,104.0,109.0,103.0,1
+2020-03-03,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,108.0,99.0,109.0,2
+2020-03-03,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,114.0,112.0,114.0,3
+2020-03-03,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,105.0,108.0,105.0,4
+2020-03-03,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,113.0,102.0,113.0,5
+2020-03-03,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,99.0,97.0,99.0,6
+2020-03-03,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,112.0,113.0,112.0,7
+2020-03-03,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,103.0,91.0,104.0,8
+2020-03-03,WestVirginia,4bf58dd8d48988d13d941735,High Schools,107.0,110.0,107.0,9
+2020-03-03,WestVirginia,4bf58dd8d48988d196941735,Hospitals,96.0,89.0,96.0,10
+2020-03-03,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,106.0,100.0,106.0,11
+2020-03-03,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,120.0,130.0,120.0,12
+2020-03-03,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,116.0,115.0,116.0,13
+2020-03-03,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,120.0,131.0,120.0,14
+2020-03-03,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,96.0,83.0,97.0,15
+2020-03-03,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,73.0,74.0,73.0,16
+2020-03-03,WestVirginia,4bf58dd8d48988d116941735,Bars,61.0,49.0,61.0,17
+2020-03-03,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,109.0,107.0,109.0,18
+2020-03-03,WestVirginia,4bf58dd8d48988d10a951735,Banks,136.0,139.0,136.0,19
+2020-03-03,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,103.0,119.0,103.0,20
+2020-03-03,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,98.0,107.0,97.0,21
+2020-03-03,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,54.0,52.0,54.0,22
+2020-03-03,WestVirginia,4bf58dd8d48988d172941735,Post Offices,117.0,110.0,118.0,23
+2020-03-03,WestVirginia,4bf58dd8d48988d1ae941735,Universities,93.0,"",93.0,24
+2020-03-03,WestVirginia,4bf58dd8d48988d124941735,Offices,86.0,87.0,86.0,25
+2020-03-03,WestVirginia,4bf58dd8d48988d163941735,Parks,104.0,115.0,104.0,26
+2020-03-03,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,103.0,101.0,103.0,27
+2020-03-03,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,16.0,17.0,28
+2020-03-03,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,121.0,116.0,121.0,29
+2020-03-03,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,113.0,111.0,114.0,30
+2020-03-03,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,93.0,"",94.0,31
+2020-03-03,WestVirginia,4bf58dd8d48988d176941735,Gyms,110.0,88.0,111.0,32
+2020-03-03,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,109.0,105.0,109.0,33
+2020-03-03,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,105.0,92.0,106.0,34
+2020-03-03,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,102.0,108.0,101.0,35
+2020-03-03,WestVirginia,4bf58dd8d48988d147941735,Diners,111.0,125.0,111.0,36
+2020-03-03,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,109.0,84.0,110.0,37
+2020-03-03,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,"",51.0,38
+2020-03-03,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,105.0,"",105.0,39
+2020-03-03,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,99.0,"",99.0,39
+2020-03-03,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,100.0,118.0,99.0,40
+2020-03-03,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,113.0,119.0,112.0,41
+2020-03-03,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,51.0,"",50.0,42
+2020-03-03,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,102.0,"",102.0,43
+2020-03-03,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,98.0,"",98.0,44
+2020-03-03,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,130.0,"",129.0,45
+2020-03-03,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,99.0,"",99.0,46
+2020-03-03,WestVirginia,4bf58dd8d48988d13b941735,Schools,12.0,"",12.0,47
+2020-03-03,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,110.0,"",111.0,48
+2020-03-03,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),108.0,"",107.0,49
+2020-03-03,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,122.0,129.0,122.0,50
+2020-03-03,WestVirginia,4d954af4a243a5684765b473,Veterinarians,124.0,"",125.0,51
+2020-03-03,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,97.0,"",97.0,52
+2020-03-03,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,100.0,"",100.0,52
+2020-03-03,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,107.0,"",108.0,53
+2020-03-03,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,85.0,"",86.0,54
+2020-03-03,WestVirginia,4bf58dd8d48988d12f941735,Libraries,130.0,"",131.0,55
+2020-03-03,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,123.0,"",124.0,56
+2020-03-03,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,115.0,"",117.0,57
+2020-03-03,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,129.0,"",130.0,58
+2020-03-03,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,107.0,"",107.0,59
+2020-03-03,WestVirginia,4bf58dd8d48988d11b941735,Pubs,145.0,"",146.0,60
+2020-03-03,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,113.0,"",114.0,61
+2020-03-03,WestVirginia,4bf58dd8d48988d15b941735,Farms,101.0,"",101.0,62
+2020-03-03,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,127.0,"",129.0,63
+2020-03-03,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,104.0,"",104.0,64
+2020-03-03,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,130.0,"",129.0,64
+2020-03-03,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,104.0,"",104.0,65
+2020-03-03,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,86.0,"",86.0,65
+2020-03-03,WestVirginia,4bf58dd8d48988d16d941735,Cafés,94.0,"",93.0,66
+2020-03-03,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,117.0,"",117.0,67
+2020-03-03,WestVirginia,4bf58dd8d48988d17c941735,Casinos,95.0,"",95.0,68
+2020-03-03,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,123.0,"",123.0,69
+2020-03-03,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,95.0,"",95.0,70
+2020-03-03,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,124.0,"",125.0,71
+2020-03-03,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,91.0,"",91.0,72
+2020-03-03,WestVirginia,4bf58dd8d48988d12e941735,Police Stations,149.0,"",147.0,72
+2020-03-03,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,148.0,"",151.0,72
+2020-03-03,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,125.0,"",124.0,73
+2020-03-03,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,115.0,"",115.0,74
+2020-03-03,WestVirginia,4bf58dd8d48988d116951735,Antique Shops,134.0,"",134.0,74
+2020-03-03,WestVirginia,4bf58dd8d48988d159941735,Trails,93.0,"",92.0,75
+2020-03-04,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,106.0,102.0,106.0,1
+2020-03-04,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,115.0,113.0,2
+2020-03-04,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,101.0,102.0,3
+2020-03-04,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,91.0,98.0,4
+2020-03-04,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,112.0,117.0,112.0,5
+2020-03-04,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,98.0,102.0,98.0,6
+2020-03-04,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,103.0,86.0,104.0,7
+2020-03-04,WestVirginia,4bf58dd8d48988d196941735,Hospitals,97.0,89.0,97.0,8
+2020-03-04,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,98.0,85.0,98.0,9
+2020-03-04,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,111.0,105.0,111.0,10
+2020-03-04,WestVirginia,4bf58dd8d48988d13d941735,High Schools,105.0,99.0,105.0,11
+2020-03-04,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,111.0,102.0,111.0,12
+2020-03-04,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,111.0,108.0,111.0,13
+2020-03-04,WestVirginia,4bf58dd8d48988d116941735,Bars,60.0,58.0,60.0,14
+2020-03-04,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,100.0,91.0,100.0,15
+2020-03-04,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,115.0,121.0,114.0,16
+2020-03-04,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,74.0,66.0,74.0,17
+2020-03-04,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,104.0,102.0,104.0,18
+2020-03-04,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,100.0,94.0,101.0,19
+2020-03-04,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,94.0,113.0,93.0,20
+2020-03-04,WestVirginia,4bf58dd8d48988d10a951735,Banks,119.0,119.0,119.0,21
+2020-03-04,WestVirginia,4bf58dd8d48988d163941735,Parks,119.0,130.0,119.0,22
+2020-03-04,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,54.0,55.0,54.0,23
+2020-03-04,WestVirginia,4bf58dd8d48988d1ae941735,Universities,103.0,"",103.0,24
+2020-03-04,WestVirginia,4bf58dd8d48988d172941735,Post Offices,108.0,99.0,109.0,25
+2020-03-04,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,109.0,115.0,108.0,26
+2020-03-04,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,15.0,17.0,27
+2020-03-04,WestVirginia,4bf58dd8d48988d124941735,Offices,83.0,83.0,83.0,28
+2020-03-04,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,"",91.0,29
+2020-03-04,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,110.0,85.0,111.0,30
+2020-03-04,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,111.0,97.0,111.0,31
+2020-03-04,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,102.0,87.0,103.0,32
+2020-03-04,WestVirginia,4bf58dd8d48988d176941735,Gyms,106.0,94.0,107.0,33
+2020-03-04,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,103.0,"",105.0,34
+2020-03-04,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,101.0,105.0,101.0,35
+2020-03-04,WestVirginia,4bf58dd8d48988d147941735,Diners,115.0,115.0,115.0,36
+2020-03-04,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,109.0,"",110.0,37
+2020-03-04,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,97.0,87.0,98.0,38
+2020-03-04,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,50.0,"",51.0,39
+2020-03-04,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,103.0,103.0,103.0,40
+2020-03-04,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,103.0,158.0,101.0,41
+2020-03-04,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,109.0,123.0,108.0,42
+2020-03-04,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,101.0,"",101.0,43
+2020-03-04,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,107.0,106.0,107.0,44
+2020-03-04,WestVirginia,4bf58dd8d48988d13b941735,Schools,15.0,"",14.0,45
+2020-03-04,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,105.0,"",106.0,46
+2020-03-04,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,48.0,"",47.0,47
+2020-03-04,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,106.0,"",106.0,48
+2020-03-04,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,122.0,132.0,122.0,49
+2020-03-04,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,110.0,"",111.0,50
+2020-03-04,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,100.0,"",100.0,51
+2020-03-04,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,112.0,"",113.0,52
+2020-03-04,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),102.0,"",102.0,53
+2020-03-04,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,108.0,"",107.0,54
+2020-03-04,WestVirginia,4d954af4a243a5684765b473,Veterinarians,114.0,"",115.0,55
+2020-03-04,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,81.0,"",82.0,56
+2020-03-04,WestVirginia,4bf58dd8d48988d16d941735,Cafés,127.0,"",127.0,57
+2020-03-04,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,129.0,"",130.0,58
+2020-03-04,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,119.0,"",119.0,59
+2020-03-04,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,128.0,"",128.0,60
+2020-03-04,WestVirginia,4bf58dd8d48988d159941735,Trails,129.0,"",131.0,61
+2020-03-04,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,104.0,"",104.0,62
+2020-03-04,WestVirginia,4bf58dd8d48988d15b941735,Farms,101.0,"",102.0,63
+2020-03-04,WestVirginia,4bf58dd8d48988d17c941735,Casinos,115.0,"",113.0,64
+2020-03-04,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,103.0,"",103.0,64
+2020-03-04,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,112.0,"",112.0,65
+2020-03-04,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,117.0,"",117.0,66
+2020-03-04,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,102.0,"",104.0,67
+2020-03-04,WestVirginia,4bf58dd8d48988d12f941735,Libraries,101.0,"",102.0,67
+2020-03-04,WestVirginia,4bf58dd8d48988d11b941735,Pubs,126.0,"",124.0,68
+2020-03-04,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,106.0,"",105.0,69
+2020-03-04,WestVirginia,4bf58dd8d48988d161941735,Lakes,145.0,"",144.0,70
+2020-03-04,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,104.0,"",106.0,71
+2020-03-04,WestVirginia,4bf58dd8d48988d1ed931735,Airports,88.0,"",90.0,72
+2020-03-04,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,114.0,"",114.0,73
+2020-03-04,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,98.0,"",99.0,74
+2020-03-04,WestVirginia,4bf58dd8d48988d12f951735,Resorts,141.0,"",138.0,75
+2020-03-04,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,103.0,"",102.0,75
+2020-03-04,WestVirginia,4bf58dd8d48988d19b941735,College Science Buildings,96.0,"",97.0,76
+2020-03-04,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,121.0,"",122.0,77
+2020-03-04,WestVirginia,4bf58dd8d48988d1fc941735,Laundry Services,134.0,"",133.0,78
+2020-03-04,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,116.0,"",113.0,78
+2020-03-04,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,121.0,"",120.0,79
+2020-03-04,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,104.0,"",102.0,80
+2020-03-04,WestVirginia,4bf58dd8d48988d1fb931735,Motels,109.0,"",109.0,81
+2020-03-04,WestVirginia,4d4b7105d754a06375d81259,Professional & Other Places,2.0,"",2.0,82
+2020-03-05,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,110.0,105.0,111.0,1
+2020-03-05,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,120.0,113.0,2
+2020-03-05,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,104.0,100.0,104.0,3
+2020-03-05,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,104.0,107.0,4
+2020-03-05,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,113.0,120.0,113.0,5
+2020-03-05,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,104.0,110.0,103.0,6
+2020-03-05,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,119.0,105.0,119.0,7
+2020-03-05,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,110.0,99.0,111.0,8
+2020-03-05,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,105.0,105.0,105.0,9
+2020-03-05,WestVirginia,4bf58dd8d48988d13d941735,High Schools,108.0,109.0,108.0,10
+2020-03-05,WestVirginia,4bf58dd8d48988d196941735,Hospitals,91.0,96.0,91.0,11
+2020-03-05,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,112.0,99.0,112.0,12
+2020-03-05,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,115.0,124.0,115.0,13
+2020-03-05,WestVirginia,4bf58dd8d48988d116941735,Bars,67.0,66.0,67.0,14
+2020-03-05,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,83.0,86.0,82.0,15
+2020-03-05,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,108.0,116.0,108.0,16
+2020-03-05,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,114.0,113.0,114.0,17
+2020-03-05,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,116.0,109.0,116.0,18
+2020-03-05,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,106.0,92.0,106.0,19
+2020-03-05,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,95.0,95.0,95.0,20
+2020-03-05,WestVirginia,4bf58dd8d48988d10a951735,Banks,128.0,137.0,127.0,21
+2020-03-05,WestVirginia,4bf58dd8d48988d163941735,Parks,125.0,118.0,126.0,22
+2020-03-05,WestVirginia,4bf58dd8d48988d172941735,Post Offices,114.0,123.0,113.0,23
+2020-03-05,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,52.0,48.0,52.0,24
+2020-03-05,WestVirginia,4bf58dd8d48988d124941735,Offices,94.0,124.0,94.0,25
+2020-03-05,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,113.0,96.0,114.0,26
+2020-03-05,WestVirginia,4bf58dd8d48988d1ae941735,Universities,95.0,"",95.0,26
+2020-03-05,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,20.0,17.0,27
+2020-03-05,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,99.0,127.0,99.0,28
+2020-03-05,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,113.0,123.0,112.0,29
+2020-03-05,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,111.0,138.0,110.0,30
+2020-03-05,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,112.0,93.0,112.0,31
+2020-03-05,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,106.0,114.0,106.0,32
+2020-03-05,WestVirginia,4bf58dd8d48988d176941735,Gyms,114.0,106.0,115.0,33
+2020-03-05,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,120.0,"",120.0,34
+2020-03-05,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,106.0,108.0,106.0,34
+2020-03-05,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,102.0,112.0,102.0,35
+2020-03-05,WestVirginia,4bf58dd8d48988d147941735,Diners,103.0,103.0,103.0,36
+2020-03-05,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,114.0,"",115.0,37
+2020-03-05,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,111.0,"",112.0,38
+2020-03-05,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,55.0,"",55.0,39
+2020-03-05,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,117.0,"",116.0,40
+2020-03-05,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,108.0,116.0,108.0,41
+2020-03-05,WestVirginia,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,42
+2020-03-05,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,132.0,151.0,130.0,43
+2020-03-05,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,109.0,131.0,108.0,43
+2020-03-05,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,113.0,"",113.0,44
+2020-03-05,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,122.0,152.0,121.0,45
+2020-03-05,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,110.0,"",111.0,46
+2020-03-05,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,103.0,"",104.0,47
+2020-03-05,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),113.0,"",113.0,48
+2020-03-05,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,123.0,"",123.0,48
+2020-03-05,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,46.0,"",45.0,49
+2020-03-05,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,103.0,"",103.0,50
+2020-03-05,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,134.0,"",134.0,51
+2020-03-05,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,75.0,"",75.0,51
+2020-03-05,WestVirginia,4bf58dd8d48988d17c941735,Casinos,106.0,"",105.0,52
+2020-03-05,WestVirginia,4d954af4a243a5684765b473,Veterinarians,104.0,"",103.0,53
+2020-03-05,WestVirginia,4bf58dd8d48988d16d941735,Cafés,127.0,"",128.0,54
+2020-03-05,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,119.0,"",119.0,55
+2020-03-05,WestVirginia,4bf58dd8d48988d159941735,Trails,129.0,"",130.0,56
+2020-03-05,WestVirginia,4bf58dd8d48988d11b941735,Pubs,145.0,"",145.0,57
+2020-03-05,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,110.0,"",112.0,57
+2020-03-05,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,110.0,"",111.0,58
+2020-03-05,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,122.0,"",122.0,58
+2020-03-05,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,126.0,"",126.0,59
+2020-03-05,WestVirginia,4bf58dd8d48988d1ed931735,Airports,107.0,"",108.0,60
+2020-03-05,WestVirginia,4bf58dd8d48988d15b941735,Farms,103.0,"",104.0,61
+2020-03-05,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,172.0,"",173.0,61
+2020-03-05,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,110.0,"",110.0,61
+2020-03-05,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,108.0,"",109.0,62
+2020-03-05,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,126.0,"",126.0,62
+2020-03-05,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,110.0,"",108.0,63
+2020-03-05,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,96.0,"",96.0,64
+2020-03-05,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,111.0,"",112.0,65
+2020-03-05,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,119.0,"",120.0,66
+2020-03-05,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,126.0,"",126.0,67
+2020-03-05,WestVirginia,4bf58dd8d48988d12f941735,Libraries,100.0,"",101.0,68
+2020-03-05,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,127.0,"",127.0,69
+2020-03-05,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,122.0,"",119.0,69
+2020-03-05,WestVirginia,4d4b7105d754a06375d81259,Professional & Other Places,2.0,"",2.0,70
+2020-03-05,WestVirginia,4bf58dd8d48988d12f951735,Resorts,133.0,"",134.0,71
+2020-03-05,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,7.0,"",7.0,72
+2020-03-05,WestVirginia,4bf58dd8d48988d1ff931735,Convention Centers,207.0,"",209.0,73
+2020-03-05,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,121.0,"",123.0,74
+2020-03-05,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,109.0,"",108.0,75
+2020-03-05,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,97.0,"",98.0,75
+2020-03-05,WestVirginia,4bf58dd8d48988d116951735,Antique Shops,120.0,"",120.0,76
+2020-03-05,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,115.0,"",114.0,76
+2020-03-06,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,104.0,99.0,104.0,1
+2020-03-06,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,110.0,105.0,110.0,2
+2020-03-06,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,100.0,102.0,3
+2020-03-06,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,103.0,100.0,103.0,4
+2020-03-06,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,101.0,106.0,101.0,5
+2020-03-06,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,103.0,92.0,103.0,6
+2020-03-06,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,106.0,104.0,106.0,7
+2020-03-06,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,105.0,88.0,105.0,8
+2020-03-06,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,104.0,94.0,104.0,9
+2020-03-06,WestVirginia,4bf58dd8d48988d13d941735,High Schools,124.0,135.0,124.0,10
+2020-03-06,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,105.0,109.0,105.0,11
+2020-03-06,WestVirginia,4bf58dd8d48988d196941735,Hospitals,99.0,82.0,99.0,12
+2020-03-06,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,87.0,79.0,87.0,13
+2020-03-06,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,101.0,100.0,101.0,14
+2020-03-06,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,111.0,107.0,111.0,15
+2020-03-06,WestVirginia,4bf58dd8d48988d116941735,Bars,59.0,49.0,59.0,16
+2020-03-06,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,111.0,111.0,111.0,17
+2020-03-06,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,111.0,110.0,111.0,18
+2020-03-06,WestVirginia,4bf58dd8d48988d10a951735,Banks,113.0,109.0,113.0,19
+2020-03-06,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,86.0,87.0,86.0,20
+2020-03-06,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,63.0,64.0,63.0,21
+2020-03-06,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,117.0,113.0,118.0,22
+2020-03-06,WestVirginia,4bf58dd8d48988d172941735,Post Offices,100.0,72.0,101.0,23
+2020-03-06,WestVirginia,4bf58dd8d48988d124941735,Offices,97.0,102.0,97.0,24
+2020-03-06,WestVirginia,4bf58dd8d48988d163941735,Parks,102.0,128.0,102.0,25
+2020-03-06,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,101.0,101.0,101.0,26
+2020-03-06,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,19.0,20.0,19.0,27
+2020-03-06,WestVirginia,4bf58dd8d48988d1ae941735,Universities,97.0,"",97.0,28
+2020-03-06,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,129.0,150.0,128.0,29
+2020-03-06,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,99.0,70.0,100.0,30
+2020-03-06,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,102.0,105.0,102.0,31
+2020-03-06,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,101.0,92.0,101.0,32
+2020-03-06,WestVirginia,4bf58dd8d48988d147941735,Diners,121.0,99.0,122.0,33
+2020-03-06,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,98.0,"",98.0,34
+2020-03-06,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,111.0,"",112.0,35
+2020-03-06,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,113.0,122.0,113.0,36
+2020-03-06,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,106.0,106.0,106.0,37
+2020-03-06,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,89.0,93.0,89.0,38
+2020-03-06,WestVirginia,4bf58dd8d48988d176941735,Gyms,114.0,127.0,113.0,39
+2020-03-06,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,100.0,"",100.0,40
+2020-03-06,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,109.0,"",109.0,41
+2020-03-06,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,101.0,"",101.0,42
+2020-03-06,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,113.0,"",113.0,43
+2020-03-06,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,55.0,"",56.0,44
+2020-03-06,WestVirginia,4bf58dd8d48988d13b941735,Schools,17.0,"",17.0,45
+2020-03-06,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,98.0,"",98.0,45
+2020-03-06,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,97.0,119.0,96.0,46
+2020-03-06,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,98.0,109.0,97.0,46
+2020-03-06,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),117.0,"",117.0,47
+2020-03-06,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,120.0,"",119.0,48
+2020-03-06,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,95.0,"",96.0,49
+2020-03-06,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,97.0,"",98.0,50
+2020-03-06,WestVirginia,4bf58dd8d48988d17c941735,Casinos,88.0,"",89.0,50
+2020-03-06,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,123.0,"",123.0,51
+2020-03-06,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,57.0,"",57.0,52
+2020-03-06,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,135.0,"",134.0,53
+2020-03-06,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,139.0,"",141.0,54
+2020-03-06,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,101.0,"",102.0,54
+2020-03-06,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,67.0,"",67.0,55
+2020-03-06,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,116.0,"",116.0,56
+2020-03-06,WestVirginia,4d954af4a243a5684765b473,Veterinarians,108.0,"",108.0,57
+2020-03-06,WestVirginia,4bf58dd8d48988d11b941735,Pubs,138.0,"",138.0,58
+2020-03-06,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,119.0,"",119.0,59
+2020-03-06,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,99.0,"",100.0,60
+2020-03-06,WestVirginia,4bf58dd8d48988d16d941735,Cafés,98.0,"",98.0,61
+2020-03-06,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,97.0,"",97.0,62
+2020-03-06,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,98.0,"",98.0,62
+2020-03-06,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,152.0,"",153.0,63
+2020-03-06,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,112.0,"",113.0,64
+2020-03-06,WestVirginia,4bf58dd8d48988d159941735,Trails,115.0,"",116.0,65
+2020-03-06,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,141.0,"",140.0,66
+2020-03-06,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,99.0,"",99.0,67
+2020-03-06,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,120.0,"",121.0,68
+2020-03-06,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,103.0,"",103.0,69
+2020-03-06,WestVirginia,4bf58dd8d48988d12f951735,Resorts,104.0,"",104.0,69
+2020-03-06,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,82.0,"",81.0,70
+2020-03-06,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,92.0,"",93.0,71
+2020-03-06,WestVirginia,4bf58dd8d48988d1ed931735,Airports,87.0,"",88.0,72
+2020-03-06,WestVirginia,4bf58dd8d48988d15b941735,Farms,79.0,"",79.0,72
+2020-03-06,WestVirginia,4bf58dd8d48988d10c951735,Cosmetics Shops,113.0,"",112.0,73
+2020-03-06,WestVirginia,4bf58dd8d48988d1ff931735,Convention Centers,153.0,"",153.0,73
+2020-03-06,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,98.0,"",98.0,74
+2020-03-06,WestVirginia,4bf58dd8d48988d12c941735,Fire Stations,122.0,"",121.0,75
+2020-03-06,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,86.0,"",86.0,76
+2020-03-06,WestVirginia,4bf58dd8d48988d1fb931735,Motels,107.0,"",107.0,77
+2020-03-06,WestVirginia,4bf58dd8d48988d116951735,Antique Shops,129.0,"",130.0,77
+2020-03-06,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,81.0,"",81.0,78
+2020-03-07,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,109.0,97.0,109.0,1
+2020-03-07,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,105.0,97.0,105.0,2
+2020-03-07,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,95.0,101.0,3
+2020-03-07,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,103.0,103.0,103.0,4
+2020-03-07,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,101.0,95.0,101.0,5
+2020-03-07,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,108.0,105.0,108.0,6
+2020-03-07,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,101.0,95.0,101.0,7
+2020-03-07,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,113.0,114.0,113.0,8
+2020-03-07,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,92.0,83.0,92.0,9
+2020-03-07,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,102.0,101.0,102.0,10
+2020-03-07,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,96.0,83.0,96.0,11
+2020-03-07,WestVirginia,4bf58dd8d48988d116941735,Bars,61.0,59.0,61.0,12
+2020-03-07,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,102.0,103.0,102.0,13
+2020-03-07,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,101.0,99.0,101.0,14
+2020-03-07,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,115.0,121.0,114.0,15
+2020-03-07,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,87.0,102.0,86.0,16
+2020-03-07,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,102.0,109.0,102.0,17
+2020-03-07,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,104.0,107.0,103.0,18
+2020-03-07,WestVirginia,4bf58dd8d48988d13d941735,High Schools,99.0,103.0,99.0,19
+2020-03-07,WestVirginia,4bf58dd8d48988d196941735,Hospitals,97.0,100.0,97.0,20
+2020-03-07,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,110.0,"",110.0,21
+2020-03-07,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,96.0,99.0,95.0,22
+2020-03-07,WestVirginia,4bf58dd8d48988d163941735,Parks,105.0,"",106.0,23
+2020-03-07,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,100.0,100.0,100.0,24
+2020-03-07,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,89.0,89.0,89.0,25
+2020-03-07,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,100.0,118.0,99.0,26
+2020-03-07,WestVirginia,4bf58dd8d48988d17c941735,Casinos,94.0,88.0,94.0,27
+2020-03-07,WestVirginia,4bf58dd8d48988d10a951735,Banks,103.0,"",104.0,28
+2020-03-07,WestVirginia,4bf58dd8d48988d1ae941735,Universities,112.0,"",113.0,29
+2020-03-07,WestVirginia,4bf58dd8d48988d172941735,Post Offices,100.0,"",101.0,30
+2020-03-07,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,119.0,"",120.0,31
+2020-03-07,WestVirginia,4bf58dd8d48988d147941735,Diners,102.0,118.0,101.0,32
+2020-03-07,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,101.0,"",101.0,33
+2020-03-07,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,111.0,"",112.0,34
+2020-03-07,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,105.0,"",105.0,35
+2020-03-07,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,64.0,"",65.0,36
+2020-03-07,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,109.0,"",109.0,37
+2020-03-07,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,59.0,"",59.0,38
+2020-03-07,WestVirginia,4bf58dd8d48988d176941735,Gyms,99.0,"",99.0,39
+2020-03-07,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,90.0,"",90.0,40
+2020-03-07,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,108.0,"",108.0,41
+2020-03-07,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,115.0,"",115.0,42
+2020-03-07,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,49.0,"",50.0,43
+2020-03-07,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,100.0,"",100.0,43
+2020-03-07,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,104.0,"",105.0,44
+2020-03-07,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),119.0,"",119.0,45
+2020-03-07,WestVirginia,4bf58dd8d48988d18b941735,Basketball Stadiums,224.0,"",223.0,46
+2020-03-07,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,86.0,"",86.0,47
+2020-03-07,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,100.0,"",100.0,48
+2020-03-07,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,18.0,"",18.0,49
+2020-03-07,WestVirginia,4bf58dd8d48988d124941735,Offices,82.0,"",82.0,50
+2020-03-07,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,105.0,"",105.0,50
+2020-03-07,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,98.0,"",99.0,51
+2020-03-07,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,104.0,"",104.0,52
+2020-03-07,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,108.0,"",106.0,52
+2020-03-07,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,110.0,"",110.0,53
+2020-03-07,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,124.0,"",124.0,54
+2020-03-07,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,108.0,"",108.0,55
+2020-03-07,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,96.0,"",97.0,56
+2020-03-07,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,132.0,"",132.0,57
+2020-03-07,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,105.0,"",107.0,58
+2020-03-07,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,114.0,"",114.0,58
+2020-03-07,WestVirginia,4bf58dd8d48988d159941735,Trails,129.0,"",128.0,59
+2020-03-07,WestVirginia,4bf58dd8d48988d15b941735,Farms,116.0,"",115.0,60
+2020-03-07,WestVirginia,4bf58dd8d48988d16d941735,Cafés,119.0,"",120.0,60
+2020-03-07,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,108.0,"",107.0,60
+2020-03-07,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,97.0,"",97.0,61
+2020-03-07,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,108.0,"",108.0,62
+2020-03-07,WestVirginia,4bf58dd8d48988d12f951735,Resorts,99.0,"",98.0,63
+2020-03-07,WestVirginia,4bf58dd8d48988d11b941735,Pubs,100.0,"",100.0,64
+2020-03-07,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,105.0,"",105.0,65
+2020-03-07,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,106.0,"",107.0,66
+2020-03-07,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,108.0,"",109.0,66
+2020-03-07,WestVirginia,4bf58dd8d48988d10c951735,Cosmetics Shops,106.0,"",107.0,67
+2020-03-07,WestVirginia,4bf58dd8d48988d1ff931735,Convention Centers,134.0,"",135.0,68
+2020-03-07,WestVirginia,4bf58dd8d48988d127951735,Arts & Crafts Stores,94.0,"",95.0,69
+2020-03-07,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,96.0,"",96.0,69
+2020-03-07,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,95.0,"",95.0,70
+2020-03-07,WestVirginia,4bf58dd8d48988d111941735,Japanese Restaurants,84.0,"",83.0,71
+2020-03-07,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,100.0,"",99.0,72
+2020-03-07,WestVirginia,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,73
+2020-03-07,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,112.0,"",111.0,74
+2020-03-07,WestVirginia,4d954af4a243a5684765b473,Veterinarians,111.0,"",110.0,75
+2020-03-07,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,113.0,"",113.0,76
+2020-03-07,WestVirginia,52e81612bcbc57f1066b79f4,Buffets,124.0,"",124.0,77
+2020-03-07,WestVirginia,4bf58dd8d48988d100951735,Pet Stores,101.0,"",101.0,78
+2020-03-07,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,157.0,"",157.0,79
+2020-03-07,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,118.0,"",118.0,79
+2020-03-07,WestVirginia,4bf58dd8d48988d101951735,Thrift / Vintage Stores,121.0,"",123.0,79
+2020-03-07,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,104.0,"",103.0,79
+2020-03-08,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,116.0,115.0,116.0,1
+2020-03-08,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,121.0,117.0,121.0,2
+2020-03-08,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,104.0,106.0,3
+2020-03-08,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,91.0,100.0,4
+2020-03-08,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,110.0,96.0,111.0,5
+2020-03-08,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,112.0,106.0,112.0,6
+2020-03-08,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,105.0,96.0,106.0,7
+2020-03-08,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,123.0,115.0,123.0,8
+2020-03-08,WestVirginia,4bf58dd8d48988d116941735,Bars,67.0,55.0,67.0,9
+2020-03-08,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,116.0,105.0,116.0,10
+2020-03-08,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,115.0,104.0,115.0,11
+2020-03-08,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,103.0,100.0,103.0,12
+2020-03-08,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,83.0,80.0,83.0,13
+2020-03-08,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,106.0,118.0,106.0,14
+2020-03-08,WestVirginia,4bf58dd8d48988d163941735,Parks,139.0,114.0,140.0,15
+2020-03-08,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,96.0,77.0,96.0,16
+2020-03-08,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,124.0,131.0,124.0,17
+2020-03-08,WestVirginia,4bf58dd8d48988d196941735,Hospitals,107.0,94.0,108.0,18
+2020-03-08,WestVirginia,4bf58dd8d48988d13d941735,High Schools,112.0,"",112.0,19
+2020-03-08,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,109.0,92.0,110.0,20
+2020-03-08,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,128.0,"",129.0,21
+2020-03-08,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,108.0,92.0,109.0,22
+2020-03-08,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,106.0,"",106.0,23
+2020-03-08,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,109.0,110.0,109.0,24
+2020-03-08,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,109.0,118.0,109.0,25
+2020-03-08,WestVirginia,4bf58dd8d48988d17c941735,Casinos,98.0,"",98.0,26
+2020-03-08,WestVirginia,4bf58dd8d48988d172941735,Post Offices,140.0,"",141.0,27
+2020-03-08,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,129.0,150.0,128.0,27
+2020-03-08,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,118.0,152.0,117.0,28
+2020-03-08,WestVirginia,4bf58dd8d48988d147941735,Diners,109.0,113.0,109.0,29
+2020-03-08,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,62.0,"",62.0,30
+2020-03-08,WestVirginia,4bf58dd8d48988d1ae941735,Universities,102.0,"",102.0,31
+2020-03-08,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,112.0,"",112.0,32
+2020-03-08,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,102.0,"",103.0,33
+2020-03-08,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,103.0,"",104.0,34
+2020-03-08,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,112.0,"",112.0,35
+2020-03-08,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,118.0,"",118.0,36
+2020-03-08,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,65.0,"",65.0,37
+2020-03-08,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),119.0,"",119.0,38
+2020-03-08,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,134.0,"",133.0,39
+2020-03-08,WestVirginia,4bf58dd8d48988d10a951735,Banks,98.0,"",98.0,40
+2020-03-08,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,125.0,"",125.0,41
+2020-03-08,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,154.0,"",154.0,42
+2020-03-08,WestVirginia,4bf58dd8d48988d159941735,Trails,156.0,"",158.0,43
+2020-03-08,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,80.0,"",80.0,44
+2020-03-08,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,104.0,"",105.0,45
+2020-03-08,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,129.0,"",128.0,46
+2020-03-08,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,122.0,"",122.0,47
+2020-03-08,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,21.0,"",21.0,48
+2020-03-08,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,111.0,"",111.0,49
+2020-03-08,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,113.0,"",113.0,50
+2020-03-08,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,110.0,"",110.0,51
+2020-03-08,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,114.0,"",116.0,52
+2020-03-08,WestVirginia,4bf58dd8d48988d176941735,Gyms,97.0,"",98.0,53
+2020-03-08,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,126.0,"",125.0,53
+2020-03-08,WestVirginia,4bf58dd8d48988d124941735,Offices,93.0,"",93.0,54
+2020-03-08,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,107.0,"",108.0,55
+2020-03-08,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,136.0,"",136.0,56
+2020-03-08,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,94.0,"",94.0,57
+2020-03-08,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,130.0,"",130.0,58
+2020-03-08,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,76.0,"",75.0,59
+2020-03-08,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,121.0,"",121.0,60
+2020-03-08,WestVirginia,4bf58dd8d48988d11b941735,Pubs,124.0,"",123.0,61
+2020-03-08,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,97.0,"",98.0,62
+2020-03-08,WestVirginia,4bf58dd8d48988d12f951735,Resorts,108.0,"",109.0,63
+2020-03-08,WestVirginia,4bf58dd8d48988d161941735,Lakes,119.0,"",119.0,64
+2020-03-08,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,105.0,"",104.0,65
+2020-03-08,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,119.0,"",121.0,66
+2020-03-08,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,111.0,"",111.0,66
+2020-03-08,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,124.0,"",125.0,66
+2020-03-08,WestVirginia,4bf58dd8d48988d15b941735,Farms,90.0,"",90.0,67
+2020-03-08,WestVirginia,4bf58dd8d48988d1ed931735,Airports,124.0,"",125.0,68
+2020-03-08,WestVirginia,4bf58dd8d48988d1e7941735,Playgrounds,175.0,"",178.0,69
+2020-03-08,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,155.0,"",153.0,70
+2020-03-08,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,131.0,"",132.0,71
+2020-03-08,WestVirginia,4bf58dd8d48988d13b941735,Schools,18.0,"",18.0,72
+2020-03-08,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,115.0,"",114.0,72
+2020-03-08,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,114.0,"",114.0,73
+2020-03-08,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,98.0,"",99.0,74
+2020-03-08,WestVirginia,4d954af4a243a5684765b473,Veterinarians,140.0,"",142.0,75
+2020-03-08,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,80.0,"",80.0,76
+2020-03-08,WestVirginia,4bf58dd8d48988d1fb931735,Motels,137.0,"",136.0,77
+2020-03-09,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,106.0,103.0,106.0,1
+2020-03-09,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,108.0,110.0,108.0,2
+2020-03-09,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,107.0,105.0,107.0,3
+2020-03-09,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,104.0,96.0,104.0,4
+2020-03-09,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,108.0,109.0,108.0,5
+2020-03-09,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,111.0,102.0,111.0,6
+2020-03-09,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,110.0,108.0,110.0,7
+2020-03-09,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,103.0,94.0,103.0,8
+2020-03-09,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,112.0,109.0,113.0,9
+2020-03-09,WestVirginia,4bf58dd8d48988d196941735,Hospitals,94.0,80.0,95.0,10
+2020-03-09,WestVirginia,4bf58dd8d48988d13d941735,High Schools,98.0,95.0,99.0,11
+2020-03-09,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,111.0,118.0,111.0,12
+2020-03-09,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,110.0,108.0,110.0,13
+2020-03-09,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,104.0,105.0,104.0,14
+2020-03-09,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,81.0,79.0,81.0,15
+2020-03-09,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,115.0,124.0,115.0,16
+2020-03-09,WestVirginia,4bf58dd8d48988d116941735,Bars,63.0,59.0,63.0,17
+2020-03-09,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,106.0,105.0,107.0,18
+2020-03-09,WestVirginia,4bf58dd8d48988d163941735,Parks,133.0,92.0,135.0,19
+2020-03-09,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,110.0,111.0,110.0,20
+2020-03-09,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,58.0,53.0,58.0,21
+2020-03-09,WestVirginia,4bf58dd8d48988d10a951735,Banks,125.0,132.0,125.0,22
+2020-03-09,WestVirginia,4bf58dd8d48988d172941735,Post Offices,107.0,92.0,108.0,23
+2020-03-09,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,90.0,85.0,90.0,24
+2020-03-09,WestVirginia,4bf58dd8d48988d1ae941735,Universities,88.0,"",88.0,25
+2020-03-09,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,17.0,17.0,26
+2020-03-09,WestVirginia,4bf58dd8d48988d124941735,Offices,90.0,84.0,90.0,27
+2020-03-09,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,100.0,125.0,100.0,28
+2020-03-09,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,"",99.0,29
+2020-03-09,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,109.0,107.0,109.0,30
+2020-03-09,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,98.0,85.0,99.0,31
+2020-03-09,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,112.0,91.0,113.0,32
+2020-03-09,WestVirginia,4bf58dd8d48988d147941735,Diners,119.0,80.0,122.0,33
+2020-03-09,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,104.0,103.0,104.0,34
+2020-03-09,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,115.0,137.0,113.0,35
+2020-03-09,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,56.0,"",56.0,36
+2020-03-09,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,109.0,"",109.0,37
+2020-03-09,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,108.0,101.0,108.0,38
+2020-03-09,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,116.0,165.0,114.0,39
+2020-03-09,WestVirginia,4bf58dd8d48988d176941735,Gyms,91.0,"",92.0,40
+2020-03-09,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,107.0,"",107.0,41
+2020-03-09,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,117.0,136.0,116.0,42
+2020-03-09,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,101.0,"",103.0,43
+2020-03-09,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,121.0,"",120.0,44
+2020-03-09,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,119.0,146.0,118.0,45
+2020-03-09,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,48.0,"",48.0,46
+2020-03-09,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,117.0,"",118.0,47
+2020-03-09,WestVirginia,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,48
+2020-03-09,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),119.0,"",119.0,49
+2020-03-09,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,102.0,"",103.0,50
+2020-03-09,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,100.0,"",100.0,51
+2020-03-09,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,117.0,"",117.0,52
+2020-03-09,WestVirginia,4d954af4a243a5684765b473,Veterinarians,118.0,"",120.0,52
+2020-03-09,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,110.0,114.0,109.0,53
+2020-03-09,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,124.0,"",124.0,54
+2020-03-09,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,148.0,"",147.0,55
+2020-03-09,WestVirginia,4bf58dd8d48988d159941735,Trails,135.0,"",135.0,56
+2020-03-09,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,106.0,"",105.0,57
+2020-03-09,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,112.0,"",113.0,58
+2020-03-09,WestVirginia,4bf58dd8d48988d17c941735,Casinos,104.0,"",104.0,59
+2020-03-09,WestVirginia,4bf58dd8d48988d12f951735,Resorts,133.0,"",132.0,60
+2020-03-09,WestVirginia,4bf58dd8d48988d16d941735,Cafés,102.0,"",102.0,61
+2020-03-09,WestVirginia,4bf58dd8d48988d15b941735,Farms,108.0,"",108.0,62
+2020-03-09,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,114.0,"",115.0,63
+2020-03-09,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,92.0,"",93.0,64
+2020-03-09,WestVirginia,4bf58dd8d48988d1e8941735,Baseball Fields,154.0,"",156.0,64
+2020-03-09,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,94.0,"",92.0,65
+2020-03-09,WestVirginia,4bf58dd8d48988d12f941735,Libraries,117.0,"",114.0,66
+2020-03-09,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,118.0,"",117.0,67
+2020-03-09,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,118.0,"",117.0,68
+2020-03-09,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,116.0,"",116.0,68
+2020-03-09,WestVirginia,4bf58dd8d48988d161941735,Lakes,112.0,"",113.0,69
+2020-03-09,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,59.0,"",59.0,69
+2020-03-09,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,99.0,"",101.0,70
+2020-03-09,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,91.0,"",92.0,70
+2020-03-09,WestVirginia,4bf58dd8d48988d1ed931735,Airports,94.0,"",94.0,71
+2020-03-09,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,111.0,"",111.0,71
+2020-03-09,WestVirginia,4bf58dd8d48988d12c941735,Fire Stations,130.0,"",129.0,72
+2020-03-09,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,138.0,"",140.0,73
+2020-03-09,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,109.0,"",108.0,74
+2020-03-09,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,138.0,"",141.0,75
+2020-03-09,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,143.0,"",144.0,76
+2020-03-09,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,106.0,"",106.0,77
+2020-03-09,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,123.0,"",124.0,78
+2020-03-09,WestVirginia,4bf58dd8d48988d197941735,College Administrative Buildings,110.0,"",112.0,78
+2020-03-10,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,103.0,102.0,103.0,1
+2020-03-10,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,101.0,95.0,102.0,2
+2020-03-10,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,100.0,86.0,101.0,3
+2020-03-10,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,100.0,96.0,100.0,4
+2020-03-10,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,106.0,110.0,106.0,5
+2020-03-10,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,99.0,90.0,100.0,6
+2020-03-10,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,104.0,103.0,104.0,7
+2020-03-10,WestVirginia,4bf58dd8d48988d196941735,Hospitals,95.0,89.0,96.0,8
+2020-03-10,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,99.0,93.0,99.0,9
+2020-03-10,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,103.0,93.0,103.0,10
+2020-03-10,WestVirginia,4bf58dd8d48988d13d941735,High Schools,90.0,87.0,90.0,11
+2020-03-10,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,109.0,99.0,109.0,12
+2020-03-10,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,105.0,91.0,106.0,13
+2020-03-10,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,100.0,89.0,100.0,14
+2020-03-10,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,72.0,65.0,72.0,15
+2020-03-10,WestVirginia,4bf58dd8d48988d116941735,Bars,58.0,53.0,58.0,16
+2020-03-10,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,104.0,114.0,104.0,17
+2020-03-10,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,96.0,90.0,96.0,18
+2020-03-10,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,95.0,92.0,95.0,19
+2020-03-10,WestVirginia,4bf58dd8d48988d10a951735,Banks,117.0,139.0,116.0,20
+2020-03-10,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,51.0,43.0,51.0,21
+2020-03-10,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,88.0,82.0,88.0,22
+2020-03-10,WestVirginia,4bf58dd8d48988d172941735,Post Offices,105.0,118.0,104.0,23
+2020-03-10,WestVirginia,4bf58dd8d48988d124941735,Offices,78.0,88.0,78.0,24
+2020-03-10,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,14.0,17.0,25
+2020-03-10,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,94.0,"",94.0,26
+2020-03-10,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,106.0,"",106.0,27
+2020-03-10,WestVirginia,4bf58dd8d48988d163941735,Parks,92.0,92.0,92.0,28
+2020-03-10,WestVirginia,4bf58dd8d48988d1ae941735,Universities,78.0,"",79.0,29
+2020-03-10,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,105.0,107.0,105.0,30
+2020-03-10,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,107.0,104.0,107.0,30
+2020-03-10,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,112.0,102.0,112.0,31
+2020-03-10,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,96.0,94.0,96.0,32
+2020-03-10,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,99.0,"",100.0,33
+2020-03-10,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,102.0,99.0,102.0,34
+2020-03-10,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,54.0,"",55.0,35
+2020-03-10,WestVirginia,4bf58dd8d48988d176941735,Gyms,89.0,"",90.0,36
+2020-03-10,WestVirginia,4bf58dd8d48988d147941735,Diners,97.0,88.0,97.0,37
+2020-03-10,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,100.0,"",101.0,38
+2020-03-10,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,94.0,"",94.0,39
+2020-03-10,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,101.0,"",102.0,40
+2020-03-10,WestVirginia,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,41
+2020-03-10,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,104.0,"",105.0,42
+2020-03-10,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,118.0,"",118.0,43
+2020-03-10,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,95.0,"",96.0,44
+2020-03-10,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,44.0,"",44.0,45
+2020-03-10,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,93.0,111.0,93.0,46
+2020-03-10,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,92.0,"",93.0,47
+2020-03-10,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,106.0,"",107.0,48
+2020-03-10,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,121.0,103.0,123.0,49
+2020-03-10,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,108.0,"",107.0,50
+2020-03-10,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),96.0,"",96.0,51
+2020-03-10,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,97.0,"",98.0,51
+2020-03-10,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,102.0,"",100.0,52
+2020-03-10,WestVirginia,4d954af4a243a5684765b473,Veterinarians,111.0,"",112.0,53
+2020-03-10,WestVirginia,4bf58dd8d48988d16d941735,Cafés,111.0,"",111.0,54
+2020-03-10,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,119.0,"",117.0,55
+2020-03-10,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,119.0,"",118.0,56
+2020-03-10,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,114.0,"",114.0,56
+2020-03-10,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,91.0,"",91.0,57
+2020-03-10,WestVirginia,4bf58dd8d48988d15b941735,Farms,102.0,"",102.0,58
+2020-03-10,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,103.0,"",103.0,59
+2020-03-10,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,105.0,"",105.0,60
+2020-03-10,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,100.0,"",100.0,60
+2020-03-10,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,124.0,"",125.0,61
+2020-03-10,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,100.0,"",100.0,61
+2020-03-10,WestVirginia,4bf58dd8d48988d12f941735,Libraries,96.0,"",96.0,62
+2020-03-10,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,62.0,"",62.0,63
+2020-03-10,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,100.0,"",100.0,63
+2020-03-10,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,131.0,"",133.0,64
+2020-03-10,WestVirginia,4bf58dd8d48988d17c941735,Casinos,92.0,"",92.0,65
+2020-03-10,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,119.0,"",121.0,66
+2020-03-10,WestVirginia,4bf58dd8d48988d159941735,Trails,93.0,"",94.0,67
+2020-03-10,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,113.0,"",114.0,68
+2020-03-10,WestVirginia,4bf58dd8d48988d1ed931735,Airports,86.0,"",84.0,69
+2020-03-11,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,101.0,91.0,102.0,1
+2020-03-11,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,102.0,99.0,103.0,2
+2020-03-11,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,95.0,104.0,3
+2020-03-11,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,104.0,93.0,105.0,4
+2020-03-11,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,105.0,101.0,105.0,5
+2020-03-11,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,95.0,93.0,95.0,6
+2020-03-11,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,100.0,87.0,100.0,7
+2020-03-11,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,101.0,88.0,101.0,8
+2020-03-11,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,109.0,103.0,109.0,9
+2020-03-11,WestVirginia,4bf58dd8d48988d196941735,Hospitals,89.0,76.0,89.0,10
+2020-03-11,WestVirginia,4bf58dd8d48988d13d941735,High Schools,94.0,89.0,94.0,11
+2020-03-11,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,97.0,100.0,97.0,12
+2020-03-11,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,104.0,114.0,103.0,12
+2020-03-11,WestVirginia,4bf58dd8d48988d116941735,Bars,62.0,63.0,62.0,13
+2020-03-11,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,78.0,57.0,79.0,14
+2020-03-11,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,99.0,87.0,99.0,15
+2020-03-11,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,104.0,93.0,104.0,16
+2020-03-11,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,100.0,103.0,100.0,17
+2020-03-11,WestVirginia,4bf58dd8d48988d10a951735,Banks,118.0,114.0,118.0,18
+2020-03-11,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,91.0,89.0,91.0,19
+2020-03-11,WestVirginia,4bf58dd8d48988d172941735,Post Offices,112.0,117.0,112.0,20
+2020-03-11,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,84.0,93.0,84.0,21
+2020-03-11,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,48.0,38.0,48.0,22
+2020-03-11,WestVirginia,4bf58dd8d48988d163941735,Parks,109.0,105.0,109.0,23
+2020-03-11,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,17.0,15.0,17.0,24
+2020-03-11,WestVirginia,4bf58dd8d48988d1ae941735,Universities,78.0,"",78.0,25
+2020-03-11,WestVirginia,4bf58dd8d48988d124941735,Offices,76.0,101.0,75.0,26
+2020-03-11,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,94.0,"",94.0,27
+2020-03-11,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,98.0,91.0,28
+2020-03-11,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,106.0,96.0,106.0,29
+2020-03-11,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,99.0,89.0,100.0,30
+2020-03-11,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,95.0,77.0,96.0,31
+2020-03-11,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,101.0,91.0,101.0,32
+2020-03-11,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,94.0,72.0,96.0,33
+2020-03-11,WestVirginia,4bf58dd8d48988d147941735,Diners,103.0,112.0,103.0,34
+2020-03-11,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,93.0,83.0,94.0,35
+2020-03-11,WestVirginia,4bf58dd8d48988d176941735,Gyms,90.0,90.0,90.0,36
+2020-03-11,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,105.0,"",106.0,37
+2020-03-11,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,100.0,"",100.0,38
+2020-03-11,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,122.0,"",124.0,39
+2020-03-11,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,106.0,"",106.0,40
+2020-03-11,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,152.0,135.0,153.0,41
+2020-03-11,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,109.0,97.0,110.0,42
+2020-03-11,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,44.0,"",44.0,43
+2020-03-11,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,103.0,"",103.0,44
+2020-03-11,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,104.0,"",104.0,45
+2020-03-11,WestVirginia,4bf58dd8d48988d13b941735,Schools,14.0,"",14.0,46
+2020-03-11,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,82.0,"",82.0,47
+2020-03-11,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,101.0,"",102.0,48
+2020-03-11,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),110.0,"",109.0,48
+2020-03-11,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,108.0,"",109.0,49
+2020-03-11,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,42.0,"",42.0,50
+2020-03-11,WestVirginia,4d954af4a243a5684765b473,Veterinarians,126.0,"",126.0,51
+2020-03-11,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,107.0,"",106.0,52
+2020-03-11,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,77.0,"",78.0,53
+2020-03-11,WestVirginia,4bf58dd8d48988d15b941735,Farms,108.0,"",109.0,54
+2020-03-11,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,94.0,"",95.0,55
+2020-03-11,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,115.0,"",114.0,56
+2020-03-11,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,109.0,"",111.0,57
+2020-03-11,WestVirginia,4bf58dd8d48988d16d941735,Cafés,120.0,"",121.0,57
+2020-03-11,WestVirginia,4bf58dd8d48988d17c941735,Casinos,109.0,"",110.0,58
+2020-03-11,WestVirginia,4bf58dd8d48988d159941735,Trails,116.0,"",117.0,59
+2020-03-11,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,114.0,"",113.0,60
+2020-03-11,WestVirginia,4bf58dd8d48988d12f941735,Libraries,104.0,"",104.0,60
+2020-03-11,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,93.0,"",93.0,60
+2020-03-11,WestVirginia,4bf58dd8d48988d11b941735,Pubs,123.0,"",122.0,61
+2020-03-11,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,113.0,"",114.0,62
+2020-03-11,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,112.0,"",111.0,63
+2020-03-11,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,87.0,"",88.0,64
+2020-03-11,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,102.0,"",103.0,65
+2020-03-11,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,102.0,"",103.0,65
+2020-03-11,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,99.0,"",100.0,66
+2020-03-11,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,126.0,"",128.0,67
+2020-03-11,WestVirginia,4bf58dd8d48988d19b941735,College Science Buildings,110.0,"",110.0,68
+2020-03-11,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,124.0,"",123.0,69
+2020-03-11,WestVirginia,4bf58dd8d48988d1e8941735,Baseball Fields,139.0,"",139.0,69
+2020-03-11,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,95.0,"",96.0,70
+2020-03-11,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,86.0,"",87.0,71
+2020-03-12,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,107.0,105.0,107.0,1
+2020-03-12,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,107.0,104.0,107.0,2
+2020-03-12,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,108.0,110.0,3
+2020-03-12,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,109.0,106.0,109.0,4
+2020-03-12,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,122.0,130.0,121.0,5
+2020-03-12,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,98.0,90.0,99.0,6
+2020-03-12,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,105.0,99.0,105.0,7
+2020-03-12,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,117.0,116.0,117.0,8
+2020-03-12,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,108.0,104.0,108.0,9
+2020-03-12,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,118.0,110.0,118.0,10
+2020-03-12,WestVirginia,4bf58dd8d48988d196941735,Hospitals,85.0,94.0,85.0,11
+2020-03-12,WestVirginia,4bf58dd8d48988d13d941735,High Schools,96.0,96.0,96.0,12
+2020-03-12,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,111.0,116.0,111.0,13
+2020-03-12,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,78.0,58.0,79.0,14
+2020-03-12,WestVirginia,4bf58dd8d48988d116941735,Bars,61.0,58.0,61.0,15
+2020-03-12,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,106.0,103.0,106.0,16
+2020-03-12,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,98.0,95.0,99.0,17
+2020-03-12,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,103.0,99.0,103.0,18
+2020-03-12,WestVirginia,4bf58dd8d48988d163941735,Parks,129.0,125.0,129.0,19
+2020-03-12,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,92.0,90.0,92.0,20
+2020-03-12,WestVirginia,4bf58dd8d48988d172941735,Post Offices,116.0,97.0,117.0,21
+2020-03-12,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,90.0,99.0,90.0,22
+2020-03-12,WestVirginia,4bf58dd8d48988d10a951735,Banks,110.0,107.0,110.0,23
+2020-03-12,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,18.0,21.0,18.0,24
+2020-03-12,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,46.0,33.0,46.0,25
+2020-03-12,WestVirginia,4bf58dd8d48988d124941735,Offices,87.0,102.0,86.0,26
+2020-03-12,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,95.0,109.0,95.0,27
+2020-03-12,WestVirginia,4bf58dd8d48988d1ae941735,Universities,77.0,"",77.0,28
+2020-03-12,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,"",91.0,29
+2020-03-12,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,102.0,122.0,101.0,30
+2020-03-12,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,109.0,103.0,109.0,31
+2020-03-12,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,95.0,97.0,95.0,32
+2020-03-12,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,168.0,163.0,169.0,33
+2020-03-12,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,95.0,101.0,94.0,34
+2020-03-12,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,100.0,98.0,100.0,35
+2020-03-12,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,113.0,105.0,114.0,36
+2020-03-12,WestVirginia,4bf58dd8d48988d147941735,Diners,98.0,116.0,97.0,37
+2020-03-12,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,93.0,84.0,94.0,38
+2020-03-12,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,101.0,"",102.0,39
+2020-03-12,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,125.0,"",125.0,40
+2020-03-12,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,127.0,149.0,127.0,41
+2020-03-12,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,99.0,"",100.0,42
+2020-03-12,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,114.0,114.0,114.0,43
+2020-03-12,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,"",51.0,44
+2020-03-12,WestVirginia,4bf58dd8d48988d176941735,Gyms,87.0,"",88.0,45
+2020-03-12,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,98.0,112.0,97.0,46
+2020-03-12,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,106.0,"",106.0,47
+2020-03-12,WestVirginia,4bf58dd8d48988d13b941735,Schools,13.0,"",13.0,48
+2020-03-12,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,120.0,"",120.0,49
+2020-03-12,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,99.0,"",99.0,50
+2020-03-12,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),108.0,"",109.0,51
+2020-03-12,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,101.0,"",100.0,52
+2020-03-12,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,114.0,"",113.0,53
+2020-03-12,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,131.0,"",131.0,54
+2020-03-12,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,139.0,"",137.0,55
+2020-03-12,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,39.0,"",39.0,56
+2020-03-12,WestVirginia,4d954af4a243a5684765b473,Veterinarians,101.0,"",102.0,56
+2020-03-12,WestVirginia,4bf58dd8d48988d17c941735,Casinos,94.0,"",96.0,57
+2020-03-12,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,110.0,"",108.0,58
+2020-03-12,WestVirginia,4bf58dd8d48988d15b941735,Farms,112.0,"",112.0,58
+2020-03-12,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,123.0,"",124.0,59
+2020-03-12,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,114.0,"",114.0,60
+2020-03-12,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,126.0,"",126.0,61
+2020-03-12,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,60.0,"",61.0,62
+2020-03-12,WestVirginia,4bf58dd8d48988d159941735,Trails,114.0,"",113.0,63
+2020-03-12,WestVirginia,4bf58dd8d48988d11b941735,Pubs,134.0,"",132.0,64
+2020-03-12,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,97.0,"",98.0,65
+2020-03-12,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,104.0,"",104.0,66
+2020-03-12,WestVirginia,4bf58dd8d48988d1e8941735,Baseball Fields,177.0,"",178.0,67
+2020-03-12,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,98.0,"",99.0,67
+2020-03-12,WestVirginia,4bf58dd8d48988d161941735,Lakes,147.0,"",149.0,68
+2020-03-12,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,104.0,"",103.0,69
+2020-03-12,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,92.0,"",90.0,70
+2020-03-12,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,113.0,"",114.0,71
+2020-03-12,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,152.0,"",152.0,72
+2020-03-12,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,7.0,"",7.0,73
+2020-03-12,WestVirginia,4bf58dd8d48988d16f941735,Hot Dog Joints,124.0,"",125.0,74
+2020-03-12,WestVirginia,4bf58dd8d48988d1ed931735,Airports,90.0,"",90.0,75
+2020-03-12,WestVirginia,4bf58dd8d48988d12f941735,Libraries,94.0,"",94.0,76
+2020-03-12,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,101.0,"",102.0,77
+2020-03-12,WestVirginia,4bf58dd8d48988d12f951735,Resorts,133.0,"",132.0,78
+2020-03-12,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,111.0,"",110.0,79
+2020-03-12,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,110.0,"",107.0,79
+2020-03-12,WestVirginia,4bf58dd8d48988d16d941735,Cafés,90.0,"",90.0,80
+2020-03-12,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,109.0,"",111.0,80
+2020-03-12,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,93.0,"",94.0,81
+2020-03-12,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,108.0,"",109.0,81
+2020-03-13,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,114.0,109.0,114.0,1
+2020-03-13,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,114.0,110.0,114.0,2
+2020-03-13,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,121.0,117.0,122.0,3
+2020-03-13,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,135.0,138.0,135.0,4
+2020-03-13,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,150.0,130.0,150.0,5
+2020-03-13,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,147.0,140.0,147.0,6
+2020-03-13,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,105.0,104.0,105.0,7
+2020-03-13,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,124.0,113.0,124.0,8
+2020-03-13,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,110.0,112.0,110.0,9
+2020-03-13,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,139.0,126.0,139.0,10
+2020-03-13,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,106.0,98.0,106.0,11
+2020-03-13,WestVirginia,4bf58dd8d48988d116941735,Bars,65.0,54.0,65.0,12
+2020-03-13,WestVirginia,4bf58dd8d48988d196941735,Hospitals,90.0,70.0,90.0,13
+2020-03-13,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,78.0,74.0,78.0,14
+2020-03-13,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,109.0,102.0,109.0,15
+2020-03-13,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,112.0,108.0,112.0,16
+2020-03-13,WestVirginia,4bf58dd8d48988d13d941735,High Schools,92.0,110.0,92.0,17
+2020-03-13,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,90.0,85.0,90.0,18
+2020-03-13,WestVirginia,4bf58dd8d48988d10a951735,Banks,116.0,111.0,116.0,19
+2020-03-13,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,104.0,100.0,104.0,20
+2020-03-13,WestVirginia,4bf58dd8d48988d172941735,Post Offices,108.0,98.0,108.0,21
+2020-03-13,WestVirginia,4bf58dd8d48988d163941735,Parks,120.0,114.0,120.0,22
+2020-03-13,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,112.0,94.0,112.0,23
+2020-03-13,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,55.0,51.0,55.0,24
+2020-03-13,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,101.0,87.0,102.0,25
+2020-03-13,WestVirginia,4bf58dd8d48988d124941735,Offices,95.0,89.0,95.0,26
+2020-03-13,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,183.0,157.0,185.0,27
+2020-03-13,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,18.0,21.0,18.0,28
+2020-03-13,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,103.0,101.0,104.0,28
+2020-03-13,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,96.0,92.0,97.0,29
+2020-03-13,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,113.0,"",112.0,30
+2020-03-13,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,87.0,93.0,87.0,31
+2020-03-13,WestVirginia,4bf58dd8d48988d1ae941735,Universities,84.0,"",83.0,32
+2020-03-13,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,125.0,174.0,123.0,33
+2020-03-13,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,90.0,"",90.0,34
+2020-03-13,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,110.0,108.0,110.0,35
+2020-03-13,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,86.0,"",87.0,36
+2020-03-13,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,96.0,110.0,96.0,37
+2020-03-13,WestVirginia,4bf58dd8d48988d147941735,Diners,93.0,72.0,94.0,38
+2020-03-13,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,101.0,"",102.0,39
+2020-03-13,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,118.0,135.0,118.0,40
+2020-03-13,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,114.0,"",115.0,41
+2020-03-13,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,99.0,"",100.0,42
+2020-03-13,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,57.0,"",58.0,43
+2020-03-13,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,108.0,"",109.0,44
+2020-03-13,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,94.0,"",94.0,45
+2020-03-13,WestVirginia,4bf58dd8d48988d176941735,Gyms,98.0,120.0,97.0,45
+2020-03-13,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,105.0,"",106.0,46
+2020-03-13,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,109.0,"",109.0,47
+2020-03-13,WestVirginia,4bf58dd8d48988d13b941735,Schools,16.0,"",16.0,48
+2020-03-13,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),108.0,"",107.0,49
+2020-03-13,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,108.0,"",107.0,50
+2020-03-13,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,130.0,"",130.0,51
+2020-03-13,WestVirginia,4bf58dd8d48988d17c941735,Casinos,83.0,"",83.0,52
+2020-03-13,WestVirginia,4bf58dd8d48988d159941735,Trails,141.0,"",140.0,53
+2020-03-13,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,94.0,"",95.0,54
+2020-03-13,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,123.0,"",124.0,55
+2020-03-13,WestVirginia,4d954af4a243a5684765b473,Veterinarians,112.0,"",113.0,55
+2020-03-13,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,127.0,"",127.0,56
+2020-03-13,WestVirginia,4bf58dd8d48988d11b941735,Pubs,137.0,"",137.0,57
+2020-03-13,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,108.0,"",108.0,58
+2020-03-13,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,105.0,"",106.0,58
+2020-03-13,WestVirginia,4bf58dd8d48988d15b941735,Farms,108.0,"",107.0,58
+2020-03-13,WestVirginia,4bf58dd8d48988d16d941735,Cafés,112.0,"",113.0,59
+2020-03-13,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,115.0,"",114.0,60
+2020-03-13,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,121.0,"",121.0,61
+2020-03-13,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,114.0,"",112.0,62
+2020-03-13,WestVirginia,4bf58dd8d48988d186941735,Liquor Stores,141.0,"",140.0,62
+2020-03-13,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,95.0,"",96.0,63
+2020-03-13,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,121.0,"",122.0,64
+2020-03-13,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,52.0,"",52.0,64
+2020-03-13,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,96.0,"",95.0,65
+2020-03-13,WestVirginia,4bf58dd8d48988d198941735,College Academic Buildings,46.0,"",46.0,65
+2020-03-13,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,8.0,"",7.0,66
+2020-03-13,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,93.0,"",93.0,67
+2020-03-13,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,110.0,"",110.0,68
+2020-03-13,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,156.0,"",156.0,69
+2020-03-13,WestVirginia,4bf58dd8d48988d12f951735,Resorts,107.0,"",107.0,69
+2020-03-13,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,134.0,"",132.0,70
+2020-03-13,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,92.0,"",92.0,71
+2020-03-13,WestVirginia,4bf58dd8d48988d161941735,Lakes,129.0,"",128.0,71
+2020-03-13,WestVirginia,4bf58dd8d48988d1fb931735,Motels,117.0,"",118.0,71
+2020-03-13,WestVirginia,4bf58dd8d48988d16f941735,Hot Dog Joints,125.0,"",124.0,72
+2020-03-13,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,89.0,"",90.0,73
+2020-03-13,WestVirginia,4bf58dd8d48988d171941735,Event Spaces,118.0,"",118.0,74
+2020-03-13,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,110.0,"",110.0,75
+2020-03-13,WestVirginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,88.0,"",89.0,76
+2020-03-13,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,120.0,"",121.0,77
+2020-03-13,WestVirginia,4bf58dd8d48988d1ed931735,Airports,75.0,"",76.0,78
+2020-03-14,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,107.0,105.0,107.0,1
+2020-03-14,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,111.0,100.0,112.0,2
+2020-03-14,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,96.0,87.0,96.0,3
+2020-03-14,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,124.0,121.0,124.0,4
+2020-03-14,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,127.0,121.0,127.0,5
+2020-03-14,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,133.0,123.0,133.0,6
+2020-03-14,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,89.0,85.0,89.0,7
+2020-03-14,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,121.0,113.0,121.0,8
+2020-03-14,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,117.0,114.0,117.0,9
+2020-03-14,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,98.0,97.0,98.0,10
+2020-03-14,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,100.0,82.0,101.0,11
+2020-03-14,WestVirginia,4bf58dd8d48988d116941735,Bars,53.0,47.0,53.0,12
+2020-03-14,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,66.0,75.0,65.0,13
+2020-03-14,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,98.0,89.0,98.0,14
+2020-03-14,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,104.0,93.0,104.0,15
+2020-03-14,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,69.0,79.0,68.0,16
+2020-03-14,WestVirginia,4bf58dd8d48988d196941735,Hospitals,91.0,75.0,91.0,17
+2020-03-14,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,74.0,69.0,74.0,18
+2020-03-14,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,75.0,"",75.0,19
+2020-03-14,WestVirginia,4bf58dd8d48988d163941735,Parks,108.0,"",108.0,20
+2020-03-14,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,110.0,131.0,109.0,21
+2020-03-14,WestVirginia,4bf58dd8d48988d172941735,Post Offices,117.0,120.0,116.0,22
+2020-03-14,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,78.0,"",79.0,23
+2020-03-14,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,82.0,"",82.0,24
+2020-03-14,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,92.0,"",92.0,25
+2020-03-14,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,82.0,82.0,82.0,26
+2020-03-14,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,78.0,"",79.0,27
+2020-03-14,WestVirginia,4bf58dd8d48988d10a951735,Banks,96.0,"",97.0,28
+2020-03-14,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,104.0,"",104.0,29
+2020-03-14,WestVirginia,4bf58dd8d48988d17c941735,Casinos,76.0,"",76.0,30
+2020-03-14,WestVirginia,4bf58dd8d48988d13d941735,High Schools,50.0,"",50.0,31
+2020-03-14,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,102.0,130.0,101.0,32
+2020-03-14,WestVirginia,4bf58dd8d48988d147941735,Diners,87.0,"",87.0,33
+2020-03-14,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,89.0,"",88.0,34
+2020-03-14,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,106.0,"",107.0,35
+2020-03-14,WestVirginia,4bf58dd8d48988d124941735,Offices,95.0,"",95.0,36
+2020-03-14,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,109.0,"",109.0,36
+2020-03-14,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,106.0,"",107.0,37
+2020-03-14,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,84.0,"",85.0,38
+2020-03-14,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,88.0,"",88.0,39
+2020-03-14,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,92.0,"",92.0,40
+2020-03-14,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,104.0,"",103.0,41
+2020-03-14,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,45.0,"",45.0,42
+2020-03-14,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,42.0,"",42.0,43
+2020-03-14,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,96.0,"",97.0,44
+2020-03-14,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,117.0,"",117.0,45
+2020-03-14,WestVirginia,4bf58dd8d48988d176941735,Gyms,76.0,"",77.0,46
+2020-03-14,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,18.0,"",18.0,47
+2020-03-14,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,74.0,"",74.0,48
+2020-03-14,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,93.0,"",93.0,49
+2020-03-14,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,116.0,"",115.0,50
+2020-03-14,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,114.0,"",113.0,51
+2020-03-14,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,107.0,"",109.0,52
+2020-03-14,WestVirginia,4bf58dd8d48988d11b941735,Pubs,107.0,"",108.0,53
+2020-03-14,WestVirginia,4bf58dd8d48988d15b941735,Farms,114.0,"",114.0,54
+2020-03-14,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,82.0,"",82.0,55
+2020-03-14,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,70.0,"",70.0,56
+2020-03-14,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,84.0,"",83.0,57
+2020-03-14,WestVirginia,4bf58dd8d48988d1f1931735,General Entertainment,98.0,"",98.0,58
+2020-03-14,WestVirginia,4bf58dd8d48988d12f951735,Resorts,99.0,"",98.0,59
+2020-03-14,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,74.0,"",75.0,59
+2020-03-14,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,107.0,"",107.0,59
+2020-03-14,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),75.0,"",74.0,60
+2020-03-14,WestVirginia,4bf58dd8d48988d159941735,Trails,114.0,"",113.0,61
+2020-03-14,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,77.0,"",77.0,62
+2020-03-14,WestVirginia,4bf58dd8d48988d1ae941735,Universities,45.0,"",45.0,63
+2020-03-14,WestVirginia,4bf58dd8d48988d1e4931735,Bowling Alleys,107.0,"",108.0,64
+2020-03-14,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,136.0,"",136.0,65
+2020-03-14,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,78.0,"",79.0,66
+2020-03-14,WestVirginia,4bf58dd8d48988d1fb931735,Motels,118.0,"",118.0,67
+2020-03-14,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,92.0,"",93.0,68
+2020-03-14,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,7.0,"",7.0,68
+2020-03-14,WestVirginia,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,92.0,"",92.0,69
+2020-03-14,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,84.0,"",85.0,70
+2020-03-14,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,113.0,"",113.0,71
+2020-03-14,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,89.0,"",89.0,72
+2020-03-14,WestVirginia,4bf58dd8d48988d1df931735,BBQ Joints,105.0,"",106.0,73
+2020-03-14,WestVirginia,4d954af4a243a5684765b473,Veterinarians,108.0,"",108.0,74
+2020-03-14,WestVirginia,4bf58dd8d48988d127951735,Arts & Crafts Stores,81.0,"",81.0,74
+2020-03-14,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,121.0,"",122.0,75
+2020-03-15,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,91.0,83.0,91.0,1
+2020-03-15,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,93.0,89.0,93.0,2
+2020-03-15,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,84.0,78.0,84.0,3
+2020-03-15,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,103.0,92.0,103.0,4
+2020-03-15,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,106.0,92.0,106.0,5
+2020-03-15,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,112.0,116.0,112.0,6
+2020-03-15,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,76.0,60.0,77.0,7
+2020-03-15,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,107.0,110.0,107.0,8
+2020-03-15,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,97.0,90.0,98.0,9
+2020-03-15,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,87.0,62.0,87.0,10
+2020-03-15,WestVirginia,4bf58dd8d48988d116941735,Bars,45.0,38.0,45.0,11
+2020-03-15,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,91.0,92.0,91.0,12
+2020-03-15,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,86.0,87.0,86.0,13
+2020-03-15,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,55.0,53.0,55.0,14
+2020-03-15,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,98.0,94.0,98.0,15
+2020-03-15,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,66.0,"",67.0,16
+2020-03-15,WestVirginia,4bf58dd8d48988d196941735,Hospitals,80.0,"",81.0,17
+2020-03-15,WestVirginia,4bf58dd8d48988d163941735,Parks,79.0,"",80.0,18
+2020-03-15,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,124.0,131.0,124.0,19
+2020-03-15,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,72.0,"",73.0,20
+2020-03-15,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,75.0,"",75.0,21
+2020-03-15,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,79.0,"",79.0,22
+2020-03-15,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,104.0,"",104.0,23
+2020-03-15,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,68.0,"",69.0,24
+2020-03-15,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,75.0,"",75.0,24
+2020-03-15,WestVirginia,4bf58dd8d48988d172941735,Post Offices,109.0,"",109.0,25
+2020-03-15,WestVirginia,4bf58dd8d48988d13d941735,High Schools,59.0,"",59.0,26
+2020-03-15,WestVirginia,4bf58dd8d48988d17c941735,Casinos,69.0,"",70.0,27
+2020-03-15,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,85.0,"",86.0,28
+2020-03-15,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,66.0,"",66.0,29
+2020-03-15,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,87.0,"",88.0,30
+2020-03-15,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,47.0,"",47.0,31
+2020-03-15,WestVirginia,4bf58dd8d48988d147941735,Diners,70.0,"",71.0,32
+2020-03-15,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,82.0,"",81.0,33
+2020-03-15,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,72.0,"",72.0,34
+2020-03-15,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,70.0,"",71.0,35
+2020-03-15,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,87.0,"",86.0,36
+2020-03-15,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,86.0,"",88.0,37
+2020-03-15,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,101.0,"",102.0,38
+2020-03-15,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,42.0,"",43.0,39
+2020-03-15,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,90.0,"",91.0,39
+2020-03-15,WestVirginia,4bf58dd8d48988d10a951735,Banks,66.0,"",66.0,40
+2020-03-15,WestVirginia,4bf58dd8d48988d176941735,Gyms,79.0,"",80.0,41
+2020-03-15,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,81.0,"",82.0,41
+2020-03-15,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,14.0,"",14.0,42
+2020-03-15,WestVirginia,4bf58dd8d48988d124941735,Offices,73.0,"",74.0,42
+2020-03-15,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,84.0,"",84.0,43
+2020-03-15,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,84.0,"",83.0,44
+2020-03-15,WestVirginia,4bf58dd8d48988d17f941735,Movie Theaters,64.0,"",64.0,44
+2020-03-15,WestVirginia,4bf58dd8d48988d11b941735,Pubs,103.0,"",104.0,45
+2020-03-15,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,82.0,"",83.0,45
+2020-03-15,WestVirginia,4bf58dd8d48988d15b941735,Farms,90.0,"",90.0,45
+2020-03-15,WestVirginia,4bf58dd8d48988d159941735,Trails,96.0,"",97.0,46
+2020-03-15,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,75.0,"",74.0,47
+2020-03-15,WestVirginia,4bf58dd8d48988d11d941735,Sports Bars,68.0,"",69.0,47
+2020-03-15,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,85.0,"",85.0,47
+2020-03-15,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),64.0,"",64.0,48
+2020-03-15,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,76.0,"",76.0,48
+2020-03-15,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,143.0,"",144.0,49
+2020-03-15,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,8.0,"",8.0,50
+2020-03-15,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,99.0,"",99.0,50
+2020-03-15,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,98.0,"",98.0,50
+2020-03-15,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,103.0,"",102.0,51
+2020-03-15,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,70.0,"",69.0,51
+2020-03-15,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,76.0,"",77.0,52
+2020-03-15,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,100.0,"",100.0,52
+2020-03-15,WestVirginia,4bf58dd8d48988d16c941735,Burger Joints,72.0,"",73.0,52
+2020-03-16,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,102.0,95.0,102.0,1
+2020-03-16,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,91.0,80.0,91.0,2
+2020-03-16,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,113.0,95.0,113.0,3
+2020-03-16,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,133.0,131.0,134.0,4
+2020-03-16,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,115.0,100.0,115.0,5
+2020-03-16,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,134.0,126.0,134.0,6
+2020-03-16,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,111.0,105.0,111.0,7
+2020-03-16,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,99.0,93.0,99.0,8
+2020-03-16,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,89.0,76.0,90.0,9
+2020-03-16,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,107.0,98.0,108.0,10
+2020-03-16,WestVirginia,4bf58dd8d48988d196941735,Hospitals,77.0,65.0,78.0,11
+2020-03-16,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,101.0,81.0,101.0,12
+2020-03-16,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,99.0,85.0,99.0,13
+2020-03-16,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,102.0,97.0,102.0,14
+2020-03-16,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,84.0,78.0,84.0,15
+2020-03-16,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,67.0,64.0,67.0,16
+2020-03-16,WestVirginia,4bf58dd8d48988d116941735,Bars,51.0,39.0,51.0,17
+2020-03-16,WestVirginia,4bf58dd8d48988d10a951735,Banks,123.0,126.0,122.0,18
+2020-03-16,WestVirginia,4bf58dd8d48988d172941735,Post Offices,108.0,96.0,108.0,19
+2020-03-16,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,51.0,44.0,51.0,20
+2020-03-16,WestVirginia,4bf58dd8d48988d163941735,Parks,96.0,74.0,97.0,21
+2020-03-16,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,75.0,66.0,75.0,22
+2020-03-16,WestVirginia,4bf58dd8d48988d13d941735,High Schools,45.0,"",45.0,23
+2020-03-16,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,16.0,12.0,16.0,24
+2020-03-16,WestVirginia,4bf58dd8d48988d124941735,Offices,80.0,"",81.0,25
+2020-03-16,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,91.0,83.0,92.0,26
+2020-03-16,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,75.0,"",76.0,27
+2020-03-16,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,53.0,"",53.0,28
+2020-03-16,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,95.0,"",95.0,28
+2020-03-16,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,98.0,"",100.0,29
+2020-03-16,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,150.0,116.0,152.0,30
+2020-03-16,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,91.0,"",91.0,31
+2020-03-16,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,88.0,"",88.0,32
+2020-03-16,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,95.0,"",95.0,33
+2020-03-16,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,81.0,"",82.0,34
+2020-03-16,WestVirginia,4bf58dd8d48988d147941735,Diners,85.0,"",86.0,35
+2020-03-16,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,42.0,"",42.0,36
+2020-03-16,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,67.0,"",68.0,37
+2020-03-16,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,54.0,"",55.0,38
+2020-03-16,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,88.0,"",89.0,39
+2020-03-16,WestVirginia,4bf58dd8d48988d176941735,Gyms,69.0,"",70.0,40
+2020-03-16,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,105.0,"",107.0,41
+2020-03-16,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,103.0,"",103.0,42
+2020-03-16,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,107.0,"",108.0,42
+2020-03-16,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,77.0,"",77.0,43
+2020-03-16,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,92.0,"",93.0,44
+2020-03-16,WestVirginia,4bf58dd8d48988d1ae941735,Universities,33.0,"",33.0,45
+2020-03-16,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,76.0,"",77.0,46
+2020-03-16,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,100.0,"",101.0,47
+2020-03-16,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,87.0,"",87.0,48
+2020-03-16,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),86.0,"",87.0,49
+2020-03-16,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,95.0,"",94.0,50
+2020-03-16,WestVirginia,4d954af4a243a5684765b473,Veterinarians,92.0,"",94.0,51
+2020-03-16,WestVirginia,4bf58dd8d48988d13b941735,Schools,9.0,"",9.0,52
+2020-03-16,WestVirginia,4bf58dd8d48988d159941735,Trails,109.0,"",109.0,53
+2020-03-16,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,126.0,"",129.0,54
+2020-03-16,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,97.0,"",98.0,55
+2020-03-16,WestVirginia,4bf58dd8d48988d15b941735,Farms,103.0,"",103.0,56
+2020-03-16,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,9.0,"",9.0,57
+2020-03-16,WestVirginia,4bf58dd8d48988d17c941735,Casinos,85.0,"",86.0,58
+2020-03-16,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,114.0,"",116.0,58
+2020-03-16,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,57.0,"",58.0,59
+2020-03-16,WestVirginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,91.0,"",92.0,60
+2020-03-16,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,84.0,"",85.0,61
+2020-03-16,WestVirginia,4bf58dd8d48988d143941735,Breakfast Spots,82.0,"",83.0,62
+2020-03-16,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,111.0,"",110.0,63
+2020-03-17,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,97.0,90.0,97.0,1
+2020-03-17,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,69.0,79.0,2
+2020-03-17,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,113.0,98.0,113.0,3
+2020-03-17,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,126.0,111.0,127.0,4
+2020-03-17,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,113.0,104.0,113.0,5
+2020-03-17,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,128.0,127.0,128.0,6
+2020-03-17,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,101.0,110.0,101.0,7
+2020-03-17,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,93.0,77.0,93.0,8
+2020-03-17,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,78.0,68.0,78.0,9
+2020-03-17,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,108.0,86.0,109.0,10
+2020-03-17,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,94.0,74.0,94.0,11
+2020-03-17,WestVirginia,4bf58dd8d48988d196941735,Hospitals,65.0,61.0,65.0,12
+2020-03-17,WestVirginia,4bf58dd8d48988d116941735,Bars,57.0,42.0,57.0,13
+2020-03-17,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,81.0,71.0,82.0,14
+2020-03-17,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,65.0,56.0,66.0,15
+2020-03-17,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,90.0,75.0,90.0,16
+2020-03-17,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,87.0,58.0,88.0,17
+2020-03-17,WestVirginia,4bf58dd8d48988d172941735,Post Offices,102.0,101.0,102.0,18
+2020-03-17,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,39.0,29.0,39.0,19
+2020-03-17,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,68.0,61.0,69.0,20
+2020-03-17,WestVirginia,4bf58dd8d48988d10a951735,Banks,84.0,92.0,83.0,21
+2020-03-17,WestVirginia,4bf58dd8d48988d13d941735,High Schools,37.0,"",37.0,22
+2020-03-17,WestVirginia,4bf58dd8d48988d163941735,Parks,81.0,79.0,81.0,23
+2020-03-17,WestVirginia,4bf58dd8d48988d124941735,Offices,63.0,"",63.0,24
+2020-03-17,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,12.0,11.0,12.0,25
+2020-03-17,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,51.0,"",51.0,26
+2020-03-17,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,114.0,159.0,112.0,27
+2020-03-17,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,75.0,"",75.0,28
+2020-03-17,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,88.0,"",89.0,29
+2020-03-17,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,85.0,82.0,85.0,30
+2020-03-17,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,91.0,"",92.0,31
+2020-03-17,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,96.0,"",96.0,32
+2020-03-17,WestVirginia,4bf58dd8d48988d147941735,Diners,96.0,86.0,97.0,33
+2020-03-17,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,79.0,"",80.0,34
+2020-03-17,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,51.0,"",51.0,35
+2020-03-17,WestVirginia,4bf58dd8d48988d176941735,Gyms,66.0,"",67.0,36
+2020-03-17,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,67.0,"",69.0,37
+2020-03-17,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,129.0,91.0,132.0,37
+2020-03-17,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,39.0,"",39.0,38
+2020-03-17,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,77.0,"",78.0,39
+2020-03-17,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,84.0,"",85.0,40
+2020-03-17,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,70.0,"",70.0,41
+2020-03-17,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,96.0,"",96.0,42
+2020-03-17,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,96.0,"",97.0,43
+2020-03-17,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,79.0,"",80.0,44
+2020-03-17,WestVirginia,4bf58dd8d48988d1cc941735,Steakhouses,81.0,"",81.0,45
+2020-03-17,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,95.0,"",96.0,46
+2020-03-17,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,79.0,"",79.0,47
+2020-03-17,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),88.0,"",88.0,48
+2020-03-17,WestVirginia,4d954af4a243a5684765b473,Veterinarians,101.0,"",102.0,49
+2020-03-17,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,91.0,"",90.0,50
+2020-03-17,WestVirginia,4bf58dd8d48988d1ae941735,Universities,28.0,"",28.0,51
+2020-03-17,WestVirginia,4bf58dd8d48988d1f2941735,Sporting Goods Shops,133.0,"",134.0,52
+2020-03-17,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,105.0,"",104.0,53
+2020-03-17,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,77.0,"",77.0,54
+2020-03-17,WestVirginia,4bf58dd8d48988d13b941735,Schools,7.0,"",7.0,55
+2020-03-17,WestVirginia,4bf58dd8d48988d15b941735,Farms,97.0,"",97.0,56
+2020-03-17,WestVirginia,4bf58dd8d48988d17c941735,Casinos,97.0,"",97.0,57
+2020-03-17,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,8.0,"",8.0,58
+2020-03-17,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,101.0,"",101.0,59
+2020-03-17,WestVirginia,4bf58dd8d48988d14c941735,Wings Joints,94.0,"",95.0,60
+2020-03-17,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,128.0,"",129.0,61
+2020-03-17,WestVirginia,4bf58dd8d48988d103951735,Clothing Stores,58.0,"",59.0,62
+2020-03-17,WestVirginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,111.0,"",113.0,63
+2020-03-17,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,72.0,"",71.0,63
+2020-03-18,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,97.0,91.0,97.0,1
+2020-03-18,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,75.0,79.0,2
+2020-03-18,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,82.0,101.0,3
+2020-03-18,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,120.0,109.0,121.0,4
+2020-03-18,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,104.0,86.0,104.0,5
+2020-03-18,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,130.0,131.0,130.0,6
+2020-03-18,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,102.0,89.0,102.0,7
+2020-03-18,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,90.0,77.0,90.0,8
+2020-03-18,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,107.0,86.0,109.0,9
+2020-03-18,WestVirginia,4bf58dd8d48988d196941735,Hospitals,67.0,53.0,68.0,10
+2020-03-18,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,56.0,43.0,57.0,11
+2020-03-18,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,79.0,74.0,79.0,12
+2020-03-18,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,58.0,43.0,58.0,13
+2020-03-18,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,87.0,80.0,88.0,14
+2020-03-18,WestVirginia,4bf58dd8d48988d116941735,Bars,45.0,42.0,45.0,15
+2020-03-18,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,82.0,70.0,83.0,16
+2020-03-18,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,73.0,50.0,75.0,17
+2020-03-18,WestVirginia,4bf58dd8d48988d163941735,Parks,91.0,90.0,91.0,18
+2020-03-18,WestVirginia,4bf58dd8d48988d172941735,Post Offices,87.0,76.0,88.0,19
+2020-03-18,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,38.0,34.0,38.0,20
+2020-03-18,WestVirginia,4bf58dd8d48988d10a951735,Banks,80.0,70.0,81.0,21
+2020-03-18,WestVirginia,4bf58dd8d48988d13d941735,High Schools,38.0,"",38.0,22
+2020-03-18,WestVirginia,4bf58dd8d48988d124941735,Offices,61.0,68.0,61.0,23
+2020-03-18,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,12.0,13.0,12.0,24
+2020-03-18,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,51.0,55.0,51.0,25
+2020-03-18,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,52.0,"",52.0,26
+2020-03-18,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,83.0,91.0,82.0,27
+2020-03-18,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,108.0,147.0,107.0,28
+2020-03-18,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,95.0,"",95.0,29
+2020-03-18,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,60.0,"",60.0,30
+2020-03-18,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,136.0,130.0,136.0,31
+2020-03-18,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,72.0,"",73.0,32
+2020-03-18,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,97.0,"",98.0,33
+2020-03-18,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,85.0,"",85.0,34
+2020-03-18,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,87.0,"",88.0,35
+2020-03-18,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,63.0,"",64.0,36
+2020-03-18,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,66.0,"",66.0,36
+2020-03-18,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,64.0,"",65.0,37
+2020-03-18,WestVirginia,4bf58dd8d48988d147941735,Diners,75.0,77.0,74.0,38
+2020-03-18,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,53.0,"",53.0,39
+2020-03-18,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,92.0,"",93.0,40
+2020-03-18,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,100.0,"",101.0,41
+2020-03-18,WestVirginia,4bf58dd8d48988d176941735,Gyms,55.0,"",55.0,42
+2020-03-18,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,51.0,"",52.0,43
+2020-03-18,WestVirginia,4d954af4a243a5684765b473,Veterinarians,103.0,"",105.0,44
+2020-03-18,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),90.0,"",89.0,45
+2020-03-18,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,75.0,"",76.0,46
+2020-03-18,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,26.0,"",26.0,47
+2020-03-18,WestVirginia,4bf58dd8d48988d15b941735,Farms,99.0,"",100.0,48
+2020-03-18,WestVirginia,4bf58dd8d48988d159941735,Trails,118.0,"",119.0,49
+2020-03-18,WestVirginia,4bf58dd8d48988d178941735,Dentist's Offices,83.0,"",83.0,50
+2020-03-18,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,106.0,"",107.0,51
+2020-03-18,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,99.0,"",99.0,52
+2020-03-18,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,62.0,"",62.0,53
+2020-03-18,WestVirginia,4bf58dd8d48988d1ae941735,Universities,24.0,"",24.0,54
+2020-03-18,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,9.0,"",9.0,55
+2020-03-18,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,102.0,"",102.0,56
+2020-03-18,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,97.0,"",97.0,56
+2020-03-18,WestVirginia,4bf58dd8d48988d13b941735,Schools,8.0,"",8.0,57
+2020-03-18,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,71.0,"",71.0,57
+2020-03-18,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,79.0,"",79.0,58
+2020-03-19,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,93.0,88.0,93.0,1
+2020-03-19,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,72.0,60.0,72.0,2
+2020-03-19,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,92.0,89.0,92.0,3
+2020-03-19,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,113.0,104.0,113.0,4
+2020-03-19,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,98.0,90.0,98.0,5
+2020-03-19,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,122.0,114.0,122.0,6
+2020-03-19,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,98.0,96.0,99.0,7
+2020-03-19,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,89.0,78.0,89.0,8
+2020-03-19,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,100.0,95.0,101.0,9
+2020-03-19,WestVirginia,4bf58dd8d48988d196941735,Hospitals,64.0,57.0,64.0,10
+2020-03-19,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,53.0,47.0,53.0,11
+2020-03-19,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,79.0,67.0,79.0,12
+2020-03-19,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,95.0,86.0,95.0,13
+2020-03-19,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,59.0,51.0,59.0,14
+2020-03-19,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,80.0,94.0,80.0,15
+2020-03-19,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,68.0,50.0,69.0,16
+2020-03-19,WestVirginia,4bf58dd8d48988d116941735,Bars,36.0,36.0,36.0,17
+2020-03-19,WestVirginia,4bf58dd8d48988d172941735,Post Offices,94.0,103.0,93.0,17
+2020-03-19,WestVirginia,4bf58dd8d48988d163941735,Parks,98.0,81.0,98.0,18
+2020-03-19,WestVirginia,4bf58dd8d48988d13d941735,High Schools,41.0,"",41.0,19
+2020-03-19,WestVirginia,4bf58dd8d48988d10a951735,Banks,79.0,60.0,80.0,20
+2020-03-19,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,35.0,"",35.0,21
+2020-03-19,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,58.0,"",58.0,22
+2020-03-19,WestVirginia,4bf58dd8d48988d124941735,Offices,64.0,82.0,63.0,23
+2020-03-19,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,11.0,"",11.0,24
+2020-03-19,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,106.0,126.0,105.0,25
+2020-03-19,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,89.0,"",90.0,26
+2020-03-19,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,46.0,"",46.0,27
+2020-03-19,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,88.0,"",88.0,28
+2020-03-19,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,56.0,"",56.0,29
+2020-03-19,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,73.0,"",73.0,30
+2020-03-19,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,98.0,126.0,97.0,30
+2020-03-19,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,53.0,"",54.0,31
+2020-03-19,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,64.0,"",63.0,32
+2020-03-19,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,106.0,"",108.0,33
+2020-03-19,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,89.0,"",89.0,34
+2020-03-19,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,75.0,"",76.0,35
+2020-03-19,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,91.0,"",92.0,36
+2020-03-19,WestVirginia,4bf58dd8d48988d147941735,Diners,61.0,"",61.0,37
+2020-03-19,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,54.0,"",54.0,38
+2020-03-19,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,97.0,"",98.0,39
+2020-03-19,WestVirginia,4bf58dd8d48988d159941735,Trails,135.0,"",136.0,40
+2020-03-19,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,74.0,"",74.0,41
+2020-03-19,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),84.0,"",84.0,42
+2020-03-19,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,71.0,"",71.0,43
+2020-03-19,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,104.0,"",105.0,44
+2020-03-19,WestVirginia,4bf58dd8d48988d15b941735,Farms,104.0,"",104.0,45
+2020-03-19,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,39.0,"",40.0,46
+2020-03-19,WestVirginia,4d954af4a243a5684765b473,Veterinarians,84.0,"",83.0,47
+2020-03-19,WestVirginia,4bf58dd8d48988d1ae941735,Universities,26.0,"",26.0,48
+2020-03-19,WestVirginia,4bf58dd8d48988d13b941735,Schools,9.0,"",9.0,49
+2020-03-19,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,98.0,"",98.0,50
+2020-03-19,WestVirginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,94.0,"",94.0,50
+2020-03-19,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,103.0,"",102.0,51
+2020-03-19,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,108.0,"",109.0,52
+2020-03-19,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,8.0,"",8.0,52
+2020-03-19,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,35.0,"",35.0,53
+2020-03-19,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,21.0,"",21.0,54
+2020-03-20,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,91.0,81.0,91.0,1
+2020-03-20,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,73.0,68.0,74.0,2
+2020-03-20,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,81.0,97.0,3
+2020-03-20,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,113.0,102.0,113.0,4
+2020-03-20,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,129.0,115.0,130.0,5
+2020-03-20,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,104.0,90.0,105.0,6
+2020-03-20,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,99.0,90.0,99.0,7
+2020-03-20,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,95.0,78.0,95.0,8
+2020-03-20,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,118.0,105.0,119.0,9
+2020-03-20,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,77.0,71.0,77.0,10
+2020-03-20,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,51.0,40.0,51.0,11
+2020-03-20,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,94.0,78.0,95.0,12
+2020-03-20,WestVirginia,4bf58dd8d48988d196941735,Hospitals,65.0,45.0,66.0,13
+2020-03-20,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,75.0,65.0,75.0,14
+2020-03-20,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,49.0,45.0,49.0,15
+2020-03-20,WestVirginia,4bf58dd8d48988d10a951735,Banks,85.0,92.0,85.0,16
+2020-03-20,WestVirginia,4bf58dd8d48988d116941735,Bars,34.0,32.0,34.0,17
+2020-03-20,WestVirginia,4bf58dd8d48988d163941735,Parks,106.0,101.0,106.0,18
+2020-03-20,WestVirginia,4bf58dd8d48988d172941735,Post Offices,89.0,95.0,89.0,19
+2020-03-20,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,73.0,58.0,73.0,20
+2020-03-20,WestVirginia,4bf58dd8d48988d13d941735,High Schools,50.0,"",50.0,21
+2020-03-20,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,38.0,"",38.0,22
+2020-03-20,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,44.0,"",45.0,23
+2020-03-20,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,14.0,14.0,14.0,24
+2020-03-20,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,68.0,"",68.0,25
+2020-03-20,WestVirginia,4bf58dd8d48988d124941735,Offices,64.0,"",64.0,26
+2020-03-20,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,92.0,121.0,91.0,27
+2020-03-20,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,80.0,"",80.0,28
+2020-03-20,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,90.0,"",91.0,29
+2020-03-20,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,104.0,"",105.0,30
+2020-03-20,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,54.0,"",54.0,31
+2020-03-20,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,70.0,"",69.0,32
+2020-03-20,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,57.0,"",57.0,33
+2020-03-20,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,95.0,112.0,94.0,34
+2020-03-20,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,104.0,"",106.0,35
+2020-03-20,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,83.0,"",84.0,36
+2020-03-20,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,52.0,"",52.0,37
+2020-03-20,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,66.0,"",66.0,38
+2020-03-20,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,60.0,"",60.0,39
+2020-03-20,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,137.0,"",139.0,39
+2020-03-20,WestVirginia,4bf58dd8d48988d147941735,Diners,58.0,"",59.0,40
+2020-03-20,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,81.0,"",82.0,41
+2020-03-20,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,77.0,"",78.0,42
+2020-03-20,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,72.0,"",72.0,43
+2020-03-20,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),86.0,"",87.0,44
+2020-03-20,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,37.0,"",37.0,45
+2020-03-20,WestVirginia,4bf58dd8d48988d15b941735,Farms,101.0,"",100.0,46
+2020-03-20,WestVirginia,4bf58dd8d48988d1ae941735,Universities,34.0,"",34.0,47
+2020-03-20,WestVirginia,4bf58dd8d48988d159941735,Trails,120.0,"",120.0,48
+2020-03-20,WestVirginia,4d954af4a243a5684765b473,Veterinarians,87.0,"",88.0,49
+2020-03-20,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,99.0,"",99.0,49
+2020-03-20,WestVirginia,4bf58dd8d48988d176941735,Gyms,50.0,"",50.0,50
+2020-03-20,WestVirginia,4bf58dd8d48988d161941735,Lakes,135.0,"",131.0,51
+2020-03-20,WestVirginia,4bf58dd8d48988d13b941735,Schools,10.0,"",10.0,52
+2020-03-20,WestVirginia,4bf58dd8d48988d16a941735,Bakeries,65.0,"",65.0,53
+2020-03-20,WestVirginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,107.0,"",106.0,54
+2020-03-20,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,88.0,"",87.0,55
+2020-03-20,WestVirginia,4bf58dd8d48988d1fd941735,Shopping Malls,32.0,"",31.0,55
+2020-03-20,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,92.0,"",93.0,56
+2020-03-20,WestVirginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,26.0,"",26.0,56
+2020-03-20,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,134.0,"",134.0,57
+2020-03-20,WestVirginia,4bf58dd8d48988d148941735,Donut Shops,60.0,"",59.0,57
+2020-03-21,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,86.0,76.0,86.0,1
+2020-03-21,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,81.0,66.0,81.0,2
+2020-03-21,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,64.0,53.0,65.0,3
+2020-03-21,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,117.0,107.0,118.0,4
+2020-03-21,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,128.0,111.0,129.0,5
+2020-03-21,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,96.0,82.0,96.0,6
+2020-03-21,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,106.0,92.0,106.0,7
+2020-03-21,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,94.0,82.0,94.0,8
+2020-03-21,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,86.0,79.0,86.0,9
+2020-03-21,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,36.0,28.0,37.0,10
+2020-03-21,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,57.0,51.0,57.0,11
+2020-03-21,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,72.0,70.0,72.0,12
+2020-03-21,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,80.0,75.0,81.0,13
+2020-03-21,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,38.0,44.0,38.0,14
+2020-03-21,WestVirginia,4bf58dd8d48988d116941735,Bars,24.0,"",24.0,15
+2020-03-21,WestVirginia,4bf58dd8d48988d196941735,Hospitals,63.0,"",63.0,16
+2020-03-21,WestVirginia,4bf58dd8d48988d163941735,Parks,74.0,"",74.0,17
+2020-03-21,WestVirginia,4bf58dd8d48988d172941735,Post Offices,88.0,"",88.0,18
+2020-03-21,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,77.0,"",77.0,19
+2020-03-21,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,91.0,"",92.0,20
+2020-03-21,WestVirginia,4bf58dd8d48988d13d941735,High Schools,41.0,"",41.0,21
+2020-03-21,WestVirginia,4bf58dd8d48988d10a951735,Banks,68.0,"",69.0,22
+2020-03-21,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,27.0,"",27.0,22
+2020-03-21,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,75.0,"",75.0,23
+2020-03-21,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,68.0,"",68.0,24
+2020-03-21,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,45.0,"",45.0,25
+2020-03-21,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,41.0,"",41.0,26
+2020-03-21,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,83.0,"",84.0,26
+2020-03-21,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,63.0,"",64.0,27
+2020-03-21,WestVirginia,4bf58dd8d48988d124941735,Offices,67.0,"",66.0,28
+2020-03-21,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,77.0,"",77.0,29
+2020-03-21,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,42.0,"",41.0,30
+2020-03-21,WestVirginia,4bf58dd8d48988d147941735,Diners,50.0,"",51.0,31
+2020-03-21,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,106.0,"",106.0,31
+2020-03-21,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,89.0,"",90.0,32
+2020-03-21,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,73.0,"",73.0,33
+2020-03-21,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,13.0,"",13.0,34
+2020-03-21,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,34.0,"",34.0,35
+2020-03-21,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,21.0,"",21.0,36
+2020-03-21,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,61.0,"",61.0,37
+2020-03-21,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,63.0,"",63.0,37
+2020-03-21,WestVirginia,4bf58dd8d48988d159941735,Trails,101.0,"",101.0,37
+2020-03-21,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,59.0,"",60.0,38
+2020-03-21,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),68.0,"",68.0,39
+2020-03-21,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,53.0,"",54.0,39
+2020-03-21,WestVirginia,4bf58dd8d48988d1f9941735,Food & Drink Shops,7.0,"",7.0,39
+2020-03-21,WestVirginia,4eb1d4d54b900d56c88a45fc,Mountains,115.0,"",116.0,40
+2020-03-22,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,68.0,68.0,68.0,1
+2020-03-22,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,60.0,61.0,2
+2020-03-22,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,46.0,56.0,3
+2020-03-22,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,67.0,72.0,4
+2020-03-22,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,88.0,80.0,88.0,5
+2020-03-22,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,74.0,63.0,74.0,6
+2020-03-22,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,87.0,70.0,88.0,7
+2020-03-22,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,72.0,61.0,72.0,8
+2020-03-22,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,72.0,59.0,73.0,9
+2020-03-22,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,33.0,25.0,33.0,10
+2020-03-22,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,56.0,"",56.0,11
+2020-03-22,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,66.0,"",66.0,12
+2020-03-22,WestVirginia,4bf58dd8d48988d163941735,Parks,77.0,"",77.0,13
+2020-03-22,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,68.0,"",69.0,14
+2020-03-22,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,35.0,43.0,35.0,15
+2020-03-22,WestVirginia,4bf58dd8d48988d116941735,Bars,20.0,"",20.0,16
+2020-03-22,WestVirginia,4bf58dd8d48988d196941735,Hospitals,55.0,"",56.0,17
+2020-03-22,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,89.0,"",88.0,18
+2020-03-22,WestVirginia,4bf58dd8d48988d13d941735,High Schools,50.0,"",50.0,19
+2020-03-22,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,76.0,"",75.0,20
+2020-03-22,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,28.0,"",28.0,21
+2020-03-22,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,66.0,"",65.0,22
+2020-03-22,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,46.0,"",46.0,23
+2020-03-22,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,91.0,"",92.0,24
+2020-03-22,WestVirginia,4bf58dd8d48988d172941735,Post Offices,73.0,"",73.0,25
+2020-03-22,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,41.0,"",41.0,26
+2020-03-22,WestVirginia,4bf58dd8d48988d159941735,Trails,113.0,"",114.0,27
+2020-03-22,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,64.0,"",65.0,28
+2020-03-22,WestVirginia,4bf58dd8d48988d10a951735,Banks,64.0,"",65.0,29
+2020-03-22,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,79.0,"",80.0,30
+2020-03-22,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,50.0,"",51.0,31
+2020-03-22,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,101.0,"",100.0,32
+2020-03-22,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,36.0,"",36.0,33
+2020-03-22,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,38.0,"",39.0,34
+2020-03-23,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,74.0,66.0,74.0,1
+2020-03-23,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,48.0,62.0,2
+2020-03-23,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,65.0,78.0,3
+2020-03-23,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,97.0,103.0,96.0,4
+2020-03-23,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,112.0,117.0,112.0,5
+2020-03-23,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,90.0,75.0,90.0,6
+2020-03-23,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,82.0,71.0,82.0,7
+2020-03-23,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,72.0,67.0,72.0,8
+2020-03-23,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,83.0,67.0,84.0,9
+2020-03-23,WestVirginia,4bf58dd8d48988d196941735,Hospitals,53.0,36.0,54.0,10
+2020-03-23,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,69.0,59.0,69.0,11
+2020-03-23,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,44.0,31.0,44.0,12
+2020-03-23,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,73.0,62.0,73.0,13
+2020-03-23,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,70.0,73.0,70.0,14
+2020-03-23,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,44.0,33.0,45.0,15
+2020-03-23,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,51.0,34.0,52.0,16
+2020-03-23,WestVirginia,4bf58dd8d48988d172941735,Post Offices,78.0,69.0,79.0,17
+2020-03-23,WestVirginia,4bf58dd8d48988d116941735,Bars,30.0,"",30.0,18
+2020-03-23,WestVirginia,4bf58dd8d48988d13d941735,High Schools,39.0,"",39.0,19
+2020-03-23,WestVirginia,4bf58dd8d48988d10a951735,Banks,71.0,"",72.0,20
+2020-03-23,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,33.0,"",33.0,21
+2020-03-23,WestVirginia,4bf58dd8d48988d163941735,Parks,63.0,"",63.0,22
+2020-03-23,WestVirginia,4bf58dd8d48988d124941735,Offices,58.0,"",58.0,23
+2020-03-23,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,10.0,"",10.0,24
+2020-03-23,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,46.0,"",47.0,25
+2020-03-23,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,84.0,"",83.0,26
+2020-03-23,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,73.0,"",74.0,27
+2020-03-23,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,36.0,"",37.0,28
+2020-03-23,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,61.0,"",62.0,28
+2020-03-23,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,67.0,"",66.0,29
+2020-03-23,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,46.0,"",46.0,30
+2020-03-23,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,80.0,"",80.0,31
+2020-03-23,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,95.0,"",96.0,32
+2020-03-23,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,40.0,"",40.0,33
+2020-03-23,WestVirginia,4bf58dd8d48988d147941735,Diners,57.0,"",58.0,34
+2020-03-23,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,51.0,"",52.0,35
+2020-03-23,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,72.0,"",72.0,35
+2020-03-23,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,48.0,"",49.0,36
+2020-03-23,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,71.0,"",71.0,36
+2020-03-23,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,51.0,"",52.0,37
+2020-03-23,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,53.0,"",53.0,38
+2020-03-23,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),74.0,"",73.0,39
+2020-03-23,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,60.0,"",59.0,40
+2020-03-23,WestVirginia,4bf58dd8d48988d1ae941735,Universities,21.0,"",21.0,41
+2020-03-23,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,60.0,"",61.0,42
+2020-03-24,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,72.0,67.0,72.0,1
+2020-03-24,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,52.0,57.0,2
+2020-03-24,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,72.0,73.0,3
+2020-03-24,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,84.0,76.0,84.0,4
+2020-03-24,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,96.0,82.0,97.0,5
+2020-03-24,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,73.0,61.0,73.0,6
+2020-03-24,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,75.0,80.0,75.0,7
+2020-03-24,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,96.0,85.0,97.0,8
+2020-03-24,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,66.0,64.0,66.0,9
+2020-03-24,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,46.0,34.0,47.0,10
+2020-03-24,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,70.0,53.0,70.0,11
+2020-03-24,WestVirginia,4bf58dd8d48988d196941735,Hospitals,47.0,32.0,48.0,12
+2020-03-24,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,70.0,56.0,71.0,13
+2020-03-24,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,67.0,54.0,68.0,14
+2020-03-24,WestVirginia,4bf58dd8d48988d172941735,Post Offices,80.0,80.0,80.0,15
+2020-03-24,WestVirginia,4bf58dd8d48988d116941735,Bars,31.0,"",31.0,16
+2020-03-24,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,46.0,36.0,46.0,17
+2020-03-24,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,35.0,"",36.0,18
+2020-03-24,WestVirginia,4bf58dd8d48988d163941735,Parks,76.0,"",76.0,19
+2020-03-24,WestVirginia,4bf58dd8d48988d13d941735,High Schools,30.0,"",30.0,20
+2020-03-24,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,30.0,"",30.0,21
+2020-03-24,WestVirginia,4bf58dd8d48988d10a951735,Banks,59.0,"",59.0,22
+2020-03-24,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,45.0,"",45.0,23
+2020-03-24,WestVirginia,4bf58dd8d48988d124941735,Offices,48.0,"",48.0,24
+2020-03-24,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,9.0,"",9.0,25
+2020-03-24,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,83.0,"",83.0,26
+2020-03-24,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,37.0,"",37.0,27
+2020-03-24,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,90.0,"",90.0,28
+2020-03-24,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,69.0,"",69.0,29
+2020-03-24,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,62.0,"",63.0,30
+2020-03-24,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,76.0,"",76.0,31
+2020-03-24,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,42.0,"",42.0,32
+2020-03-24,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,80.0,"",82.0,33
+2020-03-24,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,49.0,"",49.0,34
+2020-03-24,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,38.0,"",39.0,35
+2020-03-24,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,46.0,"",46.0,36
+2020-03-24,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,47.0,"",47.0,37
+2020-03-24,WestVirginia,4bf58dd8d48988d147941735,Diners,51.0,"",52.0,37
+2020-03-24,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,53.0,"",53.0,38
+2020-03-24,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),73.0,"",73.0,39
+2020-03-24,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,67.0,"",68.0,40
+2020-03-24,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,69.0,"",70.0,41
+2020-03-24,WestVirginia,4d954af4a243a5684765b473,Veterinarians,82.0,"",82.0,42
+2020-03-24,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,75.0,"",77.0,43
+2020-03-24,WestVirginia,4bf58dd8d48988d15b941735,Farms,84.0,"",84.0,44
+2020-03-24,WestVirginia,4bf58dd8d48988d1ae941735,Universities,22.0,"",22.0,45
+2020-03-24,WestVirginia,4bf58dd8d48988d159941735,Trails,92.0,"",93.0,46
+2020-03-24,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,99.0,"",99.0,47
+2020-03-24,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,49.0,"",49.0,47
+2020-03-24,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,85.0,"",87.0,48
+2020-03-25,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,61.0,50.0,61.0,1
+2020-03-25,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,49.0,42.0,49.0,2
+2020-03-25,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,52.0,61.0,3
+2020-03-25,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,60.0,74.0,4
+2020-03-25,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,65.0,52.0,66.0,5
+2020-03-25,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,78.0,56.0,79.0,6
+2020-03-25,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,66.0,54.0,67.0,7
+2020-03-25,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,62.0,47.0,63.0,8
+2020-03-25,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,75.0,64.0,76.0,9
+2020-03-25,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,60.0,52.0,61.0,10
+2020-03-25,WestVirginia,4bf58dd8d48988d196941735,Hospitals,40.0,30.0,41.0,11
+2020-03-25,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,35.0,21.0,36.0,12
+2020-03-25,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,63.0,57.0,63.0,13
+2020-03-25,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,55.0,48.0,55.0,14
+2020-03-25,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,45.0,31.0,46.0,15
+2020-03-25,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,36.0,"",37.0,15
+2020-03-25,WestVirginia,4bf58dd8d48988d163941735,Parks,69.0,"",68.0,16
+2020-03-25,WestVirginia,4bf58dd8d48988d116941735,Bars,25.0,"",25.0,17
+2020-03-25,WestVirginia,4bf58dd8d48988d172941735,Post Offices,65.0,55.0,65.0,18
+2020-03-25,WestVirginia,4bf58dd8d48988d10a951735,Banks,52.0,"",53.0,19
+2020-03-25,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,25.0,"",25.0,20
+2020-03-25,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,8.0,"",9.0,21
+2020-03-25,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,87.0,"",87.0,22
+2020-03-25,WestVirginia,4bf58dd8d48988d13d941735,High Schools,25.0,"",25.0,23
+2020-03-25,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,37.0,"",37.0,24
+2020-03-25,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,76.0,"",76.0,25
+2020-03-25,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,34.0,"",35.0,26
+2020-03-25,WestVirginia,4bf58dd8d48988d124941735,Offices,36.0,"",36.0,27
+2020-03-25,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,53.0,"",54.0,28
+2020-03-25,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,64.0,"",65.0,29
+2020-03-25,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,69.0,"",69.0,30
+2020-03-25,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,44.0,"",44.0,31
+2020-03-25,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,31.0,"",31.0,32
+2020-03-25,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,68.0,"",69.0,33
+2020-03-25,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,32.0,"",32.0,33
+2020-03-25,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),66.0,"",66.0,34
+2020-03-25,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,39.0,"",40.0,35
+2020-03-25,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,42.0,"",43.0,36
+2020-03-25,WestVirginia,4bf58dd8d48988d147941735,Diners,38.0,"",38.0,37
+2020-03-25,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,61.0,"",62.0,37
+2020-03-26,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,72.0,63.0,72.0,1
+2020-03-26,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,58.0,57.0,2
+2020-03-26,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,45.0,62.0,3
+2020-03-26,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,56.0,69.0,4
+2020-03-26,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,71.0,60.0,72.0,5
+2020-03-26,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,85.0,83.0,85.0,6
+2020-03-26,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,68.0,57.0,69.0,7
+2020-03-26,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,95.0,80.0,96.0,8
+2020-03-26,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,70.0,55.0,71.0,9
+2020-03-26,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,43.0,35.0,44.0,10
+2020-03-26,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,64.0,56.0,64.0,11
+2020-03-26,WestVirginia,4bf58dd8d48988d163941735,Parks,109.0,103.0,110.0,12
+2020-03-26,WestVirginia,4bf58dd8d48988d196941735,Hospitals,42.0,29.0,42.0,13
+2020-03-26,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,72.0,59.0,72.0,14
+2020-03-26,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,62.0,52.0,62.0,15
+2020-03-26,WestVirginia,4bf58dd8d48988d116941735,Bars,30.0,"",30.0,16
+2020-03-26,WestVirginia,4bf58dd8d48988d172941735,Post Offices,76.0,72.0,76.0,17
+2020-03-26,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,48.0,39.0,48.0,18
+2020-03-26,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,35.0,32.0,35.0,19
+2020-03-26,WestVirginia,4bf58dd8d48988d13d941735,High Schools,31.0,"",30.0,20
+2020-03-26,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,30.0,"",30.0,21
+2020-03-26,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,117.0,133.0,116.0,22
+2020-03-26,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,45.0,"",45.0,23
+2020-03-26,WestVirginia,4bf58dd8d48988d124941735,Offices,50.0,"",50.0,24
+2020-03-26,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,10.0,"",10.0,25
+2020-03-26,WestVirginia,4bf58dd8d48988d10a951735,Banks,52.0,"",52.0,26
+2020-03-26,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,37.0,"",37.0,27
+2020-03-26,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,80.0,"",80.0,28
+2020-03-26,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,68.0,"",70.0,29
+2020-03-26,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,75.0,"",76.0,30
+2020-03-26,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,50.0,"",51.0,31
+2020-03-26,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,73.0,"",74.0,31
+2020-03-26,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,52.0,"",52.0,32
+2020-03-26,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,94.0,"",94.0,33
+2020-03-26,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,36.0,"",36.0,34
+2020-03-26,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,36.0,"",36.0,35
+2020-03-26,WestVirginia,4bf58dd8d48988d159941735,Trails,123.0,"",123.0,35
+2020-03-26,WestVirginia,4bf58dd8d48988d147941735,Diners,49.0,"",50.0,36
+2020-03-26,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),82.0,"",82.0,37
+2020-03-26,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,52.0,"",53.0,38
+2020-03-26,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,45.0,"",45.0,39
+2020-03-26,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,97.0,"",97.0,40
+2020-03-26,WestVirginia,4bf58dd8d48988d161941735,Lakes,160.0,"",157.0,41
+2020-03-26,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,66.0,"",65.0,42
+2020-03-26,WestVirginia,4bf58dd8d48988d1ae941735,Universities,25.0,"",25.0,43
+2020-03-26,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,60.0,"",61.0,44
+2020-03-26,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,57.0,"",56.0,45
+2020-03-26,WestVirginia,4bf58dd8d48988d15b941735,Farms,85.0,"",85.0,46
+2020-03-26,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,50.0,"",50.0,47
+2020-03-27,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,71.0,63.0,71.0,1
+2020-03-27,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,55.0,62.0,2
+2020-03-27,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,51.0,69.0,3
+2020-03-27,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,65.0,70.0,4
+2020-03-27,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,74.0,64.0,74.0,5
+2020-03-27,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,87.0,85.0,87.0,6
+2020-03-27,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,76.0,65.0,77.0,7
+2020-03-27,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,103.0,85.0,104.0,8
+2020-03-27,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,76.0,71.0,76.0,9
+2020-03-27,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,42.0,38.0,42.0,10
+2020-03-27,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,60.0,59.0,60.0,11
+2020-03-27,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,78.0,59.0,78.0,12
+2020-03-27,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,69.0,64.0,69.0,13
+2020-03-27,WestVirginia,4bf58dd8d48988d196941735,Hospitals,48.0,"",49.0,14
+2020-03-27,WestVirginia,4bf58dd8d48988d116941735,Bars,29.0,28.0,29.0,15
+2020-03-27,WestVirginia,4bf58dd8d48988d172941735,Post Offices,78.0,78.0,78.0,16
+2020-03-27,WestVirginia,4bf58dd8d48988d163941735,Parks,86.0,"",87.0,17
+2020-03-27,WestVirginia,4bf58dd8d48988d10a951735,Banks,59.0,50.0,59.0,18
+2020-03-27,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,33.0,"",33.0,19
+2020-03-27,WestVirginia,4bf58dd8d48988d13d941735,High Schools,36.0,"",36.0,20
+2020-03-27,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,46.0,"",47.0,21
+2020-03-27,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,28.0,"",28.0,22
+2020-03-27,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,11.0,"",11.0,23
+2020-03-27,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,30.0,"",30.0,24
+2020-03-27,WestVirginia,4bf58dd8d48988d124941735,Offices,48.0,"",48.0,25
+2020-03-27,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,45.0,"",45.0,26
+2020-03-27,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,63.0,"",63.0,27
+2020-03-27,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,78.0,"",78.0,28
+2020-03-27,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,67.0,"",67.0,29
+2020-03-27,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,69.0,"",69.0,30
+2020-03-27,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,59.0,"",59.0,31
+2020-03-27,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,75.0,"",76.0,32
+2020-03-27,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,39.0,"",39.0,33
+2020-03-27,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,41.0,"",41.0,34
+2020-03-27,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,38.0,"",38.0,35
+2020-03-27,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,49.0,"",49.0,36
+2020-03-27,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,72.0,"",72.0,37
+2020-03-27,WestVirginia,4bf58dd8d48988d147941735,Diners,44.0,"",45.0,38
+2020-03-27,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,60.0,"",60.0,39
+2020-03-27,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,50.0,"",50.0,39
+2020-03-27,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,46.0,"",45.0,39
+2020-03-27,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,59.0,"",59.0,40
+2020-03-27,WestVirginia,4bf58dd8d48988d1ae941735,Universities,31.0,"",31.0,41
+2020-03-27,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,101.0,"",102.0,42
+2020-03-27,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),66.0,"",66.0,43
+2020-03-27,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,58.0,"",59.0,44
+2020-03-27,WestVirginia,4bf58dd8d48988d15b941735,Farms,79.0,"",79.0,45
+2020-03-27,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,90.0,"",89.0,45
+2020-03-27,WestVirginia,4bf58dd8d48988d159941735,Trails,94.0,"",94.0,46
+2020-03-27,WestVirginia,4bf58dd8d48988d1f6941735,Department Stores,28.0,"",28.0,47
+2020-03-28,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,76.0,55.0,77.0,1
+2020-03-28,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,65.0,57.0,65.0,2
+2020-03-28,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,46.0,62.0,3
+2020-03-28,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,61.0,76.0,4
+2020-03-28,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,116.0,81.0,117.0,5
+2020-03-28,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,76.0,62.0,77.0,6
+2020-03-28,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,91.0,65.0,92.0,7
+2020-03-28,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,74.0,61.0,74.0,8
+2020-03-28,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,76.0,57.0,77.0,9
+2020-03-28,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,62.0,65.0,62.0,10
+2020-03-28,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,35.0,24.0,35.0,11
+2020-03-28,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,80.0,74.0,80.0,12
+2020-03-28,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,64.0,63.0,64.0,13
+2020-03-28,WestVirginia,4bf58dd8d48988d163941735,Parks,104.0,108.0,104.0,14
+2020-03-28,WestVirginia,4bf58dd8d48988d116941735,Bars,23.0,"",23.0,15
+2020-03-28,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,27.0,"",27.0,16
+2020-03-28,WestVirginia,4bf58dd8d48988d196941735,Hospitals,54.0,"",54.0,17
+2020-03-28,WestVirginia,4bf58dd8d48988d172941735,Post Offices,83.0,"",83.0,18
+2020-03-28,WestVirginia,4bf58dd8d48988d13d941735,High Schools,47.0,"",47.0,19
+2020-03-28,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,109.0,"",109.0,20
+2020-03-28,WestVirginia,4bf58dd8d48988d10a951735,Banks,66.0,"",67.0,21
+2020-03-28,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,78.0,"",78.0,22
+2020-03-28,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,27.0,"",27.0,23
+2020-03-28,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,131.0,"",131.0,24
+2020-03-28,WestVirginia,4bf58dd8d48988d159941735,Trails,157.0,"",157.0,25
+2020-03-28,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,88.0,"",89.0,26
+2020-03-28,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,67.0,"",68.0,26
+2020-03-28,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,62.0,"",63.0,27
+2020-03-28,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,177.0,"",180.0,28
+2020-03-28,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,40.0,"",40.0,29
+2020-03-28,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,39.0,"",39.0,29
+2020-03-28,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,71.0,"",72.0,30
+2020-03-28,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,64.0,"",65.0,31
+2020-03-28,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,97.0,"",98.0,32
+2020-03-28,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,70.0,"",70.0,33
+2020-03-28,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,14.0,"",14.0,34
+2020-03-28,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,41.0,"",41.0,35
+2020-03-28,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,41.0,"",42.0,36
+2020-03-28,WestVirginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,69.0,"",69.0,37
+2020-03-28,WestVirginia,4bf58dd8d48988d161941735,Lakes,180.0,"",181.0,38
+2020-03-28,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,65.0,"",66.0,39
+2020-03-28,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,32.0,"",32.0,40
+2020-03-28,WestVirginia,4bf58dd8d48988d165941735,Scenic Lookouts,150.0,"",151.0,41
+2020-03-28,WestVirginia,4bf58dd8d48988d124941735,Offices,56.0,"",56.0,41
+2020-03-28,WestVirginia,4eb1d4dd4b900d56c88a45fd,Rivers,126.0,"",127.0,42
+2020-03-28,WestVirginia,4bf58dd8d48988d15b941735,Farms,99.0,"",99.0,42
+2020-03-28,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,57.0,"",58.0,43
+2020-03-28,WestVirginia,4bf58dd8d48988d147941735,Diners,44.0,"",44.0,44
+2020-03-28,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,80.0,"",80.0,45
+2020-03-28,WestVirginia,4f2a210c4b9023bd5841ed28,Housing Developments,81.0,"",81.0,46
+2020-03-29,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,63.0,52.0,64.0,1
+2020-03-29,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,55.0,59.0,2
+2020-03-29,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,55.0,53.0,55.0,3
+2020-03-29,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,59.0,56.0,59.0,4
+2020-03-29,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,101.0,73.0,102.0,5
+2020-03-29,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,63.0,62.0,63.0,6
+2020-03-29,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,72.0,64.0,72.0,7
+2020-03-29,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,66.0,59.0,66.0,8
+2020-03-29,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,70.0,61.0,70.0,9
+2020-03-29,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,32.0,22.0,32.0,10
+2020-03-29,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,53.0,"",53.0,11
+2020-03-29,WestVirginia,4bf58dd8d48988d163941735,Parks,78.0,93.0,77.0,12
+2020-03-29,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,72.0,"",73.0,13
+2020-03-29,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,54.0,"",54.0,14
+2020-03-29,WestVirginia,4bf58dd8d48988d116941735,Bars,21.0,"",21.0,15
+2020-03-29,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,25.0,"",25.0,16
+2020-03-29,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,87.0,"",88.0,17
+2020-03-29,WestVirginia,4bf58dd8d48988d196941735,Hospitals,45.0,"",45.0,18
+2020-03-29,WestVirginia,4bf58dd8d48988d13d941735,High Schools,47.0,"",47.0,19
+2020-03-29,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,26.0,"",26.0,20
+2020-03-29,WestVirginia,4bf58dd8d48988d172941735,Post Offices,73.0,"",73.0,21
+2020-03-29,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,60.0,"",61.0,22
+2020-03-29,WestVirginia,5bae9231bedf3950379f89d0,State / Provincial Parks,117.0,"",118.0,23
+2020-03-29,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,59.0,"",59.0,24
+2020-03-29,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,87.0,"",87.0,24
+2020-03-29,WestVirginia,4bf58dd8d48988d159941735,Trails,112.0,"",113.0,25
+2020-03-29,WestVirginia,4bf58dd8d48988d1e4941735,Campgrounds,86.0,"",86.0,25
+2020-03-29,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,59.0,"",59.0,26
+2020-03-29,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,32.0,"",32.0,27
+2020-03-29,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,40.0,"",41.0,28
+2020-03-29,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,34.0,"",35.0,29
+2020-03-30,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,69.0,61.0,69.0,1
+2020-03-30,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,62.0,54.0,63.0,2
+2020-03-30,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,57.0,65.0,3
+2020-03-30,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,71.0,74.0,4
+2020-03-30,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,75.0,61.0,75.0,5
+2020-03-30,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,83.0,90.0,83.0,6
+2020-03-30,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,98.0,88.0,99.0,7
+2020-03-30,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,71.0,67.0,71.0,8
+2020-03-30,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,67.0,61.0,68.0,9
+2020-03-30,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,45.0,32.0,45.0,10
+2020-03-30,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,64.0,60.0,64.0,11
+2020-03-30,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,68.0,65.0,68.0,12
+2020-03-30,WestVirginia,4bf58dd8d48988d172941735,Post Offices,84.0,61.0,86.0,13
+2020-03-30,WestVirginia,4bf58dd8d48988d196941735,Hospitals,38.0,28.0,39.0,14
+2020-03-30,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,60.0,"",61.0,15
+2020-03-30,WestVirginia,4bf58dd8d48988d116941735,Bars,31.0,31.0,31.0,16
+2020-03-30,WestVirginia,4bf58dd8d48988d163941735,Parks,75.0,"",75.0,17
+2020-03-30,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,45.0,32.0,45.0,18
+2020-03-30,WestVirginia,4bf58dd8d48988d10a951735,Banks,68.0,58.0,69.0,19
+2020-03-30,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,32.0,"",33.0,20
+2020-03-30,WestVirginia,4bf58dd8d48988d13d941735,High Schools,32.0,"",32.0,21
+2020-03-30,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,28.0,"",28.0,22
+2020-03-30,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,46.0,"",45.0,23
+2020-03-30,WestVirginia,4bf58dd8d48988d124941735,Offices,47.0,"",47.0,24
+2020-03-30,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,38.0,"",38.0,25
+2020-03-30,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,8.0,"",8.0,26
+2020-03-30,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,71.0,84.0,70.0,27
+2020-03-30,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,59.0,"",60.0,28
+2020-03-30,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,65.0,"",64.0,29
+2020-03-30,WestVirginia,4bf58dd8d48988d147941735,Diners,60.0,"",62.0,30
+2020-03-30,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,63.0,"",63.0,31
+2020-03-30,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,55.0,"",56.0,32
+2020-03-30,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,58.0,"",58.0,33
+2020-03-30,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,39.0,"",40.0,33
+2020-03-30,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,74.0,"",75.0,34
+2020-03-30,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,64.0,"",65.0,35
+2020-03-30,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,36.0,"",36.0,36
+2020-03-30,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,74.0,"",75.0,37
+2020-03-30,WestVirginia,4bf58dd8d48988d15b941735,Farms,96.0,"",96.0,38
+2020-03-30,WestVirginia,4bf58dd8d48988d159941735,Trails,96.0,"",96.0,39
+2020-03-30,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,59.0,"",59.0,40
+2020-03-30,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,43.0,"",43.0,41
+2020-03-31,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,61.0,58.0,61.0,1
+2020-03-31,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,48.0,54.0,2
+2020-03-31,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,68.0,66.0,3
+2020-03-31,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,64.0,69.0,4
+2020-03-31,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,79.0,83.0,79.0,5
+2020-03-31,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,60.0,55.0,60.0,6
+2020-03-31,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,66.0,58.0,66.0,7
+2020-03-31,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,87.0,63.0,88.0,8
+2020-03-31,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,60.0,53.0,60.0,9
+2020-03-31,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,40.0,31.0,40.0,10
+2020-03-31,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,54.0,54.0,54.0,11
+2020-03-31,WestVirginia,4bf58dd8d48988d196941735,Hospitals,36.0,26.0,37.0,12
+2020-03-31,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,58.0,50.0,58.0,13
+2020-03-31,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,55.0,58.0,55.0,14
+2020-03-31,WestVirginia,4bf58dd8d48988d116941735,Bars,27.0,"",27.0,15
+2020-03-31,WestVirginia,4bf58dd8d48988d10a951735,Banks,66.0,63.0,66.0,16
+2020-03-31,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,32.0,"",32.0,17
+2020-03-31,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,36.0,"",36.0,18
+2020-03-31,WestVirginia,4bf58dd8d48988d172941735,Post Offices,55.0,57.0,55.0,19
+2020-03-31,WestVirginia,4bf58dd8d48988d163941735,Parks,57.0,"",57.0,20
+2020-03-31,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,25.0,"",24.0,21
+2020-03-31,WestVirginia,4bf58dd8d48988d13d941735,High Schools,24.0,"",24.0,22
+2020-03-31,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,34.0,"",33.0,23
+2020-03-31,WestVirginia,4bf58dd8d48988d124941735,Offices,38.0,"",38.0,24
+2020-03-31,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,32.0,"",32.0,25
+2020-03-31,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,7.0,"",7.0,26
+2020-03-31,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,61.0,"",61.0,26
+2020-03-31,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,53.0,"",53.0,27
+2020-03-31,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,40.0,"",40.0,28
+2020-03-31,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,55.0,"",54.0,29
+2020-03-31,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,33.0,"",33.0,30
+2020-03-31,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,63.0,"",63.0,30
+2020-03-31,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,51.0,"",52.0,31
+2020-03-31,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,82.0,"",82.0,32
+2020-03-31,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,43.0,"",43.0,33
+2020-03-31,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,64.0,"",64.0,34
+2020-03-31,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,50.0,"",51.0,35
+2020-03-31,WestVirginia,4bf58dd8d48988d147941735,Diners,44.0,"",45.0,36
+2020-03-31,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,54.0,"",54.0,37
+2020-03-31,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,38.0,"",38.0,37
+2020-03-31,WestVirginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),61.0,"",61.0,38
+2020-03-31,WestVirginia,4bf58dd8d48988d1ae941735,Universities,21.0,"",21.0,39
+2020-04-01,WestVirginia,4bf58dd8d48988d113951735,Gas Stations,62.0,52.0,62.0,1
+2020-04-01,WestVirginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,52.0,56.0,2
+2020-04-01,WestVirginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,70.0,55.0,71.0,3
+2020-04-01,WestVirginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,80.0,71.0,80.0,4
+2020-04-01,WestVirginia,4bf58dd8d48988d118951735,Grocery Stores,89.0,85.0,90.0,5
+2020-04-01,WestVirginia,4bf58dd8d48988d10f951735,Pharmacies,78.0,66.0,78.0,6
+2020-04-01,WestVirginia,52dea92d3cf9994f4e043dbb,Discount Stores,67.0,56.0,67.0,7
+2020-04-01,WestVirginia,4d954b0ea243a5684a65b473,Convenience Stores,66.0,53.0,66.0,8
+2020-04-01,WestVirginia,4bf58dd8d48988d112951735,Hardware Stores,84.0,78.0,84.0,9
+2020-04-01,WestVirginia,4bf58dd8d48988d1ca941735,Pizza Places,57.0,48.0,57.0,10
+2020-04-01,WestVirginia,4bf58dd8d48988d14e941735,American Restaurants,37.0,25.0,38.0,11
+2020-04-01,WestVirginia,4bf58dd8d48988d196941735,Hospitals,39.0,29.0,40.0,12
+2020-04-01,WestVirginia,4bf58dd8d48988d124951735,Automotive Shops,66.0,52.0,67.0,13
+2020-04-01,WestVirginia,4bf58dd8d48988d1c5941735,Sandwich Places,56.0,53.0,57.0,14
+2020-04-01,WestVirginia,4bf58dd8d48988d172941735,Post Offices,69.0,49.0,70.0,15
+2020-04-01,WestVirginia,4bf58dd8d48988d10a951735,Banks,65.0,52.0,66.0,16
+2020-04-01,WestVirginia,4bf58dd8d48988d177941735,Doctor's Offices,41.0,33.0,41.0,17
+2020-04-01,WestVirginia,4bf58dd8d48988d1fa931735,Hotels,31.0,"",31.0,18
+2020-04-01,WestVirginia,4bf58dd8d48988d116941735,Bars,22.0,"",22.0,19
+2020-04-01,WestVirginia,4bf58dd8d48988d13d941735,High Schools,27.0,"",27.0,20
+2020-04-01,WestVirginia,4bf58dd8d48988d163941735,Parks,51.0,"",51.0,21
+2020-04-01,WestVirginia,4bf58dd8d48988d126941735,Government Buildings,24.0,"",24.0,22
+2020-04-01,WestVirginia,4f4533804b9074f6e4fb0105,Elementary Schools,36.0,"",36.0,23
+2020-04-01,WestVirginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,33.0,"",32.0,23
+2020-04-01,WestVirginia,4bf58dd8d48988d124941735,Offices,37.0,"",37.0,24
+2020-04-01,WestVirginia,4eb1bea83b7b6f98df247e06,Factories,67.0,"",67.0,25
+2020-04-01,WestVirginia,4bf58dd8d48988d104941735,Medical Centers,7.0,"",7.0,26
+2020-04-01,WestVirginia,52e81612bcbc57f1066b7a00,Comfort Food Restaurants,58.0,"",58.0,27
+2020-04-01,WestVirginia,4d954b16a243a5684b65b473,Rest Areas,61.0,"",62.0,28
+2020-04-01,WestVirginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,89.0,"",92.0,28
+2020-04-01,WestVirginia,4bf58dd8d48988d1e0931735,Coffee Shops,36.0,"",36.0,29
+2020-04-01,WestVirginia,4f4533814b9074f6e4fb0106,Middle Schools,36.0,"",36.0,30
+2020-04-01,WestVirginia,4bf58dd8d48988d12b941735,Courthouses,49.0,"",50.0,31
+2020-04-01,WestVirginia,4bf58dd8d48988d147941735,Diners,52.0,"",52.0,31
+2020-04-01,WestVirginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,42.0,"",43.0,32
+2020-04-01,WestVirginia,4bf58dd8d48988d1f6931735,General Travel,73.0,"",73.0,33
+2020-04-01,WestVirginia,4bf58dd8d48988d145941735,Chinese Restaurants,63.0,"",63.0,33
+2020-04-01,WestVirginia,50327c8591d4c4b30a586d5d,Breweries,54.0,"",54.0,34
+2020-04-01,WestVirginia,4bf58dd8d48988d110951735,Salons / Barbershops,61.0,"",61.0,35
+2020-04-01,WestVirginia,4bf58dd8d48988d1c4941735,Restaurants,37.0,"",37.0,36
+2020-04-01,WestVirginia,4bf58dd8d48988d110941735,Italian Restaurants,38.0,"",38.0,37
+2020-04-01,WestVirginia,4bf58dd8d48988d1e6941735,Golf Courses,54.0,"",55.0,38

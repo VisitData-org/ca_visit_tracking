@@ -1,0 +1,871 @@
+2020-03-01,Nebraska,Food,49.0,45.0,49.0,1
+2020-03-01,Nebraska,Shops & Services,68.0,62.0,68.0,2
+2020-03-01,Nebraska,Nightlife Spots,55.0,54.0,55.0,3
+2020-03-01,Nebraska,Grocery,95.0,92.0,95.0,4
+2020-03-01,Nebraska,Fast Food Restaurants,110.0,111.0,110.0,5
+2020-03-01,Nebraska,Big Box Stores,101.0,100.0,101.0,6
+2020-03-01,Nebraska,Outdoors & Recreation,65.0,61.0,65.0,7
+2020-03-01,Nebraska,Gas Stations,103.0,105.0,103.0,8
+2020-03-01,Nebraska,Arts & Entertainment,92.0,81.0,92.0,9
+2020-03-01,Nebraska,School,61.0,59.0,61.0,10
+2020-03-01,Nebraska,Convenience Store,100.0,97.0,100.0,11
+2020-03-01,Nebraska,Professional & Other Places,27.0,21.0,27.0,12
+2020-03-01,Nebraska,Residences,110.0,129.0,110.0,13
+2020-03-01,Nebraska,Hardware Stores,113.0,121.0,112.0,14
+2020-03-01,Nebraska,Hotel,96.0,92.0,96.0,15
+2020-03-01,Nebraska,Colleges & Universities,98.0,115.0,98.0,16
+2020-03-01,Nebraska,Medical,55.0,46.0,55.0,17
+2020-03-01,Nebraska,Sports,47.0,43.0,47.0,18
+2020-03-01,Nebraska,Drug Store,104.0,104.0,104.0,19
+2020-03-01,Nebraska,Fitness Center,72.0,61.0,72.0,20
+2020-03-01,Nebraska,Discount Stores,103.0,101.0,103.0,21
+2020-03-01,Nebraska,Airport,73.0,72.0,73.0,22
+2020-03-01,Nebraska,Office,72.0,"",73.0,23
+2020-03-01,Nebraska,Government,80.0,"",80.0,24
+2020-03-01,Nebraska,Alcohol,88.0,"",88.0,25
+2020-03-01,Nebraska,Banks,113.0,"",114.0,26
+2020-03-01,Nebraska,Travel & Transport,95.0,"",95.0,27
+2020-03-02,Nebraska,Shops & Services,41.0,43.0,41.0,1
+2020-03-02,Nebraska,Food,49.0,47.0,49.0,2
+2020-03-02,Nebraska,School,63.0,61.0,63.0,3
+2020-03-02,Nebraska,Nightlife Spots,55.0,53.0,55.0,4
+2020-03-02,Nebraska,Medical,54.0,58.0,54.0,5
+2020-03-02,Nebraska,Fast Food Restaurants,110.0,111.0,110.0,6
+2020-03-02,Nebraska,Grocery,99.0,97.0,99.0,7
+2020-03-02,Nebraska,Gas Stations,101.0,92.0,102.0,8
+2020-03-02,Nebraska,Professional & Other Places,21.0,21.0,21.0,9
+2020-03-02,Nebraska,Outdoors & Recreation,63.0,61.0,63.0,10
+2020-03-02,Nebraska,Big Box Stores,104.0,95.0,104.0,11
+2020-03-02,Nebraska,Convenience Store,104.0,101.0,104.0,12
+2020-03-02,Nebraska,Colleges & Universities,60.0,61.0,60.0,13
+2020-03-02,Nebraska,Office,82.0,84.0,82.0,14
+2020-03-02,Nebraska,Arts & Entertainment,91.0,88.0,91.0,15
+2020-03-02,Nebraska,Residences,112.0,112.0,112.0,16
+2020-03-02,Nebraska,Fitness Center,71.0,69.0,71.0,17
+2020-03-02,Nebraska,Hotel,90.0,92.0,90.0,18
+2020-03-02,Nebraska,Hardware Stores,94.0,90.0,94.0,19
+2020-03-02,Nebraska,Drug Store,107.0,102.0,107.0,20
+2020-03-02,Nebraska,Government,80.0,73.0,80.0,21
+2020-03-02,Nebraska,Sports,38.0,40.0,37.0,22
+2020-03-02,Nebraska,Banks,121.0,109.0,121.0,23
+2020-03-02,Nebraska,Airport,65.0,59.0,65.0,24
+2020-03-02,Nebraska,Discount Stores,104.0,101.0,104.0,25
+2020-03-02,Nebraska,Travel & Transport,91.0,109.0,91.0,26
+2020-03-02,Nebraska,Alcohol,107.0,"",108.0,27
+2020-03-02,Nebraska,Bus,86.0,"",86.0,28
+2020-03-03,Nebraska,Shops & Services,66.0,67.0,66.0,1
+2020-03-03,Nebraska,Food,51.0,48.0,51.0,2
+2020-03-03,Nebraska,School,57.0,57.0,57.0,3
+2020-03-03,Nebraska,Nightlife Spots,56.0,55.0,56.0,4
+2020-03-03,Nebraska,Medical,56.0,50.0,56.0,5
+2020-03-03,Nebraska,Grocery,107.0,106.0,107.0,6
+2020-03-03,Nebraska,Fast Food Restaurants,105.0,97.0,105.0,7
+2020-03-03,Nebraska,Gas Stations,100.0,98.0,100.0,8
+2020-03-03,Nebraska,Professional & Other Places,23.0,21.0,24.0,8
+2020-03-03,Nebraska,Outdoors & Recreation,55.0,54.0,55.0,9
+2020-03-03,Nebraska,Big Box Stores,108.0,113.0,107.0,10
+2020-03-03,Nebraska,Colleges & Universities,64.0,65.0,63.0,11
+2020-03-03,Nebraska,Convenience Store,99.0,97.0,99.0,12
+2020-03-03,Nebraska,Arts & Entertainment,99.0,91.0,99.0,13
+2020-03-03,Nebraska,Office,83.0,90.0,82.0,14
+2020-03-03,Nebraska,Residences,119.0,120.0,119.0,15
+2020-03-03,Nebraska,Fitness Center,71.0,69.0,71.0,16
+2020-03-03,Nebraska,Hotel,93.0,82.0,93.0,17
+2020-03-03,Nebraska,Hardware Stores,104.0,85.0,105.0,18
+2020-03-03,Nebraska,Government,76.0,82.0,75.0,19
+2020-03-03,Nebraska,Drug Store,106.0,107.0,106.0,20
+2020-03-03,Nebraska,Sports,41.0,51.0,41.0,21
+2020-03-03,Nebraska,Banks,114.0,91.0,115.0,22
+2020-03-03,Nebraska,Discount Stores,111.0,108.0,111.0,23
+2020-03-03,Nebraska,Airport,73.0,90.0,73.0,24
+2020-03-03,Nebraska,Travel & Transport,81.0,89.0,81.0,25
+2020-03-03,Nebraska,Alcohol,128.0,145.0,127.0,26
+2020-03-03,Nebraska,Bus,92.0,"",92.0,27
+2020-03-04,Nebraska,Shops & Services,38.0,40.0,38.0,1
+2020-03-04,Nebraska,Food,51.0,51.0,51.0,2
+2020-03-04,Nebraska,School,61.0,63.0,61.0,3
+2020-03-04,Nebraska,Nightlife Spots,58.0,64.0,57.0,4
+2020-03-04,Nebraska,Medical,61.0,55.0,62.0,5
+2020-03-04,Nebraska,Gas Stations,106.0,110.0,106.0,6
+2020-03-04,Nebraska,Grocery,107.0,102.0,107.0,7
+2020-03-04,Nebraska,Fast Food Restaurants,104.0,99.0,104.0,8
+2020-03-04,Nebraska,Professional & Other Places,21.0,22.0,21.0,9
+2020-03-04,Nebraska,Outdoors & Recreation,61.0,60.0,61.0,10
+2020-03-04,Nebraska,Colleges & Universities,86.0,96.0,86.0,11
+2020-03-04,Nebraska,Big Box Stores,107.0,115.0,107.0,12
+2020-03-04,Nebraska,Convenience Store,107.0,109.0,107.0,13
+2020-03-04,Nebraska,Arts & Entertainment,103.0,115.0,102.0,14
+2020-03-04,Nebraska,Office,93.0,122.0,92.0,15
+2020-03-04,Nebraska,Residences,117.0,119.0,117.0,16
+2020-03-04,Nebraska,Fitness Center,71.0,66.0,71.0,17
+2020-03-04,Nebraska,Hotel,84.0,81.0,84.0,18
+2020-03-04,Nebraska,Hardware Stores,111.0,130.0,110.0,19
+2020-03-04,Nebraska,Drug Store,107.0,97.0,107.0,20
+2020-03-04,Nebraska,Sports,41.0,51.0,40.0,21
+2020-03-04,Nebraska,Government,76.0,74.0,76.0,22
+2020-03-04,Nebraska,Banks,111.0,117.0,111.0,23
+2020-03-04,Nebraska,Airport,73.0,58.0,73.0,24
+2020-03-04,Nebraska,Discount Stores,106.0,103.0,106.0,25
+2020-03-04,Nebraska,Travel & Transport,82.0,78.0,82.0,26
+2020-03-04,Nebraska,Alcohol,106.0,"",107.0,27
+2020-03-04,Nebraska,Bus,92.0,"",92.0,28
+2020-03-05,Nebraska,Shops & Services,40.0,39.0,40.0,1
+2020-03-05,Nebraska,Food,52.0,53.0,52.0,2
+2020-03-05,Nebraska,Nightlife Spots,62.0,63.0,62.0,3
+2020-03-05,Nebraska,School,60.0,59.0,60.0,4
+2020-03-05,Nebraska,Fast Food Restaurants,115.0,114.0,115.0,5
+2020-03-05,Nebraska,Medical,60.0,57.0,60.0,6
+2020-03-05,Nebraska,Gas Stations,110.0,107.0,110.0,7
+2020-03-05,Nebraska,Professional & Other Places,23.0,24.0,23.0,8
+2020-03-05,Nebraska,Grocery,109.0,100.0,109.0,9
+2020-03-05,Nebraska,Outdoors & Recreation,61.0,61.0,61.0,10
+2020-03-05,Nebraska,Big Box Stores,107.0,108.0,106.0,11
+2020-03-05,Nebraska,Colleges & Universities,92.0,95.0,92.0,12
+2020-03-05,Nebraska,Convenience Store,107.0,105.0,107.0,13
+2020-03-05,Nebraska,Office,92.0,81.0,93.0,14
+2020-03-05,Nebraska,Arts & Entertainment,93.0,93.0,93.0,15
+2020-03-05,Nebraska,Residences,118.0,116.0,118.0,16
+2020-03-05,Nebraska,Hardware Stores,119.0,120.0,119.0,17
+2020-03-05,Nebraska,Fitness Center,72.0,70.0,72.0,18
+2020-03-05,Nebraska,Hotel,89.0,91.0,89.0,19
+2020-03-05,Nebraska,Sports,43.0,45.0,43.0,20
+2020-03-05,Nebraska,Drug Store,106.0,97.0,106.0,21
+2020-03-05,Nebraska,Government,77.0,79.0,77.0,22
+2020-03-05,Nebraska,Banks,112.0,118.0,112.0,23
+2020-03-05,Nebraska,Discount Stores,108.0,97.0,109.0,24
+2020-03-05,Nebraska,Airport,67.0,96.0,66.0,25
+2020-03-05,Nebraska,Travel & Transport,26.0,23.0,26.0,26
+2020-03-05,Nebraska,Alcohol,108.0,108.0,108.0,27
+2020-03-05,Nebraska,Bus,80.0,"",79.0,28
+2020-03-06,Nebraska,Shops & Services,44.0,42.0,44.0,1
+2020-03-06,Nebraska,Food,48.0,46.0,48.0,2
+2020-03-06,Nebraska,Nightlife Spots,56.0,56.0,56.0,3
+2020-03-06,Nebraska,School,57.0,58.0,57.0,4
+2020-03-06,Nebraska,Fast Food Restaurants,108.0,103.0,108.0,5
+2020-03-06,Nebraska,Grocery,102.0,95.0,102.0,6
+2020-03-06,Nebraska,Gas Stations,105.0,102.0,106.0,7
+2020-03-06,Nebraska,Outdoors & Recreation,59.0,61.0,59.0,8
+2020-03-06,Nebraska,Medical,58.0,57.0,58.0,9
+2020-03-06,Nebraska,Professional & Other Places,21.0,22.0,21.0,10
+2020-03-06,Nebraska,Big Box Stores,96.0,98.0,96.0,11
+2020-03-06,Nebraska,Convenience Store,107.0,109.0,107.0,12
+2020-03-06,Nebraska,Colleges & Universities,70.0,66.0,70.0,13
+2020-03-06,Nebraska,Arts & Entertainment,90.0,94.0,90.0,14
+2020-03-06,Nebraska,Office,90.0,82.0,91.0,15
+2020-03-06,Nebraska,Residences,114.0,109.0,114.0,16
+2020-03-06,Nebraska,Hotel,91.0,84.0,91.0,17
+2020-03-06,Nebraska,Hardware Stores,107.0,109.0,107.0,18
+2020-03-06,Nebraska,Fitness Center,68.0,62.0,68.0,19
+2020-03-06,Nebraska,Drug Store,97.0,101.0,97.0,20
+2020-03-06,Nebraska,Sports,42.0,48.0,42.0,21
+2020-03-06,Nebraska,Government,79.0,73.0,79.0,22
+2020-03-06,Nebraska,Banks,109.0,128.0,109.0,23
+2020-03-06,Nebraska,Airport,68.0,62.0,69.0,24
+2020-03-06,Nebraska,Discount Stores,93.0,81.0,94.0,25
+2020-03-06,Nebraska,Travel & Transport,89.0,83.0,90.0,26
+2020-03-06,Nebraska,Alcohol,102.0,"",103.0,27
+2020-03-06,Nebraska,Bus,76.0,"",75.0,28
+2020-03-07,Nebraska,Shops & Services,54.0,49.0,54.0,1
+2020-03-07,Nebraska,Food,46.0,46.0,46.0,2
+2020-03-07,Nebraska,Nightlife Spots,55.0,54.0,55.0,3
+2020-03-07,Nebraska,Grocery,102.0,100.0,102.0,4
+2020-03-07,Nebraska,Fast Food Restaurants,103.0,99.0,103.0,5
+2020-03-07,Nebraska,Big Box Stores,104.0,106.0,104.0,6
+2020-03-07,Nebraska,Outdoors & Recreation,74.0,68.0,74.0,7
+2020-03-07,Nebraska,Gas Stations,109.0,99.0,109.0,8
+2020-03-07,Nebraska,Arts & Entertainment,98.0,104.0,98.0,9
+2020-03-07,Nebraska,School,60.0,60.0,60.0,10
+2020-03-07,Nebraska,Professional & Other Places,28.0,27.0,28.0,11
+2020-03-07,Nebraska,Convenience Store,105.0,97.0,105.0,12
+2020-03-07,Nebraska,Hardware Stores,115.0,111.0,115.0,13
+2020-03-07,Nebraska,Residences,114.0,116.0,114.0,14
+2020-03-07,Nebraska,Hotel,102.0,102.0,102.0,15
+2020-03-07,Nebraska,Medical,58.0,57.0,58.0,16
+2020-03-07,Nebraska,Colleges & Universities,86.0,78.0,87.0,17
+2020-03-07,Nebraska,Sports,46.0,45.0,46.0,18
+2020-03-07,Nebraska,Drug Store,105.0,103.0,105.0,19
+2020-03-07,Nebraska,Fitness Center,64.0,66.0,64.0,20
+2020-03-07,Nebraska,Discount Stores,113.0,111.0,113.0,21
+2020-03-07,Nebraska,Office,76.0,62.0,76.0,22
+2020-03-07,Nebraska,Government,83.0,85.0,83.0,23
+2020-03-07,Nebraska,Airport,65.0,51.0,66.0,24
+2020-03-07,Nebraska,Travel & Transport,118.0,"",119.0,25
+2020-03-07,Nebraska,Banks,90.0,86.0,90.0,26
+2020-03-07,Nebraska,Alcohol,106.0,85.0,107.0,27
+2020-03-08,Nebraska,Food,49.0,49.0,49.0,1
+2020-03-08,Nebraska,Shops & Services,50.0,43.0,50.0,2
+2020-03-08,Nebraska,Nightlife Spots,54.0,56.0,54.0,3
+2020-03-08,Nebraska,Grocery,98.0,92.0,98.0,4
+2020-03-08,Nebraska,Outdoors & Recreation,120.0,123.0,120.0,5
+2020-03-08,Nebraska,Big Box Stores,101.0,102.0,101.0,6
+2020-03-08,Nebraska,Fast Food Restaurants,108.0,110.0,108.0,7
+2020-03-08,Nebraska,Gas Stations,104.0,92.0,105.0,8
+2020-03-08,Nebraska,Arts & Entertainment,94.0,89.0,94.0,9
+2020-03-08,Nebraska,School,63.0,58.0,63.0,10
+2020-03-08,Nebraska,Convenience Store,105.0,105.0,105.0,11
+2020-03-08,Nebraska,Professional & Other Places,27.0,20.0,27.0,12
+2020-03-08,Nebraska,Residences,110.0,108.0,110.0,13
+2020-03-08,Nebraska,Hardware Stores,116.0,117.0,116.0,14
+2020-03-08,Nebraska,Medical,62.0,65.0,62.0,15
+2020-03-08,Nebraska,Hotel,88.0,97.0,87.0,16
+2020-03-08,Nebraska,Colleges & Universities,96.0,88.0,97.0,17
+2020-03-08,Nebraska,Sports,56.0,48.0,56.0,18
+2020-03-08,Nebraska,Drug Store,105.0,96.0,106.0,19
+2020-03-08,Nebraska,Fitness Center,66.0,54.0,66.0,20
+2020-03-08,Nebraska,Discount Stores,109.0,98.0,109.0,21
+2020-03-08,Nebraska,Office,80.0,"",81.0,22
+2020-03-08,Nebraska,Airport,60.0,"",60.0,23
+2020-03-08,Nebraska,Government,83.0,"",83.0,24
+2020-03-08,Nebraska,Alcohol,100.0,"",100.0,25
+2020-03-08,Nebraska,Travel & Transport,104.0,"",103.0,26
+2020-03-08,Nebraska,Banks,93.0,"",93.0,27
+2020-03-09,Nebraska,Shops & Services,50.0,44.0,50.0,1
+2020-03-09,Nebraska,Food,51.0,47.0,51.0,2
+2020-03-09,Nebraska,Nightlife Spots,59.0,57.0,59.0,3
+2020-03-09,Nebraska,Grocery,106.0,90.0,107.0,4
+2020-03-09,Nebraska,School,54.0,57.0,54.0,5
+2020-03-09,Nebraska,Medical,54.0,50.0,54.0,6
+2020-03-09,Nebraska,Gas Stations,101.0,95.0,101.0,7
+2020-03-09,Nebraska,Fast Food Restaurants,101.0,90.0,102.0,8
+2020-03-09,Nebraska,Professional & Other Places,22.0,20.0,22.0,9
+2020-03-09,Nebraska,Outdoors & Recreation,59.0,54.0,59.0,10
+2020-03-09,Nebraska,Big Box Stores,102.0,97.0,103.0,11
+2020-03-09,Nebraska,Convenience Store,102.0,90.0,102.0,12
+2020-03-09,Nebraska,Colleges & Universities,55.0,63.0,55.0,13
+2020-03-09,Nebraska,Office,78.0,76.0,78.0,14
+2020-03-09,Nebraska,Arts & Entertainment,85.0,71.0,86.0,15
+2020-03-09,Nebraska,Residences,98.0,81.0,98.0,16
+2020-03-09,Nebraska,Hardware Stores,105.0,87.0,106.0,17
+2020-03-09,Nebraska,Hotel,90.0,76.0,91.0,18
+2020-03-09,Nebraska,Fitness Center,66.0,57.0,66.0,19
+2020-03-09,Nebraska,Government,78.0,77.0,78.0,20
+2020-03-09,Nebraska,Drug Store,99.0,94.0,100.0,21
+2020-03-09,Nebraska,Sports,34.0,27.0,34.0,22
+2020-03-09,Nebraska,Airport,66.0,50.0,67.0,23
+2020-03-09,Nebraska,Banks,103.0,97.0,103.0,24
+2020-03-09,Nebraska,Discount Stores,105.0,102.0,105.0,25
+2020-03-09,Nebraska,Travel & Transport,95.0,128.0,94.0,26
+2020-03-09,Nebraska,Alcohol,100.0,"",100.0,27
+2020-03-10,Nebraska,Shops & Services,52.0,47.0,52.0,1
+2020-03-10,Nebraska,Food,48.0,46.0,48.0,2
+2020-03-10,Nebraska,Nightlife Spots,59.0,52.0,60.0,3
+2020-03-10,Nebraska,School,45.0,49.0,45.0,4
+2020-03-10,Nebraska,Medical,51.0,46.0,52.0,5
+2020-03-10,Nebraska,Grocery,100.0,96.0,100.0,6
+2020-03-10,Nebraska,Gas Stations,98.0,95.0,98.0,7
+2020-03-10,Nebraska,Fast Food Restaurants,99.0,86.0,100.0,8
+2020-03-10,Nebraska,Professional & Other Places,19.0,18.0,19.0,9
+2020-03-10,Nebraska,Outdoors & Recreation,59.0,57.0,59.0,10
+2020-03-10,Nebraska,Big Box Stores,102.0,103.0,102.0,11
+2020-03-10,Nebraska,Convenience Store,98.0,96.0,98.0,12
+2020-03-10,Nebraska,Colleges & Universities,74.0,84.0,74.0,13
+2020-03-10,Nebraska,Office,77.0,82.0,77.0,14
+2020-03-10,Nebraska,Arts & Entertainment,88.0,67.0,88.0,15
+2020-03-10,Nebraska,Residences,104.0,86.0,105.0,16
+2020-03-10,Nebraska,Fitness Center,67.0,58.0,67.0,17
+2020-03-10,Nebraska,Hardware Stores,110.0,95.0,110.0,18
+2020-03-10,Nebraska,Hotel,87.0,82.0,87.0,19
+2020-03-10,Nebraska,Government,75.0,80.0,75.0,20
+2020-03-10,Nebraska,Drug Store,103.0,110.0,102.0,21
+2020-03-10,Nebraska,Sports,35.0,36.0,35.0,22
+2020-03-10,Nebraska,Banks,103.0,92.0,104.0,23
+2020-03-10,Nebraska,Discount Stores,102.0,100.0,102.0,24
+2020-03-10,Nebraska,Airport,64.0,74.0,64.0,25
+2020-03-10,Nebraska,Travel & Transport,73.0,81.0,73.0,26
+2020-03-10,Nebraska,Alcohol,99.0,"",98.0,27
+2020-03-11,Nebraska,Shops & Services,55.0,52.0,55.0,1
+2020-03-11,Nebraska,Food,49.0,49.0,49.0,2
+2020-03-11,Nebraska,Nightlife Spots,64.0,65.0,63.0,3
+2020-03-11,Nebraska,School,46.0,52.0,46.0,4
+2020-03-11,Nebraska,Grocery,103.0,101.0,103.0,5
+2020-03-11,Nebraska,Medical,54.0,51.0,54.0,6
+2020-03-11,Nebraska,Gas Stations,100.0,98.0,100.0,7
+2020-03-11,Nebraska,Fast Food Restaurants,101.0,102.0,101.0,8
+2020-03-11,Nebraska,Outdoors & Recreation,57.0,58.0,57.0,9
+2020-03-11,Nebraska,Professional & Other Places,20.0,19.0,20.0,10
+2020-03-11,Nebraska,Big Box Stores,104.0,112.0,104.0,11
+2020-03-11,Nebraska,Convenience Store,105.0,109.0,105.0,12
+2020-03-11,Nebraska,Colleges & Universities,73.0,86.0,73.0,13
+2020-03-11,Nebraska,Arts & Entertainment,97.0,111.0,96.0,14
+2020-03-11,Nebraska,Office,79.0,88.0,79.0,15
+2020-03-11,Nebraska,Residences,109.0,92.0,110.0,16
+2020-03-11,Nebraska,Hardware Stores,111.0,99.0,111.0,17
+2020-03-11,Nebraska,Hotel,83.0,89.0,83.0,18
+2020-03-11,Nebraska,Fitness Center,67.0,65.0,67.0,19
+2020-03-11,Nebraska,Sports,41.0,47.0,41.0,20
+2020-03-11,Nebraska,Drug Store,104.0,103.0,104.0,21
+2020-03-11,Nebraska,Government,74.0,75.0,74.0,22
+2020-03-11,Nebraska,Discount Stores,124.0,121.0,124.0,23
+2020-03-11,Nebraska,Banks,108.0,99.0,109.0,24
+2020-03-11,Nebraska,Airport,65.0,61.0,65.0,25
+2020-03-11,Nebraska,Travel & Transport,76.0,76.0,76.0,26
+2020-03-11,Nebraska,Alcohol,115.0,"",116.0,27
+2020-03-11,Nebraska,Bus,81.0,"",81.0,28
+2020-03-12,Nebraska,Shops & Services,44.0,44.0,44.0,1
+2020-03-12,Nebraska,Food,51.0,52.0,50.0,2
+2020-03-12,Nebraska,Nightlife Spots,60.0,59.0,60.0,3
+2020-03-12,Nebraska,Grocery,126.0,124.0,126.0,4
+2020-03-12,Nebraska,Fast Food Restaurants,113.0,106.0,113.0,5
+2020-03-12,Nebraska,Gas Stations,109.0,105.0,109.0,6
+2020-03-12,Nebraska,School,46.0,51.0,46.0,7
+2020-03-12,Nebraska,Medical,54.0,48.0,54.0,8
+2020-03-12,Nebraska,Big Box Stores,122.0,120.0,122.0,9
+2020-03-12,Nebraska,Outdoors & Recreation,69.0,69.0,69.0,10
+2020-03-12,Nebraska,Professional & Other Places,20.0,18.0,20.0,11
+2020-03-12,Nebraska,Convenience Store,110.0,110.0,110.0,12
+2020-03-12,Nebraska,Colleges & Universities,75.0,85.0,75.0,13
+2020-03-12,Nebraska,Arts & Entertainment,108.0,110.0,108.0,14
+2020-03-12,Nebraska,Office,83.0,85.0,83.0,15
+2020-03-12,Nebraska,Residences,111.0,107.0,112.0,16
+2020-03-12,Nebraska,Hotel,99.0,93.0,99.0,17
+2020-03-12,Nebraska,Hardware Stores,124.0,113.0,124.0,18
+2020-03-12,Nebraska,Drug Store,118.0,120.0,117.0,19
+2020-03-12,Nebraska,Fitness Center,61.0,50.0,62.0,20
+2020-03-12,Nebraska,Government,78.0,77.0,78.0,21
+2020-03-12,Nebraska,Sports,37.0,38.0,37.0,22
+2020-03-12,Nebraska,Discount Stores,135.0,130.0,135.0,23
+2020-03-12,Nebraska,Banks,109.0,88.0,110.0,24
+2020-03-12,Nebraska,Airport,56.0,"",56.0,25
+2020-03-12,Nebraska,Travel & Transport,45.0,29.0,45.0,26
+2020-03-12,Nebraska,Alcohol,124.0,120.0,124.0,27
+2020-03-12,Nebraska,Bus,78.0,"",78.0,28
+2020-03-13,Nebraska,Shops & Services,54.0,47.0,54.0,1
+2020-03-13,Nebraska,Food,49.0,43.0,49.0,2
+2020-03-13,Nebraska,Grocery,149.0,141.0,149.0,3
+2020-03-13,Nebraska,Nightlife Spots,59.0,54.0,59.0,4
+2020-03-13,Nebraska,Fast Food Restaurants,106.0,93.0,106.0,5
+2020-03-13,Nebraska,Big Box Stores,125.0,107.0,126.0,6
+2020-03-13,Nebraska,Gas Stations,104.0,90.0,104.0,7
+2020-03-13,Nebraska,Professional & Other Places,20.0,19.0,20.0,8
+2020-03-13,Nebraska,Outdoors & Recreation,85.0,76.0,85.0,9
+2020-03-13,Nebraska,Medical,52.0,48.0,53.0,10
+2020-03-13,Nebraska,Convenience Store,104.0,110.0,104.0,11
+2020-03-13,Nebraska,School,36.0,41.0,36.0,12
+2020-03-13,Nebraska,Arts & Entertainment,84.0,78.0,84.0,13
+2020-03-13,Nebraska,Colleges & Universities,64.0,50.0,65.0,14
+2020-03-13,Nebraska,Residences,111.0,93.0,111.0,15
+2020-03-13,Nebraska,Office,79.0,69.0,79.0,16
+2020-03-13,Nebraska,Hardware Stores,124.0,105.0,125.0,17
+2020-03-13,Nebraska,Hotel,97.0,85.0,97.0,18
+2020-03-13,Nebraska,Drug Store,119.0,108.0,120.0,19
+2020-03-13,Nebraska,Fitness Center,61.0,59.0,61.0,20
+2020-03-13,Nebraska,Sports,41.0,46.0,41.0,21
+2020-03-13,Nebraska,Government,75.0,62.0,75.0,22
+2020-03-13,Nebraska,Discount Stores,135.0,113.0,136.0,23
+2020-03-13,Nebraska,Banks,105.0,96.0,106.0,24
+2020-03-13,Nebraska,Airport,58.0,46.0,59.0,25
+2020-03-13,Nebraska,Alcohol,136.0,132.0,137.0,26
+2020-03-13,Nebraska,Travel & Transport,77.0,62.0,77.0,27
+2020-03-13,Nebraska,Bus,72.0,"",72.0,28
+2020-03-14,Nebraska,Shops & Services,45.0,38.0,46.0,1
+2020-03-14,Nebraska,Food,36.0,32.0,36.0,2
+2020-03-14,Nebraska,Grocery,106.0,87.0,107.0,3
+2020-03-14,Nebraska,Nightlife Spots,45.0,39.0,45.0,4
+2020-03-14,Nebraska,Big Box Stores,88.0,67.0,88.0,5
+2020-03-14,Nebraska,Fast Food Restaurants,69.0,61.0,69.0,6
+2020-03-14,Nebraska,Gas Stations,80.0,61.0,80.0,7
+2020-03-14,Nebraska,Outdoors & Recreation,55.0,41.0,55.0,8
+2020-03-14,Nebraska,Convenience Store,79.0,61.0,79.0,9
+2020-03-14,Nebraska,Professional & Other Places,20.0,17.0,20.0,10
+2020-03-14,Nebraska,Arts & Entertainment,47.0,43.0,48.0,11
+2020-03-14,Nebraska,School,31.0,28.0,31.0,12
+2020-03-14,Nebraska,Hardware Stores,84.0,70.0,85.0,13
+2020-03-14,Nebraska,Residences,87.0,63.0,87.0,14
+2020-03-14,Nebraska,Medical,48.0,37.0,49.0,15
+2020-03-14,Nebraska,Hotel,74.0,73.0,74.0,16
+2020-03-14,Nebraska,Drug Store,93.0,78.0,94.0,17
+2020-03-14,Nebraska,Discount Stores,99.0,80.0,99.0,18
+2020-03-14,Nebraska,Fitness Center,44.0,44.0,44.0,19
+2020-03-14,Nebraska,Sports,25.0,21.0,25.0,20
+2020-03-14,Nebraska,Colleges & Universities,33.0,"",33.0,21
+2020-03-14,Nebraska,Office,62.0,58.0,62.0,22
+2020-03-14,Nebraska,Alcohol,98.0,"",99.0,23
+2020-03-14,Nebraska,Travel & Transport,72.0,"",73.0,24
+2020-03-14,Nebraska,Government,62.0,"",62.0,25
+2020-03-14,Nebraska,Banks,66.0,"",67.0,26
+2020-03-14,Nebraska,Airport,44.0,"",44.0,27
+2020-03-15,Nebraska,Food,37.0,32.0,37.0,1
+2020-03-15,Nebraska,Shops & Services,35.0,32.0,35.0,2
+2020-03-15,Nebraska,Nightlife Spots,40.0,32.0,40.0,3
+2020-03-15,Nebraska,Grocery,98.0,99.0,98.0,4
+2020-03-15,Nebraska,Big Box Stores,89.0,91.0,89.0,5
+2020-03-15,Nebraska,Gas Stations,85.0,79.0,86.0,6
+2020-03-15,Nebraska,Fast Food Restaurants,73.0,60.0,73.0,7
+2020-03-15,Nebraska,Outdoors & Recreation,68.0,63.0,68.0,8
+2020-03-15,Nebraska,Convenience Store,78.0,66.0,78.0,9
+2020-03-15,Nebraska,School,40.0,31.0,40.0,10
+2020-03-15,Nebraska,Arts & Entertainment,55.0,51.0,55.0,11
+2020-03-15,Nebraska,Professional & Other Places,19.0,14.0,19.0,12
+2020-03-15,Nebraska,Hardware Stores,96.0,87.0,97.0,13
+2020-03-15,Nebraska,Residences,81.0,64.0,82.0,14
+2020-03-15,Nebraska,Hotel,72.0,79.0,72.0,15
+2020-03-15,Nebraska,Medical,48.0,36.0,49.0,16
+2020-03-15,Nebraska,Drug Store,101.0,103.0,101.0,17
+2020-03-15,Nebraska,Discount Stores,112.0,95.0,112.0,18
+2020-03-15,Nebraska,Sports,29.0,24.0,29.0,19
+2020-03-15,Nebraska,Fitness Center,54.0,42.0,54.0,20
+2020-03-15,Nebraska,Colleges & Universities,48.0,"",48.0,21
+2020-03-15,Nebraska,Office,64.0,"",64.0,22
+2020-03-15,Nebraska,Alcohol,82.0,"",82.0,23
+2020-03-15,Nebraska,Government,67.0,"",67.0,24
+2020-03-15,Nebraska,Airport,42.0,"",42.0,25
+2020-03-15,Nebraska,Travel & Transport,69.0,"",68.0,26
+2020-03-15,Nebraska,Banks,72.0,"",73.0,27
+2020-03-16,Nebraska,Shops & Services,60.0,54.0,60.0,1
+2020-03-16,Nebraska,Food,43.0,39.0,43.0,2
+2020-03-16,Nebraska,Grocery,136.0,127.0,136.0,3
+2020-03-16,Nebraska,Nightlife Spots,74.0,69.0,74.0,4
+2020-03-16,Nebraska,Gas Stations,103.0,95.0,103.0,5
+2020-03-16,Nebraska,Medical,50.0,46.0,50.0,6
+2020-03-16,Nebraska,Big Box Stores,115.0,111.0,115.0,7
+2020-03-16,Nebraska,Fast Food Restaurants,89.0,77.0,90.0,8
+2020-03-16,Nebraska,Outdoors & Recreation,61.0,56.0,61.0,9
+2020-03-16,Nebraska,Professional & Other Places,21.0,17.0,21.0,10
+2020-03-16,Nebraska,School,36.0,38.0,36.0,11
+2020-03-16,Nebraska,Convenience Store,98.0,94.0,98.0,12
+2020-03-16,Nebraska,Office,70.0,71.0,70.0,13
+2020-03-16,Nebraska,Residences,95.0,77.0,96.0,14
+2020-03-16,Nebraska,Hardware Stores,112.0,97.0,113.0,15
+2020-03-16,Nebraska,Arts & Entertainment,74.0,62.0,74.0,16
+2020-03-16,Nebraska,Drug Store,120.0,106.0,121.0,17
+2020-03-16,Nebraska,Colleges & Universities,42.0,70.0,42.0,18
+2020-03-16,Nebraska,Hotel,77.0,85.0,77.0,19
+2020-03-16,Nebraska,Fitness Center,50.0,41.0,51.0,20
+2020-03-16,Nebraska,Government,74.0,72.0,74.0,21
+2020-03-16,Nebraska,Discount Stores,135.0,132.0,135.0,22
+2020-03-16,Nebraska,Sports,32.0,28.0,32.0,23
+2020-03-16,Nebraska,Banks,117.0,131.0,116.0,24
+2020-03-16,Nebraska,Airport,47.0,44.0,47.0,25
+2020-03-16,Nebraska,Travel & Transport,60.0,57.0,60.0,26
+2020-03-16,Nebraska,Alcohol,117.0,112.0,118.0,27
+2020-03-17,Nebraska,Shops & Services,54.0,46.0,55.0,1
+2020-03-17,Nebraska,Food,39.0,32.0,39.0,2
+2020-03-17,Nebraska,Grocery,124.0,114.0,125.0,3
+2020-03-17,Nebraska,Nightlife Spots,51.0,43.0,51.0,4
+2020-03-17,Nebraska,Gas Stations,97.0,89.0,97.0,5
+2020-03-17,Nebraska,Outdoors & Recreation,62.0,57.0,62.0,6
+2020-03-17,Nebraska,Medical,43.0,34.0,43.0,7
+2020-03-17,Nebraska,Big Box Stores,105.0,93.0,106.0,8
+2020-03-17,Nebraska,Fast Food Restaurants,80.0,63.0,81.0,9
+2020-03-17,Nebraska,Professional & Other Places,18.0,15.0,18.0,10
+2020-03-17,Nebraska,School,29.0,32.0,29.0,11
+2020-03-17,Nebraska,Convenience Store,91.0,85.0,91.0,12
+2020-03-17,Nebraska,Residences,102.0,77.0,103.0,13
+2020-03-17,Nebraska,Office,64.0,63.0,64.0,14
+2020-03-17,Nebraska,Hardware Stores,107.0,84.0,109.0,15
+2020-03-17,Nebraska,Arts & Entertainment,64.0,60.0,64.0,16
+2020-03-17,Nebraska,Colleges & Universities,38.0,48.0,37.0,17
+2020-03-17,Nebraska,Hotel,68.0,62.0,68.0,18
+2020-03-17,Nebraska,Drug Store,99.0,74.0,100.0,19
+2020-03-17,Nebraska,Government,62.0,60.0,62.0,20
+2020-03-17,Nebraska,Sports,34.0,38.0,34.0,21
+2020-03-17,Nebraska,Discount Stores,114.0,104.0,114.0,22
+2020-03-17,Nebraska,Fitness Center,33.0,28.0,33.0,23
+2020-03-17,Nebraska,Banks,89.0,66.0,90.0,24
+2020-03-17,Nebraska,Travel & Transport,91.0,91.0,91.0,25
+2020-03-17,Nebraska,Airport,45.0,"",46.0,26
+2020-03-17,Nebraska,Alcohol,120.0,167.0,118.0,27
+2020-03-18,Nebraska,Shops & Services,48.0,41.0,49.0,1
+2020-03-18,Nebraska,Food,36.0,32.0,36.0,2
+2020-03-18,Nebraska,Grocery,117.0,100.0,118.0,3
+2020-03-18,Nebraska,Nightlife Spots,44.0,42.0,44.0,4
+2020-03-18,Nebraska,Gas Stations,98.0,89.0,98.0,4
+2020-03-18,Nebraska,Outdoors & Recreation,54.0,45.0,54.0,5
+2020-03-18,Nebraska,Medical,42.0,32.0,43.0,6
+2020-03-18,Nebraska,Fast Food Restaurants,76.0,63.0,77.0,7
+2020-03-18,Nebraska,Big Box Stores,96.0,83.0,96.0,8
+2020-03-18,Nebraska,Professional & Other Places,17.0,14.0,17.0,9
+2020-03-18,Nebraska,Convenience Store,93.0,80.0,94.0,10
+2020-03-18,Nebraska,School,27.0,29.0,27.0,11
+2020-03-18,Nebraska,Hardware Stores,108.0,95.0,109.0,12
+2020-03-18,Nebraska,Residences,88.0,71.0,89.0,13
+2020-03-18,Nebraska,Office,59.0,58.0,59.0,14
+2020-03-18,Nebraska,Colleges & Universities,36.0,49.0,36.0,15
+2020-03-18,Nebraska,Arts & Entertainment,57.0,60.0,57.0,16
+2020-03-18,Nebraska,Drug Store,104.0,103.0,104.0,17
+2020-03-18,Nebraska,Hotel,60.0,53.0,60.0,18
+2020-03-18,Nebraska,Government,53.0,40.0,53.0,19
+2020-03-18,Nebraska,Sports,29.0,27.0,29.0,20
+2020-03-18,Nebraska,Discount Stores,103.0,93.0,103.0,21
+2020-03-18,Nebraska,Banks,87.0,61.0,88.0,22
+2020-03-18,Nebraska,Fitness Center,25.0,18.0,25.0,23
+2020-03-18,Nebraska,Travel & Transport,77.0,"",77.0,24
+2020-03-18,Nebraska,Airport,41.0,43.0,41.0,25
+2020-03-18,Nebraska,Alcohol,113.0,"",114.0,26
+2020-03-19,Nebraska,Shops & Services,38.0,32.0,38.0,1
+2020-03-19,Nebraska,Food,32.0,27.0,32.0,2
+2020-03-19,Nebraska,Grocery,114.0,105.0,115.0,3
+2020-03-19,Nebraska,Gas Stations,89.0,78.0,89.0,4
+2020-03-19,Nebraska,Nightlife Spots,40.0,37.0,40.0,5
+2020-03-19,Nebraska,Medical,42.0,40.0,42.0,6
+2020-03-19,Nebraska,Big Box Stores,95.0,71.0,95.0,7
+2020-03-19,Nebraska,Fast Food Restaurants,76.0,58.0,77.0,8
+2020-03-19,Nebraska,Outdoors & Recreation,49.0,44.0,49.0,9
+2020-03-19,Nebraska,Professional & Other Places,15.0,12.0,15.0,10
+2020-03-19,Nebraska,Convenience Store,87.0,73.0,88.0,11
+2020-03-19,Nebraska,School,26.0,30.0,26.0,12
+2020-03-19,Nebraska,Hardware Stores,108.0,93.0,108.0,13
+2020-03-19,Nebraska,Office,55.0,50.0,55.0,14
+2020-03-19,Nebraska,Residences,82.0,69.0,82.0,15
+2020-03-19,Nebraska,Arts & Entertainment,59.0,63.0,59.0,16
+2020-03-19,Nebraska,Colleges & Universities,36.0,46.0,35.0,17
+2020-03-19,Nebraska,Drug Store,93.0,87.0,93.0,18
+2020-03-19,Nebraska,Hotel,59.0,51.0,59.0,19
+2020-03-19,Nebraska,Government,53.0,44.0,53.0,20
+2020-03-19,Nebraska,Sports,27.0,26.0,27.0,21
+2020-03-19,Nebraska,Discount Stores,102.0,89.0,102.0,22
+2020-03-19,Nebraska,Banks,84.0,72.0,85.0,23
+2020-03-19,Nebraska,Travel & Transport,76.0,"",77.0,24
+2020-03-19,Nebraska,Fitness Center,24.0,23.0,24.0,25
+2020-03-19,Nebraska,Airport,36.0,"",37.0,26
+2020-03-19,Nebraska,Alcohol,100.0,"",101.0,27
+2020-03-20,Nebraska,Shops & Services,38.0,30.0,39.0,1
+2020-03-20,Nebraska,Food,27.0,21.0,27.0,2
+2020-03-20,Nebraska,Grocery,101.0,82.0,102.0,3
+2020-03-20,Nebraska,Nightlife Spots,33.0,31.0,33.0,4
+2020-03-20,Nebraska,Gas Stations,78.0,65.0,78.0,5
+2020-03-20,Nebraska,Big Box Stores,83.0,64.0,84.0,6
+2020-03-20,Nebraska,Fast Food Restaurants,65.0,54.0,65.0,7
+2020-03-20,Nebraska,Outdoors & Recreation,66.0,56.0,66.0,8
+2020-03-20,Nebraska,Medical,37.0,29.0,38.0,9
+2020-03-20,Nebraska,Convenience Store,79.0,71.0,80.0,10
+2020-03-20,Nebraska,Professional & Other Places,13.0,12.0,13.0,11
+2020-03-20,Nebraska,School,23.0,26.0,22.0,12
+2020-03-20,Nebraska,Hardware Stores,93.0,72.0,94.0,13
+2020-03-20,Nebraska,Residences,77.0,68.0,77.0,14
+2020-03-20,Nebraska,Office,51.0,46.0,51.0,15
+2020-03-20,Nebraska,Drug Store,85.0,70.0,86.0,16
+2020-03-20,Nebraska,Arts & Entertainment,44.0,36.0,44.0,17
+2020-03-20,Nebraska,Colleges & Universities,34.0,34.0,34.0,18
+2020-03-20,Nebraska,Hotel,51.0,44.0,52.0,19
+2020-03-20,Nebraska,Discount Stores,89.0,59.0,90.0,20
+2020-03-20,Nebraska,Banks,78.0,77.0,78.0,21
+2020-03-20,Nebraska,Sports,24.0,22.0,24.0,22
+2020-03-20,Nebraska,Government,47.0,41.0,47.0,23
+2020-03-20,Nebraska,Fitness Center,25.0,24.0,25.0,24
+2020-03-20,Nebraska,Travel & Transport,77.0,"",77.0,25
+2020-03-20,Nebraska,Alcohol,92.0,91.0,92.0,26
+2020-03-20,Nebraska,Airport,31.0,"",31.0,27
+2020-03-21,Nebraska,Shops & Services,32.0,28.0,32.0,1
+2020-03-21,Nebraska,Food,23.0,22.0,23.0,2
+2020-03-21,Nebraska,Grocery,89.0,81.0,89.0,3
+2020-03-21,Nebraska,Big Box Stores,71.0,62.0,72.0,4
+2020-03-21,Nebraska,Gas Stations,79.0,73.0,79.0,5
+2020-03-21,Nebraska,Nightlife Spots,23.0,23.0,23.0,6
+2020-03-21,Nebraska,Outdoors & Recreation,76.0,72.0,76.0,7
+2020-03-21,Nebraska,Fast Food Restaurants,59.0,52.0,59.0,8
+2020-03-21,Nebraska,Convenience Store,75.0,70.0,75.0,9
+2020-03-21,Nebraska,Hardware Stores,93.0,83.0,93.0,10
+2020-03-21,Nebraska,School,31.0,30.0,31.0,11
+2020-03-21,Nebraska,Professional & Other Places,16.0,14.0,16.0,12
+2020-03-21,Nebraska,Residences,72.0,66.0,72.0,13
+2020-03-21,Nebraska,Medical,38.0,30.0,38.0,14
+2020-03-21,Nebraska,Arts & Entertainment,26.0,30.0,26.0,15
+2020-03-21,Nebraska,Drug Store,78.0,75.0,78.0,16
+2020-03-21,Nebraska,Discount Stores,86.0,77.0,86.0,17
+2020-03-21,Nebraska,Hotel,41.0,40.0,41.0,18
+2020-03-21,Nebraska,Sports,25.0,27.0,25.0,19
+2020-03-21,Nebraska,Colleges & Universities,26.0,"",26.0,20
+2020-03-21,Nebraska,Office,48.0,"",48.0,21
+2020-03-21,Nebraska,Banks,73.0,"",73.0,22
+2020-03-21,Nebraska,Travel & Transport,19.0,"",19.0,23
+2020-03-21,Nebraska,Fitness Center,22.0,"",22.0,24
+2020-03-21,Nebraska,Alcohol,79.0,"",80.0,25
+2020-03-21,Nebraska,Government,56.0,"",56.0,26
+2020-03-21,Nebraska,Airport,31.0,"",31.0,27
+2020-03-22,Nebraska,Food,22.0,20.0,22.0,1
+2020-03-22,Nebraska,Shops & Services,26.0,23.0,26.0,2
+2020-03-22,Nebraska,Grocery,71.0,70.0,71.0,3
+2020-03-22,Nebraska,Big Box Stores,64.0,68.0,64.0,4
+2020-03-22,Nebraska,Outdoors & Recreation,65.0,69.0,65.0,5
+2020-03-22,Nebraska,Nightlife Spots,20.0,22.0,20.0,6
+2020-03-22,Nebraska,Gas Stations,69.0,62.0,69.0,7
+2020-03-22,Nebraska,Fast Food Restaurants,53.0,45.0,53.0,8
+2020-03-22,Nebraska,Convenience Store,63.0,59.0,64.0,9
+2020-03-22,Nebraska,School,30.0,28.0,30.0,10
+2020-03-22,Nebraska,Hardware Stores,86.0,80.0,86.0,11
+2020-03-22,Nebraska,Professional & Other Places,13.0,9.0,13.0,12
+2020-03-22,Nebraska,Residences,58.0,46.0,59.0,13
+2020-03-22,Nebraska,Drug Store,81.0,86.0,81.0,14
+2020-03-22,Nebraska,Medical,35.0,26.0,35.0,15
+2020-03-22,Nebraska,Arts & Entertainment,25.0,22.0,25.0,16
+2020-03-22,Nebraska,Hotel,41.0,"",41.0,17
+2020-03-22,Nebraska,Sports,29.0,25.0,29.0,18
+2020-03-22,Nebraska,Discount Stores,79.0,"",79.0,19
+2020-03-22,Nebraska,Colleges & Universities,35.0,"",35.0,20
+2020-03-22,Nebraska,Office,43.0,"",43.0,21
+2020-03-22,Nebraska,Travel & Transport,78.0,"",77.0,22
+2020-03-22,Nebraska,Government,57.0,"",58.0,23
+2020-03-22,Nebraska,Alcohol,62.0,"",62.0,24
+2020-03-22,Nebraska,Banks,73.0,"",73.0,25
+2020-03-22,Nebraska,Fitness Center,21.0,"",22.0,26
+2020-03-22,Nebraska,Airport,23.0,"",23.0,27
+2020-03-23,Nebraska,Shops & Services,23.0,22.0,23.0,1
+2020-03-23,Nebraska,Food,30.0,28.0,31.0,2
+2020-03-23,Nebraska,Grocery,91.0,86.0,91.0,3
+2020-03-23,Nebraska,Gas Stations,88.0,91.0,88.0,4
+2020-03-23,Nebraska,Nightlife Spots,42.0,39.0,42.0,5
+2020-03-23,Nebraska,Outdoors & Recreation,93.0,91.0,93.0,6
+2020-03-23,Nebraska,Medical,37.0,29.0,37.0,7
+2020-03-23,Nebraska,Fast Food Restaurants,70.0,63.0,71.0,8
+2020-03-23,Nebraska,Professional & Other Places,15.0,14.0,15.0,9
+2020-03-23,Nebraska,School,32.0,36.0,32.0,10
+2020-03-23,Nebraska,Big Box Stores,77.0,70.0,78.0,11
+2020-03-23,Nebraska,Convenience Store,78.0,73.0,79.0,12
+2020-03-23,Nebraska,Hardware Stores,100.0,86.0,101.0,13
+2020-03-23,Nebraska,Residences,83.0,71.0,84.0,14
+2020-03-23,Nebraska,Office,54.0,54.0,54.0,15
+2020-03-23,Nebraska,Arts & Entertainment,62.0,55.0,62.0,16
+2020-03-23,Nebraska,Colleges & Universities,31.0,48.0,31.0,17
+2020-03-23,Nebraska,Hotel,63.0,57.0,63.0,18
+2020-03-23,Nebraska,Sports,32.0,32.0,32.0,19
+2020-03-23,Nebraska,Drug Store,77.0,69.0,77.0,20
+2020-03-23,Nebraska,Government,51.0,49.0,51.0,21
+2020-03-23,Nebraska,Discount Stores,96.0,79.0,96.0,22
+2020-03-23,Nebraska,Banks,84.0,85.0,84.0,23
+2020-03-23,Nebraska,Fitness Center,26.0,22.0,26.0,24
+2020-03-23,Nebraska,Travel & Transport,20.0,22.0,20.0,25
+2020-03-23,Nebraska,Airport,32.0,"",32.0,26
+2020-03-23,Nebraska,Alcohol,90.0,"",90.0,27
+2020-03-24,Nebraska,Shops & Services,51.0,45.0,52.0,1
+2020-03-24,Nebraska,Food,29.0,24.0,30.0,2
+2020-03-24,Nebraska,Outdoors & Recreation,64.0,57.0,64.0,3
+2020-03-24,Nebraska,Gas Stations,86.0,82.0,86.0,4
+2020-03-24,Nebraska,Grocery,83.0,80.0,83.0,5
+2020-03-24,Nebraska,Nightlife Spots,38.0,36.0,38.0,6
+2020-03-24,Nebraska,Fast Food Restaurants,69.0,53.0,70.0,7
+2020-03-24,Nebraska,Professional & Other Places,15.0,14.0,15.0,8
+2020-03-24,Nebraska,Medical,33.0,25.0,34.0,9
+2020-03-24,Nebraska,School,25.0,31.0,25.0,10
+2020-03-24,Nebraska,Big Box Stores,80.0,75.0,80.0,11
+2020-03-24,Nebraska,Convenience Store,82.0,76.0,82.0,12
+2020-03-24,Nebraska,Residences,91.0,73.0,92.0,13
+2020-03-24,Nebraska,Hardware Stores,99.0,83.0,100.0,14
+2020-03-24,Nebraska,Office,48.0,55.0,48.0,15
+2020-03-24,Nebraska,Arts & Entertainment,53.0,44.0,53.0,16
+2020-03-24,Nebraska,Sports,32.0,37.0,31.0,17
+2020-03-24,Nebraska,Colleges & Universities,28.0,60.0,27.0,18
+2020-03-24,Nebraska,Hotel,54.0,41.0,54.0,19
+2020-03-24,Nebraska,Drug Store,70.0,66.0,70.0,20
+2020-03-24,Nebraska,Discount Stores,87.0,89.0,87.0,21
+2020-03-24,Nebraska,Government,40.0,38.0,40.0,22
+2020-03-24,Nebraska,Banks,74.0,69.0,74.0,23
+2020-03-24,Nebraska,Fitness Center,23.0,20.0,23.0,24
+2020-03-24,Nebraska,Travel & Transport,81.0,"",81.0,25
+2020-03-24,Nebraska,Airport,32.0,"",33.0,26
+2020-03-24,Nebraska,Alcohol,88.0,"",88.0,27
+2020-03-25,Nebraska,Shops & Services,33.0,29.0,33.0,1
+2020-03-25,Nebraska,Food,34.0,29.0,34.0,2
+2020-03-25,Nebraska,Outdoors & Recreation,92.0,84.0,92.0,3
+2020-03-25,Nebraska,Grocery,88.0,76.0,89.0,4
+2020-03-25,Nebraska,Gas Stations,84.0,83.0,84.0,5
+2020-03-25,Nebraska,Nightlife Spots,38.0,36.0,38.0,6
+2020-03-25,Nebraska,Fast Food Restaurants,74.0,64.0,75.0,7
+2020-03-25,Nebraska,Medical,37.0,28.0,37.0,8
+2020-03-25,Nebraska,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-25,Nebraska,School,27.0,32.0,27.0,10
+2020-03-25,Nebraska,Big Box Stores,80.0,68.0,81.0,11
+2020-03-25,Nebraska,Convenience Store,88.0,81.0,88.0,12
+2020-03-25,Nebraska,Residences,95.0,84.0,95.0,13
+2020-03-25,Nebraska,Hardware Stores,104.0,100.0,105.0,14
+2020-03-25,Nebraska,Arts & Entertainment,61.0,56.0,61.0,15
+2020-03-25,Nebraska,Office,52.0,72.0,52.0,16
+2020-03-25,Nebraska,Sports,40.0,50.0,40.0,17
+2020-03-25,Nebraska,Colleges & Universities,29.0,56.0,29.0,18
+2020-03-25,Nebraska,Hotel,54.0,52.0,55.0,19
+2020-03-25,Nebraska,Drug Store,81.0,71.0,81.0,20
+2020-03-25,Nebraska,Government,47.0,35.0,47.0,21
+2020-03-25,Nebraska,Discount Stores,91.0,75.0,92.0,22
+2020-03-25,Nebraska,Banks,81.0,49.0,83.0,23
+2020-03-25,Nebraska,Fitness Center,24.0,25.0,24.0,24
+2020-03-25,Nebraska,Travel & Transport,83.0,101.0,82.0,25
+2020-03-25,Nebraska,Airport,35.0,"",35.0,26
+2020-03-25,Nebraska,Alcohol,95.0,"",95.0,27
+2020-03-26,Nebraska,Shops & Services,40.0,34.0,40.0,1
+2020-03-26,Nebraska,Food,31.0,29.0,32.0,2
+2020-03-26,Nebraska,Outdoors & Recreation,91.0,88.0,91.0,3
+2020-03-26,Nebraska,Gas Stations,87.0,74.0,87.0,4
+2020-03-26,Nebraska,Grocery,85.0,71.0,86.0,5
+2020-03-26,Nebraska,Nightlife Spots,39.0,37.0,39.0,6
+2020-03-26,Nebraska,Fast Food Restaurants,75.0,64.0,76.0,7
+2020-03-26,Nebraska,Professional & Other Places,16.0,12.0,16.0,8
+2020-03-26,Nebraska,Big Box Stores,80.0,74.0,81.0,9
+2020-03-26,Nebraska,Medical,34.0,28.0,34.0,10
+2020-03-26,Nebraska,School,27.0,31.0,27.0,11
+2020-03-26,Nebraska,Convenience Store,82.0,73.0,83.0,12
+2020-03-26,Nebraska,Hardware Stores,112.0,99.0,112.0,13
+2020-03-26,Nebraska,Residences,91.0,86.0,92.0,14
+2020-03-26,Nebraska,Office,51.0,49.0,51.0,15
+2020-03-26,Nebraska,Arts & Entertainment,63.0,67.0,63.0,16
+2020-03-26,Nebraska,Sports,33.0,33.0,33.0,17
+2020-03-26,Nebraska,Hotel,58.0,46.0,58.0,18
+2020-03-26,Nebraska,Drug Store,80.0,86.0,80.0,19
+2020-03-26,Nebraska,Colleges & Universities,28.0,44.0,27.0,20
+2020-03-26,Nebraska,Government,50.0,40.0,51.0,21
+2020-03-26,Nebraska,Discount Stores,90.0,73.0,90.0,22
+2020-03-26,Nebraska,Banks,76.0,69.0,77.0,23
+2020-03-26,Nebraska,Fitness Center,24.0,22.0,24.0,24
+2020-03-26,Nebraska,Travel & Transport,69.0,"",69.0,25
+2020-03-26,Nebraska,Alcohol,87.0,"",88.0,26
+2020-03-26,Nebraska,Airport,26.0,"",26.0,27
+2020-03-27,Nebraska,Shops & Services,37.0,33.0,38.0,1
+2020-03-27,Nebraska,Food,29.0,24.0,29.0,2
+2020-03-27,Nebraska,Grocery,88.0,82.0,88.0,3
+2020-03-27,Nebraska,Nightlife Spots,31.0,31.0,31.0,4
+2020-03-27,Nebraska,Gas Stations,80.0,65.0,80.0,5
+2020-03-27,Nebraska,Outdoors & Recreation,75.0,75.0,75.0,6
+2020-03-27,Nebraska,Fast Food Restaurants,73.0,62.0,73.0,7
+2020-03-27,Nebraska,Big Box Stores,75.0,62.0,75.0,8
+2020-03-27,Nebraska,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-27,Nebraska,Medical,34.0,28.0,35.0,10
+2020-03-27,Nebraska,Convenience Store,76.0,73.0,76.0,11
+2020-03-27,Nebraska,School,26.0,28.0,26.0,12
+2020-03-27,Nebraska,Hardware Stores,106.0,80.0,107.0,13
+2020-03-27,Nebraska,Residences,83.0,66.0,83.0,14
+2020-03-27,Nebraska,Arts & Entertainment,51.0,49.0,51.0,15
+2020-03-27,Nebraska,Office,48.0,54.0,48.0,16
+2020-03-27,Nebraska,Hotel,55.0,42.0,55.0,17
+2020-03-27,Nebraska,Drug Store,71.0,65.0,71.0,18
+2020-03-27,Nebraska,Colleges & Universities,32.0,41.0,32.0,19
+2020-03-27,Nebraska,Sports,30.0,29.0,30.0,20
+2020-03-27,Nebraska,Discount Stores,83.0,61.0,84.0,21
+2020-03-27,Nebraska,Banks,73.0,68.0,73.0,22
+2020-03-27,Nebraska,Government,45.0,39.0,45.0,23
+2020-03-27,Nebraska,Travel & Transport,86.0,"",86.0,24
+2020-03-27,Nebraska,Fitness Center,24.0,"",24.0,25
+2020-03-27,Nebraska,Alcohol,88.0,84.0,88.0,26
+2020-03-27,Nebraska,Airport,24.0,"",24.0,27
+2020-03-28,Nebraska,Shops & Services,28.0,23.0,28.0,1
+2020-03-28,Nebraska,Food,23.0,19.0,23.0,2
+2020-03-28,Nebraska,Grocery,82.0,62.0,82.0,3
+2020-03-28,Nebraska,Big Box Stores,69.0,55.0,69.0,4
+2020-03-28,Nebraska,Nightlife Spots,23.0,20.0,23.0,5
+2020-03-28,Nebraska,Gas Stations,68.0,57.0,69.0,6
+2020-03-28,Nebraska,Fast Food Restaurants,57.0,49.0,57.0,7
+2020-03-28,Nebraska,Outdoors & Recreation,67.0,61.0,68.0,8
+2020-03-28,Nebraska,Hardware Stores,102.0,84.0,102.0,9
+2020-03-28,Nebraska,Convenience Store,64.0,55.0,64.0,10
+2020-03-28,Nebraska,School,26.0,23.0,26.0,11
+2020-03-28,Nebraska,Professional & Other Places,12.0,10.0,13.0,12
+2020-03-28,Nebraska,Residences,67.0,55.0,68.0,13
+2020-03-28,Nebraska,Medical,35.0,32.0,35.0,14
+2020-03-28,Nebraska,Arts & Entertainment,29.0,26.0,29.0,15
+2020-03-28,Nebraska,Drug Store,71.0,48.0,71.0,16
+2020-03-28,Nebraska,Discount Stores,80.0,65.0,80.0,17
+2020-03-28,Nebraska,Hotel,36.0,30.0,36.0,18
+2020-03-28,Nebraska,Sports,21.0,20.0,21.0,19
+2020-03-28,Nebraska,Office,42.0,"",42.0,20
+2020-03-28,Nebraska,Banks,75.0,"",75.0,21
+2020-03-28,Nebraska,Colleges & Universities,30.0,"",30.0,22
+2020-03-28,Nebraska,Alcohol,82.0,85.0,82.0,23
+2020-03-28,Nebraska,Fitness Center,20.0,"",20.0,24
+2020-03-28,Nebraska,Travel & Transport,59.0,"",59.0,25
+2020-03-28,Nebraska,Government,54.0,"",54.0,26
+2020-03-28,Nebraska,Airport,21.0,"",22.0,27
+2020-03-29,Nebraska,Food,20.0,19.0,20.0,1
+2020-03-29,Nebraska,Shops & Services,20.0,20.0,20.0,2
+2020-03-29,Nebraska,Outdoors & Recreation,84.0,97.0,83.0,3
+2020-03-29,Nebraska,Grocery,57.0,53.0,57.0,4
+2020-03-29,Nebraska,Gas Stations,70.0,70.0,70.0,5
+2020-03-29,Nebraska,Big Box Stores,56.0,57.0,56.0,6
+2020-03-29,Nebraska,Fast Food Restaurants,57.0,55.0,57.0,7
+2020-03-29,Nebraska,Nightlife Spots,18.0,24.0,18.0,8
+2020-03-29,Nebraska,Convenience Store,65.0,57.0,65.0,9
+2020-03-29,Nebraska,School,30.0,31.0,30.0,10
+2020-03-29,Nebraska,Hardware Stores,92.0,77.0,93.0,11
+2020-03-29,Nebraska,Residences,63.0,66.0,62.0,12
+2020-03-29,Nebraska,Professional & Other Places,12.0,11.0,12.0,13
+2020-03-29,Nebraska,Arts & Entertainment,32.0,31.0,32.0,14
+2020-03-29,Nebraska,Sports,33.0,36.0,32.0,15
+2020-03-29,Nebraska,Medical,30.0,33.0,30.0,16
+2020-03-29,Nebraska,Drug Store,64.0,84.0,63.0,17
+2020-03-29,Nebraska,Hotel,36.0,"",36.0,18
+2020-03-29,Nebraska,Discount Stores,69.0,"",70.0,19
+2020-03-29,Nebraska,Colleges & Universities,30.0,"",30.0,20
+2020-03-29,Nebraska,Office,43.0,"",43.0,21
+2020-03-29,Nebraska,Government,60.0,"",60.0,22
+2020-03-29,Nebraska,Travel & Transport,58.0,"",59.0,23
+2020-03-29,Nebraska,Alcohol,60.0,"",61.0,24
+2020-03-29,Nebraska,Banks,76.0,"",76.0,25
+2020-03-29,Nebraska,Fitness Center,21.0,"",21.0,26
+2020-03-30,Nebraska,Shops & Services,21.0,19.0,21.0,1
+2020-03-30,Nebraska,Food,28.0,25.0,28.0,2
+2020-03-30,Nebraska,Outdoors & Recreation,84.0,84.0,84.0,3
+2020-03-30,Nebraska,Gas Stations,79.0,75.0,79.0,4
+2020-03-30,Nebraska,Grocery,73.0,70.0,73.0,5
+2020-03-30,Nebraska,Nightlife Spots,36.0,37.0,36.0,6
+2020-03-30,Nebraska,Fast Food Restaurants,74.0,58.0,74.0,7
+2020-03-30,Nebraska,School,32.0,33.0,32.0,8
+2020-03-30,Nebraska,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-30,Nebraska,Medical,31.0,28.0,31.0,10
+2020-03-30,Nebraska,Convenience Store,77.0,77.0,77.0,11
+2020-03-30,Nebraska,Big Box Stores,67.0,61.0,67.0,12
+2020-03-30,Nebraska,Hardware Stores,108.0,107.0,108.0,13
+2020-03-30,Nebraska,Residences,89.0,87.0,89.0,14
+2020-03-30,Nebraska,Arts & Entertainment,59.0,53.0,59.0,15
+2020-03-30,Nebraska,Office,46.0,53.0,46.0,16
+2020-03-30,Nebraska,Sports,34.0,36.0,33.0,17
+2020-03-30,Nebraska,Drug Store,76.0,63.0,76.0,18
+2020-03-30,Nebraska,Colleges & Universities,27.0,42.0,27.0,19
+2020-03-30,Nebraska,Hotel,55.0,49.0,55.0,20
+2020-03-30,Nebraska,Banks,87.0,70.0,88.0,21
+2020-03-30,Nebraska,Government,45.0,48.0,45.0,22
+2020-03-30,Nebraska,Discount Stores,84.0,84.0,84.0,23
+2020-03-30,Nebraska,Fitness Center,26.0,21.0,26.0,24
+2020-03-30,Nebraska,Travel & Transport,81.0,"",81.0,25
+2020-03-30,Nebraska,Alcohol,86.0,"",86.0,26
+2020-03-30,Nebraska,Airport,20.0,"",20.0,27
+2020-03-31,Nebraska,Shops & Services,30.0,28.0,30.0,1
+2020-03-31,Nebraska,Food,29.0,25.0,29.0,2
+2020-03-31,Nebraska,Outdoors & Recreation,60.0,62.0,60.0,3
+2020-03-31,Nebraska,Gas Stations,77.0,73.0,77.0,4
+2020-03-31,Nebraska,Grocery,72.0,75.0,71.0,5
+2020-03-31,Nebraska,Nightlife Spots,33.0,31.0,33.0,6
+2020-03-31,Nebraska,Fast Food Restaurants,68.0,56.0,68.0,7
+2020-03-31,Nebraska,Professional & Other Places,14.0,13.0,14.0,8
+2020-03-31,Nebraska,School,23.0,31.0,23.0,9
+2020-03-31,Nebraska,Big Box Stores,71.0,74.0,71.0,10
+2020-03-31,Nebraska,Medical,27.0,21.0,28.0,11
+2020-03-31,Nebraska,Convenience Store,73.0,64.0,73.0,12
+2020-03-31,Nebraska,Hardware Stores,98.0,79.0,99.0,13
+2020-03-31,Nebraska,Residences,79.0,72.0,80.0,14
+2020-03-31,Nebraska,Office,43.0,46.0,43.0,15
+2020-03-31,Nebraska,Arts & Entertainment,54.0,56.0,54.0,16
+2020-03-31,Nebraska,Sports,35.0,39.0,35.0,17
+2020-03-31,Nebraska,Colleges & Universities,26.0,50.0,26.0,18
+2020-03-31,Nebraska,Drug Store,68.0,68.0,68.0,19
+2020-03-31,Nebraska,Hotel,45.0,32.0,45.0,20
+2020-03-31,Nebraska,Government,42.0,43.0,42.0,21
+2020-03-31,Nebraska,Banks,78.0,69.0,78.0,22
+2020-03-31,Nebraska,Discount Stores,79.0,64.0,80.0,23
+2020-03-31,Nebraska,Fitness Center,20.0,"",20.0,24
+2020-03-31,Nebraska,Travel & Transport,72.0,"",71.0,25
+2020-03-31,Nebraska,Alcohol,82.0,"",81.0,26
+2020-03-31,Nebraska,Airport,24.0,"",24.0,27
+2020-04-01,Nebraska,Shops & Services,23.0,21.0,23.0,1
+2020-04-01,Nebraska,Food,29.0,26.0,29.0,2
+2020-04-01,Nebraska,Outdoors & Recreation,52.0,46.0,52.0,3
+2020-04-01,Nebraska,Gas Stations,83.0,77.0,83.0,4
+2020-04-01,Nebraska,Grocery,82.0,75.0,82.0,5
+2020-04-01,Nebraska,Nightlife Spots,34.0,33.0,34.0,6
+2020-04-01,Nebraska,Fast Food Restaurants,73.0,60.0,73.0,7
+2020-04-01,Nebraska,Professional & Other Places,15.0,14.0,15.0,8
+2020-04-01,Nebraska,Medical,31.0,21.0,32.0,9
+2020-04-01,Nebraska,Convenience Store,82.0,74.0,82.0,10
+2020-04-01,Nebraska,School,24.0,31.0,24.0,11
+2020-04-01,Nebraska,Big Box Stores,73.0,64.0,74.0,12
+2020-04-01,Nebraska,Hardware Stores,109.0,95.0,110.0,13
+2020-04-01,Nebraska,Residences,90.0,75.0,91.0,14
+2020-04-01,Nebraska,Arts & Entertainment,58.0,56.0,58.0,15
+2020-04-01,Nebraska,Office,46.0,53.0,46.0,16
+2020-04-01,Nebraska,Sports,37.0,57.0,36.0,17
+2020-04-01,Nebraska,Colleges & Universities,27.0,42.0,27.0,18
+2020-04-01,Nebraska,Drug Store,75.0,66.0,75.0,19
+2020-04-01,Nebraska,Hotel,46.0,35.0,46.0,20
+2020-04-01,Nebraska,Government,49.0,38.0,49.0,21
+2020-04-01,Nebraska,Discount Stores,87.0,75.0,87.0,22
+2020-04-01,Nebraska,Banks,80.0,70.0,81.0,23
+2020-04-01,Nebraska,Fitness Center,22.0,22.0,22.0,24
+2020-04-01,Nebraska,Travel & Transport,19.0,"",19.0,25
+2020-04-01,Nebraska,Alcohol,94.0,"",95.0,26
+2020-04-01,Nebraska,Airport,29.0,"",29.0,27
