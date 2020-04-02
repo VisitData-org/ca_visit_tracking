@@ -164,23 +164,44 @@ function seriesToPlot() {
   }
 }
 
+function isPlotDataEmpty(seriesForPlot) {
+  var plotEmpty = true;
+  for(var seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
+    var series = seriesForPlot[seriesIndex];
+    var seriesData = series.data;
+    if(seriesData && seriesData.length > 0) {
+      plotEmpty = false;
+      break;
+    }
+  }
+  return plotEmpty;
+}
+
 function drawChart() {
-  Highcharts.chart('chartcontainer', {
-    chart: {
-      animation: false,
-      events: {
-        load(){
-          this.showHideFlag = true;
+  var seriesForPlot = seriesToPlot();
+  if (isPlotDataEmpty(seriesForPlot)) {
+    // handle empty plot
+    var emptyDataNotice = document.createElement("h2")
+    emptyDataNotice.innerText = 'No matching data to chart';
+    emptyDataNotice.style.textAlign = 'center';
+    document.getElementById('chartcontainer').appendChild(emptyDataNotice);
+  } else {
+    Highcharts.chart('chartcontainer', {
+      chart: {
+        animation: false,
+        events: {
+          load() {
+            this.showHideFlag = true;
+          }
         }
-      }
-    },
-    responsive: {
-    rules: [{
-        condition: {
+      },
+      responsive: {
+        rules: [{
+          condition: {
             maxWidth: 768
-        },
-        // Make the labels less space demanding on mobile
-        chartOptions: {
+          },
+          // Make the labels less space demanding on mobile
+          chartOptions: {
             xAxis: {
               dateTimeLabelFormats: {
                 day: '%a',
@@ -192,62 +213,63 @@ function drawChart() {
               }
             },
             yAxis: {
-                labels: {
-                    align: 'left',
-                    x: 0,
-                    y: -2
-                },
-                title: {
-                    text: ''
-                }
-            }
-        }
-    }]
-},
-    title: {   text: chartTitle()  },
-    xAxis: {
-      type: 'datetime',
-      dateTimeLabelFormats: {
-        day: '%a %b %e',
-        week: '%a %b %e',
-        month: '%a %b %e',
-      },
-      title: {
-        text: 'Date'
-      }
-    },
-    yAxis: { title: { text: 'Visits %' }, min: 0 },
-    tooltip: {
-      headerFormat: '<b>{series.name}</b><br>',
-      pointFormat: '{point.x:%a %b %e}: {point.y}%'
-    },
-    plotOptions: {
-      series: {
-        events: {
-          legendItemClick: function() {
-            if (this.index == 0) {
-              if (this.showHideFlag == undefined) {
-                this.showHideFlag = true
-                this.chart.series.forEach(series => {
-                  series.hide()
-                })
-              } else if (this.showHideFlag == true) {
-                this.chart.series.forEach(series => {
-                  series.hide()
-                })
-              } else {
-                this.chart.series.forEach(series => {
-                  series.show()
-                })
+              labels: {
+                align: 'left',
+                x: 0,
+                y: -2
+              },
+              title: {
+                text: ''
               }
-              this.showHideFlag = !this.showHideFlag;
+            }
+          }
+        }]
+      },
+      title: { text: chartTitle() },
+      xAxis: {
+        type: 'datetime',
+        dateTimeLabelFormats: {
+          day: '%a %b %e',
+          week: '%a %b %e',
+          month: '%a %b %e',
+        },
+        title: {
+          text: 'Date'
+        }
+      },
+      yAxis: { title: { text: 'Visits %' }, min: 0 },
+      tooltip: {
+        headerFormat: '<b>{series.name}</b><br>',
+        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+      },
+      plotOptions: {
+        series: {
+          events: {
+            legendItemClick: function () {
+              if (this.index == 0) {
+                if (this.showHideFlag == undefined) {
+                  this.showHideFlag = true
+                  this.chart.series.forEach(series => {
+                    series.hide()
+                  })
+                } else if (this.showHideFlag == true) {
+                  this.chart.series.forEach(series => {
+                    series.hide()
+                  })
+                } else {
+                  this.chart.series.forEach(series => {
+                    series.show()
+                  })
+                }
+                this.showHideFlag = !this.showHideFlag;
+              }
             }
           }
         }
-      }
-    },
-    series: seriesToPlot()
-  });
+      },
+      series: seriesForPlot
+    });
+  }
 }
 
 function cleanLocType(string) {
