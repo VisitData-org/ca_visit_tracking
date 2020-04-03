@@ -99,6 +99,10 @@ body {
     width: 1000px;
     height: 566px;
   }
+
+  .mobile-btn {
+    margin-left: 25px;
+  }
 }
 
 @media (max-width: 989px) {
@@ -115,6 +119,10 @@ body {
     width: 200px;
     height: 50px;
   }
+
+  .mobile-btn {
+    margin-left: 10px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -130,5 +138,11 @@ body {
   .foursquare-logo {
     width: 200px;
     height: 50px;
+  }
+
+  .mobile-btn {
+    margin-top: 20px;
+    float: right;
+    margin-bottom: 20px;
   }
 }
