@@ -414,7 +414,7 @@ function getStates() {
 }
 
 function parsingDone(results, file) {
-  fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
+  fileData = _.map(results.data, parseRow);  // get rid of header row
   states = getStates();
   locationTypes = _.compact(_.uniq(_.pluck(fileData, 'location_type')).sort());
 
