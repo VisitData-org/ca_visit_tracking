@@ -7,6 +7,12 @@ VisitData.org needs volunteer programmers, data analysts, and crisis team liaiso
 # Running locally
 To run the app locally, in development mode:
 
+1. Obtain a Google Maps API key. If you do not have one, you can just set it to
+   `""` and the map will be disabled. Note the API key should never be committed
+   to the git repository.
+2. Set up a Python virtualenv, as specified below.
+3. Run the server, as specified below.
+
 ## Set up a Python environment
 To set up a virtual env:
 ```bash
@@ -16,11 +22,14 @@ $ pip install -r requirements.txt
 ```
 
 ## Run server in development mode:
-The development server will automatically refresh when files change:
+To run the server in development mode:
 
 ```bash
-$ python main.py
+$ export MAPS_API_KEY="..."
+$ make run
 ```
+
+The development server will automatically refresh when files change.
 
 # Deploying to the web server
 To deploy the app to visitdata.org:
