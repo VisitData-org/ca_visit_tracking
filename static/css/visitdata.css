@@ -103,6 +103,10 @@ body {
   .mobile-btn {
     margin-left: 25px;
   }
+
+  .mobile-header {
+    margin-top: 4px;
+  }
 }
 
 @media (max-width: 989px) {
@@ -123,9 +127,20 @@ body {
   .mobile-btn {
     margin-left: 10px;
   }
+
+  .mobile-header {
+    margin-top: 4px;
+  }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 745px) and (max-width: 800px) {
+  .map-us {
+    width: 700px;
+    height: 389px;
+  }
+}
+
+@media (max-width: 425px) {
   .main-mobile {
     padding-top: 50px;
   }
@@ -144,5 +159,9 @@ body {
     margin-top: 20px;
     float: right;
     margin-bottom: 20px;
+  }
+
+  .mobile-header {
+    margin-top: 55px;
   }
 }

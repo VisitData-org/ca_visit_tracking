@@ -1,7 +1,7 @@
 {% extends "nav.html" %}
 {% block main %}
     <div class="container-fluid main-mobile">
-      <h3 id="state_name_header" class="mt-4"></h3>
+      <h3 id="state_name_header" class="mobile-header"></h3>
         <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;">
         </div>
         <div class="container">
@@ -10,7 +10,7 @@
             <select class="custom-select col-sm" style="max-width:35%;" name="county" id="county-select" data-style="btn-info">
               <option value="">County</option>
             </select>
-            <select class="custom-select col-sm" style="max-width:50%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
               <option value="">Venue Type</option>
             </select>
         </div>
@@ -22,7 +22,7 @@
               <option value="under65">Under 65</option>
               <option value="over65">65 and Over</option>
             </select>
-            <select class="custom-select col-sm" style="max-width:50%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
               <option value="nonessential">Non-Essential Only</option>
               <option value="essential">Essential Only</option>
               <option value="all">Essential & Non-Essential</option>
