@@ -1,0 +1,950 @@
+2020-03-01,Massachusetts,Food,45.0,45.0,46.0,1
+2020-03-01,Massachusetts,Shops & Services,30.0,27.0,30.0,2
+2020-03-01,Massachusetts,Grocery,98.0,97.0,98.0,3
+2020-03-01,Massachusetts,Nightlife Spots,49.0,51.0,49.0,4
+2020-03-01,Massachusetts,Outdoors & Recreation,31.0,29.0,31.0,5
+2020-03-01,Massachusetts,Arts & Entertainment,70.0,60.0,70.0,6
+2020-03-01,Massachusetts,Professional & Other Places,25.0,17.0,25.0,7
+2020-03-01,Massachusetts,Big Box Stores,109.0,104.0,109.0,8
+2020-03-01,Massachusetts,Colleges & Universities,65.0,69.0,65.0,9
+2020-03-01,Massachusetts,Gas Stations,104.0,97.0,104.0,10
+2020-03-01,Massachusetts,Airport,67.0,56.0,68.0,11
+2020-03-01,Massachusetts,Fast Food Restaurants,109.0,110.0,109.0,12
+2020-03-01,Massachusetts,Medical,55.0,54.0,55.0,13
+2020-03-01,Massachusetts,Drug Store,103.0,96.0,103.0,14
+2020-03-01,Massachusetts,Fitness Center,66.0,62.0,67.0,15
+2020-03-01,Massachusetts,Hotel,97.0,73.0,98.0,16
+2020-03-01,Massachusetts,School,58.0,57.0,58.0,17
+2020-03-01,Massachusetts,Convenience Store,98.0,90.0,98.0,18
+2020-03-01,Massachusetts,Sports,30.0,28.0,30.0,19
+2020-03-01,Massachusetts,Residences,93.0,85.0,94.0,20
+2020-03-01,Massachusetts,Hardware Stores,106.0,107.0,106.0,21
+2020-03-01,Massachusetts,Alcohol,94.0,97.0,94.0,22
+2020-03-01,Massachusetts,Travel & Transport,46.0,36.0,46.0,23
+2020-03-01,Massachusetts,Office,87.0,91.0,87.0,24
+2020-03-01,Massachusetts,Metro Stations,100.0,63.0,101.0,25
+2020-03-01,Massachusetts,Government,52.0,48.0,52.0,26
+2020-03-01,Massachusetts,Banks,108.0,110.0,108.0,27
+2020-03-01,Massachusetts,Discount Stores,100.0,90.0,100.0,28
+2020-03-01,Massachusetts,Beach,77.0,91.0,76.0,29
+2020-03-01,Massachusetts,Bus,84.0,83.0,84.0,30
+2020-03-01,Massachusetts,Skiing,68.0,"",69.0,31
+2020-03-01,Massachusetts,Spiritual Center,4.0,"",4.0,32
+2020-03-02,Massachusetts,Food,46.0,47.0,46.0,1
+2020-03-02,Massachusetts,Shops & Services,26.0,26.0,26.0,2
+2020-03-02,Massachusetts,Medical,59.0,58.0,59.0,3
+2020-03-02,Massachusetts,Grocery,104.0,103.0,104.0,4
+2020-03-02,Massachusetts,Colleges & Universities,66.0,68.0,66.0,5
+2020-03-02,Massachusetts,Outdoors & Recreation,32.0,32.0,32.0,6
+2020-03-02,Massachusetts,School,67.0,65.0,67.0,7
+2020-03-02,Massachusetts,Professional & Other Places,16.0,17.0,16.0,8
+2020-03-02,Massachusetts,Nightlife Spots,51.0,54.0,51.0,9
+2020-03-02,Massachusetts,Office,95.0,92.0,95.0,10
+2020-03-02,Massachusetts,Fitness Center,67.0,63.0,67.0,11
+2020-03-02,Massachusetts,Gas Stations,109.0,110.0,108.0,12
+2020-03-02,Massachusetts,Arts & Entertainment,72.0,70.0,72.0,13
+2020-03-02,Massachusetts,Airport,66.0,63.0,66.0,14
+2020-03-02,Massachusetts,Drug Store,109.0,108.0,109.0,15
+2020-03-02,Massachusetts,Fast Food Restaurants,109.0,118.0,109.0,16
+2020-03-02,Massachusetts,Convenience Store,100.0,98.0,100.0,17
+2020-03-02,Massachusetts,Travel & Transport,52.0,47.0,52.0,18
+2020-03-02,Massachusetts,Big Box Stores,106.0,105.0,106.0,19
+2020-03-02,Massachusetts,Hotel,91.0,77.0,92.0,20
+2020-03-02,Massachusetts,Residences,104.0,100.0,104.0,21
+2020-03-02,Massachusetts,Government,68.0,56.0,68.0,22
+2020-03-02,Massachusetts,Metro Stations,105.0,103.0,105.0,23
+2020-03-02,Massachusetts,Sports,25.0,28.0,25.0,24
+2020-03-02,Massachusetts,Hardware Stores,98.0,98.0,98.0,25
+2020-03-02,Massachusetts,Banks,116.0,121.0,116.0,26
+2020-03-02,Massachusetts,Alcohol,103.0,101.0,103.0,27
+2020-03-02,Massachusetts,Discount Stores,103.0,95.0,104.0,28
+2020-03-02,Massachusetts,Beach,83.0,81.0,83.0,29
+2020-03-02,Massachusetts,Bus,80.0,74.0,80.0,30
+2020-03-02,Massachusetts,Skiing,49.0,"",48.0,31
+2020-03-03,Massachusetts,Food,50.0,51.0,50.0,1
+2020-03-03,Massachusetts,Shops & Services,28.0,27.0,28.0,2
+2020-03-03,Massachusetts,Medical,54.0,50.0,55.0,3
+2020-03-03,Massachusetts,School,96.0,120.0,96.0,4
+2020-03-03,Massachusetts,Outdoors & Recreation,40.0,41.0,40.0,5
+2020-03-03,Massachusetts,Grocery,106.0,106.0,106.0,6
+2020-03-03,Massachusetts,Colleges & Universities,64.0,82.0,64.0,7
+2020-03-03,Massachusetts,Professional & Other Places,17.0,19.0,17.0,8
+2020-03-03,Massachusetts,Nightlife Spots,51.0,52.0,51.0,9
+2020-03-03,Massachusetts,Office,87.0,83.0,87.0,10
+2020-03-03,Massachusetts,Fitness Center,68.0,63.0,68.0,11
+2020-03-03,Massachusetts,Gas Stations,112.0,115.0,112.0,12
+2020-03-03,Massachusetts,Arts & Entertainment,67.0,67.0,67.0,13
+2020-03-03,Massachusetts,Drug Store,110.0,112.0,110.0,14
+2020-03-03,Massachusetts,Convenience Store,106.0,101.0,107.0,15
+2020-03-03,Massachusetts,Fast Food Restaurants,113.0,112.0,113.0,16
+2020-03-03,Massachusetts,Airport,61.0,76.0,60.0,17
+2020-03-03,Massachusetts,Government,80.0,82.0,80.0,18
+2020-03-03,Massachusetts,Travel & Transport,50.0,48.0,50.0,19
+2020-03-03,Massachusetts,Big Box Stores,114.0,110.0,114.0,20
+2020-03-03,Massachusetts,Hotel,93.0,87.0,93.0,21
+2020-03-03,Massachusetts,Residences,112.0,119.0,112.0,22
+2020-03-03,Massachusetts,Sports,30.0,37.0,30.0,23
+2020-03-03,Massachusetts,Metro Stations,97.0,95.0,98.0,24
+2020-03-03,Massachusetts,Hardware Stores,108.0,112.0,108.0,25
+2020-03-03,Massachusetts,Banks,124.0,131.0,124.0,26
+2020-03-03,Massachusetts,Alcohol,109.0,109.0,109.0,27
+2020-03-03,Massachusetts,Beach,121.0,124.0,121.0,28
+2020-03-03,Massachusetts,Discount Stores,114.0,102.0,115.0,29
+2020-03-03,Massachusetts,Bus,82.0,86.0,82.0,30
+2020-03-03,Massachusetts,Spiritual Center,7.0,"",7.0,31
+2020-03-03,Massachusetts,Skiing,53.0,"",51.0,32
+2020-03-04,Massachusetts,Food,44.0,43.0,44.0,1
+2020-03-04,Massachusetts,Shops & Services,26.0,25.0,26.0,2
+2020-03-04,Massachusetts,Medical,51.0,51.0,51.0,3
+2020-03-04,Massachusetts,Grocery,99.0,96.0,99.0,4
+2020-03-04,Massachusetts,Colleges & Universities,57.0,62.0,57.0,5
+2020-03-04,Massachusetts,Outdoors & Recreation,31.0,31.0,31.0,6
+2020-03-04,Massachusetts,School,63.0,62.0,63.0,7
+2020-03-04,Massachusetts,Professional & Other Places,14.0,15.0,14.0,8
+2020-03-04,Massachusetts,Nightlife Spots,47.0,47.0,47.0,9
+2020-03-04,Massachusetts,Office,80.0,79.0,80.0,10
+2020-03-04,Massachusetts,Fitness Center,62.0,58.0,62.0,11
+2020-03-04,Massachusetts,Gas Stations,100.0,99.0,100.0,12
+2020-03-04,Massachusetts,Arts & Entertainment,59.0,54.0,59.0,13
+2020-03-04,Massachusetts,Drug Store,100.0,95.0,100.0,14
+2020-03-04,Massachusetts,Convenience Store,97.0,88.0,98.0,15
+2020-03-04,Massachusetts,Fast Food Restaurants,102.0,97.0,103.0,16
+2020-03-04,Massachusetts,Airport,59.0,55.0,59.0,17
+2020-03-04,Massachusetts,Travel & Transport,47.0,50.0,47.0,18
+2020-03-04,Massachusetts,Big Box Stores,100.0,95.0,100.0,19
+2020-03-04,Massachusetts,Hotel,84.0,80.0,85.0,20
+2020-03-04,Massachusetts,Residences,98.0,94.0,98.0,21
+2020-03-04,Massachusetts,Government,57.0,53.0,58.0,22
+2020-03-04,Massachusetts,Sports,24.0,27.0,24.0,23
+2020-03-04,Massachusetts,Metro Stations,95.0,91.0,95.0,24
+2020-03-04,Massachusetts,Hardware Stores,103.0,108.0,103.0,25
+2020-03-04,Massachusetts,Alcohol,97.0,85.0,98.0,26
+2020-03-04,Massachusetts,Banks,106.0,111.0,105.0,27
+2020-03-04,Massachusetts,Discount Stores,102.0,100.0,102.0,28
+2020-03-04,Massachusetts,Beach,97.0,100.0,97.0,29
+2020-03-04,Massachusetts,Bus,74.0,74.0,74.0,30
+2020-03-04,Massachusetts,Spiritual Center,5.0,"",5.0,31
+2020-03-05,Massachusetts,Food,47.0,48.0,47.0,1
+2020-03-05,Massachusetts,Shops & Services,28.0,29.0,28.0,2
+2020-03-05,Massachusetts,Medical,54.0,54.0,54.0,3
+2020-03-05,Massachusetts,Grocery,106.0,106.0,106.0,4
+2020-03-05,Massachusetts,Colleges & Universities,62.0,71.0,62.0,5
+2020-03-05,Massachusetts,Outdoors & Recreation,35.0,37.0,35.0,6
+2020-03-05,Massachusetts,School,66.0,67.0,66.0,7
+2020-03-05,Massachusetts,Nightlife Spots,53.0,58.0,53.0,8
+2020-03-05,Massachusetts,Professional & Other Places,15.0,17.0,15.0,9
+2020-03-05,Massachusetts,Office,87.0,86.0,87.0,10
+2020-03-05,Massachusetts,Fitness Center,65.0,62.0,66.0,11
+2020-03-05,Massachusetts,Gas Stations,106.0,108.0,106.0,12
+2020-03-05,Massachusetts,Arts & Entertainment,73.0,72.0,73.0,13
+2020-03-05,Massachusetts,Drug Store,101.0,104.0,101.0,14
+2020-03-05,Massachusetts,Convenience Store,105.0,99.0,105.0,15
+2020-03-05,Massachusetts,Airport,58.0,56.0,58.0,16
+2020-03-05,Massachusetts,Fast Food Restaurants,105.0,110.0,105.0,17
+2020-03-05,Massachusetts,Big Box Stores,104.0,107.0,104.0,18
+2020-03-05,Massachusetts,Travel & Transport,52.0,52.0,52.0,19
+2020-03-05,Massachusetts,Hotel,87.0,85.0,87.0,20
+2020-03-05,Massachusetts,Residences,102.0,114.0,102.0,21
+2020-03-05,Massachusetts,Government,62.0,60.0,62.0,22
+2020-03-05,Massachusetts,Metro Stations,95.0,85.0,95.0,23
+2020-03-05,Massachusetts,Sports,26.0,33.0,26.0,24
+2020-03-05,Massachusetts,Alcohol,108.0,107.0,108.0,25
+2020-03-05,Massachusetts,Hardware Stores,109.0,106.0,109.0,26
+2020-03-05,Massachusetts,Banks,117.0,123.0,117.0,27
+2020-03-05,Massachusetts,Discount Stores,106.0,112.0,106.0,28
+2020-03-05,Massachusetts,Beach,120.0,125.0,119.0,29
+2020-03-05,Massachusetts,Bus,72.0,74.0,72.0,30
+2020-03-05,Massachusetts,Skiing,73.0,"",73.0,31
+2020-03-05,Massachusetts,Spiritual Center,6.0,"",6.0,32
+2020-03-06,Massachusetts,Food,46.0,47.0,46.0,1
+2020-03-06,Massachusetts,Shops & Services,28.0,27.0,28.0,2
+2020-03-06,Massachusetts,Grocery,100.0,98.0,100.0,3
+2020-03-06,Massachusetts,Medical,53.0,55.0,53.0,4
+2020-03-06,Massachusetts,Outdoors & Recreation,33.0,35.0,33.0,5
+2020-03-06,Massachusetts,Nightlife Spots,52.0,55.0,52.0,6
+2020-03-06,Massachusetts,Colleges & Universities,59.0,64.0,59.0,7
+2020-03-06,Massachusetts,Professional & Other Places,16.0,16.0,16.0,8
+2020-03-06,Massachusetts,School,62.0,60.0,62.0,9
+2020-03-06,Massachusetts,Gas Stations,100.0,99.0,100.0,10
+2020-03-06,Massachusetts,Arts & Entertainment,61.0,62.0,61.0,11
+2020-03-06,Massachusetts,Fitness Center,66.0,66.0,66.0,12
+2020-03-06,Massachusetts,Office,85.0,86.0,85.0,13
+2020-03-06,Massachusetts,Fast Food Restaurants,103.0,98.0,104.0,14
+2020-03-06,Massachusetts,Drug Store,94.0,97.0,94.0,15
+2020-03-06,Massachusetts,Airport,60.0,54.0,60.0,16
+2020-03-06,Massachusetts,Convenience Store,102.0,106.0,101.0,17
+2020-03-06,Massachusetts,Big Box Stores,98.0,103.0,98.0,18
+2020-03-06,Massachusetts,Travel & Transport,47.0,42.0,48.0,19
+2020-03-06,Massachusetts,Hotel,88.0,84.0,88.0,20
+2020-03-06,Massachusetts,Residences,104.0,113.0,104.0,21
+2020-03-06,Massachusetts,Alcohol,105.0,109.0,105.0,22
+2020-03-06,Massachusetts,Banks,108.0,110.0,108.0,23
+2020-03-06,Massachusetts,Sports,28.0,32.0,27.0,24
+2020-03-06,Massachusetts,Government,62.0,61.0,62.0,25
+2020-03-06,Massachusetts,Metro Stations,99.0,91.0,99.0,26
+2020-03-06,Massachusetts,Hardware Stores,104.0,100.0,104.0,27
+2020-03-06,Massachusetts,Discount Stores,94.0,90.0,94.0,28
+2020-03-06,Massachusetts,Beach,103.0,94.0,104.0,29
+2020-03-06,Massachusetts,Bus,70.0,68.0,70.0,30
+2020-03-06,Massachusetts,Skiing,73.0,"",72.0,31
+2020-03-06,Massachusetts,Spiritual Center,5.0,"",5.0,32
+2020-03-07,Massachusetts,Food,44.0,44.0,44.0,1
+2020-03-07,Massachusetts,Shops & Services,32.0,29.0,32.0,2
+2020-03-07,Massachusetts,Grocery,99.0,96.0,100.0,3
+2020-03-07,Massachusetts,Nightlife Spots,55.0,60.0,55.0,4
+2020-03-07,Massachusetts,Outdoors & Recreation,31.0,30.0,31.0,5
+2020-03-07,Massachusetts,Arts & Entertainment,64.0,59.0,64.0,6
+2020-03-07,Massachusetts,Professional & Other Places,21.0,20.0,21.0,7
+2020-03-07,Massachusetts,Gas Stations,99.0,92.0,99.0,8
+2020-03-07,Massachusetts,Colleges & Universities,56.0,58.0,56.0,9
+2020-03-07,Massachusetts,Big Box Stores,98.0,95.0,98.0,10
+2020-03-07,Massachusetts,Medical,52.0,50.0,52.0,11
+2020-03-07,Massachusetts,Fitness Center,65.0,62.0,65.0,12
+2020-03-07,Massachusetts,Fast Food Restaurants,105.0,98.0,105.0,13
+2020-03-07,Massachusetts,Drug Store,99.0,98.0,99.0,14
+2020-03-07,Massachusetts,School,54.0,53.0,54.0,15
+2020-03-07,Massachusetts,Convenience Store,98.0,101.0,98.0,16
+2020-03-07,Massachusetts,Hotel,87.0,83.0,87.0,17
+2020-03-07,Massachusetts,Airport,59.0,57.0,59.0,18
+2020-03-07,Massachusetts,Hardware Stores,110.0,107.0,111.0,19
+2020-03-07,Massachusetts,Sports,29.0,29.0,29.0,20
+2020-03-07,Massachusetts,Alcohol,104.0,102.0,104.0,21
+2020-03-07,Massachusetts,Residences,98.0,94.0,98.0,22
+2020-03-07,Massachusetts,Travel & Transport,66.0,60.0,66.0,23
+2020-03-07,Massachusetts,Office,84.0,91.0,84.0,24
+2020-03-07,Massachusetts,Banks,85.0,86.0,85.0,25
+2020-03-07,Massachusetts,Government,59.0,46.0,59.0,26
+2020-03-07,Massachusetts,Metro Stations,87.0,76.0,87.0,27
+2020-03-07,Massachusetts,Discount Stores,104.0,92.0,104.0,28
+2020-03-07,Massachusetts,Beach,93.0,75.0,94.0,29
+2020-03-07,Massachusetts,Bus,73.0,58.0,74.0,30
+2020-03-07,Massachusetts,Skiing,56.0,"",56.0,31
+2020-03-07,Massachusetts,Spiritual Center,5.0,"",5.0,32
+2020-03-08,Massachusetts,Food,46.0,46.0,46.0,1
+2020-03-08,Massachusetts,Shops & Services,28.0,25.0,29.0,2
+2020-03-08,Massachusetts,Grocery,100.0,92.0,100.0,3
+2020-03-08,Massachusetts,Outdoors & Recreation,39.0,36.0,39.0,4
+2020-03-08,Massachusetts,Nightlife Spots,48.0,51.0,48.0,5
+2020-03-08,Massachusetts,Arts & Entertainment,64.0,58.0,64.0,6
+2020-03-08,Massachusetts,Big Box Stores,107.0,92.0,107.0,7
+2020-03-08,Massachusetts,Gas Stations,108.0,105.0,108.0,8
+2020-03-08,Massachusetts,Professional & Other Places,21.0,18.0,21.0,9
+2020-03-08,Massachusetts,Colleges & Universities,55.0,64.0,54.0,10
+2020-03-08,Massachusetts,Fast Food Restaurants,110.0,110.0,110.0,11
+2020-03-08,Massachusetts,Drug Store,104.0,103.0,104.0,12
+2020-03-08,Massachusetts,Airport,63.0,71.0,63.0,13
+2020-03-08,Massachusetts,Medical,54.0,46.0,54.0,14
+2020-03-08,Massachusetts,Convenience Store,109.0,107.0,109.0,15
+2020-03-08,Massachusetts,School,60.0,54.0,60.0,16
+2020-03-08,Massachusetts,Fitness Center,62.0,58.0,62.0,17
+2020-03-08,Massachusetts,Hotel,91.0,82.0,91.0,18
+2020-03-08,Massachusetts,Sports,35.0,36.0,35.0,19
+2020-03-08,Massachusetts,Residences,98.0,98.0,98.0,20
+2020-03-08,Massachusetts,Hardware Stores,108.0,108.0,108.0,21
+2020-03-08,Massachusetts,Alcohol,104.0,91.0,105.0,22
+2020-03-08,Massachusetts,Travel & Transport,73.0,61.0,73.0,23
+2020-03-08,Massachusetts,Government,62.0,65.0,62.0,24
+2020-03-08,Massachusetts,Office,89.0,94.0,89.0,25
+2020-03-08,Massachusetts,Beach,105.0,105.0,105.0,26
+2020-03-08,Massachusetts,Metro Stations,97.0,76.0,97.0,27
+2020-03-08,Massachusetts,Discount Stores,101.0,108.0,101.0,28
+2020-03-08,Massachusetts,Banks,86.0,92.0,85.0,29
+2020-03-08,Massachusetts,Bus,78.0,77.0,78.0,30
+2020-03-08,Massachusetts,Skiing,51.0,"",51.0,31
+2020-03-08,Massachusetts,Spiritual Center,4.0,"",4.0,32
+2020-03-09,Massachusetts,Food,49.0,48.0,49.0,1
+2020-03-09,Massachusetts,Shops & Services,29.0,27.0,29.0,2
+2020-03-09,Massachusetts,Outdoors & Recreation,42.0,40.0,42.0,3
+2020-03-09,Massachusetts,Medical,58.0,54.0,58.0,4
+2020-03-09,Massachusetts,Grocery,106.0,102.0,106.0,5
+2020-03-09,Massachusetts,Colleges & Universities,62.0,67.0,62.0,6
+2020-03-09,Massachusetts,School,66.0,63.0,67.0,7
+2020-03-09,Massachusetts,Professional & Other Places,16.0,17.0,16.0,8
+2020-03-09,Massachusetts,Nightlife Spots,52.0,54.0,52.0,9
+2020-03-09,Massachusetts,Office,91.0,88.0,91.0,10
+2020-03-09,Massachusetts,Gas Stations,110.0,106.0,110.0,11
+2020-03-09,Massachusetts,Fitness Center,63.0,57.0,64.0,12
+2020-03-09,Massachusetts,Arts & Entertainment,59.0,61.0,59.0,13
+2020-03-09,Massachusetts,Drug Store,111.0,108.0,111.0,14
+2020-03-09,Massachusetts,Convenience Store,108.0,106.0,108.0,15
+2020-03-09,Massachusetts,Fast Food Restaurants,111.0,111.0,111.0,16
+2020-03-09,Massachusetts,Airport,54.0,49.0,54.0,17
+2020-03-09,Massachusetts,Big Box Stores,106.0,104.0,106.0,18
+2020-03-09,Massachusetts,Travel & Transport,51.0,45.0,51.0,19
+2020-03-09,Massachusetts,Residences,109.0,111.0,109.0,20
+2020-03-09,Massachusetts,Government,72.0,62.0,72.0,21
+2020-03-09,Massachusetts,Sports,30.0,33.0,30.0,22
+2020-03-09,Massachusetts,Hotel,87.0,82.0,87.0,23
+2020-03-09,Massachusetts,Hardware Stores,106.0,103.0,106.0,24
+2020-03-09,Massachusetts,Metro Stations,101.0,92.0,101.0,25
+2020-03-09,Massachusetts,Alcohol,112.0,103.0,113.0,26
+2020-03-09,Massachusetts,Banks,119.0,113.0,120.0,27
+2020-03-09,Massachusetts,Beach,120.0,104.0,121.0,28
+2020-03-09,Massachusetts,Discount Stores,107.0,102.0,107.0,29
+2020-03-09,Massachusetts,Bus,76.0,72.0,76.0,30
+2020-03-09,Massachusetts,Spiritual Center,6.0,"",6.0,31
+2020-03-09,Massachusetts,Skiing,49.0,"",48.0,32
+2020-03-10,Massachusetts,Food,46.0,44.0,46.0,1
+2020-03-10,Massachusetts,Shops & Services,29.0,27.0,29.0,2
+2020-03-10,Massachusetts,Medical,51.0,49.0,51.0,3
+2020-03-10,Massachusetts,Grocery,107.0,106.0,107.0,4
+2020-03-10,Massachusetts,Outdoors & Recreation,34.0,34.0,34.0,5
+2020-03-10,Massachusetts,Colleges & Universities,55.0,62.0,55.0,6
+2020-03-10,Massachusetts,School,64.0,59.0,64.0,7
+2020-03-10,Massachusetts,Professional & Other Places,15.0,15.0,15.0,8
+2020-03-10,Massachusetts,Nightlife Spots,48.0,43.0,48.0,9
+2020-03-10,Massachusetts,Office,77.0,71.0,77.0,10
+2020-03-10,Massachusetts,Gas Stations,107.0,107.0,107.0,11
+2020-03-10,Massachusetts,Fitness Center,60.0,58.0,60.0,12
+2020-03-10,Massachusetts,Arts & Entertainment,68.0,67.0,68.0,13
+2020-03-10,Massachusetts,Drug Store,104.0,107.0,104.0,14
+2020-03-10,Massachusetts,Convenience Store,99.0,91.0,99.0,15
+2020-03-10,Massachusetts,Fast Food Restaurants,103.0,95.0,103.0,16
+2020-03-10,Massachusetts,Big Box Stores,115.0,110.0,115.0,17
+2020-03-10,Massachusetts,Travel & Transport,42.0,40.0,42.0,18
+2020-03-10,Massachusetts,Airport,49.0,46.0,49.0,19
+2020-03-10,Massachusetts,Residences,105.0,100.0,105.0,20
+2020-03-10,Massachusetts,Government,61.0,57.0,61.0,21
+2020-03-10,Massachusetts,Hotel,78.0,78.0,78.0,22
+2020-03-10,Massachusetts,Sports,26.0,31.0,26.0,23
+2020-03-10,Massachusetts,Hardware Stores,108.0,104.0,108.0,24
+2020-03-10,Massachusetts,Metro Stations,89.0,81.0,89.0,25
+2020-03-10,Massachusetts,Alcohol,107.0,104.0,108.0,26
+2020-03-10,Massachusetts,Banks,106.0,100.0,106.0,27
+2020-03-10,Massachusetts,Beach,115.0,118.0,115.0,28
+2020-03-10,Massachusetts,Discount Stores,108.0,94.0,108.0,29
+2020-03-10,Massachusetts,Bus,69.0,61.0,70.0,30
+2020-03-10,Massachusetts,Spiritual Center,5.0,"",5.0,31
+2020-03-11,Massachusetts,Food,44.0,43.0,44.0,1
+2020-03-11,Massachusetts,Shops & Services,27.0,25.0,27.0,2
+2020-03-11,Massachusetts,Grocery,113.0,103.0,113.0,3
+2020-03-11,Massachusetts,Medical,51.0,48.0,51.0,4
+2020-03-11,Massachusetts,Outdoors & Recreation,33.0,34.0,33.0,5
+2020-03-11,Massachusetts,Colleges & Universities,47.0,53.0,47.0,6
+2020-03-11,Massachusetts,School,59.0,56.0,59.0,7
+2020-03-11,Massachusetts,Nightlife Spots,47.0,49.0,47.0,8
+2020-03-11,Massachusetts,Professional & Other Places,14.0,14.0,14.0,9
+2020-03-11,Massachusetts,Office,73.0,75.0,73.0,10
+2020-03-11,Massachusetts,Gas Stations,99.0,92.0,99.0,11
+2020-03-11,Massachusetts,Fitness Center,56.0,54.0,56.0,12
+2020-03-11,Massachusetts,Arts & Entertainment,54.0,56.0,53.0,13
+2020-03-11,Massachusetts,Drug Store,106.0,100.0,106.0,14
+2020-03-11,Massachusetts,Convenience Store,99.0,90.0,99.0,15
+2020-03-11,Massachusetts,Fast Food Restaurants,100.0,93.0,100.0,16
+2020-03-11,Massachusetts,Big Box Stores,113.0,104.0,113.0,17
+2020-03-11,Massachusetts,Airport,49.0,49.0,49.0,18
+2020-03-11,Massachusetts,Travel & Transport,40.0,40.0,40.0,19
+2020-03-11,Massachusetts,Residences,98.0,86.0,98.0,20
+2020-03-11,Massachusetts,Government,58.0,53.0,59.0,21
+2020-03-11,Massachusetts,Hotel,73.0,72.0,73.0,22
+2020-03-11,Massachusetts,Sports,25.0,28.0,24.0,23
+2020-03-11,Massachusetts,Hardware Stores,106.0,97.0,106.0,24
+2020-03-11,Massachusetts,Alcohol,106.0,106.0,106.0,25
+2020-03-11,Massachusetts,Metro Stations,84.0,78.0,84.0,26
+2020-03-11,Massachusetts,Banks,101.0,109.0,100.0,27
+2020-03-11,Massachusetts,Discount Stores,110.0,101.0,110.0,28
+2020-03-11,Massachusetts,Beach,109.0,109.0,109.0,29
+2020-03-11,Massachusetts,Bus,64.0,65.0,64.0,30
+2020-03-11,Massachusetts,Skiing,52.0,"",53.0,31
+2020-03-12,Massachusetts,Food,42.0,44.0,42.0,1
+2020-03-12,Massachusetts,Shops & Services,28.0,28.0,28.0,2
+2020-03-12,Massachusetts,Grocery,136.0,130.0,136.0,3
+2020-03-12,Massachusetts,Medical,48.0,47.0,49.0,4
+2020-03-12,Massachusetts,Outdoors & Recreation,32.0,35.0,32.0,5
+2020-03-12,Massachusetts,Colleges & Universities,36.0,43.0,36.0,6
+2020-03-12,Massachusetts,Nightlife Spots,48.0,53.0,48.0,7
+2020-03-12,Massachusetts,School,55.0,57.0,55.0,8
+2020-03-12,Massachusetts,Professional & Other Places,13.0,15.0,13.0,9
+2020-03-12,Massachusetts,Gas Stations,104.0,103.0,104.0,10
+2020-03-12,Massachusetts,Drug Store,117.0,114.0,117.0,11
+2020-03-12,Massachusetts,Office,69.0,78.0,68.0,12
+2020-03-12,Massachusetts,Fitness Center,55.0,57.0,55.0,13
+2020-03-12,Massachusetts,Big Box Stores,124.0,123.0,124.0,14
+2020-03-12,Massachusetts,Arts & Entertainment,59.0,59.0,59.0,15
+2020-03-12,Massachusetts,Convenience Store,100.0,100.0,100.0,16
+2020-03-12,Massachusetts,Fast Food Restaurants,99.0,104.0,99.0,17
+2020-03-12,Massachusetts,Airport,47.0,52.0,47.0,18
+2020-03-12,Massachusetts,Travel & Transport,38.0,36.0,38.0,19
+2020-03-12,Massachusetts,Residences,97.0,95.0,97.0,20
+2020-03-12,Massachusetts,Alcohol,115.0,113.0,115.0,21
+2020-03-12,Massachusetts,Hardware Stores,117.0,119.0,117.0,22
+2020-03-12,Massachusetts,Government,55.0,49.0,56.0,23
+2020-03-12,Massachusetts,Hotel,66.0,66.0,66.0,24
+2020-03-12,Massachusetts,Sports,24.0,32.0,23.0,25
+2020-03-12,Massachusetts,Banks,100.0,99.0,100.0,26
+2020-03-12,Massachusetts,Metro Stations,74.0,65.0,74.0,27
+2020-03-12,Massachusetts,Discount Stores,121.0,119.0,121.0,28
+2020-03-12,Massachusetts,Beach,118.0,121.0,118.0,29
+2020-03-12,Massachusetts,Bus,60.0,66.0,60.0,30
+2020-03-13,Massachusetts,Food,39.0,37.0,39.0,1
+2020-03-13,Massachusetts,Shops & Services,26.0,22.0,26.0,2
+2020-03-13,Massachusetts,Grocery,150.0,126.0,152.0,3
+2020-03-13,Massachusetts,Medical,47.0,44.0,48.0,4
+2020-03-13,Massachusetts,Outdoors & Recreation,30.0,28.0,30.0,5
+2020-03-13,Massachusetts,Nightlife Spots,44.0,43.0,45.0,6
+2020-03-13,Massachusetts,Gas Stations,98.0,97.0,98.0,7
+2020-03-13,Massachusetts,Professional & Other Places,13.0,14.0,13.0,8
+2020-03-13,Massachusetts,Drug Store,118.0,109.0,118.0,9
+2020-03-13,Massachusetts,Colleges & Universities,36.0,43.0,36.0,10
+2020-03-13,Massachusetts,Big Box Stores,140.0,122.0,140.0,11
+2020-03-13,Massachusetts,School,39.0,43.0,39.0,12
+2020-03-13,Massachusetts,Convenience Store,104.0,98.0,104.0,13
+2020-03-13,Massachusetts,Fast Food Restaurants,95.0,93.0,95.0,14
+2020-03-13,Massachusetts,Fitness Center,51.0,49.0,51.0,15
+2020-03-13,Massachusetts,Arts & Entertainment,46.0,45.0,46.0,16
+2020-03-13,Massachusetts,Office,66.0,69.0,66.0,17
+2020-03-13,Massachusetts,Alcohol,121.0,106.0,122.0,18
+2020-03-13,Massachusetts,Airport,43.0,41.0,43.0,19
+2020-03-13,Massachusetts,Residences,97.0,84.0,97.0,20
+2020-03-13,Massachusetts,Travel & Transport,40.0,39.0,40.0,21
+2020-03-13,Massachusetts,Hardware Stores,118.0,104.0,119.0,22
+2020-03-13,Massachusetts,Banks,96.0,92.0,97.0,23
+2020-03-13,Massachusetts,Hotel,60.0,63.0,60.0,24
+2020-03-13,Massachusetts,Government,53.0,48.0,53.0,25
+2020-03-13,Massachusetts,Sports,21.0,22.0,21.0,26
+2020-03-13,Massachusetts,Metro Stations,66.0,57.0,66.0,27
+2020-03-13,Massachusetts,Discount Stores,130.0,101.0,131.0,28
+2020-03-13,Massachusetts,Beach,97.0,85.0,98.0,29
+2020-03-13,Massachusetts,Bus,59.0,54.0,59.0,30
+2020-03-14,Massachusetts,Food,34.0,33.0,34.0,1
+2020-03-14,Massachusetts,Shops & Services,25.0,23.0,25.0,2
+2020-03-14,Massachusetts,Grocery,121.0,113.0,122.0,3
+2020-03-14,Massachusetts,Outdoors & Recreation,35.0,34.0,35.0,4
+2020-03-14,Massachusetts,Nightlife Spots,40.0,41.0,40.0,5
+2020-03-14,Massachusetts,Big Box Stores,102.0,95.0,102.0,6
+2020-03-14,Massachusetts,Gas Stations,96.0,95.0,96.0,7
+2020-03-14,Massachusetts,Drug Store,112.0,107.0,112.0,8
+2020-03-14,Massachusetts,Professional & Other Places,15.0,14.0,15.0,9
+2020-03-14,Massachusetts,Arts & Entertainment,39.0,41.0,39.0,10
+2020-03-14,Massachusetts,Medical,43.0,43.0,43.0,11
+2020-03-14,Massachusetts,Fast Food Restaurants,86.0,87.0,86.0,12
+2020-03-14,Massachusetts,Convenience Store,92.0,91.0,92.0,13
+2020-03-14,Massachusetts,Hardware Stores,123.0,115.0,124.0,14
+2020-03-14,Massachusetts,Colleges & Universities,36.0,44.0,36.0,15
+2020-03-14,Massachusetts,Alcohol,112.0,116.0,112.0,16
+2020-03-14,Massachusetts,Fitness Center,44.0,41.0,44.0,17
+2020-03-14,Massachusetts,Airport,48.0,42.0,48.0,18
+2020-03-14,Massachusetts,School,35.0,36.0,35.0,19
+2020-03-14,Massachusetts,Residences,90.0,90.0,90.0,20
+2020-03-14,Massachusetts,Sports,21.0,27.0,21.0,21
+2020-03-14,Massachusetts,Hotel,50.0,51.0,50.0,22
+2020-03-14,Massachusetts,Travel & Transport,37.0,40.0,37.0,23
+2020-03-14,Massachusetts,Discount Stores,112.0,108.0,112.0,24
+2020-03-14,Massachusetts,Banks,78.0,80.0,78.0,25
+2020-03-14,Massachusetts,Office,71.0,77.0,71.0,26
+2020-03-14,Massachusetts,Beach,133.0,121.0,134.0,27
+2020-03-14,Massachusetts,Government,49.0,45.0,49.0,28
+2020-03-14,Massachusetts,Metro Stations,62.0,47.0,62.0,29
+2020-03-14,Massachusetts,Bus,52.0,51.0,52.0,30
+2020-03-14,Massachusetts,Skiing,25.0,"",25.0,31
+2020-03-15,Massachusetts,Food,31.0,30.0,31.0,1
+2020-03-15,Massachusetts,Shops & Services,20.0,18.0,20.0,2
+2020-03-15,Massachusetts,Grocery,96.0,92.0,97.0,3
+2020-03-15,Massachusetts,Outdoors & Recreation,34.0,31.0,34.0,4
+2020-03-15,Massachusetts,Nightlife Spots,33.0,34.0,33.0,5
+2020-03-15,Massachusetts,Big Box Stores,96.0,80.0,96.0,6
+2020-03-15,Massachusetts,Gas Stations,89.0,88.0,89.0,7
+2020-03-15,Massachusetts,Drug Store,104.0,95.0,105.0,8
+2020-03-15,Massachusetts,Convenience Store,94.0,85.0,94.0,9
+2020-03-15,Massachusetts,Arts & Entertainment,28.0,26.0,29.0,10
+2020-03-15,Massachusetts,Fast Food Restaurants,79.0,76.0,79.0,11
+2020-03-15,Massachusetts,Airport,46.0,39.0,47.0,12
+2020-03-15,Massachusetts,Medical,40.0,38.0,40.0,13
+2020-03-15,Massachusetts,Professional & Other Places,12.0,9.0,12.0,14
+2020-03-15,Massachusetts,Hardware Stores,119.0,104.0,120.0,15
+2020-03-15,Massachusetts,Colleges & Universities,31.0,37.0,31.0,16
+2020-03-15,Massachusetts,Fitness Center,41.0,34.0,41.0,17
+2020-03-15,Massachusetts,Alcohol,99.0,93.0,99.0,18
+2020-03-15,Massachusetts,School,37.0,38.0,37.0,19
+2020-03-15,Massachusetts,Residences,80.0,62.0,80.0,20
+2020-03-15,Massachusetts,Sports,22.0,29.0,22.0,21
+2020-03-15,Massachusetts,Hotel,47.0,45.0,47.0,22
+2020-03-15,Massachusetts,Travel & Transport,34.0,32.0,34.0,23
+2020-03-15,Massachusetts,Beach,113.0,114.0,113.0,24
+2020-03-15,Massachusetts,Discount Stores,104.0,100.0,104.0,25
+2020-03-15,Massachusetts,Office,67.0,56.0,67.0,26
+2020-03-15,Massachusetts,Government,44.0,36.0,44.0,27
+2020-03-15,Massachusetts,Banks,80.0,78.0,80.0,28
+2020-03-15,Massachusetts,Metro Stations,62.0,"",62.0,29
+2020-03-15,Massachusetts,Bus,52.0,"",52.0,30
+2020-03-15,Massachusetts,Skiing,27.0,"",27.0,31
+2020-03-16,Massachusetts,Food,35.0,33.0,35.0,1
+2020-03-16,Massachusetts,Shops & Services,23.0,22.0,23.0,2
+2020-03-16,Massachusetts,Grocery,135.0,127.0,136.0,3
+2020-03-16,Massachusetts,Medical,42.0,37.0,42.0,4
+2020-03-16,Massachusetts,Outdoors & Recreation,29.0,30.0,29.0,5
+2020-03-16,Massachusetts,Nightlife Spots,40.0,42.0,40.0,6
+2020-03-16,Massachusetts,Professional & Other Places,12.0,12.0,12.0,7
+2020-03-16,Massachusetts,Gas Stations,96.0,98.0,96.0,8
+2020-03-16,Massachusetts,Drug Store,120.0,114.0,120.0,9
+2020-03-16,Massachusetts,Big Box Stores,118.0,97.0,118.0,10
+2020-03-16,Massachusetts,Convenience Store,92.0,96.0,92.0,11
+2020-03-16,Massachusetts,Office,56.0,65.0,56.0,12
+2020-03-16,Massachusetts,Colleges & Universities,25.0,36.0,25.0,13
+2020-03-16,Massachusetts,School,30.0,35.0,30.0,14
+2020-03-16,Massachusetts,Fast Food Restaurants,88.0,86.0,89.0,15
+2020-03-16,Massachusetts,Fitness Center,36.0,31.0,36.0,16
+2020-03-16,Massachusetts,Arts & Entertainment,38.0,43.0,38.0,17
+2020-03-16,Massachusetts,Hardware Stores,121.0,102.0,123.0,18
+2020-03-16,Massachusetts,Airport,37.0,31.0,37.0,19
+2020-03-16,Massachusetts,Alcohol,125.0,131.0,125.0,20
+2020-03-16,Massachusetts,Residences,84.0,80.0,85.0,21
+2020-03-16,Massachusetts,Travel & Transport,32.0,31.0,32.0,22
+2020-03-16,Massachusetts,Banks,114.0,117.0,114.0,23
+2020-03-16,Massachusetts,Sports,20.0,22.0,19.0,24
+2020-03-16,Massachusetts,Government,44.0,36.0,45.0,25
+2020-03-16,Massachusetts,Hotel,53.0,48.0,54.0,26
+2020-03-16,Massachusetts,Metro Stations,54.0,48.0,54.0,27
+2020-03-16,Massachusetts,Discount Stores,128.0,95.0,129.0,28
+2020-03-16,Massachusetts,Beach,96.0,89.0,97.0,29
+2020-03-16,Massachusetts,Bus,51.0,47.0,51.0,30
+2020-03-17,Massachusetts,Food,28.0,25.0,28.0,1
+2020-03-17,Massachusetts,Shops & Services,20.0,17.0,20.0,2
+2020-03-17,Massachusetts,Grocery,112.0,99.0,112.0,3
+2020-03-17,Massachusetts,Medical,30.0,25.0,30.0,4
+2020-03-17,Massachusetts,Outdoors & Recreation,24.0,23.0,24.0,5
+2020-03-17,Massachusetts,Professional & Other Places,9.0,8.0,9.0,6
+2020-03-17,Massachusetts,Gas Stations,80.0,71.0,81.0,7
+2020-03-17,Massachusetts,Drug Store,97.0,87.0,97.0,8
+2020-03-17,Massachusetts,Nightlife Spots,27.0,27.0,27.0,9
+2020-03-17,Massachusetts,Big Box Stores,103.0,73.0,104.0,10
+2020-03-17,Massachusetts,Convenience Store,78.0,70.0,78.0,11
+2020-03-17,Massachusetts,Office,39.0,43.0,39.0,12
+2020-03-17,Massachusetts,Colleges & Universities,20.0,35.0,20.0,13
+2020-03-17,Massachusetts,School,21.0,23.0,21.0,14
+2020-03-17,Massachusetts,Fast Food Restaurants,71.0,64.0,71.0,15
+2020-03-17,Massachusetts,Alcohol,112.0,102.0,113.0,16
+2020-03-17,Massachusetts,Hardware Stores,100.0,74.0,102.0,17
+2020-03-17,Massachusetts,Arts & Entertainment,33.0,35.0,33.0,18
+2020-03-17,Massachusetts,Airport,33.0,34.0,33.0,19
+2020-03-17,Massachusetts,Residences,72.0,57.0,72.0,20
+2020-03-17,Massachusetts,Fitness Center,22.0,20.0,22.0,21
+2020-03-17,Massachusetts,Travel & Transport,24.0,26.0,24.0,22
+2020-03-17,Massachusetts,Sports,15.0,17.0,15.0,23
+2020-03-17,Massachusetts,Banks,72.0,70.0,72.0,24
+2020-03-17,Massachusetts,Government,31.0,25.0,31.0,25
+2020-03-17,Massachusetts,Hotel,40.0,35.0,40.0,26
+2020-03-17,Massachusetts,Metro Stations,35.0,30.0,35.0,27
+2020-03-17,Massachusetts,Discount Stores,96.0,59.0,98.0,28
+2020-03-17,Massachusetts,Beach,96.0,88.0,96.0,29
+2020-03-17,Massachusetts,Bus,41.0,37.0,41.0,30
+2020-03-18,Massachusetts,Food,25.0,24.0,25.0,1
+2020-03-18,Massachusetts,Shops & Services,19.0,17.0,20.0,2
+2020-03-18,Massachusetts,Grocery,100.0,88.0,101.0,3
+2020-03-18,Massachusetts,Outdoors & Recreation,33.0,32.0,33.0,4
+2020-03-18,Massachusetts,Medical,29.0,24.0,29.0,5
+2020-03-18,Massachusetts,Professional & Other Places,9.0,10.0,9.0,6
+2020-03-18,Massachusetts,Gas Stations,78.0,75.0,79.0,7
+2020-03-18,Massachusetts,Drug Store,95.0,88.0,95.0,8
+2020-03-18,Massachusetts,Nightlife Spots,25.0,26.0,25.0,9
+2020-03-18,Massachusetts,Convenience Store,81.0,74.0,82.0,10
+2020-03-18,Massachusetts,Big Box Stores,95.0,83.0,96.0,11
+2020-03-18,Massachusetts,School,24.0,29.0,24.0,12
+2020-03-18,Massachusetts,Office,39.0,43.0,39.0,13
+2020-03-18,Massachusetts,Colleges & Universities,20.0,30.0,20.0,14
+2020-03-18,Massachusetts,Fast Food Restaurants,72.0,69.0,72.0,15
+2020-03-18,Massachusetts,Hardware Stores,114.0,95.0,115.0,16
+2020-03-18,Massachusetts,Arts & Entertainment,35.0,37.0,35.0,17
+2020-03-18,Massachusetts,Residences,78.0,67.0,78.0,18
+2020-03-18,Massachusetts,Alcohol,98.0,82.0,99.0,19
+2020-03-18,Massachusetts,Fitness Center,22.0,21.0,22.0,20
+2020-03-18,Massachusetts,Sports,19.0,24.0,19.0,21
+2020-03-18,Massachusetts,Airport,28.0,25.0,28.0,22
+2020-03-18,Massachusetts,Travel & Transport,25.0,28.0,24.0,23
+2020-03-18,Massachusetts,Beach,158.0,143.0,159.0,24
+2020-03-18,Massachusetts,Government,32.0,32.0,32.0,25
+2020-03-18,Massachusetts,Banks,73.0,70.0,73.0,26
+2020-03-18,Massachusetts,Hotel,40.0,41.0,40.0,27
+2020-03-18,Massachusetts,Discount Stores,95.0,73.0,97.0,28
+2020-03-18,Massachusetts,Metro Stations,35.0,33.0,35.0,29
+2020-03-18,Massachusetts,Bus,39.0,35.0,39.0,30
+2020-03-19,Massachusetts,Food,21.0,21.0,21.0,1
+2020-03-19,Massachusetts,Shops & Services,16.0,15.0,16.0,2
+2020-03-19,Massachusetts,Grocery,100.0,92.0,100.0,3
+2020-03-19,Massachusetts,Medical,26.0,22.0,26.0,4
+2020-03-19,Massachusetts,Outdoors & Recreation,20.0,21.0,20.0,5
+2020-03-19,Massachusetts,Gas Stations,71.0,68.0,71.0,6
+2020-03-19,Massachusetts,Drug Store,82.0,75.0,82.0,7
+2020-03-19,Massachusetts,Professional & Other Places,7.0,8.0,7.0,8
+2020-03-19,Massachusetts,Big Box Stores,91.0,76.0,91.0,9
+2020-03-19,Massachusetts,Nightlife Spots,20.0,22.0,20.0,10
+2020-03-19,Massachusetts,Convenience Store,68.0,65.0,69.0,11
+2020-03-19,Massachusetts,Fast Food Restaurants,61.0,56.0,62.0,12
+2020-03-19,Massachusetts,Office,33.0,40.0,33.0,13
+2020-03-19,Massachusetts,Colleges & Universities,14.0,23.0,13.0,14
+2020-03-19,Massachusetts,School,17.0,21.0,17.0,15
+2020-03-19,Massachusetts,Alcohol,89.0,83.0,89.0,16
+2020-03-19,Massachusetts,Hardware Stores,92.0,82.0,93.0,17
+2020-03-19,Massachusetts,Arts & Entertainment,26.0,29.0,26.0,18
+2020-03-19,Massachusetts,Residences,61.0,56.0,61.0,19
+2020-03-19,Massachusetts,Fitness Center,19.0,17.0,19.0,20
+2020-03-19,Massachusetts,Airport,20.0,24.0,20.0,21
+2020-03-19,Massachusetts,Travel & Transport,19.0,21.0,19.0,22
+2020-03-19,Massachusetts,Banks,63.0,68.0,63.0,23
+2020-03-19,Massachusetts,Government,27.0,24.0,27.0,24
+2020-03-19,Massachusetts,Sports,12.0,17.0,12.0,25
+2020-03-19,Massachusetts,Hotel,30.0,35.0,30.0,26
+2020-03-19,Massachusetts,Discount Stores,82.0,63.0,82.0,27
+2020-03-19,Massachusetts,Metro Stations,29.0,23.0,29.0,28
+2020-03-19,Massachusetts,Beach,82.0,83.0,82.0,29
+2020-03-19,Massachusetts,Bus,33.0,"",33.0,30
+2020-03-20,Massachusetts,Food,23.0,23.0,23.0,1
+2020-03-20,Massachusetts,Shops & Services,17.0,16.0,17.0,2
+2020-03-20,Massachusetts,Grocery,119.0,104.0,120.0,3
+2020-03-20,Massachusetts,Outdoors & Recreation,31.0,30.0,31.0,4
+2020-03-20,Massachusetts,Medical,28.0,24.0,28.0,5
+2020-03-20,Massachusetts,Gas Stations,78.0,78.0,78.0,6
+2020-03-20,Massachusetts,Drug Store,93.0,92.0,93.0,7
+2020-03-20,Massachusetts,Big Box Stores,107.0,87.0,108.0,8
+2020-03-20,Massachusetts,Professional & Other Places,9.0,10.0,9.0,9
+2020-03-20,Massachusetts,Nightlife Spots,24.0,28.0,24.0,10
+2020-03-20,Massachusetts,Convenience Store,80.0,80.0,80.0,11
+2020-03-20,Massachusetts,Fast Food Restaurants,66.0,63.0,66.0,12
+2020-03-20,Massachusetts,Alcohol,106.0,87.0,107.0,13
+2020-03-20,Massachusetts,School,23.0,27.0,23.0,14
+2020-03-20,Massachusetts,Hardware Stores,109.0,90.0,110.0,15
+2020-03-20,Massachusetts,Colleges & Universities,18.0,28.0,18.0,16
+2020-03-20,Massachusetts,Office,41.0,48.0,40.0,17
+2020-03-20,Massachusetts,Arts & Entertainment,25.0,28.0,25.0,18
+2020-03-20,Massachusetts,Residences,72.0,63.0,72.0,19
+2020-03-20,Massachusetts,Sports,20.0,26.0,19.0,20
+2020-03-20,Massachusetts,Banks,74.0,72.0,75.0,21
+2020-03-20,Massachusetts,Fitness Center,22.0,22.0,22.0,22
+2020-03-20,Massachusetts,Travel & Transport,25.0,29.0,25.0,23
+2020-03-20,Massachusetts,Government,33.0,30.0,33.0,24
+2020-03-20,Massachusetts,Airport,18.0,22.0,18.0,25
+2020-03-20,Massachusetts,Beach,139.0,114.0,141.0,26
+2020-03-20,Massachusetts,Hotel,33.0,34.0,33.0,27
+2020-03-20,Massachusetts,Discount Stores,89.0,71.0,90.0,28
+2020-03-20,Massachusetts,Metro Stations,32.0,34.0,32.0,29
+2020-03-20,Massachusetts,Bus,31.0,29.0,31.0,30
+2020-03-21,Massachusetts,Food,19.0,19.0,19.0,1
+2020-03-21,Massachusetts,Shops & Services,17.0,16.0,17.0,2
+2020-03-21,Massachusetts,Grocery,92.0,83.0,93.0,3
+2020-03-21,Massachusetts,Outdoors & Recreation,32.0,30.0,32.0,4
+2020-03-21,Massachusetts,Big Box Stores,81.0,75.0,82.0,5
+2020-03-21,Massachusetts,Gas Stations,70.0,72.0,70.0,6
+2020-03-21,Massachusetts,Drug Store,85.0,84.0,85.0,7
+2020-03-21,Massachusetts,Nightlife Spots,16.0,20.0,16.0,8
+2020-03-21,Massachusetts,Hardware Stores,112.0,92.0,113.0,9
+2020-03-21,Massachusetts,Convenience Store,74.0,71.0,74.0,10
+2020-03-21,Massachusetts,Medical,31.0,25.0,32.0,11
+2020-03-21,Massachusetts,Fast Food Restaurants,62.0,64.0,62.0,12
+2020-03-21,Massachusetts,Professional & Other Places,10.0,11.0,10.0,13
+2020-03-21,Massachusetts,Alcohol,85.0,80.0,86.0,14
+2020-03-21,Massachusetts,School,30.0,30.0,30.0,15
+2020-03-21,Massachusetts,Arts & Entertainment,21.0,25.0,21.0,16
+2020-03-21,Massachusetts,Residences,67.0,69.0,67.0,17
+2020-03-21,Massachusetts,Colleges & Universities,20.0,27.0,20.0,18
+2020-03-21,Massachusetts,Sports,17.0,21.0,16.0,19
+2020-03-21,Massachusetts,Beach,148.0,143.0,148.0,20
+2020-03-21,Massachusetts,Fitness Center,19.0,16.0,19.0,21
+2020-03-21,Massachusetts,Banks,68.0,66.0,68.0,22
+2020-03-21,Massachusetts,Travel & Transport,23.0,24.0,23.0,23
+2020-03-21,Massachusetts,Airport,19.0,16.0,19.0,24
+2020-03-21,Massachusetts,Hotel,27.0,29.0,27.0,25
+2020-03-21,Massachusetts,Office,52.0,57.0,52.0,26
+2020-03-21,Massachusetts,Discount Stores,75.0,58.0,75.0,27
+2020-03-21,Massachusetts,Government,34.0,35.0,34.0,28
+2020-03-21,Massachusetts,Metro Stations,30.0,"",30.0,29
+2020-03-21,Massachusetts,Bus,37.0,"",37.0,30
+2020-03-22,Massachusetts,Food,16.0,16.0,16.0,1
+2020-03-22,Massachusetts,Shops & Services,12.0,12.0,12.0,2
+2020-03-22,Massachusetts,Grocery,68.0,68.0,68.0,3
+2020-03-22,Massachusetts,Outdoors & Recreation,28.0,31.0,28.0,4
+2020-03-22,Massachusetts,Big Box Stores,74.0,66.0,75.0,5
+2020-03-22,Massachusetts,Gas Stations,65.0,66.0,65.0,6
+2020-03-22,Massachusetts,Drug Store,75.0,72.0,75.0,7
+2020-03-22,Massachusetts,Nightlife Spots,13.0,16.0,13.0,8
+2020-03-22,Massachusetts,Hardware Stores,99.0,89.0,99.0,9
+2020-03-22,Massachusetts,Convenience Store,65.0,67.0,65.0,10
+2020-03-22,Massachusetts,Medical,29.0,22.0,29.0,11
+2020-03-22,Massachusetts,Fast Food Restaurants,52.0,47.0,52.0,12
+2020-03-22,Massachusetts,Professional & Other Places,9.0,8.0,9.0,13
+2020-03-22,Massachusetts,School,27.0,27.0,27.0,14
+2020-03-22,Massachusetts,Arts & Entertainment,18.0,20.0,18.0,15
+2020-03-22,Massachusetts,Alcohol,66.0,70.0,65.0,16
+2020-03-22,Massachusetts,Colleges & Universities,20.0,31.0,20.0,17
+2020-03-22,Massachusetts,Residences,54.0,53.0,54.0,18
+2020-03-22,Massachusetts,Beach,106.0,104.0,106.0,19
+2020-03-22,Massachusetts,Sports,14.0,17.0,14.0,20
+2020-03-22,Massachusetts,Airport,18.0,12.0,18.0,21
+2020-03-22,Massachusetts,Fitness Center,17.0,15.0,17.0,22
+2020-03-22,Massachusetts,Travel & Transport,21.0,20.0,21.0,23
+2020-03-22,Massachusetts,Hotel,23.0,23.0,23.0,24
+2020-03-22,Massachusetts,Office,47.0,56.0,47.0,25
+2020-03-22,Massachusetts,Banks,66.0,81.0,66.0,26
+2020-03-22,Massachusetts,Discount Stores,61.0,52.0,61.0,27
+2020-03-22,Massachusetts,Government,28.0,32.0,28.0,28
+2020-03-22,Massachusetts,Metro Stations,30.0,"",30.0,29
+2020-03-22,Massachusetts,Bus,36.0,"",35.0,30
+2020-03-23,Massachusetts,Food,21.0,22.0,21.0,1
+2020-03-23,Massachusetts,Shops & Services,15.0,15.0,16.0,2
+2020-03-23,Massachusetts,Grocery,89.0,83.0,90.0,3
+2020-03-23,Massachusetts,Outdoors & Recreation,20.0,20.0,20.0,4
+2020-03-23,Massachusetts,Medical,28.0,22.0,28.0,5
+2020-03-23,Massachusetts,Professional & Other Places,8.0,8.0,8.0,6
+2020-03-23,Massachusetts,Gas Stations,68.0,67.0,68.0,7
+2020-03-23,Massachusetts,Drug Store,83.0,80.0,84.0,8
+2020-03-23,Massachusetts,Big Box Stores,91.0,70.0,92.0,9
+2020-03-23,Massachusetts,Nightlife Spots,21.0,26.0,21.0,10
+2020-03-23,Massachusetts,Convenience Store,66.0,64.0,66.0,11
+2020-03-23,Massachusetts,Office,37.0,45.0,36.0,12
+2020-03-23,Massachusetts,Fast Food Restaurants,63.0,61.0,63.0,13
+2020-03-23,Massachusetts,Hardware Stores,97.0,86.0,98.0,14
+2020-03-23,Massachusetts,School,18.0,20.0,18.0,15
+2020-03-23,Massachusetts,Colleges & Universities,15.0,27.0,15.0,16
+2020-03-23,Massachusetts,Alcohol,92.0,90.0,92.0,17
+2020-03-23,Massachusetts,Residences,61.0,56.0,62.0,18
+2020-03-23,Massachusetts,Arts & Entertainment,27.0,31.0,26.0,19
+2020-03-23,Massachusetts,Fitness Center,17.0,16.0,17.0,20
+2020-03-23,Massachusetts,Banks,73.0,69.0,73.0,21
+2020-03-23,Massachusetts,Travel & Transport,31.0,32.0,31.0,22
+2020-03-23,Massachusetts,Sports,13.0,16.0,13.0,23
+2020-03-23,Massachusetts,Government,30.0,25.0,30.0,24
+2020-03-23,Massachusetts,Airport,15.0,13.0,15.0,25
+2020-03-23,Massachusetts,Hotel,30.0,31.0,30.0,26
+2020-03-23,Massachusetts,Beach,70.0,65.0,70.0,27
+2020-03-23,Massachusetts,Discount Stores,82.0,72.0,83.0,28
+2020-03-23,Massachusetts,Metro Stations,28.0,"",28.0,29
+2020-03-23,Massachusetts,Bus,28.0,"",28.0,30
+2020-03-24,Massachusetts,Food,19.0,18.0,19.0,1
+2020-03-24,Massachusetts,Shops & Services,12.0,11.0,12.0,2
+2020-03-24,Massachusetts,Grocery,75.0,73.0,75.0,3
+2020-03-24,Massachusetts,Outdoors & Recreation,26.0,27.0,26.0,4
+2020-03-24,Massachusetts,Medical,21.0,17.0,21.0,5
+2020-03-24,Massachusetts,Professional & Other Places,7.0,7.0,7.0,6
+2020-03-24,Massachusetts,Gas Stations,61.0,61.0,61.0,7
+2020-03-24,Massachusetts,Drug Store,71.0,68.0,71.0,8
+2020-03-24,Massachusetts,Nightlife Spots,19.0,21.0,19.0,9
+2020-03-24,Massachusetts,Convenience Store,58.0,55.0,58.0,10
+2020-03-24,Massachusetts,Big Box Stores,74.0,56.0,74.0,11
+2020-03-24,Massachusetts,School,17.0,22.0,17.0,12
+2020-03-24,Massachusetts,Office,27.0,35.0,27.0,13
+2020-03-24,Massachusetts,Fast Food Restaurants,51.0,41.0,51.0,14
+2020-03-24,Massachusetts,Colleges & Universities,14.0,27.0,14.0,15
+2020-03-24,Massachusetts,Hardware Stores,78.0,66.0,79.0,16
+2020-03-24,Massachusetts,Arts & Entertainment,26.0,31.0,25.0,17
+2020-03-24,Massachusetts,Residences,56.0,60.0,56.0,18
+2020-03-24,Massachusetts,Alcohol,72.0,72.0,72.0,19
+2020-03-24,Massachusetts,Sports,14.0,18.0,13.0,20
+2020-03-24,Massachusetts,Fitness Center,14.0,16.0,14.0,21
+2020-03-24,Massachusetts,Travel & Transport,17.0,19.0,16.0,22
+2020-03-24,Massachusetts,Banks,57.0,55.0,57.0,23
+2020-03-24,Massachusetts,Government,24.0,19.0,24.0,24
+2020-03-24,Massachusetts,Beach,117.0,117.0,117.0,25
+2020-03-24,Massachusetts,Hotel,27.0,32.0,27.0,26
+2020-03-24,Massachusetts,Airport,14.0,11.0,14.0,27
+2020-03-24,Massachusetts,Metro Stations,23.0,"",23.0,28
+2020-03-24,Massachusetts,Discount Stores,54.0,38.0,55.0,29
+2020-03-24,Massachusetts,Bus,23.0,"",23.0,30
+2020-03-25,Massachusetts,Food,17.0,16.0,17.0,1
+2020-03-25,Massachusetts,Shops & Services,12.0,11.0,12.0,2
+2020-03-25,Massachusetts,Grocery,72.0,65.0,73.0,3
+2020-03-25,Massachusetts,Outdoors & Recreation,22.0,21.0,22.0,4
+2020-03-25,Massachusetts,Medical,20.0,16.0,20.0,5
+2020-03-25,Massachusetts,Drug Store,68.0,64.0,69.0,6
+2020-03-25,Massachusetts,Gas Stations,54.0,53.0,54.0,7
+2020-03-25,Massachusetts,Professional & Other Places,6.0,6.0,6.0,8
+2020-03-25,Massachusetts,Nightlife Spots,17.0,19.0,17.0,9
+2020-03-25,Massachusetts,Big Box Stores,69.0,60.0,70.0,10
+2020-03-25,Massachusetts,Convenience Store,56.0,50.0,56.0,11
+2020-03-25,Massachusetts,School,15.0,21.0,15.0,12
+2020-03-25,Massachusetts,Fast Food Restaurants,49.0,41.0,49.0,13
+2020-03-25,Massachusetts,Office,24.0,30.0,24.0,14
+2020-03-25,Massachusetts,Hardware Stores,76.0,67.0,77.0,15
+2020-03-25,Massachusetts,Colleges & Universities,10.0,16.0,10.0,16
+2020-03-25,Massachusetts,Arts & Entertainment,23.0,26.0,23.0,17
+2020-03-25,Massachusetts,Residences,52.0,47.0,52.0,18
+2020-03-25,Massachusetts,Alcohol,63.0,49.0,64.0,19
+2020-03-25,Massachusetts,Travel & Transport,17.0,20.0,17.0,20
+2020-03-25,Massachusetts,Fitness Center,13.0,12.0,13.0,21
+2020-03-25,Massachusetts,Sports,11.0,14.0,11.0,22
+2020-03-25,Massachusetts,Government,21.0,17.0,21.0,23
+2020-03-25,Massachusetts,Banks,49.0,49.0,49.0,24
+2020-03-25,Massachusetts,Beach,90.0,75.0,91.0,25
+2020-03-25,Massachusetts,Hotel,24.0,25.0,24.0,26
+2020-03-25,Massachusetts,Airport,13.0,7.0,13.0,27
+2020-03-25,Massachusetts,Metro Stations,23.0,23.0,23.0,28
+2020-03-25,Massachusetts,Discount Stores,56.0,44.0,56.0,29
+2020-03-25,Massachusetts,Bus,24.0,"",24.0,30
+2020-03-26,Massachusetts,Food,19.0,19.0,19.0,1
+2020-03-26,Massachusetts,Shops & Services,14.0,13.0,14.0,2
+2020-03-26,Massachusetts,Outdoors & Recreation,30.0,31.0,30.0,3
+2020-03-26,Massachusetts,Grocery,76.0,68.0,77.0,4
+2020-03-26,Massachusetts,Medical,22.0,18.0,22.0,5
+2020-03-26,Massachusetts,Gas Stations,63.0,64.0,63.0,6
+2020-03-26,Massachusetts,Professional & Other Places,7.0,7.0,7.0,7
+2020-03-26,Massachusetts,Drug Store,68.0,63.0,69.0,8
+2020-03-26,Massachusetts,Nightlife Spots,23.0,26.0,23.0,9
+2020-03-26,Massachusetts,Convenience Store,63.0,66.0,63.0,10
+2020-03-26,Massachusetts,Big Box Stores,73.0,60.0,74.0,11
+2020-03-26,Massachusetts,School,20.0,25.0,20.0,12
+2020-03-26,Massachusetts,Fast Food Restaurants,58.0,48.0,58.0,13
+2020-03-26,Massachusetts,Office,29.0,39.0,28.0,14
+2020-03-26,Massachusetts,Hardware Stores,92.0,76.0,93.0,15
+2020-03-26,Massachusetts,Arts & Entertainment,29.0,31.0,29.0,15
+2020-03-26,Massachusetts,Colleges & Universities,17.0,34.0,17.0,16
+2020-03-26,Massachusetts,Residences,62.0,65.0,61.0,17
+2020-03-26,Massachusetts,Alcohol,75.0,74.0,75.0,18
+2020-03-26,Massachusetts,Sports,16.0,21.0,16.0,19
+2020-03-26,Massachusetts,Travel & Transport,19.0,22.0,18.0,20
+2020-03-26,Massachusetts,Beach,158.0,158.0,158.0,21
+2020-03-26,Massachusetts,Fitness Center,15.0,15.0,15.0,22
+2020-03-26,Massachusetts,Government,26.0,24.0,26.0,23
+2020-03-26,Massachusetts,Banks,57.0,53.0,58.0,24
+2020-03-26,Massachusetts,Hotel,26.0,25.0,26.0,25
+2020-03-26,Massachusetts,Airport,11.0,8.0,11.0,26
+2020-03-26,Massachusetts,Discount Stores,61.0,55.0,61.0,27
+2020-03-26,Massachusetts,Metro Stations,22.0,"",22.0,28
+2020-03-26,Massachusetts,Bus,27.0,"",27.0,29
+2020-03-27,Massachusetts,Food,20.0,20.0,20.0,1
+2020-03-27,Massachusetts,Shops & Services,12.0,11.0,12.0,2
+2020-03-27,Massachusetts,Grocery,75.0,66.0,76.0,3
+2020-03-27,Massachusetts,Outdoors & Recreation,31.0,32.0,31.0,4
+2020-03-27,Massachusetts,Medical,23.0,19.0,23.0,5
+2020-03-27,Massachusetts,Gas Stations,61.0,55.0,61.0,6
+2020-03-27,Massachusetts,Professional & Other Places,7.0,8.0,7.0,7
+2020-03-27,Massachusetts,Nightlife Spots,17.0,19.0,17.0,8
+2020-03-27,Massachusetts,Drug Store,67.0,64.0,67.0,9
+2020-03-27,Massachusetts,Big Box Stores,75.0,62.0,75.0,10
+2020-03-27,Massachusetts,Convenience Store,65.0,67.0,65.0,11
+2020-03-27,Massachusetts,Fast Food Restaurants,59.0,50.0,59.0,12
+2020-03-27,Massachusetts,School,21.0,27.0,21.0,13
+2020-03-27,Massachusetts,Hardware Stores,93.0,72.0,94.0,14
+2020-03-27,Massachusetts,Arts & Entertainment,27.0,32.0,27.0,15
+2020-03-27,Massachusetts,Alcohol,74.0,61.0,74.0,16
+2020-03-27,Massachusetts,Office,31.0,37.0,31.0,17
+2020-03-27,Massachusetts,Colleges & Universities,16.0,26.0,16.0,18
+2020-03-27,Massachusetts,Residences,63.0,62.0,63.0,19
+2020-03-27,Massachusetts,Beach,179.0,160.0,181.0,20
+2020-03-27,Massachusetts,Sports,18.0,21.0,17.0,21
+2020-03-27,Massachusetts,Banks,57.0,58.0,57.0,22
+2020-03-27,Massachusetts,Travel & Transport,19.0,19.0,19.0,23
+2020-03-27,Massachusetts,Fitness Center,17.0,16.0,17.0,24
+2020-03-27,Massachusetts,Government,28.0,27.0,28.0,25
+2020-03-27,Massachusetts,Hotel,28.0,31.0,28.0,26
+2020-03-27,Massachusetts,Airport,10.0,9.0,10.0,27
+2020-03-27,Massachusetts,Discount Stores,59.0,42.0,60.0,28
+2020-03-27,Massachusetts,Metro Stations,24.0,"",24.0,29
+2020-03-27,Massachusetts,Bus,24.0,"",24.0,30
+2020-03-28,Massachusetts,Food,16.0,16.0,16.0,1
+2020-03-28,Massachusetts,Shops & Services,10.0,10.0,10.0,2
+2020-03-28,Massachusetts,Grocery,72.0,61.0,73.0,3
+2020-03-28,Massachusetts,Outdoors & Recreation,30.0,29.0,30.0,4
+2020-03-28,Massachusetts,Big Box Stores,66.0,54.0,67.0,5
+2020-03-28,Massachusetts,Gas Stations,58.0,51.0,58.0,6
+2020-03-28,Massachusetts,Drug Store,69.0,62.0,69.0,7
+2020-03-28,Massachusetts,Nightlife Spots,14.0,16.0,13.0,8
+2020-03-28,Massachusetts,Hardware Stores,101.0,80.0,102.0,9
+2020-03-28,Massachusetts,Fast Food Restaurants,54.0,48.0,55.0,10
+2020-03-28,Massachusetts,Convenience Store,61.0,58.0,61.0,11
+2020-03-28,Massachusetts,Medical,26.0,21.0,26.0,12
+2020-03-28,Massachusetts,Professional & Other Places,8.0,8.0,8.0,13
+2020-03-28,Massachusetts,Alcohol,69.0,57.0,70.0,14
+2020-03-28,Massachusetts,School,26.0,29.0,26.0,15
+2020-03-28,Massachusetts,Arts & Entertainment,19.0,26.0,19.0,16
+2020-03-28,Massachusetts,Beach,148.0,147.0,148.0,17
+2020-03-28,Massachusetts,Residences,58.0,61.0,58.0,18
+2020-03-28,Massachusetts,Sports,15.0,19.0,15.0,19
+2020-03-28,Massachusetts,Colleges & Universities,15.0,18.0,15.0,20
+2020-03-28,Massachusetts,Fitness Center,15.0,14.0,15.0,21
+2020-03-28,Massachusetts,Banks,54.0,47.0,54.0,22
+2020-03-28,Massachusetts,Travel & Transport,21.0,20.0,21.0,23
+2020-03-28,Massachusetts,Office,46.0,54.0,46.0,24
+2020-03-28,Massachusetts,Hotel,21.0,24.0,21.0,25
+2020-03-28,Massachusetts,Government,30.0,32.0,30.0,26
+2020-03-28,Massachusetts,Discount Stores,55.0,48.0,55.0,27
+2020-03-28,Massachusetts,Airport,11.0,7.0,11.0,28
+2020-03-28,Massachusetts,Metro Stations,24.0,"",24.0,29
+2020-03-28,Massachusetts,Bus,28.0,"",28.0,30
+2020-03-29,Massachusetts,Food,10.0,10.0,10.0,1
+2020-03-29,Massachusetts,Grocery,52.0,48.0,52.0,2
+2020-03-29,Massachusetts,Shops & Services,8.0,7.0,8.0,3
+2020-03-29,Massachusetts,Outdoors & Recreation,11.0,11.0,11.0,4
+2020-03-29,Massachusetts,Big Box Stores,52.0,46.0,52.0,5
+2020-03-29,Massachusetts,Drug Store,49.0,47.0,49.0,6
+2020-03-29,Massachusetts,Gas Stations,40.0,36.0,41.0,7
+2020-03-29,Massachusetts,Convenience Store,43.0,40.0,43.0,8
+2020-03-29,Massachusetts,Fast Food Restaurants,38.0,33.0,38.0,9
+2020-03-29,Massachusetts,Nightlife Spots,8.0,10.0,8.0,10
+2020-03-29,Massachusetts,Hardware Stores,60.0,48.0,60.0,11
+2020-03-29,Massachusetts,Medical,18.0,13.0,18.0,12
+2020-03-29,Massachusetts,Professional & Other Places,4.0,3.0,4.0,13
+2020-03-29,Massachusetts,Alcohol,43.0,42.0,43.0,14
+2020-03-29,Massachusetts,School,14.0,12.0,14.0,15
+2020-03-29,Massachusetts,Arts & Entertainment,10.0,12.0,10.0,16
+2020-03-29,Massachusetts,Residences,30.0,24.0,31.0,17
+2020-03-29,Massachusetts,Colleges & Universities,10.0,16.0,10.0,18
+2020-03-29,Massachusetts,Travel & Transport,19.0,16.0,19.0,19
+2020-03-29,Massachusetts,Sports,6.0,6.0,6.0,20
+2020-03-29,Massachusetts,Beach,43.0,36.0,43.0,21
+2020-03-29,Massachusetts,Fitness Center,9.0,"",9.0,22
+2020-03-29,Massachusetts,Discount Stores,40.0,43.0,40.0,23
+2020-03-29,Massachusetts,Airport,7.0,"",8.0,24
+2020-03-29,Massachusetts,Office,29.0,"",29.0,25
+2020-03-29,Massachusetts,Hotel,12.0,14.0,12.0,26
+2020-03-29,Massachusetts,Banks,40.0,44.0,40.0,27
+2020-03-29,Massachusetts,Government,17.0,"",17.0,28
+2020-03-29,Massachusetts,Metro Stations,21.0,"",21.0,29
+2020-03-29,Massachusetts,Bus,18.0,"",18.0,30
+2020-03-30,Massachusetts,Food,17.0,17.0,17.0,1
+2020-03-30,Massachusetts,Shops & Services,12.0,11.0,12.0,2
+2020-03-30,Massachusetts,Grocery,69.0,64.0,69.0,3
+2020-03-30,Massachusetts,Outdoors & Recreation,17.0,18.0,16.0,4
+2020-03-30,Massachusetts,Medical,20.0,18.0,21.0,5
+2020-03-30,Massachusetts,Professional & Other Places,7.0,7.0,7.0,6
+2020-03-30,Massachusetts,Gas Stations,54.0,53.0,54.0,7
+2020-03-30,Massachusetts,Drug Store,65.0,59.0,65.0,8
+2020-03-30,Massachusetts,Big Box Stores,72.0,62.0,72.0,9
+2020-03-30,Massachusetts,Nightlife Spots,19.0,23.0,19.0,10
+2020-03-30,Massachusetts,Convenience Store,54.0,56.0,54.0,11
+2020-03-30,Massachusetts,Fast Food Restaurants,55.0,49.0,55.0,12
+2020-03-30,Massachusetts,Hardware Stores,76.0,62.0,77.0,13
+2020-03-30,Massachusetts,School,15.0,20.0,15.0,14
+2020-03-30,Massachusetts,Office,26.0,33.0,26.0,15
+2020-03-30,Massachusetts,Arts & Entertainment,22.0,26.0,21.0,16
+2020-03-30,Massachusetts,Residences,48.0,46.0,48.0,17
+2020-03-30,Massachusetts,Alcohol,62.0,58.0,63.0,18
+2020-03-30,Massachusetts,Colleges & Universities,12.0,23.0,11.0,19
+2020-03-30,Massachusetts,Banks,58.0,57.0,58.0,20
+2020-03-30,Massachusetts,Fitness Center,13.0,10.0,13.0,21
+2020-03-30,Massachusetts,Sports,11.0,14.0,11.0,22
+2020-03-30,Massachusetts,Travel & Transport,16.0,20.0,16.0,23
+2020-03-30,Massachusetts,Government,23.0,21.0,23.0,24
+2020-03-30,Massachusetts,Beach,66.0,65.0,66.0,25
+2020-03-30,Massachusetts,Hotel,22.0,25.0,22.0,26
+2020-03-30,Massachusetts,Discount Stores,60.0,52.0,60.0,27
+2020-03-30,Massachusetts,Metro Stations,21.0,"",21.0,28
+2020-03-30,Massachusetts,Airport,6.0,"",6.0,29
+2020-03-30,Massachusetts,Bus,23.0,"",23.0,30
+2020-03-31,Massachusetts,Food,18.0,18.0,18.0,1
+2020-03-31,Massachusetts,Shops & Services,11.0,11.0,11.0,2
+2020-03-31,Massachusetts,Grocery,70.0,67.0,70.0,3
+2020-03-31,Massachusetts,Outdoors & Recreation,21.0,22.0,21.0,4
+2020-03-31,Massachusetts,Medical,18.0,14.0,18.0,5
+2020-03-31,Massachusetts,Gas Stations,56.0,49.0,56.0,6
+2020-03-31,Massachusetts,Professional & Other Places,6.0,6.0,6.0,7
+2020-03-31,Massachusetts,Drug Store,63.0,60.0,63.0,8
+2020-03-31,Massachusetts,Big Box Stores,74.0,58.0,74.0,9
+2020-03-31,Massachusetts,Nightlife Spots,18.0,21.0,18.0,10
+2020-03-31,Massachusetts,Convenience Store,54.0,52.0,54.0,11
+2020-03-31,Massachusetts,Fast Food Restaurants,58.0,43.0,58.0,12
+2020-03-31,Massachusetts,School,15.0,18.0,15.0,13
+2020-03-31,Massachusetts,Hardware Stores,79.0,65.0,80.0,14
+2020-03-31,Massachusetts,Office,22.0,29.0,22.0,15
+2020-03-31,Massachusetts,Colleges & Universities,10.0,18.0,10.0,16
+2020-03-31,Massachusetts,Arts & Entertainment,24.0,30.0,24.0,17
+2020-03-31,Massachusetts,Alcohol,69.0,73.0,68.0,18
+2020-03-31,Massachusetts,Residences,47.0,45.0,47.0,19
+2020-03-31,Massachusetts,Banks,58.0,58.0,58.0,20
+2020-03-31,Massachusetts,Fitness Center,13.0,13.0,13.0,21
+2020-03-31,Massachusetts,Sports,11.0,14.0,11.0,22
+2020-03-31,Massachusetts,Travel & Transport,20.0,22.0,20.0,23
+2020-03-31,Massachusetts,Beach,104.0,109.0,103.0,24
+2020-03-31,Massachusetts,Government,21.0,19.0,21.0,25
+2020-03-31,Massachusetts,Hotel,24.0,31.0,23.0,26
+2020-03-31,Massachusetts,Discount Stores,60.0,59.0,60.0,27
+2020-03-31,Massachusetts,Metro Stations,18.0,"",18.0,28
+2020-03-31,Massachusetts,Airport,8.0,7.0,8.0,29
+2020-03-31,Massachusetts,Bus,21.0,"",20.0,30

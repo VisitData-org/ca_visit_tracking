@@ -2,6 +2,10 @@ body {
   font-size: .875rem;
 }
 
+h4 {
+    padding-top: 10px;
+}
+
 .feather {
   width: 16px;
   height: 16px;
@@ -66,7 +70,6 @@ body {
  * Content
  */
 
-
 /*
  * Navbar
  */
@@ -84,7 +87,7 @@ body {
 
 .modal-open {
    max-width:75%;
- }
+}
 
 @media (min-width: 990px) {
   .main-mobile {
@@ -94,6 +97,11 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .foursquare-logo {
+      max-width:240px;
+  }
+  .faqlist {
+      max-width: 600px;
 
   .map-us {
     width: 1000px;
@@ -122,6 +130,7 @@ body {
   .foursquare-logo {
     width: 200px;
     height: 50px;
+    max-width:160px;
   }
 
   .mobile-btn {
@@ -130,6 +139,9 @@ body {
 
   .mobile-header {
     margin-top: 4px;
+
+  .faqlist {
+      max-width: 600px;
   }
 }
 

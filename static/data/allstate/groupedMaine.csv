@@ -1,0 +1,781 @@
+2020-03-01,Maine,Food,48.0,48.0,48.0,1
+2020-03-01,Maine,Shops & Services,40.0,34.0,40.0,2
+2020-03-01,Maine,Grocery,96.0,90.0,96.0,3
+2020-03-01,Maine,Outdoors & Recreation,54.0,54.0,54.0,4
+2020-03-01,Maine,Nightlife Spots,51.0,53.0,51.0,5
+2020-03-01,Maine,Big Box Stores,105.0,109.0,105.0,6
+2020-03-01,Maine,Gas Stations,102.0,102.0,103.0,7
+2020-03-01,Maine,Convenience Store,97.0,96.0,97.0,8
+2020-03-01,Maine,Fast Food Restaurants,108.0,98.0,108.0,9
+2020-03-01,Maine,Arts & Entertainment,83.0,82.0,83.0,10
+2020-03-01,Maine,Hotel,72.0,60.0,72.0,10
+2020-03-01,Maine,Professional & Other Places,30.0,26.0,30.0,11
+2020-03-01,Maine,Skiing,68.0,57.0,68.0,12
+2020-03-01,Maine,Hardware Stores,109.0,114.0,108.0,13
+2020-03-01,Maine,Medical,58.0,51.0,58.0,14
+2020-03-01,Maine,School,67.0,53.0,68.0,14
+2020-03-01,Maine,Colleges & Universities,93.0,"",93.0,15
+2020-03-01,Maine,Drug Store,98.0,111.0,97.0,15
+2020-03-01,Maine,Travel & Transport,88.0,"",89.0,16
+2020-03-01,Maine,Sports,47.0,"",47.0,17
+2020-03-01,Maine,Discount Stores,119.0,"",120.0,18
+2020-03-01,Maine,Government,60.0,"",61.0,19
+2020-03-01,Maine,Fitness Center,70.0,"",70.0,20
+2020-03-01,Maine,Beach,76.0,"",77.0,21
+2020-03-01,Maine,Residences,94.0,"",95.0,22
+2020-03-02,Maine,Food,48.0,53.0,48.0,1
+2020-03-02,Maine,Shops & Services,35.0,37.0,35.0,2
+2020-03-02,Maine,Grocery,101.0,100.0,101.0,3
+2020-03-02,Maine,Medical,59.0,53.0,59.0,4
+2020-03-02,Maine,Outdoors & Recreation,61.0,66.0,61.0,5
+2020-03-02,Maine,Gas Stations,101.0,93.0,102.0,6
+2020-03-02,Maine,Convenience Store,95.0,90.0,96.0,7
+2020-03-02,Maine,Professional & Other Places,23.0,24.0,23.0,8
+2020-03-02,Maine,School,65.0,57.0,66.0,9
+2020-03-02,Maine,Nightlife Spots,74.0,70.0,74.0,10
+2020-03-02,Maine,Big Box Stores,103.0,101.0,103.0,11
+2020-03-02,Maine,Colleges & Universities,67.0,87.0,67.0,12
+2020-03-02,Maine,Fast Food Restaurants,109.0,117.0,108.0,13
+2020-03-02,Maine,Hotel,70.0,75.0,70.0,14
+2020-03-02,Maine,Arts & Entertainment,80.0,77.0,80.0,15
+2020-03-02,Maine,Hardware Stores,104.0,103.0,104.0,16
+2020-03-02,Maine,Government,71.0,73.0,70.0,17
+2020-03-02,Maine,Drug Store,110.0,101.0,111.0,18
+2020-03-02,Maine,Office,90.0,82.0,90.0,19
+2020-03-02,Maine,Fitness Center,76.0,72.0,76.0,20
+2020-03-02,Maine,Travel & Transport,88.0,86.0,88.0,21
+2020-03-02,Maine,Banks,121.0,91.0,124.0,22
+2020-03-02,Maine,Sports,38.0,34.0,38.0,23
+2020-03-02,Maine,Discount Stores,105.0,114.0,105.0,24
+2020-03-02,Maine,Airport,81.0,"",82.0,25
+2020-03-02,Maine,Beach,79.0,84.0,78.0,26
+2020-03-02,Maine,Residences,95.0,"",95.0,27
+2020-03-02,Maine,Skiing,39.0,"",38.0,27
+2020-03-03,Maine,Food,62.0,62.0,62.0,1
+2020-03-03,Maine,Shops & Services,44.0,44.0,44.0,2
+2020-03-03,Maine,Grocery,109.0,108.0,109.0,3
+2020-03-03,Maine,Outdoors & Recreation,50.0,52.0,50.0,4
+2020-03-03,Maine,Medical,55.0,55.0,55.0,5
+2020-03-03,Maine,School,91.0,109.0,91.0,6
+2020-03-03,Maine,Professional & Other Places,28.0,32.0,28.0,7
+2020-03-03,Maine,Convenience Store,109.0,120.0,108.0,8
+2020-03-03,Maine,Gas Stations,104.0,96.0,105.0,9
+2020-03-03,Maine,Nightlife Spots,67.0,81.0,66.0,10
+2020-03-03,Maine,Colleges & Universities,87.0,69.0,87.0,11
+2020-03-03,Maine,Big Box Stores,111.0,111.0,111.0,12
+2020-03-03,Maine,Arts & Entertainment,123.0,103.0,124.0,13
+2020-03-03,Maine,Hotel,85.0,82.0,86.0,14
+2020-03-03,Maine,Government,97.0,108.0,97.0,15
+2020-03-03,Maine,Fast Food Restaurants,118.0,112.0,118.0,16
+2020-03-03,Maine,Hardware Stores,107.0,104.0,107.0,17
+2020-03-03,Maine,Drug Store,108.0,113.0,107.0,18
+2020-03-03,Maine,Office,86.0,71.0,86.0,19
+2020-03-03,Maine,Fitness Center,76.0,73.0,76.0,20
+2020-03-03,Maine,Travel & Transport,53.0,61.0,53.0,21
+2020-03-03,Maine,Banks,143.0,128.0,144.0,22
+2020-03-03,Maine,Sports,44.0,42.0,44.0,23
+2020-03-03,Maine,Beach,130.0,124.0,131.0,24
+2020-03-03,Maine,Discount Stores,102.0,"",103.0,25
+2020-03-03,Maine,Airport,70.0,"",71.0,26
+2020-03-03,Maine,Residences,102.0,"",104.0,26
+2020-03-03,Maine,Skiing,64.0,"",64.0,26
+2020-03-03,Maine,Alcohol,102.0,"",102.0,27
+2020-03-04,Maine,Food,47.0,44.0,47.0,1
+2020-03-04,Maine,Shops & Services,38.0,37.0,38.0,2
+2020-03-04,Maine,Grocery,88.0,82.0,88.0,3
+2020-03-04,Maine,Medical,50.0,50.0,50.0,4
+2020-03-04,Maine,Outdoors & Recreation,51.0,53.0,50.0,5
+2020-03-04,Maine,Gas Stations,94.0,86.0,95.0,6
+2020-03-04,Maine,Convenience Store,89.0,84.0,89.0,7
+2020-03-04,Maine,School,64.0,56.0,64.0,8
+2020-03-04,Maine,Nightlife Spots,58.0,57.0,58.0,8
+2020-03-04,Maine,Professional & Other Places,24.0,23.0,24.0,9
+2020-03-04,Maine,Colleges & Universities,82.0,81.0,82.0,10
+2020-03-04,Maine,Big Box Stores,93.0,87.0,94.0,11
+2020-03-04,Maine,Fast Food Restaurants,95.0,93.0,96.0,12
+2020-03-04,Maine,Arts & Entertainment,95.0,86.0,96.0,13
+2020-03-04,Maine,Hotel,68.0,59.0,68.0,14
+2020-03-04,Maine,Government,55.0,57.0,55.0,15
+2020-03-04,Maine,Hardware Stores,89.0,93.0,89.0,16
+2020-03-04,Maine,Drug Store,88.0,89.0,87.0,17
+2020-03-04,Maine,Office,80.0,70.0,81.0,18
+2020-03-04,Maine,Fitness Center,68.0,68.0,68.0,19
+2020-03-04,Maine,Travel & Transport,73.0,71.0,73.0,20
+2020-03-04,Maine,Banks,107.0,113.0,106.0,21
+2020-03-04,Maine,Sports,32.0,32.0,32.0,22
+2020-03-04,Maine,Discount Stores,98.0,"",99.0,23
+2020-03-04,Maine,Beach,89.0,148.0,84.0,24
+2020-03-04,Maine,Airport,71.0,"",70.0,25
+2020-03-04,Maine,Residences,89.0,"",89.0,26
+2020-03-05,Maine,Food,56.0,57.0,56.0,1
+2020-03-05,Maine,Shops & Services,37.0,42.0,37.0,2
+2020-03-05,Maine,Grocery,103.0,115.0,103.0,3
+2020-03-05,Maine,Medical,58.0,57.0,58.0,4
+2020-03-05,Maine,Outdoors & Recreation,50.0,54.0,50.0,5
+2020-03-05,Maine,Gas Stations,111.0,117.0,111.0,6
+2020-03-05,Maine,Nightlife Spots,68.0,78.0,67.0,7
+2020-03-05,Maine,School,102.0,106.0,102.0,8
+2020-03-05,Maine,Convenience Store,102.0,109.0,101.0,9
+2020-03-05,Maine,Professional & Other Places,26.0,27.0,26.0,10
+2020-03-05,Maine,Big Box Stores,108.0,121.0,108.0,11
+2020-03-05,Maine,Colleges & Universities,86.0,91.0,86.0,12
+2020-03-05,Maine,Hotel,86.0,98.0,86.0,13
+2020-03-05,Maine,Fast Food Restaurants,110.0,115.0,110.0,14
+2020-03-05,Maine,Arts & Entertainment,86.0,87.0,86.0,15
+2020-03-05,Maine,Government,67.0,62.0,67.0,16
+2020-03-05,Maine,Hardware Stores,106.0,128.0,105.0,17
+2020-03-05,Maine,Drug Store,103.0,121.0,102.0,18
+2020-03-05,Maine,Office,94.0,101.0,94.0,19
+2020-03-05,Maine,Travel & Transport,84.0,100.0,83.0,20
+2020-03-05,Maine,Fitness Center,75.0,85.0,74.0,20
+2020-03-05,Maine,Banks,122.0,119.0,122.0,21
+2020-03-05,Maine,Sports,41.0,54.0,40.0,22
+2020-03-05,Maine,Discount Stores,113.0,122.0,113.0,23
+2020-03-05,Maine,Beach,124.0,138.0,123.0,24
+2020-03-05,Maine,Airport,77.0,"",77.0,25
+2020-03-05,Maine,Residences,110.0,"",110.0,26
+2020-03-06,Maine,Food,53.0,51.0,53.0,1
+2020-03-06,Maine,Shops & Services,41.0,41.0,41.0,2
+2020-03-06,Maine,Grocery,99.0,97.0,99.0,3
+2020-03-06,Maine,Outdoors & Recreation,54.0,58.0,54.0,4
+2020-03-06,Maine,Nightlife Spots,59.0,64.0,59.0,5
+2020-03-06,Maine,Medical,58.0,60.0,58.0,6
+2020-03-06,Maine,Gas Stations,103.0,112.0,102.0,7
+2020-03-06,Maine,Convenience Store,104.0,101.0,104.0,8
+2020-03-06,Maine,Professional & Other Places,25.0,25.0,25.0,9
+2020-03-06,Maine,School,95.0,89.0,95.0,10
+2020-03-06,Maine,Big Box Stores,103.0,110.0,103.0,11
+2020-03-06,Maine,Fast Food Restaurants,117.0,140.0,116.0,12
+2020-03-06,Maine,Hotel,77.0,69.0,77.0,13
+2020-03-06,Maine,Colleges & Universities,112.0,134.0,112.0,14
+2020-03-06,Maine,Arts & Entertainment,89.0,93.0,89.0,15
+2020-03-06,Maine,Hardware Stores,105.0,103.0,105.0,16
+2020-03-06,Maine,Government,69.0,66.0,69.0,17
+2020-03-06,Maine,Drug Store,95.0,99.0,95.0,18
+2020-03-06,Maine,Travel & Transport,83.0,66.0,84.0,19
+2020-03-06,Maine,Office,83.0,"",84.0,20
+2020-03-06,Maine,Fitness Center,77.0,75.0,77.0,21
+2020-03-06,Maine,Banks,112.0,114.0,111.0,22
+2020-03-06,Maine,Skiing,71.0,86.0,70.0,23
+2020-03-06,Maine,Sports,41.0,50.0,40.0,24
+2020-03-06,Maine,Discount Stores,121.0,"",122.0,24
+2020-03-06,Maine,Airport,92.0,"",92.0,25
+2020-03-06,Maine,Beach,101.0,87.0,102.0,26
+2020-03-06,Maine,Residences,110.0,"",110.0,27
+2020-03-06,Maine,Alcohol,126.0,"",128.0,28
+2020-03-07,Maine,Food,46.0,44.0,46.0,1
+2020-03-07,Maine,Shops & Services,45.0,41.0,45.0,2
+2020-03-07,Maine,Grocery,97.0,94.0,98.0,3
+2020-03-07,Maine,Nightlife Spots,63.0,63.0,63.0,4
+2020-03-07,Maine,Outdoors & Recreation,43.0,42.0,43.0,5
+2020-03-07,Maine,Big Box Stores,101.0,102.0,100.0,6
+2020-03-07,Maine,Gas Stations,98.0,91.0,99.0,7
+2020-03-07,Maine,Convenience Store,92.0,87.0,93.0,8
+2020-03-07,Maine,Hotel,83.0,77.0,83.0,9
+2020-03-07,Maine,Arts & Entertainment,101.0,90.0,102.0,10
+2020-03-07,Maine,Fast Food Restaurants,98.0,114.0,98.0,11
+2020-03-07,Maine,Professional & Other Places,32.0,34.0,32.0,12
+2020-03-07,Maine,Hardware Stores,106.0,106.0,107.0,13
+2020-03-07,Maine,School,66.0,50.0,67.0,14
+2020-03-07,Maine,Medical,56.0,49.0,56.0,15
+2020-03-07,Maine,Skiing,65.0,80.0,64.0,16
+2020-03-07,Maine,Drug Store,94.0,87.0,95.0,17
+2020-03-07,Maine,Colleges & Universities,71.0,"",71.0,18
+2020-03-07,Maine,Travel & Transport,80.0,80.0,80.0,19
+2020-03-07,Maine,Government,61.0,"",61.0,20
+2020-03-07,Maine,Fitness Center,64.0,"",65.0,21
+2020-03-07,Maine,Discount Stores,101.0,154.0,99.0,22
+2020-03-07,Maine,Sports,36.0,"",36.0,23
+2020-03-07,Maine,Beach,84.0,"",84.0,24
+2020-03-07,Maine,Airport,84.0,"",83.0,25
+2020-03-07,Maine,Office,87.0,"",87.0,26
+2020-03-07,Maine,Alcohol,123.0,"",123.0,27
+2020-03-07,Maine,Banks,79.0,"",79.0,28
+2020-03-07,Maine,Residences,85.0,"",85.0,29
+2020-03-08,Maine,Food,51.0,48.0,51.0,1
+2020-03-08,Maine,Shops & Services,37.0,33.0,37.0,2
+2020-03-08,Maine,Grocery,98.0,89.0,98.0,3
+2020-03-08,Maine,Outdoors & Recreation,47.0,42.0,48.0,4
+2020-03-08,Maine,Nightlife Spots,61.0,69.0,61.0,5
+2020-03-08,Maine,Big Box Stores,99.0,99.0,99.0,6
+2020-03-08,Maine,Convenience Store,104.0,98.0,105.0,7
+2020-03-08,Maine,Gas Stations,100.0,106.0,100.0,8
+2020-03-08,Maine,Hotel,79.0,81.0,79.0,9
+2020-03-08,Maine,Fast Food Restaurants,111.0,97.0,111.0,10
+2020-03-08,Maine,Arts & Entertainment,98.0,82.0,98.0,10
+2020-03-08,Maine,Professional & Other Places,30.0,33.0,30.0,11
+2020-03-08,Maine,School,79.0,68.0,79.0,12
+2020-03-08,Maine,Hardware Stores,111.0,109.0,111.0,13
+2020-03-08,Maine,Medical,62.0,50.0,62.0,14
+2020-03-08,Maine,Colleges & Universities,109.0,"",109.0,15
+2020-03-08,Maine,Drug Store,107.0,101.0,108.0,16
+2020-03-08,Maine,Travel & Transport,89.0,"",90.0,17
+2020-03-08,Maine,Skiing,49.0,78.0,48.0,18
+2020-03-08,Maine,Beach,120.0,102.0,121.0,19
+2020-03-08,Maine,Sports,46.0,"",46.0,20
+2020-03-08,Maine,Government,74.0,"",75.0,21
+2020-03-08,Maine,Discount Stores,130.0,"",132.0,22
+2020-03-08,Maine,Fitness Center,68.0,"",68.0,23
+2020-03-08,Maine,Residences,91.0,"",92.0,24
+2020-03-08,Maine,Airport,73.0,"",71.0,25
+2020-03-08,Maine,Office,72.0,"",73.0,26
+2020-03-09,Maine,Food,48.0,46.0,48.0,1
+2020-03-09,Maine,Shops & Services,39.0,36.0,39.0,2
+2020-03-09,Maine,Grocery,99.0,95.0,99.0,3
+2020-03-09,Maine,Outdoors & Recreation,66.0,64.0,66.0,4
+2020-03-09,Maine,Medical,55.0,50.0,56.0,5
+2020-03-09,Maine,Gas Stations,100.0,88.0,101.0,6
+2020-03-09,Maine,Convenience Store,97.0,102.0,96.0,7
+2020-03-09,Maine,Professional & Other Places,25.0,24.0,25.0,8
+2020-03-09,Maine,Nightlife Spots,63.0,64.0,63.0,9
+2020-03-09,Maine,School,66.0,59.0,66.0,10
+2020-03-09,Maine,Big Box Stores,96.0,87.0,96.0,11
+2020-03-09,Maine,Colleges & Universities,82.0,97.0,82.0,12
+2020-03-09,Maine,Hotel,78.0,90.0,78.0,13
+2020-03-09,Maine,Fast Food Restaurants,100.0,88.0,101.0,14
+2020-03-09,Maine,Arts & Entertainment,94.0,97.0,94.0,15
+2020-03-09,Maine,Government,70.0,73.0,70.0,16
+2020-03-09,Maine,Hardware Stores,94.0,108.0,93.0,17
+2020-03-09,Maine,Drug Store,101.0,102.0,101.0,18
+2020-03-09,Maine,Office,92.0,94.0,92.0,19
+2020-03-09,Maine,Travel & Transport,78.0,80.0,78.0,20
+2020-03-09,Maine,Fitness Center,73.0,60.0,73.0,21
+2020-03-09,Maine,Beach,142.0,116.0,144.0,22
+2020-03-09,Maine,Sports,41.0,41.0,41.0,23
+2020-03-09,Maine,Banks,107.0,87.0,109.0,24
+2020-03-09,Maine,Discount Stores,94.0,"",95.0,25
+2020-03-09,Maine,Airport,82.0,"",82.0,26
+2020-03-09,Maine,Residences,100.0,"",98.0,27
+2020-03-09,Maine,Skiing,43.0,"",42.0,27
+2020-03-10,Maine,Food,50.0,49.0,50.0,1
+2020-03-10,Maine,Shops & Services,37.0,38.0,37.0,2
+2020-03-10,Maine,Grocery,103.0,99.0,104.0,3
+2020-03-10,Maine,Medical,53.0,49.0,53.0,4
+2020-03-10,Maine,Outdoors & Recreation,63.0,57.0,63.0,5
+2020-03-10,Maine,School,71.0,67.0,71.0,6
+2020-03-10,Maine,Gas Stations,92.0,90.0,93.0,7
+2020-03-10,Maine,Convenience Store,92.0,92.0,92.0,8
+2020-03-10,Maine,Professional & Other Places,21.0,22.0,21.0,9
+2020-03-10,Maine,Nightlife Spots,64.0,63.0,64.0,10
+2020-03-10,Maine,Colleges & Universities,81.0,78.0,81.0,11
+2020-03-10,Maine,Big Box Stores,100.0,91.0,100.0,12
+2020-03-10,Maine,Fast Food Restaurants,101.0,105.0,101.0,13
+2020-03-10,Maine,Hotel,70.0,66.0,70.0,14
+2020-03-10,Maine,Arts & Entertainment,74.0,67.0,75.0,15
+2020-03-10,Maine,Government,65.0,67.0,64.0,16
+2020-03-10,Maine,Hardware Stores,98.0,98.0,98.0,17
+2020-03-10,Maine,Office,90.0,81.0,91.0,18
+2020-03-10,Maine,Drug Store,100.0,99.0,100.0,19
+2020-03-10,Maine,Fitness Center,73.0,68.0,73.0,20
+2020-03-10,Maine,Travel & Transport,75.0,63.0,76.0,21
+2020-03-10,Maine,Sports,36.0,47.0,35.0,22
+2020-03-10,Maine,Banks,96.0,86.0,97.0,23
+2020-03-10,Maine,Discount Stores,92.0,"",92.0,24
+2020-03-10,Maine,Beach,101.0,105.0,101.0,25
+2020-03-10,Maine,Airport,72.0,"",72.0,26
+2020-03-10,Maine,Residences,96.0,"",96.0,27
+2020-03-10,Maine,Skiing,56.0,"",56.0,28
+2020-03-10,Maine,Alcohol,111.0,"",111.0,29
+2020-03-11,Maine,Food,47.0,44.0,47.0,1
+2020-03-11,Maine,Shops & Services,37.0,34.0,37.0,2
+2020-03-11,Maine,Grocery,95.0,102.0,95.0,3
+2020-03-11,Maine,Medical,49.0,48.0,49.0,4
+2020-03-11,Maine,Outdoors & Recreation,42.0,41.0,42.0,5
+2020-03-11,Maine,Gas Stations,91.0,84.0,91.0,6
+2020-03-11,Maine,Convenience Store,93.0,83.0,93.0,7
+2020-03-11,Maine,Nightlife Spots,74.0,75.0,74.0,8
+2020-03-11,Maine,School,65.0,54.0,65.0,9
+2020-03-11,Maine,Professional & Other Places,22.0,22.0,22.0,10
+2020-03-11,Maine,Big Box Stores,95.0,100.0,94.0,11
+2020-03-11,Maine,Colleges & Universities,78.0,90.0,78.0,12
+2020-03-11,Maine,Fast Food Restaurants,96.0,91.0,96.0,13
+2020-03-11,Maine,Hotel,70.0,64.0,70.0,14
+2020-03-11,Maine,Arts & Entertainment,91.0,83.0,92.0,15
+2020-03-11,Maine,Government,59.0,59.0,59.0,16
+2020-03-11,Maine,Hardware Stores,99.0,87.0,100.0,17
+2020-03-11,Maine,Drug Store,99.0,85.0,100.0,18
+2020-03-11,Maine,Office,85.0,77.0,86.0,19
+2020-03-11,Maine,Fitness Center,66.0,73.0,66.0,20
+2020-03-11,Maine,Travel & Transport,49.0,44.0,50.0,21
+2020-03-11,Maine,Sports,39.0,31.0,39.0,22
+2020-03-11,Maine,Banks,104.0,121.0,103.0,23
+2020-03-11,Maine,Discount Stores,105.0,103.0,106.0,24
+2020-03-11,Maine,Beach,102.0,108.0,101.0,25
+2020-03-11,Maine,Residences,93.0,"",93.0,26
+2020-03-11,Maine,Airport,64.0,"",62.0,27
+2020-03-12,Maine,Food,49.0,52.0,49.0,1
+2020-03-12,Maine,Shops & Services,39.0,42.0,39.0,2
+2020-03-12,Maine,Grocery,125.0,140.0,124.0,3
+2020-03-12,Maine,Medical,53.0,56.0,53.0,4
+2020-03-12,Maine,Outdoors & Recreation,50.0,46.0,50.0,5
+2020-03-12,Maine,Gas Stations,104.0,112.0,103.0,6
+2020-03-12,Maine,Convenience Store,107.0,118.0,106.0,7
+2020-03-12,Maine,Nightlife Spots,74.0,84.0,74.0,8
+2020-03-12,Maine,Big Box Stores,123.0,143.0,122.0,9
+2020-03-12,Maine,School,88.0,93.0,88.0,10
+2020-03-12,Maine,Professional & Other Places,27.0,32.0,27.0,11
+2020-03-12,Maine,Colleges & Universities,88.0,109.0,87.0,12
+2020-03-12,Maine,Fast Food Restaurants,110.0,105.0,110.0,13
+2020-03-12,Maine,Hotel,69.0,73.0,69.0,14
+2020-03-12,Maine,Arts & Entertainment,90.0,83.0,90.0,15
+2020-03-12,Maine,Drug Store,121.0,149.0,120.0,16
+2020-03-12,Maine,Hardware Stores,116.0,125.0,116.0,17
+2020-03-12,Maine,Government,63.0,49.0,64.0,18
+2020-03-12,Maine,Office,88.0,109.0,87.0,19
+2020-03-12,Maine,Travel & Transport,56.0,59.0,55.0,20
+2020-03-12,Maine,Fitness Center,63.0,62.0,63.0,21
+2020-03-12,Maine,Discount Stores,135.0,132.0,135.0,22
+2020-03-12,Maine,Banks,115.0,114.0,115.0,23
+2020-03-12,Maine,Sports,39.0,46.0,38.0,24
+2020-03-12,Maine,Beach,108.0,107.0,108.0,25
+2020-03-12,Maine,Airport,66.0,"",65.0,26
+2020-03-12,Maine,Residences,95.0,"",92.0,27
+2020-03-12,Maine,Skiing,51.0,"",49.0,28
+2020-03-13,Maine,Food,46.0,44.0,46.0,1
+2020-03-13,Maine,Shops & Services,36.0,33.0,37.0,2
+2020-03-13,Maine,Grocery,138.0,126.0,139.0,3
+2020-03-13,Maine,Medical,54.0,54.0,54.0,4
+2020-03-13,Maine,Outdoors & Recreation,47.0,46.0,47.0,5
+2020-03-13,Maine,Big Box Stores,130.0,121.0,130.0,6
+2020-03-13,Maine,Nightlife Spots,56.0,56.0,56.0,7
+2020-03-13,Maine,Convenience Store,97.0,93.0,97.0,8
+2020-03-13,Maine,Gas Stations,95.0,90.0,95.0,9
+2020-03-13,Maine,Professional & Other Places,23.0,24.0,23.0,10
+2020-03-13,Maine,School,74.0,71.0,74.0,11
+2020-03-13,Maine,Fast Food Restaurants,100.0,104.0,100.0,12
+2020-03-13,Maine,Hotel,64.0,51.0,65.0,13
+2020-03-13,Maine,Colleges & Universities,96.0,130.0,95.0,14
+2020-03-13,Maine,Drug Store,116.0,104.0,117.0,15
+2020-03-13,Maine,Hardware Stores,116.0,110.0,117.0,16
+2020-03-13,Maine,Arts & Entertainment,65.0,62.0,65.0,17
+2020-03-13,Maine,Government,60.0,47.0,61.0,18
+2020-03-13,Maine,Travel & Transport,76.0,59.0,77.0,19
+2020-03-13,Maine,Office,86.0,82.0,86.0,20
+2020-03-13,Maine,Fitness Center,61.0,"",61.0,21
+2020-03-13,Maine,Banks,99.0,77.0,100.0,22
+2020-03-13,Maine,Discount Stores,123.0,100.0,124.0,23
+2020-03-13,Maine,Sports,36.0,"",36.0,24
+2020-03-13,Maine,Beach,99.0,106.0,98.0,25
+2020-03-13,Maine,Residences,98.0,"",98.0,26
+2020-03-14,Maine,Food,42.0,40.0,42.0,1
+2020-03-14,Maine,Shops & Services,32.0,28.0,33.0,2
+2020-03-14,Maine,Grocery,131.0,115.0,132.0,3
+2020-03-14,Maine,Outdoors & Recreation,55.0,55.0,55.0,4
+2020-03-14,Maine,Nightlife Spots,52.0,46.0,52.0,5
+2020-03-14,Maine,Big Box Stores,106.0,109.0,106.0,6
+2020-03-14,Maine,Convenience Store,91.0,87.0,92.0,7
+2020-03-14,Maine,Gas Stations,94.0,91.0,95.0,7
+2020-03-14,Maine,Hotel,70.0,63.0,70.0,8
+2020-03-14,Maine,Hardware Stores,128.0,115.0,129.0,9
+2020-03-14,Maine,Fast Food Restaurants,88.0,96.0,88.0,10
+2020-03-14,Maine,Professional & Other Places,35.0,30.0,35.0,11
+2020-03-14,Maine,Arts & Entertainment,70.0,58.0,70.0,12
+2020-03-14,Maine,Medical,51.0,47.0,52.0,13
+2020-03-14,Maine,Drug Store,113.0,105.0,114.0,14
+2020-03-14,Maine,School,41.0,39.0,41.0,15
+2020-03-14,Maine,Travel & Transport,46.0,42.0,46.0,16
+2020-03-14,Maine,Colleges & Universities,56.0,"",56.0,17
+2020-03-14,Maine,Beach,140.0,109.0,141.0,18
+2020-03-14,Maine,Discount Stores,120.0,119.0,120.0,19
+2020-03-14,Maine,Government,61.0,"",61.0,20
+2020-03-14,Maine,Skiing,26.0,"",26.0,21
+2020-03-14,Maine,Fitness Center,58.0,"",59.0,22
+2020-03-14,Maine,Sports,37.0,"",37.0,23
+2020-03-14,Maine,Alcohol,140.0,"",140.0,24
+2020-03-14,Maine,Banks,86.0,"",88.0,25
+2020-03-14,Maine,Office,66.0,"",66.0,26
+2020-03-15,Maine,Food,40.0,38.0,41.0,1
+2020-03-15,Maine,Shops & Services,40.0,34.0,40.0,2
+2020-03-15,Maine,Grocery,108.0,100.0,109.0,3
+2020-03-15,Maine,Outdoors & Recreation,50.0,45.0,51.0,4
+2020-03-15,Maine,Nightlife Spots,46.0,50.0,46.0,5
+2020-03-15,Maine,Big Box Stores,97.0,91.0,97.0,6
+2020-03-15,Maine,Gas Stations,98.0,87.0,98.0,7
+2020-03-15,Maine,Convenience Store,93.0,86.0,93.0,8
+2020-03-15,Maine,Hotel,55.0,48.0,55.0,9
+2020-03-15,Maine,Hardware Stores,119.0,117.0,119.0,10
+2020-03-15,Maine,Fast Food Restaurants,75.0,71.0,75.0,11
+2020-03-15,Maine,Arts & Entertainment,65.0,65.0,65.0,12
+2020-03-15,Maine,Professional & Other Places,23.0,15.0,24.0,13
+2020-03-15,Maine,Drug Store,110.0,98.0,110.0,14
+2020-03-15,Maine,Skiing,50.0,"",50.0,15
+2020-03-15,Maine,Medical,46.0,41.0,46.0,16
+2020-03-15,Maine,School,52.0,"",53.0,17
+2020-03-15,Maine,Travel & Transport,44.0,"",44.0,18
+2020-03-15,Maine,Beach,108.0,86.0,110.0,19
+2020-03-15,Maine,Colleges & Universities,68.0,"",68.0,20
+2020-03-15,Maine,Discount Stores,115.0,"",115.0,21
+2020-03-15,Maine,Government,57.0,"",58.0,22
+2020-03-15,Maine,Fitness Center,52.0,"",52.0,23
+2020-03-15,Maine,Sports,38.0,"",38.0,24
+2020-03-15,Maine,Residences,91.0,"",90.0,25
+2020-03-16,Maine,Food,37.0,34.0,38.0,1
+2020-03-16,Maine,Shops & Services,35.0,31.0,35.0,2
+2020-03-16,Maine,Grocery,127.0,122.0,127.0,3
+2020-03-16,Maine,Outdoors & Recreation,48.0,44.0,48.0,4
+2020-03-16,Maine,Medical,48.0,41.0,49.0,5
+2020-03-16,Maine,Gas Stations,88.0,89.0,88.0,6
+2020-03-16,Maine,Big Box Stores,111.0,100.0,111.0,7
+2020-03-16,Maine,Convenience Store,86.0,89.0,86.0,8
+2020-03-16,Maine,Professional & Other Places,21.0,20.0,21.0,9
+2020-03-16,Maine,Nightlife Spots,47.0,49.0,47.0,10
+2020-03-16,Maine,Hotel,59.0,62.0,58.0,11
+2020-03-16,Maine,Fast Food Restaurants,86.0,97.0,85.0,12
+2020-03-16,Maine,School,37.0,44.0,36.0,13
+2020-03-16,Maine,Drug Store,116.0,127.0,116.0,14
+2020-03-16,Maine,Hardware Stores,97.0,96.0,97.0,15
+2020-03-16,Maine,Arts & Entertainment,74.0,65.0,74.0,16
+2020-03-16,Maine,Government,58.0,57.0,58.0,17
+2020-03-16,Maine,Colleges & Universities,41.0,69.0,40.0,18
+2020-03-16,Maine,Travel & Transport,39.0,34.0,39.0,19
+2020-03-16,Maine,Office,77.0,85.0,76.0,20
+2020-03-16,Maine,Discount Stores,123.0,113.0,123.0,21
+2020-03-16,Maine,Fitness Center,46.0,"",46.0,22
+2020-03-16,Maine,Banks,106.0,114.0,105.0,23
+2020-03-16,Maine,Sports,36.0,"",36.0,24
+2020-03-16,Maine,Beach,107.0,74.0,110.0,25
+2020-03-17,Maine,Food,39.0,34.0,40.0,1
+2020-03-17,Maine,Shops & Services,29.0,24.0,29.0,2
+2020-03-17,Maine,Grocery,112.0,94.0,114.0,3
+2020-03-17,Maine,Outdoors & Recreation,42.0,45.0,42.0,4
+2020-03-17,Maine,Medical,31.0,24.0,32.0,5
+2020-03-17,Maine,Gas Stations,80.0,70.0,80.0,6
+2020-03-17,Maine,Convenience Store,74.0,63.0,74.0,7
+2020-03-17,Maine,Big Box Stores,101.0,82.0,102.0,8
+2020-03-17,Maine,Professional & Other Places,18.0,18.0,18.0,9
+2020-03-17,Maine,Nightlife Spots,38.0,32.0,38.0,10
+2020-03-17,Maine,Fast Food Restaurants,70.0,59.0,70.0,11
+2020-03-17,Maine,Hotel,49.0,39.0,49.0,12
+2020-03-17,Maine,Hardware Stores,90.0,76.0,91.0,13
+2020-03-17,Maine,Drug Store,98.0,81.0,99.0,14
+2020-03-17,Maine,School,27.0,29.0,27.0,15
+2020-03-17,Maine,Arts & Entertainment,51.0,52.0,51.0,16
+2020-03-17,Maine,Government,44.0,34.0,45.0,17
+2020-03-17,Maine,Colleges & Universities,34.0,"",33.0,18
+2020-03-17,Maine,Office,54.0,54.0,54.0,19
+2020-03-17,Maine,Travel & Transport,64.0,68.0,64.0,20
+2020-03-17,Maine,Banks,85.0,"",86.0,21
+2020-03-17,Maine,Discount Stores,85.0,"",86.0,22
+2020-03-17,Maine,Sports,25.0,"",24.0,23
+2020-03-17,Maine,Fitness Center,25.0,"",26.0,24
+2020-03-17,Maine,Beach,79.0,"",79.0,25
+2020-03-18,Maine,Food,32.0,29.0,33.0,1
+2020-03-18,Maine,Shops & Services,27.0,24.0,27.0,2
+2020-03-18,Maine,Grocery,93.0,81.0,94.0,3
+2020-03-18,Maine,Outdoors & Recreation,44.0,40.0,45.0,4
+2020-03-18,Maine,Gas Stations,79.0,81.0,79.0,5
+2020-03-18,Maine,Medical,32.0,28.0,32.0,6
+2020-03-18,Maine,Convenience Store,76.0,79.0,76.0,7
+2020-03-18,Maine,Big Box Stores,89.0,77.0,89.0,8
+2020-03-18,Maine,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-18,Maine,Nightlife Spots,37.0,35.0,37.0,10
+2020-03-18,Maine,Hotel,52.0,43.0,52.0,11
+2020-03-18,Maine,Fast Food Restaurants,61.0,56.0,62.0,12
+2020-03-18,Maine,School,28.0,33.0,28.0,13
+2020-03-18,Maine,Hardware Stores,84.0,80.0,84.0,14
+2020-03-18,Maine,Drug Store,84.0,74.0,84.0,15
+2020-03-18,Maine,Arts & Entertainment,56.0,53.0,56.0,16
+2020-03-18,Maine,Government,43.0,32.0,44.0,16
+2020-03-18,Maine,Colleges & Universities,32.0,64.0,31.0,17
+2020-03-18,Maine,Travel & Transport,66.0,59.0,67.0,18
+2020-03-18,Maine,Beach,149.0,144.0,149.0,19
+2020-03-18,Maine,Office,51.0,"",51.0,20
+2020-03-18,Maine,Sports,31.0,32.0,31.0,21
+2020-03-18,Maine,Discount Stores,72.0,"",73.0,22
+2020-03-18,Maine,Fitness Center,24.0,"",25.0,23
+2020-03-18,Maine,Banks,59.0,"",58.0,24
+2020-03-19,Maine,Food,28.0,28.0,28.0,1
+2020-03-19,Maine,Shops & Services,26.0,23.0,26.0,2
+2020-03-19,Maine,Grocery,97.0,99.0,97.0,3
+2020-03-19,Maine,Outdoors & Recreation,40.0,46.0,39.0,4
+2020-03-19,Maine,Gas Stations,77.0,72.0,78.0,5
+2020-03-19,Maine,Big Box Stores,93.0,105.0,92.0,6
+2020-03-19,Maine,Convenience Store,73.0,65.0,73.0,6
+2020-03-19,Maine,Medical,30.0,30.0,30.0,7
+2020-03-19,Maine,Professional & Other Places,18.0,18.0,19.0,8
+2020-03-19,Maine,Nightlife Spots,28.0,32.0,28.0,9
+2020-03-19,Maine,Fast Food Restaurants,68.0,68.0,68.0,10
+2020-03-19,Maine,Hardware Stores,94.0,108.0,93.0,11
+2020-03-19,Maine,Hotel,44.0,44.0,44.0,12
+2020-03-19,Maine,Drug Store,83.0,105.0,82.0,13
+2020-03-19,Maine,School,34.0,47.0,33.0,14
+2020-03-19,Maine,Government,44.0,33.0,44.0,15
+2020-03-19,Maine,Arts & Entertainment,51.0,55.0,51.0,16
+2020-03-19,Maine,Travel & Transport,66.0,82.0,66.0,17
+2020-03-19,Maine,Office,57.0,"",58.0,18
+2020-03-19,Maine,Colleges & Universities,30.0,"",29.0,19
+2020-03-19,Maine,Discount Stores,79.0,"",80.0,20
+2020-03-19,Maine,Banks,81.0,"",82.0,21
+2020-03-19,Maine,Sports,27.0,"",27.0,22
+2020-03-19,Maine,Beach,83.0,"",85.0,22
+2020-03-20,Maine,Food,27.0,26.0,27.0,1
+2020-03-20,Maine,Shops & Services,25.0,22.0,26.0,2
+2020-03-20,Maine,Grocery,104.0,96.0,104.0,3
+2020-03-20,Maine,Outdoors & Recreation,41.0,41.0,41.0,4
+2020-03-20,Maine,Big Box Stores,93.0,82.0,94.0,5
+2020-03-20,Maine,Gas Stations,75.0,66.0,76.0,6
+2020-03-20,Maine,Convenience Store,74.0,77.0,74.0,7
+2020-03-20,Maine,Medical,32.0,25.0,33.0,8
+2020-03-20,Maine,Professional & Other Places,14.0,15.0,14.0,9
+2020-03-20,Maine,Nightlife Spots,29.0,36.0,29.0,10
+2020-03-20,Maine,Fast Food Restaurants,78.0,70.0,79.0,11
+2020-03-20,Maine,Hardware Stores,99.0,88.0,99.0,12
+2020-03-20,Maine,Hotel,39.0,35.0,39.0,13
+2020-03-20,Maine,Drug Store,84.0,84.0,84.0,14
+2020-03-20,Maine,School,33.0,46.0,32.0,15
+2020-03-20,Maine,Arts & Entertainment,55.0,68.0,54.0,16
+2020-03-20,Maine,Government,45.0,38.0,45.0,17
+2020-03-20,Maine,Travel & Transport,52.0,46.0,52.0,18
+2020-03-20,Maine,Office,60.0,"",60.0,19
+2020-03-20,Maine,Colleges & Universities,30.0,"",29.0,20
+2020-03-20,Maine,Beach,132.0,"",137.0,21
+2020-03-20,Maine,Banks,76.0,"",77.0,22
+2020-03-20,Maine,Discount Stores,87.0,"",88.0,23
+2020-03-20,Maine,Sports,25.0,"",26.0,24
+2020-03-21,Maine,Food,23.0,22.0,23.0,1
+2020-03-21,Maine,Shops & Services,21.0,20.0,21.0,2
+2020-03-21,Maine,Grocery,92.0,80.0,93.0,3
+2020-03-21,Maine,Outdoors & Recreation,40.0,42.0,40.0,4
+2020-03-21,Maine,Big Box Stores,74.0,64.0,74.0,5
+2020-03-21,Maine,Gas Stations,78.0,82.0,78.0,6
+2020-03-21,Maine,Convenience Store,71.0,72.0,71.0,7
+2020-03-21,Maine,Nightlife Spots,22.0,27.0,22.0,8
+2020-03-21,Maine,Hardware Stores,90.0,79.0,90.0,9
+2020-03-21,Maine,Fast Food Restaurants,63.0,68.0,63.0,10
+2020-03-21,Maine,Professional & Other Places,17.0,16.0,17.0,11
+2020-03-21,Maine,Medical,36.0,29.0,37.0,12
+2020-03-21,Maine,Beach,175.0,136.0,178.0,13
+2020-03-21,Maine,Hotel,31.0,36.0,31.0,14
+2020-03-21,Maine,Drug Store,73.0,65.0,74.0,15
+2020-03-21,Maine,Arts & Entertainment,41.0,"",41.0,16
+2020-03-21,Maine,School,31.0,"",31.0,17
+2020-03-21,Maine,Travel & Transport,33.0,"",33.0,18
+2020-03-21,Maine,Discount Stores,85.0,"",86.0,19
+2020-03-21,Maine,Government,51.0,"",51.0,20
+2020-03-21,Maine,Sports,40.0,"",40.0,21
+2020-03-21,Maine,Colleges & Universities,38.0,"",37.0,22
+2020-03-22,Maine,Food,21.0,19.0,21.0,1
+2020-03-22,Maine,Shops & Services,22.0,20.0,22.0,2
+2020-03-22,Maine,Grocery,73.0,72.0,73.0,3
+2020-03-22,Maine,Outdoors & Recreation,39.0,41.0,39.0,4
+2020-03-22,Maine,Big Box Stores,67.0,65.0,67.0,5
+2020-03-22,Maine,Convenience Store,68.0,66.0,68.0,6
+2020-03-22,Maine,Gas Stations,69.0,58.0,70.0,7
+2020-03-22,Maine,Nightlife Spots,19.0,22.0,18.0,8
+2020-03-22,Maine,Fast Food Restaurants,63.0,62.0,63.0,9
+2020-03-22,Maine,Hardware Stores,88.0,73.0,89.0,10
+2020-03-22,Maine,Professional & Other Places,16.0,14.0,16.0,11
+2020-03-22,Maine,Hotel,31.0,30.0,32.0,12
+2020-03-22,Maine,Beach,120.0,88.0,122.0,13
+2020-03-22,Maine,Medical,34.0,"",34.0,14
+2020-03-22,Maine,School,41.0,"",41.0,15
+2020-03-22,Maine,Arts & Entertainment,45.0,51.0,45.0,16
+2020-03-22,Maine,Drug Store,63.0,71.0,62.0,17
+2020-03-22,Maine,Travel & Transport,55.0,"",55.0,18
+2020-03-22,Maine,Government,48.0,"",48.0,19
+2020-03-22,Maine,Colleges & Universities,42.0,"",42.0,20
+2020-03-22,Maine,Discount Stores,68.0,"",69.0,21
+2020-03-23,Maine,Food,27.0,23.0,28.0,1
+2020-03-23,Maine,Shops & Services,21.0,19.0,21.0,2
+2020-03-23,Maine,Grocery,87.0,82.0,87.0,3
+2020-03-23,Maine,Outdoors & Recreation,35.0,32.0,35.0,4
+2020-03-23,Maine,Gas Stations,75.0,72.0,75.0,5
+2020-03-23,Maine,Medical,31.0,23.0,32.0,6
+2020-03-23,Maine,Convenience Store,69.0,65.0,69.0,7
+2020-03-23,Maine,Big Box Stores,75.0,62.0,75.0,8
+2020-03-23,Maine,Professional & Other Places,14.0,13.0,14.0,9
+2020-03-23,Maine,Nightlife Spots,33.0,42.0,32.0,10
+2020-03-23,Maine,Hardware Stores,87.0,77.0,88.0,11
+2020-03-23,Maine,Fast Food Restaurants,61.0,51.0,62.0,12
+2020-03-23,Maine,Hotel,41.0,39.0,41.0,13
+2020-03-23,Maine,School,23.0,26.0,23.0,14
+2020-03-23,Maine,Drug Store,73.0,70.0,73.0,15
+2020-03-23,Maine,Arts & Entertainment,59.0,46.0,60.0,16
+2020-03-23,Maine,Government,45.0,35.0,45.0,17
+2020-03-23,Maine,Travel & Transport,58.0,52.0,58.0,18
+2020-03-23,Maine,Office,58.0,"",59.0,19
+2020-03-23,Maine,Colleges & Universities,35.0,"",34.0,20
+2020-03-23,Maine,Beach,86.0,96.0,85.0,21
+2020-03-23,Maine,Banks,73.0,"",75.0,22
+2020-03-23,Maine,Discount Stores,72.0,"",74.0,23
+2020-03-23,Maine,Sports,27.0,"",27.0,24
+2020-03-24,Maine,Food,28.0,23.0,29.0,1
+2020-03-24,Maine,Shops & Services,26.0,22.0,26.0,2
+2020-03-24,Maine,Grocery,73.0,64.0,74.0,3
+2020-03-24,Maine,Outdoors & Recreation,34.0,33.0,34.0,4
+2020-03-24,Maine,Gas Stations,65.0,53.0,65.0,5
+2020-03-24,Maine,Convenience Store,64.0,51.0,64.0,6
+2020-03-24,Maine,Medical,25.0,20.0,25.0,7
+2020-03-24,Maine,Professional & Other Places,12.0,11.0,12.0,8
+2020-03-24,Maine,Big Box Stores,67.0,55.0,68.0,9
+2020-03-24,Maine,Nightlife Spots,37.0,36.0,38.0,10
+2020-03-24,Maine,Hotel,41.0,40.0,41.0,11
+2020-03-24,Maine,Fast Food Restaurants,56.0,49.0,56.0,12
+2020-03-24,Maine,School,21.0,22.0,21.0,13
+2020-03-24,Maine,Hardware Stores,65.0,54.0,66.0,14
+2020-03-24,Maine,Drug Store,67.0,65.0,67.0,15
+2020-03-24,Maine,Arts & Entertainment,58.0,54.0,58.0,16
+2020-03-24,Maine,Government,38.0,"",39.0,17
+2020-03-24,Maine,Office,47.0,"",48.0,18
+2020-03-24,Maine,Travel & Transport,48.0,"",49.0,19
+2020-03-24,Maine,Colleges & Universities,26.0,"",25.0,20
+2020-03-24,Maine,Beach,90.0,87.0,90.0,21
+2020-03-24,Maine,Sports,28.0,"",28.0,22
+2020-03-24,Maine,Banks,52.0,"",52.0,23
+2020-03-24,Maine,Discount Stores,58.0,"",59.0,24
+2020-03-25,Maine,Food,22.0,20.0,22.0,1
+2020-03-25,Maine,Shops & Services,17.0,14.0,17.0,2
+2020-03-25,Maine,Grocery,71.0,69.0,71.0,3
+2020-03-25,Maine,Outdoors & Recreation,31.0,30.0,31.0,4
+2020-03-25,Maine,Gas Stations,59.0,54.0,59.0,5
+2020-03-25,Maine,Convenience Store,59.0,48.0,60.0,6
+2020-03-25,Maine,Medical,23.0,19.0,24.0,7
+2020-03-25,Maine,Big Box Stores,65.0,57.0,65.0,8
+2020-03-25,Maine,Professional & Other Places,11.0,12.0,11.0,9
+2020-03-25,Maine,Nightlife Spots,27.0,31.0,27.0,10
+2020-03-25,Maine,Fast Food Restaurants,54.0,45.0,54.0,11
+2020-03-25,Maine,Hotel,36.0,33.0,36.0,12
+2020-03-25,Maine,Hardware Stores,64.0,52.0,65.0,13
+2020-03-25,Maine,School,21.0,29.0,20.0,14
+2020-03-25,Maine,Drug Store,60.0,62.0,60.0,15
+2020-03-25,Maine,Government,34.0,28.0,34.0,16
+2020-03-25,Maine,Arts & Entertainment,38.0,41.0,38.0,17
+2020-03-25,Maine,Office,47.0,"",47.0,18
+2020-03-25,Maine,Travel & Transport,49.0,"",49.0,19
+2020-03-25,Maine,Beach,120.0,128.0,119.0,20
+2020-03-25,Maine,Colleges & Universities,22.0,"",22.0,21
+2020-03-25,Maine,Sports,26.0,"",26.0,22
+2020-03-25,Maine,Discount Stores,64.0,"",65.0,23
+2020-03-25,Maine,Banks,51.0,"",50.0,24
+2020-03-26,Maine,Food,27.0,28.0,27.0,1
+2020-03-26,Maine,Shops & Services,41.0,41.0,41.0,2
+2020-03-26,Maine,Grocery,81.0,83.0,81.0,3
+2020-03-26,Maine,Outdoors & Recreation,52.0,58.0,52.0,4
+2020-03-26,Maine,Gas Stations,74.0,68.0,74.0,5
+2020-03-26,Maine,Convenience Store,76.0,81.0,76.0,6
+2020-03-26,Maine,Medical,27.0,23.0,27.0,7
+2020-03-26,Maine,Big Box Stores,74.0,74.0,74.0,8
+2020-03-26,Maine,Professional & Other Places,17.0,18.0,17.0,9
+2020-03-26,Maine,Nightlife Spots,27.0,27.0,27.0,10
+2020-03-26,Maine,Fast Food Restaurants,69.0,60.0,70.0,11
+2020-03-26,Maine,Hardware Stores,85.0,97.0,84.0,12
+2020-03-26,Maine,Hotel,39.0,46.0,38.0,13
+2020-03-26,Maine,School,33.0,46.0,33.0,14
+2020-03-26,Maine,Drug Store,71.0,78.0,70.0,15
+2020-03-26,Maine,Arts & Entertainment,57.0,51.0,57.0,16
+2020-03-26,Maine,Government,40.0,35.0,41.0,17
+2020-03-26,Maine,Travel & Transport,54.0,54.0,54.0,18
+2020-03-26,Maine,Colleges & Universities,28.0,72.0,27.0,19
+2020-03-26,Maine,Beach,132.0,113.0,134.0,20
+2020-03-26,Maine,Office,47.0,"",46.0,21
+2020-03-26,Maine,Sports,32.0,"",31.0,22
+2020-03-26,Maine,Banks,77.0,"",77.0,23
+2020-03-26,Maine,Discount Stores,68.0,"",68.0,24
+2020-03-27,Maine,Food,24.0,24.0,24.0,1
+2020-03-27,Maine,Shops & Services,21.0,19.0,21.0,2
+2020-03-27,Maine,Grocery,78.0,69.0,79.0,3
+2020-03-27,Maine,Outdoors & Recreation,41.0,41.0,41.0,4
+2020-03-27,Maine,Gas Stations,75.0,74.0,75.0,5
+2020-03-27,Maine,Convenience Store,65.0,62.0,66.0,6
+2020-03-27,Maine,Big Box Stores,76.0,69.0,76.0,7
+2020-03-27,Maine,Medical,29.0,28.0,29.0,8
+2020-03-27,Maine,Professional & Other Places,14.0,13.0,14.0,9
+2020-03-27,Maine,Nightlife Spots,25.0,27.0,25.0,10
+2020-03-27,Maine,Fast Food Restaurants,61.0,62.0,61.0,11
+2020-03-27,Maine,Hardware Stores,84.0,79.0,84.0,12
+2020-03-27,Maine,Hotel,33.0,39.0,33.0,13
+2020-03-27,Maine,Drug Store,67.0,74.0,67.0,14
+2020-03-27,Maine,School,29.0,30.0,29.0,15
+2020-03-27,Maine,Arts & Entertainment,54.0,69.0,53.0,16
+2020-03-27,Maine,Government,42.0,34.0,42.0,17
+2020-03-27,Maine,Travel & Transport,51.0,"",51.0,18
+2020-03-27,Maine,Beach,147.0,127.0,149.0,19
+2020-03-27,Maine,Office,51.0,"",51.0,20
+2020-03-27,Maine,Sports,45.0,"",44.0,21
+2020-03-27,Maine,Colleges & Universities,31.0,"",30.0,22
+2020-03-27,Maine,Banks,60.0,"",60.0,23
+2020-03-27,Maine,Discount Stores,58.0,"",59.0,24
+2020-03-28,Maine,Food,23.0,22.0,23.0,1
+2020-03-28,Maine,Shops & Services,29.0,22.0,29.0,2
+2020-03-28,Maine,Grocery,76.0,66.0,76.0,3
+2020-03-28,Maine,Outdoors & Recreation,36.0,38.0,36.0,4
+2020-03-28,Maine,Gas Stations,73.0,73.0,73.0,5
+2020-03-28,Maine,Big Box Stores,61.0,45.0,61.0,6
+2020-03-28,Maine,Convenience Store,65.0,62.0,65.0,7
+2020-03-28,Maine,Nightlife Spots,22.0,27.0,21.0,8
+2020-03-28,Maine,Hardware Stores,87.0,77.0,88.0,9
+2020-03-28,Maine,Professional & Other Places,20.0,19.0,20.0,10
+2020-03-28,Maine,Fast Food Restaurants,59.0,56.0,59.0,11
+2020-03-28,Maine,Medical,33.0,26.0,33.0,12
+2020-03-28,Maine,Hotel,29.0,37.0,29.0,13
+2020-03-28,Maine,Arts & Entertainment,32.0,"",32.0,14
+2020-03-28,Maine,School,32.0,"",31.0,15
+2020-03-28,Maine,Drug Store,61.0,"",61.0,16
+2020-03-28,Maine,Travel & Transport,56.0,73.0,55.0,17
+2020-03-28,Maine,Beach,99.0,96.0,100.0,18
+2020-03-28,Maine,Government,54.0,"",54.0,19
+2020-03-28,Maine,Sports,31.0,"",31.0,20
+2020-03-28,Maine,Colleges & Universities,40.0,"",40.0,21
+2020-03-28,Maine,Discount Stores,59.0,"",59.0,22
+2020-03-29,Maine,Food,19.0,17.0,19.0,1
+2020-03-29,Maine,Grocery,55.0,52.0,55.0,2
+2020-03-29,Maine,Shops & Services,15.0,14.0,15.0,3
+2020-03-29,Maine,Outdoors & Recreation,26.0,29.0,26.0,4
+2020-03-29,Maine,Big Box Stores,55.0,51.0,56.0,5
+2020-03-29,Maine,Gas Stations,51.0,48.0,51.0,6
+2020-03-29,Maine,Convenience Store,45.0,49.0,44.0,7
+2020-03-29,Maine,Fast Food Restaurants,48.0,52.0,48.0,8
+2020-03-29,Maine,Hardware Stores,66.0,56.0,66.0,9
+2020-03-29,Maine,Nightlife Spots,18.0,"",18.0,10
+2020-03-29,Maine,Professional & Other Places,22.0,"",22.0,11
+2020-03-29,Maine,Medical,24.0,"",24.0,12
+2020-03-29,Maine,Drug Store,47.0,"",47.0,13
+2020-03-29,Maine,Arts & Entertainment,37.0,"",37.0,14
+2020-03-29,Maine,School,27.0,"",27.0,15
+2020-03-29,Maine,Hotel,15.0,"",15.0,16
+2020-03-29,Maine,Travel & Transport,35.0,"",36.0,17
+2020-03-29,Maine,Government,39.0,"",40.0,17
+2020-03-30,Maine,Food,23.0,22.0,23.0,1
+2020-03-30,Maine,Shops & Services,17.0,14.0,17.0,2
+2020-03-30,Maine,Grocery,62.0,54.0,63.0,3
+2020-03-30,Maine,Outdoors & Recreation,31.0,29.0,31.0,4
+2020-03-30,Maine,Medical,24.0,19.0,24.0,5
+2020-03-30,Maine,Convenience Store,51.0,45.0,51.0,6
+2020-03-30,Maine,Gas Stations,50.0,45.0,50.0,7
+2020-03-30,Maine,Big Box Stores,57.0,49.0,58.0,8
+2020-03-30,Maine,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-30,Maine,Nightlife Spots,27.0,29.0,26.0,10
+2020-03-30,Maine,Fast Food Restaurants,52.0,39.0,52.0,11
+2020-03-30,Maine,Hardware Stores,61.0,47.0,62.0,12
+2020-03-30,Maine,School,20.0,23.0,20.0,13
+2020-03-30,Maine,Hotel,26.0,23.0,26.0,14
+2020-03-30,Maine,Drug Store,54.0,56.0,54.0,14
+2020-03-30,Maine,Arts & Entertainment,36.0,"",37.0,15
+2020-03-30,Maine,Government,32.0,"",32.0,16
+2020-03-30,Maine,Office,42.0,"",42.0,17
+2020-03-30,Maine,Travel & Transport,52.0,"",52.0,18
+2020-03-30,Maine,Colleges & Universities,20.0,"",20.0,19
+2020-03-30,Maine,Banks,55.0,"",55.0,20
+2020-03-31,Maine,Food,24.0,21.0,24.0,1
+2020-03-31,Maine,Shops & Services,18.0,16.0,18.0,2
+2020-03-31,Maine,Grocery,78.0,75.0,78.0,3
+2020-03-31,Maine,Outdoors & Recreation,32.0,37.0,32.0,4
+2020-03-31,Maine,Gas Stations,60.0,56.0,60.0,5
+2020-03-31,Maine,Medical,23.0,19.0,23.0,6
+2020-03-31,Maine,Convenience Store,56.0,58.0,55.0,7
+2020-03-31,Maine,Big Box Stores,69.0,70.0,69.0,8
+2020-03-31,Maine,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-31,Maine,Nightlife Spots,30.0,33.0,30.0,10
+2020-03-31,Maine,Hardware Stores,76.0,73.0,77.0,11
+2020-03-31,Maine,Fast Food Restaurants,57.0,49.0,58.0,12
+2020-03-31,Maine,School,21.0,23.0,21.0,13
+2020-03-31,Maine,Drug Store,67.0,51.0,68.0,14
+2020-03-31,Maine,Hotel,32.0,30.0,32.0,15
+2020-03-31,Maine,Government,33.0,31.0,33.0,16
+2020-03-31,Maine,Arts & Entertainment,45.0,"",45.0,17
+2020-03-31,Maine,Travel & Transport,49.0,"",49.0,18
+2020-03-31,Maine,Office,35.0,"",35.0,19
+2020-03-31,Maine,Colleges & Universities,23.0,"",22.0,20
+2020-03-31,Maine,Banks,64.0,"",66.0,21
+2020-03-31,Maine,Beach,79.0,"",79.0,22
+2020-03-31,Maine,Sports,26.0,"",25.0,23

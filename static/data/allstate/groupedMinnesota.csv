@@ -1,0 +1,958 @@
+2020-03-01,Minnesota,Food,52.0,53.0,52.0,1
+2020-03-01,Minnesota,Shops & Services,39.0,38.0,39.0,2
+2020-03-01,Minnesota,Nightlife Spots,58.0,59.0,58.0,3
+2020-03-01,Minnesota,Outdoors & Recreation,51.0,51.0,51.0,4
+2020-03-01,Minnesota,Grocery,98.0,97.0,98.0,5
+2020-03-01,Minnesota,Big Box Stores,106.0,107.0,106.0,6
+2020-03-01,Minnesota,Gas Stations,104.0,109.0,104.0,7
+2020-03-01,Minnesota,Arts & Entertainment,60.0,65.0,60.0,8
+2020-03-01,Minnesota,Fast Food Restaurants,109.0,113.0,109.0,9
+2020-03-01,Minnesota,Professional & Other Places,22.0,18.0,22.0,10
+2020-03-01,Minnesota,School,60.0,66.0,60.0,11
+2020-03-01,Minnesota,Airport,60.0,63.0,60.0,12
+2020-03-01,Minnesota,Convenience Store,104.0,104.0,104.0,13
+2020-03-01,Minnesota,Hotel,74.0,69.0,74.0,14
+2020-03-01,Minnesota,Hardware Stores,112.0,112.0,112.0,15
+2020-03-01,Minnesota,Sports,38.0,38.0,38.0,16
+2020-03-01,Minnesota,Fitness Center,65.0,69.0,65.0,17
+2020-03-01,Minnesota,Medical,60.0,62.0,60.0,18
+2020-03-01,Minnesota,Residences,99.0,98.0,99.0,19
+2020-03-01,Minnesota,Colleges & Universities,97.0,108.0,97.0,20
+2020-03-01,Minnesota,Alcohol,100.0,101.0,100.0,21
+2020-03-01,Minnesota,Drug Store,105.0,102.0,105.0,22
+2020-03-01,Minnesota,Office,86.0,107.0,86.0,23
+2020-03-01,Minnesota,Travel & Transport,15.0,14.0,15.0,24
+2020-03-01,Minnesota,Government,62.0,66.0,62.0,25
+2020-03-01,Minnesota,Discount Stores,113.0,113.0,113.0,26
+2020-03-01,Minnesota,Banks,113.0,127.0,112.0,27
+2020-03-01,Minnesota,Skiing,79.0,73.0,79.0,28
+2020-03-01,Minnesota,Bus,70.0,"",70.0,29
+2020-03-01,Minnesota,Beach,82.0,87.0,82.0,30
+2020-03-01,Minnesota,Light Rail Stations,87.0,"",87.0,31
+2020-03-01,Minnesota,Spiritual Center,3.0,"",3.0,32
+2020-03-02,Minnesota,Food,50.0,51.0,50.0,1
+2020-03-02,Minnesota,Shops & Services,31.0,31.0,31.0,2
+2020-03-02,Minnesota,Outdoors & Recreation,47.0,49.0,47.0,3
+2020-03-02,Minnesota,Gas Stations,99.0,102.0,99.0,4
+2020-03-02,Minnesota,Nightlife Spots,58.0,58.0,58.0,5
+2020-03-02,Minnesota,Medical,56.0,58.0,56.0,6
+2020-03-02,Minnesota,School,62.0,63.0,62.0,7
+2020-03-02,Minnesota,Grocery,100.0,98.0,100.0,8
+2020-03-02,Minnesota,Professional & Other Places,18.0,20.0,17.0,9
+2020-03-02,Minnesota,Big Box Stores,100.0,100.0,100.0,10
+2020-03-02,Minnesota,Fast Food Restaurants,105.0,108.0,105.0,11
+2020-03-02,Minnesota,Office,86.0,87.0,86.0,12
+2020-03-02,Minnesota,Airport,58.0,53.0,58.0,13
+2020-03-02,Minnesota,Arts & Entertainment,58.0,60.0,58.0,14
+2020-03-02,Minnesota,Colleges & Universities,58.0,60.0,58.0,15
+2020-03-02,Minnesota,Convenience Store,98.0,97.0,98.0,16
+2020-03-02,Minnesota,Fitness Center,65.0,66.0,65.0,17
+2020-03-02,Minnesota,Government,84.0,89.0,83.0,18
+2020-03-02,Minnesota,Hardware Stores,94.0,96.0,94.0,19
+2020-03-02,Minnesota,Residences,99.0,98.0,99.0,20
+2020-03-02,Minnesota,Hotel,77.0,72.0,77.0,21
+2020-03-02,Minnesota,Sports,31.0,34.0,31.0,22
+2020-03-02,Minnesota,Drug Store,99.0,89.0,100.0,23
+2020-03-02,Minnesota,Banks,124.0,134.0,124.0,24
+2020-03-02,Minnesota,Alcohol,102.0,93.0,102.0,25
+2020-03-02,Minnesota,Travel & Transport,14.0,15.0,14.0,26
+2020-03-02,Minnesota,Bus,78.0,74.0,78.0,27
+2020-03-02,Minnesota,Discount Stores,95.0,92.0,95.0,28
+2020-03-02,Minnesota,Light Rail Stations,102.0,"",103.0,29
+2020-03-02,Minnesota,Beach,84.0,108.0,83.0,30
+2020-03-02,Minnesota,Skiing,52.0,"",52.0,31
+2020-03-03,Minnesota,Food,49.0,49.0,49.0,1
+2020-03-03,Minnesota,Shops & Services,33.0,32.0,33.0,2
+2020-03-03,Minnesota,Outdoors & Recreation,46.0,47.0,46.0,3
+2020-03-03,Minnesota,Nightlife Spots,65.0,68.0,65.0,4
+2020-03-03,Minnesota,Gas Stations,97.0,99.0,97.0,5
+2020-03-03,Minnesota,School,55.0,60.0,55.0,6
+2020-03-03,Minnesota,Medical,57.0,53.0,58.0,7
+2020-03-03,Minnesota,Grocery,100.0,96.0,100.0,8
+2020-03-03,Minnesota,Professional & Other Places,16.0,17.0,16.0,9
+2020-03-03,Minnesota,Big Box Stores,105.0,106.0,105.0,10
+2020-03-03,Minnesota,Office,79.0,77.0,79.0,11
+2020-03-03,Minnesota,Fast Food Restaurants,102.0,99.0,102.0,12
+2020-03-03,Minnesota,Colleges & Universities,56.0,58.0,56.0,13
+2020-03-03,Minnesota,Arts & Entertainment,60.0,62.0,59.0,14
+2020-03-03,Minnesota,Airport,57.0,62.0,57.0,15
+2020-03-03,Minnesota,Fitness Center,66.0,62.0,66.0,16
+2020-03-03,Minnesota,Convenience Store,95.0,94.0,95.0,17
+2020-03-03,Minnesota,Government,77.0,86.0,77.0,18
+2020-03-03,Minnesota,Hardware Stores,104.0,101.0,104.0,19
+2020-03-03,Minnesota,Residences,73.0,73.0,74.0,20
+2020-03-03,Minnesota,Hotel,80.0,68.0,81.0,21
+2020-03-03,Minnesota,Sports,29.0,31.0,29.0,22
+2020-03-03,Minnesota,Drug Store,101.0,96.0,101.0,23
+2020-03-03,Minnesota,Alcohol,98.0,88.0,98.0,24
+2020-03-03,Minnesota,Banks,111.0,109.0,111.0,25
+2020-03-03,Minnesota,Travel & Transport,14.0,17.0,14.0,26
+2020-03-03,Minnesota,Discount Stores,100.0,115.0,100.0,27
+2020-03-03,Minnesota,Bus,69.0,72.0,68.0,28
+2020-03-03,Minnesota,Light Rail Stations,90.0,"",90.0,29
+2020-03-03,Minnesota,Beach,81.0,"",81.0,30
+2020-03-03,Minnesota,Skiing,95.0,"",95.0,31
+2020-03-03,Minnesota,Spiritual Center,5.0,"",5.0,32
+2020-03-04,Minnesota,Food,48.0,48.0,48.0,1
+2020-03-04,Minnesota,Shops & Services,33.0,33.0,33.0,2
+2020-03-04,Minnesota,Outdoors & Recreation,47.0,48.0,47.0,3
+2020-03-04,Minnesota,Nightlife Spots,64.0,67.0,64.0,4
+2020-03-04,Minnesota,Gas Stations,99.0,102.0,99.0,5
+2020-03-04,Minnesota,School,54.0,55.0,53.0,6
+2020-03-04,Minnesota,Medical,57.0,55.0,57.0,7
+2020-03-04,Minnesota,Grocery,96.0,93.0,97.0,8
+2020-03-04,Minnesota,Professional & Other Places,15.0,15.0,15.0,9
+2020-03-04,Minnesota,Big Box Stores,99.0,99.0,99.0,10
+2020-03-04,Minnesota,Office,82.0,78.0,82.0,11
+2020-03-04,Minnesota,Fast Food Restaurants,101.0,95.0,101.0,12
+2020-03-04,Minnesota,Arts & Entertainment,63.0,64.0,63.0,13
+2020-03-04,Minnesota,Colleges & Universities,53.0,56.0,53.0,14
+2020-03-04,Minnesota,Airport,60.0,57.0,60.0,15
+2020-03-04,Minnesota,Convenience Store,100.0,99.0,100.0,16
+2020-03-04,Minnesota,Fitness Center,62.0,60.0,62.0,17
+2020-03-04,Minnesota,Hardware Stores,103.0,97.0,103.0,18
+2020-03-04,Minnesota,Government,74.0,71.0,74.0,19
+2020-03-04,Minnesota,Residences,103.0,104.0,102.0,20
+2020-03-04,Minnesota,Hotel,80.0,74.0,80.0,20
+2020-03-04,Minnesota,Sports,29.0,30.0,29.0,21
+2020-03-04,Minnesota,Drug Store,98.0,102.0,98.0,22
+2020-03-04,Minnesota,Alcohol,100.0,94.0,101.0,23
+2020-03-04,Minnesota,Banks,103.0,98.0,104.0,24
+2020-03-04,Minnesota,Travel & Transport,15.0,16.0,15.0,25
+2020-03-04,Minnesota,Discount Stores,97.0,99.0,97.0,26
+2020-03-04,Minnesota,Bus,74.0,64.0,74.0,27
+2020-03-04,Minnesota,Light Rail Stations,92.0,"",92.0,28
+2020-03-04,Minnesota,Beach,93.0,106.0,93.0,29
+2020-03-04,Minnesota,Skiing,92.0,"",92.0,30
+2020-03-05,Minnesota,Food,48.0,45.0,49.0,1
+2020-03-05,Minnesota,Shops & Services,32.0,31.0,32.0,2
+2020-03-05,Minnesota,Nightlife Spots,57.0,54.0,57.0,3
+2020-03-05,Minnesota,Outdoors & Recreation,41.0,41.0,42.0,4
+2020-03-05,Minnesota,Gas Stations,96.0,89.0,96.0,5
+2020-03-05,Minnesota,School,57.0,57.0,57.0,6
+2020-03-05,Minnesota,Medical,58.0,55.0,59.0,7
+2020-03-05,Minnesota,Grocery,103.0,100.0,104.0,8
+2020-03-05,Minnesota,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-05,Minnesota,Big Box Stores,102.0,103.0,102.0,10
+2020-03-05,Minnesota,Fast Food Restaurants,105.0,96.0,105.0,11
+2020-03-05,Minnesota,Office,83.0,84.0,83.0,12
+2020-03-05,Minnesota,Arts & Entertainment,67.0,75.0,67.0,13
+2020-03-05,Minnesota,Airport,57.0,55.0,57.0,14
+2020-03-05,Minnesota,Colleges & Universities,52.0,55.0,52.0,15
+2020-03-05,Minnesota,Convenience Store,96.0,94.0,96.0,16
+2020-03-05,Minnesota,Fitness Center,64.0,60.0,64.0,17
+2020-03-05,Minnesota,Hardware Stores,106.0,107.0,106.0,18
+2020-03-05,Minnesota,Hotel,81.0,73.0,81.0,19
+2020-03-05,Minnesota,Residences,74.0,69.0,74.0,20
+2020-03-05,Minnesota,Government,71.0,68.0,71.0,21
+2020-03-05,Minnesota,Sports,30.0,30.0,30.0,22
+2020-03-05,Minnesota,Drug Store,99.0,95.0,99.0,23
+2020-03-05,Minnesota,Alcohol,98.0,86.0,98.0,24
+2020-03-05,Minnesota,Banks,108.0,107.0,108.0,25
+2020-03-05,Minnesota,Travel & Transport,15.0,14.0,15.0,26
+2020-03-05,Minnesota,Discount Stores,103.0,96.0,104.0,27
+2020-03-05,Minnesota,Bus,72.0,66.0,72.0,28
+2020-03-05,Minnesota,Light Rail Stations,101.0,"",101.0,29
+2020-03-05,Minnesota,Beach,90.0,"",90.0,30
+2020-03-05,Minnesota,Skiing,79.0,"",80.0,31
+2020-03-05,Minnesota,Spiritual Center,4.0,"",4.0,32
+2020-03-06,Minnesota,Food,50.0,48.0,50.0,1
+2020-03-06,Minnesota,Shops & Services,31.0,31.0,31.0,2
+2020-03-06,Minnesota,Nightlife Spots,59.0,59.0,59.0,3
+2020-03-06,Minnesota,Gas Stations,99.0,93.0,100.0,4
+2020-03-06,Minnesota,Outdoors & Recreation,44.0,44.0,44.0,5
+2020-03-06,Minnesota,Grocery,95.0,94.0,95.0,6
+2020-03-06,Minnesota,School,50.0,53.0,50.0,7
+2020-03-06,Minnesota,Medical,57.0,56.0,57.0,8
+2020-03-06,Minnesota,Big Box Stores,97.0,94.0,97.0,9
+2020-03-06,Minnesota,Fast Food Restaurants,104.0,109.0,104.0,10
+2020-03-06,Minnesota,Professional & Other Places,17.0,18.0,17.0,11
+2020-03-06,Minnesota,Arts & Entertainment,60.0,64.0,60.0,12
+2020-03-06,Minnesota,Office,81.0,84.0,81.0,13
+2020-03-06,Minnesota,Convenience Store,103.0,103.0,103.0,14
+2020-03-06,Minnesota,Airport,54.0,46.0,54.0,15
+2020-03-06,Minnesota,Colleges & Universities,53.0,58.0,53.0,16
+2020-03-06,Minnesota,Fitness Center,63.0,62.0,63.0,17
+2020-03-06,Minnesota,Hotel,79.0,73.0,79.0,18
+2020-03-06,Minnesota,Hardware Stores,104.0,104.0,104.0,19
+2020-03-06,Minnesota,Residences,103.0,96.0,103.0,20
+2020-03-06,Minnesota,Government,72.0,72.0,72.0,21
+2020-03-06,Minnesota,Sports,30.0,31.0,30.0,22
+2020-03-06,Minnesota,Alcohol,100.0,101.0,100.0,23
+2020-03-06,Minnesota,Drug Store,96.0,95.0,96.0,24
+2020-03-06,Minnesota,Banks,109.0,104.0,109.0,25
+2020-03-06,Minnesota,Travel & Transport,14.0,16.0,14.0,26
+2020-03-06,Minnesota,Discount Stores,92.0,91.0,92.0,27
+2020-03-06,Minnesota,Bus,72.0,73.0,72.0,28
+2020-03-06,Minnesota,Light Rail Stations,103.0,"",104.0,29
+2020-03-06,Minnesota,Beach,85.0,"",86.0,30
+2020-03-06,Minnesota,Skiing,81.0,"",81.0,31
+2020-03-06,Minnesota,Spiritual Center,4.0,"",4.0,32
+2020-03-07,Minnesota,Food,48.0,48.0,48.0,1
+2020-03-07,Minnesota,Shops & Services,36.0,33.0,36.0,2
+2020-03-07,Minnesota,Nightlife Spots,60.0,56.0,60.0,3
+2020-03-07,Minnesota,Outdoors & Recreation,48.0,50.0,48.0,4
+2020-03-07,Minnesota,Grocery,100.0,94.0,101.0,5
+2020-03-07,Minnesota,Gas Stations,101.0,101.0,101.0,6
+2020-03-07,Minnesota,Big Box Stores,99.0,95.0,99.0,7
+2020-03-07,Minnesota,Arts & Entertainment,60.0,60.0,60.0,8
+2020-03-07,Minnesota,Fast Food Restaurants,104.0,98.0,104.0,9
+2020-03-07,Minnesota,Professional & Other Places,24.0,22.0,24.0,10
+2020-03-07,Minnesota,School,50.0,51.0,50.0,11
+2020-03-07,Minnesota,Convenience Store,98.0,98.0,98.0,12
+2020-03-07,Minnesota,Hotel,77.0,71.0,77.0,13
+2020-03-07,Minnesota,Hardware Stores,109.0,109.0,109.0,14
+2020-03-07,Minnesota,Airport,59.0,48.0,60.0,15
+2020-03-07,Minnesota,Fitness Center,62.0,56.0,62.0,16
+2020-03-07,Minnesota,Medical,59.0,53.0,59.0,17
+2020-03-07,Minnesota,Sports,33.0,34.0,33.0,18
+2020-03-07,Minnesota,Residences,73.0,66.0,73.0,19
+2020-03-07,Minnesota,Colleges & Universities,73.0,77.0,73.0,20
+2020-03-07,Minnesota,Alcohol,102.0,97.0,102.0,21
+2020-03-07,Minnesota,Drug Store,107.0,108.0,107.0,22
+2020-03-07,Minnesota,Office,87.0,81.0,87.0,23
+2020-03-07,Minnesota,Government,69.0,65.0,70.0,24
+2020-03-07,Minnesota,Travel & Transport,14.0,14.0,14.0,25
+2020-03-07,Minnesota,Discount Stores,103.0,92.0,103.0,26
+2020-03-07,Minnesota,Banks,87.0,89.0,87.0,27
+2020-03-07,Minnesota,Bus,83.0,"",83.0,28
+2020-03-07,Minnesota,Skiing,65.0,69.0,65.0,29
+2020-03-07,Minnesota,Beach,68.0,"",68.0,30
+2020-03-07,Minnesota,Light Rail Stations,95.0,"",96.0,31
+2020-03-07,Minnesota,Spiritual Center,4.0,"",4.0,32
+2020-03-08,Minnesota,Food,54.0,54.0,54.0,1
+2020-03-08,Minnesota,Shops & Services,42.0,39.0,42.0,2
+2020-03-08,Minnesota,Nightlife Spots,71.0,70.0,71.0,3
+2020-03-08,Minnesota,Outdoors & Recreation,56.0,60.0,56.0,4
+2020-03-08,Minnesota,Grocery,102.0,101.0,102.0,5
+2020-03-08,Minnesota,Big Box Stores,105.0,102.0,105.0,6
+2020-03-08,Minnesota,Gas Stations,107.0,105.0,107.0,7
+2020-03-08,Minnesota,Arts & Entertainment,59.0,62.0,59.0,8
+2020-03-08,Minnesota,Fast Food Restaurants,114.0,112.0,114.0,9
+2020-03-08,Minnesota,Professional & Other Places,24.0,21.0,25.0,10
+2020-03-08,Minnesota,School,64.0,65.0,64.0,11
+2020-03-08,Minnesota,Airport,61.0,52.0,62.0,12
+2020-03-08,Minnesota,Convenience Store,106.0,102.0,106.0,13
+2020-03-08,Minnesota,Hotel,77.0,79.0,77.0,14
+2020-03-08,Minnesota,Hardware Stores,116.0,117.0,116.0,15
+2020-03-08,Minnesota,Residences,77.0,85.0,77.0,16
+2020-03-08,Minnesota,Sports,37.0,39.0,37.0,17
+2020-03-08,Minnesota,Medical,61.0,59.0,61.0,18
+2020-03-08,Minnesota,Fitness Center,65.0,64.0,65.0,19
+2020-03-08,Minnesota,Colleges & Universities,70.0,103.0,70.0,20
+2020-03-08,Minnesota,Alcohol,103.0,110.0,102.0,21
+2020-03-08,Minnesota,Drug Store,102.0,101.0,102.0,22
+2020-03-08,Minnesota,Office,89.0,91.0,89.0,23
+2020-03-08,Minnesota,Travel & Transport,16.0,15.0,16.0,24
+2020-03-08,Minnesota,Government,70.0,67.0,70.0,25
+2020-03-08,Minnesota,Discount Stores,106.0,98.0,106.0,26
+2020-03-08,Minnesota,Bus,91.0,110.0,90.0,27
+2020-03-08,Minnesota,Banks,88.0,90.0,88.0,28
+2020-03-08,Minnesota,Beach,89.0,91.0,89.0,29
+2020-03-08,Minnesota,Skiing,49.0,"",49.0,30
+2020-03-08,Minnesota,Light Rail Stations,92.0,"",92.0,31
+2020-03-08,Minnesota,Spiritual Center,3.0,"",3.0,32
+2020-03-09,Minnesota,Food,49.0,49.0,49.0,1
+2020-03-09,Minnesota,Shops & Services,32.0,32.0,32.0,2
+2020-03-09,Minnesota,Outdoors & Recreation,48.0,47.0,48.0,3
+2020-03-09,Minnesota,Nightlife Spots,59.0,59.0,58.0,4
+2020-03-09,Minnesota,Gas Stations,94.0,89.0,95.0,5
+2020-03-09,Minnesota,Medical,57.0,56.0,57.0,6
+2020-03-09,Minnesota,Grocery,104.0,102.0,104.0,7
+2020-03-09,Minnesota,School,59.0,57.0,59.0,8
+2020-03-09,Minnesota,Big Box Stores,101.0,93.0,101.0,9
+2020-03-09,Minnesota,Professional & Other Places,16.0,18.0,16.0,10
+2020-03-09,Minnesota,Fast Food Restaurants,102.0,94.0,102.0,11
+2020-03-09,Minnesota,Office,84.0,90.0,84.0,12
+2020-03-09,Minnesota,Arts & Entertainment,56.0,57.0,56.0,13
+2020-03-09,Minnesota,Airport,50.0,46.0,51.0,14
+2020-03-09,Minnesota,Convenience Store,97.0,95.0,97.0,15
+2020-03-09,Minnesota,Fitness Center,64.0,55.0,64.0,16
+2020-03-09,Minnesota,Hardware Stores,99.0,96.0,99.0,17
+2020-03-09,Minnesota,Colleges & Universities,42.0,56.0,42.0,18
+2020-03-09,Minnesota,Government,82.0,81.0,82.0,19
+2020-03-09,Minnesota,Hotel,84.0,75.0,84.0,20
+2020-03-09,Minnesota,Residences,98.0,100.0,98.0,21
+2020-03-09,Minnesota,Sports,28.0,29.0,28.0,22
+2020-03-09,Minnesota,Drug Store,104.0,88.0,105.0,23
+2020-03-09,Minnesota,Alcohol,106.0,99.0,107.0,24
+2020-03-09,Minnesota,Banks,112.0,106.0,112.0,25
+2020-03-09,Minnesota,Travel & Transport,13.0,16.0,13.0,26
+2020-03-09,Minnesota,Discount Stores,99.0,96.0,99.0,27
+2020-03-09,Minnesota,Bus,70.0,67.0,70.0,28
+2020-03-09,Minnesota,Light Rail Stations,109.0,"",109.0,29
+2020-03-09,Minnesota,Beach,91.0,"",90.0,30
+2020-03-09,Minnesota,Skiing,61.0,"",60.0,31
+2020-03-10,Minnesota,Food,48.0,47.0,48.0,1
+2020-03-10,Minnesota,Shops & Services,31.0,31.0,31.0,2
+2020-03-10,Minnesota,Outdoors & Recreation,46.0,48.0,46.0,3
+2020-03-10,Minnesota,Nightlife Spots,57.0,58.0,57.0,4
+2020-03-10,Minnesota,Gas Stations,92.0,89.0,92.0,5
+2020-03-10,Minnesota,Medical,55.0,51.0,55.0,6
+2020-03-10,Minnesota,School,48.0,47.0,48.0,7
+2020-03-10,Minnesota,Grocery,101.0,98.0,101.0,8
+2020-03-10,Minnesota,Professional & Other Places,15.0,16.0,15.0,9
+2020-03-10,Minnesota,Big Box Stores,101.0,96.0,101.0,10
+2020-03-10,Minnesota,Office,77.0,80.0,77.0,11
+2020-03-10,Minnesota,Fast Food Restaurants,101.0,99.0,101.0,12
+2020-03-10,Minnesota,Arts & Entertainment,56.0,56.0,56.0,13
+2020-03-10,Minnesota,Fitness Center,61.0,57.0,61.0,14
+2020-03-10,Minnesota,Airport,51.0,47.0,52.0,15
+2020-03-10,Minnesota,Convenience Store,92.0,96.0,92.0,16
+2020-03-10,Minnesota,Hotel,88.0,80.0,88.0,17
+2020-03-10,Minnesota,Hardware Stores,102.0,96.0,102.0,18
+2020-03-10,Minnesota,Government,73.0,71.0,73.0,19
+2020-03-10,Minnesota,Colleges & Universities,34.0,48.0,34.0,20
+2020-03-10,Minnesota,Residences,68.0,67.0,68.0,21
+2020-03-10,Minnesota,Sports,27.0,31.0,27.0,22
+2020-03-10,Minnesota,Drug Store,94.0,95.0,94.0,23
+2020-03-10,Minnesota,Alcohol,99.0,97.0,99.0,24
+2020-03-10,Minnesota,Banks,100.0,92.0,101.0,25
+2020-03-10,Minnesota,Travel & Transport,13.0,17.0,13.0,26
+2020-03-10,Minnesota,Discount Stores,98.0,87.0,98.0,27
+2020-03-10,Minnesota,Bus,67.0,67.0,67.0,28
+2020-03-10,Minnesota,Light Rail Stations,91.0,"",92.0,29
+2020-03-10,Minnesota,Beach,96.0,89.0,96.0,30
+2020-03-10,Minnesota,Skiing,74.0,"",74.0,31
+2020-03-10,Minnesota,Spiritual Center,5.0,"",5.0,32
+2020-03-11,Minnesota,Food,48.0,46.0,48.0,1
+2020-03-11,Minnesota,Shops & Services,31.0,29.0,31.0,2
+2020-03-11,Minnesota,Nightlife Spots,58.0,58.0,58.0,3
+2020-03-11,Minnesota,Outdoors & Recreation,46.0,45.0,46.0,4
+2020-03-11,Minnesota,Gas Stations,93.0,86.0,94.0,5
+2020-03-11,Minnesota,Medical,58.0,56.0,58.0,6
+2020-03-11,Minnesota,Grocery,103.0,101.0,103.0,7
+2020-03-11,Minnesota,School,48.0,47.0,48.0,8
+2020-03-11,Minnesota,Professional & Other Places,16.0,16.0,15.0,9
+2020-03-11,Minnesota,Big Box Stores,106.0,102.0,106.0,10
+2020-03-11,Minnesota,Fast Food Restaurants,100.0,96.0,100.0,11
+2020-03-11,Minnesota,Office,78.0,77.0,78.0,12
+2020-03-11,Minnesota,Arts & Entertainment,52.0,56.0,52.0,13
+2020-03-11,Minnesota,Convenience Store,97.0,90.0,97.0,14
+2020-03-11,Minnesota,Fitness Center,58.0,55.0,58.0,15
+2020-03-11,Minnesota,Airport,53.0,45.0,53.0,16
+2020-03-11,Minnesota,Colleges & Universities,37.0,56.0,37.0,17
+2020-03-11,Minnesota,Hardware Stores,103.0,100.0,104.0,18
+2020-03-11,Minnesota,Hotel,84.0,75.0,84.0,19
+2020-03-11,Minnesota,Government,71.0,66.0,71.0,20
+2020-03-11,Minnesota,Residences,100.0,99.0,100.0,21
+2020-03-11,Minnesota,Sports,27.0,28.0,27.0,22
+2020-03-11,Minnesota,Drug Store,103.0,99.0,103.0,23
+2020-03-11,Minnesota,Alcohol,99.0,93.0,99.0,24
+2020-03-11,Minnesota,Travel & Transport,15.0,19.0,15.0,25
+2020-03-11,Minnesota,Banks,101.0,96.0,101.0,26
+2020-03-11,Minnesota,Discount Stores,97.0,96.0,97.0,27
+2020-03-11,Minnesota,Bus,68.0,71.0,68.0,28
+2020-03-11,Minnesota,Light Rail Stations,101.0,"",102.0,29
+2020-03-11,Minnesota,Beach,95.0,"",95.0,30
+2020-03-11,Minnesota,Skiing,75.0,"",75.0,31
+2020-03-11,Minnesota,Spiritual Center,4.0,"",4.0,32
+2020-03-12,Minnesota,Food,46.0,44.0,46.0,1
+2020-03-12,Minnesota,Shops & Services,32.0,30.0,32.0,2
+2020-03-12,Minnesota,Nightlife Spots,59.0,58.0,59.0,3
+2020-03-12,Minnesota,Grocery,125.0,122.0,125.0,4
+2020-03-12,Minnesota,Outdoors & Recreation,44.0,42.0,44.0,5
+2020-03-12,Minnesota,Gas Stations,92.0,90.0,92.0,6
+2020-03-12,Minnesota,Medical,55.0,55.0,55.0,7
+2020-03-12,Minnesota,Big Box Stores,117.0,119.0,117.0,8
+2020-03-12,Minnesota,School,47.0,47.0,47.0,9
+2020-03-12,Minnesota,Professional & Other Places,15.0,16.0,15.0,10
+2020-03-12,Minnesota,Fast Food Restaurants,96.0,88.0,96.0,11
+2020-03-12,Minnesota,Office,75.0,76.0,75.0,12
+2020-03-12,Minnesota,Arts & Entertainment,52.0,55.0,52.0,13
+2020-03-12,Minnesota,Airport,51.0,41.0,51.0,14
+2020-03-12,Minnesota,Convenience Store,93.0,87.0,94.0,15
+2020-03-12,Minnesota,Fitness Center,56.0,52.0,56.0,16
+2020-03-12,Minnesota,Hardware Stores,106.0,102.0,106.0,17
+2020-03-12,Minnesota,Hotel,79.0,69.0,79.0,18
+2020-03-12,Minnesota,Colleges & Universities,33.0,43.0,33.0,19
+2020-03-12,Minnesota,Residences,95.0,87.0,96.0,20
+2020-03-12,Minnesota,Government,64.0,65.0,64.0,21
+2020-03-12,Minnesota,Sports,27.0,31.0,27.0,22
+2020-03-12,Minnesota,Drug Store,114.0,110.0,114.0,23
+2020-03-12,Minnesota,Alcohol,111.0,108.0,111.0,24
+2020-03-12,Minnesota,Travel & Transport,15.0,16.0,15.0,25
+2020-03-12,Minnesota,Banks,95.0,98.0,95.0,26
+2020-03-12,Minnesota,Discount Stores,111.0,100.0,112.0,27
+2020-03-12,Minnesota,Bus,65.0,73.0,65.0,28
+2020-03-12,Minnesota,Light Rail Stations,110.0,"",109.0,29
+2020-03-12,Minnesota,Beach,86.0,"",86.0,30
+2020-03-12,Minnesota,Skiing,66.0,"",65.0,31
+2020-03-12,Minnesota,Spiritual Center,3.0,"",4.0,32
+2020-03-13,Minnesota,Food,46.0,44.0,46.0,1
+2020-03-13,Minnesota,Shops & Services,33.0,31.0,33.0,2
+2020-03-13,Minnesota,Nightlife Spots,63.0,62.0,63.0,3
+2020-03-13,Minnesota,Grocery,138.0,130.0,138.0,4
+2020-03-13,Minnesota,Gas Stations,97.0,92.0,97.0,5
+2020-03-13,Minnesota,Outdoors & Recreation,47.0,46.0,47.0,6
+2020-03-13,Minnesota,Big Box Stores,126.0,119.0,126.0,7
+2020-03-13,Minnesota,Medical,57.0,53.0,57.0,8
+2020-03-13,Minnesota,Fast Food Restaurants,103.0,108.0,103.0,9
+2020-03-13,Minnesota,School,41.0,37.0,41.0,10
+2020-03-13,Minnesota,Professional & Other Places,16.0,17.0,16.0,11
+2020-03-13,Minnesota,Arts & Entertainment,50.0,48.0,50.0,12
+2020-03-13,Minnesota,Office,79.0,79.0,79.0,13
+2020-03-13,Minnesota,Convenience Store,98.0,101.0,98.0,14
+2020-03-13,Minnesota,Airport,47.0,38.0,47.0,15
+2020-03-13,Minnesota,Hardware Stores,123.0,105.0,124.0,16
+2020-03-13,Minnesota,Fitness Center,57.0,55.0,57.0,17
+2020-03-13,Minnesota,Hotel,69.0,58.0,70.0,18
+2020-03-13,Minnesota,Residences,97.0,92.0,98.0,19
+2020-03-13,Minnesota,Alcohol,114.0,100.0,114.0,20
+2020-03-13,Minnesota,Government,66.0,67.0,66.0,21
+2020-03-13,Minnesota,Colleges & Universities,36.0,46.0,36.0,22
+2020-03-13,Minnesota,Drug Store,119.0,123.0,119.0,23
+2020-03-13,Minnesota,Sports,27.0,32.0,27.0,24
+2020-03-13,Minnesota,Banks,100.0,108.0,100.0,25
+2020-03-13,Minnesota,Travel & Transport,14.0,17.0,14.0,26
+2020-03-13,Minnesota,Discount Stores,115.0,114.0,115.0,27
+2020-03-13,Minnesota,Bus,67.0,73.0,67.0,28
+2020-03-13,Minnesota,Light Rail Stations,86.0,"",86.0,29
+2020-03-13,Minnesota,Beach,87.0,"",88.0,30
+2020-03-13,Minnesota,Skiing,60.0,"",60.0,31
+2020-03-14,Minnesota,Food,40.0,39.0,40.0,1
+2020-03-14,Minnesota,Shops & Services,33.0,30.0,33.0,2
+2020-03-14,Minnesota,Nightlife Spots,54.0,51.0,54.0,3
+2020-03-14,Minnesota,Grocery,125.0,116.0,125.0,4
+2020-03-14,Minnesota,Outdoors & Recreation,38.0,40.0,38.0,5
+2020-03-14,Minnesota,Big Box Stores,108.0,99.0,108.0,6
+2020-03-14,Minnesota,Gas Stations,85.0,82.0,85.0,7
+2020-03-14,Minnesota,Fast Food Restaurants,79.0,81.0,79.0,8
+2020-03-14,Minnesota,Arts & Entertainment,39.0,40.0,39.0,9
+2020-03-14,Minnesota,Hardware Stores,114.0,101.0,114.0,10
+2020-03-14,Minnesota,Professional & Other Places,16.0,14.0,16.0,11
+2020-03-14,Minnesota,Convenience Store,85.0,83.0,85.0,12
+2020-03-14,Minnesota,Airport,49.0,32.0,49.0,13
+2020-03-14,Minnesota,Hotel,55.0,53.0,55.0,14
+2020-03-14,Minnesota,Medical,52.0,44.0,52.0,15
+2020-03-14,Minnesota,School,28.0,29.0,28.0,16
+2020-03-14,Minnesota,Fitness Center,48.0,45.0,48.0,17
+2020-03-14,Minnesota,Alcohol,107.0,100.0,107.0,18
+2020-03-14,Minnesota,Residences,87.0,85.0,87.0,19
+2020-03-14,Minnesota,Drug Store,118.0,113.0,118.0,20
+2020-03-14,Minnesota,Sports,23.0,27.0,23.0,21
+2020-03-14,Minnesota,Office,70.0,67.0,70.0,22
+2020-03-14,Minnesota,Discount Stores,107.0,97.0,107.0,23
+2020-03-14,Minnesota,Colleges & Universities,26.0,26.0,26.0,24
+2020-03-14,Minnesota,Travel & Transport,12.0,10.0,12.0,25
+2020-03-14,Minnesota,Government,57.0,54.0,57.0,26
+2020-03-14,Minnesota,Banks,78.0,76.0,78.0,27
+2020-03-14,Minnesota,Bus,64.0,"",64.0,28
+2020-03-14,Minnesota,Beach,59.0,"",59.0,29
+2020-03-14,Minnesota,Skiing,38.0,"",38.0,30
+2020-03-14,Minnesota,Light Rail Stations,58.0,"",57.0,31
+2020-03-15,Minnesota,Food,38.0,36.0,38.0,1
+2020-03-15,Minnesota,Shops & Services,28.0,25.0,28.0,2
+2020-03-15,Minnesota,Nightlife Spots,50.0,48.0,50.0,3
+2020-03-15,Minnesota,Grocery,119.0,118.0,119.0,4
+2020-03-15,Minnesota,Outdoors & Recreation,41.0,42.0,41.0,5
+2020-03-15,Minnesota,Big Box Stores,100.0,96.0,100.0,6
+2020-03-15,Minnesota,Gas Stations,89.0,83.0,90.0,7
+2020-03-15,Minnesota,Fast Food Restaurants,82.0,73.0,83.0,8
+2020-03-15,Minnesota,Arts & Entertainment,37.0,39.0,37.0,9
+2020-03-15,Minnesota,Hardware Stores,120.0,110.0,121.0,10
+2020-03-15,Minnesota,Convenience Store,91.0,88.0,91.0,11
+2020-03-15,Minnesota,Airport,46.0,42.0,47.0,12
+2020-03-15,Minnesota,Professional & Other Places,15.0,12.0,15.0,13
+2020-03-15,Minnesota,School,36.0,38.0,36.0,14
+2020-03-15,Minnesota,Hotel,53.0,49.0,53.0,15
+2020-03-15,Minnesota,Residences,82.0,84.0,82.0,16
+2020-03-15,Minnesota,Medical,49.0,40.0,50.0,17
+2020-03-15,Minnesota,Fitness Center,48.0,42.0,48.0,18
+2020-03-15,Minnesota,Sports,25.0,29.0,25.0,19
+2020-03-15,Minnesota,Drug Store,121.0,115.0,121.0,20
+2020-03-15,Minnesota,Alcohol,99.0,98.0,99.0,21
+2020-03-15,Minnesota,Office,71.0,71.0,71.0,22
+2020-03-15,Minnesota,Discount Stores,114.0,94.0,115.0,23
+2020-03-15,Minnesota,Travel & Transport,13.0,13.0,13.0,24
+2020-03-15,Minnesota,Government,60.0,58.0,60.0,25
+2020-03-15,Minnesota,Colleges & Universities,48.0,46.0,48.0,26
+2020-03-15,Minnesota,Banks,77.0,81.0,77.0,27
+2020-03-15,Minnesota,Bus,60.0,"",60.0,28
+2020-03-15,Minnesota,Beach,59.0,"",59.0,29
+2020-03-15,Minnesota,Skiing,37.0,"",37.0,30
+2020-03-15,Minnesota,Light Rail Stations,65.0,"",66.0,31
+2020-03-16,Minnesota,Shops & Services,30.0,27.0,30.0,1
+2020-03-16,Minnesota,Food,41.0,38.0,41.0,2
+2020-03-16,Minnesota,Grocery,153.0,138.0,153.0,3
+2020-03-16,Minnesota,Outdoors & Recreation,43.0,39.0,43.0,4
+2020-03-16,Minnesota,Gas Stations,90.0,81.0,90.0,5
+2020-03-16,Minnesota,Nightlife Spots,58.0,57.0,58.0,6
+2020-03-16,Minnesota,Big Box Stores,119.0,104.0,120.0,7
+2020-03-16,Minnesota,Medical,52.0,47.0,52.0,8
+2020-03-16,Minnesota,Professional & Other Places,15.0,17.0,15.0,9
+2020-03-16,Minnesota,Fast Food Restaurants,88.0,80.0,88.0,10
+2020-03-16,Minnesota,School,39.0,45.0,38.0,11
+2020-03-16,Minnesota,Office,68.0,70.0,68.0,12
+2020-03-16,Minnesota,Convenience Store,95.0,90.0,95.0,13
+2020-03-16,Minnesota,Arts & Entertainment,48.0,45.0,48.0,14
+2020-03-16,Minnesota,Hardware Stores,111.0,95.0,112.0,15
+2020-03-16,Minnesota,Airport,34.0,31.0,34.0,16
+2020-03-16,Minnesota,Fitness Center,43.0,38.0,43.0,17
+2020-03-16,Minnesota,Residences,87.0,75.0,88.0,18
+2020-03-16,Minnesota,Government,67.0,62.0,67.0,19
+2020-03-16,Minnesota,Hotel,64.0,59.0,64.0,20
+2020-03-16,Minnesota,Drug Store,126.0,101.0,127.0,21
+2020-03-16,Minnesota,Alcohol,152.0,135.0,152.0,22
+2020-03-16,Minnesota,Colleges & Universities,25.0,36.0,25.0,23
+2020-03-16,Minnesota,Sports,24.0,25.0,24.0,24
+2020-03-16,Minnesota,Banks,108.0,104.0,108.0,25
+2020-03-16,Minnesota,Travel & Transport,13.0,12.0,13.0,26
+2020-03-16,Minnesota,Discount Stores,118.0,103.0,119.0,27
+2020-03-16,Minnesota,Bus,57.0,56.0,57.0,28
+2020-03-16,Minnesota,Light Rail Stations,73.0,"",73.0,29
+2020-03-16,Minnesota,Beach,87.0,"",88.0,30
+2020-03-16,Minnesota,Skiing,45.0,"",45.0,31
+2020-03-17,Minnesota,Shops & Services,28.0,25.0,28.0,1
+2020-03-17,Minnesota,Food,35.0,31.0,35.0,2
+2020-03-17,Minnesota,Grocery,139.0,124.0,140.0,3
+2020-03-17,Minnesota,Outdoors & Recreation,48.0,50.0,48.0,4
+2020-03-17,Minnesota,Nightlife Spots,62.0,56.0,63.0,5
+2020-03-17,Minnesota,Gas Stations,89.0,84.0,89.0,6
+2020-03-17,Minnesota,Big Box Stores,116.0,100.0,117.0,7
+2020-03-17,Minnesota,Medical,42.0,40.0,42.0,8
+2020-03-17,Minnesota,Professional & Other Places,13.0,13.0,13.0,9
+2020-03-17,Minnesota,School,30.0,32.0,30.0,10
+2020-03-17,Minnesota,Fast Food Restaurants,78.0,70.0,79.0,11
+2020-03-17,Minnesota,Convenience Store,94.0,88.0,94.0,12
+2020-03-17,Minnesota,Office,53.0,61.0,53.0,13
+2020-03-17,Minnesota,Hardware Stores,113.0,89.0,114.0,14
+2020-03-17,Minnesota,Arts & Entertainment,40.0,39.0,40.0,15
+2020-03-17,Minnesota,Airport,34.0,33.0,34.0,16
+2020-03-17,Minnesota,Residences,91.0,86.0,91.0,17
+2020-03-17,Minnesota,Alcohol,154.0,133.0,155.0,18
+2020-03-17,Minnesota,Government,51.0,49.0,51.0,19
+2020-03-17,Minnesota,Drug Store,115.0,92.0,116.0,20
+2020-03-17,Minnesota,Hotel,59.0,53.0,59.0,20
+2020-03-17,Minnesota,Fitness Center,28.0,28.0,28.0,21
+2020-03-17,Minnesota,Sports,23.0,28.0,23.0,22
+2020-03-17,Minnesota,Colleges & Universities,22.0,38.0,22.0,23
+2020-03-17,Minnesota,Travel & Transport,12.0,13.0,12.0,24
+2020-03-17,Minnesota,Banks,83.0,82.0,83.0,25
+2020-03-17,Minnesota,Discount Stores,108.0,106.0,108.0,26
+2020-03-17,Minnesota,Bus,49.0,59.0,49.0,27
+2020-03-17,Minnesota,Beach,99.0,"",100.0,28
+2020-03-17,Minnesota,Light Rail Stations,53.0,"",53.0,29
+2020-03-17,Minnesota,Skiing,65.0,"",64.0,30
+2020-03-18,Minnesota,Shops & Services,22.0,20.0,22.0,1
+2020-03-18,Minnesota,Food,25.0,23.0,26.0,2
+2020-03-18,Minnesota,Outdoors & Recreation,41.0,41.0,41.0,3
+2020-03-18,Minnesota,Grocery,113.0,102.0,113.0,4
+2020-03-18,Minnesota,Gas Stations,78.0,70.0,79.0,5
+2020-03-18,Minnesota,Big Box Stores,97.0,88.0,97.0,6
+2020-03-18,Minnesota,Nightlife Spots,32.0,34.0,32.0,7
+2020-03-18,Minnesota,Medical,37.0,32.0,37.0,8
+2020-03-18,Minnesota,Professional & Other Places,10.0,10.0,10.0,9
+2020-03-18,Minnesota,Fast Food Restaurants,68.0,60.0,68.0,10
+2020-03-18,Minnesota,School,24.0,26.0,24.0,11
+2020-03-18,Minnesota,Office,48.0,53.0,48.0,12
+2020-03-18,Minnesota,Convenience Store,80.0,72.0,81.0,13
+2020-03-18,Minnesota,Hardware Stores,105.0,89.0,105.0,14
+2020-03-18,Minnesota,Arts & Entertainment,29.0,29.0,29.0,15
+2020-03-18,Minnesota,Residences,82.0,78.0,83.0,16
+2020-03-18,Minnesota,Airport,30.0,30.0,30.0,17
+2020-03-18,Minnesota,Government,46.0,44.0,47.0,18
+2020-03-18,Minnesota,Hotel,50.0,50.0,50.0,19
+2020-03-18,Minnesota,Alcohol,108.0,87.0,109.0,20
+2020-03-18,Minnesota,Drug Store,99.0,94.0,99.0,21
+2020-03-18,Minnesota,Sports,20.0,24.0,20.0,22
+2020-03-18,Minnesota,Fitness Center,21.0,20.0,21.0,23
+2020-03-18,Minnesota,Colleges & Universities,22.0,31.0,22.0,24
+2020-03-18,Minnesota,Travel & Transport,12.0,13.0,12.0,25
+2020-03-18,Minnesota,Banks,76.0,84.0,75.0,26
+2020-03-18,Minnesota,Discount Stores,86.0,93.0,86.0,27
+2020-03-18,Minnesota,Bus,43.0,51.0,43.0,28
+2020-03-18,Minnesota,Beach,86.0,"",86.0,29
+2020-03-18,Minnesota,Light Rail Stations,49.0,"",49.0,30
+2020-03-18,Minnesota,Skiing,50.0,"",50.0,31
+2020-03-19,Minnesota,Shops & Services,20.0,18.0,20.0,1
+2020-03-19,Minnesota,Food,24.0,22.0,24.0,2
+2020-03-19,Minnesota,Grocery,106.0,95.0,107.0,3
+2020-03-19,Minnesota,Outdoors & Recreation,36.0,35.0,36.0,4
+2020-03-19,Minnesota,Gas Stations,71.0,65.0,71.0,5
+2020-03-19,Minnesota,Big Box Stores,91.0,73.0,91.0,6
+2020-03-19,Minnesota,Nightlife Spots,31.0,32.0,31.0,7
+2020-03-19,Minnesota,Medical,34.0,30.0,34.0,8
+2020-03-19,Minnesota,Professional & Other Places,10.0,10.0,10.0,9
+2020-03-19,Minnesota,Fast Food Restaurants,61.0,53.0,61.0,10
+2020-03-19,Minnesota,Convenience Store,74.0,72.0,74.0,11
+2020-03-19,Minnesota,School,21.0,25.0,21.0,12
+2020-03-19,Minnesota,Office,44.0,51.0,44.0,13
+2020-03-19,Minnesota,Hardware Stores,100.0,80.0,101.0,14
+2020-03-19,Minnesota,Arts & Entertainment,27.0,27.0,27.0,15
+2020-03-19,Minnesota,Residences,53.0,49.0,53.0,16
+2020-03-19,Minnesota,Airport,23.0,19.0,23.0,17
+2020-03-19,Minnesota,Alcohol,101.0,83.0,101.0,18
+2020-03-19,Minnesota,Drug Store,89.0,78.0,90.0,19
+2020-03-19,Minnesota,Government,40.0,37.0,40.0,20
+2020-03-19,Minnesota,Hotel,43.0,40.0,43.0,21
+2020-03-19,Minnesota,Sports,18.0,19.0,18.0,22
+2020-03-19,Minnesota,Fitness Center,20.0,19.0,20.0,23
+2020-03-19,Minnesota,Colleges & Universities,20.0,35.0,19.0,24
+2020-03-19,Minnesota,Travel & Transport,10.0,9.0,10.0,25
+2020-03-19,Minnesota,Banks,68.0,66.0,68.0,26
+2020-03-19,Minnesota,Discount Stores,80.0,72.0,80.0,27
+2020-03-19,Minnesota,Bus,43.0,46.0,43.0,28
+2020-03-19,Minnesota,Beach,76.0,"",76.0,29
+2020-03-19,Minnesota,Light Rail Stations,47.0,"",47.0,30
+2020-03-20,Minnesota,Shops & Services,20.0,18.0,20.0,1
+2020-03-20,Minnesota,Food,23.0,21.0,23.0,2
+2020-03-20,Minnesota,Grocery,120.0,101.0,121.0,3
+2020-03-20,Minnesota,Outdoors & Recreation,39.0,39.0,39.0,4
+2020-03-20,Minnesota,Gas Stations,74.0,72.0,74.0,5
+2020-03-20,Minnesota,Big Box Stores,99.0,85.0,99.0,6
+2020-03-20,Minnesota,Nightlife Spots,30.0,31.0,30.0,7
+2020-03-20,Minnesota,Medical,34.0,31.0,34.0,8
+2020-03-20,Minnesota,Fast Food Restaurants,64.0,59.0,64.0,9
+2020-03-20,Minnesota,Professional & Other Places,10.0,11.0,10.0,10
+2020-03-20,Minnesota,Convenience Store,73.0,70.0,74.0,11
+2020-03-20,Minnesota,Hardware Stores,109.0,88.0,110.0,12
+2020-03-20,Minnesota,School,20.0,25.0,20.0,13
+2020-03-20,Minnesota,Office,49.0,54.0,49.0,14
+2020-03-20,Minnesota,Alcohol,115.0,104.0,116.0,15
+2020-03-20,Minnesota,Arts & Entertainment,23.0,23.0,23.0,16
+2020-03-20,Minnesota,Residences,75.0,68.0,75.0,17
+2020-03-20,Minnesota,Airport,21.0,18.0,21.0,18
+2020-03-20,Minnesota,Drug Store,90.0,82.0,90.0,19
+2020-03-20,Minnesota,Hotel,38.0,36.0,38.0,20
+2020-03-20,Minnesota,Sports,20.0,23.0,20.0,21
+2020-03-20,Minnesota,Government,42.0,33.0,42.0,22
+2020-03-20,Minnesota,Fitness Center,21.0,22.0,21.0,23
+2020-03-20,Minnesota,Banks,75.0,71.0,75.0,24
+2020-03-20,Minnesota,Colleges & Universities,27.0,37.0,27.0,25
+2020-03-20,Minnesota,Travel & Transport,11.0,13.0,11.0,26
+2020-03-20,Minnesota,Discount Stores,85.0,78.0,85.0,27
+2020-03-20,Minnesota,Bus,40.0,47.0,40.0,28
+2020-03-20,Minnesota,Beach,83.0,99.0,83.0,29
+2020-03-20,Minnesota,Light Rail Stations,42.0,"",42.0,30
+2020-03-21,Minnesota,Shops & Services,15.0,15.0,15.0,1
+2020-03-21,Minnesota,Food,17.0,18.0,17.0,2
+2020-03-21,Minnesota,Outdoors & Recreation,36.0,38.0,36.0,3
+2020-03-21,Minnesota,Grocery,95.0,85.0,95.0,4
+2020-03-21,Minnesota,Big Box Stores,77.0,69.0,77.0,5
+2020-03-21,Minnesota,Gas Stations,66.0,62.0,66.0,6
+2020-03-21,Minnesota,Nightlife Spots,19.0,21.0,19.0,7
+2020-03-21,Minnesota,Hardware Stores,104.0,82.0,105.0,8
+2020-03-21,Minnesota,Fast Food Restaurants,55.0,55.0,55.0,9
+2020-03-21,Minnesota,Convenience Store,65.0,65.0,65.0,10
+2020-03-21,Minnesota,Professional & Other Places,9.0,10.0,9.0,11
+2020-03-21,Minnesota,School,21.0,21.0,21.0,12
+2020-03-21,Minnesota,Medical,36.0,31.0,36.0,13
+2020-03-21,Minnesota,Arts & Entertainment,18.0,18.0,18.0,14
+2020-03-21,Minnesota,Residences,69.0,58.0,69.0,15
+2020-03-21,Minnesota,Alcohol,80.0,80.0,80.0,16
+2020-03-21,Minnesota,Drug Store,83.0,86.0,83.0,17
+2020-03-21,Minnesota,Airport,21.0,13.0,21.0,18
+2020-03-21,Minnesota,Sports,16.0,20.0,16.0,19
+2020-03-21,Minnesota,Hotel,22.0,22.0,22.0,20
+2020-03-21,Minnesota,Office,58.0,57.0,58.0,21
+2020-03-21,Minnesota,Fitness Center,17.0,15.0,17.0,22
+2020-03-21,Minnesota,Travel & Transport,10.0,9.0,10.0,23
+2020-03-21,Minnesota,Government,46.0,47.0,46.0,24
+2020-03-21,Minnesota,Colleges & Universities,32.0,28.0,32.0,25
+2020-03-21,Minnesota,Discount Stores,70.0,65.0,70.0,26
+2020-03-21,Minnesota,Banks,62.0,54.0,62.0,27
+2020-03-21,Minnesota,Bus,46.0,"",47.0,28
+2020-03-21,Minnesota,Beach,56.0,"",56.0,29
+2020-03-21,Minnesota,Skiing,21.0,"",21.0,30
+2020-03-21,Minnesota,Light Rail Stations,37.0,"",37.0,31
+2020-03-22,Minnesota,Food,16.0,15.0,16.0,1
+2020-03-22,Minnesota,Outdoors & Recreation,34.0,37.0,34.0,2
+2020-03-22,Minnesota,Shops & Services,15.0,15.0,15.0,3
+2020-03-22,Minnesota,Grocery,72.0,66.0,72.0,4
+2020-03-22,Minnesota,Big Box Stores,65.0,66.0,65.0,5
+2020-03-22,Minnesota,Gas Stations,58.0,52.0,58.0,6
+2020-03-22,Minnesota,Nightlife Spots,16.0,19.0,16.0,7
+2020-03-22,Minnesota,Fast Food Restaurants,52.0,45.0,52.0,8
+2020-03-22,Minnesota,Hardware Stores,95.0,94.0,95.0,9
+2020-03-22,Minnesota,Convenience Store,59.0,59.0,59.0,10
+2020-03-22,Minnesota,School,24.0,28.0,24.0,11
+2020-03-22,Minnesota,Professional & Other Places,8.0,6.0,8.0,12
+2020-03-22,Minnesota,Arts & Entertainment,14.0,15.0,14.0,12
+2020-03-22,Minnesota,Residences,57.0,49.0,57.0,13
+2020-03-22,Minnesota,Airport,22.0,19.0,22.0,14
+2020-03-22,Minnesota,Medical,33.0,27.0,34.0,15
+2020-03-22,Minnesota,Sports,16.0,19.0,16.0,16
+2020-03-22,Minnesota,Alcohol,60.0,55.0,60.0,17
+2020-03-22,Minnesota,Drug Store,69.0,68.0,69.0,18
+2020-03-22,Minnesota,Hotel,22.0,21.0,22.0,19
+2020-03-22,Minnesota,Office,53.0,53.0,53.0,20
+2020-03-22,Minnesota,Government,42.0,38.0,42.0,21
+2020-03-22,Minnesota,Colleges & Universities,34.0,"",34.0,22
+2020-03-22,Minnesota,Travel & Transport,9.0,8.0,9.0,23
+2020-03-22,Minnesota,Fitness Center,16.0,17.0,16.0,24
+2020-03-22,Minnesota,Discount Stores,63.0,53.0,63.0,25
+2020-03-22,Minnesota,Banks,62.0,"",62.0,26
+2020-03-22,Minnesota,Beach,56.0,"",56.0,27
+2020-03-22,Minnesota,Bus,39.0,"",39.0,28
+2020-03-22,Minnesota,Skiing,21.0,"",21.0,29
+2020-03-23,Minnesota,Shops & Services,19.0,18.0,19.0,1
+2020-03-23,Minnesota,Food,24.0,23.0,24.0,2
+2020-03-23,Minnesota,Outdoors & Recreation,40.0,42.0,40.0,3
+2020-03-23,Minnesota,Grocery,92.0,89.0,92.0,4
+2020-03-23,Minnesota,Gas Stations,72.0,70.0,72.0,5
+2020-03-23,Minnesota,Big Box Stores,82.0,81.0,82.0,6
+2020-03-23,Minnesota,Nightlife Spots,36.0,39.0,36.0,7
+2020-03-23,Minnesota,Medical,32.0,27.0,32.0,8
+2020-03-23,Minnesota,Professional & Other Places,12.0,13.0,12.0,9
+2020-03-23,Minnesota,Fast Food Restaurants,64.0,61.0,64.0,10
+2020-03-23,Minnesota,Office,48.0,57.0,48.0,11
+2020-03-23,Minnesota,Convenience Store,71.0,73.0,71.0,12
+2020-03-23,Minnesota,School,25.0,32.0,25.0,13
+2020-03-23,Minnesota,Hardware Stores,100.0,87.0,101.0,14
+2020-03-23,Minnesota,Residences,81.0,75.0,81.0,15
+2020-03-23,Minnesota,Arts & Entertainment,28.0,29.0,28.0,16
+2020-03-23,Minnesota,Sports,23.0,27.0,22.0,17
+2020-03-23,Minnesota,Government,48.0,47.0,48.0,18
+2020-03-23,Minnesota,Hotel,45.0,50.0,44.0,19
+2020-03-23,Minnesota,Airport,16.0,17.0,16.0,20
+2020-03-23,Minnesota,Drug Store,84.0,73.0,85.0,21
+2020-03-23,Minnesota,Alcohol,98.0,94.0,99.0,22
+2020-03-23,Minnesota,Fitness Center,21.0,20.0,21.0,23
+2020-03-23,Minnesota,Colleges & Universities,20.0,32.0,20.0,24
+2020-03-23,Minnesota,Travel & Transport,10.0,12.0,10.0,25
+2020-03-23,Minnesota,Banks,69.0,71.0,68.0,26
+2020-03-23,Minnesota,Discount Stores,84.0,64.0,85.0,27
+2020-03-23,Minnesota,Bus,39.0,"",39.0,28
+2020-03-23,Minnesota,Beach,86.0,"",86.0,29
+2020-03-23,Minnesota,Light Rail Stations,40.0,"",41.0,30
+2020-03-24,Minnesota,Shops & Services,19.0,18.0,19.0,1
+2020-03-24,Minnesota,Food,24.0,22.0,24.0,2
+2020-03-24,Minnesota,Outdoors & Recreation,44.0,44.0,44.0,3
+2020-03-24,Minnesota,Grocery,89.0,85.0,89.0,4
+2020-03-24,Minnesota,Gas Stations,69.0,65.0,69.0,5
+2020-03-24,Minnesota,Big Box Stores,83.0,73.0,83.0,6
+2020-03-24,Minnesota,Nightlife Spots,39.0,41.0,39.0,7
+2020-03-24,Minnesota,Medical,28.0,24.0,29.0,8
+2020-03-24,Minnesota,Professional & Other Places,10.0,11.0,9.0,9
+2020-03-24,Minnesota,Fast Food Restaurants,64.0,59.0,64.0,10
+2020-03-24,Minnesota,School,21.0,26.0,21.0,11
+2020-03-24,Minnesota,Office,42.0,50.0,42.0,12
+2020-03-24,Minnesota,Hardware Stores,102.0,84.0,103.0,13
+2020-03-24,Minnesota,Convenience Store,67.0,65.0,67.0,14
+2020-03-24,Minnesota,Arts & Entertainment,29.0,31.0,29.0,15
+2020-03-24,Minnesota,Residences,75.0,71.0,75.0,16
+2020-03-24,Minnesota,Sports,20.0,24.0,20.0,17
+2020-03-24,Minnesota,Government,38.0,36.0,38.0,18
+2020-03-24,Minnesota,Airport,19.0,17.0,19.0,19
+2020-03-24,Minnesota,Alcohol,88.0,80.0,88.0,20
+2020-03-24,Minnesota,Hotel,41.0,38.0,41.0,21
+2020-03-24,Minnesota,Drug Store,76.0,77.0,76.0,22
+2020-03-24,Minnesota,Fitness Center,18.0,18.0,18.0,23
+2020-03-24,Minnesota,Colleges & Universities,18.0,31.0,18.0,24
+2020-03-24,Minnesota,Travel & Transport,11.0,12.0,11.0,25
+2020-03-24,Minnesota,Banks,60.0,60.0,60.0,26
+2020-03-24,Minnesota,Discount Stores,73.0,67.0,73.0,27
+2020-03-24,Minnesota,Bus,37.0,42.0,37.0,28
+2020-03-24,Minnesota,Beach,91.0,90.0,91.0,29
+2020-03-24,Minnesota,Light Rail Stations,33.0,"",33.0,30
+2020-03-25,Minnesota,Shops & Services,19.0,17.0,19.0,1
+2020-03-25,Minnesota,Food,23.0,21.0,24.0,2
+2020-03-25,Minnesota,Grocery,100.0,82.0,101.0,3
+2020-03-25,Minnesota,Outdoors & Recreation,37.0,39.0,37.0,4
+2020-03-25,Minnesota,Gas Stations,70.0,64.0,70.0,5
+2020-03-25,Minnesota,Big Box Stores,90.0,78.0,90.0,6
+2020-03-25,Minnesota,Nightlife Spots,31.0,30.0,31.0,7
+2020-03-25,Minnesota,Medical,28.0,24.0,29.0,8
+2020-03-25,Minnesota,Professional & Other Places,9.0,9.0,9.0,9
+2020-03-25,Minnesota,Fast Food Restaurants,63.0,54.0,64.0,10
+2020-03-25,Minnesota,Hardware Stores,105.0,90.0,106.0,11
+2020-03-25,Minnesota,Convenience Store,69.0,62.0,70.0,12
+2020-03-25,Minnesota,School,19.0,23.0,19.0,13
+2020-03-25,Minnesota,Office,40.0,42.0,40.0,14
+2020-03-25,Minnesota,Arts & Entertainment,23.0,25.0,22.0,15
+2020-03-25,Minnesota,Residences,70.0,67.0,70.0,16
+2020-03-25,Minnesota,Alcohol,105.0,93.0,106.0,17
+2020-03-25,Minnesota,Government,37.0,31.0,37.0,18
+2020-03-25,Minnesota,Sports,18.0,20.0,18.0,19
+2020-03-25,Minnesota,Drug Store,79.0,74.0,79.0,20
+2020-03-25,Minnesota,Hotel,38.0,39.0,38.0,21
+2020-03-25,Minnesota,Airport,17.0,14.0,17.0,22
+2020-03-25,Minnesota,Fitness Center,18.0,19.0,18.0,23
+2020-03-25,Minnesota,Colleges & Universities,17.0,29.0,17.0,24
+2020-03-25,Minnesota,Travel & Transport,10.0,11.0,10.0,25
+2020-03-25,Minnesota,Banks,65.0,63.0,66.0,26
+2020-03-25,Minnesota,Discount Stores,75.0,55.0,75.0,27
+2020-03-25,Minnesota,Bus,36.0,43.0,36.0,28
+2020-03-25,Minnesota,Beach,82.0,"",82.0,29
+2020-03-25,Minnesota,Light Rail Stations,40.0,"",39.0,30
+2020-03-26,Minnesota,Shops & Services,21.0,20.0,21.0,1
+2020-03-26,Minnesota,Food,24.0,22.0,24.0,2
+2020-03-26,Minnesota,Outdoors & Recreation,47.0,47.0,47.0,3
+2020-03-26,Minnesota,Grocery,100.0,101.0,100.0,4
+2020-03-26,Minnesota,Gas Stations,74.0,71.0,74.0,5
+2020-03-26,Minnesota,Big Box Stores,93.0,82.0,93.0,6
+2020-03-26,Minnesota,Nightlife Spots,30.0,35.0,30.0,7
+2020-03-26,Minnesota,Medical,30.0,28.0,31.0,8
+2020-03-26,Minnesota,Professional & Other Places,10.0,11.0,10.0,9
+2020-03-26,Minnesota,Fast Food Restaurants,67.0,61.0,67.0,10
+2020-03-26,Minnesota,School,24.0,29.0,24.0,11
+2020-03-26,Minnesota,Hardware Stores,121.0,103.0,122.0,12
+2020-03-26,Minnesota,Convenience Store,75.0,73.0,75.0,13
+2020-03-26,Minnesota,Office,45.0,49.0,45.0,14
+2020-03-26,Minnesota,Arts & Entertainment,30.0,33.0,30.0,15
+2020-03-26,Minnesota,Residences,61.0,53.0,61.0,16
+2020-03-26,Minnesota,Sports,23.0,29.0,23.0,17
+2020-03-26,Minnesota,Alcohol,97.0,85.0,97.0,18
+2020-03-26,Minnesota,Government,40.0,40.0,40.0,19
+2020-03-26,Minnesota,Drug Store,82.0,82.0,82.0,20
+2020-03-26,Minnesota,Hotel,40.0,41.0,40.0,21
+2020-03-26,Minnesota,Fitness Center,19.0,18.0,19.0,22
+2020-03-26,Minnesota,Colleges & Universities,22.0,43.0,22.0,23
+2020-03-26,Minnesota,Airport,15.0,10.0,15.0,24
+2020-03-26,Minnesota,Travel & Transport,11.0,11.0,11.0,25
+2020-03-26,Minnesota,Banks,71.0,70.0,71.0,26
+2020-03-26,Minnesota,Discount Stores,82.0,86.0,82.0,27
+2020-03-26,Minnesota,Bus,41.0,39.0,41.0,28
+2020-03-26,Minnesota,Beach,107.0,98.0,107.0,29
+2020-03-26,Minnesota,Light Rail Stations,47.0,"",47.0,30
+2020-03-26,Minnesota,Skiing,54.0,"",54.0,31
+2020-03-27,Minnesota,Shops & Services,20.0,18.0,20.0,1
+2020-03-27,Minnesota,Food,22.0,21.0,22.0,2
+2020-03-27,Minnesota,Outdoors & Recreation,49.0,52.0,49.0,3
+2020-03-27,Minnesota,Grocery,94.0,87.0,94.0,4
+2020-03-27,Minnesota,Gas Stations,72.0,67.0,73.0,5
+2020-03-27,Minnesota,Big Box Stores,86.0,73.0,86.0,6
+2020-03-27,Minnesota,Nightlife Spots,30.0,34.0,30.0,7
+2020-03-27,Minnesota,Fast Food Restaurants,67.0,67.0,67.0,8
+2020-03-27,Minnesota,Professional & Other Places,10.0,11.0,10.0,9
+2020-03-27,Minnesota,Hardware Stores,122.0,101.0,123.0,10
+2020-03-27,Minnesota,Medical,31.0,29.0,31.0,11
+2020-03-27,Minnesota,School,24.0,29.0,24.0,12
+2020-03-27,Minnesota,Convenience Store,70.0,75.0,70.0,13
+2020-03-27,Minnesota,Office,47.0,53.0,47.0,14
+2020-03-27,Minnesota,Arts & Entertainment,27.0,34.0,27.0,15
+2020-03-27,Minnesota,Residences,60.0,55.0,60.0,16
+2020-03-27,Minnesota,Alcohol,88.0,84.0,89.0,17
+2020-03-27,Minnesota,Sports,24.0,28.0,24.0,18
+2020-03-27,Minnesota,Drug Store,76.0,66.0,76.0,19
+2020-03-27,Minnesota,Government,41.0,36.0,41.0,20
+2020-03-27,Minnesota,Hotel,33.0,31.0,34.0,21
+2020-03-27,Minnesota,Fitness Center,21.0,20.0,21.0,22
+2020-03-27,Minnesota,Colleges & Universities,26.0,46.0,26.0,23
+2020-03-27,Minnesota,Banks,69.0,63.0,69.0,24
+2020-03-27,Minnesota,Airport,12.0,11.0,12.0,25
+2020-03-27,Minnesota,Travel & Transport,11.0,14.0,10.0,26
+2020-03-27,Minnesota,Discount Stores,77.0,65.0,77.0,27
+2020-03-27,Minnesota,Bus,40.0,59.0,40.0,28
+2020-03-27,Minnesota,Beach,112.0,114.0,111.0,29
+2020-03-27,Minnesota,Light Rail Stations,41.0,"",41.0,30
+2020-03-28,Minnesota,Food,14.0,13.0,14.0,1
+2020-03-28,Minnesota,Shops & Services,10.0,9.0,10.0,2
+2020-03-28,Minnesota,Outdoors & Recreation,28.0,32.0,28.0,3
+2020-03-28,Minnesota,Grocery,70.0,57.0,70.0,4
+2020-03-28,Minnesota,Big Box Stores,60.0,52.0,60.0,5
+2020-03-28,Minnesota,Gas Stations,48.0,46.0,48.0,6
+2020-03-28,Minnesota,Nightlife Spots,15.0,18.0,15.0,7
+2020-03-28,Minnesota,Hardware Stores,79.0,62.0,80.0,8
+2020-03-28,Minnesota,Fast Food Restaurants,42.0,35.0,42.0,9
+2020-03-28,Minnesota,Convenience Store,48.0,46.0,48.0,10
+2020-03-28,Minnesota,Professional & Other Places,8.0,9.0,8.0,11
+2020-03-28,Minnesota,Medical,31.0,26.0,31.0,12
+2020-03-28,Minnesota,School,16.0,19.0,16.0,13
+2020-03-28,Minnesota,Arts & Entertainment,12.0,13.0,12.0,14
+2020-03-28,Minnesota,Residences,54.0,56.0,54.0,15
+2020-03-28,Minnesota,Alcohol,56.0,45.0,56.0,16
+2020-03-28,Minnesota,Sports,14.0,18.0,13.0,17
+2020-03-28,Minnesota,Drug Store,60.0,59.0,60.0,18
+2020-03-28,Minnesota,Hotel,17.0,18.0,17.0,19
+2020-03-28,Minnesota,Office,46.0,41.0,46.0,20
+2020-03-28,Minnesota,Airport,12.0,8.0,12.0,21
+2020-03-28,Minnesota,Government,37.0,37.0,37.0,22
+2020-03-28,Minnesota,Fitness Center,13.0,10.0,13.0,23
+2020-03-28,Minnesota,Travel & Transport,7.0,7.0,7.0,24
+2020-03-28,Minnesota,Banks,49.0,52.0,49.0,25
+2020-03-28,Minnesota,Discount Stores,45.0,39.0,46.0,26
+2020-03-28,Minnesota,Colleges & Universities,16.0,"",16.0,27
+2020-03-28,Minnesota,Bus,32.0,"",32.0,28
+2020-03-28,Minnesota,Beach,44.0,"",44.0,29
+2020-03-28,Minnesota,Light Rail Stations,36.0,"",36.0,30
+2020-03-29,Minnesota,Food,11.0,12.0,11.0,1
+2020-03-29,Minnesota,Grocery,52.0,47.0,52.0,2
+2020-03-29,Minnesota,Shops & Services,9.0,9.0,9.0,3
+2020-03-29,Minnesota,Outdoors & Recreation,21.0,25.0,20.0,4
+2020-03-29,Minnesota,Big Box Stores,47.0,49.0,47.0,5
+2020-03-29,Minnesota,Gas Stations,37.0,34.0,37.0,6
+2020-03-29,Minnesota,Nightlife Spots,14.0,18.0,14.0,7
+2020-03-29,Minnesota,Fast Food Restaurants,36.0,36.0,36.0,8
+2020-03-29,Minnesota,Hardware Stores,64.0,54.0,65.0,9
+2020-03-29,Minnesota,Convenience Store,39.0,40.0,39.0,10
+2020-03-29,Minnesota,School,17.0,22.0,17.0,11
+2020-03-29,Minnesota,Professional & Other Places,5.0,5.0,5.0,12
+2020-03-29,Minnesota,Residences,37.0,41.0,37.0,13
+2020-03-29,Minnesota,Medical,23.0,21.0,23.0,14
+2020-03-29,Minnesota,Arts & Entertainment,9.0,9.0,9.0,15
+2020-03-29,Minnesota,Drug Store,50.0,51.0,50.0,16
+2020-03-29,Minnesota,Alcohol,42.0,41.0,42.0,17
+2020-03-29,Minnesota,Airport,11.0,6.0,11.0,18
+2020-03-29,Minnesota,Sports,10.0,16.0,10.0,19
+2020-03-29,Minnesota,Hotel,14.0,16.0,14.0,20
+2020-03-29,Minnesota,Office,35.0,"",35.0,21
+2020-03-29,Minnesota,Government,30.0,"",30.0,22
+2020-03-29,Minnesota,Travel & Transport,6.0,7.0,6.0,23
+2020-03-29,Minnesota,Fitness Center,10.0,"",10.0,24
+2020-03-29,Minnesota,Discount Stores,42.0,"",42.0,25
+2020-03-29,Minnesota,Colleges & Universities,17.0,"",17.0,26
+2020-03-29,Minnesota,Banks,40.0,"",40.0,27
+2020-03-29,Minnesota,Beach,35.0,"",35.0,28
+2020-03-29,Minnesota,Bus,23.0,"",23.0,29
+2020-03-30,Minnesota,Shops & Services,15.0,14.0,15.0,1
+2020-03-30,Minnesota,Outdoors & Recreation,46.0,49.0,46.0,2
+2020-03-30,Minnesota,Food,22.0,22.0,22.0,3
+2020-03-30,Minnesota,Gas Stations,62.0,60.0,62.0,4
+2020-03-30,Minnesota,Grocery,71.0,67.0,71.0,5
+2020-03-30,Minnesota,Nightlife Spots,31.0,38.0,31.0,6
+2020-03-30,Minnesota,Big Box Stores,64.0,59.0,64.0,7
+2020-03-30,Minnesota,Professional & Other Places,9.0,10.0,9.0,8
+2020-03-30,Minnesota,Medical,25.0,22.0,25.0,9
+2020-03-30,Minnesota,Fast Food Restaurants,57.0,52.0,57.0,10
+2020-03-30,Minnesota,School,23.0,32.0,23.0,11
+2020-03-30,Minnesota,Office,40.0,51.0,40.0,12
+2020-03-30,Minnesota,Convenience Store,61.0,61.0,61.0,13
+2020-03-30,Minnesota,Hardware Stores,83.0,70.0,84.0,14
+2020-03-30,Minnesota,Residences,73.0,73.0,73.0,15
+2020-03-30,Minnesota,Arts & Entertainment,29.0,32.0,29.0,16
+2020-03-30,Minnesota,Sports,22.0,28.0,21.0,17
+2020-03-30,Minnesota,Government,38.0,41.0,38.0,18
+2020-03-30,Minnesota,Drug Store,70.0,61.0,70.0,19
+2020-03-30,Minnesota,Hotel,35.0,35.0,35.0,20
+2020-03-30,Minnesota,Alcohol,79.0,65.0,79.0,21
+2020-03-30,Minnesota,Fitness Center,18.0,20.0,18.0,22
+2020-03-30,Minnesota,Colleges & Universities,19.0,30.0,18.0,23
+2020-03-30,Minnesota,Airport,10.0,7.0,10.0,24
+2020-03-30,Minnesota,Travel & Transport,9.0,12.0,9.0,25
+2020-03-30,Minnesota,Banks,63.0,61.0,63.0,26
+2020-03-30,Minnesota,Discount Stores,71.0,59.0,72.0,27
+2020-03-30,Minnesota,Bus,36.0,47.0,36.0,28
+2020-03-30,Minnesota,Beach,103.0,130.0,102.0,29
+2020-03-30,Minnesota,Light Rail Stations,40.0,"",40.0,30
+2020-03-31,Minnesota,Shops & Services,15.0,15.0,15.0,1
+2020-03-31,Minnesota,Food,20.0,18.0,20.0,2
+2020-03-31,Minnesota,Outdoors & Recreation,41.0,44.0,40.0,3
+2020-03-31,Minnesota,Gas Stations,60.0,54.0,60.0,4
+2020-03-31,Minnesota,Grocery,71.0,67.0,71.0,5
+2020-03-31,Minnesota,Nightlife Spots,29.0,34.0,29.0,6
+2020-03-31,Minnesota,Big Box Stores,66.0,59.0,66.0,7
+2020-03-31,Minnesota,Fast Food Restaurants,62.0,58.0,62.0,8
+2020-03-31,Minnesota,Professional & Other Places,8.0,9.0,8.0,9
+2020-03-31,Minnesota,Medical,23.0,21.0,23.0,10
+2020-03-31,Minnesota,Hardware Stores,91.0,76.0,92.0,11
+2020-03-31,Minnesota,School,17.0,22.0,17.0,12
+2020-03-31,Minnesota,Convenience Store,61.0,55.0,61.0,13
+2020-03-31,Minnesota,Office,34.0,42.0,34.0,14
+2020-03-31,Minnesota,Arts & Entertainment,25.0,27.0,25.0,15
+2020-03-31,Minnesota,Residences,46.0,46.0,46.0,16
+2020-03-31,Minnesota,Sports,19.0,25.0,19.0,17
+2020-03-31,Minnesota,Government,30.0,31.0,30.0,18
+2020-03-31,Minnesota,Alcohol,74.0,60.0,74.0,19
+2020-03-31,Minnesota,Drug Store,65.0,64.0,65.0,20
+2020-03-31,Minnesota,Hotel,33.0,33.0,33.0,21
+2020-03-31,Minnesota,Fitness Center,16.0,16.0,16.0,22
+2020-03-31,Minnesota,Colleges & Universities,18.0,30.0,18.0,23
+2020-03-31,Minnesota,Airport,12.0,10.0,12.0,24
+2020-03-31,Minnesota,Travel & Transport,9.0,10.0,9.0,25
+2020-03-31,Minnesota,Banks,55.0,53.0,55.0,26
+2020-03-31,Minnesota,Discount Stores,59.0,53.0,59.0,27
+2020-03-31,Minnesota,Bus,36.0,41.0,35.0,28
+2020-03-31,Minnesota,Beach,105.0,112.0,104.0,29
+2020-03-31,Minnesota,Light Rail Stations,31.0,"",31.0,30

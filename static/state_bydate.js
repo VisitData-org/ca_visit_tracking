@@ -47,17 +47,19 @@ function chartTitle() {
     result += "over 65 years old, ";
     break;
   }
-  switch (essentialSel.value) {
-    case "all":
-      result += "essential+non, ";
-      break;
-    case "essential":
-      result += "essential only, ";
-      break;
-    case "nonessential":
-      result += "non-essential only, ";
-      break;
+  if (!locationTypeSel.value) {
+    switch (essentialSel.value) {
+      case "all":
+        result += "essential+non, ";
+        break;
+      case "essential":
+        result += "essential only, ";
+        break;
+      case "nonessential":
+        result += "non-essential only, ";
+        break;
     }
+  }
   result += "Visits %";
   return result;
 }
@@ -165,23 +167,44 @@ function seriesToPlot() {
   }
 }
 
+function isPlotDataEmpty(seriesForPlot) {
+  var plotEmpty = true;
+  for(var seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
+    var series = seriesForPlot[seriesIndex];
+    var seriesData = series.data;
+    if(seriesData && seriesData.length > 0) {
+      plotEmpty = false;
+      break;
+    }
+  }
+  return plotEmpty;
+}
+
 function drawChart() {
-  Highcharts.chart('chartcontainer', {
-    chart: {
-      animation: false,
-      events: {
-        load(){
-          this.showHideFlag = true;
+  var seriesForPlot = seriesToPlot();
+  if (isPlotDataEmpty(seriesForPlot)) {
+    // handle empty plot
+    var emptyDataNotice = document.createElement("h2")
+    emptyDataNotice.innerText = 'No matching data to chart';
+    emptyDataNotice.style.textAlign = 'center';
+    document.getElementById('chartcontainer').appendChild(emptyDataNotice);
+  } else {
+    Highcharts.chart('chartcontainer', {
+      chart: {
+        animation: false,
+        events: {
+          load() {
+            this.showHideFlag = true;
+          }
         }
-      }
-    },
-    responsive: {
-    rules: [{
-        condition: {
+      },
+      responsive: {
+        rules: [{
+          condition: {
             maxWidth: 768
-        },
-        // Make the labels less space demanding on mobile
-        chartOptions: {
+          },
+          // Make the labels less space demanding on mobile
+          chartOptions: {
             xAxis: {
               dateTimeLabelFormats: {
                 day: '%a',
@@ -193,62 +216,63 @@ function drawChart() {
               }
             },
             yAxis: {
-                labels: {
-                    align: 'left',
-                    x: 0,
-                    y: -2
-                },
-                title: {
-                    text: ''
-                }
-            }
-        }
-    }]
-},
-    title: {   text: chartTitle()  },
-    xAxis: {
-      type: 'datetime',
-      dateTimeLabelFormats: {
-        day: '%a %b %e',
-        week: '%a %b %e',
-        month: '%a %b %e',
-      },
-      title: {
-        text: 'Date'
-      }
-    },
-    yAxis: { title: { text: 'Visits %' }, min: 0 },
-    tooltip: {
-      headerFormat: '<b>{series.name}</b><br>',
-      pointFormat: '{point.x:%a %b %e}: {point.y}%'
-    },
-    plotOptions: {
-      series: {
-        events: {
-          legendItemClick: function() {
-            if (this.index == 0) {
-              if (this.showHideFlag == undefined) {
-                this.showHideFlag = true
-                this.chart.series.forEach(series => {
-                  series.hide()
-                })
-              } else if (this.showHideFlag == true) {
-                this.chart.series.forEach(series => {
-                  series.hide()
-                })
-              } else {
-                this.chart.series.forEach(series => {
-                  series.show()
-                })
+              labels: {
+                align: 'left',
+                x: 0,
+                y: -2
+              },
+              title: {
+                text: ''
               }
-              this.showHideFlag = !this.showHideFlag;
+            }
+          }
+        }]
+      },
+      title: { text: chartTitle() },
+      xAxis: {
+        type: 'datetime',
+        dateTimeLabelFormats: {
+          day: '%a %b %e',
+          week: '%a %b %e',
+          month: '%a %b %e',
+        },
+        title: {
+          text: 'Date'
+        }
+      },
+      yAxis: { title: { text: 'Visits %' }, min: 0 },
+      tooltip: {
+        headerFormat: '<b>{series.name}</b><br>',
+        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+      },
+      plotOptions: {
+        series: {
+          events: {
+            legendItemClick: function () {
+              if (this.index == 0) {
+                if (this.showHideFlag == undefined) {
+                  this.showHideFlag = true
+                  this.chart.series.forEach(series => {
+                    series.hide()
+                  })
+                } else if (this.showHideFlag == true) {
+                  this.chart.series.forEach(series => {
+                    series.hide()
+                  })
+                } else {
+                  this.chart.series.forEach(series => {
+                    series.show()
+                  })
+                }
+                this.showHideFlag = !this.showHideFlag;
+              }
             }
           }
         }
-      }
-    },
-    series: seriesToPlot()
-  });
+      },
+      series: seriesForPlot
+    });
+  }
 }
 
 function cleanLocType(string) {
@@ -367,6 +391,12 @@ function parsingDone(results, file) {
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
 
+  if(locationTypeSel.value) {
+    // ok, we selected a location type so disable essential
+    essentialSel.value = 'all';
+    essentialSel.style.display = 'none';
+  }
+
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     // hide all 3
@@ -459,6 +489,8 @@ function setNavLinks() {
   document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + selectedState + "/ALL/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + selectedState + "/ALL/ALL?datafilename=raw";
+  document.getElementById('nav-stategrouped').href = "/bystatesel/" + selectedState + "/ALL";
+  document.getElementById('nav-stateall').href = "/bystatesel/" + selectedState + "/ALL?datafilename=raw";
 }
 
 essentialSel = document.getElementById('essential-select');
@@ -472,8 +504,8 @@ essentialSel.addEventListener('change', function() {
 parseSelection();
 setNavLinks();
 if (!datafilename) {
-  datafilename = '/data/grouped' + selectedState + '.csv';
+  datafilename = '/data/grouped' + selectedState.replace(/\s/g, '') + '.csv';
 } else {
-  datafilename = '/data/' + datafilename + selectedState + '.csv';
+  datafilename = '/data/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
 }
 Papa.parse(datafilename, {download: true, complete: parsingDone});

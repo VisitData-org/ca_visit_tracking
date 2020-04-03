@@ -1,0 +1,868 @@
+2020-03-01,Mississippi,Food,57.0,53.0,58.0,1
+2020-03-01,Mississippi,Shops & Services,58.0,53.0,59.0,2
+2020-03-01,Mississippi,Gas Stations,111.0,108.0,111.0,3
+2020-03-01,Mississippi,Fast Food Restaurants,117.0,112.0,117.0,4
+2020-03-01,Mississippi,Big Box Stores,106.0,108.0,106.0,5
+2020-03-01,Mississippi,Grocery,100.0,98.0,100.0,6
+2020-03-01,Mississippi,Arts & Entertainment,102.0,100.0,102.0,7
+2020-03-01,Mississippi,Discount Stores,109.0,107.0,109.0,8
+2020-03-01,Mississippi,Outdoors & Recreation,62.0,60.0,62.0,9
+2020-03-01,Mississippi,Hotel,87.0,80.0,87.0,10
+2020-03-01,Mississippi,Convenience Store,109.0,98.0,109.0,11
+2020-03-01,Mississippi,School,72.0,65.0,72.0,12
+2020-03-01,Mississippi,Professional & Other Places,23.0,19.0,23.0,13
+2020-03-01,Mississippi,Medical,65.0,63.0,65.0,14
+2020-03-01,Mississippi,Nightlife Spots,65.0,59.0,65.0,15
+2020-03-01,Mississippi,Hardware Stores,126.0,109.0,127.0,16
+2020-03-01,Mississippi,Colleges & Universities,71.0,53.0,72.0,17
+2020-03-01,Mississippi,Residences,101.0,97.0,102.0,18
+2020-03-01,Mississippi,Drug Store,103.0,104.0,103.0,19
+2020-03-01,Mississippi,Travel & Transport,97.0,95.0,97.0,20
+2020-03-01,Mississippi,Government,76.0,70.0,76.0,21
+2020-03-01,Mississippi,Sports,78.0,83.0,78.0,22
+2020-03-01,Mississippi,Banks,118.0,108.0,119.0,23
+2020-03-01,Mississippi,Fitness Center,65.0,85.0,65.0,24
+2020-03-01,Mississippi,Office,101.0,"",101.0,25
+2020-03-01,Mississippi,Alcohol,119.0,144.0,118.0,26
+2020-03-01,Mississippi,Airport,82.0,"",83.0,27
+2020-03-01,Mississippi,Beach,91.0,"",90.0,28
+2020-03-02,Mississippi,Food,54.0,54.0,54.0,1
+2020-03-02,Mississippi,Shops & Services,62.0,59.0,62.0,2
+2020-03-02,Mississippi,Gas Stations,108.0,105.0,108.0,3
+2020-03-02,Mississippi,Fast Food Restaurants,117.0,108.0,117.0,4
+2020-03-02,Mississippi,Medical,60.0,55.0,60.0,5
+2020-03-02,Mississippi,Grocery,105.0,96.0,105.0,6
+2020-03-02,Mississippi,Big Box Stores,110.0,98.0,111.0,7
+2020-03-02,Mississippi,School,70.0,71.0,70.0,8
+2020-03-02,Mississippi,Professional & Other Places,28.0,27.0,28.0,9
+2020-03-02,Mississippi,Colleges & Universities,79.0,96.0,79.0,10
+2020-03-02,Mississippi,Discount Stores,108.0,110.0,108.0,11
+2020-03-02,Mississippi,Arts & Entertainment,99.0,95.0,99.0,12
+2020-03-02,Mississippi,Outdoors & Recreation,50.0,45.0,50.0,13
+2020-03-02,Mississippi,Convenience Store,105.0,106.0,105.0,14
+2020-03-02,Mississippi,Government,86.0,82.0,86.0,15
+2020-03-02,Mississippi,Hotel,85.0,83.0,85.0,16
+2020-03-02,Mississippi,Drug Store,112.0,108.0,113.0,17
+2020-03-02,Mississippi,Hardware Stores,105.0,99.0,106.0,18
+2020-03-02,Mississippi,Banks,119.0,112.0,119.0,19
+2020-03-02,Mississippi,Residences,107.0,96.0,107.0,20
+2020-03-02,Mississippi,Fitness Center,73.0,69.0,73.0,21
+2020-03-02,Mississippi,Nightlife Spots,65.0,56.0,66.0,22
+2020-03-02,Mississippi,Travel & Transport,101.0,94.0,101.0,23
+2020-03-02,Mississippi,Office,86.0,99.0,85.0,24
+2020-03-02,Mississippi,Sports,54.0,48.0,55.0,25
+2020-03-02,Mississippi,Airport,95.0,91.0,96.0,26
+2020-03-02,Mississippi,Alcohol,114.0,115.0,114.0,27
+2020-03-02,Mississippi,Beach,93.0,"",94.0,28
+2020-03-03,Mississippi,Food,55.0,54.0,55.0,1
+2020-03-03,Mississippi,Shops & Services,86.0,79.0,86.0,2
+2020-03-03,Mississippi,Gas Stations,108.0,107.0,108.0,3
+2020-03-03,Mississippi,Fast Food Restaurants,117.0,112.0,117.0,4
+2020-03-03,Mississippi,Grocery,109.0,106.0,109.0,5
+2020-03-03,Mississippi,Medical,58.0,53.0,58.0,6
+2020-03-03,Mississippi,Big Box Stores,114.0,106.0,114.0,7
+2020-03-03,Mississippi,School,65.0,63.0,65.0,8
+2020-03-03,Mississippi,Professional & Other Places,29.0,28.0,29.0,9
+2020-03-03,Mississippi,Colleges & Universities,91.0,95.0,91.0,10
+2020-03-03,Mississippi,Discount Stores,108.0,101.0,108.0,11
+2020-03-03,Mississippi,Arts & Entertainment,99.0,93.0,99.0,12
+2020-03-03,Mississippi,Outdoors & Recreation,52.0,46.0,52.0,13
+2020-03-03,Mississippi,Government,77.0,73.0,77.0,14
+2020-03-03,Mississippi,Convenience Store,104.0,106.0,104.0,15
+2020-03-03,Mississippi,Hotel,83.0,82.0,83.0,16
+2020-03-03,Mississippi,Drug Store,110.0,104.0,111.0,17
+2020-03-03,Mississippi,Hardware Stores,113.0,96.0,114.0,18
+2020-03-03,Mississippi,Banks,131.0,121.0,131.0,19
+2020-03-03,Mississippi,Fitness Center,70.0,66.0,70.0,20
+2020-03-03,Mississippi,Travel & Transport,102.0,107.0,102.0,21
+2020-03-03,Mississippi,Residences,110.0,109.0,110.0,22
+2020-03-03,Mississippi,Office,88.0,83.0,88.0,23
+2020-03-03,Mississippi,Nightlife Spots,63.0,56.0,63.0,24
+2020-03-03,Mississippi,Sports,58.0,63.0,58.0,25
+2020-03-03,Mississippi,Alcohol,111.0,94.0,112.0,26
+2020-03-03,Mississippi,Airport,93.0,"",93.0,27
+2020-03-03,Mississippi,Beach,100.0,"",101.0,28
+2020-03-04,Mississippi,Food,51.0,47.0,51.0,1
+2020-03-04,Mississippi,Shops & Services,65.0,58.0,65.0,2
+2020-03-04,Mississippi,Gas Stations,101.0,88.0,102.0,3
+2020-03-04,Mississippi,Fast Food Restaurants,107.0,96.0,108.0,4
+2020-03-04,Mississippi,Medical,57.0,53.0,57.0,5
+2020-03-04,Mississippi,Grocery,100.0,89.0,100.0,6
+2020-03-04,Mississippi,Big Box Stores,100.0,89.0,101.0,7
+2020-03-04,Mississippi,School,62.0,59.0,62.0,8
+2020-03-04,Mississippi,Professional & Other Places,29.0,23.0,29.0,9
+2020-03-04,Mississippi,Colleges & Universities,71.0,72.0,71.0,10
+2020-03-04,Mississippi,Discount Stores,102.0,93.0,103.0,11
+2020-03-04,Mississippi,Arts & Entertainment,95.0,78.0,96.0,12
+2020-03-04,Mississippi,Outdoors & Recreation,47.0,40.0,47.0,13
+2020-03-04,Mississippi,Hotel,82.0,65.0,82.0,14
+2020-03-04,Mississippi,Government,73.0,64.0,73.0,15
+2020-03-04,Mississippi,Convenience Store,96.0,79.0,97.0,16
+2020-03-04,Mississippi,Drug Store,103.0,103.0,103.0,17
+2020-03-04,Mississippi,Hardware Stores,101.0,94.0,102.0,18
+2020-03-04,Mississippi,Fitness Center,65.0,59.0,66.0,19
+2020-03-04,Mississippi,Nightlife Spots,66.0,61.0,67.0,20
+2020-03-04,Mississippi,Travel & Transport,102.0,89.0,103.0,21
+2020-03-04,Mississippi,Banks,106.0,94.0,107.0,22
+2020-03-04,Mississippi,Residences,102.0,92.0,102.0,23
+2020-03-04,Mississippi,Office,80.0,72.0,80.0,24
+2020-03-04,Mississippi,Sports,51.0,48.0,51.0,25
+2020-03-04,Mississippi,Airport,91.0,123.0,89.0,26
+2020-03-04,Mississippi,Alcohol,94.0,"",95.0,27
+2020-03-04,Mississippi,Beach,85.0,101.0,84.0,28
+2020-03-05,Mississippi,Food,49.0,47.0,49.0,1
+2020-03-05,Mississippi,Shops & Services,83.0,80.0,83.0,2
+2020-03-05,Mississippi,Gas Stations,106.0,98.0,106.0,3
+2020-03-05,Mississippi,Fast Food Restaurants,112.0,100.0,112.0,4
+2020-03-05,Mississippi,Medical,57.0,58.0,57.0,5
+2020-03-05,Mississippi,Big Box Stores,103.0,93.0,104.0,6
+2020-03-05,Mississippi,Grocery,102.0,101.0,102.0,7
+2020-03-05,Mississippi,School,61.0,58.0,61.0,8
+2020-03-05,Mississippi,Colleges & Universities,81.0,106.0,80.0,9
+2020-03-05,Mississippi,Professional & Other Places,28.0,25.0,28.0,10
+2020-03-05,Mississippi,Discount Stores,105.0,105.0,105.0,11
+2020-03-05,Mississippi,Arts & Entertainment,96.0,85.0,96.0,12
+2020-03-05,Mississippi,Outdoors & Recreation,59.0,55.0,60.0,13
+2020-03-05,Mississippi,Hotel,88.0,82.0,88.0,14
+2020-03-05,Mississippi,Convenience Store,103.0,97.0,104.0,15
+2020-03-05,Mississippi,Government,74.0,59.0,74.0,16
+2020-03-05,Mississippi,Hardware Stores,114.0,116.0,114.0,17
+2020-03-05,Mississippi,Drug Store,100.0,96.0,100.0,18
+2020-03-05,Mississippi,Banks,115.0,107.0,115.0,19
+2020-03-05,Mississippi,Residences,121.0,113.0,121.0,20
+2020-03-05,Mississippi,Nightlife Spots,66.0,60.0,67.0,21
+2020-03-05,Mississippi,Travel & Transport,94.0,93.0,94.0,22
+2020-03-05,Mississippi,Fitness Center,73.0,64.0,73.0,23
+2020-03-05,Mississippi,Office,87.0,100.0,87.0,24
+2020-03-05,Mississippi,Sports,53.0,53.0,53.0,25
+2020-03-05,Mississippi,Alcohol,107.0,102.0,107.0,26
+2020-03-05,Mississippi,Airport,80.0,98.0,80.0,27
+2020-03-05,Mississippi,Beach,113.0,146.0,112.0,28
+2020-03-06,Mississippi,Food,53.0,50.0,53.0,1
+2020-03-06,Mississippi,Shops & Services,83.0,76.0,83.0,2
+2020-03-06,Mississippi,Gas Stations,102.0,95.0,102.0,3
+2020-03-06,Mississippi,Fast Food Restaurants,109.0,106.0,109.0,4
+2020-03-06,Mississippi,Grocery,99.0,91.0,100.0,5
+2020-03-06,Mississippi,Big Box Stores,99.0,93.0,99.0,6
+2020-03-06,Mississippi,School,61.0,58.0,61.0,7
+2020-03-06,Mississippi,Medical,57.0,56.0,57.0,8
+2020-03-06,Mississippi,Professional & Other Places,26.0,22.0,26.0,9
+2020-03-06,Mississippi,Discount Stores,95.0,103.0,95.0,10
+2020-03-06,Mississippi,Arts & Entertainment,95.0,90.0,95.0,11
+2020-03-06,Mississippi,Outdoors & Recreation,59.0,54.0,59.0,12
+2020-03-06,Mississippi,Colleges & Universities,73.0,78.0,73.0,13
+2020-03-06,Mississippi,Hotel,88.0,72.0,89.0,14
+2020-03-06,Mississippi,Convenience Store,96.0,89.0,96.0,15
+2020-03-06,Mississippi,Government,70.0,64.0,70.0,16
+2020-03-06,Mississippi,Hardware Stores,116.0,102.0,117.0,17
+2020-03-06,Mississippi,Drug Store,97.0,89.0,97.0,18
+2020-03-06,Mississippi,Banks,104.0,95.0,104.0,19
+2020-03-06,Mississippi,Nightlife Spots,70.0,61.0,70.0,19
+2020-03-06,Mississippi,Travel & Transport,106.0,102.0,107.0,20
+2020-03-06,Mississippi,Residences,104.0,96.0,104.0,21
+2020-03-06,Mississippi,Fitness Center,69.0,69.0,69.0,22
+2020-03-06,Mississippi,Office,86.0,95.0,86.0,23
+2020-03-06,Mississippi,Sports,51.0,50.0,51.0,24
+2020-03-06,Mississippi,Alcohol,104.0,108.0,104.0,25
+2020-03-06,Mississippi,Airport,80.0,78.0,80.0,26
+2020-03-06,Mississippi,Beach,103.0,107.0,102.0,27
+2020-03-07,Mississippi,Food,47.0,44.0,47.0,1
+2020-03-07,Mississippi,Shops & Services,68.0,64.0,68.0,2
+2020-03-07,Mississippi,Gas Stations,107.0,98.0,107.0,3
+2020-03-07,Mississippi,Fast Food Restaurants,106.0,99.0,106.0,4
+2020-03-07,Mississippi,Big Box Stores,99.0,89.0,99.0,5
+2020-03-07,Mississippi,Grocery,98.0,90.0,98.0,6
+2020-03-07,Mississippi,Arts & Entertainment,92.0,78.0,93.0,7
+2020-03-07,Mississippi,Discount Stores,101.0,92.0,101.0,8
+2020-03-07,Mississippi,Outdoors & Recreation,59.0,57.0,60.0,9
+2020-03-07,Mississippi,Hotel,88.0,65.0,89.0,10
+2020-03-07,Mississippi,Professional & Other Places,26.0,23.0,26.0,11
+2020-03-07,Mississippi,School,58.0,54.0,58.0,12
+2020-03-07,Mississippi,Convenience Store,99.0,82.0,99.0,13
+2020-03-07,Mississippi,Hardware Stores,111.0,94.0,112.0,14
+2020-03-07,Mississippi,Medical,58.0,60.0,58.0,14
+2020-03-07,Mississippi,Nightlife Spots,61.0,54.0,62.0,15
+2020-03-07,Mississippi,Colleges & Universities,88.0,90.0,88.0,16
+2020-03-07,Mississippi,Drug Store,103.0,94.0,104.0,17
+2020-03-07,Mississippi,Travel & Transport,105.0,82.0,106.0,18
+2020-03-07,Mississippi,Residences,98.0,92.0,98.0,19
+2020-03-07,Mississippi,Government,76.0,80.0,76.0,20
+2020-03-07,Mississippi,Sports,60.0,55.0,61.0,21
+2020-03-07,Mississippi,Fitness Center,72.0,66.0,72.0,22
+2020-03-07,Mississippi,Banks,89.0,90.0,89.0,23
+2020-03-07,Mississippi,Office,92.0,115.0,92.0,24
+2020-03-07,Mississippi,Alcohol,105.0,95.0,105.0,25
+2020-03-07,Mississippi,Airport,90.0,75.0,91.0,26
+2020-03-07,Mississippi,Beach,103.0,107.0,103.0,27
+2020-03-08,Mississippi,Food,52.0,46.0,53.0,1
+2020-03-08,Mississippi,Shops & Services,61.0,54.0,61.0,2
+2020-03-08,Mississippi,Gas Stations,111.0,101.0,112.0,3
+2020-03-08,Mississippi,Fast Food Restaurants,113.0,105.0,114.0,4
+2020-03-08,Mississippi,Big Box Stores,103.0,99.0,103.0,5
+2020-03-08,Mississippi,Grocery,98.0,92.0,98.0,6
+2020-03-08,Mississippi,Arts & Entertainment,99.0,81.0,99.0,7
+2020-03-08,Mississippi,Outdoors & Recreation,59.0,52.0,59.0,8
+2020-03-08,Mississippi,Discount Stores,102.0,105.0,102.0,9
+2020-03-08,Mississippi,Hotel,88.0,84.0,88.0,10
+2020-03-08,Mississippi,Convenience Store,112.0,95.0,113.0,11
+2020-03-08,Mississippi,Professional & Other Places,24.0,18.0,25.0,12
+2020-03-08,Mississippi,School,71.0,72.0,71.0,13
+2020-03-08,Mississippi,Medical,65.0,60.0,65.0,14
+2020-03-08,Mississippi,Nightlife Spots,66.0,50.0,66.0,14
+2020-03-08,Mississippi,Hardware Stores,132.0,118.0,133.0,15
+2020-03-08,Mississippi,Colleges & Universities,56.0,50.0,56.0,16
+2020-03-08,Mississippi,Residences,98.0,108.0,98.0,17
+2020-03-08,Mississippi,Travel & Transport,101.0,95.0,101.0,18
+2020-03-08,Mississippi,Drug Store,104.0,95.0,104.0,19
+2020-03-08,Mississippi,Sports,68.0,70.0,68.0,20
+2020-03-08,Mississippi,Government,73.0,70.0,73.0,21
+2020-03-08,Mississippi,Fitness Center,70.0,"",70.0,22
+2020-03-08,Mississippi,Banks,97.0,92.0,97.0,23
+2020-03-08,Mississippi,Office,95.0,"",96.0,24
+2020-03-08,Mississippi,Alcohol,109.0,"",110.0,25
+2020-03-08,Mississippi,Airport,88.0,"",89.0,26
+2020-03-08,Mississippi,Beach,109.0,"",110.0,27
+2020-03-09,Mississippi,Food,55.0,52.0,55.0,1
+2020-03-09,Mississippi,Shops & Services,56.0,53.0,56.0,2
+2020-03-09,Mississippi,Gas Stations,104.0,104.0,104.0,3
+2020-03-09,Mississippi,Fast Food Restaurants,111.0,101.0,111.0,4
+2020-03-09,Mississippi,Grocery,103.0,95.0,104.0,5
+2020-03-09,Mississippi,Big Box Stores,108.0,93.0,109.0,6
+2020-03-09,Mississippi,Medical,53.0,50.0,53.0,7
+2020-03-09,Mississippi,Professional & Other Places,23.0,22.0,23.0,8
+2020-03-09,Mississippi,Discount Stores,104.0,100.0,105.0,9
+2020-03-09,Mississippi,Outdoors & Recreation,62.0,53.0,62.0,10
+2020-03-09,Mississippi,School,50.0,48.0,50.0,11
+2020-03-09,Mississippi,Arts & Entertainment,95.0,79.0,95.0,12
+2020-03-09,Mississippi,Hotel,89.0,80.0,89.0,13
+2020-03-09,Mississippi,Convenience Store,103.0,96.0,103.0,14
+2020-03-09,Mississippi,Government,76.0,76.0,76.0,15
+2020-03-09,Mississippi,Colleges & Universities,42.0,67.0,41.0,16
+2020-03-09,Mississippi,Hardware Stores,114.0,101.0,115.0,17
+2020-03-09,Mississippi,Drug Store,104.0,90.0,105.0,18
+2020-03-09,Mississippi,Banks,119.0,113.0,119.0,19
+2020-03-09,Mississippi,Travel & Transport,100.0,92.0,100.0,20
+2020-03-09,Mississippi,Nightlife Spots,64.0,56.0,64.0,21
+2020-03-09,Mississippi,Residences,102.0,82.0,102.0,22
+2020-03-09,Mississippi,Fitness Center,66.0,60.0,66.0,23
+2020-03-09,Mississippi,Office,81.0,98.0,80.0,24
+2020-03-09,Mississippi,Sports,57.0,58.0,57.0,25
+2020-03-09,Mississippi,Alcohol,109.0,96.0,110.0,26
+2020-03-09,Mississippi,Airport,82.0,89.0,81.0,27
+2020-03-09,Mississippi,Beach,114.0,108.0,114.0,28
+2020-03-10,Mississippi,Food,51.0,49.0,51.0,1
+2020-03-10,Mississippi,Shops & Services,65.0,57.0,65.0,2
+2020-03-10,Mississippi,Gas Stations,105.0,106.0,105.0,3
+2020-03-10,Mississippi,Fast Food Restaurants,107.0,94.0,107.0,4
+2020-03-10,Mississippi,Medical,54.0,48.0,54.0,5
+2020-03-10,Mississippi,Grocery,100.0,89.0,101.0,6
+2020-03-10,Mississippi,Big Box Stores,105.0,102.0,105.0,7
+2020-03-10,Mississippi,Professional & Other Places,23.0,24.0,23.0,8
+2020-03-10,Mississippi,Discount Stores,105.0,111.0,105.0,9
+2020-03-10,Mississippi,School,46.0,50.0,46.0,10
+2020-03-10,Mississippi,Outdoors & Recreation,52.0,49.0,52.0,11
+2020-03-10,Mississippi,Arts & Entertainment,97.0,74.0,98.0,12
+2020-03-10,Mississippi,Hotel,88.0,76.0,89.0,13
+2020-03-10,Mississippi,Government,72.0,76.0,72.0,14
+2020-03-10,Mississippi,Convenience Store,100.0,91.0,101.0,15
+2020-03-10,Mississippi,Colleges & Universities,39.0,67.0,39.0,16
+2020-03-10,Mississippi,Hardware Stores,117.0,111.0,118.0,17
+2020-03-10,Mississippi,Drug Store,105.0,107.0,105.0,18
+2020-03-10,Mississippi,Travel & Transport,102.0,103.0,102.0,19
+2020-03-10,Mississippi,Nightlife Spots,69.0,62.0,70.0,20
+2020-03-10,Mississippi,Banks,109.0,90.0,110.0,21
+2020-03-10,Mississippi,Fitness Center,61.0,55.0,61.0,22
+2020-03-10,Mississippi,Office,81.0,79.0,81.0,23
+2020-03-10,Mississippi,Residences,98.0,100.0,98.0,24
+2020-03-10,Mississippi,Sports,52.0,65.0,52.0,25
+2020-03-10,Mississippi,Alcohol,108.0,83.0,109.0,26
+2020-03-10,Mississippi,Airport,71.0,91.0,70.0,27
+2020-03-10,Mississippi,Beach,104.0,"",104.0,28
+2020-03-11,Mississippi,Food,52.0,50.0,52.0,1
+2020-03-11,Mississippi,Shops & Services,81.0,75.0,81.0,2
+2020-03-11,Mississippi,Gas Stations,103.0,96.0,103.0,3
+2020-03-11,Mississippi,Fast Food Restaurants,101.0,96.0,101.0,4
+2020-03-11,Mississippi,Grocery,103.0,100.0,103.0,5
+2020-03-11,Mississippi,Big Box Stores,106.0,93.0,106.0,6
+2020-03-11,Mississippi,Medical,53.0,51.0,53.0,7
+2020-03-11,Mississippi,Professional & Other Places,22.0,21.0,22.0,8
+2020-03-11,Mississippi,Discount Stores,106.0,114.0,105.0,9
+2020-03-11,Mississippi,Outdoors & Recreation,57.0,50.0,57.0,10
+2020-03-11,Mississippi,Arts & Entertainment,99.0,83.0,100.0,11
+2020-03-11,Mississippi,School,42.0,40.0,42.0,12
+2020-03-11,Mississippi,Hotel,86.0,70.0,87.0,13
+2020-03-11,Mississippi,Convenience Store,103.0,85.0,104.0,14
+2020-03-11,Mississippi,Colleges & Universities,40.0,60.0,40.0,15
+2020-03-11,Mississippi,Government,65.0,66.0,65.0,16
+2020-03-11,Mississippi,Hardware Stores,123.0,119.0,124.0,17
+2020-03-11,Mississippi,Drug Store,98.0,89.0,99.0,18
+2020-03-11,Mississippi,Nightlife Spots,69.0,56.0,69.0,19
+2020-03-11,Mississippi,Travel & Transport,98.0,91.0,98.0,20
+2020-03-11,Mississippi,Office,84.0,87.0,84.0,21
+2020-03-11,Mississippi,Fitness Center,62.0,58.0,62.0,22
+2020-03-11,Mississippi,Banks,99.0,87.0,100.0,23
+2020-03-11,Mississippi,Residences,93.0,97.0,93.0,24
+2020-03-11,Mississippi,Sports,49.0,50.0,49.0,25
+2020-03-11,Mississippi,Alcohol,97.0,83.0,98.0,26
+2020-03-11,Mississippi,Airport,69.0,"",69.0,27
+2020-03-11,Mississippi,Beach,112.0,116.0,112.0,28
+2020-03-12,Mississippi,Food,53.0,49.0,53.0,1
+2020-03-12,Mississippi,Shops & Services,61.0,60.0,61.0,2
+2020-03-12,Mississippi,Gas Stations,106.0,96.0,106.0,3
+2020-03-12,Mississippi,Fast Food Restaurants,105.0,97.0,106.0,4
+2020-03-12,Mississippi,Grocery,119.0,120.0,118.0,5
+2020-03-12,Mississippi,Big Box Stores,117.0,110.0,118.0,6
+2020-03-12,Mississippi,Medical,50.0,45.0,50.0,7
+2020-03-12,Mississippi,Discount Stores,120.0,116.0,120.0,8
+2020-03-12,Mississippi,Professional & Other Places,24.0,21.0,24.0,9
+2020-03-12,Mississippi,Outdoors & Recreation,80.0,68.0,80.0,10
+2020-03-12,Mississippi,School,47.0,50.0,46.0,11
+2020-03-12,Mississippi,Arts & Entertainment,95.0,85.0,96.0,12
+2020-03-12,Mississippi,Convenience Store,107.0,89.0,108.0,13
+2020-03-12,Mississippi,Hotel,83.0,71.0,83.0,14
+2020-03-12,Mississippi,Government,66.0,62.0,66.0,15
+2020-03-12,Mississippi,Colleges & Universities,41.0,72.0,41.0,16
+2020-03-12,Mississippi,Hardware Stores,118.0,119.0,118.0,17
+2020-03-12,Mississippi,Drug Store,106.0,103.0,106.0,18
+2020-03-12,Mississippi,Travel & Transport,101.0,94.0,101.0,19
+2020-03-12,Mississippi,Nightlife Spots,81.0,66.0,82.0,20
+2020-03-12,Mississippi,Banks,110.0,98.0,111.0,21
+2020-03-12,Mississippi,Residences,108.0,93.0,109.0,22
+2020-03-12,Mississippi,Office,85.0,75.0,86.0,23
+2020-03-12,Mississippi,Fitness Center,62.0,56.0,62.0,24
+2020-03-12,Mississippi,Sports,53.0,64.0,52.0,25
+2020-03-12,Mississippi,Alcohol,102.0,115.0,101.0,26
+2020-03-12,Mississippi,Airport,65.0,70.0,65.0,27
+2020-03-12,Mississippi,Beach,123.0,130.0,123.0,28
+2020-03-13,Mississippi,Food,49.0,43.0,49.0,1
+2020-03-13,Mississippi,Shops & Services,57.0,46.0,58.0,2
+2020-03-13,Mississippi,Gas Stations,102.0,96.0,102.0,3
+2020-03-13,Mississippi,Fast Food Restaurants,101.0,95.0,101.0,4
+2020-03-13,Mississippi,Grocery,126.0,115.0,127.0,5
+2020-03-13,Mississippi,Big Box Stores,118.0,105.0,118.0,6
+2020-03-13,Mississippi,Discount Stores,122.0,108.0,122.0,7
+2020-03-13,Mississippi,Medical,52.0,48.0,52.0,8
+2020-03-13,Mississippi,Professional & Other Places,26.0,23.0,26.0,9
+2020-03-13,Mississippi,Outdoors & Recreation,56.0,46.0,56.0,10
+2020-03-13,Mississippi,Arts & Entertainment,89.0,69.0,90.0,11
+2020-03-13,Mississippi,School,42.0,41.0,42.0,12
+2020-03-13,Mississippi,Convenience Store,102.0,96.0,102.0,13
+2020-03-13,Mississippi,Hotel,82.0,65.0,83.0,14
+2020-03-13,Mississippi,Drug Store,116.0,103.0,117.0,15
+2020-03-13,Mississippi,Hardware Stores,120.0,111.0,121.0,16
+2020-03-13,Mississippi,Government,63.0,60.0,63.0,17
+2020-03-13,Mississippi,Banks,102.0,84.0,103.0,18
+2020-03-13,Mississippi,Colleges & Universities,36.0,47.0,36.0,19
+2020-03-13,Mississippi,Travel & Transport,114.0,107.0,114.0,19
+2020-03-13,Mississippi,Nightlife Spots,67.0,51.0,67.0,20
+2020-03-13,Mississippi,Residences,100.0,76.0,100.0,21
+2020-03-13,Mississippi,Office,77.0,79.0,77.0,22
+2020-03-13,Mississippi,Fitness Center,60.0,55.0,60.0,23
+2020-03-13,Mississippi,Sports,67.0,70.0,67.0,24
+2020-03-13,Mississippi,Alcohol,109.0,92.0,110.0,25
+2020-03-13,Mississippi,Airport,59.0,66.0,59.0,26
+2020-03-13,Mississippi,Beach,103.0,90.0,104.0,27
+2020-03-14,Mississippi,Food,42.0,39.0,42.0,1
+2020-03-14,Mississippi,Shops & Services,55.0,48.0,55.0,2
+2020-03-14,Mississippi,Gas Stations,101.0,87.0,101.0,3
+2020-03-14,Mississippi,Fast Food Restaurants,89.0,83.0,89.0,4
+2020-03-14,Mississippi,Grocery,119.0,120.0,119.0,5
+2020-03-14,Mississippi,Big Box Stores,104.0,87.0,105.0,6
+2020-03-14,Mississippi,Discount Stores,108.0,107.0,108.0,7
+2020-03-14,Mississippi,Outdoors & Recreation,59.0,51.0,60.0,8
+2020-03-14,Mississippi,Arts & Entertainment,76.0,62.0,77.0,9
+2020-03-14,Mississippi,Hotel,77.0,73.0,77.0,10
+2020-03-14,Mississippi,Convenience Store,96.0,83.0,97.0,11
+2020-03-14,Mississippi,Professional & Other Places,22.0,22.0,22.0,12
+2020-03-14,Mississippi,Hardware Stores,127.0,108.0,128.0,13
+2020-03-14,Mississippi,School,55.0,51.0,55.0,14
+2020-03-14,Mississippi,Medical,56.0,48.0,56.0,15
+2020-03-14,Mississippi,Nightlife Spots,58.0,51.0,59.0,16
+2020-03-14,Mississippi,Drug Store,100.0,96.0,100.0,17
+2020-03-14,Mississippi,Travel & Transport,94.0,73.0,95.0,18
+2020-03-14,Mississippi,Residences,93.0,96.0,93.0,19
+2020-03-14,Mississippi,Sports,61.0,66.0,61.0,20
+2020-03-14,Mississippi,Government,63.0,59.0,63.0,21
+2020-03-14,Mississippi,Colleges & Universities,38.0,42.0,38.0,22
+2020-03-14,Mississippi,Fitness Center,49.0,51.0,49.0,23
+2020-03-14,Mississippi,Banks,73.0,69.0,73.0,24
+2020-03-14,Mississippi,Alcohol,93.0,103.0,93.0,25
+2020-03-14,Mississippi,Office,77.0,"",77.0,26
+2020-03-14,Mississippi,Beach,107.0,"",108.0,27
+2020-03-14,Mississippi,Airport,57.0,"",57.0,28
+2020-03-15,Mississippi,Food,43.0,36.0,43.0,1
+2020-03-15,Mississippi,Shops & Services,74.0,64.0,74.0,2
+2020-03-15,Mississippi,Gas Stations,97.0,81.0,97.0,3
+2020-03-15,Mississippi,Grocery,108.0,98.0,109.0,4
+2020-03-15,Mississippi,Fast Food Restaurants,92.0,74.0,92.0,5
+2020-03-15,Mississippi,Big Box Stores,98.0,91.0,98.0,6
+2020-03-15,Mississippi,Discount Stores,105.0,95.0,105.0,7
+2020-03-15,Mississippi,Outdoors & Recreation,65.0,54.0,65.0,8
+2020-03-15,Mississippi,Arts & Entertainment,75.0,52.0,75.0,9
+2020-03-15,Mississippi,Hotel,71.0,56.0,72.0,10
+2020-03-15,Mississippi,Convenience Store,97.0,83.0,97.0,11
+2020-03-15,Mississippi,School,65.0,53.0,65.0,12
+2020-03-15,Mississippi,Professional & Other Places,18.0,13.0,19.0,13
+2020-03-15,Mississippi,Hardware Stores,126.0,110.0,127.0,14
+2020-03-15,Mississippi,Nightlife Spots,57.0,40.0,57.0,15
+2020-03-15,Mississippi,Medical,48.0,35.0,49.0,16
+2020-03-15,Mississippi,Drug Store,106.0,84.0,106.0,17
+2020-03-15,Mississippi,Travel & Transport,93.0,66.0,94.0,18
+2020-03-15,Mississippi,Residences,87.0,82.0,87.0,19
+2020-03-15,Mississippi,Colleges & Universities,57.0,46.0,58.0,20
+2020-03-15,Mississippi,Sports,86.0,83.0,86.0,21
+2020-03-15,Mississippi,Government,57.0,53.0,57.0,22
+2020-03-15,Mississippi,Fitness Center,61.0,"",61.0,23
+2020-03-15,Mississippi,Banks,84.0,"",85.0,24
+2020-03-15,Mississippi,Beach,117.0,"",118.0,25
+2020-03-15,Mississippi,Office,82.0,"",83.0,26
+2020-03-15,Mississippi,Alcohol,91.0,"",92.0,27
+2020-03-15,Mississippi,Airport,58.0,"",59.0,28
+2020-03-16,Mississippi,Food,48.0,39.0,48.0,1
+2020-03-16,Mississippi,Shops & Services,73.0,60.0,74.0,2
+2020-03-16,Mississippi,Gas Stations,105.0,95.0,106.0,3
+2020-03-16,Mississippi,Grocery,134.0,126.0,134.0,4
+2020-03-16,Mississippi,Fast Food Restaurants,95.0,84.0,96.0,5
+2020-03-16,Mississippi,Big Box Stores,118.0,101.0,119.0,6
+2020-03-16,Mississippi,Medical,49.0,40.0,50.0,7
+2020-03-16,Mississippi,Discount Stores,119.0,109.0,120.0,8
+2020-03-16,Mississippi,Professional & Other Places,23.0,19.0,23.0,9
+2020-03-16,Mississippi,Outdoors & Recreation,57.0,48.0,57.0,10
+2020-03-16,Mississippi,Arts & Entertainment,81.0,56.0,82.0,11
+2020-03-16,Mississippi,School,40.0,43.0,40.0,12
+2020-03-16,Mississippi,Convenience Store,103.0,88.0,104.0,13
+2020-03-16,Mississippi,Hotel,73.0,54.0,74.0,14
+2020-03-16,Mississippi,Hardware Stores,122.0,103.0,123.0,15
+2020-03-16,Mississippi,Government,66.0,65.0,66.0,16
+2020-03-16,Mississippi,Drug Store,116.0,102.0,116.0,17
+2020-03-16,Mississippi,Colleges & Universities,31.0,55.0,31.0,18
+2020-03-16,Mississippi,Banks,116.0,102.0,117.0,19
+2020-03-16,Mississippi,Travel & Transport,105.0,92.0,105.0,20
+2020-03-16,Mississippi,Nightlife Spots,76.0,61.0,76.0,21
+2020-03-16,Mississippi,Residences,94.0,75.0,95.0,22
+2020-03-16,Mississippi,Office,77.0,64.0,77.0,23
+2020-03-16,Mississippi,Fitness Center,51.0,45.0,51.0,24
+2020-03-16,Mississippi,Sports,49.0,48.0,49.0,25
+2020-03-16,Mississippi,Alcohol,118.0,124.0,118.0,26
+2020-03-16,Mississippi,Beach,122.0,"",123.0,27
+2020-03-16,Mississippi,Airport,54.0,"",54.0,28
+2020-03-17,Mississippi,Food,42.0,34.0,42.0,1
+2020-03-17,Mississippi,Shops & Services,61.0,48.0,61.0,2
+2020-03-17,Mississippi,Gas Stations,99.0,88.0,99.0,3
+2020-03-17,Mississippi,Grocery,128.0,109.0,128.0,4
+2020-03-17,Mississippi,Fast Food Restaurants,85.0,71.0,85.0,5
+2020-03-17,Mississippi,Big Box Stores,109.0,90.0,110.0,6
+2020-03-17,Mississippi,Medical,46.0,37.0,46.0,7
+2020-03-17,Mississippi,Discount Stores,114.0,95.0,114.0,8
+2020-03-17,Mississippi,Professional & Other Places,21.0,19.0,21.0,9
+2020-03-17,Mississippi,Outdoors & Recreation,65.0,56.0,66.0,10
+2020-03-17,Mississippi,School,34.0,36.0,34.0,11
+2020-03-17,Mississippi,Convenience Store,91.0,79.0,91.0,12
+2020-03-17,Mississippi,Arts & Entertainment,59.0,37.0,60.0,13
+2020-03-17,Mississippi,Hotel,65.0,53.0,65.0,14
+2020-03-17,Mississippi,Hardware Stores,119.0,93.0,120.0,15
+2020-03-17,Mississippi,Drug Store,111.0,94.0,112.0,16
+2020-03-17,Mississippi,Government,51.0,45.0,51.0,17
+2020-03-17,Mississippi,Colleges & Universities,32.0,53.0,32.0,18
+2020-03-17,Mississippi,Travel & Transport,96.0,79.0,96.0,19
+2020-03-17,Mississippi,Nightlife Spots,78.0,61.0,79.0,20
+2020-03-17,Mississippi,Residences,97.0,88.0,97.0,21
+2020-03-17,Mississippi,Office,72.0,63.0,73.0,22
+2020-03-17,Mississippi,Banks,90.0,78.0,91.0,23
+2020-03-17,Mississippi,Sports,57.0,55.0,57.0,24
+2020-03-17,Mississippi,Fitness Center,41.0,31.0,42.0,25
+2020-03-17,Mississippi,Alcohol,104.0,"",105.0,26
+2020-03-17,Mississippi,Beach,104.0,"",105.0,27
+2020-03-17,Mississippi,Airport,62.0,"",62.0,27
+2020-03-18,Mississippi,Food,39.0,31.0,39.0,1
+2020-03-18,Mississippi,Shops & Services,65.0,52.0,65.0,2
+2020-03-18,Mississippi,Gas Stations,95.0,81.0,96.0,3
+2020-03-18,Mississippi,Grocery,117.0,98.0,118.0,4
+2020-03-18,Mississippi,Fast Food Restaurants,79.0,67.0,80.0,5
+2020-03-18,Mississippi,Big Box Stores,101.0,83.0,102.0,6
+2020-03-18,Mississippi,Discount Stores,112.0,106.0,112.0,7
+2020-03-18,Mississippi,Medical,43.0,35.0,43.0,8
+2020-03-18,Mississippi,Professional & Other Places,17.0,14.0,17.0,9
+2020-03-18,Mississippi,Outdoors & Recreation,50.0,42.0,50.0,10
+2020-03-18,Mississippi,School,34.0,35.0,34.0,11
+2020-03-18,Mississippi,Convenience Store,89.0,71.0,89.0,12
+2020-03-18,Mississippi,Hardware Stores,123.0,95.0,124.0,13
+2020-03-18,Mississippi,Drug Store,110.0,108.0,110.0,14
+2020-03-18,Mississippi,Arts & Entertainment,52.0,36.0,52.0,15
+2020-03-18,Mississippi,Hotel,55.0,38.0,56.0,16
+2020-03-18,Mississippi,Government,51.0,45.0,51.0,16
+2020-03-18,Mississippi,Colleges & Universities,26.0,48.0,26.0,17
+2020-03-18,Mississippi,Travel & Transport,97.0,74.0,98.0,18
+2020-03-18,Mississippi,Residences,97.0,93.0,97.0,19
+2020-03-18,Mississippi,Banks,92.0,78.0,93.0,20
+2020-03-18,Mississippi,Nightlife Spots,54.0,42.0,55.0,21
+2020-03-18,Mississippi,Office,69.0,64.0,69.0,22
+2020-03-18,Mississippi,Sports,51.0,57.0,50.0,23
+2020-03-18,Mississippi,Fitness Center,37.0,31.0,37.0,24
+2020-03-18,Mississippi,Alcohol,96.0,81.0,97.0,25
+2020-03-18,Mississippi,Beach,106.0,"",107.0,26
+2020-03-18,Mississippi,Airport,56.0,"",56.0,27
+2020-03-19,Mississippi,Food,36.0,29.0,36.0,1
+2020-03-19,Mississippi,Shops & Services,57.0,48.0,57.0,2
+2020-03-19,Mississippi,Gas Stations,89.0,72.0,90.0,3
+2020-03-19,Mississippi,Grocery,120.0,98.0,121.0,4
+2020-03-19,Mississippi,Fast Food Restaurants,79.0,67.0,80.0,5
+2020-03-19,Mississippi,Big Box Stores,95.0,79.0,96.0,6
+2020-03-19,Mississippi,Discount Stores,106.0,98.0,107.0,7
+2020-03-19,Mississippi,Medical,37.0,28.0,37.0,8
+2020-03-19,Mississippi,Outdoors & Recreation,68.0,54.0,69.0,9
+2020-03-19,Mississippi,Professional & Other Places,22.0,19.0,22.0,10
+2020-03-19,Mississippi,School,35.0,41.0,35.0,11
+2020-03-19,Mississippi,Convenience Store,88.0,66.0,88.0,12
+2020-03-19,Mississippi,Hardware Stores,127.0,105.0,129.0,13
+2020-03-19,Mississippi,Hotel,59.0,39.0,60.0,14
+2020-03-19,Mississippi,Arts & Entertainment,52.0,39.0,52.0,15
+2020-03-19,Mississippi,Drug Store,96.0,80.0,97.0,16
+2020-03-19,Mississippi,Government,49.0,42.0,50.0,17
+2020-03-19,Mississippi,Colleges & Universities,32.0,46.0,32.0,18
+2020-03-19,Mississippi,Travel & Transport,87.0,70.0,87.0,19
+2020-03-19,Mississippi,Residences,96.0,64.0,98.0,20
+2020-03-19,Mississippi,Banks,84.0,61.0,85.0,21
+2020-03-19,Mississippi,Nightlife Spots,62.0,48.0,63.0,22
+2020-03-19,Mississippi,Office,65.0,52.0,66.0,23
+2020-03-19,Mississippi,Sports,68.0,68.0,68.0,24
+2020-03-19,Mississippi,Fitness Center,32.0,27.0,32.0,25
+2020-03-19,Mississippi,Alcohol,99.0,94.0,99.0,26
+2020-03-19,Mississippi,Beach,107.0,114.0,107.0,27
+2020-03-19,Mississippi,Airport,50.0,"",51.0,28
+2020-03-20,Mississippi,Food,34.0,27.0,34.0,1
+2020-03-20,Mississippi,Shops & Services,41.0,31.0,41.0,2
+2020-03-20,Mississippi,Gas Stations,85.0,73.0,86.0,3
+2020-03-20,Mississippi,Grocery,119.0,94.0,120.0,4
+2020-03-20,Mississippi,Fast Food Restaurants,75.0,65.0,75.0,5
+2020-03-20,Mississippi,Big Box Stores,93.0,70.0,94.0,6
+2020-03-20,Mississippi,Discount Stores,98.0,87.0,98.0,7
+2020-03-20,Mississippi,Medical,42.0,30.0,43.0,8
+2020-03-20,Mississippi,Professional & Other Places,18.0,15.0,18.0,9
+2020-03-20,Mississippi,Outdoors & Recreation,53.0,43.0,53.0,10
+2020-03-20,Mississippi,School,31.0,32.0,31.0,11
+2020-03-20,Mississippi,Convenience Store,81.0,66.0,82.0,12
+2020-03-20,Mississippi,Hardware Stores,108.0,76.0,110.0,13
+2020-03-20,Mississippi,Drug Store,95.0,75.0,96.0,14
+2020-03-20,Mississippi,Hotel,49.0,33.0,49.0,15
+2020-03-20,Mississippi,Arts & Entertainment,41.0,26.0,42.0,16
+2020-03-20,Mississippi,Government,45.0,36.0,46.0,17
+2020-03-20,Mississippi,Banks,84.0,70.0,85.0,18
+2020-03-20,Mississippi,Travel & Transport,79.0,68.0,79.0,19
+2020-03-20,Mississippi,Colleges & Universities,27.0,39.0,27.0,20
+2020-03-20,Mississippi,Residences,84.0,75.0,84.0,21
+2020-03-20,Mississippi,Nightlife Spots,56.0,41.0,56.0,22
+2020-03-20,Mississippi,Office,60.0,51.0,60.0,23
+2020-03-20,Mississippi,Sports,65.0,62.0,65.0,24
+2020-03-20,Mississippi,Fitness Center,34.0,24.0,34.0,25
+2020-03-20,Mississippi,Alcohol,87.0,67.0,87.0,26
+2020-03-20,Mississippi,Beach,89.0,"",92.0,27
+2020-03-20,Mississippi,Airport,39.0,"",40.0,28
+2020-03-21,Mississippi,Food,26.0,22.0,26.0,1
+2020-03-21,Mississippi,Shops & Services,44.0,36.0,44.0,2
+2020-03-21,Mississippi,Gas Stations,76.0,66.0,76.0,3
+2020-03-21,Mississippi,Grocery,106.0,91.0,107.0,4
+2020-03-21,Mississippi,Big Box Stores,78.0,66.0,78.0,5
+2020-03-21,Mississippi,Fast Food Restaurants,58.0,48.0,59.0,6
+2020-03-21,Mississippi,Discount Stores,86.0,77.0,86.0,7
+2020-03-21,Mississippi,Outdoors & Recreation,39.0,35.0,40.0,8
+2020-03-21,Mississippi,Hardware Stores,102.0,85.0,102.0,9
+2020-03-21,Mississippi,Convenience Store,68.0,59.0,69.0,10
+2020-03-21,Mississippi,School,41.0,35.0,41.0,11
+2020-03-21,Mississippi,Professional & Other Places,21.0,20.0,21.0,12
+2020-03-21,Mississippi,Medical,40.0,31.0,40.0,13
+2020-03-21,Mississippi,Drug Store,90.0,83.0,90.0,14
+2020-03-21,Mississippi,Hotel,37.0,28.0,37.0,15
+2020-03-21,Mississippi,Arts & Entertainment,25.0,21.0,25.0,16
+2020-03-21,Mississippi,Travel & Transport,74.0,54.0,75.0,17
+2020-03-21,Mississippi,Residences,71.0,69.0,71.0,18
+2020-03-21,Mississippi,Nightlife Spots,36.0,30.0,36.0,19
+2020-03-21,Mississippi,Colleges & Universities,44.0,"",44.0,20
+2020-03-21,Mississippi,Government,50.0,41.0,50.0,21
+2020-03-21,Mississippi,Sports,41.0,40.0,41.0,22
+2020-03-21,Mississippi,Banks,75.0,60.0,75.0,23
+2020-03-21,Mississippi,Alcohol,81.0,91.0,80.0,24
+2020-03-21,Mississippi,Office,60.0,"",60.0,25
+2020-03-21,Mississippi,Fitness Center,29.0,"",29.0,26
+2020-03-21,Mississippi,Beach,85.0,"",86.0,27
+2020-03-21,Mississippi,Airport,46.0,"",47.0,28
+2020-03-22,Mississippi,Food,22.0,15.0,22.0,1
+2020-03-22,Mississippi,Gas Stations,65.0,54.0,65.0,2
+2020-03-22,Mississippi,Shops & Services,44.0,37.0,44.0,3
+2020-03-22,Mississippi,Grocery,83.0,78.0,83.0,4
+2020-03-22,Mississippi,Big Box Stores,66.0,62.0,66.0,5
+2020-03-22,Mississippi,Fast Food Restaurants,56.0,45.0,56.0,6
+2020-03-22,Mississippi,Discount Stores,77.0,63.0,77.0,7
+2020-03-22,Mississippi,Outdoors & Recreation,40.0,35.0,41.0,8
+2020-03-22,Mississippi,School,45.0,39.0,45.0,9
+2020-03-22,Mississippi,Convenience Store,63.0,45.0,64.0,10
+2020-03-22,Mississippi,Hardware Stores,93.0,81.0,94.0,11
+2020-03-22,Mississippi,Professional & Other Places,15.0,9.0,15.0,12
+2020-03-22,Mississippi,Medical,39.0,30.0,40.0,13
+2020-03-22,Mississippi,Hotel,34.0,22.0,34.0,14
+2020-03-22,Mississippi,Drug Store,84.0,61.0,85.0,15
+2020-03-22,Mississippi,Arts & Entertainment,23.0,13.0,23.0,16
+2020-03-22,Mississippi,Residences,66.0,60.0,66.0,17
+2020-03-22,Mississippi,Travel & Transport,70.0,60.0,70.0,18
+2020-03-22,Mississippi,Colleges & Universities,43.0,"",44.0,19
+2020-03-22,Mississippi,Nightlife Spots,28.0,"",29.0,20
+2020-03-22,Mississippi,Government,44.0,"",44.0,21
+2020-03-22,Mississippi,Sports,48.0,47.0,48.0,22
+2020-03-22,Mississippi,Banks,74.0,"",75.0,23
+2020-03-22,Mississippi,Office,65.0,"",66.0,24
+2020-03-22,Mississippi,Beach,77.0,"",77.0,25
+2020-03-22,Mississippi,Alcohol,66.0,"",66.0,26
+2020-03-22,Mississippi,Fitness Center,34.0,"",33.0,26
+2020-03-22,Mississippi,Airport,33.0,"",34.0,27
+2020-03-23,Mississippi,Food,31.0,24.0,31.0,1
+2020-03-23,Mississippi,Shops & Services,46.0,36.0,46.0,2
+2020-03-23,Mississippi,Gas Stations,77.0,68.0,77.0,3
+2020-03-23,Mississippi,Grocery,99.0,89.0,99.0,4
+2020-03-23,Mississippi,Fast Food Restaurants,67.0,56.0,67.0,5
+2020-03-23,Mississippi,Big Box Stores,84.0,63.0,84.0,6
+2020-03-23,Mississippi,Discount Stores,90.0,83.0,90.0,7
+2020-03-23,Mississippi,Medical,35.0,26.0,36.0,8
+2020-03-23,Mississippi,Professional & Other Places,23.0,20.0,23.0,9
+2020-03-23,Mississippi,Outdoors & Recreation,51.0,42.0,51.0,10
+2020-03-23,Mississippi,School,36.0,34.0,36.0,11
+2020-03-23,Mississippi,Convenience Store,76.0,68.0,77.0,12
+2020-03-23,Mississippi,Hardware Stores,101.0,79.0,103.0,13
+2020-03-23,Mississippi,Drug Store,93.0,80.0,93.0,14
+2020-03-23,Mississippi,Arts & Entertainment,42.0,23.0,43.0,15
+2020-03-23,Mississippi,Government,45.0,39.0,45.0,16
+2020-03-23,Mississippi,Hotel,45.0,34.0,46.0,17
+2020-03-23,Mississippi,Colleges & Universities,30.0,46.0,30.0,18
+2020-03-23,Mississippi,Banks,87.0,73.0,88.0,19
+2020-03-23,Mississippi,Travel & Transport,80.0,61.0,80.0,20
+2020-03-23,Mississippi,Residences,82.0,62.0,83.0,21
+2020-03-23,Mississippi,Office,60.0,54.0,61.0,22
+2020-03-23,Mississippi,Nightlife Spots,42.0,32.0,42.0,23
+2020-03-23,Mississippi,Sports,49.0,51.0,49.0,24
+2020-03-23,Mississippi,Fitness Center,29.0,"",29.0,25
+2020-03-23,Mississippi,Alcohol,89.0,"",90.0,26
+2020-03-23,Mississippi,Beach,92.0,"",93.0,27
+2020-03-23,Mississippi,Airport,43.0,"",43.0,28
+2020-03-24,Mississippi,Food,32.0,24.0,32.0,1
+2020-03-24,Mississippi,Shops & Services,48.0,38.0,48.0,2
+2020-03-24,Mississippi,Gas Stations,74.0,62.0,74.0,3
+2020-03-24,Mississippi,Fast Food Restaurants,66.0,52.0,67.0,4
+2020-03-24,Mississippi,Grocery,85.0,76.0,85.0,5
+2020-03-24,Mississippi,Big Box Stores,77.0,64.0,77.0,6
+2020-03-24,Mississippi,Medical,33.0,25.0,34.0,7
+2020-03-24,Mississippi,Discount Stores,78.0,67.0,79.0,8
+2020-03-24,Mississippi,Professional & Other Places,17.0,13.0,17.0,9
+2020-03-24,Mississippi,Outdoors & Recreation,46.0,42.0,46.0,10
+2020-03-24,Mississippi,School,29.0,29.0,29.0,11
+2020-03-24,Mississippi,Convenience Store,70.0,54.0,70.0,12
+2020-03-24,Mississippi,Hardware Stores,101.0,79.0,102.0,13
+2020-03-24,Mississippi,Drug Store,81.0,66.0,82.0,14
+2020-03-24,Mississippi,Government,40.0,35.0,40.0,15
+2020-03-24,Mississippi,Arts & Entertainment,41.0,29.0,41.0,16
+2020-03-24,Mississippi,Colleges & Universities,31.0,43.0,31.0,17
+2020-03-24,Mississippi,Hotel,40.0,28.0,41.0,18
+2020-03-24,Mississippi,Travel & Transport,73.0,54.0,74.0,19
+2020-03-24,Mississippi,Residences,80.0,70.0,80.0,20
+2020-03-24,Mississippi,Banks,75.0,61.0,75.0,21
+2020-03-24,Mississippi,Office,55.0,44.0,56.0,22
+2020-03-24,Mississippi,Nightlife Spots,50.0,37.0,50.0,23
+2020-03-24,Mississippi,Sports,48.0,47.0,48.0,24
+2020-03-24,Mississippi,Fitness Center,23.0,"",23.0,25
+2020-03-24,Mississippi,Alcohol,80.0,"",81.0,26
+2020-03-24,Mississippi,Beach,93.0,"",94.0,27
+2020-03-24,Mississippi,Airport,47.0,"",48.0,28
+2020-03-25,Mississippi,Food,29.0,23.0,30.0,1
+2020-03-25,Mississippi,Shops & Services,52.0,42.0,53.0,2
+2020-03-25,Mississippi,Gas Stations,77.0,61.0,77.0,3
+2020-03-25,Mississippi,Fast Food Restaurants,66.0,54.0,66.0,4
+2020-03-25,Mississippi,Grocery,89.0,77.0,90.0,5
+2020-03-25,Mississippi,Big Box Stores,78.0,65.0,78.0,6
+2020-03-25,Mississippi,Discount Stores,86.0,78.0,86.0,7
+2020-03-25,Mississippi,Medical,32.0,24.0,33.0,8
+2020-03-25,Mississippi,Outdoors & Recreation,46.0,40.0,46.0,9
+2020-03-25,Mississippi,Professional & Other Places,15.0,12.0,15.0,10
+2020-03-25,Mississippi,School,32.0,34.0,31.0,11
+2020-03-25,Mississippi,Convenience Store,74.0,61.0,75.0,12
+2020-03-25,Mississippi,Hardware Stores,109.0,85.0,110.0,13
+2020-03-25,Mississippi,Drug Store,83.0,78.0,84.0,14
+2020-03-25,Mississippi,Hotel,44.0,26.0,45.0,15
+2020-03-25,Mississippi,Arts & Entertainment,42.0,28.0,42.0,16
+2020-03-25,Mississippi,Government,37.0,32.0,37.0,17
+2020-03-25,Mississippi,Colleges & Universities,28.0,37.0,28.0,18
+2020-03-25,Mississippi,Residences,85.0,85.0,85.0,19
+2020-03-25,Mississippi,Travel & Transport,72.0,52.0,73.0,20
+2020-03-25,Mississippi,Banks,73.0,60.0,73.0,21
+2020-03-25,Mississippi,Sports,59.0,61.0,59.0,22
+2020-03-25,Mississippi,Office,56.0,47.0,57.0,23
+2020-03-25,Mississippi,Nightlife Spots,46.0,34.0,47.0,24
+2020-03-25,Mississippi,Fitness Center,21.0,"",22.0,25
+2020-03-25,Mississippi,Alcohol,79.0,76.0,79.0,26
+2020-03-25,Mississippi,Beach,96.0,"",96.0,27
+2020-03-25,Mississippi,Airport,48.0,"",48.0,28
+2020-03-26,Mississippi,Food,29.0,22.0,30.0,1
+2020-03-26,Mississippi,Shops & Services,47.0,38.0,47.0,2
+2020-03-26,Mississippi,Gas Stations,80.0,65.0,81.0,3
+2020-03-26,Mississippi,Fast Food Restaurants,71.0,55.0,72.0,4
+2020-03-26,Mississippi,Grocery,86.0,75.0,87.0,5
+2020-03-26,Mississippi,Big Box Stores,71.0,61.0,72.0,6
+2020-03-26,Mississippi,Outdoors & Recreation,50.0,41.0,51.0,7
+2020-03-26,Mississippi,Discount Stores,83.0,68.0,84.0,8
+2020-03-26,Mississippi,Medical,33.0,21.0,34.0,9
+2020-03-26,Mississippi,Professional & Other Places,17.0,14.0,17.0,10
+2020-03-26,Mississippi,School,33.0,35.0,33.0,11
+2020-03-26,Mississippi,Convenience Store,80.0,64.0,80.0,12
+2020-03-26,Mississippi,Hardware Stores,118.0,96.0,119.0,13
+2020-03-26,Mississippi,Arts & Entertainment,43.0,37.0,43.0,14
+2020-03-26,Mississippi,Hotel,47.0,31.0,47.0,15
+2020-03-26,Mississippi,Government,40.0,31.0,40.0,16
+2020-03-26,Mississippi,Drug Store,74.0,59.0,74.0,17
+2020-03-26,Mississippi,Colleges & Universities,30.0,47.0,30.0,18
+2020-03-26,Mississippi,Travel & Transport,80.0,69.0,80.0,19
+2020-03-26,Mississippi,Residences,96.0,73.0,97.0,20
+2020-03-26,Mississippi,Sports,64.0,74.0,64.0,21
+2020-03-26,Mississippi,Banks,72.0,57.0,73.0,22
+2020-03-26,Mississippi,Nightlife Spots,55.0,44.0,55.0,23
+2020-03-26,Mississippi,Office,57.0,46.0,57.0,24
+2020-03-26,Mississippi,Fitness Center,23.0,"",24.0,25
+2020-03-26,Mississippi,Alcohol,69.0,"",70.0,26
+2020-03-26,Mississippi,Beach,113.0,103.0,114.0,27
+2020-03-26,Mississippi,Airport,45.0,"",45.0,28
+2020-03-27,Mississippi,Food,29.0,22.0,29.0,1
+2020-03-27,Mississippi,Shops & Services,42.0,32.0,43.0,2
+2020-03-27,Mississippi,Gas Stations,75.0,60.0,75.0,3
+2020-03-27,Mississippi,Fast Food Restaurants,68.0,53.0,69.0,4
+2020-03-27,Mississippi,Grocery,80.0,59.0,81.0,5
+2020-03-27,Mississippi,Big Box Stores,70.0,54.0,71.0,6
+2020-03-27,Mississippi,Discount Stores,79.0,62.0,80.0,7
+2020-03-27,Mississippi,Outdoors & Recreation,53.0,41.0,53.0,8
+2020-03-27,Mississippi,Medical,36.0,23.0,36.0,9
+2020-03-27,Mississippi,Professional & Other Places,18.0,16.0,18.0,10
+2020-03-27,Mississippi,School,31.0,30.0,31.0,11
+2020-03-27,Mississippi,Convenience Store,73.0,51.0,74.0,12
+2020-03-27,Mississippi,Hardware Stores,114.0,78.0,116.0,13
+2020-03-27,Mississippi,Arts & Entertainment,37.0,22.0,38.0,14
+2020-03-27,Mississippi,Hotel,44.0,27.0,45.0,15
+2020-03-27,Mississippi,Drug Store,74.0,52.0,75.0,16
+2020-03-27,Mississippi,Government,39.0,36.0,39.0,17
+2020-03-27,Mississippi,Banks,72.0,58.0,73.0,18
+2020-03-27,Mississippi,Travel & Transport,72.0,48.0,73.0,19
+2020-03-27,Mississippi,Colleges & Universities,31.0,41.0,31.0,20
+2020-03-27,Mississippi,Residences,78.0,75.0,78.0,21
+2020-03-27,Mississippi,Sports,54.0,58.0,54.0,22
+2020-03-27,Mississippi,Nightlife Spots,48.0,32.0,48.0,23
+2020-03-27,Mississippi,Office,58.0,51.0,59.0,24
+2020-03-27,Mississippi,Fitness Center,28.0,"",28.0,25
+2020-03-27,Mississippi,Alcohol,71.0,"",71.0,26
+2020-03-27,Mississippi,Beach,87.0,"",89.0,27
+2020-03-27,Mississippi,Airport,42.0,"",42.0,28
+2020-03-28,Mississippi,Food,24.0,20.0,24.0,1
+2020-03-28,Mississippi,Shops & Services,31.0,24.0,31.0,2
+2020-03-28,Mississippi,Gas Stations,73.0,57.0,74.0,3
+2020-03-28,Mississippi,Fast Food Restaurants,61.0,50.0,62.0,4
+2020-03-28,Mississippi,Grocery,82.0,69.0,83.0,5
+2020-03-28,Mississippi,Big Box Stores,70.0,56.0,70.0,6
+2020-03-28,Mississippi,Discount Stores,77.0,67.0,77.0,7
+2020-03-28,Mississippi,Outdoors & Recreation,52.0,40.0,52.0,8
+2020-03-28,Mississippi,Hardware Stores,114.0,90.0,115.0,9
+2020-03-28,Mississippi,School,42.0,40.0,42.0,10
+2020-03-28,Mississippi,Convenience Store,68.0,54.0,69.0,11
+2020-03-28,Mississippi,Professional & Other Places,22.0,17.0,22.0,12
+2020-03-28,Mississippi,Medical,39.0,32.0,39.0,13
+2020-03-28,Mississippi,Arts & Entertainment,27.0,22.0,28.0,14
+2020-03-28,Mississippi,Drug Store,78.0,68.0,79.0,15
+2020-03-28,Mississippi,Hotel,31.0,18.0,32.0,16
+2020-03-28,Mississippi,Residences,78.0,67.0,78.0,17
+2020-03-28,Mississippi,Travel & Transport,74.0,46.0,75.0,18
+2020-03-28,Mississippi,Sports,59.0,57.0,59.0,19
+2020-03-28,Mississippi,Nightlife Spots,32.0,25.0,32.0,20
+2020-03-28,Mississippi,Colleges & Universities,41.0,"",42.0,21
+2020-03-28,Mississippi,Government,47.0,43.0,47.0,22
+2020-03-28,Mississippi,Banks,71.0,67.0,71.0,23
+2020-03-28,Mississippi,Office,66.0,"",66.0,24
+2020-03-28,Mississippi,Alcohol,70.0,"",71.0,25
+2020-03-28,Mississippi,Beach,99.0,"",99.0,26
+2020-03-28,Mississippi,Fitness Center,26.0,"",26.0,27
+2020-03-28,Mississippi,Airport,57.0,"",58.0,28
+2020-03-29,Mississippi,Food,20.0,15.0,20.0,1
+2020-03-29,Mississippi,Gas Stations,63.0,55.0,63.0,2
+2020-03-29,Mississippi,Shops & Services,41.0,35.0,41.0,3
+2020-03-29,Mississippi,Grocery,70.0,63.0,70.0,4
+2020-03-29,Mississippi,Fast Food Restaurants,56.0,48.0,56.0,5
+2020-03-29,Mississippi,Big Box Stores,59.0,56.0,59.0,6
+2020-03-29,Mississippi,Outdoors & Recreation,59.0,50.0,60.0,7
+2020-03-29,Mississippi,Discount Stores,66.0,61.0,67.0,8
+2020-03-29,Mississippi,Hardware Stores,113.0,94.0,114.0,9
+2020-03-29,Mississippi,Convenience Store,56.0,40.0,57.0,10
+2020-03-29,Mississippi,School,41.0,35.0,41.0,11
+2020-03-29,Mississippi,Professional & Other Places,14.0,10.0,14.0,12
+2020-03-29,Mississippi,Medical,33.0,24.0,33.0,13
+2020-03-29,Mississippi,Arts & Entertainment,25.0,19.0,25.0,14
+2020-03-29,Mississippi,Hotel,25.0,"",25.0,15
+2020-03-29,Mississippi,Residences,60.0,55.0,60.0,16
+2020-03-29,Mississippi,Drug Store,62.0,51.0,63.0,17
+2020-03-29,Mississippi,Travel & Transport,64.0,43.0,65.0,18
+2020-03-29,Mississippi,Sports,46.0,54.0,46.0,19
+2020-03-29,Mississippi,Nightlife Spots,27.0,"",27.0,20
+2020-03-29,Mississippi,Colleges & Universities,29.0,"",29.0,21
+2020-03-29,Mississippi,Government,42.0,"",42.0,22
+2020-03-29,Mississippi,Banks,70.0,"",70.0,23
+2020-03-29,Mississippi,Office,66.0,"",67.0,24
+2020-03-29,Mississippi,Fitness Center,29.0,"",29.0,25
+2020-03-29,Mississippi,Alcohol,71.0,"",71.0,25
+2020-03-29,Mississippi,Beach,64.0,"",65.0,26
+2020-03-29,Mississippi,Airport,35.0,"",36.0,27
+2020-03-30,Mississippi,Food,29.0,23.0,29.0,1
+2020-03-30,Mississippi,Shops & Services,34.0,28.0,34.0,2
+2020-03-30,Mississippi,Gas Stations,73.0,61.0,74.0,3
+2020-03-30,Mississippi,Fast Food Restaurants,68.0,56.0,68.0,4
+2020-03-30,Mississippi,Grocery,84.0,76.0,84.0,5
+2020-03-30,Mississippi,Big Box Stores,71.0,58.0,72.0,6
+2020-03-30,Mississippi,Discount Stores,85.0,84.0,85.0,7
+2020-03-30,Mississippi,Medical,31.0,24.0,31.0,8
+2020-03-30,Mississippi,Professional & Other Places,16.0,15.0,16.0,9
+2020-03-30,Mississippi,Outdoors & Recreation,69.0,64.0,69.0,10
+2020-03-30,Mississippi,School,33.0,35.0,33.0,11
+2020-03-30,Mississippi,Hardware Stores,104.0,85.0,105.0,12
+2020-03-30,Mississippi,Convenience Store,70.0,55.0,70.0,13
+2020-03-30,Mississippi,Drug Store,80.0,60.0,81.0,14
+2020-03-30,Mississippi,Government,43.0,38.0,43.0,15
+2020-03-30,Mississippi,Arts & Entertainment,35.0,20.0,35.0,16
+2020-03-30,Mississippi,Colleges & Universities,23.0,48.0,23.0,17
+2020-03-30,Mississippi,Hotel,37.0,24.0,38.0,18
+2020-03-30,Mississippi,Travel & Transport,72.0,54.0,73.0,19
+2020-03-30,Mississippi,Banks,79.0,69.0,79.0,20
+2020-03-30,Mississippi,Residences,74.0,65.0,74.0,21
+2020-03-30,Mississippi,Office,55.0,55.0,55.0,22
+2020-03-30,Mississippi,Nightlife Spots,42.0,34.0,42.0,23
+2020-03-30,Mississippi,Sports,51.0,44.0,51.0,24
+2020-03-30,Mississippi,Fitness Center,26.0,23.0,26.0,25
+2020-03-30,Mississippi,Alcohol,86.0,89.0,86.0,26
+2020-03-30,Mississippi,Airport,42.0,"",42.0,27
+2020-03-30,Mississippi,Beach,66.0,"",67.0,28
+2020-03-31,Mississippi,Food,27.0,20.0,27.0,1
+2020-03-31,Mississippi,Shops & Services,38.0,27.0,39.0,2
+2020-03-31,Mississippi,Gas Stations,65.0,54.0,65.0,3
+2020-03-31,Mississippi,Fast Food Restaurants,63.0,50.0,64.0,4
+2020-03-31,Mississippi,Grocery,80.0,65.0,80.0,5
+2020-03-31,Mississippi,Big Box Stores,70.0,57.0,71.0,6
+2020-03-31,Mississippi,Discount Stores,69.0,61.0,69.0,7
+2020-03-31,Mississippi,Medical,27.0,20.0,27.0,8
+2020-03-31,Mississippi,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-31,Mississippi,Outdoors & Recreation,48.0,43.0,49.0,10
+2020-03-31,Mississippi,School,23.0,23.0,23.0,11
+2020-03-31,Mississippi,Convenience Store,67.0,54.0,67.0,12
+2020-03-31,Mississippi,Hardware Stores,89.0,63.0,90.0,13
+2020-03-31,Mississippi,Drug Store,75.0,61.0,76.0,14
+2020-03-31,Mississippi,Government,34.0,30.0,34.0,15
+2020-03-31,Mississippi,Hotel,37.0,26.0,38.0,16
+2020-03-31,Mississippi,Arts & Entertainment,33.0,18.0,33.0,17
+2020-03-31,Mississippi,Banks,79.0,70.0,79.0,18
+2020-03-31,Mississippi,Travel & Transport,48.0,33.0,49.0,19
+2020-03-31,Mississippi,Colleges & Universities,21.0,40.0,21.0,20
+2020-03-31,Mississippi,Residences,66.0,54.0,66.0,21
+2020-03-31,Mississippi,Office,51.0,"",51.0,22
+2020-03-31,Mississippi,Nightlife Spots,38.0,28.0,38.0,23
+2020-03-31,Mississippi,Sports,48.0,45.0,48.0,24
+2020-03-31,Mississippi,Alcohol,79.0,"",80.0,25
+2020-03-31,Mississippi,Fitness Center,20.0,"",20.0,26
+2020-03-31,Mississippi,Airport,44.0,"",44.0,27
+2020-03-31,Mississippi,Beach,69.0,"",70.0,28

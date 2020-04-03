@@ -1,0 +1,896 @@
+2020-03-01,Tennessee,Food,55.0,56.0,55.0,1
+2020-03-01,Tennessee,Shops & Services,41.0,38.0,41.0,2
+2020-03-01,Tennessee,Gas Stations,110.0,107.0,110.0,3
+2020-03-01,Tennessee,Grocery,97.0,97.0,97.0,4
+2020-03-01,Tennessee,Fast Food Restaurants,117.0,110.0,117.0,5
+2020-03-01,Tennessee,Outdoors & Recreation,63.0,63.0,63.0,6
+2020-03-01,Tennessee,Big Box Stores,108.0,102.0,108.0,7
+2020-03-01,Tennessee,Arts & Entertainment,72.0,67.0,72.0,8
+2020-03-01,Tennessee,Nightlife Spots,58.0,58.0,58.0,9
+2020-03-01,Tennessee,Hotel,88.0,94.0,88.0,10
+2020-03-01,Tennessee,School,64.0,63.0,64.0,11
+2020-03-01,Tennessee,Discount Stores,109.0,101.0,110.0,12
+2020-03-01,Tennessee,Professional & Other Places,18.0,14.0,18.0,13
+2020-03-01,Tennessee,Hardware Stores,123.0,117.0,123.0,14
+2020-03-01,Tennessee,Residences,83.0,91.0,83.0,15
+2020-03-01,Tennessee,Medical,62.0,63.0,62.0,16
+2020-03-01,Tennessee,Convenience Store,107.0,97.0,108.0,17
+2020-03-01,Tennessee,Drug Store,101.0,97.0,101.0,18
+2020-03-01,Tennessee,Airport,71.0,72.0,71.0,19
+2020-03-01,Tennessee,Colleges & Universities,79.0,84.0,79.0,20
+2020-03-01,Tennessee,Sports,49.0,54.0,49.0,21
+2020-03-01,Tennessee,Travel & Transport,32.0,36.0,32.0,22
+2020-03-01,Tennessee,Fitness Center,69.0,64.0,70.0,23
+2020-03-01,Tennessee,Government,79.0,79.0,79.0,24
+2020-03-01,Tennessee,Office,88.0,105.0,88.0,25
+2020-03-01,Tennessee,Alcohol,104.0,100.0,104.0,26
+2020-03-01,Tennessee,Banks,117.0,118.0,116.0,27
+2020-03-01,Tennessee,Spiritual Center,3.0,3.0,3.0,28
+2020-03-01,Tennessee,Bus,88.0,"",88.0,29
+2020-03-01,Tennessee,Skiing,49.0,"",50.0,30
+2020-03-02,Tennessee,Food,50.0,49.0,50.0,1
+2020-03-02,Tennessee,Shops & Services,41.0,40.0,41.0,2
+2020-03-02,Tennessee,Gas Stations,103.0,101.0,103.0,3
+2020-03-02,Tennessee,Fast Food Restaurants,111.0,106.0,111.0,4
+2020-03-02,Tennessee,Medical,58.0,55.0,58.0,5
+2020-03-02,Tennessee,Grocery,104.0,101.0,104.0,6
+2020-03-02,Tennessee,School,66.0,66.0,66.0,7
+2020-03-02,Tennessee,Big Box Stores,111.0,108.0,111.0,8
+2020-03-02,Tennessee,Professional & Other Places,17.0,17.0,17.0,9
+2020-03-02,Tennessee,Outdoors & Recreation,49.0,46.0,49.0,10
+2020-03-02,Tennessee,Colleges & Universities,59.0,63.0,59.0,11
+2020-03-02,Tennessee,Office,87.0,84.0,88.0,12
+2020-03-02,Tennessee,Hotel,79.0,76.0,80.0,13
+2020-03-02,Tennessee,Discount Stores,102.0,88.0,102.0,14
+2020-03-02,Tennessee,Arts & Entertainment,60.0,63.0,60.0,15
+2020-03-02,Tennessee,Nightlife Spots,51.0,51.0,51.0,16
+2020-03-02,Tennessee,Government,80.0,78.0,80.0,17
+2020-03-02,Tennessee,Residences,92.0,95.0,92.0,18
+2020-03-02,Tennessee,Drug Store,107.0,104.0,107.0,19
+2020-03-02,Tennessee,Hardware Stores,103.0,101.0,104.0,20
+2020-03-02,Tennessee,Convenience Store,98.0,99.0,98.0,21
+2020-03-02,Tennessee,Airport,64.0,57.0,65.0,22
+2020-03-02,Tennessee,Fitness Center,67.0,66.0,67.0,23
+2020-03-02,Tennessee,Travel & Transport,32.0,31.0,32.0,24
+2020-03-02,Tennessee,Banks,113.0,118.0,113.0,25
+2020-03-02,Tennessee,Sports,30.0,29.0,30.0,26
+2020-03-02,Tennessee,Alcohol,111.0,113.0,110.0,27
+2020-03-02,Tennessee,Bus,93.0,"",93.0,28
+2020-03-02,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-03,Tennessee,Food,52.0,51.0,52.0,1
+2020-03-03,Tennessee,Shops & Services,39.0,38.0,39.0,2
+2020-03-03,Tennessee,Gas Stations,108.0,106.0,108.0,3
+2020-03-03,Tennessee,Fast Food Restaurants,118.0,111.0,118.0,4
+2020-03-03,Tennessee,Medical,56.0,53.0,56.0,5
+2020-03-03,Tennessee,Grocery,104.0,100.0,104.0,6
+2020-03-03,Tennessee,School,56.0,69.0,56.0,7
+2020-03-03,Tennessee,Professional & Other Places,18.0,18.0,18.0,8
+2020-03-03,Tennessee,Outdoors & Recreation,56.0,57.0,56.0,9
+2020-03-03,Tennessee,Big Box Stores,110.0,102.0,110.0,10
+2020-03-03,Tennessee,Colleges & Universities,58.0,65.0,58.0,11
+2020-03-03,Tennessee,Office,82.0,80.0,82.0,12
+2020-03-03,Tennessee,Hotel,86.0,88.0,86.0,13
+2020-03-03,Tennessee,Discount Stores,104.0,103.0,105.0,14
+2020-03-03,Tennessee,Arts & Entertainment,70.0,70.0,70.0,15
+2020-03-03,Tennessee,Nightlife Spots,58.0,53.0,58.0,16
+2020-03-03,Tennessee,Residences,108.0,92.0,109.0,17
+2020-03-03,Tennessee,Government,68.0,67.0,68.0,18
+2020-03-03,Tennessee,Drug Store,107.0,102.0,108.0,19
+2020-03-03,Tennessee,Hardware Stores,113.0,114.0,113.0,20
+2020-03-03,Tennessee,Convenience Store,106.0,104.0,106.0,21
+2020-03-03,Tennessee,Fitness Center,64.0,58.0,65.0,22
+2020-03-03,Tennessee,Airport,64.0,68.0,64.0,23
+2020-03-03,Tennessee,Travel & Transport,33.0,32.0,33.0,24
+2020-03-03,Tennessee,Banks,116.0,109.0,116.0,25
+2020-03-03,Tennessee,Sports,35.0,40.0,35.0,26
+2020-03-03,Tennessee,Alcohol,105.0,96.0,105.0,27
+2020-03-03,Tennessee,Bus,76.0,"",75.0,28
+2020-03-03,Tennessee,Spiritual Center,5.0,"",5.0,29
+2020-03-04,Tennessee,Food,52.0,52.0,52.0,1
+2020-03-04,Tennessee,Shops & Services,39.0,41.0,39.0,2
+2020-03-04,Tennessee,Gas Stations,107.0,105.0,107.0,3
+2020-03-04,Tennessee,Fast Food Restaurants,112.0,108.0,112.0,4
+2020-03-04,Tennessee,Medical,58.0,57.0,58.0,5
+2020-03-04,Tennessee,Grocery,101.0,103.0,101.0,6
+2020-03-04,Tennessee,School,55.0,57.0,55.0,7
+2020-03-04,Tennessee,Outdoors & Recreation,61.0,63.0,61.0,8
+2020-03-04,Tennessee,Professional & Other Places,18.0,16.0,18.0,9
+2020-03-04,Tennessee,Big Box Stores,104.0,103.0,104.0,10
+2020-03-04,Tennessee,Colleges & Universities,58.0,63.0,58.0,11
+2020-03-04,Tennessee,Hotel,87.0,85.0,88.0,12
+2020-03-04,Tennessee,Office,85.0,83.0,85.0,13
+2020-03-04,Tennessee,Discount Stores,109.0,103.0,109.0,14
+2020-03-04,Tennessee,Arts & Entertainment,81.0,86.0,81.0,15
+2020-03-04,Tennessee,Nightlife Spots,53.0,55.0,53.0,16
+2020-03-04,Tennessee,Residences,108.0,110.0,108.0,17
+2020-03-04,Tennessee,Government,70.0,65.0,71.0,18
+2020-03-04,Tennessee,Drug Store,106.0,106.0,106.0,19
+2020-03-04,Tennessee,Hardware Stores,114.0,117.0,114.0,20
+2020-03-04,Tennessee,Convenience Store,107.0,104.0,107.0,21
+2020-03-04,Tennessee,Fitness Center,65.0,58.0,65.0,22
+2020-03-04,Tennessee,Airport,68.0,76.0,68.0,23
+2020-03-04,Tennessee,Travel & Transport,34.0,34.0,34.0,24
+2020-03-04,Tennessee,Sports,35.0,47.0,35.0,25
+2020-03-04,Tennessee,Banks,111.0,107.0,111.0,26
+2020-03-04,Tennessee,Alcohol,111.0,112.0,111.0,27
+2020-03-04,Tennessee,Bus,76.0,"",75.0,28
+2020-03-04,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-05,Tennessee,Food,51.0,51.0,51.0,1
+2020-03-05,Tennessee,Shops & Services,41.0,43.0,41.0,2
+2020-03-05,Tennessee,Gas Stations,106.0,103.0,106.0,3
+2020-03-05,Tennessee,Fast Food Restaurants,110.0,109.0,110.0,4
+2020-03-05,Tennessee,Medical,60.0,57.0,60.0,5
+2020-03-05,Tennessee,Grocery,102.0,101.0,102.0,6
+2020-03-05,Tennessee,School,61.0,65.0,61.0,7
+2020-03-05,Tennessee,Outdoors & Recreation,61.0,63.0,61.0,8
+2020-03-05,Tennessee,Professional & Other Places,19.0,18.0,19.0,9
+2020-03-05,Tennessee,Big Box Stores,104.0,104.0,104.0,10
+2020-03-05,Tennessee,Colleges & Universities,58.0,70.0,58.0,11
+2020-03-05,Tennessee,Hotel,92.0,90.0,92.0,12
+2020-03-05,Tennessee,Office,87.0,89.0,87.0,13
+2020-03-05,Tennessee,Arts & Entertainment,73.0,74.0,73.0,14
+2020-03-05,Tennessee,Nightlife Spots,58.0,57.0,58.0,15
+2020-03-05,Tennessee,Discount Stores,108.0,110.0,108.0,16
+2020-03-05,Tennessee,Residences,107.0,106.0,107.0,17
+2020-03-05,Tennessee,Government,73.0,73.0,73.0,18
+2020-03-05,Tennessee,Drug Store,107.0,110.0,107.0,19
+2020-03-05,Tennessee,Convenience Store,109.0,102.0,109.0,20
+2020-03-05,Tennessee,Hardware Stores,116.0,121.0,115.0,21
+2020-03-05,Tennessee,Fitness Center,68.0,64.0,69.0,22
+2020-03-05,Tennessee,Airport,63.0,55.0,63.0,23
+2020-03-05,Tennessee,Travel & Transport,31.0,35.0,31.0,24
+2020-03-05,Tennessee,Sports,42.0,51.0,41.0,25
+2020-03-05,Tennessee,Banks,118.0,109.0,118.0,26
+2020-03-05,Tennessee,Alcohol,110.0,103.0,111.0,27
+2020-03-05,Tennessee,Bus,86.0,"",87.0,28
+2020-03-05,Tennessee,Spiritual Center,5.0,"",4.0,29
+2020-03-06,Tennessee,Food,49.0,49.0,49.0,1
+2020-03-06,Tennessee,Shops & Services,34.0,34.0,34.0,2
+2020-03-06,Tennessee,Gas Stations,104.0,97.0,104.0,3
+2020-03-06,Tennessee,Fast Food Restaurants,109.0,106.0,109.0,4
+2020-03-06,Tennessee,Grocery,100.0,94.0,100.0,5
+2020-03-06,Tennessee,Medical,60.0,60.0,60.0,6
+2020-03-06,Tennessee,School,63.0,62.0,63.0,7
+2020-03-06,Tennessee,Big Box Stores,97.0,97.0,97.0,8
+2020-03-06,Tennessee,Outdoors & Recreation,57.0,52.0,57.0,9
+2020-03-06,Tennessee,Professional & Other Places,19.0,19.0,19.0,10
+2020-03-06,Tennessee,Hotel,87.0,86.0,87.0,11
+2020-03-06,Tennessee,Arts & Entertainment,73.0,76.0,73.0,12
+2020-03-06,Tennessee,Nightlife Spots,53.0,55.0,53.0,13
+2020-03-06,Tennessee,Colleges & Universities,67.0,71.0,66.0,14
+2020-03-06,Tennessee,Discount Stores,100.0,98.0,100.0,15
+2020-03-06,Tennessee,Office,89.0,94.0,88.0,16
+2020-03-06,Tennessee,Residences,106.0,98.0,106.0,17
+2020-03-06,Tennessee,Hardware Stores,114.0,107.0,115.0,18
+2020-03-06,Tennessee,Drug Store,100.0,100.0,100.0,19
+2020-03-06,Tennessee,Convenience Store,106.0,107.0,106.0,20
+2020-03-06,Tennessee,Government,70.0,62.0,70.0,21
+2020-03-06,Tennessee,Airport,62.0,59.0,62.0,22
+2020-03-06,Tennessee,Fitness Center,69.0,67.0,70.0,23
+2020-03-06,Tennessee,Banks,110.0,105.0,111.0,24
+2020-03-06,Tennessee,Travel & Transport,31.0,31.0,31.0,25
+2020-03-06,Tennessee,Sports,40.0,41.0,40.0,26
+2020-03-06,Tennessee,Alcohol,105.0,97.0,105.0,27
+2020-03-06,Tennessee,Bus,86.0,"",86.0,28
+2020-03-06,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-07,Tennessee,Food,48.0,49.0,48.0,1
+2020-03-07,Tennessee,Shops & Services,38.0,37.0,38.0,2
+2020-03-07,Tennessee,Fast Food Restaurants,108.0,104.0,108.0,3
+2020-03-07,Tennessee,Gas Stations,108.0,106.0,108.0,4
+2020-03-07,Tennessee,Grocery,97.0,90.0,97.0,5
+2020-03-07,Tennessee,Outdoors & Recreation,63.0,65.0,63.0,6
+2020-03-07,Tennessee,Big Box Stores,99.0,98.0,100.0,7
+2020-03-07,Tennessee,Arts & Entertainment,63.0,65.0,63.0,8
+2020-03-07,Tennessee,Hotel,86.0,81.0,86.0,9
+2020-03-07,Tennessee,Nightlife Spots,55.0,58.0,55.0,10
+2020-03-07,Tennessee,Professional & Other Places,24.0,24.0,24.0,11
+2020-03-07,Tennessee,School,60.0,59.0,60.0,12
+2020-03-07,Tennessee,Discount Stores,103.0,99.0,103.0,13
+2020-03-07,Tennessee,Medical,63.0,59.0,63.0,14
+2020-03-07,Tennessee,Hardware Stores,115.0,107.0,116.0,15
+2020-03-07,Tennessee,Residences,99.0,100.0,99.0,16
+2020-03-07,Tennessee,Drug Store,106.0,112.0,106.0,17
+2020-03-07,Tennessee,Convenience Store,102.0,106.0,102.0,18
+2020-03-07,Tennessee,Colleges & Universities,79.0,83.0,79.0,19
+2020-03-07,Tennessee,Fitness Center,67.0,67.0,67.0,20
+2020-03-07,Tennessee,Sports,44.0,50.0,44.0,21
+2020-03-07,Tennessee,Travel & Transport,21.0,24.0,21.0,22
+2020-03-07,Tennessee,Airport,65.0,55.0,65.0,23
+2020-03-07,Tennessee,Office,91.0,104.0,91.0,24
+2020-03-07,Tennessee,Government,72.0,66.0,72.0,25
+2020-03-07,Tennessee,Alcohol,107.0,102.0,107.0,26
+2020-03-07,Tennessee,Banks,88.0,91.0,88.0,27
+2020-03-07,Tennessee,Bus,98.0,"",99.0,28
+2020-03-07,Tennessee,Skiing,46.0,"",46.0,29
+2020-03-07,Tennessee,Spiritual Center,4.0,"",4.0,30
+2020-03-08,Tennessee,Food,52.0,50.0,52.0,1
+2020-03-08,Tennessee,Shops & Services,43.0,38.0,43.0,2
+2020-03-08,Tennessee,Gas Stations,114.0,110.0,114.0,3
+2020-03-08,Tennessee,Grocery,98.0,92.0,98.0,4
+2020-03-08,Tennessee,Fast Food Restaurants,117.0,106.0,117.0,5
+2020-03-08,Tennessee,Outdoors & Recreation,67.0,61.0,67.0,6
+2020-03-08,Tennessee,Big Box Stores,106.0,99.0,106.0,7
+2020-03-08,Tennessee,Arts & Entertainment,77.0,82.0,77.0,8
+2020-03-08,Tennessee,Nightlife Spots,54.0,55.0,54.0,9
+2020-03-08,Tennessee,Hotel,92.0,90.0,92.0,10
+2020-03-08,Tennessee,School,65.0,61.0,65.0,11
+2020-03-08,Tennessee,Professional & Other Places,20.0,16.0,20.0,12
+2020-03-08,Tennessee,Discount Stores,107.0,96.0,107.0,13
+2020-03-08,Tennessee,Hardware Stores,126.0,114.0,126.0,14
+2020-03-08,Tennessee,Medical,64.0,62.0,64.0,15
+2020-03-08,Tennessee,Residences,102.0,91.0,103.0,16
+2020-03-08,Tennessee,Convenience Store,114.0,103.0,115.0,17
+2020-03-08,Tennessee,Drug Store,110.0,92.0,110.0,18
+2020-03-08,Tennessee,Airport,73.0,74.0,73.0,19
+2020-03-08,Tennessee,Sports,52.0,59.0,51.0,20
+2020-03-08,Tennessee,Colleges & Universities,76.0,80.0,76.0,21
+2020-03-08,Tennessee,Travel & Transport,32.0,35.0,32.0,22
+2020-03-08,Tennessee,Fitness Center,70.0,66.0,70.0,23
+2020-03-08,Tennessee,Government,77.0,70.0,77.0,24
+2020-03-08,Tennessee,Office,93.0,101.0,93.0,25
+2020-03-08,Tennessee,Alcohol,108.0,99.0,108.0,26
+2020-03-08,Tennessee,Banks,88.0,69.0,88.0,27
+2020-03-08,Tennessee,Bus,99.0,"",99.0,28
+2020-03-08,Tennessee,Spiritual Center,3.0,"",3.0,29
+2020-03-08,Tennessee,Skiing,60.0,"",60.0,30
+2020-03-09,Tennessee,Food,51.0,48.0,51.0,1
+2020-03-09,Tennessee,Shops & Services,38.0,36.0,38.0,2
+2020-03-09,Tennessee,Gas Stations,108.0,98.0,108.0,3
+2020-03-09,Tennessee,Fast Food Restaurants,109.0,101.0,110.0,4
+2020-03-09,Tennessee,Grocery,106.0,96.0,106.0,5
+2020-03-09,Tennessee,Medical,57.0,54.0,57.0,6
+2020-03-09,Tennessee,School,66.0,63.0,66.0,7
+2020-03-09,Tennessee,Outdoors & Recreation,57.0,57.0,57.0,8
+2020-03-09,Tennessee,Professional & Other Places,19.0,17.0,19.0,9
+2020-03-09,Tennessee,Big Box Stores,106.0,102.0,106.0,10
+2020-03-09,Tennessee,Hotel,92.0,79.0,93.0,11
+2020-03-09,Tennessee,Arts & Entertainment,70.0,67.0,70.0,12
+2020-03-09,Tennessee,Office,88.0,88.0,88.0,13
+2020-03-09,Tennessee,Discount Stores,107.0,106.0,107.0,14
+2020-03-09,Tennessee,Colleges & Universities,53.0,66.0,52.0,15
+2020-03-09,Tennessee,Nightlife Spots,53.0,55.0,53.0,16
+2020-03-09,Tennessee,Residences,104.0,96.0,104.0,17
+2020-03-09,Tennessee,Government,78.0,77.0,78.0,18
+2020-03-09,Tennessee,Convenience Store,109.0,98.0,109.0,19
+2020-03-09,Tennessee,Drug Store,109.0,102.0,110.0,20
+2020-03-09,Tennessee,Hardware Stores,111.0,111.0,111.0,21
+2020-03-09,Tennessee,Fitness Center,70.0,62.0,70.0,22
+2020-03-09,Tennessee,Airport,60.0,53.0,60.0,23
+2020-03-09,Tennessee,Travel & Transport,35.0,34.0,35.0,24
+2020-03-09,Tennessee,Sports,38.0,39.0,38.0,25
+2020-03-09,Tennessee,Banks,121.0,113.0,121.0,26
+2020-03-09,Tennessee,Alcohol,118.0,114.0,118.0,27
+2020-03-09,Tennessee,Bus,84.0,"",85.0,28
+2020-03-09,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-09,Tennessee,Skiing,77.0,"",77.0,30
+2020-03-10,Tennessee,Food,48.0,46.0,48.0,1
+2020-03-10,Tennessee,Shops & Services,38.0,36.0,38.0,2
+2020-03-10,Tennessee,Gas Stations,101.0,94.0,102.0,3
+2020-03-10,Tennessee,Fast Food Restaurants,105.0,102.0,105.0,4
+2020-03-10,Tennessee,Grocery,103.0,97.0,104.0,5
+2020-03-10,Tennessee,Medical,55.0,54.0,55.0,6
+2020-03-10,Tennessee,School,56.0,53.0,56.0,7
+2020-03-10,Tennessee,Professional & Other Places,17.0,16.0,17.0,8
+2020-03-10,Tennessee,Outdoors & Recreation,53.0,51.0,53.0,9
+2020-03-10,Tennessee,Big Box Stores,103.0,97.0,104.0,10
+2020-03-10,Tennessee,Hotel,94.0,84.0,95.0,11
+2020-03-10,Tennessee,Office,84.0,84.0,84.0,12
+2020-03-10,Tennessee,Arts & Entertainment,71.0,68.0,71.0,13
+2020-03-10,Tennessee,Colleges & Universities,47.0,62.0,47.0,14
+2020-03-10,Tennessee,Discount Stores,103.0,95.0,103.0,15
+2020-03-10,Tennessee,Nightlife Spots,65.0,56.0,66.0,16
+2020-03-10,Tennessee,Government,66.0,63.0,67.0,17
+2020-03-10,Tennessee,Residences,95.0,81.0,96.0,18
+2020-03-10,Tennessee,Drug Store,104.0,101.0,104.0,19
+2020-03-10,Tennessee,Fitness Center,65.0,57.0,65.0,20
+2020-03-10,Tennessee,Hardware Stores,105.0,105.0,105.0,21
+2020-03-10,Tennessee,Convenience Store,95.0,81.0,95.0,22
+2020-03-10,Tennessee,Airport,56.0,53.0,57.0,23
+2020-03-10,Tennessee,Travel & Transport,31.0,29.0,32.0,24
+2020-03-10,Tennessee,Sports,31.0,34.0,31.0,25
+2020-03-10,Tennessee,Banks,100.0,106.0,100.0,26
+2020-03-10,Tennessee,Alcohol,104.0,77.0,106.0,27
+2020-03-10,Tennessee,Bus,84.0,"",84.0,28
+2020-03-10,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-11,Tennessee,Food,50.0,48.0,50.0,1
+2020-03-11,Tennessee,Shops & Services,37.0,36.0,37.0,2
+2020-03-11,Tennessee,Gas Stations,103.0,99.0,103.0,3
+2020-03-11,Tennessee,Fast Food Restaurants,103.0,94.0,104.0,4
+2020-03-11,Tennessee,Grocery,102.0,99.0,102.0,5
+2020-03-11,Tennessee,Medical,55.0,50.0,55.0,6
+2020-03-11,Tennessee,School,52.0,50.0,52.0,7
+2020-03-11,Tennessee,Outdoors & Recreation,55.0,53.0,55.0,8
+2020-03-11,Tennessee,Professional & Other Places,16.0,14.0,16.0,9
+2020-03-11,Tennessee,Big Box Stores,107.0,105.0,107.0,10
+2020-03-11,Tennessee,Hotel,90.0,75.0,90.0,11
+2020-03-11,Tennessee,Office,83.0,83.0,83.0,12
+2020-03-11,Tennessee,Arts & Entertainment,69.0,73.0,69.0,13
+2020-03-11,Tennessee,Colleges & Universities,47.0,59.0,47.0,14
+2020-03-11,Tennessee,Discount Stores,106.0,108.0,106.0,15
+2020-03-11,Tennessee,Nightlife Spots,52.0,49.0,53.0,16
+2020-03-11,Tennessee,Residences,104.0,98.0,105.0,17
+2020-03-11,Tennessee,Government,67.0,58.0,67.0,18
+2020-03-11,Tennessee,Drug Store,101.0,102.0,101.0,19
+2020-03-11,Tennessee,Hardware Stores,110.0,107.0,110.0,20
+2020-03-11,Tennessee,Convenience Store,103.0,99.0,103.0,21
+2020-03-11,Tennessee,Fitness Center,62.0,55.0,62.0,22
+2020-03-11,Tennessee,Airport,62.0,62.0,62.0,23
+2020-03-11,Tennessee,Travel & Transport,33.0,31.0,33.0,24
+2020-03-11,Tennessee,Sports,36.0,45.0,36.0,25
+2020-03-11,Tennessee,Banks,95.0,93.0,95.0,26
+2020-03-11,Tennessee,Alcohol,106.0,109.0,106.0,27
+2020-03-11,Tennessee,Bus,89.0,"",89.0,28
+2020-03-11,Tennessee,Skiing,144.0,"",147.0,29
+2020-03-11,Tennessee,Spiritual Center,3.0,"",3.0,30
+2020-03-12,Tennessee,Food,48.0,46.0,48.0,1
+2020-03-12,Tennessee,Shops & Services,37.0,36.0,37.0,2
+2020-03-12,Tennessee,Gas Stations,102.0,100.0,102.0,3
+2020-03-12,Tennessee,Grocery,125.0,122.0,125.0,4
+2020-03-12,Tennessee,Fast Food Restaurants,104.0,99.0,104.0,5
+2020-03-12,Tennessee,Medical,55.0,51.0,55.0,6
+2020-03-12,Tennessee,School,54.0,53.0,54.0,7
+2020-03-12,Tennessee,Big Box Stores,113.0,114.0,113.0,8
+2020-03-12,Tennessee,Outdoors & Recreation,59.0,55.0,59.0,9
+2020-03-12,Tennessee,Professional & Other Places,17.0,16.0,17.0,10
+2020-03-12,Tennessee,Discount Stores,118.0,115.0,118.0,11
+2020-03-12,Tennessee,Hotel,88.0,75.0,88.0,12
+2020-03-12,Tennessee,Office,84.0,78.0,85.0,13
+2020-03-12,Tennessee,Arts & Entertainment,81.0,80.0,81.0,14
+2020-03-12,Tennessee,Nightlife Spots,51.0,46.0,51.0,15
+2020-03-12,Tennessee,Colleges & Universities,51.0,64.0,51.0,16
+2020-03-12,Tennessee,Drug Store,114.0,104.0,114.0,17
+2020-03-12,Tennessee,Residences,83.0,78.0,83.0,18
+2020-03-12,Tennessee,Hardware Stores,113.0,111.0,114.0,19
+2020-03-12,Tennessee,Convenience Store,104.0,100.0,105.0,20
+2020-03-12,Tennessee,Government,66.0,61.0,66.0,21
+2020-03-12,Tennessee,Fitness Center,60.0,50.0,61.0,22
+2020-03-12,Tennessee,Airport,53.0,42.0,53.0,23
+2020-03-12,Tennessee,Travel & Transport,32.0,30.0,32.0,24
+2020-03-12,Tennessee,Sports,36.0,43.0,35.0,25
+2020-03-12,Tennessee,Banks,105.0,101.0,105.0,26
+2020-03-12,Tennessee,Alcohol,117.0,119.0,117.0,27
+2020-03-12,Tennessee,Bus,78.0,"",78.0,28
+2020-03-12,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-13,Tennessee,Food,46.0,43.0,47.0,1
+2020-03-13,Tennessee,Shops & Services,34.0,30.0,35.0,2
+2020-03-13,Tennessee,Grocery,132.0,118.0,133.0,3
+2020-03-13,Tennessee,Gas Stations,105.0,97.0,105.0,4
+2020-03-13,Tennessee,Fast Food Restaurants,105.0,100.0,105.0,5
+2020-03-13,Tennessee,Big Box Stores,118.0,108.0,119.0,6
+2020-03-13,Tennessee,Medical,57.0,54.0,58.0,7
+2020-03-13,Tennessee,Outdoors & Recreation,58.0,54.0,58.0,8
+2020-03-13,Tennessee,Professional & Other Places,18.0,16.0,18.0,9
+2020-03-13,Tennessee,School,49.0,49.0,48.0,10
+2020-03-13,Tennessee,Discount Stores,124.0,115.0,125.0,11
+2020-03-13,Tennessee,Hotel,82.0,69.0,83.0,12
+2020-03-13,Tennessee,Arts & Entertainment,76.0,73.0,76.0,13
+2020-03-13,Tennessee,Nightlife Spots,61.0,56.0,61.0,14
+2020-03-13,Tennessee,Drug Store,115.0,116.0,115.0,15
+2020-03-13,Tennessee,Office,86.0,78.0,86.0,16
+2020-03-13,Tennessee,Hardware Stores,125.0,118.0,126.0,17
+2020-03-13,Tennessee,Residences,103.0,83.0,104.0,18
+2020-03-13,Tennessee,Convenience Store,107.0,98.0,108.0,19
+2020-03-13,Tennessee,Government,67.0,59.0,67.0,20
+2020-03-13,Tennessee,Colleges & Universities,46.0,60.0,46.0,21
+2020-03-13,Tennessee,Fitness Center,62.0,52.0,62.0,22
+2020-03-13,Tennessee,Airport,53.0,49.0,53.0,23
+2020-03-13,Tennessee,Travel & Transport,34.0,36.0,34.0,24
+2020-03-13,Tennessee,Banks,108.0,110.0,108.0,25
+2020-03-13,Tennessee,Sports,35.0,39.0,35.0,26
+2020-03-13,Tennessee,Alcohol,115.0,103.0,115.0,27
+2020-03-13,Tennessee,Bus,85.0,"",86.0,28
+2020-03-13,Tennessee,Skiing,70.0,"",70.0,29
+2020-03-13,Tennessee,Spiritual Center,4.0,"",4.0,30
+2020-03-14,Tennessee,Food,40.0,37.0,40.0,1
+2020-03-14,Tennessee,Shops & Services,32.0,27.0,32.0,2
+2020-03-14,Tennessee,Grocery,124.0,110.0,125.0,3
+2020-03-14,Tennessee,Gas Stations,102.0,99.0,103.0,4
+2020-03-14,Tennessee,Fast Food Restaurants,89.0,83.0,89.0,5
+2020-03-14,Tennessee,Big Box Stores,110.0,97.0,111.0,6
+2020-03-14,Tennessee,Outdoors & Recreation,48.0,45.0,48.0,7
+2020-03-14,Tennessee,Discount Stores,114.0,107.0,114.0,8
+2020-03-14,Tennessee,Nightlife Spots,52.0,46.0,52.0,9
+2020-03-14,Tennessee,Hotel,69.0,64.0,69.0,10
+2020-03-14,Tennessee,Professional & Other Places,19.0,18.0,19.0,11
+2020-03-14,Tennessee,Arts & Entertainment,57.0,48.0,57.0,12
+2020-03-14,Tennessee,Hardware Stores,116.0,104.0,117.0,13
+2020-03-14,Tennessee,Medical,53.0,42.0,53.0,14
+2020-03-14,Tennessee,School,40.0,37.0,41.0,15
+2020-03-14,Tennessee,Drug Store,116.0,109.0,116.0,16
+2020-03-14,Tennessee,Residences,90.0,72.0,90.0,17
+2020-03-14,Tennessee,Convenience Store,93.0,89.0,93.0,18
+2020-03-14,Tennessee,Travel & Transport,27.0,27.0,27.0,19
+2020-03-14,Tennessee,Fitness Center,55.0,49.0,55.0,20
+2020-03-14,Tennessee,Airport,56.0,47.0,56.0,21
+2020-03-14,Tennessee,Office,81.0,76.0,81.0,22
+2020-03-14,Tennessee,Sports,30.0,35.0,30.0,23
+2020-03-14,Tennessee,Government,61.0,61.0,61.0,24
+2020-03-14,Tennessee,Colleges & Universities,41.0,39.0,41.0,25
+2020-03-14,Tennessee,Alcohol,111.0,101.0,112.0,26
+2020-03-14,Tennessee,Banks,79.0,65.0,80.0,27
+2020-03-14,Tennessee,Bus,89.0,"",89.0,28
+2020-03-14,Tennessee,Skiing,50.0,"",50.0,29
+2020-03-14,Tennessee,Spiritual Center,3.0,"",3.0,30
+2020-03-15,Tennessee,Food,36.0,32.0,36.0,1
+2020-03-15,Tennessee,Shops & Services,32.0,26.0,32.0,2
+2020-03-15,Tennessee,Grocery,105.0,104.0,105.0,3
+2020-03-15,Tennessee,Gas Stations,92.0,86.0,92.0,4
+2020-03-15,Tennessee,Big Box Stores,99.0,93.0,99.0,5
+2020-03-15,Tennessee,Fast Food Restaurants,84.0,69.0,85.0,6
+2020-03-15,Tennessee,Outdoors & Recreation,42.0,35.0,42.0,7
+2020-03-15,Tennessee,Discount Stores,102.0,89.0,102.0,8
+2020-03-15,Tennessee,Nightlife Spots,47.0,39.0,47.0,9
+2020-03-15,Tennessee,Hotel,64.0,61.0,64.0,10
+2020-03-15,Tennessee,Arts & Entertainment,54.0,48.0,54.0,11
+2020-03-15,Tennessee,School,46.0,38.0,46.0,12
+2020-03-15,Tennessee,Professional & Other Places,13.0,10.0,14.0,13
+2020-03-15,Tennessee,Hardware Stores,109.0,97.0,109.0,14
+2020-03-15,Tennessee,Residences,67.0,53.0,67.0,15
+2020-03-15,Tennessee,Medical,48.0,41.0,49.0,16
+2020-03-15,Tennessee,Drug Store,105.0,95.0,105.0,17
+2020-03-15,Tennessee,Convenience Store,87.0,73.0,88.0,18
+2020-03-15,Tennessee,Airport,50.0,41.0,51.0,19
+2020-03-15,Tennessee,Travel & Transport,29.0,27.0,29.0,20
+2020-03-15,Tennessee,Fitness Center,56.0,48.0,56.0,21
+2020-03-15,Tennessee,Sports,30.0,32.0,30.0,22
+2020-03-15,Tennessee,Government,58.0,50.0,58.0,23
+2020-03-15,Tennessee,Office,73.0,80.0,72.0,24
+2020-03-15,Tennessee,Colleges & Universities,38.0,42.0,38.0,25
+2020-03-15,Tennessee,Alcohol,96.0,83.0,97.0,26
+2020-03-15,Tennessee,Banks,71.0,62.0,72.0,27
+2020-03-15,Tennessee,Bus,75.0,"",76.0,28
+2020-03-15,Tennessee,Skiing,48.0,"",48.0,29
+2020-03-15,Tennessee,Spiritual Center,2.0,"",2.0,30
+2020-03-16,Tennessee,Food,41.0,36.0,41.0,1
+2020-03-16,Tennessee,Shops & Services,35.0,30.0,35.0,2
+2020-03-16,Tennessee,Grocery,135.0,127.0,135.0,3
+2020-03-16,Tennessee,Gas Stations,99.0,90.0,100.0,4
+2020-03-16,Tennessee,Fast Food Restaurants,93.0,83.0,94.0,5
+2020-03-16,Tennessee,Medical,50.0,43.0,50.0,6
+2020-03-16,Tennessee,Big Box Stores,118.0,100.0,119.0,7
+2020-03-16,Tennessee,Outdoors & Recreation,52.0,49.0,52.0,8
+2020-03-16,Tennessee,Professional & Other Places,17.0,14.0,17.0,9
+2020-03-16,Tennessee,School,34.0,38.0,34.0,10
+2020-03-16,Tennessee,Discount Stores,118.0,113.0,118.0,11
+2020-03-16,Tennessee,Hotel,75.0,66.0,76.0,12
+2020-03-16,Tennessee,Office,77.0,69.0,77.0,13
+2020-03-16,Tennessee,Drug Store,115.0,113.0,116.0,14
+2020-03-16,Tennessee,Hardware Stores,112.0,106.0,112.0,15
+2020-03-16,Tennessee,Arts & Entertainment,60.0,58.0,60.0,16
+2020-03-16,Tennessee,Residences,90.0,77.0,90.0,17
+2020-03-16,Tennessee,Nightlife Spots,50.0,50.0,50.0,18
+2020-03-16,Tennessee,Government,68.0,64.0,68.0,19
+2020-03-16,Tennessee,Convenience Store,96.0,80.0,96.0,20
+2020-03-16,Tennessee,Colleges & Universities,30.0,45.0,30.0,21
+2020-03-16,Tennessee,Fitness Center,52.0,42.0,52.0,22
+2020-03-16,Tennessee,Travel & Transport,33.0,29.0,33.0,23
+2020-03-16,Tennessee,Airport,41.0,32.0,41.0,24
+2020-03-16,Tennessee,Banks,109.0,100.0,109.0,25
+2020-03-16,Tennessee,Sports,29.0,27.0,29.0,26
+2020-03-16,Tennessee,Alcohol,125.0,113.0,126.0,27
+2020-03-16,Tennessee,Bus,81.0,"",81.0,28
+2020-03-16,Tennessee,Skiing,102.0,"",102.0,29
+2020-03-16,Tennessee,Spiritual Center,3.0,"",4.0,30
+2020-03-17,Tennessee,Food,40.0,33.0,40.0,1
+2020-03-17,Tennessee,Shops & Services,33.0,28.0,33.0,2
+2020-03-17,Tennessee,Grocery,125.0,115.0,126.0,3
+2020-03-17,Tennessee,Gas Stations,93.0,87.0,93.0,4
+2020-03-17,Tennessee,Fast Food Restaurants,84.0,71.0,84.0,5
+2020-03-17,Tennessee,Medical,43.0,34.0,44.0,6
+2020-03-17,Tennessee,Big Box Stores,108.0,95.0,109.0,7
+2020-03-17,Tennessee,Outdoors & Recreation,54.0,50.0,54.0,8
+2020-03-17,Tennessee,Professional & Other Places,14.0,11.0,14.0,9
+2020-03-17,Tennessee,Discount Stores,106.0,99.0,106.0,10
+2020-03-17,Tennessee,School,25.0,28.0,25.0,11
+2020-03-17,Tennessee,Office,66.0,61.0,66.0,12
+2020-03-17,Tennessee,Hotel,68.0,62.0,69.0,13
+2020-03-17,Tennessee,Drug Store,108.0,94.0,109.0,14
+2020-03-17,Tennessee,Hardware Stores,110.0,91.0,111.0,15
+2020-03-17,Tennessee,Nightlife Spots,43.0,42.0,43.0,16
+2020-03-17,Tennessee,Residences,88.0,73.0,89.0,17
+2020-03-17,Tennessee,Arts & Entertainment,51.0,49.0,51.0,18
+2020-03-17,Tennessee,Government,54.0,50.0,54.0,19
+2020-03-17,Tennessee,Convenience Store,90.0,80.0,90.0,20
+2020-03-17,Tennessee,Colleges & Universities,30.0,42.0,29.0,21
+2020-03-17,Tennessee,Travel & Transport,29.0,30.0,29.0,22
+2020-03-17,Tennessee,Fitness Center,40.0,31.0,40.0,23
+2020-03-17,Tennessee,Airport,42.0,39.0,43.0,24
+2020-03-17,Tennessee,Banks,76.0,83.0,76.0,25
+2020-03-17,Tennessee,Sports,24.0,24.0,24.0,26
+2020-03-17,Tennessee,Alcohol,115.0,101.0,116.0,27
+2020-03-17,Tennessee,Bus,69.0,"",69.0,28
+2020-03-17,Tennessee,Skiing,97.0,"",99.0,29
+2020-03-18,Tennessee,Food,38.0,32.0,38.0,1
+2020-03-18,Tennessee,Shops & Services,30.0,25.0,31.0,2
+2020-03-18,Tennessee,Grocery,118.0,106.0,119.0,3
+2020-03-18,Tennessee,Gas Stations,95.0,91.0,95.0,4
+2020-03-18,Tennessee,Fast Food Restaurants,80.0,70.0,80.0,5
+2020-03-18,Tennessee,Medical,42.0,34.0,42.0,6
+2020-03-18,Tennessee,Outdoors & Recreation,52.0,48.0,52.0,7
+2020-03-18,Tennessee,Big Box Stores,101.0,86.0,102.0,8
+2020-03-18,Tennessee,Professional & Other Places,15.0,13.0,15.0,9
+2020-03-18,Tennessee,Discount Stores,104.0,94.0,104.0,10
+2020-03-18,Tennessee,School,24.0,28.0,24.0,11
+2020-03-18,Tennessee,Office,64.0,58.0,64.0,12
+2020-03-18,Tennessee,Drug Store,105.0,101.0,105.0,13
+2020-03-18,Tennessee,Hotel,62.0,61.0,62.0,14
+2020-03-18,Tennessee,Hardware Stores,111.0,87.0,113.0,14
+2020-03-18,Tennessee,Residences,90.0,86.0,90.0,15
+2020-03-18,Tennessee,Nightlife Spots,40.0,38.0,40.0,16
+2020-03-18,Tennessee,Arts & Entertainment,46.0,43.0,46.0,17
+2020-03-18,Tennessee,Convenience Store,91.0,77.0,91.0,18
+2020-03-18,Tennessee,Government,52.0,43.0,52.0,19
+2020-03-18,Tennessee,Colleges & Universities,31.0,38.0,31.0,20
+2020-03-18,Tennessee,Travel & Transport,29.0,26.0,30.0,21
+2020-03-18,Tennessee,Fitness Center,35.0,25.0,35.0,22
+2020-03-18,Tennessee,Airport,38.0,32.0,38.0,23
+2020-03-18,Tennessee,Sports,26.0,32.0,26.0,24
+2020-03-18,Tennessee,Banks,83.0,76.0,83.0,25
+2020-03-18,Tennessee,Alcohol,113.0,89.0,114.0,26
+2020-03-18,Tennessee,Bus,63.0,"",63.0,27
+2020-03-18,Tennessee,Skiing,126.0,"",129.0,28
+2020-03-19,Tennessee,Food,34.0,30.0,35.0,1
+2020-03-19,Tennessee,Shops & Services,30.0,25.0,30.0,2
+2020-03-19,Tennessee,Grocery,113.0,103.0,114.0,3
+2020-03-19,Tennessee,Gas Stations,92.0,86.0,92.0,4
+2020-03-19,Tennessee,Fast Food Restaurants,77.0,68.0,77.0,5
+2020-03-19,Tennessee,Outdoors & Recreation,60.0,58.0,60.0,6
+2020-03-19,Tennessee,Medical,41.0,33.0,41.0,7
+2020-03-19,Tennessee,Big Box Stores,96.0,83.0,97.0,8
+2020-03-19,Tennessee,Professional & Other Places,14.0,12.0,14.0,9
+2020-03-19,Tennessee,School,28.0,30.0,27.0,10
+2020-03-19,Tennessee,Discount Stores,102.0,97.0,102.0,11
+2020-03-19,Tennessee,Hardware Stores,115.0,107.0,115.0,12
+2020-03-19,Tennessee,Residences,92.0,82.0,93.0,13
+2020-03-19,Tennessee,Office,61.0,59.0,61.0,14
+2020-03-19,Tennessee,Drug Store,97.0,84.0,97.0,15
+2020-03-19,Tennessee,Hotel,58.0,57.0,58.0,16
+2020-03-19,Tennessee,Convenience Store,91.0,89.0,91.0,17
+2020-03-19,Tennessee,Nightlife Spots,36.0,36.0,36.0,18
+2020-03-19,Tennessee,Arts & Entertainment,48.0,46.0,48.0,19
+2020-03-19,Tennessee,Government,52.0,49.0,53.0,20
+2020-03-19,Tennessee,Colleges & Universities,32.0,44.0,31.0,21
+2020-03-19,Tennessee,Travel & Transport,29.0,25.0,29.0,22
+2020-03-19,Tennessee,Fitness Center,35.0,29.0,35.0,23
+2020-03-19,Tennessee,Sports,30.0,36.0,30.0,24
+2020-03-19,Tennessee,Airport,33.0,25.0,33.0,25
+2020-03-19,Tennessee,Banks,82.0,72.0,83.0,26
+2020-03-19,Tennessee,Alcohol,117.0,113.0,117.0,27
+2020-03-19,Tennessee,Bus,63.0,"",63.0,28
+2020-03-20,Tennessee,Food,31.0,26.0,32.0,1
+2020-03-20,Tennessee,Shops & Services,27.0,22.0,27.0,2
+2020-03-20,Tennessee,Grocery,115.0,98.0,115.0,3
+2020-03-20,Tennessee,Gas Stations,87.0,75.0,87.0,4
+2020-03-20,Tennessee,Fast Food Restaurants,74.0,68.0,75.0,5
+2020-03-20,Tennessee,Big Box Stores,95.0,77.0,95.0,6
+2020-03-20,Tennessee,Outdoors & Recreation,47.0,43.0,47.0,7
+2020-03-20,Tennessee,Medical,41.0,34.0,41.0,8
+2020-03-20,Tennessee,Professional & Other Places,14.0,12.0,14.0,9
+2020-03-20,Tennessee,Discount Stores,98.0,86.0,99.0,10
+2020-03-20,Tennessee,School,26.0,28.0,26.0,11
+2020-03-20,Tennessee,Hardware Stores,112.0,88.0,113.0,12
+2020-03-20,Tennessee,Drug Store,91.0,79.0,92.0,13
+2020-03-20,Tennessee,Office,62.0,54.0,62.0,14
+2020-03-20,Tennessee,Hotel,47.0,44.0,47.0,15
+2020-03-20,Tennessee,Residences,80.0,65.0,81.0,16
+2020-03-20,Tennessee,Convenience Store,82.0,65.0,83.0,17
+2020-03-20,Tennessee,Nightlife Spots,30.0,28.0,30.0,18
+2020-03-20,Tennessee,Arts & Entertainment,37.0,39.0,37.0,19
+2020-03-20,Tennessee,Government,51.0,43.0,51.0,20
+2020-03-20,Tennessee,Colleges & Universities,29.0,35.0,28.0,21
+2020-03-20,Tennessee,Travel & Transport,25.0,24.0,25.0,22
+2020-03-20,Tennessee,Banks,76.0,71.0,76.0,23
+2020-03-20,Tennessee,Fitness Center,33.0,26.0,34.0,24
+2020-03-20,Tennessee,Alcohol,109.0,103.0,109.0,25
+2020-03-20,Tennessee,Airport,26.0,24.0,26.0,26
+2020-03-20,Tennessee,Sports,23.0,25.0,23.0,27
+2020-03-20,Tennessee,Bus,58.0,"",58.0,28
+2020-03-20,Tennessee,Spiritual Center,4.0,"",4.0,29
+2020-03-21,Tennessee,Food,24.0,22.0,24.0,1
+2020-03-21,Tennessee,Shops & Services,21.0,18.0,21.0,2
+2020-03-21,Tennessee,Grocery,109.0,91.0,110.0,3
+2020-03-21,Tennessee,Gas Stations,81.0,73.0,81.0,4
+2020-03-21,Tennessee,Fast Food Restaurants,65.0,58.0,65.0,5
+2020-03-21,Tennessee,Big Box Stores,80.0,68.0,81.0,6
+2020-03-21,Tennessee,Outdoors & Recreation,48.0,45.0,48.0,7
+2020-03-21,Tennessee,Discount Stores,84.0,75.0,84.0,8
+2020-03-21,Tennessee,Hardware Stores,104.0,88.0,105.0,9
+2020-03-21,Tennessee,Professional & Other Places,14.0,14.0,14.0,10
+2020-03-21,Tennessee,School,35.0,34.0,35.0,11
+2020-03-21,Tennessee,Drug Store,93.0,85.0,93.0,12
+2020-03-21,Tennessee,Medical,38.0,32.0,38.0,13
+2020-03-21,Tennessee,Residences,71.0,63.0,72.0,14
+2020-03-21,Tennessee,Hotel,33.0,34.0,33.0,15
+2020-03-21,Tennessee,Nightlife Spots,19.0,22.0,19.0,16
+2020-03-21,Tennessee,Convenience Store,75.0,68.0,75.0,17
+2020-03-21,Tennessee,Arts & Entertainment,26.0,29.0,26.0,18
+2020-03-21,Tennessee,Travel & Transport,21.0,22.0,21.0,19
+2020-03-21,Tennessee,Office,63.0,57.0,63.0,20
+2020-03-21,Tennessee,Sports,25.0,31.0,25.0,21
+2020-03-21,Tennessee,Alcohol,92.0,81.0,93.0,22
+2020-03-21,Tennessee,Government,49.0,49.0,49.0,23
+2020-03-21,Tennessee,Colleges & Universities,36.0,35.0,36.0,24
+2020-03-21,Tennessee,Fitness Center,27.0,26.0,27.0,25
+2020-03-21,Tennessee,Airport,29.0,21.0,29.0,26
+2020-03-21,Tennessee,Banks,69.0,66.0,69.0,27
+2020-03-21,Tennessee,Bus,63.0,"",64.0,28
+2020-03-22,Tennessee,Food,22.0,17.0,22.0,1
+2020-03-22,Tennessee,Grocery,90.0,81.0,90.0,2
+2020-03-22,Tennessee,Shops & Services,17.0,15.0,17.0,3
+2020-03-22,Tennessee,Gas Stations,74.0,65.0,74.0,4
+2020-03-22,Tennessee,Big Box Stores,76.0,67.0,76.0,5
+2020-03-22,Tennessee,Outdoors & Recreation,45.0,41.0,45.0,6
+2020-03-22,Tennessee,Fast Food Restaurants,61.0,51.0,61.0,7
+2020-03-22,Tennessee,Discount Stores,78.0,66.0,78.0,8
+2020-03-22,Tennessee,Hardware Stores,101.0,86.0,102.0,9
+2020-03-22,Tennessee,School,37.0,26.0,38.0,10
+2020-03-22,Tennessee,Professional & Other Places,10.0,8.0,10.0,11
+2020-03-22,Tennessee,Residences,68.0,60.0,68.0,12
+2020-03-22,Tennessee,Drug Store,85.0,69.0,86.0,13
+2020-03-22,Tennessee,Medical,37.0,30.0,37.0,14
+2020-03-22,Tennessee,Hotel,32.0,35.0,31.0,15
+2020-03-22,Tennessee,Nightlife Spots,16.0,18.0,16.0,16
+2020-03-22,Tennessee,Convenience Store,68.0,62.0,68.0,17
+2020-03-22,Tennessee,Arts & Entertainment,22.0,25.0,22.0,18
+2020-03-22,Tennessee,Travel & Transport,20.0,20.0,20.0,19
+2020-03-22,Tennessee,Sports,27.0,34.0,26.0,20
+2020-03-22,Tennessee,Government,48.0,37.0,48.0,21
+2020-03-22,Tennessee,Office,58.0,58.0,58.0,22
+2020-03-22,Tennessee,Colleges & Universities,38.0,45.0,38.0,23
+2020-03-22,Tennessee,Airport,23.0,19.0,23.0,24
+2020-03-22,Tennessee,Alcohol,82.0,69.0,82.0,25
+2020-03-22,Tennessee,Fitness Center,30.0,24.0,30.0,26
+2020-03-22,Tennessee,Banks,65.0,58.0,65.0,27
+2020-03-22,Tennessee,Bus,53.0,"",53.0,28
+2020-03-23,Tennessee,Food,27.0,22.0,27.0,1
+2020-03-23,Tennessee,Shops & Services,24.0,20.0,24.0,2
+2020-03-23,Tennessee,Grocery,101.0,91.0,102.0,3
+2020-03-23,Tennessee,Gas Stations,78.0,72.0,78.0,4
+2020-03-23,Tennessee,Fast Food Restaurants,69.0,60.0,69.0,5
+2020-03-23,Tennessee,Medical,36.0,27.0,36.0,6
+2020-03-23,Tennessee,Big Box Stores,85.0,72.0,86.0,7
+2020-03-23,Tennessee,Outdoors & Recreation,41.0,36.0,41.0,8
+2020-03-23,Tennessee,Professional & Other Places,12.0,10.0,12.0,9
+2020-03-23,Tennessee,School,27.0,29.0,27.0,10
+2020-03-23,Tennessee,Discount Stores,89.0,72.0,89.0,11
+2020-03-23,Tennessee,Drug Store,98.0,89.0,99.0,12
+2020-03-23,Tennessee,Hardware Stores,97.0,84.0,97.0,13
+2020-03-23,Tennessee,Office,55.0,55.0,55.0,14
+2020-03-23,Tennessee,Residences,74.0,64.0,74.0,15
+2020-03-23,Tennessee,Convenience Store,71.0,61.0,72.0,16
+2020-03-23,Tennessee,Hotel,42.0,36.0,42.0,17
+2020-03-23,Tennessee,Arts & Entertainment,38.0,33.0,38.0,18
+2020-03-23,Tennessee,Government,46.0,40.0,46.0,19
+2020-03-23,Tennessee,Nightlife Spots,27.0,28.0,27.0,20
+2020-03-23,Tennessee,Colleges & Universities,25.0,39.0,25.0,21
+2020-03-23,Tennessee,Travel & Transport,23.0,21.0,23.0,22
+2020-03-23,Tennessee,Banks,74.0,64.0,74.0,23
+2020-03-23,Tennessee,Sports,23.0,24.0,22.0,24
+2020-03-23,Tennessee,Fitness Center,23.0,15.0,24.0,25
+2020-03-23,Tennessee,Airport,20.0,15.0,20.0,26
+2020-03-23,Tennessee,Alcohol,103.0,96.0,103.0,27
+2020-03-23,Tennessee,Bus,47.0,"",47.0,28
+2020-03-24,Tennessee,Food,26.0,20.0,26.0,1
+2020-03-24,Tennessee,Shops & Services,20.0,16.0,20.0,2
+2020-03-24,Tennessee,Grocery,88.0,81.0,89.0,3
+2020-03-24,Tennessee,Gas Stations,71.0,56.0,71.0,4
+2020-03-24,Tennessee,Fast Food Restaurants,63.0,52.0,64.0,5
+2020-03-24,Tennessee,Medical,31.0,24.0,32.0,6
+2020-03-24,Tennessee,Big Box Stores,78.0,65.0,78.0,7
+2020-03-24,Tennessee,Outdoors & Recreation,37.0,34.0,37.0,8
+2020-03-24,Tennessee,Professional & Other Places,11.0,9.0,11.0,9
+2020-03-24,Tennessee,School,20.0,21.0,20.0,10
+2020-03-24,Tennessee,Discount Stores,74.0,64.0,74.0,11
+2020-03-24,Tennessee,Office,48.0,47.0,48.0,12
+2020-03-24,Tennessee,Drug Store,81.0,72.0,82.0,13
+2020-03-24,Tennessee,Hardware Stores,87.0,68.0,88.0,14
+2020-03-24,Tennessee,Residences,69.0,54.0,70.0,15
+2020-03-24,Tennessee,Convenience Store,66.0,52.0,67.0,16
+2020-03-24,Tennessee,Government,39.0,31.0,39.0,17
+2020-03-24,Tennessee,Hotel,38.0,33.0,38.0,18
+2020-03-24,Tennessee,Arts & Entertainment,36.0,35.0,36.0,19
+2020-03-24,Tennessee,Nightlife Spots,24.0,23.0,24.0,20
+2020-03-24,Tennessee,Colleges & Universities,20.0,27.0,20.0,21
+2020-03-24,Tennessee,Travel & Transport,24.0,23.0,24.0,22
+2020-03-24,Tennessee,Airport,26.0,18.0,27.0,23
+2020-03-24,Tennessee,Banks,55.0,45.0,56.0,24
+2020-03-24,Tennessee,Sports,18.0,18.0,18.0,25
+2020-03-24,Tennessee,Fitness Center,18.0,13.0,18.0,26
+2020-03-24,Tennessee,Alcohol,85.0,65.0,86.0,27
+2020-03-24,Tennessee,Bus,46.0,"",46.0,28
+2020-03-25,Tennessee,Food,27.0,22.0,27.0,1
+2020-03-25,Tennessee,Shops & Services,23.0,20.0,23.0,2
+2020-03-25,Tennessee,Gas Stations,78.0,70.0,78.0,3
+2020-03-25,Tennessee,Grocery,87.0,81.0,88.0,4
+2020-03-25,Tennessee,Fast Food Restaurants,67.0,59.0,67.0,5
+2020-03-25,Tennessee,Outdoors & Recreation,54.0,52.0,54.0,6
+2020-03-25,Tennessee,Medical,32.0,24.0,33.0,7
+2020-03-25,Tennessee,Big Box Stores,79.0,67.0,79.0,8
+2020-03-25,Tennessee,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-25,Tennessee,School,23.0,26.0,23.0,10
+2020-03-25,Tennessee,Discount Stores,80.0,71.0,81.0,11
+2020-03-25,Tennessee,Hardware Stores,108.0,91.0,109.0,12
+2020-03-25,Tennessee,Residences,87.0,80.0,88.0,13
+2020-03-25,Tennessee,Office,51.0,48.0,51.0,14
+2020-03-25,Tennessee,Drug Store,84.0,73.0,84.0,15
+2020-03-25,Tennessee,Convenience Store,74.0,63.0,75.0,16
+2020-03-25,Tennessee,Hotel,40.0,35.0,40.0,17
+2020-03-25,Tennessee,Arts & Entertainment,45.0,43.0,45.0,18
+2020-03-25,Tennessee,Nightlife Spots,26.0,28.0,26.0,19
+2020-03-25,Tennessee,Government,40.0,32.0,40.0,20
+2020-03-25,Tennessee,Colleges & Universities,21.0,35.0,21.0,21
+2020-03-25,Tennessee,Travel & Transport,25.0,24.0,25.0,22
+2020-03-25,Tennessee,Sports,24.0,27.0,24.0,23
+2020-03-25,Tennessee,Airport,26.0,24.0,26.0,24
+2020-03-25,Tennessee,Banks,63.0,61.0,64.0,25
+2020-03-25,Tennessee,Fitness Center,22.0,19.0,23.0,26
+2020-03-25,Tennessee,Alcohol,83.0,74.0,83.0,27
+2020-03-25,Tennessee,Bus,54.0,"",54.0,28
+2020-03-26,Tennessee,Food,27.0,22.0,28.0,1
+2020-03-26,Tennessee,Shops & Services,23.0,19.0,23.0,2
+2020-03-26,Tennessee,Gas Stations,81.0,74.0,82.0,3
+2020-03-26,Tennessee,Fast Food Restaurants,74.0,65.0,75.0,4
+2020-03-26,Tennessee,Outdoors & Recreation,63.0,60.0,63.0,5
+2020-03-26,Tennessee,Grocery,85.0,71.0,85.0,6
+2020-03-26,Tennessee,Medical,33.0,27.0,33.0,7
+2020-03-26,Tennessee,Big Box Stores,77.0,63.0,77.0,8
+2020-03-26,Tennessee,Professional & Other Places,12.0,11.0,12.0,9
+2020-03-26,Tennessee,School,27.0,31.0,27.0,10
+2020-03-26,Tennessee,Hardware Stores,124.0,118.0,125.0,11
+2020-03-26,Tennessee,Discount Stores,85.0,77.0,85.0,12
+2020-03-26,Tennessee,Residences,91.0,80.0,91.0,13
+2020-03-26,Tennessee,Office,55.0,52.0,55.0,14
+2020-03-26,Tennessee,Drug Store,80.0,66.0,80.0,15
+2020-03-26,Tennessee,Convenience Store,79.0,66.0,80.0,16
+2020-03-26,Tennessee,Arts & Entertainment,42.0,43.0,42.0,17
+2020-03-26,Tennessee,Nightlife Spots,27.0,31.0,27.0,18
+2020-03-26,Tennessee,Government,44.0,36.0,44.0,19
+2020-03-26,Tennessee,Hotel,38.0,35.0,38.0,20
+2020-03-26,Tennessee,Travel & Transport,25.0,19.0,25.0,21
+2020-03-26,Tennessee,Colleges & Universities,25.0,37.0,25.0,22
+2020-03-26,Tennessee,Sports,30.0,38.0,29.0,23
+2020-03-26,Tennessee,Banks,70.0,60.0,70.0,24
+2020-03-26,Tennessee,Airport,24.0,18.0,24.0,25
+2020-03-26,Tennessee,Fitness Center,23.0,18.0,23.0,26
+2020-03-26,Tennessee,Alcohol,89.0,70.0,89.0,27
+2020-03-26,Tennessee,Bus,57.0,"",57.0,28
+2020-03-27,Tennessee,Food,25.0,22.0,26.0,1
+2020-03-27,Tennessee,Shops & Services,19.0,15.0,19.0,2
+2020-03-27,Tennessee,Gas Stations,81.0,70.0,82.0,3
+2020-03-27,Tennessee,Fast Food Restaurants,74.0,67.0,74.0,4
+2020-03-27,Tennessee,Grocery,79.0,64.0,79.0,5
+2020-03-27,Tennessee,Outdoors & Recreation,60.0,55.0,60.0,6
+2020-03-27,Tennessee,Big Box Stores,77.0,63.0,77.0,7
+2020-03-27,Tennessee,Medical,35.0,29.0,35.0,8
+2020-03-27,Tennessee,Professional & Other Places,12.0,11.0,12.0,9
+2020-03-27,Tennessee,School,30.0,33.0,30.0,10
+2020-03-27,Tennessee,Hardware Stores,128.0,105.0,129.0,11
+2020-03-27,Tennessee,Discount Stores,85.0,69.0,85.0,12
+2020-03-27,Tennessee,Residences,87.0,76.0,88.0,13
+2020-03-27,Tennessee,Drug Store,76.0,66.0,77.0,14
+2020-03-27,Tennessee,Convenience Store,80.0,71.0,80.0,15
+2020-03-27,Tennessee,Office,53.0,47.0,53.0,16
+2020-03-27,Tennessee,Nightlife Spots,28.0,32.0,28.0,17
+2020-03-27,Tennessee,Arts & Entertainment,46.0,46.0,46.0,18
+2020-03-27,Tennessee,Hotel,34.0,31.0,34.0,19
+2020-03-27,Tennessee,Government,44.0,38.0,44.0,20
+2020-03-27,Tennessee,Travel & Transport,23.0,22.0,23.0,21
+2020-03-27,Tennessee,Colleges & Universities,23.0,36.0,22.0,22
+2020-03-27,Tennessee,Sports,31.0,38.0,31.0,23
+2020-03-27,Tennessee,Banks,71.0,65.0,71.0,24
+2020-03-27,Tennessee,Airport,22.0,16.0,23.0,25
+2020-03-27,Tennessee,Alcohol,85.0,63.0,86.0,26
+2020-03-27,Tennessee,Fitness Center,25.0,21.0,26.0,27
+2020-03-27,Tennessee,Bus,46.0,"",46.0,28
+2020-03-27,Tennessee,Spiritual Center,3.0,"",3.0,29
+2020-03-28,Tennessee,Food,22.0,19.0,23.0,1
+2020-03-28,Tennessee,Shops & Services,20.0,17.0,20.0,2
+2020-03-28,Tennessee,Grocery,85.0,70.0,85.0,3
+2020-03-28,Tennessee,Gas Stations,83.0,69.0,83.0,4
+2020-03-28,Tennessee,Outdoors & Recreation,62.0,57.0,62.0,5
+2020-03-28,Tennessee,Fast Food Restaurants,72.0,62.0,72.0,6
+2020-03-28,Tennessee,Big Box Stores,75.0,61.0,75.0,7
+2020-03-28,Tennessee,Hardware Stores,132.0,98.0,133.0,8
+2020-03-28,Tennessee,Discount Stores,80.0,70.0,81.0,9
+2020-03-28,Tennessee,School,40.0,35.0,40.0,10
+2020-03-28,Tennessee,Professional & Other Places,13.0,12.0,13.0,11
+2020-03-28,Tennessee,Residences,76.0,64.0,77.0,12
+2020-03-28,Tennessee,Medical,38.0,29.0,38.0,13
+2020-03-28,Tennessee,Drug Store,82.0,69.0,82.0,14
+2020-03-28,Tennessee,Convenience Store,77.0,70.0,77.0,15
+2020-03-28,Tennessee,Arts & Entertainment,32.0,30.0,32.0,16
+2020-03-28,Tennessee,Nightlife Spots,19.0,24.0,19.0,17
+2020-03-28,Tennessee,Hotel,25.0,25.0,25.0,18
+2020-03-28,Tennessee,Sports,30.0,38.0,30.0,19
+2020-03-28,Tennessee,Travel & Transport,20.0,20.0,20.0,20
+2020-03-28,Tennessee,Government,54.0,46.0,54.0,21
+2020-03-28,Tennessee,Office,59.0,52.0,59.0,22
+2020-03-28,Tennessee,Colleges & Universities,43.0,45.0,43.0,23
+2020-03-28,Tennessee,Alcohol,84.0,69.0,84.0,24
+2020-03-28,Tennessee,Fitness Center,24.0,20.0,24.0,25
+2020-03-28,Tennessee,Banks,64.0,58.0,64.0,26
+2020-03-28,Tennessee,Airport,25.0,15.0,26.0,27
+2020-03-28,Tennessee,Bus,54.0,"",55.0,28
+2020-03-29,Tennessee,Food,19.0,17.0,19.0,1
+2020-03-29,Tennessee,Shops & Services,15.0,14.0,15.0,2
+2020-03-29,Tennessee,Grocery,67.0,61.0,67.0,3
+2020-03-29,Tennessee,Gas Stations,69.0,60.0,70.0,4
+2020-03-29,Tennessee,Outdoors & Recreation,56.0,51.0,56.0,5
+2020-03-29,Tennessee,Fast Food Restaurants,69.0,61.0,69.0,6
+2020-03-29,Tennessee,Big Box Stores,66.0,58.0,66.0,7
+2020-03-29,Tennessee,Hardware Stores,118.0,102.0,118.0,8
+2020-03-29,Tennessee,Discount Stores,63.0,54.0,63.0,9
+2020-03-29,Tennessee,School,36.0,29.0,36.0,10
+2020-03-29,Tennessee,Professional & Other Places,9.0,7.0,9.0,11
+2020-03-29,Tennessee,Residences,61.0,49.0,62.0,12
+2020-03-29,Tennessee,Drug Store,72.0,60.0,72.0,13
+2020-03-29,Tennessee,Convenience Store,65.0,50.0,65.0,14
+2020-03-29,Tennessee,Medical,30.0,27.0,30.0,15
+2020-03-29,Tennessee,Nightlife Spots,16.0,21.0,16.0,16
+2020-03-29,Tennessee,Arts & Entertainment,25.0,28.0,25.0,17
+2020-03-29,Tennessee,Hotel,21.0,19.0,21.0,18
+2020-03-29,Tennessee,Travel & Transport,19.0,17.0,19.0,19
+2020-03-29,Tennessee,Sports,26.0,33.0,26.0,20
+2020-03-29,Tennessee,Government,47.0,38.0,47.0,21
+2020-03-29,Tennessee,Colleges & Universities,40.0,39.0,40.0,22
+2020-03-29,Tennessee,Office,50.0,48.0,50.0,23
+2020-03-29,Tennessee,Alcohol,66.0,56.0,66.0,24
+2020-03-29,Tennessee,Airport,17.0,12.0,17.0,25
+2020-03-29,Tennessee,Fitness Center,22.0,17.0,22.0,26
+2020-03-29,Tennessee,Banks,57.0,"",57.0,27
+2020-03-30,Tennessee,Food,27.0,21.0,27.0,1
+2020-03-30,Tennessee,Shops & Services,20.0,17.0,20.0,2
+2020-03-30,Tennessee,Gas Stations,77.0,66.0,77.0,3
+2020-03-30,Tennessee,Grocery,82.0,76.0,83.0,4
+2020-03-30,Tennessee,Fast Food Restaurants,72.0,62.0,73.0,5
+2020-03-30,Tennessee,Outdoors & Recreation,47.0,43.0,47.0,6
+2020-03-30,Tennessee,Medical,32.0,24.0,32.0,7
+2020-03-30,Tennessee,Big Box Stores,75.0,62.0,75.0,8
+2020-03-30,Tennessee,Professional & Other Places,11.0,10.0,11.0,9
+2020-03-30,Tennessee,School,28.0,32.0,28.0,10
+2020-03-30,Tennessee,Hardware Stores,115.0,100.0,116.0,11
+2020-03-30,Tennessee,Discount Stores,82.0,73.0,82.0,12
+2020-03-30,Tennessee,Residences,75.0,70.0,75.0,13
+2020-03-30,Tennessee,Office,51.0,48.0,51.0,14
+2020-03-30,Tennessee,Drug Store,80.0,71.0,80.0,15
+2020-03-30,Tennessee,Convenience Store,75.0,67.0,75.0,16
+2020-03-30,Tennessee,Government,46.0,42.0,46.0,17
+2020-03-30,Tennessee,Arts & Entertainment,47.0,46.0,47.0,18
+2020-03-30,Tennessee,Nightlife Spots,26.0,28.0,26.0,19
+2020-03-30,Tennessee,Hotel,34.0,28.0,35.0,20
+2020-03-30,Tennessee,Colleges & Universities,24.0,37.0,24.0,21
+2020-03-30,Tennessee,Travel & Transport,23.0,22.0,23.0,22
+2020-03-30,Tennessee,Sports,26.0,28.0,26.0,23
+2020-03-30,Tennessee,Banks,69.0,66.0,69.0,24
+2020-03-30,Tennessee,Fitness Center,22.0,17.0,22.0,25
+2020-03-30,Tennessee,Airport,19.0,14.0,19.0,26
+2020-03-30,Tennessee,Alcohol,95.0,84.0,95.0,27
+2020-03-30,Tennessee,Bus,48.0,"",48.0,28
+2020-03-31,Tennessee,Food,23.0,19.0,23.0,1
+2020-03-31,Tennessee,Shops & Services,18.0,15.0,18.0,2
+2020-03-31,Tennessee,Grocery,78.0,72.0,79.0,3
+2020-03-31,Tennessee,Gas Stations,64.0,52.0,64.0,4
+2020-03-31,Tennessee,Fast Food Restaurants,61.0,50.0,61.0,5
+2020-03-31,Tennessee,Big Box Stores,71.0,60.0,72.0,6
+2020-03-31,Tennessee,Medical,25.0,20.0,25.0,7
+2020-03-31,Tennessee,Outdoors & Recreation,33.0,31.0,33.0,8
+2020-03-31,Tennessee,Professional & Other Places,9.0,8.0,9.0,9
+2020-03-31,Tennessee,School,17.0,17.0,17.0,10
+2020-03-31,Tennessee,Discount Stores,65.0,54.0,66.0,11
+2020-03-31,Tennessee,Hardware Stores,84.0,62.0,86.0,12
+2020-03-31,Tennessee,Drug Store,72.0,57.0,72.0,13
+2020-03-31,Tennessee,Office,41.0,39.0,42.0,14
+2020-03-31,Tennessee,Residences,57.0,41.0,58.0,15
+2020-03-31,Tennessee,Convenience Store,59.0,49.0,59.0,16
+2020-03-31,Tennessee,Government,33.0,26.0,33.0,17
+2020-03-31,Tennessee,Nightlife Spots,24.0,25.0,24.0,18
+2020-03-31,Tennessee,Arts & Entertainment,34.0,32.0,34.0,19
+2020-03-31,Tennessee,Hotel,27.0,21.0,27.0,20
+2020-03-31,Tennessee,Colleges & Universities,18.0,28.0,18.0,21
+2020-03-31,Tennessee,Travel & Transport,19.0,16.0,19.0,22
+2020-03-31,Tennessee,Banks,65.0,56.0,65.0,23
+2020-03-31,Tennessee,Airport,23.0,19.0,23.0,24
+2020-03-31,Tennessee,Fitness Center,16.0,14.0,17.0,25
+2020-03-31,Tennessee,Sports,16.0,18.0,16.0,26
+2020-03-31,Tennessee,Alcohol,74.0,59.0,74.0,27
+2020-03-31,Tennessee,Bus,32.0,"",32.0,28
