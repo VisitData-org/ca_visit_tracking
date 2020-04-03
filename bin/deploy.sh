@@ -43,11 +43,25 @@ record_version() {
 # Deploy
 deploy() {
   info "Deploying..."
-  gcloud app deploy .
+  gcloud app deploy . --project "${PROJECT}"
 }
 
 
+DEST="$1"
+if [[ -z "${DEST}" || ( "${DEST}" != "prod" && "${DEST}" != "beta" ) ]]; then
+  error "Usage: $0 {prod|beta}"
+fi
+
+PROJECT=""
+if [ "${DEST}" == "prod" ]; then
+  PROJECT="os-covid"
+elif [ "${DEST}" == "beta" ]; then
+  PROJECT="os-covid-beta"
+else
+  error "Unknown destination. Use 'prod' or 'beta'"
+fi
+
 cd "${DIR}/.."
-validate
+"${SKIP_VALIDATE}" || validate
 record_version
 deploy
