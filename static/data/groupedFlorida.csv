@@ -25951,3 +25951,707 @@
 2020-04-01,Florida,Sarasota County,Banks,73.0,60.0,76.0,21
 2020-04-01,Florida,Sarasota County,Travel & Transport,57.0,64.0,56.0,22
 2020-04-01,Florida,Sarasota County,Fitness Center,34.0,25.0,36.0,23
+2020-04-02,Florida,Putnam County,Food,56.0,"",56.0,1
+2020-04-02,Florida,Putnam County,Gas Stations,88.0,"",89.0,2
+2020-04-02,Florida,Putnam County,Outdoors & Recreation,69.0,"",70.0,3
+2020-04-02,Florida,Putnam County,Grocery,106.0,"",107.0,4
+2020-04-02,Florida,Putnam County,Shops & Services,85.0,"",85.0,5
+2020-04-02,Florida,Charlotte County,Shops & Services,44.0,38.0,45.0,1
+2020-04-02,Florida,Charlotte County,Grocery,96.0,89.0,97.0,2
+2020-04-02,Florida,Charlotte County,Food,31.0,23.0,32.0,3
+2020-04-02,Florida,Charlotte County,Outdoors & Recreation,77.0,64.0,79.0,4
+2020-04-02,Florida,Charlotte County,Big Box Stores,77.0,66.0,79.0,5
+2020-04-02,Florida,Charlotte County,Convenience Store,65.0,55.0,66.0,6
+2020-04-02,Florida,Charlotte County,Gas Stations,66.0,60.0,67.0,7
+2020-04-02,Florida,Charlotte County,Medical,47.0,48.0,46.0,8
+2020-04-02,Florida,Charlotte County,Hardware Stores,72.0,50.0,76.0,9
+2020-04-02,Florida,Charlotte County,Drug Store,85.0,85.0,85.0,10
+2020-04-02,Florida,Charlotte County,Fast Food Restaurants,43.0,"",45.0,11
+2020-04-02,Florida,Charlotte County,Nightlife Spots,37.0,41.0,36.0,12
+2020-04-02,Florida,Charlotte County,Residences,59.0,59.0,58.0,13
+2020-04-02,Florida,Charlotte County,Sports,44.0,44.0,44.0,14
+2020-04-02,Florida,Indian River County,Food,47.0,32.0,49.0,1
+2020-04-02,Florida,Indian River County,Shops & Services,47.0,36.0,48.0,2
+2020-04-02,Florida,Indian River County,Grocery,74.0,64.0,75.0,3
+2020-04-02,Florida,Indian River County,Outdoors & Recreation,67.0,53.0,69.0,4
+2020-04-02,Florida,Indian River County,Big Box Stores,69.0,56.0,70.0,5
+2020-04-02,Florida,Indian River County,Sports,69.0,48.0,73.0,6
+2020-04-02,Florida,Indian River County,Convenience Store,57.0,55.0,57.0,7
+2020-04-02,Florida,Indian River County,Gas Stations,70.0,66.0,70.0,8
+2020-04-02,Florida,Indian River County,Medical,48.0,38.0,49.0,9
+2020-04-02,Florida,Indian River County,Residences,57.0,51.0,57.0,10
+2020-04-02,Florida,Indian River County,Beach,56.0,65.0,54.0,11
+2020-04-02,Florida,Indian River County,Fast Food Restaurants,56.0,"",57.0,12
+2020-04-02,Florida,Indian River County,Hardware Stores,79.0,64.0,82.0,13
+2020-04-02,Florida,Indian River County,Drug Store,77.0,84.0,76.0,14
+2020-04-02,Florida,Jackson County,Food,62.0,"",63.0,1
+2020-04-02,Florida,Jackson County,Gas Stations,68.0,"",69.0,2
+2020-04-02,Florida,Levy County,Food,52.0,"",53.0,1
+2020-04-02,Florida,Okeechobee County,Food,42.0,"",43.0,1
+2020-04-02,Florida,Highlands County,Food,47.0,30.0,49.0,1
+2020-04-02,Florida,Highlands County,Shops & Services,59.0,44.0,61.0,2
+2020-04-02,Florida,Highlands County,Outdoors & Recreation,61.0,48.0,63.0,3
+2020-04-02,Florida,Highlands County,Grocery,102.0,75.0,107.0,4
+2020-04-02,Florida,Highlands County,Big Box Stores,58.0,"",60.0,5
+2020-04-02,Florida,Highlands County,Gas Stations,71.0,"",73.0,6
+2020-04-02,Florida,Highlands County,Fast Food Restaurants,56.0,"",57.0,7
+2020-04-02,Florida,Walton County,Food,41.0,18.0,43.0,1
+2020-04-02,Florida,Walton County,Shops & Services,57.0,"",60.0,2
+2020-04-02,Florida,Walton County,Beach,74.0,"",78.0,3
+2020-04-02,Florida,Walton County,Gas Stations,66.0,"",68.0,4
+2020-04-02,Florida,Walton County,Hotel,45.0,"",47.0,5
+2020-04-02,Florida,Walton County,Grocery,77.0,"",78.0,6
+2020-04-02,Florida,Santa Rosa County,Food,60.0,50.0,60.0,1
+2020-04-02,Florida,Santa Rosa County,Shops & Services,70.0,85.0,69.0,2
+2020-04-02,Florida,Santa Rosa County,Grocery,91.0,85.0,91.0,3
+2020-04-02,Florida,Santa Rosa County,Gas Stations,88.0,"",89.0,4
+2020-04-02,Florida,Santa Rosa County,Big Box Stores,72.0,"",73.0,5
+2020-04-02,Florida,Santa Rosa County,Outdoors & Recreation,86.0,"",88.0,6
+2020-04-02,Florida,Santa Rosa County,Hardware Stores,134.0,146.0,133.0,7
+2020-04-02,Florida,Santa Rosa County,Convenience Store,92.0,"",91.0,8
+2020-04-02,Florida,Santa Rosa County,Medical,52.0,"",53.0,9
+2020-04-02,Florida,Santa Rosa County,Fast Food Restaurants,64.0,"",64.0,10
+2020-04-02,Florida,Santa Rosa County,Drug Store,87.0,"",89.0,11
+2020-04-02,Florida,Santa Rosa County,Professional & Other Places,84.0,"",84.0,12
+2020-04-02,Florida,Leon County,Shops & Services,58.0,54.0,58.0,1
+2020-04-02,Florida,Leon County,Food,41.0,39.0,41.0,2
+2020-04-02,Florida,Leon County,Grocery,76.0,60.0,77.0,3
+2020-04-02,Florida,Leon County,Outdoors & Recreation,84.0,83.0,84.0,4
+2020-04-02,Florida,Leon County,Medical,45.0,42.0,45.0,5
+2020-04-02,Florida,Leon County,Big Box Stores,79.0,75.0,79.0,6
+2020-04-02,Florida,Leon County,Colleges & Universities,25.0,"",25.0,7
+2020-04-02,Florida,Leon County,Gas Stations,73.0,85.0,72.0,8
+2020-04-02,Florida,Leon County,Fast Food Restaurants,57.0,61.0,56.0,9
+2020-04-02,Florida,Leon County,Residences,60.0,"",61.0,10
+2020-04-02,Florida,Leon County,Convenience Store,63.0,"",64.0,11
+2020-04-02,Florida,Leon County,Discount Stores,81.0,"",82.0,12
+2020-04-02,Florida,Leon County,Hardware Stores,97.0,"",97.0,13
+2020-04-02,Florida,Leon County,School,33.0,"",34.0,14
+2020-04-02,Florida,Leon County,Government,40.0,"",40.0,15
+2020-04-02,Florida,Leon County,Professional & Other Places,62.0,"",62.0,16
+2020-04-02,Florida,Leon County,Drug Store,70.0,"",70.0,17
+2020-04-02,Florida,Leon County,Nightlife Spots,45.0,"",44.0,18
+2020-04-02,Florida,Citrus County,Food,45.0,38.0,46.0,1
+2020-04-02,Florida,Citrus County,Shops & Services,56.0,47.0,57.0,2
+2020-04-02,Florida,Citrus County,Outdoors & Recreation,50.0,40.0,51.0,3
+2020-04-02,Florida,Citrus County,Grocery,72.0,65.0,73.0,4
+2020-04-02,Florida,Citrus County,Big Box Stores,76.0,55.0,79.0,5
+2020-04-02,Florida,Citrus County,Gas Stations,64.0,63.0,64.0,6
+2020-04-02,Florida,Citrus County,Medical,50.0,50.0,50.0,7
+2020-04-02,Florida,Citrus County,Fast Food Restaurants,51.0,"",51.0,8
+2020-04-02,Florida,Volusia County,Shops & Services,51.0,41.0,52.0,1
+2020-04-02,Florida,Volusia County,Food,41.0,30.0,42.0,2
+2020-04-02,Florida,Volusia County,Grocery,83.0,67.0,84.0,3
+2020-04-02,Florida,Volusia County,Outdoors & Recreation,58.0,52.0,58.0,4
+2020-04-02,Florida,Volusia County,Gas Stations,62.0,57.0,62.0,5
+2020-04-02,Florida,Volusia County,Medical,55.0,41.0,56.0,6
+2020-04-02,Florida,Volusia County,Big Box Stores,70.0,49.0,71.0,7
+2020-04-02,Florida,Volusia County,Convenience Store,61.0,50.0,62.0,8
+2020-04-02,Florida,Volusia County,Fast Food Restaurants,51.0,43.0,52.0,9
+2020-04-02,Florida,Volusia County,Residences,61.0,64.0,61.0,10
+2020-04-02,Florida,Volusia County,Nightlife Spots,29.0,32.0,29.0,11
+2020-04-02,Florida,Volusia County,Hardware Stores,90.0,80.0,91.0,12
+2020-04-02,Florida,Volusia County,Drug Store,74.0,69.0,74.0,13
+2020-04-02,Florida,Volusia County,School,35.0,41.0,35.0,14
+2020-04-02,Florida,Volusia County,Professional & Other Places,60.0,52.0,61.0,15
+2020-04-02,Florida,Volusia County,Discount Stores,71.0,47.0,73.0,16
+2020-04-02,Florida,Volusia County,Hotel,33.0,29.0,33.0,17
+2020-04-02,Florida,Volusia County,Sports,65.0,61.0,66.0,18
+2020-04-02,Florida,Volusia County,Banks,77.0,56.0,79.0,19
+2020-04-02,Florida,Volusia County,Beach,63.0,51.0,65.0,20
+2020-04-02,Florida,Volusia County,Arts & Entertainment,22.0,"",22.0,21
+2020-04-02,Florida,Volusia County,Office,41.0,"",42.0,22
+2020-04-02,Florida,Volusia County,Colleges & Universities,20.0,"",20.0,23
+2020-04-02,Florida,Volusia County,Government,52.0,"",53.0,24
+2020-04-02,Florida,Volusia County,Travel & Transport,58.0,"",60.0,25
+2020-04-02,Florida,Saint Johns County,Food,34.0,33.0,34.0,1
+2020-04-02,Florida,Saint Johns County,Shops & Services,53.0,49.0,54.0,2
+2020-04-02,Florida,Saint Johns County,Grocery,83.0,68.0,85.0,3
+2020-04-02,Florida,Saint Johns County,Outdoors & Recreation,57.0,43.0,58.0,4
+2020-04-02,Florida,Saint Johns County,Gas Stations,63.0,62.0,63.0,5
+2020-04-02,Florida,Saint Johns County,Residences,74.0,77.0,74.0,6
+2020-04-02,Florida,Saint Johns County,Sports,67.0,80.0,65.0,7
+2020-04-02,Florida,Saint Johns County,Hardware Stores,108.0,71.0,112.0,8
+2020-04-02,Florida,Saint Johns County,Convenience Store,63.0,"",64.0,9
+2020-04-02,Florida,Saint Johns County,Fast Food Restaurants,60.0,72.0,59.0,10
+2020-04-02,Florida,Saint Johns County,Big Box Stores,67.0,"",68.0,11
+2020-04-02,Florida,Saint Johns County,Medical,49.0,"",52.0,12
+2020-04-02,Florida,Saint Johns County,Professional & Other Places,53.0,47.0,54.0,13
+2020-04-02,Florida,Saint Johns County,Drug Store,79.0,75.0,79.0,14
+2020-04-02,Florida,Saint Johns County,Travel & Transport,55.0,"",55.0,15
+2020-04-02,Florida,Saint Johns County,Nightlife Spots,40.0,"",41.0,16
+2020-04-02,Florida,Miami-Dade County,Food,27.0,21.0,27.0,1
+2020-04-02,Florida,Miami-Dade County,Shops & Services,30.0,27.0,30.0,2
+2020-04-02,Florida,Miami-Dade County,Grocery,60.0,47.0,60.0,3
+2020-04-02,Florida,Miami-Dade County,Outdoors & Recreation,38.0,36.0,39.0,4
+2020-04-02,Florida,Miami-Dade County,Residences,42.0,37.0,42.0,5
+2020-04-02,Florida,Miami-Dade County,Gas Stations,43.0,39.0,43.0,6
+2020-04-02,Florida,Miami-Dade County,Drug Store,56.0,48.0,57.0,7
+2020-04-02,Florida,Miami-Dade County,Medical,32.0,20.0,32.0,8
+2020-04-02,Florida,Miami-Dade County,Fast Food Restaurants,39.0,28.0,39.0,9
+2020-04-02,Florida,Miami-Dade County,Professional & Other Places,40.0,37.0,40.0,10
+2020-04-02,Florida,Miami-Dade County,Big Box Stores,53.0,35.0,53.0,11
+2020-04-02,Florida,Miami-Dade County,Airport,11.0,"",11.0,12
+2020-04-02,Florida,Miami-Dade County,School,23.0,25.0,23.0,13
+2020-04-02,Florida,Miami-Dade County,Office,29.0,33.0,29.0,14
+2020-04-02,Florida,Miami-Dade County,Hotel,14.0,14.0,14.0,15
+2020-04-02,Florida,Miami-Dade County,Banks,46.0,49.0,46.0,16
+2020-04-02,Florida,Miami-Dade County,Hardware Stores,65.0,45.0,66.0,17
+2020-04-02,Florida,Miami-Dade County,Arts & Entertainment,22.0,"",22.0,18
+2020-04-02,Florida,Miami-Dade County,Travel & Transport,20.0,"",20.0,19
+2020-04-02,Florida,Miami-Dade County,Fitness Center,23.0,"",23.0,20
+2020-04-02,Florida,Miami-Dade County,Government,30.0,"",30.0,21
+2020-04-02,Florida,Miami-Dade County,Nightlife Spots,21.0,"",21.0,22
+2020-04-02,Florida,Miami-Dade County,Colleges & Universities,15.0,"",15.0,23
+2020-04-02,Florida,Miami-Dade County,Convenience Store,46.0,"",46.0,24
+2020-04-02,Florida,Miami-Dade County,Sports,39.0,"",39.0,25
+2020-04-02,Florida,Miami-Dade County,Discount Stores,48.0,"",47.0,26
+2020-04-02,Florida,Miami-Dade County,Beach,21.0,"",21.0,27
+2020-04-02,Florida,Miami-Dade County,Light Rail Stations,31.0,"",31.0,28
+2020-04-02,Florida,Miami-Dade County,Alcohol,56.0,"",56.0,29
+2020-04-02,Florida,Orange County,Shops & Services,27.0,28.0,27.0,1
+2020-04-02,Florida,Orange County,Food,23.0,22.0,23.0,2
+2020-04-02,Florida,Orange County,Grocery,65.0,55.0,66.0,3
+2020-04-02,Florida,Orange County,Residences,55.0,47.0,56.0,4
+2020-04-02,Florida,Orange County,Outdoors & Recreation,45.0,39.0,45.0,5
+2020-04-02,Florida,Orange County,Convenience Store,48.0,43.0,48.0,6
+2020-04-02,Florida,Orange County,Medical,43.0,36.0,43.0,7
+2020-04-02,Florida,Orange County,Professional & Other Places,21.0,21.0,21.0,8
+2020-04-02,Florida,Orange County,Fast Food Restaurants,42.0,37.0,42.0,9
+2020-04-02,Florida,Orange County,Big Box Stores,64.0,57.0,64.0,10
+2020-04-02,Florida,Orange County,Gas Stations,50.0,48.0,50.0,11
+2020-04-02,Florida,Orange County,Office,32.0,34.0,32.0,12
+2020-04-02,Florida,Orange County,Hotel,6.0,8.0,6.0,13
+2020-04-02,Florida,Orange County,Airport,10.0,6.0,10.0,14
+2020-04-02,Florida,Orange County,Arts & Entertainment,2.0,3.0,2.0,15
+2020-04-02,Florida,Orange County,Drug Store,46.0,37.0,46.0,16
+2020-04-02,Florida,Orange County,School,25.0,39.0,25.0,17
+2020-04-02,Florida,Orange County,Hardware Stores,76.0,63.0,77.0,18
+2020-04-02,Florida,Orange County,Travel & Transport,20.0,17.0,21.0,19
+2020-04-02,Florida,Orange County,Nightlife Spots,17.0,18.0,17.0,20
+2020-04-02,Florida,Orange County,Sports,52.0,49.0,52.0,21
+2020-04-02,Florida,Orange County,Banks,56.0,54.0,57.0,22
+2020-04-02,Florida,Orange County,Discount Stores,52.0,"",52.0,23
+2020-04-02,Florida,Orange County,Government,35.0,"",36.0,24
+2020-04-02,Florida,Orange County,Fitness Center,21.0,"",21.0,25
+2020-04-02,Florida,Orange County,Colleges & Universities,13.0,"",13.0,26
+2020-04-02,Florida,Orange County,Alcohol,66.0,"",68.0,27
+2020-04-02,Florida,Orange County,Bus,10.0,"",10.0,28
+2020-04-02,Florida,Brevard County,Shops & Services,56.0,45.0,57.0,1
+2020-04-02,Florida,Brevard County,Food,41.0,30.0,42.0,2
+2020-04-02,Florida,Brevard County,Grocery,81.0,65.0,82.0,3
+2020-04-02,Florida,Brevard County,Outdoors & Recreation,61.0,54.0,61.0,4
+2020-04-02,Florida,Brevard County,Big Box Stores,78.0,62.0,79.0,5
+2020-04-02,Florida,Brevard County,Medical,45.0,36.0,46.0,6
+2020-04-02,Florida,Brevard County,Gas Stations,65.0,63.0,65.0,7
+2020-04-02,Florida,Brevard County,Fast Food Restaurants,61.0,44.0,62.0,8
+2020-04-02,Florida,Brevard County,Convenience Store,60.0,53.0,61.0,9
+2020-04-02,Florida,Brevard County,Hardware Stores,87.0,62.0,90.0,10
+2020-04-02,Florida,Brevard County,Professional & Other Places,56.0,42.0,57.0,11
+2020-04-02,Florida,Brevard County,Residences,71.0,58.0,72.0,12
+2020-04-02,Florida,Brevard County,Government,38.0,39.0,38.0,13
+2020-04-02,Florida,Brevard County,Drug Store,76.0,62.0,77.0,14
+2020-04-02,Florida,Brevard County,Nightlife Spots,29.0,34.0,29.0,15
+2020-04-02,Florida,Brevard County,Beach,53.0,33.0,55.0,16
+2020-04-02,Florida,Brevard County,Travel & Transport,45.0,36.0,46.0,17
+2020-04-02,Florida,Brevard County,Discount Stores,92.0,78.0,93.0,18
+2020-04-02,Florida,Brevard County,School,29.0,32.0,29.0,19
+2020-04-02,Florida,Brevard County,Sports,64.0,52.0,66.0,20
+2020-04-02,Florida,Brevard County,Banks,82.0,69.0,83.0,21
+2020-04-02,Florida,Brevard County,Hotel,32.0,35.0,32.0,22
+2020-04-02,Florida,Brevard County,Arts & Entertainment,28.0,34.0,27.0,23
+2020-04-02,Florida,Brevard County,Office,44.0,"",43.0,24
+2020-04-02,Florida,Nassau County,Food,43.0,34.0,44.0,1
+2020-04-02,Florida,Nassau County,Grocery,79.0,97.0,77.0,2
+2020-04-02,Florida,Nassau County,Outdoors & Recreation,59.0,"",59.0,3
+2020-04-02,Florida,Lake County,Shops & Services,54.0,39.0,56.0,1
+2020-04-02,Florida,Lake County,Food,40.0,31.0,41.0,2
+2020-04-02,Florida,Lake County,Grocery,81.0,73.0,82.0,3
+2020-04-02,Florida,Lake County,Outdoors & Recreation,57.0,51.0,58.0,4
+2020-04-02,Florida,Lake County,Big Box Stores,65.0,65.0,65.0,5
+2020-04-02,Florida,Lake County,Fast Food Restaurants,64.0,41.0,66.0,6
+2020-04-02,Florida,Lake County,Professional & Other Places,54.0,45.0,55.0,7
+2020-04-02,Florida,Lake County,Hardware Stores,90.0,75.0,93.0,8
+2020-04-02,Florida,Lake County,Gas Stations,65.0,53.0,66.0,9
+2020-04-02,Florida,Lake County,Convenience Store,59.0,66.0,58.0,10
+2020-04-02,Florida,Lake County,Residences,64.0,52.0,65.0,11
+2020-04-02,Florida,Lake County,Medical,38.0,27.0,39.0,12
+2020-04-02,Florida,Lake County,Sports,65.0,61.0,66.0,13
+2020-04-02,Florida,Lake County,Drug Store,75.0,67.0,75.0,14
+2020-04-02,Florida,Lake County,Discount Stores,68.0,52.0,70.0,15
+2020-04-02,Florida,Lake County,School,23.0,"",23.0,16
+2020-04-02,Florida,Lake County,Travel & Transport,55.0,58.0,54.0,17
+2020-04-02,Florida,Lee County,Shops & Services,40.0,28.0,42.0,1
+2020-04-02,Florida,Lee County,Food,29.0,23.0,30.0,2
+2020-04-02,Florida,Lee County,Grocery,64.0,58.0,65.0,3
+2020-04-02,Florida,Lee County,Outdoors & Recreation,48.0,42.0,49.0,4
+2020-04-02,Florida,Lee County,Residences,57.0,51.0,58.0,5
+2020-04-02,Florida,Lee County,Convenience Store,57.0,41.0,58.0,6
+2020-04-02,Florida,Lee County,Sports,49.0,41.0,50.0,7
+2020-04-02,Florida,Lee County,Gas Stations,54.0,37.0,56.0,8
+2020-04-02,Florida,Lee County,Big Box Stores,57.0,42.0,59.0,9
+2020-04-02,Florida,Lee County,Medical,40.0,31.0,41.0,10
+2020-04-02,Florida,Lee County,Fast Food Restaurants,49.0,38.0,50.0,11
+2020-04-02,Florida,Lee County,Hardware Stores,70.0,53.0,74.0,12
+2020-04-02,Florida,Lee County,Drug Store,66.0,57.0,68.0,13
+2020-04-02,Florida,Lee County,Professional & Other Places,43.0,40.0,44.0,14
+2020-04-02,Florida,Lee County,School,28.0,39.0,28.0,15
+2020-04-02,Florida,Lee County,Hotel,27.0,22.0,27.0,16
+2020-04-02,Florida,Lee County,Nightlife Spots,22.0,19.0,22.0,17
+2020-04-02,Florida,Lee County,Discount Stores,72.0,70.0,72.0,18
+2020-04-02,Florida,Lee County,Travel & Transport,39.0,39.0,39.0,19
+2020-04-02,Florida,Lee County,Arts & Entertainment,27.0,23.0,27.0,20
+2020-04-02,Florida,Lee County,Fitness Center,31.0,33.0,31.0,21
+2020-04-02,Florida,Lee County,Airport,12.0,"",12.0,22
+2020-04-02,Florida,Lee County,Banks,53.0,45.0,54.0,23
+2020-04-02,Florida,Lee County,Office,46.0,46.0,46.0,24
+2020-04-02,Florida,Lee County,Government,39.0,45.0,38.0,25
+2020-04-02,Florida,Lee County,Beach,22.0,24.0,22.0,26
+2020-04-02,Florida,Flagler County,Food,39.0,23.0,40.0,1
+2020-04-02,Florida,Flagler County,Shops & Services,57.0,42.0,59.0,2
+2020-04-02,Florida,Flagler County,Grocery,72.0,61.0,73.0,3
+2020-04-02,Florida,Flagler County,Outdoors & Recreation,47.0,"",49.0,4
+2020-04-02,Florida,Flagler County,Gas Stations,56.0,"",56.0,5
+2020-04-02,Florida,Collier County,Food,26.0,22.0,26.0,1
+2020-04-02,Florida,Collier County,Grocery,62.0,57.0,62.0,2
+2020-04-02,Florida,Collier County,Shops & Services,33.0,28.0,34.0,3
+2020-04-02,Florida,Collier County,Sports,55.0,50.0,56.0,4
+2020-04-02,Florida,Collier County,Outdoors & Recreation,44.0,34.0,45.0,5
+2020-04-02,Florida,Collier County,Residences,48.0,40.0,50.0,6
+2020-04-02,Florida,Collier County,Big Box Stores,62.0,45.0,65.0,7
+2020-04-02,Florida,Collier County,Gas Stations,61.0,52.0,62.0,8
+2020-04-02,Florida,Collier County,Hotel,23.0,32.0,22.0,9
+2020-04-02,Florida,Collier County,Convenience Store,49.0,39.0,50.0,10
+2020-04-02,Florida,Collier County,Medical,43.0,40.0,44.0,11
+2020-04-02,Florida,Collier County,Drug Store,56.0,62.0,55.0,12
+2020-04-02,Florida,Collier County,Hardware Stores,82.0,81.0,82.0,13
+2020-04-02,Florida,Collier County,School,32.0,"",32.0,14
+2020-04-02,Florida,Collier County,Fast Food Restaurants,43.0,"",46.0,15
+2020-04-02,Florida,Collier County,Professional & Other Places,46.0,42.0,47.0,16
+2020-04-02,Florida,Collier County,Nightlife Spots,27.0,25.0,28.0,17
+2020-04-02,Florida,Columbia County,Gas Stations,66.0,"",67.0,1
+2020-04-02,Florida,Columbia County,Food,48.0,"",49.0,2
+2020-04-02,Florida,Columbia County,Shops & Services,55.0,"",56.0,3
+2020-04-02,Florida,Columbia County,Fast Food Restaurants,76.0,"",77.0,4
+2020-04-02,Florida,Columbia County,Grocery,92.0,"",93.0,5
+2020-04-02,Florida,Alachua County,Shops & Services,47.0,33.0,47.0,1
+2020-04-02,Florida,Alachua County,Food,39.0,34.0,39.0,2
+2020-04-02,Florida,Alachua County,Medical,42.0,34.0,43.0,3
+2020-04-02,Florida,Alachua County,Grocery,55.0,59.0,55.0,4
+2020-04-02,Florida,Alachua County,Residences,60.0,"",61.0,5
+2020-04-02,Florida,Alachua County,Gas Stations,55.0,"",55.0,6
+2020-04-02,Florida,Alachua County,Colleges & Universities,17.0,"",17.0,7
+2020-04-02,Florida,Alachua County,Outdoors & Recreation,48.0,63.0,47.0,8
+2020-04-02,Florida,Alachua County,Fast Food Restaurants,41.0,"",42.0,9
+2020-04-02,Florida,Alachua County,Professional & Other Places,54.0,"",54.0,10
+2020-04-02,Florida,Alachua County,Drug Store,82.0,"",84.0,11
+2020-04-02,Florida,Alachua County,Convenience Store,61.0,"",61.0,12
+2020-04-02,Florida,Monroe County,Outdoors & Recreation,35.0,33.0,35.0,1
+2020-04-02,Florida,Monroe County,Food,16.0,14.0,16.0,2
+2020-04-02,Florida,Monroe County,Hotel,15.0,13.0,15.0,3
+2020-04-02,Florida,Monroe County,Grocery,41.0,33.0,42.0,4
+2020-04-02,Florida,Monroe County,Shops & Services,27.0,29.0,27.0,5
+2020-04-02,Florida,Seminole County,Shops & Services,49.0,45.0,49.0,1
+2020-04-02,Florida,Seminole County,Food,40.0,38.0,41.0,2
+2020-04-02,Florida,Seminole County,Grocery,76.0,82.0,76.0,3
+2020-04-02,Florida,Seminole County,Outdoors & Recreation,65.0,68.0,65.0,4
+2020-04-02,Florida,Seminole County,Convenience Store,62.0,60.0,62.0,5
+2020-04-02,Florida,Seminole County,Fast Food Restaurants,61.0,53.0,62.0,6
+2020-04-02,Florida,Seminole County,Residences,63.0,62.0,63.0,7
+2020-04-02,Florida,Seminole County,Big Box Stores,69.0,57.0,70.0,8
+2020-04-02,Florida,Seminole County,Medical,44.0,37.0,44.0,9
+2020-04-02,Florida,Seminole County,Gas Stations,65.0,60.0,65.0,10
+2020-04-02,Florida,Seminole County,Hardware Stores,102.0,95.0,103.0,11
+2020-04-02,Florida,Seminole County,Drug Store,89.0,85.0,89.0,12
+2020-04-02,Florida,Seminole County,Professional & Other Places,67.0,58.0,67.0,13
+2020-04-02,Florida,Seminole County,School,27.0,"",27.0,14
+2020-04-02,Florida,Seminole County,Nightlife Spots,39.0,"",39.0,15
+2020-04-02,Florida,Seminole County,Banks,88.0,"",89.0,16
+2020-04-02,Florida,Seminole County,Office,39.0,"",38.0,17
+2020-04-02,Florida,Seminole County,Sports,61.0,"",62.0,18
+2020-04-02,Florida,Seminole County,Travel & Transport,63.0,"",62.0,19
+2020-04-02,Florida,Seminole County,Discount Stores,56.0,"",57.0,20
+2020-04-02,Florida,Seminole County,Fitness Center,29.0,"",29.0,21
+2020-04-02,Florida,Seminole County,Arts & Entertainment,44.0,"",45.0,22
+2020-04-02,Florida,Gadsden County,Food,69.0,"",70.0,1
+2020-04-02,Florida,Gadsden County,Gas Stations,70.0,"",70.0,2
+2020-04-02,Florida,Osceola County,Shops & Services,37.0,28.0,37.0,1
+2020-04-02,Florida,Osceola County,Food,30.0,20.0,30.0,2
+2020-04-02,Florida,Osceola County,Grocery,73.0,53.0,73.0,3
+2020-04-02,Florida,Osceola County,Big Box Stores,49.0,36.0,49.0,4
+2020-04-02,Florida,Osceola County,Convenience Store,46.0,"",46.0,5
+2020-04-02,Florida,Osceola County,Hotel,15.0,11.0,15.0,6
+2020-04-02,Florida,Osceola County,Residences,44.0,33.0,44.0,7
+2020-04-02,Florida,Osceola County,Gas Stations,54.0,"",54.0,8
+2020-04-02,Florida,Osceola County,Outdoors & Recreation,50.0,39.0,51.0,9
+2020-04-02,Florida,Osceola County,Fast Food Restaurants,38.0,"",39.0,10
+2020-04-02,Florida,Osceola County,Medical,33.0,26.0,33.0,11
+2020-04-02,Florida,Osceola County,Drug Store,55.0,"",56.0,12
+2020-04-02,Florida,Osceola County,Hardware Stores,84.0,"",85.0,13
+2020-04-02,Florida,Osceola County,School,21.0,"",21.0,14
+2020-04-02,Florida,Osceola County,Professional & Other Places,44.0,"",45.0,15
+2020-04-02,Florida,Osceola County,Sports,25.0,"",24.0,16
+2020-04-02,Florida,Osceola County,Discount Stores,54.0,"",54.0,17
+2020-04-02,Florida,Osceola County,Travel & Transport,46.0,"",46.0,18
+2020-04-02,Florida,Osceola County,Banks,68.0,"",69.0,19
+2020-04-02,Florida,Osceola County,Arts & Entertainment,28.0,"",28.0,20
+2020-04-02,Florida,Osceola County,Nightlife Spots,24.0,"",25.0,21
+2020-04-02,Florida,Okaloosa County,Shops & Services,50.0,41.0,51.0,1
+2020-04-02,Florida,Okaloosa County,Food,39.0,24.0,40.0,2
+2020-04-02,Florida,Okaloosa County,Grocery,83.0,67.0,84.0,3
+2020-04-02,Florida,Okaloosa County,Big Box Stores,75.0,69.0,75.0,4
+2020-04-02,Florida,Okaloosa County,Medical,54.0,42.0,55.0,5
+2020-04-02,Florida,Okaloosa County,Gas Stations,63.0,73.0,62.0,6
+2020-04-02,Florida,Okaloosa County,Fast Food Restaurants,64.0,61.0,65.0,7
+2020-04-02,Florida,Okaloosa County,Outdoors & Recreation,76.0,60.0,77.0,8
+2020-04-02,Florida,Okaloosa County,Hardware Stores,118.0,90.0,121.0,9
+2020-04-02,Florida,Okaloosa County,Hotel,45.0,36.0,45.0,10
+2020-04-02,Florida,Okaloosa County,Convenience Store,75.0,"",76.0,11
+2020-04-02,Florida,Okaloosa County,Professional & Other Places,37.0,"",36.0,12
+2020-04-02,Florida,Okaloosa County,Nightlife Spots,48.0,"",48.0,13
+2020-04-02,Florida,Sarasota County,Shops & Services,46.0,36.0,48.0,1
+2020-04-02,Florida,Sarasota County,Food,32.0,22.0,34.0,2
+2020-04-02,Florida,Sarasota County,Outdoors & Recreation,57.0,49.0,58.0,3
+2020-04-02,Florida,Sarasota County,Grocery,67.0,53.0,70.0,4
+2020-04-02,Florida,Sarasota County,Residences,68.0,61.0,69.0,5
+2020-04-02,Florida,Sarasota County,Medical,47.0,41.0,48.0,6
+2020-04-02,Florida,Sarasota County,Gas Stations,59.0,54.0,60.0,7
+2020-04-02,Florida,Sarasota County,Sports,56.0,51.0,57.0,8
+2020-04-02,Florida,Sarasota County,Big Box Stores,68.0,52.0,70.0,9
+2020-04-02,Florida,Sarasota County,Professional & Other Places,57.0,49.0,58.0,10
+2020-04-02,Florida,Sarasota County,Hardware Stores,85.0,63.0,90.0,11
+2020-04-02,Florida,Sarasota County,Convenience Store,57.0,44.0,58.0,12
+2020-04-02,Florida,Sarasota County,Drug Store,76.0,62.0,79.0,13
+2020-04-02,Florida,Sarasota County,Nightlife Spots,34.0,29.0,34.0,14
+2020-04-02,Florida,Sarasota County,Fast Food Restaurants,48.0,39.0,49.0,15
+2020-04-02,Florida,Sarasota County,Beach,30.0,27.0,30.0,16
+2020-04-02,Florida,Sarasota County,Hotel,28.0,30.0,28.0,17
+2020-04-02,Florida,Sarasota County,Arts & Entertainment,36.0,27.0,38.0,18
+2020-04-02,Florida,Sarasota County,Office,63.0,63.0,63.0,19
+2020-04-02,Florida,Sarasota County,School,30.0,32.0,30.0,20
+2020-04-02,Florida,Sarasota County,Banks,71.0,80.0,70.0,21
+2020-04-02,Florida,Sarasota County,Fitness Center,36.0,27.0,38.0,22
+2020-04-02,Florida,Sarasota County,Travel & Transport,56.0,55.0,56.0,23
+2020-04-02,Florida,Broward County,Food,33.0,25.0,33.0,1
+2020-04-02,Florida,Broward County,Shops & Services,37.0,30.0,38.0,2
+2020-04-02,Florida,Broward County,Grocery,67.0,56.0,68.0,3
+2020-04-02,Florida,Broward County,Outdoors & Recreation,47.0,40.0,47.0,4
+2020-04-02,Florida,Broward County,Gas Stations,55.0,43.0,56.0,5
+2020-04-02,Florida,Broward County,Residences,54.0,38.0,55.0,6
+2020-04-02,Florida,Broward County,Big Box Stores,57.0,47.0,57.0,7
+2020-04-02,Florida,Broward County,Fast Food Restaurants,45.0,32.0,45.0,8
+2020-04-02,Florida,Broward County,Medical,35.0,25.0,36.0,9
+2020-04-02,Florida,Broward County,Drug Store,54.0,47.0,55.0,10
+2020-04-02,Florida,Broward County,Convenience Store,54.0,39.0,54.0,11
+2020-04-02,Florida,Broward County,Professional & Other Places,41.0,34.0,42.0,12
+2020-04-02,Florida,Broward County,School,23.0,23.0,23.0,13
+2020-04-02,Florida,Broward County,Hardware Stores,64.0,53.0,65.0,14
+2020-04-02,Florida,Broward County,Nightlife Spots,25.0,26.0,25.0,15
+2020-04-02,Florida,Broward County,Travel & Transport,29.0,24.0,29.0,16
+2020-04-02,Florida,Broward County,Office,37.0,37.0,37.0,17
+2020-04-02,Florida,Broward County,Banks,51.0,38.0,52.0,18
+2020-04-02,Florida,Broward County,Airport,12.0,"",12.0,19
+2020-04-02,Florida,Broward County,Hotel,19.0,15.0,19.0,20
+2020-04-02,Florida,Broward County,Arts & Entertainment,24.0,17.0,24.0,21
+2020-04-02,Florida,Broward County,Government,38.0,"",39.0,22
+2020-04-02,Florida,Broward County,Sports,34.0,28.0,34.0,23
+2020-04-02,Florida,Broward County,Fitness Center,20.0,16.0,20.0,24
+2020-04-02,Florida,Broward County,Discount Stores,54.0,"",54.0,25
+2020-04-02,Florida,Broward County,Beach,30.0,24.0,30.0,26
+2020-04-02,Florida,Broward County,Colleges & Universities,21.0,"",21.0,27
+2020-04-02,Florida,Broward County,Alcohol,67.0,"",67.0,28
+2020-04-02,Florida,Martin County,Food,39.0,34.0,40.0,1
+2020-04-02,Florida,Martin County,Shops & Services,48.0,41.0,49.0,2
+2020-04-02,Florida,Martin County,Grocery,78.0,72.0,79.0,3
+2020-04-02,Florida,Martin County,Outdoors & Recreation,63.0,55.0,64.0,4
+2020-04-02,Florida,Martin County,Sports,71.0,67.0,71.0,5
+2020-04-02,Florida,Martin County,Gas Stations,80.0,65.0,82.0,6
+2020-04-02,Florida,Martin County,Hardware Stores,72.0,80.0,71.0,7
+2020-04-02,Florida,Martin County,Fast Food Restaurants,51.0,"",53.0,8
+2020-04-02,Florida,Clay County,Food,44.0,33.0,44.0,1
+2020-04-02,Florida,Clay County,Shops & Services,54.0,51.0,54.0,2
+2020-04-02,Florida,Clay County,Grocery,85.0,80.0,85.0,3
+2020-04-02,Florida,Clay County,Fast Food Restaurants,73.0,"",74.0,4
+2020-04-02,Florida,Clay County,Big Box Stores,82.0,"",82.0,5
+2020-04-02,Florida,Clay County,Outdoors & Recreation,78.0,82.0,78.0,6
+2020-04-02,Florida,Clay County,Gas Stations,85.0,"",86.0,7
+2020-04-02,Florida,Clay County,Medical,52.0,"",52.0,8
+2020-04-02,Florida,Clay County,Hardware Stores,116.0,131.0,115.0,9
+2020-04-02,Florida,Clay County,Convenience Store,73.0,"",74.0,10
+2020-04-02,Florida,Clay County,Sports,61.0,"",63.0,11
+2020-04-02,Florida,Polk County,Food,53.0,39.0,54.0,1
+2020-04-02,Florida,Polk County,Shops & Services,56.0,40.0,57.0,2
+2020-04-02,Florida,Polk County,Grocery,84.0,65.0,86.0,3
+2020-04-02,Florida,Polk County,Fast Food Restaurants,63.0,45.0,64.0,4
+2020-04-02,Florida,Polk County,Gas Stations,70.0,58.0,71.0,5
+2020-04-02,Florida,Polk County,Outdoors & Recreation,64.0,50.0,65.0,6
+2020-04-02,Florida,Polk County,Big Box Stores,71.0,50.0,72.0,7
+2020-04-02,Florida,Polk County,Professional & Other Places,66.0,68.0,66.0,8
+2020-04-02,Florida,Polk County,Convenience Store,60.0,50.0,60.0,9
+2020-04-02,Florida,Polk County,Medical,49.0,34.0,50.0,10
+2020-04-02,Florida,Polk County,Residences,61.0,49.0,61.0,11
+2020-04-02,Florida,Polk County,Drug Store,77.0,64.0,78.0,12
+2020-04-02,Florida,Polk County,Hardware Stores,90.0,69.0,92.0,13
+2020-04-02,Florida,Polk County,School,36.0,43.0,36.0,14
+2020-04-02,Florida,Polk County,Discount Stores,73.0,64.0,73.0,15
+2020-04-02,Florida,Polk County,Office,59.0,63.0,59.0,16
+2020-04-02,Florida,Polk County,Sports,55.0,60.0,55.0,17
+2020-04-02,Florida,Polk County,Travel & Transport,65.0,46.0,66.0,18
+2020-04-02,Florida,Polk County,Banks,76.0,60.0,77.0,19
+2020-04-02,Florida,Polk County,Nightlife Spots,36.0,"",36.0,20
+2020-04-02,Florida,Polk County,Hotel,38.0,"",38.0,21
+2020-04-02,Florida,Polk County,Arts & Entertainment,34.0,"",34.0,22
+2020-04-02,Florida,Polk County,Government,55.0,"",56.0,23
+2020-04-02,Florida,Polk County,Colleges & Universities,27.0,"",26.0,24
+2020-04-02,Florida,Polk County,Fitness Center,38.0,"",39.0,25
+2020-04-02,Florida,Palm Beach,Food,34.0,22.0,35.0,1
+2020-04-02,Florida,Palm Beach,Shops & Services,38.0,28.0,39.0,2
+2020-04-02,Florida,Palm Beach,Grocery,69.0,58.0,70.0,3
+2020-04-02,Florida,Palm Beach,Outdoors & Recreation,49.0,40.0,50.0,4
+2020-04-02,Florida,Palm Beach,Residences,51.0,41.0,52.0,5
+2020-04-02,Florida,Palm Beach,Medical,37.0,25.0,39.0,6
+2020-04-02,Florida,Palm Beach,Gas Stations,55.0,45.0,56.0,7
+2020-04-02,Florida,Palm Beach,Fast Food Restaurants,55.0,46.0,55.0,8
+2020-04-02,Florida,Palm Beach,Big Box Stores,62.0,46.0,63.0,9
+2020-04-02,Florida,Palm Beach,Sports,40.0,28.0,42.0,10
+2020-04-02,Florida,Palm Beach,Drug Store,65.0,52.0,66.0,11
+2020-04-02,Florida,Palm Beach,Professional & Other Places,43.0,31.0,44.0,12
+2020-04-02,Florida,Palm Beach,Hardware Stores,67.0,46.0,69.0,13
+2020-04-02,Florida,Palm Beach,School,26.0,27.0,26.0,14
+2020-04-02,Florida,Palm Beach,Convenience Store,49.0,39.0,49.0,15
+2020-04-02,Florida,Palm Beach,Banks,60.0,48.0,62.0,16
+2020-04-02,Florida,Palm Beach,Nightlife Spots,27.0,21.0,28.0,17
+2020-04-02,Florida,Palm Beach,Office,38.0,34.0,39.0,18
+2020-04-02,Florida,Palm Beach,Arts & Entertainment,34.0,23.0,35.0,19
+2020-04-02,Florida,Palm Beach,Beach,41.0,42.0,41.0,20
+2020-04-02,Florida,Palm Beach,Hotel,24.0,19.0,24.0,21
+2020-04-02,Florida,Palm Beach,Fitness Center,22.0,23.0,22.0,22
+2020-04-02,Florida,Palm Beach,Travel & Transport,36.0,"",37.0,23
+2020-04-02,Florida,Palm Beach,Colleges & Universities,20.0,36.0,20.0,24
+2020-04-02,Florida,Palm Beach,Government,36.0,"",37.0,25
+2020-04-02,Florida,Palm Beach,Discount Stores,63.0,54.0,64.0,26
+2020-04-02,Florida,Palm Beach,Alcohol,70.0,"",70.0,27
+2020-04-02,Florida,Hillsborough County,Food,39.0,30.0,39.0,1
+2020-04-02,Florida,Hillsborough County,Shops & Services,45.0,36.0,45.0,2
+2020-04-02,Florida,Hillsborough County,Grocery,82.0,70.0,82.0,3
+2020-04-02,Florida,Hillsborough County,Outdoors & Recreation,56.0,53.0,56.0,4
+2020-04-02,Florida,Hillsborough County,Residences,69.0,71.0,69.0,5
+2020-04-02,Florida,Hillsborough County,Convenience Store,63.0,55.0,63.0,6
+2020-04-02,Florida,Hillsborough County,Gas Stations,64.0,49.0,65.0,7
+2020-04-02,Florida,Hillsborough County,Fast Food Restaurants,56.0,50.0,56.0,8
+2020-04-02,Florida,Hillsborough County,Medical,40.0,36.0,40.0,9
+2020-04-02,Florida,Hillsborough County,Big Box Stores,69.0,53.0,70.0,10
+2020-04-02,Florida,Hillsborough County,Professional & Other Places,44.0,42.0,44.0,11
+2020-04-02,Florida,Hillsborough County,Nightlife Spots,37.0,32.0,37.0,12
+2020-04-02,Florida,Hillsborough County,Office,38.0,37.0,38.0,13
+2020-04-02,Florida,Hillsborough County,Drug Store,76.0,62.0,77.0,14
+2020-04-02,Florida,Hillsborough County,School,29.0,39.0,29.0,15
+2020-04-02,Florida,Hillsborough County,Hardware Stores,85.0,63.0,87.0,16
+2020-04-02,Florida,Hillsborough County,Sports,54.0,52.0,54.0,17
+2020-04-02,Florida,Hillsborough County,Arts & Entertainment,17.0,13.0,17.0,18
+2020-04-02,Florida,Hillsborough County,Discount Stores,65.0,49.0,65.0,19
+2020-04-02,Florida,Hillsborough County,Travel & Transport,32.0,29.0,32.0,20
+2020-04-02,Florida,Hillsborough County,Banks,67.0,53.0,68.0,21
+2020-04-02,Florida,Hillsborough County,Airport,14.0,12.0,14.0,22
+2020-04-02,Florida,Hillsborough County,Government,45.0,39.0,45.0,23
+2020-04-02,Florida,Hillsborough County,Hotel,25.0,24.0,25.0,24
+2020-04-02,Florida,Hillsborough County,Fitness Center,27.0,26.0,27.0,25
+2020-04-02,Florida,Hillsborough County,Colleges & Universities,20.0,40.0,20.0,26
+2020-04-02,Florida,Hillsborough County,Bus,50.0,"",49.0,27
+2020-04-02,Florida,Hillsborough County,Alcohol,68.0,"",70.0,28
+2020-04-02,Florida,Hillsborough County,Beach,63.0,"",64.0,29
+2020-04-02,Florida,Hernando County,Food,47.0,36.0,48.0,1
+2020-04-02,Florida,Hernando County,Grocery,88.0,84.0,88.0,2
+2020-04-02,Florida,Hernando County,Shops & Services,65.0,58.0,66.0,3
+2020-04-02,Florida,Hernando County,Big Box Stores,68.0,61.0,69.0,4
+2020-04-02,Florida,Hernando County,Fast Food Restaurants,60.0,48.0,61.0,5
+2020-04-02,Florida,Hernando County,Medical,44.0,36.0,44.0,6
+2020-04-02,Florida,Hernando County,Gas Stations,59.0,54.0,60.0,7
+2020-04-02,Florida,Hernando County,Hardware Stores,109.0,76.0,113.0,8
+2020-04-02,Florida,Hernando County,Outdoors & Recreation,67.0,64.0,68.0,9
+2020-04-02,Florida,Hernando County,Convenience Store,57.0,"",58.0,10
+2020-04-02,Florida,Hernando County,Professional & Other Places,66.0,"",68.0,11
+2020-04-02,Florida,Hernando County,Sports,62.0,78.0,59.0,12
+2020-04-02,Florida,Hernando County,School,28.0,"",28.0,13
+2020-04-02,Florida,Escambia County,Shops & Services,57.0,53.0,57.0,1
+2020-04-02,Florida,Escambia County,Food,44.0,35.0,45.0,2
+2020-04-02,Florida,Escambia County,Grocery,83.0,75.0,83.0,3
+2020-04-02,Florida,Escambia County,Gas Stations,79.0,82.0,78.0,4
+2020-04-02,Florida,Escambia County,Medical,49.0,43.0,49.0,5
+2020-04-02,Florida,Escambia County,Professional & Other Places,67.0,70.0,67.0,6
+2020-04-02,Florida,Escambia County,Big Box Stores,68.0,76.0,68.0,7
+2020-04-02,Florida,Escambia County,Fast Food Restaurants,64.0,60.0,64.0,8
+2020-04-02,Florida,Escambia County,Hardware Stores,125.0,113.0,126.0,9
+2020-04-02,Florida,Escambia County,Convenience Store,65.0,"",67.0,10
+2020-04-02,Florida,Escambia County,Outdoors & Recreation,74.0,"",75.0,11
+2020-04-02,Florida,Escambia County,Residences,81.0,"",82.0,12
+2020-04-02,Florida,Escambia County,Discount Stores,70.0,"",72.0,13
+2020-04-02,Florida,Escambia County,School,36.0,"",35.0,14
+2020-04-02,Florida,Escambia County,Hotel,41.0,"",41.0,15
+2020-04-02,Florida,Escambia County,Colleges & Universities,30.0,"",30.0,16
+2020-04-02,Florida,Escambia County,Nightlife Spots,41.0,"",42.0,17
+2020-04-02,Florida,Escambia County,Drug Store,76.0,"",75.0,18
+2020-04-02,Florida,Escambia County,Government,56.0,"",57.0,19
+2020-04-02,Florida,Bay County,Shops & Services,57.0,47.0,58.0,1
+2020-04-02,Florida,Bay County,Food,45.0,38.0,45.0,2
+2020-04-02,Florida,Bay County,Big Box Stores,68.0,56.0,69.0,3
+2020-04-02,Florida,Bay County,Grocery,78.0,73.0,78.0,4
+2020-04-02,Florida,Bay County,Gas Stations,66.0,64.0,66.0,5
+2020-04-02,Florida,Bay County,Outdoors & Recreation,83.0,74.0,84.0,6
+2020-04-02,Florida,Bay County,Hotel,47.0,38.0,48.0,7
+2020-04-02,Florida,Bay County,Medical,54.0,45.0,54.0,8
+2020-04-02,Florida,Bay County,Fast Food Restaurants,60.0,50.0,60.0,9
+2020-04-02,Florida,Bay County,Professional & Other Places,69.0,67.0,69.0,10
+2020-04-02,Florida,Bay County,Hardware Stores,101.0,95.0,101.0,11
+2020-04-02,Florida,Bay County,Discount Stores,71.0,"",70.0,12
+2020-04-02,Florida,Bay County,Convenience Store,88.0,"",89.0,13
+2020-04-02,Florida,Bay County,Nightlife Spots,36.0,"",36.0,14
+2020-04-02,Florida,Bay County,Residences,68.0,"",70.0,15
+2020-04-02,Florida,Bay County,School,45.0,"",45.0,16
+2020-04-02,Florida,Marion County,Shops & Services,58.0,48.0,59.0,1
+2020-04-02,Florida,Marion County,Food,46.0,37.0,47.0,2
+2020-04-02,Florida,Marion County,Grocery,102.0,93.0,103.0,3
+2020-04-02,Florida,Marion County,Gas Stations,63.0,54.0,64.0,4
+2020-04-02,Florida,Marion County,Big Box Stores,86.0,62.0,88.0,5
+2020-04-02,Florida,Marion County,Outdoors & Recreation,58.0,47.0,60.0,6
+2020-04-02,Florida,Marion County,Fast Food Restaurants,60.0,60.0,60.0,7
+2020-04-02,Florida,Marion County,Medical,44.0,42.0,44.0,8
+2020-04-02,Florida,Marion County,Discount Stores,71.0,68.0,71.0,9
+2020-04-02,Florida,Marion County,Drug Store,90.0,94.0,90.0,10
+2020-04-02,Florida,Marion County,Professional & Other Places,64.0,58.0,64.0,11
+2020-04-02,Florida,Marion County,Sports,66.0,58.0,68.0,12
+2020-04-02,Florida,Marion County,School,35.0,42.0,35.0,13
+2020-04-02,Florida,Marion County,Convenience Store,65.0,58.0,66.0,14
+2020-04-02,Florida,Marion County,Residences,70.0,82.0,68.0,15
+2020-04-02,Florida,Marion County,Hardware Stores,86.0,66.0,89.0,16
+2020-04-02,Florida,Marion County,Banks,69.0,"",71.0,17
+2020-04-02,Florida,Marion County,Nightlife Spots,47.0,46.0,47.0,18
+2020-04-02,Florida,Marion County,Travel & Transport,61.0,56.0,62.0,19
+2020-04-02,Florida,Marion County,Arts & Entertainment,39.0,40.0,39.0,20
+2020-04-02,Florida,Duval County,Shops & Services,59.0,49.0,60.0,1
+2020-04-02,Florida,Duval County,Food,48.0,42.0,48.0,2
+2020-04-02,Florida,Duval County,Grocery,83.0,70.0,84.0,3
+2020-04-02,Florida,Duval County,Gas Stations,68.0,62.0,68.0,4
+2020-04-02,Florida,Duval County,Fast Food Restaurants,69.0,56.0,69.0,5
+2020-04-02,Florida,Duval County,Medical,46.0,34.0,46.0,6
+2020-04-02,Florida,Duval County,Big Box Stores,80.0,60.0,81.0,7
+2020-04-02,Florida,Duval County,Professional & Other Places,60.0,58.0,60.0,8
+2020-04-02,Florida,Duval County,Residences,63.0,60.0,63.0,9
+2020-04-02,Florida,Duval County,Outdoors & Recreation,61.0,62.0,61.0,10
+2020-04-02,Florida,Duval County,Convenience Store,67.0,58.0,67.0,11
+2020-04-02,Florida,Duval County,School,34.0,33.0,34.0,12
+2020-04-02,Florida,Duval County,Office,40.0,40.0,40.0,13
+2020-04-02,Florida,Duval County,Hardware Stores,101.0,80.0,102.0,14
+2020-04-02,Florida,Duval County,Discount Stores,75.0,61.0,75.0,15
+2020-04-02,Florida,Duval County,Drug Store,78.0,62.0,79.0,16
+2020-04-02,Florida,Duval County,Nightlife Spots,44.0,50.0,44.0,17
+2020-04-02,Florida,Duval County,Government,47.0,"",48.0,18
+2020-04-02,Florida,Duval County,Colleges & Universities,33.0,"",33.0,19
+2020-04-02,Florida,Duval County,Banks,65.0,"",65.0,20
+2020-04-02,Florida,Duval County,Arts & Entertainment,43.0,"",44.0,21
+2020-04-02,Florida,Duval County,Travel & Transport,47.0,"",48.0,22
+2020-04-02,Florida,Duval County,Fitness Center,32.0,"",31.0,23
+2020-04-02,Florida,Duval County,Sports,58.0,71.0,57.0,24
+2020-04-02,Florida,Duval County,Hotel,31.0,"",31.0,25
+2020-04-02,Florida,Duval County,Alcohol,113.0,"",114.0,26
+2020-04-02,Florida,Duval County,Airport,21.0,"",21.0,27
+2020-04-02,Florida,Duval County,Beach,56.0,89.0,54.0,28
+2020-04-02,Florida,Saint Lucie County,Food,50.0,43.0,51.0,1
+2020-04-02,Florida,Saint Lucie County,Shops & Services,59.0,45.0,60.0,2
+2020-04-02,Florida,Saint Lucie County,Grocery,96.0,100.0,96.0,3
+2020-04-02,Florida,Saint Lucie County,Big Box Stores,76.0,84.0,75.0,4
+2020-04-02,Florida,Saint Lucie County,Outdoors & Recreation,63.0,60.0,63.0,5
+2020-04-02,Florida,Saint Lucie County,Gas Stations,56.0,58.0,56.0,6
+2020-04-02,Florida,Saint Lucie County,Fast Food Restaurants,70.0,67.0,70.0,7
+2020-04-02,Florida,Saint Lucie County,Drug Store,72.0,70.0,72.0,8
+2020-04-02,Florida,Saint Lucie County,Medical,50.0,40.0,51.0,9
+2020-04-02,Florida,Saint Lucie County,Sports,57.0,52.0,57.0,10
+2020-04-02,Florida,Saint Lucie County,Nightlife Spots,45.0,51.0,44.0,11
+2020-04-02,Florida,Saint Lucie County,Convenience Store,60.0,"",60.0,12
+2020-04-02,Florida,Saint Lucie County,Residences,57.0,40.0,59.0,13
+2020-04-02,Florida,Saint Lucie County,Professional & Other Places,52.0,60.0,52.0,14
+2020-04-02,Florida,Saint Lucie County,Hardware Stores,70.0,"",71.0,15
+2020-04-02,Florida,Saint Lucie County,School,36.0,"",35.0,16
+2020-04-02,Florida,Saint Lucie County,Banks,64.0,"",62.0,17
+2020-04-02,Florida,Suwannee County,Gas Stations,62.0,"",64.0,1
+2020-04-02,Florida,Pinellas County,Shops & Services,46.0,37.0,47.0,1
+2020-04-02,Florida,Pinellas County,Food,35.0,23.0,36.0,2
+2020-04-02,Florida,Pinellas County,Grocery,72.0,64.0,72.0,3
+2020-04-02,Florida,Pinellas County,Outdoors & Recreation,70.0,66.0,71.0,4
+2020-04-02,Florida,Pinellas County,Medical,46.0,35.0,47.0,5
+2020-04-02,Florida,Pinellas County,Residences,65.0,56.0,65.0,6
+2020-04-02,Florida,Pinellas County,Big Box Stores,69.0,57.0,70.0,7
+2020-04-02,Florida,Pinellas County,Convenience Store,57.0,43.0,57.0,8
+2020-04-02,Florida,Pinellas County,Gas Stations,59.0,51.0,60.0,9
+2020-04-02,Florida,Pinellas County,Fast Food Restaurants,52.0,47.0,52.0,10
+2020-04-02,Florida,Pinellas County,Nightlife Spots,25.0,23.0,25.0,11
+2020-04-02,Florida,Pinellas County,Professional & Other Places,54.0,52.0,54.0,12
+2020-04-02,Florida,Pinellas County,Hardware Stores,79.0,58.0,81.0,13
+2020-04-02,Florida,Pinellas County,Drug Store,63.0,51.0,64.0,14
+2020-04-02,Florida,Pinellas County,Office,50.0,56.0,50.0,15
+2020-04-02,Florida,Pinellas County,Government,53.0,53.0,53.0,16
+2020-04-02,Florida,Pinellas County,Sports,54.0,50.0,55.0,17
+2020-04-02,Florida,Pinellas County,School,27.0,36.0,27.0,18
+2020-04-02,Florida,Pinellas County,Arts & Entertainment,37.0,26.0,38.0,19
+2020-04-02,Florida,Pinellas County,Hotel,22.0,18.0,23.0,20
+2020-04-02,Florida,Pinellas County,Beach,37.0,32.0,38.0,21
+2020-04-02,Florida,Pinellas County,Banks,54.0,43.0,55.0,22
+2020-04-02,Florida,Pinellas County,Fitness Center,26.0,25.0,26.0,23
+2020-04-02,Florida,Pinellas County,Travel & Transport,48.0,40.0,48.0,24
+2020-04-02,Florida,Pinellas County,Colleges & Universities,34.0,"",34.0,25
+2020-04-02,Florida,Pinellas County,Discount Stores,56.0,48.0,56.0,26
+2020-04-02,Florida,Pinellas County,Alcohol,76.0,61.0,78.0,27
+2020-04-02,Florida,Sumter County,Food,42.0,29.0,45.0,1
+2020-04-02,Florida,Sumter County,Sports,70.0,62.0,74.0,2
+2020-04-02,Florida,Sumter County,Shops & Services,52.0,58.0,51.0,3
+2020-04-02,Florida,Sumter County,Outdoors & Recreation,51.0,43.0,52.0,4
+2020-04-02,Florida,Sumter County,Grocery,77.0,68.0,80.0,5
+2020-04-02,Florida,Sumter County,Medical,57.0,43.0,61.0,6
+2020-04-02,Florida,Sumter County,Residences,65.0,62.0,66.0,7
+2020-04-02,Florida,Sumter County,Professional & Other Places,67.0,72.0,65.0,8
+2020-04-02,Florida,Sumter County,Convenience Store,53.0,55.0,53.0,9
+2020-04-02,Florida,Sumter County,Gas Stations,48.0,52.0,48.0,10
+2020-04-02,Florida,Sumter County,Hardware Stores,93.0,88.0,95.0,11
+2020-04-02,Florida,Sumter County,Travel & Transport,49.0,"",50.0,12
+2020-04-02,Florida,Pasco County,Shops & Services,54.0,49.0,54.0,1
+2020-04-02,Florida,Pasco County,Food,47.0,37.0,48.0,2
+2020-04-02,Florida,Pasco County,Grocery,78.0,71.0,78.0,3
+2020-04-02,Florida,Pasco County,Outdoors & Recreation,67.0,63.0,67.0,4
+2020-04-02,Florida,Pasco County,Big Box Stores,72.0,55.0,73.0,5
+2020-04-02,Florida,Pasco County,Gas Stations,68.0,63.0,69.0,6
+2020-04-02,Florida,Pasco County,Residences,74.0,69.0,74.0,7
+2020-04-02,Florida,Pasco County,Medical,44.0,30.0,45.0,8
+2020-04-02,Florida,Pasco County,Fast Food Restaurants,63.0,50.0,64.0,9
+2020-04-02,Florida,Pasco County,Convenience Store,57.0,48.0,58.0,10
+2020-04-02,Florida,Pasco County,School,32.0,37.0,31.0,11
+2020-04-02,Florida,Pasco County,Drug Store,87.0,73.0,88.0,12
+2020-04-02,Florida,Pasco County,Hardware Stores,91.0,68.0,93.0,13
+2020-04-02,Florida,Pasco County,Nightlife Spots,36.0,30.0,36.0,14
+2020-04-02,Florida,Pasco County,Sports,67.0,61.0,68.0,15
+2020-04-02,Florida,Pasco County,Professional & Other Places,59.0,50.0,60.0,16
+2020-04-02,Florida,Pasco County,Discount Stores,78.0,72.0,79.0,17
+2020-04-02,Florida,Pasco County,Travel & Transport,70.0,75.0,70.0,18
+2020-04-02,Florida,Pasco County,Arts & Entertainment,46.0,"",46.0,19
+2020-04-02,Florida,Pasco County,Banks,71.0,68.0,72.0,20
+2020-04-02,Florida,Pasco County,Hotel,56.0,"",57.0,21
+2020-04-02,Florida,Pasco County,Government,38.0,"",40.0,22
+2020-04-02,Florida,Manatee County,Food,40.0,30.0,41.0,1
+2020-04-02,Florida,Manatee County,Shops & Services,52.0,47.0,52.0,2
+2020-04-02,Florida,Manatee County,Grocery,78.0,67.0,79.0,3
+2020-04-02,Florida,Manatee County,Outdoors & Recreation,62.0,46.0,64.0,4
+2020-04-02,Florida,Manatee County,Residences,69.0,55.0,71.0,5
+2020-04-02,Florida,Manatee County,Big Box Stores,80.0,60.0,82.0,6
+2020-04-02,Florida,Manatee County,Convenience Store,59.0,56.0,59.0,7
+2020-04-02,Florida,Manatee County,Gas Stations,70.0,74.0,70.0,8
+2020-04-02,Florida,Manatee County,Fast Food Restaurants,55.0,45.0,55.0,9
+2020-04-02,Florida,Manatee County,Medical,49.0,48.0,50.0,10
+2020-04-02,Florida,Manatee County,Sports,58.0,49.0,60.0,11
+2020-04-02,Florida,Manatee County,Hardware Stores,85.0,68.0,87.0,12
+2020-04-02,Florida,Manatee County,Professional & Other Places,58.0,50.0,59.0,13
+2020-04-02,Florida,Manatee County,Nightlife Spots,39.0,40.0,39.0,14
+2020-04-02,Florida,Manatee County,Drug Store,66.0,70.0,65.0,15
+2020-04-02,Florida,Manatee County,School,32.0,51.0,30.0,16
+2020-04-02,Florida,Manatee County,Discount Stores,58.0,"",59.0,17
+2020-04-02,Florida,Manatee County,Banks,63.0,"",64.0,18
+2020-04-02,Florida,Manatee County,Office,50.0,"",51.0,19
+2020-04-02,Florida,Manatee County,Arts & Entertainment,48.0,"",49.0,20

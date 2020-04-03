@@ -349,9 +349,9 @@ function redoFilter() {
   if (stateSel.value || locationTypeSel.value) {
     drawChart();
   };
-  if (stateSel.value && locationTypeSel.value) {
-    showTopVenuesTable();
-  }
+  // if (stateSel.value && locationTypeSel.value) {
+  //   showTopVenuesTable();
+  // }
 }
 
 function populateSelect(selectElement, stringList, selected) {

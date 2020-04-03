@@ -4763,3 +4763,110 @@
 2020-04-01,Virginia,5032891291d4c4b30a586d68,Assisted Living,55.0,"",55.0,104
 2020-04-01,Virginia,4bf58dd8d48988d1f8931735,Bed & Breakfasts,68.0,"",69.0,105
 2020-04-01,Virginia,4f04aa0c2fb6e1c99f3db0b8,Nail Salons,48.0,"",47.0,106
+2020-04-02,Virginia,4bf58dd8d48988d113951735,Gas Stations,62.0,52.0,62.0,1
+2020-04-02,Virginia,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,48.0,54.0,2
+2020-04-02,Virginia,52f2ab2ebcbc57f1066b8b46,Supermarkets,71.0,60.0,72.0,3
+2020-04-02,Virginia,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,53.0,68.0,4
+2020-04-02,Virginia,4bf58dd8d48988d118951735,Grocery Stores,75.0,66.0,75.0,5
+2020-04-02,Virginia,4d954b0ea243a5684a65b473,Convenience Stores,61.0,59.0,61.0,6
+2020-04-02,Virginia,4bf58dd8d48988d112951735,Hardware Stores,99.0,81.0,100.0,7
+2020-04-02,Virginia,4f2a210c4b9023bd5841ed28,Housing Developments,80.0,80.0,80.0,8
+2020-04-02,Virginia,4bf58dd8d48988d1fd941735,Shopping Malls,35.0,30.0,35.0,9
+2020-04-02,Virginia,4bf58dd8d48988d124951735,Automotive Shops,69.0,55.0,70.0,10
+2020-04-02,Virginia,4bf58dd8d48988d10f951735,Pharmacies,66.0,62.0,66.0,11
+2020-04-02,Virginia,52dea92d3cf9994f4e043dbb,Discount Stores,66.0,64.0,66.0,12
+2020-04-02,Virginia,4bf58dd8d48988d124941735,Offices,35.0,44.0,35.0,13
+2020-04-02,Virginia,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),56.0,65.0,56.0,14
+2020-04-02,Virginia,4f4533804b9074f6e4fb0105,Elementary Schools,32.0,41.0,32.0,15
+2020-04-02,Virginia,4bf58dd8d48988d14e941735,American Restaurants,34.0,27.0,34.0,16
+2020-04-02,Virginia,4bf58dd8d48988d163941735,Parks,82.0,87.0,82.0,17
+2020-04-02,Virginia,4bf58dd8d48988d1c5941735,Sandwich Places,64.0,59.0,64.0,18
+2020-04-02,Virginia,4bf58dd8d48988d177941735,Doctor's Offices,39.0,32.0,39.0,19
+2020-04-02,Virginia,4bf58dd8d48988d126941735,Government Buildings,34.0,35.0,34.0,20
+2020-04-02,Virginia,4bf58dd8d48988d1ca941735,Pizza Places,49.0,49.0,49.0,21
+2020-04-02,Virginia,4bf58dd8d48988d10a951735,Banks,70.0,71.0,70.0,22
+2020-04-02,Virginia,4bf58dd8d48988d1fa931735,Hotels,30.0,28.0,30.0,23
+2020-04-02,Virginia,4bf58dd8d48988d172941735,Post Offices,74.0,75.0,74.0,24
+2020-04-02,Virginia,4bf58dd8d48988d1e6941735,Golf Courses,96.0,108.0,95.0,25
+2020-04-02,Virginia,52e816a6bcbc57f1066b7a54,Warehouse Stores,77.0,62.0,78.0,26
+2020-04-02,Virginia,4bf58dd8d48988d1e0931735,Coffee Shops,34.0,33.0,34.0,27
+2020-04-02,Virginia,5744ccdfe4b0c0459246b4dc,Shopping Plazas,53.0,47.0,53.0,28
+2020-04-02,Virginia,4bf58dd8d48988d13d941735,High Schools,22.0,32.0,22.0,29
+2020-04-02,Virginia,4bf58dd8d48988d1c1941735,Mexican Restaurants,37.0,31.0,37.0,30
+2020-04-02,Virginia,50327c8591d4c4b30a586d5d,Breweries,66.0,71.0,65.0,31
+2020-04-02,Virginia,4bf58dd8d48988d161941735,Lakes,91.0,102.0,90.0,32
+2020-04-02,Virginia,4bf58dd8d48988d15b941735,Farms,81.0,81.0,81.0,33
+2020-04-02,Virginia,57558b36e4b065ecebd306dd,Truck Stops,74.0,"",75.0,34
+2020-04-02,Virginia,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,57.0,50.0,57.0,35
+2020-04-02,Virginia,4bf58dd8d48988d196941735,Hospitals,40.0,28.0,41.0,36
+2020-04-02,Virginia,4bf58dd8d48988d110951735,Salons / Barbershops,49.0,34.0,50.0,37
+2020-04-02,Virginia,4eb1bea83b7b6f98df247e06,Factories,75.0,"",75.0,38
+2020-04-02,Virginia,4bf58dd8d48988d159941735,Trails,93.0,88.0,93.0,39
+2020-04-02,Virginia,4bf58dd8d48988d15e941735,Pools,60.0,51.0,60.0,40
+2020-04-02,Virginia,4bf58dd8d48988d110941735,Italian Restaurants,40.0,30.0,41.0,41
+2020-04-02,Virginia,4bf58dd8d48988d104941735,Medical Centers,37.0,26.0,37.0,42
+2020-04-02,Virginia,4bf58dd8d48988d1ed931735,Airports,18.0,19.0,18.0,43
+2020-04-02,Virginia,4bf58dd8d48988d1ff941735,Miscellaneous Shops,56.0,47.0,57.0,44
+2020-04-02,Virginia,4d954b16a243a5684b65b473,Rest Areas,62.0,"",62.0,45
+2020-04-02,Virginia,4bf58dd8d48988d148941735,Donut Shops,51.0,"",51.0,46
+2020-04-02,Virginia,4f4533814b9074f6e4fb0106,Middle Schools,28.0,"",27.0,47
+2020-04-02,Virginia,4bf58dd8d48988d1f6931735,General Travel,73.0,88.0,73.0,48
+2020-04-02,Virginia,4bf58dd8d48988d145941735,Chinese Restaurants,46.0,59.0,45.0,49
+2020-04-02,Virginia,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,65.0,"",65.0,50
+2020-04-02,Virginia,4bf58dd8d48988d1c4941735,Restaurants,41.0,40.0,41.0,51
+2020-04-02,Virginia,4bf58dd8d48988d13b941735,Schools,39.0,"",39.0,52
+2020-04-02,Virginia,4bf58dd8d48988d1e0941735,Harbors / Marinas,127.0,161.0,126.0,53
+2020-04-02,Virginia,4bf58dd8d48988d1e7941735,Playgrounds,83.0,"",84.0,54
+2020-04-02,Virginia,4bf58dd8d48988d1e4941735,Campgrounds,79.0,"",81.0,55
+2020-04-02,Virginia,4bf58dd8d48988d16c941735,Burger Joints,46.0,"",46.0,56
+2020-04-02,Virginia,4bf58dd8d48988d176941735,Gyms,22.0,"",22.0,57
+2020-04-02,Virginia,4bf58dd8d48988d175941735,Gyms or Fitness Centers,18.0,"",18.0,58
+2020-04-02,Virginia,4d954af4a243a5684765b473,Veterinarians,64.0,"",65.0,59
+2020-04-02,Virginia,4bf58dd8d48988d171941735,Event Spaces,63.0,79.0,62.0,60
+2020-04-02,Virginia,4bf58dd8d48988d12c941735,Fire Stations,64.0,"",65.0,61
+2020-04-02,Virginia,4bf58dd8d48988d178941735,Dentist's Offices,35.0,35.0,35.0,62
+2020-04-02,Virginia,4bf58dd8d48988d1ce941735,Seafood Restaurants,48.0,"",48.0,63
+2020-04-02,Virginia,4bf58dd8d48988d1df931735,BBQ Joints,52.0,"",52.0,64
+2020-04-02,Virginia,4bf58dd8d48988d1eb931735,Airport Terminals,14.0,"",14.0,65
+2020-04-02,Virginia,52e81612bcbc57f1066b7a37,Distribution Centers,77.0,"",77.0,66
+2020-04-02,Virginia,5032850891d4c4b30a586d62,Credit Unions,59.0,"",58.0,67
+2020-04-02,Virginia,4bf58dd8d48988d14b941735,Wineries,90.0,"",89.0,68
+2020-04-02,Virginia,4bf58dd8d48988d16a941735,Bakeries,34.0,"",34.0,69
+2020-04-02,Virginia,4bf58dd8d48988d1f6941735,Department Stores,22.0,"",23.0,70
+2020-04-02,Virginia,4bf58dd8d48988d186941735,Liquor Stores,73.0,"",74.0,71
+2020-04-02,Virginia,4bf58dd8d48988d116941735,Bars,35.0,63.0,34.0,72
+2020-04-02,Virginia,4bf58dd8d48988d147941735,Diners,43.0,"",43.0,73
+2020-04-02,Virginia,4bf58dd8d48988d1fa941735,Farmers Markets,89.0,"",90.0,74
+2020-04-02,Virginia,5745c2e4498e11e7bccabdbd,Drugstores,70.0,"",71.0,75
+2020-04-02,Virginia,4deefb944765f83613cdba6e,Historic Sites,78.0,"",79.0,76
+2020-04-02,Virginia,4bf58dd8d48988d100951735,Pet Stores,54.0,"",54.0,77
+2020-04-02,Virginia,4bf58dd8d48988d12f941735,Libraries,33.0,"",33.0,78
+2020-04-02,Virginia,4bf58dd8d48988d12b941735,Courthouses,44.0,"",44.0,79
+2020-04-02,Virginia,4bf58dd8d48988d16d941735,Cafés,35.0,"",34.0,80
+2020-04-02,Virginia,4bf58dd8d48988d1f1931735,General Entertainment,72.0,"",72.0,81
+2020-04-02,Virginia,4bf58dd8d48988d146941735,Delis / Bodegas,50.0,"",51.0,82
+2020-04-02,Virginia,4bf58dd8d48988d165941735,Scenic Lookouts,103.0,"",102.0,83
+2020-04-02,Virginia,4e52adeebd41615f56317744,Military Bases,56.0,"",55.0,84
+2020-04-02,Virginia,4bf58dd8d48988d15f941735,Fields,87.0,"",86.0,85
+2020-04-02,Virginia,4eb1d4dd4b900d56c88a45fd,Rivers,96.0,"",97.0,86
+2020-04-02,Virginia,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,72.0,"",72.0,87
+2020-04-02,Virginia,4bf58dd8d48988d101951735,Thrift / Vintage Stores,37.0,"",37.0,88
+2020-04-02,Virginia,4bf58dd8d48988d117941735,Beer Gardens,70.0,"",70.0,89
+2020-04-02,Virginia,4f04b1572fb6e1c99f3db0bf,Storage Facilities,77.0,"",79.0,90
+2020-04-02,Virginia,4f04ae1f2fb6e1c99f3db0ba,Car Washes,61.0,"",61.0,91
+2020-04-02,Virginia,4eb1d4d54b900d56c88a45fc,Mountains,69.0,"",69.0,92
+2020-04-02,Virginia,4bf58dd8d48988d1f8941735,Furniture / Home Stores,33.0,"",33.0,93
+2020-04-02,Virginia,4bf58dd8d48988d143941735,Breakfast Spots,36.0,"",35.0,94
+2020-04-02,Virginia,4bf58dd8d48988d1e8941735,Baseball Fields,74.0,"",74.0,95
+2020-04-02,Virginia,4bf58dd8d48988d1c9941735,Ice Cream Shops,69.0,"",68.0,96
+2020-04-02,Virginia,4bf58dd8d48988d1fd931735,Metro Stations,15.0,"",15.0,97
+2020-04-02,Virginia,4bf58dd8d48988d1ae941735,Universities,11.0,"",11.0,98
+2020-04-02,Virginia,4bf58dd8d48988d190941735,History Museums,96.0,"",95.0,99
+2020-04-02,Virginia,4f04aa0c2fb6e1c99f3db0b8,Nail Salons,52.0,"",52.0,100
+2020-04-02,Virginia,4c38df4de52ce0d596b336e1,Parking,21.0,"",21.0,101
+2020-04-02,Virginia,4d4b7105d754a06375d81259,Professional & Other Places,66.0,"",67.0,102
+2020-04-02,Virginia,4bf58dd8d48988d116951735,Antique Shops,88.0,"",88.0,103
+2020-04-02,Virginia,4bf58dd8d48988d1f8931735,Bed & Breakfasts,78.0,"",79.0,104
+2020-04-02,Virginia,4bf58dd8d48988d11b941735,Pubs,62.0,"",61.0,105
+2020-04-02,Virginia,4cce455aebf7b749d5e191f5,Soccer Fields,53.0,"",53.0,106
+2020-04-02,Virginia,4bf58dd8d48988d1cc941735,Steakhouses,29.0,"",29.0,107

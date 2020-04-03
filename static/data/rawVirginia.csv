@@ -5239,3 +5239,90 @@
 2020-04-01,Virginia,Prince William County,4bf58dd8d48988d113951735,Gas Stations,56.0,"",56.0,7
 2020-04-01,Virginia,Prince William County,4bf58dd8d48988d112951735,Hardware Stores,80.0,"",81.0,8
 2020-04-01,Virginia,Bedford County,4bf58dd8d48988d113951735,Gas Stations,89.0,"",90.0,1
+2020-04-02,Virginia,Washington County,4bf58dd8d48988d113951735,Gas Stations,76.0,"",77.0,1
+2020-04-02,Virginia,Henrico County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,50.0,73.0,1
+2020-04-02,Virginia,Henrico County,4d954b0ea243a5684a65b473,Convenience Stores,66.0,"",66.0,2
+2020-04-02,Virginia,Henrico County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,"",66.0,3
+2020-04-02,Virginia,Henrico County,4bf58dd8d48988d16e941735,Fast Food Restaurants,46.0,"",46.0,4
+2020-04-02,Virginia,Henrico County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,5
+2020-04-02,Virginia,Henrico County,4bf58dd8d48988d118951735,Grocery Stores,62.0,"",62.0,6
+2020-04-02,Virginia,Henrico County,4bf58dd8d48988d124941735,Offices,41.0,"",40.0,7
+2020-04-02,Virginia,Henrico County,4bf58dd8d48988d112951735,Hardware Stores,94.0,"",94.0,8
+2020-04-02,Virginia,Henrico County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),76.0,"",76.0,9
+2020-04-02,Virginia,Henrico County,4f2a210c4b9023bd5841ed28,Housing Developments,109.0,"",110.0,10
+2020-04-02,Virginia,Chesterfield County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,72.0,75.0,1
+2020-04-02,Virginia,Chesterfield County,4d954b0ea243a5684a65b473,Convenience Stores,62.0,65.0,62.0,2
+2020-04-02,Virginia,Chesterfield County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,67.0,57.0,3
+2020-04-02,Virginia,Chesterfield County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",73.0,4
+2020-04-02,Virginia,Chesterfield County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,5
+2020-04-02,Virginia,Chesterfield County,4f2a210c4b9023bd5841ed28,Housing Developments,82.0,88.0,81.0,6
+2020-04-02,Virginia,Chesterfield County,4bf58dd8d48988d112951735,Hardware Stores,128.0,"",129.0,7
+2020-04-02,Virginia,Chesterfield County,4bf58dd8d48988d118951735,Grocery Stores,79.0,"",78.0,8
+2020-04-02,Virginia,Chesterfield County,4bf58dd8d48988d124951735,Automotive Shops,78.0,"",78.0,9
+2020-04-02,Virginia,Shenandoah County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,1
+2020-04-02,Virginia,Prince William County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",68.0,1
+2020-04-02,Virginia,Prince William County,4bf58dd8d48988d1fd941735,Shopping Malls,47.0,"",48.0,2
+2020-04-02,Virginia,Prince William County,4d954b0ea243a5684a65b473,Convenience Stores,63.0,"",63.0,3
+2020-04-02,Virginia,Prince William County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",54.0,4
+2020-04-02,Virginia,Prince William County,52f2ab2ebcbc57f1066b8b46,Supermarkets,81.0,"",83.0,5
+2020-04-02,Virginia,Prince William County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",54.0,6
+2020-04-02,Virginia,Prince William County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",72.0,7
+2020-04-02,Virginia,Prince William County,4bf58dd8d48988d112951735,Hardware Stores,91.0,"",93.0,8
+2020-04-02,Virginia,Prince William County,4f2a210c4b9023bd5841ed28,Housing Developments,84.0,"",84.0,9
+2020-04-02,Virginia,Prince William County,4f4533804b9074f6e4fb0105,Elementary Schools,33.0,"",33.0,10
+2020-04-02,Virginia,Wythe County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",64.0,1
+2020-04-02,Virginia,York County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,70.0,"",70.0,1
+2020-04-02,Virginia,Frederick County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,1
+2020-04-02,Virginia,Frederick County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",73.0,2
+2020-04-02,Virginia,Caroline County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",75.0,1
+2020-04-02,Virginia,Hanover County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,1
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d118951735,Grocery Stores,74.0,"",74.0,1
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d1fd941735,Shopping Malls,38.0,"",39.0,2
+2020-04-02,Virginia,Loudoun County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",64.0,3
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d113951735,Gas Stations,46.0,"",46.0,4
+2020-04-02,Virginia,Loudoun County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,5
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d16e941735,Fast Food Restaurants,44.0,"",45.0,6
+2020-04-02,Virginia,Loudoun County,4f2a210c4b9023bd5841ed28,Housing Developments,67.0,"",68.0,7
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d1eb931735,Airport Terminals,14.0,"",14.0,8
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d1ed931735,Airports,15.0,"",15.0,9
+2020-04-02,Virginia,Loudoun County,4bf58dd8d48988d124941735,Offices,48.0,"",47.0,10
+2020-04-02,Virginia,Montgomery County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",75.0,1
+2020-04-02,Virginia,Montgomery County,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,"",74.0,2
+2020-04-02,Virginia,Arlington County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),41.0,"",40.0,1
+2020-04-02,Virginia,Arlington County,4bf58dd8d48988d118951735,Grocery Stores,70.0,"",70.0,2
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d118951735,Grocery Stores,67.0,57.0,68.0,1
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d1fd941735,Shopping Malls,33.0,30.0,33.0,2
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,55.0,51.0,3
+2020-04-02,Virginia,Fairfax County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",66.0,4
+2020-04-02,Virginia,Fairfax County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),50.0,"",51.0,5
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d113951735,Gas Stations,47.0,"",47.0,6
+2020-04-02,Virginia,Fairfax County,4f2a210c4b9023bd5841ed28,Housing Developments,72.0,91.0,71.0,7
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d124941735,Offices,22.0,"",22.0,8
+2020-04-02,Virginia,Fairfax County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",65.0,9
+2020-04-02,Virginia,Fairfax County,4d954b0ea243a5684a65b473,Convenience Stores,58.0,"",58.0,10
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d163941735,Parks,78.0,"",79.0,11
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d112951735,Hardware Stores,82.0,"",84.0,12
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d10f951735,Pharmacies,59.0,"",59.0,13
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d1e0931735,Coffee Shops,25.0,"",25.0,14
+2020-04-02,Virginia,Fairfax County,4f4533804b9074f6e4fb0105,Elementary Schools,28.0,"",28.0,15
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d126941735,Government Buildings,25.0,"",25.0,16
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d124951735,Automotive Shops,52.0,"",53.0,17
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d177941735,Doctor's Offices,31.0,"",31.0,18
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d1fa931735,Hotels,25.0,"",26.0,19
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d10a951735,Banks,61.0,"",62.0,20
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d159941735,Trails,105.0,"",106.0,21
+2020-04-02,Virginia,Fairfax County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,47.0,"",48.0,22
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d196941735,Hospitals,40.0,"",41.0,23
+2020-04-02,Virginia,Fairfax County,52e816a6bcbc57f1066b7a54,Warehouse Stores,67.0,"",66.0,24
+2020-04-02,Virginia,Fairfax County,4bf58dd8d48988d15e941735,Pools,60.0,"",61.0,25
+2020-04-02,Virginia,Roanoke County,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,"",73.0,1
+2020-04-02,Virginia,Spotsylvania County,4d954b0ea243a5684a65b473,Convenience Stores,67.0,"",68.0,1
+2020-04-02,Virginia,Spotsylvania County,4bf58dd8d48988d113951735,Gas Stations,60.0,"",61.0,2
+2020-04-02,Virginia,Spotsylvania County,4bf58dd8d48988d118951735,Grocery Stores,99.0,"",102.0,3
+2020-04-02,Virginia,Spotsylvania County,4bf58dd8d48988d1fd941735,Shopping Malls,50.0,"",52.0,4
+2020-04-02,Virginia,Spotsylvania County,4bf58dd8d48988d16e941735,Fast Food Restaurants,54.0,"",54.0,5
+2020-04-02,Virginia,Rockbridge County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,1
+2020-04-02,Virginia,Stafford County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,81.0,"",81.0,1
+2020-04-02,Virginia,Stafford County,4d954b0ea243a5684a65b473,Convenience Stores,56.0,"",56.0,2
+2020-04-02,Virginia,Stafford County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",82.0,3
+2020-04-02,Virginia,Stafford County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,56.0,"",56.0,4

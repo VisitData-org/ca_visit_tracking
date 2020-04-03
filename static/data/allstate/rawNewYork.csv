@@ -9303,3 +9303,221 @@
 2020-04-01,New York,5454144b498ec1f095bff2f2,Construction & Landscaping,61.0,"",62.0,220
 2020-04-01,New York,4e52adeebd41615f56317744,Military Bases,53.0,"",53.0,221
 2020-04-01,New York,4bf58dd8d48988d11a941735,Other Nightlife,48.0,"",48.0,222
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,63.0,70.0,1
+2020-04-02,New York,4bf58dd8d48988d113951735,Gas Stations,54.0,52.0,55.0,2
+2020-04-02,New York,4bf58dd8d48988d118951735,Grocery Stores,62.0,59.0,62.0,3
+2020-04-02,New York,4bf58dd8d48988d10f951735,Pharmacies,53.0,53.0,53.0,4
+2020-04-02,New York,4bf58dd8d48988d16e941735,Fast Food Restaurants,50.0,45.0,50.0,5
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,59.0,64.0,6
+2020-04-02,New York,4bf58dd8d48988d163941735,Parks,64.0,72.0,64.0,7
+2020-04-02,New York,4d954b0ea243a5684a65b473,Convenience Stores,55.0,50.0,56.0,8
+2020-04-02,New York,4bf58dd8d48988d1fd931735,Metro Stations,21.0,21.0,21.0,9
+2020-04-02,New York,4bf58dd8d48988d112951735,Hardware Stores,78.0,67.0,79.0,10
+2020-04-02,New York,4bf58dd8d48988d10a951735,Banks,54.0,59.0,54.0,11
+2020-04-02,New York,4bf58dd8d48988d1ca941735,Pizza Places,41.0,42.0,41.0,12
+2020-04-02,New York,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),42.0,32.0,42.0,13
+2020-04-02,New York,4bf58dd8d48988d124941735,Offices,23.0,27.0,23.0,14
+2020-04-02,New York,4bf58dd8d48988d148941735,Donut Shops,40.0,38.0,40.0,15
+2020-04-02,New York,4bf58dd8d48988d146941735,Delis / Bodegas,43.0,40.0,43.0,16
+2020-04-02,New York,4bf58dd8d48988d1e0931735,Coffee Shops,24.0,26.0,24.0,17
+2020-04-02,New York,4bf58dd8d48988d196941735,Hospitals,36.0,28.0,37.0,18
+2020-04-02,New York,4bf58dd8d48988d177941735,Doctor's Offices,29.0,26.0,29.0,19
+2020-04-02,New York,52dea92d3cf9994f4e043dbb,Discount Stores,57.0,57.0,57.0,20
+2020-04-02,New York,4bf58dd8d48988d124951735,Automotive Shops,52.0,53.0,52.0,21
+2020-04-02,New York,4bf58dd8d48988d1fd941735,Shopping Malls,24.0,25.0,24.0,22
+2020-04-02,New York,4bf58dd8d48988d116941735,Bars,29.0,34.0,29.0,23
+2020-04-02,New York,4bf58dd8d48988d172941735,Post Offices,60.0,61.0,60.0,24
+2020-04-02,New York,4bf58dd8d48988d14e941735,American Restaurants,28.0,30.0,28.0,25
+2020-04-02,New York,4bf58dd8d48988d110951735,Salons / Barbershops,38.0,38.0,38.0,26
+2020-04-02,New York,52e816a6bcbc57f1066b7a54,Warehouse Stores,79.0,64.0,80.0,27
+2020-04-02,New York,4bf58dd8d48988d104941735,Medical Centers,37.0,30.0,37.0,28
+2020-04-02,New York,4bf58dd8d48988d13d941735,High Schools,23.0,30.0,23.0,29
+2020-04-02,New York,4bf58dd8d48988d110941735,Italian Restaurants,32.0,31.0,32.0,30
+2020-04-02,New York,4bf58dd8d48988d1c5941735,Sandwich Places,39.0,50.0,39.0,31
+2020-04-02,New York,4f4533804b9074f6e4fb0105,Elementary Schools,30.0,30.0,30.0,32
+2020-04-02,New York,4bf58dd8d48988d16a941735,Bakeries,32.0,29.0,32.0,33
+2020-04-02,New York,4bf58dd8d48988d13b941735,Schools,28.0,27.0,28.0,34
+2020-04-02,New York,5744ccdfe4b0c0459246b4dc,Shopping Plazas,46.0,45.0,46.0,35
+2020-04-02,New York,4bf58dd8d48988d1fa931735,Hotels,16.0,17.0,16.0,36
+2020-04-02,New York,4bf58dd8d48988d129951735,Train Stations,15.0,15.0,15.0,37
+2020-04-02,New York,4bf58dd8d48988d126941735,Government Buildings,31.0,31.0,31.0,38
+2020-04-02,New York,4bf58dd8d48988d147941735,Diners,28.0,23.0,29.0,39
+2020-04-02,New York,4bf58dd8d48988d16d941735,Cafés,31.0,30.0,31.0,40
+2020-04-02,New York,4bf58dd8d48988d161941735,Lakes,78.0,88.0,78.0,41
+2020-04-02,New York,4bf58dd8d48988d186941735,Liquor Stores,61.0,70.0,61.0,42
+2020-04-02,New York,4bf58dd8d48988d145941735,Chinese Restaurants,31.0,31.0,31.0,43
+2020-04-02,New York,4bf58dd8d48988d1e2941735,Beaches,103.0,113.0,102.0,44
+2020-04-02,New York,4bf58dd8d48988d175941735,Gyms or Fitness Centers,17.0,16.0,17.0,45
+2020-04-02,New York,4bf58dd8d48988d159941735,Trails,92.0,98.0,91.0,46
+2020-04-02,New York,4bf58dd8d48988d1e6941735,Golf Courses,84.0,86.0,84.0,47
+2020-04-02,New York,4f2a210c4b9023bd5841ed28,Housing Developments,55.0,50.0,55.0,48
+2020-04-02,New York,4bf58dd8d48988d1c1941735,Mexican Restaurants,31.0,28.0,31.0,49
+2020-04-02,New York,4bf58dd8d48988d1fe931735,Bus Stations,24.0,28.0,24.0,50
+2020-04-02,New York,4bf58dd8d48988d176941735,Gyms,17.0,18.0,17.0,51
+2020-04-02,New York,4bf58dd8d48988d1fc941735,Laundry Services,53.0,51.0,53.0,52
+2020-04-02,New York,4bf58dd8d48988d1e7941735,Playgrounds,53.0,51.0,53.0,53
+2020-04-02,New York,4bf58dd8d48988d12c941735,Fire Stations,53.0,47.0,54.0,54
+2020-04-02,New York,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,46.0,45.0,46.0,55
+2020-04-02,New York,4bf58dd8d48988d179941735,Bagel Shops,37.0,33.0,37.0,56
+2020-04-02,New York,4bf58dd8d48988d1c4941735,Restaurants,33.0,33.0,33.0,57
+2020-04-02,New York,4bf58dd8d48988d12b951735,Bus Lines,40.0,36.0,40.0,58
+2020-04-02,New York,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,42.0,36.0,42.0,59
+2020-04-02,New York,50327c8591d4c4b30a586d5d,Breweries,47.0,52.0,47.0,60
+2020-04-02,New York,4bf58dd8d48988d1ff941735,Miscellaneous Shops,41.0,43.0,41.0,61
+2020-04-02,New York,4bf58dd8d48988d15b941735,Farms,78.0,81.0,78.0,62
+2020-04-02,New York,4bf58dd8d48988d1c9941735,Ice Cream Shops,46.0,47.0,46.0,63
+2020-04-02,New York,4bf58dd8d48988d178941735,Dentist's Offices,30.0,28.0,30.0,64
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b4f,Bus Stops,40.0,33.0,40.0,65
+2020-04-02,New York,4c38df4de52ce0d596b336e1,Parking,33.0,27.0,33.0,66
+2020-04-02,New York,4bf58dd8d48988d1ed931735,Airports,14.0,15.0,14.0,67
+2020-04-02,New York,5032850891d4c4b30a586d62,Credit Unions,57.0,59.0,57.0,68
+2020-04-02,New York,4f04ae1f2fb6e1c99f3db0ba,Car Washes,49.0,48.0,49.0,69
+2020-04-02,New York,4bf58dd8d48988d171941735,Event Spaces,36.0,34.0,36.0,70
+2020-04-02,New York,4bf58dd8d48988d12f941735,Libraries,26.0,21.0,26.0,71
+2020-04-02,New York,4bf58dd8d48988d1f6941735,Department Stores,14.0,14.0,14.0,72
+2020-04-02,New York,4bf58dd8d48988d144941735,Caribbean Restaurants,44.0,"",44.0,73
+2020-04-02,New York,4eb1bea83b7b6f98df247e06,Factories,57.0,61.0,57.0,74
+2020-04-02,New York,4bf58dd8d48988d1e0941735,Harbors / Marinas,72.0,73.0,72.0,75
+2020-04-02,New York,4bf58dd8d48988d1ae941735,Universities,11.0,18.0,11.0,76
+2020-04-02,New York,4d954af4a243a5684765b473,Veterinarians,55.0,43.0,55.0,77
+2020-04-02,New York,4bf58dd8d48988d16c941735,Burger Joints,27.0,29.0,27.0,78
+2020-04-02,New York,4bf58dd8d48988d1f6931735,General Travel,54.0,62.0,54.0,79
+2020-04-02,New York,4d954b16a243a5684b65b473,Rest Areas,50.0,49.0,50.0,80
+2020-04-02,New York,4bf58dd8d48988d100951735,Pet Stores,47.0,50.0,47.0,81
+2020-04-02,New York,4bf58dd8d48988d11b941735,Pubs,28.0,32.0,28.0,82
+2020-04-02,New York,4f04aa0c2fb6e1c99f3db0b8,Nail Salons,34.0,25.0,34.0,83
+2020-04-02,New York,4f4533814b9074f6e4fb0106,Middle Schools,23.0,35.0,23.0,84
+2020-04-02,New York,4bf58dd8d48988d165941735,Scenic Lookouts,62.0,78.0,61.0,85
+2020-04-02,New York,4bf58dd8d48988d164941735,Plazas,18.0,"",18.0,86
+2020-04-02,New York,50be8ee891d4fa8dcc7199a7,Markets,55.0,59.0,54.0,87
+2020-04-02,New York,4bf58dd8d48988d1fa941735,Farmers Markets,56.0,56.0,56.0,88
+2020-04-02,New York,4bf58dd8d48988d12e941735,Police Stations,46.0,"",46.0,89
+2020-04-02,New York,4bf58dd8d48988d1e8941735,Baseball Fields,63.0,59.0,63.0,90
+2020-04-02,New York,5bae9231bedf3950379f89d0,State / Provincial Parks,144.0,135.0,144.0,91
+2020-04-02,New York,4bf58dd8d48988d119951735,Wine Shops,58.0,57.0,58.0,92
+2020-04-02,New York,4bf58dd8d48988d1f1931735,General Entertainment,40.0,40.0,40.0,93
+2020-04-02,New York,4bf58dd8d48988d174941735,Coworking Spaces,24.0,30.0,23.0,94
+2020-04-02,New York,4bf58dd8d48988d1ce941735,Seafood Restaurants,31.0,35.0,31.0,95
+2020-04-02,New York,4bf58dd8d48988d1eb931735,Airport Terminals,8.0,"",8.0,96
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b1f,Shipping Stores,50.0,50.0,50.0,97
+2020-04-02,New York,4bf58dd8d48988d15f941735,Fields,60.0,62.0,59.0,98
+2020-04-02,New York,4bf58dd8d48988d1e4941735,Campgrounds,74.0,78.0,73.0,99
+2020-04-02,New York,4bf58dd8d48988d1f8941735,Furniture / Home Stores,23.0,"",24.0,100
+2020-04-02,New York,4bf58dd8d48988d1df931735,BBQ Joints,41.0,45.0,40.0,101
+2020-04-02,New York,4bf58dd8d48988d143941735,Breakfast Spots,36.0,47.0,36.0,102
+2020-04-02,New York,4d4b7105d754a06375d81259,Professional & Other Places,55.0,55.0,55.0,103
+2020-04-02,New York,4d954afda243a5684865b473,Optical Shops,47.0,41.0,48.0,104
+2020-04-02,New York,52e81612bcbc57f1066b7a37,Distribution Centers,57.0,"",56.0,105
+2020-04-02,New York,4bf58dd8d48988d1e5941735,Dog Runs,68.0,"",68.0,106
+2020-04-02,New York,4bf58dd8d48988d198941735,College Academic Buildings,10.0,"",9.0,107
+2020-04-02,New York,50328a8e91d4c4b30a586d6c,Non-Profits,34.0,"",34.0,108
+2020-04-02,New York,4bf58dd8d48988d15e941735,Pools,49.0,44.0,49.0,109
+2020-04-02,New York,4bf58dd8d48988d10c951735,Cosmetics Shops,23.0,"",23.0,110
+2020-04-02,New York,4f04b1572fb6e1c99f3db0bf,Storage Facilities,54.0,"",54.0,111
+2020-04-02,New York,4bf58dd8d48988d1f9941735,Food & Drink Shops,52.0,51.0,52.0,112
+2020-04-02,New York,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shops,40.0,"",40.0,113
+2020-04-02,New York,4bf58dd8d48988d11d941735,Sports Bars,25.0,"",25.0,114
+2020-04-02,New York,4bf58dd8d48988d194941735,Emergency Rooms,44.0,"",44.0,115
+2020-04-02,New York,4bf58dd8d48988d1a8941735,General Colleges & Universities,24.0,"",23.0,116
+2020-04-02,New York,4bf58dd8d48988d129941735,City Halls,38.0,37.0,38.0,117
+2020-04-02,New York,4bf58dd8d48988d11b951735,Flower Shops,49.0,"",49.0,118
+2020-04-02,New York,4bf58dd8d48988d142941735,Asian Restaurants,30.0,"",30.0,119
+2020-04-02,New York,4bf58dd8d48988d121941735,Lounges,31.0,"",31.0,120
+2020-04-02,New York,4bf58dd8d48988d1e4931735,Bowling Alleys,26.0,"",26.0,121
+2020-04-02,New York,4bf58dd8d48988d1cc941735,Steakhouses,19.0,"",19.0,122
+2020-04-02,New York,4bf58dd8d48988d103951735,Clothing Stores,11.0,"",11.0,123
+2020-04-02,New York,4bf58dd8d48988d12d951735,Boats or Ferries,34.0,"",34.0,124
+2020-04-02,New York,4d4b7105d754a06374d81259,Food,56.0,69.0,55.0,125
+2020-04-02,New York,4bf58dd8d48988d1d2941735,Sushi Restaurants,23.0,"",23.0,126
+2020-04-02,New York,4bf58dd8d48988d1f5941735,Gourmet Shops,36.0,"",36.0,127
+2020-04-02,New York,4bf58dd8d48988d1ef941735,Rental Car Locations,34.0,"",34.0,128
+2020-04-02,New York,4bf58dd8d48988d121951735,Paper / Office Supplies Stores,36.0,"",36.0,129
+2020-04-02,New York,4bf58dd8d48988d118941735,Dive Bars,36.0,"",36.0,130
+2020-04-02,New York,4bf58dd8d48988d12b941735,Courthouses,20.0,"",20.0,131
+2020-04-02,New York,4bf58dd8d48988d1f2941735,Sporting Goods Shops,25.0,"",25.0,132
+2020-04-02,New York,4bf58dd8d48988d111941735,Japanese Restaurants,22.0,"",22.0,133
+2020-04-02,New York,4bf58dd8d48988d149941735,Thai Restaurants,30.0,"",30.0,134
+2020-04-02,New York,4bf58dd8d48988d123951735,Smoke Shops,53.0,"",53.0,135
+2020-04-02,New York,4bf58dd8d48988d15a941735,Gardens,66.0,"",66.0,136
+2020-04-02,New York,4f4531084b9074f6e4fb0101,Recycling Facilities,80.0,"",80.0,137
+2020-04-02,New York,4bf58dd8d48988d1be941735,Latin American Restaurants,31.0,"",31.0,138
+2020-04-02,New York,4deefb944765f83613cdba6e,Historic Sites,44.0,"",45.0,139
+2020-04-02,New York,5370f356bcbc57f1066c94c2,Beer Stores,65.0,"",64.0,140
+2020-04-02,New York,4bf58dd8d48988d1cb941735,Food Trucks,35.0,"",35.0,141
+2020-04-02,New York,4bf58dd8d48988d14c941735,Wings Joints,43.0,"",42.0,142
+2020-04-02,New York,4bf58dd8d48988d1e2931735,Art Galleries,29.0,"",29.0,143
+2020-04-02,New York,4bf58dd8d48988d1ed941735,Spas,24.0,"",24.0,144
+2020-04-02,New York,4bf58dd8d48988d117941735,Beer Gardens,44.0,"",44.0,145
+2020-04-02,New York,5032891291d4c4b30a586d68,Assisted Living,37.0,"",37.0,146
+2020-04-02,New York,4bf58dd8d48988d120951735,Food Courts,15.0,"",14.0,147
+2020-04-02,New York,4f4531b14b9074f6e4fb0103,Medical Labs,40.0,"",39.0,148
+2020-04-02,New York,4bf58dd8d48988d17f941735,Movie Theaters,21.0,"",21.0,149
+2020-04-02,New York,4bf58dd8d48988d1b3941735,Medical Schools,33.0,"",34.0,150
+2020-04-02,New York,4bf58dd8d48988d122951735,Electronics Stores,18.0,"",18.0,151
+2020-04-02,New York,4bf58dd8d48988d11d951735,Butchers,63.0,"",63.0,152
+2020-04-02,New York,5453de49498eade8af355881,Business Services,51.0,"",52.0,153
+2020-04-02,New York,4bf58dd8d48988d11e941735,Cocktail Bars,19.0,"",19.0,154
+2020-04-02,New York,4bf58dd8d48988d1e5931735,Music Venues,34.0,"",34.0,155
+2020-04-02,New York,4f4528bc4b90abdf24c9de85,Athletics & Sports,39.0,"",39.0,156
+2020-04-02,New York,503287a291d4c4b30a586d65,Financial or Legal Services,30.0,"",30.0,157
+2020-04-02,New York,4bf58dd8d48988d14b941735,Wineries,75.0,"",74.0,158
+2020-04-02,New York,4bf58dd8d48988d1f8931735,Bed & Breakfasts,63.0,"",62.0,159
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b33,Laundromats,56.0,"",56.0,160
+2020-04-02,New York,4bf58dd8d48988d101951735,Thrift / Vintage Stores,31.0,"",31.0,161
+2020-04-02,New York,4bf58dd8d48988d112941735,Juice Bars,24.0,"",24.0,162
+2020-04-02,New York,4bf58dd8d48988d157941735,New American Restaurants,22.0,"",22.0,163
+2020-04-02,New York,52e81612bcbc57f1066b7a34,Community Centers,38.0,"",39.0,164
+2020-04-02,New York,4cce455aebf7b749d5e191f5,Soccer Fields,62.0,"",62.0,165
+2020-04-02,New York,4bf58dd8d48988d1d4941735,Speakeasies,53.0,"",52.0,166
+2020-04-02,New York,54541900498ea6ccd0202697,Health & Beauty Services,32.0,"",32.0,167
+2020-04-02,New York,4bf58dd8d48988d12d941735,Monuments / Landmarks,48.0,"",48.0,168
+2020-04-02,New York,4bf58dd8d48988d128951735,Gift Shops,27.0,"",27.0,169
+2020-04-02,New York,4bf58dd8d48988d10f941735,Indian Restaurants,25.0,"",25.0,170
+2020-04-02,New York,4bf58dd8d48988d150941735,Spanish Restaurants,43.0,"",43.0,171
+2020-04-02,New York,5744ccdfe4b0c0459246b4af,Physical Therapists,38.0,"",39.0,172
+2020-04-02,New York,4bf58dd8d48988d151941735,Taco Places,26.0,"",26.0,173
+2020-04-02,New York,4bf58dd8d48988d190941735,History Museums,40.0,"",41.0,174
+2020-04-02,New York,4bf58dd8d48988d123941735,Wine Bars,29.0,"",28.0,175
+2020-04-02,New York,4bf58dd8d48988d137941735,Theaters,14.0,"",14.0,176
+2020-04-02,New York,4bf58dd8d48988d114951735,Bookstores,25.0,"",24.0,177
+2020-04-02,New York,4bf58dd8d48988d1fb931735,Motels,53.0,"",52.0,178
+2020-04-02,New York,4bf58dd8d48988d16f941735,Hot Dog Joints,56.0,"",56.0,179
+2020-04-02,New York,4bf58dd8d48988d10e941735,Greek Restaurants,28.0,"",29.0,180
+2020-04-02,New York,4bf58dd8d48988d1a3941735,College Residence Halls,20.0,"",20.0,181
+2020-04-02,New York,56aa371ce4b08b9a8d57356c,Beer Bars,36.0,"",35.0,182
+2020-04-02,New York,4e74f6cabd41c4836eac4c31,Piers,20.0,"",20.0,183
+2020-04-02,New York,4bf58dd8d48988d197941735,College Administrative Buildings,18.0,"",17.0,184
+2020-04-02,New York,4eb1bdde3b7b55596b4a7490,Photography Labs,69.0,"",69.0,185
+2020-04-02,New York,4bf58dd8d48988d127951735,Arts & Crafts Stores,21.0,"",22.0,186
+2020-04-02,New York,4bf58dd8d48988d1a2941735,Community Colleges,11.0,"",11.0,187
+2020-04-02,New York,5454144b498ec1f095bff2f2,Construction & Landscaping,69.0,"",71.0,188
+2020-04-02,New York,4bf58dd8d48988d131941735,Spiritual Centers,46.0,"",46.0,189
+2020-04-02,New York,4bf58dd8d48988d14f941735,Southern / Soul Food Restaurants,40.0,"",40.0,190
+2020-04-02,New York,52e81612bcbc57f1066b7a36,Warehouses,47.0,"",47.0,191
+2020-04-02,New York,4bf58dd8d48988d106941735,Tracks,106.0,"",107.0,192
+2020-04-02,New York,4eb1d4dd4b900d56c88a45fd,Rivers,75.0,"",75.0,193
+2020-04-02,New York,5032897c91d4c4b30a586d69,Pet Services,50.0,"",50.0,194
+2020-04-02,New York,4bf58dd8d48988d125941735,Tech Startups,12.0,"",12.0,195
+2020-04-02,New York,4d4b7105d754a06377d81259,Outdoors & Recreation,76.0,"",76.0,196
+2020-04-02,New York,4bf58dd8d48988d155941735,Gastropubs,25.0,"",25.0,197
+2020-04-02,New York,4bf58dd8d48988d12f951735,Resorts,47.0,"",47.0,198
+2020-04-02,New York,52e81612bcbc57f1066b7a3a,Chiropractors,39.0,"",39.0,199
+2020-04-02,New York,52e81612bcbc57f1066b7a13,Nature Preserves,130.0,"",131.0,200
+2020-04-02,New York,4eb1c0253b7b52c0e1adc2e9,Garden Centers,70.0,"",68.0,201
+2020-04-02,New York,4bf58dd8d48988d1ab941735,Student Centers,14.0,"",14.0,202
+2020-04-02,New York,4bf58dd8d48988d101941735,Martial Arts Dojos,39.0,"",39.0,203
+2020-04-02,New York,4bf58dd8d48988d14a941735,Vietnamese Restaurants,26.0,"",25.0,204
+2020-04-02,New York,4bf58dd8d48988d1c0941735,Mediterranean Restaurants,19.0,"",18.0,205
+2020-04-02,New York,4bf58dd8d48988d126951735,Video Stores,72.0,"",73.0,206
+2020-04-02,New York,4bf58dd8d48988d1fc931735,Light Rail Stations,61.0,"",61.0,207
+2020-04-02,New York,4bf58dd8d48988d134941735,Dance Studios,25.0,"",25.0,208
+2020-04-02,New York,4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurants,23.0,"",23.0,209
+2020-04-02,New York,4bf58dd8d48988d1ff931735,Convention Centers,38.0,"",39.0,210
+2020-04-02,New York,52e81612bcbc57f1066b7a0c,Bubble Tea Shops,18.0,"",18.0,211
+2020-04-02,New York,4bf58dd8d48988d10c941735,French Restaurants,15.0,"",15.0,212
+2020-04-02,New York,58daa1558bbb0b01f18ec1b4,Kitchen Supply Stores,69.0,"",69.0,213
+2020-04-02,New York,4bf58dd8d48988d11f941735,Nightclubs,34.0,"",34.0,214
+2020-04-02,New York,4bf58dd8d48988d1d0941735,Dessert Shops,23.0,"",22.0,215
+2020-04-02,New York,4bf58dd8d48988d113941735,Korean Restaurants,16.0,"",16.0,216
+2020-04-02,New York,52f2ab2ebcbc57f1066b8b1c,Fruit & Vegetable Stores,51.0,"",52.0,217
+2020-04-02,New York,4bf58dd8d48988d1f2931735,Performing Arts Venues,22.0,"",22.0,218

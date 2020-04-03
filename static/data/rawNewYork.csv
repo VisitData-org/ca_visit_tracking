@@ -21037,3 +21037,338 @@
 2020-04-01,New York,Queens,4bf58dd8d48988d126941735,Government Buildings,30.0,"",30.0,42
 2020-04-01,New York,Queens,4bf58dd8d48988d104941735,Medical Centers,37.0,"",37.0,43
 2020-04-01,New York,Queens,4bf58dd8d48988d1fa931735,Hotels,25.0,"",24.0,44
+2020-04-02,New York,Albany County,52f2ab2ebcbc57f1066b8b46,Supermarkets,86.0,108.0,85.0,1
+2020-04-02,New York,Albany County,4d954b0ea243a5684a65b473,Convenience Stores,61.0,61.0,61.0,2
+2020-04-02,New York,Albany County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,"",77.0,3
+2020-04-02,New York,Albany County,4bf58dd8d48988d1fd941735,Shopping Malls,35.0,"",34.0,4
+2020-04-02,New York,Albany County,4bf58dd8d48988d118951735,Grocery Stores,79.0,"",79.0,5
+2020-04-02,New York,Albany County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,6
+2020-04-02,New York,Albany County,4bf58dd8d48988d124941735,Offices,38.0,"",38.0,7
+2020-04-02,New York,Albany County,4bf58dd8d48988d16e941735,Fast Food Restaurants,47.0,"",47.0,8
+2020-04-02,New York,Albany County,4bf58dd8d48988d10f951735,Pharmacies,63.0,"",63.0,9
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1fd931735,Metro Stations,26.0,26.0,26.0,1
+2020-04-02,New York,Brooklyn,52f2ab2ebcbc57f1066b8b46,Supermarkets,62.0,51.0,63.0,2
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d118951735,Grocery Stores,55.0,47.0,55.0,3
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d163941735,Parks,65.0,47.0,66.0,4
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d10f951735,Pharmacies,45.0,39.0,45.0,5
+2020-04-02,New York,Brooklyn,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),43.0,"",43.0,6
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d146941735,Delis / Bodegas,44.0,"",44.0,7
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d16e941735,Fast Food Restaurants,42.0,"",42.0,8
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d113951735,Gas Stations,39.0,"",39.0,9
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d148941735,Donut Shops,40.0,"",40.0,10
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d10a951735,Banks,46.0,"",46.0,11
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1ca941735,Pizza Places,34.0,"",35.0,12
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1e0931735,Coffee Shops,26.0,"",26.0,13
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d16a941735,Bakeries,35.0,"",36.0,14
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d110951735,Salons / Barbershops,44.0,"",44.0,15
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d12b951735,Bus Lines,44.0,"",44.0,16
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d13b941735,Schools,26.0,"",26.0,17
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d196941735,Hospitals,37.0,"",37.0,18
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d144941735,Caribbean Restaurants,43.0,"",43.0,19
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d172941735,Post Offices,54.0,"",54.0,20
+2020-04-02,New York,Brooklyn,52dea92d3cf9994f4e043dbb,Discount Stores,51.0,"",51.0,21
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1e7941735,Playgrounds,46.0,"",47.0,22
+2020-04-02,New York,Brooklyn,4d954b0ea243a5684a65b473,Convenience Stores,50.0,"",50.0,23
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1fc941735,Laundry Services,45.0,"",44.0,24
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d177941735,Doctor's Offices,30.0,"",30.0,25
+2020-04-02,New York,Brooklyn,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,49.0,"",50.0,26
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d179941735,Bagel Shops,37.0,"",37.0,27
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d145941735,Chinese Restaurants,32.0,"",32.0,28
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d116941735,Bars,22.0,"",22.0,29
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d112951735,Hardware Stores,50.0,"",51.0,30
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d16d941735,Cafés,37.0,"",37.0,31
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d175941735,Gyms or Fitness Centers,22.0,"",22.0,32
+2020-04-02,New York,Brooklyn,4f2a210c4b9023bd5841ed28,Housing Developments,45.0,"",45.0,33
+2020-04-02,New York,Brooklyn,52f2ab2ebcbc57f1066b8b4f,Bus Stops,49.0,"",50.0,34
+2020-04-02,New York,Brooklyn,52f2ab2ebcbc57f1066b8b42,Big Box Stores,49.0,"",49.0,35
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d104941735,Medical Centers,40.0,"",41.0,36
+2020-04-02,New York,Brooklyn,52e816a6bcbc57f1066b7a54,Warehouse Stores,87.0,"",88.0,37
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1c1941735,Mexican Restaurants,31.0,"",30.0,38
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d124941735,Offices,26.0,"",26.0,39
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d126941735,Government Buildings,39.0,"",39.0,40
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1e2941735,Beaches,69.0,"",69.0,41
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d186941735,Liquor Stores,42.0,"",43.0,42
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d110941735,Italian Restaurants,34.0,"",34.0,43
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d176941735,Gyms,19.0,"",19.0,44
+2020-04-02,New York,Brooklyn,4bf58dd8d48988d1fd941735,Shopping Malls,24.0,"",24.0,45
+2020-04-02,New York,Erie County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,45.0,40.0,46.0,1
+2020-04-02,New York,Erie County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,66.0,70.0,2
+2020-04-02,New York,Erie County,4bf58dd8d48988d113951735,Gas Stations,62.0,61.0,62.0,3
+2020-04-02,New York,Erie County,4bf58dd8d48988d10f951735,Pharmacies,64.0,69.0,64.0,4
+2020-04-02,New York,Erie County,4bf58dd8d48988d1e0931735,Coffee Shops,38.0,"",38.0,5
+2020-04-02,New York,Erie County,4bf58dd8d48988d10a951735,Banks,71.0,"",72.0,6
+2020-04-02,New York,Erie County,4bf58dd8d48988d163941735,Parks,124.0,"",125.0,7
+2020-04-02,New York,Erie County,4bf58dd8d48988d112951735,Hardware Stores,92.0,"",92.0,8
+2020-04-02,New York,Erie County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,58.0,"",58.0,9
+2020-04-02,New York,Erie County,4bf58dd8d48988d16e941735,Fast Food Restaurants,51.0,"",52.0,10
+2020-04-02,New York,Erie County,4d954b0ea243a5684a65b473,Convenience Stores,61.0,"",62.0,11
+2020-04-02,New York,Erie County,4bf58dd8d48988d124941735,Offices,42.0,"",42.0,12
+2020-04-02,New York,Erie County,52dea92d3cf9994f4e043dbb,Discount Stores,65.0,"",65.0,13
+2020-04-02,New York,Erie County,4bf58dd8d48988d118951735,Grocery Stores,70.0,87.0,69.0,14
+2020-04-02,New York,Erie County,4bf58dd8d48988d1ca941735,Pizza Places,50.0,"",50.0,15
+2020-04-02,New York,Erie County,4bf58dd8d48988d116941735,Bars,33.0,"",33.0,16
+2020-04-02,New York,Erie County,4bf58dd8d48988d16d941735,Cafés,51.0,"",52.0,17
+2020-04-02,New York,Erie County,4bf58dd8d48988d177941735,Doctor's Offices,31.0,"",31.0,18
+2020-04-02,New York,Erie County,4bf58dd8d48988d1c5941735,Sandwich Places,53.0,"",53.0,19
+2020-04-02,New York,Erie County,4bf58dd8d48988d172941735,Post Offices,73.0,"",73.0,20
+2020-04-02,New York,Dutchess County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,61.0,76.0,1
+2020-04-02,New York,Dutchess County,4bf58dd8d48988d113951735,Gas Stations,59.0,"",59.0,2
+2020-04-02,New York,Dutchess County,4bf58dd8d48988d10f951735,Pharmacies,69.0,"",71.0,3
+2020-04-02,New York,Orange County,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,58.0,74.0,1
+2020-04-02,New York,Orange County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",67.0,2
+2020-04-02,New York,Orange County,4d954b0ea243a5684a65b473,Convenience Stores,58.0,"",58.0,3
+2020-04-02,New York,Orange County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,59.0,"",59.0,4
+2020-04-02,New York,Orange County,4bf58dd8d48988d16e941735,Fast Food Restaurants,45.0,"",46.0,5
+2020-04-02,New York,Orange County,4bf58dd8d48988d10f951735,Pharmacies,79.0,"",81.0,6
+2020-04-02,New York,Orange County,4bf58dd8d48988d118951735,Grocery Stores,74.0,"",73.0,7
+2020-04-02,New York,Staten Island,52f2ab2ebcbc57f1066b8b46,Supermarkets,73.0,58.0,74.0,1
+2020-04-02,New York,Staten Island,4bf58dd8d48988d10f951735,Pharmacies,53.0,"",54.0,2
+2020-04-02,New York,Staten Island,4bf58dd8d48988d163941735,Parks,89.0,"",88.0,3
+2020-04-02,New York,Staten Island,4bf58dd8d48988d16e941735,Fast Food Restaurants,50.0,"",50.0,4
+2020-04-02,New York,Staten Island,4bf58dd8d48988d10a951735,Banks,56.0,"",56.0,5
+2020-04-02,New York,Staten Island,52f2ab2ebcbc57f1066b8b4f,Bus Stops,44.0,"",43.0,6
+2020-04-02,New York,Staten Island,4bf58dd8d48988d113951735,Gas Stations,52.0,"",52.0,7
+2020-04-02,New York,Westchester County,52f2ab2ebcbc57f1066b8b46,Supermarkets,77.0,58.0,78.0,1
+2020-04-02,New York,Westchester County,4bf58dd8d48988d113951735,Gas Stations,55.0,58.0,55.0,2
+2020-04-02,New York,Westchester County,4bf58dd8d48988d10f951735,Pharmacies,58.0,49.0,58.0,3
+2020-04-02,New York,Westchester County,4bf58dd8d48988d118951735,Grocery Stores,67.0,53.0,68.0,4
+2020-04-02,New York,Westchester County,4bf58dd8d48988d1fd941735,Shopping Malls,32.0,"",32.0,5
+2020-04-02,New York,Westchester County,4bf58dd8d48988d163941735,Parks,72.0,84.0,71.0,6
+2020-04-02,New York,Westchester County,4bf58dd8d48988d16e941735,Fast Food Restaurants,57.0,"",57.0,7
+2020-04-02,New York,Westchester County,4bf58dd8d48988d129951735,Train Stations,21.0,"",21.0,8
+2020-04-02,New York,Westchester County,4bf58dd8d48988d112951735,Hardware Stores,93.0,"",96.0,9
+2020-04-02,New York,Westchester County,4bf58dd8d48988d10a951735,Banks,64.0,"",64.0,10
+2020-04-02,New York,Westchester County,52e816a6bcbc57f1066b7a54,Warehouse Stores,77.0,"",79.0,11
+2020-04-02,New York,Westchester County,4bf58dd8d48988d146941735,Delis / Bodegas,51.0,"",51.0,12
+2020-04-02,New York,Westchester County,4bf58dd8d48988d1ca941735,Pizza Places,50.0,"",50.0,13
+2020-04-02,New York,Westchester County,4bf58dd8d48988d148941735,Donut Shops,47.0,"",47.0,14
+2020-04-02,New York,Westchester County,4bf58dd8d48988d124951735,Automotive Shops,52.0,"",52.0,15
+2020-04-02,New York,Westchester County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),45.0,"",45.0,16
+2020-04-02,New York,Westchester County,4bf58dd8d48988d124941735,Offices,25.0,"",25.0,17
+2020-04-02,New York,Westchester County,4bf58dd8d48988d196941735,Hospitals,38.0,"",38.0,18
+2020-04-02,New York,Westchester County,4bf58dd8d48988d177941735,Doctor's Offices,30.0,"",31.0,19
+2020-04-02,New York,Westchester County,4bf58dd8d48988d159941735,Trails,98.0,"",97.0,20
+2020-04-02,New York,Niagara County,52f2ab2ebcbc57f1066b8b46,Supermarkets,76.0,"",75.0,1
+2020-04-02,New York,Niagara County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,60.0,"",61.0,2
+2020-04-02,New York,Niagara County,4bf58dd8d48988d10f951735,Pharmacies,79.0,"",79.0,3
+2020-04-02,New York,Rockland County,52f2ab2ebcbc57f1066b8b46,Supermarkets,80.0,"",79.0,1
+2020-04-02,New York,Steuben County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,1
+2020-04-02,New York,Schenectady County,52f2ab2ebcbc57f1066b8b46,Supermarkets,77.0,"",77.0,1
+2020-04-02,New York,Schenectady County,4d954b0ea243a5684a65b473,Convenience Stores,63.0,"",63.0,2
+2020-04-02,New York,Schenectady County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",74.0,3
+2020-04-02,New York,Onondaga County,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,81.0,74.0,1
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d113951735,Gas Stations,59.0,60.0,59.0,2
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,69.0,68.0,3
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d118951735,Grocery Stores,86.0,81.0,86.0,4
+2020-04-02,New York,Onondaga County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",62.0,5
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d112951735,Hardware Stores,79.0,"",80.0,6
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d10f951735,Pharmacies,63.0,81.0,62.0,7
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d163941735,Parks,88.0,"",87.0,8
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d124941735,Offices,36.0,"",37.0,9
+2020-04-02,New York,Onondaga County,4d954b0ea243a5684a65b473,Convenience Stores,70.0,"",71.0,10
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d148941735,Donut Shops,49.0,"",48.0,11
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d177941735,Doctor's Offices,42.0,"",42.0,12
+2020-04-02,New York,Onondaga County,4bf58dd8d48988d124951735,Automotive Shops,65.0,"",65.0,13
+2020-04-02,New York,Onondaga County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),58.0,"",58.0,14
+2020-04-02,New York,Queens,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,44.0,64.0,1
+2020-04-02,New York,Queens,4bf58dd8d48988d1fd931735,Metro Stations,23.0,"",23.0,2
+2020-04-02,New York,Queens,4bf58dd8d48988d16e941735,Fast Food Restaurants,48.0,"",48.0,3
+2020-04-02,New York,Queens,4bf58dd8d48988d10f951735,Pharmacies,43.0,35.0,43.0,4
+2020-04-02,New York,Queens,4bf58dd8d48988d163941735,Parks,67.0,63.0,67.0,5
+2020-04-02,New York,Queens,4bf58dd8d48988d118951735,Grocery Stores,64.0,52.0,65.0,6
+2020-04-02,New York,Queens,4bf58dd8d48988d146941735,Delis / Bodegas,42.0,"",42.0,7
+2020-04-02,New York,Queens,4bf58dd8d48988d1ed931735,Airports,11.0,"",11.0,8
+2020-04-02,New York,Queens,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),41.0,"",42.0,9
+2020-04-02,New York,Queens,4bf58dd8d48988d113951735,Gas Stations,35.0,"",36.0,10
+2020-04-02,New York,Queens,4bf58dd8d48988d1eb931735,Airport Terminals,8.0,"",8.0,11
+2020-04-02,New York,Queens,4bf58dd8d48988d10a951735,Banks,50.0,"",50.0,12
+2020-04-02,New York,Queens,4bf58dd8d48988d148941735,Donut Shops,33.0,"",33.0,13
+2020-04-02,New York,Queens,4bf58dd8d48988d1ca941735,Pizza Places,38.0,"",38.0,14
+2020-04-02,New York,Queens,4bf58dd8d48988d12b951735,Bus Lines,41.0,"",41.0,15
+2020-04-02,New York,Queens,4bf58dd8d48988d1fd941735,Shopping Malls,27.0,"",28.0,16
+2020-04-02,New York,Queens,4bf58dd8d48988d124941735,Offices,29.0,"",29.0,17
+2020-04-02,New York,Queens,4bf58dd8d48988d1fe931735,Bus Stations,32.0,"",32.0,18
+2020-04-02,New York,Queens,4bf58dd8d48988d196941735,Hospitals,38.0,"",39.0,19
+2020-04-02,New York,Queens,4d954b0ea243a5684a65b473,Convenience Stores,36.0,"",36.0,20
+2020-04-02,New York,Queens,4bf58dd8d48988d16a941735,Bakeries,32.0,"",32.0,21
+2020-04-02,New York,Queens,4bf58dd8d48988d124951735,Automotive Shops,42.0,"",42.0,22
+2020-04-02,New York,Queens,4bf58dd8d48988d13b941735,Schools,25.0,"",24.0,23
+2020-04-02,New York,Queens,4bf58dd8d48988d172941735,Post Offices,58.0,"",58.0,24
+2020-04-02,New York,Queens,4bf58dd8d48988d129951735,Train Stations,20.0,"",20.0,25
+2020-04-02,New York,Queens,4bf58dd8d48988d144941735,Caribbean Restaurants,42.0,"",42.0,26
+2020-04-02,New York,Queens,4bf58dd8d48988d110951735,Salons / Barbershops,31.0,"",31.0,27
+2020-04-02,New York,Queens,4bf58dd8d48988d1fc941735,Laundry Services,45.0,"",45.0,28
+2020-04-02,New York,Queens,4bf58dd8d48988d177941735,Doctor's Offices,31.0,"",32.0,29
+2020-04-02,New York,Queens,4bf58dd8d48988d1e0931735,Coffee Shops,21.0,"",21.0,30
+2020-04-02,New York,Queens,4bf58dd8d48988d145941735,Chinese Restaurants,27.0,"",27.0,31
+2020-04-02,New York,Queens,4bf58dd8d48988d112951735,Hardware Stores,52.0,"",52.0,32
+2020-04-02,New York,Queens,4bf58dd8d48988d1f6941735,Department Stores,35.0,"",36.0,33
+2020-04-02,New York,Queens,52e81612bcbc57f1066b7a37,Distribution Centers,41.0,"",41.0,34
+2020-04-02,New York,Queens,4bf58dd8d48988d1e2941735,Beaches,70.0,"",71.0,35
+2020-04-02,New York,Queens,4bf58dd8d48988d126941735,Government Buildings,34.0,"",34.0,36
+2020-04-02,New York,Queens,4bf58dd8d48988d175941735,Gyms or Fitness Centers,22.0,"",22.0,37
+2020-04-02,New York,Queens,4d4ae6fc7a7b7dea34424761,Fried Chicken Joints,42.0,"",42.0,38
+2020-04-02,New York,Queens,52dea92d3cf9994f4e043dbb,Discount Stores,44.0,"",45.0,39
+2020-04-02,New York,Queens,52f2ab2ebcbc57f1066b8b4f,Bus Stops,35.0,"",35.0,40
+2020-04-02,New York,Queens,4bf58dd8d48988d1fa931735,Hotels,22.0,"",22.0,41
+2020-04-02,New York,Ulster County,52f2ab2ebcbc57f1066b8b46,Supermarkets,81.0,"",81.0,1
+2020-04-02,New York,Rensselaer County,4d954b0ea243a5684a65b473,Convenience Stores,74.0,"",75.0,1
+2020-04-02,New York,Rensselaer County,52f2ab2ebcbc57f1066b8b46,Supermarkets,88.0,"",90.0,2
+2020-04-02,New York,Rensselaer County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,78.0,"",78.0,3
+2020-04-02,New York,Monroe County,52f2ab2ebcbc57f1066b8b46,Supermarkets,66.0,62.0,66.0,1
+2020-04-02,New York,Monroe County,4bf58dd8d48988d113951735,Gas Stations,63.0,55.0,64.0,2
+2020-04-02,New York,Monroe County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,57.0,61.0,3
+2020-04-02,New York,Monroe County,4bf58dd8d48988d124941735,Offices,44.0,48.0,44.0,4
+2020-04-02,New York,Monroe County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,"",52.0,5
+2020-04-02,New York,Monroe County,4bf58dd8d48988d163941735,Parks,110.0,139.0,109.0,6
+2020-04-02,New York,Monroe County,4bf58dd8d48988d10f951735,Pharmacies,62.0,68.0,61.0,7
+2020-04-02,New York,Monroe County,4bf58dd8d48988d112951735,Hardware Stores,100.0,82.0,101.0,8
+2020-04-02,New York,Monroe County,4bf58dd8d48988d118951735,Grocery Stores,68.0,"",68.0,9
+2020-04-02,New York,Monroe County,4bf58dd8d48988d1fd941735,Shopping Malls,30.0,"",30.0,10
+2020-04-02,New York,Monroe County,4bf58dd8d48988d177941735,Doctor's Offices,34.0,39.0,34.0,11
+2020-04-02,New York,Monroe County,4bf58dd8d48988d1e0931735,Coffee Shops,42.0,"",42.0,12
+2020-04-02,New York,Monroe County,4bf58dd8d48988d1ca941735,Pizza Places,49.0,"",49.0,13
+2020-04-02,New York,Monroe County,4bf58dd8d48988d124951735,Automotive Shops,56.0,"",55.0,14
+2020-04-02,New York,Monroe County,4bf58dd8d48988d10a951735,Banks,71.0,"",72.0,15
+2020-04-02,New York,Monroe County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),54.0,"",54.0,16
+2020-04-02,New York,Monroe County,4bf58dd8d48988d159941735,Trails,134.0,"",133.0,17
+2020-04-02,New York,Monroe County,4bf58dd8d48988d148941735,Donut Shops,54.0,"",55.0,18
+2020-04-02,New York,Monroe County,4bf58dd8d48988d196941735,Hospitals,35.0,"",35.0,19
+2020-04-02,New York,Monroe County,52dea92d3cf9994f4e043dbb,Discount Stores,77.0,"",77.0,20
+2020-04-02,New York,Monroe County,4d954b0ea243a5684a65b473,Convenience Stores,60.0,"",60.0,21
+2020-04-02,New York,Monroe County,4bf58dd8d48988d116941735,Bars,28.0,"",28.0,22
+2020-04-02,New York,Monroe County,52e816a6bcbc57f1066b7a54,Warehouse Stores,89.0,"",90.0,23
+2020-04-02,New York,Monroe County,4bf58dd8d48988d104941735,Medical Centers,41.0,"",41.0,24
+2020-04-02,New York,Saratoga County,4d954b0ea243a5684a65b473,Convenience Stores,59.0,"",59.0,1
+2020-04-02,New York,Saratoga County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,"",70.0,2
+2020-04-02,New York,Saratoga County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,79.0,"",78.0,3
+2020-04-02,New York,Saratoga County,4bf58dd8d48988d112951735,Hardware Stores,100.0,"",101.0,4
+2020-04-02,New York,Saratoga County,4bf58dd8d48988d118951735,Grocery Stores,81.0,"",79.0,5
+2020-04-02,New York,Suffolk County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,57.0,76.0,1
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d113951735,Gas Stations,56.0,52.0,56.0,2
+2020-04-02,New York,Suffolk County,4d954b0ea243a5684a65b473,Convenience Stores,57.0,48.0,58.0,3
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d10f951735,Pharmacies,66.0,48.0,67.0,4
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,41.0,57.0,5
+2020-04-02,New York,Suffolk County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,69.0,61.0,70.0,6
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d118951735,Grocery Stores,71.0,62.0,72.0,7
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d112951735,Hardware Stores,81.0,64.0,82.0,8
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d1e2941735,Beaches,138.0,157.0,136.0,9
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d146941735,Delis / Bodegas,53.0,53.0,53.0,10
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d10a951735,Banks,59.0,73.0,59.0,11
+2020-04-02,New York,Suffolk County,52e816a6bcbc57f1066b7a54,Warehouse Stores,71.0,64.0,72.0,12
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d163941735,Parks,86.0,"",86.0,13
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d1ca941735,Pizza Places,41.0,"",41.0,14
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d124951735,Automotive Shops,53.0,"",54.0,15
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d148941735,Donut Shops,50.0,"",51.0,16
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d1e0931735,Coffee Shops,47.0,"",48.0,17
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d124941735,Offices,31.0,"",31.0,18
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d177941735,Doctor's Offices,30.0,"",30.0,19
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d1fd941735,Shopping Malls,28.0,"",29.0,20
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d172941735,Post Offices,78.0,"",78.0,21
+2020-04-02,New York,Suffolk County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),70.0,"",71.0,22
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d14e941735,American Restaurants,37.0,"",37.0,23
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d196941735,Hospitals,34.0,"",35.0,24
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d129951735,Train Stations,22.0,"",21.0,25
+2020-04-02,New York,Suffolk County,4f4533804b9074f6e4fb0105,Elementary Schools,30.0,"",30.0,26
+2020-04-02,New York,Suffolk County,4bf58dd8d48988d1e0941735,Harbors / Marinas,105.0,"",109.0,27
+2020-04-02,New York,Oswego County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",66.0,1
+2020-04-02,New York,Oneida County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,1
+2020-04-02,New York,Oneida County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,50.0,"",50.0,2
+2020-04-02,New York,Oneida County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,3
+2020-04-02,New York,Oneida County,52f2ab2ebcbc57f1066b8b46,Supermarkets,90.0,"",90.0,4
+2020-04-02,New York,Ontario County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,"",73.0,1
+2020-04-02,New York,Ontario County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,"",62.0,2
+2020-04-02,New York,Bronx County,4bf58dd8d48988d1fd931735,Metro Stations,40.0,36.0,40.0,1
+2020-04-02,New York,Bronx County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",64.0,2
+2020-04-02,New York,Bronx County,4bf58dd8d48988d10f951735,Pharmacies,47.0,"",47.0,3
+2020-04-02,New York,Bronx County,4bf58dd8d48988d16e941735,Fast Food Restaurants,45.0,"",45.0,4
+2020-04-02,New York,Bronx County,4bf58dd8d48988d163941735,Parks,52.0,"",52.0,5
+2020-04-02,New York,Bronx County,4bf58dd8d48988d146941735,Delis / Bodegas,47.0,"",47.0,6
+2020-04-02,New York,Bronx County,4bf58dd8d48988d148941735,Donut Shops,38.0,"",38.0,7
+2020-04-02,New York,Bronx County,4bf58dd8d48988d118951735,Grocery Stores,58.0,"",58.0,8
+2020-04-02,New York,Bronx County,4bf58dd8d48988d1ca941735,Pizza Places,44.0,"",44.0,9
+2020-04-02,New York,Bronx County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),44.0,"",44.0,10
+2020-04-02,New York,Bronx County,4bf58dd8d48988d1fe931735,Bus Stations,41.0,"",41.0,11
+2020-04-02,New York,Bronx County,4bf58dd8d48988d113951735,Gas Stations,47.0,"",47.0,12
+2020-04-02,New York,Bronx County,4bf58dd8d48988d1fd941735,Shopping Malls,43.0,"",44.0,13
+2020-04-02,New York,Bronx County,4bf58dd8d48988d110951735,Salons / Barbershops,43.0,"",43.0,14
+2020-04-02,New York,Bronx County,4bf58dd8d48988d10a951735,Banks,49.0,"",49.0,15
+2020-04-02,New York,Bronx County,4bf58dd8d48988d13b941735,Schools,33.0,"",33.0,16
+2020-04-02,New York,Bronx County,4bf58dd8d48988d196941735,Hospitals,36.0,"",37.0,17
+2020-04-02,New York,Bronx County,4f2a210c4b9023bd5841ed28,Housing Developments,58.0,"",58.0,18
+2020-04-02,New York,Bronx County,4bf58dd8d48988d172941735,Post Offices,58.0,"",58.0,19
+2020-04-02,New York,Bronx County,4bf58dd8d48988d1fc941735,Laundry Services,73.0,"",73.0,20
+2020-04-02,New York,Bronx County,4bf58dd8d48988d104941735,Medical Centers,44.0,"",44.0,21
+2020-04-02,New York,Bronx County,52dea92d3cf9994f4e043dbb,Discount Stores,50.0,"",50.0,22
+2020-04-02,New York,Bronx County,4bf58dd8d48988d145941735,Chinese Restaurants,49.0,"",49.0,23
+2020-04-02,New York,Bronx County,4bf58dd8d48988d12b951735,Bus Lines,39.0,"",39.0,24
+2020-04-02,New York,Bronx County,4bf58dd8d48988d13d941735,High Schools,27.0,"",27.0,25
+2020-04-02,New York,Jefferson County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,"",74.0,1
+2020-04-02,New York,Broome County,4bf58dd8d48988d118951735,Grocery Stores,68.0,"",68.0,1
+2020-04-02,New York,Broome County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",55.0,2
+2020-04-02,New York,Broome County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",73.0,3
+2020-04-02,New York,Broome County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,"",53.0,4
+2020-04-02,New York,Broome County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",65.0,5
+2020-04-02,New York,Nassau County,52f2ab2ebcbc57f1066b8b46,Supermarkets,74.0,65.0,74.0,1
+2020-04-02,New York,Nassau County,4bf58dd8d48988d10f951735,Pharmacies,54.0,53.0,54.0,2
+2020-04-02,New York,Nassau County,4bf58dd8d48988d118951735,Grocery Stores,67.0,55.0,67.0,3
+2020-04-02,New York,Nassau County,4bf58dd8d48988d113951735,Gas Stations,48.0,49.0,48.0,4
+2020-04-02,New York,Nassau County,4bf58dd8d48988d16e941735,Fast Food Restaurants,58.0,48.0,58.0,5
+2020-04-02,New York,Nassau County,4d954b0ea243a5684a65b473,Convenience Stores,52.0,"",52.0,6
+2020-04-02,New York,Nassau County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,7
+2020-04-02,New York,Nassau County,4bf58dd8d48988d10a951735,Banks,52.0,57.0,52.0,8
+2020-04-02,New York,Nassau County,4bf58dd8d48988d163941735,Parks,76.0,74.0,76.0,9
+2020-04-02,New York,Nassau County,52e816a6bcbc57f1066b7a54,Warehouse Stores,68.0,"",70.0,10
+2020-04-02,New York,Nassau County,4bf58dd8d48988d112951735,Hardware Stores,65.0,"",65.0,11
+2020-04-02,New York,Nassau County,4bf58dd8d48988d177941735,Doctor's Offices,29.0,"",29.0,12
+2020-04-02,New York,Nassau County,4bf58dd8d48988d129951735,Train Stations,19.0,"",19.0,13
+2020-04-02,New York,Nassau County,4bf58dd8d48988d148941735,Donut Shops,40.0,"",40.0,14
+2020-04-02,New York,Nassau County,4bf58dd8d48988d1e2941735,Beaches,114.0,"",115.0,15
+2020-04-02,New York,Nassau County,4bf58dd8d48988d1ca941735,Pizza Places,43.0,"",43.0,16
+2020-04-02,New York,Nassau County,4bf58dd8d48988d146941735,Delis / Bodegas,42.0,"",43.0,17
+2020-04-02,New York,Nassau County,4bf58dd8d48988d124951735,Automotive Shops,45.0,"",45.0,18
+2020-04-02,New York,Nassau County,4f4533804b9074f6e4fb0105,Elementary Schools,33.0,"",33.0,19
+2020-04-02,New York,Nassau County,4bf58dd8d48988d1fd941735,Shopping Malls,18.0,"",18.0,20
+2020-04-02,New York,Nassau County,4bf58dd8d48988d196941735,Hospitals,38.0,"",39.0,21
+2020-04-02,New York,Nassau County,4bf58dd8d48988d172941735,Post Offices,68.0,"",68.0,22
+2020-04-02,New York,Nassau County,4bf58dd8d48988d179941735,Bagel Shops,46.0,"",47.0,23
+2020-04-02,New York,Nassau County,4bf58dd8d48988d124941735,Offices,27.0,"",27.0,24
+2020-04-02,New York,Nassau County,4bf58dd8d48988d13d941735,High Schools,26.0,"",26.0,25
+2020-04-02,New York,Nassau County,4bf58dd8d48988d1e0931735,Coffee Shops,32.0,"",32.0,26
+2020-04-02,New York,Nassau County,4bf58dd8d48988d110941735,Italian Restaurants,36.0,"",36.0,27
+2020-04-02,New York,Nassau County,4bf58dd8d48988d110951735,Salons / Barbershops,36.0,"",36.0,28
+2020-04-02,New York,New York,4bf58dd8d48988d1fd931735,Metro Stations,14.0,14.0,14.0,1
+2020-04-02,New York,New York,4bf58dd8d48988d163941735,Parks,41.0,46.0,41.0,2
+2020-04-02,New York,New York,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),28.0,17.0,29.0,3
+2020-04-02,New York,New York,4bf58dd8d48988d118951735,Grocery Stores,27.0,"",27.0,4
+2020-04-02,New York,New York,4bf58dd8d48988d1e0931735,Coffee Shops,10.0,"",10.0,5
+2020-04-02,New York,New York,4bf58dd8d48988d10f951735,Pharmacies,26.0,"",26.0,6
+2020-04-02,New York,New York,4bf58dd8d48988d124941735,Offices,7.0,"",7.0,7
+2020-04-02,New York,New York,4bf58dd8d48988d196941735,Hospitals,29.0,"",29.0,8
+2020-04-02,New York,New York,52f2ab2ebcbc57f1066b8b46,Supermarkets,52.0,"",52.0,9
+2020-04-02,New York,New York,4bf58dd8d48988d146941735,Delis / Bodegas,23.0,"",23.0,10
+2020-04-02,New York,New York,4bf58dd8d48988d1fa931735,Hotels,7.0,"",7.0,11
+2020-04-02,New York,New York,4bf58dd8d48988d129951735,Train Stations,6.0,"",6.0,12
+2020-04-02,New York,New York,4bf58dd8d48988d16e941735,Fast Food Restaurants,20.0,"",20.0,13
+2020-04-02,New York,New York,4bf58dd8d48988d1ca941735,Pizza Places,19.0,"",19.0,14
+2020-04-02,New York,New York,4bf58dd8d48988d10a951735,Banks,23.0,"",23.0,15
+2020-04-02,New York,New York,4bf58dd8d48988d176941735,Gyms,11.0,"",10.0,16
+2020-04-02,New York,New York,4bf58dd8d48988d16d941735,Cafés,13.0,"",13.0,17
+2020-04-02,New York,New York,4bf58dd8d48988d175941735,Gyms or Fitness Centers,10.0,"",10.0,18
+2020-04-02,New York,New York,52f2ab2ebcbc57f1066b8b4f,Bus Stops,30.0,"",31.0,19
+2020-04-02,New York,New York,4bf58dd8d48988d177941735,Doctor's Offices,14.0,"",14.0,20
+2020-04-02,New York,New York,4bf58dd8d48988d116941735,Bars,9.0,"",9.0,21
+2020-04-02,New York,New York,4bf58dd8d48988d1fe931735,Bus Stations,9.0,"",9.0,22
+2020-04-02,New York,New York,4bf58dd8d48988d1e7941735,Playgrounds,60.0,"",60.0,23
+2020-04-02,New York,New York,4bf58dd8d48988d164941735,Plazas,9.0,"",9.0,24
+2020-04-02,New York,New York,4bf58dd8d48988d110941735,Italian Restaurants,11.0,"",11.0,25
+2020-04-02,New York,New York,4bf58dd8d48988d14e941735,American Restaurants,10.0,"",9.0,26
+2020-04-02,New York,New York,4bf58dd8d48988d110951735,Salons / Barbershops,19.0,"",19.0,27
+2020-04-02,New York,New York,4bf58dd8d48988d16a941735,Bakeries,12.0,"",12.0,28
+2020-04-02,New York,New York,4bf58dd8d48988d13b941735,Schools,24.0,"",24.0,29
+2020-04-02,New York,New York,4bf58dd8d48988d1c1941735,Mexican Restaurants,16.0,"",16.0,30
+2020-04-02,New York,New York,4bf58dd8d48988d148941735,Donut Shops,16.0,"",16.0,31
+2020-04-02,New York,New York,4bf58dd8d48988d104941735,Medical Centers,24.0,"",24.0,32
+2020-04-02,New York,New York,52f2ab2ebcbc57f1066b8b42,Big Box Stores,38.0,"",38.0,33
+2020-04-02,New York,New York,4bf58dd8d48988d172941735,Post Offices,29.0,"",29.0,34
+2020-04-02,New York,New York,4bf58dd8d48988d1c5941735,Sandwich Places,10.0,"",10.0,35
