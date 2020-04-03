@@ -24,7 +24,7 @@ def root():
 
 @app.route("/index.html")
 def index():
-    return render_template("statelist.html")
+    return render_template("statelist.html", maps_api_key=app_state["maps_api_key"])
 
 
 @app.route("/counties/<counties>")
@@ -69,7 +69,7 @@ def bystatesel(state, venues):
 
 @app.route("/faq")
 def faq():
-    return render_template("faq.html")
+    return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
 
 def page_not_found(e):

@@ -1,35 +1,36 @@
 {% extends "nav.html" %}
 {% block main %}
     <div class="container-fluid main-mobile">
-        <div class="mt-2 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
+      <h3 id="state_name_header" class="mobile-header"></h3>
+        <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;">
         </div>
         <div class="container">
           <br/>
           <h6 style="padding-bottom:10px;">Search By:</h6>
-            <select class="custom-select col-sm" style="max-width:40%;" name="county" id="county-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:35%;" name="county" id="county-select" data-style="btn-info">
               <option value="">County</option>
             </select>
-            <select class="custom-select col-sm" style="max-width:50%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
               <option value="">Venue Type</option>
             </select>
         </div>
-      </div>
         <br/>
         <div class="container mb-5">
           <h6 style="padding-bottom:10px;">Show:</h6>
-            <select class="custom-select col-sm" style="max-width:40%;" name="agegroup" id="agegroup-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:35%;" name="agegroup" id="agegroup-select" data-style="btn-info">
               <option value="all">All Ages</option>
               <option value="under65">Under 65</option>
               <option value="over65">65 and Over</option>
             </select>
-            <select class="custom-select col-sm" style="max-width:30%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
+            <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
               <option value="nonessential">Non-Essential Only</option>
               <option value="essential">Essential Only</option>
               <option value="all">Essential & Non-Essential</option>
             </select>
-            <button type="button" class="btn btn-info ml-5" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
+            <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
               Notes
             </button>
+                  </div>
         </div>
 
         <div class="modal modal-sm" style="max-width:75%;" id="notesModal" tabindex="-1" role="dialog">

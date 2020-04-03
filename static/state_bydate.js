@@ -22,11 +22,13 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
+
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
 
 function chartTitle() {
+
   var result = "";
   if (countySel.value) {
     result += countySel.value + ", "+selectedState + ", ";
@@ -298,6 +300,8 @@ function redoFilter() {
 }
 
 function populateSelect(selectElement, stringList, selected) {
+  document.getElementById('state_name_header').innerHTML = selectedState
+
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
     option.value = theString;

@@ -66,14 +66,6 @@ h4 {
   text-transform: uppercase;
 }
 
-/*
- * Content
- */
-
-/*
- * Navbar
- */
-
 .form-control-dark {
   color: #fff;
   background-color: rgba(255, 255, 255, .1);
@@ -89,19 +81,6 @@ h4 {
    max-width:75%;
 }
 
- #enforce-landscape { display:block; }
-
-@media only screen and (orientation:portrait){
-  #enforce-landscape {
-   height: 100vw;
-   -webkit-transform: rotate(90deg);
-   -moz-transform: rotate(90deg);
-   -o-transform: rotate(90deg);
-   -ms-transform: rotate(90deg);
-   transform: rotate(90deg);
-  }
-}
-
 @media (min-width: 990px) {
   .main-mobile {
     padding-top: 50px;
@@ -110,11 +89,26 @@ h4 {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
   .foursquare-logo {
       max-width:240px;
   }
+
   .faqlist {
       max-width: 600px;
+  }
+
+  .map-us {
+    width: 1000px;
+    height: 566px;
+  }
+
+  .mobile-btn {
+    margin-left: 25px;
+  }
+
+  .mobile-header {
+    margin-top: 15px;
   }
 }
 
@@ -122,17 +116,59 @@ h4 {
   .main-mobile {
     padding-top: 50px;
   }
-  .foursquare-logo {
-      max-width:160px;
+
+  .map-us {
+    width: 450px;
+    height: 250px;
   }
+
+  .foursquare-logo {
+    width: 200px;
+    height: 40px;
+  }
+
+  .mobile-btn {
+    margin-left: 10px;
+  }
+
+  .mobile-header {
+    margin-top: 15px;
+  }
+
   .faqlist {
       max-width: 600px;
   }
 }
 
-@media (max-width: 768px) {
-  .main-mobile {
-    padding-top: 50px;
+@media (min-width: 745px) and (max-width: 800px) {
+  .map-us {
+    width: 700px;
+    height: 389px;
   }
 }
 
+@media (max-width: 425px) {
+  .main-mobile {
+    padding-top: 50px;
+  }
+
+  .map-us {
+    width: 450px;
+    height: 250px;
+  }
+
+  .foursquare-logo {
+    width: 200px;
+    height: 40px;
+  }
+
+  .mobile-btn {
+    margin-top: 20px;
+    float: right;
+    margin-bottom: 20px;
+  }
+
+  .mobile-header {
+    margin-top: 75px;
+  }
+}
