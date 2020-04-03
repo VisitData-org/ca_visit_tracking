@@ -288,8 +288,8 @@ function showTopVenuesTable() {
     download: true, complete:
       function (results, file) {
         // ok, we have the data from the state top venues file but we need to look here for county
-        debugger;
-        var topVenuesTableData = _.map(results.data, function (row) {
+        var topVenuesTableData = results.data;
+        topVenuesTableData = _.map(topVenuesTableData, function (row) {
           if (isRaw()) {
             // raw
             // 2020-04-01,New York,Bronx County,4f4533814b9074f6e4fb0106,Middle Schools,4d51711871548cfad45a1b9a,Hunts Point Middle School,1
@@ -315,7 +315,7 @@ function showTopVenuesTable() {
           }
         });
 
-        table = new Tabulator("#data-table", {
+        var topVenuesTable = new Tabulator("#data-table", {
           data: topVenuesTableData,
           columns: [
             { title: "Location Type", field: "location_type" },
@@ -327,9 +327,13 @@ function showTopVenuesTable() {
           height: "600px",
           layout: "fitColumns",
           initialSort: [
-            { column: "date", dir: "desc" }
+            { column: "date", dir: "desc" },
+            { column: "rank", dir: "asc" },
           ],
         });
+
+        topVenuesTable.addFilter("location_type", "=", locationTypeSel.value);
+        topVenuesTable.addFilter("county", "=", countySel.value);
       }
   });
 }
@@ -350,8 +354,6 @@ function redoFilter() {
   }
   if (countySel.value && locationTypeSel.value) {
     showTopVenuesTable();
-  } else {
-    // TODO if we don't show the top venues table then we need to show the regulard table
   }
 }
 
