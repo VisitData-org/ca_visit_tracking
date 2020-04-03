@@ -10,3 +10,7 @@ deploy-prod:
 deploy-beta:
 	@echo "Deploying to beta.visitdata.org..."
 	bin/deploy.sh beta
+
+run:
+	@echo "Running locally in development mode..."
+	python main.py
