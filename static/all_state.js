@@ -297,7 +297,6 @@ function redoFilter() {
 }
 
 function populateSelect(selectElement, stringList, selected) {
-  debugger;
   // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
@@ -573,7 +572,6 @@ function parse() {
     filePrefix = 'raw';
   }
 
-  debugger;
   datafilename = '/data/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   Papa.parse(datafilename, { download: true, complete: parsingDone });
 }
