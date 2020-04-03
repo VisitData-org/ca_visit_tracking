@@ -15,7 +15,7 @@ fixFilenames () {
         Location=`dirname "$OriginalFile"`
         FileName=`basename "$OriginalFile"`
 
-        ShortName=`echo $FileName | sed 's/ //g'`
+        ShortName=`echo $FileName | sed 's/ //g' | sed 's/,//g' | sed 's/\.//g' `
 
         if [ $ShortName != "$FileName" ]
         then
@@ -70,15 +70,41 @@ processStates () {
     done
 }
 
+processTopVenues() {
+    SOURCEDIR=$1
+    DESTFILEPREFIX=$2
+
+    echo 'fixing filenames'
+    fixFilenames $SOURCEDIR
+    echo 'done fixing filenames'
+    
+    DATES=$( ls "$SOURCEDIR" | fgrep "date=" | sed 's/date=//g' )
+    echo $DATES
+    for DATE in $DATES
+    do
+        echo "doing $DATE"
+        STATES=$( ls $SOURCEDIR/date=${DATE} | fgrep "state=" | fgrep -v "HIVE_DEFAULT" | sed 's/state=//g' )
+        for STATE in $STATES
+        do
+            THISSTATETOPVENUEDESTFILE=${DESTFILEPREFIX}${STATE/ //}.csv
+            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; $1=date; $2=state; print $0 }' >> $THISSTATETOPVENUEDESTFILE
+        done
+    done
+}
+
 if [ $REMOVE_ALSO -eq 1 ]
 then
     rm $DIR/raw*.csv
     rm $DIR/grouped*.csv
     rm $DIR/allstate/raw*.csv
     rm $DIR/allstate/grouped*.csv
+    rm $DIR/topvenues/raw*.csv
+    rm $DIR/topvenues/grouped*.csv
 fi
 
 crunchGZs $FOURSQUARE_DATA/countyCategoryGz $DIR/raw
 crunchGZs $FOURSQUARE_DATA/countyCategoryGroupGz $DIR/grouped
 processStates $FOURSQUARE_DATA/stateCategoryGz $DIR/allstate/raw
 processStates $FOURSQUARE_DATA/stateCategoryGroupGz $DIR/allstate/grouped
+processTopVenues $FOURSQUARE_DATA/countyCategoryGroupedVenueGz $DIR/topvenues/grouped
+processTopVenues $FOURSQUARE_DATA/countyCategoryVenueGz $DIR/topvenues/raw
