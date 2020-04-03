@@ -86,19 +86,6 @@ body {
    max-width:75%;
  }
 
- #enforce-landscape { display:block; }
-
-@media only screen and (orientation:portrait){
-  #enforce-landscape {
-   height: 100vw;
-   -webkit-transform: rotate(90deg);
-   -moz-transform: rotate(90deg);
-   -o-transform: rotate(90deg);
-   -ms-transform: rotate(90deg);
-   transform: rotate(90deg);
-  }
-}
-
 @media (min-width: 990px) {
   .main-mobile {
     padding-top: 50px;
@@ -107,16 +94,41 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
+  .map-us {
+    width: 1000px;
+    height: 566px;
+  }
 }
 
 @media (max-width: 989px) {
   .main-mobile {
     padding-top: 50px;
   }
+
+  .map-us {
+    width: 450px;
+    height: 250px;
+  }
+
+  .foursquare-logo {
+    width: 200px;
+    height: 50px;
+  }
 }
 
 @media (max-width: 768px) {
   .main-mobile {
     padding-top: 50px;
+  }
+
+  .map-us {
+    width: 450px;
+    height: 250px;
+  }
+
+  .foursquare-logo {
+    width: 200px;
+    height: 50px;
   }
 }
