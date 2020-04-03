@@ -363,8 +363,8 @@ function parseRow(row) {
 function parsingDone(results, file) {
 
   fileData = _.map(results.data.slice(1), parseRow);  // get rid of header row
-  counties = _.uniq(_.pluck(fileData, 'county')).sort();
-  locationTypes = _.uniq(_.pluck(fileData, 'location_type')).sort();
+  counties = _.compact(_.uniq(_.pluck(fileData, 'county')).sort());
+  locationTypes = _.compact(_.uniq(_.pluck(fileData, 'location_type')).sort());
 
   table = new Tabulator("#data-table", {
     data:fileData,
