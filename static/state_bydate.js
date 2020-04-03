@@ -352,9 +352,9 @@ function redoFilter() {
   if (countySel.value || locationTypeSel.value) {
     drawChart();
   }
-  if (countySel.value && locationTypeSel.value) {
-    showTopVenuesTable();
-  }
+  // if (countySel.value && locationTypeSel.value) {
+  //   showTopVenuesTable();
+  // }
 }
 
 function populateSelect(selectElement, stringList, selected) {

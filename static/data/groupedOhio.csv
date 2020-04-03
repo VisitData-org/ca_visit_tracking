@@ -19043,3 +19043,455 @@
 2020-04-01,Ohio,Lucas County,Office,28.0,"",28.0,19
 2020-04-01,Ohio,Lucas County,Banks,72.0,"",71.0,20
 2020-04-01,Ohio,Lucas County,Government,42.0,"",42.0,21
+2020-04-02,Ohio,Hamilton County,Food,45.0,43.0,45.0,1
+2020-04-02,Ohio,Hamilton County,Shops & Services,51.0,38.0,52.0,2
+2020-04-02,Ohio,Hamilton County,Grocery,74.0,64.0,74.0,3
+2020-04-02,Ohio,Hamilton County,Outdoors & Recreation,95.0,92.0,95.0,4
+2020-04-02,Ohio,Hamilton County,Gas Stations,68.0,72.0,68.0,5
+2020-04-02,Ohio,Hamilton County,Medical,39.0,35.0,39.0,6
+2020-04-02,Ohio,Hamilton County,Fast Food Restaurants,60.0,45.0,60.0,7
+2020-04-02,Ohio,Hamilton County,Nightlife Spots,45.0,43.0,45.0,8
+2020-04-02,Ohio,Hamilton County,Professional & Other Places,53.0,45.0,53.0,9
+2020-04-02,Ohio,Hamilton County,Office,40.0,41.0,40.0,10
+2020-04-02,Ohio,Hamilton County,Arts & Entertainment,47.0,58.0,47.0,11
+2020-04-02,Ohio,Hamilton County,School,33.0,36.0,33.0,12
+2020-04-02,Ohio,Hamilton County,Hardware Stores,112.0,87.0,114.0,13
+2020-04-02,Ohio,Hamilton County,Big Box Stores,82.0,85.0,82.0,14
+2020-04-02,Ohio,Hamilton County,Residences,74.0,62.0,74.0,15
+2020-04-02,Ohio,Hamilton County,Drug Store,67.0,76.0,66.0,16
+2020-04-02,Ohio,Hamilton County,Sports,87.0,95.0,86.0,17
+2020-04-02,Ohio,Hamilton County,Banks,74.0,103.0,73.0,18
+2020-04-02,Ohio,Hamilton County,Travel & Transport,67.0,"",68.0,19
+2020-04-02,Ohio,Hamilton County,Government,43.0,"",43.0,20
+2020-04-02,Ohio,Hamilton County,Fitness Center,31.0,"",31.0,21
+2020-04-02,Ohio,Hamilton County,Colleges & Universities,17.0,"",17.0,22
+2020-04-02,Ohio,Hamilton County,Discount Stores,69.0,"",70.0,23
+2020-04-02,Ohio,Hamilton County,Convenience Store,64.0,"",64.0,24
+2020-04-02,Ohio,Hamilton County,Alcohol,95.0,"",95.0,25
+2020-04-02,Ohio,Hamilton County,Hotel,31.0,"",31.0,26
+2020-04-02,Ohio,Washington County,Gas Stations,52.0,"",53.0,1
+2020-04-02,Ohio,Lawrence County,Food,61.0,"",62.0,1
+2020-04-02,Ohio,Hocking County,Food,90.0,"",90.0,1
+2020-04-02,Ohio,Butler County,Food,47.0,47.0,47.0,1
+2020-04-02,Ohio,Butler County,Shops & Services,51.0,49.0,51.0,2
+2020-04-02,Ohio,Butler County,Grocery,80.0,79.0,80.0,3
+2020-04-02,Ohio,Butler County,Gas Stations,65.0,56.0,65.0,4
+2020-04-02,Ohio,Butler County,Fast Food Restaurants,63.0,55.0,63.0,5
+2020-04-02,Ohio,Butler County,Outdoors & Recreation,99.0,117.0,98.0,6
+2020-04-02,Ohio,Butler County,Professional & Other Places,64.0,"",65.0,7
+2020-04-02,Ohio,Butler County,Nightlife Spots,53.0,67.0,53.0,8
+2020-04-02,Ohio,Butler County,Medical,51.0,39.0,51.0,9
+2020-04-02,Ohio,Butler County,Sports,113.0,"",113.0,10
+2020-04-02,Ohio,Butler County,Residences,82.0,"",82.0,11
+2020-04-02,Ohio,Butler County,School,32.0,"",31.0,12
+2020-04-02,Ohio,Butler County,Office,58.0,"",58.0,13
+2020-04-02,Ohio,Butler County,Big Box Stores,71.0,"",70.0,14
+2020-04-02,Ohio,Butler County,Hardware Stores,119.0,"",120.0,15
+2020-04-02,Ohio,Butler County,Government,63.0,"",62.0,16
+2020-04-02,Ohio,Butler County,Convenience Store,74.0,"",75.0,17
+2020-04-02,Ohio,Butler County,Drug Store,64.0,"",64.0,18
+2020-04-02,Ohio,Butler County,Banks,88.0,"",89.0,19
+2020-04-02,Ohio,Butler County,Discount Stores,64.0,"",64.0,20
+2020-04-02,Ohio,Muskingum County,Shops & Services,61.0,"",62.0,1
+2020-04-02,Ohio,Muskingum County,Food,43.0,"",44.0,2
+2020-04-02,Ohio,Muskingum County,Gas Stations,66.0,"",65.0,3
+2020-04-02,Ohio,Muskingum County,Fast Food Restaurants,61.0,"",61.0,4
+2020-04-02,Ohio,Wood County,Food,49.0,"",49.0,1
+2020-04-02,Ohio,Wood County,Shops & Services,60.0,"",60.0,2
+2020-04-02,Ohio,Wood County,Gas Stations,62.0,"",62.0,3
+2020-04-02,Ohio,Wood County,Grocery,89.0,"",90.0,4
+2020-04-02,Ohio,Wood County,Fast Food Restaurants,63.0,"",63.0,5
+2020-04-02,Ohio,Wood County,Nightlife Spots,63.0,"",63.0,6
+2020-04-02,Ohio,Wood County,Professional & Other Places,60.0,"",60.0,7
+2020-04-02,Ohio,Wood County,Outdoors & Recreation,121.0,"",121.0,8
+2020-04-02,Ohio,Wood County,Big Box Stores,76.0,"",76.0,9
+2020-04-02,Ohio,Hancock County,Food,45.0,"",46.0,1
+2020-04-02,Ohio,Hancock County,Shops & Services,57.0,"",57.0,2
+2020-04-02,Ohio,Hancock County,Gas Stations,73.0,"",73.0,3
+2020-04-02,Ohio,Hancock County,Grocery,99.0,"",99.0,4
+2020-04-02,Ohio,Hancock County,Outdoors & Recreation,124.0,"",122.0,5
+2020-04-02,Ohio,Hancock County,Big Box Stores,71.0,"",71.0,6
+2020-04-02,Ohio,Hancock County,Fast Food Restaurants,73.0,"",74.0,7
+2020-04-02,Ohio,Summit County,Shops & Services,53.0,40.0,54.0,1
+2020-04-02,Ohio,Summit County,Food,44.0,36.0,44.0,2
+2020-04-02,Ohio,Summit County,Grocery,72.0,55.0,73.0,3
+2020-04-02,Ohio,Summit County,Outdoors & Recreation,110.0,114.0,110.0,4
+2020-04-02,Ohio,Summit County,Gas Stations,63.0,56.0,63.0,5
+2020-04-02,Ohio,Summit County,Medical,38.0,25.0,39.0,6
+2020-04-02,Ohio,Summit County,Nightlife Spots,44.0,48.0,44.0,7
+2020-04-02,Ohio,Summit County,Fast Food Restaurants,53.0,45.0,53.0,8
+2020-04-02,Ohio,Summit County,Convenience Store,78.0,77.0,78.0,9
+2020-04-02,Ohio,Summit County,Professional & Other Places,56.0,50.0,56.0,10
+2020-04-02,Ohio,Summit County,Hardware Stores,112.0,110.0,112.0,11
+2020-04-02,Ohio,Summit County,Big Box Stores,72.0,"",72.0,12
+2020-04-02,Ohio,Summit County,Office,49.0,"",48.0,13
+2020-04-02,Ohio,Summit County,School,28.0,"",28.0,14
+2020-04-02,Ohio,Summit County,Residences,68.0,"",69.0,15
+2020-04-02,Ohio,Summit County,Drug Store,60.0,"",60.0,16
+2020-04-02,Ohio,Summit County,Arts & Entertainment,36.0,"",36.0,17
+2020-04-02,Ohio,Summit County,Discount Stores,64.0,"",64.0,18
+2020-04-02,Ohio,Summit County,Sports,68.0,"",68.0,19
+2020-04-02,Ohio,Summit County,Banks,68.0,"",68.0,20
+2020-04-02,Ohio,Summit County,Government,41.0,"",41.0,21
+2020-04-02,Ohio,Franklin County,Shops & Services,45.0,43.0,45.0,1
+2020-04-02,Ohio,Franklin County,Food,37.0,32.0,38.0,2
+2020-04-02,Ohio,Franklin County,Grocery,70.0,61.0,71.0,3
+2020-04-02,Ohio,Franklin County,Gas Stations,56.0,50.0,56.0,4
+2020-04-02,Ohio,Franklin County,Outdoors & Recreation,87.0,88.0,87.0,5
+2020-04-02,Ohio,Franklin County,Fast Food Restaurants,55.0,52.0,55.0,6
+2020-04-02,Ohio,Franklin County,Medical,35.0,28.0,35.0,7
+2020-04-02,Ohio,Franklin County,Professional & Other Places,45.0,49.0,45.0,8
+2020-04-02,Ohio,Franklin County,Office,39.0,48.0,39.0,9
+2020-04-02,Ohio,Franklin County,Nightlife Spots,31.0,42.0,31.0,10
+2020-04-02,Ohio,Franklin County,Residences,68.0,63.0,69.0,11
+2020-04-02,Ohio,Franklin County,Big Box Stores,69.0,59.0,69.0,12
+2020-04-02,Ohio,Franklin County,School,32.0,35.0,32.0,13
+2020-04-02,Ohio,Franklin County,Hardware Stores,95.0,85.0,95.0,14
+2020-04-02,Ohio,Franklin County,Drug Store,68.0,57.0,68.0,15
+2020-04-02,Ohio,Franklin County,Colleges & Universities,18.0,"",18.0,16
+2020-04-02,Ohio,Franklin County,Arts & Entertainment,32.0,31.0,33.0,17
+2020-04-02,Ohio,Franklin County,Government,35.0,"",35.0,18
+2020-04-02,Ohio,Franklin County,Discount Stores,65.0,"",66.0,19
+2020-04-02,Ohio,Franklin County,Fitness Center,24.0,"",24.0,20
+2020-04-02,Ohio,Franklin County,Sports,65.0,"",65.0,21
+2020-04-02,Ohio,Franklin County,Hotel,30.0,"",30.0,22
+2020-04-02,Ohio,Franklin County,Banks,62.0,78.0,62.0,23
+2020-04-02,Ohio,Franklin County,Convenience Store,59.0,"",59.0,24
+2020-04-02,Ohio,Franklin County,Travel & Transport,57.0,"",57.0,25
+2020-04-02,Ohio,Lucas County,Shops & Services,56.0,47.0,56.0,1
+2020-04-02,Ohio,Lucas County,Food,44.0,39.0,45.0,2
+2020-04-02,Ohio,Lucas County,Grocery,84.0,82.0,84.0,3
+2020-04-02,Ohio,Lucas County,Gas Stations,72.0,62.0,73.0,4
+2020-04-02,Ohio,Lucas County,Medical,52.0,37.0,53.0,5
+2020-04-02,Ohio,Lucas County,Outdoors & Recreation,111.0,131.0,111.0,6
+2020-04-02,Ohio,Lucas County,Professional & Other Places,53.0,59.0,53.0,7
+2020-04-02,Ohio,Lucas County,Fast Food Restaurants,62.0,70.0,62.0,8
+2020-04-02,Ohio,Lucas County,Big Box Stores,83.0,"",84.0,9
+2020-04-02,Ohio,Lucas County,Hardware Stores,110.0,95.0,110.0,10
+2020-04-02,Ohio,Lucas County,Nightlife Spots,44.0,53.0,44.0,11
+2020-04-02,Ohio,Lucas County,Drug Store,78.0,"",78.0,12
+2020-04-02,Ohio,Lucas County,Convenience Store,75.0,"",75.0,13
+2020-04-02,Ohio,Lucas County,Residences,76.0,"",75.0,14
+2020-04-02,Ohio,Lucas County,School,35.0,"",34.0,15
+2020-04-02,Ohio,Lucas County,Discount Stores,83.0,"",84.0,16
+2020-04-02,Ohio,Lucas County,Arts & Entertainment,39.0,"",38.0,17
+2020-04-02,Ohio,Lucas County,Travel & Transport,83.0,"",83.0,18
+2020-04-02,Ohio,Lucas County,Office,28.0,"",28.0,19
+2020-04-02,Ohio,Lucas County,Banks,74.0,"",74.0,20
+2020-04-02,Ohio,Lucas County,Sports,101.0,"",99.0,21
+2020-04-02,Ohio,Fayette County,Food,58.0,"",58.0,1
+2020-04-02,Ohio,Fayette County,Gas Stations,70.0,"",70.0,2
+2020-04-02,Ohio,Mercer County,Food,84.0,"",84.0,1
+2020-04-02,Ohio,Geauga County,Outdoors & Recreation,99.0,"",100.0,1
+2020-04-02,Ohio,Geauga County,Shops & Services,62.0,"",62.0,2
+2020-04-02,Ohio,Geauga County,Food,53.0,"",54.0,3
+2020-04-02,Ohio,Geauga County,Grocery,69.0,"",69.0,4
+2020-04-02,Ohio,Geauga County,Big Box Stores,67.0,"",68.0,5
+2020-04-02,Ohio,Tuscarawas County,Food,54.0,53.0,54.0,1
+2020-04-02,Ohio,Tuscarawas County,Shops & Services,54.0,"",54.0,2
+2020-04-02,Ohio,Tuscarawas County,Grocery,86.0,"",86.0,3
+2020-04-02,Ohio,Tuscarawas County,Gas Stations,55.0,"",56.0,4
+2020-04-02,Ohio,Tuscarawas County,Nightlife Spots,67.0,"",68.0,5
+2020-04-02,Ohio,Crawford County,Food,76.0,"",77.0,1
+2020-04-02,Ohio,Pickaway County,Shops & Services,57.0,"",58.0,1
+2020-04-02,Ohio,Pickaway County,Food,46.0,"",46.0,2
+2020-04-02,Ohio,Jefferson County,Food,69.0,"",70.0,1
+2020-04-02,Ohio,Jefferson County,Shops & Services,62.0,"",62.0,2
+2020-04-02,Ohio,Wayne County,Food,55.0,"",55.0,1
+2020-04-02,Ohio,Wayne County,Shops & Services,61.0,76.0,60.0,2
+2020-04-02,Ohio,Wayne County,Outdoors & Recreation,83.0,"",82.0,3
+2020-04-02,Ohio,Wayne County,Grocery,74.0,"",76.0,4
+2020-04-02,Ohio,Wayne County,Gas Stations,67.0,"",66.0,5
+2020-04-02,Ohio,Wayne County,Professional & Other Places,69.0,"",70.0,6
+2020-04-02,Ohio,Lake County,Shops & Services,51.0,42.0,51.0,1
+2020-04-02,Ohio,Lake County,Food,44.0,39.0,44.0,2
+2020-04-02,Ohio,Lake County,Grocery,75.0,58.0,75.0,3
+2020-04-02,Ohio,Lake County,Outdoors & Recreation,103.0,"",104.0,4
+2020-04-02,Ohio,Lake County,Gas Stations,53.0,"",53.0,5
+2020-04-02,Ohio,Lake County,Big Box Stores,73.0,"",74.0,6
+2020-04-02,Ohio,Lake County,Fast Food Restaurants,55.0,"",56.0,7
+2020-04-02,Ohio,Lake County,Nightlife Spots,39.0,"",39.0,8
+2020-04-02,Ohio,Lake County,Medical,36.0,"",37.0,9
+2020-04-02,Ohio,Lake County,Hardware Stores,86.0,"",88.0,10
+2020-04-02,Ohio,Lake County,Professional & Other Places,51.0,"",51.0,11
+2020-04-02,Ohio,Lake County,Convenience Store,72.0,"",73.0,12
+2020-04-02,Ohio,Highland County,Food,61.0,"",61.0,1
+2020-04-02,Ohio,Knox County,Shops & Services,100.0,"",101.0,1
+2020-04-02,Ohio,Knox County,Food,40.0,"",41.0,2
+2020-04-02,Ohio,Holmes County,Shops & Services,66.0,"",66.0,1
+2020-04-02,Ohio,Medina County,Food,43.0,"",44.0,1
+2020-04-02,Ohio,Medina County,Gas Stations,67.0,"",67.0,2
+2020-04-02,Ohio,Medina County,Shops & Services,57.0,"",58.0,3
+2020-04-02,Ohio,Medina County,Outdoors & Recreation,92.0,"",92.0,4
+2020-04-02,Ohio,Medina County,Grocery,75.0,"",76.0,5
+2020-04-02,Ohio,Medina County,Big Box Stores,79.0,"",80.0,6
+2020-04-02,Ohio,Medina County,Fast Food Restaurants,64.0,"",64.0,7
+2020-04-02,Ohio,Medina County,Professional & Other Places,65.0,"",66.0,8
+2020-04-02,Ohio,Medina County,Drug Store,85.0,"",86.0,9
+2020-04-02,Ohio,Medina County,Nightlife Spots,51.0,"",51.0,10
+2020-04-02,Ohio,Auglaize County,Food,69.0,"",69.0,1
+2020-04-02,Ohio,Richland County,Food,60.0,53.0,60.0,1
+2020-04-02,Ohio,Richland County,Shops & Services,55.0,61.0,54.0,2
+2020-04-02,Ohio,Richland County,Grocery,88.0,92.0,88.0,3
+2020-04-02,Ohio,Richland County,Gas Stations,62.0,"",61.0,4
+2020-04-02,Ohio,Richland County,Big Box Stores,73.0,"",74.0,5
+2020-04-02,Ohio,Richland County,Fast Food Restaurants,54.0,"",54.0,6
+2020-04-02,Ohio,Richland County,Nightlife Spots,42.0,"",41.0,7
+2020-04-02,Ohio,Richland County,Outdoors & Recreation,84.0,"",83.0,8
+2020-04-02,Ohio,Stark County,Shops & Services,51.0,51.0,51.0,1
+2020-04-02,Ohio,Stark County,Food,44.0,33.0,45.0,2
+2020-04-02,Ohio,Stark County,Grocery,85.0,73.0,86.0,3
+2020-04-02,Ohio,Stark County,Gas Stations,66.0,54.0,67.0,4
+2020-04-02,Ohio,Stark County,Fast Food Restaurants,62.0,56.0,62.0,5
+2020-04-02,Ohio,Stark County,Big Box Stores,72.0,"",73.0,6
+2020-04-02,Ohio,Stark County,Outdoors & Recreation,89.0,87.0,89.0,7
+2020-04-02,Ohio,Stark County,Professional & Other Places,63.0,63.0,63.0,8
+2020-04-02,Ohio,Stark County,Nightlife Spots,52.0,"",53.0,9
+2020-04-02,Ohio,Stark County,Medical,38.0,35.0,39.0,10
+2020-04-02,Ohio,Stark County,Hardware Stores,82.0,83.0,82.0,11
+2020-04-02,Ohio,Stark County,School,33.0,"",32.0,12
+2020-04-02,Ohio,Stark County,Drug Store,94.0,"",96.0,13
+2020-04-02,Ohio,Stark County,Arts & Entertainment,51.0,"",52.0,14
+2020-04-02,Ohio,Stark County,Discount Stores,68.0,"",68.0,15
+2020-04-02,Ohio,Stark County,Sports,65.0,"",65.0,16
+2020-04-02,Ohio,Stark County,Convenience Store,66.0,"",67.0,17
+2020-04-02,Ohio,Stark County,Banks,70.0,"",69.0,18
+2020-04-02,Ohio,Belmont County,Shops & Services,63.0,"",63.0,1
+2020-04-02,Ohio,Belmont County,Food,48.0,"",48.0,2
+2020-04-02,Ohio,Belmont County,Grocery,76.0,"",77.0,3
+2020-04-02,Ohio,Belmont County,Gas Stations,68.0,"",68.0,4
+2020-04-02,Ohio,Allen County,Food,52.0,49.0,52.0,1
+2020-04-02,Ohio,Allen County,Shops & Services,63.0,55.0,63.0,2
+2020-04-02,Ohio,Allen County,Gas Stations,76.0,"",76.0,3
+2020-04-02,Ohio,Allen County,Grocery,110.0,"",111.0,4
+2020-04-02,Ohio,Allen County,Professional & Other Places,63.0,"",63.0,5
+2020-04-02,Ohio,Allen County,Big Box Stores,92.0,"",93.0,6
+2020-04-02,Ohio,Allen County,Fast Food Restaurants,66.0,"",65.0,7
+2020-04-02,Ohio,Allen County,Nightlife Spots,59.0,"",58.0,8
+2020-04-02,Ohio,Allen County,Medical,40.0,"",40.0,9
+2020-04-02,Ohio,Fairfield County,Food,49.0,"",50.0,1
+2020-04-02,Ohio,Fairfield County,Grocery,77.0,70.0,77.0,2
+2020-04-02,Ohio,Fairfield County,Shops & Services,44.0,"",44.0,3
+2020-04-02,Ohio,Fairfield County,Fast Food Restaurants,66.0,"",66.0,4
+2020-04-02,Ohio,Fairfield County,Gas Stations,61.0,"",60.0,5
+2020-04-02,Ohio,Fairfield County,Outdoors & Recreation,80.0,"",80.0,6
+2020-04-02,Ohio,Fairfield County,Big Box Stores,59.0,"",60.0,7
+2020-04-02,Ohio,Fairfield County,Hardware Stores,134.0,"",137.0,8
+2020-04-02,Ohio,Jackson County,Food,96.0,"",95.0,1
+2020-04-02,Ohio,Williams County,Food,73.0,"",74.0,1
+2020-04-02,Ohio,Erie County,Food,55.0,76.0,54.0,1
+2020-04-02,Ohio,Erie County,Shops & Services,50.0,"",49.0,2
+2020-04-02,Ohio,Erie County,Grocery,86.0,"",86.0,3
+2020-04-02,Ohio,Erie County,Outdoors & Recreation,87.0,"",87.0,4
+2020-04-02,Ohio,Erie County,Nightlife Spots,60.0,"",60.0,5
+2020-04-02,Ohio,Erie County,Gas Stations,67.0,"",67.0,6
+2020-04-02,Ohio,Warren County,Shops & Services,48.0,37.0,48.0,1
+2020-04-02,Ohio,Warren County,Food,39.0,35.0,39.0,2
+2020-04-02,Ohio,Warren County,Gas Stations,73.0,71.0,73.0,3
+2020-04-02,Ohio,Warren County,Grocery,70.0,61.0,71.0,4
+2020-04-02,Ohio,Warren County,Outdoors & Recreation,109.0,145.0,107.0,5
+2020-04-02,Ohio,Warren County,Fast Food Restaurants,64.0,"",64.0,6
+2020-04-02,Ohio,Warren County,Big Box Stores,69.0,"",69.0,7
+2020-04-02,Ohio,Warren County,Nightlife Spots,73.0,"",73.0,8
+2020-04-02,Ohio,Warren County,Hardware Stores,98.0,"",100.0,9
+2020-04-02,Ohio,Warren County,Professional & Other Places,66.0,"",66.0,10
+2020-04-02,Ohio,Warren County,Residences,90.0,"",91.0,11
+2020-04-02,Ohio,Warren County,Arts & Entertainment,51.0,"",50.0,12
+2020-04-02,Ohio,Warren County,Sports,97.0,"",95.0,13
+2020-04-02,Ohio,Warren County,Medical,40.0,"",41.0,14
+2020-04-02,Ohio,Clermont County,Food,52.0,39.0,53.0,1
+2020-04-02,Ohio,Clermont County,Grocery,82.0,66.0,82.0,2
+2020-04-02,Ohio,Clermont County,Shops & Services,51.0,53.0,51.0,3
+2020-04-02,Ohio,Clermont County,Outdoors & Recreation,93.0,"",93.0,4
+2020-04-02,Ohio,Clermont County,Gas Stations,77.0,"",77.0,5
+2020-04-02,Ohio,Clermont County,Fast Food Restaurants,64.0,"",64.0,6
+2020-04-02,Ohio,Clermont County,Hardware Stores,119.0,"",121.0,7
+2020-04-02,Ohio,Clermont County,Big Box Stores,70.0,"",71.0,8
+2020-04-02,Ohio,Clermont County,Nightlife Spots,62.0,"",61.0,9
+2020-04-02,Ohio,Ashtabula County,Food,54.0,"",54.0,1
+2020-04-02,Ohio,Ashtabula County,Gas Stations,62.0,"",63.0,2
+2020-04-02,Ohio,Ashtabula County,Shops & Services,83.0,"",84.0,3
+2020-04-02,Ohio,Greene County,Shops & Services,44.0,36.0,44.0,1
+2020-04-02,Ohio,Greene County,Food,41.0,39.0,41.0,2
+2020-04-02,Ohio,Greene County,Grocery,72.0,79.0,72.0,3
+2020-04-02,Ohio,Greene County,Gas Stations,73.0,"",73.0,4
+2020-04-02,Ohio,Greene County,Outdoors & Recreation,108.0,"",108.0,5
+2020-04-02,Ohio,Greene County,Fast Food Restaurants,63.0,"",63.0,6
+2020-04-02,Ohio,Greene County,Professional & Other Places,50.0,"",49.0,7
+2020-04-02,Ohio,Greene County,Big Box Stores,64.0,"",65.0,8
+2020-04-02,Ohio,Greene County,Hardware Stores,110.0,"",110.0,9
+2020-04-02,Ohio,Greene County,Medical,41.0,"",41.0,10
+2020-04-02,Ohio,Greene County,Drug Store,114.0,"",113.0,11
+2020-04-02,Ohio,Greene County,Residences,65.0,"",65.0,12
+2020-04-02,Ohio,Logan County,Shops & Services,77.0,"",77.0,1
+2020-04-02,Ohio,Logan County,Food,58.0,"",58.0,2
+2020-04-02,Ohio,Cuyahoga County,Shops & Services,45.0,40.0,45.0,1
+2020-04-02,Ohio,Cuyahoga County,Food,40.0,31.0,40.0,2
+2020-04-02,Ohio,Cuyahoga County,Grocery,76.0,70.0,76.0,3
+2020-04-02,Ohio,Cuyahoga County,Outdoors & Recreation,86.0,91.0,86.0,4
+2020-04-02,Ohio,Cuyahoga County,Gas Stations,59.0,53.0,59.0,5
+2020-04-02,Ohio,Cuyahoga County,Medical,37.0,32.0,37.0,6
+2020-04-02,Ohio,Cuyahoga County,Professional & Other Places,42.0,42.0,42.0,7
+2020-04-02,Ohio,Cuyahoga County,Nightlife Spots,34.0,41.0,34.0,8
+2020-04-02,Ohio,Cuyahoga County,Fast Food Restaurants,53.0,44.0,54.0,9
+2020-04-02,Ohio,Cuyahoga County,Residences,60.0,48.0,61.0,10
+2020-04-02,Ohio,Cuyahoga County,Office,40.0,43.0,40.0,11
+2020-04-02,Ohio,Cuyahoga County,School,32.0,36.0,32.0,12
+2020-04-02,Ohio,Cuyahoga County,Drug Store,59.0,56.0,59.0,13
+2020-04-02,Ohio,Cuyahoga County,Big Box Stores,67.0,55.0,67.0,14
+2020-04-02,Ohio,Cuyahoga County,Convenience Store,66.0,59.0,66.0,15
+2020-04-02,Ohio,Cuyahoga County,Hardware Stores,92.0,74.0,93.0,16
+2020-04-02,Ohio,Cuyahoga County,Arts & Entertainment,29.0,"",29.0,17
+2020-04-02,Ohio,Cuyahoga County,Government,39.0,"",40.0,18
+2020-04-02,Ohio,Cuyahoga County,Discount Stores,65.0,"",65.0,19
+2020-04-02,Ohio,Cuyahoga County,Banks,65.0,74.0,65.0,20
+2020-04-02,Ohio,Cuyahoga County,Sports,59.0,"",59.0,21
+2020-04-02,Ohio,Cuyahoga County,Fitness Center,25.0,"",25.0,22
+2020-04-02,Ohio,Cuyahoga County,Colleges & Universities,15.0,"",15.0,23
+2020-04-02,Ohio,Cuyahoga County,Hotel,25.0,"",25.0,24
+2020-04-02,Ohio,Cuyahoga County,Travel & Transport,43.0,"",43.0,25
+2020-04-02,Ohio,Cuyahoga County,Airport,13.0,"",13.0,26
+2020-04-02,Ohio,Cuyahoga County,Alcohol,71.0,"",72.0,27
+2020-04-02,Ohio,Cuyahoga County,Light Rail Stations,41.0,"",41.0,28
+2020-04-02,Ohio,Lorain County,Shops & Services,57.0,46.0,58.0,1
+2020-04-02,Ohio,Lorain County,Food,51.0,40.0,51.0,2
+2020-04-02,Ohio,Lorain County,Grocery,83.0,81.0,83.0,3
+2020-04-02,Ohio,Lorain County,Gas Stations,64.0,"",64.0,4
+2020-04-02,Ohio,Lorain County,Outdoors & Recreation,95.0,97.0,95.0,5
+2020-04-02,Ohio,Lorain County,Fast Food Restaurants,59.0,"",59.0,6
+2020-04-02,Ohio,Lorain County,Big Box Stores,67.0,"",68.0,7
+2020-04-02,Ohio,Lorain County,Nightlife Spots,38.0,"",38.0,8
+2020-04-02,Ohio,Lorain County,Professional & Other Places,58.0,"",58.0,9
+2020-04-02,Ohio,Lorain County,Drug Store,63.0,"",63.0,10
+2020-04-02,Ohio,Lorain County,Residences,89.0,"",88.0,11
+2020-04-02,Ohio,Lorain County,Medical,33.0,"",34.0,12
+2020-04-02,Ohio,Lorain County,Sports,73.0,"",73.0,13
+2020-04-02,Ohio,Lorain County,Hardware Stores,100.0,"",101.0,14
+2020-04-02,Ohio,Lorain County,Discount Stores,78.0,"",78.0,15
+2020-04-02,Ohio,Lorain County,School,27.0,"",27.0,16
+2020-04-02,Ohio,Lorain County,Travel & Transport,71.0,"",70.0,17
+2020-04-02,Ohio,Lorain County,Convenience Store,60.0,"",60.0,18
+2020-04-02,Ohio,Seneca County,Food,61.0,"",60.0,1
+2020-04-02,Ohio,Seneca County,Shops & Services,83.0,"",84.0,2
+2020-04-02,Ohio,Seneca County,Outdoors & Recreation,125.0,"",124.0,3
+2020-04-02,Ohio,Miami County,Shops & Services,77.0,"",78.0,1
+2020-04-02,Ohio,Miami County,Food,45.0,"",45.0,2
+2020-04-02,Ohio,Miami County,Gas Stations,68.0,"",67.0,3
+2020-04-02,Ohio,Miami County,Grocery,98.0,"",99.0,4
+2020-04-02,Ohio,Miami County,Professional & Other Places,80.0,"",81.0,5
+2020-04-02,Ohio,Miami County,Outdoors & Recreation,99.0,"",100.0,6
+2020-04-02,Ohio,Miami County,Medical,54.0,"",54.0,7
+2020-04-02,Ohio,Miami County,Fast Food Restaurants,70.0,"",70.0,8
+2020-04-02,Ohio,Ashland County,Food,65.0,"",64.0,1
+2020-04-02,Ohio,Ashland County,Shops & Services,73.0,"",73.0,2
+2020-04-02,Ohio,Montgomery County,Food,49.0,47.0,49.0,1
+2020-04-02,Ohio,Montgomery County,Shops & Services,56.0,46.0,57.0,2
+2020-04-02,Ohio,Montgomery County,Grocery,82.0,86.0,82.0,3
+2020-04-02,Ohio,Montgomery County,Gas Stations,74.0,66.0,74.0,4
+2020-04-02,Ohio,Montgomery County,Fast Food Restaurants,66.0,71.0,65.0,5
+2020-04-02,Ohio,Montgomery County,Outdoors & Recreation,93.0,80.0,93.0,6
+2020-04-02,Ohio,Montgomery County,Professional & Other Places,58.0,62.0,57.0,7
+2020-04-02,Ohio,Montgomery County,Medical,38.0,31.0,38.0,8
+2020-04-02,Ohio,Montgomery County,Nightlife Spots,48.0,57.0,48.0,9
+2020-04-02,Ohio,Montgomery County,School,40.0,70.0,39.0,10
+2020-04-02,Ohio,Montgomery County,Big Box Stores,69.0,"",69.0,11
+2020-04-02,Ohio,Montgomery County,Residences,78.0,"",78.0,12
+2020-04-02,Ohio,Montgomery County,Hardware Stores,109.0,119.0,109.0,13
+2020-04-02,Ohio,Montgomery County,Drug Store,73.0,"",73.0,14
+2020-04-02,Ohio,Montgomery County,Office,46.0,"",47.0,15
+2020-04-02,Ohio,Montgomery County,Discount Stores,81.0,"",81.0,16
+2020-04-02,Ohio,Montgomery County,Sports,100.0,"",102.0,17
+2020-04-02,Ohio,Montgomery County,Arts & Entertainment,41.0,"",40.0,18
+2020-04-02,Ohio,Montgomery County,Convenience Store,86.0,"",86.0,19
+2020-04-02,Ohio,Montgomery County,Colleges & Universities,22.0,"",21.0,20
+2020-04-02,Ohio,Montgomery County,Government,47.0,"",47.0,21
+2020-04-02,Ohio,Montgomery County,Banks,65.0,"",65.0,22
+2020-04-02,Ohio,Montgomery County,Fitness Center,34.0,"",35.0,23
+2020-04-02,Ohio,Montgomery County,Travel & Transport,63.0,"",63.0,24
+2020-04-02,Ohio,Ottawa County,Outdoors & Recreation,218.0,335.0,213.0,1
+2020-04-02,Ohio,Ottawa County,Food,66.0,"",66.0,2
+2020-04-02,Ohio,Shelby County,Food,60.0,"",61.0,1
+2020-04-02,Ohio,Athens County,Food,48.0,"",48.0,1
+2020-04-02,Ohio,Clinton County,Food,75.0,"",75.0,1
+2020-04-02,Ohio,Clinton County,Gas Stations,81.0,"",81.0,2
+2020-04-02,Ohio,Henry County,Gas Stations,63.0,"",63.0,1
+2020-04-02,Ohio,Columbiana County,Food,54.0,"",54.0,1
+2020-04-02,Ohio,Columbiana County,Grocery,74.0,"",75.0,2
+2020-04-02,Ohio,Union County,Shops & Services,75.0,"",76.0,1
+2020-04-02,Ohio,Marion County,Food,61.0,"",61.0,1
+2020-04-02,Ohio,Marion County,Gas Stations,71.0,"",71.0,2
+2020-04-02,Ohio,Marion County,Shops & Services,64.0,"",64.0,3
+2020-04-02,Ohio,Marion County,Grocery,90.0,"",89.0,4
+2020-04-02,Ohio,Trumbull County,Shops & Services,57.0,54.0,57.0,1
+2020-04-02,Ohio,Trumbull County,Food,42.0,34.0,43.0,2
+2020-04-02,Ohio,Trumbull County,Gas Stations,73.0,73.0,73.0,3
+2020-04-02,Ohio,Trumbull County,Grocery,83.0,61.0,84.0,4
+2020-04-02,Ohio,Trumbull County,Fast Food Restaurants,67.0,"",68.0,5
+2020-04-02,Ohio,Trumbull County,Nightlife Spots,52.0,"",52.0,6
+2020-04-02,Ohio,Trumbull County,Professional & Other Places,58.0,"",59.0,7
+2020-04-02,Ohio,Trumbull County,Medical,43.0,"",43.0,8
+2020-04-02,Ohio,Trumbull County,Big Box Stores,64.0,"",65.0,9
+2020-04-02,Ohio,Trumbull County,Outdoors & Recreation,96.0,"",97.0,10
+2020-04-02,Ohio,Trumbull County,Hardware Stores,83.0,"",84.0,11
+2020-04-02,Ohio,Trumbull County,School,35.0,"",35.0,12
+2020-04-02,Ohio,Coshocton County,Food,71.0,"",71.0,1
+2020-04-02,Ohio,Portage County,Food,42.0,"",42.0,1
+2020-04-02,Ohio,Portage County,Outdoors & Recreation,100.0,"",101.0,2
+2020-04-02,Ohio,Portage County,Shops & Services,52.0,"",52.0,3
+2020-04-02,Ohio,Portage County,Grocery,88.0,116.0,87.0,4
+2020-04-02,Ohio,Portage County,Big Box Stores,73.0,"",74.0,5
+2020-04-02,Ohio,Portage County,Gas Stations,49.0,"",49.0,6
+2020-04-02,Ohio,Portage County,Fast Food Restaurants,59.0,"",59.0,7
+2020-04-02,Ohio,Portage County,Nightlife Spots,50.0,"",49.0,8
+2020-04-02,Ohio,Clark County,Food,69.0,56.0,70.0,1
+2020-04-02,Ohio,Clark County,Gas Stations,71.0,"",72.0,2
+2020-04-02,Ohio,Clark County,Shops & Services,58.0,"",58.0,3
+2020-04-02,Ohio,Clark County,Grocery,83.0,"",82.0,4
+2020-04-02,Ohio,Clark County,Fast Food Restaurants,80.0,"",80.0,5
+2020-04-02,Ohio,Clark County,Big Box Stores,76.0,"",76.0,6
+2020-04-02,Ohio,Scioto County,Food,54.0,"",54.0,1
+2020-04-02,Ohio,Scioto County,Shops & Services,69.0,"",69.0,2
+2020-04-02,Ohio,Brown County,Gas Stations,86.0,"",87.0,1
+2020-04-02,Ohio,Brown County,Food,64.0,"",65.0,2
+2020-04-02,Ohio,Sandusky County,Food,64.0,"",64.0,1
+2020-04-02,Ohio,Sandusky County,Gas Stations,75.0,"",76.0,2
+2020-04-02,Ohio,Sandusky County,Professional & Other Places,75.0,"",75.0,3
+2020-04-02,Ohio,Sandusky County,Fast Food Restaurants,70.0,"",70.0,4
+2020-04-02,Ohio,Sandusky County,Travel & Transport,62.0,"",62.0,5
+2020-04-02,Ohio,Licking County,Shops & Services,67.0,53.0,68.0,1
+2020-04-02,Ohio,Licking County,Gas Stations,76.0,"",76.0,2
+2020-04-02,Ohio,Licking County,Food,45.0,41.0,45.0,3
+2020-04-02,Ohio,Licking County,Grocery,81.0,"",82.0,4
+2020-04-02,Ohio,Licking County,Professional & Other Places,49.0,"",49.0,5
+2020-04-02,Ohio,Licking County,Outdoors & Recreation,106.0,"",107.0,6
+2020-04-02,Ohio,Licking County,Fast Food Restaurants,65.0,"",65.0,7
+2020-04-02,Ohio,Madison County,Gas Stations,65.0,"",66.0,1
+2020-04-02,Ohio,Mahoning County,Food,47.0,35.0,47.0,1
+2020-04-02,Ohio,Mahoning County,Shops & Services,48.0,46.0,48.0,2
+2020-04-02,Ohio,Mahoning County,Gas Stations,67.0,60.0,68.0,3
+2020-04-02,Ohio,Mahoning County,Grocery,86.0,58.0,87.0,4
+2020-04-02,Ohio,Mahoning County,Fast Food Restaurants,60.0,"",60.0,5
+2020-04-02,Ohio,Mahoning County,Outdoors & Recreation,106.0,"",106.0,6
+2020-04-02,Ohio,Mahoning County,Nightlife Spots,54.0,"",54.0,7
+2020-04-02,Ohio,Mahoning County,Medical,33.0,"",33.0,8
+2020-04-02,Ohio,Mahoning County,Big Box Stores,70.0,"",71.0,9
+2020-04-02,Ohio,Mahoning County,Professional & Other Places,76.0,"",76.0,10
+2020-04-02,Ohio,Mahoning County,Hardware Stores,98.0,"",99.0,11
+2020-04-02,Ohio,Defiance County,Gas Stations,74.0,"",73.0,1
+2020-04-02,Ohio,Ross County,Food,67.0,"",68.0,1
+2020-04-02,Ohio,Ross County,Shops & Services,67.0,"",67.0,2
+2020-04-02,Ohio,Ross County,Gas Stations,75.0,"",76.0,3
+2020-04-02,Ohio,Delaware County,Food,36.0,30.0,37.0,1
+2020-04-02,Ohio,Delaware County,Grocery,75.0,88.0,74.0,2
+2020-04-02,Ohio,Delaware County,Shops & Services,35.0,38.0,35.0,3
+2020-04-02,Ohio,Delaware County,Outdoors & Recreation,102.0,86.0,103.0,4
+2020-04-02,Ohio,Delaware County,Gas Stations,64.0,"",64.0,5
+2020-04-02,Ohio,Delaware County,Nightlife Spots,53.0,"",53.0,6
+2020-04-02,Ohio,Delaware County,Residences,77.0,"",76.0,7
+2020-04-02,Ohio,Delaware County,Fast Food Restaurants,42.0,"",41.0,8
+2020-04-02,Ohio,Delaware County,Hardware Stores,105.0,"",105.0,9
+2020-04-02,Ohio,Delaware County,Professional & Other Places,59.0,"",59.0,10
+2020-04-02,Ohio,Delaware County,Sports,91.0,"",91.0,11
+2020-04-02,Ohio,Delaware County,Medical,32.0,"",33.0,12
+2020-04-02,Ohio,Huron County,Food,58.0,"",57.0,1
+2020-04-02,Ohio,Huron County,Shops & Services,110.0,"",110.0,2

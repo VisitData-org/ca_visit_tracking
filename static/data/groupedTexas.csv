@@ -27473,3 +27473,660 @@
 2020-04-01,Texas,Lubbock County,Big Box Stores,60.0,"",60.0,9
 2020-04-01,Texas,Lubbock County,Drug Store,86.0,"",88.0,10
 2020-04-01,Texas,Lubbock County,School,31.0,"",31.0,11
+2020-04-02,Texas,Midland County,Food,47.0,47.0,47.0,1
+2020-04-02,Texas,Midland County,Shops & Services,62.0,"",62.0,2
+2020-04-02,Texas,Midland County,Convenience Store,65.0,"",65.0,3
+2020-04-02,Texas,Midland County,Gas Stations,66.0,"",66.0,4
+2020-04-02,Texas,Midland County,Hotel,58.0,"",58.0,5
+2020-04-02,Texas,Midland County,Outdoors & Recreation,62.0,"",62.0,6
+2020-04-02,Texas,Midland County,Office,59.0,"",59.0,7
+2020-04-02,Texas,Midland County,Professional & Other Places,56.0,"",56.0,8
+2020-04-02,Texas,Midland County,Fast Food Restaurants,50.0,"",50.0,9
+2020-04-02,Texas,Brown County,Food,64.0,"",64.0,1
+2020-04-02,Texas,Grayson County,Food,57.0,48.0,58.0,1
+2020-04-02,Texas,Grayson County,Shops & Services,64.0,50.0,65.0,2
+2020-04-02,Texas,Grayson County,Fast Food Restaurants,73.0,"",74.0,3
+2020-04-02,Texas,Grayson County,Gas Stations,80.0,"",80.0,4
+2020-04-02,Texas,Grayson County,Outdoors & Recreation,87.0,"",88.0,5
+2020-04-02,Texas,Grayson County,Big Box Stores,64.0,"",65.0,6
+2020-04-02,Texas,Atascosa County,Food,65.0,"",66.0,1
+2020-04-02,Texas,Atascosa County,Gas Stations,56.0,"",56.0,2
+2020-04-02,Texas,Lubbock County,Food,43.0,37.0,43.0,1
+2020-04-02,Texas,Lubbock County,Shops & Services,43.0,46.0,43.0,2
+2020-04-02,Texas,Lubbock County,Grocery,79.0,82.0,79.0,3
+2020-04-02,Texas,Lubbock County,Fast Food Restaurants,69.0,"",70.0,4
+2020-04-02,Texas,Lubbock County,Medical,46.0,"",46.0,5
+2020-04-02,Texas,Lubbock County,Gas Stations,65.0,"",66.0,6
+2020-04-02,Texas,Lubbock County,Big Box Stores,56.0,"",56.0,7
+2020-04-02,Texas,Lubbock County,Convenience Store,50.0,"",50.0,8
+2020-04-02,Texas,Lubbock County,Outdoors & Recreation,85.0,"",86.0,9
+2020-04-02,Texas,Lubbock County,Drug Store,77.0,"",77.0,10
+2020-04-02,Texas,Lubbock County,School,29.0,"",29.0,11
+2020-04-02,Texas,Lubbock County,Professional & Other Places,56.0,"",57.0,12
+2020-04-02,Texas,Lubbock County,Colleges & Universities,12.0,"",12.0,13
+2020-04-02,Texas,Chambers County,Food,60.0,"",60.0,1
+2020-04-02,Texas,Chambers County,Gas Stations,69.0,"",70.0,2
+2020-04-02,Texas,Gregg County,Food,46.0,37.0,47.0,1
+2020-04-02,Texas,Gregg County,Shops & Services,49.0,40.0,49.0,2
+2020-04-02,Texas,Gregg County,Gas Stations,61.0,"",62.0,3
+2020-04-02,Texas,Gregg County,Big Box Stores,60.0,"",60.0,4
+2020-04-02,Texas,Gregg County,Grocery,94.0,"",93.0,5
+2020-04-02,Texas,Gregg County,Fast Food Restaurants,60.0,"",59.0,6
+2020-04-02,Texas,Gregg County,Medical,44.0,"",45.0,7
+2020-04-02,Texas,Hill County,Food,69.0,"",67.0,1
+2020-04-02,Texas,Lamar County,Food,61.0,"",62.0,1
+2020-04-02,Texas,Val Verde County,Food,69.0,"",70.0,1
+2020-04-02,Texas,Waller County,Gas Stations,62.0,"",63.0,1
+2020-04-02,Texas,Waller County,Food,76.0,"",75.0,2
+2020-04-02,Texas,Kendall County,Food,60.0,"",62.0,1
+2020-04-02,Texas,Kendall County,Grocery,141.0,"",143.0,2
+2020-04-02,Texas,Taylor County,Food,46.0,40.0,46.0,1
+2020-04-02,Texas,Taylor County,Shops & Services,52.0,"",52.0,2
+2020-04-02,Texas,Taylor County,Gas Stations,91.0,"",91.0,3
+2020-04-02,Texas,Taylor County,Convenience Store,85.0,"",85.0,4
+2020-04-02,Texas,Taylor County,Grocery,69.0,"",70.0,5
+2020-04-02,Texas,Taylor County,Fast Food Restaurants,64.0,"",65.0,6
+2020-04-02,Texas,Taylor County,Medical,57.0,"",58.0,7
+2020-04-02,Texas,Taylor County,Big Box Stores,64.0,"",65.0,8
+2020-04-02,Texas,Fort Bend County,Food,42.0,32.0,42.0,1
+2020-04-02,Texas,Fort Bend County,Shops & Services,39.0,37.0,39.0,2
+2020-04-02,Texas,Fort Bend County,Grocery,70.0,66.0,70.0,3
+2020-04-02,Texas,Fort Bend County,Gas Stations,61.0,55.0,61.0,4
+2020-04-02,Texas,Fort Bend County,Residences,65.0,59.0,65.0,5
+2020-04-02,Texas,Fort Bend County,Outdoors & Recreation,73.0,70.0,73.0,6
+2020-04-02,Texas,Fort Bend County,Fast Food Restaurants,60.0,67.0,59.0,7
+2020-04-02,Texas,Fort Bend County,Big Box Stores,66.0,68.0,66.0,8
+2020-04-02,Texas,Fort Bend County,School,23.0,"",22.0,9
+2020-04-02,Texas,Fort Bend County,Professional & Other Places,67.0,"",68.0,10
+2020-04-02,Texas,Fort Bend County,Hardware Stores,105.0,"",106.0,11
+2020-04-02,Texas,Fort Bend County,Drug Store,61.0,67.0,61.0,12
+2020-04-02,Texas,Fort Bend County,Medical,34.0,"",35.0,13
+2020-04-02,Texas,Fort Bend County,Sports,71.0,"",72.0,14
+2020-04-02,Texas,Fort Bend County,Travel & Transport,55.0,"",54.0,15
+2020-04-02,Texas,Fort Bend County,Banks,68.0,"",69.0,16
+2020-04-02,Texas,Fort Bend County,Office,42.0,"",42.0,17
+2020-04-02,Texas,Fort Bend County,Discount Stores,57.0,"",57.0,18
+2020-04-02,Texas,Henderson County,Food,63.0,"",64.0,1
+2020-04-02,Texas,Henderson County,Outdoors & Recreation,98.0,"",98.0,2
+2020-04-02,Texas,Henderson County,Gas Stations,72.0,"",72.0,3
+2020-04-02,Texas,Henderson County,Big Box Stores,73.0,"",72.0,4
+2020-04-02,Texas,Jim Wells County,Food,45.0,"",45.0,1
+2020-04-02,Texas,Montgomery County,Food,44.0,34.0,45.0,1
+2020-04-02,Texas,Montgomery County,Grocery,75.0,55.0,76.0,2
+2020-04-02,Texas,Montgomery County,Shops & Services,41.0,32.0,42.0,3
+2020-04-02,Texas,Montgomery County,Gas Stations,64.0,55.0,64.0,4
+2020-04-02,Texas,Montgomery County,Outdoors & Recreation,77.0,72.0,77.0,5
+2020-04-02,Texas,Montgomery County,Fast Food Restaurants,60.0,57.0,60.0,6
+2020-04-02,Texas,Montgomery County,Residences,73.0,78.0,73.0,7
+2020-04-02,Texas,Montgomery County,Big Box Stores,69.0,54.0,69.0,8
+2020-04-02,Texas,Montgomery County,Medical,43.0,37.0,43.0,9
+2020-04-02,Texas,Montgomery County,Hardware Stores,84.0,73.0,85.0,10
+2020-04-02,Texas,Montgomery County,Convenience Store,68.0,"",69.0,11
+2020-04-02,Texas,Montgomery County,School,24.0,"",24.0,12
+2020-04-02,Texas,Montgomery County,Nightlife Spots,54.0,"",54.0,13
+2020-04-02,Texas,Montgomery County,Sports,65.0,80.0,64.0,14
+2020-04-02,Texas,Montgomery County,Professional & Other Places,64.0,"",65.0,15
+2020-04-02,Texas,Montgomery County,Discount Stores,82.0,"",83.0,16
+2020-04-02,Texas,Montgomery County,Drug Store,56.0,"",57.0,17
+2020-04-02,Texas,Montgomery County,Banks,67.0,"",68.0,18
+2020-04-02,Texas,Montgomery County,Office,39.0,"",39.0,19
+2020-04-02,Texas,Montgomery County,Arts & Entertainment,47.0,"",47.0,20
+2020-04-02,Texas,Navarro County,Gas Stations,68.0,"",69.0,1
+2020-04-02,Texas,Hopkins County,Food,58.0,"",58.0,1
+2020-04-02,Texas,Medina County,Food,60.0,"",60.0,1
+2020-04-02,Texas,Burnet County,Food,45.0,"",46.0,1
+2020-04-02,Texas,Burnet County,Outdoors & Recreation,86.0,"",84.0,2
+2020-04-02,Texas,Burnet County,Shops & Services,75.0,"",77.0,3
+2020-04-02,Texas,Ector County,Food,45.0,"",45.0,1
+2020-04-02,Texas,Ector County,Shops & Services,48.0,"",48.0,2
+2020-04-02,Texas,Ector County,Convenience Store,66.0,"",66.0,3
+2020-04-02,Texas,Ector County,Gas Stations,58.0,"",58.0,4
+2020-04-02,Texas,Ector County,School,41.0,"",41.0,5
+2020-04-02,Texas,Ector County,Grocery,62.0,"",62.0,6
+2020-04-02,Texas,Ector County,Fast Food Restaurants,54.0,"",53.0,7
+2020-04-02,Texas,Ector County,Hardware Stores,71.0,"",71.0,8
+2020-04-02,Texas,Ector County,Medical,45.0,"",45.0,9
+2020-04-02,Texas,Johnson County,Food,56.0,36.0,57.0,1
+2020-04-02,Texas,Johnson County,Grocery,84.0,74.0,85.0,2
+2020-04-02,Texas,Johnson County,Shops & Services,64.0,"",65.0,3
+2020-04-02,Texas,Johnson County,Gas Stations,67.0,"",67.0,4
+2020-04-02,Texas,Johnson County,Big Box Stores,70.0,"",71.0,5
+2020-04-02,Texas,Johnson County,School,32.0,"",32.0,6
+2020-04-02,Texas,Johnson County,Professional & Other Places,65.0,"",64.0,7
+2020-04-02,Texas,Johnson County,Fast Food Restaurants,60.0,"",60.0,8
+2020-04-02,Texas,Johnson County,Outdoors & Recreation,84.0,"",86.0,9
+2020-04-02,Texas,Hood County,Food,42.0,"",44.0,1
+2020-04-02,Texas,Nolan County,Food,77.0,"",77.0,1
+2020-04-02,Texas,Nueces County,Food,49.0,32.0,49.0,1
+2020-04-02,Texas,Nueces County,Shops & Services,46.0,38.0,46.0,2
+2020-04-02,Texas,Nueces County,Grocery,70.0,64.0,70.0,3
+2020-04-02,Texas,Nueces County,Convenience Store,60.0,"",61.0,4
+2020-04-02,Texas,Nueces County,Big Box Stores,75.0,"",75.0,5
+2020-04-02,Texas,Nueces County,Fast Food Restaurants,69.0,"",69.0,6
+2020-04-02,Texas,Nueces County,Medical,45.0,"",45.0,7
+2020-04-02,Texas,Nueces County,Outdoors & Recreation,73.0,"",74.0,8
+2020-04-02,Texas,Nueces County,Professional & Other Places,71.0,"",72.0,9
+2020-04-02,Texas,Nueces County,School,34.0,"",34.0,10
+2020-04-02,Texas,Nueces County,Gas Stations,75.0,"",75.0,11
+2020-04-02,Texas,Nueces County,Nightlife Spots,45.0,"",45.0,12
+2020-04-02,Texas,Nueces County,Hardware Stores,84.0,"",85.0,13
+2020-04-02,Texas,Nueces County,Office,71.0,"",71.0,14
+2020-04-02,Texas,Nueces County,Government,61.0,"",61.0,15
+2020-04-02,Texas,Nueces County,Residences,61.0,"",61.0,16
+2020-04-02,Texas,Nueces County,Hotel,43.0,"",44.0,17
+2020-04-02,Texas,Nueces County,Discount Stores,78.0,"",79.0,18
+2020-04-02,Texas,Nueces County,Beach,67.0,"",69.0,19
+2020-04-02,Texas,Nueces County,Drug Store,72.0,"",72.0,20
+2020-04-02,Texas,Nueces County,Banks,75.0,"",75.0,21
+2020-04-02,Texas,Nueces County,Arts & Entertainment,42.0,"",43.0,22
+2020-04-02,Texas,Nueces County,Travel & Transport,61.0,"",64.0,23
+2020-04-02,Texas,Denton County,Food,43.0,33.0,43.0,1
+2020-04-02,Texas,Denton County,Shops & Services,43.0,36.0,43.0,2
+2020-04-02,Texas,Denton County,Grocery,77.0,76.0,77.0,3
+2020-04-02,Texas,Denton County,Outdoors & Recreation,81.0,81.0,81.0,4
+2020-04-02,Texas,Denton County,Big Box Stores,66.0,41.0,66.0,5
+2020-04-02,Texas,Denton County,Residences,63.0,93.0,62.0,6
+2020-04-02,Texas,Denton County,Fast Food Restaurants,57.0,43.0,57.0,7
+2020-04-02,Texas,Denton County,Gas Stations,62.0,49.0,63.0,8
+2020-04-02,Texas,Denton County,Convenience Store,56.0,"",56.0,9
+2020-04-02,Texas,Denton County,School,26.0,"",26.0,10
+2020-04-02,Texas,Denton County,Professional & Other Places,52.0,"",52.0,11
+2020-04-02,Texas,Denton County,Medical,40.0,33.0,41.0,12
+2020-04-02,Texas,Denton County,Drug Store,78.0,77.0,78.0,13
+2020-04-02,Texas,Denton County,Hardware Stores,86.0,100.0,85.0,14
+2020-04-02,Texas,Denton County,Sports,60.0,"",61.0,15
+2020-04-02,Texas,Denton County,Office,36.0,"",36.0,16
+2020-04-02,Texas,Denton County,Nightlife Spots,46.0,"",46.0,17
+2020-04-02,Texas,Denton County,Arts & Entertainment,39.0,"",39.0,18
+2020-04-02,Texas,Denton County,Fitness Center,25.0,"",25.0,19
+2020-04-02,Texas,Denton County,Colleges & Universities,15.0,"",15.0,20
+2020-04-02,Texas,Denton County,Government,45.0,"",44.0,21
+2020-04-02,Texas,Denton County,Discount Stores,54.0,"",54.0,22
+2020-04-02,Texas,Denton County,Travel & Transport,65.0,"",65.0,23
+2020-04-02,Texas,Denton County,Alcohol,98.0,"",99.0,24
+2020-04-02,Texas,Fayette County,Food,62.0,"",63.0,1
+2020-04-02,Texas,Walker County,Food,52.0,"",51.0,1
+2020-04-02,Texas,Walker County,Gas Stations,72.0,"",73.0,2
+2020-04-02,Texas,Walker County,Shops & Services,66.0,"",66.0,3
+2020-04-02,Texas,Van Zandt County,Food,69.0,"",69.0,1
+2020-04-02,Texas,Dallas County,Food,38.0,30.0,38.0,1
+2020-04-02,Texas,Dallas County,Shops & Services,39.0,36.0,39.0,2
+2020-04-02,Texas,Dallas County,Grocery,64.0,57.0,65.0,3
+2020-04-02,Texas,Dallas County,Fast Food Restaurants,55.0,48.0,55.0,4
+2020-04-02,Texas,Dallas County,Gas Stations,59.0,46.0,59.0,5
+2020-04-02,Texas,Dallas County,Outdoors & Recreation,61.0,59.0,62.0,6
+2020-04-02,Texas,Dallas County,Big Box Stores,58.0,52.0,58.0,7
+2020-04-02,Texas,Dallas County,Convenience Store,54.0,44.0,54.0,8
+2020-04-02,Texas,Dallas County,Office,36.0,34.0,36.0,9
+2020-04-02,Texas,Dallas County,Professional & Other Places,48.0,34.0,48.0,10
+2020-04-02,Texas,Dallas County,Residences,57.0,53.0,57.0,11
+2020-04-02,Texas,Dallas County,School,25.0,31.0,25.0,12
+2020-04-02,Texas,Dallas County,Medical,37.0,24.0,37.0,13
+2020-04-02,Texas,Dallas County,Drug Store,58.0,49.0,58.0,14
+2020-04-02,Texas,Dallas County,Discount Stores,59.0,56.0,59.0,15
+2020-04-02,Texas,Dallas County,Hardware Stores,73.0,61.0,73.0,16
+2020-04-02,Texas,Dallas County,Banks,62.0,66.0,62.0,17
+2020-04-02,Texas,Dallas County,Arts & Entertainment,33.0,"",33.0,18
+2020-04-02,Texas,Dallas County,Government,41.0,"",41.0,19
+2020-04-02,Texas,Dallas County,Nightlife Spots,27.0,"",27.0,20
+2020-04-02,Texas,Dallas County,Hotel,22.0,"",22.0,21
+2020-04-02,Texas,Dallas County,Fitness Center,22.0,20.0,22.0,22
+2020-04-02,Texas,Dallas County,Sports,50.0,44.0,50.0,23
+2020-04-02,Texas,Dallas County,Colleges & Universities,18.0,"",18.0,24
+2020-04-02,Texas,Dallas County,Light Rail Stations,39.0,"",39.0,25
+2020-04-02,Texas,Dallas County,Travel & Transport,47.0,"",47.0,26
+2020-04-02,Texas,Dallas County,Alcohol,82.0,"",82.0,27
+2020-04-02,Texas,Dallas County,Airport,17.0,"",18.0,28
+2020-04-02,Texas,Wharton County,Food,68.0,"",68.0,1
+2020-04-02,Texas,Wharton County,Gas Stations,67.0,"",68.0,2
+2020-04-02,Texas,Harrison County,Food,64.0,"",64.0,1
+2020-04-02,Texas,Nacogdoches County,Food,44.0,"",45.0,1
+2020-04-02,Texas,Williamson County,Food,41.0,34.0,41.0,1
+2020-04-02,Texas,Williamson County,Shops & Services,40.0,39.0,40.0,2
+2020-04-02,Texas,Williamson County,Grocery,67.0,73.0,67.0,3
+2020-04-02,Texas,Williamson County,Outdoors & Recreation,75.0,67.0,75.0,4
+2020-04-02,Texas,Williamson County,Gas Stations,69.0,76.0,68.0,5
+2020-04-02,Texas,Williamson County,Residences,61.0,69.0,61.0,6
+2020-04-02,Texas,Williamson County,Big Box Stores,68.0,56.0,69.0,7
+2020-04-02,Texas,Williamson County,Fast Food Restaurants,56.0,57.0,56.0,8
+2020-04-02,Texas,Williamson County,Medical,39.0,38.0,39.0,9
+2020-04-02,Texas,Williamson County,Convenience Store,67.0,91.0,67.0,10
+2020-04-02,Texas,Williamson County,Hardware Stores,91.0,88.0,92.0,11
+2020-04-02,Texas,Williamson County,School,21.0,"",20.0,12
+2020-04-02,Texas,Williamson County,Drug Store,61.0,"",61.0,13
+2020-04-02,Texas,Williamson County,Sports,56.0,"",56.0,14
+2020-04-02,Texas,Williamson County,Professional & Other Places,53.0,"",54.0,15
+2020-04-02,Texas,Williamson County,Arts & Entertainment,36.0,"",37.0,16
+2020-04-02,Texas,Williamson County,Office,29.0,"",29.0,17
+2020-04-02,Texas,Williamson County,Nightlife Spots,32.0,"",32.0,18
+2020-04-02,Texas,Hunt County,Food,54.0,"",55.0,1
+2020-04-02,Texas,Hunt County,Gas Stations,74.0,"",74.0,2
+2020-04-02,Texas,Hunt County,Big Box Stores,70.0,"",71.0,3
+2020-04-02,Texas,Hunt County,Outdoors & Recreation,66.0,"",67.0,4
+2020-04-02,Texas,Potter County,Food,39.0,"",39.0,1
+2020-04-02,Texas,Potter County,Gas Stations,68.0,"",68.0,2
+2020-04-02,Texas,Potter County,Shops & Services,43.0,"",44.0,3
+2020-04-02,Texas,Potter County,Medical,45.0,"",46.0,4
+2020-04-02,Texas,Potter County,Fast Food Restaurants,64.0,"",64.0,5
+2020-04-02,Texas,Potter County,Big Box Stores,57.0,"",56.0,6
+2020-04-02,Texas,Potter County,Grocery,78.0,"",78.0,7
+2020-04-02,Texas,Potter County,Hotel,48.0,"",47.0,8
+2020-04-02,Texas,Coryell County,Shops & Services,69.0,"",69.0,1
+2020-04-02,Texas,Coryell County,Food,41.0,"",41.0,2
+2020-04-02,Texas,Coryell County,Big Box Stores,71.0,"",71.0,3
+2020-04-02,Texas,Coryell County,Grocery,73.0,"",73.0,4
+2020-04-02,Texas,Hays County,Food,47.0,33.0,48.0,1
+2020-04-02,Texas,Hays County,Shops & Services,44.0,49.0,43.0,2
+2020-04-02,Texas,Hays County,Gas Stations,57.0,"",57.0,3
+2020-04-02,Texas,Hays County,Grocery,67.0,"",68.0,4
+2020-04-02,Texas,Hays County,Outdoors & Recreation,79.0,"",79.0,5
+2020-04-02,Texas,Hays County,Fast Food Restaurants,56.0,"",56.0,6
+2020-04-02,Texas,Hays County,Residences,57.0,"",57.0,7
+2020-04-02,Texas,Hays County,Big Box Stores,64.0,"",65.0,8
+2020-04-02,Texas,Hays County,Medical,54.0,"",54.0,9
+2020-04-02,Texas,Hays County,Professional & Other Places,53.0,"",54.0,10
+2020-04-02,Texas,Hays County,Hardware Stores,90.0,"",88.0,11
+2020-04-02,Texas,Cooke County,Food,52.0,"",53.0,1
+2020-04-02,Texas,Orange County,Food,62.0,"",62.0,1
+2020-04-02,Texas,Orange County,Gas Stations,66.0,"",67.0,2
+2020-04-02,Texas,Orange County,Big Box Stores,66.0,"",66.0,3
+2020-04-02,Texas,Orange County,Shops & Services,75.0,"",75.0,4
+2020-04-02,Texas,Orange County,Fast Food Restaurants,43.0,"",43.0,5
+2020-04-02,Texas,Hardin County,Food,53.0,"",53.0,1
+2020-04-02,Texas,Brazos County,Food,45.0,35.0,46.0,1
+2020-04-02,Texas,Brazos County,Shops & Services,52.0,45.0,52.0,2
+2020-04-02,Texas,Brazos County,Colleges & Universities,16.0,"",16.0,3
+2020-04-02,Texas,Brazos County,Grocery,87.0,"",88.0,4
+2020-04-02,Texas,Brazos County,Gas Stations,56.0,"",57.0,5
+2020-04-02,Texas,Brazos County,Big Box Stores,80.0,"",80.0,6
+2020-04-02,Texas,Brazos County,Fast Food Restaurants,53.0,"",53.0,7
+2020-04-02,Texas,Brazos County,Residences,51.0,"",50.0,8
+2020-04-02,Texas,Brazos County,Outdoors & Recreation,70.0,"",69.0,9
+2020-04-02,Texas,Brazos County,Medical,38.0,"",39.0,10
+2020-04-02,Texas,Brazos County,School,30.0,"",30.0,11
+2020-04-02,Texas,Comal County,Food,43.0,31.0,43.0,1
+2020-04-02,Texas,Comal County,Gas Stations,70.0,"",71.0,2
+2020-04-02,Texas,Comal County,Shops & Services,50.0,"",51.0,3
+2020-04-02,Texas,Comal County,Outdoors & Recreation,65.0,61.0,65.0,4
+2020-04-02,Texas,Comal County,Grocery,75.0,"",75.0,5
+2020-04-02,Texas,Comal County,Fast Food Restaurants,65.0,"",66.0,6
+2020-04-02,Texas,Comal County,Professional & Other Places,67.0,"",68.0,7
+2020-04-02,Texas,Comal County,Big Box Stores,63.0,"",63.0,8
+2020-04-02,Texas,Comal County,Nightlife Spots,47.0,"",47.0,9
+2020-04-02,Texas,Comal County,Convenience Store,71.0,"",72.0,10
+2020-04-02,Texas,Bexar County,Food,41.0,35.0,41.0,1
+2020-04-02,Texas,Bexar County,Shops & Services,40.0,36.0,40.0,2
+2020-04-02,Texas,Bexar County,Grocery,67.0,60.0,67.0,3
+2020-04-02,Texas,Bexar County,Fast Food Restaurants,56.0,54.0,56.0,4
+2020-04-02,Texas,Bexar County,Big Box Stores,73.0,72.0,73.0,5
+2020-04-02,Texas,Bexar County,Gas Stations,60.0,55.0,60.0,6
+2020-04-02,Texas,Bexar County,Medical,40.0,32.0,41.0,7
+2020-04-02,Texas,Bexar County,Residences,63.0,57.0,64.0,8
+2020-04-02,Texas,Bexar County,Convenience Store,62.0,50.0,62.0,9
+2020-04-02,Texas,Bexar County,School,28.0,30.0,28.0,10
+2020-04-02,Texas,Bexar County,Professional & Other Places,37.0,37.0,37.0,11
+2020-04-02,Texas,Bexar County,Outdoors & Recreation,63.0,45.0,64.0,12
+2020-04-02,Texas,Bexar County,Office,40.0,40.0,41.0,13
+2020-04-02,Texas,Bexar County,Hardware Stores,85.0,73.0,85.0,14
+2020-04-02,Texas,Bexar County,Discount Stores,68.0,87.0,68.0,15
+2020-04-02,Texas,Bexar County,Drug Store,67.0,61.0,67.0,16
+2020-04-02,Texas,Bexar County,Nightlife Spots,30.0,42.0,30.0,17
+2020-04-02,Texas,Bexar County,Hotel,25.0,"",26.0,18
+2020-04-02,Texas,Bexar County,Arts & Entertainment,27.0,25.0,27.0,19
+2020-04-02,Texas,Bexar County,Colleges & Universities,17.0,"",16.0,20
+2020-04-02,Texas,Bexar County,Government,37.0,43.0,37.0,21
+2020-04-02,Texas,Bexar County,Fitness Center,23.0,"",23.0,22
+2020-04-02,Texas,Bexar County,Banks,62.0,"",63.0,23
+2020-04-02,Texas,Bexar County,Travel & Transport,53.0,"",54.0,24
+2020-04-02,Texas,Bexar County,Sports,48.0,55.0,48.0,25
+2020-04-02,Texas,Bexar County,Bus,47.0,"",47.0,26
+2020-04-02,Texas,Bexar County,Airport,20.0,"",20.0,27
+2020-04-02,Texas,Bexar County,Alcohol,83.0,"",83.0,28
+2020-04-02,Texas,Caldwell County,Food,61.0,"",61.0,1
+2020-04-02,Texas,Bastrop County,Gas Stations,69.0,"",69.0,1
+2020-04-02,Texas,Bastrop County,Food,50.0,"",50.0,2
+2020-04-02,Texas,Bastrop County,Grocery,84.0,"",86.0,3
+2020-04-02,Texas,Bastrop County,Shops & Services,61.0,"",62.0,4
+2020-04-02,Texas,Ellis County,Food,52.0,48.0,52.0,1
+2020-04-02,Texas,Ellis County,Big Box Stores,73.0,"",73.0,2
+2020-04-02,Texas,Ellis County,Shops & Services,48.0,"",48.0,3
+2020-04-02,Texas,Ellis County,Gas Stations,65.0,"",66.0,4
+2020-04-02,Texas,Ellis County,Fast Food Restaurants,61.0,"",61.0,5
+2020-04-02,Texas,Ellis County,Grocery,81.0,"",81.0,6
+2020-04-02,Texas,Ellis County,Outdoors & Recreation,87.0,"",87.0,7
+2020-04-02,Texas,Ellis County,School,26.0,"",26.0,8
+2020-04-02,Texas,Brazoria County,Food,46.0,37.0,46.0,1
+2020-04-02,Texas,Brazoria County,Shops & Services,49.0,47.0,49.0,2
+2020-04-02,Texas,Brazoria County,Gas Stations,72.0,59.0,72.0,3
+2020-04-02,Texas,Brazoria County,Grocery,76.0,72.0,76.0,4
+2020-04-02,Texas,Brazoria County,Big Box Stores,64.0,"",65.0,5
+2020-04-02,Texas,Brazoria County,Outdoors & Recreation,78.0,"",78.0,6
+2020-04-02,Texas,Brazoria County,Fast Food Restaurants,54.0,"",54.0,7
+2020-04-02,Texas,Brazoria County,Office,61.0,"",61.0,8
+2020-04-02,Texas,Brazoria County,Professional & Other Places,63.0,"",63.0,9
+2020-04-02,Texas,Brazoria County,School,29.0,"",28.0,10
+2020-04-02,Texas,Brazoria County,Hardware Stores,105.0,"",107.0,11
+2020-04-02,Texas,Brazoria County,Residences,88.0,"",88.0,12
+2020-04-02,Texas,Brazoria County,Medical,46.0,"",46.0,13
+2020-04-02,Texas,Brazoria County,Discount Stores,74.0,"",74.0,14
+2020-04-02,Texas,Brazoria County,Drug Store,64.0,"",64.0,15
+2020-04-02,Texas,Brazoria County,Convenience Store,57.0,"",57.0,16
+2020-04-02,Texas,Brazoria County,Nightlife Spots,44.0,"",44.0,17
+2020-04-02,Texas,Wood County,Outdoors & Recreation,95.0,"",95.0,1
+2020-04-02,Texas,Cameron County,Food,28.0,19.0,28.0,1
+2020-04-02,Texas,Cameron County,Shops & Services,30.0,21.0,30.0,2
+2020-04-02,Texas,Cameron County,Convenience Store,43.0,"",43.0,3
+2020-04-02,Texas,Cameron County,Grocery,47.0,"",48.0,4
+2020-04-02,Texas,Cameron County,Big Box Stores,45.0,"",45.0,5
+2020-04-02,Texas,Cameron County,School,28.0,"",28.0,6
+2020-04-02,Texas,Cameron County,Fast Food Restaurants,39.0,"",39.0,7
+2020-04-02,Texas,Cameron County,Outdoors & Recreation,36.0,"",36.0,8
+2020-04-02,Texas,Cameron County,Medical,34.0,"",34.0,9
+2020-04-02,Texas,Cameron County,Discount Stores,46.0,"",46.0,10
+2020-04-02,Texas,Cameron County,Hardware Stores,58.0,"",59.0,11
+2020-04-02,Texas,Cameron County,Gas Stations,47.0,"",47.0,12
+2020-04-02,Texas,Polk County,Food,45.0,"",46.0,1
+2020-04-02,Texas,Smith County,Food,44.0,34.0,44.0,1
+2020-04-02,Texas,Smith County,Shops & Services,46.0,42.0,46.0,2
+2020-04-02,Texas,Smith County,Grocery,80.0,77.0,80.0,3
+2020-04-02,Texas,Smith County,Gas Stations,71.0,67.0,72.0,4
+2020-04-02,Texas,Smith County,Fast Food Restaurants,62.0,"",62.0,5
+2020-04-02,Texas,Smith County,Medical,47.0,42.0,47.0,6
+2020-04-02,Texas,Smith County,Outdoors & Recreation,99.0,"",99.0,7
+2020-04-02,Texas,Smith County,Big Box Stores,50.0,"",50.0,8
+2020-04-02,Texas,Smith County,School,35.0,"",35.0,9
+2020-04-02,Texas,Harris County,Food,40.0,33.0,40.0,1
+2020-04-02,Texas,Harris County,Shops & Services,40.0,37.0,40.0,2
+2020-04-02,Texas,Harris County,Grocery,64.0,59.0,64.0,3
+2020-04-02,Texas,Harris County,Gas Stations,58.0,54.0,58.0,4
+2020-04-02,Texas,Harris County,Fast Food Restaurants,58.0,49.0,58.0,5
+2020-04-02,Texas,Harris County,Outdoors & Recreation,68.0,67.0,68.0,6
+2020-04-02,Texas,Harris County,Residences,62.0,58.0,62.0,7
+2020-04-02,Texas,Harris County,Big Box Stores,62.0,64.0,62.0,8
+2020-04-02,Texas,Harris County,Professional & Other Places,46.0,38.0,47.0,9
+2020-04-02,Texas,Harris County,Medical,35.0,23.0,35.0,10
+2020-04-02,Texas,Harris County,School,25.0,31.0,25.0,11
+2020-04-02,Texas,Harris County,Office,35.0,33.0,35.0,12
+2020-04-02,Texas,Harris County,Drug Store,61.0,63.0,61.0,13
+2020-04-02,Texas,Harris County,Hardware Stores,90.0,75.0,90.0,14
+2020-04-02,Texas,Harris County,Nightlife Spots,33.0,36.0,33.0,15
+2020-04-02,Texas,Harris County,Convenience Store,54.0,44.0,55.0,16
+2020-04-02,Texas,Harris County,Discount Stores,52.0,47.0,52.0,17
+2020-04-02,Texas,Harris County,Banks,55.0,50.0,55.0,18
+2020-04-02,Texas,Harris County,Travel & Transport,45.0,38.0,45.0,19
+2020-04-02,Texas,Harris County,Airport,18.0,10.0,18.0,20
+2020-04-02,Texas,Harris County,Arts & Entertainment,31.0,31.0,31.0,21
+2020-04-02,Texas,Harris County,Government,33.0,32.0,33.0,22
+2020-04-02,Texas,Harris County,Hotel,28.0,21.0,28.0,23
+2020-04-02,Texas,Harris County,Colleges & Universities,17.0,23.0,17.0,24
+2020-04-02,Texas,Harris County,Sports,51.0,68.0,51.0,25
+2020-04-02,Texas,Harris County,Fitness Center,22.0,24.0,22.0,26
+2020-04-02,Texas,Harris County,Alcohol,75.0,75.0,75.0,27
+2020-04-02,Texas,Harris County,Light Rail Stations,34.0,"",34.0,28
+2020-04-02,Texas,Harris County,Bus,33.0,"",33.0,29
+2020-04-02,Texas,Liberty County,Food,58.0,"",59.0,1
+2020-04-02,Texas,Liberty County,Gas Stations,59.0,"",60.0,2
+2020-04-02,Texas,Wise County,Food,70.0,"",70.0,1
+2020-04-02,Texas,Wilson County,Food,63.0,"",64.0,1
+2020-04-02,Texas,Jefferson County,Food,42.0,30.0,43.0,1
+2020-04-02,Texas,Jefferson County,Shops & Services,53.0,43.0,53.0,2
+2020-04-02,Texas,Jefferson County,Gas Stations,61.0,53.0,61.0,3
+2020-04-02,Texas,Jefferson County,Grocery,90.0,80.0,90.0,4
+2020-04-02,Texas,Jefferson County,Fast Food Restaurants,55.0,"",56.0,5
+2020-04-02,Texas,Jefferson County,Professional & Other Places,51.0,"",51.0,6
+2020-04-02,Texas,Jefferson County,Office,56.0,"",57.0,7
+2020-04-02,Texas,Jefferson County,Big Box Stores,61.0,"",61.0,8
+2020-04-02,Texas,Jefferson County,School,42.0,"",42.0,9
+2020-04-02,Texas,Jefferson County,Medical,35.0,"",36.0,10
+2020-04-02,Texas,Jefferson County,Arts & Entertainment,47.0,"",47.0,11
+2020-04-02,Texas,Jefferson County,Hardware Stores,91.0,"",91.0,12
+2020-04-02,Texas,Jefferson County,Drug Store,78.0,"",79.0,13
+2020-04-02,Texas,Jefferson County,Nightlife Spots,62.0,"",61.0,14
+2020-04-02,Texas,Jefferson County,Outdoors & Recreation,90.0,"",90.0,15
+2020-04-02,Texas,Jefferson County,Discount Stores,64.0,"",64.0,16
+2020-04-02,Texas,Jefferson County,Government,54.0,"",54.0,17
+2020-04-02,Texas,Washington County,Food,55.0,"",56.0,1
+2020-04-02,Texas,Parker County,Food,54.0,38.0,55.0,1
+2020-04-02,Texas,Parker County,Shops & Services,66.0,"",67.0,2
+2020-04-02,Texas,Parker County,Grocery,169.0,"",172.0,3
+2020-04-02,Texas,Parker County,Gas Stations,63.0,"",63.0,4
+2020-04-02,Texas,Parker County,Big Box Stores,59.0,"",60.0,5
+2020-04-02,Texas,Parker County,Outdoors & Recreation,69.0,"",70.0,6
+2020-04-02,Texas,Bowie County,Food,55.0,39.0,55.0,1
+2020-04-02,Texas,Bowie County,Shops & Services,62.0,"",62.0,2
+2020-04-02,Texas,Bowie County,Grocery,122.0,"",122.0,3
+2020-04-02,Texas,Bowie County,Gas Stations,65.0,"",65.0,4
+2020-04-02,Texas,Bowie County,Fast Food Restaurants,56.0,"",56.0,5
+2020-04-02,Texas,Tom Green County,Food,36.0,36.0,36.0,1
+2020-04-02,Texas,Tom Green County,Convenience Store,62.0,"",62.0,2
+2020-04-02,Texas,Tom Green County,Grocery,59.0,"",59.0,3
+2020-04-02,Texas,Tom Green County,Shops & Services,42.0,"",42.0,4
+2020-04-02,Texas,Tom Green County,Fast Food Restaurants,55.0,"",56.0,5
+2020-04-02,Texas,Angelina County,Food,47.0,"",47.0,1
+2020-04-02,Texas,Angelina County,Shops & Services,53.0,"",54.0,2
+2020-04-02,Texas,Angelina County,Gas Stations,71.0,"",71.0,3
+2020-04-02,Texas,Guadalupe County,Food,60.0,"",60.0,1
+2020-04-02,Texas,Guadalupe County,Shops & Services,64.0,"",65.0,2
+2020-04-02,Texas,Guadalupe County,Gas Stations,69.0,"",70.0,3
+2020-04-02,Texas,Guadalupe County,Grocery,73.0,"",75.0,4
+2020-04-02,Texas,Guadalupe County,Outdoors & Recreation,89.0,"",89.0,5
+2020-04-02,Texas,Guadalupe County,Fast Food Restaurants,65.0,"",65.0,6
+2020-04-02,Texas,Guadalupe County,Big Box Stores,69.0,"",70.0,7
+2020-04-02,Texas,Guadalupe County,Hardware Stores,106.0,"",108.0,8
+2020-04-02,Texas,Hidalgo County,Food,32.0,24.0,32.0,1
+2020-04-02,Texas,Hidalgo County,Shops & Services,31.0,27.0,31.0,2
+2020-04-02,Texas,Hidalgo County,Grocery,48.0,36.0,48.0,3
+2020-04-02,Texas,Hidalgo County,Convenience Store,44.0,"",44.0,4
+2020-04-02,Texas,Hidalgo County,School,26.0,36.0,26.0,5
+2020-04-02,Texas,Hidalgo County,Big Box Stores,45.0,"",46.0,6
+2020-04-02,Texas,Hidalgo County,Fast Food Restaurants,39.0,"",39.0,7
+2020-04-02,Texas,Hidalgo County,Medical,34.0,"",35.0,8
+2020-04-02,Texas,Hidalgo County,Professional & Other Places,52.0,"",52.0,9
+2020-04-02,Texas,Hidalgo County,Gas Stations,57.0,"",57.0,10
+2020-04-02,Texas,Hidalgo County,Discount Stores,45.0,"",45.0,11
+2020-04-02,Texas,Hidalgo County,Outdoors & Recreation,42.0,"",42.0,12
+2020-04-02,Texas,Hidalgo County,Hardware Stores,62.0,66.0,62.0,13
+2020-04-02,Texas,Hidalgo County,Residences,49.0,"",50.0,14
+2020-04-02,Texas,Hidalgo County,Government,38.0,"",38.0,15
+2020-04-02,Texas,Hidalgo County,Banks,47.0,"",47.0,16
+2020-04-02,Texas,Hidalgo County,Arts & Entertainment,38.0,"",38.0,17
+2020-04-02,Texas,Hidalgo County,Drug Store,36.0,"",36.0,18
+2020-04-02,Texas,Hidalgo County,Office,42.0,"",42.0,19
+2020-04-02,Texas,Hidalgo County,Travel & Transport,35.0,"",35.0,20
+2020-04-02,Texas,Hidalgo County,Sports,49.0,"",51.0,21
+2020-04-02,Texas,San Patricio County,Food,54.0,"",54.0,1
+2020-04-02,Texas,Victoria County,Shops & Services,52.0,"",53.0,1
+2020-04-02,Texas,Victoria County,Food,36.0,"",37.0,2
+2020-04-02,Texas,Victoria County,Gas Stations,62.0,"",62.0,3
+2020-04-02,Texas,Victoria County,Convenience Store,57.0,"",56.0,4
+2020-04-02,Texas,Bell County,Shops & Services,53.0,43.0,53.0,1
+2020-04-02,Texas,Bell County,Food,45.0,34.0,46.0,2
+2020-04-02,Texas,Bell County,Gas Stations,60.0,"",60.0,3
+2020-04-02,Texas,Bell County,Fast Food Restaurants,67.0,"",67.0,4
+2020-04-02,Texas,Bell County,Grocery,75.0,55.0,76.0,5
+2020-04-02,Texas,Bell County,Big Box Stores,66.0,"",67.0,6
+2020-04-02,Texas,Bell County,Convenience Store,65.0,"",66.0,7
+2020-04-02,Texas,Bell County,Medical,39.0,37.0,39.0,8
+2020-04-02,Texas,Bell County,Professional & Other Places,57.0,"",58.0,9
+2020-04-02,Texas,Bell County,Outdoors & Recreation,63.0,"",63.0,10
+2020-04-02,Texas,Bell County,Government,53.0,"",53.0,11
+2020-04-02,Texas,Bell County,Discount Stores,70.0,"",71.0,12
+2020-04-02,Texas,Bell County,Hardware Stores,100.0,"",101.0,13
+2020-04-02,Texas,Bell County,School,24.0,"",24.0,14
+2020-04-02,Texas,Bell County,Office,65.0,"",65.0,15
+2020-04-02,Texas,Bell County,Drug Store,113.0,"",114.0,16
+2020-04-02,Texas,Bell County,Residences,64.0,"",65.0,17
+2020-04-02,Texas,Bell County,Nightlife Spots,45.0,"",45.0,18
+2020-04-02,Texas,Galveston County,Food,48.0,36.0,49.0,1
+2020-04-02,Texas,Galveston County,Shops & Services,55.0,38.0,55.0,2
+2020-04-02,Texas,Galveston County,Grocery,76.0,61.0,77.0,3
+2020-04-02,Texas,Galveston County,Gas Stations,65.0,"",65.0,4
+2020-04-02,Texas,Galveston County,Outdoors & Recreation,63.0,"",63.0,5
+2020-04-02,Texas,Galveston County,Fast Food Restaurants,63.0,"",63.0,6
+2020-04-02,Texas,Galveston County,Big Box Stores,62.0,"",61.0,7
+2020-04-02,Texas,Galveston County,Professional & Other Places,50.0,"",50.0,8
+2020-04-02,Texas,Galveston County,Residences,65.0,"",66.0,9
+2020-04-02,Texas,Galveston County,Drug Store,77.0,"",77.0,10
+2020-04-02,Texas,Galveston County,Nightlife Spots,52.0,"",52.0,11
+2020-04-02,Texas,Galveston County,Medical,40.0,"",40.0,12
+2020-04-02,Texas,Galveston County,Travel & Transport,38.0,"",39.0,13
+2020-04-02,Texas,Galveston County,School,24.0,"",24.0,14
+2020-04-02,Texas,Galveston County,Convenience Store,67.0,"",67.0,15
+2020-04-02,Texas,Galveston County,Arts & Entertainment,47.0,"",47.0,16
+2020-04-02,Texas,Galveston County,Beach,66.0,"",67.0,17
+2020-04-02,Texas,Galveston County,Discount Stores,71.0,"",72.0,18
+2020-04-02,Texas,Galveston County,Hardware Stores,70.0,"",70.0,19
+2020-04-02,Texas,Tarrant County,Food,38.0,28.0,39.0,1
+2020-04-02,Texas,Tarrant County,Shops & Services,40.0,36.0,40.0,2
+2020-04-02,Texas,Tarrant County,Grocery,72.0,66.0,72.0,3
+2020-04-02,Texas,Tarrant County,Fast Food Restaurants,52.0,46.0,52.0,4
+2020-04-02,Texas,Tarrant County,Big Box Stores,62.0,50.0,63.0,5
+2020-04-02,Texas,Tarrant County,Outdoors & Recreation,71.0,68.0,71.0,6
+2020-04-02,Texas,Tarrant County,Convenience Store,58.0,48.0,59.0,7
+2020-04-02,Texas,Tarrant County,Professional & Other Places,48.0,42.0,48.0,8
+2020-04-02,Texas,Tarrant County,Gas Stations,58.0,58.0,58.0,9
+2020-04-02,Texas,Tarrant County,Airport,17.0,12.0,18.0,10
+2020-04-02,Texas,Tarrant County,Medical,38.0,28.0,39.0,11
+2020-04-02,Texas,Tarrant County,School,26.0,29.0,26.0,12
+2020-04-02,Texas,Tarrant County,Residences,64.0,65.0,64.0,13
+2020-04-02,Texas,Tarrant County,Office,45.0,44.0,45.0,14
+2020-04-02,Texas,Tarrant County,Drug Store,68.0,51.0,68.0,15
+2020-04-02,Texas,Tarrant County,Hardware Stores,82.0,69.0,82.0,16
+2020-04-02,Texas,Tarrant County,Nightlife Spots,32.0,37.0,32.0,17
+2020-04-02,Texas,Tarrant County,Discount Stores,56.0,45.0,56.0,18
+2020-04-02,Texas,Tarrant County,Arts & Entertainment,31.0,27.0,31.0,19
+2020-04-02,Texas,Tarrant County,Travel & Transport,37.0,"",37.0,20
+2020-04-02,Texas,Tarrant County,Sports,52.0,57.0,51.0,21
+2020-04-02,Texas,Tarrant County,Hotel,31.0,"",31.0,22
+2020-04-02,Texas,Tarrant County,Banks,60.0,49.0,60.0,23
+2020-04-02,Texas,Tarrant County,Government,38.0,"",38.0,24
+2020-04-02,Texas,Tarrant County,Fitness Center,22.0,"",22.0,25
+2020-04-02,Texas,Tarrant County,Colleges & Universities,14.0,"",14.0,26
+2020-04-02,Texas,Tarrant County,Alcohol,72.0,"",72.0,27
+2020-04-02,Texas,Reeves County,Gas Stations,69.0,"",69.0,1
+2020-04-02,Texas,Reeves County,Food,64.0,"",65.0,2
+2020-04-02,Texas,Kaufman County,Food,64.0,60.0,64.0,1
+2020-04-02,Texas,Kaufman County,Shops & Services,74.0,"",74.0,2
+2020-04-02,Texas,Kaufman County,Gas Stations,66.0,"",66.0,3
+2020-04-02,Texas,Kaufman County,Fast Food Restaurants,55.0,"",55.0,4
+2020-04-02,Texas,Kaufman County,Grocery,79.0,"",78.0,5
+2020-04-02,Texas,Kaufman County,Residences,95.0,"",94.0,6
+2020-04-02,Texas,Kaufman County,Big Box Stores,72.0,"",72.0,7
+2020-04-02,Texas,Kaufman County,School,34.0,"",34.0,8
+2020-04-02,Texas,Kerr County,Food,49.0,43.0,49.0,1
+2020-04-02,Texas,Kleberg County,Food,59.0,"",60.0,1
+2020-04-02,Texas,Anderson County,Food,49.0,"",49.0,1
+2020-04-02,Texas,Rockwall County,Food,60.0,"",61.0,1
+2020-04-02,Texas,Rockwall County,Shops & Services,48.0,"",49.0,2
+2020-04-02,Texas,Rockwall County,Grocery,108.0,"",109.0,3
+2020-04-02,Texas,Rockwall County,Fast Food Restaurants,77.0,"",76.0,4
+2020-04-02,Texas,Rockwall County,Gas Stations,92.0,"",92.0,5
+2020-04-02,Texas,Rockwall County,Big Box Stores,59.0,"",60.0,6
+2020-04-02,Texas,Rockwall County,Outdoors & Recreation,76.0,"",77.0,7
+2020-04-02,Texas,El Paso County,Food,38.0,36.0,38.0,1
+2020-04-02,Texas,El Paso County,Shops & Services,43.0,42.0,43.0,2
+2020-04-02,Texas,El Paso County,Grocery,75.0,76.0,75.0,3
+2020-04-02,Texas,El Paso County,School,30.0,34.0,30.0,4
+2020-04-02,Texas,El Paso County,Fast Food Restaurants,49.0,45.0,49.0,5
+2020-04-02,Texas,El Paso County,Big Box Stores,59.0,47.0,59.0,6
+2020-04-02,Texas,El Paso County,Convenience Store,57.0,"",57.0,7
+2020-04-02,Texas,El Paso County,Medical,39.0,36.0,39.0,8
+2020-04-02,Texas,El Paso County,Outdoors & Recreation,50.0,60.0,49.0,9
+2020-04-02,Texas,El Paso County,Gas Stations,54.0,"",54.0,10
+2020-04-02,Texas,El Paso County,Discount Stores,66.0,"",66.0,11
+2020-04-02,Texas,El Paso County,Government,41.0,"",41.0,12
+2020-04-02,Texas,El Paso County,Professional & Other Places,46.0,"",47.0,13
+2020-04-02,Texas,El Paso County,Nightlife Spots,26.0,"",26.0,14
+2020-04-02,Texas,El Paso County,Drug Store,64.0,"",64.0,15
+2020-04-02,Texas,El Paso County,Hardware Stores,69.0,"",69.0,16
+2020-04-02,Texas,El Paso County,Residences,58.0,"",59.0,17
+2020-04-02,Texas,El Paso County,Arts & Entertainment,36.0,"",36.0,18
+2020-04-02,Texas,El Paso County,Hotel,40.0,"",40.0,19
+2020-04-02,Texas,El Paso County,Office,36.0,"",36.0,20
+2020-04-02,Texas,El Paso County,Colleges & Universities,15.0,"",15.0,21
+2020-04-02,Texas,El Paso County,Travel & Transport,46.0,"",46.0,22
+2020-04-02,Texas,El Paso County,Banks,49.0,"",49.0,23
+2020-04-02,Texas,El Paso County,Fitness Center,21.0,"",21.0,24
+2020-04-02,Texas,Webb County,Food,38.0,"",38.0,1
+2020-04-02,Texas,Webb County,Shops & Services,34.0,"",34.0,2
+2020-04-02,Texas,Webb County,Gas Stations,60.0,"",60.0,3
+2020-04-02,Texas,Webb County,Grocery,54.0,"",54.0,4
+2020-04-02,Texas,Webb County,Convenience Store,58.0,"",58.0,5
+2020-04-02,Texas,Webb County,Big Box Stores,58.0,"",58.0,6
+2020-04-02,Texas,Webb County,Office,56.0,"",56.0,7
+2020-04-02,Texas,Webb County,Fast Food Restaurants,37.0,"",37.0,8
+2020-04-02,Texas,Webb County,School,21.0,"",21.0,9
+2020-04-02,Texas,Webb County,Medical,44.0,"",44.0,10
+2020-04-02,Texas,McLennan County,Food,48.0,29.0,49.0,1
+2020-04-02,Texas,McLennan County,Shops & Services,50.0,37.0,51.0,2
+2020-04-02,Texas,McLennan County,Gas Stations,70.0,"",70.0,3
+2020-04-02,Texas,McLennan County,Grocery,80.0,"",81.0,4
+2020-04-02,Texas,McLennan County,Convenience Store,68.0,"",68.0,5
+2020-04-02,Texas,McLennan County,Fast Food Restaurants,62.0,"",62.0,6
+2020-04-02,Texas,McLennan County,Big Box Stores,62.0,"",63.0,7
+2020-04-02,Texas,McLennan County,Medical,51.0,"",51.0,8
+2020-04-02,Texas,McLennan County,Professional & Other Places,68.0,"",69.0,9
+2020-04-02,Texas,McLennan County,Discount Stores,76.0,"",77.0,10
+2020-04-02,Texas,McLennan County,Outdoors & Recreation,82.0,"",83.0,11
+2020-04-02,Texas,McLennan County,School,28.0,"",28.0,12
+2020-04-02,Texas,McLennan County,Hardware Stores,86.0,"",88.0,13
+2020-04-02,Texas,Travis County,Food,33.0,26.0,33.0,1
+2020-04-02,Texas,Travis County,Shops & Services,38.0,34.0,38.0,2
+2020-04-02,Texas,Travis County,Residences,56.0,59.0,56.0,3
+2020-04-02,Texas,Travis County,Grocery,57.0,56.0,57.0,4
+2020-04-02,Texas,Travis County,Outdoors & Recreation,59.0,55.0,59.0,5
+2020-04-02,Texas,Travis County,Gas Stations,53.0,44.0,53.0,6
+2020-04-02,Texas,Travis County,Professional & Other Places,40.0,40.0,40.0,7
+2020-04-02,Texas,Travis County,Fast Food Restaurants,53.0,"",54.0,8
+2020-04-02,Texas,Travis County,Medical,37.0,29.0,37.0,9
+2020-04-02,Texas,Travis County,Office,29.0,35.0,29.0,10
+2020-04-02,Texas,Travis County,Convenience Store,55.0,"",55.0,11
+2020-04-02,Texas,Travis County,Big Box Stores,63.0,"",63.0,12
+2020-04-02,Texas,Travis County,School,25.0,28.0,25.0,13
+2020-04-02,Texas,Travis County,Hardware Stores,79.0,84.0,79.0,14
+2020-04-02,Texas,Travis County,Nightlife Spots,23.0,"",23.0,15
+2020-04-02,Texas,Travis County,Drug Store,59.0,"",59.0,16
+2020-04-02,Texas,Travis County,Arts & Entertainment,27.0,"",27.0,17
+2020-04-02,Texas,Travis County,Sports,51.0,57.0,51.0,18
+2020-04-02,Texas,Travis County,Fitness Center,25.0,"",25.0,19
+2020-04-02,Texas,Travis County,Government,28.0,"",28.0,20
+2020-04-02,Texas,Travis County,Hotel,16.0,"",16.0,21
+2020-04-02,Texas,Travis County,Colleges & Universities,13.0,"",13.0,22
+2020-04-02,Texas,Travis County,Discount Stores,61.0,"",61.0,23
+2020-04-02,Texas,Travis County,Banks,54.0,"",54.0,24
+2020-04-02,Texas,Travis County,Airport,11.0,"",11.0,25
+2020-04-02,Texas,Travis County,Alcohol,79.0,"",79.0,26
+2020-04-02,Texas,Wichita County,Food,46.0,41.0,46.0,1
+2020-04-02,Texas,Wichita County,Shops & Services,58.0,"",59.0,2
+2020-04-02,Texas,Wichita County,Big Box Stores,66.0,"",66.0,3
+2020-04-02,Texas,Wichita County,Fast Food Restaurants,52.0,"",52.0,4
+2020-04-02,Texas,Wichita County,Professional & Other Places,63.0,"",64.0,5
+2020-04-02,Texas,Wichita County,Grocery,76.0,"",77.0,6
+2020-04-02,Texas,Collin County,Shops & Services,37.0,32.0,37.0,1
+2020-04-02,Texas,Collin County,Food,37.0,27.0,37.0,2
+2020-04-02,Texas,Collin County,Grocery,74.0,61.0,74.0,3
+2020-04-02,Texas,Collin County,Outdoors & Recreation,74.0,70.0,74.0,4
+2020-04-02,Texas,Collin County,Big Box Stores,67.0,54.0,67.0,5
+2020-04-02,Texas,Collin County,Residences,68.0,69.0,68.0,6
+2020-04-02,Texas,Collin County,Medical,41.0,29.0,42.0,7
+2020-04-02,Texas,Collin County,Gas Stations,59.0,52.0,59.0,8
+2020-04-02,Texas,Collin County,Fast Food Restaurants,53.0,39.0,53.0,9
+2020-04-02,Texas,Collin County,School,25.0,28.0,25.0,10
+2020-04-02,Texas,Collin County,Convenience Store,52.0,54.0,51.0,11
+2020-04-02,Texas,Collin County,Drug Store,72.0,77.0,72.0,12
+2020-04-02,Texas,Collin County,Office,27.0,"",27.0,13
+2020-04-02,Texas,Collin County,Hardware Stores,97.0,79.0,98.0,14
+2020-04-02,Texas,Collin County,Professional & Other Places,52.0,55.0,52.0,15
+2020-04-02,Texas,Collin County,Sports,54.0,60.0,53.0,16
+2020-04-02,Texas,Collin County,Arts & Entertainment,39.0,"",39.0,17
+2020-04-02,Texas,Collin County,Fitness Center,21.0,"",22.0,18
+2020-04-02,Texas,Collin County,Banks,52.0,"",51.0,19
+2020-04-02,Texas,Collin County,Nightlife Spots,30.0,"",30.0,20
+2020-04-02,Texas,Collin County,Government,43.0,"",43.0,21
+2020-04-02,Texas,Collin County,Alcohol,74.0,"",75.0,22
+2020-04-02,Texas,Randall County,Shops & Services,70.0,"",71.0,1
+2020-04-02,Texas,Randall County,Food,44.0,"",44.0,2
+2020-04-02,Texas,Randall County,Gas Stations,69.0,"",69.0,3
+2020-04-02,Texas,Randall County,Grocery,78.0,"",78.0,4
+2020-04-02,Texas,Randall County,Fast Food Restaurants,76.0,"",76.0,5
+2020-04-02,Texas,Randall County,Big Box Stores,54.0,"",53.0,6

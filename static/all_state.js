@@ -325,8 +325,8 @@ function showTopVenuesTable() {
           layout: "fitColumns",
           initialSort: [
             { column: "date", dir: "desc" },
-            { column: "rank", dir: "asc" },
             { column: "county", dir: "asc" },
+            { column: "rank", dir: "asc" },
           ],
         });
 
@@ -349,9 +349,9 @@ function redoFilter() {
   if (stateSel.value || locationTypeSel.value) {
     drawChart();
   };
-  if (stateSel.value && locationTypeSel.value) {
-    showTopVenuesTable();
-  }
+  // if (stateSel.value && locationTypeSel.value) {
+  //   showTopVenuesTable();
+  // }
 }
 
 function populateSelect(selectElement, stringList, selected) {

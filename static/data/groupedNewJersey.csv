@@ -11081,3 +11081,280 @@
 2020-04-01,New Jersey,Sussex County,Food,49.0,"",49.0,2
 2020-04-01,New Jersey,Sussex County,Grocery,70.0,"",72.0,3
 2020-04-01,New Jersey,Sussex County,Shops & Services,46.0,"",46.0,4
+2020-04-02,New Jersey,Essex County,Food,34.0,25.0,34.0,1
+2020-04-02,New Jersey,Essex County,Shops & Services,38.0,26.0,38.0,2
+2020-04-02,New Jersey,Essex County,Grocery,65.0,52.0,66.0,3
+2020-04-02,New Jersey,Essex County,Outdoors & Recreation,64.0,40.0,65.0,4
+2020-04-02,New Jersey,Essex County,Medical,34.0,27.0,34.0,5
+2020-04-02,New Jersey,Essex County,Airport,9.0,"",9.0,6
+2020-04-02,New Jersey,Essex County,Professional & Other Places,37.0,"",37.0,7
+2020-04-02,New Jersey,Essex County,Travel & Transport,18.0,"",19.0,8
+2020-04-02,New Jersey,Essex County,School,24.0,"",24.0,9
+2020-04-02,New Jersey,Essex County,Fast Food Restaurants,46.0,"",47.0,10
+2020-04-02,New Jersey,Essex County,Gas Stations,45.0,"",45.0,11
+2020-04-02,New Jersey,Essex County,Drug Store,50.0,"",51.0,12
+2020-04-02,New Jersey,Essex County,Convenience Store,44.0,"",44.0,13
+2020-04-02,New Jersey,Essex County,Residences,55.0,"",56.0,14
+2020-04-02,New Jersey,Essex County,Government,38.0,"",38.0,15
+2020-04-02,New Jersey,Essex County,Nightlife Spots,32.0,"",31.0,16
+2020-04-02,New Jersey,Essex County,Office,27.0,"",27.0,17
+2020-04-02,New Jersey,Essex County,Banks,51.0,"",52.0,18
+2020-04-02,New Jersey,Essex County,Colleges & Universities,16.0,"",16.0,19
+2020-04-02,New Jersey,Essex County,Alcohol,45.0,"",46.0,20
+2020-04-02,New Jersey,Essex County,Bus,49.0,"",49.0,21
+2020-04-02,New Jersey,Essex County,Discount Stores,57.0,"",57.0,22
+2020-04-02,New Jersey,Passaic County,Food,38.0,33.0,38.0,1
+2020-04-02,New Jersey,Passaic County,Shops & Services,33.0,30.0,34.0,2
+2020-04-02,New Jersey,Passaic County,Grocery,65.0,56.0,65.0,3
+2020-04-02,New Jersey,Passaic County,Outdoors & Recreation,79.0,81.0,79.0,4
+2020-04-02,New Jersey,Passaic County,Medical,39.0,"",39.0,5
+2020-04-02,New Jersey,Passaic County,Convenience Store,52.0,"",53.0,6
+2020-04-02,New Jersey,Passaic County,Drug Store,61.0,"",61.0,7
+2020-04-02,New Jersey,Passaic County,Gas Stations,46.0,"",46.0,8
+2020-04-02,New Jersey,Passaic County,Professional & Other Places,43.0,"",44.0,9
+2020-04-02,New Jersey,Passaic County,Hardware Stores,73.0,"",74.0,10
+2020-04-02,New Jersey,Passaic County,Nightlife Spots,38.0,"",37.0,11
+2020-04-02,New Jersey,Passaic County,School,20.0,"",20.0,12
+2020-04-02,New Jersey,Passaic County,Fast Food Restaurants,43.0,"",43.0,13
+2020-04-02,New Jersey,Union County,Food,34.0,33.0,34.0,1
+2020-04-02,New Jersey,Union County,Shops & Services,39.0,36.0,39.0,2
+2020-04-02,New Jersey,Union County,Grocery,70.0,51.0,71.0,3
+2020-04-02,New Jersey,Union County,Outdoors & Recreation,60.0,"",60.0,4
+2020-04-02,New Jersey,Union County,Convenience Store,50.0,"",50.0,5
+2020-04-02,New Jersey,Union County,Professional & Other Places,39.0,"",39.0,6
+2020-04-02,New Jersey,Union County,Airport,16.0,"",16.0,7
+2020-04-02,New Jersey,Union County,Drug Store,62.0,"",62.0,8
+2020-04-02,New Jersey,Union County,Fast Food Restaurants,57.0,"",57.0,9
+2020-04-02,New Jersey,Union County,Medical,29.0,"",29.0,10
+2020-04-02,New Jersey,Union County,School,19.0,"",19.0,11
+2020-04-02,New Jersey,Union County,Gas Stations,40.0,"",41.0,12
+2020-04-02,New Jersey,Union County,Office,36.0,"",36.0,13
+2020-04-02,New Jersey,Union County,Travel & Transport,31.0,"",30.0,14
+2020-04-02,New Jersey,Union County,Big Box Stores,57.0,"",57.0,15
+2020-04-02,New Jersey,Union County,Banks,55.0,"",54.0,16
+2020-04-02,New Jersey,Union County,Nightlife Spots,35.0,"",35.0,17
+2020-04-02,New Jersey,Somerset County,Shops & Services,36.0,32.0,36.0,1
+2020-04-02,New Jersey,Somerset County,Food,25.0,28.0,25.0,2
+2020-04-02,New Jersey,Somerset County,Outdoors & Recreation,65.0,74.0,65.0,3
+2020-04-02,New Jersey,Somerset County,Grocery,64.0,65.0,64.0,4
+2020-04-02,New Jersey,Somerset County,Medical,31.0,"",31.0,5
+2020-04-02,New Jersey,Somerset County,Convenience Store,44.0,"",44.0,6
+2020-04-02,New Jersey,Somerset County,Residences,57.0,"",58.0,7
+2020-04-02,New Jersey,Somerset County,Office,23.0,"",23.0,8
+2020-04-02,New Jersey,Camden County,Shops & Services,43.0,30.0,44.0,1
+2020-04-02,New Jersey,Camden County,Food,40.0,30.0,41.0,2
+2020-04-02,New Jersey,Camden County,Convenience Store,46.0,"",47.0,3
+2020-04-02,New Jersey,Camden County,Grocery,80.0,59.0,81.0,4
+2020-04-02,New Jersey,Camden County,Medical,34.0,"",34.0,5
+2020-04-02,New Jersey,Camden County,Outdoors & Recreation,75.0,"",75.0,6
+2020-04-02,New Jersey,Camden County,Professional & Other Places,56.0,"",57.0,7
+2020-04-02,New Jersey,Camden County,Drug Store,70.0,"",70.0,8
+2020-04-02,New Jersey,Camden County,Fast Food Restaurants,51.0,"",51.0,9
+2020-04-02,New Jersey,Camden County,Big Box Stores,68.0,"",69.0,10
+2020-04-02,New Jersey,Camden County,Nightlife Spots,44.0,"",44.0,11
+2020-04-02,New Jersey,Camden County,Alcohol,92.0,"",92.0,12
+2020-04-02,New Jersey,Camden County,Residences,55.0,"",54.0,13
+2020-04-02,New Jersey,Camden County,School,19.0,"",19.0,14
+2020-04-02,New Jersey,Camden County,Government,47.0,"",46.0,15
+2020-04-02,New Jersey,Camden County,Travel & Transport,33.0,"",33.0,16
+2020-04-02,New Jersey,Camden County,Gas Stations,54.0,"",54.0,17
+2020-04-02,New Jersey,Camden County,Hardware Stores,90.0,"",90.0,18
+2020-04-02,New Jersey,Camden County,Discount Stores,59.0,"",59.0,19
+2020-04-02,New Jersey,Camden County,Banks,50.0,"",50.0,20
+2020-04-02,New Jersey,Camden County,Arts & Entertainment,46.0,"",46.0,21
+2020-04-02,New Jersey,Morris County,Food,29.0,29.0,29.0,1
+2020-04-02,New Jersey,Morris County,Shops & Services,34.0,32.0,34.0,2
+2020-04-02,New Jersey,Morris County,Grocery,60.0,55.0,60.0,3
+2020-04-02,New Jersey,Morris County,Outdoors & Recreation,77.0,70.0,77.0,4
+2020-04-02,New Jersey,Morris County,Medical,30.0,"",31.0,5
+2020-04-02,New Jersey,Morris County,Big Box Stores,61.0,"",61.0,6
+2020-04-02,New Jersey,Morris County,Convenience Store,49.0,"",49.0,7
+2020-04-02,New Jersey,Morris County,Hardware Stores,74.0,"",76.0,8
+2020-04-02,New Jersey,Morris County,Gas Stations,48.0,"",48.0,9
+2020-04-02,New Jersey,Morris County,Professional & Other Places,41.0,"",41.0,10
+2020-04-02,New Jersey,Morris County,Nightlife Spots,36.0,"",36.0,11
+2020-04-02,New Jersey,Morris County,Office,23.0,"",23.0,12
+2020-04-02,New Jersey,Morris County,School,18.0,"",18.0,13
+2020-04-02,New Jersey,Morris County,Drug Store,48.0,"",49.0,14
+2020-04-02,New Jersey,Morris County,Fast Food Restaurants,42.0,"",42.0,15
+2020-04-02,New Jersey,Morris County,Residences,65.0,"",66.0,16
+2020-04-02,New Jersey,Morris County,Alcohol,82.0,"",82.0,17
+2020-04-02,New Jersey,Bergen County,Food,32.0,28.0,32.0,1
+2020-04-02,New Jersey,Bergen County,Shops & Services,31.0,25.0,31.0,2
+2020-04-02,New Jersey,Bergen County,Grocery,67.0,49.0,68.0,3
+2020-04-02,New Jersey,Bergen County,Medical,31.0,23.0,31.0,4
+2020-04-02,New Jersey,Bergen County,Outdoors & Recreation,58.0,48.0,59.0,5
+2020-04-02,New Jersey,Bergen County,Convenience Store,49.0,"",50.0,6
+2020-04-02,New Jersey,Bergen County,Drug Store,58.0,57.0,58.0,7
+2020-04-02,New Jersey,Bergen County,Gas Stations,43.0,"",44.0,8
+2020-04-02,New Jersey,Bergen County,Professional & Other Places,41.0,53.0,41.0,9
+2020-04-02,New Jersey,Bergen County,Banks,58.0,"",58.0,10
+2020-04-02,New Jersey,Bergen County,Fast Food Restaurants,53.0,"",53.0,11
+2020-04-02,New Jersey,Bergen County,School,19.0,"",19.0,12
+2020-04-02,New Jersey,Bergen County,Office,32.0,"",32.0,13
+2020-04-02,New Jersey,Bergen County,Alcohol,66.0,"",66.0,14
+2020-04-02,New Jersey,Bergen County,Residences,51.0,"",51.0,15
+2020-04-02,New Jersey,Bergen County,Hardware Stores,79.0,"",79.0,16
+2020-04-02,New Jersey,Bergen County,Nightlife Spots,35.0,"",35.0,17
+2020-04-02,New Jersey,Bergen County,Government,39.0,"",39.0,18
+2020-04-02,New Jersey,Bergen County,Big Box Stores,44.0,"",44.0,19
+2020-04-02,New Jersey,Bergen County,Fitness Center,14.0,"",14.0,20
+2020-04-02,New Jersey,Bergen County,Sports,41.0,"",41.0,21
+2020-04-02,New Jersey,Bergen County,Arts & Entertainment,33.0,"",33.0,22
+2020-04-02,New Jersey,Hudson County,Food,34.0,30.0,34.0,1
+2020-04-02,New Jersey,Hudson County,Shops & Services,38.0,41.0,38.0,2
+2020-04-02,New Jersey,Hudson County,Grocery,71.0,73.0,71.0,3
+2020-04-02,New Jersey,Hudson County,Outdoors & Recreation,57.0,92.0,57.0,4
+2020-04-02,New Jersey,Hudson County,Residences,42.0,"",42.0,5
+2020-04-02,New Jersey,Hudson County,Professional & Other Places,42.0,"",43.0,6
+2020-04-02,New Jersey,Hudson County,Big Box Stores,56.0,"",57.0,7
+2020-04-02,New Jersey,Hudson County,Drug Store,56.0,"",56.0,8
+2020-04-02,New Jersey,Hudson County,Convenience Store,42.0,"",42.0,9
+2020-04-02,New Jersey,Hudson County,Medical,40.0,"",40.0,10
+2020-04-02,New Jersey,Hudson County,Gas Stations,40.0,"",40.0,11
+2020-04-02,New Jersey,Hudson County,Office,30.0,"",29.0,12
+2020-04-02,New Jersey,Hudson County,Travel & Transport,13.0,"",13.0,13
+2020-04-02,New Jersey,Hudson County,Fast Food Restaurants,39.0,"",39.0,14
+2020-04-02,New Jersey,Hudson County,Nightlife Spots,34.0,"",34.0,15
+2020-04-02,New Jersey,Hudson County,School,26.0,"",26.0,16
+2020-04-02,New Jersey,Hudson County,Government,33.0,"",33.0,17
+2020-04-02,New Jersey,Hudson County,Banks,60.0,"",60.0,18
+2020-04-02,New Jersey,Hudson County,Fitness Center,21.0,"",21.0,19
+2020-04-02,New Jersey,Hudson County,Alcohol,67.0,"",68.0,20
+2020-04-02,New Jersey,Hudson County,Light Rail Stations,33.0,"",33.0,21
+2020-04-02,New Jersey,Warren County,Food,43.0,"",44.0,1
+2020-04-02,New Jersey,Warren County,Shops & Services,58.0,"",57.0,2
+2020-04-02,New Jersey,Warren County,Outdoors & Recreation,96.0,"",96.0,3
+2020-04-02,New Jersey,Warren County,Grocery,81.0,"",83.0,4
+2020-04-02,New Jersey,Warren County,Convenience Store,55.0,"",56.0,5
+2020-04-02,New Jersey,Mercer County,Shops & Services,40.0,34.0,40.0,1
+2020-04-02,New Jersey,Mercer County,Food,37.0,27.0,37.0,2
+2020-04-02,New Jersey,Mercer County,Grocery,66.0,60.0,67.0,3
+2020-04-02,New Jersey,Mercer County,Convenience Store,59.0,"",59.0,4
+2020-04-02,New Jersey,Mercer County,Outdoors & Recreation,72.0,"",73.0,5
+2020-04-02,New Jersey,Mercer County,Medical,37.0,35.0,37.0,6
+2020-04-02,New Jersey,Mercer County,Drug Store,61.0,"",61.0,7
+2020-04-02,New Jersey,Mercer County,Government,32.0,"",32.0,8
+2020-04-02,New Jersey,Mercer County,School,28.0,"",28.0,9
+2020-04-02,New Jersey,Mercer County,Big Box Stores,75.0,"",77.0,10
+2020-04-02,New Jersey,Mercer County,Colleges & Universities,17.0,"",17.0,11
+2020-04-02,New Jersey,Mercer County,Residences,60.0,"",61.0,12
+2020-04-02,New Jersey,Mercer County,Gas Stations,54.0,"",54.0,13
+2020-04-02,New Jersey,Mercer County,Professional & Other Places,51.0,"",52.0,14
+2020-04-02,New Jersey,Mercer County,Office,26.0,"",26.0,15
+2020-04-02,New Jersey,Mercer County,Fast Food Restaurants,41.0,"",41.0,16
+2020-04-02,New Jersey,Mercer County,Hardware Stores,67.0,"",67.0,17
+2020-04-02,New Jersey,Hunterdon County,Food,47.0,47.0,47.0,1
+2020-04-02,New Jersey,Hunterdon County,Outdoors & Recreation,121.0,"",123.0,2
+2020-04-02,New Jersey,Hunterdon County,Shops & Services,58.0,87.0,56.0,3
+2020-04-02,New Jersey,Hunterdon County,Gas Stations,59.0,"",60.0,4
+2020-04-02,New Jersey,Atlantic County,Food,37.0,29.0,38.0,1
+2020-04-02,New Jersey,Atlantic County,Shops & Services,37.0,29.0,38.0,2
+2020-04-02,New Jersey,Atlantic County,Grocery,96.0,84.0,97.0,3
+2020-04-02,New Jersey,Atlantic County,Convenience Store,43.0,"",44.0,4
+2020-04-02,New Jersey,Atlantic County,Big Box Stores,80.0,"",80.0,5
+2020-04-02,New Jersey,Atlantic County,Medical,39.0,"",41.0,6
+2020-04-02,New Jersey,Atlantic County,Professional & Other Places,36.0,"",37.0,7
+2020-04-02,New Jersey,Atlantic County,Outdoors & Recreation,61.0,"",59.0,8
+2020-04-02,New Jersey,Atlantic County,Fast Food Restaurants,64.0,"",65.0,9
+2020-04-02,New Jersey,Atlantic County,Arts & Entertainment,14.0,"",14.0,10
+2020-04-02,New Jersey,Cumberland County,Food,58.0,"",59.0,1
+2020-04-02,New Jersey,Cumberland County,Shops & Services,47.0,"",47.0,2
+2020-04-02,New Jersey,Cumberland County,Convenience Store,56.0,"",57.0,3
+2020-04-02,New Jersey,Cumberland County,Grocery,90.0,"",90.0,4
+2020-04-02,New Jersey,Cumberland County,Big Box Stores,75.0,"",76.0,5
+2020-04-02,New Jersey,Cumberland County,Medical,43.0,"",43.0,6
+2020-04-02,New Jersey,Cape May County,Food,51.0,"",52.0,1
+2020-04-02,New Jersey,Cape May County,Grocery,87.0,"",89.0,2
+2020-04-02,New Jersey,Cape May County,Beach,111.0,"",111.0,3
+2020-04-02,New Jersey,Cape May County,Shops & Services,65.0,"",66.0,4
+2020-04-02,New Jersey,Cape May County,Outdoors & Recreation,89.0,"",92.0,5
+2020-04-02,New Jersey,Gloucester County,Shops & Services,44.0,37.0,45.0,1
+2020-04-02,New Jersey,Gloucester County,Food,44.0,34.0,44.0,2
+2020-04-02,New Jersey,Gloucester County,Grocery,78.0,"",79.0,3
+2020-04-02,New Jersey,Gloucester County,Convenience Store,48.0,"",48.0,4
+2020-04-02,New Jersey,Gloucester County,Big Box Stores,68.0,"",69.0,5
+2020-04-02,New Jersey,Gloucester County,Professional & Other Places,59.0,"",59.0,6
+2020-04-02,New Jersey,Gloucester County,Outdoors & Recreation,72.0,"",72.0,7
+2020-04-02,New Jersey,Gloucester County,Medical,41.0,"",41.0,8
+2020-04-02,New Jersey,Gloucester County,Drug Store,77.0,"",78.0,9
+2020-04-02,New Jersey,Gloucester County,Hardware Stores,107.0,"",108.0,10
+2020-04-02,New Jersey,Gloucester County,Fast Food Restaurants,52.0,"",52.0,11
+2020-04-02,New Jersey,Gloucester County,Nightlife Spots,44.0,"",43.0,12
+2020-04-02,New Jersey,Middlesex County,Food,34.0,29.0,34.0,1
+2020-04-02,New Jersey,Middlesex County,Shops & Services,36.0,33.0,36.0,2
+2020-04-02,New Jersey,Middlesex County,Grocery,66.0,54.0,66.0,3
+2020-04-02,New Jersey,Middlesex County,Professional & Other Places,52.0,57.0,52.0,4
+2020-04-02,New Jersey,Middlesex County,Outdoors & Recreation,76.0,65.0,76.0,5
+2020-04-02,New Jersey,Middlesex County,Convenience Store,50.0,49.0,50.0,6
+2020-04-02,New Jersey,Middlesex County,Office,41.0,"",41.0,7
+2020-04-02,New Jersey,Middlesex County,Medical,32.0,27.0,33.0,8
+2020-04-02,New Jersey,Middlesex County,Big Box Stores,60.0,"",61.0,9
+2020-04-02,New Jersey,Middlesex County,Residences,67.0,"",67.0,10
+2020-04-02,New Jersey,Middlesex County,Gas Stations,47.0,"",47.0,11
+2020-04-02,New Jersey,Middlesex County,Fast Food Restaurants,44.0,"",44.0,12
+2020-04-02,New Jersey,Middlesex County,Drug Store,55.0,"",54.0,13
+2020-04-02,New Jersey,Middlesex County,School,20.0,"",20.0,14
+2020-04-02,New Jersey,Middlesex County,Travel & Transport,29.0,"",29.0,15
+2020-04-02,New Jersey,Middlesex County,Hardware Stores,84.0,"",85.0,16
+2020-04-02,New Jersey,Middlesex County,Nightlife Spots,38.0,"",38.0,17
+2020-04-02,New Jersey,Middlesex County,Colleges & Universities,11.0,"",11.0,18
+2020-04-02,New Jersey,Middlesex County,Banks,56.0,"",55.0,19
+2020-04-02,New Jersey,Middlesex County,Government,39.0,"",38.0,20
+2020-04-02,New Jersey,Middlesex County,Fitness Center,19.0,"",19.0,21
+2020-04-02,New Jersey,Ocean County,Food,40.0,32.0,40.0,1
+2020-04-02,New Jersey,Ocean County,Shops & Services,42.0,32.0,43.0,2
+2020-04-02,New Jersey,Ocean County,Convenience Store,51.0,41.0,52.0,3
+2020-04-02,New Jersey,Ocean County,Grocery,70.0,59.0,71.0,4
+2020-04-02,New Jersey,Ocean County,Outdoors & Recreation,68.0,56.0,69.0,5
+2020-04-02,New Jersey,Ocean County,Medical,34.0,26.0,35.0,6
+2020-04-02,New Jersey,Ocean County,Beach,100.0,91.0,101.0,7
+2020-04-02,New Jersey,Ocean County,Professional & Other Places,55.0,"",56.0,8
+2020-04-02,New Jersey,Ocean County,Big Box Stores,52.0,"",53.0,9
+2020-04-02,New Jersey,Ocean County,Drug Store,63.0,63.0,63.0,10
+2020-04-02,New Jersey,Ocean County,Nightlife Spots,42.0,"",42.0,11
+2020-04-02,New Jersey,Ocean County,Fast Food Restaurants,52.0,"",52.0,12
+2020-04-02,New Jersey,Ocean County,Hardware Stores,85.0,"",86.0,13
+2020-04-02,New Jersey,Ocean County,Residences,56.0,"",55.0,14
+2020-04-02,New Jersey,Ocean County,Banks,74.0,"",74.0,15
+2020-04-02,New Jersey,Monmouth County,Food,37.0,30.0,38.0,1
+2020-04-02,New Jersey,Monmouth County,Shops & Services,36.0,35.0,36.0,2
+2020-04-02,New Jersey,Monmouth County,Grocery,71.0,59.0,72.0,3
+2020-04-02,New Jersey,Monmouth County,Outdoors & Recreation,89.0,78.0,89.0,4
+2020-04-02,New Jersey,Monmouth County,Medical,39.0,23.0,40.0,5
+2020-04-02,New Jersey,Monmouth County,Convenience Store,52.0,59.0,52.0,6
+2020-04-02,New Jersey,Monmouth County,Drug Store,70.0,"",71.0,7
+2020-04-02,New Jersey,Monmouth County,Professional & Other Places,56.0,52.0,56.0,8
+2020-04-02,New Jersey,Monmouth County,Hardware Stores,87.0,69.0,88.0,9
+2020-04-02,New Jersey,Monmouth County,Beach,101.0,133.0,98.0,10
+2020-04-02,New Jersey,Monmouth County,Residences,66.0,"",67.0,11
+2020-04-02,New Jersey,Monmouth County,Nightlife Spots,43.0,"",44.0,12
+2020-04-02,New Jersey,Monmouth County,Fast Food Restaurants,52.0,"",52.0,13
+2020-04-02,New Jersey,Monmouth County,Big Box Stores,68.0,"",68.0,14
+2020-04-02,New Jersey,Monmouth County,Banks,66.0,"",66.0,15
+2020-04-02,New Jersey,Monmouth County,School,18.0,"",18.0,16
+2020-04-02,New Jersey,Monmouth County,Gas Stations,54.0,"",53.0,17
+2020-04-02,New Jersey,Monmouth County,Arts & Entertainment,43.0,"",42.0,18
+2020-04-02,New Jersey,Monmouth County,Sports,64.0,"",66.0,19
+2020-04-02,New Jersey,Burlington County,Shops & Services,39.0,33.0,39.0,1
+2020-04-02,New Jersey,Burlington County,Food,42.0,29.0,43.0,2
+2020-04-02,New Jersey,Burlington County,Grocery,83.0,71.0,84.0,3
+2020-04-02,New Jersey,Burlington County,Convenience Store,45.0,"",46.0,4
+2020-04-02,New Jersey,Burlington County,Professional & Other Places,47.0,"",47.0,5
+2020-04-02,New Jersey,Burlington County,Outdoors & Recreation,75.0,94.0,75.0,6
+2020-04-02,New Jersey,Burlington County,Medical,38.0,"",38.0,7
+2020-04-02,New Jersey,Burlington County,Big Box Stores,68.0,"",69.0,8
+2020-04-02,New Jersey,Burlington County,Fast Food Restaurants,48.0,"",48.0,9
+2020-04-02,New Jersey,Burlington County,Residences,65.0,"",66.0,10
+2020-04-02,New Jersey,Burlington County,Nightlife Spots,46.0,"",46.0,11
+2020-04-02,New Jersey,Burlington County,Drug Store,55.0,"",55.0,12
+2020-04-02,New Jersey,Burlington County,Hardware Stores,111.0,"",113.0,13
+2020-04-02,New Jersey,Burlington County,Office,33.0,"",33.0,14
+2020-04-02,New Jersey,Burlington County,Gas Stations,45.0,"",45.0,15
+2020-04-02,New Jersey,Burlington County,School,21.0,"",21.0,16
+2020-04-02,New Jersey,Burlington County,Government,38.0,"",38.0,17
+2020-04-02,New Jersey,Burlington County,Banks,60.0,"",59.0,18
+2020-04-02,New Jersey,Sussex County,Outdoors & Recreation,93.0,85.0,93.0,1
+2020-04-02,New Jersey,Sussex County,Food,47.0,46.0,47.0,2
+2020-04-02,New Jersey,Sussex County,Grocery,67.0,"",68.0,3
+2020-04-02,New Jersey,Sussex County,Shops & Services,64.0,"",64.0,4

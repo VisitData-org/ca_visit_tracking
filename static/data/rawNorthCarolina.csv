@@ -12832,3 +12832,235 @@
 2020-04-01,North Carolina,Iredell County,52f2ab2ebcbc57f1066b8b46,Supermarkets,81.0,"",82.0,4
 2020-04-01,North Carolina,Iredell County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,66.0,"",67.0,5
 2020-04-01,North Carolina,Iredell County,4bf58dd8d48988d124951735,Automotive Shops,83.0,"",84.0,6
+2020-04-02,North Carolina,Burke County,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,"",94.0,1
+2020-04-02,North Carolina,Henderson County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",111.0,1
+2020-04-02,North Carolina,Cabarrus County,4bf58dd8d48988d16e941735,Fast Food Restaurants,58.0,"",58.0,1
+2020-04-02,North Carolina,Cabarrus County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,"",76.0,2
+2020-04-02,North Carolina,Cabarrus County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,3
+2020-04-02,North Carolina,Cabarrus County,4d954b0ea243a5684a65b473,Convenience Stores,67.0,"",67.0,4
+2020-04-02,North Carolina,Cabarrus County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,52.0,"",52.0,5
+2020-04-02,North Carolina,Cabarrus County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",73.0,6
+2020-04-02,North Carolina,Cabarrus County,4bf58dd8d48988d112951735,Hardware Stores,106.0,"",107.0,7
+2020-04-02,North Carolina,Cabarrus County,4bf58dd8d48988d10f951735,Pharmacies,128.0,"",129.0,8
+2020-04-02,North Carolina,Cleveland County,4bf58dd8d48988d113951735,Gas Stations,94.0,"",93.0,1
+2020-04-02,North Carolina,Cleveland County,4bf58dd8d48988d16e941735,Fast Food Restaurants,69.0,"",71.0,2
+2020-04-02,North Carolina,Cleveland County,4bf58dd8d48988d118951735,Grocery Stores,86.0,"",86.0,3
+2020-04-02,North Carolina,Mecklenburg County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,60.0,67.0,1
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d16e941735,Fast Food Restaurants,45.0,39.0,46.0,2
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d124941735,Offices,39.0,45.0,39.0,3
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d113951735,Gas Stations,62.0,53.0,62.0,4
+2020-04-02,North Carolina,Mecklenburg County,4d954b0ea243a5684a65b473,Convenience Stores,56.0,"",56.0,5
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d118951735,Grocery Stores,60.0,57.0,60.0,6
+2020-04-02,North Carolina,Mecklenburg County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),58.0,"",58.0,7
+2020-04-02,North Carolina,Mecklenburg County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,"",62.0,8
+2020-04-02,North Carolina,Mecklenburg County,4f2a210c4b9023bd5841ed28,Housing Developments,74.0,"",75.0,9
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d112951735,Hardware Stores,88.0,"",89.0,10
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d124951735,Automotive Shops,70.0,"",71.0,11
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d10f951735,Pharmacies,69.0,"",69.0,12
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d163941735,Parks,85.0,"",85.0,13
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1ed931735,Airports,17.0,"",17.0,14
+2020-04-02,North Carolina,Mecklenburg County,52dea92d3cf9994f4e043dbb,Discount Stores,62.0,"",63.0,15
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1fa931735,Hotels,20.0,"",20.0,16
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d14e941735,American Restaurants,29.0,"",29.0,17
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1fd941735,Shopping Malls,27.0,"",27.0,18
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1eb931735,Airport Terminals,15.0,"",15.0,19
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d10a951735,Banks,62.0,"",63.0,20
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d177941735,Doctor's Offices,35.0,"",36.0,21
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d172941735,Post Offices,78.0,"",79.0,22
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1ff941735,Miscellaneous Shops,61.0,"",62.0,23
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1ca941735,Pizza Places,41.0,"",41.0,24
+2020-04-02,North Carolina,Mecklenburg County,52e816a6bcbc57f1066b7a54,Warehouse Stores,94.0,"",100.0,25
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1e0931735,Coffee Shops,31.0,"",31.0,26
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1e6941735,Golf Courses,80.0,"",82.0,27
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",45.0,28
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1c1941735,Mexican Restaurants,37.0,"",37.0,29
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1f0931735,Airport Gates,16.0,"",17.0,30
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d1c5941735,Sandwich Places,40.0,"",40.0,31
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d15e941735,Pools,56.0,"",56.0,32
+2020-04-02,North Carolina,Mecklenburg County,4f4533804b9074f6e4fb0105,Elementary Schools,32.0,"",31.0,33
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d110951735,Salons / Barbershops,39.0,"",39.0,34
+2020-04-02,North Carolina,Mecklenburg County,4bf58dd8d48988d196941735,Hospitals,33.0,"",34.0,35
+2020-04-02,North Carolina,Mecklenburg County,4c38df4de52ce0d596b336e1,Parking,30.0,"",30.0,36
+2020-04-02,North Carolina,Buncombe County,4bf58dd8d48988d113951735,Gas Stations,61.0,53.0,62.0,1
+2020-04-02,North Carolina,Buncombe County,4bf58dd8d48988d118951735,Grocery Stores,100.0,90.0,101.0,2
+2020-04-02,North Carolina,Buncombe County,52f2ab2ebcbc57f1066b8b46,Supermarkets,55.0,48.0,56.0,3
+2020-04-02,North Carolina,Buncombe County,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,"",57.0,4
+2020-04-02,North Carolina,Buncombe County,4bf58dd8d48988d112951735,Hardware Stores,101.0,"",103.0,5
+2020-04-02,North Carolina,Buncombe County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,54.0,"",55.0,6
+2020-04-02,North Carolina,Davidson County,4bf58dd8d48988d113951735,Gas Stations,61.0,"",61.0,1
+2020-04-02,North Carolina,Davidson County,4bf58dd8d48988d118951735,Grocery Stores,169.0,"",172.0,2
+2020-04-02,North Carolina,Davidson County,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,"",69.0,3
+2020-04-02,North Carolina,Davidson County,4bf58dd8d48988d16e941735,Fast Food Restaurants,67.0,"",68.0,4
+2020-04-02,North Carolina,Davidson County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",62.0,5
+2020-04-02,North Carolina,Pitt County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,1
+2020-04-02,North Carolina,Pitt County,4bf58dd8d48988d16e941735,Fast Food Restaurants,43.0,"",43.0,2
+2020-04-02,North Carolina,Pitt County,52f2ab2ebcbc57f1066b8b46,Supermarkets,63.0,"",64.0,3
+2020-04-02,North Carolina,Pitt County,4bf58dd8d48988d118951735,Grocery Stores,64.0,"",63.0,4
+2020-04-02,North Carolina,Surry County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",74.0,1
+2020-04-02,North Carolina,Surry County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,"",68.0,2
+2020-04-02,North Carolina,Harnett County,4bf58dd8d48988d113951735,Gas Stations,73.0,"",73.0,1
+2020-04-02,North Carolina,Harnett County,52f2ab2ebcbc57f1066b8b46,Supermarkets,64.0,"",65.0,2
+2020-04-02,North Carolina,Harnett County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",52.0,3
+2020-04-02,North Carolina,Moore County,4bf58dd8d48988d1e6941735,Golf Courses,93.0,98.0,92.0,1
+2020-04-02,North Carolina,Caldwell County,4bf58dd8d48988d118951735,Grocery Stores,124.0,"",123.0,1
+2020-04-02,North Carolina,Caldwell County,4bf58dd8d48988d113951735,Gas Stations,81.0,"",82.0,2
+2020-04-02,North Carolina,Wilson County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",75.0,1
+2020-04-02,North Carolina,Wilson County,4bf58dd8d48988d16e941735,Fast Food Restaurants,70.0,"",70.0,2
+2020-04-02,North Carolina,Gaston County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",66.0,1
+2020-04-02,North Carolina,Gaston County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",53.0,2
+2020-04-02,North Carolina,Gaston County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,3
+2020-04-02,North Carolina,Gaston County,52f2ab2ebcbc57f1066b8b46,Supermarkets,76.0,"",76.0,4
+2020-04-02,North Carolina,Gaston County,4bf58dd8d48988d118951735,Grocery Stores,86.0,"",85.0,5
+2020-04-02,North Carolina,Gaston County,4d954b0ea243a5684a65b473,Convenience Stores,68.0,"",68.0,6
+2020-04-02,North Carolina,Wayne County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,1
+2020-04-02,North Carolina,Wayne County,4bf58dd8d48988d16e941735,Fast Food Restaurants,70.0,"",71.0,2
+2020-04-02,North Carolina,Wayne County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",73.0,3
+2020-04-02,North Carolina,Wayne County,52f2ab2ebcbc57f1066b8b46,Supermarkets,87.0,"",87.0,4
+2020-04-02,North Carolina,Rockingham County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",84.0,1
+2020-04-02,North Carolina,Rockingham County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,2
+2020-04-02,North Carolina,Lincoln County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,80.0,"",80.0,1
+2020-04-02,North Carolina,Alamance County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",67.0,1
+2020-04-02,North Carolina,Alamance County,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,"",55.0,2
+2020-04-02,North Carolina,Alamance County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,3
+2020-04-02,North Carolina,Alamance County,52f2ab2ebcbc57f1066b8b46,Supermarkets,65.0,"",65.0,4
+2020-04-02,North Carolina,Alamance County,52dea92d3cf9994f4e043dbb,Discount Stores,77.0,"",77.0,5
+2020-04-02,North Carolina,Onslow County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",53.0,1
+2020-04-02,North Carolina,Onslow County,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,"",69.0,2
+2020-04-02,North Carolina,Onslow County,4bf58dd8d48988d113951735,Gas Stations,49.0,"",49.0,3
+2020-04-02,North Carolina,Onslow County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,59.0,"",60.0,4
+2020-04-02,North Carolina,Union County,4bf58dd8d48988d113951735,Gas Stations,73.0,"",74.0,1
+2020-04-02,North Carolina,Union County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,2
+2020-04-02,North Carolina,Union County,4bf58dd8d48988d118951735,Grocery Stores,73.0,"",73.0,3
+2020-04-02,North Carolina,Union County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,4
+2020-04-02,North Carolina,Union County,52f2ab2ebcbc57f1066b8b46,Supermarkets,59.0,"",59.0,5
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d113951735,Gas Stations,65.0,50.0,66.0,1
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d16e941735,Fast Food Restaurants,50.0,45.0,50.0,2
+2020-04-02,North Carolina,Guilford County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,67.0,72.0,3
+2020-04-02,North Carolina,Guilford County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,60.0,58.0,60.0,4
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d118951735,Grocery Stores,68.0,63.0,68.0,5
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d112951735,Hardware Stores,106.0,83.0,107.0,6
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d124941735,Offices,41.0,"",41.0,7
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d10f951735,Pharmacies,74.0,71.0,74.0,8
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d124951735,Automotive Shops,63.0,"",63.0,9
+2020-04-02,North Carolina,Guilford County,4f2a210c4b9023bd5841ed28,Housing Developments,111.0,"",113.0,10
+2020-04-02,North Carolina,Guilford County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),67.0,"",67.0,11
+2020-04-02,North Carolina,Guilford County,52dea92d3cf9994f4e043dbb,Discount Stores,63.0,"",63.0,12
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d163941735,Parks,97.0,"",98.0,13
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d172941735,Post Offices,68.0,"",68.0,14
+2020-04-02,North Carolina,Guilford County,52e816a6bcbc57f1066b7a54,Warehouse Stores,120.0,"",122.0,15
+2020-04-02,North Carolina,Guilford County,4d954b0ea243a5684a65b473,Convenience Stores,63.0,"",63.0,16
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d177941735,Doctor's Offices,43.0,"",43.0,17
+2020-04-02,North Carolina,Guilford County,4f4533804b9074f6e4fb0105,Elementary Schools,37.0,"",36.0,18
+2020-04-02,North Carolina,Guilford County,4bf58dd8d48988d126941735,Government Buildings,64.0,"",64.0,19
+2020-04-02,North Carolina,Orange County,4bf58dd8d48988d113951735,Gas Stations,69.0,"",69.0,1
+2020-04-02,North Carolina,Iredell County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,1
+2020-04-02,North Carolina,Iredell County,4bf58dd8d48988d16e941735,Fast Food Restaurants,53.0,"",54.0,2
+2020-04-02,North Carolina,Iredell County,52f2ab2ebcbc57f1066b8b46,Supermarkets,69.0,"",69.0,3
+2020-04-02,North Carolina,Iredell County,4bf58dd8d48988d118951735,Grocery Stores,72.0,"",72.0,4
+2020-04-02,North Carolina,Iredell County,4bf58dd8d48988d112951735,Hardware Stores,111.0,"",112.0,5
+2020-04-02,North Carolina,Iredell County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,59.0,"",59.0,6
+2020-04-02,North Carolina,Durham County,52f2ab2ebcbc57f1066b8b46,Supermarkets,62.0,61.0,62.0,1
+2020-04-02,North Carolina,Durham County,4bf58dd8d48988d113951735,Gas Stations,56.0,"",56.0,2
+2020-04-02,North Carolina,Durham County,4bf58dd8d48988d16e941735,Fast Food Restaurants,48.0,"",48.0,3
+2020-04-02,North Carolina,Durham County,4bf58dd8d48988d124941735,Offices,28.0,"",28.0,4
+2020-04-02,North Carolina,Durham County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),62.0,"",62.0,5
+2020-04-02,North Carolina,Durham County,4f2a210c4b9023bd5841ed28,Housing Developments,79.0,"",79.0,6
+2020-04-02,North Carolina,Durham County,4bf58dd8d48988d112951735,Hardware Stores,96.0,"",98.0,7
+2020-04-02,North Carolina,Durham County,4d954b0ea243a5684a65b473,Convenience Stores,54.0,"",54.0,8
+2020-04-02,North Carolina,Durham County,4bf58dd8d48988d104941735,Medical Centers,36.0,"",37.0,9
+2020-04-02,North Carolina,Durham County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,52.0,"",52.0,10
+2020-04-02,North Carolina,Craven County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",66.0,1
+2020-04-02,North Carolina,Craven County,4bf58dd8d48988d16e941735,Fast Food Restaurants,58.0,"",59.0,2
+2020-04-02,North Carolina,Robeson County,4bf58dd8d48988d113951735,Gas Stations,67.0,"",68.0,1
+2020-04-02,North Carolina,McDowell County,4bf58dd8d48988d113951735,Gas Stations,80.0,"",81.0,1
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d113951735,Gas Stations,66.0,65.0,66.0,1
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,59.0,59.0,2
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d118951735,Grocery Stores,83.0,57.0,84.0,3
+2020-04-02,North Carolina,Forsyth County,52f2ab2ebcbc57f1066b8b46,Supermarkets,76.0,75.0,76.0,4
+2020-04-02,North Carolina,Forsyth County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",65.0,5
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d124951735,Automotive Shops,86.0,"",87.0,6
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d124941735,Offices,58.0,"",58.0,7
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d112951735,Hardware Stores,99.0,91.0,100.0,8
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d10f951735,Pharmacies,83.0,"",84.0,9
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d177941735,Doctor's Offices,41.0,"",41.0,10
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d163941735,Parks,110.0,"",111.0,11
+2020-04-02,North Carolina,Forsyth County,4f4533804b9074f6e4fb0105,Elementary Schools,45.0,"",45.0,12
+2020-04-02,North Carolina,Forsyth County,52dea92d3cf9994f4e043dbb,Discount Stores,72.0,"",73.0,13
+2020-04-02,North Carolina,Forsyth County,4bf58dd8d48988d196941735,Hospitals,27.0,"",27.0,14
+2020-04-02,North Carolina,Nash County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,1
+2020-04-02,North Carolina,Nash County,4bf58dd8d48988d16e941735,Fast Food Restaurants,63.0,"",63.0,2
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d16e941735,Fast Food Restaurants,64.0,60.0,64.0,1
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d113951735,Gas Stations,61.0,58.0,61.0,2
+2020-04-02,North Carolina,Cumberland County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",65.0,3
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d118951735,Grocery Stores,68.0,62.0,68.0,4
+2020-04-02,North Carolina,Cumberland County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,68.0,72.0,5
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d112951735,Hardware Stores,119.0,"",122.0,6
+2020-04-02,North Carolina,Cumberland County,4f2a210c4b9023bd5841ed28,Housing Developments,75.0,"",74.0,7
+2020-04-02,North Carolina,Cumberland County,4d954b0ea243a5684a65b473,Convenience Stores,69.0,"",70.0,8
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d124951735,Automotive Shops,69.0,"",68.0,9
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d126941735,Government Buildings,31.0,"",31.0,10
+2020-04-02,North Carolina,Cumberland County,52dea92d3cf9994f4e043dbb,Discount Stores,62.0,"",60.0,11
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d177941735,Doctor's Offices,43.0,"",44.0,12
+2020-04-02,North Carolina,Cumberland County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),62.0,"",61.0,13
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d104941735,Medical Centers,45.0,"",45.0,14
+2020-04-02,North Carolina,Cumberland County,4bf58dd8d48988d196941735,Hospitals,50.0,"",50.0,15
+2020-04-02,North Carolina,New Hanover County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,"",63.0,1
+2020-04-02,North Carolina,New Hanover County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,2
+2020-04-02,North Carolina,New Hanover County,52f2ab2ebcbc57f1066b8b46,Supermarkets,55.0,58.0,54.0,3
+2020-04-02,North Carolina,New Hanover County,4bf58dd8d48988d10f951735,Pharmacies,58.0,"",59.0,4
+2020-04-02,North Carolina,New Hanover County,4bf58dd8d48988d118951735,Grocery Stores,93.0,"",96.0,5
+2020-04-02,North Carolina,New Hanover County,4bf58dd8d48988d16e941735,Fast Food Restaurants,43.0,"",43.0,6
+2020-04-02,North Carolina,New Hanover County,4bf58dd8d48988d112951735,Hardware Stores,69.0,79.0,69.0,7
+2020-04-02,North Carolina,Randolph County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",65.0,1
+2020-04-02,North Carolina,Brunswick County,52f2ab2ebcbc57f1066b8b46,Supermarkets,83.0,62.0,87.0,1
+2020-04-02,North Carolina,Brunswick County,4bf58dd8d48988d1e6941735,Golf Courses,83.0,99.0,80.0,2
+2020-04-02,North Carolina,Brunswick County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,56.0,55.0,56.0,3
+2020-04-02,North Carolina,Brunswick County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",68.0,4
+2020-04-02,North Carolina,Wake County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,70.0,66.0,1
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d16e941735,Fast Food Restaurants,55.0,48.0,56.0,2
+2020-04-02,North Carolina,Wake County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,64.0,65.0,3
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d113951735,Gas Stations,59.0,50.0,59.0,4
+2020-04-02,North Carolina,Wake County,4f2a210c4b9023bd5841ed28,Housing Developments,88.0,96.0,87.0,5
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d112951735,Hardware Stores,103.0,75.0,104.0,6
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d118951735,Grocery Stores,60.0,45.0,60.0,7
+2020-04-02,North Carolina,Wake County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),62.0,84.0,61.0,8
+2020-04-02,North Carolina,Wake County,4d954b0ea243a5684a65b473,Convenience Stores,58.0,68.0,57.0,9
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d163941735,Parks,109.0,101.0,109.0,10
+2020-04-02,North Carolina,Wake County,5744ccdfe4b0c0459246b4dc,Shopping Plazas,45.0,51.0,45.0,11
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d10f951735,Pharmacies,60.0,52.0,61.0,12
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d124951735,Automotive Shops,69.0,68.0,69.0,13
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d124941735,Offices,27.0,"",27.0,14
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d177941735,Doctor's Offices,41.0,"",42.0,15
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1fd941735,Shopping Malls,30.0,"",30.0,16
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d159941735,Trails,128.0,"",129.0,17
+2020-04-02,North Carolina,Wake County,52e816a6bcbc57f1066b7a54,Warehouse Stores,85.0,58.0,87.0,18
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1e0931735,Coffee Shops,43.0,"",42.0,19
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d15e941735,Pools,71.0,"",70.0,20
+2020-04-02,North Carolina,Wake County,4f4533804b9074f6e4fb0105,Elementary Schools,30.0,"",29.0,21
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d10a951735,Banks,57.0,"",57.0,22
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1e6941735,Golf Courses,144.0,"",144.0,23
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1c1941735,Mexican Restaurants,38.0,"",38.0,24
+2020-04-02,North Carolina,Wake County,52dea92d3cf9994f4e043dbb,Discount Stores,57.0,"",58.0,25
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d110951735,Salons / Barbershops,45.0,"",46.0,26
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d172941735,Post Offices,71.0,"",70.0,27
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1c5941735,Sandwich Places,53.0,"",52.0,28
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d178941735,Dentist's Offices,41.0,"",41.0,29
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d126941735,Government Buildings,39.0,"",39.0,30
+2020-04-02,North Carolina,Wake County,4eb1c1623b7b52c0e1adc2ec,Auto Dealerships,49.0,"",50.0,31
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d1ca941735,Pizza Places,31.0,"",30.0,32
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d196941735,Hospitals,37.0,"",38.0,33
+2020-04-02,North Carolina,Wake County,4bf58dd8d48988d161941735,Lakes,115.0,"",116.0,34
+2020-04-02,North Carolina,Catawba County,4bf58dd8d48988d113951735,Gas Stations,69.0,"",69.0,1
+2020-04-02,North Carolina,Catawba County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,"",53.0,2
+2020-04-02,North Carolina,Catawba County,52f2ab2ebcbc57f1066b8b46,Supermarkets,80.0,"",79.0,3
+2020-04-02,North Carolina,Catawba County,4bf58dd8d48988d118951735,Grocery Stores,61.0,"",61.0,4
+2020-04-02,North Carolina,Catawba County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,5
+2020-04-02,North Carolina,Catawba County,4bf58dd8d48988d112951735,Hardware Stores,128.0,"",129.0,6
+2020-04-02,North Carolina,Johnston County,4bf58dd8d48988d113951735,Gas Stations,59.0,"",60.0,1
+2020-04-02,North Carolina,Johnston County,4bf58dd8d48988d16e941735,Fast Food Restaurants,71.0,"",72.0,2
+2020-04-02,North Carolina,Johnston County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,"",68.0,3
+2020-04-02,North Carolina,Johnston County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,4
+2020-04-02,North Carolina,Johnston County,4f2a210c4b9023bd5841ed28,Housing Developments,98.0,"",98.0,5
+2020-04-02,North Carolina,Rowan County,4bf58dd8d48988d113951735,Gas Stations,75.0,"",75.0,1
+2020-04-02,North Carolina,Rowan County,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,"",68.0,2
+2020-04-02,North Carolina,Rowan County,4bf58dd8d48988d16e941735,Fast Food Restaurants,58.0,"",59.0,3

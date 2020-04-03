@@ -6590,3 +6590,107 @@
 2020-04-01,Washington,Snohomish County,4bf58dd8d48988d163941735,Parks,53.0,71.0,52.0,9
 2020-04-01,Washington,Snohomish County,52e816a6bcbc57f1066b7a54,Warehouse Stores,51.0,"",51.0,10
 2020-04-01,Washington,Snohomish County,4d954b0ea243a5684a65b473,Convenience Stores,60.0,"",59.0,11
+2020-04-02,Washington,Benton County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",109.0,1
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d118951735,Grocery Stores,84.0,68.0,85.0,1
+2020-04-02,Washington,Spokane County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,60.0,65.0,2
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d113951735,Gas Stations,59.0,53.0,59.0,3
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d16e941735,Fast Food Restaurants,52.0,"",52.0,4
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d1e0931735,Coffee Shops,47.0,"",47.0,5
+2020-04-02,Washington,Spokane County,52f2ab2ebcbc57f1066b8b46,Supermarkets,66.0,"",67.0,6
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d112951735,Hardware Stores,68.0,"",69.0,7
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d10f951735,Pharmacies,75.0,"",74.0,8
+2020-04-02,Washington,Spokane County,4f4533804b9074f6e4fb0105,Elementary Schools,40.0,"",40.0,9
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d124951735,Automotive Shops,65.0,"",66.0,10
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d163941735,Parks,59.0,"",59.0,11
+2020-04-02,Washington,Spokane County,4bf58dd8d48988d124941735,Offices,49.0,"",49.0,12
+2020-04-02,Washington,Cowlitz County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,1
+2020-04-02,Washington,Kitsap County,4bf58dd8d48988d118951735,Grocery Stores,83.0,63.0,85.0,1
+2020-04-02,Washington,Kitsap County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,78.0,"",79.0,2
+2020-04-02,Washington,Kitsap County,4bf58dd8d48988d113951735,Gas Stations,51.0,"",51.0,3
+2020-04-02,Washington,Thurston County,4bf58dd8d48988d118951735,Grocery Stores,68.0,63.0,68.0,1
+2020-04-02,Washington,Thurston County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",63.0,2
+2020-04-02,Washington,Thurston County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",66.0,3
+2020-04-02,Washington,Thurston County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,4
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d118951735,Grocery Stores,68.0,70.0,67.0,1
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d113951735,Gas Stations,55.0,42.0,55.0,2
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d16e941735,Fast Food Restaurants,51.0,38.0,51.0,3
+2020-04-02,Washington,Pierce County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,80.0,69.0,4
+2020-04-02,Washington,Pierce County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,62.0,59.0,62.0,5
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d1e0931735,Coffee Shops,54.0,50.0,55.0,6
+2020-04-02,Washington,Pierce County,4e52adeebd41615f56317744,Military Bases,35.0,"",35.0,7
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d112951735,Hardware Stores,87.0,66.0,89.0,8
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d163941735,Parks,61.0,70.0,61.0,9
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d124951735,Automotive Shops,61.0,"",61.0,10
+2020-04-02,Washington,Pierce County,4d954b0ea243a5684a65b473,Convenience Stores,54.0,"",53.0,11
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d124941735,Offices,46.0,"",47.0,12
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d10f951735,Pharmacies,69.0,"",69.0,13
+2020-04-02,Washington,Pierce County,52e816a6bcbc57f1066b7a54,Warehouse Stores,66.0,"",67.0,14
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d1fd941735,Shopping Malls,34.0,"",35.0,15
+2020-04-02,Washington,Pierce County,4f4533804b9074f6e4fb0105,Elementary Schools,34.0,"",34.0,16
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d177941735,Doctor's Offices,45.0,"",46.0,17
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d1c1941735,Mexican Restaurants,44.0,"",44.0,18
+2020-04-02,Washington,Pierce County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),49.0,"",49.0,19
+2020-04-02,Washington,Pierce County,4bf58dd8d48988d10a951735,Banks,65.0,"",64.0,20
+2020-04-02,Washington,Whatcom County,4bf58dd8d48988d118951735,Grocery Stores,69.0,74.0,68.0,1
+2020-04-02,Washington,Whatcom County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,"",66.0,2
+2020-04-02,Washington,King County,4bf58dd8d48988d118951735,Grocery Stores,60.0,52.0,61.0,1
+2020-04-02,Washington,King County,4bf58dd8d48988d163941735,Parks,59.0,44.0,59.0,2
+2020-04-02,Washington,King County,52f2ab2ebcbc57f1066b8b46,Supermarkets,58.0,58.0,58.0,3
+2020-04-02,Washington,King County,4bf58dd8d48988d1e0931735,Coffee Shops,28.0,34.0,28.0,4
+2020-04-02,Washington,King County,4bf58dd8d48988d113951735,Gas Stations,46.0,36.0,46.0,5
+2020-04-02,Washington,King County,4bf58dd8d48988d124941735,Offices,14.0,21.0,13.0,6
+2020-04-02,Washington,King County,4bf58dd8d48988d16e941735,Fast Food Restaurants,48.0,38.0,48.0,7
+2020-04-02,Washington,King County,4d954b06a243a5684965b473,Residential Buildings (Apartments / Condos),43.0,44.0,43.0,8
+2020-04-02,Washington,King County,4bf58dd8d48988d1fd941735,Shopping Malls,25.0,27.0,25.0,9
+2020-04-02,Washington,King County,4bf58dd8d48988d10f951735,Pharmacies,57.0,52.0,57.0,10
+2020-04-02,Washington,King County,4bf58dd8d48988d112951735,Hardware Stores,59.0,55.0,60.0,11
+2020-04-02,Washington,King County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,67.0,"",68.0,12
+2020-04-02,Washington,King County,52e816a6bcbc57f1066b7a54,Warehouse Stores,46.0,35.0,47.0,13
+2020-04-02,Washington,King County,4bf58dd8d48988d159941735,Trails,67.0,68.0,67.0,14
+2020-04-02,Washington,King County,4d954b0ea243a5684a65b473,Convenience Stores,47.0,"",47.0,15
+2020-04-02,Washington,King County,4f4533804b9074f6e4fb0105,Elementary Schools,34.0,"",34.0,16
+2020-04-02,Washington,King County,4bf58dd8d48988d124951735,Automotive Shops,47.0,"",47.0,17
+2020-04-02,Washington,King County,4bf58dd8d48988d1ca941735,Pizza Places,37.0,"",37.0,18
+2020-04-02,Washington,King County,4bf58dd8d48988d1fa931735,Hotels,15.0,"",14.0,19
+2020-04-02,Washington,King County,4bf58dd8d48988d1ed931735,Airports,14.0,"",14.0,20
+2020-04-02,Washington,King County,4bf58dd8d48988d177941735,Doctor's Offices,27.0,"",27.0,21
+2020-04-02,Washington,King County,4bf58dd8d48988d104941735,Medical Centers,28.0,"",28.0,22
+2020-04-02,Washington,King County,4bf58dd8d48988d1c1941735,Mexican Restaurants,27.0,"",27.0,23
+2020-04-02,Washington,King County,4bf58dd8d48988d196941735,Hospitals,29.0,"",29.0,24
+2020-04-02,Washington,King County,4bf58dd8d48988d10a951735,Banks,50.0,"",51.0,25
+2020-04-02,Washington,King County,4bf58dd8d48988d1c5941735,Sandwich Places,38.0,"",38.0,26
+2020-04-02,Washington,King County,4bf58dd8d48988d16c941735,Burger Joints,35.0,"",36.0,27
+2020-04-02,Washington,King County,4bf58dd8d48988d1fe931735,Bus Stations,31.0,"",31.0,28
+2020-04-02,Washington,King County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,16.0,"",16.0,29
+2020-04-02,Washington,King County,52f2ab2ebcbc57f1066b8b4f,Bus Stops,27.0,"",27.0,30
+2020-04-02,Washington,King County,4bf58dd8d48988d1e7941735,Playgrounds,52.0,"",53.0,31
+2020-04-02,Washington,King County,4bf58dd8d48988d172941735,Post Offices,58.0,"",57.0,32
+2020-04-02,Washington,King County,50327c8591d4c4b30a586d5d,Breweries,31.0,"",31.0,33
+2020-04-02,Washington,King County,4bf58dd8d48988d116941735,Bars,18.0,"",18.0,34
+2020-04-02,Washington,King County,4bf58dd8d48988d1eb931735,Airport Terminals,10.0,"",10.0,35
+2020-04-02,Washington,King County,4bf58dd8d48988d13d941735,High Schools,25.0,"",25.0,36
+2020-04-02,Washington,King County,4bf58dd8d48988d161941735,Lakes,46.0,"",46.0,37
+2020-04-02,Washington,King County,4bf58dd8d48988d1e2941735,Beaches,61.0,"",61.0,38
+2020-04-02,Washington,Yakima County,4bf58dd8d48988d118951735,Grocery Stores,63.0,"",63.0,1
+2020-04-02,Washington,Yakima County,4bf58dd8d48988d113951735,Gas Stations,64.0,"",65.0,2
+2020-04-02,Washington,Yakima County,4bf58dd8d48988d16e941735,Fast Food Restaurants,76.0,"",76.0,3
+2020-04-02,Washington,Yakima County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,"",65.0,4
+2020-04-02,Washington,Clark County,4bf58dd8d48988d118951735,Grocery Stores,72.0,65.0,72.0,1
+2020-04-02,Washington,Clark County,52f2ab2ebcbc57f1066b8b46,Supermarkets,68.0,58.0,69.0,2
+2020-04-02,Washington,Clark County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",57.0,3
+2020-04-02,Washington,Clark County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,4
+2020-04-02,Washington,Clark County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,64.0,"",65.0,5
+2020-04-02,Washington,Clark County,4bf58dd8d48988d163941735,Parks,71.0,"",71.0,6
+2020-04-02,Washington,Clark County,4bf58dd8d48988d1e0931735,Coffee Shops,43.0,"",43.0,7
+2020-04-02,Washington,Clark County,4bf58dd8d48988d112951735,Hardware Stores,75.0,"",77.0,8
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d118951735,Grocery Stores,68.0,59.0,69.0,1
+2020-04-02,Washington,Snohomish County,52f2ab2ebcbc57f1066b8b46,Supermarkets,67.0,55.0,67.0,2
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d113951735,Gas Stations,53.0,40.0,54.0,3
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d1e0931735,Coffee Shops,52.0,40.0,52.0,4
+2020-04-02,Washington,Snohomish County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,68.0,"",69.0,5
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d16e941735,Fast Food Restaurants,45.0,"",46.0,6
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d163941735,Parks,56.0,"",56.0,7
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d10f951735,Pharmacies,62.0,"",63.0,8
+2020-04-02,Washington,Snohomish County,52e816a6bcbc57f1066b7a54,Warehouse Stores,56.0,"",58.0,9
+2020-04-02,Washington,Snohomish County,4d954b0ea243a5684a65b473,Convenience Stores,58.0,"",57.0,10
+2020-04-02,Washington,Snohomish County,4bf58dd8d48988d112951735,Hardware Stores,65.0,"",68.0,11

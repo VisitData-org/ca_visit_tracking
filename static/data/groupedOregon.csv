@@ -4797,3 +4797,109 @@
 2020-04-01,Oregon,Clackamas County,Medical,40.0,"",41.0,10
 2020-04-01,Oregon,Clackamas County,Residences,61.0,"",62.0,11
 2020-04-01,Oregon,Clackamas County,Hardware Stores,62.0,"",64.0,12
+2020-04-02,Oregon,Multnomah County,Food,35.0,32.0,36.0,1
+2020-04-02,Oregon,Multnomah County,Shops & Services,43.0,38.0,43.0,2
+2020-04-02,Oregon,Multnomah County,Grocery,69.0,53.0,69.0,3
+2020-04-02,Oregon,Multnomah County,Outdoors & Recreation,65.0,58.0,65.0,4
+2020-04-02,Oregon,Multnomah County,Nightlife Spots,29.0,28.0,29.0,5
+2020-04-02,Oregon,Multnomah County,Professional & Other Places,49.0,40.0,49.0,6
+2020-04-02,Oregon,Multnomah County,Office,47.0,44.0,47.0,7
+2020-04-02,Oregon,Multnomah County,Medical,32.0,26.0,32.0,8
+2020-04-02,Oregon,Multnomah County,Fast Food Restaurants,57.0,"",58.0,9
+2020-04-02,Oregon,Multnomah County,Convenience Store,53.0,"",54.0,10
+2020-04-02,Oregon,Multnomah County,Gas Stations,59.0,"",59.0,11
+2020-04-02,Oregon,Multnomah County,Residences,60.0,65.0,60.0,12
+2020-04-02,Oregon,Multnomah County,School,36.0,"",35.0,13
+2020-04-02,Oregon,Multnomah County,Airport,18.0,"",19.0,14
+2020-04-02,Oregon,Multnomah County,Hotel,29.0,"",29.0,15
+2020-04-02,Oregon,Multnomah County,Hardware Stores,70.0,71.0,70.0,16
+2020-04-02,Oregon,Multnomah County,Light Rail Stations,36.0,"",36.0,17
+2020-04-02,Oregon,Multnomah County,Big Box Stores,65.0,"",66.0,18
+2020-04-02,Oregon,Multnomah County,Arts & Entertainment,31.0,"",31.0,19
+2020-04-02,Oregon,Multnomah County,Travel & Transport,45.0,"",46.0,20
+2020-04-02,Oregon,Multnomah County,Drug Store,63.0,"",64.0,21
+2020-04-02,Oregon,Multnomah County,Fitness Center,23.0,"",23.0,22
+2020-04-02,Oregon,Multnomah County,Bus,34.0,"",34.0,23
+2020-04-02,Oregon,Jackson County,Food,40.0,37.0,41.0,1
+2020-04-02,Oregon,Jackson County,Shops & Services,48.0,48.0,48.0,2
+2020-04-02,Oregon,Jackson County,Grocery,78.0,69.0,79.0,3
+2020-04-02,Oregon,Jackson County,Outdoors & Recreation,81.0,102.0,79.0,4
+2020-04-02,Oregon,Jackson County,Gas Stations,70.0,"",71.0,5
+2020-04-02,Oregon,Washington County,Shops & Services,42.0,33.0,43.0,1
+2020-04-02,Oregon,Washington County,Food,40.0,29.0,41.0,2
+2020-04-02,Oregon,Washington County,Grocery,65.0,56.0,66.0,3
+2020-04-02,Oregon,Washington County,Outdoors & Recreation,71.0,86.0,71.0,4
+2020-04-02,Oregon,Washington County,Office,40.0,57.0,39.0,5
+2020-04-02,Oregon,Washington County,Fast Food Restaurants,56.0,"",57.0,6
+2020-04-02,Oregon,Washington County,Professional & Other Places,55.0,57.0,55.0,7
+2020-04-02,Oregon,Washington County,School,35.0,"",35.0,8
+2020-04-02,Oregon,Washington County,Nightlife Spots,41.0,"",41.0,9
+2020-04-02,Oregon,Washington County,Residences,78.0,"",79.0,10
+2020-04-02,Oregon,Washington County,Medical,34.0,"",35.0,11
+2020-04-02,Oregon,Washington County,Gas Stations,44.0,"",45.0,12
+2020-04-02,Oregon,Washington County,Hardware Stores,74.0,"",75.0,13
+2020-04-02,Oregon,Washington County,Big Box Stores,67.0,"",68.0,14
+2020-04-02,Oregon,Washington County,Convenience Store,56.0,"",57.0,15
+2020-04-02,Oregon,Linn County,Food,51.0,"",53.0,1
+2020-04-02,Oregon,Linn County,Shops & Services,56.0,"",57.0,2
+2020-04-02,Oregon,Linn County,Grocery,56.0,"",57.0,3
+2020-04-02,Oregon,Linn County,Outdoors & Recreation,61.0,"",62.0,4
+2020-04-02,Oregon,Linn County,Gas Stations,80.0,"",82.0,5
+2020-04-02,Oregon,Linn County,Big Box Stores,77.0,"",78.0,6
+2020-04-02,Oregon,Deschutes County,Food,46.0,27.0,47.0,1
+2020-04-02,Oregon,Deschutes County,Shops & Services,49.0,51.0,48.0,2
+2020-04-02,Oregon,Deschutes County,Outdoors & Recreation,70.0,58.0,71.0,3
+2020-04-02,Oregon,Deschutes County,Grocery,66.0,60.0,66.0,4
+2020-04-02,Oregon,Deschutes County,Nightlife Spots,58.0,49.0,59.0,5
+2020-04-02,Oregon,Deschutes County,Medical,53.0,"",55.0,6
+2020-04-02,Oregon,Marion County,Food,46.0,41.0,46.0,1
+2020-04-02,Oregon,Marion County,Shops & Services,45.0,41.0,45.0,2
+2020-04-02,Oregon,Marion County,Grocery,67.0,56.0,68.0,3
+2020-04-02,Oregon,Marion County,Nightlife Spots,49.0,58.0,48.0,4
+2020-04-02,Oregon,Marion County,Gas Stations,71.0,"",72.0,5
+2020-04-02,Oregon,Marion County,Outdoors & Recreation,58.0,54.0,59.0,6
+2020-04-02,Oregon,Marion County,Fast Food Restaurants,62.0,"",63.0,7
+2020-04-02,Oregon,Marion County,Big Box Stores,69.0,"",71.0,8
+2020-04-02,Oregon,Marion County,Medical,50.0,"",51.0,9
+2020-04-02,Oregon,Marion County,School,48.0,80.0,47.0,10
+2020-04-02,Oregon,Marion County,Drug Store,140.0,"",145.0,11
+2020-04-02,Oregon,Marion County,Professional & Other Places,61.0,"",60.0,12
+2020-04-02,Oregon,Marion County,Government,50.0,"",51.0,13
+2020-04-02,Oregon,Marion County,Convenience Store,65.0,"",65.0,14
+2020-04-02,Oregon,Marion County,Hardware Stores,77.0,"",80.0,15
+2020-04-02,Oregon,Clatsop County,Grocery,83.0,78.0,83.0,1
+2020-04-02,Oregon,Douglas County,Food,59.0,40.0,60.0,1
+2020-04-02,Oregon,Douglas County,Shops & Services,62.0,52.0,64.0,2
+2020-04-02,Oregon,Douglas County,Gas Stations,72.0,"",73.0,3
+2020-04-02,Oregon,Douglas County,Grocery,77.0,"",78.0,4
+2020-04-02,Oregon,Clackamas County,Grocery,76.0,63.0,76.0,1
+2020-04-02,Oregon,Clackamas County,Shops & Services,44.0,42.0,44.0,2
+2020-04-02,Oregon,Clackamas County,Food,43.0,36.0,43.0,3
+2020-04-02,Oregon,Clackamas County,Outdoors & Recreation,71.0,68.0,72.0,4
+2020-04-02,Oregon,Clackamas County,Fast Food Restaurants,57.0,"",58.0,5
+2020-04-02,Oregon,Clackamas County,Gas Stations,54.0,"",54.0,6
+2020-04-02,Oregon,Clackamas County,Nightlife Spots,39.0,"",39.0,7
+2020-04-02,Oregon,Clackamas County,School,37.0,"",36.0,8
+2020-04-02,Oregon,Clackamas County,Professional & Other Places,60.0,"",59.0,9
+2020-04-02,Oregon,Clackamas County,Medical,36.0,"",37.0,10
+2020-04-02,Oregon,Clackamas County,Hardware Stores,71.0,"",73.0,11
+2020-04-02,Oregon,Clackamas County,Office,68.0,"",68.0,12
+2020-04-02,Oregon,Josephine County,Food,59.0,"",61.0,1
+2020-04-02,Oregon,Lane County,Shops & Services,45.0,38.0,46.0,1
+2020-04-02,Oregon,Lane County,Food,40.0,37.0,40.0,2
+2020-04-02,Oregon,Lane County,Grocery,67.0,52.0,67.0,3
+2020-04-02,Oregon,Lane County,Outdoors & Recreation,70.0,76.0,70.0,4
+2020-04-02,Oregon,Lane County,Gas Stations,60.0,"",60.0,5
+2020-04-02,Oregon,Lane County,Fast Food Restaurants,53.0,"",54.0,6
+2020-04-02,Oregon,Lane County,Nightlife Spots,35.0,"",35.0,7
+2020-04-02,Oregon,Lane County,Big Box Stores,60.0,"",61.0,8
+2020-04-02,Oregon,Lane County,Medical,33.0,"",34.0,9
+2020-04-02,Oregon,Lane County,School,28.0,"",29.0,10
+2020-04-02,Oregon,Klamath County,Food,53.0,"",54.0,1
+2020-04-02,Oregon,Polk County,Food,44.0,"",45.0,1
+2020-04-02,Oregon,Yamhill County,Food,48.0,"",49.0,1
+2020-04-02,Oregon,Yamhill County,Grocery,87.0,"",88.0,2
+2020-04-02,Oregon,Yamhill County,Shops & Services,66.0,"",66.0,3
+2020-04-02,Oregon,Yamhill County,Outdoors & Recreation,78.0,"",80.0,4
+2020-04-02,Oregon,Yamhill County,Professional & Other Places,68.0,"",69.0,5
+2020-04-02,Oregon,Umatilla County,Gas Stations,70.0,"",70.0,1

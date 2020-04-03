@@ -18934,3 +18934,433 @@
 2020-04-01,Pennsylvania,Berks County,Discount Stores,71.0,"",72.0,15
 2020-04-01,Pennsylvania,Berks County,Government,49.0,"",50.0,16
 2020-04-01,Pennsylvania,Berks County,Drug Store,59.0,"",59.0,17
+2020-04-02,Pennsylvania,Mifflin County,Shops & Services,52.0,"",53.0,1
+2020-04-02,Pennsylvania,Mifflin County,Food,52.0,"",52.0,2
+2020-04-02,Pennsylvania,Clinton County,Food,66.0,"",67.0,1
+2020-04-02,Pennsylvania,Clinton County,Gas Stations,60.0,"",61.0,2
+2020-04-02,Pennsylvania,Snyder County,Food,48.0,"",49.0,1
+2020-04-02,Pennsylvania,Montgomery County,Shops & Services,37.0,35.0,37.0,1
+2020-04-02,Pennsylvania,Montgomery County,Food,32.0,26.0,33.0,2
+2020-04-02,Pennsylvania,Montgomery County,Grocery,72.0,58.0,72.0,3
+2020-04-02,Pennsylvania,Montgomery County,Convenience Store,43.0,40.0,43.0,4
+2020-04-02,Pennsylvania,Montgomery County,Medical,33.0,23.0,33.0,5
+2020-04-02,Pennsylvania,Montgomery County,Outdoors & Recreation,65.0,72.0,65.0,6
+2020-04-02,Pennsylvania,Montgomery County,Big Box Stores,69.0,76.0,68.0,7
+2020-04-02,Pennsylvania,Montgomery County,Nightlife Spots,36.0,37.0,36.0,8
+2020-04-02,Pennsylvania,Montgomery County,Fast Food Restaurants,51.0,47.0,51.0,9
+2020-04-02,Pennsylvania,Montgomery County,Office,31.0,"",31.0,10
+2020-04-02,Pennsylvania,Montgomery County,Drug Store,56.0,60.0,56.0,11
+2020-04-02,Pennsylvania,Montgomery County,Professional & Other Places,47.0,38.0,47.0,12
+2020-04-02,Pennsylvania,Montgomery County,Residences,60.0,59.0,60.0,13
+2020-04-02,Pennsylvania,Montgomery County,Hardware Stores,85.0,76.0,85.0,14
+2020-04-02,Pennsylvania,Montgomery County,School,18.0,"",18.0,15
+2020-04-02,Pennsylvania,Montgomery County,Gas Stations,47.0,"",48.0,16
+2020-04-02,Pennsylvania,Montgomery County,Sports,45.0,"",45.0,17
+2020-04-02,Pennsylvania,Montgomery County,Banks,60.0,"",60.0,18
+2020-04-02,Pennsylvania,Montgomery County,Government,46.0,"",46.0,19
+2020-04-02,Pennsylvania,Montgomery County,Arts & Entertainment,43.0,"",43.0,20
+2020-04-02,Pennsylvania,Montgomery County,Fitness Center,16.0,"",16.0,21
+2020-04-02,Pennsylvania,Montgomery County,Travel & Transport,29.0,"",29.0,22
+2020-04-02,Pennsylvania,Lawrence County,Food,44.0,"",44.0,1
+2020-04-02,Pennsylvania,Lawrence County,Shops & Services,56.0,"",56.0,2
+2020-04-02,Pennsylvania,Dauphin County,Shops & Services,41.0,41.0,41.0,1
+2020-04-02,Pennsylvania,Dauphin County,Food,35.0,23.0,35.0,2
+2020-04-02,Pennsylvania,Dauphin County,Gas Stations,56.0,51.0,56.0,3
+2020-04-02,Pennsylvania,Dauphin County,Grocery,78.0,73.0,78.0,4
+2020-04-02,Pennsylvania,Dauphin County,Medical,39.0,35.0,39.0,5
+2020-04-02,Pennsylvania,Dauphin County,Outdoors & Recreation,67.0,68.0,67.0,6
+2020-04-02,Pennsylvania,Dauphin County,Professional & Other Places,35.0,"",35.0,7
+2020-04-02,Pennsylvania,Dauphin County,Nightlife Spots,30.0,"",30.0,8
+2020-04-02,Pennsylvania,Dauphin County,Residences,72.0,"",71.0,9
+2020-04-02,Pennsylvania,Dauphin County,Office,36.0,"",36.0,10
+2020-04-02,Pennsylvania,Dauphin County,Fast Food Restaurants,43.0,"",42.0,11
+2020-04-02,Pennsylvania,Dauphin County,Big Box Stores,72.0,"",73.0,12
+2020-04-02,Pennsylvania,Dauphin County,Government,36.0,"",36.0,13
+2020-04-02,Pennsylvania,Dauphin County,Hardware Stores,95.0,"",95.0,14
+2020-04-02,Pennsylvania,Dauphin County,Drug Store,61.0,"",62.0,15
+2020-04-02,Pennsylvania,Dauphin County,School,23.0,"",23.0,16
+2020-04-02,Pennsylvania,Dauphin County,Travel & Transport,62.0,"",62.0,17
+2020-04-02,Pennsylvania,Dauphin County,Hotel,31.0,"",30.0,18
+2020-04-02,Pennsylvania,Blair County,Shops & Services,34.0,"",35.0,1
+2020-04-02,Pennsylvania,Blair County,Gas Stations,54.0,73.0,53.0,2
+2020-04-02,Pennsylvania,Blair County,Food,38.0,35.0,38.0,3
+2020-04-02,Pennsylvania,Blair County,Grocery,77.0,87.0,76.0,4
+2020-04-02,Pennsylvania,Blair County,Medical,32.0,"",32.0,5
+2020-04-02,Pennsylvania,Blair County,Outdoors & Recreation,67.0,"",66.0,6
+2020-04-02,Pennsylvania,Blair County,Nightlife Spots,32.0,"",31.0,7
+2020-04-02,Pennsylvania,Columbia County,Food,40.0,"",41.0,1
+2020-04-02,Pennsylvania,Columbia County,Grocery,78.0,"",79.0,2
+2020-04-02,Pennsylvania,Columbia County,Shops & Services,66.0,"",66.0,3
+2020-04-02,Pennsylvania,Jefferson County,Food,51.0,"",51.0,1
+2020-04-02,Pennsylvania,Jefferson County,Shops & Services,78.0,"",78.0,2
+2020-04-02,Pennsylvania,Franklin County,Food,43.0,29.0,44.0,1
+2020-04-02,Pennsylvania,Franklin County,Shops & Services,44.0,33.0,45.0,2
+2020-04-02,Pennsylvania,Franklin County,Gas Stations,49.0,"",50.0,3
+2020-04-02,Pennsylvania,Franklin County,Grocery,67.0,53.0,68.0,4
+2020-04-02,Pennsylvania,Franklin County,Big Box Stores,68.0,"",69.0,5
+2020-04-02,Pennsylvania,Franklin County,Outdoors & Recreation,75.0,"",77.0,6
+2020-04-02,Pennsylvania,Franklin County,Fast Food Restaurants,52.0,"",53.0,7
+2020-04-02,Pennsylvania,Franklin County,Professional & Other Places,55.0,"",56.0,8
+2020-04-02,Pennsylvania,Franklin County,Medical,41.0,"",41.0,9
+2020-04-02,Pennsylvania,Washington County,Shops & Services,55.0,48.0,55.0,1
+2020-04-02,Pennsylvania,Washington County,Food,36.0,27.0,37.0,2
+2020-04-02,Pennsylvania,Washington County,Gas Stations,55.0,"",55.0,3
+2020-04-02,Pennsylvania,Washington County,Outdoors & Recreation,78.0,"",80.0,4
+2020-04-02,Pennsylvania,Washington County,Nightlife Spots,68.0,"",69.0,5
+2020-04-02,Pennsylvania,Washington County,Grocery,71.0,"",72.0,6
+2020-04-02,Pennsylvania,Washington County,Medical,45.0,"",45.0,7
+2020-04-02,Pennsylvania,Washington County,Big Box Stores,69.0,"",69.0,8
+2020-04-02,Pennsylvania,Washington County,Fast Food Restaurants,46.0,"",46.0,9
+2020-04-02,Pennsylvania,Washington County,School,32.0,"",32.0,10
+2020-04-02,Pennsylvania,Westmoreland County,Food,41.0,35.0,41.0,1
+2020-04-02,Pennsylvania,Westmoreland County,Shops & Services,45.0,39.0,45.0,2
+2020-04-02,Pennsylvania,Westmoreland County,Grocery,78.0,65.0,78.0,3
+2020-04-02,Pennsylvania,Westmoreland County,Gas Stations,57.0,43.0,57.0,4
+2020-04-02,Pennsylvania,Westmoreland County,Nightlife Spots,45.0,42.0,45.0,5
+2020-04-02,Pennsylvania,Westmoreland County,Big Box Stores,57.0,47.0,58.0,6
+2020-04-02,Pennsylvania,Westmoreland County,Fast Food Restaurants,66.0,56.0,67.0,7
+2020-04-02,Pennsylvania,Westmoreland County,Outdoors & Recreation,72.0,84.0,72.0,8
+2020-04-02,Pennsylvania,Westmoreland County,Professional & Other Places,56.0,"",57.0,9
+2020-04-02,Pennsylvania,Westmoreland County,Medical,37.0,"",37.0,10
+2020-04-02,Pennsylvania,Westmoreland County,Drug Store,80.0,"",80.0,11
+2020-04-02,Pennsylvania,Westmoreland County,Hardware Stores,91.0,"",92.0,12
+2020-04-02,Pennsylvania,Westmoreland County,Discount Stores,71.0,"",72.0,13
+2020-04-02,Pennsylvania,Westmoreland County,Sports,67.0,"",67.0,14
+2020-04-02,Pennsylvania,Westmoreland County,Convenience Store,64.0,"",64.0,15
+2020-04-02,Pennsylvania,Westmoreland County,Banks,78.0,"",79.0,16
+2020-04-02,Pennsylvania,Westmoreland County,Government,45.0,"",46.0,17
+2020-04-02,Pennsylvania,Lycoming County,Food,39.0,34.0,39.0,1
+2020-04-02,Pennsylvania,Lycoming County,Grocery,65.0,74.0,65.0,2
+2020-04-02,Pennsylvania,Lycoming County,Shops & Services,38.0,"",38.0,3
+2020-04-02,Pennsylvania,Lycoming County,Nightlife Spots,46.0,"",46.0,4
+2020-04-02,Pennsylvania,Lycoming County,Gas Stations,60.0,"",59.0,5
+2020-04-02,Pennsylvania,Lycoming County,Medical,41.0,"",41.0,6
+2020-04-02,Pennsylvania,Lycoming County,Professional & Other Places,57.0,"",57.0,7
+2020-04-02,Pennsylvania,Lancaster County,Shops & Services,42.0,40.0,42.0,1
+2020-04-02,Pennsylvania,Lancaster County,Food,39.0,37.0,39.0,2
+2020-04-02,Pennsylvania,Lancaster County,Grocery,76.0,74.0,76.0,3
+2020-04-02,Pennsylvania,Lancaster County,Gas Stations,55.0,57.0,55.0,4
+2020-04-02,Pennsylvania,Lancaster County,Outdoors & Recreation,75.0,72.0,75.0,5
+2020-04-02,Pennsylvania,Lancaster County,Nightlife Spots,35.0,50.0,35.0,6
+2020-04-02,Pennsylvania,Lancaster County,Professional & Other Places,50.0,"",50.0,7
+2020-04-02,Pennsylvania,Lancaster County,Medical,34.0,34.0,34.0,8
+2020-04-02,Pennsylvania,Lancaster County,Fast Food Restaurants,48.0,"",48.0,9
+2020-04-02,Pennsylvania,Lancaster County,Big Box Stores,73.0,"",72.0,10
+2020-04-02,Pennsylvania,Lancaster County,Hardware Stores,86.0,"",87.0,11
+2020-04-02,Pennsylvania,Lancaster County,Residences,55.0,"",55.0,12
+2020-04-02,Pennsylvania,Lancaster County,School,22.0,"",21.0,13
+2020-04-02,Pennsylvania,Lancaster County,Arts & Entertainment,49.0,"",49.0,14
+2020-04-02,Pennsylvania,Lancaster County,Office,42.0,"",42.0,15
+2020-04-02,Pennsylvania,Lancaster County,Drug Store,54.0,"",55.0,16
+2020-04-02,Pennsylvania,Lancaster County,Convenience Store,53.0,"",53.0,17
+2020-04-02,Pennsylvania,Lancaster County,Travel & Transport,56.0,"",57.0,18
+2020-04-02,Pennsylvania,Lancaster County,Banks,50.0,"",50.0,19
+2020-04-02,Pennsylvania,Centre County,Shops & Services,45.0,"",46.0,1
+2020-04-02,Pennsylvania,Centre County,Food,24.0,"",25.0,2
+2020-04-02,Pennsylvania,Centre County,Outdoors & Recreation,74.0,"",73.0,3
+2020-04-02,Pennsylvania,Centre County,Grocery,49.0,"",49.0,4
+2020-04-02,Pennsylvania,Centre County,Gas Stations,44.0,"",44.0,5
+2020-04-02,Pennsylvania,Centre County,Nightlife Spots,36.0,"",36.0,6
+2020-04-02,Pennsylvania,Centre County,Big Box Stores,50.0,"",50.0,7
+2020-04-02,Pennsylvania,Butler County,Shops & Services,49.0,40.0,49.0,1
+2020-04-02,Pennsylvania,Butler County,Grocery,76.0,70.0,76.0,2
+2020-04-02,Pennsylvania,Butler County,Food,32.0,"",33.0,3
+2020-04-02,Pennsylvania,Butler County,Gas Stations,53.0,"",53.0,4
+2020-04-02,Pennsylvania,Butler County,Professional & Other Places,77.0,"",77.0,5
+2020-04-02,Pennsylvania,Butler County,Outdoors & Recreation,79.0,"",79.0,6
+2020-04-02,Pennsylvania,Butler County,Nightlife Spots,41.0,"",41.0,7
+2020-04-02,Pennsylvania,Butler County,Big Box Stores,48.0,"",48.0,8
+2020-04-02,Pennsylvania,Butler County,Residences,78.0,"",78.0,9
+2020-04-02,Pennsylvania,Butler County,Medical,38.0,"",38.0,10
+2020-04-02,Pennsylvania,Butler County,Hardware Stores,100.0,"",100.0,11
+2020-04-02,Pennsylvania,Fayette County,Shops & Services,51.0,"",51.0,1
+2020-04-02,Pennsylvania,Fayette County,Food,50.0,"",50.0,2
+2020-04-02,Pennsylvania,Fayette County,Gas Stations,51.0,"",51.0,3
+2020-04-02,Pennsylvania,Fayette County,Big Box Stores,65.0,"",65.0,4
+2020-04-02,Pennsylvania,Fayette County,Nightlife Spots,45.0,"",45.0,5
+2020-04-02,Pennsylvania,Fayette County,Professional & Other Places,67.0,"",67.0,6
+2020-04-02,Pennsylvania,Allegheny County,Shops & Services,39.0,37.0,39.0,1
+2020-04-02,Pennsylvania,Allegheny County,Food,32.0,26.0,32.0,2
+2020-04-02,Pennsylvania,Allegheny County,Grocery,69.0,59.0,70.0,3
+2020-04-02,Pennsylvania,Allegheny County,Gas Stations,54.0,55.0,54.0,4
+2020-04-02,Pennsylvania,Allegheny County,Outdoors & Recreation,75.0,79.0,75.0,5
+2020-04-02,Pennsylvania,Allegheny County,Nightlife Spots,40.0,47.0,40.0,6
+2020-04-02,Pennsylvania,Allegheny County,Medical,33.0,28.0,33.0,7
+2020-04-02,Pennsylvania,Allegheny County,Professional & Other Places,43.0,43.0,43.0,8
+2020-04-02,Pennsylvania,Allegheny County,Fast Food Restaurants,55.0,51.0,55.0,9
+2020-04-02,Pennsylvania,Allegheny County,Big Box Stores,66.0,50.0,67.0,10
+2020-04-02,Pennsylvania,Allegheny County,Residences,58.0,64.0,58.0,11
+2020-04-02,Pennsylvania,Allegheny County,Hardware Stores,98.0,69.0,100.0,12
+2020-04-02,Pennsylvania,Allegheny County,Drug Store,60.0,57.0,60.0,13
+2020-04-02,Pennsylvania,Allegheny County,Office,29.0,38.0,29.0,14
+2020-04-02,Pennsylvania,Allegheny County,Arts & Entertainment,34.0,41.0,33.0,15
+2020-04-02,Pennsylvania,Allegheny County,School,24.0,37.0,24.0,16
+2020-04-02,Pennsylvania,Allegheny County,Discount Stores,62.0,"",63.0,17
+2020-04-02,Pennsylvania,Allegheny County,Colleges & Universities,14.0,"",14.0,18
+2020-04-02,Pennsylvania,Allegheny County,Government,43.0,"",43.0,19
+2020-04-02,Pennsylvania,Allegheny County,Convenience Store,52.0,"",52.0,20
+2020-04-02,Pennsylvania,Allegheny County,Banks,57.0,"",58.0,21
+2020-04-02,Pennsylvania,Allegheny County,Airport,17.0,"",17.0,22
+2020-04-02,Pennsylvania,Allegheny County,Sports,53.0,"",53.0,23
+2020-04-02,Pennsylvania,Allegheny County,Travel & Transport,52.0,"",52.0,24
+2020-04-02,Pennsylvania,Allegheny County,Bus,46.0,"",46.0,25
+2020-04-02,Pennsylvania,Allegheny County,Fitness Center,18.0,"",18.0,26
+2020-04-02,Pennsylvania,Allegheny County,Hotel,25.0,"",25.0,27
+2020-04-02,Pennsylvania,Allegheny County,Alcohol,48.0,"",48.0,28
+2020-04-02,Pennsylvania,York County,Food,39.0,31.0,39.0,1
+2020-04-02,Pennsylvania,York County,Shops & Services,45.0,38.0,45.0,2
+2020-04-02,Pennsylvania,York County,Grocery,80.0,71.0,81.0,3
+2020-04-02,Pennsylvania,York County,Gas Stations,52.0,55.0,52.0,4
+2020-04-02,Pennsylvania,York County,Big Box Stores,63.0,65.0,63.0,5
+2020-04-02,Pennsylvania,York County,Outdoors & Recreation,71.0,"",71.0,6
+2020-04-02,Pennsylvania,York County,Professional & Other Places,52.0,"",53.0,7
+2020-04-02,Pennsylvania,York County,Medical,41.0,"",42.0,8
+2020-04-02,Pennsylvania,York County,Nightlife Spots,39.0,45.0,38.0,9
+2020-04-02,Pennsylvania,York County,Fast Food Restaurants,52.0,"",52.0,10
+2020-04-02,Pennsylvania,York County,Hardware Stores,103.0,"",104.0,11
+2020-04-02,Pennsylvania,York County,Arts & Entertainment,45.0,"",44.0,12
+2020-04-02,Pennsylvania,York County,Office,47.0,"",47.0,13
+2020-04-02,Pennsylvania,York County,School,21.0,"",21.0,14
+2020-04-02,Pennsylvania,York County,Residences,72.0,"",72.0,15
+2020-04-02,Pennsylvania,York County,Drug Store,58.0,"",59.0,16
+2020-04-02,Pennsylvania,York County,Discount Stores,59.0,"",59.0,17
+2020-04-02,Pennsylvania,Philadelphia County,Food,36.0,30.0,36.0,1
+2020-04-02,Pennsylvania,Philadelphia County,Shops & Services,44.0,38.0,44.0,2
+2020-04-02,Pennsylvania,Philadelphia County,Grocery,77.0,65.0,77.0,3
+2020-04-02,Pennsylvania,Philadelphia County,Outdoors & Recreation,54.0,46.0,54.0,4
+2020-04-02,Pennsylvania,Philadelphia County,Medical,32.0,26.0,32.0,5
+2020-04-02,Pennsylvania,Philadelphia County,Convenience Store,43.0,34.0,43.0,6
+2020-04-02,Pennsylvania,Philadelphia County,Professional & Other Places,37.0,33.0,37.0,7
+2020-04-02,Pennsylvania,Philadelphia County,Drug Store,58.0,53.0,59.0,8
+2020-04-02,Pennsylvania,Philadelphia County,Nightlife Spots,29.0,27.0,29.0,9
+2020-04-02,Pennsylvania,Philadelphia County,Metro Stations,39.0,"",39.0,10
+2020-04-02,Pennsylvania,Philadelphia County,School,35.0,"",35.0,11
+2020-04-02,Pennsylvania,Philadelphia County,Fast Food Restaurants,56.0,"",56.0,12
+2020-04-02,Pennsylvania,Philadelphia County,Arts & Entertainment,29.0,"",29.0,13
+2020-04-02,Pennsylvania,Philadelphia County,Colleges & Universities,16.0,"",16.0,14
+2020-04-02,Pennsylvania,Philadelphia County,Bus,48.0,"",48.0,15
+2020-04-02,Pennsylvania,Philadelphia County,Airport,14.0,"",14.0,16
+2020-04-02,Pennsylvania,Philadelphia County,Travel & Transport,23.0,"",23.0,17
+2020-04-02,Pennsylvania,Philadelphia County,Residences,42.0,"",43.0,18
+2020-04-02,Pennsylvania,Philadelphia County,Big Box Stores,69.0,"",69.0,19
+2020-04-02,Pennsylvania,Philadelphia County,Gas Stations,57.0,"",57.0,20
+2020-04-02,Pennsylvania,Philadelphia County,Discount Stores,71.0,"",71.0,21
+2020-04-02,Pennsylvania,Philadelphia County,Government,32.0,"",32.0,22
+2020-04-02,Pennsylvania,Philadelphia County,Office,20.0,"",20.0,23
+2020-04-02,Pennsylvania,Philadelphia County,Hardware Stores,74.0,"",74.0,24
+2020-04-02,Pennsylvania,Philadelphia County,Banks,55.0,"",55.0,25
+2020-04-02,Pennsylvania,Philadelphia County,Fitness Center,20.0,"",20.0,26
+2020-04-02,Pennsylvania,Philadelphia County,Sports,34.0,"",34.0,27
+2020-04-02,Pennsylvania,Philadelphia County,Alcohol,37.0,"",37.0,28
+2020-04-02,Pennsylvania,Philadelphia County,Hotel,17.0,"",17.0,29
+2020-04-02,Pennsylvania,Northampton County,Food,40.0,40.0,40.0,1
+2020-04-02,Pennsylvania,Northampton County,Grocery,73.0,64.0,74.0,2
+2020-04-02,Pennsylvania,Northampton County,Shops & Services,44.0,43.0,44.0,3
+2020-04-02,Pennsylvania,Northampton County,Professional & Other Places,68.0,"",68.0,4
+2020-04-02,Pennsylvania,Northampton County,Outdoors & Recreation,67.0,"",67.0,5
+2020-04-02,Pennsylvania,Northampton County,Gas Stations,72.0,"",72.0,6
+2020-04-02,Pennsylvania,Northampton County,Nightlife Spots,41.0,"",41.0,7
+2020-04-02,Pennsylvania,Northampton County,Convenience Store,55.0,"",55.0,8
+2020-04-02,Pennsylvania,Northampton County,Medical,37.0,"",38.0,9
+2020-04-02,Pennsylvania,Northampton County,Fast Food Restaurants,50.0,"",50.0,10
+2020-04-02,Pennsylvania,Northampton County,Big Box Stores,67.0,"",68.0,11
+2020-04-02,Pennsylvania,Northampton County,Arts & Entertainment,32.0,"",31.0,12
+2020-04-02,Pennsylvania,Northampton County,Hardware Stores,98.0,"",99.0,13
+2020-04-02,Pennsylvania,Lehigh County,Shops & Services,38.0,32.0,38.0,1
+2020-04-02,Pennsylvania,Lehigh County,Food,38.0,30.0,38.0,2
+2020-04-02,Pennsylvania,Lehigh County,Grocery,73.0,60.0,74.0,3
+2020-04-02,Pennsylvania,Lehigh County,Medical,31.0,"",32.0,4
+2020-04-02,Pennsylvania,Lehigh County,Outdoors & Recreation,85.0,78.0,85.0,5
+2020-04-02,Pennsylvania,Lehigh County,Professional & Other Places,53.0,"",53.0,6
+2020-04-02,Pennsylvania,Lehigh County,Gas Stations,55.0,"",55.0,7
+2020-04-02,Pennsylvania,Lehigh County,Nightlife Spots,42.0,"",42.0,8
+2020-04-02,Pennsylvania,Lehigh County,Fast Food Restaurants,54.0,"",54.0,9
+2020-04-02,Pennsylvania,Lehigh County,Convenience Store,47.0,"",48.0,10
+2020-04-02,Pennsylvania,Lehigh County,Big Box Stores,68.0,"",68.0,11
+2020-04-02,Pennsylvania,Lehigh County,Drug Store,77.0,"",78.0,12
+2020-04-02,Pennsylvania,Lehigh County,Office,44.0,"",45.0,13
+2020-04-02,Pennsylvania,Lehigh County,Residences,59.0,"",59.0,14
+2020-04-02,Pennsylvania,Lehigh County,Hardware Stores,69.0,"",69.0,15
+2020-04-02,Pennsylvania,Lehigh County,Travel & Transport,56.0,"",56.0,16
+2020-04-02,Pennsylvania,Indiana County,Gas Stations,54.0,"",54.0,1
+2020-04-02,Pennsylvania,Clearfield County,Food,45.0,49.0,44.0,1
+2020-04-02,Pennsylvania,Clearfield County,Gas Stations,57.0,"",56.0,2
+2020-04-02,Pennsylvania,Clearfield County,Medical,52.0,"",52.0,3
+2020-04-02,Pennsylvania,Monroe County,Shops & Services,43.0,"",43.0,1
+2020-04-02,Pennsylvania,Monroe County,Grocery,77.0,"",78.0,2
+2020-04-02,Pennsylvania,Monroe County,Food,34.0,"",34.0,3
+2020-04-02,Pennsylvania,Monroe County,Outdoors & Recreation,72.0,"",72.0,4
+2020-04-02,Pennsylvania,Monroe County,Big Box Stores,68.0,"",68.0,5
+2020-04-02,Pennsylvania,Monroe County,Gas Stations,55.0,"",55.0,6
+2020-04-02,Pennsylvania,Monroe County,Drug Store,125.0,"",128.0,7
+2020-04-02,Pennsylvania,Monroe County,Professional & Other Places,64.0,"",63.0,8
+2020-04-02,Pennsylvania,Erie County,Shops & Services,45.0,51.0,45.0,1
+2020-04-02,Pennsylvania,Erie County,Food,41.0,39.0,41.0,2
+2020-04-02,Pennsylvania,Erie County,Gas Stations,58.0,56.0,58.0,3
+2020-04-02,Pennsylvania,Erie County,Professional & Other Places,46.0,"",47.0,4
+2020-04-02,Pennsylvania,Erie County,Grocery,75.0,80.0,74.0,5
+2020-04-02,Pennsylvania,Erie County,Outdoors & Recreation,82.0,103.0,81.0,6
+2020-04-02,Pennsylvania,Erie County,Big Box Stores,58.0,"",58.0,7
+2020-04-02,Pennsylvania,Erie County,Medical,36.0,37.0,36.0,8
+2020-04-02,Pennsylvania,Erie County,Nightlife Spots,34.0,"",34.0,9
+2020-04-02,Pennsylvania,Erie County,Fast Food Restaurants,41.0,"",42.0,10
+2020-04-02,Pennsylvania,Erie County,Discount Stores,63.0,"",63.0,11
+2020-04-02,Pennsylvania,Erie County,Hardware Stores,87.0,"",87.0,12
+2020-04-02,Pennsylvania,Erie County,Drug Store,56.0,"",55.0,13
+2020-04-02,Pennsylvania,Bucks County,Shops & Services,44.0,38.0,44.0,1
+2020-04-02,Pennsylvania,Bucks County,Food,39.0,29.0,40.0,2
+2020-04-02,Pennsylvania,Bucks County,Grocery,83.0,82.0,83.0,3
+2020-04-02,Pennsylvania,Bucks County,Outdoors & Recreation,85.0,85.0,85.0,4
+2020-04-02,Pennsylvania,Bucks County,Convenience Store,49.0,36.0,50.0,5
+2020-04-02,Pennsylvania,Bucks County,Big Box Stores,71.0,"",72.0,6
+2020-04-02,Pennsylvania,Bucks County,Medical,34.0,23.0,34.0,7
+2020-04-02,Pennsylvania,Bucks County,Nightlife Spots,35.0,46.0,35.0,8
+2020-04-02,Pennsylvania,Bucks County,Fast Food Restaurants,55.0,"",56.0,9
+2020-04-02,Pennsylvania,Bucks County,Professional & Other Places,54.0,52.0,54.0,10
+2020-04-02,Pennsylvania,Bucks County,Drug Store,61.0,"",62.0,11
+2020-04-02,Pennsylvania,Bucks County,Hardware Stores,79.0,"",79.0,12
+2020-04-02,Pennsylvania,Bucks County,Residences,60.0,"",61.0,13
+2020-04-02,Pennsylvania,Bucks County,Arts & Entertainment,35.0,"",35.0,14
+2020-04-02,Pennsylvania,Bucks County,Office,44.0,"",44.0,15
+2020-04-02,Pennsylvania,Bucks County,School,18.0,"",18.0,16
+2020-04-02,Pennsylvania,Bucks County,Gas Stations,53.0,"",53.0,17
+2020-04-02,Pennsylvania,Bucks County,Banks,60.0,"",60.0,18
+2020-04-02,Pennsylvania,Bucks County,Travel & Transport,43.0,"",43.0,19
+2020-04-02,Pennsylvania,Northumberland County,Food,47.0,"",48.0,1
+2020-04-02,Pennsylvania,Northumberland County,Grocery,74.0,"",74.0,2
+2020-04-02,Pennsylvania,Northumberland County,Nightlife Spots,38.0,"",38.0,3
+2020-04-02,Pennsylvania,Northumberland County,Shops & Services,84.0,"",85.0,4
+2020-04-02,Pennsylvania,Beaver County,Food,55.0,48.0,55.0,1
+2020-04-02,Pennsylvania,Beaver County,Shops & Services,46.0,"",46.0,2
+2020-04-02,Pennsylvania,Beaver County,Nightlife Spots,48.0,"",48.0,3
+2020-04-02,Pennsylvania,Beaver County,Grocery,75.0,"",76.0,4
+2020-04-02,Pennsylvania,Beaver County,Gas Stations,57.0,"",57.0,5
+2020-04-02,Pennsylvania,Beaver County,Outdoors & Recreation,36.0,"",36.0,6
+2020-04-02,Pennsylvania,Beaver County,Big Box Stores,52.0,"",52.0,7
+2020-04-02,Pennsylvania,Luzerne County,Food,37.0,33.0,37.0,1
+2020-04-02,Pennsylvania,Luzerne County,Shops & Services,38.0,35.0,38.0,2
+2020-04-02,Pennsylvania,Luzerne County,Gas Stations,51.0,45.0,52.0,3
+2020-04-02,Pennsylvania,Luzerne County,Grocery,65.0,53.0,65.0,4
+2020-04-02,Pennsylvania,Luzerne County,Nightlife Spots,38.0,"",38.0,5
+2020-04-02,Pennsylvania,Luzerne County,Medical,33.0,"",33.0,6
+2020-04-02,Pennsylvania,Luzerne County,Professional & Other Places,58.0,"",58.0,7
+2020-04-02,Pennsylvania,Luzerne County,Fast Food Restaurants,49.0,79.0,48.0,8
+2020-04-02,Pennsylvania,Luzerne County,Outdoors & Recreation,64.0,"",63.0,9
+2020-04-02,Pennsylvania,Luzerne County,Big Box Stores,44.0,"",44.0,10
+2020-04-02,Pennsylvania,Luzerne County,Hardware Stores,75.0,"",78.0,11
+2020-04-02,Pennsylvania,Chester County,Shops & Services,41.0,34.0,41.0,1
+2020-04-02,Pennsylvania,Chester County,Food,37.0,29.0,38.0,2
+2020-04-02,Pennsylvania,Chester County,Grocery,67.0,52.0,68.0,3
+2020-04-02,Pennsylvania,Chester County,Outdoors & Recreation,74.0,61.0,74.0,4
+2020-04-02,Pennsylvania,Chester County,Medical,39.0,37.0,39.0,5
+2020-04-02,Pennsylvania,Chester County,Convenience Store,38.0,33.0,38.0,6
+2020-04-02,Pennsylvania,Chester County,Nightlife Spots,47.0,"",47.0,7
+2020-04-02,Pennsylvania,Chester County,Residences,61.0,59.0,61.0,8
+2020-04-02,Pennsylvania,Chester County,Professional & Other Places,50.0,"",50.0,9
+2020-04-02,Pennsylvania,Chester County,Office,33.0,"",32.0,10
+2020-04-02,Pennsylvania,Chester County,Drug Store,62.0,69.0,61.0,11
+2020-04-02,Pennsylvania,Chester County,Gas Stations,58.0,"",58.0,12
+2020-04-02,Pennsylvania,Chester County,Big Box Stores,63.0,"",64.0,13
+2020-04-02,Pennsylvania,Chester County,Hardware Stores,77.0,"",78.0,14
+2020-04-02,Pennsylvania,Chester County,School,20.0,"",20.0,15
+2020-04-02,Pennsylvania,Chester County,Fast Food Restaurants,39.0,"",39.0,16
+2020-04-02,Pennsylvania,Cumberland County,Shops & Services,43.0,41.0,43.0,1
+2020-04-02,Pennsylvania,Cumberland County,Food,37.0,30.0,38.0,2
+2020-04-02,Pennsylvania,Cumberland County,Grocery,79.0,65.0,80.0,3
+2020-04-02,Pennsylvania,Cumberland County,Gas Stations,60.0,52.0,60.0,4
+2020-04-02,Pennsylvania,Cumberland County,Professional & Other Places,68.0,"",68.0,5
+2020-04-02,Pennsylvania,Cumberland County,Office,59.0,"",59.0,6
+2020-04-02,Pennsylvania,Cumberland County,Nightlife Spots,44.0,60.0,43.0,7
+2020-04-02,Pennsylvania,Cumberland County,Outdoors & Recreation,80.0,"",80.0,8
+2020-04-02,Pennsylvania,Cumberland County,Big Box Stores,58.0,"",58.0,9
+2020-04-02,Pennsylvania,Cumberland County,Medical,34.0,"",35.0,10
+2020-04-02,Pennsylvania,Cumberland County,Fast Food Restaurants,55.0,"",55.0,11
+2020-04-02,Pennsylvania,Cumberland County,Hardware Stores,90.0,"",91.0,12
+2020-04-02,Pennsylvania,Cumberland County,Residences,54.0,"",53.0,13
+2020-04-02,Pennsylvania,Cumberland County,Drug Store,82.0,"",86.0,14
+2020-04-02,Pennsylvania,Lackawanna County,Food,40.0,27.0,41.0,1
+2020-04-02,Pennsylvania,Lackawanna County,Shops & Services,40.0,36.0,40.0,2
+2020-04-02,Pennsylvania,Lackawanna County,Grocery,69.0,66.0,69.0,3
+2020-04-02,Pennsylvania,Lackawanna County,Nightlife Spots,41.0,"",41.0,4
+2020-04-02,Pennsylvania,Lackawanna County,Gas Stations,48.0,"",48.0,5
+2020-04-02,Pennsylvania,Lackawanna County,Medical,36.0,"",36.0,6
+2020-04-02,Pennsylvania,Lackawanna County,Outdoors & Recreation,62.0,"",62.0,7
+2020-04-02,Pennsylvania,Lackawanna County,Fast Food Restaurants,59.0,"",60.0,8
+2020-04-02,Pennsylvania,Lackawanna County,Big Box Stores,61.0,"",62.0,9
+2020-04-02,Pennsylvania,Bedford County,Gas Stations,54.0,"",55.0,1
+2020-04-02,Pennsylvania,Mercer County,Shops & Services,48.0,"",48.0,1
+2020-04-02,Pennsylvania,Mercer County,Food,42.0,"",42.0,2
+2020-04-02,Pennsylvania,Mercer County,Gas Stations,55.0,"",55.0,3
+2020-04-02,Pennsylvania,Mercer County,Big Box Stores,65.0,"",65.0,4
+2020-04-02,Pennsylvania,Mercer County,Grocery,90.0,"",89.0,5
+2020-04-02,Pennsylvania,Mercer County,Professional & Other Places,62.0,"",61.0,6
+2020-04-02,Pennsylvania,Mercer County,Outdoors & Recreation,75.0,"",75.0,7
+2020-04-02,Pennsylvania,Warren County,Shops & Services,58.0,"",59.0,1
+2020-04-02,Pennsylvania,Montour County,Medical,33.0,"",34.0,1
+2020-04-02,Pennsylvania,Lebanon County,Shops & Services,49.0,42.0,49.0,1
+2020-04-02,Pennsylvania,Lebanon County,Food,39.0,"",40.0,2
+2020-04-02,Pennsylvania,Lebanon County,Grocery,55.0,"",55.0,3
+2020-04-02,Pennsylvania,Lebanon County,Gas Stations,51.0,"",52.0,4
+2020-04-02,Pennsylvania,Lebanon County,Outdoors & Recreation,62.0,"",62.0,5
+2020-04-02,Pennsylvania,Lebanon County,Professional & Other Places,68.0,"",67.0,6
+2020-04-02,Pennsylvania,Lebanon County,Medical,41.0,"",41.0,7
+2020-04-02,Pennsylvania,Crawford County,Food,55.0,"",55.0,1
+2020-04-02,Pennsylvania,Crawford County,Shops & Services,58.0,"",58.0,2
+2020-04-02,Pennsylvania,Crawford County,Nightlife Spots,46.0,"",46.0,3
+2020-04-02,Pennsylvania,Crawford County,Gas Stations,56.0,"",56.0,4
+2020-04-02,Pennsylvania,Crawford County,Outdoors & Recreation,89.0,"",88.0,5
+2020-04-02,Pennsylvania,Somerset County,Food,52.0,"",52.0,1
+2020-04-02,Pennsylvania,Somerset County,Gas Stations,62.0,"",63.0,2
+2020-04-02,Pennsylvania,Delaware County,Shops & Services,54.0,43.0,54.0,1
+2020-04-02,Pennsylvania,Delaware County,Food,38.0,25.0,39.0,2
+2020-04-02,Pennsylvania,Delaware County,Grocery,84.0,73.0,84.0,3
+2020-04-02,Pennsylvania,Delaware County,Convenience Store,47.0,38.0,47.0,4
+2020-04-02,Pennsylvania,Delaware County,Outdoors & Recreation,74.0,"",75.0,5
+2020-04-02,Pennsylvania,Delaware County,Medical,35.0,"",36.0,6
+2020-04-02,Pennsylvania,Delaware County,Drug Store,67.0,65.0,67.0,7
+2020-04-02,Pennsylvania,Delaware County,Big Box Stores,77.0,"",79.0,8
+2020-04-02,Pennsylvania,Delaware County,Fast Food Restaurants,53.0,"",54.0,9
+2020-04-02,Pennsylvania,Delaware County,Professional & Other Places,45.0,"",45.0,10
+2020-04-02,Pennsylvania,Delaware County,Nightlife Spots,36.0,"",36.0,11
+2020-04-02,Pennsylvania,Delaware County,Residences,58.0,"",59.0,12
+2020-04-02,Pennsylvania,Delaware County,Gas Stations,55.0,"",56.0,13
+2020-04-02,Pennsylvania,Delaware County,School,20.0,"",20.0,14
+2020-04-02,Pennsylvania,Delaware County,Airport,22.0,"",22.0,15
+2020-04-02,Pennsylvania,Delaware County,Hardware Stores,99.0,"",101.0,16
+2020-04-02,Pennsylvania,Delaware County,Government,39.0,"",40.0,17
+2020-04-02,Pennsylvania,Delaware County,Office,32.0,"",32.0,18
+2020-04-02,Pennsylvania,Delaware County,Travel & Transport,40.0,"",40.0,19
+2020-04-02,Pennsylvania,Adams County,Food,37.0,"",38.0,1
+2020-04-02,Pennsylvania,Adams County,Grocery,72.0,"",73.0,2
+2020-04-02,Pennsylvania,Armstrong County,Food,66.0,"",66.0,1
+2020-04-02,Pennsylvania,Cambria County,Food,47.0,"",47.0,1
+2020-04-02,Pennsylvania,Cambria County,Gas Stations,54.0,"",54.0,2
+2020-04-02,Pennsylvania,Cambria County,Grocery,97.0,"",98.0,3
+2020-04-02,Pennsylvania,Cambria County,Shops & Services,52.0,"",52.0,4
+2020-04-02,Pennsylvania,Cambria County,Nightlife Spots,37.0,"",37.0,5
+2020-04-02,Pennsylvania,Berks County,Shops & Services,44.0,39.0,44.0,1
+2020-04-02,Pennsylvania,Berks County,Food,40.0,32.0,41.0,2
+2020-04-02,Pennsylvania,Berks County,Grocery,86.0,76.0,87.0,3
+2020-04-02,Pennsylvania,Berks County,Gas Stations,60.0,52.0,60.0,4
+2020-04-02,Pennsylvania,Berks County,Outdoors & Recreation,80.0,86.0,80.0,5
+2020-04-02,Pennsylvania,Berks County,Big Box Stores,60.0,"",61.0,6
+2020-04-02,Pennsylvania,Berks County,Nightlife Spots,45.0,"",45.0,7
+2020-04-02,Pennsylvania,Berks County,Professional & Other Places,53.0,57.0,53.0,8
+2020-04-02,Pennsylvania,Berks County,Medical,34.0,"",34.0,9
+2020-04-02,Pennsylvania,Berks County,Fast Food Restaurants,57.0,"",57.0,10
+2020-04-02,Pennsylvania,Berks County,Convenience Store,52.0,"",53.0,11
+2020-04-02,Pennsylvania,Berks County,Hardware Stores,97.0,"",98.0,12
+2020-04-02,Pennsylvania,Berks County,Arts & Entertainment,49.0,"",48.0,13
+2020-04-02,Pennsylvania,Berks County,School,19.0,"",19.0,14
+2020-04-02,Pennsylvania,Berks County,Discount Stores,66.0,"",67.0,15
+2020-04-02,Pennsylvania,Berks County,Drug Store,71.0,"",71.0,16
+2020-04-02,Pennsylvania,Berks County,Government,41.0,"",41.0,17
+2020-04-02,Pennsylvania,Schuylkill County,Food,43.0,"",44.0,1
+2020-04-02,Pennsylvania,Schuylkill County,Shops & Services,54.0,"",55.0,2
+2020-04-02,Pennsylvania,Schuylkill County,Nightlife Spots,47.0,"",47.0,3
+2020-04-02,Pennsylvania,Schuylkill County,Professional & Other Places,83.0,"",83.0,4
+2020-04-02,Pennsylvania,Schuylkill County,Grocery,72.0,"",73.0,5
+2020-04-02,Pennsylvania,Schuylkill County,Gas Stations,50.0,"",50.0,6
+2020-04-02,Pennsylvania,Schuylkill County,Outdoors & Recreation,91.0,"",91.0,7
+2020-04-02,Pennsylvania,Bradford County,Gas Stations,64.0,"",64.0,1
+2020-04-02,Pennsylvania,Bradford County,Food,43.0,"",44.0,2
