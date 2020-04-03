@@ -66,14 +66,6 @@ h4 {
   text-transform: uppercase;
 }
 
-/*
- * Content
- */
-
-/*
- * Navbar
- */
-
 .form-control-dark {
   color: #fff;
   background-color: rgba(255, 255, 255, .1);
@@ -102,6 +94,7 @@ h4 {
   }
   .faqlist {
       max-width: 600px;
+    }
 
   .map-us {
     width: 1000px;
@@ -129,8 +122,7 @@ h4 {
 
   .foursquare-logo {
     width: 200px;
-    height: 50px;
-    max-width:160px;
+    height: 40px;
   }
 
   .mobile-btn {
@@ -139,10 +131,10 @@ h4 {
 
   .mobile-header {
     margin-top: 4px;
+  }
 
   .faqlist {
       max-width: 600px;
-  }
 }
 
 @media (min-width: 745px) and (max-width: 800px) {
@@ -164,7 +156,7 @@ h4 {
 
   .foursquare-logo {
     width: 200px;
-    height: 50px;
+    height: 40px;
   }
 
   .mobile-btn {
