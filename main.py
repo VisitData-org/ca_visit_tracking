@@ -50,6 +50,10 @@ def bystatesel(state, venues):
 def faq():
     return render_template("faq.html")
 
+@app.route("/nonav")
+def nonav():
+    return render_template(maps_api_key=appstate["maps_api_key"])
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
