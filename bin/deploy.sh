@@ -62,6 +62,8 @@ else
 fi
 
 cd "${DIR}/.."
-"${SKIP_VALIDATE}" || validate
+if [ -z "${SKIP_VALIDATE}" ]; then
+  validate
+fi
 record_version
 deploy
