@@ -1,928 +1,955 @@
-2020-03-01,Wisconsin,Food,49.0,48.0,49.0,1
-2020-03-01,Wisconsin,Shops & Services,44.0,42.0,44.0,2
-2020-03-01,Wisconsin,Nightlife Spots,63.0,64.0,63.0,3
+2020-03-01,Wisconsin,Food,108.0,104.0,108.0,1
+2020-03-01,Wisconsin,Shops & Services,117.0,118.0,117.0,2
+2020-03-01,Wisconsin,Nightlife Spots,103.0,102.0,103.0,3
 2020-03-01,Wisconsin,Grocery,99.0,99.0,99.0,4
-2020-03-01,Wisconsin,Outdoors & Recreation,55.0,57.0,55.0,5
+2020-03-01,Wisconsin,Outdoors & Recreation,107.0,107.0,107.0,5
 2020-03-01,Wisconsin,Big Box Stores,107.0,111.0,107.0,6
 2020-03-01,Wisconsin,Gas Stations,104.0,106.0,104.0,7
-2020-03-01,Wisconsin,Arts & Entertainment,84.0,86.0,84.0,8
+2020-03-01,Wisconsin,Arts & Entertainment,104.0,108.0,104.0,8
 2020-03-01,Wisconsin,Fast Food Restaurants,113.0,116.0,113.0,9
 2020-03-01,Wisconsin,Convenience Store,104.0,105.0,104.0,10
-2020-03-01,Wisconsin,School,63.0,61.0,63.0,11
-2020-03-01,Wisconsin,Professional & Other Places,21.0,18.0,21.0,12
-2020-03-01,Wisconsin,Hotel,75.0,66.0,75.0,13
+2020-03-01,Wisconsin,School,111.0,107.0,112.0,11
+2020-03-01,Wisconsin,Professional & Other Places,110.0,105.0,110.0,12
+2020-03-01,Wisconsin,Hotel,101.0,92.0,101.0,13
 2020-03-01,Wisconsin,Hardware Stores,109.0,108.0,110.0,14
-2020-03-01,Wisconsin,Colleges & Universities,82.0,91.0,82.0,15
-2020-03-01,Wisconsin,Medical,56.0,60.0,56.0,16
-2020-03-01,Wisconsin,Sports,43.0,45.0,43.0,17
+2020-03-01,Wisconsin,Colleges & Universities,104.0,111.0,104.0,15
+2020-03-01,Wisconsin,Medical,99.0,106.0,99.0,16
+2020-03-01,Wisconsin,Sports,105.0,103.0,105.0,17
 2020-03-01,Wisconsin,Drug Store,105.0,98.0,105.0,18
-2020-03-01,Wisconsin,Fitness Center,69.0,73.0,69.0,19
-2020-03-01,Wisconsin,Residences,82.0,85.0,82.0,20
+2020-03-01,Wisconsin,Fitness Center,103.0,110.0,103.0,19
+2020-03-01,Wisconsin,Residences,100.0,102.0,100.0,20
 2020-03-01,Wisconsin,Discount Stores,112.0,97.0,112.0,21
-2020-03-01,Wisconsin,Airport,71.0,77.0,71.0,22
-2020-03-01,Wisconsin,Office,94.0,90.0,94.0,23
-2020-03-01,Wisconsin,Government,63.0,62.0,63.0,24
+2020-03-01,Wisconsin,Airport,106.0,114.0,106.0,22
+2020-03-01,Wisconsin,Office,109.0,107.0,109.0,23
+2020-03-01,Wisconsin,Government,107.0,107.0,107.0,24
 2020-03-01,Wisconsin,Alcohol,105.0,101.0,105.0,25
-2020-03-01,Wisconsin,Travel & Transport,25.0,27.0,24.0,26
+2020-03-01,Wisconsin,Travel & Transport,107.0,115.0,107.0,26
 2020-03-01,Wisconsin,Banks,115.0,107.0,115.0,27
-2020-03-01,Wisconsin,Beach,94.0,91.0,95.0,28
-2020-03-01,Wisconsin,Skiing,66.0,78.0,66.0,29
-2020-03-01,Wisconsin,Bus,63.0,"",63.0,30
-2020-03-01,Wisconsin,Spiritual Center,3.0,"",3.0,31
-2020-03-02,Wisconsin,Shops & Services,36.0,37.0,36.0,1
-2020-03-02,Wisconsin,Food,46.0,46.0,46.0,2
-2020-03-02,Wisconsin,Nightlife Spots,60.0,59.0,60.0,3
-2020-03-02,Wisconsin,Medical,55.0,53.0,55.0,4
+2020-03-01,Wisconsin,Beach,108.0,103.0,108.0,28
+2020-03-01,Wisconsin,Skiing,79.0,94.0,79.0,29
+2020-03-01,Wisconsin,Bus,101.0,"",100.0,30
+2020-03-01,Wisconsin,Spiritual Center,112.0,"",111.0,31
+2020-03-02,Wisconsin,Shops & Services,106.0,105.0,106.0,1
+2020-03-02,Wisconsin,Food,103.0,99.0,103.0,2
+2020-03-02,Wisconsin,Nightlife Spots,99.0,95.0,99.0,3
+2020-03-02,Wisconsin,Medical,98.0,94.0,98.0,4
 2020-03-02,Wisconsin,Grocery,99.0,93.0,99.0,5
-2020-03-02,Wisconsin,Outdoors & Recreation,45.0,45.0,45.0,6
+2020-03-02,Wisconsin,Outdoors & Recreation,95.0,95.0,95.0,6
 2020-03-02,Wisconsin,Gas Stations,96.0,96.0,96.0,7
-2020-03-02,Wisconsin,School,54.0,56.0,54.0,8
+2020-03-02,Wisconsin,School,98.0,99.0,98.0,8
 2020-03-02,Wisconsin,Fast Food Restaurants,107.0,100.0,108.0,9
-2020-03-02,Wisconsin,Professional & Other Places,16.0,17.0,16.0,10
+2020-03-02,Wisconsin,Professional & Other Places,97.0,99.0,97.0,10
 2020-03-02,Wisconsin,Convenience Store,98.0,98.0,98.0,11
-2020-03-02,Wisconsin,Colleges & Universities,57.0,66.0,57.0,12
+2020-03-02,Wisconsin,Colleges & Universities,96.0,111.0,96.0,12
 2020-03-02,Wisconsin,Big Box Stores,101.0,94.0,102.0,13
-2020-03-02,Wisconsin,Office,81.0,79.0,81.0,14
-2020-03-02,Wisconsin,Arts & Entertainment,84.0,80.0,84.0,15
-2020-03-02,Wisconsin,Fitness Center,66.0,63.0,66.0,16
+2020-03-02,Wisconsin,Office,92.0,90.0,92.0,14
+2020-03-02,Wisconsin,Arts & Entertainment,101.0,97.0,101.0,15
+2020-03-02,Wisconsin,Fitness Center,99.0,96.0,100.0,16
 2020-03-02,Wisconsin,Hardware Stores,102.0,100.0,102.0,17
-2020-03-02,Wisconsin,Hotel,74.0,70.0,74.0,18
+2020-03-02,Wisconsin,Hotel,98.0,95.0,98.0,18
 2020-03-02,Wisconsin,Drug Store,100.0,107.0,100.0,19
-2020-03-02,Wisconsin,Government,63.0,67.0,62.0,20
-2020-03-02,Wisconsin,Residences,79.0,82.0,79.0,21
-2020-03-02,Wisconsin,Sports,31.0,32.0,31.0,22
+2020-03-02,Wisconsin,Government,101.0,107.0,101.0,20
+2020-03-02,Wisconsin,Residences,97.0,103.0,97.0,21
+2020-03-02,Wisconsin,Sports,95.0,96.0,95.0,22
 2020-03-02,Wisconsin,Banks,117.0,127.0,117.0,23
-2020-03-02,Wisconsin,Airport,59.0,64.0,58.0,24
+2020-03-02,Wisconsin,Airport,89.0,97.0,89.0,24
 2020-03-02,Wisconsin,Discount Stores,96.0,89.0,96.0,25
-2020-03-02,Wisconsin,Travel & Transport,24.0,25.0,24.0,26
+2020-03-02,Wisconsin,Travel & Transport,105.0,93.0,105.0,26
 2020-03-02,Wisconsin,Alcohol,106.0,98.0,107.0,27
-2020-03-02,Wisconsin,Bus,64.0,84.0,64.0,28
-2020-03-02,Wisconsin,Beach,88.0,117.0,86.0,29
+2020-03-02,Wisconsin,Bus,97.0,125.0,97.0,28
+2020-03-02,Wisconsin,Beach,100.0,139.0,98.0,29
 2020-03-02,Wisconsin,Light Rail Stations,116.0,"",117.0,30
-2020-03-02,Wisconsin,Skiing,60.0,"",59.0,31
-2020-03-03,Wisconsin,Shops & Services,39.0,39.0,39.0,1
-2020-03-03,Wisconsin,Food,46.0,45.0,47.0,2
-2020-03-03,Wisconsin,Nightlife Spots,60.0,59.0,60.0,3
-2020-03-03,Wisconsin,Medical,57.0,57.0,57.0,4
+2020-03-02,Wisconsin,Skiing,76.0,"",75.0,31
+2020-03-03,Wisconsin,Shops & Services,107.0,100.0,107.0,1
+2020-03-03,Wisconsin,Food,103.0,97.0,104.0,2
+2020-03-03,Wisconsin,Nightlife Spots,101.0,97.0,101.0,3
+2020-03-03,Wisconsin,Medical,101.0,101.0,101.0,4
 2020-03-03,Wisconsin,Grocery,101.0,99.0,101.0,5
-2020-03-03,Wisconsin,Outdoors & Recreation,47.0,48.0,47.0,6
+2020-03-03,Wisconsin,Outdoors & Recreation,99.0,99.0,99.0,6
 2020-03-03,Wisconsin,Gas Stations,98.0,94.0,98.0,7
-2020-03-03,Wisconsin,School,48.0,47.0,48.0,8
-2020-03-03,Wisconsin,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-03,Wisconsin,School,87.0,84.0,87.0,8
+2020-03-03,Wisconsin,Professional & Other Places,98.0,95.0,98.0,9
 2020-03-03,Wisconsin,Fast Food Restaurants,105.0,94.0,105.0,10
-2020-03-03,Wisconsin,Colleges & Universities,65.0,63.0,65.0,11
+2020-03-03,Wisconsin,Colleges & Universities,95.0,93.0,96.0,11
 2020-03-03,Wisconsin,Convenience Store,98.0,96.0,98.0,12
 2020-03-03,Wisconsin,Big Box Stores,106.0,106.0,106.0,13
-2020-03-03,Wisconsin,Office,86.0,92.0,86.0,14
-2020-03-03,Wisconsin,Arts & Entertainment,82.0,79.0,83.0,15
-2020-03-03,Wisconsin,Fitness Center,67.0,64.0,67.0,16
+2020-03-03,Wisconsin,Office,98.0,104.0,98.0,14
+2020-03-03,Wisconsin,Arts & Entertainment,102.0,97.0,102.0,15
+2020-03-03,Wisconsin,Fitness Center,102.0,98.0,102.0,16
 2020-03-03,Wisconsin,Hardware Stores,107.0,101.0,108.0,17
 2020-03-03,Wisconsin,Drug Store,107.0,107.0,107.0,18
-2020-03-03,Wisconsin,Hotel,78.0,66.0,79.0,19
-2020-03-03,Wisconsin,Government,60.0,60.0,60.0,20
+2020-03-03,Wisconsin,Hotel,101.0,90.0,101.0,19
+2020-03-03,Wisconsin,Government,97.0,99.0,97.0,20
 2020-03-03,Wisconsin,Residences,96.0,103.0,96.0,21
-2020-03-03,Wisconsin,Sports,30.0,32.0,30.0,22
+2020-03-03,Wisconsin,Sports,96.0,95.0,96.0,22
 2020-03-03,Wisconsin,Banks,118.0,110.0,118.0,23
-2020-03-03,Wisconsin,Airport,68.0,74.0,68.0,24
+2020-03-03,Wisconsin,Airport,102.0,109.0,102.0,24
 2020-03-03,Wisconsin,Discount Stores,102.0,101.0,102.0,25
-2020-03-03,Wisconsin,Travel & Transport,26.0,32.0,26.0,26
+2020-03-03,Wisconsin,Travel & Transport,109.0,119.0,108.0,26
 2020-03-03,Wisconsin,Alcohol,104.0,91.0,104.0,27
-2020-03-03,Wisconsin,Bus,66.0,59.0,67.0,28
-2020-03-03,Wisconsin,Beach,89.0,68.0,90.0,29
-2020-03-03,Wisconsin,Skiing,77.0,"",77.0,30
+2020-03-03,Wisconsin,Bus,102.0,90.0,103.0,28
+2020-03-03,Wisconsin,Beach,98.0,75.0,99.0,29
+2020-03-03,Wisconsin,Skiing,92.0,"",91.0,30
 2020-03-03,Wisconsin,Light Rail Stations,80.0,"",81.0,31
-2020-03-04,Wisconsin,Shops & Services,35.0,35.0,35.0,1
-2020-03-04,Wisconsin,Food,45.0,45.0,45.0,2
-2020-03-04,Wisconsin,Nightlife Spots,58.0,60.0,58.0,3
-2020-03-04,Wisconsin,Medical,54.0,52.0,54.0,4
-2020-03-04,Wisconsin,School,54.0,56.0,54.0,5
+2020-03-04,Wisconsin,Shops & Services,106.0,105.0,106.0,1
+2020-03-04,Wisconsin,Food,102.0,97.0,102.0,2
+2020-03-04,Wisconsin,Nightlife Spots,100.0,99.0,100.0,3
+2020-03-04,Wisconsin,Medical,96.0,93.0,96.0,4
+2020-03-04,Wisconsin,School,96.0,97.0,96.0,5
 2020-03-04,Wisconsin,Grocery,98.0,97.0,98.0,6
-2020-03-04,Wisconsin,Outdoors & Recreation,47.0,52.0,47.0,7
+2020-03-04,Wisconsin,Outdoors & Recreation,102.0,106.0,101.0,7
 2020-03-04,Wisconsin,Gas Stations,100.0,102.0,100.0,8
-2020-03-04,Wisconsin,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-04,Wisconsin,Professional & Other Places,101.0,98.0,101.0,9
 2020-03-04,Wisconsin,Fast Food Restaurants,101.0,102.0,101.0,10
 2020-03-04,Wisconsin,Convenience Store,98.0,96.0,98.0,11
-2020-03-04,Wisconsin,Colleges & Universities,56.0,61.0,56.0,12
+2020-03-04,Wisconsin,Colleges & Universities,95.0,103.0,95.0,12
 2020-03-04,Wisconsin,Big Box Stores,100.0,97.0,100.0,13
-2020-03-04,Wisconsin,Office,84.0,84.0,84.0,14
-2020-03-04,Wisconsin,Arts & Entertainment,83.0,81.0,84.0,15
-2020-03-04,Wisconsin,Fitness Center,63.0,61.0,63.0,16
-2020-03-04,Wisconsin,Hotel,81.0,70.0,81.0,17
+2020-03-04,Wisconsin,Office,95.0,95.0,95.0,14
+2020-03-04,Wisconsin,Arts & Entertainment,107.0,102.0,107.0,15
+2020-03-04,Wisconsin,Fitness Center,96.0,94.0,96.0,16
+2020-03-04,Wisconsin,Hotel,104.0,93.0,105.0,17
 2020-03-04,Wisconsin,Hardware Stores,102.0,104.0,102.0,18
 2020-03-04,Wisconsin,Drug Store,103.0,98.0,103.0,19
-2020-03-04,Wisconsin,Government,63.0,66.0,63.0,20
+2020-03-04,Wisconsin,Government,101.0,106.0,101.0,20
 2020-03-04,Wisconsin,Residences,103.0,101.0,103.0,21
-2020-03-04,Wisconsin,Sports,29.0,32.0,29.0,22
+2020-03-04,Wisconsin,Sports,97.0,96.0,97.0,22
 2020-03-04,Wisconsin,Banks,109.0,104.0,109.0,23
-2020-03-04,Wisconsin,Airport,64.0,70.0,64.0,24
+2020-03-04,Wisconsin,Airport,97.0,105.0,97.0,24
 2020-03-04,Wisconsin,Discount Stores,99.0,99.0,99.0,25
-2020-03-04,Wisconsin,Travel & Transport,23.0,23.0,23.0,26
+2020-03-04,Wisconsin,Travel & Transport,104.0,99.0,104.0,26
 2020-03-04,Wisconsin,Alcohol,96.0,88.0,96.0,27
-2020-03-04,Wisconsin,Bus,67.0,"",67.0,28
-2020-03-04,Wisconsin,Beach,97.0,97.0,97.0,29
-2020-03-04,Wisconsin,Skiing,78.0,"",78.0,30
+2020-03-04,Wisconsin,Bus,102.0,"",102.0,28
+2020-03-04,Wisconsin,Beach,113.0,120.0,113.0,29
+2020-03-04,Wisconsin,Skiing,98.0,"",99.0,30
 2020-03-04,Wisconsin,Light Rail Stations,96.0,"",95.0,31
-2020-03-05,Wisconsin,Food,48.0,48.0,48.0,1
-2020-03-05,Wisconsin,Shops & Services,32.0,33.0,32.0,2
-2020-03-05,Wisconsin,Nightlife Spots,63.0,60.0,63.0,3
+2020-03-05,Wisconsin,Food,107.0,103.0,107.0,1
+2020-03-05,Wisconsin,Shops & Services,104.0,102.0,104.0,2
+2020-03-05,Wisconsin,Nightlife Spots,104.0,96.0,104.0,3
 2020-03-05,Wisconsin,Grocery,102.0,103.0,102.0,4
-2020-03-05,Wisconsin,Medical,55.0,56.0,55.0,5
-2020-03-05,Wisconsin,School,53.0,53.0,53.0,6
+2020-03-05,Wisconsin,Medical,98.0,100.0,98.0,5
+2020-03-05,Wisconsin,School,95.0,94.0,95.0,6
 2020-03-05,Wisconsin,Gas Stations,98.0,96.0,98.0,7
-2020-03-05,Wisconsin,Outdoors & Recreation,48.0,49.0,48.0,8
-2020-03-05,Wisconsin,Professional & Other Places,18.0,18.0,18.0,9
+2020-03-05,Wisconsin,Outdoors & Recreation,101.0,97.0,102.0,8
+2020-03-05,Wisconsin,Professional & Other Places,108.0,111.0,108.0,9
 2020-03-05,Wisconsin,Fast Food Restaurants,103.0,101.0,103.0,10
 2020-03-05,Wisconsin,Convenience Store,99.0,92.0,99.0,11
-2020-03-05,Wisconsin,Colleges & Universities,61.0,67.0,61.0,12
+2020-03-05,Wisconsin,Colleges & Universities,104.0,111.0,104.0,12
 2020-03-05,Wisconsin,Big Box Stores,101.0,101.0,101.0,13
-2020-03-05,Wisconsin,Office,86.0,93.0,86.0,14
-2020-03-05,Wisconsin,Arts & Entertainment,84.0,77.0,84.0,15
-2020-03-05,Wisconsin,Fitness Center,67.0,64.0,67.0,16
-2020-03-05,Wisconsin,Hotel,81.0,67.0,82.0,17
+2020-03-05,Wisconsin,Office,98.0,105.0,98.0,14
+2020-03-05,Wisconsin,Arts & Entertainment,111.0,103.0,112.0,15
+2020-03-05,Wisconsin,Fitness Center,102.0,98.0,102.0,16
+2020-03-05,Wisconsin,Hotel,105.0,90.0,106.0,17
 2020-03-05,Wisconsin,Hardware Stores,109.0,107.0,110.0,18
 2020-03-05,Wisconsin,Drug Store,103.0,104.0,103.0,19
-2020-03-05,Wisconsin,Government,65.0,65.0,65.0,20
+2020-03-05,Wisconsin,Government,104.0,103.0,104.0,20
 2020-03-05,Wisconsin,Residences,103.0,93.0,103.0,21
-2020-03-05,Wisconsin,Sports,33.0,35.0,33.0,22
+2020-03-05,Wisconsin,Sports,99.0,95.0,99.0,22
 2020-03-05,Wisconsin,Banks,112.0,110.0,112.0,23
-2020-03-05,Wisconsin,Airport,60.0,52.0,61.0,24
+2020-03-05,Wisconsin,Airport,91.0,79.0,92.0,24
 2020-03-05,Wisconsin,Discount Stores,95.0,93.0,95.0,25
-2020-03-05,Wisconsin,Travel & Transport,25.0,26.0,25.0,26
+2020-03-05,Wisconsin,Travel & Transport,108.0,103.0,108.0,26
 2020-03-05,Wisconsin,Alcohol,109.0,101.0,109.0,27
-2020-03-05,Wisconsin,Bus,66.0,69.0,66.0,28
-2020-03-05,Wisconsin,Beach,81.0,95.0,80.0,29
+2020-03-05,Wisconsin,Bus,102.0,105.0,101.0,28
+2020-03-05,Wisconsin,Beach,94.0,112.0,94.0,29
 2020-03-05,Wisconsin,Light Rail Stations,96.0,"",96.0,30
-2020-03-05,Wisconsin,Skiing,64.0,"",64.0,31
-2020-03-05,Wisconsin,Spiritual Center,4.0,"",4.0,32
-2020-03-06,Wisconsin,Food,46.0,45.0,46.0,1
-2020-03-06,Wisconsin,Shops & Services,33.0,32.0,33.0,2
-2020-03-06,Wisconsin,Nightlife Spots,61.0,60.0,61.0,3
+2020-03-05,Wisconsin,Skiing,81.0,"",80.0,31
+2020-03-06,Wisconsin,Food,101.0,96.0,102.0,1
+2020-03-06,Wisconsin,Shops & Services,103.0,100.0,103.0,2
+2020-03-06,Wisconsin,Nightlife Spots,101.0,98.0,101.0,3
 2020-03-06,Wisconsin,Grocery,97.0,102.0,96.0,4
 2020-03-06,Wisconsin,Gas Stations,98.0,89.0,98.0,5
-2020-03-06,Wisconsin,Outdoors & Recreation,48.0,49.0,48.0,6
-2020-03-06,Wisconsin,School,55.0,54.0,55.0,7
+2020-03-06,Wisconsin,Outdoors & Recreation,102.0,103.0,102.0,6
+2020-03-06,Wisconsin,School,98.0,97.0,98.0,7
 2020-03-06,Wisconsin,Fast Food Restaurants,104.0,103.0,104.0,8
-2020-03-06,Wisconsin,Medical,57.0,53.0,57.0,9
+2020-03-06,Wisconsin,Medical,100.0,93.0,100.0,9
 2020-03-06,Wisconsin,Convenience Store,102.0,96.0,102.0,10
-2020-03-06,Wisconsin,Professional & Other Places,18.0,19.0,18.0,11
+2020-03-06,Wisconsin,Professional & Other Places,105.0,104.0,105.0,11
 2020-03-06,Wisconsin,Big Box Stores,99.0,96.0,99.0,12
-2020-03-06,Wisconsin,Arts & Entertainment,81.0,83.0,81.0,13
-2020-03-06,Wisconsin,Colleges & Universities,69.0,70.0,69.0,14
-2020-03-06,Wisconsin,Office,88.0,85.0,88.0,15
-2020-03-06,Wisconsin,Hotel,80.0,73.0,80.0,16
+2020-03-06,Wisconsin,Arts & Entertainment,104.0,107.0,104.0,13
+2020-03-06,Wisconsin,Colleges & Universities,100.0,99.0,100.0,14
+2020-03-06,Wisconsin,Office,101.0,97.0,101.0,15
+2020-03-06,Wisconsin,Hotel,106.0,100.0,106.0,16
 2020-03-06,Wisconsin,Hardware Stores,106.0,103.0,107.0,17
-2020-03-06,Wisconsin,Fitness Center,66.0,61.0,66.0,18
+2020-03-06,Wisconsin,Fitness Center,99.0,92.0,100.0,18
 2020-03-06,Wisconsin,Drug Store,94.0,97.0,93.0,19
-2020-03-06,Wisconsin,Government,69.0,65.0,70.0,20
-2020-03-06,Wisconsin,Residences,86.0,76.0,87.0,21
-2020-03-06,Wisconsin,Sports,33.0,35.0,33.0,22
+2020-03-06,Wisconsin,Government,111.0,104.0,111.0,20
+2020-03-06,Wisconsin,Residences,103.0,91.0,104.0,21
+2020-03-06,Wisconsin,Sports,96.0,99.0,96.0,22
 2020-03-06,Wisconsin,Banks,103.0,99.0,103.0,23
-2020-03-06,Wisconsin,Airport,66.0,61.0,66.0,24
+2020-03-06,Wisconsin,Airport,99.0,93.0,99.0,24
 2020-03-06,Wisconsin,Discount Stores,98.0,108.0,97.0,25
-2020-03-06,Wisconsin,Travel & Transport,24.0,24.0,24.0,26
+2020-03-06,Wisconsin,Travel & Transport,106.0,97.0,107.0,26
 2020-03-06,Wisconsin,Alcohol,102.0,111.0,102.0,27
-2020-03-06,Wisconsin,Bus,73.0,84.0,72.0,28
-2020-03-06,Wisconsin,Beach,90.0,94.0,90.0,29
-2020-03-06,Wisconsin,Skiing,53.0,"",52.0,30
+2020-03-06,Wisconsin,Bus,112.0,124.0,111.0,28
+2020-03-06,Wisconsin,Beach,106.0,115.0,105.0,29
+2020-03-06,Wisconsin,Skiing,66.0,"",65.0,30
 2020-03-06,Wisconsin,Light Rail Stations,103.0,"",102.0,31
-2020-03-07,Wisconsin,Food,46.0,44.0,46.0,1
-2020-03-07,Wisconsin,Shops & Services,36.0,33.0,36.0,2
-2020-03-07,Wisconsin,Nightlife Spots,58.0,54.0,58.0,3
+2020-03-07,Wisconsin,Food,100.0,94.0,100.0,1
+2020-03-07,Wisconsin,Shops & Services,105.0,98.0,105.0,2
+2020-03-07,Wisconsin,Nightlife Spots,101.0,93.0,101.0,3
 2020-03-07,Wisconsin,Grocery,97.0,94.0,97.0,4
-2020-03-07,Wisconsin,Outdoors & Recreation,47.0,48.0,47.0,5
-2020-03-07,Wisconsin,Arts & Entertainment,72.0,68.0,72.0,6
+2020-03-07,Wisconsin,Outdoors & Recreation,99.0,97.0,99.0,5
+2020-03-07,Wisconsin,Arts & Entertainment,112.0,104.0,112.0,6
 2020-03-07,Wisconsin,Gas Stations,101.0,92.0,101.0,7
 2020-03-07,Wisconsin,Fast Food Restaurants,105.0,100.0,105.0,8
 2020-03-07,Wisconsin,Big Box Stores,99.0,97.0,99.0,9
 2020-03-07,Wisconsin,Convenience Store,102.0,104.0,102.0,10
-2020-03-07,Wisconsin,Professional & Other Places,23.0,22.0,23.0,11
-2020-03-07,Wisconsin,School,53.0,51.0,54.0,12
-2020-03-07,Wisconsin,Hotel,76.0,69.0,76.0,13
+2020-03-07,Wisconsin,Professional & Other Places,106.0,97.0,106.0,11
+2020-03-07,Wisconsin,School,96.0,91.0,96.0,12
+2020-03-07,Wisconsin,Hotel,102.0,95.0,102.0,13
 2020-03-07,Wisconsin,Hardware Stores,112.0,99.0,113.0,14
-2020-03-07,Wisconsin,Medical,61.0,55.0,61.0,15
-2020-03-07,Wisconsin,Colleges & Universities,73.0,67.0,73.0,16
-2020-03-07,Wisconsin,Fitness Center,65.0,62.0,65.0,17
+2020-03-07,Wisconsin,Medical,108.0,97.0,108.0,15
+2020-03-07,Wisconsin,Colleges & Universities,99.0,90.0,99.0,16
+2020-03-07,Wisconsin,Fitness Center,99.0,96.0,99.0,17
 2020-03-07,Wisconsin,Drug Store,98.0,106.0,98.0,18
-2020-03-07,Wisconsin,Sports,37.0,39.0,37.0,19
-2020-03-07,Wisconsin,Residences,92.0,96.0,92.0,20
+2020-03-07,Wisconsin,Sports,96.0,99.0,96.0,19
+2020-03-07,Wisconsin,Residences,111.0,117.0,111.0,20
 2020-03-07,Wisconsin,Discount Stores,108.0,104.0,108.0,21
-2020-03-07,Wisconsin,Office,91.0,92.0,91.0,22
-2020-03-07,Wisconsin,Airport,71.0,57.0,72.0,23
-2020-03-07,Wisconsin,Government,67.0,65.0,67.0,24
+2020-03-07,Wisconsin,Office,107.0,111.0,107.0,22
+2020-03-07,Wisconsin,Airport,107.0,88.0,108.0,23
+2020-03-07,Wisconsin,Government,109.0,107.0,109.0,24
 2020-03-07,Wisconsin,Alcohol,102.0,98.0,103.0,25
 2020-03-07,Wisconsin,Banks,95.0,78.0,95.0,26
-2020-03-07,Wisconsin,Travel & Transport,22.0,20.0,22.0,27
-2020-03-07,Wisconsin,Beach,85.0,95.0,85.0,28
-2020-03-07,Wisconsin,Bus,65.0,"",65.0,29
-2020-03-07,Wisconsin,Skiing,50.0,60.0,50.0,30
-2020-03-07,Wisconsin,Spiritual Center,4.0,"",4.0,31
-2020-03-08,Wisconsin,Food,50.0,51.0,50.0,1
-2020-03-08,Wisconsin,Nightlife Spots,65.0,69.0,65.0,2
-2020-03-08,Wisconsin,Shops & Services,39.0,35.0,40.0,3
-2020-03-08,Wisconsin,Outdoors & Recreation,56.0,56.0,56.0,4
+2020-03-07,Wisconsin,Travel & Transport,106.0,97.0,106.0,27
+2020-03-07,Wisconsin,Beach,96.0,108.0,96.0,28
+2020-03-07,Wisconsin,Bus,105.0,"",104.0,29
+2020-03-07,Wisconsin,Skiing,59.0,69.0,58.0,30
+2020-03-07,Wisconsin,Spiritual Center,97.0,"",97.0,31
+2020-03-08,Wisconsin,Food,110.0,108.0,110.0,1
+2020-03-08,Wisconsin,Nightlife Spots,108.0,113.0,108.0,2
+2020-03-08,Wisconsin,Shops & Services,115.0,109.0,115.0,3
+2020-03-08,Wisconsin,Outdoors & Recreation,118.0,115.0,118.0,4
 2020-03-08,Wisconsin,Grocery,104.0,100.0,104.0,5
-2020-03-08,Wisconsin,Arts & Entertainment,85.0,87.0,85.0,6
+2020-03-08,Wisconsin,Arts & Entertainment,112.0,115.0,112.0,6
 2020-03-08,Wisconsin,Gas Stations,106.0,106.0,106.0,7
 2020-03-08,Wisconsin,Big Box Stores,105.0,105.0,105.0,8
 2020-03-08,Wisconsin,Fast Food Restaurants,117.0,116.0,117.0,9
 2020-03-08,Wisconsin,Convenience Store,107.0,102.0,107.0,10
-2020-03-08,Wisconsin,School,69.0,64.0,69.0,11
-2020-03-08,Wisconsin,Professional & Other Places,22.0,20.0,22.0,12
-2020-03-08,Wisconsin,Hotel,74.0,68.0,75.0,13
+2020-03-08,Wisconsin,School,120.0,112.0,121.0,11
+2020-03-08,Wisconsin,Professional & Other Places,115.0,116.0,114.0,12
+2020-03-08,Wisconsin,Hotel,100.0,94.0,100.0,13
 2020-03-08,Wisconsin,Hardware Stores,117.0,121.0,117.0,14
-2020-03-08,Wisconsin,Medical,61.0,59.0,61.0,15
-2020-03-08,Wisconsin,Sports,51.0,49.0,51.0,16
-2020-03-08,Wisconsin,Colleges & Universities,81.0,86.0,81.0,17
+2020-03-08,Wisconsin,Medical,106.0,102.0,106.0,15
+2020-03-08,Wisconsin,Sports,116.0,107.0,116.0,16
+2020-03-08,Wisconsin,Colleges & Universities,100.0,100.0,100.0,17
 2020-03-08,Wisconsin,Drug Store,110.0,113.0,110.0,18
-2020-03-08,Wisconsin,Residences,90.0,94.0,90.0,19
-2020-03-08,Wisconsin,Fitness Center,66.0,65.0,66.0,20
+2020-03-08,Wisconsin,Residences,109.0,113.0,109.0,19
+2020-03-08,Wisconsin,Fitness Center,99.0,98.0,99.0,20
 2020-03-08,Wisconsin,Discount Stores,117.0,118.0,117.0,21
-2020-03-08,Wisconsin,Airport,76.0,69.0,76.0,22
-2020-03-08,Wisconsin,Office,94.0,91.0,95.0,23
-2020-03-08,Wisconsin,Government,73.0,75.0,73.0,24
-2020-03-08,Wisconsin,Travel & Transport,25.0,28.0,25.0,25
+2020-03-08,Wisconsin,Airport,113.0,100.0,114.0,22
+2020-03-08,Wisconsin,Office,110.0,107.0,110.0,23
+2020-03-08,Wisconsin,Government,119.0,117.0,119.0,24
+2020-03-08,Wisconsin,Travel & Transport,124.0,131.0,123.0,25
 2020-03-08,Wisconsin,Alcohol,110.0,93.0,110.0,26
 2020-03-08,Wisconsin,Banks,97.0,106.0,97.0,27
-2020-03-08,Wisconsin,Beach,100.0,93.0,100.0,28
-2020-03-08,Wisconsin,Bus,72.0,"",72.0,29
-2020-03-08,Wisconsin,Skiing,43.0,"",44.0,30
-2020-03-08,Wisconsin,Spiritual Center,3.0,"",4.0,31
+2020-03-08,Wisconsin,Beach,115.0,105.0,115.0,28
+2020-03-08,Wisconsin,Bus,118.0,"",119.0,29
+2020-03-08,Wisconsin,Skiing,51.0,"",51.0,30
+2020-03-08,Wisconsin,Spiritual Center,111.0,"",111.0,31
 2020-03-08,Wisconsin,Light Rail Stations,143.0,"",144.0,32
-2020-03-09,Wisconsin,Shops & Services,34.0,32.0,34.0,1
-2020-03-09,Wisconsin,Food,46.0,42.0,46.0,2
-2020-03-09,Wisconsin,Nightlife Spots,61.0,62.0,61.0,3
+2020-03-09,Wisconsin,Shops & Services,100.0,92.0,101.0,1
+2020-03-09,Wisconsin,Food,102.0,91.0,102.0,2
+2020-03-09,Wisconsin,Nightlife Spots,100.0,99.0,100.0,3
 2020-03-09,Wisconsin,Grocery,102.0,93.0,102.0,4
-2020-03-09,Wisconsin,Medical,54.0,52.0,54.0,5
-2020-03-09,Wisconsin,School,56.0,58.0,56.0,6
+2020-03-09,Wisconsin,Medical,96.0,92.0,96.0,5
+2020-03-09,Wisconsin,School,100.0,101.0,100.0,6
 2020-03-09,Wisconsin,Gas Stations,90.0,86.0,90.0,7
-2020-03-09,Wisconsin,Outdoors & Recreation,45.0,44.0,45.0,8
-2020-03-09,Wisconsin,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-09,Wisconsin,Outdoors & Recreation,89.0,83.0,89.0,8
+2020-03-09,Wisconsin,Professional & Other Places,98.0,92.0,98.0,9
 2020-03-09,Wisconsin,Fast Food Restaurants,102.0,90.0,102.0,10
 2020-03-09,Wisconsin,Convenience Store,96.0,92.0,96.0,11
 2020-03-09,Wisconsin,Big Box Stores,102.0,93.0,103.0,12
-2020-03-09,Wisconsin,Colleges & Universities,51.0,62.0,51.0,13
-2020-03-09,Wisconsin,Office,81.0,80.0,81.0,14
-2020-03-09,Wisconsin,Arts & Entertainment,84.0,79.0,84.0,15
-2020-03-09,Wisconsin,Fitness Center,68.0,63.0,68.0,16
+2020-03-09,Wisconsin,Colleges & Universities,87.0,101.0,87.0,13
+2020-03-09,Wisconsin,Office,93.0,91.0,93.0,14
+2020-03-09,Wisconsin,Arts & Entertainment,104.0,96.0,104.0,15
+2020-03-09,Wisconsin,Fitness Center,102.0,96.0,103.0,16
 2020-03-09,Wisconsin,Hardware Stores,96.0,89.0,96.0,17
-2020-03-09,Wisconsin,Hotel,75.0,63.0,75.0,18
+2020-03-09,Wisconsin,Hotel,100.0,87.0,100.0,18
 2020-03-09,Wisconsin,Drug Store,104.0,93.0,104.0,19
-2020-03-09,Wisconsin,Government,59.0,56.0,60.0,20
-2020-03-09,Wisconsin,Residences,74.0,74.0,74.0,21
-2020-03-09,Wisconsin,Sports,29.0,27.0,29.0,22
+2020-03-09,Wisconsin,Government,96.0,90.0,96.0,20
+2020-03-09,Wisconsin,Residences,91.0,93.0,91.0,21
+2020-03-09,Wisconsin,Sports,92.0,84.0,92.0,22
 2020-03-09,Wisconsin,Banks,108.0,119.0,108.0,23
-2020-03-09,Wisconsin,Airport,55.0,56.0,55.0,24
+2020-03-09,Wisconsin,Airport,83.0,84.0,83.0,24
 2020-03-09,Wisconsin,Discount Stores,92.0,86.0,93.0,25
-2020-03-09,Wisconsin,Travel & Transport,23.0,22.0,23.0,26
+2020-03-09,Wisconsin,Travel & Transport,103.0,86.0,104.0,26
 2020-03-09,Wisconsin,Alcohol,96.0,94.0,96.0,27
-2020-03-09,Wisconsin,Bus,61.0,"",61.0,28
-2020-03-09,Wisconsin,Beach,77.0,73.0,78.0,29
+2020-03-09,Wisconsin,Bus,93.0,"",93.0,28
+2020-03-09,Wisconsin,Beach,87.0,84.0,87.0,29
 2020-03-09,Wisconsin,Light Rail Stations,95.0,"",96.0,30
-2020-03-10,Wisconsin,Shops & Services,34.0,34.0,34.0,1
-2020-03-10,Wisconsin,Food,45.0,44.0,45.0,2
-2020-03-10,Wisconsin,Nightlife Spots,64.0,61.0,64.0,3
+2020-03-10,Wisconsin,Shops & Services,106.0,99.0,106.0,1
+2020-03-10,Wisconsin,Food,102.0,96.0,102.0,2
+2020-03-10,Wisconsin,Nightlife Spots,103.0,95.0,103.0,3
 2020-03-10,Wisconsin,Grocery,103.0,101.0,103.0,4
-2020-03-10,Wisconsin,Medical,54.0,52.0,54.0,5
-2020-03-10,Wisconsin,School,52.0,49.0,52.0,6
-2020-03-10,Wisconsin,Outdoors & Recreation,47.0,51.0,47.0,7
+2020-03-10,Wisconsin,Medical,96.0,93.0,96.0,5
+2020-03-10,Wisconsin,School,94.0,88.0,94.0,6
+2020-03-10,Wisconsin,Outdoors & Recreation,100.0,103.0,100.0,7
 2020-03-10,Wisconsin,Gas Stations,98.0,94.0,98.0,8
-2020-03-10,Wisconsin,Professional & Other Places,17.0,16.0,17.0,9
+2020-03-10,Wisconsin,Professional & Other Places,99.0,95.0,99.0,9
 2020-03-10,Wisconsin,Fast Food Restaurants,100.0,98.0,100.0,10
 2020-03-10,Wisconsin,Convenience Store,95.0,94.0,95.0,11
-2020-03-10,Wisconsin,Colleges & Universities,52.0,58.0,52.0,12
+2020-03-10,Wisconsin,Colleges & Universities,87.0,94.0,87.0,12
 2020-03-10,Wisconsin,Big Box Stores,101.0,103.0,101.0,13
-2020-03-10,Wisconsin,Office,84.0,88.0,84.0,14
-2020-03-10,Wisconsin,Arts & Entertainment,84.0,80.0,84.0,15
-2020-03-10,Wisconsin,Fitness Center,62.0,59.0,62.0,16
+2020-03-10,Wisconsin,Office,95.0,99.0,95.0,14
+2020-03-10,Wisconsin,Arts & Entertainment,107.0,99.0,107.0,15
+2020-03-10,Wisconsin,Fitness Center,94.0,91.0,95.0,16
 2020-03-10,Wisconsin,Hardware Stores,110.0,108.0,110.0,17
-2020-03-10,Wisconsin,Hotel,81.0,74.0,81.0,18
+2020-03-10,Wisconsin,Hotel,105.0,102.0,105.0,18
 2020-03-10,Wisconsin,Drug Store,102.0,102.0,102.0,19
-2020-03-10,Wisconsin,Government,57.0,50.0,57.0,20
-2020-03-10,Wisconsin,Residences,77.0,75.0,77.0,21
-2020-03-10,Wisconsin,Sports,29.0,32.0,29.0,22
+2020-03-10,Wisconsin,Government,93.0,81.0,93.0,20
+2020-03-10,Wisconsin,Residences,93.0,91.0,93.0,21
+2020-03-10,Wisconsin,Sports,96.0,96.0,96.0,22
 2020-03-10,Wisconsin,Banks,100.0,93.0,100.0,23
-2020-03-10,Wisconsin,Airport,62.0,76.0,61.0,24
+2020-03-10,Wisconsin,Airport,93.0,112.0,92.0,24
 2020-03-10,Wisconsin,Discount Stores,102.0,97.0,103.0,25
-2020-03-10,Wisconsin,Travel & Transport,27.0,33.0,27.0,26
+2020-03-10,Wisconsin,Travel & Transport,111.0,121.0,111.0,26
 2020-03-10,Wisconsin,Alcohol,101.0,120.0,100.0,27
-2020-03-10,Wisconsin,Bus,74.0,72.0,74.0,28
-2020-03-10,Wisconsin,Beach,82.0,66.0,83.0,29
+2020-03-10,Wisconsin,Bus,113.0,109.0,113.0,28
+2020-03-10,Wisconsin,Beach,93.0,76.0,94.0,29
 2020-03-10,Wisconsin,Light Rail Stations,99.0,"",99.0,30
-2020-03-11,Wisconsin,Food,46.0,46.0,46.0,1
-2020-03-11,Wisconsin,Shops & Services,32.0,30.0,32.0,2
-2020-03-11,Wisconsin,Nightlife Spots,62.0,64.0,62.0,3
+2020-03-11,Wisconsin,Food,102.0,98.0,102.0,1
+2020-03-11,Wisconsin,Shops & Services,103.0,93.0,104.0,2
+2020-03-11,Wisconsin,Nightlife Spots,102.0,101.0,102.0,3
 2020-03-11,Wisconsin,Grocery,104.0,104.0,104.0,4
-2020-03-11,Wisconsin,Medical,53.0,50.0,53.0,5
-2020-03-11,Wisconsin,School,51.0,52.0,51.0,6
-2020-03-11,Wisconsin,Outdoors & Recreation,43.0,42.0,43.0,7
+2020-03-11,Wisconsin,Medical,94.0,89.0,94.0,5
+2020-03-11,Wisconsin,School,91.0,91.0,91.0,6
+2020-03-11,Wisconsin,Outdoors & Recreation,98.0,91.0,99.0,7
 2020-03-11,Wisconsin,Gas Stations,97.0,91.0,97.0,8
-2020-03-11,Wisconsin,Professional & Other Places,16.0,16.0,16.0,9
+2020-03-11,Wisconsin,Professional & Other Places,103.0,101.0,103.0,9
 2020-03-11,Wisconsin,Fast Food Restaurants,99.0,92.0,99.0,10
 2020-03-11,Wisconsin,Convenience Store,96.0,89.0,97.0,11
 2020-03-11,Wisconsin,Big Box Stores,103.0,96.0,104.0,12
-2020-03-11,Wisconsin,Colleges & Universities,51.0,53.0,51.0,13
-2020-03-11,Wisconsin,Office,84.0,83.0,84.0,14
-2020-03-11,Wisconsin,Arts & Entertainment,84.0,77.0,84.0,15
-2020-03-11,Wisconsin,Fitness Center,61.0,55.0,62.0,16
+2020-03-11,Wisconsin,Colleges & Universities,85.0,89.0,85.0,13
+2020-03-11,Wisconsin,Office,96.0,94.0,96.0,14
+2020-03-11,Wisconsin,Arts & Entertainment,103.0,94.0,104.0,15
+2020-03-11,Wisconsin,Fitness Center,94.0,85.0,94.0,16
 2020-03-11,Wisconsin,Hardware Stores,106.0,99.0,106.0,17
-2020-03-11,Wisconsin,Hotel,80.0,62.0,81.0,18
+2020-03-11,Wisconsin,Hotel,102.0,82.0,103.0,18
 2020-03-11,Wisconsin,Drug Store,106.0,106.0,106.0,19
-2020-03-11,Wisconsin,Government,64.0,57.0,64.0,20
-2020-03-11,Wisconsin,Residences,82.0,72.0,83.0,21
-2020-03-11,Wisconsin,Sports,29.0,35.0,29.0,22
+2020-03-11,Wisconsin,Government,102.0,91.0,103.0,20
+2020-03-11,Wisconsin,Residences,101.0,91.0,102.0,21
+2020-03-11,Wisconsin,Sports,97.0,107.0,97.0,22
 2020-03-11,Wisconsin,Banks,99.0,87.0,100.0,23
-2020-03-11,Wisconsin,Airport,64.0,62.0,64.0,24
+2020-03-11,Wisconsin,Airport,96.0,94.0,96.0,24
 2020-03-11,Wisconsin,Discount Stores,100.0,87.0,101.0,25
-2020-03-11,Wisconsin,Travel & Transport,25.0,24.0,25.0,26
+2020-03-11,Wisconsin,Travel & Transport,106.0,100.0,107.0,26
 2020-03-11,Wisconsin,Alcohol,100.0,95.0,100.0,27
-2020-03-11,Wisconsin,Bus,65.0,"",65.0,28
-2020-03-11,Wisconsin,Beach,82.0,72.0,83.0,29
+2020-03-11,Wisconsin,Bus,100.0,"",101.0,28
+2020-03-11,Wisconsin,Beach,96.0,89.0,97.0,29
 2020-03-11,Wisconsin,Light Rail Stations,94.0,"",94.0,30
-2020-03-11,Wisconsin,Spiritual Center,4.0,"",4.0,31
-2020-03-12,Wisconsin,Shops & Services,32.0,31.0,32.0,1
-2020-03-12,Wisconsin,Food,44.0,44.0,44.0,2
-2020-03-12,Wisconsin,Nightlife Spots,57.0,56.0,57.0,3
+2020-03-12,Wisconsin,Shops & Services,103.0,100.0,103.0,1
+2020-03-12,Wisconsin,Food,98.0,95.0,98.0,2
+2020-03-12,Wisconsin,Nightlife Spots,97.0,92.0,97.0,3
 2020-03-12,Wisconsin,Grocery,127.0,126.0,127.0,4
-2020-03-12,Wisconsin,Medical,52.0,52.0,52.0,5
-2020-03-12,Wisconsin,School,50.0,47.0,50.0,6
+2020-03-12,Wisconsin,Medical,93.0,93.0,93.0,5
+2020-03-12,Wisconsin,School,89.0,83.0,89.0,6
 2020-03-12,Wisconsin,Gas Stations,93.0,93.0,93.0,7
-2020-03-12,Wisconsin,Outdoors & Recreation,39.0,40.0,39.0,8
+2020-03-12,Wisconsin,Outdoors & Recreation,95.0,95.0,95.0,8
 2020-03-12,Wisconsin,Big Box Stores,116.0,111.0,116.0,9
-2020-03-12,Wisconsin,Professional & Other Places,16.0,16.0,16.0,10
+2020-03-12,Wisconsin,Professional & Other Places,97.0,96.0,97.0,10
 2020-03-12,Wisconsin,Fast Food Restaurants,101.0,98.0,101.0,11
 2020-03-12,Wisconsin,Convenience Store,95.0,91.0,95.0,12
-2020-03-12,Wisconsin,Colleges & Universities,55.0,57.0,55.0,13
-2020-03-12,Wisconsin,Office,78.0,78.0,78.0,14
-2020-03-12,Wisconsin,Arts & Entertainment,68.0,63.0,68.0,15
+2020-03-12,Wisconsin,Colleges & Universities,82.0,84.0,82.0,13
+2020-03-12,Wisconsin,Office,89.0,88.0,89.0,14
+2020-03-12,Wisconsin,Arts & Entertainment,103.0,93.0,103.0,15
 2020-03-12,Wisconsin,Hardware Stores,117.0,116.0,117.0,16
 2020-03-12,Wisconsin,Drug Store,122.0,116.0,122.0,17
-2020-03-12,Wisconsin,Fitness Center,57.0,56.0,57.0,18
-2020-03-12,Wisconsin,Hotel,75.0,63.0,75.0,19
-2020-03-12,Wisconsin,Government,58.0,64.0,58.0,20
-2020-03-12,Wisconsin,Residences,79.0,82.0,79.0,21
-2020-03-12,Wisconsin,Sports,30.0,34.0,30.0,22
+2020-03-12,Wisconsin,Fitness Center,87.0,85.0,87.0,18
+2020-03-12,Wisconsin,Hotel,96.0,84.0,97.0,19
+2020-03-12,Wisconsin,Government,94.0,103.0,93.0,20
+2020-03-12,Wisconsin,Residences,95.0,102.0,94.0,21
+2020-03-12,Wisconsin,Sports,95.0,99.0,95.0,22
 2020-03-12,Wisconsin,Banks,102.0,109.0,102.0,23
 2020-03-12,Wisconsin,Discount Stores,118.0,101.0,118.0,24
-2020-03-12,Wisconsin,Airport,55.0,52.0,55.0,25
-2020-03-12,Wisconsin,Travel & Transport,26.0,26.0,26.0,26
+2020-03-12,Wisconsin,Airport,84.0,79.0,84.0,25
+2020-03-12,Wisconsin,Travel & Transport,100.0,89.0,101.0,26
 2020-03-12,Wisconsin,Alcohol,116.0,115.0,116.0,27
-2020-03-12,Wisconsin,Bus,61.0,"",61.0,28
-2020-03-12,Wisconsin,Beach,76.0,103.0,75.0,29
+2020-03-12,Wisconsin,Bus,96.0,"",96.0,28
+2020-03-12,Wisconsin,Beach,89.0,122.0,87.0,29
 2020-03-12,Wisconsin,Light Rail Stations,123.0,"",123.0,30
-2020-03-13,Wisconsin,Shops & Services,34.0,32.0,34.0,1
-2020-03-13,Wisconsin,Food,44.0,42.0,44.0,2
-2020-03-13,Wisconsin,Nightlife Spots,59.0,55.0,59.0,3
+2020-03-13,Wisconsin,Shops & Services,104.0,97.0,105.0,1
+2020-03-13,Wisconsin,Food,98.0,89.0,98.0,2
+2020-03-13,Wisconsin,Nightlife Spots,99.0,91.0,99.0,3
 2020-03-13,Wisconsin,Grocery,143.0,133.0,143.0,4
 2020-03-13,Wisconsin,Gas Stations,99.0,95.0,99.0,5
 2020-03-13,Wisconsin,Big Box Stores,125.0,124.0,125.0,6
-2020-03-13,Wisconsin,Outdoors & Recreation,44.0,44.0,44.0,7
-2020-03-13,Wisconsin,Medical,54.0,50.0,55.0,8
+2020-03-13,Wisconsin,Outdoors & Recreation,97.0,96.0,97.0,7
+2020-03-13,Wisconsin,Medical,97.0,90.0,97.0,8
 2020-03-13,Wisconsin,Fast Food Restaurants,99.0,101.0,99.0,9
 2020-03-13,Wisconsin,Convenience Store,99.0,95.0,99.0,10
-2020-03-13,Wisconsin,School,47.0,49.0,47.0,11
-2020-03-13,Wisconsin,Professional & Other Places,17.0,17.0,17.0,12
-2020-03-13,Wisconsin,Arts & Entertainment,70.0,64.0,70.0,13
-2020-03-13,Wisconsin,Office,82.0,83.0,82.0,14
+2020-03-13,Wisconsin,School,84.0,87.0,84.0,11
+2020-03-13,Wisconsin,Professional & Other Places,97.0,91.0,97.0,12
+2020-03-13,Wisconsin,Arts & Entertainment,94.0,85.0,94.0,13
+2020-03-13,Wisconsin,Office,94.0,95.0,94.0,14
 2020-03-13,Wisconsin,Drug Store,125.0,120.0,125.0,15
-2020-03-13,Wisconsin,Colleges & Universities,45.0,45.0,45.0,16
+2020-03-13,Wisconsin,Colleges & Universities,75.0,76.0,75.0,16
 2020-03-13,Wisconsin,Hardware Stores,118.0,112.0,119.0,17
-2020-03-13,Wisconsin,Hotel,67.0,58.0,67.0,18
-2020-03-13,Wisconsin,Fitness Center,58.0,54.0,58.0,19
-2020-03-13,Wisconsin,Government,65.0,60.0,65.0,20
-2020-03-13,Wisconsin,Residences,80.0,73.0,81.0,21
+2020-03-13,Wisconsin,Hotel,89.0,79.0,89.0,18
+2020-03-13,Wisconsin,Fitness Center,87.0,82.0,87.0,19
+2020-03-13,Wisconsin,Government,103.0,94.0,103.0,20
+2020-03-13,Wisconsin,Residences,96.0,87.0,96.0,21
 2020-03-13,Wisconsin,Discount Stores,134.0,134.0,134.0,22
 2020-03-13,Wisconsin,Banks,100.0,101.0,100.0,23
-2020-03-13,Wisconsin,Sports,31.0,36.0,31.0,24
-2020-03-13,Wisconsin,Airport,55.0,49.0,56.0,25
+2020-03-13,Wisconsin,Sports,92.0,103.0,92.0,24
+2020-03-13,Wisconsin,Airport,84.0,75.0,84.0,25
 2020-03-13,Wisconsin,Alcohol,116.0,113.0,116.0,26
-2020-03-13,Wisconsin,Travel & Transport,23.0,26.0,23.0,27
-2020-03-13,Wisconsin,Bus,66.0,62.0,66.0,28
-2020-03-13,Wisconsin,Beach,72.0,"",73.0,29
+2020-03-13,Wisconsin,Travel & Transport,103.0,102.0,103.0,27
+2020-03-13,Wisconsin,Bus,101.0,92.0,101.0,28
+2020-03-13,Wisconsin,Beach,85.0,"",86.0,29
 2020-03-13,Wisconsin,Light Rail Stations,106.0,"",105.0,30
-2020-03-13,Wisconsin,Skiing,44.0,"",43.0,31
-2020-03-14,Wisconsin,Food,36.0,34.0,36.0,1
-2020-03-14,Wisconsin,Shops & Services,30.0,27.0,30.0,2
-2020-03-14,Wisconsin,Nightlife Spots,53.0,48.0,53.0,3
+2020-03-13,Wisconsin,Skiing,55.0,"",55.0,31
+2020-03-14,Wisconsin,Food,80.0,73.0,80.0,1
+2020-03-14,Wisconsin,Shops & Services,87.0,80.0,87.0,2
+2020-03-14,Wisconsin,Nightlife Spots,88.0,78.0,88.0,3
 2020-03-14,Wisconsin,Grocery,133.0,117.0,133.0,4
 2020-03-14,Wisconsin,Big Box Stores,104.0,99.0,104.0,5
-2020-03-14,Wisconsin,Outdoors & Recreation,40.0,38.0,40.0,6
+2020-03-14,Wisconsin,Outdoors & Recreation,82.0,75.0,82.0,6
 2020-03-14,Wisconsin,Gas Stations,90.0,80.0,90.0,7
 2020-03-14,Wisconsin,Fast Food Restaurants,80.0,75.0,80.0,8
 2020-03-14,Wisconsin,Convenience Store,94.0,91.0,94.0,9
-2020-03-14,Wisconsin,Arts & Entertainment,56.0,45.0,56.0,10
-2020-03-14,Wisconsin,Professional & Other Places,18.0,15.0,18.0,11
+2020-03-14,Wisconsin,Arts & Entertainment,72.0,59.0,72.0,10
+2020-03-14,Wisconsin,Professional & Other Places,81.0,68.0,81.0,11
 2020-03-14,Wisconsin,Hardware Stores,114.0,95.0,115.0,12
 2020-03-14,Wisconsin,Drug Store,116.0,105.0,116.0,13
-2020-03-14,Wisconsin,Hotel,50.0,43.0,50.0,14
-2020-03-14,Wisconsin,Medical,51.0,49.0,51.0,15
-2020-03-14,Wisconsin,School,27.0,27.0,28.0,16
-2020-03-14,Wisconsin,Fitness Center,47.0,44.0,47.0,17
+2020-03-14,Wisconsin,Hotel,68.0,60.0,68.0,14
+2020-03-14,Wisconsin,Medical,89.0,86.0,89.0,15
+2020-03-14,Wisconsin,School,48.0,46.0,48.0,16
+2020-03-14,Wisconsin,Fitness Center,72.0,68.0,73.0,17
 2020-03-14,Wisconsin,Discount Stores,119.0,124.0,119.0,18
-2020-03-14,Wisconsin,Residences,76.0,67.0,76.0,19
-2020-03-14,Wisconsin,Sports,28.0,27.0,28.0,20
-2020-03-14,Wisconsin,Office,74.0,68.0,74.0,21
+2020-03-14,Wisconsin,Residences,92.0,82.0,92.0,19
+2020-03-14,Wisconsin,Sports,75.0,71.0,75.0,20
+2020-03-14,Wisconsin,Office,88.0,82.0,88.0,21
 2020-03-14,Wisconsin,Alcohol,105.0,102.0,105.0,22
-2020-03-14,Wisconsin,Colleges & Universities,37.0,33.0,37.0,23
-2020-03-14,Wisconsin,Government,58.0,53.0,58.0,24
-2020-03-14,Wisconsin,Airport,56.0,39.0,57.0,25
-2020-03-14,Wisconsin,Travel & Transport,20.0,21.0,20.0,26
+2020-03-14,Wisconsin,Colleges & Universities,49.0,44.0,49.0,23
+2020-03-14,Wisconsin,Government,95.0,90.0,95.0,24
+2020-03-14,Wisconsin,Airport,84.0,61.0,85.0,25
+2020-03-14,Wisconsin,Travel & Transport,102.0,106.0,102.0,26
 2020-03-14,Wisconsin,Banks,78.0,70.0,78.0,27
-2020-03-14,Wisconsin,Bus,52.0,"",53.0,28
-2020-03-14,Wisconsin,Beach,64.0,72.0,64.0,29
-2020-03-14,Wisconsin,Skiing,29.0,"",30.0,30
-2020-03-15,Wisconsin,Food,35.0,33.0,35.0,1
-2020-03-15,Wisconsin,Nightlife Spots,48.0,47.0,49.0,2
-2020-03-15,Wisconsin,Shops & Services,24.0,23.0,24.0,3
+2020-03-14,Wisconsin,Bus,84.0,"",85.0,28
+2020-03-14,Wisconsin,Beach,73.0,81.0,73.0,29
+2020-03-14,Wisconsin,Skiing,35.0,"",35.0,30
+2020-03-15,Wisconsin,Food,76.0,69.0,76.0,1
+2020-03-15,Wisconsin,Nightlife Spots,85.0,80.0,85.0,2
+2020-03-15,Wisconsin,Shops & Services,87.0,85.0,87.0,3
 2020-03-15,Wisconsin,Grocery,105.0,102.0,106.0,4
-2020-03-15,Wisconsin,Outdoors & Recreation,39.0,37.0,39.0,5
+2020-03-15,Wisconsin,Outdoors & Recreation,85.0,79.0,85.0,5
 2020-03-15,Wisconsin,Big Box Stores,94.0,91.0,94.0,6
 2020-03-15,Wisconsin,Gas Stations,83.0,84.0,83.0,7
 2020-03-15,Wisconsin,Fast Food Restaurants,82.0,81.0,82.0,8
 2020-03-15,Wisconsin,Convenience Store,87.0,81.0,87.0,9
-2020-03-15,Wisconsin,Arts & Entertainment,42.0,37.0,42.0,10
+2020-03-15,Wisconsin,Arts & Entertainment,65.0,57.0,66.0,10
 2020-03-15,Wisconsin,Hardware Stores,114.0,110.0,114.0,11
-2020-03-15,Wisconsin,Professional & Other Places,15.0,12.0,15.0,12
+2020-03-15,Wisconsin,Professional & Other Places,80.0,75.0,80.0,12
 2020-03-15,Wisconsin,Drug Store,115.0,125.0,114.0,13
-2020-03-15,Wisconsin,Hotel,48.0,41.0,48.0,14
-2020-03-15,Wisconsin,School,37.0,36.0,37.0,15
-2020-03-15,Wisconsin,Medical,48.0,44.0,48.0,16
-2020-03-15,Wisconsin,Residences,68.0,64.0,68.0,17
-2020-03-15,Wisconsin,Sports,31.0,33.0,31.0,18
-2020-03-15,Wisconsin,Fitness Center,50.0,56.0,50.0,19
+2020-03-15,Wisconsin,Hotel,64.0,56.0,64.0,14
+2020-03-15,Wisconsin,School,65.0,63.0,65.0,15
+2020-03-15,Wisconsin,Medical,84.0,77.0,84.0,16
+2020-03-15,Wisconsin,Residences,82.0,77.0,83.0,17
+2020-03-15,Wisconsin,Sports,73.0,73.0,73.0,18
+2020-03-15,Wisconsin,Fitness Center,75.0,83.0,75.0,19
 2020-03-15,Wisconsin,Discount Stores,111.0,114.0,111.0,20
-2020-03-15,Wisconsin,Office,82.0,74.0,83.0,21
-2020-03-15,Wisconsin,Colleges & Universities,34.0,36.0,34.0,22
-2020-03-15,Wisconsin,Airport,52.0,48.0,52.0,23
+2020-03-15,Wisconsin,Office,96.0,87.0,97.0,21
+2020-03-15,Wisconsin,Colleges & Universities,47.0,50.0,47.0,22
+2020-03-15,Wisconsin,Airport,78.0,71.0,79.0,23
 2020-03-15,Wisconsin,Alcohol,99.0,86.0,99.0,24
-2020-03-15,Wisconsin,Travel & Transport,20.0,18.0,20.0,25
-2020-03-15,Wisconsin,Government,54.0,42.0,55.0,26
+2020-03-15,Wisconsin,Travel & Transport,101.0,86.0,101.0,25
+2020-03-15,Wisconsin,Government,91.0,70.0,91.0,26
 2020-03-15,Wisconsin,Banks,81.0,75.0,81.0,27
-2020-03-15,Wisconsin,Beach,70.0,"",70.0,28
-2020-03-15,Wisconsin,Bus,57.0,"",57.0,29
-2020-03-15,Wisconsin,Skiing,31.0,"",31.0,30
-2020-03-16,Wisconsin,Shops & Services,29.0,26.0,29.0,1
-2020-03-16,Wisconsin,Food,37.0,34.0,37.0,2
+2020-03-15,Wisconsin,Beach,80.0,"",80.0,28
+2020-03-15,Wisconsin,Bus,91.0,"",91.0,29
+2020-03-15,Wisconsin,Skiing,37.0,"",37.0,30
+2020-03-16,Wisconsin,Shops & Services,94.0,83.0,95.0,1
+2020-03-16,Wisconsin,Food,84.0,74.0,84.0,2
 2020-03-16,Wisconsin,Grocery,140.0,127.0,141.0,3
-2020-03-16,Wisconsin,Nightlife Spots,55.0,53.0,55.0,4
-2020-03-16,Wisconsin,Outdoors & Recreation,41.0,36.0,41.0,5
+2020-03-16,Wisconsin,Nightlife Spots,90.0,84.0,90.0,4
+2020-03-16,Wisconsin,Outdoors & Recreation,89.0,77.0,89.0,5
 2020-03-16,Wisconsin,Gas Stations,89.0,86.0,89.0,6
-2020-03-16,Wisconsin,Medical,44.0,40.0,44.0,7
+2020-03-16,Wisconsin,Medical,78.0,71.0,78.0,7
 2020-03-16,Wisconsin,Big Box Stores,113.0,100.0,113.0,8
 2020-03-16,Wisconsin,Convenience Store,93.0,85.0,94.0,9
-2020-03-16,Wisconsin,Professional & Other Places,15.0,14.0,15.0,10
+2020-03-16,Wisconsin,Professional & Other Places,89.0,82.0,89.0,10
 2020-03-16,Wisconsin,Fast Food Restaurants,87.0,80.0,87.0,11
-2020-03-16,Wisconsin,School,32.0,32.0,32.0,12
-2020-03-16,Wisconsin,Office,67.0,70.0,67.0,13
-2020-03-16,Wisconsin,Arts & Entertainment,65.0,59.0,65.0,14
+2020-03-16,Wisconsin,School,57.0,57.0,57.0,12
+2020-03-16,Wisconsin,Office,77.0,80.0,77.0,13
+2020-03-16,Wisconsin,Arts & Entertainment,82.0,72.0,82.0,14
 2020-03-16,Wisconsin,Hardware Stores,111.0,95.0,112.0,15
 2020-03-16,Wisconsin,Drug Store,120.0,109.0,120.0,16
-2020-03-16,Wisconsin,Hotel,61.0,54.0,61.0,17
-2020-03-16,Wisconsin,Government,55.0,57.0,55.0,18
-2020-03-16,Wisconsin,Fitness Center,42.0,36.0,42.0,19
-2020-03-16,Wisconsin,Colleges & Universities,24.0,48.0,24.0,20
-2020-03-16,Wisconsin,Residences,81.0,74.0,81.0,21
+2020-03-16,Wisconsin,Hotel,81.0,74.0,81.0,17
+2020-03-16,Wisconsin,Government,89.0,89.0,89.0,18
+2020-03-16,Wisconsin,Fitness Center,63.0,55.0,63.0,19
+2020-03-16,Wisconsin,Colleges & Universities,34.0,65.0,34.0,20
+2020-03-16,Wisconsin,Residences,84.0,78.0,84.0,21
 2020-03-16,Wisconsin,Banks,107.0,104.0,107.0,22
-2020-03-16,Wisconsin,Sports,27.0,28.0,27.0,23
+2020-03-16,Wisconsin,Sports,82.0,82.0,82.0,23
 2020-03-16,Wisconsin,Discount Stores,112.0,94.0,113.0,24
-2020-03-16,Wisconsin,Travel & Transport,24.0,25.0,24.0,25
-2020-03-16,Wisconsin,Airport,37.0,51.0,37.0,26
+2020-03-16,Wisconsin,Travel & Transport,98.0,88.0,99.0,25
+2020-03-16,Wisconsin,Airport,57.0,77.0,56.0,26
 2020-03-16,Wisconsin,Alcohol,113.0,93.0,113.0,27
-2020-03-16,Wisconsin,Bus,53.0,"",53.0,28
-2020-03-16,Wisconsin,Beach,73.0,71.0,73.0,29
+2020-03-16,Wisconsin,Bus,81.0,"",81.0,28
+2020-03-16,Wisconsin,Beach,84.0,85.0,84.0,29
 2020-03-16,Wisconsin,Light Rail Stations,103.0,"",103.0,30
-2020-03-17,Wisconsin,Shops & Services,28.0,25.0,28.0,1
-2020-03-17,Wisconsin,Food,33.0,29.0,33.0,2
+2020-03-17,Wisconsin,Shops & Services,88.0,75.0,88.0,1
+2020-03-17,Wisconsin,Food,74.0,63.0,74.0,2
 2020-03-17,Wisconsin,Grocery,132.0,113.0,132.0,3
-2020-03-17,Wisconsin,Nightlife Spots,54.0,49.0,54.0,4
-2020-03-17,Wisconsin,Outdoors & Recreation,42.0,43.0,42.0,5
+2020-03-17,Wisconsin,Nightlife Spots,91.0,82.0,91.0,4
+2020-03-17,Wisconsin,Outdoors & Recreation,103.0,103.0,103.0,5
 2020-03-17,Wisconsin,Gas Stations,89.0,84.0,89.0,6
-2020-03-17,Wisconsin,Medical,38.0,32.0,39.0,7
-2020-03-17,Wisconsin,Professional & Other Places,13.0,12.0,13.0,8
+2020-03-17,Wisconsin,Medical,68.0,57.0,69.0,7
+2020-03-17,Wisconsin,Professional & Other Places,81.0,75.0,81.0,8
 2020-03-17,Wisconsin,Big Box Stores,104.0,87.0,105.0,9
 2020-03-17,Wisconsin,Convenience Store,87.0,81.0,87.0,10
 2020-03-17,Wisconsin,Fast Food Restaurants,79.0,71.0,79.0,11
-2020-03-17,Wisconsin,School,25.0,26.0,25.0,12
-2020-03-17,Wisconsin,Office,61.0,61.0,61.0,13
-2020-03-17,Wisconsin,Arts & Entertainment,61.0,53.0,61.0,14
+2020-03-17,Wisconsin,School,46.0,46.0,45.0,12
+2020-03-17,Wisconsin,Office,70.0,68.0,70.0,13
+2020-03-17,Wisconsin,Arts & Entertainment,76.0,65.0,76.0,14
 2020-03-17,Wisconsin,Hardware Stores,109.0,95.0,110.0,15
 2020-03-17,Wisconsin,Drug Store,100.0,89.0,101.0,16
-2020-03-17,Wisconsin,Hotel,57.0,49.0,57.0,17
-2020-03-17,Wisconsin,Residences,70.0,65.0,70.0,18
-2020-03-17,Wisconsin,Government,46.0,43.0,46.0,19
-2020-03-17,Wisconsin,Sports,28.0,31.0,28.0,20
-2020-03-17,Wisconsin,Colleges & Universities,17.0,29.0,17.0,21
-2020-03-17,Wisconsin,Fitness Center,29.0,26.0,29.0,22
+2020-03-17,Wisconsin,Hotel,73.0,67.0,73.0,17
+2020-03-17,Wisconsin,Residences,87.0,82.0,87.0,18
+2020-03-17,Wisconsin,Government,75.0,70.0,75.0,19
+2020-03-17,Wisconsin,Sports,91.0,92.0,91.0,20
+2020-03-17,Wisconsin,Colleges & Universities,28.0,46.0,28.0,21
+2020-03-17,Wisconsin,Fitness Center,44.0,40.0,44.0,22
 2020-03-17,Wisconsin,Discount Stores,107.0,83.0,107.0,23
 2020-03-17,Wisconsin,Banks,78.0,70.0,78.0,24
 2020-03-17,Wisconsin,Alcohol,126.0,109.0,127.0,25
-2020-03-17,Wisconsin,Travel & Transport,23.0,23.0,23.0,26
-2020-03-17,Wisconsin,Airport,44.0,43.0,44.0,27
-2020-03-17,Wisconsin,Bus,53.0,"",53.0,28
-2020-03-17,Wisconsin,Beach,99.0,77.0,101.0,29
+2020-03-17,Wisconsin,Travel & Transport,100.0,96.0,101.0,26
+2020-03-17,Wisconsin,Airport,65.0,64.0,65.0,27
+2020-03-17,Wisconsin,Bus,82.0,"",82.0,28
+2020-03-17,Wisconsin,Beach,112.0,89.0,114.0,29
 2020-03-17,Wisconsin,Light Rail Stations,84.0,"",84.0,30
-2020-03-18,Wisconsin,Shops & Services,23.0,21.0,24.0,1
-2020-03-18,Wisconsin,Food,25.0,23.0,25.0,2
+2020-03-18,Wisconsin,Shops & Services,72.0,64.0,73.0,1
+2020-03-18,Wisconsin,Food,56.0,48.0,56.0,2
 2020-03-18,Wisconsin,Grocery,118.0,107.0,118.0,3
-2020-03-18,Wisconsin,Nightlife Spots,31.0,32.0,31.0,4
-2020-03-18,Wisconsin,Outdoors & Recreation,35.0,33.0,35.0,5
+2020-03-18,Wisconsin,Nightlife Spots,53.0,53.0,53.0,4
+2020-03-18,Wisconsin,Outdoors & Recreation,85.0,80.0,85.0,5
 2020-03-18,Wisconsin,Gas Stations,81.0,75.0,81.0,6
 2020-03-18,Wisconsin,Big Box Stores,94.0,77.0,95.0,7
-2020-03-18,Wisconsin,Medical,34.0,28.0,34.0,8
-2020-03-18,Wisconsin,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-18,Wisconsin,Medical,60.0,50.0,61.0,8
+2020-03-18,Wisconsin,Professional & Other Places,75.0,70.0,75.0,9
 2020-03-18,Wisconsin,Convenience Store,75.0,74.0,75.0,10
 2020-03-18,Wisconsin,Fast Food Restaurants,69.0,65.0,69.0,11
-2020-03-18,Wisconsin,Office,56.0,60.0,56.0,12
-2020-03-18,Wisconsin,School,21.0,24.0,21.0,13
+2020-03-18,Wisconsin,Office,64.0,68.0,64.0,12
+2020-03-18,Wisconsin,School,36.0,41.0,36.0,13
 2020-03-18,Wisconsin,Hardware Stores,97.0,78.0,98.0,14
 2020-03-18,Wisconsin,Drug Store,97.0,88.0,97.0,15
-2020-03-18,Wisconsin,Arts & Entertainment,44.0,42.0,44.0,16
-2020-03-18,Wisconsin,Hotel,48.0,39.0,48.0,17
-2020-03-18,Wisconsin,Residences,64.0,47.0,64.0,18
-2020-03-18,Wisconsin,Government,42.0,47.0,41.0,19
-2020-03-18,Wisconsin,Colleges & Universities,14.0,29.0,14.0,20
-2020-03-18,Wisconsin,Sports,23.0,27.0,23.0,21
+2020-03-18,Wisconsin,Arts & Entertainment,56.0,52.0,56.0,16
+2020-03-18,Wisconsin,Hotel,61.0,51.0,62.0,17
+2020-03-18,Wisconsin,Residences,76.0,57.0,77.0,18
+2020-03-18,Wisconsin,Government,67.0,75.0,67.0,19
+2020-03-18,Wisconsin,Colleges & Universities,25.0,47.0,24.0,20
+2020-03-18,Wisconsin,Sports,71.0,75.0,71.0,21
 2020-03-18,Wisconsin,Discount Stores,95.0,73.0,96.0,22
 2020-03-18,Wisconsin,Banks,70.0,68.0,70.0,23
-2020-03-18,Wisconsin,Fitness Center,19.0,15.0,19.0,24
-2020-03-18,Wisconsin,Travel & Transport,21.0,21.0,21.0,25
-2020-03-18,Wisconsin,Airport,39.0,59.0,38.0,26
+2020-03-18,Wisconsin,Fitness Center,28.0,24.0,28.0,24
+2020-03-18,Wisconsin,Travel & Transport,88.0,86.0,88.0,25
+2020-03-18,Wisconsin,Airport,58.0,88.0,57.0,26
 2020-03-18,Wisconsin,Alcohol,96.0,75.0,97.0,27
-2020-03-18,Wisconsin,Bus,44.0,"",44.0,28
-2020-03-18,Wisconsin,Beach,79.0,64.0,80.0,29
-2020-03-19,Wisconsin,Shops & Services,24.0,21.0,24.0,1
-2020-03-19,Wisconsin,Food,24.0,21.0,24.0,2
+2020-03-18,Wisconsin,Bus,69.0,"",69.0,28
+2020-03-18,Wisconsin,Beach,91.0,77.0,92.0,29
+2020-03-19,Wisconsin,Shops & Services,67.0,59.0,67.0,1
+2020-03-19,Wisconsin,Food,51.0,43.0,52.0,2
 2020-03-19,Wisconsin,Grocery,113.0,97.0,114.0,3
-2020-03-19,Wisconsin,Nightlife Spots,29.0,32.0,29.0,4
-2020-03-19,Wisconsin,Outdoors & Recreation,33.0,36.0,33.0,5
+2020-03-19,Wisconsin,Nightlife Spots,47.0,50.0,47.0,4
+2020-03-19,Wisconsin,Outdoors & Recreation,80.0,83.0,80.0,5
 2020-03-19,Wisconsin,Gas Stations,73.0,67.0,73.0,6
 2020-03-19,Wisconsin,Big Box Stores,90.0,79.0,90.0,7
-2020-03-19,Wisconsin,Professional & Other Places,11.0,11.0,11.0,8
-2020-03-19,Wisconsin,Medical,30.0,27.0,30.0,9
+2020-03-19,Wisconsin,Professional & Other Places,70.0,68.0,70.0,8
+2020-03-19,Wisconsin,Medical,54.0,47.0,54.0,9
 2020-03-19,Wisconsin,Convenience Store,67.0,63.0,68.0,10
 2020-03-19,Wisconsin,Fast Food Restaurants,63.0,61.0,63.0,11
-2020-03-19,Wisconsin,Office,53.0,55.0,53.0,12
+2020-03-19,Wisconsin,Office,60.0,63.0,60.0,12
 2020-03-19,Wisconsin,Hardware Stores,102.0,87.0,102.0,13
-2020-03-19,Wisconsin,School,17.0,21.0,17.0,14
+2020-03-19,Wisconsin,School,30.0,36.0,30.0,14
 2020-03-19,Wisconsin,Drug Store,88.0,92.0,88.0,15
-2020-03-19,Wisconsin,Arts & Entertainment,33.0,37.0,33.0,16
-2020-03-19,Wisconsin,Residences,61.0,48.0,61.0,17
-2020-03-19,Wisconsin,Hotel,42.0,38.0,42.0,18
-2020-03-19,Wisconsin,Government,39.0,43.0,39.0,19
-2020-03-19,Wisconsin,Colleges & Universities,14.0,25.0,14.0,20
-2020-03-19,Wisconsin,Sports,22.0,25.0,22.0,21
+2020-03-19,Wisconsin,Arts & Entertainment,50.0,54.0,50.0,16
+2020-03-19,Wisconsin,Residences,73.0,60.0,73.0,17
+2020-03-19,Wisconsin,Hotel,54.0,51.0,54.0,18
+2020-03-19,Wisconsin,Government,62.0,68.0,62.0,19
+2020-03-19,Wisconsin,Colleges & Universities,23.0,41.0,23.0,20
+2020-03-19,Wisconsin,Sports,65.0,67.0,65.0,21
 2020-03-19,Wisconsin,Discount Stores,82.0,80.0,82.0,22
 2020-03-19,Wisconsin,Banks,67.0,66.0,67.0,23
-2020-03-19,Wisconsin,Fitness Center,19.0,17.0,19.0,24
-2020-03-19,Wisconsin,Travel & Transport,20.0,19.0,20.0,25
+2020-03-19,Wisconsin,Fitness Center,28.0,26.0,28.0,24
+2020-03-19,Wisconsin,Travel & Transport,83.0,74.0,83.0,25
 2020-03-19,Wisconsin,Alcohol,98.0,101.0,98.0,26
-2020-03-19,Wisconsin,Airport,32.0,29.0,33.0,27
-2020-03-19,Wisconsin,Bus,42.0,"",42.0,28
-2020-03-19,Wisconsin,Beach,77.0,86.0,77.0,29
-2020-03-20,Wisconsin,Shops & Services,20.0,18.0,20.0,1
+2020-03-19,Wisconsin,Airport,49.0,44.0,49.0,27
+2020-03-19,Wisconsin,Bus,65.0,"",64.0,28
+2020-03-19,Wisconsin,Beach,89.0,102.0,89.0,29
+2020-03-20,Wisconsin,Shops & Services,64.0,57.0,64.0,1
 2020-03-20,Wisconsin,Grocery,125.0,109.0,125.0,2
-2020-03-20,Wisconsin,Food,22.0,19.0,22.0,3
-2020-03-20,Wisconsin,Nightlife Spots,25.0,25.0,25.0,4
+2020-03-20,Wisconsin,Food,48.0,42.0,48.0,3
+2020-03-20,Wisconsin,Nightlife Spots,43.0,42.0,43.0,4
 2020-03-20,Wisconsin,Gas Stations,74.0,68.0,74.0,5
-2020-03-20,Wisconsin,Outdoors & Recreation,33.0,34.0,33.0,6
+2020-03-20,Wisconsin,Outdoors & Recreation,78.0,79.0,77.0,6
 2020-03-20,Wisconsin,Big Box Stores,92.0,81.0,92.0,7
 2020-03-20,Wisconsin,Convenience Store,69.0,61.0,69.0,8
 2020-03-20,Wisconsin,Fast Food Restaurants,63.0,61.0,63.0,9
-2020-03-20,Wisconsin,Professional & Other Places,12.0,12.0,12.0,10
-2020-03-20,Wisconsin,Medical,31.0,27.0,31.0,11
+2020-03-20,Wisconsin,Professional & Other Places,70.0,65.0,70.0,10
+2020-03-20,Wisconsin,Medical,55.0,48.0,55.0,11
 2020-03-20,Wisconsin,Hardware Stores,102.0,81.0,103.0,12
-2020-03-20,Wisconsin,Office,55.0,57.0,55.0,13
+2020-03-20,Wisconsin,Office,62.0,65.0,62.0,13
 2020-03-20,Wisconsin,Drug Store,92.0,92.0,92.0,14
-2020-03-20,Wisconsin,School,17.0,25.0,17.0,15
-2020-03-20,Wisconsin,Arts & Entertainment,35.0,40.0,35.0,16
-2020-03-20,Wisconsin,Residences,61.0,59.0,61.0,17
-2020-03-20,Wisconsin,Hotel,34.0,30.0,34.0,18
+2020-03-20,Wisconsin,School,30.0,43.0,30.0,15
+2020-03-20,Wisconsin,Arts & Entertainment,46.0,52.0,45.0,16
+2020-03-20,Wisconsin,Residences,73.0,71.0,73.0,17
+2020-03-20,Wisconsin,Hotel,44.0,40.0,44.0,18
 2020-03-20,Wisconsin,Banks,68.0,60.0,68.0,19
-2020-03-20,Wisconsin,Government,38.0,41.0,38.0,20
-2020-03-20,Wisconsin,Sports,23.0,28.0,22.0,21
+2020-03-20,Wisconsin,Government,61.0,66.0,60.0,20
 2020-03-20,Wisconsin,Discount Stores,86.0,77.0,87.0,21
-2020-03-20,Wisconsin,Colleges & Universities,18.0,27.0,18.0,22
-2020-03-20,Wisconsin,Alcohol,100.0,77.0,101.0,23
-2020-03-20,Wisconsin,Fitness Center,20.0,16.0,20.0,24
-2020-03-20,Wisconsin,Travel & Transport,38.0,34.0,39.0,25
-2020-03-20,Wisconsin,Airport,29.0,23.0,29.0,26
-2020-03-20,Wisconsin,Bus,38.0,"",38.0,27
-2020-03-20,Wisconsin,Beach,77.0,"",78.0,28
-2020-03-21,Wisconsin,Shops & Services,16.0,16.0,16.0,1
+2020-03-20,Wisconsin,Sports,66.0,76.0,65.0,22
+2020-03-20,Wisconsin,Colleges & Universities,27.0,40.0,27.0,23
+2020-03-20,Wisconsin,Alcohol,100.0,77.0,101.0,24
+2020-03-20,Wisconsin,Fitness Center,30.0,25.0,30.0,25
+2020-03-20,Wisconsin,Travel & Transport,78.0,70.0,79.0,26
+2020-03-20,Wisconsin,Airport,43.0,36.0,44.0,27
+2020-03-20,Wisconsin,Bus,58.0,"",58.0,28
+2020-03-20,Wisconsin,Beach,90.0,"",92.0,29
+2020-03-21,Wisconsin,Shops & Services,47.0,47.0,47.0,1
 2020-03-21,Wisconsin,Grocery,96.0,84.0,96.0,2
-2020-03-21,Wisconsin,Food,16.0,16.0,16.0,3
-2020-03-21,Wisconsin,Outdoors & Recreation,38.0,42.0,38.0,4
-2020-03-21,Wisconsin,Nightlife Spots,18.0,22.0,18.0,5
+2020-03-21,Wisconsin,Food,36.0,34.0,36.0,3
+2020-03-21,Wisconsin,Outdoors & Recreation,74.0,79.0,74.0,4
+2020-03-21,Wisconsin,Nightlife Spots,30.0,36.0,30.0,5
 2020-03-21,Wisconsin,Big Box Stores,70.0,64.0,71.0,6
 2020-03-21,Wisconsin,Gas Stations,64.0,66.0,64.0,7
 2020-03-21,Wisconsin,Fast Food Restaurants,53.0,53.0,53.0,8
 2020-03-21,Wisconsin,Convenience Store,62.0,60.0,62.0,9
 2020-03-21,Wisconsin,Hardware Stores,93.0,73.0,94.0,10
-2020-03-21,Wisconsin,Professional & Other Places,12.0,11.0,12.0,11
+2020-03-21,Wisconsin,Professional & Other Places,53.0,46.0,53.0,11
 2020-03-21,Wisconsin,Drug Store,82.0,77.0,82.0,12
-2020-03-21,Wisconsin,Arts & Entertainment,19.0,19.0,19.0,13
-2020-03-21,Wisconsin,School,20.0,21.0,20.0,14
-2020-03-21,Wisconsin,Medical,34.0,31.0,34.0,15
-2020-03-21,Wisconsin,Residences,55.0,53.0,55.0,16
+2020-03-21,Wisconsin,Arts & Entertainment,29.0,28.0,29.0,13
+2020-03-21,Wisconsin,School,36.0,36.0,36.0,14
+2020-03-21,Wisconsin,Medical,60.0,54.0,60.0,15
+2020-03-21,Wisconsin,Residences,66.0,65.0,66.0,16
 2020-03-21,Wisconsin,Discount Stores,79.0,82.0,79.0,17
-2020-03-21,Wisconsin,Hotel,20.0,24.0,20.0,18
-2020-03-21,Wisconsin,Sports,20.0,25.0,20.0,19
-2020-03-21,Wisconsin,Office,58.0,59.0,57.0,20
-2020-03-21,Wisconsin,Colleges & Universities,23.0,21.0,23.0,21
+2020-03-21,Wisconsin,Hotel,27.0,32.0,27.0,18
+2020-03-21,Wisconsin,Sports,50.0,59.0,50.0,19
+2020-03-21,Wisconsin,Office,68.0,71.0,68.0,20
+2020-03-21,Wisconsin,Colleges & Universities,40.0,39.0,40.0,21
 2020-03-21,Wisconsin,Alcohol,73.0,59.0,74.0,22
-2020-03-21,Wisconsin,Government,44.0,46.0,44.0,23
+2020-03-21,Wisconsin,Government,72.0,75.0,72.0,23
 2020-03-21,Wisconsin,Banks,63.0,56.0,64.0,24
-2020-03-21,Wisconsin,Travel & Transport,38.0,56.0,38.0,25
-2020-03-21,Wisconsin,Fitness Center,15.0,12.0,15.0,26
-2020-03-21,Wisconsin,Airport,32.0,36.0,32.0,27
-2020-03-21,Wisconsin,Beach,74.0,"",74.0,28
-2020-03-21,Wisconsin,Bus,36.0,"",36.0,29
-2020-03-22,Wisconsin,Food,15.0,14.0,15.0,1
+2020-03-21,Wisconsin,Travel & Transport,78.0,106.0,77.0,25
+2020-03-21,Wisconsin,Fitness Center,23.0,19.0,23.0,26
+2020-03-21,Wisconsin,Airport,49.0,55.0,49.0,27
+2020-03-21,Wisconsin,Beach,84.0,"",85.0,28
+2020-03-21,Wisconsin,Bus,57.0,"",57.0,29
+2020-03-22,Wisconsin,Food,32.0,29.0,32.0,1
 2020-03-22,Wisconsin,Grocery,67.0,65.0,67.0,2
-2020-03-22,Wisconsin,Shops & Services,18.0,17.0,18.0,3
-2020-03-22,Wisconsin,Outdoors & Recreation,34.0,37.0,34.0,4
-2020-03-22,Wisconsin,Nightlife Spots,16.0,22.0,16.0,5
+2020-03-22,Wisconsin,Shops & Services,43.0,43.0,43.0,3
+2020-03-22,Wisconsin,Outdoors & Recreation,67.0,70.0,67.0,4
+2020-03-22,Wisconsin,Nightlife Spots,26.0,36.0,26.0,5
 2020-03-22,Wisconsin,Big Box Stores,62.0,65.0,62.0,6
 2020-03-22,Wisconsin,Gas Stations,54.0,51.0,54.0,7
 2020-03-22,Wisconsin,Fast Food Restaurants,52.0,52.0,52.0,8
 2020-03-22,Wisconsin,Convenience Store,53.0,56.0,53.0,9
 2020-03-22,Wisconsin,Hardware Stores,88.0,90.0,88.0,10
-2020-03-22,Wisconsin,Professional & Other Places,10.0,8.0,10.0,11
+2020-03-22,Wisconsin,Professional & Other Places,53.0,47.0,53.0,11
 2020-03-22,Wisconsin,Drug Store,73.0,73.0,73.0,12
-2020-03-22,Wisconsin,Arts & Entertainment,21.0,23.0,21.0,13
-2020-03-22,Wisconsin,School,22.0,21.0,22.0,14
-2020-03-22,Wisconsin,Medical,31.0,27.0,31.0,15
-2020-03-22,Wisconsin,Residences,45.0,39.0,46.0,16
-2020-03-22,Wisconsin,Hotel,18.0,19.0,18.0,17
-2020-03-22,Wisconsin,Sports,20.0,27.0,20.0,18
+2020-03-22,Wisconsin,Arts & Entertainment,26.0,29.0,26.0,13
+2020-03-22,Wisconsin,School,37.0,35.0,37.0,14
+2020-03-22,Wisconsin,Medical,54.0,47.0,54.0,15
+2020-03-22,Wisconsin,Residences,55.0,48.0,55.0,16
+2020-03-22,Wisconsin,Hotel,24.0,26.0,24.0,17
+2020-03-22,Wisconsin,Sports,47.0,58.0,46.0,18
 2020-03-22,Wisconsin,Discount Stores,72.0,66.0,72.0,19
-2020-03-22,Wisconsin,Colleges & Universities,20.0,28.0,20.0,20
-2020-03-22,Wisconsin,Office,52.0,56.0,52.0,21
-2020-03-22,Wisconsin,Travel & Transport,14.0,17.0,14.0,22
+2020-03-22,Wisconsin,Colleges & Universities,34.0,48.0,34.0,20
+2020-03-22,Wisconsin,Office,61.0,66.0,61.0,21
+2020-03-22,Wisconsin,Travel & Transport,74.0,85.0,73.0,22
 2020-03-22,Wisconsin,Alcohol,63.0,52.0,63.0,23
-2020-03-22,Wisconsin,Government,37.0,30.0,37.0,24
-2020-03-22,Wisconsin,Airport,29.0,30.0,29.0,25
-2020-03-22,Wisconsin,Fitness Center,16.0,18.0,16.0,26
+2020-03-22,Wisconsin,Government,63.0,51.0,63.0,24
+2020-03-22,Wisconsin,Airport,43.0,45.0,43.0,25
+2020-03-22,Wisconsin,Fitness Center,24.0,27.0,24.0,26
 2020-03-22,Wisconsin,Banks,62.0,"",62.0,27
-2020-03-22,Wisconsin,Beach,64.0,"",65.0,28
-2020-03-22,Wisconsin,Bus,34.0,"",34.0,29
-2020-03-23,Wisconsin,Shops & Services,23.0,21.0,23.0,1
-2020-03-23,Wisconsin,Food,23.0,21.0,24.0,2
+2020-03-22,Wisconsin,Beach,74.0,"",74.0,28
+2020-03-22,Wisconsin,Bus,55.0,"",55.0,29
+2020-03-23,Wisconsin,Shops & Services,64.0,58.0,64.0,1
+2020-03-23,Wisconsin,Food,53.0,45.0,53.0,2
 2020-03-23,Wisconsin,Grocery,100.0,93.0,101.0,3
-2020-03-23,Wisconsin,Outdoors & Recreation,41.0,43.0,40.0,4
-2020-03-23,Wisconsin,Nightlife Spots,33.0,36.0,33.0,5
+2020-03-23,Wisconsin,Outdoors & Recreation,83.0,86.0,83.0,4
+2020-03-23,Wisconsin,Nightlife Spots,54.0,57.0,54.0,5
 2020-03-23,Wisconsin,Gas Stations,69.0,67.0,69.0,6
 2020-03-23,Wisconsin,Big Box Stores,85.0,76.0,86.0,7
-2020-03-23,Wisconsin,Professional & Other Places,12.0,12.0,12.0,8
+2020-03-23,Wisconsin,Professional & Other Places,71.0,68.0,71.0,8
 2020-03-23,Wisconsin,Convenience Store,68.0,69.0,68.0,9
-2020-03-23,Wisconsin,Medical,27.0,25.0,27.0,10
+2020-03-23,Wisconsin,Medical,49.0,45.0,49.0,10
 2020-03-23,Wisconsin,Fast Food Restaurants,65.0,57.0,65.0,11
 2020-03-23,Wisconsin,Hardware Stores,106.0,88.0,107.0,12
-2020-03-23,Wisconsin,Office,51.0,56.0,51.0,13
+2020-03-23,Wisconsin,Office,59.0,63.0,59.0,13
 2020-03-23,Wisconsin,Drug Store,94.0,87.0,95.0,14
-2020-03-23,Wisconsin,School,18.0,24.0,18.0,15
-2020-03-23,Wisconsin,Arts & Entertainment,41.0,43.0,41.0,16
-2020-03-23,Wisconsin,Residences,70.0,65.0,71.0,17
-2020-03-23,Wisconsin,Government,39.0,46.0,39.0,18
-2020-03-23,Wisconsin,Sports,25.0,29.0,25.0,19
-2020-03-23,Wisconsin,Hotel,37.0,36.0,37.0,20
-2020-03-23,Wisconsin,Colleges & Universities,17.0,39.0,17.0,21
+2020-03-23,Wisconsin,School,32.0,41.0,32.0,15
+2020-03-23,Wisconsin,Arts & Entertainment,52.0,55.0,52.0,16
+2020-03-23,Wisconsin,Residences,73.0,67.0,73.0,17
+2020-03-23,Wisconsin,Government,63.0,72.0,62.0,18
+2020-03-23,Wisconsin,Sports,74.0,83.0,74.0,19
+2020-03-23,Wisconsin,Hotel,49.0,50.0,49.0,20
+2020-03-23,Wisconsin,Colleges & Universities,22.0,46.0,22.0,21
 2020-03-23,Wisconsin,Discount Stores,88.0,78.0,89.0,22
 2020-03-23,Wisconsin,Banks,69.0,67.0,69.0,23
-2020-03-23,Wisconsin,Fitness Center,19.0,15.0,19.0,24
-2020-03-23,Wisconsin,Travel & Transport,20.0,25.0,20.0,25
+2020-03-23,Wisconsin,Fitness Center,28.0,23.0,28.0,24
+2020-03-23,Wisconsin,Travel & Transport,85.0,91.0,85.0,25
 2020-03-23,Wisconsin,Alcohol,90.0,76.0,90.0,26
-2020-03-23,Wisconsin,Airport,23.0,26.0,23.0,27
-2020-03-23,Wisconsin,Bus,40.0,"",41.0,28
-2020-03-23,Wisconsin,Beach,72.0,"",73.0,29
-2020-03-24,Wisconsin,Shops & Services,19.0,17.0,19.0,1
-2020-03-24,Wisconsin,Food,22.0,20.0,22.0,2
-2020-03-24,Wisconsin,Outdoors & Recreation,46.0,46.0,46.0,3
+2020-03-23,Wisconsin,Airport,35.0,40.0,35.0,27
+2020-03-23,Wisconsin,Bus,63.0,"",63.0,28
+2020-03-23,Wisconsin,Beach,82.0,"",83.0,29
+2020-03-24,Wisconsin,Shops & Services,57.0,50.0,57.0,1
+2020-03-24,Wisconsin,Food,48.0,41.0,48.0,2
+2020-03-24,Wisconsin,Outdoors & Recreation,90.0,92.0,90.0,3
 2020-03-24,Wisconsin,Grocery,80.0,77.0,80.0,4
-2020-03-24,Wisconsin,Nightlife Spots,32.0,31.0,32.0,5
+2020-03-24,Wisconsin,Nightlife Spots,52.0,50.0,52.0,5
 2020-03-24,Wisconsin,Gas Stations,66.0,61.0,67.0,6
-2020-03-24,Wisconsin,Professional & Other Places,11.0,10.0,11.0,7
-2020-03-24,Wisconsin,Medical,25.0,22.0,25.0,8
+2020-03-24,Wisconsin,Professional & Other Places,64.0,58.0,64.0,7
+2020-03-24,Wisconsin,Medical,45.0,39.0,45.0,8
 2020-03-24,Wisconsin,Convenience Store,62.0,60.0,62.0,9
 2020-03-24,Wisconsin,Big Box Stores,71.0,64.0,72.0,10
 2020-03-24,Wisconsin,Fast Food Restaurants,58.0,54.0,58.0,11
-2020-03-24,Wisconsin,Office,46.0,53.0,46.0,12
+2020-03-24,Wisconsin,Office,53.0,60.0,53.0,12
 2020-03-24,Wisconsin,Hardware Stores,93.0,80.0,94.0,13
-2020-03-24,Wisconsin,School,16.0,20.0,16.0,14
+2020-03-24,Wisconsin,School,28.0,34.0,27.0,14
 2020-03-24,Wisconsin,Drug Store,74.0,69.0,75.0,15
-2020-03-24,Wisconsin,Arts & Entertainment,37.0,37.0,37.0,16
+2020-03-24,Wisconsin,Arts & Entertainment,48.0,49.0,48.0,16
 2020-03-24,Wisconsin,Residences,67.0,61.0,68.0,17
-2020-03-24,Wisconsin,Sports,23.0,29.0,23.0,18
-2020-03-24,Wisconsin,Hotel,38.0,38.0,38.0,19
-2020-03-24,Wisconsin,Government,33.0,32.0,33.0,20
-2020-03-24,Wisconsin,Colleges & Universities,14.0,26.0,14.0,21
+2020-03-24,Wisconsin,Sports,77.0,85.0,76.0,18
+2020-03-24,Wisconsin,Hotel,49.0,53.0,49.0,19
+2020-03-24,Wisconsin,Government,53.0,52.0,54.0,20
+2020-03-24,Wisconsin,Colleges & Universities,21.0,37.0,21.0,21
 2020-03-24,Wisconsin,Discount Stores,69.0,63.0,70.0,22
 2020-03-24,Wisconsin,Banks,55.0,47.0,55.0,23
-2020-03-24,Wisconsin,Travel & Transport,18.0,21.0,18.0,24
-2020-03-24,Wisconsin,Fitness Center,14.0,13.0,15.0,25
+2020-03-24,Wisconsin,Travel & Transport,77.0,88.0,77.0,24
+2020-03-24,Wisconsin,Fitness Center,22.0,19.0,22.0,25
 2020-03-24,Wisconsin,Alcohol,79.0,78.0,79.0,26
-2020-03-24,Wisconsin,Airport,25.0,24.0,25.0,27
-2020-03-24,Wisconsin,Beach,101.0,71.0,103.0,28
-2020-03-24,Wisconsin,Bus,38.0,"",38.0,29
-2020-03-25,Wisconsin,Shops & Services,17.0,14.0,17.0,1
-2020-03-25,Wisconsin,Food,20.0,18.0,20.0,2
-2020-03-25,Wisconsin,Outdoors & Recreation,45.0,45.0,46.0,3
+2020-03-24,Wisconsin,Airport,38.0,36.0,38.0,27
+2020-03-24,Wisconsin,Beach,112.0,81.0,113.0,28
+2020-03-24,Wisconsin,Bus,58.0,"",59.0,29
+2020-03-25,Wisconsin,Shops & Services,51.0,42.0,51.0,1
+2020-03-25,Wisconsin,Food,43.0,38.0,44.0,2
+2020-03-25,Wisconsin,Outdoors & Recreation,93.0,89.0,93.0,3
 2020-03-25,Wisconsin,Grocery,75.0,68.0,75.0,4
-2020-03-25,Wisconsin,Nightlife Spots,27.0,30.0,27.0,5
+2020-03-25,Wisconsin,Nightlife Spots,47.0,50.0,46.0,5
 2020-03-25,Wisconsin,Gas Stations,63.0,57.0,63.0,6
-2020-03-25,Wisconsin,Professional & Other Places,10.0,9.0,10.0,7
+2020-03-25,Wisconsin,Professional & Other Places,64.0,58.0,65.0,7
 2020-03-25,Wisconsin,Convenience Store,59.0,53.0,59.0,8
-2020-03-25,Wisconsin,Medical,24.0,18.0,24.0,9
+2020-03-25,Wisconsin,Medical,43.0,32.0,43.0,9
 2020-03-25,Wisconsin,Big Box Stores,63.0,50.0,64.0,10
 2020-03-25,Wisconsin,Fast Food Restaurants,54.0,51.0,54.0,11
-2020-03-25,Wisconsin,Office,45.0,50.0,45.0,12
-2020-03-25,Wisconsin,School,16.0,22.0,16.0,13
+2020-03-25,Wisconsin,Office,51.0,57.0,51.0,12
+2020-03-25,Wisconsin,School,28.0,38.0,28.0,13
 2020-03-25,Wisconsin,Hardware Stores,78.0,61.0,79.0,14
-2020-03-25,Wisconsin,Arts & Entertainment,42.0,46.0,42.0,15
+2020-03-25,Wisconsin,Arts & Entertainment,47.0,51.0,47.0,15
 2020-03-25,Wisconsin,Drug Store,71.0,57.0,72.0,16
 2020-03-25,Wisconsin,Residences,74.0,63.0,74.0,17
-2020-03-25,Wisconsin,Sports,23.0,27.0,23.0,18
-2020-03-25,Wisconsin,Government,34.0,35.0,34.0,19
-2020-03-25,Wisconsin,Hotel,34.0,28.0,34.0,20
-2020-03-25,Wisconsin,Colleges & Universities,11.0,28.0,11.0,21
+2020-03-25,Wisconsin,Sports,74.0,78.0,73.0,18
+2020-03-25,Wisconsin,Government,55.0,56.0,55.0,19
+2020-03-25,Wisconsin,Hotel,44.0,38.0,44.0,20
+2020-03-25,Wisconsin,Colleges & Universities,20.0,45.0,19.0,21
 2020-03-25,Wisconsin,Banks,52.0,47.0,53.0,22
-2020-03-25,Wisconsin,Travel & Transport,19.0,20.0,19.0,23
+2020-03-25,Wisconsin,Travel & Transport,76.0,76.0,76.0,23
 2020-03-25,Wisconsin,Discount Stores,58.0,48.0,58.0,24
-2020-03-25,Wisconsin,Fitness Center,14.0,11.0,14.0,25
+2020-03-25,Wisconsin,Fitness Center,21.0,17.0,21.0,25
 2020-03-25,Wisconsin,Alcohol,73.0,63.0,73.0,26
-2020-03-25,Wisconsin,Airport,25.0,22.0,25.0,27
-2020-03-25,Wisconsin,Beach,106.0,72.0,108.0,28
-2020-03-25,Wisconsin,Bus,39.0,"",39.0,29
-2020-03-26,Wisconsin,Shops & Services,18.0,15.0,18.0,1
-2020-03-26,Wisconsin,Food,19.0,17.0,19.0,2
-2020-03-26,Wisconsin,Outdoors & Recreation,37.0,39.0,37.0,3
+2020-03-25,Wisconsin,Airport,38.0,33.0,38.0,27
+2020-03-25,Wisconsin,Beach,125.0,90.0,127.0,28
+2020-03-25,Wisconsin,Bus,60.0,"",60.0,29
+2020-03-26,Wisconsin,Shops & Services,51.0,45.0,51.0,1
+2020-03-26,Wisconsin,Food,43.0,38.0,43.0,2
+2020-03-26,Wisconsin,Outdoors & Recreation,86.0,89.0,86.0,3
 2020-03-26,Wisconsin,Grocery,79.0,74.0,80.0,4
-2020-03-26,Wisconsin,Nightlife Spots,26.0,29.0,26.0,5
+2020-03-26,Wisconsin,Nightlife Spots,43.0,46.0,43.0,5
 2020-03-26,Wisconsin,Gas Stations,62.0,54.0,62.0,6
-2020-03-26,Wisconsin,Professional & Other Places,10.0,10.0,10.0,7
+2020-03-26,Wisconsin,Professional & Other Places,63.0,61.0,63.0,7
 2020-03-26,Wisconsin,Big Box Stores,65.0,61.0,65.0,8
 2020-03-26,Wisconsin,Convenience Store,56.0,53.0,56.0,9
 2020-03-26,Wisconsin,Fast Food Restaurants,54.0,50.0,54.0,10
-2020-03-26,Wisconsin,Medical,24.0,18.0,24.0,11
-2020-03-26,Wisconsin,Office,44.0,49.0,44.0,12
+2020-03-26,Wisconsin,Medical,42.0,33.0,42.0,11
+2020-03-26,Wisconsin,Office,50.0,56.0,50.0,12
 2020-03-26,Wisconsin,Hardware Stores,89.0,78.0,90.0,13
-2020-03-26,Wisconsin,School,15.0,22.0,15.0,14
-2020-03-26,Wisconsin,Arts & Entertainment,39.0,37.0,39.0,15
+2020-03-26,Wisconsin,School,26.0,37.0,26.0,14
+2020-03-26,Wisconsin,Arts & Entertainment,47.0,43.0,47.0,15
 2020-03-26,Wisconsin,Drug Store,67.0,62.0,67.0,16
-2020-03-26,Wisconsin,Residences,57.0,44.0,57.0,17
-2020-03-26,Wisconsin,Sports,23.0,25.0,23.0,18
-2020-03-26,Wisconsin,Hotel,33.0,28.0,34.0,19
-2020-03-26,Wisconsin,Government,33.0,32.0,33.0,20
-2020-03-26,Wisconsin,Colleges & Universities,12.0,23.0,12.0,21
+2020-03-26,Wisconsin,Residences,68.0,55.0,68.0,17
+2020-03-26,Wisconsin,Sports,68.0,67.0,68.0,18
+2020-03-26,Wisconsin,Hotel,43.0,38.0,43.0,19
+2020-03-26,Wisconsin,Government,53.0,50.0,53.0,20
+2020-03-26,Wisconsin,Colleges & Universities,20.0,38.0,20.0,21
 2020-03-26,Wisconsin,Discount Stores,65.0,57.0,65.0,22
-2020-03-26,Wisconsin,Travel & Transport,19.0,18.0,19.0,23
+2020-03-26,Wisconsin,Travel & Transport,78.0,70.0,78.0,23
 2020-03-26,Wisconsin,Banks,52.0,46.0,52.0,24
-2020-03-26,Wisconsin,Fitness Center,14.0,14.0,15.0,25
+2020-03-26,Wisconsin,Fitness Center,22.0,21.0,22.0,25
 2020-03-26,Wisconsin,Alcohol,72.0,73.0,72.0,26
-2020-03-26,Wisconsin,Airport,22.0,18.0,22.0,27
-2020-03-26,Wisconsin,Bus,37.0,"",37.0,28
-2020-03-26,Wisconsin,Beach,83.0,92.0,82.0,29
-2020-03-27,Wisconsin,Shops & Services,17.0,14.0,17.0,1
-2020-03-27,Wisconsin,Food,20.0,17.0,20.0,2
+2020-03-26,Wisconsin,Airport,33.0,27.0,33.0,27
+2020-03-26,Wisconsin,Bus,57.0,"",57.0,28
+2020-03-26,Wisconsin,Beach,96.0,109.0,96.0,29
+2020-03-27,Wisconsin,Shops & Services,49.0,42.0,50.0,1
+2020-03-27,Wisconsin,Food,43.0,37.0,43.0,2
 2020-03-27,Wisconsin,Grocery,80.0,75.0,81.0,3
-2020-03-27,Wisconsin,Outdoors & Recreation,46.0,48.0,46.0,4
-2020-03-27,Wisconsin,Nightlife Spots,26.0,29.0,26.0,5
+2020-03-27,Wisconsin,Outdoors & Recreation,91.0,94.0,91.0,4
+2020-03-27,Wisconsin,Nightlife Spots,44.0,48.0,44.0,5
 2020-03-27,Wisconsin,Gas Stations,62.0,59.0,62.0,6
-2020-03-27,Wisconsin,Professional & Other Places,11.0,10.0,11.0,7
+2020-03-27,Wisconsin,Professional & Other Places,67.0,58.0,67.0,7
 2020-03-27,Wisconsin,Big Box Stores,65.0,56.0,65.0,8
 2020-03-27,Wisconsin,Fast Food Restaurants,58.0,57.0,58.0,9
 2020-03-27,Wisconsin,Convenience Store,57.0,51.0,57.0,10
-2020-03-27,Wisconsin,Medical,26.0,22.0,27.0,11
+2020-03-27,Wisconsin,Medical,47.0,40.0,48.0,11
 2020-03-27,Wisconsin,Hardware Stores,90.0,74.0,91.0,12
-2020-03-27,Wisconsin,Office,47.0,45.0,47.0,13
-2020-03-27,Wisconsin,School,16.0,25.0,16.0,14
-2020-03-27,Wisconsin,Arts & Entertainment,35.0,43.0,35.0,15
+2020-03-27,Wisconsin,Office,53.0,51.0,53.0,13
+2020-03-27,Wisconsin,School,29.0,44.0,29.0,14
+2020-03-27,Wisconsin,Arts & Entertainment,44.0,54.0,43.0,15
 2020-03-27,Wisconsin,Drug Store,67.0,67.0,67.0,16
-2020-03-27,Wisconsin,Residences,62.0,50.0,63.0,17
-2020-03-27,Wisconsin,Sports,24.0,26.0,24.0,18
-2020-03-27,Wisconsin,Hotel,30.0,30.0,30.0,19
-2020-03-27,Wisconsin,Government,37.0,36.0,37.0,20
-2020-03-27,Wisconsin,Colleges & Universities,15.0,25.0,15.0,21
+2020-03-27,Wisconsin,Residences,74.0,60.0,75.0,17
+2020-03-27,Wisconsin,Sports,71.0,74.0,71.0,18
+2020-03-27,Wisconsin,Hotel,40.0,40.0,39.0,19
+2020-03-27,Wisconsin,Government,59.0,57.0,60.0,20
+2020-03-27,Wisconsin,Colleges & Universities,25.0,38.0,25.0,21
 2020-03-27,Wisconsin,Banks,56.0,47.0,56.0,22
 2020-03-27,Wisconsin,Discount Stores,65.0,67.0,65.0,23
-2020-03-27,Wisconsin,Travel & Transport,30.0,27.0,30.0,24
+2020-03-27,Wisconsin,Travel & Transport,75.0,70.0,75.0,24
 2020-03-27,Wisconsin,Alcohol,71.0,57.0,71.0,25
-2020-03-27,Wisconsin,Fitness Center,15.0,11.0,15.0,26
-2020-03-27,Wisconsin,Airport,22.0,17.0,23.0,27
-2020-03-27,Wisconsin,Beach,85.0,83.0,86.0,28
-2020-03-27,Wisconsin,Bus,38.0,"",38.0,29
-2020-03-28,Wisconsin,Shops & Services,13.0,12.0,13.0,1
-2020-03-28,Wisconsin,Food,14.0,13.0,14.0,2
+2020-03-27,Wisconsin,Fitness Center,23.0,17.0,23.0,26
+2020-03-27,Wisconsin,Airport,34.0,26.0,34.0,27
+2020-03-27,Wisconsin,Beach,100.0,101.0,100.0,28
+2020-03-27,Wisconsin,Bus,60.0,"",60.0,29
+2020-03-28,Wisconsin,Shops & Services,35.0,30.0,35.0,1
+2020-03-28,Wisconsin,Food,30.0,27.0,30.0,2
 2020-03-28,Wisconsin,Grocery,73.0,61.0,74.0,3
-2020-03-28,Wisconsin,Outdoors & Recreation,29.0,28.0,29.0,4
-2020-03-28,Wisconsin,Nightlife Spots,16.0,17.0,16.0,5
+2020-03-28,Wisconsin,Outdoors & Recreation,55.0,53.0,55.0,4
+2020-03-28,Wisconsin,Nightlife Spots,25.0,26.0,25.0,5
 2020-03-28,Wisconsin,Big Box Stores,61.0,51.0,61.0,6
 2020-03-28,Wisconsin,Gas Stations,50.0,45.0,51.0,7
 2020-03-28,Wisconsin,Fast Food Restaurants,48.0,43.0,48.0,8
 2020-03-28,Wisconsin,Hardware Stores,86.0,66.0,86.0,9
 2020-03-28,Wisconsin,Convenience Store,50.0,48.0,50.0,10
-2020-03-28,Wisconsin,Professional & Other Places,10.0,8.0,10.0,11
+2020-03-28,Wisconsin,Professional & Other Places,45.0,36.0,45.0,11
 2020-03-28,Wisconsin,Drug Store,65.0,56.0,66.0,12
-2020-03-28,Wisconsin,Medical,30.0,28.0,30.0,13
-2020-03-28,Wisconsin,School,17.0,18.0,17.0,14
-2020-03-28,Wisconsin,Arts & Entertainment,21.0,20.0,21.0,15
-2020-03-28,Wisconsin,Residences,48.0,49.0,48.0,16
+2020-03-28,Wisconsin,Medical,55.0,50.0,55.0,13
+2020-03-28,Wisconsin,School,30.0,31.0,30.0,14
+2020-03-28,Wisconsin,Arts & Entertainment,26.0,25.0,26.0,15
+2020-03-28,Wisconsin,Residences,59.0,60.0,58.0,16
 2020-03-28,Wisconsin,Discount Stores,61.0,59.0,61.0,17
-2020-03-28,Wisconsin,Sports,16.0,20.0,16.0,18
-2020-03-28,Wisconsin,Office,50.0,39.0,50.0,19
-2020-03-28,Wisconsin,Hotel,15.0,15.0,15.0,20
+2020-03-28,Wisconsin,Sports,40.0,46.0,40.0,18
+2020-03-28,Wisconsin,Office,59.0,47.0,59.0,19
+2020-03-28,Wisconsin,Hotel,21.0,21.0,21.0,20
 2020-03-28,Wisconsin,Alcohol,59.0,55.0,60.0,21
-2020-03-28,Wisconsin,Government,37.0,31.0,37.0,22
-2020-03-28,Wisconsin,Colleges & Universities,17.0,23.0,17.0,23
-2020-03-28,Wisconsin,Banks,50.0,47.0,50.0,24
-2020-03-28,Wisconsin,Travel & Transport,22.0,22.0,23.0,25
-2020-03-28,Wisconsin,Fitness Center,12.0,9.0,12.0,26
-2020-03-28,Wisconsin,Airport,17.0,"",18.0,27
-2020-03-28,Wisconsin,Bus,37.0,"",38.0,28
-2020-03-28,Wisconsin,Beach,48.0,"",48.0,29
+2020-03-28,Wisconsin,Government,62.0,52.0,62.0,22
+2020-03-28,Wisconsin,Banks,50.0,47.0,50.0,23
+2020-03-28,Wisconsin,Colleges & Universities,26.0,38.0,26.0,24
+2020-03-28,Wisconsin,Travel & Transport,66.0,61.0,66.0,25
+2020-03-28,Wisconsin,Fitness Center,18.0,14.0,18.0,26
+2020-03-28,Wisconsin,Airport,26.0,"",26.0,27
+2020-03-28,Wisconsin,Bus,60.0,"",60.0,28
+2020-03-28,Wisconsin,Beach,55.0,"",55.0,29
 2020-03-29,Wisconsin,Grocery,55.0,52.0,55.0,1
-2020-03-29,Wisconsin,Food,14.0,12.0,14.0,2
-2020-03-29,Wisconsin,Shops & Services,12.0,12.0,12.0,3
-2020-03-29,Wisconsin,Outdoors & Recreation,24.0,26.0,24.0,4
+2020-03-29,Wisconsin,Food,25.0,22.0,26.0,2
+2020-03-29,Wisconsin,Shops & Services,32.0,34.0,32.0,3
+2020-03-29,Wisconsin,Outdoors & Recreation,43.0,48.0,43.0,4
 2020-03-29,Wisconsin,Big Box Stores,51.0,49.0,51.0,5
-2020-03-29,Wisconsin,Nightlife Spots,11.0,16.0,11.0,6
+2020-03-29,Wisconsin,Nightlife Spots,18.0,24.0,18.0,6
 2020-03-29,Wisconsin,Gas Stations,41.0,39.0,41.0,7
 2020-03-29,Wisconsin,Fast Food Restaurants,43.0,44.0,43.0,8
 2020-03-29,Wisconsin,Convenience Store,41.0,39.0,41.0,9
 2020-03-29,Wisconsin,Hardware Stores,70.0,63.0,70.0,10
-2020-03-29,Wisconsin,Professional & Other Places,8.0,6.0,8.0,11
+2020-03-29,Wisconsin,Professional & Other Places,39.0,32.0,39.0,11
 2020-03-29,Wisconsin,Drug Store,56.0,56.0,56.0,12
-2020-03-29,Wisconsin,School,16.0,17.0,16.0,13
-2020-03-29,Wisconsin,Arts & Entertainment,12.0,15.0,12.0,14
-2020-03-29,Wisconsin,Medical,22.0,19.0,23.0,15
-2020-03-29,Wisconsin,Residences,34.0,39.0,34.0,16
+2020-03-29,Wisconsin,School,29.0,29.0,29.0,13
+2020-03-29,Wisconsin,Arts & Entertainment,18.0,22.0,18.0,14
+2020-03-29,Wisconsin,Medical,39.0,33.0,39.0,15
+2020-03-29,Wisconsin,Residences,41.0,48.0,41.0,16
 2020-03-29,Wisconsin,Discount Stores,53.0,49.0,53.0,17
-2020-03-29,Wisconsin,Sports,13.0,19.0,12.0,18
-2020-03-29,Wisconsin,Hotel,12.0,15.0,12.0,19
-2020-03-29,Wisconsin,Office,41.0,37.0,42.0,20
-2020-03-29,Wisconsin,Government,34.0,31.0,34.0,21
-2020-03-29,Wisconsin,Colleges & Universities,18.0,"",18.0,22
+2020-03-29,Wisconsin,Sports,32.0,46.0,32.0,18
+2020-03-29,Wisconsin,Hotel,16.0,20.0,16.0,19
+2020-03-29,Wisconsin,Office,49.0,44.0,49.0,20
+2020-03-29,Wisconsin,Government,56.0,50.0,56.0,21
+2020-03-29,Wisconsin,Colleges & Universities,23.0,"",23.0,22
 2020-03-29,Wisconsin,Alcohol,45.0,42.0,45.0,23
-2020-03-29,Wisconsin,Travel & Transport,10.0,13.0,10.0,24
-2020-03-29,Wisconsin,Fitness Center,12.0,"",12.0,25
+2020-03-29,Wisconsin,Travel & Transport,51.0,60.0,50.0,24
+2020-03-29,Wisconsin,Fitness Center,18.0,"",18.0,25
 2020-03-29,Wisconsin,Banks,47.0,"",47.0,26
-2020-03-29,Wisconsin,Airport,15.0,"",15.0,27
-2020-03-29,Wisconsin,Beach,43.0,"",43.0,28
-2020-03-29,Wisconsin,Bus,22.0,"",22.0,29
-2020-03-30,Wisconsin,Shops & Services,17.0,15.0,17.0,1
-2020-03-30,Wisconsin,Food,20.0,20.0,20.0,2
-2020-03-30,Wisconsin,Outdoors & Recreation,36.0,41.0,36.0,3
+2020-03-29,Wisconsin,Airport,23.0,"",23.0,27
+2020-03-29,Wisconsin,Beach,49.0,"",48.0,28
+2020-03-29,Wisconsin,Bus,36.0,"",36.0,29
+2020-03-30,Wisconsin,Shops & Services,51.0,44.0,51.0,1
+2020-03-30,Wisconsin,Food,44.0,42.0,44.0,2
+2020-03-30,Wisconsin,Outdoors & Recreation,79.0,89.0,79.0,3
 2020-03-30,Wisconsin,Grocery,69.0,69.0,69.0,4
-2020-03-30,Wisconsin,Nightlife Spots,29.0,33.0,29.0,5
+2020-03-30,Wisconsin,Nightlife Spots,48.0,53.0,48.0,5
 2020-03-30,Wisconsin,Gas Stations,60.0,60.0,60.0,6
-2020-03-30,Wisconsin,Professional & Other Places,10.0,10.0,10.0,7
+2020-03-30,Wisconsin,Professional & Other Places,61.0,60.0,61.0,7
 2020-03-30,Wisconsin,Convenience Store,58.0,58.0,58.0,8
-2020-03-30,Wisconsin,Medical,23.0,20.0,23.0,9
+2020-03-30,Wisconsin,Medical,41.0,35.0,42.0,9
 2020-03-30,Wisconsin,Fast Food Restaurants,56.0,53.0,56.0,10
 2020-03-30,Wisconsin,Big Box Stores,62.0,58.0,62.0,11
-2020-03-30,Wisconsin,Office,42.0,50.0,41.0,12
+2020-03-30,Wisconsin,Office,48.0,57.0,47.0,12
 2020-03-30,Wisconsin,Hardware Stores,82.0,76.0,83.0,13
-2020-03-30,Wisconsin,School,17.0,23.0,16.0,14
+2020-03-30,Wisconsin,School,30.0,39.0,29.0,14
 2020-03-30,Wisconsin,Drug Store,69.0,77.0,69.0,15
-2020-03-30,Wisconsin,Arts & Entertainment,37.0,40.0,37.0,16
-2020-03-30,Wisconsin,Residences,51.0,51.0,51.0,17
-2020-03-30,Wisconsin,Government,33.0,36.0,33.0,18
-2020-03-30,Wisconsin,Sports,22.0,25.0,22.0,19
-2020-03-30,Wisconsin,Hotel,30.0,32.0,30.0,20
-2020-03-30,Wisconsin,Colleges & Universities,10.0,22.0,10.0,21
+2020-03-30,Wisconsin,Arts & Entertainment,45.0,49.0,45.0,16
+2020-03-30,Wisconsin,Residences,61.0,62.0,61.0,17
+2020-03-30,Wisconsin,Government,54.0,57.0,53.0,18
+2020-03-30,Wisconsin,Sports,67.0,76.0,67.0,19
+2020-03-30,Wisconsin,Hotel,39.0,43.0,39.0,20
+2020-03-30,Wisconsin,Colleges & Universities,18.0,36.0,18.0,21
 2020-03-30,Wisconsin,Banks,57.0,55.0,57.0,22
 2020-03-30,Wisconsin,Discount Stores,63.0,50.0,63.0,23
-2020-03-30,Wisconsin,Travel & Transport,16.0,17.0,16.0,24
-2020-03-30,Wisconsin,Fitness Center,15.0,13.0,15.0,25
+2020-03-30,Wisconsin,Travel & Transport,71.0,69.0,72.0,24
+2020-03-30,Wisconsin,Fitness Center,22.0,19.0,23.0,25
 2020-03-30,Wisconsin,Alcohol,70.0,64.0,70.0,26
-2020-03-30,Wisconsin,Airport,17.0,19.0,17.0,27
-2020-03-30,Wisconsin,Beach,91.0,94.0,91.0,28
-2020-03-30,Wisconsin,Bus,35.0,"",35.0,29
-2020-03-31,Wisconsin,Shops & Services,16.0,16.0,17.0,1
-2020-03-31,Wisconsin,Food,19.0,17.0,19.0,2
-2020-03-31,Wisconsin,Outdoors & Recreation,33.0,36.0,33.0,3
+2020-03-30,Wisconsin,Airport,26.0,30.0,26.0,27
+2020-03-30,Wisconsin,Beach,105.0,113.0,104.0,28
+2020-03-30,Wisconsin,Bus,54.0,"",54.0,29
+2020-03-31,Wisconsin,Shops & Services,48.0,43.0,48.0,1
+2020-03-31,Wisconsin,Food,42.0,37.0,42.0,2
+2020-03-31,Wisconsin,Outdoors & Recreation,74.0,78.0,73.0,3
 2020-03-31,Wisconsin,Grocery,67.0,67.0,67.0,4
-2020-03-31,Wisconsin,Nightlife Spots,26.0,26.0,26.0,5
+2020-03-31,Wisconsin,Nightlife Spots,43.0,42.0,43.0,5
 2020-03-31,Wisconsin,Gas Stations,59.0,57.0,59.0,6
-2020-03-31,Wisconsin,Professional & Other Places,9.0,8.0,9.0,7
+2020-03-31,Wisconsin,Professional & Other Places,55.0,51.0,55.0,7
 2020-03-31,Wisconsin,Convenience Store,56.0,53.0,56.0,8
 2020-03-31,Wisconsin,Fast Food Restaurants,56.0,49.0,57.0,9
 2020-03-31,Wisconsin,Big Box Stores,63.0,59.0,63.0,10
-2020-03-31,Wisconsin,Medical,20.0,17.0,20.0,11
-2020-03-31,Wisconsin,Office,36.0,41.0,36.0,12
+2020-03-31,Wisconsin,Medical,36.0,30.0,36.0,11
+2020-03-31,Wisconsin,Office,41.0,47.0,41.0,12
 2020-03-31,Wisconsin,Hardware Stores,78.0,69.0,78.0,13
-2020-03-31,Wisconsin,School,13.0,18.0,13.0,14
+2020-03-31,Wisconsin,School,22.0,31.0,22.0,14
 2020-03-31,Wisconsin,Drug Store,60.0,63.0,60.0,15
-2020-03-31,Wisconsin,Arts & Entertainment,34.0,33.0,34.0,16
-2020-03-31,Wisconsin,Residences,46.0,45.0,46.0,17
-2020-03-31,Wisconsin,Government,28.0,27.0,28.0,18
-2020-03-31,Wisconsin,Sports,17.0,23.0,17.0,19
-2020-03-31,Wisconsin,Hotel,28.0,27.0,28.0,20
-2020-03-31,Wisconsin,Colleges & Universities,10.0,22.0,10.0,21
+2020-03-31,Wisconsin,Arts & Entertainment,42.0,41.0,42.0,16
+2020-03-31,Wisconsin,Residences,56.0,55.0,56.0,17
+2020-03-31,Wisconsin,Government,45.0,45.0,45.0,18
+2020-03-31,Wisconsin,Sports,57.0,67.0,57.0,19
+2020-03-31,Wisconsin,Hotel,36.0,36.0,36.0,20
+2020-03-31,Wisconsin,Colleges & Universities,17.0,34.0,16.0,21
 2020-03-31,Wisconsin,Banks,54.0,54.0,54.0,22
 2020-03-31,Wisconsin,Discount Stores,61.0,61.0,61.0,23
-2020-03-31,Wisconsin,Travel & Transport,16.0,17.0,15.0,24
-2020-03-31,Wisconsin,Fitness Center,12.0,13.0,12.0,25
+2020-03-31,Wisconsin,Travel & Transport,64.0,64.0,64.0,24
+2020-03-31,Wisconsin,Fitness Center,18.0,19.0,18.0,25
 2020-03-31,Wisconsin,Alcohol,67.0,67.0,67.0,26
-2020-03-31,Wisconsin,Airport,19.0,"",19.0,27
-2020-03-31,Wisconsin,Bus,35.0,"",35.0,28
-2020-03-31,Wisconsin,Beach,81.0,78.0,81.0,29
+2020-03-31,Wisconsin,Airport,28.0,"",28.0,27
+2020-03-31,Wisconsin,Bus,54.0,"",54.0,28
+2020-03-31,Wisconsin,Beach,92.0,90.0,92.0,29
+2020-04-01,Wisconsin,Shops & Services,52.0,43.0,53.0,1
+2020-04-01,Wisconsin,Food,44.0,37.0,44.0,2
+2020-04-01,Wisconsin,Outdoors & Recreation,89.0,91.0,89.0,3
+2020-04-01,Wisconsin,Grocery,73.0,64.0,74.0,4
+2020-04-01,Wisconsin,Nightlife Spots,45.0,48.0,45.0,5
+2020-04-01,Wisconsin,Gas Stations,65.0,58.0,65.0,6
+2020-04-01,Wisconsin,Professional & Other Places,61.0,61.0,61.0,7
+2020-04-01,Wisconsin,Convenience Store,62.0,54.0,63.0,8
+2020-04-01,Wisconsin,Fast Food Restaurants,59.0,55.0,59.0,9
+2020-04-01,Wisconsin,Big Box Stores,67.0,59.0,67.0,10
+2020-04-01,Wisconsin,Medical,39.0,32.0,40.0,11
+2020-04-01,Wisconsin,Office,48.0,54.0,48.0,12
+2020-04-01,Wisconsin,Hardware Stores,79.0,67.0,80.0,13
+2020-04-01,Wisconsin,School,26.0,38.0,26.0,14
+2020-04-01,Wisconsin,Drug Store,71.0,58.0,72.0,15
+2020-04-01,Wisconsin,Arts & Entertainment,46.0,51.0,45.0,16
+2020-04-01,Wisconsin,Residences,67.0,65.0,67.0,17
+2020-04-01,Wisconsin,Sports,69.0,80.0,69.0,18
+2020-04-01,Wisconsin,Government,56.0,58.0,56.0,19
+2020-04-01,Wisconsin,Hotel,40.0,32.0,40.0,20
+2020-04-01,Wisconsin,Colleges & Universities,18.0,39.0,18.0,21
+2020-04-01,Wisconsin,Banks,64.0,56.0,65.0,22
+2020-04-01,Wisconsin,Discount Stores,66.0,53.0,66.0,23
+2020-04-01,Wisconsin,Travel & Transport,76.0,68.0,77.0,24
+2020-04-01,Wisconsin,Fitness Center,21.0,22.0,21.0,25
+2020-04-01,Wisconsin,Alcohol,75.0,66.0,75.0,26
+2020-04-01,Wisconsin,Airport,31.0,30.0,31.0,27
+2020-04-01,Wisconsin,Beach,116.0,93.0,118.0,28
+2020-04-01,Wisconsin,Bus,53.0,"",53.0,29

@@ -1,4 +1,3 @@
-2020-03-01,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,112.0,"",112.0,1
 2020-03-01,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,111.0,"",111.0,1
 2020-03-01,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",100.0,2
 2020-03-01,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,127.0,"",129.0,3
@@ -7,6 +6,7 @@
 2020-03-01,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,85.0,84.0,85.0,3
 2020-03-01,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,106.0,"",105.0,4
 2020-03-01,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,88.0,"",88.0,5
+2020-03-01,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,112.0,"",112.0,1
 2020-03-01,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,97.0,"",98.0,1
 2020-03-01,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",89.0,2
 2020-03-01,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,87.0,"",87.0,3
@@ -20,84 +20,84 @@
 2020-03-01,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,"",110.0,5
 2020-03-01,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,107.0,"",108.0,6
 2020-03-01,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,105.0,"",105.0,7
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,116.0,"",117.0,8
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,94.0,"",94.0,9
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,104.0,"",103.0,10
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,126.0,"",126.0,8
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,114.0,"",114.0,9
 2020-03-01,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,104.0,"",104.0,10
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,32.0,"",32.0,11
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,79.0,"",79.0,12
-2020-03-01,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,50.0,"",50.0,13
-2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,114.0,113.0,114.0,1
-2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,98.0,97.0,98.0,2
-2020-03-02,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,113.0,102.0,3
-2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,"",114.0,4
-2020-03-02,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,104.0,133.0,101.0,5
-2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,94.0,"",94.0,6
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,104.0,"",103.0,11
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,91.0,"",91.0,12
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,108.0,"",109.0,13
+2020-03-01,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,110.0,"",110.0,14
 2020-03-02,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,118.0,"",118.0,1
 2020-03-02,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,95.0,"",97.0,2
 2020-03-02,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,106.0,"",105.0,3
 2020-03-02,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,98.0,"",96.0,4
 2020-03-02,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,123.0,"",123.0,5
-2020-03-02,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",107.0,1
-2020-03-02,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",109.0,2
-2020-03-02,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,122.0,"",123.0,3
-2020-03-02,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,122.0,"",119.0,1
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,95.0,88.0,95.0,1
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,94.0,"",95.0,2
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,91.0,"",92.0,3
 2020-03-02,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,94.0,88.0,94.0,4
 2020-03-02,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",110.0,5
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,94.0,"",94.0,6
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,81.0,"",81.0,7
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,94.0,"",94.0,7
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,108.0,"",108.0,8
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,54.0,"",55.0,9
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,114.0,"",115.0,9
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,101.0,"",102.0,10
 2020-03-02,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,96.0,"",95.0,11
 2020-03-02,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,124.0,"",124.0,12
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,82.0,"",82.0,12
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,110.0,"",109.0,13
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,24.0,"",25.0,14
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,39.0,"",39.0,14
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,83.0,"",83.0,15
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,140.0,"",140.0,15
-2020-03-02,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,78.0,"",79.0,16
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,90.0,"",89.0,13
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,110.0,"",109.0,14
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,129.0,"",129.0,15
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,111.0,"",110.0,16
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,140.0,"",140.0,17
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,95.0,"",96.0,18
+2020-03-02,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,109.0,"",111.0,19
+2020-03-02,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",107.0,1
+2020-03-02,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",109.0,2
+2020-03-02,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,122.0,"",123.0,3
+2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,114.0,113.0,114.0,1
+2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,98.0,97.0,98.0,2
+2020-03-02,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,113.0,102.0,3
+2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,"",114.0,4
+2020-03-02,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,104.0,133.0,101.0,5
+2020-03-02,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,94.0,"",94.0,6
+2020-03-02,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,122.0,"",119.0,1
+2020-03-03,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",115.0,1
+2020-03-03,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",107.0,1
 2020-03-03,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,98.0,100.0,98.0,1
 2020-03-03,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,93.0,109.0,91.0,2
 2020-03-03,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,105.0,102.0,3
 2020-03-03,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,97.0,"",98.0,4
 2020-03-03,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,120.0,143.0,119.0,5
 2020-03-03,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,105.0,"",106.0,6
-2020-03-03,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,115.0,91.0,6
+2020-03-03,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,115.0,91.0,7
+2020-03-03,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,112.0,"",112.0,1
+2020-03-03,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,127.0,"",127.0,2
+2020-03-03,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,109.0,"",110.0,3
+2020-03-03,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",118.0,1
 2020-03-03,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,107.0,90.0,108.0,1
 2020-03-03,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,111.0,"",112.0,2
 2020-03-03,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,88.0,"",87.0,3
 2020-03-03,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,89.0,"",90.0,4
-2020-03-03,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",115.0,1
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,95.0,86.0,96.0,1
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,108.0,93.0,108.0,2
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,108.0,104.0,108.0,3
 2020-03-03,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,109.0,120.0,109.0,4
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,76.0,"",76.0,5
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,87.0,"",87.0,5
 2020-03-03,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,100.0,"",100.0,6
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,89.0,"",91.0,7
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,97.0,132.0,95.0,8
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,91.0,"",92.0,9
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,96.0,"",97.0,9
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,94.0,"",95.0,10
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,54.0,"",54.0,11
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,103.0,"",103.0,11
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,96.0,"",96.0,12
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,111.0,"",111.0,13
 2020-03-03,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,96.0,"",95.0,14
 2020-03-03,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,92.0,"",93.0,15
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,35.0,"",35.0,16
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,53.0,"",53.0,17
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,80.0,"",81.0,17
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,22.0,"",22.0,18
-2020-03-03,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,96.0,"",95.0,19
-2020-03-03,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",118.0,1
-2020-03-03,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,112.0,"",112.0,1
-2020-03-03,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,127.0,"",127.0,2
-2020-03-03,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,109.0,"",110.0,3
-2020-03-03,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",107.0,1
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,104.0,"",105.0,16
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,91.0,"",91.0,17
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,85.0,"",85.0,18
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,110.0,"",111.0,19
+2020-03-03,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,96.0,"",95.0,20
 2020-03-04,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,118.0,"",117.0,1
 2020-03-04,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",113.0,1
 2020-03-04,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,96.0,106.0,95.0,1
@@ -111,41 +111,33 @@
 2020-03-04,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",107.0,1
 2020-03-04,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",105.0,2
 2020-03-04,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,101.0,"",101.0,3
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,107.0,97.0,108.0,1
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,105.0,112.0,105.0,2
+2020-03-04,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,109.0,99.0,110.0,3
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,100.0,86.0,100.0,4
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,113.0,102.0,113.0,5
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,90.0,"",90.0,6
+2020-03-04,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,118.0,"",119.0,7
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,111.0,"",112.0,8
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,96.0,120.0,95.0,9
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,121.0,"",123.0,10
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,83.0,"",84.0,11
+2020-03-04,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,104.0,"",105.0,12
+2020-03-04,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,118.0,"",120.0,13
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,100.0,"",101.0,14
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,107.0,"",107.0,15
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,87.0,"",88.0,16
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,92.0,"",91.0,17
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,98.0,"",98.0,18
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,87.0,"",88.0,19
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,106.0,"",107.0,20
+2020-03-04,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,103.0,"",102.0,21
 2020-03-04,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,102.0,85.0,103.0,1
 2020-03-04,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,116.0,"",117.0,2
 2020-03-04,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,109.0,"",109.0,3
 2020-03-04,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",109.0,4
 2020-03-04,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,135.0,"",136.0,5
 2020-03-04,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,114.0,"",115.0,6
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,107.0,97.0,108.0,1
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,105.0,112.0,105.0,2
-2020-03-04,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,109.0,99.0,110.0,3
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,100.0,86.0,100.0,4
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,113.0,102.0,113.0,5
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,79.0,"",80.0,6
-2020-03-04,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,118.0,"",119.0,7
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,111.0,"",112.0,8
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,96.0,120.0,95.0,9
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,121.0,"",123.0,10
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,77.0,"",77.0,11
-2020-03-04,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,104.0,"",105.0,12
-2020-03-04,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,118.0,"",120.0,13
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,87.0,"",87.0,14
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,57.0,"",57.0,15
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,39.0,"",39.0,15
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,92.0,"",91.0,16
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,46.0,"",47.0,17
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,98.0,"",98.0,17
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,106.0,"",107.0,18
-2020-03-04,Idaho,Ada County,4bf58dd8d48988d104941735,Medical Centers,21.0,"",21.0,19
-2020-03-05,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,102.0,93.0,102.0,1
-2020-03-05,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,"",105.0,2
-2020-03-05,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,129.0,"",132.0,3
-2020-03-05,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,"",98.0,4
-2020-03-05,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,112.0,"",113.0,5
-2020-03-05,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,120.0,"",122.0,6
-2020-03-05,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,137.0,"",137.0,1
-2020-03-05,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,102.0,"",102.0,1
 2020-03-05,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,100.0,118.0,98.0,1
 2020-03-05,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,95.0,108.0,94.0,2
 2020-03-05,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,137.0,106.0,3
@@ -153,27 +145,35 @@
 2020-03-05,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,104.0,"",104.0,5
 2020-03-05,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,"",99.0,6
 2020-03-05,Idaho,Kootenai County,4bf58dd8d48988d14e941735,American Restaurants,106.0,127.0,104.0,7
+2020-03-05,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,102.0,"",102.0,1
+2020-03-05,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,102.0,93.0,102.0,1
+2020-03-05,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,"",105.0,2
+2020-03-05,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,129.0,"",132.0,3
+2020-03-05,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,"",98.0,4
+2020-03-05,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,112.0,"",113.0,5
+2020-03-05,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,120.0,"",122.0,6
 2020-03-05,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,131.0,"",132.0,1
 2020-03-05,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,107.0,99.0,107.0,1
 2020-03-05,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,96.0,96.0,96.0,2
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,93.0,97.0,93.0,3
 2020-03-05,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,105.0,85.0,107.0,3
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,101.0,102.0,4
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,83.0,"",84.0,5
-2020-03-05,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",106.0,6
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,111.0,"",111.0,7
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,88.0,"",88.0,8
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,110.0,103.0,110.0,9
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,109.0,"",110.0,10
-2020-03-05,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,110.0,"",110.0,10
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,91.0,"",91.0,11
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,96.0,"",97.0,12
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,43.0,"",43.0,13
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,103.0,"",104.0,14
-2020-03-05,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,104.0,"",103.0,15
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,90.0,"",90.0,16
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,32.0,"",32.0,17
-2020-03-05,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,54.0,"",55.0,18
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,93.0,97.0,93.0,4
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,101.0,102.0,5
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,97.0,"",97.0,6
+2020-03-05,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",106.0,7
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,111.0,"",111.0,8
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,95.0,"",95.0,9
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,110.0,103.0,110.0,10
+2020-03-05,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,110.0,"",110.0,11
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,109.0,"",110.0,12
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,103.0,"",104.0,13
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,96.0,"",97.0,14
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,87.0,"",88.0,15
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,103.0,"",104.0,16
+2020-03-05,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,104.0,"",103.0,17
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,90.0,"",90.0,18
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,97.0,"",97.0,19
+2020-03-05,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,91.0,"",92.0,20
+2020-03-05,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,137.0,"",137.0,1
 2020-03-05,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",108.0,1
 2020-03-05,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,"",98.0,2
 2020-03-05,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,100.0,"",100.0,3
@@ -185,6 +185,17 @@
 2020-03-06,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,96.0,102.0,95.0,6
 2020-03-06,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,97.0,"",99.0,7
 2020-03-06,Idaho,Kootenai County,4bf58dd8d48988d14e941735,American Restaurants,114.0,"",114.0,8
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,106.0,106.0,106.0,1
+2020-03-06,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,96.0,"",96.0,2
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",102.0,3
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,109.0,"",112.0,4
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,136.0,"",134.0,5
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,117.0,"",119.0,6
+2020-03-06,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,"",106.0,7
+2020-03-06,Idaho,Canyon County,4bf58dd8d48988d1e0931735,Coffee Shops,96.0,"",96.0,8
+2020-03-06,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,108.0,"",108.0,1
+2020-03-06,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,96.0,"",96.0,1
+2020-03-06,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,87.0,"",87.0,1
 2020-03-06,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,83.0,"",83.0,1
 2020-03-06,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,118.0,"",116.0,2
 2020-03-06,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,94.0,"",95.0,3
@@ -196,34 +207,31 @@
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,108.0,107.0,108.0,5
 2020-03-06,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,104.0,117.0,103.0,6
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,114.0,141.0,113.0,7
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,82.0,"",83.0,8
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,91.0,"",91.0,9
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,94.0,"",94.0,8
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,97.0,"",98.0,9
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,113.0,137.0,112.0,10
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,107.0,"",107.0,11
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,81.0,"",81.0,12
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,93.0,"",93.0,12
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,96.0,"",96.0,13
 2020-03-06,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,112.0,"",111.0,14
-2020-03-06,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,102.0,"",104.0,14
-2020-03-06,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,109.0,"",112.0,15
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,51.0,"",51.0,16
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,33.0,"",33.0,17
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,94.0,"",94.0,18
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d1e6941735,Golf Courses,143.0,176.0,140.0,19
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d1c5941735,Sandwich Places,110.0,"",109.0,20
-2020-03-06,Idaho,Ada County,4f4533814b9074f6e4fb0106,Middle Schools,111.0,"",112.0,21
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,"",51.0,22
-2020-03-06,Idaho,Ada County,4bf58dd8d48988d118941735,Dive Bars,122.0,"",123.0,23
-2020-03-06,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,108.0,"",108.0,1
-2020-03-06,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,96.0,"",96.0,1
-2020-03-06,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,87.0,"",87.0,1
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,106.0,106.0,106.0,1
-2020-03-06,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,96.0,"",96.0,2
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",102.0,3
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,109.0,"",112.0,4
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,136.0,"",134.0,5
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,117.0,"",119.0,6
-2020-03-06,Idaho,Canyon County,4bf58dd8d48988d1e0931735,Coffee Shops,96.0,"",96.0,7
-2020-03-06,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,"",106.0,7
+2020-03-06,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,102.0,"",104.0,15
+2020-03-06,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,109.0,"",112.0,16
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,98.0,"",98.0,17
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,106.0,"",107.0,18
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,94.0,"",94.0,19
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d1e6941735,Golf Courses,143.0,176.0,140.0,20
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d1c5941735,Sandwich Places,110.0,"",109.0,21
+2020-03-06,Idaho,Ada County,4f4533814b9074f6e4fb0106,Middle Schools,111.0,"",112.0,22
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,85.0,"",84.0,23
+2020-03-06,Idaho,Ada County,4bf58dd8d48988d118941735,Dive Bars,122.0,"",123.0,24
+2020-03-07,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,125.0,"",126.0,1
+2020-03-07,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,97.0,"",98.0,1
+2020-03-07,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,"",101.0,2
+2020-03-07,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,110.0,"",110.0,3
+2020-03-07,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,121.0,"",121.0,4
+2020-03-07,Idaho,Canyon County,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,"",98.0,5
+2020-03-07,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,91.0,"",92.0,6
+2020-03-07,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,"",97.0,7
 2020-03-07,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,93.0,102.0,93.0,1
 2020-03-07,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,94.0,104.0,93.0,2
 2020-03-07,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,86.0,"",86.0,3
@@ -231,24 +239,9 @@
 2020-03-07,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,106.0,"",107.0,5
 2020-03-07,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,81.0,"",82.0,6
 2020-03-07,Idaho,Kootenai County,4bf58dd8d48988d112951735,Hardware Stores,114.0,"",112.0,7
-2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",108.0,1
-2020-03-07,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,"",97.0,2
-2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d1fd941735,Shopping Malls,101.0,"",100.0,3
-2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,80.0,"",80.0,4
-2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,96.0,"",94.0,5
 2020-03-07,Idaho,Twin Falls County,4bf58dd8d48988d16e941735,Fast Food Restaurants,116.0,"",118.0,1
-2020-03-07,Idaho,Twin Falls County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",106.0,2
 2020-03-07,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",108.0,2
-2020-03-07,Idaho,Elmore County,4bf58dd8d48988d113951735,Gas Stations,140.0,"",141.0,1
-2020-03-07,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,97.0,"",98.0,1
-2020-03-07,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,"",101.0,2
-2020-03-07,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,110.0,"",110.0,3
-2020-03-07,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,121.0,"",121.0,4
-2020-03-07,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,91.0,"",92.0,5
-2020-03-07,Idaho,Canyon County,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,"",98.0,5
-2020-03-07,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,98.0,"",97.0,6
-2020-03-07,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,105.0,"",104.0,1
-2020-03-07,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,125.0,"",126.0,1
+2020-03-07,Idaho,Twin Falls County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",106.0,3
 2020-03-07,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,100.0,109.0,100.0,1
 2020-03-07,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,96.0,104.0,96.0,2
 2020-03-07,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,101.0,96.0,102.0,3
@@ -256,31 +249,28 @@
 2020-03-07,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,"",97.0,5
 2020-03-07,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,95.0,"",96.0,6
 2020-03-07,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,114.0,"",114.0,7
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,100.0,"",100.0,8
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,93.0,"",93.0,9
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,38.0,"",38.0,9
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,97.0,"",97.0,10
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,76.0,"",75.0,11
-2020-03-07,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,117.0,"",117.0,12
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,83.0,"",83.0,13
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,191.0,"",191.0,14
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,98.0,"",98.0,15
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,49.0,"",49.0,16
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d118941735,Dive Bars,122.0,"",123.0,16
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d1f6941735,Department Stores,101.0,"",103.0,17
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d16c941735,Burger Joints,113.0,"",111.0,18
-2020-03-07,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,126.0,"",124.0,19
-2020-03-07,Idaho,Ada County,4bf58dd8d48988d10f951735,Pharmacies,113.0,"",113.0,20
-2020-03-08,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",108.0,1
-2020-03-08,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",100.0,2
-2020-03-08,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,94.0,"",94.0,3
-2020-03-08,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",103.0,4
-2020-03-08,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,105.0,"",107.0,5
-2020-03-08,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,94.0,"",94.0,5
-2020-03-08,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",108.0,1
-2020-03-08,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,89.0,"",90.0,2
-2020-03-08,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,132.0,"",133.0,1
-2020-03-08,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,107.0,"",107.0,8
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,111.0,"",111.0,9
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,93.0,"",93.0,10
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,97.0,"",97.0,11
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,88.0,"",87.0,12
+2020-03-07,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,117.0,"",117.0,13
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,116.0,"",116.0,14
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,191.0,"",191.0,15
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,98.0,"",98.0,16
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d118941735,Dive Bars,122.0,"",123.0,17
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,98.0,"",99.0,18
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d1f6941735,Department Stores,101.0,"",103.0,19
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d16c941735,Burger Joints,113.0,"",111.0,20
+2020-03-07,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,126.0,"",124.0,21
+2020-03-07,Idaho,Ada County,4bf58dd8d48988d10f951735,Pharmacies,113.0,"",113.0,22
+2020-03-07,Idaho,Elmore County,4bf58dd8d48988d113951735,Gas Stations,140.0,"",141.0,1
+2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",108.0,1
+2020-03-07,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,"",97.0,2
+2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d1fd941735,Shopping Malls,101.0,"",100.0,3
+2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,80.0,"",80.0,4
+2020-03-07,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,96.0,"",94.0,5
+2020-03-07,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,105.0,"",104.0,1
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,101.0,117.0,100.0,1
 2020-03-08,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,99.0,82.0,100.0,2
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,104.0,129.0,103.0,3
@@ -288,13 +278,23 @@
 2020-03-08,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,116.0,"",117.0,5
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,122.0,"",123.0,6
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,109.0,"",109.0,7
-2020-03-08,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,110.0,"",109.0,8
+2020-03-08,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,134.0,"",133.0,8
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,127.0,"",126.0,9
-2020-03-08,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,40.0,"",41.0,10
+2020-03-08,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,115.0,"",116.0,10
 2020-03-08,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,109.0,"",107.0,11
-2020-03-08,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,99.0,"",100.0,11
-2020-03-08,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,73.0,"",74.0,12
-2020-03-08,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,104.0,"",104.0,13
+2020-03-08,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,107.0,"",107.0,12
+2020-03-08,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,101.0,"",102.0,13
+2020-03-08,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,104.0,"",104.0,14
+2020-03-08,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,132.0,"",133.0,1
+2020-03-08,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
+2020-03-08,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",108.0,1
+2020-03-08,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",100.0,2
+2020-03-08,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,94.0,"",94.0,3
+2020-03-08,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",103.0,4
+2020-03-08,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,105.0,"",107.0,5
+2020-03-08,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,94.0,"",94.0,6
+2020-03-08,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,108.0,"",108.0,1
+2020-03-08,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,89.0,"",90.0,2
 2020-03-08,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,"",112.0,1
 2020-03-08,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,86.0,81.0,86.0,2
 2020-03-08,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,104.0,"",104.0,3
@@ -305,40 +305,32 @@
 2020-03-09,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,105.0,123.0,105.0,3
 2020-03-09,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,94.0,"",95.0,4
 2020-03-09,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,98.0,"",99.0,5
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,84.0,"",84.0,6
 2020-03-09,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,"",107.0,6
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,114.0,132.0,113.0,7
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,101.0,"",101.0,8
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,107.0,135.0,105.0,9
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,100.0,"",100.0,9
-2020-03-09,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,124.0,"",124.0,10
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,44.0,"",43.0,11
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,88.0,"",88.0,12
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,92.0,"",92.0,13
-2020-03-09,Idaho,Ada County,4bf58dd8d48988d1c5941735,Sandwich Places,140.0,"",139.0,14
-2020-03-09,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,108.0,"",108.0,15
-2020-03-09,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,127.0,"",128.0,1
-2020-03-09,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,108.0,"",109.0,1
-2020-03-09,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,"",104.0,2
-2020-03-09,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",109.0,3
-2020-03-09,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,97.0,"",98.0,4
-2020-03-09,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,131.0,"",131.0,5
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,98.0,"",97.0,7
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,114.0,132.0,113.0,8
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,101.0,"",101.0,9
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,109.0,"",110.0,10
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,107.0,135.0,105.0,11
+2020-03-09,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,124.0,"",124.0,12
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,93.0,"",91.0,13
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,101.0,"",101.0,14
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,92.0,"",92.0,15
+2020-03-09,Idaho,Ada County,4bf58dd8d48988d1c5941735,Sandwich Places,140.0,"",139.0,16
+2020-03-09,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,108.0,"",108.0,17
 2020-03-09,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,104.0,122.0,103.0,1
 2020-03-09,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,102.0,94.0,103.0,2
 2020-03-09,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,99.0,107.0,3
 2020-03-09,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,107.0,"",107.0,4
 2020-03-09,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,90.0,"",91.0,5
+2020-03-09,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,108.0,"",109.0,1
+2020-03-09,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,"",104.0,2
+2020-03-09,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,108.0,"",109.0,3
+2020-03-09,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,97.0,"",98.0,4
+2020-03-09,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,131.0,"",131.0,5
+2020-03-09,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,127.0,"",128.0,1
 2020-03-09,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,104.0,"",104.0,1
 2020-03-09,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,96.0,"",95.0,2
 2020-03-09,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,100.0,"",98.0,3
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,96.0,83.0,97.0,1
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,88.0,89.0,87.0,2
-2020-03-10,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,101.0,97.0,3
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,91.0,"",94.0,4
-2020-03-10,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,102.0,123.0,100.0,5
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,113.0,"",111.0,6
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d14e941735,American Restaurants,131.0,"",134.0,7
-2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,"",104.0,8
 2020-03-10,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,96.0,79.0,97.0,1
 2020-03-10,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,111.0,"",112.0,2
 2020-03-10,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,94.0,"",94.0,3
@@ -350,26 +342,62 @@
 2020-03-10,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,107.0,107.0,4
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,99.0,"",99.0,5
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,135.0,123.0,136.0,6
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,80.0,"",80.0,7
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,91.0,"",91.0,7
 2020-03-10,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,"",98.0,8
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,97.0,"",96.0,9
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,102.0,"",102.0,9
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,101.0,106.0,100.0,10
 2020-03-10,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,120.0,"",118.0,11
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,112.0,"",112.0,12
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,101.0,"",102.0,13
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,113.0,"",115.0,13
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,104.0,"",104.0,14
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,60.0,"",60.0,15
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,96.0,"",97.0,15
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,117.0,"",117.0,16
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,34.0,"",34.0,17
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,101.0,"",101.0,17
 2020-03-10,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,98.0,"",98.0,18
 2020-03-10,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,76.0,"",76.0,19
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,38.0,"",39.0,20
-2020-03-10,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,78.0,"",79.0,21
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,73.0,"",73.0,20
+2020-03-10,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,112.0,"",114.0,21
 2020-03-10,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,118.0,"",119.0,1
-2020-03-10,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,105.0,"",105.0,1
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,96.0,83.0,97.0,1
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,88.0,89.0,87.0,2
+2020-03-10,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,97.0,101.0,97.0,3
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,91.0,"",94.0,4
+2020-03-10,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,102.0,123.0,100.0,5
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,113.0,"",111.0,6
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d14e941735,American Restaurants,131.0,"",134.0,7
+2020-03-10,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,"",104.0,8
 2020-03-10,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,97.0,"",97.0,1
 2020-03-10,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,99.0,"",97.0,2
 2020-03-10,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,100.0,"",101.0,3
+2020-03-10,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,105.0,"",105.0,1
+2020-03-11,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
+2020-03-11,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,121.0,"",122.0,2
+2020-03-11,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",104.0,3
+2020-03-11,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,95.0,"",95.0,4
+2020-03-11,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,118.0,"",118.0,5
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,100.0,83.0,100.0,1
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,109.0,122.0,109.0,2
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,96.0,95.0,96.0,3
+2020-03-11,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,102.0,81.0,103.0,4
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,106.0,116.0,105.0,5
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,88.0,"",88.0,6
+2020-03-11,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",107.0,7
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,105.0,"",106.0,8
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,108.0,"",110.0,9
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,129.0,126.0,129.0,10
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,96.0,"",97.0,11
+2020-03-11,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,113.0,"",113.0,12
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,103.0,"",102.0,13
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,107.0,"",106.0,14
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,95.0,"",95.0,15
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,97.0,"",97.0,16
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,100.0,"",100.0,17
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,72.0,"",72.0,18
+2020-03-11,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,84.0,"",83.0,19
+2020-03-11,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,90.0,"",90.0,1
+2020-03-11,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,98.0,"",97.0,2
+2020-03-11,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,104.0,"",103.0,3
+2020-03-11,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,120.0,"",119.0,1
 2020-03-11,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,84.0,73.0,85.0,1
 2020-03-11,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,87.0,92.0,86.0,2
 2020-03-11,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,105.0,113.0,105.0,3
@@ -377,41 +405,15 @@
 2020-03-11,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,113.0,"",114.0,5
 2020-03-11,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,103.0,"",104.0,6
 2020-03-11,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,101.0,"",101.0,7
-2020-03-11,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
-2020-03-11,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,121.0,"",122.0,2
-2020-03-11,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,103.0,"",104.0,3
-2020-03-11,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,95.0,"",95.0,4
-2020-03-11,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,118.0,"",118.0,5
-2020-03-11,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,120.0,"",119.0,1
 2020-03-11,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,130.0,"",133.0,1
-2020-03-11,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,90.0,"",90.0,1
-2020-03-11,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,98.0,"",97.0,2
-2020-03-11,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,104.0,"",103.0,3
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,100.0,83.0,100.0,1
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,109.0,122.0,109.0,2
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,96.0,95.0,96.0,3
-2020-03-11,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,102.0,81.0,103.0,4
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,106.0,116.0,105.0,5
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,78.0,"",78.0,6
-2020-03-11,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,106.0,"",107.0,7
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,105.0,"",106.0,8
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,99.0,"",101.0,9
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,129.0,126.0,129.0,10
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,96.0,"",97.0,11
-2020-03-11,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,113.0,"",113.0,12
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,103.0,"",102.0,13
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,93.0,"",92.0,14
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,50.0,"",51.0,15
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,35.0,"",35.0,16
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,100.0,"",100.0,17
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,47.0,"",47.0,18
-2020-03-11,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,84.0,"",83.0,19
-2020-03-12,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",107.0,1
 2020-03-12,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,101.0,"",102.0,1
 2020-03-12,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,114.0,"",115.0,2
 2020-03-12,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,96.0,"",97.0,3
 2020-03-12,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,119.0,139.0,118.0,4
 2020-03-12,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,129.0,"",129.0,5
+2020-03-12,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,88.0,"",88.0,1
+2020-03-12,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,85.0,"",85.0,2
+2020-03-12,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,89.0,"",89.0,3
 2020-03-12,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,108.0,108.0,108.0,1
 2020-03-12,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,95.0,111.0,94.0,2
 2020-03-12,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,107.0,145.0,104.0,3
@@ -420,39 +422,40 @@
 2020-03-12,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,87.0,"",87.0,6
 2020-03-12,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,103.0,"",104.0,7
 2020-03-12,Idaho,Kootenai County,4bf58dd8d48988d14e941735,American Restaurants,109.0,127.0,108.0,8
-2020-03-12,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,88.0,"",88.0,1
-2020-03-12,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,85.0,"",85.0,2
-2020-03-12,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,89.0,"",89.0,3
-2020-03-12,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,127.0,"",127.0,1
-2020-03-12,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",106.0,1
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,99.0,93.0,99.0,1
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,114.0,107.0,114.0,2
 2020-03-12,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,123.0,84.0,126.0,3
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,92.0,91.0,92.0,4
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,78.0,"",78.0,5
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,91.0,"",91.0,5
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,91.0,101.0,90.0,6
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,120.0,"",121.0,7
 2020-03-12,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,"",103.0,8
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,97.0,"",98.0,9
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,106.0,"",107.0,9
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,114.0,"",115.0,10
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,110.0,"",110.0,11
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,88.0,"",88.0,12
 2020-03-12,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,98.0,"",98.0,13
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,82.0,"",81.0,14
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,93.0,"",92.0,14
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,103.0,"",103.0,15
 2020-03-12,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,103.0,"",103.0,16
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,41.0,"",40.0,17
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,82.0,"",81.0,17
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,89.0,"",90.0,18
 2020-03-12,Idaho,Ada County,4bf58dd8d48988d1e6941735,Golf Courses,148.0,"",151.0,19
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,28.0,"",28.0,20
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,73.0,"",74.0,20
-2020-03-12,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,51.0,"",51.0,20
-2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
-2020-03-13,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,122.0,"",121.0,2
-2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,158.0,"",159.0,3
-2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,"",114.0,4
-2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d1fd941735,Shopping Malls,144.0,"",144.0,5
-2020-03-13,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b46,Supermarkets,167.0,"",171.0,6
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,98.0,"",98.0,20
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,85.0,"",86.0,21
+2020-03-12,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,85.0,"",84.0,22
+2020-03-12,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,107.0,"",107.0,1
+2020-03-12,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,127.0,"",127.0,1
+2020-03-12,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",106.0,1
+2020-03-13,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,109.0,107.0,110.0,1
+2020-03-13,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,118.0,"",120.0,2
+2020-03-13,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,133.0,107.0,135.0,3
+2020-03-13,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,110.0,"",110.0,4
+2020-03-13,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,160.0,"",161.0,5
+2020-03-13,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,118.0,"",117.0,6
+2020-03-13,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,103.0,"",103.0,7
+2020-03-13,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,150.0,"",150.0,1
+2020-03-13,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,2
 2020-03-13,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,133.0,122.0,134.0,1
 2020-03-13,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,140.0,140.0,140.0,2
 2020-03-13,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,99.0,102.0,99.0,3
@@ -469,34 +472,31 @@
 2020-03-13,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,107.0,"",107.0,5
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,102.0,104.0,101.0,6
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,101.0,"",102.0,7
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,74.0,"",74.0,8
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,84.0,"",84.0,9
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,84.0,"",85.0,8
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,90.0,"",90.0,9
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,123.0,"",122.0,10
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d13d941735,High Schools,124.0,"",124.0,11
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,102.0,"",104.0,12
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,103.0,"",103.0,13
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,79.0,"",79.0,14
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,52.0,"",51.0,15
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,91.0,"",91.0,14
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,101.0,"",99.0,15
 2020-03-13,Idaho,Ada County,4f4533804b9074f6e4fb0105,Elementary Schools,98.0,"",99.0,16
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,34.0,"",34.0,17
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,110.0,"",110.0,17
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,92.0,"",91.0,18
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d1e6941735,Golf Courses,143.0,"",142.0,19
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,74.0,"",75.0,20
 2020-03-13,Idaho,Ada County,4bf58dd8d48988d10f951735,Pharmacies,129.0,"",128.0,20
-2020-03-13,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,86.0,"",87.0,21
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,109.0,"",109.0,22
-2020-03-13,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,50.0,"",50.0,23
-2020-03-13,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,150.0,"",150.0,1
-2020-03-13,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,2
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d1c1941735,Mexican Restaurants,101.0,"",103.0,21
+2020-03-13,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,86.0,"",87.0,22
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,109.0,"",109.0,23
+2020-03-13,Idaho,Ada County,4bf58dd8d48988d175941735,Gyms or Fitness Centers,82.0,"",83.0,24
+2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
+2020-03-13,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,122.0,"",121.0,2
+2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,158.0,"",159.0,3
+2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,113.0,"",114.0,4
+2020-03-13,Idaho,Bonneville County,4bf58dd8d48988d1fd941735,Shopping Malls,144.0,"",144.0,5
+2020-03-13,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b46,Supermarkets,167.0,"",171.0,6
 2020-03-13,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,105.0,"",107.0,1
 2020-03-13,Idaho,Bannock County,52f2ab2ebcbc57f1066b8b46,Supermarkets,136.0,"",139.0,2
-2020-03-13,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,109.0,107.0,110.0,1
-2020-03-13,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,118.0,"",120.0,2
-2020-03-13,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,133.0,107.0,135.0,3
-2020-03-13,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,110.0,"",110.0,4
-2020-03-13,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,160.0,"",161.0,5
-2020-03-13,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,118.0,"",117.0,6
-2020-03-13,Idaho,Canyon County,4bf58dd8d48988d13d941735,High Schools,103.0,"",103.0,7
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,140.0,130.0,141.0,1
 2020-03-14,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,126.0,104.0,127.0,2
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,90.0,"",90.0,3
@@ -505,31 +505,31 @@
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,85.0,"",85.0,6
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,117.0,"",117.0,7
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,82.0,"",83.0,8
-2020-03-14,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,77.0,"",76.0,9
+2020-03-14,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,89.0,"",88.0,9
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,87.0,"",87.0,10
 2020-03-14,Idaho,Ada County,50327c8591d4c4b30a586d5d,Breweries,107.0,"",107.0,11
-2020-03-14,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,68.0,"",68.0,12
-2020-03-14,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,29.0,"",29.0,13
+2020-03-14,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,73.0,"",73.0,12
+2020-03-14,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,83.0,"",84.0,13
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d10f951735,Pharmacies,141.0,"",141.0,14
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d1fd941735,Shopping Malls,97.0,"",98.0,15
-2020-03-14,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,93.0,"",94.0,16
 2020-03-14,Idaho,Ada County,4bf58dd8d48988d118941735,Dive Bars,107.0,"",107.0,16
-2020-03-14,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,42.0,"",42.0,17
+2020-03-14,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,93.0,"",94.0,17
+2020-03-14,Idaho,Ada County,4bf58dd8d48988d1ed931735,Airports,85.0,"",85.0,18
+2020-03-14,Idaho,Bannock County,52f2ab2ebcbc57f1066b8b46,Supermarkets,122.0,"",122.0,1
+2020-03-14,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",83.0,2
+2020-03-14,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,164.0,"",163.0,1
+2020-03-14,Idaho,Twin Falls County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,121.0,"",121.0,2
 2020-03-14,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,122.0,102.0,123.0,1
 2020-03-14,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,88.0,110.0,2
 2020-03-14,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,92.0,83.0,92.0,3
 2020-03-14,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,121.0,125.0,121.0,4
 2020-03-14,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,71.0,"",70.0,5
-2020-03-14,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,164.0,"",163.0,1
-2020-03-14,Idaho,Twin Falls County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,121.0,"",121.0,2
 2020-03-14,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,103.0,"",104.0,1
 2020-03-14,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,170.0,"",170.0,2
 2020-03-14,Idaho,Bonneville County,4bf58dd8d48988d1fd941735,Shopping Malls,126.0,"",127.0,3
 2020-03-14,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",85.0,4
 2020-03-14,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,85.0,"",86.0,5
 2020-03-14,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b46,Supermarkets,137.0,"",139.0,6
-2020-03-14,Idaho,Bannock County,52f2ab2ebcbc57f1066b8b46,Supermarkets,122.0,"",122.0,1
-2020-03-14,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",83.0,2
 2020-03-14,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,111.0,"",112.0,1
 2020-03-14,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,95.0,"",94.0,2
 2020-03-14,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,138.0,"",139.0,3
@@ -544,15 +544,10 @@
 2020-03-15,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,82.0,"",81.0,6
 2020-03-15,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,81.0,"",80.0,7
 2020-03-15,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,115.0,"",115.0,8
-2020-03-15,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,71.0,"",72.0,9
-2020-03-15,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,75.0,"",74.0,10
+2020-03-15,Idaho,Ada County,4bf58dd8d48988d14e941735,American Restaurants,87.0,"",87.0,9
+2020-03-15,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,81.0,"",80.0,10
 2020-03-15,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,79.0,"",79.0,11
-2020-03-15,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,25.0,"",25.0,12
-2020-03-15,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,134.0,"",131.0,1
-2020-03-15,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,86.0,"",85.0,1
-2020-03-15,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,81.0,"",82.0,2
-2020-03-15,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,130.0,"",129.0,3
-2020-03-15,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,116.0,"",114.0,1
+2020-03-15,Idaho,Ada County,4bf58dd8d48988d116941735,Bars,72.0,"",72.0,12
 2020-03-15,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,135.0,"",136.0,1
 2020-03-15,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,102.0,"",101.0,2
 2020-03-15,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,91.0,"",91.0,3
@@ -564,22 +559,12 @@
 2020-03-15,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,89.0,"",90.0,3
 2020-03-15,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,133.0,146.0,132.0,4
 2020-03-15,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,94.0,"",95.0,5
-2020-03-16,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,121.0,"",123.0,1
-2020-03-16,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,"",111.0,2
-2020-03-16,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,130.0,"",132.0,3
-2020-03-16,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,97.0,"",98.0,4
-2020-03-16,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,134.0,"",136.0,5
-2020-03-16,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,124.0,"",127.0,6
+2020-03-15,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,116.0,"",114.0,1
+2020-03-15,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,134.0,"",131.0,1
+2020-03-15,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,86.0,"",85.0,1
+2020-03-15,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,81.0,"",82.0,2
+2020-03-15,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,130.0,"",129.0,3
 2020-03-16,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,144.0,"",147.0,1
-2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,162.0,147.0,164.0,1
-2020-03-16,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,149.0,171.0,147.0,2
-2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,111.0,103.0,112.0,3
-2020-03-16,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,120.0,110.0,120.0,4
-2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,129.0,"",130.0,5
-2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,86.0,"",85.0,6
-2020-03-16,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
-2020-03-16,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,"",104.0,2
-2020-03-16,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,154.0,"",153.0,3
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,134.0,130.0,134.0,1
 2020-03-16,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,131.0,116.0,132.0,2
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,87.0,80.0,87.0,3
@@ -587,34 +572,35 @@
 2020-03-16,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,107.0,"",108.0,5
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,122.0,"",124.0,6
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,83.0,"",84.0,7
-2020-03-16,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,72.0,"",73.0,8
+2020-03-16,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,83.0,"",84.0,8
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,100.0,"",101.0,9
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,102.0,"",104.0,10
-2020-03-16,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,83.0,"",83.0,11
+2020-03-16,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,91.0,"",91.0,11
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,103.0,"",102.0,12
 2020-03-16,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,82.0,"",81.0,13
+2020-03-16,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,121.0,"",123.0,1
+2020-03-16,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,"",111.0,2
+2020-03-16,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,130.0,"",132.0,3
+2020-03-16,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,97.0,"",98.0,4
+2020-03-16,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,134.0,"",136.0,5
+2020-03-16,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,124.0,"",127.0,6
+2020-03-16,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,100.0,"",101.0,1
+2020-03-16,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,"",104.0,2
+2020-03-16,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,154.0,"",153.0,3
+2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,162.0,147.0,164.0,1
+2020-03-16,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,149.0,171.0,147.0,2
+2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,111.0,103.0,112.0,3
+2020-03-16,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,120.0,110.0,120.0,4
+2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,129.0,"",130.0,5
+2020-03-16,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,86.0,"",85.0,6
 2020-03-16,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,176.0,"",178.0,1
 2020-03-16,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,113.0,"",112.0,2
-2020-03-17,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,158.0,"",157.0,1
-2020-03-17,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,102.0,"",103.0,2
-2020-03-17,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",119.0,1
-2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,128.0,131.0,128.0,1
-2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,91.0,79.0,92.0,2
-2020-03-17,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,77.0,112.0,3
-2020-03-17,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,112.0,107.0,112.0,4
-2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,122.0,"",124.0,5
-2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",85.0,6
-2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,109.0,"",108.0,7
 2020-03-17,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,97.0,68.0,99.0,1
 2020-03-17,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,156.0,123.0,158.0,2
 2020-03-17,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,121.0,"",122.0,3
 2020-03-17,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,106.0,"",106.0,4
 2020-03-17,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,138.0,"",137.0,5
 2020-03-17,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,106.0,"",108.0,6
-2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,92.0,"",92.0,1
-2020-03-17,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,"",110.0,2
-2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,"",98.0,3
-2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,125.0,"",125.0,4
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,138.0,142.0,138.0,1
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,91.0,82.0,91.0,2
 2020-03-17,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,113.0,84.0,115.0,3
@@ -622,28 +608,31 @@
 2020-03-17,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,102.0,"",102.0,5
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,110.0,"",113.0,6
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,79.0,"",78.0,7
-2020-03-17,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,64.0,"",64.0,8
+2020-03-17,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,73.0,"",73.0,8
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,102.0,"",103.0,9
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,69.0,"",68.0,10
-2020-03-17,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,60.0,"",61.0,11
+2020-03-17,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,64.0,"",64.0,11
 2020-03-17,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,85.0,"",85.0,12
+2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,92.0,"",92.0,1
+2020-03-17,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,110.0,"",110.0,2
+2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,98.0,"",98.0,3
+2020-03-17,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,125.0,"",125.0,4
+2020-03-17,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,158.0,"",157.0,1
+2020-03-17,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,102.0,"",103.0,2
+2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,128.0,131.0,128.0,1
+2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,91.0,79.0,92.0,2
+2020-03-17,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,77.0,112.0,3
+2020-03-17,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,112.0,107.0,112.0,4
+2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,122.0,"",124.0,5
+2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",85.0,6
+2020-03-17,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,109.0,"",108.0,7
+2020-03-17,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,117.0,"",119.0,1
+2020-03-18,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
 2020-03-18,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,94.0,97.0,94.0,1
 2020-03-18,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,109.0,"",111.0,2
 2020-03-18,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,117.0,"",117.0,3
 2020-03-18,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,77.0,"",78.0,4
 2020-03-18,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,125.0,"",129.0,5
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,120.0,95.0,122.0,1
-2020-03-18,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,119.0,102.0,120.0,2
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,81.0,78.0,81.0,3
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",84.0,4
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,79.0,"",79.0,5
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,134.0,"",137.0,6
-2020-03-18,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,93.0,"",93.0,6
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,84.0,"",84.0,7
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,47.0,"",48.0,8
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,64.0,"",65.0,9
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,62.0,"",64.0,10
-2020-03-18,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,83.0,"",83.0,11
 2020-03-18,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,155.0,"",158.0,1
 2020-03-18,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",105.0,2
 2020-03-18,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,103.0,102.0,103.0,1
@@ -655,43 +644,47 @@
 2020-03-18,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,92.0,"",93.0,7
 2020-03-18,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,94.0,"",94.0,1
 2020-03-18,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,94.0,"",94.0,2
-2020-03-18,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
-2020-03-19,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,92.0,"",93.0,1
-2020-03-19,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,104.0,"",105.0,2
-2020-03-19,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,127.0,129.0,127.0,3
-2020-03-19,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,86.0,"",86.0,4
-2020-03-19,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,127.0,"",130.0,5
-2020-03-19,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,90.0,"",89.0,1
-2020-03-19,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,103.0,"",104.0,1
-2020-03-19,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",83.0,1
-2020-03-19,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,91.0,"",91.0,2
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,87.0,70.0,88.0,1
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,108.0,116.0,107.0,1
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",80.0,2
-2020-03-19,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,99.0,88.0,100.0,3
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,117.0,"",119.0,4
-2020-03-19,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",91.0,5
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,125.0,110.0,126.0,6
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,62.0,"",62.0,7
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,48.0,"",48.0,8
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,90.0,"",91.0,9
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,65.0,"",67.0,10
-2020-03-19,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,47.0,"",48.0,11
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,120.0,95.0,122.0,1
+2020-03-18,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,119.0,102.0,120.0,2
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,81.0,78.0,81.0,3
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",84.0,4
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,79.0,"",79.0,5
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,134.0,"",137.0,6
+2020-03-18,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,93.0,"",93.0,7
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,84.0,"",84.0,8
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,53.0,"",54.0,9
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,70.0,"",71.0,10
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,62.0,"",64.0,11
+2020-03-18,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,83.0,"",83.0,12
 2020-03-19,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,92.0,73.0,94.0,1
 2020-03-19,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,80.0,79.0,80.0,2
 2020-03-19,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,86.0,"",86.0,3
 2020-03-19,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,121.0,"",121.0,4
 2020-03-19,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",83.0,5
 2020-03-19,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,91.0,"",93.0,6
+2020-03-19,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,90.0,"",89.0,1
+2020-03-19,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",83.0,1
+2020-03-19,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,91.0,"",91.0,2
+2020-03-19,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,103.0,"",104.0,1
+2020-03-19,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,92.0,"",93.0,1
+2020-03-19,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,104.0,"",105.0,2
+2020-03-19,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,127.0,129.0,127.0,3
+2020-03-19,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,86.0,"",86.0,4
+2020-03-19,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,127.0,"",130.0,5
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,108.0,116.0,107.0,1
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,87.0,70.0,88.0,2
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",80.0,3
+2020-03-19,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,99.0,88.0,100.0,4
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,117.0,"",119.0,5
+2020-03-19,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",91.0,6
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,125.0,110.0,126.0,7
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,62.0,"",62.0,8
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,56.0,"",56.0,9
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d124951735,Automotive Shops,90.0,"",91.0,10
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,65.0,"",67.0,11
+2020-03-19,Idaho,Ada County,4bf58dd8d48988d1fa931735,Hotels,51.0,"",52.0,12
 2020-03-19,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,111.0,"",111.0,1
-2020-03-20,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,96.0,100.0,1
-2020-03-20,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,126.0,125.0,126.0,2
-2020-03-20,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,89.0,"",89.0,3
-2020-03-20,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,69.0,"",70.0,4
-2020-03-20,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,109.0,"",109.0,5
-2020-03-20,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,"",109.0,6
-2020-03-20,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,96.0,"",95.0,1
-2020-03-20,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,109.0,"",109.0,2
+2020-03-20,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
 2020-03-20,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,105.0,94.0,106.0,1
 2020-03-20,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,101.0,94.0,102.0,2
 2020-03-20,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",80.0,3
@@ -699,6 +692,9 @@
 2020-03-20,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,88.0,"",90.0,5
 2020-03-20,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,93.0,"",96.0,6
 2020-03-20,Idaho,Kootenai County,4bf58dd8d48988d1e0931735,Coffee Shops,80.0,"",83.0,7
+2020-03-20,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",80.0,1
+2020-03-20,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",89.0,2
+2020-03-20,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",78.0,3
 2020-03-20,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",82.0,1
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,82.0,73.0,83.0,1
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,97.0,85.0,98.0,2
@@ -708,23 +704,31 @@
 2020-03-20,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,82.0,"",82.0,6
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,73.0,"",73.0,7
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,112.0,"",111.0,8
-2020-03-20,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,43.0,"",42.0,9
+2020-03-20,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,49.0,"",48.0,9
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d1e6941735,Golf Courses,124.0,"",125.0,10
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d10f951735,Pharmacies,113.0,"",114.0,11
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,66.0,"",65.0,12
 2020-03-20,Idaho,Ada County,4bf58dd8d48988d1ca941735,Pizza Places,65.0,"",65.0,13
-2020-03-20,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",80.0,1
-2020-03-20,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",89.0,2
-2020-03-20,Idaho,Bonneville County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",78.0,3
-2020-03-20,Idaho,Jerome County,4bf58dd8d48988d113951735,Gas Stations,98.0,"",98.0,1
+2020-03-20,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,96.0,"",95.0,1
+2020-03-20,Idaho,Twin Falls County,4bf58dd8d48988d118951735,Grocery Stores,109.0,"",109.0,2
+2020-03-20,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,100.0,96.0,100.0,1
+2020-03-20,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,126.0,125.0,126.0,2
+2020-03-20,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,89.0,"",89.0,3
+2020-03-20,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,69.0,"",70.0,4
+2020-03-20,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,109.0,"",109.0,5
+2020-03-20,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,107.0,"",109.0,6
 2020-03-21,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",84.0,1
+2020-03-21,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,78.0,"",78.0,1
+2020-03-21,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,75.0,"",74.0,2
+2020-03-21,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,110.0,"",111.0,3
 2020-03-21,Idaho,Twin Falls County,4bf58dd8d48988d113951735,Gas Stations,92.0,"",92.0,1
-2020-03-21,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,86.0,"",86.0,1
-2020-03-21,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,118.0,"",119.0,2
-2020-03-21,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,87.0,"",87.0,3
-2020-03-21,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,74.0,"",74.0,4
-2020-03-21,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,110.0,"",111.0,5
-2020-03-21,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,94.0,"",94.0,6
+2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,108.0,90.0,109.0,1
+2020-03-21,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",91.0,2
+2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",84.0,3
+2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,119.0,"",119.0,4
+2020-03-21,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,90.0,"",91.0,5
+2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",80.0,6
+2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d112951735,Hardware Stores,120.0,"",121.0,7
 2020-03-21,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,85.0,"",85.0,1
 2020-03-21,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,82.0,71.0,83.0,2
 2020-03-21,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,86.0,61.0,88.0,3
@@ -733,46 +737,42 @@
 2020-03-21,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,111.0,"",112.0,6
 2020-03-21,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",62.0,7
 2020-03-21,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,53.0,"",53.0,8
-2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,108.0,90.0,109.0,1
-2020-03-21,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",91.0,2
-2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,84.0,"",84.0,3
-2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,119.0,"",119.0,4
-2020-03-21,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,90.0,"",91.0,5
-2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d16e941735,Fast Food Restaurants,79.0,"",80.0,5
-2020-03-21,Idaho,Kootenai County,4bf58dd8d48988d112951735,Hardware Stores,120.0,"",121.0,6
-2020-03-21,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,78.0,"",78.0,1
-2020-03-21,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,75.0,"",74.0,2
-2020-03-21,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,110.0,"",111.0,3
+2020-03-21,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,86.0,"",86.0,1
+2020-03-21,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,118.0,"",119.0,2
+2020-03-21,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,87.0,"",87.0,3
+2020-03-21,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,74.0,"",74.0,4
+2020-03-21,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,110.0,"",111.0,5
+2020-03-21,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b46,Supermarkets,94.0,"",94.0,6
+2020-03-22,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,78.0,"",79.0,1
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,86.0,"",86.0,2
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,71.0,78.0,71.0,3
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,66.0,"",67.0,4
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,90.0,"",90.0,5
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,107.0,"",108.0,6
+2020-03-22,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,52.0,"",52.0,7
+2020-03-22,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,61.0,"",61.0,8
+2020-03-22,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,93.0,"",93.0,1
+2020-03-22,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,75.0,"",74.0,2
+2020-03-22,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,3
+2020-03-22,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,78.0,"",78.0,4
+2020-03-22,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,98.0,"",99.0,5
 2020-03-22,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,82.0,"",83.0,1
 2020-03-22,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,2
 2020-03-22,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",85.0,1
 2020-03-22,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,76.0,"",77.0,2
 2020-03-22,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",72.0,3
 2020-03-22,Idaho,Kootenai County,4bf58dd8d48988d163941735,Parks,114.0,"",116.0,4
-2020-03-22,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,93.0,"",93.0,1
-2020-03-22,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,75.0,"",74.0,2
-2020-03-22,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,3
-2020-03-22,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,78.0,"",78.0,4
-2020-03-22,Idaho,Canyon County,4bf58dd8d48988d112951735,Hardware Stores,98.0,"",99.0,5
-2020-03-22,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,78.0,"",79.0,1
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,71.0,78.0,71.0,2
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,86.0,"",86.0,2
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,66.0,"",67.0,3
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,90.0,"",90.0,4
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,107.0,"",108.0,5
-2020-03-22,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,52.0,"",52.0,6
-2020-03-22,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,61.0,"",61.0,7
+2020-03-23,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",79.0,1
+2020-03-23,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,"",74.0,2
 2020-03-23,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,85.0,73.0,85.0,1
 2020-03-23,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,91.0,74.0,92.0,2
 2020-03-23,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,82.0,"",83.0,3
-2020-03-23,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,81.0,"",81.0,3
-2020-03-23,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,104.0,"",105.0,4
-2020-03-23,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,84.0,"",86.0,4
-2020-03-23,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,102.0,"",101.0,5
-2020-03-23,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,65.0,"",66.0,6
-2020-03-23,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,45.0,"",45.0,7
-2020-03-23,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,79.0,"",79.0,1
-2020-03-23,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,"",74.0,2
+2020-03-23,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,81.0,"",81.0,4
+2020-03-23,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,104.0,"",105.0,5
+2020-03-23,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,84.0,"",86.0,6
+2020-03-23,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,102.0,"",101.0,7
+2020-03-23,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,65.0,"",66.0,8
+2020-03-23,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,52.0,"",53.0,9
 2020-03-23,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,113.0,79.0,116.0,1
 2020-03-23,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,81.0,"",81.0,2
 2020-03-23,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,90.0,"",91.0,3
@@ -799,19 +799,12 @@
 2020-03-24,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,101.0,"",100.0,6
 2020-03-24,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,87.0,"",87.0,7
 2020-03-24,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,62.0,"",62.0,8
-2020-03-24,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,36.0,"",36.0,9
+2020-03-24,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,41.0,"",41.0,9
 2020-03-24,Idaho,Ada County,4bf58dd8d48988d177941735,Doctor's Offices,56.0,"",57.0,10
 2020-03-25,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,85.0,70.0,87.0,1
 2020-03-25,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,73.0,71.0,73.0,2
 2020-03-25,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,87.0,"",88.0,3
 2020-03-25,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,112.0,"",113.0,4
-2020-03-25,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,94.0,99.0,94.0,1
-2020-03-25,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,103.0,"",104.0,2
-2020-03-25,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,92.0,"",93.0,3
-2020-03-25,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",82.0,4
-2020-03-25,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,1
-2020-03-25,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,84.0,"",84.0,2
-2020-03-25,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",108.0,1
 2020-03-25,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,84.0,73.0,84.0,1
 2020-03-25,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,102.0,81.0,104.0,2
 2020-03-25,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,96.0,82.0,97.0,3
@@ -820,16 +813,24 @@
 2020-03-25,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,131.0,"",133.0,6
 2020-03-25,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,79.0,"",80.0,7
 2020-03-25,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,51.0,"",51.0,8
-2020-03-25,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,39.0,"",39.0,9
+2020-03-25,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,44.0,"",45.0,9
+2020-03-25,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,106.0,"",108.0,1
+2020-03-25,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,94.0,99.0,94.0,1
+2020-03-25,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,103.0,"",104.0,2
+2020-03-25,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,92.0,"",93.0,3
+2020-03-25,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,83.0,"",82.0,4
+2020-03-25,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,1
+2020-03-25,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,84.0,"",84.0,2
+2020-03-26,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,85.0,78.0,86.0,1
+2020-03-26,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",74.0,2
+2020-03-26,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,78.0,103.0,76.0,3
+2020-03-26,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,80.0,"",79.0,1
+2020-03-26,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,72.0,"",71.0,1
+2020-03-26,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",64.0,2
 2020-03-26,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,77.0,"",77.0,1
 2020-03-26,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,99.0,"",99.0,2
 2020-03-26,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,80.0,"",78.0,3
 2020-03-26,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,70.0,"",71.0,4
-2020-03-26,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,72.0,"",71.0,1
-2020-03-26,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,65.0,"",64.0,2
-2020-03-26,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,85.0,78.0,86.0,1
-2020-03-26,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,74.0,"",74.0,2
-2020-03-26,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,78.0,103.0,76.0,3
 2020-03-26,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,80.0,68.0,80.0,1
 2020-03-26,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,87.0,61.0,88.0,2
 2020-03-26,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,74.0,79.0,74.0,3
@@ -838,8 +839,7 @@
 2020-03-26,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,93.0,"",94.0,6
 2020-03-26,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,57.0,"",58.0,7
 2020-03-26,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,88.0,"",91.0,8
-2020-03-26,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,38.0,"",38.0,9
-2020-03-26,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,80.0,"",79.0,1
+2020-03-26,Idaho,Ada County,4bf58dd8d48988d124941735,Offices,45.0,"",44.0,9
 2020-03-27,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,61.0,"",61.0,1
 2020-03-27,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",71.0,2
 2020-03-27,Idaho,Bonneville County,4bf58dd8d48988d118951735,Grocery Stores,109.0,"",108.0,3
@@ -848,6 +848,10 @@
 2020-03-27,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,87.0,"",89.0,3
 2020-03-27,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,61.0,"",61.0,4
 2020-03-27,Idaho,Bannock County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",71.0,1
+2020-03-27,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,71.0,49.0,73.0,1
+2020-03-27,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",66.0,2
+2020-03-27,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,"",77.0,3
+2020-03-27,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,"",76.0,4
 2020-03-27,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,67.0,67.0,67.0,1
 2020-03-27,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,67.0,63.0,67.0,2
 2020-03-27,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,48.0,71.0,3
@@ -856,20 +860,10 @@
 2020-03-27,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,61.0,"",61.0,6
 2020-03-27,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,92.0,"",92.0,7
 2020-03-27,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,49.0,"",48.0,8
-2020-03-27,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,71.0,49.0,73.0,1
-2020-03-27,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,65.0,"",66.0,2
-2020-03-27,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,77.0,"",77.0,3
-2020-03-27,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,75.0,"",76.0,4
-2020-03-28,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,1
-2020-03-28,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,90.0,"",92.0,2
-2020-03-28,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,3
-2020-03-28,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,"",56.0,4
 2020-03-28,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,88.0,74.0,89.0,1
 2020-03-28,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,82.0,"",83.0,2
 2020-03-28,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,3
 2020-03-28,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b46,Supermarkets,90.0,"",91.0,4
-2020-03-28,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,1
-2020-03-28,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,55.0,"",54.0,2
 2020-03-28,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,67.0,"",68.0,1
 2020-03-28,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",59.0,2
 2020-03-28,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,61.0,"",62.0,3
@@ -878,12 +872,12 @@
 2020-03-28,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,50.0,"",50.0,6
 2020-03-28,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,59.0,"",60.0,7
 2020-03-28,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,39.0,"",40.0,8
-2020-03-29,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,71.0,"",71.0,1
-2020-03-29,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,1
-2020-03-29,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,2
-2020-03-29,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,1
-2020-03-29,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,50.0,"",51.0,2
-2020-03-29,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",55.0,3
+2020-03-28,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,1
+2020-03-28,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,55.0,"",54.0,2
+2020-03-28,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,63.0,"",63.0,1
+2020-03-28,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,90.0,"",92.0,2
+2020-03-28,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",63.0,3
+2020-03-28,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,56.0,"",56.0,4
 2020-03-29,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,52.0,"",53.0,1
 2020-03-29,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,48.0,"",48.0,2
 2020-03-29,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,52.0,"",52.0,3
@@ -891,6 +885,15 @@
 2020-03-29,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,84.0,"",85.0,5
 2020-03-29,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,56.0,"",57.0,6
 2020-03-29,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,42.0,"",42.0,7
+2020-03-29,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,1
+2020-03-29,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,50.0,"",51.0,2
+2020-03-29,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,54.0,"",55.0,3
+2020-03-29,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,71.0,"",71.0,1
+2020-03-29,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,55.0,"",55.0,2
+2020-03-29,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,57.0,"",57.0,3
+2020-03-30,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,78.0,82.0,78.0,1
+2020-03-30,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,"",75.0,2
+2020-03-30,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",63.0,3
 2020-03-30,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,80.0,"",80.0,1
 2020-03-30,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,2
 2020-03-30,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,76.0,"",76.0,3
@@ -902,14 +905,11 @@
 2020-03-30,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",74.0,5
 2020-03-30,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,79.0,"",77.0,6
 2020-03-30,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,65.0,"",66.0,7
-2020-03-30,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,78.0,82.0,78.0,1
-2020-03-30,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,74.0,"",75.0,2
-2020-03-30,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",63.0,3
 2020-03-30,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,73.0,"",72.0,1
-2020-03-31,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",66.0,1
 2020-03-31,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",67.0,1
 2020-03-31,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,83.0,"",84.0,2
 2020-03-31,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,63.0,"",64.0,3
+2020-03-31,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,66.0,"",66.0,1
 2020-03-31,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,58.0,"",58.0,1
 2020-03-31,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,65.0,"",65.0,2
 2020-03-31,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,70.0,"",71.0,3
@@ -920,3 +920,20 @@
 2020-03-31,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,63.0,"",64.0,1
 2020-03-31,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,71.0,"",72.0,2
 2020-03-31,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,57.0,"",59.0,3
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d113951735,Gas Stations,70.0,61.0,71.0,1
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d118951735,Grocery Stores,70.0,"",70.0,2
+2020-04-01,Idaho,Ada County,52f2ab2ebcbc57f1066b8b46,Supermarkets,72.0,"",72.0,3
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d16e941735,Fast Food Restaurants,59.0,"",59.0,4
+2020-04-01,Idaho,Ada County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,79.0,"",80.0,5
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d163941735,Parks,73.0,"",74.0,6
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d112951735,Hardware Stores,102.0,"",103.0,7
+2020-04-01,Idaho,Ada County,4bf58dd8d48988d1e0931735,Coffee Shops,45.0,"",45.0,8
+2020-04-01,Idaho,Canyon County,4bf58dd8d48988d113951735,Gas Stations,71.0,"",72.0,1
+2020-04-01,Idaho,Canyon County,4bf58dd8d48988d118951735,Grocery Stores,96.0,"",97.0,2
+2020-04-01,Idaho,Canyon County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,80.0,"",81.0,3
+2020-04-01,Idaho,Canyon County,4bf58dd8d48988d16e941735,Fast Food Restaurants,68.0,"",69.0,4
+2020-04-01,Idaho,Bonneville County,4bf58dd8d48988d113951735,Gas Stations,62.0,"",62.0,1
+2020-04-01,Idaho,Bonneville County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,81.0,"",81.0,2
+2020-04-01,Idaho,Kootenai County,4bf58dd8d48988d118951735,Grocery Stores,77.0,61.0,79.0,1
+2020-04-01,Idaho,Kootenai County,52f2ab2ebcbc57f1066b8b42,Big Box Stores,73.0,"",74.0,2
+2020-04-01,Idaho,Kootenai County,4bf58dd8d48988d113951735,Gas Stations,53.0,"",53.0,3

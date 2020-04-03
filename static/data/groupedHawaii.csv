@@ -1,1481 +1,1511 @@
-2020-03-01,Hawaii,Honolulu County,Shops & Services,76.0,81.0,76.0,1
-2020-03-01,Hawaii,Honolulu County,Food,37.0,36.0,37.0,2
-2020-03-01,Hawaii,Honolulu County,Hotel,60.0,54.0,60.0,3
-2020-03-01,Hawaii,Honolulu County,Outdoors & Recreation,29.0,30.0,29.0,4
+2020-03-01,Hawaii,Hawaii County,Food,87.0,76.0,88.0,1
+2020-03-01,Hawaii,Hawaii County,Shops & Services,92.0,81.0,93.0,2
+2020-03-01,Hawaii,Hawaii County,Outdoors & Recreation,80.0,74.0,80.0,3
+2020-03-01,Hawaii,Hawaii County,Hotel,81.0,77.0,82.0,4
+2020-03-01,Hawaii,Hawaii County,Beach,87.0,58.0,89.0,5
+2020-03-01,Hawaii,Hawaii County,Grocery,86.0,75.0,86.0,6
+2020-03-01,Hawaii,Hawaii County,Airport,78.0,124.0,76.0,7
+2020-03-01,Hawaii,Hawaii County,Big Box Stores,106.0,"",108.0,8
+2020-03-01,Hawaii,Hawaii County,Nightlife Spots,65.0,"",65.0,9
+2020-03-01,Hawaii,Hawaii County,Travel & Transport,77.0,"",77.0,10
+2020-03-01,Hawaii,Hawaii County,Gas Stations,78.0,"",77.0,11
+2020-03-01,Hawaii,Honolulu County,Shops & Services,96.0,104.0,96.0,1
+2020-03-01,Hawaii,Honolulu County,Food,90.0,86.0,90.0,2
+2020-03-01,Hawaii,Honolulu County,Hotel,80.0,70.0,81.0,3
+2020-03-01,Hawaii,Honolulu County,Outdoors & Recreation,87.0,93.0,87.0,4
 2020-03-01,Hawaii,Honolulu County,Grocery,98.0,106.0,97.0,5
-2020-03-01,Hawaii,Honolulu County,Airport,57.0,41.0,58.0,6
-2020-03-01,Hawaii,Honolulu County,Arts & Entertainment,48.0,41.0,49.0,7
-2020-03-01,Hawaii,Honolulu County,Beach,63.0,61.0,63.0,8
+2020-03-01,Hawaii,Honolulu County,Airport,93.0,66.0,94.0,6
+2020-03-01,Hawaii,Honolulu County,Arts & Entertainment,108.0,92.0,108.0,7
+2020-03-01,Hawaii,Honolulu County,Beach,80.0,76.0,80.0,8
 2020-03-01,Hawaii,Honolulu County,Fast Food Restaurants,101.0,106.0,100.0,9
-2020-03-01,Hawaii,Honolulu County,Nightlife Spots,60.0,51.0,61.0,10
+2020-03-01,Hawaii,Honolulu County,Nightlife Spots,87.0,75.0,87.0,10
 2020-03-01,Hawaii,Honolulu County,Residences,90.0,94.0,90.0,11
-2020-03-01,Hawaii,Honolulu County,Professional & Other Places,19.0,19.0,19.0,12
+2020-03-01,Hawaii,Honolulu County,Professional & Other Places,88.0,95.0,87.0,12
 2020-03-01,Hawaii,Honolulu County,Drug Store,108.0,123.0,108.0,13
 2020-03-01,Hawaii,Honolulu County,Gas Stations,103.0,99.0,103.0,14
 2020-03-01,Hawaii,Honolulu County,Big Box Stores,106.0,117.0,106.0,15
-2020-03-01,Hawaii,Honolulu County,School,44.0,46.0,44.0,16
 2020-03-01,Hawaii,Honolulu County,Convenience Store,93.0,96.0,92.0,16
-2020-03-01,Hawaii,Honolulu County,Sports,32.0,33.0,32.0,17
-2020-03-01,Hawaii,Honolulu County,Travel & Transport,92.0,113.0,91.0,18
-2020-03-01,Hawaii,Honolulu County,Government,75.0,"",75.0,19
-2020-03-01,Hawaii,Honolulu County,Fitness Center,62.0,"",62.0,20
-2020-03-01,Hawaii,Honolulu County,Medical,54.0,"",54.0,21
-2020-03-01,Hawaii,Honolulu County,Colleges & Universities,75.0,"",76.0,22
-2020-03-01,Hawaii,Honolulu County,Hardware Stores,97.0,112.0,96.0,23
-2020-03-01,Hawaii,Honolulu County,Banks,111.0,"",110.0,24
-2020-03-01,Hawaii,Honolulu County,Bus,74.0,"",74.0,25
-2020-03-01,Hawaii,Honolulu County,Office,78.0,"",76.0,26
-2020-03-01,Hawaii,Kauai County,Food,46.0,48.0,46.0,1
-2020-03-01,Hawaii,Kauai County,Hotel,77.0,60.0,78.0,2
-2020-03-01,Hawaii,Kauai County,Shops & Services,31.0,27.0,32.0,3
-2020-03-01,Hawaii,Kauai County,Outdoors & Recreation,90.0,79.0,91.0,4
-2020-03-01,Hawaii,Kauai County,Beach,81.0,76.0,81.0,5
-2020-03-01,Hawaii,Kauai County,Airport,61.0,"",63.0,6
-2020-03-01,Hawaii,Kauai County,Grocery,100.0,"",102.0,7
-2020-03-01,Hawaii,Maui County,Food,84.0,79.0,84.0,1
-2020-03-01,Hawaii,Maui County,Hotel,53.0,45.0,54.0,2
-2020-03-01,Hawaii,Maui County,Shops & Services,29.0,26.0,29.0,3
-2020-03-01,Hawaii,Maui County,Outdoors & Recreation,26.0,23.0,26.0,4
-2020-03-01,Hawaii,Maui County,Airport,77.0,39.0,79.0,5
-2020-03-01,Hawaii,Maui County,Beach,71.0,54.0,72.0,6
+2020-03-01,Hawaii,Honolulu County,School,85.0,88.0,85.0,17
+2020-03-01,Hawaii,Honolulu County,Sports,87.0,77.0,87.0,18
+2020-03-01,Hawaii,Honolulu County,Travel & Transport,92.0,113.0,91.0,19
+2020-03-01,Hawaii,Honolulu County,Government,109.0,"",109.0,20
+2020-03-01,Hawaii,Honolulu County,Fitness Center,94.0,"",94.0,21
+2020-03-01,Hawaii,Honolulu County,Medical,100.0,"",101.0,22
+2020-03-01,Hawaii,Honolulu County,Colleges & Universities,91.0,"",92.0,23
+2020-03-01,Hawaii,Honolulu County,Hardware Stores,97.0,112.0,96.0,24
+2020-03-01,Hawaii,Honolulu County,Banks,111.0,"",110.0,25
+2020-03-01,Hawaii,Honolulu County,Bus,97.0,"",96.0,26
+2020-03-01,Hawaii,Honolulu County,Office,87.0,"",85.0,27
+2020-03-01,Hawaii,Maui County,Food,99.0,92.0,99.0,1
+2020-03-01,Hawaii,Maui County,Hotel,87.0,75.0,88.0,2
+2020-03-01,Hawaii,Maui County,Shops & Services,95.0,85.0,96.0,3
+2020-03-01,Hawaii,Maui County,Outdoors & Recreation,85.0,81.0,86.0,4
+2020-03-01,Hawaii,Maui County,Airport,112.0,58.0,115.0,5
+2020-03-01,Hawaii,Maui County,Beach,81.0,62.0,83.0,6
 2020-03-01,Hawaii,Maui County,Grocery,80.0,67.0,80.0,7
 2020-03-01,Hawaii,Maui County,Travel & Transport,84.0,"",85.0,8
-2020-03-01,Hawaii,Maui County,Nightlife Spots,66.0,71.0,66.0,9
-2020-03-01,Hawaii,Maui County,Arts & Entertainment,98.0,"",99.0,10
+2020-03-01,Hawaii,Maui County,Nightlife Spots,92.0,103.0,91.0,9
+2020-03-01,Hawaii,Maui County,Arts & Entertainment,108.0,"",109.0,10
 2020-03-01,Hawaii,Maui County,Gas Stations,99.0,"",99.0,11
-2020-03-01,Hawaii,Hawaii County,Food,39.0,35.0,39.0,1
-2020-03-01,Hawaii,Hawaii County,Shops & Services,54.0,48.0,55.0,2
-2020-03-01,Hawaii,Hawaii County,Outdoors & Recreation,28.0,23.0,28.0,3
-2020-03-01,Hawaii,Hawaii County,Hotel,56.0,49.0,56.0,4
-2020-03-01,Hawaii,Hawaii County,Beach,78.0,52.0,80.0,5
-2020-03-01,Hawaii,Hawaii County,Grocery,86.0,75.0,86.0,6
-2020-03-01,Hawaii,Hawaii County,Airport,53.0,84.0,51.0,7
-2020-03-01,Hawaii,Hawaii County,Big Box Stores,106.0,"",108.0,8
-2020-03-01,Hawaii,Hawaii County,Nightlife Spots,48.0,"",48.0,9
-2020-03-01,Hawaii,Hawaii County,Travel & Transport,10.0,"",10.0,10
-2020-03-01,Hawaii,Hawaii County,Gas Stations,78.0,"",77.0,11
-2020-03-02,Hawaii,Maui County,Food,42.0,41.0,42.0,1
-2020-03-02,Hawaii,Maui County,Hotel,62.0,57.0,62.0,2
-2020-03-02,Hawaii,Maui County,Shops & Services,30.0,32.0,30.0,3
-2020-03-02,Hawaii,Maui County,Outdoors & Recreation,30.0,25.0,31.0,4
-2020-03-02,Hawaii,Maui County,Beach,82.0,78.0,83.0,5
-2020-03-02,Hawaii,Maui County,Airport,81.0,98.0,80.0,6
-2020-03-02,Hawaii,Maui County,Travel & Transport,14.0,13.0,14.0,7
+2020-03-01,Hawaii,Kauai County,Food,103.0,108.0,102.0,1
+2020-03-01,Hawaii,Kauai County,Hotel,112.0,88.0,114.0,2
+2020-03-01,Hawaii,Kauai County,Shops & Services,102.0,90.0,103.0,3
+2020-03-01,Hawaii,Kauai County,Outdoors & Recreation,90.0,79.0,91.0,4
+2020-03-01,Hawaii,Kauai County,Beach,85.0,82.0,85.0,5
+2020-03-01,Hawaii,Kauai County,Airport,89.0,"",91.0,6
+2020-03-01,Hawaii,Kauai County,Grocery,100.0,"",102.0,7
+2020-03-02,Hawaii,Maui County,Food,94.0,92.0,94.0,1
+2020-03-02,Hawaii,Maui County,Hotel,101.0,97.0,102.0,2
+2020-03-02,Hawaii,Maui County,Shops & Services,97.0,103.0,96.0,3
+2020-03-02,Hawaii,Maui County,Outdoors & Recreation,98.0,88.0,98.0,4
+2020-03-02,Hawaii,Maui County,Beach,95.0,89.0,95.0,5
+2020-03-02,Hawaii,Maui County,Airport,119.0,149.0,117.0,6
+2020-03-02,Hawaii,Maui County,Travel & Transport,102.0,95.0,103.0,7
 2020-03-02,Hawaii,Maui County,Grocery,93.0,102.0,93.0,8
-2020-03-02,Hawaii,Maui County,Nightlife Spots,65.0,"",65.0,9
-2020-03-02,Hawaii,Maui County,Arts & Entertainment,98.0,"",99.0,10
+2020-03-02,Hawaii,Maui County,Nightlife Spots,88.0,"",88.0,9
+2020-03-02,Hawaii,Maui County,Arts & Entertainment,108.0,"",110.0,10
 2020-03-02,Hawaii,Maui County,Gas Stations,119.0,146.0,117.0,11
-2020-03-02,Hawaii,Kauai County,Food,46.0,45.0,46.0,1
-2020-03-02,Hawaii,Kauai County,Hotel,75.0,68.0,76.0,2
-2020-03-02,Hawaii,Kauai County,Shops & Services,80.0,76.0,81.0,3
-2020-03-02,Hawaii,Kauai County,Outdoors & Recreation,99.0,94.0,100.0,4
-2020-03-02,Hawaii,Kauai County,Beach,88.0,62.0,90.0,5
-2020-03-02,Hawaii,Kauai County,Airport,68.0,84.0,68.0,6
-2020-03-02,Hawaii,Kauai County,Grocery,113.0,114.0,113.0,7
-2020-03-02,Hawaii,Hawaii County,Food,40.0,34.0,40.0,1
-2020-03-02,Hawaii,Hawaii County,Shops & Services,64.0,54.0,64.0,2
-2020-03-02,Hawaii,Hawaii County,Hotel,59.0,53.0,60.0,3
-2020-03-02,Hawaii,Hawaii County,Outdoors & Recreation,28.0,19.0,28.0,4
-2020-03-02,Hawaii,Hawaii County,Beach,83.0,90.0,82.0,5
-2020-03-02,Hawaii,Hawaii County,Airport,64.0,83.0,63.0,6
-2020-03-02,Hawaii,Hawaii County,Grocery,90.0,105.0,88.0,7
-2020-03-02,Hawaii,Hawaii County,Gas Stations,110.0,146.0,107.0,8
-2020-03-02,Hawaii,Hawaii County,Nightlife Spots,70.0,"",71.0,9
-2020-03-02,Hawaii,Hawaii County,Big Box Stores,98.0,"",98.0,10
-2020-03-02,Hawaii,Hawaii County,Travel & Transport,11.0,"",11.0,11
-2020-03-02,Hawaii,Honolulu County,Shops & Services,35.0,34.0,35.0,1
-2020-03-02,Hawaii,Honolulu County,Food,41.0,41.0,41.0,2
-2020-03-02,Hawaii,Honolulu County,Hotel,63.0,63.0,63.0,3
-2020-03-02,Hawaii,Honolulu County,Outdoors & Recreation,31.0,31.0,31.0,4
-2020-03-02,Hawaii,Honolulu County,Airport,57.0,56.0,57.0,5
+2020-03-02,Hawaii,Honolulu County,Shops & Services,100.0,98.0,100.0,1
+2020-03-02,Hawaii,Honolulu County,Food,99.0,99.0,99.0,2
+2020-03-02,Hawaii,Honolulu County,Hotel,85.0,87.0,85.0,3
+2020-03-02,Hawaii,Honolulu County,Outdoors & Recreation,91.0,97.0,91.0,4
+2020-03-02,Hawaii,Honolulu County,Airport,93.0,90.0,93.0,5
 2020-03-02,Hawaii,Honolulu County,Grocery,100.0,103.0,100.0,6
-2020-03-02,Hawaii,Honolulu County,Professional & Other Places,19.0,17.0,20.0,7
+2020-03-02,Hawaii,Honolulu County,Professional & Other Places,101.0,92.0,101.0,7
 2020-03-02,Hawaii,Honolulu County,Fast Food Restaurants,107.0,107.0,107.0,8
-2020-03-02,Hawaii,Honolulu County,Beach,62.0,63.0,62.0,9
-2020-03-02,Hawaii,Honolulu County,Government,102.0,96.0,102.0,10
+2020-03-02,Hawaii,Honolulu County,Beach,77.0,78.0,77.0,9
+2020-03-02,Hawaii,Honolulu County,Government,136.0,140.0,135.0,10
 2020-03-02,Hawaii,Honolulu County,Residences,96.0,95.0,96.0,11
-2020-03-02,Hawaii,Honolulu County,Medical,64.0,71.0,64.0,12
-2020-03-02,Hawaii,Honolulu County,Arts & Entertainment,75.0,83.0,74.0,13
-2020-03-02,Hawaii,Honolulu County,Nightlife Spots,38.0,35.0,38.0,14
-2020-03-02,Hawaii,Honolulu County,School,59.0,53.0,59.0,15
+2020-03-02,Hawaii,Honolulu County,Medical,118.0,131.0,117.0,12
+2020-03-02,Hawaii,Honolulu County,Arts & Entertainment,91.0,101.0,90.0,13
+2020-03-02,Hawaii,Honolulu County,Nightlife Spots,92.0,84.0,93.0,14
+2020-03-02,Hawaii,Honolulu County,School,111.0,98.0,111.0,15
 2020-03-02,Hawaii,Honolulu County,Drug Store,108.0,132.0,107.0,16
 2020-03-02,Hawaii,Honolulu County,Gas Stations,102.0,99.0,102.0,17
 2020-03-02,Hawaii,Honolulu County,Big Box Stores,116.0,127.0,116.0,18
 2020-03-02,Hawaii,Honolulu County,Convenience Store,95.0,81.0,95.0,19
-2020-03-02,Hawaii,Honolulu County,Colleges & Universities,101.0,"",101.0,20
-2020-03-02,Hawaii,Honolulu County,Fitness Center,74.0,"",75.0,21
+2020-03-02,Hawaii,Honolulu County,Colleges & Universities,112.0,"",113.0,20
+2020-03-02,Hawaii,Honolulu County,Fitness Center,114.0,"",115.0,21
 2020-03-02,Hawaii,Honolulu County,Travel & Transport,96.0,89.0,96.0,22
-2020-03-02,Hawaii,Honolulu County,Office,95.0,97.0,95.0,23
-2020-03-02,Hawaii,Honolulu County,Sports,31.0,33.0,31.0,24
+2020-03-02,Hawaii,Honolulu County,Office,103.0,103.0,103.0,23
+2020-03-02,Hawaii,Honolulu County,Sports,92.0,85.0,92.0,24
 2020-03-02,Hawaii,Honolulu County,Hardware Stores,99.0,"",101.0,25
 2020-03-02,Hawaii,Honolulu County,Banks,124.0,"",124.0,26
-2020-03-02,Hawaii,Honolulu County,Bus,85.0,"",85.0,27
-2020-03-03,Hawaii,Hawaii County,Food,40.0,32.0,40.0,1
-2020-03-03,Hawaii,Hawaii County,Shops & Services,56.0,50.0,57.0,2
-2020-03-03,Hawaii,Hawaii County,Outdoors & Recreation,79.0,70.0,80.0,3
-2020-03-03,Hawaii,Hawaii County,Hotel,55.0,54.0,55.0,4
-2020-03-03,Hawaii,Hawaii County,Grocery,96.0,82.0,97.0,5
-2020-03-03,Hawaii,Hawaii County,Beach,70.0,61.0,71.0,6
-2020-03-03,Hawaii,Hawaii County,Airport,59.0,56.0,59.0,7
-2020-03-03,Hawaii,Hawaii County,Gas Stations,96.0,"",98.0,8
-2020-03-03,Hawaii,Hawaii County,Travel & Transport,12.0,13.0,11.0,9
-2020-03-03,Hawaii,Hawaii County,Big Box Stores,91.0,"",94.0,10
-2020-03-03,Hawaii,Hawaii County,Nightlife Spots,62.0,"",62.0,11
-2020-03-03,Hawaii,Honolulu County,Shops & Services,78.0,79.0,78.0,1
-2020-03-03,Hawaii,Honolulu County,Food,38.0,37.0,38.0,2
-2020-03-03,Hawaii,Honolulu County,Outdoors & Recreation,32.0,34.0,32.0,3
-2020-03-03,Hawaii,Honolulu County,Hotel,60.0,66.0,60.0,4
+2020-03-02,Hawaii,Honolulu County,Bus,108.0,"",107.0,27
+2020-03-02,Hawaii,Hawaii County,Food,89.0,75.0,90.0,1
+2020-03-02,Hawaii,Hawaii County,Shops & Services,104.0,87.0,105.0,2
+2020-03-02,Hawaii,Hawaii County,Hotel,88.0,81.0,88.0,3
+2020-03-02,Hawaii,Hawaii County,Outdoors & Recreation,79.0,57.0,81.0,4
+2020-03-02,Hawaii,Hawaii County,Beach,93.0,101.0,93.0,5
+2020-03-02,Hawaii,Hawaii County,Airport,97.0,122.0,95.0,6
+2020-03-02,Hawaii,Hawaii County,Grocery,90.0,105.0,88.0,7
+2020-03-02,Hawaii,Hawaii County,Gas Stations,110.0,146.0,107.0,8
+2020-03-02,Hawaii,Hawaii County,Nightlife Spots,91.0,"",92.0,9
+2020-03-02,Hawaii,Hawaii County,Big Box Stores,98.0,"",98.0,10
+2020-03-02,Hawaii,Hawaii County,Travel & Transport,87.0,"",88.0,11
+2020-03-02,Hawaii,Kauai County,Food,104.0,101.0,104.0,1
+2020-03-02,Hawaii,Kauai County,Hotel,110.0,104.0,111.0,2
+2020-03-02,Hawaii,Kauai County,Shops & Services,109.0,105.0,109.0,3
+2020-03-02,Hawaii,Kauai County,Outdoors & Recreation,99.0,94.0,100.0,4
+2020-03-02,Hawaii,Kauai County,Beach,93.0,65.0,95.0,5
+2020-03-02,Hawaii,Kauai County,Airport,102.0,122.0,101.0,6
+2020-03-02,Hawaii,Kauai County,Grocery,113.0,111.0,113.0,7
+2020-03-03,Hawaii,Honolulu County,Shops & Services,97.0,100.0,97.0,1
+2020-03-03,Hawaii,Honolulu County,Food,93.0,90.0,93.0,2
+2020-03-03,Hawaii,Honolulu County,Outdoors & Recreation,98.0,107.0,98.0,3
+2020-03-03,Hawaii,Honolulu County,Hotel,81.0,89.0,80.0,4
 2020-03-03,Hawaii,Honolulu County,Grocery,109.0,107.0,109.0,5
-2020-03-03,Hawaii,Honolulu County,Airport,53.0,42.0,54.0,6
-2020-03-03,Hawaii,Honolulu County,Professional & Other Places,19.0,17.0,19.0,7
-2020-03-03,Hawaii,Honolulu County,Beach,78.0,90.0,77.0,8
-2020-03-03,Hawaii,Honolulu County,Government,83.0,81.0,83.0,9
-2020-03-03,Hawaii,Honolulu County,Medical,57.0,50.0,58.0,10
-2020-03-03,Hawaii,Honolulu County,School,58.0,55.0,58.0,11
+2020-03-03,Hawaii,Honolulu County,Airport,86.0,68.0,86.0,6
+2020-03-03,Hawaii,Honolulu County,Professional & Other Places,103.0,94.0,103.0,7
+2020-03-03,Hawaii,Honolulu County,Beach,99.0,115.0,99.0,8
+2020-03-03,Hawaii,Honolulu County,Government,107.0,116.0,107.0,9
+2020-03-03,Hawaii,Honolulu County,Medical,105.0,91.0,105.0,10
+2020-03-03,Hawaii,Honolulu County,School,108.0,104.0,108.0,11
 2020-03-03,Hawaii,Honolulu County,Fast Food Restaurants,106.0,109.0,106.0,12
 2020-03-03,Hawaii,Honolulu County,Residences,102.0,101.0,103.0,13
-2020-03-03,Hawaii,Honolulu County,Nightlife Spots,38.0,32.0,38.0,14
-2020-03-03,Hawaii,Honolulu County,Arts & Entertainment,71.0,86.0,71.0,15
+2020-03-03,Hawaii,Honolulu County,Nightlife Spots,92.0,79.0,93.0,14
+2020-03-03,Hawaii,Honolulu County,Arts & Entertainment,86.0,103.0,86.0,15
 2020-03-03,Hawaii,Honolulu County,Drug Store,112.0,141.0,110.0,16
 2020-03-03,Hawaii,Honolulu County,Gas Stations,105.0,94.0,106.0,17
-2020-03-03,Hawaii,Honolulu County,Colleges & Universities,48.0,50.0,48.0,18
+2020-03-03,Hawaii,Honolulu County,Colleges & Universities,100.0,103.0,100.0,18
 2020-03-03,Hawaii,Honolulu County,Convenience Store,98.0,120.0,97.0,19
-2020-03-03,Hawaii,Honolulu County,Fitness Center,63.0,67.0,63.0,20
-2020-03-03,Hawaii,Honolulu County,Office,83.0,109.0,83.0,21
+2020-03-03,Hawaii,Honolulu County,Fitness Center,98.0,107.0,98.0,20
+2020-03-03,Hawaii,Honolulu County,Office,90.0,117.0,89.0,21
 2020-03-03,Hawaii,Honolulu County,Big Box Stores,99.0,114.0,98.0,22
 2020-03-03,Hawaii,Honolulu County,Travel & Transport,90.0,86.0,90.0,23
 2020-03-03,Hawaii,Honolulu County,Banks,121.0,165.0,119.0,24
-2020-03-03,Hawaii,Honolulu County,Sports,28.0,34.0,28.0,25
+2020-03-03,Hawaii,Honolulu County,Sports,97.0,94.0,97.0,25
 2020-03-03,Hawaii,Honolulu County,Hardware Stores,113.0,85.0,115.0,26
-2020-03-03,Hawaii,Honolulu County,Bus,83.0,"",83.0,27
-2020-03-03,Hawaii,Maui County,Food,39.0,37.0,39.0,1
-2020-03-03,Hawaii,Maui County,Hotel,55.0,49.0,55.0,2
-2020-03-03,Hawaii,Maui County,Shops & Services,61.0,53.0,62.0,3
-2020-03-03,Hawaii,Maui County,Outdoors & Recreation,28.0,22.0,29.0,4
-2020-03-03,Hawaii,Maui County,Beach,83.0,91.0,83.0,5
-2020-03-03,Hawaii,Maui County,Airport,61.0,64.0,61.0,6
+2020-03-03,Hawaii,Honolulu County,Bus,104.0,"",104.0,27
+2020-03-03,Hawaii,Maui County,Food,88.0,84.0,89.0,1
+2020-03-03,Hawaii,Maui County,Hotel,91.0,84.0,92.0,2
+2020-03-03,Hawaii,Maui County,Shops & Services,85.0,74.0,86.0,3
+2020-03-03,Hawaii,Maui County,Outdoors & Recreation,92.0,78.0,93.0,4
+2020-03-03,Hawaii,Maui County,Beach,97.0,104.0,97.0,5
+2020-03-03,Hawaii,Maui County,Airport,88.0,92.0,88.0,6
 2020-03-03,Hawaii,Maui County,Grocery,92.0,84.0,92.0,7
-2020-03-03,Hawaii,Maui County,Travel & Transport,10.0,10.0,10.0,8
-2020-03-03,Hawaii,Maui County,Nightlife Spots,66.0,"",67.0,9
-2020-03-03,Hawaii,Maui County,Arts & Entertainment,75.0,"",75.0,10
+2020-03-03,Hawaii,Maui County,Travel & Transport,86.0,92.0,86.0,8
+2020-03-03,Hawaii,Maui County,Nightlife Spots,93.0,"",94.0,9
+2020-03-03,Hawaii,Maui County,Arts & Entertainment,84.0,"",84.0,10
 2020-03-03,Hawaii,Maui County,Gas Stations,95.0,"",96.0,11
-2020-03-03,Hawaii,Kauai County,Food,43.0,38.0,43.0,1
-2020-03-03,Hawaii,Kauai County,Shops & Services,73.0,69.0,73.0,2
-2020-03-03,Hawaii,Kauai County,Hotel,69.0,77.0,68.0,3
-2020-03-03,Hawaii,Kauai County,Outdoors & Recreation,29.0,30.0,29.0,4
-2020-03-03,Hawaii,Kauai County,Beach,81.0,82.0,81.0,5
+2020-03-03,Hawaii,Kauai County,Food,96.0,85.0,97.0,1
+2020-03-03,Hawaii,Kauai County,Shops & Services,100.0,95.0,100.0,2
+2020-03-03,Hawaii,Kauai County,Hotel,101.0,110.0,100.0,3
+2020-03-03,Hawaii,Kauai County,Outdoors & Recreation,93.0,101.0,93.0,4
+2020-03-03,Hawaii,Kauai County,Beach,86.0,91.0,86.0,5
 2020-03-03,Hawaii,Kauai County,Grocery,99.0,125.0,96.0,6
-2020-03-03,Hawaii,Kauai County,Airport,42.0,"",42.0,7
-2020-03-04,Hawaii,Hawaii County,Food,38.0,37.0,38.0,1
-2020-03-04,Hawaii,Hawaii County,Shops & Services,54.0,50.0,55.0,2
-2020-03-04,Hawaii,Hawaii County,Outdoors & Recreation,31.0,23.0,32.0,3
-2020-03-04,Hawaii,Hawaii County,Hotel,56.0,47.0,57.0,4
-2020-03-04,Hawaii,Hawaii County,Beach,65.0,60.0,66.0,5
-2020-03-04,Hawaii,Hawaii County,Grocery,84.0,69.0,85.0,5
-2020-03-04,Hawaii,Hawaii County,Airport,57.0,52.0,58.0,6
-2020-03-04,Hawaii,Hawaii County,Travel & Transport,13.0,13.0,13.0,7
-2020-03-04,Hawaii,Hawaii County,Gas Stations,92.0,"",93.0,8
-2020-03-04,Hawaii,Hawaii County,Nightlife Spots,69.0,"",70.0,9
-2020-03-04,Hawaii,Hawaii County,Big Box Stores,92.0,"",93.0,10
-2020-03-04,Hawaii,Kauai County,Food,43.0,40.0,43.0,1
-2020-03-04,Hawaii,Kauai County,Hotel,70.0,69.0,70.0,2
-2020-03-04,Hawaii,Kauai County,Shops & Services,67.0,54.0,68.0,3
-2020-03-04,Hawaii,Kauai County,Outdoors & Recreation,97.0,113.0,95.0,4
-2020-03-04,Hawaii,Kauai County,Beach,90.0,79.0,91.0,5
-2020-03-04,Hawaii,Kauai County,Airport,62.0,65.0,62.0,6
-2020-03-04,Hawaii,Kauai County,Grocery,105.0,104.0,105.0,7
-2020-03-04,Hawaii,Kauai County,Travel & Transport,15.0,"",15.0,8
-2020-03-04,Hawaii,Maui County,Food,41.0,36.0,42.0,1
-2020-03-04,Hawaii,Maui County,Hotel,56.0,48.0,56.0,2
-2020-03-04,Hawaii,Maui County,Shops & Services,28.0,28.0,28.0,3
-2020-03-04,Hawaii,Maui County,Outdoors & Recreation,29.0,19.0,30.0,4
-2020-03-04,Hawaii,Maui County,Beach,74.0,49.0,76.0,5
-2020-03-04,Hawaii,Maui County,Airport,64.0,38.0,66.0,6
-2020-03-04,Hawaii,Maui County,Grocery,98.0,67.0,101.0,7
-2020-03-04,Hawaii,Maui County,Travel & Transport,9.0,"",10.0,8
-2020-03-04,Hawaii,Maui County,Arts & Entertainment,97.0,"",97.0,9
-2020-03-04,Hawaii,Maui County,Nightlife Spots,54.0,"",54.0,10
-2020-03-04,Hawaii,Maui County,Gas Stations,96.0,"",97.0,11
-2020-03-04,Hawaii,Honolulu County,Shops & Services,79.0,72.0,79.0,1
-2020-03-04,Hawaii,Honolulu County,Food,39.0,36.0,39.0,2
-2020-03-04,Hawaii,Honolulu County,Outdoors & Recreation,32.0,29.0,32.0,3
-2020-03-04,Hawaii,Honolulu County,Hotel,62.0,66.0,62.0,4
+2020-03-03,Hawaii,Kauai County,Airport,61.0,"",61.0,7
+2020-03-03,Hawaii,Hawaii County,Food,90.0,71.0,91.0,1
+2020-03-03,Hawaii,Hawaii County,Shops & Services,91.0,83.0,91.0,2
+2020-03-03,Hawaii,Hawaii County,Outdoors & Recreation,79.0,70.0,80.0,3
+2020-03-03,Hawaii,Hawaii County,Hotel,81.0,83.0,81.0,4
+2020-03-03,Hawaii,Hawaii County,Grocery,96.0,82.0,97.0,5
+2020-03-03,Hawaii,Hawaii County,Beach,80.0,70.0,80.0,6
+2020-03-03,Hawaii,Hawaii County,Airport,88.0,83.0,88.0,7
+2020-03-03,Hawaii,Hawaii County,Gas Stations,96.0,"",98.0,8
+2020-03-03,Hawaii,Hawaii County,Travel & Transport,83.0,90.0,82.0,9
+2020-03-03,Hawaii,Hawaii County,Big Box Stores,91.0,"",94.0,10
+2020-03-03,Hawaii,Hawaii County,Nightlife Spots,83.0,"",84.0,11
+2020-03-04,Hawaii,Honolulu County,Shops & Services,99.0,91.0,99.0,1
+2020-03-04,Hawaii,Honolulu County,Food,95.0,87.0,95.0,2
+2020-03-04,Hawaii,Honolulu County,Outdoors & Recreation,95.0,89.0,95.0,3
+2020-03-04,Hawaii,Honolulu County,Hotel,83.0,90.0,83.0,4
 2020-03-04,Hawaii,Honolulu County,Grocery,100.0,93.0,101.0,5
-2020-03-04,Hawaii,Honolulu County,Airport,54.0,44.0,55.0,6
-2020-03-04,Hawaii,Honolulu County,Professional & Other Places,18.0,16.0,18.0,7
-2020-03-04,Hawaii,Honolulu County,Beach,83.0,73.0,83.0,8
-2020-03-04,Hawaii,Honolulu County,School,54.0,61.0,53.0,9
-2020-03-04,Hawaii,Honolulu County,Government,74.0,74.0,74.0,10
-2020-03-04,Hawaii,Honolulu County,Medical,51.0,48.0,51.0,11
+2020-03-04,Hawaii,Honolulu County,Airport,87.0,71.0,88.0,6
+2020-03-04,Hawaii,Honolulu County,Professional & Other Places,102.0,92.0,102.0,7
+2020-03-04,Hawaii,Honolulu County,Beach,105.0,93.0,105.0,8
+2020-03-04,Hawaii,Honolulu County,School,101.0,114.0,100.0,9
+2020-03-04,Hawaii,Honolulu County,Government,94.0,105.0,94.0,10
+2020-03-04,Hawaii,Honolulu County,Medical,93.0,89.0,94.0,11
 2020-03-04,Hawaii,Honolulu County,Fast Food Restaurants,98.0,112.0,97.0,12
 2020-03-04,Hawaii,Honolulu County,Residences,95.0,91.0,95.0,13
-2020-03-04,Hawaii,Honolulu County,Arts & Entertainment,78.0,94.0,77.0,14
-2020-03-04,Hawaii,Honolulu County,Nightlife Spots,35.0,37.0,35.0,15
+2020-03-04,Hawaii,Honolulu County,Arts & Entertainment,96.0,116.0,95.0,14
+2020-03-04,Hawaii,Honolulu County,Nightlife Spots,84.0,89.0,84.0,15
 2020-03-04,Hawaii,Honolulu County,Gas Stations,98.0,79.0,98.0,16
 2020-03-04,Hawaii,Honolulu County,Convenience Store,104.0,103.0,104.0,17
-2020-03-04,Hawaii,Honolulu County,Colleges & Universities,44.0,40.0,44.0,18
+2020-03-04,Hawaii,Honolulu County,Colleges & Universities,91.0,82.0,92.0,18
 2020-03-04,Hawaii,Honolulu County,Drug Store,101.0,99.0,101.0,19
-2020-03-04,Hawaii,Honolulu County,Fitness Center,62.0,58.0,62.0,20
-2020-03-04,Hawaii,Honolulu County,Office,84.0,"",84.0,21
+2020-03-04,Hawaii,Honolulu County,Fitness Center,96.0,89.0,97.0,20
+2020-03-04,Hawaii,Honolulu County,Office,90.0,"",90.0,21
 2020-03-04,Hawaii,Honolulu County,Big Box Stores,102.0,103.0,102.0,22
 2020-03-04,Hawaii,Honolulu County,Travel & Transport,97.0,99.0,97.0,23
-2020-03-04,Hawaii,Honolulu County,Sports,28.0,35.0,28.0,24
+2020-03-04,Hawaii,Honolulu County,Sports,97.0,104.0,97.0,24
 2020-03-04,Hawaii,Honolulu County,Banks,94.0,"",95.0,25
 2020-03-04,Hawaii,Honolulu County,Hardware Stores,95.0,82.0,96.0,26
-2020-03-04,Hawaii,Honolulu County,Bus,69.0,"",69.0,27
-2020-03-05,Hawaii,Maui County,Food,42.0,40.0,42.0,1
-2020-03-05,Hawaii,Maui County,Hotel,59.0,60.0,59.0,2
-2020-03-05,Hawaii,Maui County,Shops & Services,24.0,24.0,24.0,3
-2020-03-05,Hawaii,Maui County,Outdoors & Recreation,31.0,21.0,31.0,4
-2020-03-05,Hawaii,Maui County,Beach,88.0,76.0,89.0,5
-2020-03-05,Hawaii,Maui County,Airport,62.0,37.0,64.0,6
+2020-03-04,Hawaii,Honolulu County,Bus,88.0,"",87.0,27
+2020-03-04,Hawaii,Hawaii County,Food,86.0,83.0,86.0,1
+2020-03-04,Hawaii,Hawaii County,Shops & Services,88.0,82.0,88.0,2
+2020-03-04,Hawaii,Hawaii County,Outdoors & Recreation,93.0,76.0,94.0,3
+2020-03-04,Hawaii,Hawaii County,Hotel,83.0,72.0,83.0,4
+2020-03-04,Hawaii,Hawaii County,Grocery,84.0,69.0,85.0,5
+2020-03-04,Hawaii,Hawaii County,Beach,74.0,66.0,74.0,6
+2020-03-04,Hawaii,Hawaii County,Airport,84.0,75.0,84.0,7
+2020-03-04,Hawaii,Hawaii County,Travel & Transport,93.0,96.0,92.0,8
+2020-03-04,Hawaii,Hawaii County,Gas Stations,92.0,"",93.0,9
+2020-03-04,Hawaii,Hawaii County,Nightlife Spots,90.0,"",91.0,10
+2020-03-04,Hawaii,Hawaii County,Big Box Stores,92.0,"",93.0,11
+2020-03-04,Hawaii,Kauai County,Food,96.0,91.0,96.0,1
+2020-03-04,Hawaii,Kauai County,Hotel,101.0,103.0,101.0,2
+2020-03-04,Hawaii,Kauai County,Shops & Services,92.0,74.0,94.0,3
+2020-03-04,Hawaii,Kauai County,Outdoors & Recreation,97.0,113.0,95.0,4
+2020-03-04,Hawaii,Kauai County,Beach,95.0,86.0,96.0,5
+2020-03-04,Hawaii,Kauai County,Airport,89.0,93.0,89.0,6
+2020-03-04,Hawaii,Kauai County,Grocery,105.0,104.0,105.0,7
+2020-03-04,Hawaii,Kauai County,Travel & Transport,97.0,"",97.0,8
+2020-03-04,Hawaii,Maui County,Food,94.0,81.0,95.0,1
+2020-03-04,Hawaii,Maui County,Hotel,91.0,78.0,92.0,2
+2020-03-04,Hawaii,Maui County,Shops & Services,91.0,87.0,91.0,3
+2020-03-04,Hawaii,Maui County,Outdoors & Recreation,95.0,68.0,97.0,4
+2020-03-04,Hawaii,Maui County,Beach,85.0,57.0,87.0,5
+2020-03-04,Hawaii,Maui County,Airport,94.0,56.0,96.0,6
+2020-03-04,Hawaii,Maui County,Grocery,98.0,67.0,101.0,7
+2020-03-04,Hawaii,Maui County,Travel & Transport,87.0,"",89.0,8
+2020-03-04,Hawaii,Maui County,Arts & Entertainment,110.0,"",110.0,9
+2020-03-04,Hawaii,Maui County,Nightlife Spots,75.0,"",75.0,10
+2020-03-04,Hawaii,Maui County,Gas Stations,96.0,"",97.0,11
+2020-03-05,Hawaii,Hawaii County,Food,91.0,68.0,93.0,1
+2020-03-05,Hawaii,Hawaii County,Shops & Services,91.0,77.0,92.0,2
+2020-03-05,Hawaii,Hawaii County,Hotel,87.0,69.0,89.0,3
+2020-03-05,Hawaii,Hawaii County,Outdoors & Recreation,90.0,75.0,90.0,4
+2020-03-05,Hawaii,Hawaii County,Beach,78.0,56.0,79.0,5
+2020-03-05,Hawaii,Hawaii County,Grocery,87.0,70.0,89.0,6
+2020-03-05,Hawaii,Hawaii County,Airport,87.0,"",89.0,7
+2020-03-05,Hawaii,Hawaii County,Nightlife Spots,103.0,"",103.0,8
+2020-03-05,Hawaii,Hawaii County,Gas Stations,97.0,"",98.0,9
+2020-03-05,Hawaii,Hawaii County,Big Box Stores,88.0,130.0,85.0,10
+2020-03-05,Hawaii,Maui County,Food,95.0,90.0,95.0,1
+2020-03-05,Hawaii,Maui County,Hotel,96.0,99.0,96.0,2
+2020-03-05,Hawaii,Maui County,Shops & Services,79.0,80.0,79.0,3
+2020-03-05,Hawaii,Maui County,Outdoors & Recreation,97.0,67.0,99.0,4
+2020-03-05,Hawaii,Maui County,Beach,101.0,86.0,102.0,5
+2020-03-05,Hawaii,Maui County,Airport,90.0,54.0,93.0,6
 2020-03-05,Hawaii,Maui County,Grocery,82.0,64.0,84.0,7
-2020-03-05,Hawaii,Maui County,Travel & Transport,12.0,11.0,12.0,8
-2020-03-05,Hawaii,Maui County,Arts & Entertainment,86.0,"",86.0,9
-2020-03-05,Hawaii,Maui County,Nightlife Spots,55.0,"",57.0,10
-2020-03-05,Hawaii,Kauai County,Food,39.0,42.0,39.0,1
-2020-03-05,Hawaii,Kauai County,Shops & Services,68.0,86.0,66.0,2
-2020-03-05,Hawaii,Kauai County,Hotel,63.0,65.0,63.0,3
-2020-03-05,Hawaii,Kauai County,Outdoors & Recreation,94.0,108.0,93.0,4
-2020-03-05,Hawaii,Kauai County,Beach,97.0,113.0,96.0,5
-2020-03-05,Hawaii,Kauai County,Travel & Transport,15.0,18.0,15.0,6
-2020-03-05,Hawaii,Kauai County,Grocery,94.0,119.0,91.0,7
-2020-03-05,Hawaii,Honolulu County,Shops & Services,77.0,75.0,77.0,1
-2020-03-05,Hawaii,Honolulu County,Food,39.0,37.0,39.0,2
-2020-03-05,Hawaii,Honolulu County,Outdoors & Recreation,34.0,35.0,34.0,3
-2020-03-05,Hawaii,Honolulu County,Hotel,65.0,69.0,65.0,4
+2020-03-05,Hawaii,Maui County,Travel & Transport,105.0,104.0,105.0,8
+2020-03-05,Hawaii,Maui County,Arts & Entertainment,96.0,"",96.0,9
+2020-03-05,Hawaii,Maui County,Nightlife Spots,79.0,"",80.0,10
+2020-03-05,Hawaii,Honolulu County,Shops & Services,95.0,93.0,95.0,1
+2020-03-05,Hawaii,Honolulu County,Food,94.0,88.0,94.0,2
+2020-03-05,Hawaii,Honolulu County,Outdoors & Recreation,103.0,107.0,103.0,3
+2020-03-05,Hawaii,Honolulu County,Hotel,86.0,94.0,86.0,4
 2020-03-05,Hawaii,Honolulu County,Grocery,101.0,99.0,101.0,5
-2020-03-05,Hawaii,Honolulu County,Airport,50.0,42.0,50.0,6
-2020-03-05,Hawaii,Honolulu County,Professional & Other Places,18.0,18.0,18.0,7
-2020-03-05,Hawaii,Honolulu County,Beach,83.0,78.0,83.0,8
-2020-03-05,Hawaii,Honolulu County,School,58.0,63.0,57.0,9
-2020-03-05,Hawaii,Honolulu County,Medical,55.0,69.0,54.0,10
-2020-03-05,Hawaii,Honolulu County,Government,75.0,65.0,75.0,11
+2020-03-05,Hawaii,Honolulu County,Airport,80.0,68.0,80.0,6
+2020-03-05,Hawaii,Honolulu County,Professional & Other Places,96.0,100.0,96.0,7
+2020-03-05,Hawaii,Honolulu County,Beach,103.0,99.0,103.0,8
+2020-03-05,Hawaii,Honolulu County,School,108.0,118.0,107.0,9
+2020-03-05,Hawaii,Honolulu County,Medical,102.0,128.0,100.0,10
+2020-03-05,Hawaii,Honolulu County,Government,97.0,93.0,97.0,11
 2020-03-05,Hawaii,Honolulu County,Fast Food Restaurants,95.0,94.0,95.0,12
 2020-03-05,Hawaii,Honolulu County,Residences,97.0,102.0,97.0,13
-2020-03-05,Hawaii,Honolulu County,Arts & Entertainment,73.0,76.0,73.0,14
-2020-03-05,Hawaii,Honolulu County,Nightlife Spots,37.0,35.0,37.0,15
+2020-03-05,Hawaii,Honolulu County,Arts & Entertainment,92.0,95.0,92.0,14
+2020-03-05,Hawaii,Honolulu County,Nightlife Spots,89.0,85.0,89.0,15
 2020-03-05,Hawaii,Honolulu County,Gas Stations,109.0,118.0,109.0,16
 2020-03-05,Hawaii,Honolulu County,Drug Store,103.0,103.0,103.0,17
 2020-03-05,Hawaii,Honolulu County,Convenience Store,104.0,104.0,104.0,18
-2020-03-05,Hawaii,Honolulu County,Colleges & Universities,81.0,94.0,81.0,19
-2020-03-05,Hawaii,Honolulu County,Fitness Center,68.0,64.0,68.0,20
+2020-03-05,Hawaii,Honolulu County,Colleges & Universities,89.0,102.0,89.0,19
+2020-03-05,Hawaii,Honolulu County,Fitness Center,105.0,97.0,105.0,20
 2020-03-05,Hawaii,Honolulu County,Big Box Stores,105.0,91.0,106.0,21
-2020-03-05,Hawaii,Honolulu County,Travel & Transport,8.0,7.0,8.0,22
-2020-03-05,Hawaii,Honolulu County,Office,79.0,"",80.0,23
-2020-03-05,Hawaii,Honolulu County,Sports,30.0,39.0,29.0,24
+2020-03-05,Hawaii,Honolulu County,Travel & Transport,99.0,77.0,100.0,22
+2020-03-05,Hawaii,Honolulu County,Office,86.0,"",87.0,23
+2020-03-05,Hawaii,Honolulu County,Sports,99.0,102.0,99.0,24
 2020-03-05,Hawaii,Honolulu County,Banks,103.0,"",103.0,25
-2020-03-05,Hawaii,Honolulu County,Bus,80.0,"",81.0,26
+2020-03-05,Hawaii,Honolulu County,Bus,100.0,"",101.0,26
 2020-03-05,Hawaii,Honolulu County,Hardware Stores,94.0,89.0,94.0,27
-2020-03-05,Hawaii,Hawaii County,Food,40.0,31.0,41.0,1
-2020-03-05,Hawaii,Hawaii County,Shops & Services,56.0,47.0,57.0,2
-2020-03-05,Hawaii,Hawaii County,Hotel,59.0,44.0,60.0,3
-2020-03-05,Hawaii,Hawaii County,Outdoors & Recreation,90.0,75.0,90.0,4
-2020-03-05,Hawaii,Hawaii County,Beach,69.0,51.0,70.0,5
-2020-03-05,Hawaii,Hawaii County,Grocery,87.0,70.0,89.0,6
-2020-03-05,Hawaii,Hawaii County,Airport,59.0,"",60.0,7
-2020-03-05,Hawaii,Hawaii County,Nightlife Spots,78.0,"",78.0,8
-2020-03-05,Hawaii,Hawaii County,Gas Stations,97.0,"",98.0,9
-2020-03-05,Hawaii,Hawaii County,Big Box Stores,88.0,130.0,85.0,10
-2020-03-06,Hawaii,Maui County,Food,43.0,41.0,43.0,1
-2020-03-06,Hawaii,Maui County,Hotel,60.0,57.0,60.0,2
-2020-03-06,Hawaii,Maui County,Shops & Services,32.0,34.0,32.0,3
-2020-03-06,Hawaii,Maui County,Outdoors & Recreation,32.0,22.0,33.0,4
-2020-03-06,Hawaii,Maui County,Beach,85.0,67.0,87.0,5
-2020-03-06,Hawaii,Maui County,Airport,65.0,53.0,66.0,6
+2020-03-05,Hawaii,Kauai County,Food,88.0,95.0,88.0,1
+2020-03-05,Hawaii,Kauai County,Shops & Services,94.0,122.0,91.0,2
+2020-03-05,Hawaii,Kauai County,Hotel,90.0,96.0,90.0,3
+2020-03-05,Hawaii,Kauai County,Outdoors & Recreation,94.0,108.0,93.0,4
+2020-03-05,Hawaii,Kauai County,Beach,103.0,121.0,101.0,5
+2020-03-05,Hawaii,Kauai County,Travel & Transport,86.0,111.0,84.0,6
+2020-03-05,Hawaii,Kauai County,Grocery,94.0,119.0,91.0,7
+2020-03-06,Hawaii,Maui County,Food,97.0,90.0,97.0,1
+2020-03-06,Hawaii,Maui County,Hotel,99.0,97.0,99.0,2
+2020-03-06,Hawaii,Maui County,Shops & Services,101.0,107.0,101.0,3
+2020-03-06,Hawaii,Maui County,Outdoors & Recreation,107.0,75.0,109.0,4
+2020-03-06,Hawaii,Maui County,Beach,96.0,75.0,98.0,5
+2020-03-06,Hawaii,Maui County,Airport,95.0,77.0,96.0,6
 2020-03-06,Hawaii,Maui County,Grocery,104.0,87.0,105.0,7
-2020-03-06,Hawaii,Maui County,Travel & Transport,10.0,"",10.0,8
-2020-03-06,Hawaii,Maui County,Nightlife Spots,69.0,"",70.0,9
-2020-03-06,Hawaii,Maui County,Arts & Entertainment,111.0,"",112.0,10
+2020-03-06,Hawaii,Maui County,Travel & Transport,92.0,"",93.0,8
+2020-03-06,Hawaii,Maui County,Nightlife Spots,96.0,"",97.0,9
+2020-03-06,Hawaii,Maui County,Arts & Entertainment,114.0,"",116.0,10
 2020-03-06,Hawaii,Maui County,Gas Stations,97.0,"",98.0,11
-2020-03-06,Hawaii,Hawaii County,Food,43.0,38.0,43.0,1
-2020-03-06,Hawaii,Hawaii County,Shops & Services,24.0,22.0,24.0,2
-2020-03-06,Hawaii,Hawaii County,Hotel,65.0,62.0,65.0,3
-2020-03-06,Hawaii,Hawaii County,Outdoors & Recreation,33.0,22.0,34.0,4
+2020-03-06,Hawaii,Hawaii County,Food,97.0,85.0,98.0,1
+2020-03-06,Hawaii,Hawaii County,Shops & Services,98.0,87.0,99.0,2
+2020-03-06,Hawaii,Hawaii County,Hotel,96.0,97.0,96.0,3
+2020-03-06,Hawaii,Hawaii County,Outdoors & Recreation,96.0,66.0,98.0,4
 2020-03-06,Hawaii,Hawaii County,Grocery,90.0,92.0,90.0,5
-2020-03-06,Hawaii,Hawaii County,Airport,71.0,81.0,70.0,6
-2020-03-06,Hawaii,Hawaii County,Beach,74.0,60.0,75.0,7
-2020-03-06,Hawaii,Hawaii County,Nightlife Spots,84.0,"",86.0,8
+2020-03-06,Hawaii,Hawaii County,Airport,104.0,116.0,103.0,6
+2020-03-06,Hawaii,Hawaii County,Beach,84.0,69.0,85.0,7
+2020-03-06,Hawaii,Hawaii County,Nightlife Spots,111.0,"",113.0,8
 2020-03-06,Hawaii,Hawaii County,Gas Stations,106.0,"",106.0,9
-2020-03-06,Hawaii,Hawaii County,Travel & Transport,13.0,"",13.0,10
+2020-03-06,Hawaii,Hawaii County,Travel & Transport,105.0,"",105.0,10
 2020-03-06,Hawaii,Hawaii County,Big Box Stores,81.0,"",82.0,11
-2020-03-06,Hawaii,Hawaii County,Arts & Entertainment,89.0,"",91.0,12
-2020-03-06,Hawaii,Kauai County,Food,46.0,49.0,45.0,1
-2020-03-06,Hawaii,Kauai County,Shops & Services,29.0,29.0,29.0,2
-2020-03-06,Hawaii,Kauai County,Hotel,65.0,83.0,64.0,3
+2020-03-06,Hawaii,Hawaii County,Arts & Entertainment,109.0,"",111.0,12
+2020-03-06,Hawaii,Kauai County,Food,103.0,109.0,102.0,1
+2020-03-06,Hawaii,Kauai County,Shops & Services,91.0,95.0,91.0,2
+2020-03-06,Hawaii,Kauai County,Hotel,94.0,121.0,92.0,3
 2020-03-06,Hawaii,Kauai County,Outdoors & Recreation,96.0,107.0,95.0,4
-2020-03-06,Hawaii,Kauai County,Beach,83.0,79.0,83.0,5
-2020-03-06,Hawaii,Kauai County,Travel & Transport,18.0,19.0,18.0,6
-2020-03-06,Hawaii,Kauai County,Grocery,102.0,89.0,104.0,7
-2020-03-06,Hawaii,Kauai County,Airport,55.0,"",54.0,8
-2020-03-06,Hawaii,Honolulu County,Shops & Services,73.0,73.0,72.0,1
-2020-03-06,Hawaii,Honolulu County,Food,38.0,35.0,39.0,2
-2020-03-06,Hawaii,Honolulu County,Hotel,65.0,63.0,65.0,3
-2020-03-06,Hawaii,Honolulu County,Outdoors & Recreation,30.0,27.0,30.0,4
+2020-03-06,Hawaii,Kauai County,Beach,88.0,87.0,88.0,5
+2020-03-06,Hawaii,Kauai County,Travel & Transport,82.0,91.0,81.0,6
+2020-03-06,Hawaii,Kauai County,Grocery,102.0,88.0,104.0,7
+2020-03-06,Hawaii,Kauai County,Airport,78.0,"",78.0,8
+2020-03-06,Hawaii,Honolulu County,Shops & Services,91.0,93.0,91.0,1
+2020-03-06,Hawaii,Honolulu County,Food,93.0,85.0,93.0,2
+2020-03-06,Hawaii,Honolulu County,Hotel,85.0,85.0,85.0,3
+2020-03-06,Hawaii,Honolulu County,Outdoors & Recreation,91.0,82.0,91.0,4
 2020-03-06,Hawaii,Honolulu County,Grocery,92.0,85.0,93.0,5
-2020-03-06,Hawaii,Honolulu County,Airport,52.0,41.0,52.0,6
-2020-03-06,Hawaii,Honolulu County,Professional & Other Places,17.0,17.0,17.0,7
-2020-03-06,Hawaii,Honolulu County,School,54.0,54.0,54.0,8
+2020-03-06,Hawaii,Honolulu County,Airport,83.0,66.0,84.0,6
+2020-03-06,Hawaii,Honolulu County,Professional & Other Places,96.0,93.0,96.0,7
+2020-03-06,Hawaii,Honolulu County,School,102.0,102.0,102.0,8
 2020-03-06,Hawaii,Honolulu County,Fast Food Restaurants,99.0,92.0,100.0,9
-2020-03-06,Hawaii,Honolulu County,Government,74.0,69.0,74.0,10
-2020-03-06,Hawaii,Honolulu County,Beach,68.0,65.0,68.0,11
-2020-03-06,Hawaii,Honolulu County,Medical,50.0,43.0,51.0,12
+2020-03-06,Hawaii,Honolulu County,Government,97.0,99.0,97.0,10
+2020-03-06,Hawaii,Honolulu County,Beach,85.0,81.0,85.0,11
+2020-03-06,Hawaii,Honolulu County,Medical,93.0,81.0,94.0,12
 2020-03-06,Hawaii,Honolulu County,Residences,94.0,84.0,95.0,13
-2020-03-06,Hawaii,Honolulu County,Arts & Entertainment,68.0,96.0,67.0,14
-2020-03-06,Hawaii,Honolulu County,Nightlife Spots,36.0,28.0,37.0,15
-2020-03-06,Hawaii,Honolulu County,Colleges & Universities,48.0,47.0,48.0,16
+2020-03-06,Hawaii,Honolulu County,Arts & Entertainment,86.0,120.0,85.0,14
+2020-03-06,Hawaii,Honolulu County,Nightlife Spots,88.0,69.0,89.0,15
+2020-03-06,Hawaii,Honolulu County,Colleges & Universities,102.0,99.0,102.0,16
 2020-03-06,Hawaii,Honolulu County,Gas Stations,93.0,90.0,93.0,17
 2020-03-06,Hawaii,Honolulu County,Drug Store,88.0,88.0,88.0,18
 2020-03-06,Hawaii,Honolulu County,Convenience Store,94.0,96.0,94.0,19
-2020-03-06,Hawaii,Honolulu County,Fitness Center,67.0,69.0,67.0,20
+2020-03-06,Hawaii,Honolulu County,Fitness Center,102.0,105.0,102.0,20
 2020-03-06,Hawaii,Honolulu County,Big Box Stores,93.0,86.0,93.0,21
-2020-03-06,Hawaii,Honolulu County,Office,82.0,"",83.0,22
-2020-03-06,Hawaii,Honolulu County,Sports,29.0,34.0,29.0,23
+2020-03-06,Hawaii,Honolulu County,Office,90.0,"",90.0,22
+2020-03-06,Hawaii,Honolulu County,Sports,96.0,93.0,96.0,23
 2020-03-06,Hawaii,Honolulu County,Travel & Transport,74.0,76.0,74.0,24
 2020-03-06,Hawaii,Honolulu County,Banks,93.0,108.0,92.0,25
 2020-03-06,Hawaii,Honolulu County,Hardware Stores,93.0,78.0,94.0,26
-2020-03-06,Hawaii,Honolulu County,Bus,64.0,"",64.0,27
-2020-03-07,Hawaii,Maui County,Food,45.0,41.0,45.0,1
-2020-03-07,Hawaii,Maui County,Hotel,59.0,67.0,58.0,2
-2020-03-07,Hawaii,Maui County,Shops & Services,29.0,28.0,29.0,3
-2020-03-07,Hawaii,Maui County,Outdoors & Recreation,89.0,78.0,89.0,4
-2020-03-07,Hawaii,Maui County,Beach,81.0,86.0,81.0,5
-2020-03-07,Hawaii,Maui County,Airport,73.0,54.0,75.0,6
-2020-03-07,Hawaii,Maui County,Grocery,87.0,91.0,87.0,7
-2020-03-07,Hawaii,Maui County,Nightlife Spots,64.0,"",65.0,8
-2020-03-07,Hawaii,Maui County,Arts & Entertainment,95.0,"",95.0,9
-2020-03-07,Hawaii,Maui County,Travel & Transport,8.0,"",8.0,10
-2020-03-07,Hawaii,Maui County,Big Box Stores,121.0,"",120.0,11
-2020-03-07,Hawaii,Maui County,Professional & Other Places,102.0,"",102.0,12
-2020-03-07,Hawaii,Maui County,Gas Stations,90.0,"",90.0,13
-2020-03-07,Hawaii,Honolulu County,Shops & Services,74.0,72.0,74.0,1
-2020-03-07,Hawaii,Honolulu County,Food,38.0,32.0,39.0,2
-2020-03-07,Hawaii,Honolulu County,Hotel,60.0,51.0,61.0,3
+2020-03-06,Hawaii,Honolulu County,Bus,81.0,"",81.0,27
+2020-03-07,Hawaii,Honolulu County,Shops & Services,93.0,92.0,93.0,1
+2020-03-07,Hawaii,Honolulu County,Food,93.0,77.0,94.0,2
+2020-03-07,Hawaii,Honolulu County,Hotel,80.0,68.0,81.0,3
 2020-03-07,Hawaii,Honolulu County,Outdoors & Recreation,85.0,78.0,86.0,4
 2020-03-07,Hawaii,Honolulu County,Grocery,92.0,93.0,91.0,5
-2020-03-07,Hawaii,Honolulu County,Airport,59.0,57.0,59.0,6
+2020-03-07,Hawaii,Honolulu County,Airport,95.0,91.0,95.0,6
 2020-03-07,Hawaii,Honolulu County,Fast Food Restaurants,102.0,95.0,102.0,7
-2020-03-07,Hawaii,Honolulu County,Beach,69.0,68.0,69.0,8
-2020-03-07,Hawaii,Honolulu County,Professional & Other Places,20.0,18.0,20.0,9
-2020-03-07,Hawaii,Honolulu County,Arts & Entertainment,73.0,59.0,74.0,10
-2020-03-07,Hawaii,Honolulu County,Nightlife Spots,36.0,27.0,36.0,11
-2020-03-07,Hawaii,Honolulu County,School,56.0,59.0,56.0,12
+2020-03-07,Hawaii,Honolulu County,Beach,87.0,84.0,88.0,8
+2020-03-07,Hawaii,Honolulu County,Professional & Other Places,98.0,89.0,98.0,9
+2020-03-07,Hawaii,Honolulu County,Arts & Entertainment,90.0,74.0,91.0,10
+2020-03-07,Hawaii,Honolulu County,Nightlife Spots,88.0,66.0,88.0,11
+2020-03-07,Hawaii,Honolulu County,School,107.0,112.0,107.0,12
 2020-03-07,Hawaii,Honolulu County,Residences,85.0,80.0,85.0,13
 2020-03-07,Hawaii,Honolulu County,Drug Store,103.0,103.0,103.0,14
-2020-03-07,Hawaii,Honolulu County,Medical,51.0,48.0,51.0,15
+2020-03-07,Hawaii,Honolulu County,Medical,93.0,87.0,94.0,15
 2020-03-07,Hawaii,Honolulu County,Gas Stations,90.0,80.0,90.0,16
-2020-03-07,Hawaii,Honolulu County,Colleges & Universities,59.0,78.0,59.0,17
+2020-03-07,Hawaii,Honolulu County,Colleges & Universities,126.0,166.0,125.0,17
 2020-03-07,Hawaii,Honolulu County,Convenience Store,92.0,90.0,93.0,18
 2020-03-07,Hawaii,Honolulu County,Big Box Stores,100.0,101.0,100.0,19
-2020-03-07,Hawaii,Honolulu County,Government,69.0,74.0,69.0,20
+2020-03-07,Hawaii,Honolulu County,Government,95.0,112.0,95.0,20
 2020-03-07,Hawaii,Honolulu County,Travel & Transport,91.0,81.0,91.0,21
-2020-03-07,Hawaii,Honolulu County,Fitness Center,61.0,"",62.0,22
-2020-03-07,Hawaii,Honolulu County,Sports,31.0,31.0,31.0,23
+2020-03-07,Hawaii,Honolulu County,Fitness Center,94.0,"",94.0,22
+2020-03-07,Hawaii,Honolulu County,Sports,93.0,80.0,93.0,23
 2020-03-07,Hawaii,Honolulu County,Banks,93.0,"",94.0,24
 2020-03-07,Hawaii,Honolulu County,Hardware Stores,95.0,79.0,96.0,25
-2020-03-07,Hawaii,Honolulu County,Office,77.0,"",78.0,26
-2020-03-07,Hawaii,Honolulu County,Bus,77.0,"",77.0,27
-2020-03-07,Hawaii,Hawaii County,Food,41.0,32.0,42.0,1
-2020-03-07,Hawaii,Hawaii County,Shops & Services,58.0,47.0,58.0,2
-2020-03-07,Hawaii,Hawaii County,Hotel,59.0,44.0,60.0,3
-2020-03-07,Hawaii,Hawaii County,Outdoors & Recreation,28.0,25.0,28.0,4
+2020-03-07,Hawaii,Honolulu County,Office,84.0,"",84.0,26
+2020-03-07,Hawaii,Honolulu County,Bus,100.0,"",101.0,27
+2020-03-07,Hawaii,Hawaii County,Food,94.0,73.0,95.0,1
+2020-03-07,Hawaii,Hawaii County,Shops & Services,98.0,84.0,99.0,2
+2020-03-07,Hawaii,Hawaii County,Hotel,88.0,69.0,89.0,3
+2020-03-07,Hawaii,Hawaii County,Outdoors & Recreation,80.0,74.0,81.0,4
 2020-03-07,Hawaii,Hawaii County,Grocery,93.0,97.0,93.0,5
-2020-03-07,Hawaii,Hawaii County,Beach,68.0,"",70.0,6
-2020-03-07,Hawaii,Hawaii County,Airport,68.0,"",70.0,7
-2020-03-07,Hawaii,Hawaii County,Nightlife Spots,79.0,"",80.0,8
+2020-03-07,Hawaii,Hawaii County,Beach,76.0,"",78.0,6
+2020-03-07,Hawaii,Hawaii County,Airport,100.0,"",103.0,7
+2020-03-07,Hawaii,Hawaii County,Nightlife Spots,105.0,"",106.0,8
 2020-03-07,Hawaii,Hawaii County,Big Box Stores,106.0,"",106.0,9
 2020-03-07,Hawaii,Hawaii County,Gas Stations,94.0,"",95.0,10
-2020-03-07,Hawaii,Hawaii County,Travel & Transport,14.0,"",14.0,11
-2020-03-07,Hawaii,Kauai County,Food,40.0,41.0,40.0,1
-2020-03-07,Hawaii,Kauai County,Shops & Services,34.0,35.0,34.0,2
-2020-03-07,Hawaii,Kauai County,Hotel,62.0,63.0,62.0,3
+2020-03-07,Hawaii,Hawaii County,Travel & Transport,122.0,"",123.0,11
+2020-03-07,Hawaii,Maui County,Food,101.0,92.0,102.0,1
+2020-03-07,Hawaii,Maui County,Hotel,96.0,114.0,95.0,2
+2020-03-07,Hawaii,Maui County,Shops & Services,93.0,87.0,93.0,3
+2020-03-07,Hawaii,Maui County,Outdoors & Recreation,89.0,78.0,89.0,4
+2020-03-07,Hawaii,Maui County,Beach,94.0,101.0,94.0,5
+2020-03-07,Hawaii,Maui County,Airport,108.0,79.0,110.0,6
+2020-03-07,Hawaii,Maui County,Grocery,87.0,91.0,87.0,7
+2020-03-07,Hawaii,Maui County,Nightlife Spots,94.0,"",95.0,8
+2020-03-07,Hawaii,Maui County,Arts & Entertainment,100.0,"",100.0,9
+2020-03-07,Hawaii,Maui County,Travel & Transport,71.0,"",73.0,10
+2020-03-07,Hawaii,Maui County,Big Box Stores,121.0,"",120.0,11
+2020-03-07,Hawaii,Maui County,Professional & Other Places,105.0,"",105.0,12
+2020-03-07,Hawaii,Maui County,Gas Stations,90.0,"",90.0,13
+2020-03-07,Hawaii,Kauai County,Food,91.0,93.0,90.0,1
+2020-03-07,Hawaii,Kauai County,Shops & Services,109.0,112.0,108.0,2
+2020-03-07,Hawaii,Kauai County,Hotel,89.0,93.0,89.0,3
 2020-03-07,Hawaii,Kauai County,Outdoors & Recreation,84.0,55.0,87.0,4
-2020-03-07,Hawaii,Kauai County,Beach,74.0,80.0,73.0,5
-2020-03-07,Hawaii,Kauai County,Airport,62.0,78.0,60.0,6
-2020-03-07,Hawaii,Kauai County,Grocery,101.0,92.0,102.0,7
-2020-03-08,Hawaii,Maui County,Food,44.0,39.0,44.0,1
-2020-03-08,Hawaii,Maui County,Hotel,57.0,48.0,58.0,2
-2020-03-08,Hawaii,Maui County,Shops & Services,29.0,29.0,29.0,3
-2020-03-08,Hawaii,Maui County,Outdoors & Recreation,31.0,25.0,31.0,4
-2020-03-08,Hawaii,Maui County,Beach,77.0,63.0,78.0,5
-2020-03-08,Hawaii,Maui County,Airport,69.0,54.0,70.0,6
-2020-03-08,Hawaii,Maui County,Grocery,88.0,76.0,89.0,7
-2020-03-08,Hawaii,Maui County,Travel & Transport,90.0,81.0,91.0,8
-2020-03-08,Hawaii,Maui County,Nightlife Spots,76.0,"",78.0,9
-2020-03-08,Hawaii,Maui County,Arts & Entertainment,111.0,"",112.0,10
-2020-03-08,Hawaii,Kauai County,Food,81.0,71.0,82.0,1
-2020-03-08,Hawaii,Kauai County,Shops & Services,61.0,57.0,62.0,2
-2020-03-08,Hawaii,Kauai County,Hotel,61.0,48.0,62.0,3
-2020-03-08,Hawaii,Kauai County,Outdoors & Recreation,75.0,49.0,77.0,4
-2020-03-08,Hawaii,Kauai County,Beach,77.0,58.0,78.0,5
-2020-03-08,Hawaii,Kauai County,Airport,68.0,75.0,68.0,6
-2020-03-08,Hawaii,Kauai County,Grocery,96.0,"",98.0,7
-2020-03-08,Hawaii,Kauai County,Travel & Transport,13.0,"",13.0,8
-2020-03-08,Hawaii,Hawaii County,Food,38.0,30.0,38.0,1
-2020-03-08,Hawaii,Hawaii County,Shops & Services,51.0,32.0,52.0,2
-2020-03-08,Hawaii,Hawaii County,Outdoors & Recreation,28.0,25.0,28.0,2
-2020-03-08,Hawaii,Hawaii County,Hotel,53.0,36.0,55.0,3
-2020-03-08,Hawaii,Hawaii County,Grocery,98.0,63.0,100.0,4
-2020-03-08,Hawaii,Hawaii County,Beach,75.0,49.0,76.0,5
-2020-03-08,Hawaii,Hawaii County,Airport,55.0,"",57.0,6
-2020-03-08,Hawaii,Hawaii County,Nightlife Spots,68.0,"",69.0,7
-2020-03-08,Hawaii,Hawaii County,Big Box Stores,87.0,"",88.0,8
-2020-03-08,Hawaii,Hawaii County,Gas Stations,91.0,"",93.0,9
-2020-03-08,Hawaii,Hawaii County,Travel & Transport,11.0,"",11.0,10
-2020-03-08,Hawaii,Honolulu County,Shops & Services,35.0,34.0,35.0,1
-2020-03-08,Hawaii,Honolulu County,Food,40.0,38.0,40.0,2
+2020-03-07,Hawaii,Kauai County,Beach,78.0,87.0,78.0,5
+2020-03-07,Hawaii,Kauai County,Airport,90.0,116.0,88.0,6
+2020-03-07,Hawaii,Kauai County,Grocery,101.0,91.0,102.0,7
+2020-03-08,Hawaii,Honolulu County,Shops & Services,97.0,98.0,97.0,1
+2020-03-08,Hawaii,Honolulu County,Food,96.0,92.0,96.0,2
 2020-03-08,Hawaii,Honolulu County,Outdoors & Recreation,97.0,88.0,98.0,3
-2020-03-08,Hawaii,Honolulu County,Hotel,63.0,68.0,63.0,4
+2020-03-08,Hawaii,Honolulu County,Hotel,85.0,89.0,84.0,4
 2020-03-08,Hawaii,Honolulu County,Grocery,92.0,87.0,92.0,5
-2020-03-08,Hawaii,Honolulu County,Airport,55.0,45.0,55.0,6
-2020-03-08,Hawaii,Honolulu County,Beach,65.0,61.0,66.0,7
+2020-03-08,Hawaii,Honolulu County,Airport,88.0,72.0,89.0,6
+2020-03-08,Hawaii,Honolulu County,Beach,83.0,77.0,83.0,7
 2020-03-08,Hawaii,Honolulu County,Fast Food Restaurants,97.0,97.0,97.0,8
-2020-03-08,Hawaii,Honolulu County,Nightlife Spots,39.0,33.0,40.0,9
-2020-03-08,Hawaii,Honolulu County,Arts & Entertainment,78.0,69.0,78.0,10
-2020-03-08,Hawaii,Honolulu County,Professional & Other Places,22.0,17.0,22.0,11
+2020-03-08,Hawaii,Honolulu County,Nightlife Spots,96.0,80.0,96.0,9
+2020-03-08,Hawaii,Honolulu County,Arts & Entertainment,95.0,86.0,95.0,10
+2020-03-08,Hawaii,Honolulu County,Professional & Other Places,104.0,89.0,104.0,11
 2020-03-08,Hawaii,Honolulu County,Residences,94.0,88.0,94.0,12
 2020-03-08,Hawaii,Honolulu County,Drug Store,104.0,106.0,104.0,13
-2020-03-08,Hawaii,Honolulu County,School,50.0,49.0,50.0,14
+2020-03-08,Hawaii,Honolulu County,School,95.0,94.0,95.0,14
 2020-03-08,Hawaii,Honolulu County,Big Box Stores,107.0,127.0,107.0,15
 2020-03-08,Hawaii,Honolulu County,Gas Stations,98.0,92.0,98.0,16
 2020-03-08,Hawaii,Honolulu County,Convenience Store,92.0,88.0,92.0,17
 2020-03-08,Hawaii,Honolulu County,Travel & Transport,103.0,146.0,101.0,18
-2020-03-08,Hawaii,Honolulu County,Sports,33.0,32.0,33.0,19
-2020-03-08,Hawaii,Honolulu County,Government,79.0,"",79.0,20
-2020-03-08,Hawaii,Honolulu County,Fitness Center,74.0,"",74.0,21
-2020-03-08,Hawaii,Honolulu County,Colleges & Universities,44.0,"",44.0,22
+2020-03-08,Hawaii,Honolulu County,Sports,88.0,74.0,89.0,19
+2020-03-08,Hawaii,Honolulu County,Government,115.0,"",114.0,20
+2020-03-08,Hawaii,Honolulu County,Fitness Center,112.0,"",112.0,21
+2020-03-08,Hawaii,Honolulu County,Colleges & Universities,99.0,"",98.0,22
 2020-03-08,Hawaii,Honolulu County,Hardware Stores,108.0,117.0,108.0,23
-2020-03-08,Hawaii,Honolulu County,Medical,46.0,"",46.0,24
-2020-03-08,Hawaii,Honolulu County,Bus,77.0,"",77.0,25
-2020-03-08,Hawaii,Honolulu County,Banks,95.0,"",95.0,25
-2020-03-08,Hawaii,Honolulu County,Office,71.0,"",71.0,26
-2020-03-09,Hawaii,Hawaii County,Food,76.0,57.0,77.0,1
-2020-03-09,Hawaii,Hawaii County,Hotel,64.0,49.0,65.0,2
-2020-03-09,Hawaii,Hawaii County,Shops & Services,24.0,14.0,24.0,3
-2020-03-09,Hawaii,Hawaii County,Outdoors & Recreation,31.0,21.0,31.0,4
-2020-03-09,Hawaii,Hawaii County,Beach,78.0,86.0,78.0,5
-2020-03-09,Hawaii,Hawaii County,Grocery,89.0,79.0,90.0,6
-2020-03-09,Hawaii,Hawaii County,Airport,56.0,"",57.0,7
-2020-03-09,Hawaii,Hawaii County,Gas Stations,103.0,"",105.0,8
-2020-03-09,Hawaii,Hawaii County,Nightlife Spots,70.0,"",72.0,9
-2020-03-09,Hawaii,Hawaii County,Big Box Stores,104.0,"",107.0,10
-2020-03-09,Hawaii,Honolulu County,Shops & Services,35.0,32.0,35.0,1
-2020-03-09,Hawaii,Honolulu County,Food,38.0,37.0,38.0,2
+2020-03-08,Hawaii,Honolulu County,Medical,86.0,"",86.0,24
+2020-03-08,Hawaii,Honolulu County,Bus,100.0,"",100.0,25
+2020-03-08,Hawaii,Honolulu County,Banks,95.0,"",95.0,26
+2020-03-08,Hawaii,Honolulu County,Office,80.0,"",80.0,27
+2020-03-08,Hawaii,Maui County,Food,99.0,86.0,100.0,1
+2020-03-08,Hawaii,Maui County,Hotel,94.0,81.0,95.0,2
+2020-03-08,Hawaii,Maui County,Shops & Services,96.0,95.0,96.0,3
+2020-03-08,Hawaii,Maui County,Outdoors & Recreation,102.0,90.0,102.0,4
+2020-03-08,Hawaii,Maui County,Beach,89.0,73.0,90.0,5
+2020-03-08,Hawaii,Maui County,Airport,100.0,80.0,102.0,6
+2020-03-08,Hawaii,Maui County,Grocery,88.0,76.0,89.0,7
+2020-03-08,Hawaii,Maui County,Travel & Transport,90.0,81.0,91.0,8
+2020-03-08,Hawaii,Maui County,Nightlife Spots,106.0,"",108.0,9
+2020-03-08,Hawaii,Maui County,Arts & Entertainment,120.0,"",121.0,10
+2020-03-08,Hawaii,Kauai County,Food,94.0,82.0,95.0,1
+2020-03-08,Hawaii,Kauai County,Shops & Services,86.0,82.0,86.0,2
+2020-03-08,Hawaii,Kauai County,Hotel,89.0,70.0,90.0,3
+2020-03-08,Hawaii,Kauai County,Outdoors & Recreation,75.0,49.0,77.0,4
+2020-03-08,Hawaii,Kauai County,Beach,81.0,64.0,82.0,5
+2020-03-08,Hawaii,Kauai County,Airport,100.0,110.0,99.0,6
+2020-03-08,Hawaii,Kauai County,Grocery,96.0,"",98.0,7
+2020-03-08,Hawaii,Kauai County,Travel & Transport,85.0,"",84.0,8
+2020-03-08,Hawaii,Hawaii County,Food,85.0,66.0,86.0,1
+2020-03-08,Hawaii,Hawaii County,Shops & Services,86.0,54.0,88.0,2
+2020-03-08,Hawaii,Hawaii County,Outdoors & Recreation,78.0,78.0,78.0,3
+2020-03-08,Hawaii,Hawaii County,Hotel,78.0,56.0,80.0,4
+2020-03-08,Hawaii,Hawaii County,Grocery,98.0,63.0,100.0,5
+2020-03-08,Hawaii,Hawaii County,Beach,83.0,55.0,85.0,6
+2020-03-08,Hawaii,Hawaii County,Airport,81.0,"",83.0,7
+2020-03-08,Hawaii,Hawaii County,Nightlife Spots,91.0,"",93.0,8
+2020-03-08,Hawaii,Hawaii County,Big Box Stores,87.0,"",88.0,9
+2020-03-08,Hawaii,Hawaii County,Gas Stations,91.0,"",93.0,10
+2020-03-08,Hawaii,Hawaii County,Travel & Transport,86.0,"",89.0,11
+2020-03-09,Hawaii,Honolulu County,Shops & Services,98.0,91.0,98.0,1
+2020-03-09,Hawaii,Honolulu County,Food,92.0,90.0,92.0,2
 2020-03-09,Hawaii,Honolulu County,Outdoors & Recreation,93.0,87.0,93.0,3
-2020-03-09,Hawaii,Honolulu County,Hotel,63.0,55.0,63.0,4
+2020-03-09,Hawaii,Honolulu County,Hotel,85.0,75.0,85.0,4
 2020-03-09,Hawaii,Honolulu County,Grocery,98.0,96.0,98.0,5
-2020-03-09,Hawaii,Honolulu County,Airport,53.0,51.0,53.0,6
-2020-03-09,Hawaii,Honolulu County,Beach,73.0,81.0,73.0,7
-2020-03-09,Hawaii,Honolulu County,Professional & Other Places,20.0,18.0,21.0,8
+2020-03-09,Hawaii,Honolulu County,Airport,86.0,82.0,86.0,6
+2020-03-09,Hawaii,Honolulu County,Beach,91.0,100.0,91.0,7
+2020-03-09,Hawaii,Honolulu County,Professional & Other Places,105.0,96.0,106.0,8
 2020-03-09,Hawaii,Honolulu County,Fast Food Restaurants,102.0,98.0,103.0,9
-2020-03-09,Hawaii,Honolulu County,Arts & Entertainment,77.0,64.0,77.0,10
-2020-03-09,Hawaii,Honolulu County,Government,90.0,87.0,91.0,11
+2020-03-09,Hawaii,Honolulu County,Arts & Entertainment,93.0,77.0,93.0,10
+2020-03-09,Hawaii,Honolulu County,Government,120.0,126.0,120.0,11
 2020-03-09,Hawaii,Honolulu County,Residences,92.0,83.0,92.0,12
-2020-03-09,Hawaii,Honolulu County,Nightlife Spots,39.0,44.0,38.0,13
-2020-03-09,Hawaii,Honolulu County,Medical,55.0,53.0,55.0,14
-2020-03-09,Hawaii,Honolulu County,School,60.0,64.0,60.0,15
+2020-03-09,Hawaii,Honolulu County,Nightlife Spots,93.0,106.0,93.0,13
+2020-03-09,Hawaii,Honolulu County,Medical,101.0,97.0,101.0,14
+2020-03-09,Hawaii,Honolulu County,School,112.0,119.0,112.0,15
 2020-03-09,Hawaii,Honolulu County,Drug Store,105.0,118.0,105.0,16
 2020-03-09,Hawaii,Honolulu County,Gas Stations,102.0,114.0,102.0,17
 2020-03-09,Hawaii,Honolulu County,Big Box Stores,113.0,117.0,113.0,18
 2020-03-09,Hawaii,Honolulu County,Convenience Store,96.0,93.0,96.0,19
 2020-03-09,Hawaii,Honolulu County,Travel & Transport,120.0,152.0,119.0,20
-2020-03-09,Hawaii,Honolulu County,Colleges & Universities,97.0,"",98.0,21
-2020-03-09,Hawaii,Honolulu County,Fitness Center,78.0,66.0,79.0,22
-2020-03-09,Hawaii,Honolulu County,Sports,33.0,36.0,32.0,23
-2020-03-09,Hawaii,Honolulu County,Office,79.0,"",79.0,24
+2020-03-09,Hawaii,Honolulu County,Colleges & Universities,108.0,"",108.0,21
+2020-03-09,Hawaii,Honolulu County,Fitness Center,120.0,105.0,120.0,22
+2020-03-09,Hawaii,Honolulu County,Sports,95.0,94.0,96.0,23
+2020-03-09,Hawaii,Honolulu County,Office,85.0,"",85.0,24
 2020-03-09,Hawaii,Honolulu County,Hardware Stores,98.0,104.0,98.0,25
 2020-03-09,Hawaii,Honolulu County,Banks,115.0,"",115.0,26
-2020-03-09,Hawaii,Honolulu County,Bus,74.0,"",74.0,27
-2020-03-09,Hawaii,Kauai County,Food,82.0,79.0,82.0,1
-2020-03-09,Hawaii,Kauai County,Shops & Services,75.0,81.0,74.0,2
-2020-03-09,Hawaii,Kauai County,Hotel,63.0,62.0,63.0,3
-2020-03-09,Hawaii,Kauai County,Outdoors & Recreation,82.0,85.0,82.0,4
-2020-03-09,Hawaii,Kauai County,Beach,82.0,84.0,82.0,5
-2020-03-09,Hawaii,Kauai County,Airport,64.0,"",64.0,6
-2020-03-09,Hawaii,Kauai County,Grocery,115.0,119.0,114.0,7
-2020-03-09,Hawaii,Maui County,Food,45.0,39.0,46.0,1
-2020-03-09,Hawaii,Maui County,Hotel,63.0,52.0,64.0,2
-2020-03-09,Hawaii,Maui County,Shops & Services,31.0,26.0,31.0,3
-2020-03-09,Hawaii,Maui County,Outdoors & Recreation,36.0,31.0,36.0,4
-2020-03-09,Hawaii,Maui County,Beach,89.0,81.0,89.0,5
-2020-03-09,Hawaii,Maui County,Airport,70.0,51.0,71.0,6
+2020-03-09,Hawaii,Honolulu County,Bus,93.0,"",93.0,27
+2020-03-09,Hawaii,Maui County,Food,102.0,88.0,103.0,1
+2020-03-09,Hawaii,Maui County,Hotel,103.0,87.0,104.0,2
+2020-03-09,Hawaii,Maui County,Shops & Services,100.0,85.0,101.0,3
+2020-03-09,Hawaii,Maui County,Outdoors & Recreation,115.0,108.0,116.0,4
+2020-03-09,Hawaii,Maui County,Beach,103.0,93.0,103.0,5
+2020-03-09,Hawaii,Maui County,Airport,103.0,77.0,105.0,6
 2020-03-09,Hawaii,Maui County,Grocery,103.0,93.0,104.0,7
 2020-03-09,Hawaii,Maui County,Travel & Transport,98.0,102.0,98.0,8
-2020-03-09,Hawaii,Maui County,Nightlife Spots,70.0,"",71.0,9
-2020-03-09,Hawaii,Maui County,Arts & Entertainment,105.0,143.0,102.0,10
+2020-03-09,Hawaii,Maui County,Nightlife Spots,95.0,"",96.0,9
+2020-03-09,Hawaii,Maui County,Arts & Entertainment,106.0,147.0,104.0,10
 2020-03-09,Hawaii,Maui County,Gas Stations,123.0,"",122.0,11
 2020-03-09,Hawaii,Maui County,Residences,109.0,"",111.0,12
-2020-03-10,Hawaii,Kauai County,Food,37.0,32.0,37.0,1
-2020-03-10,Hawaii,Kauai County,Shops & Services,62.0,52.0,64.0,2
-2020-03-10,Hawaii,Kauai County,Hotel,57.0,51.0,57.0,3
+2020-03-09,Hawaii,Hawaii County,Food,87.0,64.0,89.0,1
+2020-03-09,Hawaii,Hawaii County,Hotel,94.0,75.0,96.0,2
+2020-03-09,Hawaii,Hawaii County,Shops & Services,95.0,54.0,98.0,3
+2020-03-09,Hawaii,Hawaii County,Outdoors & Recreation,87.0,62.0,88.0,4
+2020-03-09,Hawaii,Hawaii County,Beach,89.0,97.0,88.0,5
+2020-03-09,Hawaii,Hawaii County,Grocery,89.0,79.0,90.0,6
+2020-03-09,Hawaii,Hawaii County,Airport,85.0,"",86.0,7
+2020-03-09,Hawaii,Hawaii County,Gas Stations,103.0,"",105.0,8
+2020-03-09,Hawaii,Hawaii County,Nightlife Spots,91.0,"",93.0,9
+2020-03-09,Hawaii,Hawaii County,Big Box Stores,104.0,"",107.0,10
+2020-03-09,Hawaii,Kauai County,Food,95.0,90.0,96.0,1
+2020-03-09,Hawaii,Kauai County,Shops & Services,101.0,113.0,100.0,2
+2020-03-09,Hawaii,Kauai County,Hotel,93.0,94.0,93.0,3
+2020-03-09,Hawaii,Kauai County,Outdoors & Recreation,82.0,85.0,82.0,4
+2020-03-09,Hawaii,Kauai County,Beach,86.0,89.0,86.0,5
+2020-03-09,Hawaii,Kauai County,Airport,95.0,"",95.0,6
+2020-03-09,Hawaii,Kauai County,Grocery,115.0,117.0,115.0,7
+2020-03-10,Hawaii,Hawaii County,Food,80.0,60.0,82.0,1
+2020-03-10,Hawaii,Hawaii County,Shops & Services,90.0,88.0,90.0,2
+2020-03-10,Hawaii,Hawaii County,Outdoors & Recreation,78.0,51.0,80.0,3
+2020-03-10,Hawaii,Hawaii County,Hotel,78.0,49.0,80.0,4
+2020-03-10,Hawaii,Hawaii County,Grocery,85.0,79.0,86.0,5
+2020-03-10,Hawaii,Hawaii County,Airport,88.0,75.0,88.0,6
+2020-03-10,Hawaii,Hawaii County,Beach,68.0,"",70.0,7
+2020-03-10,Hawaii,Hawaii County,Nightlife Spots,87.0,"",88.0,8
+2020-03-10,Hawaii,Hawaii County,Gas Stations,71.0,"",72.0,9
+2020-03-10,Hawaii,Hawaii County,Big Box Stores,90.0,"",91.0,10
+2020-03-10,Hawaii,Hawaii County,Travel & Transport,74.0,"",76.0,11
+2020-03-10,Hawaii,Maui County,Food,96.0,76.0,97.0,1
+2020-03-10,Hawaii,Maui County,Hotel,97.0,63.0,100.0,2
+2020-03-10,Hawaii,Maui County,Shops & Services,89.0,72.0,91.0,3
+2020-03-10,Hawaii,Maui County,Outdoors & Recreation,92.0,76.0,93.0,4
+2020-03-10,Hawaii,Maui County,Beach,101.0,79.0,102.0,5
+2020-03-10,Hawaii,Maui County,Airport,106.0,80.0,108.0,6
+2020-03-10,Hawaii,Maui County,Grocery,92.0,84.0,93.0,7
+2020-03-10,Hawaii,Maui County,Travel & Transport,108.0,115.0,107.0,8
+2020-03-10,Hawaii,Maui County,Nightlife Spots,97.0,"",99.0,9
+2020-03-10,Hawaii,Maui County,Arts & Entertainment,89.0,"",91.0,10
+2020-03-10,Hawaii,Kauai County,Food,83.0,72.0,84.0,1
+2020-03-10,Hawaii,Kauai County,Shops & Services,86.0,72.0,88.0,2
+2020-03-10,Hawaii,Kauai County,Hotel,83.0,74.0,84.0,3
 2020-03-10,Hawaii,Kauai County,Outdoors & Recreation,84.0,85.0,84.0,4
-2020-03-10,Hawaii,Kauai County,Beach,87.0,55.0,90.0,5
+2020-03-10,Hawaii,Kauai County,Beach,93.0,61.0,95.0,5
 2020-03-10,Hawaii,Kauai County,Grocery,103.0,106.0,103.0,6
-2020-03-10,Hawaii,Kauai County,Airport,52.0,"",53.0,7
-2020-03-10,Hawaii,Honolulu County,Shops & Services,33.0,34.0,33.0,1
-2020-03-10,Hawaii,Honolulu County,Food,37.0,35.0,37.0,2
+2020-03-10,Hawaii,Kauai County,Airport,76.0,"",77.0,7
+2020-03-10,Hawaii,Honolulu County,Shops & Services,94.0,98.0,93.0,1
+2020-03-10,Hawaii,Honolulu County,Food,89.0,85.0,89.0,2
 2020-03-10,Hawaii,Honolulu County,Outdoors & Recreation,105.0,104.0,105.0,3
-2020-03-10,Hawaii,Honolulu County,Hotel,60.0,47.0,61.0,4
+2020-03-10,Hawaii,Honolulu County,Hotel,81.0,63.0,81.0,4
 2020-03-10,Hawaii,Honolulu County,Grocery,97.0,88.0,97.0,5
-2020-03-10,Hawaii,Honolulu County,Airport,50.0,32.0,50.0,6
-2020-03-10,Hawaii,Honolulu County,Professional & Other Places,17.0,16.0,17.0,7
-2020-03-10,Hawaii,Honolulu County,Beach,72.0,62.0,72.0,8
-2020-03-10,Hawaii,Honolulu County,School,57.0,51.0,57.0,9
-2020-03-10,Hawaii,Honolulu County,Medical,54.0,52.0,54.0,10
-2020-03-10,Hawaii,Honolulu County,Government,77.0,70.0,77.0,11
+2020-03-10,Hawaii,Honolulu County,Airport,80.0,53.0,81.0,6
+2020-03-10,Hawaii,Honolulu County,Professional & Other Places,95.0,92.0,95.0,7
+2020-03-10,Hawaii,Honolulu County,Beach,92.0,81.0,92.0,8
+2020-03-10,Hawaii,Honolulu County,School,107.0,96.0,107.0,9
+2020-03-10,Hawaii,Honolulu County,Medical,98.0,95.0,98.0,10
+2020-03-10,Hawaii,Honolulu County,Government,98.0,100.0,98.0,11
 2020-03-10,Hawaii,Honolulu County,Fast Food Restaurants,103.0,97.0,103.0,12
 2020-03-10,Hawaii,Honolulu County,Residences,92.0,86.0,93.0,13
-2020-03-10,Hawaii,Honolulu County,Nightlife Spots,38.0,36.0,38.0,14
-2020-03-10,Hawaii,Honolulu County,Arts & Entertainment,37.0,48.0,37.0,15
+2020-03-10,Hawaii,Honolulu County,Nightlife Spots,92.0,88.0,92.0,14
+2020-03-10,Hawaii,Honolulu County,Arts & Entertainment,85.0,108.0,84.0,15
 2020-03-10,Hawaii,Honolulu County,Drug Store,102.0,115.0,101.0,16
-2020-03-10,Hawaii,Honolulu County,Colleges & Universities,46.0,"",46.0,17
+2020-03-10,Hawaii,Honolulu County,Colleges & Universities,96.0,"",96.0,17
 2020-03-10,Hawaii,Honolulu County,Gas Stations,96.0,87.0,96.0,18
-2020-03-10,Hawaii,Honolulu County,Fitness Center,62.0,64.0,62.0,19
+2020-03-10,Hawaii,Honolulu County,Fitness Center,96.0,103.0,96.0,19
 2020-03-10,Hawaii,Honolulu County,Convenience Store,93.0,88.0,93.0,20
 2020-03-10,Hawaii,Honolulu County,Big Box Stores,107.0,102.0,107.0,21
 2020-03-10,Hawaii,Honolulu County,Travel & Transport,93.0,103.0,92.0,22
-2020-03-10,Hawaii,Honolulu County,Office,75.0,"",76.0,23
-2020-03-10,Hawaii,Honolulu County,Sports,30.0,33.0,30.0,24
+2020-03-10,Hawaii,Honolulu County,Office,82.0,"",82.0,23
+2020-03-10,Hawaii,Honolulu County,Sports,104.0,91.0,105.0,24
 2020-03-10,Hawaii,Honolulu County,Banks,95.0,115.0,94.0,25
-2020-03-10,Hawaii,Honolulu County,Bus,76.0,"",75.0,26
+2020-03-10,Hawaii,Honolulu County,Bus,95.0,"",95.0,26
 2020-03-10,Hawaii,Honolulu County,Hardware Stores,89.0,85.0,90.0,27
-2020-03-10,Hawaii,Hawaii County,Food,69.0,53.0,70.0,1
-2020-03-10,Hawaii,Hawaii County,Shops & Services,23.0,22.0,23.0,2
-2020-03-10,Hawaii,Hawaii County,Outdoors & Recreation,78.0,51.0,80.0,3
-2020-03-10,Hawaii,Hawaii County,Hotel,52.0,32.0,54.0,4
-2020-03-10,Hawaii,Hawaii County,Grocery,85.0,79.0,86.0,5
-2020-03-10,Hawaii,Hawaii County,Airport,59.0,51.0,59.0,6
-2020-03-10,Hawaii,Hawaii County,Beach,60.0,"",62.0,7
-2020-03-10,Hawaii,Hawaii County,Nightlife Spots,64.0,"",65.0,8
-2020-03-10,Hawaii,Hawaii County,Gas Stations,71.0,"",72.0,9
-2020-03-10,Hawaii,Hawaii County,Big Box Stores,90.0,"",91.0,10
-2020-03-10,Hawaii,Hawaii County,Travel & Transport,10.0,"",11.0,11
-2020-03-10,Hawaii,Maui County,Food,42.0,33.0,43.0,1
-2020-03-10,Hawaii,Maui County,Hotel,59.0,37.0,60.0,2
-2020-03-10,Hawaii,Maui County,Shops & Services,28.0,23.0,29.0,3
-2020-03-10,Hawaii,Maui County,Outdoors & Recreation,28.0,21.0,29.0,4
-2020-03-10,Hawaii,Maui County,Beach,86.0,69.0,87.0,5
-2020-03-10,Hawaii,Maui County,Airport,74.0,56.0,75.0,6
-2020-03-10,Hawaii,Maui County,Grocery,92.0,84.0,93.0,7
-2020-03-10,Hawaii,Maui County,Travel & Transport,108.0,115.0,107.0,8
-2020-03-10,Hawaii,Maui County,Nightlife Spots,69.0,"",71.0,9
-2020-03-10,Hawaii,Maui County,Arts & Entertainment,79.0,"",81.0,10
-2020-03-11,Hawaii,Kauai County,Food,41.0,36.0,42.0,1
-2020-03-11,Hawaii,Kauai County,Shops & Services,68.0,50.0,70.0,2
-2020-03-11,Hawaii,Kauai County,Hotel,68.0,59.0,69.0,3
-2020-03-11,Hawaii,Kauai County,Outdoors & Recreation,30.0,28.0,30.0,4
-2020-03-11,Hawaii,Kauai County,Beach,103.0,77.0,105.0,5
-2020-03-11,Hawaii,Kauai County,Airport,60.0,"",62.0,6
+2020-03-11,Hawaii,Kauai County,Food,92.0,82.0,93.0,1
+2020-03-11,Hawaii,Kauai County,Shops & Services,93.0,68.0,96.0,2
+2020-03-11,Hawaii,Kauai County,Hotel,99.0,88.0,100.0,3
+2020-03-11,Hawaii,Kauai County,Outdoors & Recreation,96.0,92.0,96.0,4
+2020-03-11,Hawaii,Kauai County,Beach,108.0,84.0,110.0,5
+2020-03-11,Hawaii,Kauai County,Airport,86.0,"",88.0,6
 2020-03-11,Hawaii,Kauai County,Grocery,99.0,"",100.0,7
-2020-03-11,Hawaii,Honolulu County,Shops & Services,33.0,32.0,33.0,1
-2020-03-11,Hawaii,Honolulu County,Food,37.0,33.0,37.0,2
-2020-03-11,Hawaii,Honolulu County,Outdoors & Recreation,31.0,28.0,31.0,3
-2020-03-11,Hawaii,Honolulu County,Hotel,61.0,54.0,61.0,4
+2020-03-11,Hawaii,Maui County,Food,96.0,69.0,98.0,1
+2020-03-11,Hawaii,Maui County,Hotel,94.0,63.0,96.0,2
+2020-03-11,Hawaii,Maui County,Shops & Services,100.0,75.0,102.0,3
+2020-03-11,Hawaii,Maui County,Outdoors & Recreation,98.0,67.0,101.0,4
+2020-03-11,Hawaii,Maui County,Beach,92.0,57.0,95.0,5
+2020-03-11,Hawaii,Maui County,Airport,100.0,72.0,102.0,6
+2020-03-11,Hawaii,Maui County,Grocery,92.0,75.0,93.0,7
+2020-03-11,Hawaii,Maui County,Travel & Transport,107.0,"",109.0,8
+2020-03-11,Hawaii,Maui County,Nightlife Spots,92.0,96.0,92.0,9
+2020-03-11,Hawaii,Maui County,Arts & Entertainment,96.0,"",97.0,10
+2020-03-11,Hawaii,Maui County,Gas Stations,103.0,"",106.0,11
+2020-03-11,Hawaii,Hawaii County,Food,84.0,73.0,84.0,1
+2020-03-11,Hawaii,Hawaii County,Shops & Services,84.0,69.0,86.0,2
+2020-03-11,Hawaii,Hawaii County,Hotel,87.0,68.0,89.0,3
+2020-03-11,Hawaii,Hawaii County,Outdoors & Recreation,88.0,84.0,88.0,4
+2020-03-11,Hawaii,Hawaii County,Beach,83.0,70.0,84.0,5
+2020-03-11,Hawaii,Hawaii County,Grocery,87.0,77.0,88.0,6
+2020-03-11,Hawaii,Hawaii County,Airport,73.0,63.0,74.0,7
+2020-03-11,Hawaii,Hawaii County,Travel & Transport,103.0,129.0,100.0,8
+2020-03-11,Hawaii,Hawaii County,Gas Stations,99.0,93.0,100.0,9
+2020-03-11,Hawaii,Hawaii County,Nightlife Spots,97.0,"",99.0,10
+2020-03-11,Hawaii,Hawaii County,Big Box Stores,100.0,"",103.0,11
+2020-03-11,Hawaii,Honolulu County,Shops & Services,92.0,92.0,92.0,1
+2020-03-11,Hawaii,Honolulu County,Food,89.0,80.0,89.0,2
+2020-03-11,Hawaii,Honolulu County,Outdoors & Recreation,93.0,86.0,94.0,3
+2020-03-11,Hawaii,Honolulu County,Hotel,81.0,73.0,81.0,4
 2020-03-11,Hawaii,Honolulu County,Grocery,99.0,92.0,99.0,5
-2020-03-11,Hawaii,Honolulu County,Airport,57.0,55.0,57.0,6
-2020-03-11,Hawaii,Honolulu County,Professional & Other Places,17.0,17.0,17.0,7
-2020-03-11,Hawaii,Honolulu County,School,56.0,65.0,56.0,8
-2020-03-11,Hawaii,Honolulu County,Medical,53.0,56.0,53.0,9
-2020-03-11,Hawaii,Honolulu County,Government,74.0,81.0,74.0,10
-2020-03-11,Hawaii,Honolulu County,Beach,72.0,65.0,73.0,11
+2020-03-11,Hawaii,Honolulu County,Airport,92.0,89.0,92.0,6
+2020-03-11,Hawaii,Honolulu County,Professional & Other Places,94.0,95.0,94.0,7
+2020-03-11,Hawaii,Honolulu County,School,105.0,120.0,104.0,8
+2020-03-11,Hawaii,Honolulu County,Medical,97.0,103.0,96.0,9
+2020-03-11,Hawaii,Honolulu County,Government,95.0,115.0,94.0,10
+2020-03-11,Hawaii,Honolulu County,Beach,92.0,83.0,92.0,11
 2020-03-11,Hawaii,Honolulu County,Fast Food Restaurants,96.0,97.0,96.0,12
 2020-03-11,Hawaii,Honolulu County,Residences,92.0,87.0,92.0,13
-2020-03-11,Hawaii,Honolulu County,Arts & Entertainment,73.0,51.0,74.0,14
-2020-03-11,Hawaii,Honolulu County,Nightlife Spots,35.0,26.0,35.0,15
+2020-03-11,Hawaii,Honolulu County,Arts & Entertainment,90.0,63.0,91.0,14
+2020-03-11,Hawaii,Honolulu County,Nightlife Spots,84.0,62.0,85.0,15
 2020-03-11,Hawaii,Honolulu County,Gas Stations,93.0,101.0,92.0,16
-2020-03-11,Hawaii,Honolulu County,Fitness Center,68.0,57.0,69.0,17
-2020-03-11,Hawaii,Honolulu County,Colleges & Universities,42.0,37.0,42.0,18
+2020-03-11,Hawaii,Honolulu County,Fitness Center,106.0,86.0,106.0,17
+2020-03-11,Hawaii,Honolulu County,Colleges & Universities,89.0,76.0,89.0,18
 2020-03-11,Hawaii,Honolulu County,Drug Store,92.0,91.0,92.0,19
 2020-03-11,Hawaii,Honolulu County,Convenience Store,85.0,91.0,85.0,20
 2020-03-11,Hawaii,Honolulu County,Travel & Transport,108.0,97.0,108.0,21
-2020-03-11,Hawaii,Honolulu County,Sports,33.0,44.0,32.0,22
-2020-03-11,Hawaii,Honolulu County,Office,72.0,84.0,72.0,23
+2020-03-11,Hawaii,Honolulu County,Sports,114.0,130.0,113.0,22
+2020-03-11,Hawaii,Honolulu County,Office,77.0,90.0,77.0,23
 2020-03-11,Hawaii,Honolulu County,Big Box Stores,91.0,"",91.0,24
 2020-03-11,Hawaii,Honolulu County,Banks,91.0,"",91.0,25
-2020-03-11,Hawaii,Honolulu County,Bus,68.0,"",68.0,26
+2020-03-11,Hawaii,Honolulu County,Bus,86.0,"",86.0,26
 2020-03-11,Hawaii,Honolulu County,Hardware Stores,87.0,85.0,87.0,27
-2020-03-11,Hawaii,Hawaii County,Food,37.0,33.0,37.0,1
-2020-03-11,Hawaii,Hawaii County,Shops & Services,22.0,18.0,22.0,2
-2020-03-11,Hawaii,Hawaii County,Hotel,59.0,45.0,60.0,3
-2020-03-11,Hawaii,Hawaii County,Outdoors & Recreation,30.0,26.0,30.0,4
-2020-03-11,Hawaii,Hawaii County,Beach,74.0,64.0,75.0,5
-2020-03-11,Hawaii,Hawaii County,Grocery,87.0,77.0,88.0,6
-2020-03-11,Hawaii,Hawaii County,Airport,50.0,43.0,50.0,7
-2020-03-11,Hawaii,Hawaii County,Travel & Transport,15.0,17.0,14.0,8
-2020-03-11,Hawaii,Hawaii County,Gas Stations,99.0,93.0,100.0,9
-2020-03-11,Hawaii,Hawaii County,Nightlife Spots,73.0,"",75.0,10
-2020-03-11,Hawaii,Hawaii County,Big Box Stores,100.0,"",103.0,11
-2020-03-11,Hawaii,Maui County,Food,42.0,31.0,43.0,1
-2020-03-11,Hawaii,Maui County,Hotel,57.0,38.0,59.0,2
-2020-03-11,Hawaii,Maui County,Shops & Services,31.0,24.0,32.0,3
-2020-03-11,Hawaii,Maui County,Outdoors & Recreation,30.0,19.0,31.0,4
-2020-03-11,Hawaii,Maui County,Beach,80.0,49.0,83.0,5
-2020-03-11,Hawaii,Maui County,Airport,69.0,48.0,71.0,6
-2020-03-11,Hawaii,Maui County,Grocery,92.0,75.0,93.0,7
-2020-03-11,Hawaii,Maui County,Travel & Transport,107.0,"",109.0,8
-2020-03-11,Hawaii,Maui County,Nightlife Spots,66.0,66.0,66.0,9
-2020-03-11,Hawaii,Maui County,Arts & Entertainment,91.0,"",92.0,10
-2020-03-11,Hawaii,Maui County,Gas Stations,103.0,"",106.0,11
-2020-03-12,Hawaii,Honolulu County,Shops & Services,33.0,31.0,33.0,1
-2020-03-12,Hawaii,Honolulu County,Food,37.0,33.0,37.0,2
-2020-03-12,Hawaii,Honolulu County,Outdoors & Recreation,30.0,31.0,30.0,3
-2020-03-12,Hawaii,Honolulu County,Hotel,60.0,53.0,60.0,4
-2020-03-12,Hawaii,Honolulu County,Grocery,108.0,100.0,109.0,5
-2020-03-12,Hawaii,Honolulu County,Airport,52.0,42.0,52.0,6
-2020-03-12,Hawaii,Honolulu County,Professional & Other Places,16.0,17.0,16.0,7
-2020-03-12,Hawaii,Honolulu County,School,52.0,45.0,52.0,8
-2020-03-12,Hawaii,Honolulu County,Fast Food Restaurants,95.0,94.0,95.0,9
-2020-03-12,Hawaii,Honolulu County,Government,66.0,51.0,66.0,10
-2020-03-12,Hawaii,Honolulu County,Residences,94.0,84.0,95.0,11
-2020-03-12,Hawaii,Honolulu County,Medical,46.0,41.0,46.0,12
-2020-03-12,Hawaii,Honolulu County,Beach,64.0,57.0,64.0,13
-2020-03-12,Hawaii,Honolulu County,Nightlife Spots,33.0,27.0,34.0,14
-2020-03-12,Hawaii,Honolulu County,Arts & Entertainment,58.0,57.0,59.0,15
-2020-03-12,Hawaii,Honolulu County,Gas Stations,104.0,116.0,103.0,16
-2020-03-12,Hawaii,Honolulu County,Drug Store,101.0,95.0,101.0,17
-2020-03-12,Hawaii,Honolulu County,Colleges & Universities,42.0,"",42.0,18
-2020-03-12,Hawaii,Honolulu County,Convenience Store,90.0,88.0,90.0,19
-2020-03-12,Hawaii,Honolulu County,Fitness Center,59.0,67.0,59.0,20
-2020-03-12,Hawaii,Honolulu County,Big Box Stores,111.0,110.0,111.0,21
-2020-03-12,Hawaii,Honolulu County,Sports,30.0,28.0,30.0,22
-2020-03-12,Hawaii,Honolulu County,Travel & Transport,88.0,"",89.0,23
-2020-03-12,Hawaii,Honolulu County,Office,69.0,"",70.0,24
-2020-03-12,Hawaii,Honolulu County,Banks,91.0,"",90.0,25
-2020-03-12,Hawaii,Honolulu County,Bus,71.0,"",72.0,26
-2020-03-12,Hawaii,Honolulu County,Hardware Stores,82.0,"",82.0,27
-2020-03-12,Hawaii,Kauai County,Food,84.0,72.0,86.0,1
-2020-03-12,Hawaii,Kauai County,Shops & Services,30.0,28.0,30.0,2
-2020-03-12,Hawaii,Kauai County,Hotel,70.0,79.0,70.0,3
-2020-03-12,Hawaii,Kauai County,Outdoors & Recreation,92.0,91.0,92.0,4
-2020-03-12,Hawaii,Kauai County,Beach,88.0,90.0,88.0,5
-2020-03-12,Hawaii,Kauai County,Airport,79.0,"",80.0,6
-2020-03-12,Hawaii,Kauai County,Grocery,112.0,101.0,113.0,7
-2020-03-12,Hawaii,Kauai County,Travel & Transport,17.0,"",17.0,8
-2020-03-12,Hawaii,Hawaii County,Food,37.0,34.0,37.0,1
-2020-03-12,Hawaii,Hawaii County,Shops & Services,52.0,47.0,52.0,2
-2020-03-12,Hawaii,Hawaii County,Hotel,56.0,50.0,56.0,3
-2020-03-12,Hawaii,Hawaii County,Outdoors & Recreation,29.0,20.0,29.0,4
-2020-03-12,Hawaii,Hawaii County,Grocery,92.0,119.0,90.0,5
-2020-03-12,Hawaii,Hawaii County,Beach,66.0,"",68.0,6
-2020-03-12,Hawaii,Hawaii County,Airport,60.0,79.0,59.0,7
-2020-03-12,Hawaii,Hawaii County,Gas Stations,98.0,"",99.0,8
-2020-03-12,Hawaii,Hawaii County,Nightlife Spots,71.0,"",72.0,9
-2020-03-12,Hawaii,Hawaii County,Big Box Stores,94.0,"",93.0,10
-2020-03-12,Hawaii,Hawaii County,Travel & Transport,98.0,"",98.0,11
-2020-03-12,Hawaii,Maui County,Food,42.0,34.0,43.0,1
-2020-03-12,Hawaii,Maui County,Hotel,57.0,44.0,58.0,2
-2020-03-12,Hawaii,Maui County,Shops & Services,28.0,24.0,28.0,3
-2020-03-12,Hawaii,Maui County,Outdoors & Recreation,26.0,16.0,27.0,4
-2020-03-12,Hawaii,Maui County,Beach,81.0,68.0,82.0,5
-2020-03-12,Hawaii,Maui County,Airport,62.0,45.0,64.0,6
+2020-03-12,Hawaii,Maui County,Food,96.0,77.0,97.0,1
+2020-03-12,Hawaii,Maui County,Hotel,94.0,73.0,95.0,2
+2020-03-12,Hawaii,Maui County,Shops & Services,90.0,81.0,91.0,3
+2020-03-12,Hawaii,Maui County,Outdoors & Recreation,84.0,51.0,86.0,4
+2020-03-12,Hawaii,Maui County,Beach,92.0,77.0,94.0,5
+2020-03-12,Hawaii,Maui County,Airport,90.0,65.0,92.0,6
 2020-03-12,Hawaii,Maui County,Grocery,82.0,53.0,85.0,7
 2020-03-12,Hawaii,Maui County,Travel & Transport,97.0,"",98.0,8
-2020-03-12,Hawaii,Maui County,Nightlife Spots,73.0,"",75.0,9
-2020-03-12,Hawaii,Maui County,Arts & Entertainment,101.0,"",103.0,10
-2020-03-13,Hawaii,Honolulu County,Shops & Services,75.0,67.0,76.0,1
-2020-03-13,Hawaii,Honolulu County,Food,37.0,32.0,37.0,2
-2020-03-13,Hawaii,Honolulu County,Hotel,58.0,50.0,59.0,3
-2020-03-13,Hawaii,Honolulu County,Outdoors & Recreation,28.0,25.0,28.0,4
+2020-03-12,Hawaii,Maui County,Nightlife Spots,104.0,"",106.0,9
+2020-03-12,Hawaii,Maui County,Arts & Entertainment,116.0,"",118.0,10
+2020-03-12,Hawaii,Honolulu County,Shops & Services,92.0,88.0,92.0,1
+2020-03-12,Hawaii,Honolulu County,Food,88.0,78.0,89.0,2
+2020-03-12,Hawaii,Honolulu County,Outdoors & Recreation,90.0,95.0,90.0,3
+2020-03-12,Hawaii,Honolulu County,Hotel,80.0,72.0,80.0,4
+2020-03-12,Hawaii,Honolulu County,Grocery,108.0,100.0,109.0,5
+2020-03-12,Hawaii,Honolulu County,Airport,83.0,67.0,84.0,6
+2020-03-12,Hawaii,Honolulu County,Professional & Other Places,86.0,90.0,86.0,7
+2020-03-12,Hawaii,Honolulu County,School,97.0,85.0,97.0,8
+2020-03-12,Hawaii,Honolulu County,Fast Food Restaurants,95.0,94.0,95.0,9
+2020-03-12,Hawaii,Honolulu County,Government,85.0,73.0,86.0,10
+2020-03-12,Hawaii,Honolulu County,Residences,94.0,84.0,95.0,11
+2020-03-12,Hawaii,Honolulu County,Medical,85.0,75.0,85.0,12
+2020-03-12,Hawaii,Honolulu County,Beach,80.0,72.0,80.0,13
+2020-03-12,Hawaii,Honolulu County,Nightlife Spots,81.0,65.0,81.0,14
+2020-03-12,Hawaii,Honolulu County,Arts & Entertainment,74.0,70.0,74.0,15
+2020-03-12,Hawaii,Honolulu County,Gas Stations,104.0,116.0,103.0,16
+2020-03-12,Hawaii,Honolulu County,Drug Store,101.0,95.0,101.0,17
+2020-03-12,Hawaii,Honolulu County,Colleges & Universities,88.0,"",89.0,18
+2020-03-12,Hawaii,Honolulu County,Convenience Store,90.0,88.0,90.0,19
+2020-03-12,Hawaii,Honolulu County,Fitness Center,92.0,104.0,92.0,20
+2020-03-12,Hawaii,Honolulu County,Big Box Stores,111.0,110.0,111.0,21
+2020-03-12,Hawaii,Honolulu County,Sports,101.0,73.0,102.0,22
+2020-03-12,Hawaii,Honolulu County,Travel & Transport,88.0,"",89.0,23
+2020-03-12,Hawaii,Honolulu County,Office,75.0,"",76.0,24
+2020-03-12,Hawaii,Honolulu County,Banks,91.0,"",90.0,25
+2020-03-12,Hawaii,Honolulu County,Bus,89.0,"",90.0,26
+2020-03-12,Hawaii,Honolulu County,Hardware Stores,82.0,"",82.0,27
+2020-03-12,Hawaii,Kauai County,Food,98.0,84.0,99.0,1
+2020-03-12,Hawaii,Kauai County,Shops & Services,94.0,92.0,94.0,2
+2020-03-12,Hawaii,Kauai County,Hotel,101.0,117.0,100.0,3
+2020-03-12,Hawaii,Kauai County,Outdoors & Recreation,92.0,91.0,92.0,4
+2020-03-12,Hawaii,Kauai County,Beach,93.0,97.0,93.0,5
+2020-03-12,Hawaii,Kauai County,Airport,112.0,"",113.0,6
+2020-03-12,Hawaii,Kauai County,Grocery,112.0,101.0,113.0,7
+2020-03-12,Hawaii,Kauai County,Travel & Transport,99.0,"",100.0,8
+2020-03-12,Hawaii,Hawaii County,Food,83.0,76.0,84.0,1
+2020-03-12,Hawaii,Hawaii County,Shops & Services,84.0,76.0,85.0,2
+2020-03-12,Hawaii,Hawaii County,Hotel,83.0,78.0,83.0,3
+2020-03-12,Hawaii,Hawaii County,Outdoors & Recreation,85.0,64.0,86.0,4
+2020-03-12,Hawaii,Hawaii County,Grocery,92.0,119.0,90.0,5
+2020-03-12,Hawaii,Hawaii County,Beach,74.0,"",77.0,6
+2020-03-12,Hawaii,Hawaii County,Airport,89.0,114.0,87.0,7
+2020-03-12,Hawaii,Hawaii County,Gas Stations,98.0,"",99.0,8
+2020-03-12,Hawaii,Hawaii County,Nightlife Spots,94.0,"",95.0,9
+2020-03-12,Hawaii,Hawaii County,Big Box Stores,94.0,"",93.0,10
+2020-03-12,Hawaii,Hawaii County,Travel & Transport,98.0,"",98.0,11
+2020-03-13,Hawaii,Hawaii County,Food,85.0,62.0,87.0,1
+2020-03-13,Hawaii,Hawaii County,Shops & Services,94.0,69.0,96.0,2
+2020-03-13,Hawaii,Hawaii County,Hotel,90.0,98.0,89.0,3
+2020-03-13,Hawaii,Hawaii County,Outdoors & Recreation,90.0,75.0,91.0,4
+2020-03-13,Hawaii,Hawaii County,Grocery,95.0,80.0,96.0,5
+2020-03-13,Hawaii,Hawaii County,Airport,110.0,97.0,111.0,6
+2020-03-13,Hawaii,Hawaii County,Beach,89.0,56.0,91.0,7
+2020-03-13,Hawaii,Hawaii County,Gas Stations,95.0,"",95.0,8
+2020-03-13,Hawaii,Hawaii County,Nightlife Spots,99.0,"",102.0,9
+2020-03-13,Hawaii,Hawaii County,Big Box Stores,85.0,"",87.0,10
+2020-03-13,Hawaii,Hawaii County,Medical,126.0,"",126.0,11
+2020-03-13,Hawaii,Kauai County,Food,101.0,90.0,102.0,1
+2020-03-13,Hawaii,Kauai County,Shops & Services,101.0,86.0,102.0,2
+2020-03-13,Hawaii,Kauai County,Hotel,100.0,115.0,98.0,3
+2020-03-13,Hawaii,Kauai County,Outdoors & Recreation,97.0,70.0,99.0,4
+2020-03-13,Hawaii,Kauai County,Beach,95.0,86.0,96.0,5
+2020-03-13,Hawaii,Kauai County,Travel & Transport,103.0,98.0,103.0,6
+2020-03-13,Hawaii,Kauai County,Airport,93.0,"",95.0,7
+2020-03-13,Hawaii,Kauai County,Grocery,105.0,83.0,108.0,8
+2020-03-13,Hawaii,Honolulu County,Shops & Services,95.0,86.0,95.0,1
+2020-03-13,Hawaii,Honolulu County,Food,89.0,77.0,89.0,2
+2020-03-13,Hawaii,Honolulu County,Hotel,77.0,67.0,78.0,3
+2020-03-13,Hawaii,Honolulu County,Outdoors & Recreation,83.0,74.0,83.0,4
 2020-03-13,Hawaii,Honolulu County,Grocery,108.0,100.0,109.0,5
-2020-03-13,Hawaii,Honolulu County,Airport,60.0,40.0,61.0,6
-2020-03-13,Hawaii,Honolulu County,Professional & Other Places,18.0,15.0,18.0,7
+2020-03-13,Hawaii,Honolulu County,Airport,96.0,65.0,97.0,6
+2020-03-13,Hawaii,Honolulu County,Professional & Other Places,97.0,85.0,97.0,7
 2020-03-13,Hawaii,Honolulu County,Fast Food Restaurants,99.0,102.0,99.0,8
-2020-03-13,Hawaii,Honolulu County,Medical,54.0,43.0,54.0,9
-2020-03-13,Hawaii,Honolulu County,School,50.0,48.0,50.0,10
-2020-03-13,Hawaii,Honolulu County,Government,71.0,53.0,71.0,11
-2020-03-13,Hawaii,Honolulu County,Beach,65.0,59.0,65.0,12
+2020-03-13,Hawaii,Honolulu County,Medical,99.0,80.0,100.0,9
+2020-03-13,Hawaii,Honolulu County,School,94.0,90.0,94.0,10
+2020-03-13,Hawaii,Honolulu County,Government,92.0,76.0,93.0,11
+2020-03-13,Hawaii,Honolulu County,Beach,80.0,73.0,81.0,12
 2020-03-13,Hawaii,Honolulu County,Residences,93.0,80.0,93.0,13
-2020-03-13,Hawaii,Honolulu County,Arts & Entertainment,66.0,58.0,66.0,14
-2020-03-13,Hawaii,Honolulu County,Nightlife Spots,35.0,25.0,35.0,15
+2020-03-13,Hawaii,Honolulu County,Arts & Entertainment,83.0,73.0,83.0,14
+2020-03-13,Hawaii,Honolulu County,Nightlife Spots,84.0,62.0,85.0,15
 2020-03-13,Hawaii,Honolulu County,Drug Store,104.0,102.0,104.0,16
 2020-03-13,Hawaii,Honolulu County,Gas Stations,99.0,75.0,100.0,17
 2020-03-13,Hawaii,Honolulu County,Big Box Stores,120.0,104.0,120.0,18
-2020-03-13,Hawaii,Honolulu County,Fitness Center,62.0,59.0,63.0,19
-2020-03-13,Hawaii,Honolulu County,Colleges & Universities,36.0,"",36.0,20
+2020-03-13,Hawaii,Honolulu County,Fitness Center,95.0,90.0,95.0,19
 2020-03-13,Hawaii,Honolulu County,Convenience Store,85.0,86.0,85.0,20
-2020-03-13,Hawaii,Honolulu County,Travel & Transport,96.0,"",97.0,21
-2020-03-13,Hawaii,Honolulu County,Sports,27.0,28.0,27.0,22
-2020-03-13,Hawaii,Honolulu County,Office,70.0,"",70.0,23
-2020-03-13,Hawaii,Honolulu County,Banks,96.0,103.0,96.0,24
-2020-03-13,Hawaii,Honolulu County,Bus,68.0,"",69.0,25
-2020-03-13,Hawaii,Honolulu County,Hardware Stores,85.0,96.0,84.0,26
-2020-03-13,Hawaii,Kauai County,Food,45.0,40.0,45.0,1
-2020-03-13,Hawaii,Kauai County,Shops & Services,32.0,27.0,33.0,2
-2020-03-13,Hawaii,Kauai County,Hotel,69.0,79.0,69.0,3
-2020-03-13,Hawaii,Kauai County,Outdoors & Recreation,97.0,70.0,99.0,4
-2020-03-13,Hawaii,Kauai County,Beach,89.0,78.0,90.0,5
-2020-03-13,Hawaii,Kauai County,Travel & Transport,23.0,21.0,23.0,6
-2020-03-13,Hawaii,Kauai County,Airport,65.0,"",66.0,7
-2020-03-13,Hawaii,Kauai County,Grocery,105.0,85.0,107.0,8
-2020-03-13,Hawaii,Hawaii County,Food,37.0,28.0,38.0,1
-2020-03-13,Hawaii,Hawaii County,Shops & Services,57.0,42.0,58.0,2
-2020-03-13,Hawaii,Hawaii County,Hotel,60.0,63.0,60.0,3
-2020-03-13,Hawaii,Hawaii County,Outdoors & Recreation,31.0,24.0,31.0,4
-2020-03-13,Hawaii,Hawaii County,Grocery,95.0,80.0,96.0,5
-2020-03-13,Hawaii,Hawaii County,Airport,75.0,67.0,76.0,6
-2020-03-13,Hawaii,Hawaii County,Beach,79.0,50.0,81.0,7
-2020-03-13,Hawaii,Hawaii County,Gas Stations,95.0,"",95.0,8
-2020-03-13,Hawaii,Hawaii County,Nightlife Spots,75.0,"",76.0,9
-2020-03-13,Hawaii,Hawaii County,Big Box Stores,85.0,"",87.0,10
-2020-03-13,Hawaii,Hawaii County,Medical,75.0,"",75.0,11
-2020-03-13,Hawaii,Maui County,Food,41.0,34.0,41.0,1
-2020-03-13,Hawaii,Maui County,Hotel,54.0,35.0,55.0,2
-2020-03-13,Hawaii,Maui County,Shops & Services,30.0,25.0,30.0,3
+2020-03-13,Hawaii,Honolulu County,Colleges & Universities,77.0,"",78.0,21
+2020-03-13,Hawaii,Honolulu County,Travel & Transport,96.0,"",97.0,22
+2020-03-13,Hawaii,Honolulu County,Sports,88.0,77.0,89.0,23
+2020-03-13,Hawaii,Honolulu County,Office,76.0,"",76.0,24
+2020-03-13,Hawaii,Honolulu County,Banks,96.0,103.0,96.0,25
+2020-03-13,Hawaii,Honolulu County,Bus,87.0,"",87.0,26
+2020-03-13,Hawaii,Honolulu County,Hardware Stores,85.0,96.0,84.0,27
+2020-03-13,Hawaii,Maui County,Food,91.0,76.0,92.0,1
+2020-03-13,Hawaii,Maui County,Hotel,88.0,60.0,90.0,2
+2020-03-13,Hawaii,Maui County,Shops & Services,96.0,80.0,97.0,3
 2020-03-13,Hawaii,Maui County,Outdoors & Recreation,84.0,70.0,85.0,4
-2020-03-13,Hawaii,Maui County,Beach,80.0,64.0,81.0,5
-2020-03-13,Hawaii,Maui County,Airport,65.0,55.0,65.0,6
+2020-03-13,Hawaii,Maui County,Beach,90.0,71.0,91.0,5
+2020-03-13,Hawaii,Maui County,Airport,95.0,81.0,95.0,6
 2020-03-13,Hawaii,Maui County,Grocery,98.0,92.0,99.0,7
 2020-03-13,Hawaii,Maui County,Travel & Transport,99.0,103.0,99.0,8
-2020-03-13,Hawaii,Maui County,Nightlife Spots,63.0,"",64.0,9
-2020-03-13,Hawaii,Maui County,Arts & Entertainment,84.0,"",86.0,10
+2020-03-13,Hawaii,Maui County,Nightlife Spots,87.0,"",88.0,9
+2020-03-13,Hawaii,Maui County,Arts & Entertainment,93.0,"",95.0,10
 2020-03-13,Hawaii,Maui County,Gas Stations,97.0,"",99.0,11
-2020-03-14,Hawaii,Honolulu County,Shops & Services,74.0,69.0,74.0,1
-2020-03-14,Hawaii,Honolulu County,Food,35.0,31.0,36.0,2
-2020-03-14,Hawaii,Honolulu County,Hotel,60.0,46.0,61.0,3
-2020-03-14,Hawaii,Honolulu County,Outdoors & Recreation,26.0,25.0,26.0,4
-2020-03-14,Hawaii,Honolulu County,Grocery,105.0,108.0,105.0,5
-2020-03-14,Hawaii,Honolulu County,Airport,56.0,46.0,57.0,6
-2020-03-14,Hawaii,Honolulu County,Beach,69.0,59.0,69.0,7
-2020-03-14,Hawaii,Honolulu County,Fast Food Restaurants,94.0,87.0,94.0,8
-2020-03-14,Hawaii,Honolulu County,Professional & Other Places,17.0,13.0,17.0,9
-2020-03-14,Hawaii,Honolulu County,Nightlife Spots,37.0,30.0,37.0,10
-2020-03-14,Hawaii,Honolulu County,Arts & Entertainment,65.0,56.0,65.0,11
-2020-03-14,Hawaii,Honolulu County,Residences,86.0,86.0,86.0,12
-2020-03-14,Hawaii,Honolulu County,School,46.0,43.0,46.0,13
-2020-03-14,Hawaii,Honolulu County,Drug Store,109.0,104.0,109.0,14
-2020-03-14,Hawaii,Honolulu County,Gas Stations,99.0,89.0,99.0,15
-2020-03-14,Hawaii,Honolulu County,Medical,49.0,48.0,49.0,16
-2020-03-14,Hawaii,Honolulu County,Big Box Stores,108.0,93.0,109.0,17
-2020-03-14,Hawaii,Honolulu County,Government,65.0,58.0,66.0,18
-2020-03-14,Hawaii,Honolulu County,Convenience Store,79.0,"",79.0,18
-2020-03-14,Hawaii,Honolulu County,Fitness Center,64.0,"",64.0,19
-2020-03-14,Hawaii,Honolulu County,Travel & Transport,87.0,"",89.0,20
-2020-03-14,Hawaii,Honolulu County,Sports,28.0,24.0,28.0,21
-2020-03-14,Hawaii,Honolulu County,Hardware Stores,92.0,82.0,93.0,22
-2020-03-14,Hawaii,Honolulu County,Colleges & Universities,28.0,"",28.0,23
-2020-03-14,Hawaii,Honolulu County,Banks,82.0,"",81.0,24
-2020-03-14,Hawaii,Honolulu County,Office,72.0,"",72.0,25
-2020-03-14,Hawaii,Honolulu County,Bus,67.0,"",67.0,26
-2020-03-14,Hawaii,Hawaii County,Food,38.0,28.0,39.0,1
-2020-03-14,Hawaii,Hawaii County,Shops & Services,51.0,39.0,52.0,2
-2020-03-14,Hawaii,Hawaii County,Hotel,58.0,43.0,59.0,3
-2020-03-14,Hawaii,Hawaii County,Outdoors & Recreation,26.0,17.0,27.0,4
+2020-03-14,Hawaii,Hawaii County,Food,88.0,64.0,90.0,1
+2020-03-14,Hawaii,Hawaii County,Shops & Services,87.0,69.0,89.0,2
+2020-03-14,Hawaii,Hawaii County,Hotel,87.0,67.0,89.0,3
+2020-03-14,Hawaii,Hawaii County,Outdoors & Recreation,76.0,50.0,78.0,4
 2020-03-14,Hawaii,Hawaii County,Grocery,97.0,94.0,97.0,5
-2020-03-14,Hawaii,Hawaii County,Airport,66.0,59.0,66.0,6
-2020-03-14,Hawaii,Hawaii County,Beach,52.0,56.0,52.0,7
+2020-03-14,Hawaii,Hawaii County,Airport,97.0,89.0,97.0,6
+2020-03-14,Hawaii,Hawaii County,Beach,59.0,63.0,59.0,7
 2020-03-14,Hawaii,Hawaii County,Big Box Stores,105.0,"",105.0,8
-2020-03-14,Hawaii,Hawaii County,Nightlife Spots,66.0,"",67.0,9
+2020-03-14,Hawaii,Hawaii County,Nightlife Spots,89.0,"",90.0,9
 2020-03-14,Hawaii,Hawaii County,Gas Stations,88.0,"",89.0,10
-2020-03-14,Hawaii,Kauai County,Food,43.0,44.0,43.0,1
-2020-03-14,Hawaii,Kauai County,Shops & Services,34.0,30.0,34.0,2
-2020-03-14,Hawaii,Kauai County,Hotel,70.0,82.0,69.0,3
-2020-03-14,Hawaii,Kauai County,Outdoors & Recreation,97.0,106.0,96.0,4
-2020-03-14,Hawaii,Kauai County,Beach,103.0,87.0,105.0,5
-2020-03-14,Hawaii,Kauai County,Airport,80.0,71.0,81.0,6
-2020-03-14,Hawaii,Kauai County,Grocery,107.0,125.0,105.0,7
-2020-03-14,Hawaii,Kauai County,Travel & Transport,94.0,115.0,93.0,8
-2020-03-14,Hawaii,Kauai County,Nightlife Spots,84.0,"",82.0,9
-2020-03-14,Hawaii,Maui County,Food,41.0,30.0,41.0,1
-2020-03-14,Hawaii,Maui County,Hotel,54.0,42.0,55.0,2
-2020-03-14,Hawaii,Maui County,Shops & Services,62.0,60.0,62.0,3
-2020-03-14,Hawaii,Maui County,Outdoors & Recreation,27.0,20.0,28.0,4
-2020-03-14,Hawaii,Maui County,Beach,80.0,67.0,81.0,5
-2020-03-14,Hawaii,Maui County,Airport,75.0,59.0,76.0,6
+2020-03-14,Hawaii,Maui County,Food,92.0,68.0,94.0,1
+2020-03-14,Hawaii,Maui County,Hotel,89.0,71.0,90.0,2
+2020-03-14,Hawaii,Maui County,Shops & Services,87.0,83.0,87.0,3
+2020-03-14,Hawaii,Maui County,Outdoors & Recreation,89.0,68.0,90.0,4
+2020-03-14,Hawaii,Maui County,Beach,93.0,78.0,94.0,5
+2020-03-14,Hawaii,Maui County,Airport,110.0,88.0,111.0,6
 2020-03-14,Hawaii,Maui County,Grocery,91.0,94.0,91.0,7
 2020-03-14,Hawaii,Maui County,Travel & Transport,94.0,"",97.0,8
-2020-03-14,Hawaii,Maui County,Nightlife Spots,65.0,"",67.0,9
-2020-03-14,Hawaii,Maui County,Arts & Entertainment,91.0,"",92.0,10
-2020-03-15,Hawaii,Hawaii County,Food,33.0,24.0,34.0,1
-2020-03-15,Hawaii,Hawaii County,Hotel,59.0,40.0,61.0,2
-2020-03-15,Hawaii,Hawaii County,Shops & Services,50.0,32.0,51.0,3
-2020-03-15,Hawaii,Hawaii County,Outdoors & Recreation,26.0,18.0,27.0,4
-2020-03-15,Hawaii,Hawaii County,Grocery,88.0,83.0,88.0,5
-2020-03-15,Hawaii,Hawaii County,Airport,65.0,"",67.0,6
-2020-03-15,Hawaii,Hawaii County,Beach,64.0,"",65.0,7
-2020-03-15,Hawaii,Hawaii County,Nightlife Spots,58.0,"",60.0,8
-2020-03-15,Hawaii,Hawaii County,Big Box Stores,89.0,"",91.0,9
-2020-03-15,Hawaii,Hawaii County,Gas Stations,86.0,"",87.0,10
-2020-03-15,Hawaii,Maui County,Food,38.0,26.0,39.0,1
-2020-03-15,Hawaii,Maui County,Hotel,49.0,37.0,50.0,2
-2020-03-15,Hawaii,Maui County,Shops & Services,25.0,16.0,25.0,3
-2020-03-15,Hawaii,Maui County,Beach,68.0,45.0,70.0,4
-2020-03-15,Hawaii,Maui County,Outdoors & Recreation,22.0,15.0,23.0,5
-2020-03-15,Hawaii,Maui County,Airport,55.0,40.0,56.0,6
-2020-03-15,Hawaii,Maui County,Grocery,88.0,80.0,88.0,7
-2020-03-15,Hawaii,Maui County,Nightlife Spots,57.0,"",58.0,8
-2020-03-15,Hawaii,Maui County,Travel & Transport,59.0,"",60.0,9
-2020-03-15,Hawaii,Maui County,Arts & Entertainment,82.0,"",83.0,10
-2020-03-15,Hawaii,Honolulu County,Shops & Services,30.0,28.0,30.0,1
-2020-03-15,Hawaii,Honolulu County,Food,32.0,27.0,32.0,2
-2020-03-15,Hawaii,Honolulu County,Hotel,56.0,45.0,57.0,3
-2020-03-15,Hawaii,Honolulu County,Outdoors & Recreation,27.0,22.0,27.0,4
+2020-03-14,Hawaii,Maui County,Nightlife Spots,95.0,"",98.0,9
+2020-03-14,Hawaii,Maui County,Arts & Entertainment,96.0,"",97.0,10
+2020-03-14,Hawaii,Honolulu County,Shops & Services,93.0,89.0,93.0,1
+2020-03-14,Hawaii,Honolulu County,Food,86.0,76.0,86.0,2
+2020-03-14,Hawaii,Honolulu County,Hotel,80.0,61.0,81.0,3
+2020-03-14,Hawaii,Honolulu County,Outdoors & Recreation,79.0,75.0,79.0,4
+2020-03-14,Hawaii,Honolulu County,Grocery,105.0,108.0,105.0,5
+2020-03-14,Hawaii,Honolulu County,Airport,90.0,74.0,91.0,6
+2020-03-14,Hawaii,Honolulu County,Beach,87.0,73.0,88.0,7
+2020-03-14,Hawaii,Honolulu County,Fast Food Restaurants,94.0,87.0,94.0,8
+2020-03-14,Hawaii,Honolulu County,Professional & Other Places,84.0,63.0,85.0,9
+2020-03-14,Hawaii,Honolulu County,Nightlife Spots,89.0,73.0,89.0,10
+2020-03-14,Hawaii,Honolulu County,Arts & Entertainment,80.0,70.0,80.0,11
+2020-03-14,Hawaii,Honolulu County,Residences,86.0,86.0,86.0,12
+2020-03-14,Hawaii,Honolulu County,School,87.0,83.0,88.0,13
+2020-03-14,Hawaii,Honolulu County,Drug Store,109.0,104.0,109.0,14
+2020-03-14,Hawaii,Honolulu County,Gas Stations,99.0,89.0,99.0,15
+2020-03-14,Hawaii,Honolulu County,Medical,90.0,89.0,90.0,16
+2020-03-14,Hawaii,Honolulu County,Big Box Stores,108.0,93.0,109.0,17
+2020-03-14,Hawaii,Honolulu County,Government,90.0,88.0,90.0,18
+2020-03-14,Hawaii,Honolulu County,Convenience Store,79.0,"",79.0,19
+2020-03-14,Hawaii,Honolulu County,Fitness Center,98.0,"",98.0,20
+2020-03-14,Hawaii,Honolulu County,Travel & Transport,87.0,"",89.0,21
+2020-03-14,Hawaii,Honolulu County,Sports,83.0,62.0,84.0,22
+2020-03-14,Hawaii,Honolulu County,Hardware Stores,92.0,82.0,93.0,23
+2020-03-14,Hawaii,Honolulu County,Colleges & Universities,60.0,"",60.0,24
+2020-03-14,Hawaii,Honolulu County,Banks,82.0,"",81.0,25
+2020-03-14,Hawaii,Honolulu County,Office,78.0,"",78.0,26
+2020-03-14,Hawaii,Honolulu County,Bus,87.0,"",87.0,27
+2020-03-14,Hawaii,Kauai County,Food,99.0,100.0,99.0,1
+2020-03-14,Hawaii,Kauai County,Shops & Services,106.0,95.0,107.0,2
+2020-03-14,Hawaii,Kauai County,Hotel,101.0,120.0,99.0,3
+2020-03-14,Hawaii,Kauai County,Outdoors & Recreation,97.0,106.0,96.0,4
+2020-03-14,Hawaii,Kauai County,Beach,110.0,94.0,111.0,5
+2020-03-14,Hawaii,Kauai County,Airport,118.0,105.0,119.0,6
+2020-03-14,Hawaii,Kauai County,Grocery,107.0,123.0,105.0,7
+2020-03-14,Hawaii,Kauai County,Travel & Transport,94.0,115.0,93.0,8
+2020-03-14,Hawaii,Kauai County,Nightlife Spots,118.0,"",115.0,9
+2020-03-15,Hawaii,Honolulu County,Shops & Services,84.0,79.0,84.0,1
+2020-03-15,Hawaii,Honolulu County,Food,78.0,64.0,78.0,2
+2020-03-15,Hawaii,Honolulu County,Hotel,75.0,59.0,76.0,3
+2020-03-15,Hawaii,Honolulu County,Outdoors & Recreation,81.0,69.0,82.0,4
 2020-03-15,Hawaii,Honolulu County,Grocery,99.0,97.0,99.0,5
-2020-03-15,Hawaii,Honolulu County,Airport,53.0,54.0,53.0,6
-2020-03-15,Hawaii,Honolulu County,Beach,66.0,40.0,67.0,7
+2020-03-15,Hawaii,Honolulu County,Airport,86.0,87.0,85.0,6
+2020-03-15,Hawaii,Honolulu County,Beach,84.0,51.0,85.0,7
 2020-03-15,Hawaii,Honolulu County,Fast Food Restaurants,87.0,78.0,88.0,8
-2020-03-15,Hawaii,Honolulu County,Nightlife Spots,35.0,28.0,35.0,9
-2020-03-15,Hawaii,Honolulu County,Arts & Entertainment,36.0,33.0,36.0,10
+2020-03-15,Hawaii,Honolulu County,Nightlife Spots,84.0,70.0,85.0,9
+2020-03-15,Hawaii,Honolulu County,Arts & Entertainment,81.0,74.0,81.0,10
 2020-03-15,Hawaii,Honolulu County,Residences,78.0,90.0,78.0,11
-2020-03-15,Hawaii,Honolulu County,Professional & Other Places,15.0,15.0,15.0,12
+2020-03-15,Hawaii,Honolulu County,Professional & Other Places,73.0,76.0,73.0,12
 2020-03-15,Hawaii,Honolulu County,Drug Store,97.0,83.0,98.0,13
 2020-03-15,Hawaii,Honolulu County,Big Box Stores,110.0,"",110.0,14
 2020-03-15,Hawaii,Honolulu County,Gas Stations,86.0,79.0,87.0,15
-2020-03-15,Hawaii,Honolulu County,School,39.0,37.0,39.0,16
+2020-03-15,Hawaii,Honolulu County,School,75.0,70.0,75.0,16
 2020-03-15,Hawaii,Honolulu County,Convenience Store,79.0,83.0,79.0,17
-2020-03-15,Hawaii,Honolulu County,Sports,29.0,27.0,29.0,18
+2020-03-15,Hawaii,Honolulu County,Sports,78.0,65.0,79.0,18
 2020-03-15,Hawaii,Honolulu County,Travel & Transport,79.0,"",81.0,19
-2020-03-15,Hawaii,Honolulu County,Fitness Center,64.0,"",64.0,20
-2020-03-15,Hawaii,Honolulu County,Government,58.0,"",58.0,21
+2020-03-15,Hawaii,Honolulu County,Fitness Center,96.0,"",97.0,20
+2020-03-15,Hawaii,Honolulu County,Government,84.0,"",84.0,21
 2020-03-15,Hawaii,Honolulu County,Hardware Stores,99.0,"",99.0,22
-2020-03-15,Hawaii,Honolulu County,Medical,40.0,"",40.0,23
-2020-03-15,Hawaii,Honolulu County,Colleges & Universities,28.0,"",28.0,24
+2020-03-15,Hawaii,Honolulu County,Medical,74.0,"",74.0,23
+2020-03-15,Hawaii,Honolulu County,Colleges & Universities,57.0,"",58.0,24
 2020-03-15,Hawaii,Honolulu County,Banks,85.0,"",84.0,25
-2020-03-15,Hawaii,Honolulu County,Bus,62.0,"",62.0,26
-2020-03-15,Hawaii,Kauai County,Food,40.0,34.0,41.0,1
-2020-03-15,Hawaii,Kauai County,Hotel,64.0,64.0,64.0,2
-2020-03-15,Hawaii,Kauai County,Shops & Services,25.0,29.0,25.0,3
+2020-03-15,Hawaii,Honolulu County,Bus,80.0,"",81.0,26
+2020-03-15,Hawaii,Hawaii County,Food,74.0,53.0,76.0,1
+2020-03-15,Hawaii,Hawaii County,Hotel,86.0,63.0,88.0,2
+2020-03-15,Hawaii,Hawaii County,Shops & Services,85.0,55.0,88.0,3
+2020-03-15,Hawaii,Hawaii County,Outdoors & Recreation,74.0,57.0,75.0,4
+2020-03-15,Hawaii,Hawaii County,Grocery,88.0,83.0,88.0,5
+2020-03-15,Hawaii,Hawaii County,Airport,96.0,"",98.0,6
+2020-03-15,Hawaii,Hawaii County,Beach,71.0,"",72.0,7
+2020-03-15,Hawaii,Hawaii County,Nightlife Spots,78.0,"",80.0,8
+2020-03-15,Hawaii,Hawaii County,Big Box Stores,89.0,"",91.0,9
+2020-03-15,Hawaii,Hawaii County,Gas Stations,86.0,"",87.0,10
+2020-03-15,Hawaii,Maui County,Food,87.0,57.0,89.0,1
+2020-03-15,Hawaii,Maui County,Hotel,80.0,61.0,82.0,2
+2020-03-15,Hawaii,Maui County,Shops & Services,83.0,52.0,85.0,3
+2020-03-15,Hawaii,Maui County,Beach,79.0,52.0,80.0,4
+2020-03-15,Hawaii,Maui County,Outdoors & Recreation,74.0,55.0,75.0,5
+2020-03-15,Hawaii,Maui County,Airport,80.0,60.0,81.0,6
+2020-03-15,Hawaii,Maui County,Grocery,88.0,80.0,88.0,7
+2020-03-15,Hawaii,Maui County,Nightlife Spots,79.0,"",81.0,8
+2020-03-15,Hawaii,Maui County,Travel & Transport,59.0,"",60.0,9
+2020-03-15,Hawaii,Maui County,Arts & Entertainment,86.0,"",86.0,10
+2020-03-15,Hawaii,Kauai County,Food,91.0,77.0,92.0,1
+2020-03-15,Hawaii,Kauai County,Hotel,94.0,94.0,94.0,2
+2020-03-15,Hawaii,Kauai County,Shops & Services,84.0,101.0,83.0,3
 2020-03-15,Hawaii,Kauai County,Outdoors & Recreation,86.0,87.0,86.0,4
-2020-03-15,Hawaii,Kauai County,Beach,95.0,78.0,96.0,5
-2020-03-15,Hawaii,Kauai County,Airport,66.0,"",67.0,6
+2020-03-15,Hawaii,Kauai County,Beach,100.0,84.0,101.0,5
+2020-03-15,Hawaii,Kauai County,Airport,96.0,"",98.0,6
 2020-03-15,Hawaii,Kauai County,Grocery,102.0,"",105.0,7
-2020-03-15,Hawaii,Kauai County,Travel & Transport,13.0,"",14.0,8
-2020-03-16,Hawaii,Kauai County,Food,38.0,29.0,38.0,1
-2020-03-16,Hawaii,Kauai County,Shops & Services,74.0,43.0,77.0,2
-2020-03-16,Hawaii,Kauai County,Hotel,55.0,55.0,55.0,3
-2020-03-16,Hawaii,Kauai County,Outdoors & Recreation,67.0,59.0,68.0,4
-2020-03-16,Hawaii,Kauai County,Beach,58.0,"",59.0,5
-2020-03-16,Hawaii,Kauai County,Grocery,123.0,92.0,127.0,6
-2020-03-16,Hawaii,Kauai County,Airport,58.0,"",57.0,7
-2020-03-16,Hawaii,Hawaii County,Food,37.0,30.0,38.0,1
-2020-03-16,Hawaii,Hawaii County,Hotel,53.0,30.0,55.0,2
-2020-03-16,Hawaii,Hawaii County,Shops & Services,49.0,35.0,51.0,3
-2020-03-16,Hawaii,Hawaii County,Outdoors & Recreation,26.0,18.0,27.0,4
-2020-03-16,Hawaii,Hawaii County,Grocery,101.0,60.0,104.0,5
-2020-03-16,Hawaii,Hawaii County,Beach,69.0,"",70.0,6
-2020-03-16,Hawaii,Hawaii County,Airport,59.0,"",60.0,7
-2020-03-16,Hawaii,Hawaii County,Big Box Stores,102.0,"",106.0,8
-2020-03-16,Hawaii,Hawaii County,Gas Stations,94.0,"",96.0,9
-2020-03-16,Hawaii,Hawaii County,Nightlife Spots,58.0,"",60.0,10
-2020-03-16,Hawaii,Honolulu County,Shops & Services,72.0,67.0,72.0,1
-2020-03-16,Hawaii,Honolulu County,Food,34.0,29.0,34.0,2
+2020-03-15,Hawaii,Kauai County,Travel & Transport,87.0,"",90.0,8
+2020-03-16,Hawaii,Honolulu County,Shops & Services,91.0,86.0,91.0,1
+2020-03-16,Hawaii,Honolulu County,Food,81.0,70.0,82.0,2
 2020-03-16,Hawaii,Honolulu County,Grocery,122.0,113.0,122.0,3
-2020-03-16,Hawaii,Honolulu County,Hotel,51.0,36.0,52.0,4
-2020-03-16,Hawaii,Honolulu County,Outdoors & Recreation,23.0,17.0,23.0,5
-2020-03-16,Hawaii,Honolulu County,Airport,47.0,38.0,48.0,6
-2020-03-16,Hawaii,Honolulu County,Professional & Other Places,18.0,16.0,18.0,7
+2020-03-16,Hawaii,Honolulu County,Hotel,69.0,50.0,70.0,4
+2020-03-16,Hawaii,Honolulu County,Outdoors & Recreation,69.0,51.0,69.0,5
+2020-03-16,Hawaii,Honolulu County,Airport,77.0,62.0,77.0,6
+2020-03-16,Hawaii,Honolulu County,Professional & Other Places,93.0,84.0,93.0,7
 2020-03-16,Hawaii,Honolulu County,Fast Food Restaurants,93.0,94.0,93.0,8
 2020-03-16,Hawaii,Honolulu County,Residences,92.0,100.0,92.0,9
-2020-03-16,Hawaii,Honolulu County,Beach,52.0,43.0,52.0,10
-2020-03-16,Hawaii,Honolulu County,Government,84.0,67.0,84.0,11
-2020-03-16,Hawaii,Honolulu County,Medical,54.0,50.0,54.0,12
-2020-03-16,Hawaii,Honolulu County,Arts & Entertainment,67.0,43.0,68.0,13
+2020-03-16,Hawaii,Honolulu County,Beach,65.0,53.0,65.0,10
+2020-03-16,Hawaii,Honolulu County,Government,111.0,98.0,112.0,11
+2020-03-16,Hawaii,Honolulu County,Medical,99.0,93.0,99.0,12
+2020-03-16,Hawaii,Honolulu County,Arts & Entertainment,79.0,51.0,80.0,13
 2020-03-16,Hawaii,Honolulu County,Drug Store,117.0,110.0,118.0,14
-2020-03-16,Hawaii,Honolulu County,Nightlife Spots,34.0,25.0,34.0,15
+2020-03-16,Hawaii,Honolulu County,Nightlife Spots,82.0,59.0,82.0,15
 2020-03-16,Hawaii,Honolulu County,Gas Stations,98.0,74.0,98.0,16
 2020-03-16,Hawaii,Honolulu County,Big Box Stores,117.0,121.0,117.0,17
 2020-03-16,Hawaii,Honolulu County,Convenience Store,86.0,83.0,87.0,18
-2020-03-16,Hawaii,Honolulu County,School,34.0,35.0,33.0,19
-2020-03-16,Hawaii,Honolulu County,Fitness Center,64.0,"",65.0,20
+2020-03-16,Hawaii,Honolulu County,School,63.0,66.0,63.0,19
+2020-03-16,Hawaii,Honolulu County,Fitness Center,98.0,"",99.0,20
 2020-03-16,Hawaii,Honolulu County,Travel & Transport,82.0,"",83.0,21
-2020-03-16,Hawaii,Honolulu County,Sports,26.0,"",26.0,22
-2020-03-16,Hawaii,Honolulu County,Office,69.0,"",69.0,23
+2020-03-16,Hawaii,Honolulu County,Sports,75.0,"",76.0,22
+2020-03-16,Hawaii,Honolulu County,Office,74.0,"",75.0,23
 2020-03-16,Hawaii,Honolulu County,Hardware Stores,100.0,82.0,101.0,24
 2020-03-16,Hawaii,Honolulu County,Banks,124.0,"",124.0,25
-2020-03-16,Hawaii,Honolulu County,Colleges & Universities,26.0,"",26.0,26
-2020-03-16,Hawaii,Honolulu County,Bus,74.0,"",74.0,27
-2020-03-16,Hawaii,Maui County,Food,33.0,28.0,33.0,1
-2020-03-16,Hawaii,Maui County,Hotel,47.0,33.0,48.0,2
-2020-03-16,Hawaii,Maui County,Shops & Services,53.0,44.0,54.0,3
-2020-03-16,Hawaii,Maui County,Outdoors & Recreation,23.0,14.0,24.0,4
-2020-03-16,Hawaii,Maui County,Beach,67.0,48.0,68.0,5
-2020-03-16,Hawaii,Maui County,Airport,61.0,51.0,61.0,6
+2020-03-16,Hawaii,Honolulu County,Colleges & Universities,55.0,"",55.0,26
+2020-03-16,Hawaii,Honolulu County,Bus,93.0,"",94.0,27
+2020-03-16,Hawaii,Maui County,Food,75.0,65.0,76.0,1
+2020-03-16,Hawaii,Maui County,Hotel,77.0,56.0,78.0,2
+2020-03-16,Hawaii,Maui County,Shops & Services,76.0,63.0,77.0,3
+2020-03-16,Hawaii,Maui County,Outdoors & Recreation,75.0,50.0,76.0,4
+2020-03-16,Hawaii,Maui County,Beach,78.0,54.0,79.0,5
+2020-03-16,Hawaii,Maui County,Airport,89.0,77.0,90.0,6
 2020-03-16,Hawaii,Maui County,Grocery,97.0,81.0,98.0,7
 2020-03-16,Hawaii,Maui County,Travel & Transport,52.0,"",53.0,8
-2020-03-16,Hawaii,Maui County,Nightlife Spots,55.0,"",57.0,9
-2020-03-17,Hawaii,Hawaii County,Food,56.0,45.0,57.0,1
-2020-03-17,Hawaii,Hawaii County,Shops & Services,47.0,39.0,48.0,2
-2020-03-17,Hawaii,Hawaii County,Outdoors & Recreation,22.0,13.0,23.0,3
-2020-03-17,Hawaii,Hawaii County,Hotel,41.0,23.0,43.0,4
+2020-03-16,Hawaii,Maui County,Nightlife Spots,74.0,"",77.0,9
+2020-03-16,Hawaii,Kauai County,Food,85.0,64.0,86.0,1
+2020-03-16,Hawaii,Kauai County,Shops & Services,100.0,60.0,104.0,2
+2020-03-16,Hawaii,Kauai County,Hotel,81.0,83.0,81.0,3
+2020-03-16,Hawaii,Kauai County,Outdoors & Recreation,67.0,59.0,68.0,4
+2020-03-16,Hawaii,Kauai County,Beach,61.0,"",62.0,5
+2020-03-16,Hawaii,Kauai County,Grocery,123.0,90.0,127.0,6
+2020-03-16,Hawaii,Kauai County,Airport,85.0,"",84.0,7
+2020-03-16,Hawaii,Hawaii County,Food,84.0,65.0,85.0,1
+2020-03-16,Hawaii,Hawaii County,Hotel,78.0,45.0,81.0,2
+2020-03-16,Hawaii,Hawaii County,Shops & Services,81.0,57.0,83.0,3
+2020-03-16,Hawaii,Hawaii County,Outdoors & Recreation,75.0,54.0,77.0,4
+2020-03-16,Hawaii,Hawaii County,Grocery,101.0,60.0,104.0,5
+2020-03-16,Hawaii,Hawaii County,Beach,78.0,"",79.0,6
+2020-03-16,Hawaii,Hawaii County,Airport,88.0,"",90.0,7
+2020-03-16,Hawaii,Hawaii County,Big Box Stores,102.0,"",106.0,8
+2020-03-16,Hawaii,Hawaii County,Gas Stations,94.0,"",96.0,9
+2020-03-16,Hawaii,Hawaii County,Nightlife Spots,75.0,"",78.0,10
+2020-03-17,Hawaii,Maui County,Food,70.0,51.0,71.0,1
+2020-03-17,Hawaii,Maui County,Hotel,70.0,37.0,72.0,2
+2020-03-17,Hawaii,Maui County,Shops & Services,78.0,50.0,80.0,3
+2020-03-17,Hawaii,Maui County,Outdoors & Recreation,67.0,42.0,69.0,4
+2020-03-17,Hawaii,Maui County,Beach,71.0,61.0,72.0,5
+2020-03-17,Hawaii,Maui County,Airport,77.0,63.0,78.0,6
+2020-03-17,Hawaii,Maui County,Grocery,101.0,68.0,103.0,7
+2020-03-17,Hawaii,Maui County,Nightlife Spots,76.0,"",79.0,8
+2020-03-17,Hawaii,Maui County,Travel & Transport,58.0,"",60.0,9
+2020-03-17,Hawaii,Kauai County,Food,62.0,46.0,64.0,1
+2020-03-17,Hawaii,Kauai County,Shops & Services,81.0,61.0,83.0,2
+2020-03-17,Hawaii,Kauai County,Hotel,60.0,34.0,62.0,3
+2020-03-17,Hawaii,Kauai County,Outdoors & Recreation,54.0,"",56.0,4
+2020-03-17,Hawaii,Kauai County,Airport,83.0,"",84.0,5
+2020-03-17,Hawaii,Kauai County,Grocery,92.0,"",95.0,6
+2020-03-17,Hawaii,Hawaii County,Food,66.0,51.0,67.0,1
+2020-03-17,Hawaii,Hawaii County,Shops & Services,76.0,65.0,77.0,2
+2020-03-17,Hawaii,Hawaii County,Outdoors & Recreation,65.0,41.0,66.0,3
+2020-03-17,Hawaii,Hawaii County,Hotel,61.0,36.0,63.0,4
 2020-03-17,Hawaii,Hawaii County,Grocery,97.0,74.0,99.0,5
-2020-03-17,Hawaii,Hawaii County,Beach,59.0,"",60.0,6
-2020-03-17,Hawaii,Hawaii County,Airport,54.0,"",55.0,7
+2020-03-17,Hawaii,Hawaii County,Beach,67.0,"",68.0,6
+2020-03-17,Hawaii,Hawaii County,Airport,81.0,"",81.0,7
 2020-03-17,Hawaii,Hawaii County,Gas Stations,88.0,95.0,88.0,8
 2020-03-17,Hawaii,Hawaii County,Big Box Stores,101.0,"",104.0,9
-2020-03-17,Hawaii,Hawaii County,Nightlife Spots,57.0,"",59.0,10
-2020-03-17,Hawaii,Kauai County,Food,27.0,20.0,28.0,1
-2020-03-17,Hawaii,Kauai County,Shops & Services,58.0,44.0,60.0,2
-2020-03-17,Hawaii,Kauai County,Hotel,41.0,23.0,42.0,3
-2020-03-17,Hawaii,Kauai County,Outdoors & Recreation,54.0,"",56.0,4
-2020-03-17,Hawaii,Kauai County,Airport,57.0,"",58.0,5
-2020-03-17,Hawaii,Kauai County,Grocery,92.0,"",95.0,6
-2020-03-17,Hawaii,Honolulu County,Shops & Services,29.0,23.0,29.0,1
-2020-03-17,Hawaii,Honolulu County,Food,30.0,22.0,30.0,2
+2020-03-17,Hawaii,Hawaii County,Nightlife Spots,77.0,"",80.0,10
+2020-03-17,Hawaii,Honolulu County,Shops & Services,82.0,65.0,82.0,1
+2020-03-17,Hawaii,Honolulu County,Food,73.0,53.0,73.0,2
 2020-03-17,Hawaii,Honolulu County,Grocery,122.0,98.0,124.0,3
-2020-03-17,Hawaii,Honolulu County,Hotel,47.0,33.0,47.0,4
-2020-03-17,Hawaii,Honolulu County,Outdoors & Recreation,21.0,14.0,21.0,5
-2020-03-17,Hawaii,Honolulu County,Airport,48.0,31.0,48.0,6
-2020-03-17,Hawaii,Honolulu County,Professional & Other Places,13.0,12.0,13.0,7
+2020-03-17,Hawaii,Honolulu County,Hotel,62.0,45.0,63.0,4
+2020-03-17,Hawaii,Honolulu County,Outdoors & Recreation,63.0,44.0,64.0,5
+2020-03-17,Hawaii,Honolulu County,Airport,77.0,51.0,78.0,6
+2020-03-17,Hawaii,Honolulu County,Professional & Other Places,73.0,65.0,73.0,7
 2020-03-17,Hawaii,Honolulu County,Fast Food Restaurants,87.0,65.0,88.0,8
-2020-03-17,Hawaii,Honolulu County,Medical,42.0,38.0,43.0,9
+2020-03-17,Hawaii,Honolulu County,Medical,78.0,69.0,78.0,9
 2020-03-17,Hawaii,Honolulu County,Residences,83.0,80.0,84.0,10
-2020-03-17,Hawaii,Honolulu County,Government,58.0,35.0,59.0,11
+2020-03-17,Hawaii,Honolulu County,Government,75.0,51.0,76.0,11
 2020-03-17,Hawaii,Honolulu County,Drug Store,104.0,94.0,105.0,12
-2020-03-17,Hawaii,Honolulu County,Nightlife Spots,29.0,"",29.0,13
-2020-03-17,Hawaii,Honolulu County,Arts & Entertainment,51.0,"",52.0,14
+2020-03-17,Hawaii,Honolulu County,Nightlife Spots,71.0,"",72.0,13
+2020-03-17,Hawaii,Honolulu County,Arts & Entertainment,64.0,"",65.0,14
 2020-03-17,Hawaii,Honolulu County,Gas Stations,80.0,58.0,81.0,15
 2020-03-17,Hawaii,Honolulu County,Big Box Stores,108.0,87.0,109.0,16
-2020-03-17,Hawaii,Honolulu County,Beach,33.0,26.0,33.0,17
-2020-03-17,Hawaii,Honolulu County,School,22.0,29.0,22.0,18
+2020-03-17,Hawaii,Honolulu County,Beach,41.0,33.0,42.0,17
+2020-03-17,Hawaii,Honolulu County,School,42.0,55.0,42.0,18
 2020-03-17,Hawaii,Honolulu County,Convenience Store,68.0,74.0,68.0,19
-2020-03-17,Hawaii,Honolulu County,Fitness Center,43.0,"",43.0,20
-2020-03-17,Hawaii,Honolulu County,Office,64.0,"",65.0,21
+2020-03-17,Hawaii,Honolulu County,Fitness Center,67.0,"",67.0,20
+2020-03-17,Hawaii,Honolulu County,Office,70.0,"",70.0,21
 2020-03-17,Hawaii,Honolulu County,Travel & Transport,67.0,"",69.0,22
-2020-03-17,Hawaii,Honolulu County,Sports,19.0,"",19.0,23
-2020-03-17,Hawaii,Honolulu County,Colleges & Universities,18.0,"",18.0,24
+2020-03-17,Hawaii,Honolulu County,Sports,65.0,"",66.0,23
+2020-03-17,Hawaii,Honolulu County,Colleges & Universities,38.0,"",38.0,24
 2020-03-17,Hawaii,Honolulu County,Banks,77.0,"",77.0,25
 2020-03-17,Hawaii,Honolulu County,Hardware Stores,86.0,"",89.0,26
-2020-03-17,Hawaii,Honolulu County,Bus,56.0,"",57.0,27
-2020-03-17,Hawaii,Maui County,Food,31.0,23.0,31.0,1
-2020-03-17,Hawaii,Maui County,Hotel,42.0,22.0,44.0,2
-2020-03-17,Hawaii,Maui County,Shops & Services,25.0,16.0,25.0,3
-2020-03-17,Hawaii,Maui County,Outdoors & Recreation,20.0,12.0,21.0,4
-2020-03-17,Hawaii,Maui County,Beach,61.0,53.0,61.0,5
-2020-03-17,Hawaii,Maui County,Airport,53.0,44.0,54.0,6
-2020-03-17,Hawaii,Maui County,Grocery,101.0,68.0,103.0,7
-2020-03-17,Hawaii,Maui County,Nightlife Spots,54.0,"",56.0,8
-2020-03-17,Hawaii,Maui County,Travel & Transport,58.0,"",60.0,9
-2020-03-18,Hawaii,Kauai County,Food,31.0,29.0,31.0,1
-2020-03-18,Hawaii,Kauai County,Shops & Services,25.0,21.0,25.0,2
-2020-03-18,Hawaii,Kauai County,Hotel,53.0,51.0,53.0,3
-2020-03-18,Hawaii,Kauai County,Outdoors & Recreation,76.0,63.0,77.0,4
-2020-03-18,Hawaii,Kauai County,Beach,59.0,"",60.0,5
-2020-03-18,Hawaii,Kauai County,Airport,66.0,76.0,66.0,6
-2020-03-18,Hawaii,Kauai County,Grocery,109.0,88.0,111.0,7
-2020-03-18,Hawaii,Hawaii County,Food,29.0,20.0,29.0,1
-2020-03-18,Hawaii,Hawaii County,Shops & Services,42.0,29.0,43.0,2
-2020-03-18,Hawaii,Hawaii County,Hotel,41.0,25.0,42.0,3
-2020-03-18,Hawaii,Hawaii County,Outdoors & Recreation,20.0,13.0,21.0,4
-2020-03-18,Hawaii,Hawaii County,Grocery,93.0,74.0,94.0,5
-2020-03-18,Hawaii,Hawaii County,Airport,54.0,"",56.0,6
-2020-03-18,Hawaii,Hawaii County,Beach,49.0,"",50.0,7
-2020-03-18,Hawaii,Hawaii County,Gas Stations,76.0,"",77.0,8
-2020-03-18,Hawaii,Hawaii County,Big Box Stores,89.0,"",92.0,9
-2020-03-18,Hawaii,Hawaii County,Nightlife Spots,54.0,"",55.0,10
-2020-03-18,Hawaii,Honolulu County,Shops & Services,61.0,50.0,61.0,1
-2020-03-18,Hawaii,Honolulu County,Food,29.0,22.0,29.0,2
+2020-03-17,Hawaii,Honolulu County,Bus,70.0,"",71.0,27
+2020-03-18,Hawaii,Honolulu County,Shops & Services,76.0,63.0,77.0,1
+2020-03-18,Hawaii,Honolulu County,Food,69.0,53.0,70.0,2
 2020-03-18,Hawaii,Honolulu County,Grocery,112.0,85.0,113.0,3
-2020-03-18,Hawaii,Honolulu County,Hotel,45.0,31.0,45.0,4
-2020-03-18,Hawaii,Honolulu County,Outdoors & Recreation,20.0,16.0,20.0,5
-2020-03-18,Hawaii,Honolulu County,Airport,55.0,36.0,55.0,6
-2020-03-18,Hawaii,Honolulu County,Professional & Other Places,11.0,10.0,11.0,7
-2020-03-18,Hawaii,Honolulu County,Medical,41.0,30.0,42.0,8
-2020-03-18,Hawaii,Honolulu County,Beach,58.0,46.0,58.0,9
+2020-03-18,Hawaii,Honolulu County,Hotel,60.0,42.0,60.0,4
+2020-03-18,Hawaii,Honolulu County,Outdoors & Recreation,59.0,48.0,60.0,5
+2020-03-18,Hawaii,Honolulu County,Airport,88.0,58.0,89.0,6
+2020-03-18,Hawaii,Honolulu County,Professional & Other Places,64.0,56.0,64.0,7
+2020-03-18,Hawaii,Honolulu County,Medical,75.0,56.0,76.0,8
+2020-03-18,Hawaii,Honolulu County,Beach,73.0,58.0,74.0,9
 2020-03-18,Hawaii,Honolulu County,Fast Food Restaurants,77.0,68.0,77.0,10
 2020-03-18,Hawaii,Honolulu County,Residences,77.0,73.0,77.0,11
-2020-03-18,Hawaii,Honolulu County,Government,51.0,41.0,51.0,12
+2020-03-18,Hawaii,Honolulu County,Government,65.0,58.0,65.0,12
 2020-03-18,Hawaii,Honolulu County,Drug Store,105.0,83.0,106.0,13
-2020-03-18,Hawaii,Honolulu County,Nightlife Spots,26.0,20.0,26.0,14
+2020-03-18,Hawaii,Honolulu County,Nightlife Spots,61.0,49.0,62.0,14
 2020-03-18,Hawaii,Honolulu County,Gas Stations,72.0,65.0,72.0,15
 2020-03-18,Hawaii,Honolulu County,Big Box Stores,103.0,"",104.0,16
 2020-03-18,Hawaii,Honolulu County,Convenience Store,74.0,"",74.0,17
-2020-03-18,Hawaii,Honolulu County,Arts & Entertainment,38.0,35.0,38.0,18
-2020-03-18,Hawaii,Honolulu County,School,19.0,25.0,19.0,19
-2020-03-18,Hawaii,Honolulu County,Fitness Center,40.0,"",40.0,20
+2020-03-18,Hawaii,Honolulu County,Arts & Entertainment,46.0,44.0,47.0,18
+2020-03-18,Hawaii,Honolulu County,School,36.0,47.0,35.0,19
+2020-03-18,Hawaii,Honolulu County,Fitness Center,61.0,"",61.0,20
 2020-03-18,Hawaii,Honolulu County,Travel & Transport,83.0,"",84.0,21
-2020-03-18,Hawaii,Honolulu County,Office,59.0,"",59.0,22
-2020-03-18,Hawaii,Honolulu County,Sports,18.0,"",18.0,23
+2020-03-18,Hawaii,Honolulu County,Office,63.0,"",63.0,22
+2020-03-18,Hawaii,Honolulu County,Sports,63.0,"",64.0,23
 2020-03-18,Hawaii,Honolulu County,Banks,87.0,"",88.0,24
 2020-03-18,Hawaii,Honolulu County,Hardware Stores,90.0,"",91.0,25
-2020-03-18,Hawaii,Honolulu County,Colleges & Universities,30.0,"",30.0,26
-2020-03-18,Hawaii,Honolulu County,Bus,50.0,"",51.0,27
-2020-03-18,Hawaii,Maui County,Food,28.0,16.0,29.0,1
-2020-03-18,Hawaii,Maui County,Hotel,37.0,21.0,38.0,2
-2020-03-18,Hawaii,Maui County,Shops & Services,22.0,15.0,22.0,3
-2020-03-18,Hawaii,Maui County,Airport,70.0,43.0,72.0,4
-2020-03-18,Hawaii,Maui County,Outdoors & Recreation,16.0,12.0,16.0,5
-2020-03-18,Hawaii,Maui County,Beach,46.0,29.0,47.0,6
+2020-03-18,Hawaii,Honolulu County,Colleges & Universities,33.0,"",33.0,26
+2020-03-18,Hawaii,Honolulu County,Bus,64.0,"",64.0,27
+2020-03-18,Hawaii,Maui County,Food,63.0,36.0,65.0,1
+2020-03-18,Hawaii,Maui County,Hotel,60.0,35.0,62.0,2
+2020-03-18,Hawaii,Maui County,Shops & Services,69.0,48.0,71.0,3
+2020-03-18,Hawaii,Maui County,Airport,101.0,64.0,103.0,4
+2020-03-18,Hawaii,Maui County,Outdoors & Recreation,52.0,41.0,53.0,5
+2020-03-18,Hawaii,Maui County,Beach,53.0,33.0,54.0,6
 2020-03-18,Hawaii,Maui County,Grocery,91.0,67.0,93.0,7
-2020-03-18,Hawaii,Maui County,Nightlife Spots,47.0,"",49.0,8
-2020-03-19,Hawaii,Kauai County,Food,23.0,18.0,23.0,1
-2020-03-19,Hawaii,Kauai County,Shops & Services,66.0,61.0,67.0,2
-2020-03-19,Hawaii,Kauai County,Hotel,34.0,25.0,35.0,3
+2020-03-18,Hawaii,Maui County,Nightlife Spots,65.0,"",68.0,8
+2020-03-18,Hawaii,Hawaii County,Food,65.0,44.0,67.0,1
+2020-03-18,Hawaii,Hawaii County,Shops & Services,69.0,48.0,71.0,2
+2020-03-18,Hawaii,Hawaii County,Hotel,60.0,38.0,62.0,3
+2020-03-18,Hawaii,Hawaii County,Outdoors & Recreation,60.0,42.0,61.0,4
+2020-03-18,Hawaii,Hawaii County,Grocery,93.0,74.0,94.0,5
+2020-03-18,Hawaii,Hawaii County,Airport,78.0,"",81.0,6
+2020-03-18,Hawaii,Hawaii County,Beach,55.0,"",57.0,7
+2020-03-18,Hawaii,Hawaii County,Gas Stations,76.0,"",77.0,8
+2020-03-18,Hawaii,Hawaii County,Big Box Stores,89.0,"",92.0,9
+2020-03-18,Hawaii,Hawaii County,Nightlife Spots,71.0,"",73.0,10
+2020-03-18,Hawaii,Kauai County,Food,68.0,65.0,69.0,1
+2020-03-18,Hawaii,Kauai County,Shops & Services,81.0,68.0,82.0,2
+2020-03-18,Hawaii,Kauai County,Hotel,77.0,76.0,77.0,3
+2020-03-18,Hawaii,Kauai County,Outdoors & Recreation,76.0,63.0,77.0,4
+2020-03-18,Hawaii,Kauai County,Beach,62.0,"",63.0,5
+2020-03-18,Hawaii,Kauai County,Airport,95.0,110.0,94.0,6
+2020-03-18,Hawaii,Kauai County,Grocery,109.0,88.0,111.0,7
+2020-03-19,Hawaii,Kauai County,Food,52.0,41.0,53.0,1
+2020-03-19,Hawaii,Kauai County,Shops & Services,67.0,62.0,68.0,2
+2020-03-19,Hawaii,Kauai County,Hotel,49.0,37.0,50.0,3
 2020-03-19,Hawaii,Kauai County,Outdoors & Recreation,54.0,"",55.0,4
-2020-03-19,Hawaii,Kauai County,Beach,62.0,61.0,62.0,5
+2020-03-19,Hawaii,Kauai County,Beach,65.0,66.0,65.0,5
 2020-03-19,Hawaii,Kauai County,Grocery,83.0,83.0,83.0,6
-2020-03-19,Hawaii,Honolulu County,Shops & Services,55.0,47.0,56.0,1
-2020-03-19,Hawaii,Honolulu County,Food,26.0,21.0,26.0,2
+2020-03-19,Hawaii,Honolulu County,Shops & Services,69.0,59.0,69.0,1
+2020-03-19,Hawaii,Honolulu County,Food,62.0,51.0,62.0,2
 2020-03-19,Hawaii,Honolulu County,Grocery,109.0,91.0,110.0,3
-2020-03-19,Hawaii,Honolulu County,Outdoors & Recreation,19.0,15.0,19.0,4
-2020-03-19,Hawaii,Honolulu County,Hotel,39.0,24.0,39.0,5
-2020-03-19,Hawaii,Honolulu County,Airport,41.0,24.0,41.0,6
-2020-03-19,Hawaii,Honolulu County,Professional & Other Places,11.0,10.0,11.0,7
+2020-03-19,Hawaii,Honolulu County,Outdoors & Recreation,58.0,45.0,59.0,4
+2020-03-19,Hawaii,Honolulu County,Hotel,52.0,32.0,52.0,5
+2020-03-19,Hawaii,Honolulu County,Airport,66.0,38.0,67.0,6
+2020-03-19,Hawaii,Honolulu County,Professional & Other Places,59.0,54.0,60.0,7
 2020-03-19,Hawaii,Honolulu County,Fast Food Restaurants,75.0,60.0,75.0,8
 2020-03-19,Hawaii,Honolulu County,Residences,78.0,77.0,78.0,9
-2020-03-19,Hawaii,Honolulu County,Medical,35.0,32.0,35.0,10
-2020-03-19,Hawaii,Honolulu County,Beach,49.0,35.0,49.0,11
-2020-03-19,Hawaii,Honolulu County,Government,46.0,38.0,46.0,12
+2020-03-19,Hawaii,Honolulu County,Medical,64.0,58.0,64.0,10
+2020-03-19,Hawaii,Honolulu County,Beach,61.0,44.0,61.0,11
+2020-03-19,Hawaii,Honolulu County,Government,60.0,54.0,60.0,12
 2020-03-19,Hawaii,Honolulu County,Drug Store,95.0,63.0,96.0,13
 2020-03-19,Hawaii,Honolulu County,Gas Stations,76.0,75.0,76.0,14
 2020-03-19,Hawaii,Honolulu County,Big Box Stores,101.0,"",102.0,15
-2020-03-19,Hawaii,Honolulu County,Nightlife Spots,20.0,"",20.0,16
+2020-03-19,Hawaii,Honolulu County,Nightlife Spots,49.0,"",49.0,16
 2020-03-19,Hawaii,Honolulu County,Convenience Store,69.0,82.0,68.0,17
-2020-03-19,Hawaii,Honolulu County,School,21.0,24.0,20.0,18
-2020-03-19,Hawaii,Honolulu County,Arts & Entertainment,30.0,"",31.0,19
-2020-03-19,Hawaii,Honolulu County,Office,61.0,"",62.0,20
+2020-03-19,Hawaii,Honolulu County,School,39.0,44.0,38.0,18
+2020-03-19,Hawaii,Honolulu County,Arts & Entertainment,38.0,"",38.0,19
+2020-03-19,Hawaii,Honolulu County,Office,67.0,"",67.0,20
 2020-03-19,Hawaii,Honolulu County,Travel & Transport,65.0,"",67.0,21
-2020-03-19,Hawaii,Honolulu County,Fitness Center,34.0,"",34.0,22
-2020-03-19,Hawaii,Honolulu County,Sports,21.0,25.0,21.0,23
-2020-03-19,Hawaii,Honolulu County,Colleges & Universities,20.0,"",20.0,24
+2020-03-19,Hawaii,Honolulu County,Fitness Center,52.0,"",53.0,22
+2020-03-19,Hawaii,Honolulu County,Sports,69.0,67.0,69.0,23
+2020-03-19,Hawaii,Honolulu County,Colleges & Universities,42.0,"",42.0,24
 2020-03-19,Hawaii,Honolulu County,Banks,83.0,"",83.0,25
 2020-03-19,Hawaii,Honolulu County,Hardware Stores,84.0,"",85.0,26
-2020-03-19,Hawaii,Honolulu County,Bus,56.0,"",56.0,27
-2020-03-19,Hawaii,Maui County,Food,23.0,15.0,24.0,1
-2020-03-19,Hawaii,Maui County,Hotel,34.0,15.0,35.0,2
-2020-03-19,Hawaii,Maui County,Shops & Services,18.0,15.0,19.0,3
-2020-03-19,Hawaii,Maui County,Beach,60.0,42.0,62.0,4
-2020-03-19,Hawaii,Maui County,Outdoors & Recreation,15.0,9.0,16.0,5
-2020-03-19,Hawaii,Maui County,Grocery,94.0,75.0,95.0,6
-2020-03-19,Hawaii,Maui County,Airport,46.0,50.0,45.0,7
-2020-03-19,Hawaii,Hawaii County,Food,25.0,15.0,26.0,1
-2020-03-19,Hawaii,Hawaii County,Outdoors & Recreation,25.0,15.0,25.0,2
-2020-03-19,Hawaii,Hawaii County,Shops & Services,35.0,24.0,36.0,3
-2020-03-19,Hawaii,Hawaii County,Hotel,35.0,20.0,36.0,4
+2020-03-19,Hawaii,Honolulu County,Bus,69.0,"",70.0,27
+2020-03-19,Hawaii,Hawaii County,Food,58.0,34.0,60.0,1
+2020-03-19,Hawaii,Hawaii County,Outdoors & Recreation,73.0,50.0,74.0,2
+2020-03-19,Hawaii,Hawaii County,Shops & Services,58.0,40.0,60.0,3
+2020-03-19,Hawaii,Hawaii County,Hotel,52.0,32.0,53.0,4
 2020-03-19,Hawaii,Hawaii County,Grocery,94.0,80.0,96.0,5
-2020-03-19,Hawaii,Hawaii County,Beach,46.0,"",47.0,6
-2020-03-19,Hawaii,Hawaii County,Airport,43.0,"",44.0,7
+2020-03-19,Hawaii,Hawaii County,Beach,51.0,"",52.0,6
+2020-03-19,Hawaii,Hawaii County,Airport,64.0,"",65.0,7
 2020-03-19,Hawaii,Hawaii County,Big Box Stores,87.0,"",89.0,8
 2020-03-19,Hawaii,Hawaii County,Gas Stations,70.0,"",72.0,9
-2020-03-20,Hawaii,Hawaii County,Food,22.0,16.0,23.0,1
-2020-03-20,Hawaii,Hawaii County,Shops & Services,34.0,28.0,34.0,2
-2020-03-20,Hawaii,Hawaii County,Hotel,40.0,34.0,40.0,3
-2020-03-20,Hawaii,Hawaii County,Outdoors & Recreation,19.0,11.0,20.0,4
+2020-03-19,Hawaii,Maui County,Food,52.0,34.0,53.0,1
+2020-03-19,Hawaii,Maui County,Hotel,55.0,26.0,57.0,2
+2020-03-19,Hawaii,Maui County,Shops & Services,60.0,51.0,61.0,3
+2020-03-19,Hawaii,Maui County,Beach,69.0,48.0,71.0,4
+2020-03-19,Hawaii,Maui County,Outdoors & Recreation,49.0,31.0,50.0,5
+2020-03-19,Hawaii,Maui County,Grocery,94.0,75.0,95.0,6
+2020-03-19,Hawaii,Maui County,Airport,66.0,73.0,65.0,7
+2020-03-20,Hawaii,Hawaii County,Food,51.0,37.0,52.0,1
+2020-03-20,Hawaii,Hawaii County,Shops & Services,57.0,46.0,58.0,2
+2020-03-20,Hawaii,Hawaii County,Hotel,59.0,52.0,60.0,3
+2020-03-20,Hawaii,Hawaii County,Outdoors & Recreation,58.0,35.0,59.0,4
 2020-03-20,Hawaii,Hawaii County,Grocery,81.0,55.0,83.0,5
-2020-03-20,Hawaii,Hawaii County,Beach,54.0,"",56.0,6
+2020-03-20,Hawaii,Hawaii County,Beach,61.0,"",63.0,6
 2020-03-20,Hawaii,Hawaii County,Big Box Stores,96.0,"",98.0,7
-2020-03-20,Hawaii,Hawaii County,Airport,40.0,"",40.0,8
+2020-03-20,Hawaii,Hawaii County,Airport,58.0,"",59.0,8
 2020-03-20,Hawaii,Hawaii County,Gas Stations,75.0,"",75.0,9
-2020-03-20,Hawaii,Honolulu County,Shops & Services,54.0,47.0,54.0,1
-2020-03-20,Hawaii,Honolulu County,Food,25.0,20.0,25.0,2
-2020-03-20,Hawaii,Honolulu County,Grocery,106.0,95.0,107.0,3
-2020-03-20,Hawaii,Honolulu County,Outdoors & Recreation,20.0,16.0,20.0,4
-2020-03-20,Hawaii,Honolulu County,Hotel,34.0,27.0,35.0,5
-2020-03-20,Hawaii,Honolulu County,Airport,36.0,17.0,37.0,6
-2020-03-20,Hawaii,Honolulu County,Beach,61.0,49.0,62.0,7
-2020-03-20,Hawaii,Honolulu County,Professional & Other Places,10.0,10.0,10.0,8
-2020-03-20,Hawaii,Honolulu County,Fast Food Restaurants,71.0,67.0,72.0,9
-2020-03-20,Hawaii,Honolulu County,Residences,78.0,65.0,79.0,10
-2020-03-20,Hawaii,Honolulu County,Medical,34.0,27.0,34.0,11
-2020-03-20,Hawaii,Honolulu County,Drug Store,89.0,80.0,89.0,12
-2020-03-20,Hawaii,Honolulu County,Government,43.0,40.0,43.0,13
-2020-03-20,Hawaii,Honolulu County,Big Box Stores,100.0,83.0,101.0,14
-2020-03-20,Hawaii,Honolulu County,Gas Stations,71.0,57.0,71.0,15
-2020-03-20,Hawaii,Honolulu County,Nightlife Spots,21.0,17.0,21.0,16
-2020-03-20,Hawaii,Honolulu County,Convenience Store,71.0,69.0,71.0,17
-2020-03-20,Hawaii,Honolulu County,School,18.0,21.0,18.0,18
-2020-03-20,Hawaii,Honolulu County,Arts & Entertainment,32.0,"",32.0,19
-2020-03-20,Hawaii,Honolulu County,Hardware Stores,112.0,87.0,114.0,20
-2020-03-20,Hawaii,Honolulu County,Office,57.0,"",57.0,21
-2020-03-20,Hawaii,Honolulu County,Travel & Transport,64.0,"",65.0,22
-2020-03-20,Hawaii,Honolulu County,Banks,86.0,"",87.0,23
-2020-03-20,Hawaii,Honolulu County,Sports,18.0,24.0,18.0,24
-2020-03-20,Hawaii,Honolulu County,Fitness Center,28.0,"",29.0,25
-2020-03-20,Hawaii,Honolulu County,Colleges & Universities,16.0,"",16.0,26
-2020-03-20,Hawaii,Honolulu County,Bus,45.0,"",45.0,27
-2020-03-20,Hawaii,Maui County,Food,19.0,10.0,20.0,1
-2020-03-20,Hawaii,Maui County,Hotel,34.0,18.0,35.0,2
-2020-03-20,Hawaii,Maui County,Shops & Services,15.0,9.0,16.0,3
-2020-03-20,Hawaii,Maui County,Beach,66.0,54.0,66.0,4
-2020-03-20,Hawaii,Maui County,Airport,41.0,"",42.0,5
-2020-03-20,Hawaii,Maui County,Grocery,81.0,59.0,83.0,6
-2020-03-20,Hawaii,Maui County,Outdoors & Recreation,12.0,"",12.0,7
-2020-03-20,Hawaii,Kauai County,Shops & Services,22.0,14.0,23.0,1
-2020-03-20,Hawaii,Kauai County,Food,21.0,16.0,22.0,2
-2020-03-20,Hawaii,Kauai County,Hotel,36.0,41.0,35.0,3
-2020-03-20,Hawaii,Kauai County,Beach,65.0,76.0,64.0,4
+2020-03-20,Hawaii,Kauai County,Shops & Services,63.0,40.0,65.0,1
+2020-03-20,Hawaii,Kauai County,Food,49.0,37.0,50.0,2
+2020-03-20,Hawaii,Kauai County,Hotel,51.0,59.0,51.0,3
+2020-03-20,Hawaii,Kauai County,Beach,69.0,84.0,67.0,4
 2020-03-20,Hawaii,Kauai County,Outdoors & Recreation,43.0,39.0,43.0,5
 2020-03-20,Hawaii,Kauai County,Grocery,92.0,"",96.0,6
-2020-03-21,Hawaii,Hawaii County,Food,17.0,12.0,18.0,1
-2020-03-21,Hawaii,Hawaii County,Shops & Services,30.0,22.0,30.0,2
-2020-03-21,Hawaii,Hawaii County,Grocery,82.0,63.0,84.0,3
-2020-03-21,Hawaii,Hawaii County,Outdoors & Recreation,15.0,10.0,16.0,4
-2020-03-21,Hawaii,Hawaii County,Hotel,25.0,"",26.0,5
-2020-03-21,Hawaii,Hawaii County,Beach,38.0,"",38.0,6
-2020-03-21,Hawaii,Hawaii County,Airport,38.0,"",38.0,7
-2020-03-21,Hawaii,Hawaii County,Gas Stations,73.0,"",72.0,8
-2020-03-21,Hawaii,Hawaii County,Big Box Stores,75.0,"",76.0,9
-2020-03-21,Hawaii,Maui County,Food,15.0,11.0,16.0,1
-2020-03-21,Hawaii,Maui County,Hotel,23.0,18.0,23.0,2
-2020-03-21,Hawaii,Maui County,Shops & Services,13.0,13.0,13.0,3
-2020-03-21,Hawaii,Maui County,Beach,51.0,47.0,51.0,4
-2020-03-21,Hawaii,Maui County,Grocery,71.0,"",72.0,5
-2020-03-21,Hawaii,Maui County,Airport,37.0,"",38.0,5
-2020-03-21,Hawaii,Maui County,Outdoors & Recreation,37.0,"",37.0,6
-2020-03-21,Hawaii,Honolulu County,Shops & Services,19.0,17.0,19.0,1
-2020-03-21,Hawaii,Honolulu County,Food,19.0,16.0,19.0,2
+2020-03-20,Hawaii,Maui County,Food,44.0,23.0,45.0,1
+2020-03-20,Hawaii,Maui County,Hotel,56.0,30.0,58.0,2
+2020-03-20,Hawaii,Maui County,Shops & Services,50.0,30.0,52.0,3
+2020-03-20,Hawaii,Maui County,Beach,74.0,60.0,75.0,4
+2020-03-20,Hawaii,Maui County,Airport,59.0,"",61.0,5
+2020-03-20,Hawaii,Maui County,Grocery,81.0,59.0,83.0,6
+2020-03-20,Hawaii,Maui County,Outdoors & Recreation,39.0,"",40.0,7
+2020-03-20,Hawaii,Honolulu County,Shops & Services,68.0,60.0,68.0,1
+2020-03-20,Hawaii,Honolulu County,Food,60.0,49.0,60.0,2
+2020-03-20,Hawaii,Honolulu County,Grocery,106.0,95.0,107.0,3
+2020-03-20,Hawaii,Honolulu County,Outdoors & Recreation,59.0,49.0,60.0,4
+2020-03-20,Hawaii,Honolulu County,Hotel,45.0,37.0,46.0,5
+2020-03-20,Hawaii,Honolulu County,Airport,57.0,28.0,58.0,6
+2020-03-20,Hawaii,Honolulu County,Beach,76.0,60.0,77.0,7
+2020-03-20,Hawaii,Honolulu County,Professional & Other Places,58.0,58.0,58.0,8
+2020-03-20,Hawaii,Honolulu County,Fast Food Restaurants,71.0,67.0,72.0,9
+2020-03-20,Hawaii,Honolulu County,Residences,78.0,65.0,79.0,10
+2020-03-20,Hawaii,Honolulu County,Medical,62.0,50.0,63.0,11
+2020-03-20,Hawaii,Honolulu County,Drug Store,89.0,80.0,89.0,12
+2020-03-20,Hawaii,Honolulu County,Government,56.0,58.0,56.0,13
+2020-03-20,Hawaii,Honolulu County,Big Box Stores,100.0,83.0,101.0,14
+2020-03-20,Hawaii,Honolulu County,Gas Stations,71.0,57.0,71.0,15
+2020-03-20,Hawaii,Honolulu County,Nightlife Spots,51.0,42.0,51.0,16
+2020-03-20,Hawaii,Honolulu County,Convenience Store,71.0,69.0,71.0,17
+2020-03-20,Hawaii,Honolulu County,School,34.0,39.0,34.0,18
+2020-03-20,Hawaii,Honolulu County,Arts & Entertainment,40.0,"",41.0,19
+2020-03-20,Hawaii,Honolulu County,Hardware Stores,112.0,87.0,114.0,20
+2020-03-20,Hawaii,Honolulu County,Office,62.0,"",62.0,21
+2020-03-20,Hawaii,Honolulu County,Travel & Transport,64.0,"",65.0,22
+2020-03-20,Hawaii,Honolulu County,Banks,86.0,"",87.0,23
+2020-03-20,Hawaii,Honolulu County,Sports,60.0,66.0,60.0,24
+2020-03-20,Hawaii,Honolulu County,Fitness Center,43.0,"",44.0,25
+2020-03-20,Hawaii,Honolulu County,Colleges & Universities,36.0,"",36.0,26
+2020-03-20,Hawaii,Honolulu County,Bus,57.0,"",57.0,27
+2020-03-21,Hawaii,Honolulu County,Shops & Services,54.0,50.0,54.0,1
+2020-03-21,Hawaii,Honolulu County,Food,46.0,39.0,47.0,2
 2020-03-21,Hawaii,Honolulu County,Grocery,93.0,86.0,94.0,3
-2020-03-21,Hawaii,Honolulu County,Outdoors & Recreation,14.0,14.0,14.0,4
-2020-03-21,Hawaii,Honolulu County,Hotel,25.0,12.0,25.0,5
-2020-03-21,Hawaii,Honolulu County,Airport,33.0,16.0,34.0,6
-2020-03-21,Hawaii,Honolulu County,Beach,52.0,46.0,53.0,7
+2020-03-21,Hawaii,Honolulu County,Outdoors & Recreation,42.0,43.0,42.0,4
+2020-03-21,Hawaii,Honolulu County,Hotel,33.0,16.0,34.0,5
+2020-03-21,Hawaii,Honolulu County,Airport,54.0,26.0,55.0,6
+2020-03-21,Hawaii,Honolulu County,Beach,66.0,57.0,66.0,7
 2020-03-21,Hawaii,Honolulu County,Fast Food Restaurants,64.0,51.0,64.0,8
 2020-03-21,Hawaii,Honolulu County,Residences,67.0,77.0,66.0,9
 2020-03-21,Hawaii,Honolulu County,Drug Store,85.0,62.0,86.0,10
-2020-03-21,Hawaii,Honolulu County,Professional & Other Places,10.0,9.0,10.0,11
+2020-03-21,Hawaii,Honolulu County,Professional & Other Places,47.0,44.0,47.0,11
 2020-03-21,Hawaii,Honolulu County,Gas Stations,71.0,66.0,71.0,12
 2020-03-21,Hawaii,Honolulu County,Big Box Stores,89.0,"",90.0,13
-2020-03-21,Hawaii,Honolulu County,Medical,34.0,46.0,34.0,14
+2020-03-21,Hawaii,Honolulu County,Medical,64.0,84.0,63.0,14
 2020-03-21,Hawaii,Honolulu County,Convenience Store,63.0,67.0,63.0,15
-2020-03-21,Hawaii,Honolulu County,Government,44.0,"",44.0,16
-2020-03-21,Hawaii,Honolulu County,School,20.0,"",20.0,17
-2020-03-21,Hawaii,Honolulu County,Nightlife Spots,12.0,"",12.0,18
+2020-03-21,Hawaii,Honolulu County,Government,61.0,"",61.0,16
+2020-03-21,Hawaii,Honolulu County,School,38.0,"",38.0,17
+2020-03-21,Hawaii,Honolulu County,Nightlife Spots,30.0,"",30.0,18
 2020-03-21,Hawaii,Honolulu County,Hardware Stores,97.0,"",98.0,19
-2020-03-21,Hawaii,Honolulu County,Arts & Entertainment,23.0,"",23.0,20
-2020-03-21,Hawaii,Honolulu County,Sports,20.0,27.0,20.0,21
+2020-03-21,Hawaii,Honolulu County,Arts & Entertainment,29.0,"",29.0,20
+2020-03-21,Hawaii,Honolulu County,Sports,64.0,70.0,63.0,21
 2020-03-21,Hawaii,Honolulu County,Banks,77.0,"",78.0,22
 2020-03-21,Hawaii,Honolulu County,Travel & Transport,46.0,"",47.0,23
-2020-03-21,Hawaii,Honolulu County,Fitness Center,26.0,"",26.0,24
-2020-03-21,Hawaii,Honolulu County,Colleges & Universities,34.0,"",34.0,25
-2020-03-21,Hawaii,Honolulu County,Office,41.0,"",41.0,26
-2020-03-21,Hawaii,Kauai County,Food,16.0,14.0,16.0,1
-2020-03-21,Hawaii,Kauai County,Shops & Services,33.0,28.0,33.0,2
-2020-03-21,Hawaii,Kauai County,Hotel,24.0,28.0,23.0,3
+2020-03-21,Hawaii,Honolulu County,Fitness Center,39.0,"",39.0,24
+2020-03-21,Hawaii,Honolulu County,Colleges & Universities,35.0,"",35.0,25
+2020-03-21,Hawaii,Honolulu County,Office,44.0,"",44.0,26
+2020-03-21,Hawaii,Maui County,Food,35.0,24.0,36.0,1
+2020-03-21,Hawaii,Maui County,Hotel,38.0,31.0,38.0,2
+2020-03-21,Hawaii,Maui County,Shops & Services,44.0,42.0,44.0,3
+2020-03-21,Hawaii,Maui County,Beach,59.0,55.0,59.0,4
+2020-03-21,Hawaii,Maui County,Grocery,71.0,"",72.0,5
+2020-03-21,Hawaii,Maui County,Airport,54.0,"",55.0,6
+2020-03-21,Hawaii,Maui County,Outdoors & Recreation,37.0,"",37.0,7
+2020-03-21,Hawaii,Kauai County,Food,37.0,33.0,38.0,1
+2020-03-21,Hawaii,Kauai County,Shops & Services,47.0,41.0,47.0,2
+2020-03-21,Hawaii,Kauai County,Hotel,34.0,41.0,33.0,3
 2020-03-21,Hawaii,Kauai County,Outdoors & Recreation,36.0,"",36.0,4
 2020-03-21,Hawaii,Kauai County,Grocery,81.0,"",83.0,5
-2020-03-21,Hawaii,Kauai County,Beach,43.0,"",42.0,5
-2020-03-22,Hawaii,Maui County,Food,25.0,13.0,26.0,1
-2020-03-22,Hawaii,Maui County,Hotel,18.0,10.0,19.0,2
-2020-03-22,Hawaii,Maui County,Beach,42.0,32.0,43.0,3
-2020-03-22,Hawaii,Maui County,Shops & Services,19.0,16.0,20.0,4
-2020-03-22,Hawaii,Maui County,Airport,28.0,"",29.0,5
+2020-03-21,Hawaii,Kauai County,Beach,45.0,"",45.0,6
+2020-03-21,Hawaii,Hawaii County,Food,40.0,27.0,41.0,1
+2020-03-21,Hawaii,Hawaii County,Shops & Services,51.0,40.0,52.0,2
+2020-03-21,Hawaii,Hawaii County,Grocery,82.0,63.0,84.0,3
+2020-03-21,Hawaii,Hawaii County,Outdoors & Recreation,45.0,31.0,46.0,4
+2020-03-21,Hawaii,Hawaii County,Hotel,38.0,"",39.0,5
+2020-03-21,Hawaii,Hawaii County,Beach,43.0,"",43.0,6
+2020-03-21,Hawaii,Hawaii County,Airport,56.0,"",56.0,7
+2020-03-21,Hawaii,Hawaii County,Gas Stations,73.0,"",72.0,8
+2020-03-21,Hawaii,Hawaii County,Big Box Stores,75.0,"",76.0,9
+2020-03-22,Hawaii,Maui County,Food,30.0,15.0,31.0,1
+2020-03-22,Hawaii,Maui County,Hotel,30.0,17.0,31.0,2
+2020-03-22,Hawaii,Maui County,Beach,49.0,37.0,49.0,3
+2020-03-22,Hawaii,Maui County,Shops & Services,29.0,23.0,29.0,4
+2020-03-22,Hawaii,Maui County,Airport,41.0,"",43.0,5
 2020-03-22,Hawaii,Maui County,Outdoors & Recreation,31.0,"",31.0,6
 2020-03-22,Hawaii,Maui County,Grocery,45.0,"",46.0,7
-2020-03-22,Hawaii,Hawaii County,Food,15.0,10.0,16.0,1
-2020-03-22,Hawaii,Hawaii County,Shops & Services,23.0,18.0,24.0,2
-2020-03-22,Hawaii,Hawaii County,Outdoors & Recreation,33.0,"",33.0,3
-2020-03-22,Hawaii,Hawaii County,Grocery,61.0,"",62.0,4
-2020-03-22,Hawaii,Hawaii County,Hotel,21.0,"",21.0,5
-2020-03-22,Hawaii,Hawaii County,Beach,34.0,"",35.0,6
-2020-03-22,Hawaii,Hawaii County,Airport,30.0,"",31.0,7
-2020-03-22,Hawaii,Honolulu County,Shops & Services,37.0,33.0,37.0,1
-2020-03-22,Hawaii,Honolulu County,Food,16.0,13.0,16.0,2
+2020-03-22,Hawaii,Honolulu County,Shops & Services,46.0,43.0,46.0,1
+2020-03-22,Hawaii,Honolulu County,Food,39.0,31.0,40.0,2
 2020-03-22,Hawaii,Honolulu County,Grocery,83.0,85.0,83.0,3
-2020-03-22,Hawaii,Honolulu County,Outdoors & Recreation,15.0,13.0,15.0,4
-2020-03-22,Hawaii,Honolulu County,Airport,32.0,18.0,33.0,5
-2020-03-22,Hawaii,Honolulu County,Beach,44.0,35.0,44.0,6
-2020-03-22,Hawaii,Honolulu County,Hotel,19.0,13.0,19.0,7
+2020-03-22,Hawaii,Honolulu County,Outdoors & Recreation,44.0,42.0,44.0,4
+2020-03-22,Hawaii,Honolulu County,Airport,52.0,29.0,53.0,5
+2020-03-22,Hawaii,Honolulu County,Beach,55.0,44.0,55.0,6
+2020-03-22,Hawaii,Honolulu County,Hotel,25.0,16.0,25.0,7
 2020-03-22,Hawaii,Honolulu County,Fast Food Restaurants,62.0,45.0,62.0,8
 2020-03-22,Hawaii,Honolulu County,Residences,60.0,54.0,60.0,9
 2020-03-22,Hawaii,Honolulu County,Drug Store,93.0,109.0,92.0,10
 2020-03-22,Hawaii,Honolulu County,Big Box Stores,79.0,"",79.0,11
 2020-03-22,Hawaii,Honolulu County,Gas Stations,65.0,"",65.0,12
-2020-03-22,Hawaii,Honolulu County,Professional & Other Places,8.0,"",8.0,13
+2020-03-22,Hawaii,Honolulu County,Professional & Other Places,37.0,"",37.0,13
 2020-03-22,Hawaii,Honolulu County,Convenience Store,57.0,"",57.0,14
-2020-03-22,Hawaii,Honolulu County,Nightlife Spots,11.0,"",11.0,15
-2020-03-22,Hawaii,Honolulu County,School,22.0,"",22.0,16
-2020-03-22,Hawaii,Honolulu County,Arts & Entertainment,11.0,"",11.0,17
+2020-03-22,Hawaii,Honolulu County,Nightlife Spots,27.0,"",27.0,15
+2020-03-22,Hawaii,Honolulu County,School,43.0,"",43.0,16
+2020-03-22,Hawaii,Honolulu County,Arts & Entertainment,24.0,"",24.0,17
 2020-03-22,Hawaii,Honolulu County,Hardware Stores,87.0,"",86.0,18
-2020-03-22,Hawaii,Honolulu County,Sports,17.0,"",17.0,19
-2020-03-22,Hawaii,Honolulu County,Government,43.0,"",43.0,20
+2020-03-22,Hawaii,Honolulu County,Sports,46.0,"",47.0,19
+2020-03-22,Hawaii,Honolulu County,Government,63.0,"",63.0,20
 2020-03-22,Hawaii,Honolulu County,Travel & Transport,42.0,"",43.0,21
-2020-03-22,Hawaii,Honolulu County,Medical,29.0,"",29.0,22
+2020-03-22,Hawaii,Honolulu County,Medical,55.0,"",55.0,22
 2020-03-22,Hawaii,Honolulu County,Banks,74.0,"",75.0,23
-2020-03-22,Hawaii,Kauai County,Food,12.0,"",12.0,1
-2020-03-22,Hawaii,Kauai County,Shops & Services,25.0,"",25.0,2
-2020-03-22,Hawaii,Kauai County,Beach,45.0,53.0,44.0,3
+2020-03-22,Hawaii,Hawaii County,Food,33.0,21.0,34.0,1
+2020-03-22,Hawaii,Hawaii County,Shops & Services,41.0,32.0,42.0,2
+2020-03-22,Hawaii,Hawaii County,Outdoors & Recreation,33.0,"",33.0,3
+2020-03-22,Hawaii,Hawaii County,Grocery,61.0,"",62.0,4
+2020-03-22,Hawaii,Hawaii County,Hotel,31.0,"",31.0,5
+2020-03-22,Hawaii,Hawaii County,Beach,38.0,"",39.0,6
+2020-03-22,Hawaii,Hawaii County,Airport,45.0,"",46.0,7
+2020-03-22,Hawaii,Kauai County,Food,28.0,"",29.0,1
+2020-03-22,Hawaii,Kauai County,Shops & Services,36.0,"",36.0,2
+2020-03-22,Hawaii,Kauai County,Beach,47.0,58.0,46.0,3
 2020-03-22,Hawaii,Kauai County,Outdoors & Recreation,38.0,"",39.0,4
-2020-03-23,Hawaii,Maui County,Food,10.0,10.0,10.0,1
-2020-03-23,Hawaii,Maui County,Shops & Services,10.0,10.0,10.0,2
-2020-03-23,Hawaii,Maui County,Hotel,13.0,12.0,13.0,3
-2020-03-23,Hawaii,Maui County,Airport,31.0,"",31.0,4
-2020-03-23,Hawaii,Maui County,Grocery,59.0,"",60.0,5
-2020-03-23,Hawaii,Maui County,Beach,25.0,33.0,25.0,6
-2020-03-23,Hawaii,Maui County,Outdoors & Recreation,7.0,"",7.0,7
-2020-03-23,Hawaii,Honolulu County,Shops & Services,45.0,48.0,45.0,1
-2020-03-23,Hawaii,Honolulu County,Food,18.0,18.0,18.0,2
+2020-03-23,Hawaii,Kauai County,Food,34.0,37.0,34.0,1
+2020-03-23,Hawaii,Kauai County,Shops & Services,38.0,38.0,38.0,2
+2020-03-23,Hawaii,Hawaii County,Food,33.0,22.0,33.0,1
+2020-03-23,Hawaii,Hawaii County,Shops & Services,40.0,30.0,41.0,2
+2020-03-23,Hawaii,Hawaii County,Grocery,71.0,66.0,72.0,3
+2020-03-23,Hawaii,Hawaii County,Outdoors & Recreation,31.0,"",32.0,4
+2020-03-23,Hawaii,Hawaii County,Hotel,27.0,25.0,28.0,5
+2020-03-23,Hawaii,Honolulu County,Shops & Services,57.0,61.0,57.0,1
+2020-03-23,Hawaii,Honolulu County,Food,44.0,44.0,44.0,2
 2020-03-23,Hawaii,Honolulu County,Grocery,107.0,101.0,107.0,3
-2020-03-23,Hawaii,Honolulu County,Outdoors & Recreation,15.0,13.0,15.0,4
-2020-03-23,Hawaii,Honolulu County,Airport,30.0,15.0,30.0,5
+2020-03-23,Hawaii,Honolulu County,Outdoors & Recreation,46.0,39.0,46.0,4
+2020-03-23,Hawaii,Honolulu County,Airport,48.0,24.0,49.0,5
 2020-03-23,Hawaii,Honolulu County,Residences,76.0,76.0,76.0,6
 2020-03-23,Hawaii,Honolulu County,Fast Food Restaurants,71.0,66.0,71.0,7
-2020-03-23,Hawaii,Honolulu County,Professional & Other Places,12.0,11.0,12.0,8
-2020-03-23,Hawaii,Honolulu County,Hotel,16.0,14.0,16.0,9
-2020-03-23,Hawaii,Honolulu County,Beach,37.0,40.0,37.0,10
+2020-03-23,Hawaii,Honolulu County,Professional & Other Places,63.0,60.0,63.0,8
+2020-03-23,Hawaii,Honolulu County,Hotel,22.0,19.0,22.0,9
+2020-03-23,Hawaii,Honolulu County,Beach,46.0,50.0,46.0,10
 2020-03-23,Hawaii,Honolulu County,Drug Store,95.0,116.0,94.0,11
-2020-03-23,Hawaii,Honolulu County,Government,56.0,"",57.0,12
-2020-03-23,Hawaii,Honolulu County,Medical,36.0,34.0,36.0,13
+2020-03-23,Hawaii,Honolulu County,Government,75.0,"",75.0,12
+2020-03-23,Hawaii,Honolulu County,Medical,67.0,62.0,67.0,13
 2020-03-23,Hawaii,Honolulu County,Gas Stations,82.0,75.0,82.0,14
 2020-03-23,Hawaii,Honolulu County,Big Box Stores,89.0,"",89.0,15
 2020-03-23,Hawaii,Honolulu County,Convenience Store,70.0,"",70.0,16
-2020-03-23,Hawaii,Honolulu County,School,29.0,"",29.0,17
-2020-03-23,Hawaii,Honolulu County,Office,67.0,"",67.0,18
+2020-03-23,Hawaii,Honolulu County,School,55.0,"",55.0,17
+2020-03-23,Hawaii,Honolulu County,Office,72.0,"",72.0,18
 2020-03-23,Hawaii,Honolulu County,Hardware Stores,98.0,"",100.0,19
-2020-03-23,Hawaii,Honolulu County,Nightlife Spots,14.0,"",13.0,20
+2020-03-23,Hawaii,Honolulu County,Nightlife Spots,33.0,"",33.0,20
 2020-03-23,Hawaii,Honolulu County,Travel & Transport,61.0,"",61.0,21
-2020-03-23,Hawaii,Honolulu County,Arts & Entertainment,25.0,"",25.0,22
-2020-03-23,Hawaii,Honolulu County,Sports,19.0,"",19.0,23
+2020-03-23,Hawaii,Honolulu County,Arts & Entertainment,29.0,"",29.0,22
+2020-03-23,Hawaii,Honolulu County,Sports,56.0,"",57.0,23
 2020-03-23,Hawaii,Honolulu County,Banks,104.0,"",105.0,24
-2020-03-23,Hawaii,Honolulu County,Fitness Center,32.0,"",32.0,25
-2020-03-23,Hawaii,Honolulu County,Colleges & Universities,37.0,"",37.0,26
-2020-03-23,Hawaii,Kauai County,Food,15.0,16.0,15.0,1
-2020-03-23,Hawaii,Kauai County,Shops & Services,28.0,27.0,28.0,2
-2020-03-23,Hawaii,Hawaii County,Food,14.0,10.0,15.0,1
-2020-03-23,Hawaii,Hawaii County,Shops & Services,10.0,7.0,10.0,2
-2020-03-23,Hawaii,Hawaii County,Grocery,71.0,66.0,72.0,3
-2020-03-23,Hawaii,Hawaii County,Outdoors & Recreation,31.0,"",32.0,4
-2020-03-23,Hawaii,Hawaii County,Hotel,19.0,16.0,19.0,5
-2020-03-24,Hawaii,Maui County,Food,11.0,9.0,11.0,1
-2020-03-24,Hawaii,Maui County,Shops & Services,9.0,8.0,10.0,2
-2020-03-24,Hawaii,Maui County,Hotel,13.0,13.0,13.0,3
-2020-03-24,Hawaii,Maui County,Airport,29.0,42.0,28.0,4
+2020-03-23,Hawaii,Honolulu County,Fitness Center,49.0,"",49.0,25
+2020-03-23,Hawaii,Honolulu County,Colleges & Universities,39.0,"",40.0,26
+2020-03-23,Hawaii,Maui County,Food,24.0,24.0,24.0,1
+2020-03-23,Hawaii,Maui County,Shops & Services,33.0,34.0,33.0,2
+2020-03-23,Hawaii,Maui County,Hotel,22.0,20.0,22.0,3
+2020-03-23,Hawaii,Maui County,Airport,46.0,"",46.0,4
+2020-03-23,Hawaii,Maui County,Grocery,59.0,"",60.0,5
+2020-03-23,Hawaii,Maui County,Beach,29.0,38.0,29.0,6
+2020-03-23,Hawaii,Maui County,Outdoors & Recreation,25.0,"",25.0,7
+2020-03-24,Hawaii,Kauai County,Shops & Services,38.0,29.0,39.0,1
+2020-03-24,Hawaii,Kauai County,Food,24.0,23.0,24.0,2
+2020-03-24,Hawaii,Kauai County,Outdoors & Recreation,35.0,"",36.0,3
+2020-03-24,Hawaii,Maui County,Food,25.0,21.0,26.0,1
+2020-03-24,Hawaii,Maui County,Shops & Services,32.0,27.0,32.0,2
+2020-03-24,Hawaii,Maui County,Hotel,22.0,22.0,22.0,3
+2020-03-24,Hawaii,Maui County,Airport,42.0,60.0,41.0,4
 2020-03-24,Hawaii,Maui County,Grocery,55.0,"",56.0,5
-2020-03-24,Hawaii,Maui County,Beach,25.0,35.0,24.0,6
-2020-03-24,Hawaii,Maui County,Outdoors & Recreation,7.0,"",7.0,7
-2020-03-24,Hawaii,Honolulu County,Shops & Services,38.0,37.0,38.0,1
-2020-03-24,Hawaii,Honolulu County,Food,16.0,15.0,16.0,2
+2020-03-24,Hawaii,Maui County,Beach,29.0,40.0,28.0,6
+2020-03-24,Hawaii,Maui County,Outdoors & Recreation,25.0,"",25.0,7
+2020-03-24,Hawaii,Honolulu County,Shops & Services,48.0,47.0,48.0,1
+2020-03-24,Hawaii,Honolulu County,Food,40.0,36.0,40.0,2
 2020-03-24,Hawaii,Honolulu County,Grocery,78.0,61.0,79.0,3
-2020-03-24,Hawaii,Honolulu County,Outdoors & Recreation,13.0,14.0,13.0,4
-2020-03-24,Hawaii,Honolulu County,Airport,26.0,21.0,26.0,5
-2020-03-24,Hawaii,Honolulu County,Professional & Other Places,9.0,7.0,9.0,6
+2020-03-24,Hawaii,Honolulu County,Outdoors & Recreation,41.0,44.0,41.0,4
+2020-03-24,Hawaii,Honolulu County,Airport,42.0,34.0,43.0,5
+2020-03-24,Hawaii,Honolulu County,Professional & Other Places,48.0,40.0,49.0,6
 2020-03-24,Hawaii,Honolulu County,Fast Food Restaurants,61.0,62.0,61.0,7
 2020-03-24,Hawaii,Honolulu County,Residences,60.0,54.0,60.0,8
-2020-03-24,Hawaii,Honolulu County,Medical,29.0,22.0,29.0,9
-2020-03-24,Hawaii,Honolulu County,Government,40.0,42.0,40.0,10
-2020-03-24,Hawaii,Honolulu County,Hotel,14.0,"",14.0,11
+2020-03-24,Hawaii,Honolulu County,Medical,53.0,41.0,53.0,9
+2020-03-24,Hawaii,Honolulu County,Government,51.0,59.0,51.0,10
+2020-03-24,Hawaii,Honolulu County,Hotel,19.0,"",19.0,11
 2020-03-24,Hawaii,Honolulu County,Drug Store,73.0,82.0,72.0,12
 2020-03-24,Hawaii,Honolulu County,Gas Stations,59.0,"",60.0,13
 2020-03-24,Hawaii,Honolulu County,Big Box Stores,82.0,"",82.0,14
-2020-03-24,Hawaii,Honolulu County,Beach,25.0,"",25.0,15
-2020-03-24,Hawaii,Honolulu County,School,18.0,"",17.0,16
+2020-03-24,Hawaii,Honolulu County,Beach,32.0,"",32.0,15
+2020-03-24,Hawaii,Honolulu County,School,33.0,"",33.0,16
 2020-03-24,Hawaii,Honolulu County,Convenience Store,50.0,78.0,49.0,17
-2020-03-24,Hawaii,Honolulu County,Office,54.0,"",54.0,18
+2020-03-24,Hawaii,Honolulu County,Office,58.0,"",58.0,18
 2020-03-24,Hawaii,Honolulu County,Travel & Transport,55.0,"",55.0,19
-2020-03-24,Hawaii,Honolulu County,Colleges & Universities,35.0,"",35.0,20
+2020-03-24,Hawaii,Honolulu County,Colleges & Universities,38.0,"",38.0,20
 2020-03-24,Hawaii,Honolulu County,Hardware Stores,85.0,"",87.0,21
-2020-03-24,Hawaii,Honolulu County,Nightlife Spots,20.0,"",20.0,22
-2020-03-24,Hawaii,Honolulu County,Arts & Entertainment,22.0,"",22.0,23
+2020-03-24,Hawaii,Honolulu County,Nightlife Spots,29.0,"",29.0,22
+2020-03-24,Hawaii,Honolulu County,Arts & Entertainment,28.0,"",28.0,23
 2020-03-24,Hawaii,Honolulu County,Banks,66.0,"",67.0,24
-2020-03-24,Hawaii,Honolulu County,Sports,15.0,"",15.0,25
-2020-03-24,Hawaii,Honolulu County,Fitness Center,19.0,"",19.0,26
-2020-03-24,Hawaii,Honolulu County,Bus,45.0,"",45.0,27
-2020-03-24,Hawaii,Hawaii County,Food,13.0,10.0,13.0,1
-2020-03-24,Hawaii,Hawaii County,Shops & Services,26.0,23.0,26.0,2
+2020-03-24,Hawaii,Honolulu County,Sports,51.0,"",52.0,25
+2020-03-24,Hawaii,Honolulu County,Fitness Center,29.0,"",29.0,26
+2020-03-24,Hawaii,Honolulu County,Bus,57.0,"",57.0,27
+2020-03-24,Hawaii,Hawaii County,Food,30.0,21.0,30.0,1
+2020-03-24,Hawaii,Hawaii County,Shops & Services,42.0,38.0,42.0,2
 2020-03-24,Hawaii,Hawaii County,Grocery,74.0,59.0,76.0,3
-2020-03-24,Hawaii,Hawaii County,Outdoors & Recreation,10.0,"",10.0,4
-2020-03-24,Hawaii,Hawaii County,Hotel,16.0,"",16.0,5
+2020-03-24,Hawaii,Hawaii County,Outdoors & Recreation,28.0,"",28.0,4
+2020-03-24,Hawaii,Hawaii County,Hotel,23.0,"",24.0,5
 2020-03-24,Hawaii,Hawaii County,Big Box Stores,82.0,"",84.0,6
 2020-03-24,Hawaii,Hawaii County,Gas Stations,63.0,"",64.0,7
-2020-03-24,Hawaii,Kauai County,Shops & Services,27.0,20.0,28.0,1
-2020-03-24,Hawaii,Kauai County,Food,10.0,10.0,10.0,2
-2020-03-24,Hawaii,Kauai County,Outdoors & Recreation,35.0,"",36.0,3
-2020-03-25,Hawaii,Honolulu County,Shops & Services,33.0,30.0,33.0,1
-2020-03-25,Hawaii,Honolulu County,Food,14.0,12.0,15.0,2
+2020-03-25,Hawaii,Hawaii County,Food,26.0,17.0,27.0,1
+2020-03-25,Hawaii,Hawaii County,Shops & Services,34.0,27.0,34.0,2
+2020-03-25,Hawaii,Hawaii County,Grocery,59.0,56.0,59.0,3
+2020-03-25,Hawaii,Hawaii County,Outdoors & Recreation,29.0,"",30.0,4
+2020-03-25,Hawaii,Hawaii County,Hotel,21.0,"",22.0,5
+2020-03-25,Hawaii,Honolulu County,Shops & Services,42.0,38.0,42.0,1
+2020-03-25,Hawaii,Honolulu County,Food,35.0,29.0,35.0,2
 2020-03-25,Hawaii,Honolulu County,Grocery,75.0,79.0,75.0,3
-2020-03-25,Hawaii,Honolulu County,Outdoors & Recreation,12.0,10.0,12.0,4
-2020-03-25,Hawaii,Honolulu County,Airport,25.0,22.0,25.0,5
-2020-03-25,Hawaii,Honolulu County,Professional & Other Places,8.0,6.0,8.0,6
-2020-03-25,Hawaii,Honolulu County,Medical,29.0,23.0,30.0,7
+2020-03-25,Hawaii,Honolulu County,Outdoors & Recreation,37.0,31.0,37.0,4
+2020-03-25,Hawaii,Honolulu County,Airport,40.0,35.0,40.0,5
+2020-03-25,Hawaii,Honolulu County,Professional & Other Places,45.0,35.0,45.0,6
+2020-03-25,Hawaii,Honolulu County,Medical,54.0,42.0,55.0,7
 2020-03-25,Hawaii,Honolulu County,Fast Food Restaurants,51.0,44.0,51.0,8
 2020-03-25,Hawaii,Honolulu County,Residences,51.0,"",51.0,9
-2020-03-25,Hawaii,Honolulu County,Government,34.0,"",34.0,10
-2020-03-25,Hawaii,Honolulu County,Hotel,13.0,"",13.0,11
+2020-03-25,Hawaii,Honolulu County,Government,43.0,"",43.0,10
+2020-03-25,Hawaii,Honolulu County,Hotel,17.0,"",18.0,11
 2020-03-25,Hawaii,Honolulu County,Drug Store,72.0,67.0,72.0,12
-2020-03-25,Hawaii,Honolulu County,Beach,28.0,28.0,28.0,13
-2020-03-25,Hawaii,Honolulu County,School,17.0,"",17.0,14
+2020-03-25,Hawaii,Honolulu County,Beach,35.0,35.0,35.0,13
+2020-03-25,Hawaii,Honolulu County,School,31.0,"",31.0,14
 2020-03-25,Hawaii,Honolulu County,Gas Stations,49.0,52.0,49.0,15
 2020-03-25,Hawaii,Honolulu County,Big Box Stores,77.0,"",77.0,16
 2020-03-25,Hawaii,Honolulu County,Convenience Store,49.0,"",49.0,17
-2020-03-25,Hawaii,Honolulu County,Office,40.0,"",40.0,18
-2020-03-25,Hawaii,Honolulu County,Arts & Entertainment,20.0,"",20.0,19
+2020-03-25,Hawaii,Honolulu County,Office,43.0,"",43.0,18
+2020-03-25,Hawaii,Honolulu County,Arts & Entertainment,24.0,"",24.0,19
 2020-03-25,Hawaii,Honolulu County,Hardware Stores,78.0,"",81.0,20
-2020-03-25,Hawaii,Honolulu County,Nightlife Spots,9.0,"",9.0,21
-2020-03-25,Hawaii,Honolulu County,Sports,14.0,"",14.0,22
+2020-03-25,Hawaii,Honolulu County,Nightlife Spots,23.0,"",23.0,21
+2020-03-25,Hawaii,Honolulu County,Sports,48.0,"",48.0,22
 2020-03-25,Hawaii,Honolulu County,Banks,61.0,"",61.0,23
-2020-03-25,Hawaii,Honolulu County,Colleges & Universities,12.0,"",12.0,24
-2020-03-25,Hawaii,Honolulu County,Fitness Center,16.0,"",16.0,25
+2020-03-25,Hawaii,Honolulu County,Colleges & Universities,26.0,"",26.0,24
+2020-03-25,Hawaii,Honolulu County,Fitness Center,25.0,"",25.0,25
 2020-03-25,Hawaii,Honolulu County,Travel & Transport,35.0,"",35.0,26
-2020-03-25,Hawaii,Kauai County,Shops & Services,12.0,11.0,12.0,1
-2020-03-25,Hawaii,Kauai County,Food,24.0,30.0,23.0,2
-2020-03-25,Hawaii,Maui County,Shops & Services,22.0,18.0,22.0,1
-2020-03-25,Hawaii,Maui County,Food,16.0,12.0,16.0,2
-2020-03-25,Hawaii,Maui County,Hotel,10.0,"",10.0,3
+2020-03-25,Hawaii,Kauai County,Shops & Services,42.0,38.0,42.0,1
+2020-03-25,Hawaii,Kauai County,Food,27.0,34.0,27.0,2
+2020-03-25,Hawaii,Maui County,Shops & Services,31.0,25.0,32.0,1
+2020-03-25,Hawaii,Maui County,Food,19.0,13.0,19.0,2
+2020-03-25,Hawaii,Maui County,Hotel,16.0,"",16.0,3
 2020-03-25,Hawaii,Maui County,Grocery,46.0,"",48.0,4
-2020-03-25,Hawaii,Maui County,Airport,24.0,"",24.0,5
-2020-03-25,Hawaii,Hawaii County,Food,11.0,8.0,12.0,1
-2020-03-25,Hawaii,Hawaii County,Shops & Services,20.0,16.0,21.0,2
-2020-03-25,Hawaii,Hawaii County,Grocery,59.0,56.0,59.0,3
-2020-03-25,Hawaii,Hawaii County,Outdoors & Recreation,29.0,"",30.0,4
-2020-03-25,Hawaii,Hawaii County,Hotel,14.0,"",15.0,5
-2020-03-26,Hawaii,Honolulu County,Shops & Services,15.0,14.0,15.0,1
-2020-03-26,Hawaii,Honolulu County,Food,14.0,12.0,14.0,2
+2020-03-25,Hawaii,Maui County,Airport,36.0,"",36.0,5
+2020-03-26,Hawaii,Honolulu County,Shops & Services,43.0,41.0,43.0,1
+2020-03-26,Hawaii,Honolulu County,Food,34.0,28.0,34.0,2
 2020-03-26,Hawaii,Honolulu County,Grocery,85.0,73.0,86.0,3
-2020-03-26,Hawaii,Honolulu County,Outdoors & Recreation,13.0,10.0,13.0,4
+2020-03-26,Hawaii,Honolulu County,Outdoors & Recreation,38.0,30.0,38.0,4
 2020-03-26,Hawaii,Honolulu County,Residences,60.0,53.0,60.0,5
 2020-03-26,Hawaii,Honolulu County,Fast Food Restaurants,56.0,40.0,57.0,6
-2020-03-26,Hawaii,Honolulu County,Professional & Other Places,7.0,6.0,7.0,7
+2020-03-26,Hawaii,Honolulu County,Professional & Other Places,38.0,30.0,39.0,7
 2020-03-26,Hawaii,Honolulu County,Drug Store,78.0,76.0,78.0,8
-2020-03-26,Hawaii,Honolulu County,Airport,16.0,"",16.0,9
-2020-03-26,Hawaii,Honolulu County,Medical,23.0,17.0,23.0,10
-2020-03-26,Hawaii,Honolulu County,Government,29.0,"",30.0,11
-2020-03-26,Hawaii,Honolulu County,Hotel,10.0,"",10.0,12
-2020-03-26,Hawaii,Honolulu County,Beach,26.0,"",26.0,13
+2020-03-26,Hawaii,Honolulu County,Airport,26.0,"",26.0,9
+2020-03-26,Hawaii,Honolulu County,Medical,42.0,31.0,42.0,10
+2020-03-26,Hawaii,Honolulu County,Government,38.0,"",38.0,11
+2020-03-26,Hawaii,Honolulu County,Hotel,13.0,"",14.0,12
+2020-03-26,Hawaii,Honolulu County,Beach,32.0,"",32.0,13
 2020-03-26,Hawaii,Honolulu County,Big Box Stores,76.0,"",76.0,14
 2020-03-26,Hawaii,Honolulu County,Gas Stations,49.0,"",49.0,15
-2020-03-26,Hawaii,Honolulu County,School,17.0,"",17.0,16
+2020-03-26,Hawaii,Honolulu County,School,31.0,"",31.0,16
 2020-03-26,Hawaii,Honolulu County,Convenience Store,50.0,"",50.0,17
-2020-03-26,Hawaii,Honolulu County,Office,40.0,"",40.0,18
+2020-03-26,Hawaii,Honolulu County,Office,43.0,"",44.0,18
 2020-03-26,Hawaii,Honolulu County,Hardware Stores,76.0,"",77.0,19
-2020-03-26,Hawaii,Honolulu County,Arts & Entertainment,18.0,"",18.0,20
-2020-03-26,Hawaii,Honolulu County,Nightlife Spots,9.0,"",9.0,21
-2020-03-26,Hawaii,Honolulu County,Sports,14.0,"",14.0,22
+2020-03-26,Hawaii,Honolulu County,Arts & Entertainment,22.0,"",23.0,20
+2020-03-26,Hawaii,Honolulu County,Nightlife Spots,23.0,"",23.0,21
+2020-03-26,Hawaii,Honolulu County,Sports,45.0,"",46.0,22
 2020-03-26,Hawaii,Honolulu County,Travel & Transport,41.0,"",42.0,23
 2020-03-26,Hawaii,Honolulu County,Banks,58.0,"",58.0,24
-2020-03-26,Hawaii,Honolulu County,Colleges & Universities,12.0,"",12.0,25
-2020-03-26,Hawaii,Honolulu County,Fitness Center,18.0,"",18.0,26
-2020-03-26,Hawaii,Maui County,Shops & Services,19.0,18.0,19.0,1
-2020-03-26,Hawaii,Maui County,Food,7.0,7.0,7.0,2
+2020-03-26,Hawaii,Honolulu County,Colleges & Universities,27.0,"",27.0,25
+2020-03-26,Hawaii,Honolulu County,Fitness Center,28.0,"",28.0,26
+2020-03-26,Hawaii,Maui County,Shops & Services,28.0,27.0,28.0,1
+2020-03-26,Hawaii,Maui County,Food,16.0,16.0,16.0,2
 2020-03-26,Hawaii,Maui County,Grocery,44.0,"",45.0,3
-2020-03-26,Hawaii,Maui County,Hotel,7.0,"",7.0,4
-2020-03-26,Hawaii,Hawaii County,Food,10.0,"",10.0,1
-2020-03-26,Hawaii,Hawaii County,Shops & Services,17.0,"",18.0,2
+2020-03-26,Hawaii,Maui County,Hotel,11.0,"",11.0,4
+2020-03-26,Hawaii,Hawaii County,Food,22.0,"",23.0,1
+2020-03-26,Hawaii,Hawaii County,Shops & Services,29.0,"",29.0,2
 2020-03-26,Hawaii,Hawaii County,Outdoors & Recreation,27.0,"",27.0,3
 2020-03-26,Hawaii,Hawaii County,Grocery,49.0,"",49.0,4
-2020-03-27,Hawaii,Honolulu County,Shops & Services,32.0,29.0,32.0,1
-2020-03-27,Hawaii,Honolulu County,Food,13.0,11.0,13.0,2
+2020-03-27,Hawaii,Hawaii County,Food,22.0,"",23.0,1
+2020-03-27,Hawaii,Hawaii County,Shops & Services,29.0,26.0,30.0,2
+2020-03-27,Hawaii,Hawaii County,Grocery,48.0,"",49.0,3
+2020-03-27,Hawaii,Hawaii County,Outdoors & Recreation,32.0,"",32.0,4
+2020-03-27,Hawaii,Honolulu County,Shops & Services,41.0,37.0,41.0,1
+2020-03-27,Hawaii,Honolulu County,Food,32.0,26.0,32.0,2
 2020-03-27,Hawaii,Honolulu County,Grocery,69.0,56.0,70.0,3
 2020-03-27,Hawaii,Honolulu County,Outdoors & Recreation,37.0,24.0,37.0,4
 2020-03-27,Hawaii,Honolulu County,Fast Food Restaurants,52.0,49.0,52.0,5
 2020-03-27,Hawaii,Honolulu County,Residences,56.0,52.0,56.0,6
-2020-03-27,Hawaii,Honolulu County,Professional & Other Places,7.0,6.0,7.0,7
-2020-03-27,Hawaii,Honolulu County,Medical,25.0,24.0,25.0,8
-2020-03-27,Hawaii,Honolulu County,Government,28.0,"",29.0,9
+2020-03-27,Hawaii,Honolulu County,Professional & Other Places,38.0,31.0,39.0,7
+2020-03-27,Hawaii,Honolulu County,Medical,46.0,44.0,46.0,8
+2020-03-27,Hawaii,Honolulu County,Government,37.0,"",37.0,9
 2020-03-27,Hawaii,Honolulu County,Drug Store,55.0,53.0,55.0,10
-2020-03-27,Hawaii,Honolulu County,Airport,12.0,"",13.0,11
-2020-03-27,Hawaii,Honolulu County,Beach,24.0,"",25.0,12
-2020-03-27,Hawaii,Honolulu County,Hotel,9.0,"",9.0,13
+2020-03-27,Hawaii,Honolulu County,Airport,20.0,"",20.0,11
+2020-03-27,Hawaii,Honolulu County,Beach,30.0,"",31.0,12
+2020-03-27,Hawaii,Honolulu County,Hotel,12.0,"",12.0,13
 2020-03-27,Hawaii,Honolulu County,Gas Stations,51.0,"",51.0,14
-2020-03-27,Hawaii,Honolulu County,School,16.0,"",16.0,14
-2020-03-27,Hawaii,Honolulu County,Big Box Stores,64.0,"",65.0,15
-2020-03-27,Hawaii,Honolulu County,Convenience Store,44.0,"",44.0,16
-2020-03-27,Hawaii,Honolulu County,Hardware Stores,80.0,"",80.0,17
-2020-03-27,Hawaii,Honolulu County,Office,43.0,"",43.0,17
-2020-03-27,Hawaii,Honolulu County,Banks,67.0,"",67.0,18
-2020-03-27,Hawaii,Honolulu County,Arts & Entertainment,20.0,"",20.0,19
-2020-03-27,Hawaii,Honolulu County,Nightlife Spots,10.0,"",10.0,20
-2020-03-27,Hawaii,Honolulu County,Travel & Transport,41.0,"",41.0,21
-2020-03-27,Hawaii,Honolulu County,Colleges & Universities,13.0,"",13.0,21
-2020-03-27,Hawaii,Honolulu County,Sports,12.0,"",12.0,22
-2020-03-27,Hawaii,Honolulu County,Fitness Center,17.0,"",17.0,23
-2020-03-27,Hawaii,Hawaii County,Food,9.0,"",10.0,1
-2020-03-27,Hawaii,Hawaii County,Shops & Services,17.0,15.0,17.0,2
-2020-03-27,Hawaii,Hawaii County,Grocery,48.0,"",49.0,3
-2020-03-27,Hawaii,Hawaii County,Outdoors & Recreation,32.0,"",32.0,4
-2020-03-27,Hawaii,Maui County,Food,6.0,7.0,6.0,1
-2020-03-27,Hawaii,Maui County,Shops & Services,17.0,"",18.0,2
-2020-03-28,Hawaii,Honolulu County,Shops & Services,29.0,25.0,29.0,1
-2020-03-28,Hawaii,Honolulu County,Food,12.0,11.0,12.0,2
+2020-03-27,Hawaii,Honolulu County,School,30.0,"",30.0,15
+2020-03-27,Hawaii,Honolulu County,Big Box Stores,64.0,"",65.0,16
+2020-03-27,Hawaii,Honolulu County,Convenience Store,44.0,"",44.0,17
+2020-03-27,Hawaii,Honolulu County,Hardware Stores,80.0,"",80.0,18
+2020-03-27,Hawaii,Honolulu County,Office,46.0,"",47.0,19
+2020-03-27,Hawaii,Honolulu County,Banks,67.0,"",67.0,20
+2020-03-27,Hawaii,Honolulu County,Arts & Entertainment,24.0,"",24.0,21
+2020-03-27,Hawaii,Honolulu County,Nightlife Spots,25.0,"",25.0,22
+2020-03-27,Hawaii,Honolulu County,Travel & Transport,41.0,"",41.0,23
+2020-03-27,Hawaii,Honolulu County,Colleges & Universities,28.0,"",28.0,24
+2020-03-27,Hawaii,Honolulu County,Sports,41.0,"",42.0,25
+2020-03-27,Hawaii,Honolulu County,Fitness Center,26.0,"",26.0,26
+2020-03-27,Hawaii,Maui County,Food,15.0,17.0,15.0,1
+2020-03-27,Hawaii,Maui County,Shops & Services,25.0,"",25.0,2
+2020-03-28,Hawaii,Honolulu County,Shops & Services,37.0,32.0,37.0,1
+2020-03-28,Hawaii,Honolulu County,Food,30.0,26.0,30.0,2
 2020-03-28,Hawaii,Honolulu County,Grocery,71.0,62.0,71.0,3
 2020-03-28,Hawaii,Honolulu County,Outdoors & Recreation,34.0,28.0,35.0,4
 2020-03-28,Hawaii,Honolulu County,Residences,55.0,51.0,55.0,5
 2020-03-28,Hawaii,Honolulu County,Fast Food Restaurants,44.0,"",44.0,6
 2020-03-28,Hawaii,Honolulu County,Drug Store,67.0,62.0,67.0,7
-2020-03-28,Hawaii,Honolulu County,Professional & Other Places,7.0,"",7.0,8
+2020-03-28,Hawaii,Honolulu County,Professional & Other Places,35.0,"",36.0,8
 2020-03-28,Hawaii,Honolulu County,Big Box Stores,72.0,"",72.0,9
-2020-03-28,Hawaii,Honolulu County,Beach,21.0,"",21.0,10
+2020-03-28,Hawaii,Honolulu County,Beach,27.0,"",27.0,10
 2020-03-28,Hawaii,Honolulu County,Gas Stations,49.0,"",49.0,11
-2020-03-28,Hawaii,Honolulu County,Medical,27.0,29.0,27.0,12
-2020-03-28,Hawaii,Honolulu County,Hotel,8.0,"",8.0,13
+2020-03-28,Hawaii,Honolulu County,Medical,49.0,53.0,49.0,12
+2020-03-28,Hawaii,Honolulu County,Hotel,10.0,"",10.0,13
 2020-03-28,Hawaii,Honolulu County,Convenience Store,41.0,"",41.0,14
-2020-03-28,Hawaii,Honolulu County,School,16.0,"",16.0,15
-2020-03-28,Hawaii,Honolulu County,Government,31.0,"",31.0,16
+2020-03-28,Hawaii,Honolulu County,School,30.0,"",31.0,15
+2020-03-28,Hawaii,Honolulu County,Government,43.0,"",43.0,16
 2020-03-28,Hawaii,Honolulu County,Hardware Stores,68.0,"",70.0,17
-2020-03-28,Hawaii,Honolulu County,Airport,8.0,"",8.0,18
-2020-03-28,Hawaii,Honolulu County,Nightlife Spots,7.0,"",7.0,19
-2020-03-28,Hawaii,Honolulu County,Arts & Entertainment,14.0,"",14.0,20
+2020-03-28,Hawaii,Honolulu County,Airport,12.0,"",12.0,18
+2020-03-28,Hawaii,Honolulu County,Nightlife Spots,18.0,"",18.0,19
 2020-03-28,Hawaii,Honolulu County,Sports,40.0,"",40.0,20
-2020-03-28,Hawaii,Honolulu County,Banks,52.0,"",52.0,21
-2020-03-28,Hawaii,Honolulu County,Travel & Transport,27.0,"",28.0,22
-2020-03-28,Hawaii,Hawaii County,Food,10.0,8.0,10.0,1
+2020-03-28,Hawaii,Honolulu County,Arts & Entertainment,17.0,"",17.0,21
+2020-03-28,Hawaii,Honolulu County,Banks,52.0,"",52.0,22
+2020-03-28,Hawaii,Honolulu County,Travel & Transport,27.0,"",28.0,23
+2020-03-28,Hawaii,Hawaii County,Food,23.0,18.0,23.0,1
 2020-03-28,Hawaii,Hawaii County,Grocery,57.0,54.0,58.0,2
-2020-03-28,Hawaii,Hawaii County,Shops & Services,16.0,13.0,16.0,3
-2020-03-28,Hawaii,Maui County,Shops & Services,14.0,"",15.0,1
-2020-03-28,Hawaii,Maui County,Food,6.0,"",6.0,2
+2020-03-28,Hawaii,Hawaii County,Shops & Services,28.0,24.0,28.0,3
+2020-03-28,Hawaii,Maui County,Shops & Services,21.0,"",21.0,1
+2020-03-28,Hawaii,Maui County,Food,13.0,"",13.0,2
 2020-03-28,Hawaii,Maui County,Grocery,41.0,"",42.0,3
-2020-03-29,Hawaii,Hawaii County,Food,6.0,"",7.0,1
+2020-03-29,Hawaii,Hawaii County,Food,15.0,"",15.0,1
 2020-03-29,Hawaii,Hawaii County,Grocery,38.0,"",39.0,2
-2020-03-29,Hawaii,Honolulu County,Shops & Services,22.0,20.0,22.0,1
-2020-03-29,Hawaii,Honolulu County,Food,9.0,8.0,9.0,2
+2020-03-29,Hawaii,Honolulu County,Shops & Services,28.0,26.0,28.0,1
+2020-03-29,Hawaii,Honolulu County,Food,22.0,18.0,22.0,2
 2020-03-29,Hawaii,Honolulu County,Grocery,52.0,44.0,52.0,3
-2020-03-29,Hawaii,Honolulu County,Outdoors & Recreation,9.0,9.0,9.0,4
+2020-03-29,Hawaii,Honolulu County,Outdoors & Recreation,27.0,28.0,27.0,4
 2020-03-29,Hawaii,Honolulu County,Fast Food Restaurants,43.0,"",43.0,5
 2020-03-29,Hawaii,Honolulu County,Residences,39.0,"",39.0,6
 2020-03-29,Hawaii,Honolulu County,Drug Store,62.0,74.0,61.0,7
-2020-03-29,Hawaii,Honolulu County,Beach,18.0,"",18.0,8
 2020-03-29,Hawaii,Honolulu County,Big Box Stores,60.0,"",60.0,8
-2020-03-29,Hawaii,Honolulu County,Hotel,6.0,"",6.0,9
-2020-03-29,Hawaii,Honolulu County,Professional & Other Places,5.0,"",6.0,10
-2020-03-29,Hawaii,Honolulu County,Convenience Store,40.0,"",40.0,11
-2020-03-29,Hawaii,Honolulu County,Gas Stations,39.0,"",39.0,12
-2020-03-29,Hawaii,Honolulu County,Hardware Stores,69.0,"",69.0,13
-2020-03-29,Hawaii,Honolulu County,School,15.0,"",16.0,14
-2020-03-29,Hawaii,Honolulu County,Airport,6.0,"",6.0,15
-2020-03-29,Hawaii,Honolulu County,Sports,11.0,"",11.0,16
-2020-03-29,Hawaii,Maui County,Shops & Services,4.0,"",4.0,1
-2020-03-29,Hawaii,Maui County,Food,8.0,"",8.0,2
-2020-03-30,Hawaii,Maui County,Food,5.0,"",5.0,1
-2020-03-30,Hawaii,Maui County,Shops & Services,12.0,"",12.0,2
-2020-03-30,Hawaii,Hawaii County,Food,17.0,"",17.0,1
+2020-03-29,Hawaii,Honolulu County,Beach,23.0,"",23.0,9
+2020-03-29,Hawaii,Honolulu County,Hotel,8.0,"",8.0,10
+2020-03-29,Hawaii,Honolulu County,Professional & Other Places,27.0,"",27.0,11
+2020-03-29,Hawaii,Honolulu County,Convenience Store,40.0,"",40.0,12
+2020-03-29,Hawaii,Honolulu County,Gas Stations,39.0,"",39.0,13
+2020-03-29,Hawaii,Honolulu County,Hardware Stores,69.0,"",69.0,14
+2020-03-29,Hawaii,Honolulu County,School,30.0,"",30.0,15
+2020-03-29,Hawaii,Honolulu County,Airport,10.0,"",10.0,16
+2020-03-29,Hawaii,Honolulu County,Sports,32.0,"",32.0,17
+2020-03-29,Hawaii,Maui County,Shops & Services,16.0,"",16.0,1
+2020-03-29,Hawaii,Maui County,Food,10.0,"",10.0,2
+2020-03-30,Hawaii,Maui County,Food,13.0,"",13.0,1
+2020-03-30,Hawaii,Maui County,Shops & Services,19.0,"",19.0,2
+2020-03-30,Hawaii,Hawaii County,Food,19.0,"",19.0,1
 2020-03-30,Hawaii,Hawaii County,Grocery,45.0,"",46.0,2
-2020-03-30,Hawaii,Hawaii County,Shops & Services,15.0,"",15.0,3
-2020-03-30,Hawaii,Honolulu County,Shops & Services,13.0,12.0,13.0,1
-2020-03-30,Hawaii,Honolulu County,Food,12.0,12.0,12.0,2
+2020-03-30,Hawaii,Hawaii County,Shops & Services,25.0,"",25.0,3
+2020-03-30,Hawaii,Honolulu County,Shops & Services,37.0,36.0,37.0,1
+2020-03-30,Hawaii,Honolulu County,Food,30.0,30.0,30.0,2
 2020-03-30,Hawaii,Honolulu County,Grocery,64.0,63.0,64.0,3
-2020-03-30,Hawaii,Honolulu County,Outdoors & Recreation,12.0,11.0,12.0,4
+2020-03-30,Hawaii,Honolulu County,Outdoors & Recreation,35.0,35.0,35.0,4
 2020-03-30,Hawaii,Honolulu County,Fast Food Restaurants,57.0,50.0,58.0,5
 2020-03-30,Hawaii,Honolulu County,Residences,54.0,51.0,54.0,6
-2020-03-30,Hawaii,Honolulu County,Professional & Other Places,8.0,"",8.0,7
+2020-03-30,Hawaii,Honolulu County,Professional & Other Places,41.0,"",41.0,7
 2020-03-30,Hawaii,Honolulu County,Drug Store,69.0,67.0,69.0,8
-2020-03-30,Hawaii,Honolulu County,Beach,21.0,"",21.0,9
+2020-03-30,Hawaii,Honolulu County,Beach,26.0,"",26.0,9
 2020-03-30,Hawaii,Honolulu County,Big Box Stores,72.0,"",72.0,10
-2020-03-30,Hawaii,Honolulu County,Medical,24.0,"",24.0,11
-2020-03-30,Hawaii,Honolulu County,School,26.0,35.0,25.0,12
+2020-03-30,Hawaii,Honolulu County,Medical,44.0,"",44.0,11
+2020-03-30,Hawaii,Honolulu County,School,48.0,65.0,47.0,12
 2020-03-30,Hawaii,Honolulu County,Gas Stations,50.0,"",50.0,13
-2020-03-30,Hawaii,Honolulu County,Government,30.0,"",31.0,14
+2020-03-30,Hawaii,Honolulu County,Government,40.0,"",41.0,14
 2020-03-30,Hawaii,Honolulu County,Convenience Store,49.0,"",49.0,15
-2020-03-30,Hawaii,Honolulu County,Airport,9.0,"",9.0,16
-2020-03-30,Hawaii,Honolulu County,Hotel,7.0,"",7.0,17
+2020-03-30,Hawaii,Honolulu County,Airport,14.0,"",15.0,16
+2020-03-30,Hawaii,Honolulu County,Hotel,9.0,"",9.0,17
 2020-03-30,Hawaii,Honolulu County,Hardware Stores,68.0,"",70.0,18
-2020-03-30,Hawaii,Honolulu County,Arts & Entertainment,16.0,"",16.0,19
+2020-03-30,Hawaii,Honolulu County,Arts & Entertainment,19.0,"",19.0,19
 2020-03-30,Hawaii,Honolulu County,Banks,71.0,"",70.0,20
 2020-03-30,Hawaii,Honolulu County,Travel & Transport,35.0,"",35.0,21
-2020-03-30,Hawaii,Honolulu County,Office,34.0,"",34.0,22
-2020-03-30,Hawaii,Honolulu County,Sports,12.0,"",12.0,23
-2020-03-31,Hawaii,Maui County,Shops & Services,16.0,15.0,16.0,1
-2020-03-31,Hawaii,Maui County,Food,9.0,"",9.0,2
-2020-03-31,Hawaii,Maui County,Grocery,43.0,"",43.0,3
-2020-03-31,Hawaii,Honolulu County,Shops & Services,30.0,27.0,30.0,1
-2020-03-31,Hawaii,Honolulu County,Food,13.0,10.0,13.0,2
-2020-03-31,Hawaii,Honolulu County,Grocery,62.0,57.0,62.0,3
-2020-03-31,Hawaii,Honolulu County,Outdoors & Recreation,11.0,10.0,11.0,4
-2020-03-31,Hawaii,Honolulu County,Fast Food Restaurants,55.0,47.0,55.0,5
-2020-03-31,Hawaii,Honolulu County,Professional & Other Places,7.0,"",7.0,6
-2020-03-31,Hawaii,Honolulu County,Residences,51.0,54.0,51.0,7
-2020-03-31,Hawaii,Honolulu County,Drug Store,63.0,56.0,64.0,8
-2020-03-31,Hawaii,Honolulu County,Medical,21.0,"",21.0,9
-2020-03-31,Hawaii,Honolulu County,Government,27.0,"",27.0,10
-2020-03-31,Hawaii,Honolulu County,Gas Stations,51.0,"",52.0,11
-2020-03-31,Hawaii,Honolulu County,Airport,10.0,"",11.0,12
-2020-03-31,Hawaii,Honolulu County,Big Box Stores,69.0,"",69.0,12
-2020-03-31,Hawaii,Honolulu County,School,17.0,"",17.0,13
-2020-03-31,Hawaii,Honolulu County,Beach,21.0,"",21.0,14
-2020-03-31,Hawaii,Honolulu County,Convenience Store,43.0,"",43.0,15
-2020-03-31,Hawaii,Honolulu County,Hotel,7.0,"",7.0,16
-2020-03-31,Hawaii,Honolulu County,Hardware Stores,85.0,"",87.0,17
-2020-03-31,Hawaii,Honolulu County,Arts & Entertainment,18.0,"",19.0,18
-2020-03-31,Hawaii,Honolulu County,Sports,14.0,"",14.0,19
-2020-03-31,Hawaii,Honolulu County,Office,31.0,"",31.0,20
-2020-03-31,Hawaii,Honolulu County,Banks,56.0,"",56.0,21
-2020-03-31,Hawaii,Honolulu County,Colleges & Universities,12.0,"",12.0,22
-2020-03-31,Hawaii,Hawaii County,Food,8.0,7.0,9.0,1
-2020-03-31,Hawaii,Hawaii County,Shops & Services,17.0,18.0,17.0,2
+2020-03-30,Hawaii,Honolulu County,Office,37.0,"",36.0,22
+2020-03-30,Hawaii,Honolulu County,Sports,35.0,"",35.0,23
+2020-03-31,Hawaii,Hawaii County,Food,20.0,17.0,20.0,1
+2020-03-31,Hawaii,Hawaii County,Shops & Services,30.0,31.0,30.0,2
 2020-03-31,Hawaii,Hawaii County,Grocery,47.0,50.0,47.0,3
 2020-03-31,Hawaii,Hawaii County,Outdoors & Recreation,20.0,"",20.0,4
+2020-03-31,Hawaii,Honolulu County,Shops & Services,37.0,34.0,38.0,1
+2020-03-31,Hawaii,Honolulu County,Food,31.0,24.0,31.0,2
+2020-03-31,Hawaii,Honolulu County,Grocery,62.0,57.0,62.0,3
+2020-03-31,Hawaii,Honolulu County,Outdoors & Recreation,34.0,31.0,34.0,4
+2020-03-31,Hawaii,Honolulu County,Fast Food Restaurants,55.0,47.0,55.0,5
+2020-03-31,Hawaii,Honolulu County,Professional & Other Places,38.0,"",39.0,6
+2020-03-31,Hawaii,Honolulu County,Residences,51.0,54.0,51.0,7
+2020-03-31,Hawaii,Honolulu County,Drug Store,63.0,56.0,64.0,8
+2020-03-31,Hawaii,Honolulu County,Medical,38.0,"",39.0,9
+2020-03-31,Hawaii,Honolulu County,Government,35.0,"",35.0,10
+2020-03-31,Hawaii,Honolulu County,Gas Stations,51.0,"",52.0,11
+2020-03-31,Hawaii,Honolulu County,Big Box Stores,69.0,"",69.0,12
+2020-03-31,Hawaii,Honolulu County,Airport,17.0,"",17.0,13
+2020-03-31,Hawaii,Honolulu County,School,31.0,"",31.0,14
+2020-03-31,Hawaii,Honolulu County,Beach,27.0,"",26.0,15
+2020-03-31,Hawaii,Honolulu County,Convenience Store,43.0,"",43.0,16
+2020-03-31,Hawaii,Honolulu County,Hotel,9.0,"",9.0,17
+2020-03-31,Hawaii,Honolulu County,Hardware Stores,85.0,"",87.0,18
+2020-03-31,Hawaii,Honolulu County,Arts & Entertainment,23.0,"",23.0,19
+2020-03-31,Hawaii,Honolulu County,Sports,48.0,"",49.0,20
+2020-03-31,Hawaii,Honolulu County,Office,34.0,"",34.0,21
+2020-03-31,Hawaii,Honolulu County,Banks,56.0,"",56.0,22
+2020-03-31,Hawaii,Honolulu County,Colleges & Universities,25.0,"",25.0,23
+2020-03-31,Hawaii,Maui County,Shops & Services,23.0,21.0,23.0,1
+2020-03-31,Hawaii,Maui County,Food,11.0,"",11.0,2
+2020-03-31,Hawaii,Maui County,Grocery,43.0,"",43.0,3
+2020-04-01,Hawaii,Hawaii County,Food,18.0,"",18.0,1
+2020-04-01,Hawaii,Hawaii County,Shops & Services,26.0,"",27.0,2
+2020-04-01,Hawaii,Hawaii County,Grocery,42.0,"",42.0,3
+2020-04-01,Hawaii,Hawaii County,Outdoors & Recreation,24.0,"",24.0,4
+2020-04-01,Hawaii,Honolulu County,Shops & Services,39.0,35.0,39.0,1
+2020-04-01,Hawaii,Honolulu County,Food,33.0,29.0,33.0,2
+2020-04-01,Hawaii,Honolulu County,Grocery,67.0,57.0,67.0,3
+2020-04-01,Hawaii,Honolulu County,Outdoors & Recreation,38.0,26.0,38.0,4
+2020-04-01,Hawaii,Honolulu County,Fast Food Restaurants,53.0,49.0,54.0,5
+2020-04-01,Hawaii,Honolulu County,Professional & Other Places,40.0,33.0,41.0,6
+2020-04-01,Hawaii,Honolulu County,Residences,51.0,42.0,52.0,7
+2020-04-01,Hawaii,Honolulu County,Drug Store,68.0,50.0,69.0,8
+2020-04-01,Hawaii,Honolulu County,Medical,34.0,30.0,35.0,9
+2020-04-01,Hawaii,Honolulu County,Government,34.0,"",34.0,10
+2020-04-01,Hawaii,Honolulu County,Big Box Stores,73.0,"",74.0,11
+2020-04-01,Hawaii,Honolulu County,Gas Stations,44.0,"",45.0,12
+2020-04-01,Hawaii,Honolulu County,School,26.0,"",26.0,13
+2020-04-01,Hawaii,Honolulu County,Convenience Store,46.0,"",46.0,14
+2020-04-01,Hawaii,Honolulu County,Beach,25.0,"",24.0,15
+2020-04-01,Hawaii,Honolulu County,Airport,16.0,"",17.0,16
+2020-04-01,Hawaii,Honolulu County,Hotel,9.0,"",9.0,17
+2020-04-01,Hawaii,Honolulu County,Arts & Entertainment,25.0,"",25.0,18
+2020-04-01,Hawaii,Honolulu County,Hardware Stores,80.0,"",82.0,19
+2020-04-01,Hawaii,Honolulu County,Banks,70.0,"",71.0,20
+2020-04-01,Hawaii,Honolulu County,Colleges & Universities,27.0,"",27.0,21
+2020-04-01,Hawaii,Honolulu County,Office,33.0,"",33.0,22
+2020-04-01,Hawaii,Honolulu County,Sports,43.0,"",43.0,23
+2020-04-01,Hawaii,Honolulu County,Travel & Transport,40.0,"",40.0,24
+2020-04-01,Hawaii,Maui County,Food,13.0,17.0,13.0,1
+2020-04-01,Hawaii,Maui County,Shops & Services,23.0,24.0,23.0,2

@@ -1,872 +1,899 @@
-2020-03-01,Kentucky,Food,59.0,57.0,59.0,1
-2020-03-01,Kentucky,Shops & Services,37.0,33.0,37.0,2
+2020-03-01,Kentucky,Food,113.0,107.0,113.0,1
+2020-03-01,Kentucky,Shops & Services,117.0,105.0,117.0,2
 2020-03-01,Kentucky,Gas Stations,113.0,118.0,113.0,3
 2020-03-01,Kentucky,Fast Food Restaurants,120.0,116.0,120.0,4
 2020-03-01,Kentucky,Grocery,100.0,100.0,100.0,5
 2020-03-01,Kentucky,Big Box Stores,110.0,105.0,111.0,6
-2020-03-01,Kentucky,Outdoors & Recreation,73.0,70.0,74.0,7
-2020-03-01,Kentucky,Arts & Entertainment,104.0,95.0,105.0,8
-2020-03-01,Kentucky,Nightlife Spots,71.0,64.0,71.0,9
-2020-03-01,Kentucky,Professional & Other Places,25.0,20.0,25.0,10
-2020-03-01,Kentucky,School,69.0,70.0,69.0,11
+2020-03-01,Kentucky,Outdoors & Recreation,125.0,119.0,125.0,7
+2020-03-01,Kentucky,Arts & Entertainment,119.0,109.0,119.0,8
+2020-03-01,Kentucky,Nightlife Spots,107.0,98.0,108.0,9
+2020-03-01,Kentucky,Professional & Other Places,113.0,104.0,113.0,10
+2020-03-01,Kentucky,School,112.0,112.0,112.0,11
 2020-03-01,Kentucky,Discount Stores,110.0,102.0,110.0,12
-2020-03-01,Kentucky,Hotel,110.0,99.0,111.0,13
-2020-03-01,Kentucky,Medical,61.0,61.0,61.0,14
+2020-03-01,Kentucky,Hotel,125.0,112.0,125.0,13
+2020-03-01,Kentucky,Medical,105.0,103.0,105.0,14
 2020-03-01,Kentucky,Hardware Stores,125.0,116.0,126.0,15
-2020-03-01,Kentucky,Colleges & Universities,71.0,78.0,71.0,16
+2020-03-01,Kentucky,Colleges & Universities,127.0,144.0,127.0,16
 2020-03-01,Kentucky,Convenience Store,113.0,104.0,113.0,17
-2020-03-01,Kentucky,Airport,60.0,51.0,61.0,18
+2020-03-01,Kentucky,Airport,98.0,84.0,98.0,18
 2020-03-01,Kentucky,Drug Store,111.0,101.0,111.0,19
 2020-03-01,Kentucky,Residences,108.0,103.0,108.0,20
-2020-03-01,Kentucky,Sports,58.0,68.0,57.0,21
-2020-03-01,Kentucky,Fitness Center,78.0,76.0,78.0,22
-2020-03-01,Kentucky,Travel & Transport,38.0,41.0,38.0,23
-2020-03-01,Kentucky,Government,78.0,87.0,78.0,24
-2020-03-01,Kentucky,Office,96.0,77.0,97.0,25
+2020-03-01,Kentucky,Sports,124.0,137.0,123.0,21
+2020-03-01,Kentucky,Fitness Center,106.0,108.0,106.0,22
+2020-03-01,Kentucky,Travel & Transport,122.0,128.0,122.0,23
+2020-03-01,Kentucky,Government,111.0,121.0,111.0,24
+2020-03-01,Kentucky,Office,112.0,90.0,112.0,25
 2020-03-01,Kentucky,Alcohol,95.0,94.0,95.0,26
 2020-03-01,Kentucky,Banks,115.0,106.0,116.0,27
-2020-03-01,Kentucky,Spiritual Center,5.0,"",5.0,28
-2020-03-01,Kentucky,Bus,101.0,"",101.0,29
-2020-03-02,Kentucky,Food,51.0,49.0,51.0,1
-2020-03-02,Kentucky,Shops & Services,39.0,37.0,39.0,2
+2020-03-01,Kentucky,Spiritual Center,106.0,"",107.0,28
+2020-03-01,Kentucky,Bus,149.0,"",149.0,29
+2020-03-02,Kentucky,Food,105.0,99.0,105.0,1
+2020-03-02,Kentucky,Shops & Services,107.0,98.0,108.0,2
 2020-03-02,Kentucky,Gas Stations,104.0,101.0,104.0,3
 2020-03-02,Kentucky,Fast Food Restaurants,113.0,108.0,113.0,4
 2020-03-02,Kentucky,Grocery,104.0,98.0,104.0,5
-2020-03-02,Kentucky,Medical,58.0,56.0,58.0,6
-2020-03-02,Kentucky,School,66.0,64.0,66.0,7
-2020-03-02,Kentucky,Professional & Other Places,21.0,19.0,22.0,8
+2020-03-02,Kentucky,Medical,103.0,100.0,103.0,6
+2020-03-02,Kentucky,School,111.0,104.0,111.0,7
+2020-03-02,Kentucky,Professional & Other Places,102.0,101.0,102.0,8
 2020-03-02,Kentucky,Big Box Stores,110.0,101.0,110.0,9
-2020-03-02,Kentucky,Outdoors & Recreation,45.0,39.0,45.0,10
-2020-03-02,Kentucky,Colleges & Universities,57.0,63.0,57.0,11
+2020-03-02,Kentucky,Outdoors & Recreation,98.0,89.0,98.0,10
+2020-03-02,Kentucky,Colleges & Universities,101.0,107.0,101.0,11
 2020-03-02,Kentucky,Discount Stores,106.0,97.0,106.0,12
-2020-03-02,Kentucky,Office,87.0,94.0,87.0,13
-2020-03-02,Kentucky,Nightlife Spots,73.0,75.0,73.0,14
-2020-03-02,Kentucky,Airport,60.0,50.0,60.0,15
-2020-03-02,Kentucky,Government,79.0,81.0,79.0,16
-2020-03-02,Kentucky,Arts & Entertainment,90.0,86.0,90.0,17
-2020-03-02,Kentucky,Fitness Center,71.0,65.0,71.0,18
-2020-03-02,Kentucky,Hotel,93.0,95.0,93.0,19
+2020-03-02,Kentucky,Office,100.0,107.0,100.0,13
+2020-03-02,Kentucky,Nightlife Spots,104.0,105.0,104.0,14
+2020-03-02,Kentucky,Airport,96.0,81.0,97.0,15
+2020-03-02,Kentucky,Government,110.0,111.0,110.0,16
+2020-03-02,Kentucky,Arts & Entertainment,104.0,99.0,104.0,17
+2020-03-02,Kentucky,Fitness Center,100.0,93.0,100.0,18
+2020-03-02,Kentucky,Hotel,106.0,110.0,106.0,19
 2020-03-02,Kentucky,Convenience Store,104.0,94.0,105.0,20
 2020-03-02,Kentucky,Drug Store,101.0,98.0,101.0,21
 2020-03-02,Kentucky,Hardware Stores,101.0,92.0,101.0,22
 2020-03-02,Kentucky,Residences,99.0,86.0,99.0,23
 2020-03-02,Kentucky,Banks,121.0,114.0,121.0,24
-2020-03-02,Kentucky,Sports,42.0,37.0,42.0,25
-2020-03-02,Kentucky,Travel & Transport,32.0,33.0,32.0,26
+2020-03-02,Kentucky,Sports,101.0,87.0,102.0,25
+2020-03-02,Kentucky,Travel & Transport,98.0,99.0,98.0,26
 2020-03-02,Kentucky,Alcohol,102.0,107.0,101.0,27
-2020-03-02,Kentucky,Bus,72.0,"",71.0,28
-2020-03-02,Kentucky,Spiritual Center,8.0,"",8.0,29
-2020-03-03,Kentucky,Food,55.0,55.0,55.0,1
-2020-03-03,Kentucky,Shops & Services,58.0,54.0,58.0,2
+2020-03-02,Kentucky,Bus,102.0,"",102.0,28
+2020-03-02,Kentucky,Spiritual Center,120.0,"",118.0,29
+2020-03-03,Kentucky,Food,112.0,110.0,112.0,1
+2020-03-03,Kentucky,Shops & Services,118.0,107.0,118.0,2
 2020-03-03,Kentucky,Gas Stations,109.0,107.0,109.0,3
 2020-03-03,Kentucky,Fast Food Restaurants,115.0,113.0,115.0,4
-2020-03-03,Kentucky,Medical,58.0,54.0,58.0,5
+2020-03-03,Kentucky,Medical,102.0,96.0,102.0,5
 2020-03-03,Kentucky,Grocery,105.0,100.0,106.0,6
-2020-03-03,Kentucky,School,62.0,63.0,62.0,7
-2020-03-03,Kentucky,Professional & Other Places,21.0,20.0,22.0,8
+2020-03-03,Kentucky,School,104.0,103.0,104.0,7
+2020-03-03,Kentucky,Professional & Other Places,102.0,107.0,102.0,8
 2020-03-03,Kentucky,Big Box Stores,113.0,112.0,113.0,9
-2020-03-03,Kentucky,Outdoors & Recreation,61.0,59.0,61.0,10
-2020-03-03,Kentucky,Colleges & Universities,59.0,66.0,59.0,11
-2020-03-03,Kentucky,Office,85.0,82.0,85.0,12
+2020-03-03,Kentucky,Outdoors & Recreation,118.0,114.0,118.0,10
+2020-03-03,Kentucky,Colleges & Universities,103.0,109.0,103.0,11
+2020-03-03,Kentucky,Office,100.0,95.0,100.0,12
 2020-03-03,Kentucky,Discount Stores,109.0,108.0,109.0,13
-2020-03-03,Kentucky,Arts & Entertainment,96.0,91.0,96.0,14
-2020-03-03,Kentucky,Nightlife Spots,59.0,58.0,59.0,15
-2020-03-03,Kentucky,Government,76.0,69.0,77.0,16
-2020-03-03,Kentucky,Airport,61.0,51.0,62.0,17
-2020-03-03,Kentucky,Fitness Center,73.0,65.0,73.0,18
+2020-03-03,Kentucky,Arts & Entertainment,114.0,110.0,114.0,14
+2020-03-03,Kentucky,Nightlife Spots,106.0,103.0,106.0,15
+2020-03-03,Kentucky,Government,106.0,96.0,106.0,16
+2020-03-03,Kentucky,Airport,96.0,82.0,97.0,17
+2020-03-03,Kentucky,Fitness Center,102.0,92.0,103.0,18
 2020-03-03,Kentucky,Drug Store,110.0,110.0,110.0,19
 2020-03-03,Kentucky,Convenience Store,110.0,114.0,109.0,20
-2020-03-03,Kentucky,Hotel,92.0,92.0,92.0,21
+2020-03-03,Kentucky,Hotel,104.0,105.0,104.0,21
 2020-03-03,Kentucky,Hardware Stores,118.0,114.0,118.0,22
 2020-03-03,Kentucky,Residences,108.0,111.0,108.0,23
 2020-03-03,Kentucky,Banks,129.0,115.0,130.0,24
-2020-03-03,Kentucky,Sports,41.0,50.0,41.0,25
-2020-03-03,Kentucky,Travel & Transport,33.0,34.0,33.0,26
+2020-03-03,Kentucky,Sports,113.0,129.0,112.0,25
+2020-03-03,Kentucky,Travel & Transport,107.0,105.0,107.0,26
 2020-03-03,Kentucky,Alcohol,109.0,109.0,110.0,27
-2020-03-03,Kentucky,Bus,80.0,"",80.0,28
-2020-03-03,Kentucky,Spiritual Center,7.0,"",7.0,29
-2020-03-04,Kentucky,Food,56.0,54.0,56.0,1
-2020-03-04,Kentucky,Shops & Services,41.0,41.0,41.0,2
+2020-03-03,Kentucky,Bus,114.0,"",114.0,28
+2020-03-03,Kentucky,Spiritual Center,112.0,"",111.0,29
+2020-03-04,Kentucky,Food,111.0,105.0,111.0,1
+2020-03-04,Kentucky,Shops & Services,116.0,116.0,116.0,2
 2020-03-04,Kentucky,Gas Stations,110.0,110.0,110.0,3
 2020-03-04,Kentucky,Fast Food Restaurants,113.0,110.0,113.0,4
-2020-03-04,Kentucky,Medical,61.0,60.0,61.0,5
-2020-03-04,Kentucky,School,64.0,66.0,64.0,6
+2020-03-04,Kentucky,Medical,107.0,106.0,107.0,5
+2020-03-04,Kentucky,School,107.0,108.0,107.0,6
 2020-03-04,Kentucky,Grocery,107.0,103.0,107.0,7
-2020-03-04,Kentucky,Professional & Other Places,23.0,19.0,23.0,8
-2020-03-04,Kentucky,Outdoors & Recreation,62.0,61.0,62.0,9
+2020-03-04,Kentucky,Professional & Other Places,103.0,98.0,104.0,8
+2020-03-04,Kentucky,Outdoors & Recreation,131.0,134.0,131.0,9
 2020-03-04,Kentucky,Big Box Stores,108.0,105.0,108.0,10
-2020-03-04,Kentucky,Colleges & Universities,60.0,65.0,60.0,11
-2020-03-04,Kentucky,Office,90.0,92.0,90.0,12
+2020-03-04,Kentucky,Colleges & Universities,108.0,114.0,108.0,11
+2020-03-04,Kentucky,Office,105.0,106.0,105.0,12
 2020-03-04,Kentucky,Discount Stores,113.0,127.0,113.0,13
-2020-03-04,Kentucky,Arts & Entertainment,95.0,86.0,95.0,14
-2020-03-04,Kentucky,Nightlife Spots,71.0,68.0,71.0,15
-2020-03-04,Kentucky,Government,79.0,81.0,79.0,16
-2020-03-04,Kentucky,Airport,62.0,48.0,63.0,17
-2020-03-04,Kentucky,Hotel,91.0,88.0,91.0,18
+2020-03-04,Kentucky,Arts & Entertainment,112.0,102.0,112.0,14
+2020-03-04,Kentucky,Nightlife Spots,107.0,102.0,107.0,15
+2020-03-04,Kentucky,Government,108.0,111.0,108.0,16
+2020-03-04,Kentucky,Airport,97.0,77.0,97.0,17
+2020-03-04,Kentucky,Hotel,102.0,99.0,102.0,18
 2020-03-04,Kentucky,Convenience Store,113.0,110.0,113.0,19
-2020-03-04,Kentucky,Fitness Center,73.0,73.0,73.0,20
+2020-03-04,Kentucky,Fitness Center,102.0,103.0,102.0,20
 2020-03-04,Kentucky,Hardware Stores,124.0,119.0,124.0,21
 2020-03-04,Kentucky,Drug Store,108.0,103.0,108.0,22
 2020-03-04,Kentucky,Residences,115.0,124.0,115.0,23
-2020-03-04,Kentucky,Sports,45.0,57.0,45.0,24
+2020-03-04,Kentucky,Sports,124.0,144.0,123.0,24
 2020-03-04,Kentucky,Banks,119.0,116.0,119.0,25
-2020-03-04,Kentucky,Travel & Transport,23.0,26.0,23.0,26
+2020-03-04,Kentucky,Travel & Transport,113.0,121.0,112.0,26
 2020-03-04,Kentucky,Alcohol,109.0,110.0,109.0,27
-2020-03-04,Kentucky,Bus,76.0,"",76.0,28
-2020-03-04,Kentucky,Spiritual Center,8.0,"",8.0,29
-2020-03-05,Kentucky,Food,54.0,52.0,54.0,1
-2020-03-05,Kentucky,Shops & Services,39.0,40.0,39.0,2
+2020-03-04,Kentucky,Bus,110.0,"",110.0,28
+2020-03-04,Kentucky,Spiritual Center,126.0,"",124.0,29
+2020-03-05,Kentucky,Food,109.0,104.0,109.0,1
+2020-03-05,Kentucky,Shops & Services,113.0,112.0,114.0,2
 2020-03-05,Kentucky,Gas Stations,110.0,109.0,110.0,3
 2020-03-05,Kentucky,Fast Food Restaurants,111.0,109.0,111.0,4
-2020-03-05,Kentucky,School,69.0,70.0,69.0,5
-2020-03-05,Kentucky,Medical,59.0,55.0,59.0,6
+2020-03-05,Kentucky,School,115.0,113.0,115.0,5
+2020-03-05,Kentucky,Medical,106.0,99.0,106.0,6
 2020-03-05,Kentucky,Grocery,99.0,101.0,99.0,7
-2020-03-05,Kentucky,Professional & Other Places,22.0,20.0,23.0,8
+2020-03-05,Kentucky,Professional & Other Places,106.0,107.0,106.0,8
 2020-03-05,Kentucky,Big Box Stores,106.0,112.0,106.0,9
-2020-03-05,Kentucky,Outdoors & Recreation,70.0,69.0,70.0,10
-2020-03-05,Kentucky,Colleges & Universities,67.0,67.0,67.0,11
-2020-03-05,Kentucky,Office,88.0,93.0,88.0,12
-2020-03-05,Kentucky,Arts & Entertainment,97.0,95.0,97.0,13
+2020-03-05,Kentucky,Outdoors & Recreation,129.0,127.0,129.0,10
+2020-03-05,Kentucky,Colleges & Universities,102.0,98.0,102.0,11
+2020-03-05,Kentucky,Office,103.0,105.0,103.0,12
+2020-03-05,Kentucky,Arts & Entertainment,109.0,107.0,110.0,13
 2020-03-05,Kentucky,Discount Stores,109.0,112.0,109.0,14
-2020-03-05,Kentucky,Nightlife Spots,70.0,69.0,70.0,15
-2020-03-05,Kentucky,Government,80.0,78.0,80.0,16
-2020-03-05,Kentucky,Airport,61.0,58.0,61.0,17
+2020-03-05,Kentucky,Nightlife Spots,109.0,103.0,109.0,15
+2020-03-05,Kentucky,Government,111.0,107.0,111.0,16
+2020-03-05,Kentucky,Airport,97.0,93.0,97.0,17
 2020-03-05,Kentucky,Convenience Store,111.0,112.0,111.0,18
-2020-03-05,Kentucky,Hotel,88.0,88.0,88.0,19
-2020-03-05,Kentucky,Fitness Center,74.0,74.0,74.0,20
+2020-03-05,Kentucky,Hotel,98.0,99.0,98.0,19
+2020-03-05,Kentucky,Fitness Center,103.0,105.0,103.0,20
 2020-03-05,Kentucky,Drug Store,104.0,106.0,104.0,21
 2020-03-05,Kentucky,Hardware Stores,115.0,111.0,115.0,22
 2020-03-05,Kentucky,Residences,117.0,119.0,117.0,23
-2020-03-05,Kentucky,Sports,52.0,59.0,52.0,24
+2020-03-05,Kentucky,Sports,135.0,139.0,134.0,24
 2020-03-05,Kentucky,Banks,114.0,127.0,114.0,25
-2020-03-05,Kentucky,Travel & Transport,22.0,24.0,21.0,26
+2020-03-05,Kentucky,Travel & Transport,107.0,103.0,107.0,26
 2020-03-05,Kentucky,Alcohol,101.0,104.0,101.0,27
-2020-03-05,Kentucky,Bus,88.0,"",88.0,28
-2020-03-05,Kentucky,Spiritual Center,6.0,"",6.0,29
-2020-03-06,Kentucky,Food,49.0,49.0,49.0,1
-2020-03-06,Kentucky,Shops & Services,48.0,46.0,48.0,2
+2020-03-05,Kentucky,Bus,125.0,"",126.0,28
+2020-03-05,Kentucky,Spiritual Center,100.0,"",101.0,29
+2020-03-06,Kentucky,Food,101.0,100.0,101.0,1
+2020-03-06,Kentucky,Shops & Services,102.0,98.0,103.0,2
 2020-03-06,Kentucky,Gas Stations,106.0,99.0,106.0,3
 2020-03-06,Kentucky,Fast Food Restaurants,109.0,108.0,109.0,4
 2020-03-06,Kentucky,Grocery,99.0,105.0,99.0,5
-2020-03-06,Kentucky,School,66.0,68.0,66.0,6
-2020-03-06,Kentucky,Medical,59.0,59.0,59.0,7
-2020-03-06,Kentucky,Professional & Other Places,22.0,20.0,22.0,8
+2020-03-06,Kentucky,School,111.0,112.0,111.0,6
+2020-03-06,Kentucky,Medical,106.0,104.0,106.0,7
+2020-03-06,Kentucky,Professional & Other Places,100.0,95.0,100.0,8
 2020-03-06,Kentucky,Big Box Stores,97.0,95.0,97.0,9
-2020-03-06,Kentucky,Outdoors & Recreation,59.0,61.0,59.0,10
-2020-03-06,Kentucky,Colleges & Universities,61.0,74.0,61.0,11
-2020-03-06,Kentucky,Nightlife Spots,70.0,68.0,70.0,12
+2020-03-06,Kentucky,Outdoors & Recreation,110.0,115.0,110.0,10
+2020-03-06,Kentucky,Colleges & Universities,95.0,113.0,95.0,11
+2020-03-06,Kentucky,Nightlife Spots,104.0,98.0,104.0,12
 2020-03-06,Kentucky,Discount Stores,98.0,105.0,98.0,13
-2020-03-06,Kentucky,Office,87.0,91.0,87.0,14
-2020-03-06,Kentucky,Arts & Entertainment,82.0,78.0,83.0,15
-2020-03-06,Kentucky,Airport,55.0,50.0,55.0,16
-2020-03-06,Kentucky,Government,77.0,66.0,77.0,17
-2020-03-06,Kentucky,Hotel,88.0,86.0,88.0,18
+2020-03-06,Kentucky,Office,102.0,105.0,102.0,14
+2020-03-06,Kentucky,Arts & Entertainment,94.0,90.0,95.0,15
+2020-03-06,Kentucky,Airport,86.0,79.0,87.0,16
+2020-03-06,Kentucky,Government,107.0,92.0,108.0,17
+2020-03-06,Kentucky,Hotel,98.0,97.0,98.0,18
 2020-03-06,Kentucky,Convenience Store,110.0,95.0,111.0,19
 2020-03-06,Kentucky,Drug Store,99.0,93.0,99.0,20
 2020-03-06,Kentucky,Hardware Stores,105.0,106.0,105.0,21
-2020-03-06,Kentucky,Fitness Center,74.0,72.0,74.0,22
+2020-03-06,Kentucky,Fitness Center,105.0,103.0,106.0,22
 2020-03-06,Kentucky,Banks,111.0,103.0,111.0,23
 2020-03-06,Kentucky,Residences,105.0,106.0,105.0,24
-2020-03-06,Kentucky,Sports,44.0,48.0,44.0,25
-2020-03-06,Kentucky,Travel & Transport,38.0,42.0,38.0,26
+2020-03-06,Kentucky,Sports,117.0,121.0,117.0,25
+2020-03-06,Kentucky,Travel & Transport,104.0,107.0,104.0,26
 2020-03-06,Kentucky,Alcohol,105.0,106.0,104.0,27
-2020-03-06,Kentucky,Bus,74.0,"",74.0,28
-2020-03-06,Kentucky,Spiritual Center,9.0,"",9.0,29
-2020-03-07,Kentucky,Food,51.0,48.0,51.0,1
-2020-03-07,Kentucky,Shops & Services,39.0,37.0,39.0,2
+2020-03-06,Kentucky,Bus,107.0,"",108.0,28
+2020-03-06,Kentucky,Spiritual Center,140.0,"",140.0,29
+2020-03-07,Kentucky,Food,102.0,94.0,102.0,1
+2020-03-07,Kentucky,Shops & Services,106.0,103.0,106.0,2
 2020-03-07,Kentucky,Gas Stations,108.0,106.0,108.0,3
 2020-03-07,Kentucky,Fast Food Restaurants,104.0,100.0,104.0,4
 2020-03-07,Kentucky,Grocery,99.0,95.0,99.0,5
 2020-03-07,Kentucky,Big Box Stores,99.0,94.0,99.0,6
-2020-03-07,Kentucky,Outdoors & Recreation,72.0,72.0,72.0,7
-2020-03-07,Kentucky,Professional & Other Places,29.0,27.0,29.0,8
-2020-03-07,Kentucky,Arts & Entertainment,89.0,90.0,89.0,9
-2020-03-07,Kentucky,School,66.0,67.0,66.0,10
-2020-03-07,Kentucky,Nightlife Spots,70.0,64.0,70.0,11
+2020-03-07,Kentucky,Outdoors & Recreation,122.0,121.0,122.0,7
+2020-03-07,Kentucky,Professional & Other Places,109.0,105.0,109.0,8
+2020-03-07,Kentucky,Arts & Entertainment,106.0,106.0,106.0,9
+2020-03-07,Kentucky,School,107.0,107.0,107.0,10
+2020-03-07,Kentucky,Nightlife Spots,106.0,97.0,106.0,11
 2020-03-07,Kentucky,Discount Stores,102.0,99.0,102.0,12
-2020-03-07,Kentucky,Medical,62.0,62.0,62.0,13
-2020-03-07,Kentucky,Hotel,97.0,90.0,98.0,14
+2020-03-07,Kentucky,Medical,108.0,107.0,108.0,13
+2020-03-07,Kentucky,Hotel,110.0,103.0,110.0,14
 2020-03-07,Kentucky,Hardware Stores,117.0,119.0,117.0,15
-2020-03-07,Kentucky,Colleges & Universities,52.0,51.0,52.0,16
+2020-03-07,Kentucky,Colleges & Universities,98.0,98.0,98.0,16
 2020-03-07,Kentucky,Drug Store,103.0,96.0,103.0,17
 2020-03-07,Kentucky,Convenience Store,107.0,98.0,107.0,18
-2020-03-07,Kentucky,Airport,59.0,59.0,59.0,19
-2020-03-07,Kentucky,Fitness Center,72.0,61.0,72.0,20
+2020-03-07,Kentucky,Airport,94.0,96.0,94.0,19
+2020-03-07,Kentucky,Fitness Center,102.0,88.0,102.0,20
 2020-03-07,Kentucky,Residences,110.0,105.0,110.0,21
-2020-03-07,Kentucky,Sports,50.0,48.0,50.0,22
-2020-03-07,Kentucky,Office,87.0,88.0,87.0,23
-2020-03-07,Kentucky,Government,86.0,90.0,86.0,24
-2020-03-07,Kentucky,Travel & Transport,34.0,36.0,34.0,25
+2020-03-07,Kentucky,Sports,118.0,108.0,118.0,22
+2020-03-07,Kentucky,Office,102.0,99.0,102.0,23
+2020-03-07,Kentucky,Government,121.0,123.0,121.0,24
+2020-03-07,Kentucky,Travel & Transport,112.0,112.0,112.0,25
 2020-03-07,Kentucky,Alcohol,109.0,112.0,109.0,26
 2020-03-07,Kentucky,Banks,92.0,82.0,93.0,27
-2020-03-07,Kentucky,Bus,88.0,"",88.0,28
-2020-03-07,Kentucky,Spiritual Center,6.0,"",6.0,29
-2020-03-08,Kentucky,Food,57.0,56.0,57.0,1
-2020-03-08,Kentucky,Shops & Services,38.0,34.0,38.0,2
+2020-03-07,Kentucky,Bus,131.0,"",131.0,28
+2020-03-07,Kentucky,Spiritual Center,113.0,"",112.0,29
+2020-03-08,Kentucky,Food,112.0,107.0,112.0,1
+2020-03-08,Kentucky,Shops & Services,113.0,102.0,113.0,2
 2020-03-08,Kentucky,Gas Stations,116.0,114.0,116.0,3
 2020-03-08,Kentucky,Fast Food Restaurants,123.0,116.0,124.0,4
 2020-03-08,Kentucky,Grocery,102.0,96.0,102.0,5
-2020-03-08,Kentucky,Outdoors & Recreation,79.0,75.0,79.0,6
+2020-03-08,Kentucky,Outdoors & Recreation,136.0,130.0,136.0,6
 2020-03-08,Kentucky,Big Box Stores,106.0,99.0,106.0,7
-2020-03-08,Kentucky,Arts & Entertainment,111.0,95.0,112.0,8
-2020-03-08,Kentucky,Nightlife Spots,69.0,65.0,69.0,9
-2020-03-08,Kentucky,Professional & Other Places,25.0,20.0,25.0,10
-2020-03-08,Kentucky,School,74.0,72.0,74.0,11
+2020-03-08,Kentucky,Arts & Entertainment,130.0,110.0,130.0,8
+2020-03-08,Kentucky,Nightlife Spots,109.0,101.0,109.0,9
+2020-03-08,Kentucky,Professional & Other Places,115.0,106.0,116.0,10
+2020-03-08,Kentucky,School,120.0,116.0,120.0,11
 2020-03-08,Kentucky,Discount Stores,110.0,101.0,110.0,12
-2020-03-08,Kentucky,Medical,64.0,64.0,64.0,13
+2020-03-08,Kentucky,Medical,110.0,108.0,110.0,13
 2020-03-08,Kentucky,Hardware Stores,132.0,118.0,133.0,14
-2020-03-08,Kentucky,Hotel,101.0,89.0,102.0,15
+2020-03-08,Kentucky,Hotel,115.0,102.0,116.0,15
 2020-03-08,Kentucky,Convenience Store,123.0,105.0,123.0,16
-2020-03-08,Kentucky,Airport,63.0,53.0,63.0,17
+2020-03-08,Kentucky,Airport,103.0,87.0,103.0,17
 2020-03-08,Kentucky,Drug Store,114.0,104.0,114.0,18
-2020-03-08,Kentucky,Sports,66.0,73.0,65.0,19
+2020-03-08,Kentucky,Sports,139.0,147.0,138.0,19
 2020-03-08,Kentucky,Residences,108.0,99.0,108.0,20
-2020-03-08,Kentucky,Colleges & Universities,62.0,60.0,62.0,21
-2020-03-08,Kentucky,Fitness Center,76.0,77.0,76.0,22
-2020-03-08,Kentucky,Travel & Transport,40.0,41.0,40.0,23
-2020-03-08,Kentucky,Government,86.0,82.0,86.0,24
-2020-03-08,Kentucky,Office,92.0,77.0,93.0,25
+2020-03-08,Kentucky,Colleges & Universities,96.0,92.0,96.0,21
+2020-03-08,Kentucky,Fitness Center,104.0,109.0,103.0,22
+2020-03-08,Kentucky,Travel & Transport,129.0,125.0,129.0,23
+2020-03-08,Kentucky,Government,120.0,112.0,120.0,24
+2020-03-08,Kentucky,Office,106.0,90.0,107.0,25
 2020-03-08,Kentucky,Alcohol,103.0,82.0,103.0,26
 2020-03-08,Kentucky,Banks,97.0,94.0,97.0,27
-2020-03-08,Kentucky,Spiritual Center,5.0,"",5.0,28
-2020-03-08,Kentucky,Bus,92.0,"",92.0,29
-2020-03-09,Kentucky,Food,53.0,51.0,53.0,1
-2020-03-09,Kentucky,Shops & Services,39.0,39.0,39.0,2
+2020-03-08,Kentucky,Spiritual Center,100.0,"",100.0,28
+2020-03-08,Kentucky,Bus,130.0,"",131.0,29
+2020-03-09,Kentucky,Food,108.0,102.0,108.0,1
+2020-03-09,Kentucky,Shops & Services,111.0,110.0,111.0,2
 2020-03-09,Kentucky,Gas Stations,111.0,111.0,111.0,3
 2020-03-09,Kentucky,Fast Food Restaurants,112.0,102.0,113.0,4
 2020-03-09,Kentucky,Grocery,108.0,105.0,108.0,5
-2020-03-09,Kentucky,Medical,59.0,56.0,59.0,6
-2020-03-09,Kentucky,School,70.0,70.0,70.0,7
-2020-03-09,Kentucky,Professional & Other Places,22.0,20.0,23.0,8
-2020-03-09,Kentucky,Outdoors & Recreation,56.0,53.0,56.0,9
+2020-03-09,Kentucky,Medical,105.0,100.0,105.0,6
+2020-03-09,Kentucky,School,118.0,113.0,118.0,7
+2020-03-09,Kentucky,Professional & Other Places,107.0,105.0,107.0,8
+2020-03-09,Kentucky,Outdoors & Recreation,120.0,117.0,120.0,9
 2020-03-09,Kentucky,Big Box Stores,113.0,109.0,113.0,10
-2020-03-09,Kentucky,Colleges & Universities,51.0,68.0,51.0,11
-2020-03-09,Kentucky,Office,94.0,88.0,94.0,12
+2020-03-09,Kentucky,Colleges & Universities,92.0,118.0,92.0,11
+2020-03-09,Kentucky,Office,108.0,100.0,108.0,12
 2020-03-09,Kentucky,Discount Stores,110.0,107.0,110.0,13
-2020-03-09,Kentucky,Arts & Entertainment,100.0,98.0,100.0,14
-2020-03-09,Kentucky,Government,85.0,84.0,85.0,15
-2020-03-09,Kentucky,Nightlife Spots,70.0,73.0,70.0,16
-2020-03-09,Kentucky,Airport,57.0,49.0,57.0,17
+2020-03-09,Kentucky,Arts & Entertainment,116.0,113.0,116.0,14
+2020-03-09,Kentucky,Government,118.0,115.0,118.0,15
+2020-03-09,Kentucky,Nightlife Spots,106.0,106.0,106.0,16
+2020-03-09,Kentucky,Airport,91.0,79.0,92.0,17
 2020-03-09,Kentucky,Drug Store,114.0,108.0,114.0,18
 2020-03-09,Kentucky,Convenience Store,111.0,104.0,112.0,19
-2020-03-09,Kentucky,Hotel,97.0,97.0,97.0,20
-2020-03-09,Kentucky,Fitness Center,74.0,67.0,74.0,21
+2020-03-09,Kentucky,Hotel,111.0,113.0,111.0,20
+2020-03-09,Kentucky,Fitness Center,103.0,94.0,104.0,21
 2020-03-09,Kentucky,Hardware Stores,113.0,98.0,114.0,22
 2020-03-09,Kentucky,Residences,111.0,99.0,112.0,23
-2020-03-09,Kentucky,Sports,49.0,48.0,49.0,24
+2020-03-09,Kentucky,Sports,129.0,120.0,130.0,24
 2020-03-09,Kentucky,Banks,125.0,124.0,125.0,25
-2020-03-09,Kentucky,Travel & Transport,36.0,37.0,36.0,26
+2020-03-09,Kentucky,Travel & Transport,111.0,115.0,111.0,26
 2020-03-09,Kentucky,Alcohol,108.0,115.0,108.0,27
-2020-03-09,Kentucky,Bus,83.0,"",83.0,28
-2020-03-09,Kentucky,Spiritual Center,7.0,"",8.0,29
-2020-03-10,Kentucky,Food,52.0,50.0,52.0,1
-2020-03-10,Kentucky,Shops & Services,37.0,35.0,37.0,2
+2020-03-09,Kentucky,Bus,120.0,"",119.0,28
+2020-03-09,Kentucky,Spiritual Center,111.0,"",110.0,29
+2020-03-10,Kentucky,Food,102.0,97.0,102.0,1
+2020-03-10,Kentucky,Shops & Services,104.0,97.0,105.0,2
 2020-03-10,Kentucky,Gas Stations,104.0,98.0,105.0,3
 2020-03-10,Kentucky,Fast Food Restaurants,101.0,95.0,101.0,4
 2020-03-10,Kentucky,Grocery,103.0,97.0,103.0,5
-2020-03-10,Kentucky,Medical,55.0,53.0,55.0,6
-2020-03-10,Kentucky,School,61.0,63.0,61.0,7
-2020-03-10,Kentucky,Professional & Other Places,21.0,18.0,21.0,8
+2020-03-10,Kentucky,Medical,98.0,93.0,98.0,6
+2020-03-10,Kentucky,School,101.0,102.0,101.0,7
+2020-03-10,Kentucky,Professional & Other Places,97.0,93.0,97.0,8
 2020-03-10,Kentucky,Big Box Stores,103.0,96.0,104.0,9
-2020-03-10,Kentucky,Outdoors & Recreation,53.0,49.0,53.0,10
-2020-03-10,Kentucky,Colleges & Universities,46.0,56.0,46.0,11
-2020-03-10,Kentucky,Office,80.0,81.0,80.0,12
+2020-03-10,Kentucky,Outdoors & Recreation,110.0,106.0,110.0,10
+2020-03-10,Kentucky,Colleges & Universities,82.0,94.0,82.0,11
+2020-03-10,Kentucky,Office,93.0,94.0,93.0,12
 2020-03-10,Kentucky,Discount Stores,100.0,93.0,100.0,13
-2020-03-10,Kentucky,Nightlife Spots,55.0,52.0,55.0,14
-2020-03-10,Kentucky,Arts & Entertainment,92.0,83.0,93.0,15
-2020-03-10,Kentucky,Government,72.0,68.0,72.0,16
-2020-03-10,Kentucky,Fitness Center,69.0,65.0,70.0,17
-2020-03-10,Kentucky,Airport,56.0,65.0,55.0,18
-2020-03-10,Kentucky,Hotel,90.0,93.0,90.0,19
+2020-03-10,Kentucky,Nightlife Spots,98.0,92.0,98.0,14
+2020-03-10,Kentucky,Arts & Entertainment,105.0,96.0,106.0,15
+2020-03-10,Kentucky,Government,99.0,95.0,100.0,16
+2020-03-10,Kentucky,Fitness Center,97.0,91.0,98.0,17
+2020-03-10,Kentucky,Airport,86.0,104.0,85.0,18
+2020-03-10,Kentucky,Hotel,101.0,106.0,101.0,19
 2020-03-10,Kentucky,Drug Store,102.0,98.0,103.0,20
 2020-03-10,Kentucky,Convenience Store,101.0,95.0,102.0,21
 2020-03-10,Kentucky,Hardware Stores,108.0,99.0,109.0,22
 2020-03-10,Kentucky,Residences,106.0,105.0,106.0,23
-2020-03-10,Kentucky,Sports,42.0,43.0,42.0,24
-2020-03-10,Kentucky,Travel & Transport,31.0,33.0,31.0,25
+2020-03-10,Kentucky,Sports,109.0,108.0,109.0,24
+2020-03-10,Kentucky,Travel & Transport,101.0,102.0,101.0,25
 2020-03-10,Kentucky,Banks,101.0,92.0,101.0,26
 2020-03-10,Kentucky,Alcohol,99.0,92.0,100.0,27
-2020-03-10,Kentucky,Bus,77.0,"",78.0,28
-2020-03-10,Kentucky,Spiritual Center,6.0,"",6.0,29
-2020-03-11,Kentucky,Food,51.0,49.0,51.0,1
-2020-03-11,Kentucky,Shops & Services,39.0,37.0,39.0,2
+2020-03-10,Kentucky,Bus,107.0,"",108.0,28
+2020-03-10,Kentucky,Spiritual Center,107.0,"",108.0,29
+2020-03-11,Kentucky,Food,102.0,96.0,102.0,1
+2020-03-11,Kentucky,Shops & Services,110.0,103.0,110.0,2
 2020-03-11,Kentucky,Gas Stations,108.0,104.0,108.0,3
 2020-03-11,Kentucky,Fast Food Restaurants,103.0,98.0,103.0,4
 2020-03-11,Kentucky,Grocery,109.0,115.0,109.0,5
-2020-03-11,Kentucky,Medical,56.0,54.0,56.0,6
-2020-03-11,Kentucky,School,60.0,60.0,60.0,7
-2020-03-11,Kentucky,Professional & Other Places,21.0,17.0,21.0,8
+2020-03-11,Kentucky,Medical,99.0,96.0,99.0,6
+2020-03-11,Kentucky,School,100.0,97.0,100.0,7
+2020-03-11,Kentucky,Professional & Other Places,99.0,92.0,99.0,8
 2020-03-11,Kentucky,Big Box Stores,110.0,110.0,110.0,9
-2020-03-11,Kentucky,Outdoors & Recreation,65.0,62.0,65.0,10
-2020-03-11,Kentucky,Colleges & Universities,44.0,50.0,43.0,11
-2020-03-11,Kentucky,Office,84.0,84.0,84.0,12
+2020-03-11,Kentucky,Outdoors & Recreation,119.0,114.0,119.0,10
+2020-03-11,Kentucky,Colleges & Universities,79.0,88.0,79.0,11
+2020-03-11,Kentucky,Office,99.0,96.0,99.0,12
 2020-03-11,Kentucky,Discount Stores,114.0,108.0,114.0,13
-2020-03-11,Kentucky,Arts & Entertainment,94.0,93.0,94.0,14
-2020-03-11,Kentucky,Nightlife Spots,74.0,63.0,74.0,15
-2020-03-11,Kentucky,Government,75.0,77.0,75.0,16
+2020-03-11,Kentucky,Arts & Entertainment,105.0,104.0,105.0,14
+2020-03-11,Kentucky,Nightlife Spots,103.0,88.0,103.0,15
+2020-03-11,Kentucky,Government,102.0,105.0,102.0,16
 2020-03-11,Kentucky,Convenience Store,114.0,108.0,114.0,17
-2020-03-11,Kentucky,Hotel,89.0,80.0,90.0,18
-2020-03-11,Kentucky,Airport,58.0,60.0,58.0,19
+2020-03-11,Kentucky,Hotel,100.0,91.0,101.0,18
+2020-03-11,Kentucky,Airport,91.0,96.0,90.0,19
 2020-03-11,Kentucky,Drug Store,107.0,102.0,107.0,20
-2020-03-11,Kentucky,Fitness Center,68.0,64.0,68.0,21
+2020-03-11,Kentucky,Fitness Center,95.0,91.0,95.0,21
 2020-03-11,Kentucky,Hardware Stores,112.0,108.0,112.0,22
 2020-03-11,Kentucky,Residences,111.0,108.0,111.0,23
-2020-03-11,Kentucky,Sports,43.0,47.0,43.0,24
-2020-03-11,Kentucky,Travel & Transport,35.0,37.0,35.0,25
+2020-03-11,Kentucky,Sports,119.0,122.0,119.0,24
+2020-03-11,Kentucky,Travel & Transport,120.0,130.0,119.0,25
 2020-03-11,Kentucky,Banks,107.0,104.0,107.0,26
 2020-03-11,Kentucky,Alcohol,104.0,106.0,104.0,27
-2020-03-11,Kentucky,Bus,65.0,"",66.0,28
-2020-03-11,Kentucky,Spiritual Center,7.0,"",7.0,29
-2020-03-12,Kentucky,Food,49.0,44.0,49.0,1
-2020-03-12,Kentucky,Shops & Services,35.0,32.0,35.0,2
+2020-03-11,Kentucky,Bus,94.0,"",95.0,28
+2020-03-11,Kentucky,Spiritual Center,110.0,"",110.0,29
+2020-03-12,Kentucky,Food,97.0,87.0,98.0,1
+2020-03-12,Kentucky,Shops & Services,101.0,91.0,102.0,2
 2020-03-12,Kentucky,Gas Stations,108.0,103.0,108.0,3
 2020-03-12,Kentucky,Fast Food Restaurants,102.0,100.0,102.0,4
 2020-03-12,Kentucky,Grocery,124.0,115.0,124.0,5
-2020-03-12,Kentucky,Medical,56.0,47.0,56.0,6
-2020-03-12,Kentucky,School,58.0,54.0,58.0,7
-2020-03-12,Kentucky,Professional & Other Places,21.0,18.0,21.0,8
+2020-03-12,Kentucky,Medical,99.0,83.0,99.0,6
+2020-03-12,Kentucky,School,97.0,89.0,98.0,7
+2020-03-12,Kentucky,Professional & Other Places,99.0,94.0,99.0,8
 2020-03-12,Kentucky,Big Box Stores,109.0,101.0,110.0,9
-2020-03-12,Kentucky,Outdoors & Recreation,63.0,60.0,63.0,10
+2020-03-12,Kentucky,Outdoors & Recreation,120.0,115.0,120.0,10
 2020-03-12,Kentucky,Discount Stores,122.0,116.0,122.0,11
-2020-03-12,Kentucky,Office,84.0,86.0,84.0,12
-2020-03-12,Kentucky,Colleges & Universities,47.0,55.0,46.0,13
-2020-03-12,Kentucky,Nightlife Spots,60.0,60.0,60.0,14
-2020-03-12,Kentucky,Arts & Entertainment,85.0,87.0,85.0,15
-2020-03-12,Kentucky,Government,73.0,75.0,73.0,16
-2020-03-12,Kentucky,Airport,54.0,48.0,54.0,17
+2020-03-12,Kentucky,Office,98.0,97.0,98.0,12
+2020-03-12,Kentucky,Colleges & Universities,72.0,81.0,72.0,13
+2020-03-12,Kentucky,Nightlife Spots,104.0,102.0,104.0,14
+2020-03-12,Kentucky,Arts & Entertainment,96.0,97.0,96.0,15
+2020-03-12,Kentucky,Government,100.0,101.0,100.0,16
+2020-03-12,Kentucky,Airport,85.0,78.0,85.0,17
 2020-03-12,Kentucky,Drug Store,110.0,98.0,111.0,18
-2020-03-12,Kentucky,Hotel,86.0,67.0,87.0,19
+2020-03-12,Kentucky,Hotel,96.0,76.0,97.0,19
 2020-03-12,Kentucky,Convenience Store,105.0,93.0,106.0,20
 2020-03-12,Kentucky,Hardware Stores,108.0,99.0,109.0,21
-2020-03-12,Kentucky,Fitness Center,61.0,58.0,61.0,22
+2020-03-12,Kentucky,Fitness Center,85.0,82.0,85.0,22
 2020-03-12,Kentucky,Residences,109.0,94.0,110.0,23
-2020-03-12,Kentucky,Sports,44.0,45.0,44.0,24
-2020-03-12,Kentucky,Travel & Transport,37.0,44.0,36.0,25
+2020-03-12,Kentucky,Sports,111.0,105.0,111.0,24
+2020-03-12,Kentucky,Travel & Transport,103.0,116.0,103.0,25
 2020-03-12,Kentucky,Banks,103.0,98.0,103.0,26
 2020-03-12,Kentucky,Alcohol,111.0,109.0,111.0,27
-2020-03-12,Kentucky,Bus,73.0,"",73.0,28
-2020-03-12,Kentucky,Spiritual Center,6.0,"",6.0,29
-2020-03-13,Kentucky,Food,50.0,46.0,50.0,1
-2020-03-13,Kentucky,Shops & Services,39.0,36.0,39.0,2
+2020-03-12,Kentucky,Bus,104.0,"",104.0,28
+2020-03-12,Kentucky,Spiritual Center,96.0,"",96.0,29
+2020-03-13,Kentucky,Food,99.0,90.0,100.0,1
+2020-03-13,Kentucky,Shops & Services,108.0,98.0,109.0,2
 2020-03-13,Kentucky,Gas Stations,109.0,104.0,109.0,3
 2020-03-13,Kentucky,Grocery,138.0,130.0,138.0,4
 2020-03-13,Kentucky,Fast Food Restaurants,102.0,95.0,102.0,5
 2020-03-13,Kentucky,Big Box Stores,120.0,113.0,120.0,6
-2020-03-13,Kentucky,Medical,56.0,51.0,56.0,7
-2020-03-13,Kentucky,Professional & Other Places,22.0,21.0,22.0,8
-2020-03-13,Kentucky,School,59.0,58.0,59.0,9
-2020-03-13,Kentucky,Outdoors & Recreation,60.0,56.0,60.0,10
+2020-03-13,Kentucky,Medical,99.0,90.0,99.0,7
+2020-03-13,Kentucky,Professional & Other Places,98.0,96.0,98.0,8
+2020-03-13,Kentucky,School,99.0,95.0,99.0,9
+2020-03-13,Kentucky,Outdoors & Recreation,119.0,115.0,119.0,10
 2020-03-13,Kentucky,Discount Stores,126.0,129.0,126.0,11
-2020-03-13,Kentucky,Nightlife Spots,67.0,62.0,67.0,12
-2020-03-13,Kentucky,Arts & Entertainment,86.0,80.0,86.0,13
-2020-03-13,Kentucky,Office,87.0,83.0,87.0,13
-2020-03-13,Kentucky,Drug Store,121.0,119.0,121.0,14
-2020-03-13,Kentucky,Hardware Stores,120.0,116.0,121.0,15
-2020-03-13,Kentucky,Convenience Store,113.0,111.0,113.0,16
-2020-03-13,Kentucky,Government,76.0,68.0,76.0,17
-2020-03-13,Kentucky,Colleges & Universities,45.0,49.0,45.0,18
-2020-03-13,Kentucky,Airport,51.0,50.0,51.0,19
-2020-03-13,Kentucky,Hotel,83.0,73.0,83.0,20
-2020-03-13,Kentucky,Fitness Center,63.0,58.0,63.0,21
-2020-03-13,Kentucky,Residences,104.0,97.0,105.0,22
-2020-03-13,Kentucky,Banks,105.0,107.0,105.0,23
-2020-03-13,Kentucky,Travel & Transport,22.0,26.0,22.0,24
-2020-03-13,Kentucky,Sports,46.0,47.0,46.0,25
-2020-03-13,Kentucky,Alcohol,120.0,113.0,120.0,26
-2020-03-13,Kentucky,Bus,71.0,"",71.0,27
-2020-03-13,Kentucky,Spiritual Center,7.0,"",7.0,28
-2020-03-14,Kentucky,Food,40.0,37.0,41.0,1
-2020-03-14,Kentucky,Shops & Services,40.0,33.0,41.0,2
+2020-03-13,Kentucky,Nightlife Spots,101.0,92.0,101.0,12
+2020-03-13,Kentucky,Office,102.0,96.0,102.0,13
+2020-03-13,Kentucky,Arts & Entertainment,97.0,91.0,97.0,14
+2020-03-13,Kentucky,Drug Store,121.0,119.0,121.0,15
+2020-03-13,Kentucky,Hardware Stores,120.0,116.0,121.0,16
+2020-03-13,Kentucky,Convenience Store,113.0,111.0,113.0,17
+2020-03-13,Kentucky,Government,105.0,94.0,106.0,18
+2020-03-13,Kentucky,Colleges & Universities,71.0,75.0,71.0,19
+2020-03-13,Kentucky,Airport,82.0,80.0,82.0,20
+2020-03-13,Kentucky,Hotel,93.0,82.0,93.0,21
+2020-03-13,Kentucky,Fitness Center,89.0,82.0,89.0,22
+2020-03-13,Kentucky,Residences,104.0,97.0,105.0,23
+2020-03-13,Kentucky,Banks,105.0,107.0,105.0,24
+2020-03-13,Kentucky,Travel & Transport,111.0,109.0,111.0,25
+2020-03-13,Kentucky,Sports,117.0,113.0,117.0,26
+2020-03-13,Kentucky,Alcohol,120.0,113.0,120.0,27
+2020-03-13,Kentucky,Bus,102.0,"",102.0,28
+2020-03-13,Kentucky,Spiritual Center,107.0,"",106.0,29
+2020-03-14,Kentucky,Food,80.0,72.0,80.0,1
+2020-03-14,Kentucky,Shops & Services,82.0,70.0,83.0,2
 2020-03-14,Kentucky,Grocery,117.0,103.0,118.0,3
 2020-03-14,Kentucky,Gas Stations,96.0,85.0,96.0,4
 2020-03-14,Kentucky,Fast Food Restaurants,83.0,76.0,83.0,5
 2020-03-14,Kentucky,Big Box Stores,102.0,90.0,102.0,6
-2020-03-14,Kentucky,Outdoors & Recreation,51.0,46.0,52.0,7
+2020-03-14,Kentucky,Outdoors & Recreation,85.0,77.0,86.0,7
 2020-03-14,Kentucky,Discount Stores,106.0,91.0,107.0,8
-2020-03-14,Kentucky,Professional & Other Places,21.0,18.0,21.0,9
-2020-03-14,Kentucky,Nightlife Spots,54.0,43.0,55.0,10
-2020-03-14,Kentucky,Arts & Entertainment,60.0,55.0,60.0,11
-2020-03-14,Kentucky,Medical,52.0,48.0,52.0,12
+2020-03-14,Kentucky,Professional & Other Places,81.0,70.0,81.0,9
+2020-03-14,Kentucky,Nightlife Spots,82.0,66.0,83.0,10
+2020-03-14,Kentucky,Arts & Entertainment,66.0,60.0,66.0,11
+2020-03-14,Kentucky,Medical,89.0,82.0,90.0,12
 2020-03-14,Kentucky,Hardware Stores,104.0,92.0,105.0,13
-2020-03-14,Kentucky,School,38.0,33.0,38.0,14
+2020-03-14,Kentucky,School,59.0,49.0,59.0,14
 2020-03-14,Kentucky,Drug Store,102.0,94.0,103.0,15
-2020-03-14,Kentucky,Hotel,68.0,62.0,68.0,16
+2020-03-14,Kentucky,Hotel,77.0,71.0,77.0,16
 2020-03-14,Kentucky,Convenience Store,92.0,81.0,92.0,17
-2020-03-14,Kentucky,Airport,54.0,40.0,54.0,18
+2020-03-14,Kentucky,Airport,86.0,65.0,86.0,18
 2020-03-14,Kentucky,Residences,87.0,71.0,87.0,19
-2020-03-14,Kentucky,Fitness Center,52.0,48.0,52.0,20
-2020-03-14,Kentucky,Office,77.0,69.0,77.0,21
-2020-03-14,Kentucky,Travel & Transport,31.0,31.0,31.0,22
-2020-03-14,Kentucky,Government,65.0,47.0,66.0,23
-2020-03-14,Kentucky,Alcohol,94.0,84.0,94.0,24
-2020-03-14,Kentucky,Sports,34.0,29.0,34.0,25
-2020-03-14,Kentucky,Colleges & Universities,21.0,18.0,21.0,26
+2020-03-14,Kentucky,Fitness Center,73.0,67.0,73.0,20
+2020-03-14,Kentucky,Office,90.0,78.0,90.0,21
+2020-03-14,Kentucky,Travel & Transport,103.0,98.0,103.0,22
+2020-03-14,Kentucky,Alcohol,94.0,84.0,94.0,23
+2020-03-14,Kentucky,Government,92.0,66.0,93.0,24
+2020-03-14,Kentucky,Sports,78.0,64.0,78.0,25
+2020-03-14,Kentucky,Colleges & Universities,40.0,37.0,41.0,26
 2020-03-14,Kentucky,Banks,72.0,62.0,72.0,27
-2020-03-14,Kentucky,Bus,70.0,"",71.0,28
-2020-03-15,Kentucky,Food,37.0,32.0,37.0,1
-2020-03-15,Kentucky,Shops & Services,38.0,34.0,38.0,2
+2020-03-14,Kentucky,Bus,100.0,"",101.0,28
+2020-03-15,Kentucky,Food,76.0,64.0,76.0,1
+2020-03-15,Kentucky,Shops & Services,81.0,72.0,81.0,2
 2020-03-15,Kentucky,Grocery,105.0,105.0,105.0,3
 2020-03-15,Kentucky,Gas Stations,90.0,83.0,90.0,4
 2020-03-15,Kentucky,Fast Food Restaurants,81.0,74.0,81.0,5
 2020-03-15,Kentucky,Big Box Stores,98.0,89.0,98.0,6
-2020-03-15,Kentucky,Outdoors & Recreation,49.0,47.0,50.0,7
+2020-03-15,Kentucky,Outdoors & Recreation,84.0,79.0,84.0,7
 2020-03-15,Kentucky,Discount Stores,99.0,92.0,100.0,8
-2020-03-15,Kentucky,Nightlife Spots,50.0,43.0,50.0,9
-2020-03-15,Kentucky,Professional & Other Places,18.0,14.0,18.0,10
-2020-03-15,Kentucky,School,47.0,45.0,47.0,11
-2020-03-15,Kentucky,Arts & Entertainment,59.0,45.0,60.0,12
+2020-03-15,Kentucky,Nightlife Spots,75.0,65.0,76.0,9
+2020-03-15,Kentucky,Professional & Other Places,79.0,69.0,79.0,10
+2020-03-15,Kentucky,School,75.0,71.0,75.0,11
+2020-03-15,Kentucky,Arts & Entertainment,68.0,52.0,68.0,12
 2020-03-15,Kentucky,Hardware Stores,110.0,99.0,110.0,13
-2020-03-15,Kentucky,Medical,46.0,38.0,47.0,14
+2020-03-15,Kentucky,Medical,79.0,63.0,79.0,14
 2020-03-15,Kentucky,Drug Store,95.0,87.0,96.0,15
 2020-03-15,Kentucky,Convenience Store,92.0,70.0,93.0,16
-2020-03-15,Kentucky,Hotel,67.0,68.0,67.0,17
-2020-03-15,Kentucky,Airport,45.0,33.0,45.0,18
+2020-03-15,Kentucky,Hotel,75.0,77.0,75.0,17
+2020-03-15,Kentucky,Airport,73.0,54.0,73.0,18
 2020-03-15,Kentucky,Residences,81.0,72.0,81.0,19
-2020-03-15,Kentucky,Fitness Center,56.0,51.0,56.0,20
-2020-03-15,Kentucky,Travel & Transport,56.0,51.0,57.0,21
-2020-03-15,Kentucky,Sports,33.0,30.0,34.0,22
-2020-03-15,Kentucky,Government,64.0,49.0,65.0,23
-2020-03-15,Kentucky,Colleges & Universities,30.0,29.0,30.0,24
-2020-03-15,Kentucky,Office,75.0,61.0,75.0,25
+2020-03-15,Kentucky,Fitness Center,75.0,71.0,75.0,20
+2020-03-15,Kentucky,Travel & Transport,101.0,91.0,101.0,21
+2020-03-15,Kentucky,Sports,73.0,61.0,74.0,22
+2020-03-15,Kentucky,Government,92.0,69.0,92.0,23
+2020-03-15,Kentucky,Colleges & Universities,56.0,56.0,56.0,24
+2020-03-15,Kentucky,Office,86.0,71.0,86.0,25
 2020-03-15,Kentucky,Alcohol,85.0,80.0,85.0,26
 2020-03-15,Kentucky,Banks,67.0,"",68.0,27
-2020-03-16,Kentucky,Food,42.0,36.0,42.0,1
-2020-03-16,Kentucky,Shops & Services,35.0,31.0,35.0,2
+2020-03-16,Kentucky,Food,86.0,74.0,87.0,1
+2020-03-16,Kentucky,Shops & Services,98.0,85.0,98.0,2
 2020-03-16,Kentucky,Grocery,146.0,132.0,147.0,3
 2020-03-16,Kentucky,Gas Stations,104.0,98.0,104.0,4
 2020-03-16,Kentucky,Fast Food Restaurants,91.0,85.0,91.0,5
-2020-03-16,Kentucky,Medical,50.0,45.0,51.0,6
+2020-03-16,Kentucky,Medical,88.0,78.0,89.0,6
 2020-03-16,Kentucky,Big Box Stores,120.0,107.0,120.0,7
-2020-03-16,Kentucky,Professional & Other Places,20.0,17.0,20.0,8
-2020-03-16,Kentucky,Outdoors & Recreation,57.0,50.0,57.0,9
-2020-03-16,Kentucky,School,35.0,42.0,35.0,10
+2020-03-16,Kentucky,Professional & Other Places,95.0,86.0,95.0,8
+2020-03-16,Kentucky,Outdoors & Recreation,102.0,93.0,102.0,9
 2020-03-16,Kentucky,Discount Stores,118.0,104.0,118.0,10
-2020-03-16,Kentucky,Office,79.0,74.0,79.0,11
-2020-03-16,Kentucky,Drug Store,122.0,100.0,123.0,12
-2020-03-16,Kentucky,Nightlife Spots,65.0,57.0,65.0,13
-2020-03-16,Kentucky,Government,69.0,65.0,69.0,14
-2020-03-16,Kentucky,Hardware Stores,111.0,89.0,113.0,15
-2020-03-16,Kentucky,Convenience Store,104.0,97.0,104.0,16
-2020-03-16,Kentucky,Arts & Entertainment,76.0,65.0,76.0,17
-2020-03-16,Kentucky,Airport,40.0,33.0,40.0,18
-2020-03-16,Kentucky,Hotel,77.0,74.0,77.0,19
-2020-03-16,Kentucky,Colleges & Universities,26.0,42.0,25.0,20
-2020-03-16,Kentucky,Residences,101.0,88.0,101.0,21
-2020-03-16,Kentucky,Fitness Center,51.0,42.0,51.0,22
-2020-03-16,Kentucky,Banks,110.0,106.0,111.0,23
-2020-03-16,Kentucky,Travel & Transport,21.0,23.0,21.0,24
-2020-03-16,Kentucky,Sports,37.0,31.0,37.0,25
-2020-03-16,Kentucky,Alcohol,131.0,111.0,132.0,26
-2020-03-16,Kentucky,Bus,75.0,"",75.0,27
-2020-03-17,Kentucky,Food,34.0,28.0,34.0,1
-2020-03-17,Kentucky,Shops & Services,32.0,27.0,32.0,2
+2020-03-16,Kentucky,School,57.0,65.0,56.0,11
+2020-03-16,Kentucky,Office,91.0,84.0,91.0,12
+2020-03-16,Kentucky,Drug Store,122.0,100.0,123.0,13
+2020-03-16,Kentucky,Nightlife Spots,92.0,78.0,93.0,14
+2020-03-16,Kentucky,Government,95.0,88.0,95.0,15
+2020-03-16,Kentucky,Hardware Stores,111.0,89.0,113.0,16
+2020-03-16,Kentucky,Convenience Store,104.0,97.0,104.0,17
+2020-03-16,Kentucky,Arts & Entertainment,85.0,74.0,86.0,18
+2020-03-16,Kentucky,Airport,64.0,54.0,65.0,19
+2020-03-16,Kentucky,Hotel,89.0,86.0,89.0,20
+2020-03-16,Kentucky,Colleges & Universities,46.0,72.0,46.0,21
+2020-03-16,Kentucky,Residences,101.0,88.0,101.0,22
+2020-03-16,Kentucky,Fitness Center,71.0,59.0,71.0,23
+2020-03-16,Kentucky,Banks,110.0,106.0,111.0,24
+2020-03-16,Kentucky,Travel & Transport,100.0,101.0,100.0,25
+2020-03-16,Kentucky,Sports,93.0,73.0,94.0,26
+2020-03-16,Kentucky,Alcohol,131.0,111.0,132.0,27
+2020-03-16,Kentucky,Bus,109.0,"",109.0,28
+2020-03-17,Kentucky,Food,69.0,56.0,70.0,1
+2020-03-17,Kentucky,Shops & Services,89.0,75.0,90.0,2
 2020-03-17,Kentucky,Gas Stations,95.0,88.0,95.0,3
 2020-03-17,Kentucky,Grocery,125.0,112.0,125.0,4
 2020-03-17,Kentucky,Fast Food Restaurants,78.0,72.0,78.0,5
-2020-03-17,Kentucky,Medical,42.0,36.0,42.0,6
-2020-03-17,Kentucky,Professional & Other Places,17.0,13.0,17.0,7
+2020-03-17,Kentucky,Medical,75.0,65.0,76.0,6
+2020-03-17,Kentucky,Professional & Other Places,83.0,71.0,83.0,7
 2020-03-17,Kentucky,Big Box Stores,107.0,88.0,108.0,8
-2020-03-17,Kentucky,Outdoors & Recreation,61.0,57.0,61.0,9
-2020-03-17,Kentucky,School,29.0,33.0,29.0,10
+2020-03-17,Kentucky,Outdoors & Recreation,113.0,106.0,113.0,9
+2020-03-17,Kentucky,School,48.0,55.0,48.0,10
 2020-03-17,Kentucky,Discount Stores,107.0,94.0,108.0,11
-2020-03-17,Kentucky,Office,70.0,69.0,70.0,12
+2020-03-17,Kentucky,Office,81.0,80.0,81.0,12
 2020-03-17,Kentucky,Drug Store,105.0,91.0,106.0,13
 2020-03-17,Kentucky,Convenience Store,99.0,87.0,99.0,14
 2020-03-17,Kentucky,Hardware Stores,105.0,87.0,106.0,15
-2020-03-17,Kentucky,Government,56.0,51.0,57.0,16
-2020-03-17,Kentucky,Arts & Entertainment,71.0,62.0,71.0,17
-2020-03-17,Kentucky,Nightlife Spots,48.0,52.0,48.0,18
-2020-03-17,Kentucky,Airport,41.0,32.0,42.0,19
-2020-03-17,Kentucky,Hotel,66.0,64.0,66.0,20
-2020-03-17,Kentucky,Colleges & Universities,22.0,35.0,22.0,21
+2020-03-17,Kentucky,Government,77.0,71.0,77.0,16
+2020-03-17,Kentucky,Arts & Entertainment,78.0,70.0,79.0,17
+2020-03-17,Kentucky,Nightlife Spots,71.0,76.0,71.0,18
+2020-03-17,Kentucky,Airport,65.0,51.0,65.0,19
+2020-03-17,Kentucky,Hotel,74.0,74.0,74.0,20
+2020-03-17,Kentucky,Colleges & Universities,40.0,59.0,39.0,21
 2020-03-17,Kentucky,Residences,97.0,87.0,97.0,22
-2020-03-17,Kentucky,Fitness Center,40.0,41.0,40.0,23
-2020-03-17,Kentucky,Travel & Transport,29.0,30.0,29.0,24
-2020-03-17,Kentucky,Sports,35.0,39.0,35.0,25
+2020-03-17,Kentucky,Fitness Center,54.0,56.0,54.0,23
+2020-03-17,Kentucky,Travel & Transport,93.0,91.0,93.0,24
+2020-03-17,Kentucky,Sports,99.0,103.0,99.0,25
 2020-03-17,Kentucky,Banks,82.0,74.0,83.0,26
 2020-03-17,Kentucky,Alcohol,108.0,93.0,109.0,27
-2020-03-17,Kentucky,Bus,59.0,"",59.0,28
-2020-03-18,Kentucky,Food,32.0,26.0,32.0,1
-2020-03-18,Kentucky,Shops & Services,31.0,26.0,31.0,2
+2020-03-17,Kentucky,Bus,82.0,"",82.0,28
+2020-03-18,Kentucky,Food,66.0,52.0,66.0,1
+2020-03-18,Kentucky,Shops & Services,85.0,70.0,86.0,2
 2020-03-18,Kentucky,Gas Stations,93.0,87.0,93.0,3
 2020-03-18,Kentucky,Grocery,121.0,108.0,121.0,4
 2020-03-18,Kentucky,Fast Food Restaurants,75.0,67.0,75.0,5
-2020-03-18,Kentucky,Professional & Other Places,17.0,12.0,17.0,6
-2020-03-18,Kentucky,Medical,41.0,34.0,42.0,7
+2020-03-18,Kentucky,Professional & Other Places,81.0,67.0,81.0,6
+2020-03-18,Kentucky,Medical,72.0,60.0,73.0,7
 2020-03-18,Kentucky,Big Box Stores,100.0,90.0,101.0,8
-2020-03-18,Kentucky,Outdoors & Recreation,55.0,50.0,55.0,9
-2020-03-18,Kentucky,School,28.0,32.0,28.0,10
+2020-03-18,Kentucky,Outdoors & Recreation,96.0,90.0,97.0,9
+2020-03-18,Kentucky,School,46.0,51.0,46.0,10
 2020-03-18,Kentucky,Discount Stores,105.0,99.0,105.0,11
-2020-03-18,Kentucky,Office,71.0,64.0,71.0,12
+2020-03-18,Kentucky,Office,83.0,73.0,83.0,12
 2020-03-18,Kentucky,Drug Store,102.0,95.0,102.0,13
 2020-03-18,Kentucky,Hardware Stores,104.0,86.0,105.0,14
 2020-03-18,Kentucky,Convenience Store,91.0,81.0,92.0,15
-2020-03-18,Kentucky,Government,51.0,45.0,51.0,16
-2020-03-18,Kentucky,Nightlife Spots,41.0,36.0,42.0,17
-2020-03-18,Kentucky,Arts & Entertainment,57.0,42.0,57.0,18
-2020-03-18,Kentucky,Hotel,61.0,58.0,61.0,19
-2020-03-18,Kentucky,Airport,38.0,21.0,38.0,20
+2020-03-18,Kentucky,Government,70.0,61.0,70.0,16
+2020-03-18,Kentucky,Nightlife Spots,63.0,54.0,63.0,17
+2020-03-18,Kentucky,Arts & Entertainment,64.0,47.0,64.0,18
+2020-03-18,Kentucky,Hotel,68.0,65.0,68.0,19
+2020-03-18,Kentucky,Airport,59.0,34.0,60.0,20
 2020-03-18,Kentucky,Residences,88.0,81.0,88.0,21
-2020-03-18,Kentucky,Colleges & Universities,22.0,30.0,22.0,22
-2020-03-18,Kentucky,Travel & Transport,18.0,18.0,18.0,23
+2020-03-18,Kentucky,Colleges & Universities,35.0,44.0,35.0,22
+2020-03-18,Kentucky,Travel & Transport,92.0,88.0,92.0,23
 2020-03-18,Kentucky,Banks,84.0,79.0,85.0,24
-2020-03-18,Kentucky,Sports,32.0,28.0,33.0,25
-2020-03-18,Kentucky,Fitness Center,31.0,31.0,31.0,26
+2020-03-18,Kentucky,Sports,85.0,71.0,85.0,25
+2020-03-18,Kentucky,Fitness Center,43.0,43.0,43.0,26
 2020-03-18,Kentucky,Alcohol,109.0,82.0,110.0,27
-2020-03-19,Kentucky,Food,29.0,24.0,30.0,1
-2020-03-19,Kentucky,Shops & Services,25.0,21.0,25.0,2
+2020-03-19,Kentucky,Food,58.0,46.0,59.0,1
+2020-03-19,Kentucky,Shops & Services,73.0,60.0,74.0,2
 2020-03-19,Kentucky,Gas Stations,88.0,80.0,88.0,3
 2020-03-19,Kentucky,Grocery,114.0,100.0,115.0,4
 2020-03-19,Kentucky,Fast Food Restaurants,69.0,60.0,70.0,5
-2020-03-19,Kentucky,Professional & Other Places,17.0,13.0,17.0,6
-2020-03-19,Kentucky,Big Box Stores,96.0,82.0,96.0,7
-2020-03-19,Kentucky,Medical,38.0,31.0,39.0,8
-2020-03-19,Kentucky,Outdoors & Recreation,55.0,51.0,55.0,9
-2020-03-19,Kentucky,School,28.0,31.0,28.0,10
+2020-03-19,Kentucky,Big Box Stores,96.0,82.0,96.0,6
+2020-03-19,Kentucky,Professional & Other Places,79.0,69.0,79.0,7
+2020-03-19,Kentucky,Medical,67.0,54.0,67.0,8
+2020-03-19,Kentucky,Outdoors & Recreation,99.0,93.0,99.0,9
+2020-03-19,Kentucky,School,48.0,51.0,48.0,10
 2020-03-19,Kentucky,Discount Stores,101.0,90.0,101.0,11
-2020-03-19,Kentucky,Office,69.0,66.0,69.0,12
+2020-03-19,Kentucky,Office,80.0,74.0,80.0,12
 2020-03-19,Kentucky,Drug Store,93.0,77.0,94.0,13
 2020-03-19,Kentucky,Hardware Stores,99.0,74.0,101.0,14
 2020-03-19,Kentucky,Convenience Store,85.0,77.0,85.0,15
-2020-03-19,Kentucky,Arts & Entertainment,55.0,50.0,55.0,16
-2020-03-19,Kentucky,Nightlife Spots,34.0,33.0,34.0,17
-2020-03-19,Kentucky,Government,47.0,39.0,47.0,18
-2020-03-19,Kentucky,Airport,31.0,28.0,31.0,19
-2020-03-19,Kentucky,Hotel,52.0,55.0,52.0,20
+2020-03-19,Kentucky,Arts & Entertainment,60.0,55.0,60.0,16
+2020-03-19,Kentucky,Nightlife Spots,59.0,56.0,59.0,17
+2020-03-19,Kentucky,Government,65.0,53.0,65.0,18
+2020-03-19,Kentucky,Airport,49.0,45.0,50.0,19
+2020-03-19,Kentucky,Hotel,58.0,62.0,58.0,20
 2020-03-19,Kentucky,Residences,84.0,75.0,84.0,21
-2020-03-19,Kentucky,Colleges & Universities,18.0,25.0,18.0,22
-2020-03-19,Kentucky,Travel & Transport,26.0,25.0,26.0,23
-2020-03-19,Kentucky,Sports,32.0,34.0,32.0,24
+2020-03-19,Kentucky,Colleges & Universities,34.0,45.0,33.0,22
+2020-03-19,Kentucky,Travel & Transport,87.0,80.0,87.0,23
+2020-03-19,Kentucky,Sports,84.0,82.0,85.0,24
 2020-03-19,Kentucky,Banks,77.0,74.0,77.0,25
 2020-03-19,Kentucky,Alcohol,102.0,82.0,103.0,26
-2020-03-19,Kentucky,Fitness Center,26.0,24.0,26.0,27
-2020-03-19,Kentucky,Bus,62.0,"",62.0,28
-2020-03-20,Kentucky,Food,30.0,25.0,30.0,1
-2020-03-20,Kentucky,Shops & Services,27.0,23.0,27.0,2
+2020-03-19,Kentucky,Fitness Center,36.0,34.0,36.0,27
+2020-03-19,Kentucky,Bus,86.0,"",85.0,28
+2020-03-20,Kentucky,Food,59.0,48.0,60.0,1
+2020-03-20,Kentucky,Shops & Services,73.0,62.0,74.0,2
 2020-03-20,Kentucky,Gas Stations,87.0,80.0,87.0,3
 2020-03-20,Kentucky,Grocery,107.0,95.0,108.0,4
 2020-03-20,Kentucky,Fast Food Restaurants,75.0,65.0,76.0,5
 2020-03-20,Kentucky,Big Box Stores,93.0,79.0,93.0,6
-2020-03-20,Kentucky,Outdoors & Recreation,61.0,58.0,61.0,7
-2020-03-20,Kentucky,Professional & Other Places,17.0,15.0,17.0,8
-2020-03-20,Kentucky,Medical,40.0,33.0,40.0,9
-2020-03-20,Kentucky,School,32.0,36.0,32.0,10
+2020-03-20,Kentucky,Outdoors & Recreation,114.0,110.0,114.0,7
+2020-03-20,Kentucky,Professional & Other Places,76.0,70.0,76.0,8
+2020-03-20,Kentucky,Medical,70.0,58.0,71.0,9
+2020-03-20,Kentucky,School,52.0,57.0,52.0,10
 2020-03-20,Kentucky,Discount Stores,96.0,95.0,97.0,11
-2020-03-20,Kentucky,Office,72.0,67.0,72.0,12
+2020-03-20,Kentucky,Office,84.0,77.0,84.0,12
 2020-03-20,Kentucky,Hardware Stores,108.0,89.0,109.0,13
 2020-03-20,Kentucky,Drug Store,89.0,79.0,90.0,14
 2020-03-20,Kentucky,Convenience Store,91.0,79.0,91.0,15
-2020-03-20,Kentucky,Arts & Entertainment,55.0,49.0,55.0,16
-2020-03-20,Kentucky,Nightlife Spots,39.0,42.0,39.0,17
+2020-03-20,Kentucky,Arts & Entertainment,61.0,54.0,61.0,16
+2020-03-20,Kentucky,Nightlife Spots,59.0,61.0,59.0,17
 2020-03-20,Kentucky,Residences,96.0,85.0,96.0,18
-2020-03-20,Kentucky,Government,50.0,41.0,50.0,19
-2020-03-20,Kentucky,Hotel,53.0,57.0,53.0,20
-2020-03-20,Kentucky,Colleges & Universities,23.0,27.0,23.0,21
-2020-03-20,Kentucky,Airport,28.0,30.0,28.0,22
-2020-03-20,Kentucky,Travel & Transport,72.0,77.0,71.0,23
-2020-03-20,Kentucky,Sports,40.0,39.0,40.0,24
+2020-03-20,Kentucky,Government,68.0,57.0,68.0,19
+2020-03-20,Kentucky,Hotel,59.0,64.0,59.0,20
+2020-03-20,Kentucky,Colleges & Universities,43.0,51.0,43.0,21
+2020-03-20,Kentucky,Airport,45.0,48.0,45.0,22
+2020-03-20,Kentucky,Travel & Transport,90.0,99.0,90.0,23
+2020-03-20,Kentucky,Sports,99.0,92.0,100.0,24
 2020-03-20,Kentucky,Banks,70.0,62.0,71.0,25
 2020-03-20,Kentucky,Alcohol,92.0,69.0,93.0,26
-2020-03-20,Kentucky,Fitness Center,31.0,33.0,31.0,27
-2020-03-20,Kentucky,Bus,57.0,"",58.0,28
-2020-03-21,Kentucky,Food,23.0,19.0,23.0,1
-2020-03-21,Kentucky,Shops & Services,18.0,15.0,18.0,2
+2020-03-20,Kentucky,Fitness Center,43.0,47.0,43.0,27
+2020-03-20,Kentucky,Bus,81.0,"",82.0,28
+2020-03-21,Kentucky,Food,45.0,37.0,45.0,1
+2020-03-21,Kentucky,Shops & Services,50.0,43.0,50.0,2
 2020-03-21,Kentucky,Grocery,92.0,78.0,93.0,3
 2020-03-21,Kentucky,Gas Stations,78.0,69.0,78.0,4
 2020-03-21,Kentucky,Fast Food Restaurants,61.0,56.0,61.0,5
 2020-03-21,Kentucky,Big Box Stores,76.0,64.0,77.0,6
-2020-03-21,Kentucky,Outdoors & Recreation,52.0,49.0,53.0,7
+2020-03-21,Kentucky,Outdoors & Recreation,88.0,82.0,88.0,7
 2020-03-21,Kentucky,Discount Stores,81.0,71.0,82.0,8
-2020-03-21,Kentucky,Professional & Other Places,15.0,14.0,15.0,9
+2020-03-21,Kentucky,Professional & Other Places,59.0,57.0,59.0,9
 2020-03-21,Kentucky,Hardware Stores,101.0,87.0,101.0,10
-2020-03-21,Kentucky,School,31.0,30.0,31.0,11
-2020-03-21,Kentucky,Medical,37.0,30.0,37.0,12
+2020-03-21,Kentucky,School,50.0,47.0,51.0,11
+2020-03-21,Kentucky,Medical,64.0,52.0,65.0,12
 2020-03-21,Kentucky,Drug Store,79.0,66.0,79.0,13
 2020-03-21,Kentucky,Convenience Store,75.0,58.0,76.0,14
-2020-03-21,Kentucky,Nightlife Spots,26.0,28.0,26.0,15
-2020-03-21,Kentucky,Arts & Entertainment,31.0,29.0,31.0,16
+2020-03-21,Kentucky,Nightlife Spots,39.0,42.0,39.0,15
+2020-03-21,Kentucky,Arts & Entertainment,35.0,34.0,35.0,16
 2020-03-21,Kentucky,Residences,72.0,59.0,73.0,17
-2020-03-21,Kentucky,Hotel,38.0,49.0,38.0,18
-2020-03-21,Kentucky,Office,71.0,65.0,71.0,19
-2020-03-21,Kentucky,Airport,27.0,16.0,28.0,20
-2020-03-21,Kentucky,Travel & Transport,46.0,47.0,46.0,21
-2020-03-21,Kentucky,Colleges & Universities,22.0,17.0,22.0,22
-2020-03-21,Kentucky,Sports,27.0,24.0,27.0,23
-2020-03-21,Kentucky,Government,53.0,41.0,54.0,24
+2020-03-21,Kentucky,Hotel,43.0,56.0,43.0,18
+2020-03-21,Kentucky,Office,82.0,73.0,83.0,19
+2020-03-21,Kentucky,Airport,44.0,26.0,44.0,20
+2020-03-21,Kentucky,Travel & Transport,82.0,85.0,82.0,21
+2020-03-21,Kentucky,Colleges & Universities,41.0,33.0,41.0,22
+2020-03-21,Kentucky,Sports,66.0,54.0,66.0,23
+2020-03-21,Kentucky,Government,75.0,56.0,76.0,24
 2020-03-21,Kentucky,Alcohol,71.0,68.0,71.0,25
 2020-03-21,Kentucky,Banks,67.0,54.0,67.0,26
-2020-03-21,Kentucky,Fitness Center,20.0,17.0,20.0,27
-2020-03-22,Kentucky,Food,21.0,18.0,22.0,1
+2020-03-21,Kentucky,Fitness Center,28.0,25.0,29.0,27
+2020-03-22,Kentucky,Food,42.0,34.0,42.0,1
 2020-03-22,Kentucky,Grocery,76.0,70.0,76.0,2
 2020-03-22,Kentucky,Gas Stations,70.0,69.0,70.0,3
-2020-03-22,Kentucky,Shops & Services,23.0,21.0,23.0,4
+2020-03-22,Kentucky,Shops & Services,47.0,44.0,47.0,4
 2020-03-22,Kentucky,Fast Food Restaurants,59.0,53.0,60.0,5
 2020-03-22,Kentucky,Big Box Stores,67.0,56.0,67.0,6
-2020-03-22,Kentucky,Outdoors & Recreation,43.0,39.0,43.0,7
+2020-03-22,Kentucky,Outdoors & Recreation,81.0,74.0,81.0,7
 2020-03-22,Kentucky,Discount Stores,73.0,71.0,73.0,8
-2020-03-22,Kentucky,Professional & Other Places,13.0,10.0,13.0,9
-2020-03-22,Kentucky,School,40.0,38.0,40.0,10
+2020-03-22,Kentucky,Professional & Other Places,63.0,52.0,63.0,9
+2020-03-22,Kentucky,School,63.0,59.0,63.0,10
 2020-03-22,Kentucky,Hardware Stores,95.0,73.0,96.0,11
-2020-03-22,Kentucky,Medical,37.0,31.0,37.0,12
+2020-03-22,Kentucky,Medical,62.0,52.0,62.0,12
 2020-03-22,Kentucky,Convenience Store,74.0,59.0,74.0,13
 2020-03-22,Kentucky,Drug Store,73.0,63.0,73.0,14
-2020-03-22,Kentucky,Nightlife Spots,23.0,23.0,23.0,15
-2020-03-22,Kentucky,Arts & Entertainment,35.0,31.0,35.0,16
+2020-03-22,Kentucky,Nightlife Spots,33.0,34.0,33.0,15
+2020-03-22,Kentucky,Arts & Entertainment,38.0,34.0,38.0,16
 2020-03-22,Kentucky,Residences,67.0,58.0,68.0,17
-2020-03-22,Kentucky,Hotel,44.0,51.0,44.0,18
-2020-03-22,Kentucky,Airport,24.0,12.0,24.0,19
-2020-03-22,Kentucky,Office,73.0,68.0,73.0,20
-2020-03-22,Kentucky,Sports,32.0,34.0,32.0,21
-2020-03-22,Kentucky,Travel & Transport,24.0,28.0,24.0,22
-2020-03-22,Kentucky,Colleges & Universities,25.0,20.0,25.0,23
-2020-03-22,Kentucky,Government,50.0,41.0,51.0,24
+2020-03-22,Kentucky,Hotel,49.0,57.0,49.0,18
+2020-03-22,Kentucky,Airport,39.0,20.0,39.0,19
+2020-03-22,Kentucky,Office,84.0,79.0,84.0,20
+2020-03-22,Kentucky,Sports,64.0,63.0,64.0,21
+2020-03-22,Kentucky,Travel & Transport,82.0,90.0,82.0,22
+2020-03-22,Kentucky,Colleges & Universities,49.0,41.0,49.0,23
+2020-03-22,Kentucky,Government,73.0,57.0,73.0,24
 2020-03-22,Kentucky,Alcohol,64.0,65.0,64.0,25
-2020-03-22,Kentucky,Fitness Center,22.0,22.0,22.0,26
+2020-03-22,Kentucky,Fitness Center,30.0,31.0,30.0,26
 2020-03-22,Kentucky,Banks,63.0,67.0,63.0,27
-2020-03-23,Kentucky,Food,30.0,24.0,30.0,1
-2020-03-23,Kentucky,Shops & Services,27.0,22.0,27.0,2
+2020-03-23,Kentucky,Food,60.0,48.0,60.0,1
+2020-03-23,Kentucky,Shops & Services,75.0,61.0,76.0,2
 2020-03-23,Kentucky,Gas Stations,83.0,77.0,83.0,3
 2020-03-23,Kentucky,Grocery,94.0,89.0,94.0,4
 2020-03-23,Kentucky,Fast Food Restaurants,68.0,59.0,68.0,5
-2020-03-23,Kentucky,Outdoors & Recreation,55.0,50.0,55.0,6
-2020-03-23,Kentucky,Medical,34.0,27.0,34.0,7
+2020-03-23,Kentucky,Outdoors & Recreation,101.0,97.0,101.0,6
+2020-03-23,Kentucky,Medical,60.0,49.0,61.0,7
 2020-03-23,Kentucky,Big Box Stores,88.0,76.0,88.0,8
-2020-03-23,Kentucky,Professional & Other Places,15.0,12.0,15.0,9
-2020-03-23,Kentucky,School,32.0,37.0,31.0,10
+2020-03-23,Kentucky,Professional & Other Places,72.0,66.0,72.0,9
+2020-03-23,Kentucky,School,51.0,58.0,51.0,10
 2020-03-23,Kentucky,Discount Stores,90.0,85.0,90.0,11
-2020-03-23,Kentucky,Office,67.0,57.0,67.0,12
+2020-03-23,Kentucky,Office,77.0,65.0,77.0,12
 2020-03-23,Kentucky,Hardware Stores,109.0,89.0,110.0,13
 2020-03-23,Kentucky,Drug Store,88.0,72.0,89.0,14
 2020-03-23,Kentucky,Convenience Store,87.0,72.0,88.0,15
-2020-03-23,Kentucky,Nightlife Spots,46.0,47.0,46.0,16
-2020-03-23,Kentucky,Arts & Entertainment,59.0,52.0,59.0,17
-2020-03-23,Kentucky,Government,45.0,42.0,45.0,18
+2020-03-23,Kentucky,Nightlife Spots,66.0,65.0,66.0,16
+2020-03-23,Kentucky,Arts & Entertainment,67.0,59.0,67.0,17
+2020-03-23,Kentucky,Government,62.0,57.0,62.0,18
 2020-03-23,Kentucky,Residences,86.0,77.0,86.0,19
-2020-03-23,Kentucky,Colleges & Universities,20.0,32.0,20.0,20
-2020-03-23,Kentucky,Hotel,56.0,46.0,57.0,21
-2020-03-23,Kentucky,Sports,38.0,32.0,38.0,22
-2020-03-23,Kentucky,Airport,23.0,17.0,23.0,23
-2020-03-23,Kentucky,Travel & Transport,43.0,34.0,44.0,24
+2020-03-23,Kentucky,Colleges & Universities,36.0,57.0,36.0,20
+2020-03-23,Kentucky,Hotel,65.0,54.0,65.0,21
+2020-03-23,Kentucky,Sports,94.0,76.0,95.0,22
+2020-03-23,Kentucky,Airport,37.0,27.0,37.0,23
+2020-03-23,Kentucky,Travel & Transport,78.0,64.0,78.0,24
 2020-03-23,Kentucky,Banks,70.0,61.0,70.0,25
-2020-03-23,Kentucky,Fitness Center,27.0,26.0,27.0,26
+2020-03-23,Kentucky,Fitness Center,38.0,36.0,38.0,26
 2020-03-23,Kentucky,Alcohol,91.0,76.0,91.0,27
-2020-03-23,Kentucky,Bus,57.0,"",57.0,28
-2020-03-24,Kentucky,Food,28.0,21.0,28.0,1
-2020-03-24,Kentucky,Shops & Services,21.0,17.0,21.0,2
+2020-03-23,Kentucky,Bus,79.0,"",80.0,28
+2020-03-24,Kentucky,Food,54.0,41.0,55.0,1
+2020-03-24,Kentucky,Shops & Services,60.0,48.0,61.0,2
 2020-03-24,Kentucky,Gas Stations,77.0,66.0,78.0,3
 2020-03-24,Kentucky,Grocery,81.0,70.0,81.0,4
 2020-03-24,Kentucky,Fast Food Restaurants,61.0,51.0,61.0,5
-2020-03-24,Kentucky,Professional & Other Places,13.0,11.0,13.0,6
-2020-03-24,Kentucky,Medical,30.0,22.0,31.0,7
-2020-03-24,Kentucky,Outdoors & Recreation,52.0,50.0,52.0,8
+2020-03-24,Kentucky,Professional & Other Places,63.0,58.0,63.0,6
+2020-03-24,Kentucky,Medical,53.0,38.0,54.0,7
+2020-03-24,Kentucky,Outdoors & Recreation,95.0,92.0,95.0,8
 2020-03-24,Kentucky,Big Box Stores,75.0,66.0,76.0,9
-2020-03-24,Kentucky,School,25.0,26.0,25.0,10
-2020-03-24,Kentucky,Office,55.0,53.0,55.0,11
+2020-03-24,Kentucky,School,41.0,42.0,41.0,10
+2020-03-24,Kentucky,Office,65.0,61.0,65.0,11
 2020-03-24,Kentucky,Discount Stores,76.0,67.0,77.0,12
 2020-03-24,Kentucky,Hardware Stores,91.0,69.0,92.0,13
 2020-03-24,Kentucky,Convenience Store,74.0,54.0,75.0,14
 2020-03-24,Kentucky,Drug Store,73.0,68.0,73.0,15
-2020-03-24,Kentucky,Arts & Entertainment,58.0,45.0,58.0,16
-2020-03-24,Kentucky,Nightlife Spots,40.0,35.0,40.0,17
-2020-03-24,Kentucky,Government,40.0,33.0,40.0,18
+2020-03-24,Kentucky,Arts & Entertainment,64.0,51.0,65.0,16
+2020-03-24,Kentucky,Nightlife Spots,57.0,50.0,57.0,17
+2020-03-24,Kentucky,Government,55.0,46.0,55.0,18
 2020-03-24,Kentucky,Residences,85.0,80.0,86.0,19
-2020-03-24,Kentucky,Colleges & Universities,20.0,33.0,19.0,20
-2020-03-24,Kentucky,Hotel,49.0,48.0,49.0,21
-2020-03-24,Kentucky,Airport,27.0,17.0,27.0,22
-2020-03-24,Kentucky,Sports,32.0,35.0,32.0,23
-2020-03-24,Kentucky,Travel & Transport,23.0,25.0,23.0,24
+2020-03-24,Kentucky,Colleges & Universities,30.0,47.0,30.0,20
+2020-03-24,Kentucky,Hotel,55.0,55.0,55.0,21
+2020-03-24,Kentucky,Airport,41.0,28.0,42.0,22
+2020-03-24,Kentucky,Sports,85.0,89.0,85.0,23
+2020-03-24,Kentucky,Travel & Transport,75.0,78.0,75.0,24
 2020-03-24,Kentucky,Banks,55.0,45.0,56.0,25
-2020-03-24,Kentucky,Fitness Center,22.0,20.0,22.0,26
+2020-03-24,Kentucky,Fitness Center,30.0,27.0,30.0,26
 2020-03-24,Kentucky,Alcohol,73.0,55.0,74.0,27
-2020-03-24,Kentucky,Bus,55.0,"",56.0,28
-2020-03-25,Kentucky,Food,28.0,23.0,29.0,1
-2020-03-25,Kentucky,Shops & Services,22.0,17.0,22.0,2
+2020-03-24,Kentucky,Bus,77.0,"",78.0,28
+2020-03-25,Kentucky,Food,58.0,47.0,58.0,1
+2020-03-25,Kentucky,Shops & Services,64.0,49.0,65.0,2
 2020-03-25,Kentucky,Gas Stations,82.0,74.0,83.0,3
 2020-03-25,Kentucky,Fast Food Restaurants,67.0,56.0,67.0,4
 2020-03-25,Kentucky,Grocery,85.0,71.0,86.0,5
-2020-03-25,Kentucky,Outdoors & Recreation,66.0,64.0,66.0,6
-2020-03-25,Kentucky,Professional & Other Places,14.0,12.0,14.0,7
-2020-03-25,Kentucky,Medical,32.0,25.0,32.0,8
+2020-03-25,Kentucky,Outdoors & Recreation,122.0,120.0,122.0,6
+2020-03-25,Kentucky,Professional & Other Places,68.0,63.0,68.0,7
+2020-03-25,Kentucky,Medical,55.0,44.0,56.0,8
 2020-03-25,Kentucky,Big Box Stores,80.0,65.0,81.0,9
-2020-03-25,Kentucky,School,29.0,32.0,28.0,10
+2020-03-25,Kentucky,School,48.0,53.0,48.0,10
 2020-03-25,Kentucky,Discount Stores,85.0,68.0,86.0,11
-2020-03-25,Kentucky,Office,60.0,52.0,60.0,12
+2020-03-25,Kentucky,Office,70.0,60.0,70.0,12
 2020-03-25,Kentucky,Hardware Stores,112.0,86.0,114.0,13
 2020-03-25,Kentucky,Convenience Store,83.0,73.0,84.0,14
-2020-03-25,Kentucky,Nightlife Spots,42.0,38.0,42.0,15
-2020-03-25,Kentucky,Arts & Entertainment,42.0,35.0,43.0,16
+2020-03-25,Kentucky,Nightlife Spots,62.0,56.0,63.0,15
+2020-03-25,Kentucky,Arts & Entertainment,64.0,54.0,65.0,16
 2020-03-25,Kentucky,Drug Store,76.0,73.0,76.0,17
 2020-03-25,Kentucky,Residences,94.0,82.0,94.0,18
-2020-03-25,Kentucky,Government,44.0,38.0,44.0,19
-2020-03-25,Kentucky,Colleges & Universities,22.0,32.0,22.0,20
-2020-03-25,Kentucky,Sports,39.0,48.0,39.0,21
-2020-03-25,Kentucky,Hotel,48.0,43.0,48.0,22
-2020-03-25,Kentucky,Airport,27.0,14.0,28.0,23
-2020-03-25,Kentucky,Travel & Transport,26.0,27.0,26.0,24
+2020-03-25,Kentucky,Government,60.0,51.0,61.0,19
+2020-03-25,Kentucky,Colleges & Universities,34.0,47.0,34.0,20
+2020-03-25,Kentucky,Sports,106.0,120.0,105.0,21
+2020-03-25,Kentucky,Hotel,54.0,49.0,54.0,22
+2020-03-25,Kentucky,Airport,43.0,23.0,43.0,23
+2020-03-25,Kentucky,Travel & Transport,91.0,97.0,91.0,24
 2020-03-25,Kentucky,Banks,67.0,63.0,68.0,25
-2020-03-25,Kentucky,Fitness Center,25.0,22.0,25.0,26
+2020-03-25,Kentucky,Fitness Center,33.0,30.0,34.0,26
 2020-03-25,Kentucky,Alcohol,90.0,83.0,90.0,27
-2020-03-25,Kentucky,Bus,49.0,"",50.0,28
-2020-03-26,Kentucky,Food,29.0,22.0,30.0,1
-2020-03-26,Kentucky,Shops & Services,22.0,18.0,22.0,2
+2020-03-25,Kentucky,Bus,70.0,"",71.0,28
+2020-03-26,Kentucky,Food,58.0,44.0,58.0,1
+2020-03-26,Kentucky,Shops & Services,65.0,50.0,66.0,2
 2020-03-26,Kentucky,Gas Stations,84.0,75.0,84.0,3
 2020-03-26,Kentucky,Fast Food Restaurants,70.0,61.0,71.0,4
 2020-03-26,Kentucky,Grocery,82.0,66.0,83.0,5
-2020-03-26,Kentucky,Outdoors & Recreation,80.0,78.0,80.0,6
-2020-03-26,Kentucky,Professional & Other Places,15.0,12.0,15.0,7
-2020-03-26,Kentucky,Medical,32.0,25.0,32.0,8
+2020-03-26,Kentucky,Outdoors & Recreation,143.0,141.0,143.0,6
+2020-03-26,Kentucky,Professional & Other Places,70.0,61.0,71.0,7
+2020-03-26,Kentucky,Medical,57.0,45.0,57.0,8
 2020-03-26,Kentucky,Big Box Stores,74.0,60.0,74.0,9
-2020-03-26,Kentucky,School,32.0,36.0,32.0,10
+2020-03-26,Kentucky,School,53.0,57.0,53.0,10
 2020-03-26,Kentucky,Discount Stores,88.0,70.0,89.0,11
-2020-03-26,Kentucky,Office,60.0,55.0,60.0,12
+2020-03-26,Kentucky,Office,70.0,62.0,70.0,12
 2020-03-26,Kentucky,Hardware Stores,116.0,88.0,117.0,13
 2020-03-26,Kentucky,Convenience Store,89.0,78.0,90.0,14
-2020-03-26,Kentucky,Nightlife Spots,46.0,47.0,46.0,15
-2020-03-26,Kentucky,Arts & Entertainment,57.0,48.0,57.0,16
+2020-03-26,Kentucky,Nightlife Spots,65.0,64.0,65.0,15
+2020-03-26,Kentucky,Arts & Entertainment,65.0,54.0,65.0,16
 2020-03-26,Kentucky,Drug Store,75.0,65.0,75.0,17
 2020-03-26,Kentucky,Residences,97.0,82.0,98.0,18
-2020-03-26,Kentucky,Government,46.0,40.0,46.0,19
-2020-03-26,Kentucky,Sports,50.0,55.0,50.0,20
-2020-03-26,Kentucky,Hotel,51.0,47.0,51.0,21
-2020-03-26,Kentucky,Colleges & Universities,22.0,35.0,22.0,22
-2020-03-26,Kentucky,Travel & Transport,17.0,18.0,17.0,23
-2020-03-26,Kentucky,Airport,24.0,17.0,24.0,24
+2020-03-26,Kentucky,Government,63.0,55.0,64.0,19
+2020-03-26,Kentucky,Sports,122.0,124.0,122.0,20
+2020-03-26,Kentucky,Hotel,57.0,53.0,57.0,21
+2020-03-26,Kentucky,Colleges & Universities,35.0,53.0,34.0,22
+2020-03-26,Kentucky,Travel & Transport,84.0,77.0,84.0,23
+2020-03-26,Kentucky,Airport,38.0,28.0,38.0,24
 2020-03-26,Kentucky,Banks,68.0,61.0,69.0,25
-2020-03-26,Kentucky,Fitness Center,25.0,21.0,26.0,26
+2020-03-26,Kentucky,Fitness Center,35.0,30.0,35.0,26
 2020-03-26,Kentucky,Alcohol,82.0,77.0,82.0,27
-2020-03-26,Kentucky,Bus,51.0,"",51.0,28
-2020-03-27,Kentucky,Food,27.0,22.0,27.0,1
-2020-03-27,Kentucky,Shops & Services,22.0,18.0,22.0,2
+2020-03-26,Kentucky,Bus,71.0,"",72.0,28
+2020-03-27,Kentucky,Food,55.0,43.0,55.0,1
+2020-03-27,Kentucky,Shops & Services,62.0,50.0,62.0,2
 2020-03-27,Kentucky,Gas Stations,80.0,72.0,80.0,3
 2020-03-27,Kentucky,Fast Food Restaurants,71.0,59.0,71.0,4
 2020-03-27,Kentucky,Grocery,79.0,65.0,80.0,5
-2020-03-27,Kentucky,Outdoors & Recreation,68.0,64.0,68.0,6
+2020-03-27,Kentucky,Outdoors & Recreation,123.0,120.0,123.0,6
 2020-03-27,Kentucky,Big Box Stores,78.0,61.0,78.0,7
-2020-03-27,Kentucky,Professional & Other Places,15.0,13.0,15.0,8
-2020-03-27,Kentucky,Medical,35.0,25.0,35.0,9
-2020-03-27,Kentucky,School,33.0,35.0,33.0,10
+2020-03-27,Kentucky,Professional & Other Places,68.0,65.0,68.0,8
+2020-03-27,Kentucky,Medical,61.0,45.0,62.0,9
+2020-03-27,Kentucky,School,55.0,58.0,55.0,10
 2020-03-27,Kentucky,Discount Stores,86.0,74.0,87.0,11
 2020-03-27,Kentucky,Hardware Stores,121.0,91.0,122.0,12
-2020-03-27,Kentucky,Office,61.0,52.0,61.0,13
+2020-03-27,Kentucky,Office,71.0,60.0,72.0,13
 2020-03-27,Kentucky,Convenience Store,89.0,73.0,89.0,14
-2020-03-27,Kentucky,Nightlife Spots,33.0,32.0,33.0,15
-2020-03-27,Kentucky,Arts & Entertainment,53.0,44.0,53.0,16
+2020-03-27,Kentucky,Nightlife Spots,58.0,55.0,58.0,15
+2020-03-27,Kentucky,Arts & Entertainment,58.0,49.0,58.0,16
 2020-03-27,Kentucky,Drug Store,76.0,62.0,77.0,17
 2020-03-27,Kentucky,Residences,93.0,86.0,94.0,18
-2020-03-27,Kentucky,Government,44.0,34.0,44.0,19
-2020-03-27,Kentucky,Sports,49.0,49.0,49.0,20
-2020-03-27,Kentucky,Hotel,44.0,40.0,44.0,21
-2020-03-27,Kentucky,Colleges & Universities,23.0,36.0,23.0,22
-2020-03-27,Kentucky,Travel & Transport,17.0,18.0,17.0,23
+2020-03-27,Kentucky,Government,61.0,48.0,62.0,19
+2020-03-27,Kentucky,Sports,114.0,109.0,114.0,20
+2020-03-27,Kentucky,Hotel,49.0,45.0,49.0,21
+2020-03-27,Kentucky,Colleges & Universities,37.0,57.0,37.0,22
+2020-03-27,Kentucky,Travel & Transport,84.0,74.0,84.0,23
 2020-03-27,Kentucky,Banks,65.0,56.0,66.0,24
-2020-03-27,Kentucky,Airport,20.0,20.0,20.0,25
-2020-03-27,Kentucky,Fitness Center,28.0,25.0,28.0,26
+2020-03-27,Kentucky,Airport,33.0,31.0,33.0,25
+2020-03-27,Kentucky,Fitness Center,39.0,35.0,39.0,26
 2020-03-27,Kentucky,Alcohol,75.0,58.0,76.0,27
-2020-03-28,Kentucky,Food,25.0,20.0,25.0,1
-2020-03-28,Kentucky,Shops & Services,19.0,15.0,19.0,2
+2020-03-28,Kentucky,Food,48.0,39.0,49.0,1
+2020-03-28,Kentucky,Shops & Services,49.0,41.0,49.0,2
 2020-03-28,Kentucky,Gas Stations,82.0,69.0,83.0,3
 2020-03-28,Kentucky,Grocery,81.0,61.0,82.0,4
 2020-03-28,Kentucky,Fast Food Restaurants,70.0,61.0,70.0,5
-2020-03-28,Kentucky,Outdoors & Recreation,73.0,66.0,74.0,6
+2020-03-28,Kentucky,Outdoors & Recreation,130.0,116.0,130.0,6
 2020-03-28,Kentucky,Big Box Stores,76.0,63.0,76.0,7
 2020-03-28,Kentucky,Hardware Stores,135.0,101.0,136.0,8
-2020-03-28,Kentucky,Professional & Other Places,18.0,17.0,18.0,9
+2020-03-28,Kentucky,Professional & Other Places,68.0,67.0,68.0,9
 2020-03-28,Kentucky,Discount Stores,83.0,66.0,83.0,10
-2020-03-28,Kentucky,School,40.0,39.0,40.0,11
-2020-03-28,Kentucky,Medical,43.0,34.0,43.0,12
+2020-03-28,Kentucky,School,65.0,62.0,65.0,11
+2020-03-28,Kentucky,Medical,73.0,59.0,73.0,12
 2020-03-28,Kentucky,Convenience Store,90.0,72.0,91.0,13
-2020-03-28,Kentucky,Nightlife Spots,25.0,28.0,25.0,14
-2020-03-28,Kentucky,Arts & Entertainment,29.0,31.0,29.0,15
+2020-03-28,Kentucky,Nightlife Spots,46.0,52.0,46.0,14
+2020-03-28,Kentucky,Arts & Entertainment,46.0,48.0,46.0,15
 2020-03-28,Kentucky,Drug Store,76.0,65.0,76.0,16
 2020-03-28,Kentucky,Residences,89.0,89.0,89.0,17
-2020-03-28,Kentucky,Sports,51.0,52.0,51.0,18
-2020-03-28,Kentucky,Hotel,38.0,31.0,38.0,19
-2020-03-28,Kentucky,Office,70.0,66.0,70.0,20
-2020-03-28,Kentucky,Travel & Transport,19.0,20.0,19.0,21
-2020-03-28,Kentucky,Government,61.0,51.0,61.0,22
-2020-03-28,Kentucky,Colleges & Universities,21.0,21.0,21.0,23
+2020-03-28,Kentucky,Sports,105.0,102.0,105.0,18
+2020-03-28,Kentucky,Hotel,43.0,36.0,43.0,19
+2020-03-28,Kentucky,Office,83.0,74.0,83.0,20
+2020-03-28,Kentucky,Travel & Transport,93.0,89.0,93.0,21
+2020-03-28,Kentucky,Government,86.0,70.0,86.0,22
+2020-03-28,Kentucky,Colleges & Universities,44.0,44.0,44.0,23
 2020-03-28,Kentucky,Alcohol,70.0,61.0,70.0,24
-2020-03-28,Kentucky,Airport,22.0,18.0,22.0,25
+2020-03-28,Kentucky,Airport,35.0,29.0,35.0,25
 2020-03-28,Kentucky,Banks,72.0,60.0,72.0,26
-2020-03-28,Kentucky,Fitness Center,23.0,20.0,24.0,27
-2020-03-29,Kentucky,Food,22.0,17.0,22.0,1
+2020-03-28,Kentucky,Fitness Center,32.0,28.0,33.0,27
+2020-03-29,Kentucky,Food,41.0,32.0,41.0,1
 2020-03-29,Kentucky,Gas Stations,66.0,54.0,67.0,2
-2020-03-29,Kentucky,Shops & Services,23.0,21.0,23.0,3
+2020-03-29,Kentucky,Shops & Services,48.0,45.0,48.0,3
 2020-03-29,Kentucky,Grocery,63.0,57.0,63.0,4
 2020-03-29,Kentucky,Fast Food Restaurants,64.0,58.0,64.0,5
-2020-03-29,Kentucky,Outdoors & Recreation,57.0,51.0,57.0,6
+2020-03-29,Kentucky,Outdoors & Recreation,92.0,84.0,93.0,6
 2020-03-29,Kentucky,Big Box Stores,62.0,55.0,62.0,7
 2020-03-29,Kentucky,Hardware Stores,117.0,98.0,118.0,8
 2020-03-29,Kentucky,Discount Stores,68.0,58.0,68.0,9
-2020-03-29,Kentucky,School,40.0,39.0,40.0,10
-2020-03-29,Kentucky,Professional & Other Places,14.0,11.0,14.0,11
-2020-03-29,Kentucky,Medical,34.0,29.0,34.0,12
+2020-03-29,Kentucky,School,64.0,60.0,64.0,10
+2020-03-29,Kentucky,Professional & Other Places,61.0,56.0,61.0,11
+2020-03-29,Kentucky,Medical,57.0,48.0,58.0,12
 2020-03-29,Kentucky,Convenience Store,74.0,59.0,74.0,13
-2020-03-29,Kentucky,Nightlife Spots,24.0,22.0,24.0,14
+2020-03-29,Kentucky,Nightlife Spots,36.0,33.0,36.0,14
 2020-03-29,Kentucky,Drug Store,72.0,57.0,72.0,15
-2020-03-29,Kentucky,Arts & Entertainment,38.0,37.0,38.0,16
+2020-03-29,Kentucky,Arts & Entertainment,42.0,42.0,42.0,16
 2020-03-29,Kentucky,Residences,67.0,56.0,68.0,17
-2020-03-29,Kentucky,Sports,34.0,34.0,34.0,18
-2020-03-29,Kentucky,Hotel,36.0,36.0,36.0,19
-2020-03-29,Kentucky,Travel & Transport,24.0,22.0,24.0,20
-2020-03-29,Kentucky,Office,65.0,53.0,65.0,21
-2020-03-29,Kentucky,Government,51.0,48.0,51.0,22
-2020-03-29,Kentucky,Airport,19.0,10.0,19.0,23
-2020-03-29,Kentucky,Colleges & Universities,26.0,26.0,26.0,24
+2020-03-29,Kentucky,Sports,72.0,67.0,72.0,18
+2020-03-29,Kentucky,Hotel,41.0,41.0,41.0,19
+2020-03-29,Kentucky,Travel & Transport,78.0,68.0,79.0,20
+2020-03-29,Kentucky,Office,75.0,61.0,75.0,21
+2020-03-29,Kentucky,Government,73.0,68.0,73.0,22
+2020-03-29,Kentucky,Airport,30.0,16.0,31.0,23
+2020-03-29,Kentucky,Colleges & Universities,41.0,41.0,41.0,24
 2020-03-29,Kentucky,Alcohol,64.0,57.0,64.0,25
-2020-03-29,Kentucky,Fitness Center,22.0,"",22.0,26
+2020-03-29,Kentucky,Fitness Center,30.0,"",30.0,26
 2020-03-29,Kentucky,Banks,59.0,"",59.0,27
-2020-03-30,Kentucky,Food,29.0,24.0,30.0,1
-2020-03-30,Kentucky,Shops & Services,21.0,17.0,21.0,2
+2020-03-30,Kentucky,Food,56.0,45.0,56.0,1
+2020-03-30,Kentucky,Shops & Services,64.0,51.0,65.0,2
 2020-03-30,Kentucky,Gas Stations,75.0,65.0,75.0,3
 2020-03-30,Kentucky,Grocery,79.0,72.0,79.0,4
 2020-03-30,Kentucky,Fast Food Restaurants,65.0,55.0,66.0,5
-2020-03-30,Kentucky,Outdoors & Recreation,62.0,55.0,62.0,6
-2020-03-30,Kentucky,Professional & Other Places,14.0,12.0,14.0,7
-2020-03-30,Kentucky,Medical,28.0,23.0,29.0,8
+2020-03-30,Kentucky,Outdoors & Recreation,102.0,96.0,102.0,6
+2020-03-30,Kentucky,Professional & Other Places,66.0,66.0,66.0,7
+2020-03-30,Kentucky,Medical,50.0,39.0,50.0,8
 2020-03-30,Kentucky,Big Box Stores,72.0,60.0,72.0,9
-2020-03-30,Kentucky,School,28.0,33.0,28.0,10
+2020-03-30,Kentucky,School,46.0,53.0,46.0,10
 2020-03-30,Kentucky,Discount Stores,80.0,66.0,80.0,11
 2020-03-30,Kentucky,Hardware Stores,110.0,82.0,112.0,12
-2020-03-30,Kentucky,Office,58.0,52.0,58.0,13
+2020-03-30,Kentucky,Office,66.0,59.0,66.0,13
 2020-03-30,Kentucky,Convenience Store,83.0,65.0,84.0,14
 2020-03-30,Kentucky,Drug Store,75.0,66.0,75.0,15
-2020-03-30,Kentucky,Arts & Entertainment,58.0,51.0,59.0,16
-2020-03-30,Kentucky,Nightlife Spots,41.0,40.0,41.0,17
+2020-03-30,Kentucky,Arts & Entertainment,65.0,56.0,65.0,16
+2020-03-30,Kentucky,Nightlife Spots,58.0,54.0,58.0,17
 2020-03-30,Kentucky,Residences,82.0,74.0,82.0,18
-2020-03-30,Kentucky,Government,41.0,34.0,41.0,19
-2020-03-30,Kentucky,Colleges & Universities,17.0,30.0,17.0,20
-2020-03-30,Kentucky,Sports,41.0,40.0,41.0,21
-2020-03-30,Kentucky,Hotel,46.0,43.0,46.0,22
-2020-03-30,Kentucky,Travel & Transport,25.0,26.0,25.0,23
+2020-03-30,Kentucky,Government,57.0,46.0,57.0,19
+2020-03-30,Kentucky,Colleges & Universities,31.0,52.0,31.0,20
+2020-03-30,Kentucky,Sports,94.0,90.0,94.0,21
+2020-03-30,Kentucky,Hotel,53.0,50.0,53.0,22
+2020-03-30,Kentucky,Travel & Transport,78.0,80.0,78.0,23
 2020-03-30,Kentucky,Banks,76.0,75.0,76.0,24
-2020-03-30,Kentucky,Airport,19.0,15.0,19.0,25
-2020-03-30,Kentucky,Fitness Center,24.0,20.0,24.0,26
+2020-03-30,Kentucky,Airport,31.0,24.0,31.0,25
+2020-03-30,Kentucky,Fitness Center,33.0,28.0,33.0,26
 2020-03-30,Kentucky,Alcohol,75.0,68.0,75.0,27
-2020-03-31,Kentucky,Food,25.0,21.0,25.0,1
-2020-03-31,Kentucky,Shops & Services,20.0,16.0,20.0,2
+2020-03-31,Kentucky,Food,48.0,39.0,49.0,1
+2020-03-31,Kentucky,Shops & Services,56.0,44.0,57.0,2
 2020-03-31,Kentucky,Gas Stations,67.0,61.0,67.0,3
 2020-03-31,Kentucky,Grocery,74.0,63.0,74.0,4
 2020-03-31,Kentucky,Fast Food Restaurants,59.0,49.0,59.0,5
-2020-03-31,Kentucky,Professional & Other Places,11.0,10.0,12.0,6
+2020-03-31,Kentucky,Professional & Other Places,54.0,55.0,54.0,6
 2020-03-31,Kentucky,Big Box Stores,69.0,62.0,69.0,7
-2020-03-31,Kentucky,Outdoors & Recreation,46.0,44.0,46.0,8
-2020-03-31,Kentucky,Medical,22.0,17.0,23.0,9
-2020-03-31,Kentucky,School,20.0,22.0,20.0,10
+2020-03-31,Kentucky,Outdoors & Recreation,80.0,78.0,80.0,8
+2020-03-31,Kentucky,Medical,40.0,31.0,40.0,9
+2020-03-31,Kentucky,School,32.0,35.0,32.0,10
 2020-03-31,Kentucky,Discount Stores,69.0,59.0,69.0,11
-2020-03-31,Kentucky,Office,46.0,43.0,46.0,12
+2020-03-31,Kentucky,Office,53.0,50.0,53.0,12
 2020-03-31,Kentucky,Hardware Stores,88.0,62.0,90.0,13
 2020-03-31,Kentucky,Drug Store,67.0,58.0,67.0,14
 2020-03-31,Kentucky,Convenience Store,65.0,61.0,66.0,15
-2020-03-31,Kentucky,Nightlife Spots,34.0,27.0,34.0,16
-2020-03-31,Kentucky,Government,34.0,32.0,34.0,17
-2020-03-31,Kentucky,Arts & Entertainment,45.0,42.0,45.0,18
+2020-03-31,Kentucky,Nightlife Spots,47.0,37.0,48.0,16
+2020-03-31,Kentucky,Government,47.0,44.0,47.0,17
+2020-03-31,Kentucky,Arts & Entertainment,51.0,49.0,51.0,18
 2020-03-31,Kentucky,Residences,69.0,66.0,69.0,19
-2020-03-31,Kentucky,Colleges & Universities,16.0,24.0,16.0,20
-2020-03-31,Kentucky,Hotel,36.0,37.0,36.0,21
-2020-03-31,Kentucky,Travel & Transport,14.0,11.0,14.0,22
+2020-03-31,Kentucky,Colleges & Universities,25.0,35.0,25.0,20
+2020-03-31,Kentucky,Hotel,41.0,42.0,41.0,21
+2020-03-31,Kentucky,Travel & Transport,69.0,45.0,70.0,22
 2020-03-31,Kentucky,Banks,63.0,49.0,64.0,23
-2020-03-31,Kentucky,Sports,25.0,28.0,25.0,24
-2020-03-31,Kentucky,Airport,19.0,12.0,20.0,25
-2020-03-31,Kentucky,Fitness Center,18.0,17.0,18.0,26
+2020-03-31,Kentucky,Sports,69.0,70.0,69.0,24
+2020-03-31,Kentucky,Airport,30.0,20.0,31.0,25
+2020-03-31,Kentucky,Fitness Center,25.0,23.0,25.0,26
 2020-03-31,Kentucky,Alcohol,65.0,55.0,65.0,27
+2020-04-01,Kentucky,Food,51.0,40.0,51.0,1
+2020-04-01,Kentucky,Shops & Services,61.0,48.0,62.0,2
+2020-04-01,Kentucky,Gas Stations,73.0,67.0,73.0,3
+2020-04-01,Kentucky,Grocery,83.0,71.0,83.0,4
+2020-04-01,Kentucky,Fast Food Restaurants,63.0,55.0,64.0,5
+2020-04-01,Kentucky,Professional & Other Places,58.0,58.0,58.0,6
+2020-04-01,Kentucky,Big Box Stores,78.0,65.0,79.0,7
+2020-04-01,Kentucky,Outdoors & Recreation,90.0,87.0,90.0,8
+2020-04-01,Kentucky,Medical,46.0,35.0,46.0,9
+2020-04-01,Kentucky,School,36.0,40.0,36.0,10
+2020-04-01,Kentucky,Discount Stores,83.0,76.0,83.0,11
+2020-04-01,Kentucky,Office,58.0,53.0,58.0,12
+2020-04-01,Kentucky,Hardware Stores,99.0,76.0,100.0,13
+2020-04-01,Kentucky,Drug Store,80.0,68.0,81.0,14
+2020-04-01,Kentucky,Convenience Store,75.0,70.0,75.0,15
+2020-04-01,Kentucky,Nightlife Spots,51.0,44.0,52.0,16
+2020-04-01,Kentucky,Arts & Entertainment,50.0,46.0,50.0,17
+2020-04-01,Kentucky,Residences,77.0,66.0,77.0,18
+2020-04-01,Kentucky,Government,48.0,42.0,48.0,19
+2020-04-01,Kentucky,Colleges & Universities,26.0,40.0,26.0,20
+2020-04-01,Kentucky,Hotel,42.0,38.0,42.0,21
+2020-04-01,Kentucky,Banks,80.0,76.0,80.0,22
+2020-04-01,Kentucky,Travel & Transport,78.0,76.0,78.0,23
+2020-04-01,Kentucky,Sports,79.0,88.0,79.0,24
+2020-04-01,Kentucky,Airport,35.0,21.0,35.0,25
+2020-04-01,Kentucky,Fitness Center,27.0,21.0,27.0,26
+2020-04-01,Kentucky,Alcohol,74.0,57.0,75.0,27

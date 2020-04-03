@@ -1,1663 +1,1705 @@
-2020-03-01,Nevada,Douglas County,Arts & Entertainment,92.0,76.0,93.0,1
-2020-03-01,Nevada,Douglas County,Food,40.0,34.0,40.0,2
-2020-03-01,Nevada,Douglas County,Skiing,91.0,"",92.0,3
-2020-03-01,Nevada,Nye County,Gas Stations,115.0,"",116.0,1
-2020-03-01,Nevada,Nye County,Food,105.0,"",105.0,2
-2020-03-01,Nevada,Lyon County,Food,50.0,"",51.0,1
-2020-03-01,Nevada,Carson City,Food,51.0,49.0,51.0,1
-2020-03-01,Nevada,Carson City,Shops & Services,71.0,70.0,72.0,2
-2020-03-01,Nevada,Elko County,Food,40.0,"",41.0,1
+2020-03-01,Nevada,Elko County,Food,87.0,"",88.0,1
 2020-03-01,Nevada,Elko County,Arts & Entertainment,86.0,"",86.0,2
 2020-03-01,Nevada,Elko County,Gas Stations,110.0,"",109.0,3
-2020-03-01,Nevada,Clark County,Arts & Entertainment,46.0,44.0,46.0,1
-2020-03-01,Nevada,Clark County,Food,43.0,42.0,43.0,2
-2020-03-01,Nevada,Clark County,Shops & Services,31.0,28.0,31.0,3
-2020-03-01,Nevada,Clark County,Hotel,67.0,61.0,67.0,4
-2020-03-01,Nevada,Clark County,Nightlife Spots,42.0,42.0,42.0,5
-2020-03-01,Nevada,Clark County,Airport,56.0,60.0,56.0,6
+2020-03-01,Nevada,Douglas County,Arts & Entertainment,92.0,76.0,93.0,1
+2020-03-01,Nevada,Douglas County,Food,86.0,73.0,87.0,2
+2020-03-01,Nevada,Douglas County,Skiing,160.0,"",161.0,3
+2020-03-01,Nevada,Washoe County,Food,95.0,82.0,95.0,1
+2020-03-01,Nevada,Washoe County,Shops & Services,97.0,69.0,98.0,2
+2020-03-01,Nevada,Washoe County,Arts & Entertainment,102.0,87.0,103.0,3
+2020-03-01,Nevada,Washoe County,Hotel,98.0,82.0,98.0,4
+2020-03-01,Nevada,Washoe County,Nightlife Spots,92.0,71.0,93.0,5
+2020-03-01,Nevada,Washoe County,Grocery,101.0,78.0,102.0,6
+2020-03-01,Nevada,Washoe County,Outdoors & Recreation,76.0,81.0,75.0,7
+2020-03-01,Nevada,Washoe County,Big Box Stores,91.0,74.0,92.0,8
+2020-03-01,Nevada,Washoe County,Fast Food Restaurants,94.0,"",94.0,9
+2020-03-01,Nevada,Washoe County,Gas Stations,88.0,"",88.0,10
+2020-03-01,Nevada,Washoe County,Airport,113.0,"",114.0,11
+2020-03-01,Nevada,Washoe County,Professional & Other Places,98.0,"",98.0,12
+2020-03-01,Nevada,Washoe County,Convenience Store,88.0,"",89.0,13
+2020-03-01,Nevada,Washoe County,Residences,77.0,"",78.0,14
+2020-03-01,Nevada,Washoe County,Medical,93.0,"",95.0,15
+2020-03-01,Nevada,Washoe County,Colleges & Universities,106.0,"",105.0,16
+2020-03-01,Nevada,Washoe County,Fitness Center,76.0,"",77.0,17
+2020-03-01,Nevada,Washoe County,School,68.0,"",68.0,18
+2020-03-01,Nevada,Clark County,Arts & Entertainment,95.0,91.0,95.0,1
+2020-03-01,Nevada,Clark County,Food,101.0,96.0,101.0,2
+2020-03-01,Nevada,Clark County,Shops & Services,103.0,101.0,103.0,3
+2020-03-01,Nevada,Clark County,Hotel,94.0,89.0,94.0,4
+2020-03-01,Nevada,Clark County,Nightlife Spots,98.0,99.0,98.0,5
+2020-03-01,Nevada,Clark County,Airport,96.0,101.0,96.0,6
 2020-03-01,Nevada,Clark County,Grocery,98.0,102.0,98.0,7
-2020-03-01,Nevada,Clark County,Professional & Other Places,27.0,26.0,27.0,8
-2020-03-01,Nevada,Clark County,Outdoors & Recreation,35.0,31.0,35.0,9
+2020-03-01,Nevada,Clark County,Professional & Other Places,90.0,99.0,90.0,8
+2020-03-01,Nevada,Clark County,Outdoors & Recreation,95.0,87.0,95.0,9
 2020-03-01,Nevada,Clark County,Fast Food Restaurants,107.0,102.0,107.0,10
 2020-03-01,Nevada,Clark County,Gas Stations,109.0,109.0,109.0,11
 2020-03-01,Nevada,Clark County,Convenience Store,109.0,107.0,109.0,12
 2020-03-01,Nevada,Clark County,Big Box Stores,105.0,98.0,105.0,13
 2020-03-01,Nevada,Clark County,Residences,100.0,86.0,101.0,14
 2020-03-01,Nevada,Clark County,Drug Store,105.0,109.0,105.0,15
-2020-03-01,Nevada,Clark County,Medical,57.0,58.0,57.0,16
-2020-03-01,Nevada,Clark County,Travel & Transport,6.0,7.0,6.0,17
-2020-03-01,Nevada,Clark County,Fitness Center,65.0,65.0,65.0,18
-2020-03-01,Nevada,Clark County,School,51.0,48.0,51.0,19
-2020-03-01,Nevada,Clark County,Sports,32.0,32.0,32.0,20
+2020-03-01,Nevada,Clark County,Medical,104.0,106.0,104.0,16
+2020-03-01,Nevada,Clark County,Travel & Transport,95.0,94.0,95.0,17
+2020-03-01,Nevada,Clark County,Fitness Center,100.0,99.0,100.0,18
+2020-03-01,Nevada,Clark County,School,95.0,89.0,95.0,19
+2020-03-01,Nevada,Clark County,Sports,100.0,83.0,101.0,20
 2020-03-01,Nevada,Clark County,Hardware Stores,120.0,118.0,120.0,21
 2020-03-01,Nevada,Clark County,Discount Stores,96.0,81.0,97.0,22
-2020-03-01,Nevada,Clark County,Office,69.0,57.0,69.0,23
-2020-03-01,Nevada,Clark County,Government,55.0,"",55.0,24
+2020-03-01,Nevada,Clark County,Office,94.0,84.0,94.0,23
+2020-03-01,Nevada,Clark County,Government,100.0,"",100.0,24
 2020-03-01,Nevada,Clark County,Banks,102.0,103.0,102.0,25
-2020-03-01,Nevada,Clark County,Colleges & Universities,42.0,"",42.0,26
+2020-03-01,Nevada,Clark County,Colleges & Universities,89.0,"",89.0,26
 2020-03-01,Nevada,Clark County,Alcohol,97.0,"",97.0,27
-2020-03-01,Nevada,Clark County,Bus,71.0,"",72.0,28
+2020-03-01,Nevada,Clark County,Bus,99.0,"",99.0,28
 2020-03-01,Nevada,Clark County,Light Rail Stations,115.0,"",114.0,29
-2020-03-01,Nevada,Washoe County,Food,40.0,36.0,40.0,1
-2020-03-01,Nevada,Washoe County,Shops & Services,65.0,43.0,66.0,2
-2020-03-01,Nevada,Washoe County,Arts & Entertainment,100.0,84.0,100.0,3
-2020-03-01,Nevada,Washoe County,Hotel,76.0,64.0,76.0,4
-2020-03-01,Nevada,Washoe County,Nightlife Spots,66.0,49.0,67.0,5
-2020-03-01,Nevada,Washoe County,Grocery,101.0,78.0,102.0,6
-2020-03-01,Nevada,Washoe County,Outdoors & Recreation,28.0,28.0,28.0,7
-2020-03-01,Nevada,Washoe County,Big Box Stores,91.0,74.0,92.0,8
-2020-03-01,Nevada,Washoe County,Fast Food Restaurants,94.0,"",94.0,9
-2020-03-01,Nevada,Washoe County,Gas Stations,88.0,"",88.0,10
-2020-03-01,Nevada,Washoe County,Airport,77.0,"",78.0,11
-2020-03-01,Nevada,Washoe County,Professional & Other Places,19.0,"",19.0,12
-2020-03-01,Nevada,Washoe County,Convenience Store,88.0,"",89.0,13
-2020-03-01,Nevada,Washoe County,Residences,77.0,"",78.0,14
-2020-03-01,Nevada,Washoe County,Medical,57.0,"",58.0,15
-2020-03-01,Nevada,Washoe County,Colleges & Universities,105.0,"",103.0,16
-2020-03-01,Nevada,Washoe County,Fitness Center,48.0,"",48.0,17
-2020-03-01,Nevada,Washoe County,School,34.0,"",34.0,18
-2020-03-02,Nevada,Carson City,Shops & Services,80.0,71.0,81.0,1
-2020-03-02,Nevada,Carson City,Food,50.0,52.0,50.0,2
-2020-03-02,Nevada,Washoe County,Food,40.0,38.0,40.0,1
-2020-03-02,Nevada,Washoe County,Shops & Services,77.0,69.0,77.0,2
-2020-03-02,Nevada,Washoe County,Nightlife Spots,70.0,65.0,70.0,3
+2020-03-01,Nevada,Nye County,Gas Stations,115.0,"",116.0,1
+2020-03-01,Nevada,Nye County,Food,105.0,"",105.0,2
+2020-03-01,Nevada,Lyon County,Food,113.0,"",115.0,1
+2020-03-01,Nevada,Carson City,Food,118.0,114.0,118.0,1
+2020-03-01,Nevada,Carson City,Shops & Services,110.0,109.0,110.0,2
+2020-03-02,Nevada,Douglas County,Food,84.0,102.0,83.0,1
+2020-03-02,Nevada,Douglas County,Arts & Entertainment,82.0,164.0,79.0,2
+2020-03-02,Nevada,Storey County,Professional & Other Places,116.0,"",117.0,1
+2020-03-02,Nevada,Nye County,Gas Stations,109.0,"",109.0,1
+2020-03-02,Nevada,Nye County,Food,100.0,"",100.0,2
+2020-03-02,Nevada,Washoe County,Food,96.0,90.0,96.0,1
+2020-03-02,Nevada,Washoe County,Shops & Services,107.0,99.0,108.0,2
+2020-03-02,Nevada,Washoe County,Nightlife Spots,97.0,97.0,97.0,3
 2020-03-02,Nevada,Washoe County,Grocery,103.0,113.0,103.0,4
-2020-03-02,Nevada,Washoe County,Hotel,64.0,53.0,64.0,5
-2020-03-02,Nevada,Washoe County,Arts & Entertainment,81.0,71.0,81.0,6
-2020-03-02,Nevada,Washoe County,Medical,59.0,58.0,60.0,7
-2020-03-02,Nevada,Washoe County,Outdoors & Recreation,29.0,26.0,29.0,8
+2020-03-02,Nevada,Washoe County,Hotel,84.0,69.0,85.0,5
+2020-03-02,Nevada,Washoe County,Arts & Entertainment,83.0,73.0,84.0,6
+2020-03-02,Nevada,Washoe County,Medical,99.0,98.0,99.0,7
+2020-03-02,Nevada,Washoe County,Outdoors & Recreation,83.0,81.0,83.0,8
 2020-03-02,Nevada,Washoe County,Gas Stations,100.0,85.0,101.0,9
-2020-03-02,Nevada,Washoe County,Colleges & Universities,108.0,"",107.0,10
+2020-03-02,Nevada,Washoe County,Colleges & Universities,116.0,"",116.0,10
 2020-03-02,Nevada,Washoe County,Big Box Stores,110.0,115.0,109.0,11
-2020-03-02,Nevada,Washoe County,Airport,64.0,81.0,64.0,12
-2020-03-02,Nevada,Washoe County,School,60.0,64.0,60.0,13
+2020-03-02,Nevada,Washoe County,Airport,96.0,122.0,95.0,12
+2020-03-02,Nevada,Washoe County,School,117.0,124.0,116.0,13
 2020-03-02,Nevada,Washoe County,Fast Food Restaurants,93.0,68.0,94.0,14
-2020-03-02,Nevada,Washoe County,Professional & Other Places,17.0,16.0,17.0,15
-2020-03-02,Nevada,Washoe County,Fitness Center,71.0,66.0,71.0,16
+2020-03-02,Nevada,Washoe County,Professional & Other Places,108.0,119.0,107.0,15
+2020-03-02,Nevada,Washoe County,Fitness Center,112.0,110.0,112.0,16
 2020-03-02,Nevada,Washoe County,Convenience Store,88.0,"",88.0,17
 2020-03-02,Nevada,Washoe County,Residences,91.0,"",90.0,18
-2020-03-02,Nevada,Washoe County,Office,86.0,"",86.0,19
+2020-03-02,Nevada,Washoe County,Office,102.0,"",102.0,19
 2020-03-02,Nevada,Washoe County,Drug Store,145.0,"",149.0,20
 2020-03-02,Nevada,Washoe County,Banks,142.0,"",142.0,21
 2020-03-02,Nevada,Washoe County,Hardware Stores,85.0,"",85.0,22
-2020-03-02,Nevada,Elko County,Food,41.0,45.0,41.0,1
-2020-03-02,Nevada,Elko County,Arts & Entertainment,74.0,"",73.0,2
+2020-03-02,Nevada,Carson City,Shops & Services,114.0,92.0,116.0,1
+2020-03-02,Nevada,Carson City,Food,121.0,126.0,121.0,2
+2020-03-02,Nevada,Elko County,Food,90.0,96.0,90.0,1
 2020-03-02,Nevada,Elko County,Gas Stations,95.0,"",95.0,2
-2020-03-02,Nevada,Clark County,Food,42.0,40.0,42.0,1
-2020-03-02,Nevada,Clark County,Arts & Entertainment,46.0,44.0,46.0,2
-2020-03-02,Nevada,Clark County,Shops & Services,31.0,29.0,31.0,3
-2020-03-02,Nevada,Clark County,Airport,54.0,47.0,54.0,4
-2020-03-02,Nevada,Clark County,Hotel,65.0,60.0,65.0,5
-2020-03-02,Nevada,Clark County,Nightlife Spots,40.0,38.0,40.0,6
+2020-03-02,Nevada,Elko County,Arts & Entertainment,75.0,"",75.0,3
+2020-03-02,Nevada,Clark County,Food,99.0,92.0,99.0,1
+2020-03-02,Nevada,Clark County,Arts & Entertainment,93.0,90.0,93.0,2
+2020-03-02,Nevada,Clark County,Shops & Services,104.0,98.0,104.0,3
+2020-03-02,Nevada,Clark County,Airport,92.0,79.0,92.0,4
+2020-03-02,Nevada,Clark County,Hotel,91.0,87.0,92.0,5
+2020-03-02,Nevada,Clark County,Nightlife Spots,95.0,90.0,95.0,6
 2020-03-02,Nevada,Clark County,Grocery,107.0,107.0,107.0,7
-2020-03-02,Nevada,Clark County,Professional & Other Places,22.0,21.0,22.0,8
-2020-03-02,Nevada,Clark County,Outdoors & Recreation,34.0,32.0,34.0,9
+2020-03-02,Nevada,Clark County,Professional & Other Places,86.0,94.0,86.0,8
+2020-03-02,Nevada,Clark County,Outdoors & Recreation,94.0,90.0,95.0,9
 2020-03-02,Nevada,Clark County,Fast Food Restaurants,110.0,109.0,110.0,10
-2020-03-02,Nevada,Clark County,Medical,58.0,57.0,58.0,11
-2020-03-02,Nevada,Clark County,School,62.0,63.0,62.0,12
+2020-03-02,Nevada,Clark County,Medical,106.0,105.0,106.0,11
+2020-03-02,Nevada,Clark County,School,115.0,119.0,115.0,12
 2020-03-02,Nevada,Clark County,Gas Stations,104.0,105.0,104.0,13
 2020-03-02,Nevada,Clark County,Convenience Store,106.0,99.0,106.0,14
 2020-03-02,Nevada,Clark County,Big Box Stores,116.0,112.0,116.0,15
 2020-03-02,Nevada,Clark County,Residences,100.0,103.0,100.0,16
-2020-03-02,Nevada,Clark County,Office,84.0,74.0,84.0,17
-2020-03-02,Nevada,Clark County,Fitness Center,61.0,57.0,61.0,18
-2020-03-02,Nevada,Clark County,Travel & Transport,7.0,9.0,7.0,19
+2020-03-02,Nevada,Clark County,Office,105.0,99.0,105.0,17
+2020-03-02,Nevada,Clark County,Fitness Center,96.0,87.0,96.0,18
+2020-03-02,Nevada,Clark County,Travel & Transport,97.0,108.0,97.0,19
 2020-03-02,Nevada,Clark County,Drug Store,105.0,109.0,105.0,20
-2020-03-02,Nevada,Clark County,Government,72.0,65.0,73.0,21
-2020-03-02,Nevada,Clark County,Colleges & Universities,54.0,53.0,54.0,22
+2020-03-02,Nevada,Clark County,Government,116.0,102.0,116.0,21
+2020-03-02,Nevada,Clark County,Colleges & Universities,113.0,110.0,113.0,22
 2020-03-02,Nevada,Clark County,Banks,118.0,124.0,118.0,23
-2020-03-02,Nevada,Clark County,Sports,28.0,32.0,28.0,24
+2020-03-02,Nevada,Clark County,Sports,98.0,89.0,98.0,24
 2020-03-02,Nevada,Clark County,Discount Stores,105.0,104.0,105.0,25
 2020-03-02,Nevada,Clark County,Hardware Stores,102.0,94.0,102.0,26
-2020-03-02,Nevada,Clark County,Bus,82.0,"",82.0,27
+2020-03-02,Nevada,Clark County,Bus,113.0,"",114.0,27
 2020-03-02,Nevada,Clark County,Alcohol,95.0,"",95.0,28
 2020-03-02,Nevada,Clark County,Light Rail Stations,130.0,"",132.0,29
-2020-03-02,Nevada,Lyon County,Food,43.0,"",43.0,1
+2020-03-02,Nevada,Lyon County,Food,96.0,"",95.0,1
 2020-03-02,Nevada,Lyon County,Gas Stations,103.0,"",101.0,2
-2020-03-02,Nevada,Nye County,Gas Stations,109.0,"",109.0,1
-2020-03-02,Nevada,Nye County,Food,100.0,"",100.0,2
-2020-03-02,Nevada,Storey County,Professional & Other Places,116.0,"",117.0,1
-2020-03-02,Nevada,Douglas County,Food,39.0,47.0,38.0,1
-2020-03-02,Nevada,Douglas County,Arts & Entertainment,82.0,164.0,79.0,2
-2020-03-03,Nevada,Washoe County,Food,43.0,46.0,43.0,1
-2020-03-03,Nevada,Washoe County,Shops & Services,73.0,69.0,73.0,2
-2020-03-03,Nevada,Washoe County,Medical,60.0,59.0,61.0,3
-2020-03-03,Nevada,Washoe County,Nightlife Spots,74.0,55.0,75.0,4
-2020-03-03,Nevada,Washoe County,Grocery,99.0,89.0,100.0,5
-2020-03-03,Nevada,Washoe County,Outdoors & Recreation,31.0,33.0,31.0,6
-2020-03-03,Nevada,Washoe County,Hotel,71.0,61.0,72.0,7
-2020-03-03,Nevada,Washoe County,Colleges & Universities,89.0,"",89.0,8
-2020-03-03,Nevada,Washoe County,Gas Stations,100.0,107.0,100.0,9
-2020-03-03,Nevada,Washoe County,Arts & Entertainment,80.0,89.0,79.0,10
-2020-03-03,Nevada,Washoe County,School,51.0,53.0,51.0,11
-2020-03-03,Nevada,Washoe County,Fast Food Restaurants,104.0,100.0,104.0,12
-2020-03-03,Nevada,Washoe County,Big Box Stores,98.0,122.0,97.0,13
-2020-03-03,Nevada,Washoe County,Convenience Store,115.0,141.0,114.0,14
-2020-03-03,Nevada,Washoe County,Professional & Other Places,14.0,13.0,14.0,14
-2020-03-03,Nevada,Washoe County,Airport,58.0,64.0,58.0,15
-2020-03-03,Nevada,Washoe County,Fitness Center,55.0,50.0,56.0,16
-2020-03-03,Nevada,Washoe County,Residences,106.0,"",106.0,17
-2020-03-03,Nevada,Washoe County,Office,87.0,"",88.0,18
-2020-03-03,Nevada,Washoe County,Hardware Stores,101.0,109.0,100.0,19
-2020-03-03,Nevada,Washoe County,Banks,118.0,"",118.0,20
-2020-03-03,Nevada,Washoe County,Government,94.0,"",91.0,21
-2020-03-03,Nevada,Clark County,Food,41.0,41.0,41.0,1
-2020-03-03,Nevada,Clark County,Arts & Entertainment,46.0,42.0,46.0,2
-2020-03-03,Nevada,Clark County,Shops & Services,30.0,30.0,30.0,3
-2020-03-03,Nevada,Clark County,Hotel,65.0,55.0,66.0,4
-2020-03-03,Nevada,Clark County,Airport,49.0,47.0,49.0,5
-2020-03-03,Nevada,Clark County,Nightlife Spots,41.0,37.0,41.0,6
+2020-03-03,Nevada,Elko County,Food,85.0,"",85.0,1
+2020-03-03,Nevada,Elko County,Gas Stations,84.0,"",84.0,2
+2020-03-03,Nevada,Lyon County,Food,87.0,"",88.0,1
+2020-03-03,Nevada,Lyon County,Gas Stations,104.0,"",105.0,2
+2020-03-03,Nevada,Clark County,Food,98.0,95.0,98.0,1
+2020-03-03,Nevada,Clark County,Arts & Entertainment,94.0,86.0,94.0,2
+2020-03-03,Nevada,Clark County,Shops & Services,102.0,102.0,102.0,3
+2020-03-03,Nevada,Clark County,Hotel,91.0,80.0,91.0,4
+2020-03-03,Nevada,Clark County,Airport,82.0,80.0,82.0,5
+2020-03-03,Nevada,Clark County,Nightlife Spots,97.0,87.0,97.0,6
 2020-03-03,Nevada,Clark County,Grocery,107.0,112.0,106.0,7
-2020-03-03,Nevada,Clark County,Professional & Other Places,21.0,17.0,21.0,8
-2020-03-03,Nevada,Clark County,Outdoors & Recreation,36.0,30.0,36.0,9
-2020-03-03,Nevada,Clark County,Medical,54.0,54.0,54.0,10
+2020-03-03,Nevada,Clark County,Professional & Other Places,86.0,78.0,86.0,8
+2020-03-03,Nevada,Clark County,Outdoors & Recreation,103.0,90.0,104.0,9
+2020-03-03,Nevada,Clark County,Medical,99.0,100.0,99.0,10
 2020-03-03,Nevada,Clark County,Fast Food Restaurants,102.0,101.0,102.0,11
-2020-03-03,Nevada,Clark County,School,53.0,53.0,53.0,12
+2020-03-03,Nevada,Clark County,School,100.0,99.0,100.0,12
 2020-03-03,Nevada,Clark County,Gas Stations,101.0,105.0,101.0,13
 2020-03-03,Nevada,Clark County,Convenience Store,103.0,104.0,103.0,14
 2020-03-03,Nevada,Clark County,Residences,98.0,91.0,98.0,15
 2020-03-03,Nevada,Clark County,Big Box Stores,108.0,110.0,108.0,16
-2020-03-03,Nevada,Clark County,Fitness Center,64.0,62.0,64.0,17
-2020-03-03,Nevada,Clark County,Office,76.0,73.0,76.0,18
+2020-03-03,Nevada,Clark County,Fitness Center,101.0,95.0,101.0,17
+2020-03-03,Nevada,Clark County,Office,94.0,98.0,94.0,18
 2020-03-03,Nevada,Clark County,Drug Store,107.0,116.0,107.0,19
-2020-03-03,Nevada,Clark County,Colleges & Universities,47.0,45.0,47.0,20
-2020-03-03,Nevada,Clark County,Travel & Transport,7.0,7.0,7.0,21
+2020-03-03,Nevada,Clark County,Colleges & Universities,98.0,94.0,98.0,20
+2020-03-03,Nevada,Clark County,Travel & Transport,94.0,96.0,94.0,21
 2020-03-03,Nevada,Clark County,Banks,126.0,123.0,126.0,22
-2020-03-03,Nevada,Clark County,Government,66.0,50.0,67.0,23
-2020-03-03,Nevada,Clark County,Sports,26.0,31.0,25.0,24
+2020-03-03,Nevada,Clark County,Government,102.0,78.0,103.0,23
+2020-03-03,Nevada,Clark County,Sports,101.0,95.0,101.0,24
 2020-03-03,Nevada,Clark County,Discount Stores,97.0,89.0,97.0,25
 2020-03-03,Nevada,Clark County,Hardware Stores,99.0,89.0,99.0,26
-2020-03-03,Nevada,Clark County,Bus,83.0,"",83.0,27
+2020-03-03,Nevada,Clark County,Bus,111.0,"",111.0,27
 2020-03-03,Nevada,Clark County,Alcohol,98.0,101.0,98.0,28
-2020-03-03,Nevada,Elko County,Food,39.0,"",39.0,1
-2020-03-03,Nevada,Elko County,Gas Stations,84.0,"",84.0,2
-2020-03-03,Nevada,Douglas County,Food,42.0,49.0,41.0,1
+2020-03-03,Nevada,Storey County,Professional & Other Places,114.0,"",115.0,1
+2020-03-03,Nevada,Washoe County,Food,104.0,110.0,104.0,1
+2020-03-03,Nevada,Washoe County,Shops & Services,101.0,99.0,101.0,2
+2020-03-03,Nevada,Washoe County,Medical,100.0,99.0,101.0,3
+2020-03-03,Nevada,Washoe County,Nightlife Spots,103.0,80.0,104.0,4
+2020-03-03,Nevada,Washoe County,Grocery,99.0,89.0,100.0,5
+2020-03-03,Nevada,Washoe County,Outdoors & Recreation,91.0,107.0,91.0,6
+2020-03-03,Nevada,Washoe County,Hotel,94.0,79.0,95.0,7
+2020-03-03,Nevada,Washoe County,Colleges & Universities,96.0,"",96.0,8
+2020-03-03,Nevada,Washoe County,Gas Stations,100.0,107.0,100.0,9
+2020-03-03,Nevada,Washoe County,Arts & Entertainment,82.0,90.0,81.0,10
+2020-03-03,Nevada,Washoe County,School,101.0,104.0,101.0,11
+2020-03-03,Nevada,Washoe County,Fast Food Restaurants,104.0,100.0,104.0,12
+2020-03-03,Nevada,Washoe County,Big Box Stores,98.0,122.0,97.0,13
+2020-03-03,Nevada,Washoe County,Convenience Store,115.0,141.0,114.0,14
+2020-03-03,Nevada,Washoe County,Professional & Other Places,89.0,86.0,89.0,15
+2020-03-03,Nevada,Washoe County,Airport,83.0,92.0,83.0,16
+2020-03-03,Nevada,Washoe County,Fitness Center,89.0,85.0,89.0,17
+2020-03-03,Nevada,Washoe County,Residences,106.0,"",106.0,18
+2020-03-03,Nevada,Washoe County,Office,103.0,"",105.0,19
+2020-03-03,Nevada,Washoe County,Hardware Stores,101.0,109.0,100.0,20
+2020-03-03,Nevada,Washoe County,Banks,118.0,"",118.0,21
+2020-03-03,Nevada,Washoe County,Government,135.0,"",130.0,22
+2020-03-03,Nevada,Douglas County,Food,94.0,112.0,92.0,1
 2020-03-03,Nevada,Nye County,Food,108.0,"",108.0,1
 2020-03-03,Nevada,Nye County,Gas Stations,100.0,"",99.0,2
 2020-03-03,Nevada,Carson City,Shops & Services,110.0,115.0,110.0,1
-2020-03-03,Nevada,Carson City,Food,48.0,38.0,49.0,2
-2020-03-03,Nevada,Storey County,Professional & Other Places,114.0,"",115.0,1
-2020-03-03,Nevada,Lyon County,Food,38.0,"",39.0,1
-2020-03-03,Nevada,Lyon County,Gas Stations,104.0,"",105.0,2
+2020-03-03,Nevada,Carson City,Food,118.0,92.0,120.0,2
 2020-03-04,Nevada,Nye County,Food,101.0,"",101.0,1
 2020-03-04,Nevada,Nye County,Gas Stations,96.0,"",93.0,2
-2020-03-04,Nevada,Lyon County,Food,43.0,"",43.0,1
-2020-03-04,Nevada,Elko County,Food,43.0,44.0,43.0,1
-2020-03-04,Nevada,Elko County,Gas Stations,115.0,"",113.0,2
-2020-03-04,Nevada,Washoe County,Food,41.0,44.0,41.0,1
-2020-03-04,Nevada,Washoe County,Shops & Services,72.0,67.0,72.0,2
-2020-03-04,Nevada,Washoe County,Nightlife Spots,73.0,69.0,74.0,3
-2020-03-04,Nevada,Washoe County,Hotel,77.0,67.0,78.0,4
+2020-03-04,Nevada,Douglas County,Food,92.0,80.0,94.0,1
+2020-03-04,Nevada,Storey County,Professional & Other Places,104.0,"",104.0,1
+2020-03-04,Nevada,Lyon County,Food,98.0,"",98.0,1
+2020-03-04,Nevada,Carson City,Shops & Services,108.0,91.0,110.0,1
+2020-03-04,Nevada,Carson City,Food,111.0,"",113.0,2
+2020-03-04,Nevada,Clark County,Food,97.0,91.0,97.0,1
+2020-03-04,Nevada,Clark County,Arts & Entertainment,97.0,94.0,97.0,2
+2020-03-04,Nevada,Clark County,Shops & Services,103.0,102.0,103.0,3
+2020-03-04,Nevada,Clark County,Hotel,95.0,86.0,95.0,4
+2020-03-04,Nevada,Clark County,Airport,89.0,82.0,89.0,5
+2020-03-04,Nevada,Clark County,Nightlife Spots,97.0,91.0,97.0,6
+2020-03-04,Nevada,Clark County,Grocery,110.0,111.0,110.0,7
+2020-03-04,Nevada,Clark County,Professional & Other Places,82.0,82.0,82.0,8
+2020-03-04,Nevada,Clark County,Outdoors & Recreation,105.0,102.0,105.0,9
+2020-03-04,Nevada,Clark County,Fast Food Restaurants,104.0,99.0,104.0,10
+2020-03-04,Nevada,Clark County,School,101.0,92.0,102.0,11
+2020-03-04,Nevada,Clark County,Medical,99.0,84.0,100.0,12
+2020-03-04,Nevada,Clark County,Gas Stations,105.0,106.0,105.0,13
+2020-03-04,Nevada,Clark County,Convenience Store,102.0,101.0,102.0,14
+2020-03-04,Nevada,Clark County,Residences,104.0,98.0,104.0,15
+2020-03-04,Nevada,Clark County,Big Box Stores,106.0,95.0,106.0,16
+2020-03-04,Nevada,Clark County,Fitness Center,96.0,85.0,96.0,17
+2020-03-04,Nevada,Clark County,Office,91.0,94.0,91.0,18
+2020-03-04,Nevada,Clark County,Drug Store,104.0,112.0,104.0,19
+2020-03-04,Nevada,Clark County,Colleges & Universities,98.0,113.0,98.0,20
+2020-03-04,Nevada,Clark County,Travel & Transport,96.0,93.0,96.0,21
+2020-03-04,Nevada,Clark County,Government,103.0,99.0,103.0,22
+2020-03-04,Nevada,Clark County,Sports,102.0,101.0,102.0,23
+2020-03-04,Nevada,Clark County,Banks,108.0,99.0,108.0,24
+2020-03-04,Nevada,Clark County,Discount Stores,109.0,98.0,109.0,25
+2020-03-04,Nevada,Clark County,Hardware Stores,106.0,113.0,105.0,26
+2020-03-04,Nevada,Clark County,Bus,96.0,"",96.0,27
+2020-03-04,Nevada,Clark County,Alcohol,89.0,"",90.0,28
+2020-03-04,Nevada,Washoe County,Food,100.0,106.0,100.0,1
+2020-03-04,Nevada,Washoe County,Shops & Services,99.0,94.0,99.0,2
+2020-03-04,Nevada,Washoe County,Nightlife Spots,102.0,103.0,102.0,3
+2020-03-04,Nevada,Washoe County,Hotel,101.0,84.0,102.0,4
 2020-03-04,Nevada,Washoe County,Outdoors & Recreation,95.0,106.0,95.0,5
-2020-03-04,Nevada,Washoe County,Colleges & Universities,85.0,"",85.0,6
-2020-03-04,Nevada,Washoe County,Arts & Entertainment,92.0,91.0,92.0,7
-2020-03-04,Nevada,Washoe County,Medical,48.0,56.0,48.0,8
+2020-03-04,Nevada,Washoe County,Colleges & Universities,93.0,"",93.0,6
+2020-03-04,Nevada,Washoe County,Arts & Entertainment,96.0,96.0,96.0,7
+2020-03-04,Nevada,Washoe County,Medical,79.0,91.0,78.0,8
 2020-03-04,Nevada,Washoe County,Grocery,93.0,85.0,94.0,9
-2020-03-04,Nevada,Washoe County,School,48.0,48.0,48.0,10
+2020-03-04,Nevada,Washoe County,School,94.0,95.0,94.0,10
 2020-03-04,Nevada,Washoe County,Gas Stations,89.0,89.0,89.0,11
 2020-03-04,Nevada,Washoe County,Fast Food Restaurants,94.0,106.0,93.0,12
 2020-03-04,Nevada,Washoe County,Big Box Stores,107.0,103.0,107.0,13
 2020-03-04,Nevada,Washoe County,Convenience Store,109.0,"",112.0,14
-2020-03-04,Nevada,Washoe County,Professional & Other Places,11.0,11.0,11.0,15
-2020-03-04,Nevada,Washoe County,Airport,55.0,"",55.0,16
-2020-03-04,Nevada,Washoe County,Fitness Center,50.0,66.0,49.0,17
+2020-03-04,Nevada,Washoe County,Professional & Other Places,75.0,81.0,75.0,15
+2020-03-04,Nevada,Washoe County,Airport,80.0,"",80.0,16
+2020-03-04,Nevada,Washoe County,Fitness Center,79.0,105.0,77.0,17
 2020-03-04,Nevada,Washoe County,Residences,100.0,"",102.0,18
-2020-03-04,Nevada,Washoe County,Office,71.0,"",72.0,19
+2020-03-04,Nevada,Washoe County,Office,85.0,"",86.0,19
 2020-03-04,Nevada,Washoe County,Hardware Stores,104.0,88.0,106.0,20
 2020-03-04,Nevada,Washoe County,Banks,118.0,"",121.0,21
 2020-03-04,Nevada,Washoe County,Drug Store,100.0,"",102.0,22
-2020-03-04,Nevada,Storey County,Professional & Other Places,104.0,"",104.0,1
-2020-03-04,Nevada,Carson City,Shops & Services,76.0,65.0,77.0,1
-2020-03-04,Nevada,Carson City,Food,45.0,"",47.0,2
-2020-03-04,Nevada,Clark County,Food,41.0,39.0,41.0,1
-2020-03-04,Nevada,Clark County,Arts & Entertainment,47.0,46.0,47.0,2
-2020-03-04,Nevada,Clark County,Shops & Services,30.0,29.0,30.0,3
-2020-03-04,Nevada,Clark County,Hotel,68.0,60.0,69.0,4
-2020-03-04,Nevada,Clark County,Airport,53.0,49.0,53.0,5
-2020-03-04,Nevada,Clark County,Nightlife Spots,41.0,38.0,41.0,6
-2020-03-04,Nevada,Clark County,Grocery,110.0,111.0,110.0,7
-2020-03-04,Nevada,Clark County,Professional & Other Places,20.0,18.0,20.0,8
-2020-03-04,Nevada,Clark County,Outdoors & Recreation,36.0,34.0,36.0,9
-2020-03-04,Nevada,Clark County,Fast Food Restaurants,104.0,99.0,104.0,10
-2020-03-04,Nevada,Clark County,School,54.0,49.0,55.0,11
-2020-03-04,Nevada,Clark County,Medical,54.0,46.0,55.0,11
-2020-03-04,Nevada,Clark County,Gas Stations,105.0,106.0,105.0,12
-2020-03-04,Nevada,Clark County,Convenience Store,102.0,101.0,102.0,13
-2020-03-04,Nevada,Clark County,Residences,104.0,98.0,104.0,14
-2020-03-04,Nevada,Clark County,Big Box Stores,106.0,95.0,106.0,15
-2020-03-04,Nevada,Clark County,Fitness Center,61.0,56.0,61.0,16
-2020-03-04,Nevada,Clark County,Office,72.0,72.0,72.0,17
-2020-03-04,Nevada,Clark County,Drug Store,104.0,112.0,104.0,18
-2020-03-04,Nevada,Clark County,Colleges & Universities,47.0,53.0,47.0,19
-2020-03-04,Nevada,Clark County,Travel & Transport,7.0,8.0,7.0,20
-2020-03-04,Nevada,Clark County,Government,67.0,64.0,67.0,21
-2020-03-04,Nevada,Clark County,Sports,28.0,36.0,27.0,22
-2020-03-04,Nevada,Clark County,Banks,108.0,99.0,108.0,23
-2020-03-04,Nevada,Clark County,Discount Stores,109.0,98.0,109.0,24
-2020-03-04,Nevada,Clark County,Hardware Stores,106.0,113.0,105.0,25
-2020-03-04,Nevada,Clark County,Bus,72.0,"",72.0,26
-2020-03-04,Nevada,Clark County,Alcohol,89.0,"",90.0,27
-2020-03-04,Nevada,Douglas County,Food,43.0,37.0,43.0,1
+2020-03-04,Nevada,Elko County,Food,96.0,100.0,95.0,1
+2020-03-04,Nevada,Elko County,Gas Stations,115.0,"",113.0,2
 2020-03-05,Nevada,Storey County,Professional & Other Places,114.0,"",113.0,1
-2020-03-05,Nevada,Washoe County,Food,44.0,37.0,44.0,1
-2020-03-05,Nevada,Washoe County,Shops & Services,76.0,62.0,77.0,2
-2020-03-05,Nevada,Washoe County,Nightlife Spots,73.0,56.0,74.0,3
-2020-03-05,Nevada,Washoe County,Outdoors & Recreation,37.0,29.0,37.0,4
-2020-03-05,Nevada,Washoe County,Arts & Entertainment,97.0,98.0,97.0,5
-2020-03-05,Nevada,Washoe County,Medical,60.0,67.0,59.0,6
-2020-03-05,Nevada,Washoe County,Hotel,75.0,56.0,76.0,7
-2020-03-05,Nevada,Washoe County,Colleges & Universities,98.0,"",98.0,8
-2020-03-05,Nevada,Washoe County,Grocery,95.0,94.0,95.0,9
-2020-03-05,Nevada,Washoe County,Fast Food Restaurants,104.0,92.0,104.0,10
-2020-03-05,Nevada,Washoe County,School,50.0,46.0,50.0,11
-2020-03-05,Nevada,Washoe County,Gas Stations,96.0,108.0,95.0,12
-2020-03-05,Nevada,Washoe County,Big Box Stores,105.0,93.0,106.0,13
-2020-03-05,Nevada,Washoe County,Professional & Other Places,15.0,14.0,15.0,14
-2020-03-05,Nevada,Washoe County,Airport,70.0,"",70.0,15
-2020-03-05,Nevada,Washoe County,Fitness Center,60.0,66.0,59.0,16
-2020-03-05,Nevada,Washoe County,Convenience Store,96.0,"",96.0,17
-2020-03-05,Nevada,Washoe County,Residences,117.0,128.0,116.0,18
-2020-03-05,Nevada,Washoe County,Office,86.0,"",86.0,19
-2020-03-05,Nevada,Washoe County,Hardware Stores,112.0,94.0,114.0,20
-2020-03-05,Nevada,Washoe County,Sports,27.0,"",27.0,21
-2020-03-05,Nevada,Washoe County,Drug Store,101.0,"",103.0,22
-2020-03-05,Nevada,Carson City,Food,48.0,51.0,48.0,1
-2020-03-05,Nevada,Carson City,Shops & Services,73.0,74.0,73.0,2
-2020-03-05,Nevada,Clark County,Food,41.0,40.0,41.0,1
-2020-03-05,Nevada,Clark County,Arts & Entertainment,46.0,47.0,46.0,2
-2020-03-05,Nevada,Clark County,Shops & Services,30.0,29.0,30.0,3
-2020-03-05,Nevada,Clark County,Airport,54.0,51.0,54.0,4
-2020-03-05,Nevada,Clark County,Hotel,66.0,62.0,66.0,5
-2020-03-05,Nevada,Clark County,Nightlife Spots,41.0,39.0,41.0,6
+2020-03-05,Nevada,Clark County,Food,98.0,93.0,98.0,1
+2020-03-05,Nevada,Clark County,Arts & Entertainment,94.0,95.0,94.0,2
+2020-03-05,Nevada,Clark County,Shops & Services,100.0,99.0,100.0,3
+2020-03-05,Nevada,Clark County,Airport,92.0,86.0,92.0,4
+2020-03-05,Nevada,Clark County,Hotel,92.0,90.0,92.0,5
+2020-03-05,Nevada,Clark County,Nightlife Spots,96.0,92.0,96.0,6
 2020-03-05,Nevada,Clark County,Grocery,109.0,104.0,109.0,7
-2020-03-05,Nevada,Clark County,Professional & Other Places,20.0,19.0,20.0,8
-2020-03-05,Nevada,Clark County,Outdoors & Recreation,36.0,34.0,37.0,9
+2020-03-05,Nevada,Clark County,Professional & Other Places,82.0,85.0,82.0,8
+2020-03-05,Nevada,Clark County,Outdoors & Recreation,104.0,99.0,105.0,9
 2020-03-05,Nevada,Clark County,Fast Food Restaurants,104.0,97.0,104.0,10
-2020-03-05,Nevada,Clark County,Medical,56.0,52.0,56.0,11
-2020-03-05,Nevada,Clark County,School,55.0,51.0,55.0,12
+2020-03-05,Nevada,Clark County,Medical,101.0,96.0,102.0,11
+2020-03-05,Nevada,Clark County,School,102.0,95.0,102.0,12
 2020-03-05,Nevada,Clark County,Gas Stations,105.0,99.0,106.0,13
 2020-03-05,Nevada,Clark County,Convenience Store,106.0,107.0,106.0,14
 2020-03-05,Nevada,Clark County,Residences,113.0,97.0,113.0,15
 2020-03-05,Nevada,Clark County,Big Box Stores,104.0,93.0,104.0,16
-2020-03-05,Nevada,Clark County,Office,76.0,68.0,76.0,17
-2020-03-05,Nevada,Clark County,Fitness Center,60.0,59.0,60.0,18
+2020-03-05,Nevada,Clark County,Office,96.0,91.0,96.0,17
+2020-03-05,Nevada,Clark County,Fitness Center,95.0,92.0,95.0,18
 2020-03-05,Nevada,Clark County,Drug Store,104.0,106.0,104.0,19
-2020-03-05,Nevada,Clark County,Colleges & Universities,53.0,61.0,53.0,20
-2020-03-05,Nevada,Clark County,Travel & Transport,7.0,8.0,7.0,21
-2020-03-05,Nevada,Clark County,Government,64.0,53.0,64.0,22
-2020-03-05,Nevada,Clark County,Sports,28.0,31.0,28.0,23
+2020-03-05,Nevada,Clark County,Colleges & Universities,111.0,128.0,111.0,20
+2020-03-05,Nevada,Clark County,Travel & Transport,101.0,98.0,101.0,21
+2020-03-05,Nevada,Clark County,Government,99.0,83.0,100.0,22
+2020-03-05,Nevada,Clark County,Sports,101.0,87.0,102.0,23
 2020-03-05,Nevada,Clark County,Banks,111.0,94.0,112.0,24
 2020-03-05,Nevada,Clark County,Hardware Stores,109.0,114.0,109.0,25
 2020-03-05,Nevada,Clark County,Discount Stores,102.0,92.0,103.0,26
-2020-03-05,Nevada,Clark County,Bus,71.0,"",71.0,27
+2020-03-05,Nevada,Clark County,Bus,97.0,"",96.0,27
 2020-03-05,Nevada,Clark County,Alcohol,108.0,"",109.0,28
-2020-03-05,Nevada,Elko County,Food,43.0,42.0,43.0,1
+2020-03-05,Nevada,Carson City,Food,119.0,124.0,118.0,1
+2020-03-05,Nevada,Carson City,Shops & Services,106.0,99.0,106.0,2
+2020-03-05,Nevada,Elko County,Food,95.0,90.0,95.0,1
 2020-03-05,Nevada,Elko County,Gas Stations,113.0,"",114.0,2
-2020-03-05,Nevada,Lyon County,Food,44.0,"",43.0,1
+2020-03-05,Nevada,Douglas County,Food,107.0,124.0,105.0,1
+2020-03-05,Nevada,Douglas County,Arts & Entertainment,91.0,"",92.0,2
+2020-03-05,Nevada,Lyon County,Food,102.0,"",101.0,1
 2020-03-05,Nevada,Lyon County,Gas Stations,112.0,"",111.0,2
-2020-03-05,Nevada,Douglas County,Food,105.0,121.0,103.0,1
-2020-03-05,Nevada,Douglas County,Arts & Entertainment,45.0,"",45.0,2
 2020-03-05,Nevada,Nye County,Gas Stations,121.0,"",120.0,1
-2020-03-05,Nevada,Nye County,Food,80.0,"",80.0,2
+2020-03-05,Nevada,Nye County,Food,94.0,"",95.0,2
+2020-03-05,Nevada,Washoe County,Food,105.0,89.0,106.0,1
+2020-03-05,Nevada,Washoe County,Shops & Services,104.0,85.0,105.0,2
+2020-03-05,Nevada,Washoe County,Nightlife Spots,102.0,82.0,103.0,3
+2020-03-05,Nevada,Washoe County,Outdoors & Recreation,108.0,93.0,109.0,4
+2020-03-05,Nevada,Washoe County,Arts & Entertainment,102.0,101.0,102.0,5
+2020-03-05,Nevada,Washoe County,Medical,98.0,111.0,97.0,6
+2020-03-05,Nevada,Washoe County,Hotel,97.0,71.0,99.0,7
+2020-03-05,Nevada,Washoe County,Colleges & Universities,106.0,"",106.0,8
+2020-03-05,Nevada,Washoe County,Grocery,95.0,94.0,95.0,9
+2020-03-05,Nevada,Washoe County,Fast Food Restaurants,104.0,92.0,104.0,10
+2020-03-05,Nevada,Washoe County,School,98.0,91.0,98.0,11
+2020-03-05,Nevada,Washoe County,Gas Stations,96.0,108.0,95.0,12
+2020-03-05,Nevada,Washoe County,Big Box Stores,105.0,93.0,106.0,13
+2020-03-05,Nevada,Washoe County,Professional & Other Places,94.0,99.0,94.0,14
+2020-03-05,Nevada,Washoe County,Airport,101.0,"",101.0,15
+2020-03-05,Nevada,Washoe County,Fitness Center,95.0,108.0,94.0,16
+2020-03-05,Nevada,Washoe County,Convenience Store,96.0,"",96.0,17
+2020-03-05,Nevada,Washoe County,Residences,117.0,128.0,116.0,18
+2020-03-05,Nevada,Washoe County,Office,105.0,"",106.0,19
+2020-03-05,Nevada,Washoe County,Hardware Stores,112.0,94.0,114.0,20
+2020-03-05,Nevada,Washoe County,Sports,105.0,"",106.0,21
+2020-03-05,Nevada,Washoe County,Drug Store,101.0,"",103.0,22
 2020-03-06,Nevada,Nye County,Gas Stations,99.0,"",100.0,1
 2020-03-06,Nevada,Nye County,Food,93.0,"",95.0,2
 2020-03-06,Nevada,Storey County,Professional & Other Places,96.0,"",96.0,1
-2020-03-06,Nevada,Elko County,Food,46.0,41.0,46.0,1
+2020-03-06,Nevada,Washoe County,Food,98.0,88.0,99.0,1
+2020-03-06,Nevada,Washoe County,Shops & Services,94.0,90.0,95.0,2
+2020-03-06,Nevada,Washoe County,Nightlife Spots,103.0,83.0,104.0,3
+2020-03-06,Nevada,Washoe County,Arts & Entertainment,100.0,90.0,101.0,4
+2020-03-06,Nevada,Washoe County,Outdoors & Recreation,103.0,84.0,104.0,5
+2020-03-06,Nevada,Washoe County,Hotel,92.0,79.0,93.0,6
+2020-03-06,Nevada,Washoe County,Grocery,94.0,110.0,93.0,7
+2020-03-06,Nevada,Washoe County,Medical,93.0,98.0,92.0,8
+2020-03-06,Nevada,Washoe County,Colleges & Universities,110.0,"",111.0,9
+2020-03-06,Nevada,Washoe County,Gas Stations,90.0,86.0,90.0,10
+2020-03-06,Nevada,Washoe County,School,93.0,100.0,93.0,11
+2020-03-06,Nevada,Washoe County,Fast Food Restaurants,93.0,73.0,94.0,12
+2020-03-06,Nevada,Washoe County,Big Box Stores,89.0,79.0,90.0,13
+2020-03-06,Nevada,Washoe County,Professional & Other Places,95.0,85.0,95.0,14
+2020-03-06,Nevada,Washoe County,Airport,84.0,"",85.0,15
+2020-03-06,Nevada,Washoe County,Fitness Center,91.0,84.0,91.0,16
+2020-03-06,Nevada,Washoe County,Convenience Store,79.0,"",80.0,17
+2020-03-06,Nevada,Washoe County,Residences,116.0,"",118.0,18
+2020-03-06,Nevada,Washoe County,Office,94.0,"",95.0,19
+2020-03-06,Nevada,Washoe County,Hardware Stores,103.0,"",106.0,20
+2020-03-06,Nevada,Washoe County,Sports,98.0,"",100.0,21
+2020-03-06,Nevada,Washoe County,Banks,94.0,"",97.0,22
+2020-03-06,Nevada,Washoe County,Drug Store,88.0,"",91.0,23
+2020-03-06,Nevada,Carson City,Shops & Services,105.0,103.0,105.0,1
+2020-03-06,Nevada,Carson City,Food,100.0,94.0,100.0,2
+2020-03-06,Nevada,Elko County,Food,100.0,90.0,101.0,1
 2020-03-06,Nevada,Elko County,Gas Stations,119.0,"",119.0,2
-2020-03-06,Nevada,Elko County,Arts & Entertainment,110.0,"",112.0,3
-2020-03-06,Nevada,Douglas County,Food,48.0,54.0,48.0,1
-2020-03-06,Nevada,Douglas County,Arts & Entertainment,79.0,"",77.0,2
-2020-03-06,Nevada,Lyon County,Food,40.0,"",40.0,1
-2020-03-06,Nevada,Lyon County,Gas Stations,109.0,"",109.0,2
-2020-03-06,Nevada,Clark County,Food,40.0,37.0,41.0,1
-2020-03-06,Nevada,Clark County,Arts & Entertainment,46.0,43.0,46.0,2
-2020-03-06,Nevada,Clark County,Shops & Services,29.0,27.0,29.0,3
-2020-03-06,Nevada,Clark County,Hotel,68.0,59.0,68.0,4
-2020-03-06,Nevada,Clark County,Airport,51.0,50.0,51.0,5
-2020-03-06,Nevada,Clark County,Nightlife Spots,41.0,37.0,41.0,6
+2020-03-06,Nevada,Elko County,Arts & Entertainment,112.0,"",114.0,3
+2020-03-06,Nevada,Clark County,Food,96.0,86.0,96.0,1
+2020-03-06,Nevada,Clark County,Arts & Entertainment,95.0,87.0,95.0,2
+2020-03-06,Nevada,Clark County,Shops & Services,98.0,92.0,99.0,3
+2020-03-06,Nevada,Clark County,Hotel,95.0,84.0,95.0,4
+2020-03-06,Nevada,Clark County,Airport,86.0,84.0,86.0,5
+2020-03-06,Nevada,Clark County,Nightlife Spots,95.0,87.0,96.0,6
 2020-03-06,Nevada,Clark County,Grocery,108.0,105.0,108.0,7
-2020-03-06,Nevada,Clark County,Professional & Other Places,21.0,21.0,21.0,8
-2020-03-06,Nevada,Clark County,Outdoors & Recreation,36.0,37.0,36.0,9
+2020-03-06,Nevada,Clark County,Professional & Other Places,87.0,89.0,87.0,8
+2020-03-06,Nevada,Clark County,Outdoors & Recreation,103.0,110.0,102.0,9
 2020-03-06,Nevada,Clark County,Fast Food Restaurants,100.0,93.0,100.0,10
-2020-03-06,Nevada,Clark County,School,53.0,51.0,53.0,11
-2020-03-06,Nevada,Clark County,Medical,54.0,48.0,54.0,12
+2020-03-06,Nevada,Clark County,School,98.0,95.0,98.0,11
+2020-03-06,Nevada,Clark County,Medical,98.0,89.0,99.0,12
 2020-03-06,Nevada,Clark County,Gas Stations,104.0,97.0,105.0,13
 2020-03-06,Nevada,Clark County,Convenience Store,101.0,97.0,101.0,14
 2020-03-06,Nevada,Clark County,Residences,111.0,113.0,111.0,15
 2020-03-06,Nevada,Clark County,Big Box Stores,102.0,99.0,103.0,16
 2020-03-06,Nevada,Clark County,Drug Store,106.0,107.0,106.0,17
-2020-03-06,Nevada,Clark County,Fitness Center,64.0,57.0,64.0,18
-2020-03-06,Nevada,Clark County,Office,77.0,66.0,77.0,19
-2020-03-06,Nevada,Clark County,Travel & Transport,7.0,9.0,7.0,20
-2020-03-06,Nevada,Clark County,Sports,31.0,38.0,31.0,21
-2020-03-06,Nevada,Clark County,Colleges & Universities,50.0,66.0,49.0,22
-2020-03-06,Nevada,Clark County,Government,63.0,56.0,63.0,23
+2020-03-06,Nevada,Clark County,Fitness Center,99.0,89.0,99.0,18
+2020-03-06,Nevada,Clark County,Office,96.0,88.0,96.0,19
+2020-03-06,Nevada,Clark County,Travel & Transport,93.0,93.0,93.0,20
+2020-03-06,Nevada,Clark County,Sports,108.0,105.0,109.0,21
+2020-03-06,Nevada,Clark County,Colleges & Universities,104.0,138.0,103.0,22
+2020-03-06,Nevada,Clark County,Government,100.0,88.0,100.0,23
 2020-03-06,Nevada,Clark County,Banks,95.0,84.0,95.0,24
 2020-03-06,Nevada,Clark County,Discount Stores,98.0,98.0,99.0,25
 2020-03-06,Nevada,Clark County,Hardware Stores,110.0,91.0,112.0,26
 2020-03-06,Nevada,Clark County,Alcohol,105.0,125.0,104.0,27
-2020-03-06,Nevada,Clark County,Bus,69.0,"",70.0,28
+2020-03-06,Nevada,Clark County,Bus,94.0,"",95.0,28
 2020-03-06,Nevada,Clark County,Light Rail Stations,93.0,"",95.0,29
-2020-03-06,Nevada,Carson City,Shops & Services,75.0,74.0,75.0,1
-2020-03-06,Nevada,Carson City,Food,41.0,39.0,41.0,2
-2020-03-06,Nevada,Washoe County,Food,41.0,37.0,41.0,1
-2020-03-06,Nevada,Washoe County,Shops & Services,69.0,64.0,69.0,2
-2020-03-06,Nevada,Washoe County,Nightlife Spots,74.0,58.0,75.0,3
-2020-03-06,Nevada,Washoe County,Arts & Entertainment,49.0,43.0,49.0,4
-2020-03-06,Nevada,Washoe County,Outdoors & Recreation,35.0,26.0,35.0,5
-2020-03-06,Nevada,Washoe County,Hotel,71.0,63.0,71.0,6
-2020-03-06,Nevada,Washoe County,Grocery,94.0,110.0,93.0,7
-2020-03-06,Nevada,Washoe County,Medical,56.0,57.0,56.0,8
-2020-03-06,Nevada,Washoe County,Colleges & Universities,101.0,"",102.0,9
-2020-03-06,Nevada,Washoe County,Gas Stations,90.0,86.0,90.0,10
-2020-03-06,Nevada,Washoe County,School,47.0,51.0,47.0,11
-2020-03-06,Nevada,Washoe County,Fast Food Restaurants,93.0,73.0,94.0,12
-2020-03-06,Nevada,Washoe County,Big Box Stores,89.0,79.0,90.0,13
-2020-03-06,Nevada,Washoe County,Professional & Other Places,15.0,13.0,15.0,14
-2020-03-06,Nevada,Washoe County,Airport,58.0,"",59.0,15
-2020-03-06,Nevada,Washoe County,Fitness Center,57.0,51.0,57.0,16
-2020-03-06,Nevada,Washoe County,Convenience Store,79.0,"",80.0,17
-2020-03-06,Nevada,Washoe County,Residences,116.0,"",118.0,18
-2020-03-06,Nevada,Washoe County,Office,77.0,"",78.0,19
-2020-03-06,Nevada,Washoe County,Hardware Stores,103.0,"",106.0,20
-2020-03-06,Nevada,Washoe County,Sports,27.0,"",27.0,21
-2020-03-06,Nevada,Washoe County,Banks,94.0,"",97.0,22
-2020-03-06,Nevada,Washoe County,Drug Store,88.0,"",91.0,22
-2020-03-07,Nevada,Nye County,Food,89.0,116.0,88.0,1
-2020-03-07,Nevada,Nye County,Gas Stations,92.0,"",92.0,2
-2020-03-07,Nevada,Elko County,Food,42.0,35.0,42.0,1
-2020-03-07,Nevada,Elko County,Arts & Entertainment,94.0,"",95.0,2
-2020-03-07,Nevada,Elko County,Gas Stations,123.0,"",123.0,3
-2020-03-07,Nevada,Washoe County,Food,40.0,36.0,40.0,1
-2020-03-07,Nevada,Washoe County,Shops & Services,68.0,54.0,69.0,2
-2020-03-07,Nevada,Washoe County,Nightlife Spots,74.0,56.0,75.0,3
-2020-03-07,Nevada,Washoe County,Hotel,79.0,62.0,80.0,4
-2020-03-07,Nevada,Washoe County,Arts & Entertainment,92.0,76.0,93.0,5
-2020-03-07,Nevada,Washoe County,Grocery,99.0,92.0,99.0,6
-2020-03-07,Nevada,Washoe County,Outdoors & Recreation,30.0,22.0,31.0,7
-2020-03-07,Nevada,Washoe County,Big Box Stores,104.0,93.0,104.0,8
-2020-03-07,Nevada,Washoe County,Fast Food Restaurants,92.0,91.0,92.0,9
-2020-03-07,Nevada,Washoe County,Gas Stations,93.0,100.0,92.0,10
-2020-03-07,Nevada,Washoe County,Airport,70.0,84.0,70.0,11
-2020-03-07,Nevada,Washoe County,Professional & Other Places,19.0,19.0,19.0,12
-2020-03-07,Nevada,Washoe County,Medical,57.0,"",57.0,13
-2020-03-07,Nevada,Washoe County,Convenience Store,88.0,"",89.0,14
-2020-03-07,Nevada,Washoe County,Residences,122.0,"",121.0,15
-2020-03-07,Nevada,Washoe County,School,47.0,"",48.0,16
-2020-03-07,Nevada,Washoe County,Colleges & Universities,105.0,"",107.0,17
-2020-03-07,Nevada,Washoe County,Hardware Stores,104.0,88.0,106.0,18
-2020-03-07,Nevada,Washoe County,Fitness Center,53.0,"",54.0,19
-2020-03-07,Nevada,Washoe County,Sports,28.0,"",28.0,20
-2020-03-07,Nevada,Douglas County,Food,48.0,68.0,47.0,1
-2020-03-07,Nevada,Douglas County,Arts & Entertainment,94.0,"",94.0,2
-2020-03-07,Nevada,Douglas County,Skiing,76.0,"",75.0,3
-2020-03-07,Nevada,Douglas County,Big Box Stores,112.0,"",110.0,4
-2020-03-07,Nevada,Carson City,Shops & Services,73.0,52.0,75.0,1
-2020-03-07,Nevada,Carson City,Food,47.0,45.0,47.0,2
-2020-03-07,Nevada,Lyon County,Food,44.0,59.0,43.0,1
+2020-03-06,Nevada,Douglas County,Food,107.0,124.0,106.0,1
+2020-03-06,Nevada,Douglas County,Arts & Entertainment,79.0,"",77.0,2
+2020-03-06,Nevada,Lyon County,Food,89.0,"",89.0,1
+2020-03-06,Nevada,Lyon County,Gas Stations,109.0,"",109.0,2
+2020-03-07,Nevada,Lyon County,Food,99.0,130.0,97.0,1
 2020-03-07,Nevada,Lyon County,Gas Stations,109.0,"",108.0,2
-2020-03-07,Nevada,Clark County,Arts & Entertainment,46.0,42.0,46.0,1
-2020-03-07,Nevada,Clark County,Food,40.0,38.0,40.0,2
-2020-03-07,Nevada,Clark County,Shops & Services,30.0,27.0,30.0,3
-2020-03-07,Nevada,Clark County,Hotel,67.0,58.0,67.0,4
-2020-03-07,Nevada,Clark County,Nightlife Spots,41.0,37.0,41.0,5
-2020-03-07,Nevada,Clark County,Airport,50.0,45.0,50.0,6
+2020-03-07,Nevada,Clark County,Arts & Entertainment,95.0,87.0,95.0,1
+2020-03-07,Nevada,Clark County,Food,95.0,87.0,95.0,2
+2020-03-07,Nevada,Clark County,Shops & Services,97.0,94.0,97.0,3
+2020-03-07,Nevada,Clark County,Hotel,94.0,84.0,94.0,4
+2020-03-07,Nevada,Clark County,Nightlife Spots,97.0,87.0,97.0,5
+2020-03-07,Nevada,Clark County,Airport,84.0,76.0,84.0,6
 2020-03-07,Nevada,Clark County,Grocery,105.0,105.0,105.0,7
-2020-03-07,Nevada,Clark County,Outdoors & Recreation,37.0,33.0,38.0,8
-2020-03-07,Nevada,Clark County,Professional & Other Places,27.0,26.0,27.0,9
+2020-03-07,Nevada,Clark County,Outdoors & Recreation,104.0,95.0,104.0,8
+2020-03-07,Nevada,Clark County,Professional & Other Places,92.0,93.0,92.0,9
 2020-03-07,Nevada,Clark County,Fast Food Restaurants,98.0,94.0,98.0,10
 2020-03-07,Nevada,Clark County,Gas Stations,103.0,90.0,103.0,11
 2020-03-07,Nevada,Clark County,Convenience Store,96.0,90.0,96.0,12
 2020-03-07,Nevada,Clark County,Big Box Stores,101.0,96.0,101.0,13
 2020-03-07,Nevada,Clark County,Residences,104.0,94.0,104.0,14
-2020-03-07,Nevada,Clark County,Medical,55.0,51.0,56.0,15
-2020-03-07,Nevada,Clark County,School,58.0,57.0,58.0,16
+2020-03-07,Nevada,Clark County,Medical,101.0,93.0,102.0,15
+2020-03-07,Nevada,Clark County,School,106.0,104.0,106.0,16
 2020-03-07,Nevada,Clark County,Drug Store,106.0,105.0,106.0,17
-2020-03-07,Nevada,Clark County,Fitness Center,62.0,55.0,62.0,18
-2020-03-07,Nevada,Clark County,Travel & Transport,7.0,10.0,7.0,19
-2020-03-07,Nevada,Clark County,Sports,35.0,38.0,35.0,20
+2020-03-07,Nevada,Clark County,Fitness Center,97.0,87.0,97.0,18
+2020-03-07,Nevada,Clark County,Travel & Transport,102.0,119.0,101.0,19
+2020-03-07,Nevada,Clark County,Sports,115.0,102.0,116.0,20
 2020-03-07,Nevada,Clark County,Discount Stores,108.0,100.0,109.0,21
-2020-03-07,Nevada,Clark County,Office,74.0,73.0,75.0,22
-2020-03-07,Nevada,Clark County,Colleges & Universities,67.0,94.0,67.0,23
+2020-03-07,Nevada,Clark County,Office,98.0,102.0,98.0,22
+2020-03-07,Nevada,Clark County,Colleges & Universities,142.0,197.0,141.0,23
 2020-03-07,Nevada,Clark County,Hardware Stores,102.0,96.0,103.0,24
 2020-03-07,Nevada,Clark County,Banks,81.0,82.0,81.0,25
-2020-03-07,Nevada,Clark County,Government,56.0,52.0,57.0,26
+2020-03-07,Nevada,Clark County,Government,95.0,86.0,96.0,26
 2020-03-07,Nevada,Clark County,Alcohol,98.0,110.0,98.0,27
-2020-03-07,Nevada,Clark County,Bus,73.0,"",73.0,28
+2020-03-07,Nevada,Clark County,Bus,99.0,"",100.0,28
 2020-03-07,Nevada,Clark County,Light Rail Stations,119.0,"",120.0,29
-2020-03-08,Nevada,Douglas County,Food,42.0,39.0,42.0,1
-2020-03-08,Nevada,Douglas County,Arts & Entertainment,41.0,"",42.0,2
-2020-03-08,Nevada,Douglas County,Skiing,87.0,"",86.0,3
-2020-03-08,Nevada,Douglas County,Hotel,61.0,"",61.0,4
-2020-03-08,Nevada,Clark County,Arts & Entertainment,44.0,40.0,44.0,1
-2020-03-08,Nevada,Clark County,Food,41.0,40.0,41.0,2
-2020-03-08,Nevada,Clark County,Shops & Services,30.0,28.0,30.0,3
-2020-03-08,Nevada,Clark County,Hotel,65.0,61.0,65.0,4
-2020-03-08,Nevada,Clark County,Nightlife Spots,40.0,34.0,40.0,5
-2020-03-08,Nevada,Clark County,Airport,59.0,57.0,59.0,6
+2020-03-07,Nevada,Carson City,Shops & Services,108.0,76.0,111.0,1
+2020-03-07,Nevada,Carson City,Food,113.0,112.0,113.0,2
+2020-03-07,Nevada,Washoe County,Food,94.0,84.0,94.0,1
+2020-03-07,Nevada,Washoe County,Shops & Services,95.0,81.0,96.0,2
+2020-03-07,Nevada,Washoe County,Nightlife Spots,104.0,82.0,105.0,3
+2020-03-07,Nevada,Washoe County,Hotel,102.0,77.0,103.0,4
+2020-03-07,Nevada,Washoe County,Arts & Entertainment,96.0,79.0,96.0,5
+2020-03-07,Nevada,Washoe County,Grocery,99.0,92.0,99.0,6
+2020-03-07,Nevada,Washoe County,Outdoors & Recreation,85.0,65.0,86.0,7
+2020-03-07,Nevada,Washoe County,Big Box Stores,104.0,93.0,104.0,8
+2020-03-07,Nevada,Washoe County,Fast Food Restaurants,92.0,91.0,92.0,9
+2020-03-07,Nevada,Washoe County,Gas Stations,93.0,100.0,92.0,10
+2020-03-07,Nevada,Washoe County,Airport,101.0,120.0,100.0,11
+2020-03-07,Nevada,Washoe County,Professional & Other Places,94.0,94.0,94.0,12
+2020-03-07,Nevada,Washoe County,Medical,93.0,"",94.0,13
+2020-03-07,Nevada,Washoe County,Convenience Store,88.0,"",89.0,14
+2020-03-07,Nevada,Washoe County,Residences,122.0,"",121.0,15
+2020-03-07,Nevada,Washoe County,School,94.0,"",94.0,16
+2020-03-07,Nevada,Washoe County,Colleges & Universities,105.0,"",107.0,17
+2020-03-07,Nevada,Washoe County,Hardware Stores,104.0,88.0,106.0,18
+2020-03-07,Nevada,Washoe County,Fitness Center,84.0,"",85.0,19
+2020-03-07,Nevada,Washoe County,Sports,93.0,"",94.0,20
+2020-03-07,Nevada,Elko County,Food,91.0,75.0,91.0,1
+2020-03-07,Nevada,Elko County,Arts & Entertainment,95.0,"",96.0,2
+2020-03-07,Nevada,Elko County,Gas Stations,123.0,"",123.0,3
+2020-03-07,Nevada,Nye County,Food,108.0,141.0,106.0,1
+2020-03-07,Nevada,Nye County,Gas Stations,92.0,"",92.0,2
+2020-03-07,Nevada,Douglas County,Food,105.0,151.0,102.0,1
+2020-03-07,Nevada,Douglas County,Arts & Entertainment,94.0,"",94.0,2
+2020-03-07,Nevada,Douglas County,Skiing,127.0,"",126.0,3
+2020-03-07,Nevada,Douglas County,Big Box Stores,112.0,"",110.0,4
+2020-03-08,Nevada,Douglas County,Food,90.0,84.0,91.0,1
+2020-03-08,Nevada,Douglas County,Arts & Entertainment,82.0,"",83.0,2
+2020-03-08,Nevada,Douglas County,Skiing,151.0,"",150.0,3
+2020-03-08,Nevada,Douglas County,Hotel,82.0,"",83.0,4
+2020-03-08,Nevada,Clark County,Arts & Entertainment,90.0,82.0,90.0,1
+2020-03-08,Nevada,Clark County,Food,96.0,92.0,96.0,2
+2020-03-08,Nevada,Clark County,Shops & Services,101.0,103.0,101.0,3
+2020-03-08,Nevada,Clark County,Hotel,91.0,89.0,91.0,4
+2020-03-08,Nevada,Clark County,Nightlife Spots,93.0,79.0,93.0,5
+2020-03-08,Nevada,Clark County,Airport,100.0,96.0,100.0,6
 2020-03-08,Nevada,Clark County,Grocery,101.0,102.0,101.0,7
-2020-03-08,Nevada,Clark County,Outdoors & Recreation,39.0,36.0,39.0,8
-2020-03-08,Nevada,Clark County,Professional & Other Places,28.0,24.0,28.0,9
+2020-03-08,Nevada,Clark County,Outdoors & Recreation,107.0,100.0,107.0,8
+2020-03-08,Nevada,Clark County,Professional & Other Places,93.0,92.0,93.0,9
 2020-03-08,Nevada,Clark County,Fast Food Restaurants,100.0,93.0,101.0,10
 2020-03-08,Nevada,Clark County,Gas Stations,105.0,97.0,105.0,11
 2020-03-08,Nevada,Clark County,Convenience Store,101.0,101.0,101.0,12
 2020-03-08,Nevada,Clark County,Big Box Stores,100.0,100.0,100.0,13
 2020-03-08,Nevada,Clark County,Residences,107.0,109.0,107.0,14
 2020-03-08,Nevada,Clark County,Drug Store,108.0,105.0,108.0,15
-2020-03-08,Nevada,Clark County,Medical,60.0,53.0,60.0,16
-2020-03-08,Nevada,Clark County,Travel & Transport,7.0,9.0,7.0,17
-2020-03-08,Nevada,Clark County,School,54.0,53.0,54.0,18
-2020-03-08,Nevada,Clark County,Fitness Center,61.0,58.0,61.0,19
-2020-03-08,Nevada,Clark County,Sports,35.0,37.0,35.0,20
+2020-03-08,Nevada,Clark County,Medical,109.0,96.0,109.0,16
+2020-03-08,Nevada,Clark County,Travel & Transport,106.0,111.0,106.0,17
+2020-03-08,Nevada,Clark County,School,100.0,99.0,100.0,18
+2020-03-08,Nevada,Clark County,Fitness Center,94.0,88.0,94.0,19
+2020-03-08,Nevada,Clark County,Sports,108.0,95.0,109.0,20
 2020-03-08,Nevada,Clark County,Discount Stores,107.0,96.0,108.0,21
 2020-03-08,Nevada,Clark County,Hardware Stores,114.0,121.0,113.0,22
-2020-03-08,Nevada,Clark County,Office,72.0,74.0,72.0,23
-2020-03-08,Nevada,Clark County,Government,53.0,48.0,53.0,24
+2020-03-08,Nevada,Clark County,Office,99.0,109.0,98.0,23
+2020-03-08,Nevada,Clark County,Government,96.0,86.0,96.0,24
 2020-03-08,Nevada,Clark County,Banks,98.0,97.0,98.0,25
 2020-03-08,Nevada,Clark County,Alcohol,110.0,122.0,109.0,26
-2020-03-08,Nevada,Clark County,Colleges & Universities,44.0,75.0,44.0,27
-2020-03-08,Nevada,Clark County,Bus,69.0,"",70.0,28
+2020-03-08,Nevada,Clark County,Colleges & Universities,95.0,164.0,94.0,27
+2020-03-08,Nevada,Clark County,Bus,96.0,"",97.0,28
 2020-03-08,Nevada,Clark County,Light Rail Stations,105.0,"",104.0,29
 2020-03-08,Nevada,Nye County,Food,109.0,"",109.0,1
 2020-03-08,Nevada,Nye County,Gas Stations,79.0,"",79.0,2
-2020-03-08,Nevada,Carson City,Food,54.0,47.0,54.0,1
-2020-03-08,Nevada,Carson City,Shops & Services,71.0,"",71.0,2
-2020-03-08,Nevada,Lyon County,Food,43.0,"",43.0,1
-2020-03-08,Nevada,Washoe County,Food,40.0,40.0,40.0,1
-2020-03-08,Nevada,Washoe County,Shops & Services,66.0,51.0,67.0,2
-2020-03-08,Nevada,Washoe County,Arts & Entertainment,88.0,99.0,88.0,3
-2020-03-08,Nevada,Washoe County,Nightlife Spots,72.0,50.0,73.0,4
-2020-03-08,Nevada,Washoe County,Hotel,75.0,83.0,74.0,5
+2020-03-08,Nevada,Lyon County,Food,97.0,"",96.0,1
+2020-03-08,Nevada,Elko County,Food,97.0,102.0,97.0,1
+2020-03-08,Nevada,Elko County,Arts & Entertainment,99.0,"",98.0,2
+2020-03-08,Nevada,Elko County,Gas Stations,103.0,"",104.0,3
+2020-03-08,Nevada,Carson City,Food,130.0,113.0,132.0,1
+2020-03-08,Nevada,Carson City,Shops & Services,109.0,"",110.0,2
+2020-03-08,Nevada,Washoe County,Food,95.0,92.0,95.0,1
+2020-03-08,Nevada,Washoe County,Shops & Services,99.0,82.0,100.0,2
+2020-03-08,Nevada,Washoe County,Arts & Entertainment,91.0,102.0,90.0,3
+2020-03-08,Nevada,Washoe County,Nightlife Spots,100.0,72.0,101.0,4
+2020-03-08,Nevada,Washoe County,Hotel,96.0,106.0,96.0,5
 2020-03-08,Nevada,Washoe County,Grocery,88.0,82.0,88.0,6
-2020-03-08,Nevada,Washoe County,Outdoors & Recreation,31.0,26.0,31.0,7
+2020-03-08,Nevada,Washoe County,Outdoors & Recreation,84.0,73.0,84.0,7
 2020-03-08,Nevada,Washoe County,Big Box Stores,98.0,90.0,99.0,8
 2020-03-08,Nevada,Washoe County,Gas Stations,100.0,96.0,100.0,9
 2020-03-08,Nevada,Washoe County,Fast Food Restaurants,101.0,120.0,100.0,10
-2020-03-08,Nevada,Washoe County,Airport,88.0,"",90.0,11
+2020-03-08,Nevada,Washoe County,Airport,129.0,"",131.0,11
 2020-03-08,Nevada,Washoe County,Convenience Store,96.0,"",97.0,12
-2020-03-08,Nevada,Washoe County,Professional & Other Places,19.0,"",18.0,13
-2020-03-08,Nevada,Washoe County,School,55.0,"",55.0,14
+2020-03-08,Nevada,Washoe County,Professional & Other Places,99.0,"",98.0,13
+2020-03-08,Nevada,Washoe County,School,108.0,"",108.0,14
 2020-03-08,Nevada,Washoe County,Residences,90.0,"",88.0,15
 2020-03-08,Nevada,Washoe County,Hardware Stores,139.0,130.0,139.0,16
-2020-03-08,Nevada,Washoe County,Medical,59.0,"",59.0,17
-2020-03-08,Nevada,Washoe County,Colleges & Universities,105.0,"",108.0,18
-2020-03-08,Nevada,Elko County,Food,46.0,48.0,45.0,1
-2020-03-08,Nevada,Elko County,Arts & Entertainment,99.0,"",98.0,2
-2020-03-08,Nevada,Elko County,Gas Stations,103.0,"",104.0,3
-2020-03-09,Nevada,Lyon County,Food,41.0,"",41.0,1
-2020-03-09,Nevada,Lyon County,Gas Stations,95.0,"",94.0,2
+2020-03-08,Nevada,Washoe County,Medical,96.0,"",97.0,17
+2020-03-08,Nevada,Washoe County,Colleges & Universities,107.0,"",110.0,18
+2020-03-09,Nevada,Elko County,Food,88.0,113.0,87.0,1
+2020-03-09,Nevada,Elko County,Gas Stations,105.0,"",105.0,2
+2020-03-09,Nevada,Nye County,Gas Stations,112.0,"",111.0,1
+2020-03-09,Nevada,Nye County,Food,111.0,"",112.0,2
 2020-03-09,Nevada,Storey County,Professional & Other Places,138.0,"",139.0,1
-2020-03-09,Nevada,Clark County,Food,41.0,40.0,41.0,1
-2020-03-09,Nevada,Clark County,Arts & Entertainment,44.0,43.0,44.0,2
-2020-03-09,Nevada,Clark County,Shops & Services,30.0,27.0,30.0,3
-2020-03-09,Nevada,Clark County,Airport,55.0,51.0,55.0,4
-2020-03-09,Nevada,Clark County,Hotel,65.0,54.0,65.0,5
-2020-03-09,Nevada,Clark County,Nightlife Spots,39.0,39.0,39.0,6
-2020-03-09,Nevada,Clark County,Professional & Other Places,26.0,25.0,26.0,7
+2020-03-09,Nevada,Carson City,Shops & Services,96.0,70.0,99.0,1
+2020-03-09,Nevada,Carson City,Food,102.0,"",102.0,2
+2020-03-09,Nevada,Lyon County,Food,93.0,"",92.0,1
+2020-03-09,Nevada,Lyon County,Gas Stations,95.0,"",94.0,2
+2020-03-09,Nevada,Washoe County,Food,91.0,82.0,91.0,1
+2020-03-09,Nevada,Washoe County,Shops & Services,101.0,97.0,101.0,2
+2020-03-09,Nevada,Washoe County,Nightlife Spots,94.0,79.0,95.0,3
+2020-03-09,Nevada,Washoe County,Arts & Entertainment,86.0,96.0,86.0,4
+2020-03-09,Nevada,Washoe County,Hotel,85.0,77.0,85.0,5
+2020-03-09,Nevada,Washoe County,Outdoors & Recreation,90.0,73.0,91.0,6
+2020-03-09,Nevada,Washoe County,Grocery,97.0,85.0,98.0,7
+2020-03-09,Nevada,Washoe County,Medical,104.0,107.0,104.0,8
+2020-03-09,Nevada,Washoe County,Gas Stations,94.0,89.0,94.0,9
+2020-03-09,Nevada,Washoe County,Colleges & Universities,103.0,"",104.0,10
+2020-03-09,Nevada,Washoe County,School,118.0,127.0,117.0,11
+2020-03-09,Nevada,Washoe County,Fast Food Restaurants,98.0,90.0,99.0,12
+2020-03-09,Nevada,Washoe County,Big Box Stores,101.0,128.0,100.0,13
+2020-03-09,Nevada,Washoe County,Airport,89.0,101.0,89.0,14
+2020-03-09,Nevada,Washoe County,Professional & Other Places,123.0,106.0,124.0,15
+2020-03-09,Nevada,Washoe County,Convenience Store,94.0,"",95.0,16
+2020-03-09,Nevada,Washoe County,Residences,111.0,"",112.0,17
+2020-03-09,Nevada,Washoe County,Fitness Center,97.0,83.0,98.0,18
+2020-03-09,Nevada,Washoe County,Office,98.0,"",101.0,19
+2020-03-09,Nevada,Clark County,Food,97.0,94.0,97.0,1
+2020-03-09,Nevada,Clark County,Arts & Entertainment,90.0,87.0,91.0,2
+2020-03-09,Nevada,Clark County,Shops & Services,101.0,94.0,101.0,3
+2020-03-09,Nevada,Clark County,Airport,93.0,87.0,93.0,4
+2020-03-09,Nevada,Clark County,Hotel,90.0,78.0,91.0,5
+2020-03-09,Nevada,Clark County,Nightlife Spots,91.0,92.0,91.0,6
+2020-03-09,Nevada,Clark County,Professional & Other Places,102.0,110.0,102.0,7
 2020-03-09,Nevada,Clark County,Grocery,113.0,108.0,113.0,8
-2020-03-09,Nevada,Clark County,Outdoors & Recreation,36.0,34.0,36.0,9
+2020-03-09,Nevada,Clark County,Outdoors & Recreation,101.0,97.0,102.0,9
 2020-03-09,Nevada,Clark County,Fast Food Restaurants,102.0,96.0,102.0,10
-2020-03-09,Nevada,Clark County,Medical,58.0,49.0,59.0,11
+2020-03-09,Nevada,Clark County,Medical,106.0,90.0,107.0,11
 2020-03-09,Nevada,Clark County,Gas Stations,101.0,102.0,101.0,12
 2020-03-09,Nevada,Clark County,Convenience Store,100.0,96.0,100.0,13
 2020-03-09,Nevada,Clark County,Residences,105.0,103.0,105.0,14
 2020-03-09,Nevada,Clark County,Big Box Stores,113.0,97.0,114.0,15
-2020-03-09,Nevada,Clark County,Travel & Transport,7.0,8.0,7.0,16
-2020-03-09,Nevada,Clark County,Office,81.0,72.0,82.0,17
+2020-03-09,Nevada,Clark County,Travel & Transport,105.0,96.0,106.0,16
+2020-03-09,Nevada,Clark County,Office,103.0,97.0,103.0,17
 2020-03-09,Nevada,Clark County,Drug Store,113.0,122.0,112.0,18
-2020-03-09,Nevada,Clark County,School,29.0,32.0,29.0,19
-2020-03-09,Nevada,Clark County,Fitness Center,60.0,64.0,60.0,20
-2020-03-09,Nevada,Clark County,Government,79.0,79.0,79.0,21
-2020-03-09,Nevada,Clark County,Colleges & Universities,50.0,45.0,50.0,22
-2020-03-09,Nevada,Clark County,Sports,30.0,40.0,29.0,23
+2020-03-09,Nevada,Clark County,School,55.0,61.0,55.0,19
+2020-03-09,Nevada,Clark County,Fitness Center,95.0,98.0,94.0,20
+2020-03-09,Nevada,Clark County,Government,127.0,122.0,127.0,21
+2020-03-09,Nevada,Clark County,Colleges & Universities,104.0,94.0,105.0,22
+2020-03-09,Nevada,Clark County,Sports,105.0,114.0,104.0,23
 2020-03-09,Nevada,Clark County,Banks,111.0,145.0,110.0,24
 2020-03-09,Nevada,Clark County,Discount Stores,113.0,99.0,113.0,25
 2020-03-09,Nevada,Clark County,Hardware Stores,105.0,95.0,106.0,26
-2020-03-09,Nevada,Clark County,Bus,71.0,"",72.0,27
+2020-03-09,Nevada,Clark County,Bus,98.0,"",99.0,27
 2020-03-09,Nevada,Clark County,Alcohol,93.0,"",92.0,28
 2020-03-09,Nevada,Clark County,Light Rail Stations,125.0,"",125.0,29
-2020-03-09,Nevada,Elko County,Food,40.0,52.0,40.0,1
-2020-03-09,Nevada,Elko County,Gas Stations,105.0,"",105.0,2
-2020-03-09,Nevada,Carson City,Shops & Services,66.0,54.0,67.0,1
-2020-03-09,Nevada,Carson City,Food,40.0,"",41.0,2
-2020-03-09,Nevada,Washoe County,Food,38.0,34.0,38.0,1
-2020-03-09,Nevada,Washoe County,Shops & Services,72.0,67.0,73.0,2
-2020-03-09,Nevada,Washoe County,Nightlife Spots,68.0,53.0,69.0,3
-2020-03-09,Nevada,Washoe County,Arts & Entertainment,83.0,93.0,83.0,4
-2020-03-09,Nevada,Washoe County,Hotel,64.0,59.0,64.0,5
-2020-03-09,Nevada,Washoe County,Outdoors & Recreation,90.0,73.0,91.0,6
-2020-03-09,Nevada,Washoe County,Grocery,97.0,85.0,98.0,7
-2020-03-09,Nevada,Washoe County,Medical,63.0,63.0,62.0,8
-2020-03-09,Nevada,Washoe County,Gas Stations,94.0,89.0,94.0,9
-2020-03-09,Nevada,Washoe County,Colleges & Universities,96.0,"",96.0,10
-2020-03-09,Nevada,Washoe County,School,60.0,65.0,60.0,11
-2020-03-09,Nevada,Washoe County,Fast Food Restaurants,98.0,90.0,99.0,12
-2020-03-09,Nevada,Washoe County,Big Box Stores,101.0,128.0,100.0,13
-2020-03-09,Nevada,Washoe County,Airport,59.0,67.0,59.0,14
-2020-03-09,Nevada,Washoe County,Professional & Other Places,19.0,14.0,19.0,15
-2020-03-09,Nevada,Washoe County,Convenience Store,94.0,"",95.0,16
-2020-03-09,Nevada,Washoe County,Residences,111.0,"",112.0,17
-2020-03-09,Nevada,Washoe County,Fitness Center,61.0,49.0,62.0,18
-2020-03-09,Nevada,Washoe County,Office,83.0,"",86.0,19
-2020-03-09,Nevada,Douglas County,Food,41.0,56.0,39.0,1
-2020-03-09,Nevada,Nye County,Gas Stations,112.0,"",111.0,1
-2020-03-09,Nevada,Nye County,Food,111.0,"",112.0,2
-2020-03-10,Nevada,Lyon County,Food,118.0,"",119.0,1
-2020-03-10,Nevada,Lyon County,Gas Stations,113.0,"",112.0,2
-2020-03-10,Nevada,Douglas County,Food,45.0,39.0,45.0,1
-2020-03-10,Nevada,Storey County,Professional & Other Places,101.0,"",101.0,1
-2020-03-10,Nevada,Clark County,Food,41.0,40.0,41.0,1
-2020-03-10,Nevada,Clark County,Arts & Entertainment,46.0,42.0,46.0,2
-2020-03-10,Nevada,Clark County,Shops & Services,28.0,27.0,28.0,3
-2020-03-10,Nevada,Clark County,Professional & Other Places,34.0,30.0,34.0,4
-2020-03-10,Nevada,Clark County,Hotel,72.0,56.0,73.0,5
-2020-03-10,Nevada,Clark County,Airport,47.0,35.0,47.0,6
-2020-03-10,Nevada,Clark County,Nightlife Spots,40.0,37.0,40.0,7
+2020-03-09,Nevada,Douglas County,Food,88.0,122.0,86.0,1
+2020-03-10,Nevada,Clark County,Food,98.0,94.0,98.0,1
+2020-03-10,Nevada,Clark County,Arts & Entertainment,93.0,86.0,94.0,2
+2020-03-10,Nevada,Clark County,Shops & Services,95.0,93.0,95.0,3
+2020-03-10,Nevada,Clark County,Professional & Other Places,142.0,136.0,142.0,4
+2020-03-10,Nevada,Clark County,Hotel,100.0,81.0,101.0,5
+2020-03-10,Nevada,Clark County,Airport,80.0,60.0,80.0,6
+2020-03-10,Nevada,Clark County,Nightlife Spots,94.0,87.0,95.0,7
 2020-03-10,Nevada,Clark County,Grocery,107.0,110.0,107.0,8
-2020-03-10,Nevada,Clark County,Outdoors & Recreation,33.0,30.0,33.0,9
+2020-03-10,Nevada,Clark County,Outdoors & Recreation,95.0,90.0,96.0,9
 2020-03-10,Nevada,Clark County,Fast Food Restaurants,103.0,95.0,103.0,10
-2020-03-10,Nevada,Clark County,Medical,51.0,42.0,51.0,11
-2020-03-10,Nevada,Clark County,School,51.0,50.0,51.0,12
+2020-03-10,Nevada,Clark County,Medical,93.0,78.0,94.0,11
+2020-03-10,Nevada,Clark County,School,96.0,93.0,96.0,12
 2020-03-10,Nevada,Clark County,Gas Stations,99.0,103.0,99.0,13
 2020-03-10,Nevada,Clark County,Convenience Store,101.0,88.0,102.0,14
 2020-03-10,Nevada,Clark County,Residences,103.0,84.0,103.0,15
 2020-03-10,Nevada,Clark County,Big Box Stores,101.0,82.0,102.0,16
-2020-03-10,Nevada,Clark County,Office,75.0,61.0,75.0,17
-2020-03-10,Nevada,Clark County,Fitness Center,56.0,52.0,56.0,18
+2020-03-10,Nevada,Clark County,Office,94.0,82.0,94.0,17
+2020-03-10,Nevada,Clark County,Fitness Center,88.0,80.0,89.0,18
 2020-03-10,Nevada,Clark County,Drug Store,102.0,101.0,102.0,19
-2020-03-10,Nevada,Clark County,Travel & Transport,7.0,7.0,7.0,20
-2020-03-10,Nevada,Clark County,Colleges & Universities,47.0,39.0,47.0,21
-2020-03-10,Nevada,Clark County,Government,70.0,66.0,70.0,22
-2020-03-10,Nevada,Clark County,Sports,25.0,31.0,25.0,23
+2020-03-10,Nevada,Clark County,Travel & Transport,101.0,95.0,101.0,20
+2020-03-10,Nevada,Clark County,Colleges & Universities,99.0,83.0,100.0,21
+2020-03-10,Nevada,Clark County,Government,108.0,102.0,108.0,22
+2020-03-10,Nevada,Clark County,Sports,98.0,93.0,98.0,23
 2020-03-10,Nevada,Clark County,Banks,90.0,87.0,91.0,24
 2020-03-10,Nevada,Clark County,Discount Stores,100.0,89.0,101.0,25
 2020-03-10,Nevada,Clark County,Hardware Stores,91.0,90.0,91.0,26
-2020-03-10,Nevada,Clark County,Bus,63.0,"",63.0,27
+2020-03-10,Nevada,Clark County,Bus,85.0,"",85.0,27
 2020-03-10,Nevada,Clark County,Alcohol,98.0,98.0,98.0,28
 2020-03-10,Nevada,Clark County,Light Rail Stations,244.0,"",247.0,29
-2020-03-10,Nevada,Elko County,Food,49.0,49.0,49.0,1
-2020-03-10,Nevada,Elko County,Gas Stations,94.0,"",95.0,2
+2020-03-10,Nevada,Carson City,Shops & Services,119.0,103.0,121.0,1
+2020-03-10,Nevada,Carson City,Food,104.0,102.0,104.0,2
 2020-03-10,Nevada,Nye County,Gas Stations,97.0,"",97.0,1
 2020-03-10,Nevada,Nye County,Food,102.0,137.0,100.0,2
-2020-03-10,Nevada,Carson City,Shops & Services,81.0,71.0,83.0,1
-2020-03-10,Nevada,Carson City,Food,41.0,41.0,41.0,2
-2020-03-10,Nevada,Washoe County,Food,41.0,36.0,41.0,1
-2020-03-10,Nevada,Washoe County,Shops & Services,71.0,72.0,71.0,2
-2020-03-10,Nevada,Washoe County,Medical,59.0,48.0,60.0,3
-2020-03-10,Nevada,Washoe County,Nightlife Spots,77.0,73.0,77.0,4
-2020-03-10,Nevada,Washoe County,Outdoors & Recreation,34.0,29.0,34.0,5
-2020-03-10,Nevada,Washoe County,Colleges & Universities,97.0,157.0,95.0,6
-2020-03-10,Nevada,Washoe County,Hotel,76.0,60.0,77.0,7
-2020-03-10,Nevada,Washoe County,Arts & Entertainment,89.0,93.0,89.0,8
+2020-03-10,Nevada,Lyon County,Food,118.0,"",119.0,1
+2020-03-10,Nevada,Lyon County,Gas Stations,113.0,"",112.0,2
+2020-03-10,Nevada,Douglas County,Food,96.0,84.0,97.0,1
+2020-03-10,Nevada,Storey County,Professional & Other Places,101.0,"",101.0,1
+2020-03-10,Nevada,Elko County,Food,108.0,107.0,108.0,1
+2020-03-10,Nevada,Elko County,Gas Stations,94.0,"",95.0,2
+2020-03-10,Nevada,Washoe County,Food,98.0,85.0,99.0,1
+2020-03-10,Nevada,Washoe County,Shops & Services,99.0,103.0,98.0,2
+2020-03-10,Nevada,Washoe County,Medical,99.0,80.0,100.0,3
+2020-03-10,Nevada,Washoe County,Nightlife Spots,107.0,106.0,107.0,4
+2020-03-10,Nevada,Washoe County,Outdoors & Recreation,100.0,95.0,101.0,5
+2020-03-10,Nevada,Washoe County,Colleges & Universities,104.0,161.0,103.0,6
+2020-03-10,Nevada,Washoe County,Hotel,100.0,76.0,102.0,7
+2020-03-10,Nevada,Washoe County,Arts & Entertainment,93.0,96.0,93.0,8
 2020-03-10,Nevada,Washoe County,Grocery,92.0,105.0,90.0,9
 2020-03-10,Nevada,Washoe County,Gas Stations,90.0,84.0,90.0,10
-2020-03-10,Nevada,Washoe County,School,50.0,48.0,50.0,11
+2020-03-10,Nevada,Washoe County,School,98.0,95.0,98.0,11
 2020-03-10,Nevada,Washoe County,Fast Food Restaurants,103.0,95.0,103.0,12
 2020-03-10,Nevada,Washoe County,Big Box Stores,95.0,102.0,95.0,13
-2020-03-10,Nevada,Washoe County,Professional & Other Places,14.0,15.0,14.0,14
-2020-03-10,Nevada,Washoe County,Fitness Center,59.0,43.0,60.0,15
-2020-03-10,Nevada,Washoe County,Airport,58.0,"",58.0,16
+2020-03-10,Nevada,Washoe County,Professional & Other Places,93.0,100.0,92.0,14
+2020-03-10,Nevada,Washoe County,Fitness Center,95.0,73.0,96.0,15
+2020-03-10,Nevada,Washoe County,Airport,83.0,"",83.0,16
 2020-03-10,Nevada,Washoe County,Convenience Store,87.0,"",87.0,17
 2020-03-10,Nevada,Washoe County,Residences,103.0,"",103.0,18
-2020-03-10,Nevada,Washoe County,Office,87.0,"",89.0,19
+2020-03-10,Nevada,Washoe County,Office,103.0,"",106.0,19
 2020-03-10,Nevada,Washoe County,Hardware Stores,111.0,106.0,112.0,20
-2020-03-10,Nevada,Washoe County,Sports,28.0,39.0,28.0,21
-2020-03-11,Nevada,Douglas County,Food,49.0,45.0,50.0,1
-2020-03-11,Nevada,Lyon County,Food,43.0,"",42.0,1
-2020-03-11,Nevada,Lyon County,Gas Stations,115.0,"",115.0,2
-2020-03-11,Nevada,Clark County,Food,41.0,37.0,41.0,1
-2020-03-11,Nevada,Clark County,Arts & Entertainment,47.0,42.0,47.0,2
-2020-03-11,Nevada,Clark County,Shops & Services,28.0,25.0,28.0,3
-2020-03-11,Nevada,Clark County,Professional & Other Places,34.0,28.0,35.0,4
-2020-03-11,Nevada,Clark County,Hotel,77.0,58.0,78.0,5
-2020-03-11,Nevada,Clark County,Airport,53.0,49.0,53.0,6
-2020-03-11,Nevada,Clark County,Nightlife Spots,41.0,35.0,41.0,7
+2020-03-10,Nevada,Washoe County,Sports,122.0,143.0,120.0,21
+2020-03-11,Nevada,Carson City,Shops & Services,129.0,128.0,129.0,1
+2020-03-11,Nevada,Carson City,Food,94.0,81.0,96.0,2
+2020-03-11,Nevada,Storey County,Professional & Other Places,97.0,"",98.0,1
+2020-03-11,Nevada,Nye County,Food,103.0,112.0,102.0,1
+2020-03-11,Nevada,Nye County,Gas Stations,91.0,"",90.0,2
+2020-03-11,Nevada,Elko County,Food,98.0,91.0,98.0,1
+2020-03-11,Nevada,Elko County,Gas Stations,121.0,"",121.0,2
+2020-03-11,Nevada,Douglas County,Food,106.0,99.0,107.0,1
+2020-03-11,Nevada,Clark County,Food,96.0,86.0,97.0,1
+2020-03-11,Nevada,Clark County,Arts & Entertainment,97.0,85.0,97.0,2
+2020-03-11,Nevada,Clark County,Shops & Services,95.0,88.0,96.0,3
+2020-03-11,Nevada,Clark County,Professional & Other Places,143.0,127.0,143.0,4
+2020-03-11,Nevada,Clark County,Hotel,107.0,83.0,108.0,5
+2020-03-11,Nevada,Clark County,Airport,90.0,83.0,90.0,6
+2020-03-11,Nevada,Clark County,Nightlife Spots,97.0,84.0,97.0,7
 2020-03-11,Nevada,Clark County,Grocery,103.0,101.0,103.0,8
-2020-03-11,Nevada,Clark County,Outdoors & Recreation,32.0,27.0,32.0,9
-2020-03-11,Nevada,Clark County,Medical,52.0,50.0,52.0,10
-2020-03-11,Nevada,Clark County,School,52.0,46.0,52.0,11
+2020-03-11,Nevada,Clark County,Outdoors & Recreation,93.0,81.0,93.0,9
+2020-03-11,Nevada,Clark County,Medical,95.0,91.0,96.0,10
+2020-03-11,Nevada,Clark County,School,96.0,86.0,97.0,11
 2020-03-11,Nevada,Clark County,Fast Food Restaurants,92.0,81.0,92.0,12
 2020-03-11,Nevada,Clark County,Gas Stations,94.0,83.0,95.0,13
 2020-03-11,Nevada,Clark County,Convenience Store,93.0,82.0,94.0,14
 2020-03-11,Nevada,Clark County,Residences,103.0,93.0,103.0,15
 2020-03-11,Nevada,Clark County,Big Box Stores,98.0,100.0,98.0,16
-2020-03-11,Nevada,Clark County,Office,73.0,57.0,73.0,17
-2020-03-11,Nevada,Clark County,Fitness Center,57.0,52.0,58.0,18
+2020-03-11,Nevada,Clark County,Office,92.0,75.0,93.0,17
+2020-03-11,Nevada,Clark County,Fitness Center,90.0,80.0,91.0,18
 2020-03-11,Nevada,Clark County,Drug Store,101.0,90.0,102.0,19
-2020-03-11,Nevada,Clark County,Travel & Transport,8.0,8.0,8.0,20
-2020-03-11,Nevada,Clark County,Colleges & Universities,41.0,44.0,41.0,21
-2020-03-11,Nevada,Clark County,Government,66.0,50.0,66.0,22
-2020-03-11,Nevada,Clark County,Sports,27.0,30.0,26.0,23
+2020-03-11,Nevada,Clark County,Travel & Transport,103.0,91.0,104.0,20
+2020-03-11,Nevada,Clark County,Colleges & Universities,86.0,93.0,86.0,21
+2020-03-11,Nevada,Clark County,Government,101.0,77.0,102.0,22
+2020-03-11,Nevada,Clark County,Sports,99.0,84.0,100.0,23
 2020-03-11,Nevada,Clark County,Banks,91.0,85.0,91.0,24
 2020-03-11,Nevada,Clark County,Discount Stores,98.0,69.0,100.0,25
 2020-03-11,Nevada,Clark County,Hardware Stores,88.0,102.0,87.0,26
-2020-03-11,Nevada,Clark County,Bus,73.0,"",74.0,27
+2020-03-11,Nevada,Clark County,Bus,98.0,"",98.0,27
 2020-03-11,Nevada,Clark County,Light Rail Stations,262.0,"",263.0,28
 2020-03-11,Nevada,Clark County,Alcohol,97.0,111.0,96.0,29
-2020-03-11,Nevada,Nye County,Food,103.0,112.0,102.0,1
-2020-03-11,Nevada,Nye County,Gas Stations,91.0,"",90.0,2
-2020-03-11,Nevada,Elko County,Food,44.0,40.0,44.0,1
-2020-03-11,Nevada,Elko County,Gas Stations,121.0,"",121.0,2
-2020-03-11,Nevada,Carson City,Shops & Services,90.0,90.0,90.0,1
-2020-03-11,Nevada,Carson City,Food,38.0,32.0,39.0,2
-2020-03-11,Nevada,Washoe County,Food,42.0,40.0,42.0,1
-2020-03-11,Nevada,Washoe County,Shops & Services,74.0,66.0,74.0,2
-2020-03-11,Nevada,Washoe County,Nightlife Spots,76.0,57.0,77.0,3
-2020-03-11,Nevada,Washoe County,Medical,52.0,55.0,52.0,4
-2020-03-11,Nevada,Washoe County,Outdoors & Recreation,33.0,32.0,33.0,5
+2020-03-11,Nevada,Washoe County,Food,101.0,97.0,101.0,1
+2020-03-11,Nevada,Washoe County,Shops & Services,100.0,93.0,101.0,2
+2020-03-11,Nevada,Washoe County,Nightlife Spots,106.0,84.0,107.0,3
+2020-03-11,Nevada,Washoe County,Medical,85.0,90.0,85.0,4
+2020-03-11,Nevada,Washoe County,Outdoors & Recreation,99.0,99.0,99.0,5
 2020-03-11,Nevada,Washoe County,Grocery,101.0,96.0,102.0,6
-2020-03-11,Nevada,Washoe County,Arts & Entertainment,46.0,44.0,46.0,7
-2020-03-11,Nevada,Washoe County,Colleges & Universities,82.0,"",82.0,8
+2020-03-11,Nevada,Washoe County,Arts & Entertainment,96.0,91.0,96.0,7
+2020-03-11,Nevada,Washoe County,Colleges & Universities,89.0,"",90.0,8
 2020-03-11,Nevada,Washoe County,Gas Stations,100.0,131.0,99.0,9
-2020-03-11,Nevada,Washoe County,Hotel,63.0,59.0,64.0,10
-2020-03-11,Nevada,Washoe County,School,50.0,51.0,50.0,11
+2020-03-11,Nevada,Washoe County,Hotel,83.0,74.0,83.0,10
+2020-03-11,Nevada,Washoe County,School,98.0,101.0,98.0,11
 2020-03-11,Nevada,Washoe County,Fast Food Restaurants,101.0,88.0,102.0,12
 2020-03-11,Nevada,Washoe County,Big Box Stores,100.0,70.0,102.0,13
-2020-03-11,Nevada,Washoe County,Professional & Other Places,13.0,11.0,13.0,14
-2020-03-11,Nevada,Washoe County,Fitness Center,60.0,70.0,59.0,15
-2020-03-11,Nevada,Washoe County,Airport,56.0,"",57.0,16
+2020-03-11,Nevada,Washoe County,Professional & Other Places,86.0,78.0,86.0,14
+2020-03-11,Nevada,Washoe County,Fitness Center,93.0,112.0,92.0,15
+2020-03-11,Nevada,Washoe County,Airport,81.0,"",82.0,16
 2020-03-11,Nevada,Washoe County,Convenience Store,92.0,"",94.0,17
 2020-03-11,Nevada,Washoe County,Residences,102.0,"",104.0,18
-2020-03-11,Nevada,Washoe County,Office,83.0,"",84.0,19
+2020-03-11,Nevada,Washoe County,Office,99.0,"",101.0,19
 2020-03-11,Nevada,Washoe County,Hardware Stores,99.0,"",104.0,20
-2020-03-11,Nevada,Washoe County,Sports,25.0,33.0,25.0,21
-2020-03-11,Nevada,Storey County,Professional & Other Places,97.0,"",98.0,1
-2020-03-12,Nevada,Washoe County,Food,43.0,37.0,43.0,1
-2020-03-12,Nevada,Washoe County,Shops & Services,75.0,64.0,76.0,2
-2020-03-12,Nevada,Washoe County,Nightlife Spots,77.0,65.0,78.0,3
-2020-03-12,Nevada,Washoe County,Outdoors & Recreation,35.0,28.0,36.0,4
+2020-03-11,Nevada,Washoe County,Sports,104.0,110.0,104.0,21
+2020-03-11,Nevada,Lyon County,Food,98.0,"",98.0,1
+2020-03-11,Nevada,Lyon County,Gas Stations,115.0,"",115.0,2
+2020-03-12,Nevada,Washoe County,Food,103.0,87.0,104.0,1
+2020-03-12,Nevada,Washoe County,Shops & Services,103.0,88.0,104.0,2
+2020-03-12,Nevada,Washoe County,Nightlife Spots,107.0,95.0,108.0,3
+2020-03-12,Nevada,Washoe County,Outdoors & Recreation,104.0,91.0,105.0,4
 2020-03-12,Nevada,Washoe County,Grocery,103.0,103.0,103.0,5
-2020-03-12,Nevada,Washoe County,Arts & Entertainment,92.0,79.0,93.0,6
-2020-03-12,Nevada,Washoe County,Hotel,71.0,59.0,72.0,7
-2020-03-12,Nevada,Washoe County,Medical,54.0,40.0,55.0,8
-2020-03-12,Nevada,Washoe County,Colleges & Universities,89.0,"",89.0,9
+2020-03-12,Nevada,Washoe County,Arts & Entertainment,96.0,82.0,97.0,6
+2020-03-12,Nevada,Washoe County,Hotel,93.0,75.0,94.0,7
+2020-03-12,Nevada,Washoe County,Medical,89.0,67.0,91.0,8
+2020-03-12,Nevada,Washoe County,Colleges & Universities,97.0,"",97.0,9
 2020-03-12,Nevada,Washoe County,Gas Stations,103.0,108.0,103.0,10
-2020-03-12,Nevada,Washoe County,School,51.0,43.0,52.0,11
+2020-03-12,Nevada,Washoe County,School,101.0,86.0,102.0,11
 2020-03-12,Nevada,Washoe County,Fast Food Restaurants,87.0,"",89.0,12
 2020-03-12,Nevada,Washoe County,Big Box Stores,94.0,108.0,93.0,13
-2020-03-12,Nevada,Washoe County,Professional & Other Places,14.0,13.0,14.0,14
-2020-03-12,Nevada,Washoe County,Fitness Center,59.0,55.0,59.0,15
-2020-03-12,Nevada,Washoe County,Airport,55.0,"",56.0,16
+2020-03-12,Nevada,Washoe County,Professional & Other Places,87.0,94.0,87.0,14
+2020-03-12,Nevada,Washoe County,Fitness Center,94.0,89.0,94.0,15
 2020-03-12,Nevada,Washoe County,Residences,130.0,147.0,129.0,16
-2020-03-12,Nevada,Washoe County,Convenience Store,95.0,"",96.0,17
-2020-03-12,Nevada,Washoe County,Office,84.0,"",86.0,18
-2020-03-12,Nevada,Washoe County,Drug Store,122.0,"",122.0,19
-2020-03-12,Nevada,Washoe County,Hardware Stores,108.0,103.0,108.0,20
-2020-03-12,Nevada,Washoe County,Sports,26.0,"",26.0,21
-2020-03-12,Nevada,Lyon County,Food,43.0,"",44.0,1
+2020-03-12,Nevada,Washoe County,Airport,79.0,"",80.0,17
+2020-03-12,Nevada,Washoe County,Convenience Store,95.0,"",96.0,18
+2020-03-12,Nevada,Washoe County,Office,103.0,"",105.0,19
+2020-03-12,Nevada,Washoe County,Drug Store,122.0,"",122.0,20
+2020-03-12,Nevada,Washoe County,Hardware Stores,108.0,103.0,108.0,21
+2020-03-12,Nevada,Washoe County,Sports,102.0,"",102.0,22
+2020-03-12,Nevada,Elko County,Food,104.0,88.0,105.0,1
+2020-03-12,Nevada,Elko County,Gas Stations,105.0,"",106.0,2
+2020-03-12,Nevada,Lyon County,Food,97.0,"",99.0,1
 2020-03-12,Nevada,Lyon County,Gas Stations,117.0,"",115.0,2
-2020-03-12,Nevada,Carson City,Shops & Services,76.0,80.0,76.0,1
-2020-03-12,Nevada,Carson City,Food,45.0,38.0,45.0,2
-2020-03-12,Nevada,Clark County,Food,40.0,36.0,40.0,1
-2020-03-12,Nevada,Clark County,Arts & Entertainment,47.0,40.0,47.0,2
-2020-03-12,Nevada,Clark County,Shops & Services,29.0,27.0,29.0,3
-2020-03-12,Nevada,Clark County,Hotel,74.0,57.0,75.0,4
-2020-03-12,Nevada,Clark County,Professional & Other Places,31.0,26.0,31.0,5
-2020-03-12,Nevada,Clark County,Airport,52.0,39.0,52.0,6
-2020-03-12,Nevada,Clark County,Nightlife Spots,43.0,38.0,43.0,7
+2020-03-12,Nevada,Carson City,Shops & Services,107.0,106.0,107.0,1
+2020-03-12,Nevada,Carson City,Food,110.0,90.0,111.0,2
+2020-03-12,Nevada,Nye County,Gas Stations,107.0,"",106.0,1
+2020-03-12,Nevada,Nye County,Food,88.0,"",89.0,2
+2020-03-12,Nevada,Storey County,Professional & Other Places,93.0,"",93.0,1
+2020-03-12,Nevada,Clark County,Food,95.0,82.0,95.0,1
+2020-03-12,Nevada,Clark County,Arts & Entertainment,96.0,82.0,96.0,2
+2020-03-12,Nevada,Clark County,Shops & Services,96.0,93.0,96.0,3
+2020-03-12,Nevada,Clark County,Hotel,104.0,82.0,105.0,4
+2020-03-12,Nevada,Clark County,Professional & Other Places,129.0,116.0,129.0,5
+2020-03-12,Nevada,Clark County,Airport,88.0,66.0,89.0,6
+2020-03-12,Nevada,Clark County,Nightlife Spots,100.0,90.0,101.0,7
 2020-03-12,Nevada,Clark County,Grocery,120.0,117.0,120.0,8
-2020-03-12,Nevada,Clark County,Outdoors & Recreation,36.0,33.0,36.0,9
+2020-03-12,Nevada,Clark County,Outdoors & Recreation,103.0,96.0,103.0,9
 2020-03-12,Nevada,Clark County,Fast Food Restaurants,99.0,91.0,99.0,10
-2020-03-12,Nevada,Clark County,Medical,52.0,42.0,53.0,11
-2020-03-12,Nevada,Clark County,School,52.0,50.0,52.0,12
+2020-03-12,Nevada,Clark County,Medical,95.0,78.0,96.0,11
+2020-03-12,Nevada,Clark County,School,96.0,93.0,96.0,12
 2020-03-12,Nevada,Clark County,Gas Stations,103.0,100.0,103.0,13
 2020-03-12,Nevada,Clark County,Convenience Store,98.0,97.0,98.0,14
 2020-03-12,Nevada,Clark County,Residences,113.0,105.0,113.0,15
 2020-03-12,Nevada,Clark County,Big Box Stores,111.0,104.0,111.0,16
-2020-03-12,Nevada,Clark County,Office,76.0,75.0,76.0,17
+2020-03-12,Nevada,Clark County,Office,96.0,100.0,96.0,17
 2020-03-12,Nevada,Clark County,Drug Store,107.0,108.0,107.0,18
-2020-03-12,Nevada,Clark County,Fitness Center,56.0,55.0,56.0,19
-2020-03-12,Nevada,Clark County,Travel & Transport,8.0,8.0,8.0,20
-2020-03-12,Nevada,Clark County,Government,66.0,65.0,66.0,21
-2020-03-12,Nevada,Clark County,Sports,31.0,37.0,30.0,21
-2020-03-12,Nevada,Clark County,Colleges & Universities,39.0,37.0,39.0,22
-2020-03-12,Nevada,Clark County,Banks,102.0,80.0,103.0,23
-2020-03-12,Nevada,Clark County,Discount Stores,113.0,91.0,114.0,24
-2020-03-12,Nevada,Clark County,Hardware Stores,103.0,86.0,105.0,25
-2020-03-12,Nevada,Clark County,Alcohol,105.0,101.0,106.0,26
-2020-03-12,Nevada,Clark County,Bus,64.0,"",63.0,27
-2020-03-12,Nevada,Clark County,Light Rail Stations,197.0,"",198.0,28
-2020-03-12,Nevada,Elko County,Food,47.0,41.0,48.0,1
-2020-03-12,Nevada,Elko County,Gas Stations,105.0,"",106.0,2
-2020-03-12,Nevada,Douglas County,Food,100.0,87.0,101.0,1
-2020-03-12,Nevada,Nye County,Gas Stations,107.0,"",106.0,1
-2020-03-12,Nevada,Nye County,Food,88.0,"",89.0,2
-2020-03-12,Nevada,Storey County,Professional & Other Places,93.0,"",93.0,1
-2020-03-13,Nevada,Carson City,Shops & Services,86.0,75.0,87.0,1
-2020-03-13,Nevada,Carson City,Food,48.0,36.0,49.0,2
-2020-03-13,Nevada,Carson City,Grocery,144.0,"",148.0,3
-2020-03-13,Nevada,Nye County,Food,48.0,39.0,48.0,1
-2020-03-13,Nevada,Nye County,Gas Stations,87.0,"",87.0,2
-2020-03-13,Nevada,Washoe County,Food,42.0,39.0,42.0,1
-2020-03-13,Nevada,Washoe County,Shops & Services,78.0,71.0,79.0,2
+2020-03-12,Nevada,Clark County,Fitness Center,87.0,86.0,87.0,19
+2020-03-12,Nevada,Clark County,Travel & Transport,111.0,91.0,112.0,20
+2020-03-12,Nevada,Clark County,Sports,110.0,101.0,111.0,21
+2020-03-12,Nevada,Clark County,Government,102.0,101.0,102.0,22
+2020-03-12,Nevada,Clark County,Colleges & Universities,82.0,77.0,82.0,23
+2020-03-12,Nevada,Clark County,Banks,102.0,80.0,103.0,24
+2020-03-12,Nevada,Clark County,Discount Stores,113.0,91.0,114.0,25
+2020-03-12,Nevada,Clark County,Hardware Stores,103.0,86.0,105.0,26
+2020-03-12,Nevada,Clark County,Alcohol,105.0,101.0,106.0,27
+2020-03-12,Nevada,Clark County,Bus,87.0,"",86.0,28
+2020-03-12,Nevada,Clark County,Light Rail Stations,197.0,"",198.0,29
+2020-03-12,Nevada,Douglas County,Food,109.0,97.0,110.0,1
+2020-03-13,Nevada,Washoe County,Food,100.0,92.0,101.0,1
+2020-03-13,Nevada,Washoe County,Shops & Services,107.0,101.0,107.0,2
 2020-03-13,Nevada,Washoe County,Grocery,133.0,129.0,133.0,3
-2020-03-13,Nevada,Washoe County,Nightlife Spots,75.0,61.0,76.0,4
-2020-03-13,Nevada,Washoe County,Arts & Entertainment,90.0,75.0,91.0,5
-2020-03-13,Nevada,Washoe County,Outdoors & Recreation,35.0,33.0,35.0,6
-2020-03-13,Nevada,Washoe County,Hotel,66.0,64.0,67.0,7
-2020-03-13,Nevada,Washoe County,Medical,58.0,57.0,58.0,8
+2020-03-13,Nevada,Washoe County,Nightlife Spots,104.0,88.0,105.0,4
+2020-03-13,Nevada,Washoe County,Arts & Entertainment,95.0,79.0,96.0,5
+2020-03-13,Nevada,Washoe County,Outdoors & Recreation,102.0,106.0,102.0,6
+2020-03-13,Nevada,Washoe County,Hotel,87.0,80.0,87.0,7
+2020-03-13,Nevada,Washoe County,Medical,96.0,98.0,96.0,8
 2020-03-13,Nevada,Washoe County,Big Box Stores,115.0,97.0,116.0,9
 2020-03-13,Nevada,Washoe County,Gas Stations,100.0,111.0,99.0,10
 2020-03-13,Nevada,Washoe County,Fast Food Restaurants,100.0,107.0,99.0,11
-2020-03-13,Nevada,Washoe County,School,47.0,43.0,47.0,12
-2020-03-13,Nevada,Washoe County,Colleges & Universities,71.0,"",71.0,13
-2020-03-13,Nevada,Washoe County,Professional & Other Places,14.0,13.0,14.0,14
-2020-03-13,Nevada,Washoe County,Airport,57.0,"",58.0,15
+2020-03-13,Nevada,Washoe County,School,93.0,85.0,93.0,12
+2020-03-13,Nevada,Washoe County,Colleges & Universities,77.0,"",78.0,13
+2020-03-13,Nevada,Washoe County,Professional & Other Places,88.0,87.0,88.0,14
+2020-03-13,Nevada,Washoe County,Airport,84.0,"",85.0,15
 2020-03-13,Nevada,Washoe County,Convenience Store,94.0,"",95.0,16
-2020-03-13,Nevada,Washoe County,Fitness Center,55.0,46.0,55.0,17
+2020-03-13,Nevada,Washoe County,Fitness Center,87.0,74.0,88.0,17
 2020-03-13,Nevada,Washoe County,Residences,111.0,118.0,110.0,18
-2020-03-13,Nevada,Washoe County,Office,83.0,"",85.0,19
+2020-03-13,Nevada,Washoe County,Office,101.0,"",104.0,19
 2020-03-13,Nevada,Washoe County,Hardware Stores,112.0,"",115.0,20
 2020-03-13,Nevada,Washoe County,Drug Store,115.0,"",116.0,21
-2020-03-13,Nevada,Washoe County,Sports,26.0,31.0,26.0,22
+2020-03-13,Nevada,Washoe County,Sports,99.0,104.0,99.0,22
 2020-03-13,Nevada,Washoe County,Banks,93.0,"",92.0,23
-2020-03-13,Nevada,Clark County,Food,37.0,32.0,37.0,1
-2020-03-13,Nevada,Clark County,Arts & Entertainment,39.0,32.0,39.0,2
-2020-03-13,Nevada,Clark County,Shops & Services,28.0,25.0,28.0,3
-2020-03-13,Nevada,Clark County,Hotel,64.0,50.0,64.0,4
+2020-03-13,Nevada,Clark County,Food,87.0,74.0,87.0,1
+2020-03-13,Nevada,Clark County,Arts & Entertainment,79.0,66.0,80.0,2
+2020-03-13,Nevada,Clark County,Shops & Services,93.0,86.0,93.0,3
+2020-03-13,Nevada,Clark County,Hotel,89.0,71.0,89.0,4
 2020-03-13,Nevada,Clark County,Grocery,138.0,138.0,138.0,5
-2020-03-13,Nevada,Clark County,Airport,47.0,44.0,47.0,6
-2020-03-13,Nevada,Clark County,Professional & Other Places,26.0,22.0,26.0,7
-2020-03-13,Nevada,Clark County,Nightlife Spots,36.0,30.0,36.0,8
+2020-03-13,Nevada,Clark County,Airport,79.0,74.0,79.0,6
+2020-03-13,Nevada,Clark County,Professional & Other Places,108.0,93.0,108.0,7
+2020-03-13,Nevada,Clark County,Nightlife Spots,85.0,71.0,85.0,8
 2020-03-13,Nevada,Clark County,Fast Food Restaurants,98.0,82.0,98.0,9
-2020-03-13,Nevada,Clark County,Outdoors & Recreation,27.0,24.0,27.0,10
-2020-03-13,Nevada,Clark County,Medical,50.0,47.0,50.0,11
+2020-03-13,Nevada,Clark County,Outdoors & Recreation,77.0,70.0,78.0,10
+2020-03-13,Nevada,Clark County,Medical,92.0,87.0,92.0,11
 2020-03-13,Nevada,Clark County,Gas Stations,102.0,92.0,103.0,12
-2020-03-13,Nevada,Clark County,School,47.0,42.0,47.0,13
+2020-03-13,Nevada,Clark County,School,87.0,78.0,87.0,13
 2020-03-13,Nevada,Clark County,Convenience Store,93.0,81.0,94.0,14
 2020-03-13,Nevada,Clark County,Big Box Stores,116.0,100.0,117.0,15
 2020-03-13,Nevada,Clark County,Residences,100.0,88.0,101.0,16
 2020-03-13,Nevada,Clark County,Drug Store,110.0,110.0,110.0,17
-2020-03-13,Nevada,Clark County,Office,72.0,51.0,73.0,18
-2020-03-13,Nevada,Clark County,Fitness Center,54.0,45.0,54.0,19
-2020-03-13,Nevada,Clark County,Travel & Transport,7.0,8.0,7.0,20
+2020-03-13,Nevada,Clark County,Office,90.0,68.0,90.0,18
+2020-03-13,Nevada,Clark County,Fitness Center,84.0,69.0,85.0,19
+2020-03-13,Nevada,Clark County,Travel & Transport,87.0,83.0,87.0,20
 2020-03-13,Nevada,Clark County,Banks,98.0,76.0,99.0,21
 2020-03-13,Nevada,Clark County,Discount Stores,114.0,97.0,114.0,22
-2020-03-13,Nevada,Clark County,Government,59.0,36.0,60.0,23
-2020-03-13,Nevada,Clark County,Sports,24.0,27.0,24.0,24
+2020-03-13,Nevada,Clark County,Government,94.0,58.0,95.0,23
+2020-03-13,Nevada,Clark County,Sports,84.0,76.0,84.0,24
 2020-03-13,Nevada,Clark County,Hardware Stores,114.0,87.0,115.0,25
-2020-03-13,Nevada,Clark County,Colleges & Universities,37.0,41.0,37.0,26
+2020-03-13,Nevada,Clark County,Colleges & Universities,78.0,89.0,78.0,26
 2020-03-13,Nevada,Clark County,Alcohol,104.0,97.0,104.0,27
-2020-03-13,Nevada,Clark County,Bus,58.0,"",58.0,28
+2020-03-13,Nevada,Clark County,Bus,78.0,"",79.0,28
 2020-03-13,Nevada,Clark County,Light Rail Stations,142.0,"",143.0,29
-2020-03-13,Nevada,Storey County,Professional & Other Places,87.0,"",88.0,1
-2020-03-13,Nevada,Lyon County,Food,45.0,"",45.0,1
-2020-03-13,Nevada,Lyon County,Gas Stations,110.0,"",110.0,2
-2020-03-13,Nevada,Elko County,Food,43.0,34.0,43.0,1
-2020-03-13,Nevada,Elko County,Gas Stations,108.0,"",108.0,2
-2020-03-13,Nevada,Elko County,Arts & Entertainment,82.0,"",84.0,3
-2020-03-13,Nevada,Douglas County,Food,49.0,46.0,49.0,1
-2020-03-13,Nevada,Douglas County,Arts & Entertainment,49.0,"",49.0,2
-2020-03-13,Nevada,Douglas County,Shops & Services,80.0,"",81.0,3
+2020-03-13,Nevada,Douglas County,Food,108.0,105.0,108.0,1
+2020-03-13,Nevada,Douglas County,Arts & Entertainment,98.0,"",99.0,2
+2020-03-13,Nevada,Douglas County,Shops & Services,150.0,"",147.0,3
 2020-03-13,Nevada,Douglas County,Big Box Stores,157.0,"",159.0,4
-2020-03-14,Nevada,Carson City,Shops & Services,63.0,65.0,63.0,1
-2020-03-14,Nevada,Carson City,Food,36.0,"",36.0,2
-2020-03-14,Nevada,Carson City,Grocery,117.0,"",116.0,3
-2020-03-14,Nevada,Elko County,Food,43.0,34.0,43.0,1
-2020-03-14,Nevada,Elko County,Arts & Entertainment,80.0,"",81.0,2
-2020-03-14,Nevada,Elko County,Gas Stations,96.0,"",94.0,3
-2020-03-14,Nevada,Clark County,Food,34.0,30.0,34.0,1
-2020-03-14,Nevada,Clark County,Arts & Entertainment,37.0,31.0,37.0,2
-2020-03-14,Nevada,Clark County,Shops & Services,28.0,24.0,28.0,3
+2020-03-13,Nevada,Carson City,Shops & Services,120.0,103.0,121.0,1
+2020-03-13,Nevada,Carson City,Food,118.0,86.0,121.0,2
+2020-03-13,Nevada,Carson City,Grocery,144.0,"",148.0,3
+2020-03-13,Nevada,Nye County,Food,112.0,89.0,113.0,1
+2020-03-13,Nevada,Nye County,Gas Stations,87.0,"",87.0,2
+2020-03-13,Nevada,Storey County,Professional & Other Places,87.0,"",88.0,1
+2020-03-13,Nevada,Lyon County,Food,101.0,"",101.0,1
+2020-03-13,Nevada,Lyon County,Gas Stations,110.0,"",110.0,2
+2020-03-13,Nevada,Elko County,Food,94.0,75.0,95.0,1
+2020-03-13,Nevada,Elko County,Gas Stations,108.0,"",108.0,2
+2020-03-13,Nevada,Elko County,Arts & Entertainment,83.0,"",85.0,3
+2020-03-14,Nevada,Clark County,Food,80.0,70.0,80.0,1
+2020-03-14,Nevada,Clark County,Arts & Entertainment,75.0,64.0,75.0,2
+2020-03-14,Nevada,Clark County,Shops & Services,90.0,84.0,90.0,3
 2020-03-14,Nevada,Clark County,Grocery,153.0,134.0,154.0,4
-2020-03-14,Nevada,Clark County,Hotel,55.0,42.0,55.0,5
-2020-03-14,Nevada,Clark County,Nightlife Spots,34.0,29.0,34.0,6
-2020-03-14,Nevada,Clark County,Airport,51.0,46.0,52.0,7
-2020-03-14,Nevada,Clark County,Outdoors & Recreation,31.0,25.0,31.0,8
-2020-03-14,Nevada,Clark County,Professional & Other Places,23.0,20.0,23.0,9
+2020-03-14,Nevada,Clark County,Hotel,77.0,61.0,77.0,5
+2020-03-14,Nevada,Clark County,Nightlife Spots,79.0,69.0,80.0,6
+2020-03-14,Nevada,Clark County,Airport,87.0,79.0,87.0,7
+2020-03-14,Nevada,Clark County,Outdoors & Recreation,86.0,72.0,86.0,8
+2020-03-14,Nevada,Clark County,Professional & Other Places,78.0,72.0,78.0,9
 2020-03-14,Nevada,Clark County,Fast Food Restaurants,90.0,82.0,91.0,10
 2020-03-14,Nevada,Clark County,Big Box Stores,126.0,106.0,127.0,11
 2020-03-14,Nevada,Clark County,Gas Stations,100.0,92.0,100.0,12
 2020-03-14,Nevada,Clark County,Convenience Store,91.0,84.0,91.0,13
 2020-03-14,Nevada,Clark County,Residences,102.0,96.0,102.0,14
 2020-03-14,Nevada,Clark County,Drug Store,123.0,106.0,124.0,15
-2020-03-14,Nevada,Clark County,Medical,51.0,43.0,52.0,16
-2020-03-14,Nevada,Clark County,Travel & Transport,7.0,8.0,6.0,17
-2020-03-14,Nevada,Clark County,Fitness Center,52.0,41.0,52.0,18
-2020-03-14,Nevada,Clark County,School,42.0,40.0,42.0,19
+2020-03-14,Nevada,Clark County,Medical,94.0,78.0,94.0,16
+2020-03-14,Nevada,Clark County,Travel & Transport,93.0,95.0,93.0,17
+2020-03-14,Nevada,Clark County,Fitness Center,81.0,65.0,81.0,18
+2020-03-14,Nevada,Clark County,School,77.0,73.0,77.0,19
 2020-03-14,Nevada,Clark County,Discount Stores,145.0,114.0,146.0,20
 2020-03-14,Nevada,Clark County,Hardware Stores,126.0,91.0,128.0,21
-2020-03-14,Nevada,Clark County,Sports,25.0,32.0,24.0,22
+2020-03-14,Nevada,Clark County,Sports,83.0,87.0,82.0,22
 2020-03-14,Nevada,Clark County,Banks,74.0,63.0,74.0,23
-2020-03-14,Nevada,Clark County,Office,61.0,60.0,61.0,24
-2020-03-14,Nevada,Clark County,Government,52.0,45.0,52.0,25
+2020-03-14,Nevada,Clark County,Office,81.0,83.0,81.0,24
+2020-03-14,Nevada,Clark County,Government,88.0,74.0,88.0,25
 2020-03-14,Nevada,Clark County,Alcohol,100.0,"",101.0,26
-2020-03-14,Nevada,Clark County,Bus,72.0,"",72.0,27
-2020-03-14,Nevada,Clark County,Colleges & Universities,54.0,"",54.0,28
+2020-03-14,Nevada,Clark County,Bus,97.0,"",98.0,27
+2020-03-14,Nevada,Clark County,Colleges & Universities,59.0,"",60.0,28
 2020-03-14,Nevada,Clark County,Light Rail Stations,96.0,"",97.0,29
-2020-03-14,Nevada,Douglas County,Food,87.0,73.0,88.0,1
-2020-03-14,Nevada,Douglas County,Arts & Entertainment,47.0,"",47.0,2
-2020-03-14,Nevada,Douglas County,Big Box Stores,114.0,"",113.0,3
-2020-03-14,Nevada,Douglas County,Hotel,63.0,"",64.0,3
-2020-03-14,Nevada,Washoe County,Food,34.0,29.0,35.0,1
-2020-03-14,Nevada,Washoe County,Shops & Services,62.0,47.0,63.0,2
+2020-03-14,Nevada,Carson City,Shops & Services,94.0,95.0,93.0,1
+2020-03-14,Nevada,Carson City,Food,86.0,"",87.0,2
+2020-03-14,Nevada,Carson City,Grocery,117.0,"",116.0,3
+2020-03-14,Nevada,Elko County,Food,93.0,73.0,94.0,1
+2020-03-14,Nevada,Elko County,Arts & Entertainment,81.0,"",82.0,2
+2020-03-14,Nevada,Elko County,Gas Stations,96.0,"",94.0,3
+2020-03-14,Nevada,Washoe County,Food,82.0,67.0,82.0,1
+2020-03-14,Nevada,Washoe County,Shops & Services,87.0,71.0,88.0,2
 2020-03-14,Nevada,Washoe County,Grocery,116.0,107.0,117.0,3
-2020-03-14,Nevada,Washoe County,Nightlife Spots,60.0,51.0,60.0,4
-2020-03-14,Nevada,Washoe County,Arts & Entertainment,75.0,54.0,76.0,5
-2020-03-14,Nevada,Washoe County,Hotel,55.0,43.0,56.0,6
+2020-03-14,Nevada,Washoe County,Nightlife Spots,84.0,75.0,84.0,4
+2020-03-14,Nevada,Washoe County,Arts & Entertainment,78.0,55.0,79.0,5
+2020-03-14,Nevada,Washoe County,Hotel,71.0,54.0,72.0,6
 2020-03-14,Nevada,Washoe County,Big Box Stores,112.0,80.0,113.0,7
-2020-03-14,Nevada,Washoe County,Outdoors & Recreation,23.0,22.0,23.0,8
+2020-03-14,Nevada,Washoe County,Outdoors & Recreation,65.0,63.0,65.0,8
 2020-03-14,Nevada,Washoe County,Gas Stations,91.0,86.0,91.0,9
 2020-03-14,Nevada,Washoe County,Fast Food Restaurants,87.0,80.0,88.0,10
-2020-03-14,Nevada,Washoe County,Airport,70.0,"",71.0,11
+2020-03-14,Nevada,Washoe County,Airport,101.0,"",102.0,11
 2020-03-14,Nevada,Washoe County,Convenience Store,78.0,"",78.0,12
-2020-03-14,Nevada,Washoe County,School,42.0,"",43.0,13
-2020-03-14,Nevada,Washoe County,Professional & Other Places,13.0,"",13.0,14
+2020-03-14,Nevada,Washoe County,School,84.0,"",85.0,13
 2020-03-14,Nevada,Washoe County,Residences,100.0,"",101.0,14
-2020-03-14,Nevada,Washoe County,Medical,43.0,"",44.0,14
-2020-03-14,Nevada,Washoe County,Fitness Center,55.0,"",56.0,15
-2020-03-14,Nevada,Washoe County,Hardware Stores,98.0,"",100.0,16
-2020-03-14,Nevada,Washoe County,Drug Store,106.0,"",106.0,17
-2020-03-14,Nevada,Lyon County,Food,47.0,"",47.0,1
+2020-03-14,Nevada,Washoe County,Medical,71.0,"",72.0,15
+2020-03-14,Nevada,Washoe County,Professional & Other Places,67.0,"",68.0,16
+2020-03-14,Nevada,Washoe County,Fitness Center,88.0,"",89.0,17
+2020-03-14,Nevada,Washoe County,Hardware Stores,98.0,"",100.0,18
+2020-03-14,Nevada,Washoe County,Drug Store,106.0,"",106.0,19
+2020-03-14,Nevada,Lyon County,Food,106.0,"",106.0,1
 2020-03-14,Nevada,Lyon County,Gas Stations,114.0,"",114.0,2
 2020-03-14,Nevada,Nye County,Gas Stations,116.0,"",116.0,1
 2020-03-14,Nevada,Nye County,Food,92.0,"",91.0,2
-2020-03-15,Nevada,Clark County,Food,31.0,28.0,31.0,1
-2020-03-15,Nevada,Clark County,Arts & Entertainment,30.0,25.0,30.0,2
-2020-03-15,Nevada,Clark County,Shops & Services,24.0,21.0,24.0,3
+2020-03-14,Nevada,Douglas County,Food,93.0,79.0,94.0,1
+2020-03-14,Nevada,Douglas County,Arts & Entertainment,95.0,"",94.0,2
+2020-03-14,Nevada,Douglas County,Big Box Stores,114.0,"",113.0,3
+2020-03-14,Nevada,Douglas County,Hotel,85.0,"",85.0,4
+2020-03-15,Nevada,Carson City,Shops & Services,101.0,"",104.0,1
+2020-03-15,Nevada,Carson City,Food,81.0,"",83.0,2
+2020-03-15,Nevada,Elko County,Food,91.0,"",91.0,1
+2020-03-15,Nevada,Elko County,Arts & Entertainment,87.0,"",88.0,2
+2020-03-15,Nevada,Elko County,Gas Stations,113.0,"",113.0,3
+2020-03-15,Nevada,Lyon County,Food,100.0,"",101.0,1
+2020-03-15,Nevada,Nye County,Gas Stations,89.0,"",89.0,1
+2020-03-15,Nevada,Washoe County,Food,69.0,61.0,69.0,1
+2020-03-15,Nevada,Washoe County,Shops & Services,78.0,61.0,79.0,2
+2020-03-15,Nevada,Washoe County,Nightlife Spots,75.0,52.0,76.0,3
+2020-03-15,Nevada,Washoe County,Grocery,88.0,86.0,88.0,4
+2020-03-15,Nevada,Washoe County,Arts & Entertainment,53.0,42.0,54.0,5
+2020-03-15,Nevada,Washoe County,Hotel,57.0,52.0,57.0,6
+2020-03-15,Nevada,Washoe County,Outdoors & Recreation,71.0,65.0,71.0,7
+2020-03-15,Nevada,Washoe County,Big Box Stores,87.0,72.0,87.0,8
+2020-03-15,Nevada,Washoe County,Gas Stations,90.0,96.0,90.0,9
+2020-03-15,Nevada,Washoe County,Airport,107.0,"",109.0,10
+2020-03-15,Nevada,Washoe County,Fast Food Restaurants,71.0,"",71.0,11
+2020-03-15,Nevada,Washoe County,Convenience Store,94.0,"",94.0,12
+2020-03-15,Nevada,Washoe County,Residences,91.0,"",91.0,13
+2020-03-15,Nevada,Washoe County,Professional & Other Places,78.0,"",79.0,14
+2020-03-15,Nevada,Washoe County,School,81.0,"",83.0,15
+2020-03-15,Nevada,Washoe County,Medical,75.0,"",77.0,16
+2020-03-15,Nevada,Washoe County,Drug Store,105.0,"",103.0,17
+2020-03-15,Nevada,Washoe County,Fitness Center,76.0,"",77.0,18
+2020-03-15,Nevada,Washoe County,Hardware Stores,90.0,"",92.0,19
+2020-03-15,Nevada,Douglas County,Arts & Entertainment,70.0,"",70.0,1
+2020-03-15,Nevada,Douglas County,Food,61.0,"",61.0,2
+2020-03-15,Nevada,Clark County,Food,73.0,64.0,73.0,1
+2020-03-15,Nevada,Clark County,Arts & Entertainment,62.0,52.0,62.0,2
+2020-03-15,Nevada,Clark County,Shops & Services,80.0,75.0,80.0,3
 2020-03-15,Nevada,Clark County,Grocery,125.0,114.0,125.0,4
-2020-03-15,Nevada,Clark County,Hotel,44.0,35.0,44.0,5
-2020-03-15,Nevada,Clark County,Nightlife Spots,30.0,25.0,30.0,6
-2020-03-15,Nevada,Clark County,Airport,44.0,39.0,44.0,7
-2020-03-15,Nevada,Clark County,Outdoors & Recreation,32.0,29.0,32.0,8
-2020-03-15,Nevada,Clark County,Professional & Other Places,20.0,19.0,21.0,9
+2020-03-15,Nevada,Clark County,Hotel,61.0,51.0,62.0,5
+2020-03-15,Nevada,Clark County,Nightlife Spots,69.0,60.0,70.0,6
+2020-03-15,Nevada,Clark County,Airport,75.0,66.0,75.0,7
+2020-03-15,Nevada,Clark County,Outdoors & Recreation,87.0,82.0,87.0,8
+2020-03-15,Nevada,Clark County,Professional & Other Places,69.0,71.0,69.0,9
 2020-03-15,Nevada,Clark County,Fast Food Restaurants,84.0,81.0,84.0,10
 2020-03-15,Nevada,Clark County,Big Box Stores,110.0,98.0,110.0,11
 2020-03-15,Nevada,Clark County,Gas Stations,99.0,94.0,99.0,12
 2020-03-15,Nevada,Clark County,Convenience Store,91.0,77.0,91.0,13
 2020-03-15,Nevada,Clark County,Residences,93.0,90.0,94.0,14
 2020-03-15,Nevada,Clark County,Drug Store,116.0,122.0,116.0,15
-2020-03-15,Nevada,Clark County,Medical,51.0,48.0,52.0,16
-2020-03-15,Nevada,Clark County,Travel & Transport,5.0,5.0,5.0,17
-2020-03-15,Nevada,Clark County,School,44.0,48.0,44.0,18
+2020-03-15,Nevada,Clark County,Medical,94.0,87.0,94.0,16
+2020-03-15,Nevada,Clark County,Travel & Transport,84.0,66.0,85.0,17
+2020-03-15,Nevada,Clark County,School,81.0,90.0,81.0,18
 2020-03-15,Nevada,Clark County,Discount Stores,115.0,91.0,116.0,19
-2020-03-15,Nevada,Clark County,Fitness Center,52.0,47.0,52.0,20
+2020-03-15,Nevada,Clark County,Fitness Center,80.0,71.0,80.0,20
 2020-03-15,Nevada,Clark County,Hardware Stores,117.0,111.0,117.0,21
-2020-03-15,Nevada,Clark County,Sports,25.0,34.0,24.0,22
-2020-03-15,Nevada,Clark County,Office,55.0,50.0,55.0,23
-2020-03-15,Nevada,Clark County,Government,45.0,"",45.0,24
+2020-03-15,Nevada,Clark County,Sports,77.0,88.0,77.0,22
+2020-03-15,Nevada,Clark County,Office,75.0,74.0,75.0,23
+2020-03-15,Nevada,Clark County,Government,82.0,"",82.0,24
 2020-03-15,Nevada,Clark County,Banks,75.0,"",75.0,25
 2020-03-15,Nevada,Clark County,Alcohol,94.0,"",94.0,26
-2020-03-15,Nevada,Clark County,Bus,65.0,"",66.0,27
-2020-03-15,Nevada,Clark County,Colleges & Universities,68.0,"",69.0,28
-2020-03-15,Nevada,Lyon County,Food,45.0,"",45.0,1
-2020-03-15,Nevada,Douglas County,Arts & Entertainment,70.0,"",70.0,1
-2020-03-15,Nevada,Douglas County,Food,60.0,"",61.0,2
-2020-03-15,Nevada,Carson City,Shops & Services,65.0,"",67.0,1
-2020-03-15,Nevada,Carson City,Food,33.0,"",34.0,2
-2020-03-15,Nevada,Nye County,Gas Stations,89.0,"",89.0,1
-2020-03-15,Nevada,Elko County,Food,43.0,"",43.0,1
-2020-03-15,Nevada,Elko County,Arts & Entertainment,86.0,"",87.0,2
-2020-03-15,Nevada,Elko County,Gas Stations,113.0,"",113.0,3
-2020-03-15,Nevada,Washoe County,Food,29.0,27.0,29.0,1
-2020-03-15,Nevada,Washoe County,Shops & Services,52.0,38.0,53.0,2
-2020-03-15,Nevada,Washoe County,Nightlife Spots,55.0,36.0,55.0,3
-2020-03-15,Nevada,Washoe County,Grocery,88.0,86.0,88.0,4
-2020-03-15,Nevada,Washoe County,Arts & Entertainment,52.0,41.0,52.0,5
-2020-03-15,Nevada,Washoe County,Hotel,44.0,40.0,44.0,6
-2020-03-15,Nevada,Washoe County,Outdoors & Recreation,26.0,23.0,26.0,7
-2020-03-15,Nevada,Washoe County,Big Box Stores,87.0,72.0,87.0,8
-2020-03-15,Nevada,Washoe County,Gas Stations,90.0,96.0,90.0,9
-2020-03-15,Nevada,Washoe County,Airport,73.0,"",74.0,10
-2020-03-15,Nevada,Washoe County,Fast Food Restaurants,71.0,"",71.0,11
-2020-03-15,Nevada,Washoe County,Convenience Store,94.0,"",94.0,12
-2020-03-15,Nevada,Washoe County,Residences,91.0,"",91.0,13
-2020-03-15,Nevada,Washoe County,Professional & Other Places,72.0,"",73.0,14
-2020-03-15,Nevada,Washoe County,School,41.0,"",42.0,15
-2020-03-15,Nevada,Washoe County,Medical,46.0,"",47.0,16
-2020-03-15,Nevada,Washoe County,Fitness Center,47.0,"",48.0,17
-2020-03-15,Nevada,Washoe County,Drug Store,105.0,"",103.0,17
-2020-03-15,Nevada,Washoe County,Hardware Stores,90.0,"",92.0,18
-2020-03-16,Nevada,Clark County,Food,31.0,27.0,32.0,1
-2020-03-16,Nevada,Clark County,Shops & Services,27.0,24.0,27.0,2
-2020-03-16,Nevada,Clark County,Arts & Entertainment,30.0,24.0,30.0,3
+2020-03-15,Nevada,Clark County,Bus,90.0,"",91.0,27
+2020-03-15,Nevada,Clark County,Colleges & Universities,77.0,"",77.0,28
+2020-03-16,Nevada,Clark County,Food,74.0,63.0,75.0,1
+2020-03-16,Nevada,Clark County,Shops & Services,89.0,84.0,89.0,2
+2020-03-16,Nevada,Clark County,Arts & Entertainment,61.0,50.0,61.0,3
 2020-03-16,Nevada,Clark County,Grocery,160.0,163.0,160.0,4
-2020-03-16,Nevada,Clark County,Airport,37.0,34.0,37.0,5
-2020-03-16,Nevada,Clark County,Hotel,44.0,34.0,44.0,6
-2020-03-16,Nevada,Clark County,Nightlife Spots,30.0,23.0,30.0,7
-2020-03-16,Nevada,Clark County,Outdoors & Recreation,31.0,28.0,31.0,8
-2020-03-16,Nevada,Clark County,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-16,Nevada,Clark County,Airport,63.0,58.0,63.0,5
+2020-03-16,Nevada,Clark County,Hotel,61.0,49.0,62.0,6
+2020-03-16,Nevada,Clark County,Nightlife Spots,69.0,55.0,70.0,7
+2020-03-16,Nevada,Clark County,Outdoors & Recreation,87.0,80.0,87.0,8
+2020-03-16,Nevada,Clark County,Professional & Other Places,68.0,65.0,68.0,9
 2020-03-16,Nevada,Clark County,Fast Food Restaurants,95.0,87.0,95.0,10
 2020-03-16,Nevada,Clark County,Gas Stations,106.0,112.0,105.0,11
-2020-03-16,Nevada,Clark County,Medical,53.0,44.0,53.0,12
+2020-03-16,Nevada,Clark County,Medical,96.0,82.0,97.0,12
 2020-03-16,Nevada,Clark County,Big Box Stores,139.0,129.0,139.0,13
 2020-03-16,Nevada,Clark County,Convenience Store,95.0,87.0,95.0,14
 2020-03-16,Nevada,Clark County,Residences,100.0,89.0,100.0,15
 2020-03-16,Nevada,Clark County,Drug Store,146.0,139.0,147.0,16
-2020-03-16,Nevada,Clark County,Office,71.0,77.0,71.0,17
-2020-03-16,Nevada,Clark County,School,24.0,24.0,24.0,18
-2020-03-16,Nevada,Clark County,Fitness Center,48.0,42.0,49.0,19
-2020-03-16,Nevada,Clark County,Travel & Transport,5.0,6.0,5.0,20
+2020-03-16,Nevada,Clark County,Office,89.0,103.0,89.0,17
+2020-03-16,Nevada,Clark County,School,45.0,45.0,45.0,18
+2020-03-16,Nevada,Clark County,Fitness Center,76.0,63.0,76.0,19
+2020-03-16,Nevada,Clark County,Travel & Transport,76.0,70.0,77.0,20
 2020-03-16,Nevada,Clark County,Discount Stores,144.0,122.0,145.0,21
 2020-03-16,Nevada,Clark County,Banks,116.0,118.0,116.0,22
 2020-03-16,Nevada,Clark County,Hardware Stores,122.0,90.0,124.0,23
-2020-03-16,Nevada,Clark County,Government,59.0,46.0,59.0,24
-2020-03-16,Nevada,Clark County,Sports,23.0,31.0,22.0,25
-2020-03-16,Nevada,Clark County,Colleges & Universities,26.0,"",26.0,26
+2020-03-16,Nevada,Clark County,Government,94.0,71.0,95.0,24
+2020-03-16,Nevada,Clark County,Sports,80.0,86.0,80.0,25
+2020-03-16,Nevada,Clark County,Colleges & Universities,54.0,"",54.0,26
 2020-03-16,Nevada,Clark County,Alcohol,121.0,156.0,119.0,27
-2020-03-16,Nevada,Clark County,Bus,63.0,"",63.0,28
-2020-03-16,Nevada,Elko County,Food,38.0,"",38.0,1
+2020-03-16,Nevada,Clark County,Bus,87.0,"",87.0,28
+2020-03-16,Nevada,Elko County,Food,83.0,"",84.0,1
 2020-03-16,Nevada,Elko County,Gas Stations,103.0,"",102.0,2
-2020-03-16,Nevada,Douglas County,Food,36.0,40.0,35.0,1
-2020-03-16,Nevada,Douglas County,Arts & Entertainment,62.0,"",61.0,2
-2020-03-16,Nevada,Lyon County,Food,53.0,"",54.0,1
-2020-03-16,Nevada,Washoe County,Food,32.0,29.0,32.0,1
-2020-03-16,Nevada,Washoe County,Shops & Services,69.0,54.0,70.0,2
-2020-03-16,Nevada,Washoe County,Grocery,143.0,157.0,142.0,3
-2020-03-16,Nevada,Washoe County,Nightlife Spots,61.0,47.0,61.0,4
-2020-03-16,Nevada,Washoe County,Arts & Entertainment,75.0,63.0,76.0,5
-2020-03-16,Nevada,Washoe County,Outdoors & Recreation,79.0,68.0,79.0,6
-2020-03-16,Nevada,Washoe County,Big Box Stores,123.0,139.0,122.0,7
-2020-03-16,Nevada,Washoe County,Hotel,51.0,41.0,52.0,8
-2020-03-16,Nevada,Washoe County,Medical,48.0,45.0,48.0,9
-2020-03-16,Nevada,Washoe County,Gas Stations,89.0,87.0,89.0,9
-2020-03-16,Nevada,Washoe County,Fast Food Restaurants,88.0,65.0,89.0,10
-2020-03-16,Nevada,Washoe County,Convenience Store,105.0,"",107.0,11
-2020-03-16,Nevada,Washoe County,Airport,42.0,"",42.0,12
-2020-03-16,Nevada,Washoe County,Professional & Other Places,12.0,"",12.0,13
-2020-03-16,Nevada,Washoe County,Residences,88.0,"",88.0,14
-2020-03-16,Nevada,Washoe County,Fitness Center,51.0,"",51.0,15
-2020-03-16,Nevada,Washoe County,Colleges & Universities,43.0,"",42.0,16
-2020-03-16,Nevada,Washoe County,School,27.0,"",27.0,17
-2020-03-16,Nevada,Washoe County,Drug Store,161.0,"",162.0,18
-2020-03-16,Nevada,Washoe County,Hardware Stores,100.0,"",103.0,19
-2020-03-16,Nevada,Washoe County,Office,75.0,"",75.0,20
-2020-03-16,Nevada,Washoe County,Travel & Transport,10.0,"",10.0,21
 2020-03-16,Nevada,Nye County,Gas Stations,112.0,"",113.0,1
 2020-03-16,Nevada,Nye County,Food,91.0,"",91.0,2
-2020-03-16,Nevada,Carson City,Shops & Services,71.0,57.0,72.0,1
-2020-03-16,Nevada,Carson City,Food,34.0,"",34.0,2
+2020-03-16,Nevada,Lyon County,Food,119.0,"",121.0,1
+2020-03-16,Nevada,Washoe County,Food,77.0,69.0,77.0,1
+2020-03-16,Nevada,Washoe County,Shops & Services,97.0,78.0,98.0,2
+2020-03-16,Nevada,Washoe County,Grocery,143.0,157.0,142.0,3
+2020-03-16,Nevada,Washoe County,Nightlife Spots,84.0,70.0,85.0,4
+2020-03-16,Nevada,Washoe County,Arts & Entertainment,77.0,64.0,77.0,5
+2020-03-16,Nevada,Washoe County,Outdoors & Recreation,79.0,68.0,79.0,6
+2020-03-16,Nevada,Washoe County,Big Box Stores,123.0,139.0,122.0,7
+2020-03-16,Nevada,Washoe County,Hotel,67.0,54.0,68.0,8
+2020-03-16,Nevada,Washoe County,Gas Stations,89.0,87.0,89.0,9
+2020-03-16,Nevada,Washoe County,Medical,80.0,76.0,80.0,10
+2020-03-16,Nevada,Washoe County,Fast Food Restaurants,88.0,65.0,89.0,11
+2020-03-16,Nevada,Washoe County,Convenience Store,105.0,"",107.0,12
+2020-03-16,Nevada,Washoe County,Airport,63.0,"",63.0,13
+2020-03-16,Nevada,Washoe County,Professional & Other Places,77.0,"",76.0,14
+2020-03-16,Nevada,Washoe County,Residences,88.0,"",88.0,15
+2020-03-16,Nevada,Washoe County,Fitness Center,81.0,"",82.0,16
+2020-03-16,Nevada,Washoe County,Colleges & Universities,47.0,"",45.0,17
+2020-03-16,Nevada,Washoe County,School,52.0,"",53.0,18
+2020-03-16,Nevada,Washoe County,Drug Store,161.0,"",162.0,19
+2020-03-16,Nevada,Washoe County,Hardware Stores,100.0,"",103.0,20
+2020-03-16,Nevada,Washoe County,Office,89.0,"",89.0,21
+2020-03-16,Nevada,Washoe County,Travel & Transport,110.0,"",111.0,22
+2020-03-16,Nevada,Douglas County,Food,80.0,91.0,79.0,1
+2020-03-16,Nevada,Douglas County,Arts & Entertainment,62.0,"",61.0,2
+2020-03-16,Nevada,Carson City,Shops & Services,101.0,74.0,104.0,1
+2020-03-16,Nevada,Carson City,Food,86.0,"",86.0,2
 2020-03-16,Nevada,Carson City,Grocery,177.0,"",176.0,3
-2020-03-17,Nevada,Washoe County,Food,31.0,26.0,31.0,1
-2020-03-17,Nevada,Washoe County,Shops & Services,55.0,36.0,56.0,2
+2020-03-17,Nevada,Nye County,Gas Stations,93.0,"",94.0,1
+2020-03-17,Nevada,Lyon County,Gas Stations,111.0,"",111.0,1
+2020-03-17,Nevada,Lyon County,Food,89.0,"",91.0,2
+2020-03-17,Nevada,Carson City,Shops & Services,102.0,"",106.0,1
+2020-03-17,Nevada,Carson City,Food,75.0,"",78.0,2
+2020-03-17,Nevada,Douglas County,Food,77.0,62.0,78.0,1
+2020-03-17,Nevada,Washoe County,Food,75.0,62.0,76.0,1
+2020-03-17,Nevada,Washoe County,Shops & Services,76.0,52.0,78.0,2
 2020-03-17,Nevada,Washoe County,Grocery,130.0,93.0,133.0,3
-2020-03-17,Nevada,Washoe County,Outdoors & Recreation,28.0,24.0,28.0,4
-2020-03-17,Nevada,Washoe County,Nightlife Spots,57.0,46.0,58.0,5
-2020-03-17,Nevada,Washoe County,Medical,42.0,27.0,44.0,6
-2020-03-17,Nevada,Washoe County,Arts & Entertainment,76.0,50.0,78.0,7
+2020-03-17,Nevada,Washoe County,Outdoors & Recreation,82.0,77.0,82.0,4
+2020-03-17,Nevada,Washoe County,Nightlife Spots,79.0,67.0,80.0,5
+2020-03-17,Nevada,Washoe County,Medical,70.0,44.0,72.0,6
+2020-03-17,Nevada,Washoe County,Arts & Entertainment,80.0,52.0,82.0,7
 2020-03-17,Nevada,Washoe County,Gas Stations,92.0,"",94.0,8
 2020-03-17,Nevada,Washoe County,Big Box Stores,103.0,107.0,103.0,9
-2020-03-17,Nevada,Washoe County,Hotel,55.0,"",56.0,10
+2020-03-17,Nevada,Washoe County,Hotel,72.0,"",74.0,10
 2020-03-17,Nevada,Washoe County,Fast Food Restaurants,74.0,"",75.0,11
 2020-03-17,Nevada,Washoe County,Convenience Store,94.0,"",95.0,12
 2020-03-17,Nevada,Washoe County,Residences,103.0,"",104.0,13
-2020-03-17,Nevada,Washoe County,Professional & Other Places,9.0,"",9.0,14
-2020-03-17,Nevada,Washoe County,Airport,40.0,"",40.0,15
-2020-03-17,Nevada,Washoe County,Fitness Center,37.0,"",38.0,16
-2020-03-17,Nevada,Washoe County,School,22.0,"",22.0,17
-2020-03-17,Nevada,Washoe County,Office,76.0,"",78.0,18
-2020-03-17,Nevada,Washoe County,Colleges & Universities,29.0,"",29.0,19
+2020-03-17,Nevada,Washoe County,Professional & Other Places,59.0,"",60.0,14
+2020-03-17,Nevada,Washoe County,Airport,57.0,"",58.0,15
+2020-03-17,Nevada,Washoe County,Fitness Center,60.0,"",61.0,16
+2020-03-17,Nevada,Washoe County,School,43.0,"",44.0,17
+2020-03-17,Nevada,Washoe County,Office,90.0,"",93.0,18
+2020-03-17,Nevada,Washoe County,Colleges & Universities,32.0,"",32.0,19
 2020-03-17,Nevada,Washoe County,Drug Store,115.0,"",116.0,20
-2020-03-17,Nevada,Carson City,Shops & Services,67.0,"",70.0,1
-2020-03-17,Nevada,Carson City,Food,31.0,"",32.0,2
-2020-03-17,Nevada,Lyon County,Gas Stations,111.0,"",111.0,1
-2020-03-17,Nevada,Lyon County,Food,89.0,"",91.0,2
-2020-03-17,Nevada,Clark County,Shops & Services,22.0,19.0,22.0,1
-2020-03-17,Nevada,Clark County,Food,27.0,22.0,27.0,2
-2020-03-17,Nevada,Clark County,Arts & Entertainment,23.0,17.0,23.0,3
-2020-03-17,Nevada,Clark County,Grocery,136.0,125.0,136.0,4
-2020-03-17,Nevada,Clark County,Airport,30.0,20.0,30.0,5
-2020-03-17,Nevada,Clark County,Hotel,35.0,24.0,35.0,6
-2020-03-17,Nevada,Clark County,Nightlife Spots,25.0,20.0,25.0,7
-2020-03-17,Nevada,Clark County,Outdoors & Recreation,28.0,27.0,28.0,7
-2020-03-17,Nevada,Clark County,Professional & Other Places,12.0,10.0,13.0,8
-2020-03-17,Nevada,Clark County,Fast Food Restaurants,83.0,66.0,83.0,9
-2020-03-17,Nevada,Clark County,Medical,41.0,33.0,42.0,10
-2020-03-17,Nevada,Clark County,Gas Stations,95.0,84.0,96.0,11
-2020-03-17,Nevada,Clark County,Convenience Store,89.0,81.0,89.0,12
-2020-03-17,Nevada,Clark County,Big Box Stores,113.0,93.0,113.0,13
-2020-03-17,Nevada,Clark County,Residences,92.0,80.0,92.0,14
-2020-03-17,Nevada,Clark County,Drug Store,115.0,104.0,115.0,15
-2020-03-17,Nevada,Clark County,Office,56.0,53.0,57.0,16
-2020-03-17,Nevada,Clark County,School,20.0,22.0,20.0,17
-2020-03-17,Nevada,Clark County,Fitness Center,34.0,24.0,34.0,18
-2020-03-17,Nevada,Clark County,Discount Stores,119.0,94.0,120.0,19
-2020-03-17,Nevada,Clark County,Hardware Stores,115.0,82.0,117.0,20
-2020-03-17,Nevada,Clark County,Government,49.0,36.0,49.0,21
-2020-03-17,Nevada,Clark County,Banks,86.0,87.0,86.0,22
-2020-03-17,Nevada,Clark County,Travel & Transport,4.0,5.0,4.0,23
-2020-03-17,Nevada,Clark County,Sports,22.0,24.0,22.0,24
-2020-03-17,Nevada,Clark County,Colleges & Universities,18.0,"",18.0,25
-2020-03-17,Nevada,Clark County,Alcohol,122.0,123.0,122.0,26
-2020-03-17,Nevada,Clark County,Bus,56.0,"",57.0,27
-2020-03-17,Nevada,Elko County,Food,39.0,"",39.0,1
+2020-03-17,Nevada,Elko County,Food,86.0,"",87.0,1
 2020-03-17,Nevada,Elko County,Gas Stations,91.0,"",90.0,2
 2020-03-17,Nevada,Storey County,Professional & Other Places,94.0,"",94.0,1
-2020-03-17,Nevada,Nye County,Gas Stations,93.0,"",94.0,1
-2020-03-17,Nevada,Douglas County,Food,35.0,28.0,36.0,1
-2020-03-18,Nevada,Lyon County,Gas Stations,129.0,"",129.0,1
-2020-03-18,Nevada,Lyon County,Food,41.0,"",41.0,2
-2020-03-18,Nevada,Elko County,Food,33.0,"",34.0,1
-2020-03-18,Nevada,Elko County,Gas Stations,105.0,"",106.0,2
-2020-03-18,Nevada,Douglas County,Food,65.0,53.0,66.0,1
-2020-03-18,Nevada,Clark County,Shops & Services,19.0,16.0,19.0,1
-2020-03-18,Nevada,Clark County,Food,21.0,16.0,21.0,2
+2020-03-17,Nevada,Clark County,Shops & Services,75.0,65.0,76.0,1
+2020-03-17,Nevada,Clark County,Food,63.0,51.0,64.0,2
+2020-03-17,Nevada,Clark County,Arts & Entertainment,47.0,35.0,47.0,3
+2020-03-17,Nevada,Clark County,Grocery,136.0,125.0,136.0,4
+2020-03-17,Nevada,Clark County,Airport,50.0,33.0,51.0,5
+2020-03-17,Nevada,Clark County,Hotel,48.0,35.0,48.0,6
+2020-03-17,Nevada,Clark County,Outdoors & Recreation,82.0,79.0,82.0,7
+2020-03-17,Nevada,Clark County,Nightlife Spots,60.0,48.0,60.0,8
+2020-03-17,Nevada,Clark County,Professional & Other Places,52.0,44.0,52.0,9
+2020-03-17,Nevada,Clark County,Fast Food Restaurants,83.0,66.0,83.0,10
+2020-03-17,Nevada,Clark County,Medical,76.0,61.0,77.0,11
+2020-03-17,Nevada,Clark County,Gas Stations,95.0,84.0,96.0,12
+2020-03-17,Nevada,Clark County,Convenience Store,89.0,81.0,89.0,13
+2020-03-17,Nevada,Clark County,Big Box Stores,113.0,93.0,113.0,14
+2020-03-17,Nevada,Clark County,Residences,92.0,80.0,92.0,15
+2020-03-17,Nevada,Clark County,Drug Store,115.0,104.0,115.0,16
+2020-03-17,Nevada,Clark County,Office,71.0,70.0,71.0,17
+2020-03-17,Nevada,Clark County,School,37.0,40.0,37.0,18
+2020-03-17,Nevada,Clark County,Fitness Center,53.0,37.0,54.0,19
+2020-03-17,Nevada,Clark County,Discount Stores,119.0,94.0,120.0,20
+2020-03-17,Nevada,Clark County,Hardware Stores,115.0,82.0,117.0,21
+2020-03-17,Nevada,Clark County,Government,76.0,55.0,76.0,22
+2020-03-17,Nevada,Clark County,Banks,86.0,87.0,86.0,23
+2020-03-17,Nevada,Clark County,Travel & Transport,61.0,60.0,61.0,24
+2020-03-17,Nevada,Clark County,Sports,86.0,74.0,87.0,25
+2020-03-17,Nevada,Clark County,Colleges & Universities,38.0,"",38.0,26
+2020-03-17,Nevada,Clark County,Alcohol,122.0,123.0,122.0,27
+2020-03-17,Nevada,Clark County,Bus,76.0,"",76.0,28
+2020-03-18,Nevada,Douglas County,Food,66.0,54.0,67.0,1
+2020-03-18,Nevada,Storey County,Professional & Other Places,106.0,"",106.0,1
+2020-03-18,Nevada,Clark County,Shops & Services,65.0,57.0,65.0,1
+2020-03-18,Nevada,Clark County,Food,49.0,38.0,50.0,2
 2020-03-18,Nevada,Clark County,Grocery,136.0,120.0,137.0,3
-2020-03-18,Nevada,Clark County,Arts & Entertainment,14.0,10.0,14.0,4
-2020-03-18,Nevada,Clark County,Airport,28.0,19.0,28.0,5
+2020-03-18,Nevada,Clark County,Arts & Entertainment,29.0,21.0,30.0,4
+2020-03-18,Nevada,Clark County,Airport,47.0,33.0,48.0,5
 2020-03-18,Nevada,Clark County,Fast Food Restaurants,79.0,66.0,80.0,6
-2020-03-18,Nevada,Clark County,Outdoors & Recreation,24.0,21.0,24.0,7
+2020-03-18,Nevada,Clark County,Outdoors & Recreation,70.0,62.0,70.0,7
 2020-03-18,Nevada,Clark County,Gas Stations,97.0,89.0,97.0,8
-2020-03-18,Nevada,Clark County,Nightlife Spots,20.0,14.0,20.0,9
-2020-03-18,Nevada,Clark County,Medical,38.0,30.0,39.0,10
+2020-03-18,Nevada,Clark County,Nightlife Spots,47.0,34.0,48.0,9
+2020-03-18,Nevada,Clark County,Medical,70.0,55.0,71.0,10
 2020-03-18,Nevada,Clark County,Convenience Store,86.0,77.0,87.0,11
 2020-03-18,Nevada,Clark County,Big Box Stores,114.0,89.0,115.0,12
-2020-03-18,Nevada,Clark County,Professional & Other Places,9.0,7.0,9.0,13
+2020-03-18,Nevada,Clark County,Professional & Other Places,39.0,29.0,39.0,13
 2020-03-18,Nevada,Clark County,Residences,91.0,85.0,91.0,14
-2020-03-18,Nevada,Clark County,Hotel,24.0,18.0,24.0,15
+2020-03-18,Nevada,Clark County,Hotel,33.0,25.0,33.0,15
 2020-03-18,Nevada,Clark County,Drug Store,114.0,106.0,114.0,16
-2020-03-18,Nevada,Clark County,School,18.0,20.0,18.0,17
-2020-03-18,Nevada,Clark County,Office,49.0,42.0,50.0,18
+2020-03-18,Nevada,Clark County,School,34.0,38.0,34.0,17
+2020-03-18,Nevada,Clark County,Office,63.0,55.0,63.0,18
 2020-03-18,Nevada,Clark County,Hardware Stores,113.0,101.0,114.0,19
 2020-03-18,Nevada,Clark County,Discount Stores,108.0,87.0,109.0,20
 2020-03-18,Nevada,Clark County,Banks,79.0,80.0,79.0,21
-2020-03-18,Nevada,Clark County,Fitness Center,23.0,19.0,24.0,22
-2020-03-18,Nevada,Clark County,Travel & Transport,4.0,4.0,4.0,23
-2020-03-18,Nevada,Clark County,Sports,17.0,17.0,16.0,24
-2020-03-18,Nevada,Clark County,Government,36.0,37.0,36.0,25
+2020-03-18,Nevada,Clark County,Fitness Center,37.0,30.0,37.0,22
+2020-03-18,Nevada,Clark County,Travel & Transport,49.0,45.0,49.0,23
+2020-03-18,Nevada,Clark County,Sports,61.0,49.0,62.0,24
+2020-03-18,Nevada,Clark County,Government,55.0,57.0,55.0,25
 2020-03-18,Nevada,Clark County,Alcohol,148.0,149.0,148.0,26
-2020-03-18,Nevada,Clark County,Colleges & Universities,29.0,"",29.0,27
-2020-03-18,Nevada,Clark County,Bus,47.0,"",48.0,28
-2020-03-18,Nevada,Washoe County,Shops & Services,54.0,43.0,55.0,1
-2020-03-18,Nevada,Washoe County,Food,24.0,20.0,25.0,2
+2020-03-18,Nevada,Clark County,Colleges & Universities,32.0,"",32.0,27
+2020-03-18,Nevada,Clark County,Bus,63.0,"",63.0,28
+2020-03-18,Nevada,Washoe County,Shops & Services,74.0,60.0,75.0,1
+2020-03-18,Nevada,Washoe County,Food,59.0,49.0,60.0,2
 2020-03-18,Nevada,Washoe County,Grocery,128.0,127.0,128.0,3
-2020-03-18,Nevada,Washoe County,Outdoors & Recreation,25.0,19.0,26.0,4
-2020-03-18,Nevada,Washoe County,Nightlife Spots,49.0,31.0,50.0,5
-2020-03-18,Nevada,Washoe County,Medical,37.0,34.0,37.0,6
+2020-03-18,Nevada,Washoe County,Outdoors & Recreation,75.0,57.0,77.0,4
+2020-03-18,Nevada,Washoe County,Nightlife Spots,69.0,45.0,70.0,5
+2020-03-18,Nevada,Washoe County,Medical,60.0,56.0,60.0,6
 2020-03-18,Nevada,Washoe County,Gas Stations,86.0,81.0,87.0,7
 2020-03-18,Nevada,Washoe County,Big Box Stores,111.0,85.0,112.0,8
-2020-03-18,Nevada,Washoe County,Arts & Entertainment,53.0,"",54.0,9
+2020-03-18,Nevada,Washoe County,Arts & Entertainment,55.0,"",56.0,9
 2020-03-18,Nevada,Washoe County,Fast Food Restaurants,68.0,"",69.0,10
-2020-03-18,Nevada,Washoe County,Hotel,38.0,"",39.0,11
+2020-03-18,Nevada,Washoe County,Hotel,49.0,"",51.0,11
 2020-03-18,Nevada,Washoe County,Convenience Store,87.0,"",89.0,12
 2020-03-18,Nevada,Washoe County,Residences,91.0,"",94.0,13
-2020-03-18,Nevada,Washoe County,Professional & Other Places,8.0,"",8.0,14
+2020-03-18,Nevada,Washoe County,Professional & Other Places,53.0,"",54.0,14
 2020-03-18,Nevada,Washoe County,Hardware Stores,108.0,77.0,111.0,15
-2020-03-18,Nevada,Washoe County,School,19.0,"",19.0,16
-2020-03-18,Nevada,Washoe County,Airport,33.0,"",34.0,17
+2020-03-18,Nevada,Washoe County,School,38.0,"",38.0,16
+2020-03-18,Nevada,Washoe County,Airport,48.0,"",49.0,17
 2020-03-18,Nevada,Washoe County,Drug Store,103.0,"",105.0,18
-2020-03-18,Nevada,Washoe County,Colleges & Universities,24.0,"",24.0,19
-2020-03-18,Nevada,Washoe County,Office,55.0,"",56.0,20
-2020-03-18,Nevada,Carson City,Shops & Services,65.0,50.0,66.0,1
-2020-03-18,Nevada,Carson City,Food,27.0,"",28.0,2
-2020-03-18,Nevada,Storey County,Professional & Other Places,106.0,"",106.0,1
+2020-03-18,Nevada,Washoe County,Colleges & Universities,26.0,"",26.0,19
+2020-03-18,Nevada,Washoe County,Office,66.0,"",67.0,20
+2020-03-18,Nevada,Elko County,Food,75.0,"",76.0,1
+2020-03-18,Nevada,Elko County,Gas Stations,105.0,"",106.0,2
+2020-03-18,Nevada,Lyon County,Gas Stations,129.0,"",129.0,1
+2020-03-18,Nevada,Lyon County,Food,94.0,"",94.0,2
+2020-03-18,Nevada,Carson City,Shops & Services,93.0,71.0,96.0,1
+2020-03-18,Nevada,Carson City,Food,69.0,"",70.0,2
 2020-03-18,Nevada,Nye County,Gas Stations,106.0,"",108.0,1
 2020-03-18,Nevada,Nye County,Food,78.0,"",79.0,2
-2020-03-19,Nevada,Clark County,Shops & Services,12.0,12.0,12.0,1
-2020-03-19,Nevada,Clark County,Food,13.0,11.0,13.0,2
+2020-03-19,Nevada,Clark County,Shops & Services,42.0,42.0,42.0,1
+2020-03-19,Nevada,Clark County,Food,31.0,26.0,31.0,2
 2020-03-19,Nevada,Clark County,Grocery,96.0,94.0,96.0,3
-2020-03-19,Nevada,Clark County,Outdoors & Recreation,22.0,21.0,22.0,4
-2020-03-19,Nevada,Clark County,Arts & Entertainment,6.0,5.0,6.0,5
+2020-03-19,Nevada,Clark County,Outdoors & Recreation,63.0,60.0,64.0,4
+2020-03-19,Nevada,Clark County,Arts & Entertainment,12.0,10.0,12.0,5
 2020-03-19,Nevada,Clark County,Fast Food Restaurants,59.0,54.0,59.0,6
 2020-03-19,Nevada,Clark County,Gas Stations,73.0,74.0,73.0,7
-2020-03-19,Nevada,Clark County,Medical,31.0,25.0,32.0,8
+2020-03-19,Nevada,Clark County,Medical,57.0,47.0,58.0,8
 2020-03-19,Nevada,Clark County,Convenience Store,66.0,66.0,66.0,9
 2020-03-19,Nevada,Clark County,Residences,77.0,67.0,78.0,10
 2020-03-19,Nevada,Clark County,Big Box Stores,85.0,78.0,85.0,11
-2020-03-19,Nevada,Clark County,Airport,14.0,13.0,14.0,12
-2020-03-19,Nevada,Clark County,Professional & Other Places,7.0,6.0,7.0,13
-2020-03-19,Nevada,Clark County,Hotel,13.0,12.0,13.0,14
+2020-03-19,Nevada,Clark County,Airport,24.0,22.0,25.0,12
+2020-03-19,Nevada,Clark County,Professional & Other Places,30.0,27.0,30.0,13
+2020-03-19,Nevada,Clark County,Hotel,19.0,17.0,19.0,14
 2020-03-19,Nevada,Clark County,Drug Store,74.0,80.0,74.0,15
-2020-03-19,Nevada,Clark County,Nightlife Spots,8.0,8.0,8.0,16
-2020-03-19,Nevada,Clark County,School,16.0,20.0,16.0,17
-2020-03-19,Nevada,Clark County,Office,41.0,34.0,41.0,18
+2020-03-19,Nevada,Clark County,Nightlife Spots,19.0,19.0,19.0,16
+2020-03-19,Nevada,Clark County,School,29.0,38.0,29.0,17
+2020-03-19,Nevada,Clark County,Office,51.0,45.0,52.0,18
 2020-03-19,Nevada,Clark County,Hardware Stores,93.0,86.0,94.0,19
 2020-03-19,Nevada,Clark County,Discount Stores,82.0,74.0,82.0,20
-2020-03-19,Nevada,Clark County,Sports,16.0,20.0,15.0,21
+2020-03-19,Nevada,Clark County,Sports,56.0,56.0,56.0,21
 2020-03-19,Nevada,Clark County,Banks,61.0,49.0,62.0,22
-2020-03-19,Nevada,Clark County,Fitness Center,18.0,16.0,18.0,23
-2020-03-19,Nevada,Clark County,Government,27.0,24.0,27.0,24
-2020-03-19,Nevada,Clark County,Travel & Transport,2.0,3.0,2.0,25
+2020-03-19,Nevada,Clark County,Fitness Center,28.0,25.0,28.0,23
+2020-03-19,Nevada,Clark County,Government,41.0,37.0,42.0,24
+2020-03-19,Nevada,Clark County,Travel & Transport,30.0,33.0,30.0,25
 2020-03-19,Nevada,Clark County,Alcohol,78.0,"",79.0,26
-2020-03-19,Nevada,Clark County,Colleges & Universities,18.0,"",18.0,27
-2020-03-19,Nevada,Clark County,Bus,37.0,"",38.0,28
-2020-03-19,Nevada,Carson City,Shops & Services,56.0,62.0,56.0,1
+2020-03-19,Nevada,Clark County,Colleges & Universities,19.0,"",19.0,27
+2020-03-19,Nevada,Clark County,Bus,51.0,"",51.0,28
 2020-03-19,Nevada,Lyon County,Gas Stations,110.0,"",111.0,1
-2020-03-19,Nevada,Lyon County,Food,31.0,"",32.0,2
-2020-03-19,Nevada,Washoe County,Shops & Services,44.0,32.0,45.0,1
-2020-03-19,Nevada,Washoe County,Food,18.0,14.0,18.0,2
+2020-03-19,Nevada,Lyon County,Food,69.0,"",71.0,2
+2020-03-19,Nevada,Carson City,Shops & Services,81.0,83.0,81.0,1
+2020-03-19,Nevada,Nye County,Gas Stations,87.0,"",88.0,1
+2020-03-19,Nevada,Elko County,Food,63.0,"",63.0,1
+2020-03-19,Nevada,Elko County,Gas Stations,89.0,"",89.0,2
+2020-03-19,Nevada,Storey County,Professional & Other Places,91.0,"",91.0,1
+2020-03-19,Nevada,Washoe County,Shops & Services,61.0,44.0,62.0,1
+2020-03-19,Nevada,Washoe County,Food,43.0,33.0,43.0,2
 2020-03-19,Nevada,Washoe County,Grocery,99.0,91.0,99.0,3
-2020-03-19,Nevada,Washoe County,Outdoors & Recreation,25.0,21.0,25.0,4
+2020-03-19,Nevada,Washoe County,Outdoors & Recreation,73.0,68.0,73.0,4
 2020-03-19,Nevada,Washoe County,Gas Stations,74.0,"",74.0,5
 2020-03-19,Nevada,Washoe County,Big Box Stores,86.0,80.0,86.0,6
-2020-03-19,Nevada,Washoe County,Medical,33.0,28.0,33.0,7
-2020-03-19,Nevada,Washoe County,Nightlife Spots,31.0,25.0,31.0,8
+2020-03-19,Nevada,Washoe County,Medical,54.0,46.0,54.0,7
+2020-03-19,Nevada,Washoe County,Nightlife Spots,43.0,36.0,43.0,8
 2020-03-19,Nevada,Washoe County,Fast Food Restaurants,54.0,"",54.0,9
 2020-03-19,Nevada,Washoe County,Convenience Store,70.0,"",71.0,10
-2020-03-19,Nevada,Washoe County,Hotel,25.0,"",26.0,11
-2020-03-19,Nevada,Washoe County,Professional & Other Places,8.0,"",8.0,12
-2020-03-19,Nevada,Washoe County,School,20.0,"",20.0,13
-2020-03-19,Nevada,Washoe County,Arts & Entertainment,30.0,"",31.0,14
+2020-03-19,Nevada,Washoe County,Hotel,33.0,"",34.0,11
+2020-03-19,Nevada,Washoe County,Professional & Other Places,58.0,"",59.0,12
+2020-03-19,Nevada,Washoe County,School,40.0,"",40.0,13
 2020-03-19,Nevada,Washoe County,Residences,83.0,"",84.0,14
-2020-03-19,Nevada,Washoe County,Airport,32.0,"",32.0,15
-2020-03-19,Nevada,Washoe County,Hardware Stores,94.0,"",96.0,16
-2020-03-19,Nevada,Washoe County,Office,64.0,"",63.0,17
-2020-03-19,Nevada,Elko County,Food,27.0,"",28.0,1
-2020-03-19,Nevada,Elko County,Gas Stations,89.0,"",89.0,2
-2020-03-19,Nevada,Nye County,Gas Stations,87.0,"",88.0,1
-2020-03-19,Nevada,Storey County,Professional & Other Places,91.0,"",91.0,1
-2020-03-20,Nevada,Clark County,Shops & Services,12.0,12.0,12.0,1
-2020-03-20,Nevada,Clark County,Food,12.0,11.0,12.0,2
+2020-03-19,Nevada,Washoe County,Arts & Entertainment,31.0,"",32.0,15
+2020-03-19,Nevada,Washoe County,Airport,46.0,"",46.0,16
+2020-03-19,Nevada,Washoe County,Hardware Stores,94.0,"",96.0,17
+2020-03-19,Nevada,Washoe County,Office,78.0,"",77.0,18
+2020-03-20,Nevada,Clark County,Shops & Services,40.0,41.0,40.0,1
+2020-03-20,Nevada,Clark County,Food,28.0,25.0,28.0,2
 2020-03-20,Nevada,Clark County,Grocery,97.0,92.0,98.0,3
-2020-03-20,Nevada,Clark County,Outdoors & Recreation,20.0,20.0,20.0,4
+2020-03-20,Nevada,Clark County,Outdoors & Recreation,57.0,59.0,57.0,4
 2020-03-20,Nevada,Clark County,Gas Stations,70.0,64.0,70.0,5
 2020-03-20,Nevada,Clark County,Fast Food Restaurants,54.0,49.0,54.0,6
 2020-03-20,Nevada,Clark County,Big Box Stores,85.0,78.0,86.0,7
-2020-03-20,Nevada,Clark County,Medical,30.0,25.0,30.0,8
+2020-03-20,Nevada,Clark County,Medical,54.0,47.0,55.0,8
 2020-03-20,Nevada,Clark County,Convenience Store,61.0,56.0,61.0,9
 2020-03-20,Nevada,Clark County,Residences,73.0,62.0,73.0,10
-2020-03-20,Nevada,Clark County,Arts & Entertainment,4.0,4.0,4.0,11
-2020-03-20,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,12
-2020-03-20,Nevada,Clark County,Airport,10.0,8.0,10.0,13
+2020-03-20,Nevada,Clark County,Arts & Entertainment,8.0,7.0,8.0,11
+2020-03-20,Nevada,Clark County,Professional & Other Places,26.0,23.0,26.0,12
+2020-03-20,Nevada,Clark County,Airport,17.0,13.0,17.0,13
 2020-03-20,Nevada,Clark County,Drug Store,75.0,70.0,75.0,14
-2020-03-20,Nevada,Clark County,Nightlife Spots,7.0,7.0,7.0,15
-2020-03-20,Nevada,Clark County,School,16.0,21.0,16.0,16
-2020-03-20,Nevada,Clark County,Hotel,9.0,10.0,9.0,17
-2020-03-20,Nevada,Clark County,Office,39.0,33.0,39.0,18
+2020-03-20,Nevada,Clark County,Nightlife Spots,17.0,16.0,17.0,15
+2020-03-20,Nevada,Clark County,School,30.0,39.0,30.0,16
+2020-03-20,Nevada,Clark County,Hotel,12.0,15.0,12.0,17
+2020-03-20,Nevada,Clark County,Office,49.0,44.0,49.0,18
 2020-03-20,Nevada,Clark County,Banks,68.0,53.0,69.0,19
 2020-03-20,Nevada,Clark County,Hardware Stores,97.0,74.0,99.0,20
 2020-03-20,Nevada,Clark County,Discount Stores,80.0,75.0,80.0,21
-2020-03-20,Nevada,Clark County,Sports,16.0,20.0,15.0,22
-2020-03-20,Nevada,Clark County,Fitness Center,17.0,16.0,17.0,23
-2020-03-20,Nevada,Clark County,Government,25.0,"",25.0,24
-2020-03-20,Nevada,Clark County,Travel & Transport,2.0,3.0,2.0,25
+2020-03-20,Nevada,Clark County,Sports,55.0,56.0,55.0,22
+2020-03-20,Nevada,Clark County,Fitness Center,26.0,24.0,26.0,23
+2020-03-20,Nevada,Clark County,Government,39.0,"",39.0,24
+2020-03-20,Nevada,Clark County,Travel & Transport,25.0,28.0,25.0,25
 2020-03-20,Nevada,Clark County,Alcohol,68.0,"",68.0,26
-2020-03-20,Nevada,Clark County,Colleges & Universities,22.0,"",22.0,27
-2020-03-20,Nevada,Clark County,Bus,31.0,"",31.0,28
-2020-03-20,Nevada,Washoe County,Shops & Services,44.0,32.0,45.0,1
-2020-03-20,Nevada,Washoe County,Food,39.0,30.0,40.0,2
+2020-03-20,Nevada,Clark County,Colleges & Universities,25.0,"",25.0,27
+2020-03-20,Nevada,Clark County,Bus,42.0,"",42.0,28
+2020-03-20,Nevada,Lyon County,Gas Stations,117.0,"",117.0,1
+2020-03-20,Nevada,Storey County,Professional & Other Places,97.0,"",98.0,1
+2020-03-20,Nevada,Washoe County,Shops & Services,60.0,45.0,61.0,1
+2020-03-20,Nevada,Washoe County,Food,47.0,36.0,48.0,2
 2020-03-20,Nevada,Washoe County,Grocery,100.0,81.0,101.0,3
 2020-03-20,Nevada,Washoe County,Outdoors & Recreation,79.0,79.0,79.0,4
 2020-03-20,Nevada,Washoe County,Big Box Stores,88.0,85.0,88.0,5
 2020-03-20,Nevada,Washoe County,Gas Stations,75.0,67.0,75.0,6
-2020-03-20,Nevada,Washoe County,Medical,35.0,27.0,36.0,7
-2020-03-20,Nevada,Washoe County,Nightlife Spots,31.0,"",31.0,8
+2020-03-20,Nevada,Washoe County,Medical,58.0,46.0,59.0,7
+2020-03-20,Nevada,Washoe County,Nightlife Spots,43.0,"",44.0,8
 2020-03-20,Nevada,Washoe County,Fast Food Restaurants,61.0,58.0,61.0,9
-2020-03-20,Nevada,Washoe County,Hotel,23.0,"",23.0,10
+2020-03-20,Nevada,Washoe County,Hotel,30.0,"",30.0,10
 2020-03-20,Nevada,Washoe County,Convenience Store,59.0,"",59.0,11
-2020-03-20,Nevada,Washoe County,School,20.0,"",20.0,11
-2020-03-20,Nevada,Washoe County,Residences,86.0,"",87.0,12
-2020-03-20,Nevada,Washoe County,Arts & Entertainment,26.0,"",26.0,13
-2020-03-20,Nevada,Washoe County,Hardware Stores,93.0,"",95.0,14
-2020-03-20,Nevada,Washoe County,Professional & Other Places,7.0,"",7.0,15
-2020-03-20,Nevada,Washoe County,Office,64.0,"",66.0,16
-2020-03-20,Nevada,Carson City,Shops & Services,48.0,"",50.0,1
-2020-03-20,Nevada,Carson City,Food,24.0,"",25.0,2
-2020-03-20,Nevada,Elko County,Food,22.0,"",23.0,1
+2020-03-20,Nevada,Washoe County,School,40.0,"",40.0,12
+2020-03-20,Nevada,Washoe County,Residences,86.0,"",87.0,13
+2020-03-20,Nevada,Washoe County,Arts & Entertainment,27.0,"",27.0,14
+2020-03-20,Nevada,Washoe County,Hardware Stores,93.0,"",95.0,15
+2020-03-20,Nevada,Washoe County,Professional & Other Places,49.0,"",50.0,16
+2020-03-20,Nevada,Washoe County,Office,78.0,"",81.0,17
+2020-03-20,Nevada,Carson City,Shops & Services,67.0,"",70.0,1
+2020-03-20,Nevada,Carson City,Food,60.0,"",61.0,2
+2020-03-20,Nevada,Elko County,Food,52.0,"",52.0,1
 2020-03-20,Nevada,Elko County,Gas Stations,73.0,"",73.0,2
-2020-03-20,Nevada,Douglas County,Food,52.0,"",52.0,1
-2020-03-20,Nevada,Lyon County,Gas Stations,117.0,"",117.0,1
-2020-03-20,Nevada,Storey County,Professional & Other Places,97.0,"",98.0,1
 2020-03-20,Nevada,Nye County,Gas Stations,77.0,"",77.0,1
-2020-03-21,Nevada,Carson City,Shops & Services,43.0,"",44.0,1
-2020-03-21,Nevada,Clark County,Shops & Services,9.0,10.0,9.0,1
-2020-03-21,Nevada,Clark County,Food,9.0,8.0,9.0,2
+2020-03-20,Nevada,Douglas County,Food,53.0,"",53.0,1
+2020-03-21,Nevada,Nye County,Gas Stations,72.0,"",71.0,1
+2020-03-21,Nevada,Carson City,Shops & Services,64.0,"",65.0,1
+2020-03-21,Nevada,Washoe County,Shops & Services,43.0,26.0,44.0,1
+2020-03-21,Nevada,Washoe County,Food,33.0,23.0,33.0,2
+2020-03-21,Nevada,Washoe County,Grocery,74.0,52.0,76.0,3
+2020-03-21,Nevada,Washoe County,Outdoors & Recreation,72.0,69.0,72.0,4
+2020-03-21,Nevada,Washoe County,Big Box Stores,72.0,64.0,72.0,5
+2020-03-21,Nevada,Washoe County,Gas Stations,57.0,"",57.0,6
+2020-03-21,Nevada,Washoe County,Nightlife Spots,30.0,"",30.0,7
+2020-03-21,Nevada,Washoe County,Fast Food Restaurants,51.0,"",51.0,8
+2020-03-21,Nevada,Washoe County,Convenience Store,66.0,"",67.0,9
+2020-03-21,Nevada,Washoe County,Medical,59.0,"",60.0,10
+2020-03-21,Nevada,Washoe County,Arts & Entertainment,19.0,"",19.0,11
+2020-03-21,Nevada,Washoe County,Hardware Stores,84.0,"",87.0,12
+2020-03-21,Nevada,Washoe County,Residences,78.0,"",79.0,13
+2020-03-21,Nevada,Washoe County,School,60.0,"",60.0,14
+2020-03-21,Nevada,Clark County,Shops & Services,30.0,34.0,30.0,1
+2020-03-21,Nevada,Clark County,Food,22.0,19.0,22.0,2
 2020-03-21,Nevada,Clark County,Grocery,84.0,73.0,84.0,3
-2020-03-21,Nevada,Clark County,Outdoors & Recreation,20.0,22.0,20.0,4
+2020-03-21,Nevada,Clark County,Outdoors & Recreation,57.0,63.0,57.0,4
 2020-03-21,Nevada,Clark County,Fast Food Restaurants,54.0,52.0,55.0,5
 2020-03-21,Nevada,Clark County,Big Box Stores,80.0,65.0,80.0,6
 2020-03-21,Nevada,Clark County,Gas Stations,62.0,58.0,63.0,7
 2020-03-21,Nevada,Clark County,Convenience Store,55.0,47.0,55.0,8
 2020-03-21,Nevada,Clark County,Residences,67.0,69.0,67.0,9
-2020-03-21,Nevada,Clark County,Airport,10.0,11.0,10.0,10
-2020-03-21,Nevada,Clark County,Professional & Other Places,6.0,6.0,6.0,11
-2020-03-21,Nevada,Clark County,Arts & Entertainment,2.0,2.0,2.0,12
+2020-03-21,Nevada,Clark County,Airport,17.0,18.0,17.0,10
+2020-03-21,Nevada,Clark County,Professional & Other Places,21.0,22.0,21.0,11
+2020-03-21,Nevada,Clark County,Arts & Entertainment,4.0,4.0,4.0,12
 2020-03-21,Nevada,Clark County,Drug Store,64.0,64.0,64.0,13
-2020-03-21,Nevada,Clark County,Medical,29.0,30.0,29.0,14
-2020-03-21,Nevada,Clark County,School,31.0,28.0,31.0,15
-2020-03-21,Nevada,Clark County,Nightlife Spots,5.0,5.0,5.0,16
+2020-03-21,Nevada,Clark County,Medical,54.0,55.0,54.0,14
+2020-03-21,Nevada,Clark County,School,57.0,52.0,58.0,15
+2020-03-21,Nevada,Clark County,Nightlife Spots,11.0,13.0,11.0,16
 2020-03-21,Nevada,Clark County,Hardware Stores,93.0,69.0,95.0,17
-2020-03-21,Nevada,Clark County,Hotel,5.0,6.0,5.0,18
+2020-03-21,Nevada,Clark County,Hotel,7.0,8.0,7.0,18
 2020-03-21,Nevada,Clark County,Discount Stores,70.0,53.0,70.0,19
-2020-03-21,Nevada,Clark County,Sports,15.0,24.0,14.0,20
+2020-03-21,Nevada,Clark County,Sports,48.0,64.0,47.0,20
 2020-03-21,Nevada,Clark County,Banks,47.0,48.0,47.0,21
-2020-03-21,Nevada,Clark County,Office,31.0,"",31.0,22
+2020-03-21,Nevada,Clark County,Office,41.0,"",41.0,22
 2020-03-21,Nevada,Clark County,Travel & Transport,26.0,37.0,26.0,23
-2020-03-21,Nevada,Clark County,Fitness Center,13.0,"",13.0,24
+2020-03-21,Nevada,Clark County,Fitness Center,20.0,"",20.0,24
 2020-03-21,Nevada,Clark County,Alcohol,55.0,"",54.0,25
-2020-03-21,Nevada,Clark County,Government,17.0,"",16.0,26
-2020-03-21,Nevada,Clark County,Colleges & Universities,27.0,"",27.0,27
-2020-03-21,Nevada,Clark County,Bus,28.0,"",28.0,28
-2020-03-21,Nevada,Washoe County,Shops & Services,31.0,17.0,31.0,1
-2020-03-21,Nevada,Washoe County,Food,27.0,20.0,28.0,2
-2020-03-21,Nevada,Washoe County,Grocery,74.0,52.0,76.0,3
-2020-03-21,Nevada,Washoe County,Outdoors & Recreation,26.0,24.0,26.0,4
-2020-03-21,Nevada,Washoe County,Big Box Stores,72.0,64.0,72.0,5
-2020-03-21,Nevada,Washoe County,Nightlife Spots,21.0,"",21.0,6
-2020-03-21,Nevada,Washoe County,Gas Stations,57.0,"",57.0,6
-2020-03-21,Nevada,Washoe County,Fast Food Restaurants,51.0,"",51.0,7
-2020-03-21,Nevada,Washoe County,Convenience Store,66.0,"",67.0,8
-2020-03-21,Nevada,Washoe County,Medical,36.0,"",37.0,9
-2020-03-21,Nevada,Washoe County,Arts & Entertainment,18.0,"",19.0,10
-2020-03-21,Nevada,Washoe County,Hardware Stores,84.0,"",87.0,11
-2020-03-21,Nevada,Washoe County,Residences,78.0,"",79.0,12
-2020-03-21,Nevada,Washoe County,School,30.0,"",30.0,13
-2020-03-21,Nevada,Elko County,Food,18.0,"",18.0,1
-2020-03-21,Nevada,Nye County,Gas Stations,72.0,"",71.0,1
-2020-03-22,Nevada,Washoe County,Food,13.0,12.0,13.0,1
-2020-03-22,Nevada,Washoe County,Shops & Services,27.0,17.0,28.0,2
-2020-03-22,Nevada,Washoe County,Outdoors & Recreation,31.0,32.0,31.0,3
-2020-03-22,Nevada,Washoe County,Grocery,62.0,50.0,63.0,4
-2020-03-22,Nevada,Washoe County,Big Box Stores,72.0,"",73.0,5
-2020-03-22,Nevada,Washoe County,Fast Food Restaurants,55.0,"",54.0,6
-2020-03-22,Nevada,Washoe County,Gas Stations,53.0,"",53.0,7
-2020-03-22,Nevada,Washoe County,Nightlife Spots,17.0,"",17.0,8
-2020-03-22,Nevada,Washoe County,Convenience Store,67.0,"",66.0,9
-2020-03-22,Nevada,Washoe County,Residences,63.0,"",63.0,10
-2020-03-22,Nevada,Washoe County,Hardware Stores,96.0,"",100.0,11
-2020-03-22,Nevada,Washoe County,School,34.0,"",34.0,12
-2020-03-22,Nevada,Clark County,Food,8.0,8.0,8.0,1
-2020-03-22,Nevada,Clark County,Shops & Services,7.0,8.0,7.0,2
+2020-03-21,Nevada,Clark County,Government,28.0,"",28.0,26
+2020-03-21,Nevada,Clark County,Colleges & Universities,31.0,"",30.0,27
+2020-03-21,Nevada,Clark County,Bus,38.0,"",38.0,28
+2020-03-21,Nevada,Elko County,Food,44.0,"",44.0,1
+2020-03-22,Nevada,Clark County,Food,19.0,18.0,19.0,1
+2020-03-22,Nevada,Clark County,Shops & Services,25.0,31.0,25.0,2
 2020-03-22,Nevada,Clark County,Grocery,70.0,68.0,70.0,3
-2020-03-22,Nevada,Clark County,Outdoors & Recreation,22.0,23.0,22.0,4
+2020-03-22,Nevada,Clark County,Outdoors & Recreation,60.0,64.0,59.0,4
 2020-03-22,Nevada,Clark County,Fast Food Restaurants,55.0,59.0,54.0,5
 2020-03-22,Nevada,Clark County,Big Box Stores,72.0,68.0,72.0,6
 2020-03-22,Nevada,Clark County,Gas Stations,57.0,55.0,57.0,7
 2020-03-22,Nevada,Clark County,Residences,65.0,61.0,66.0,8
 2020-03-22,Nevada,Clark County,Convenience Store,53.0,48.0,54.0,9
 2020-03-22,Nevada,Clark County,Arts & Entertainment,3.0,4.0,3.0,10
-2020-03-22,Nevada,Clark County,Airport,7.0,7.0,7.0,11
+2020-03-22,Nevada,Clark County,Airport,12.0,12.0,12.0,11
 2020-03-22,Nevada,Clark County,Drug Store,61.0,77.0,61.0,12
-2020-03-22,Nevada,Clark County,School,34.0,33.0,34.0,13
-2020-03-22,Nevada,Clark County,Professional & Other Places,5.0,4.0,5.0,14
-2020-03-22,Nevada,Clark County,Nightlife Spots,4.0,4.0,4.0,15
+2020-03-22,Nevada,Clark County,School,62.0,62.0,62.0,13
+2020-03-22,Nevada,Clark County,Professional & Other Places,16.0,15.0,16.0,14
+2020-03-22,Nevada,Clark County,Nightlife Spots,9.0,10.0,9.0,15
 2020-03-22,Nevada,Clark County,Hardware Stores,96.0,77.0,97.0,16
-2020-03-22,Nevada,Clark County,Medical,28.0,32.0,28.0,17
-2020-03-22,Nevada,Clark County,Hotel,5.0,5.0,5.0,18
-2020-03-22,Nevada,Clark County,Sports,17.0,24.0,17.0,19
+2020-03-22,Nevada,Clark County,Medical,52.0,58.0,52.0,17
+2020-03-22,Nevada,Clark County,Hotel,7.0,7.0,7.0,18
+2020-03-22,Nevada,Clark County,Sports,54.0,61.0,53.0,19
 2020-03-22,Nevada,Clark County,Discount Stores,59.0,55.0,59.0,20
-2020-03-22,Nevada,Clark County,Fitness Center,16.0,"",16.0,21
+2020-03-22,Nevada,Clark County,Fitness Center,24.0,"",24.0,21
 2020-03-22,Nevada,Clark County,Banks,53.0,"",53.0,22
-2020-03-22,Nevada,Clark County,Office,28.0,"",28.0,23
-2020-03-22,Nevada,Clark County,Travel & Transport,1.0,"",1.0,24
-2020-03-22,Nevada,Clark County,Government,18.0,"",18.0,25
+2020-03-22,Nevada,Clark County,Office,39.0,"",39.0,23
+2020-03-22,Nevada,Clark County,Travel & Transport,21.0,"",21.0,24
+2020-03-22,Nevada,Clark County,Government,32.0,"",32.0,25
 2020-03-22,Nevada,Clark County,Alcohol,53.0,"",53.0,26
-2020-03-22,Nevada,Clark County,Colleges & Universities,31.0,"",31.0,27
-2020-03-23,Nevada,Washoe County,Food,17.0,14.0,17.0,1
-2020-03-23,Nevada,Washoe County,Shops & Services,37.0,25.0,38.0,2
-2020-03-23,Nevada,Washoe County,Outdoors & Recreation,27.0,29.0,27.0,3
+2020-03-22,Nevada,Clark County,Colleges & Universities,35.0,"",35.0,27
+2020-03-22,Nevada,Washoe County,Food,30.0,27.0,30.0,1
+2020-03-22,Nevada,Washoe County,Shops & Services,42.0,28.0,42.0,2
+2020-03-22,Nevada,Washoe County,Outdoors & Recreation,85.0,91.0,84.0,3
+2020-03-22,Nevada,Washoe County,Grocery,62.0,50.0,63.0,4
+2020-03-22,Nevada,Washoe County,Big Box Stores,72.0,"",73.0,5
+2020-03-22,Nevada,Washoe County,Fast Food Restaurants,55.0,"",54.0,6
+2020-03-22,Nevada,Washoe County,Gas Stations,53.0,"",53.0,7
+2020-03-22,Nevada,Washoe County,Nightlife Spots,23.0,"",23.0,8
+2020-03-22,Nevada,Washoe County,Convenience Store,67.0,"",66.0,9
+2020-03-22,Nevada,Washoe County,Residences,63.0,"",63.0,10
+2020-03-22,Nevada,Washoe County,Hardware Stores,96.0,"",100.0,11
+2020-03-22,Nevada,Washoe County,School,68.0,"",68.0,12
+2020-03-23,Nevada,Elko County,Food,59.0,"",59.0,1
+2020-03-23,Nevada,Storey County,Professional & Other Places,116.0,"",116.0,1
+2020-03-23,Nevada,Lyon County,Gas Stations,98.0,"",99.0,1
+2020-03-23,Nevada,Carson City,Shops & Services,69.0,"",70.0,1
+2020-03-23,Nevada,Washoe County,Food,41.0,34.0,41.0,1
+2020-03-23,Nevada,Washoe County,Shops & Services,52.0,36.0,53.0,2
+2020-03-23,Nevada,Washoe County,Outdoors & Recreation,78.0,92.0,78.0,3
 2020-03-23,Nevada,Washoe County,Grocery,76.0,64.0,77.0,4
 2020-03-23,Nevada,Washoe County,Big Box Stores,84.0,"",86.0,5
-2020-03-23,Nevada,Washoe County,Medical,37.0,30.0,37.0,6
+2020-03-23,Nevada,Washoe County,Medical,61.0,50.0,62.0,6
 2020-03-23,Nevada,Washoe County,Gas Stations,57.0,63.0,56.0,7
-2020-03-23,Nevada,Washoe County,Nightlife Spots,29.0,"",29.0,8
+2020-03-23,Nevada,Washoe County,Nightlife Spots,41.0,"",41.0,8
 2020-03-23,Nevada,Washoe County,Fast Food Restaurants,56.0,"",57.0,9
 2020-03-23,Nevada,Washoe County,Convenience Store,71.0,"",72.0,10
 2020-03-23,Nevada,Washoe County,Residences,83.0,"",83.0,11
-2020-03-23,Nevada,Washoe County,Arts & Entertainment,23.0,"",24.0,12
-2020-03-23,Nevada,Washoe County,Hotel,17.0,"",17.0,13
-2020-03-23,Nevada,Washoe County,Professional & Other Places,7.0,"",7.0,14
-2020-03-23,Nevada,Washoe County,School,21.0,"",22.0,15
-2020-03-23,Nevada,Carson City,Shops & Services,47.0,"",47.0,1
-2020-03-23,Nevada,Storey County,Professional & Other Places,116.0,"",116.0,1
-2020-03-23,Nevada,Elko County,Food,24.0,"",24.0,1
-2020-03-23,Nevada,Lyon County,Gas Stations,98.0,"",99.0,1
-2020-03-23,Nevada,Clark County,Shops & Services,10.0,11.0,10.0,1
-2020-03-23,Nevada,Clark County,Food,10.0,11.0,10.0,2
+2020-03-23,Nevada,Washoe County,Arts & Entertainment,24.0,"",25.0,12
+2020-03-23,Nevada,Washoe County,Hotel,23.0,"",23.0,13
+2020-03-23,Nevada,Washoe County,Professional & Other Places,47.0,"",47.0,14
+2020-03-23,Nevada,Washoe County,School,42.0,"",42.0,15
+2020-03-23,Nevada,Clark County,Shops & Services,34.0,38.0,34.0,1
+2020-03-23,Nevada,Clark County,Food,24.0,25.0,24.0,2
 2020-03-23,Nevada,Clark County,Grocery,77.0,85.0,77.0,3
-2020-03-23,Nevada,Clark County,Outdoors & Recreation,20.0,19.0,20.0,4
+2020-03-23,Nevada,Clark County,Outdoors & Recreation,59.0,55.0,59.0,4
 2020-03-23,Nevada,Clark County,Fast Food Restaurants,58.0,57.0,58.0,5
-2020-03-23,Nevada,Clark County,Medical,31.0,26.0,31.0,6
+2020-03-23,Nevada,Clark County,Medical,56.0,48.0,57.0,6
 2020-03-23,Nevada,Clark County,Residences,75.0,70.0,75.0,7
 2020-03-23,Nevada,Clark County,Gas Stations,57.0,53.0,57.0,8
 2020-03-23,Nevada,Clark County,Convenience Store,58.0,59.0,58.0,9
 2020-03-23,Nevada,Clark County,Big Box Stores,78.0,75.0,78.0,10
-2020-03-23,Nevada,Clark County,Professional & Other Places,6.0,6.0,6.0,11
-2020-03-23,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,12
+2020-03-23,Nevada,Clark County,Professional & Other Places,26.0,27.0,26.0,11
+2020-03-23,Nevada,Clark County,Arts & Entertainment,6.0,7.0,6.0,12
 2020-03-23,Nevada,Clark County,Drug Store,71.0,94.0,70.0,13
-2020-03-23,Nevada,Clark County,Nightlife Spots,6.0,6.0,6.0,14
-2020-03-23,Nevada,Clark County,School,18.0,17.0,18.0,15
-2020-03-23,Nevada,Clark County,Airport,6.0,7.0,6.0,16
-2020-03-23,Nevada,Clark County,Hotel,7.0,6.0,7.0,17
-2020-03-23,Nevada,Clark County,Office,38.0,42.0,38.0,18
+2020-03-23,Nevada,Clark County,Nightlife Spots,15.0,14.0,15.0,14
+2020-03-23,Nevada,Clark County,School,34.0,32.0,35.0,15
+2020-03-23,Nevada,Clark County,Airport,10.0,13.0,10.0,16
+2020-03-23,Nevada,Clark County,Hotel,10.0,9.0,10.0,17
+2020-03-23,Nevada,Clark County,Office,48.0,57.0,48.0,18
 2020-03-23,Nevada,Clark County,Hardware Stores,85.0,86.0,85.0,19
-2020-03-23,Nevada,Clark County,Sports,16.0,20.0,16.0,20
+2020-03-23,Nevada,Clark County,Sports,58.0,55.0,58.0,20
 2020-03-23,Nevada,Clark County,Discount Stores,71.0,57.0,71.0,21
 2020-03-23,Nevada,Clark County,Banks,61.0,47.0,61.0,22
-2020-03-23,Nevada,Clark County,Fitness Center,17.0,"",17.0,23
-2020-03-23,Nevada,Clark County,Government,21.0,"",21.0,24
-2020-03-23,Nevada,Clark County,Travel & Transport,2.0,"",2.0,25
-2020-03-23,Nevada,Clark County,Colleges & Universities,24.0,"",24.0,26
-2020-03-23,Nevada,Clark County,Bus,28.0,"",28.0,27
-2020-03-24,Nevada,Carson City,Shops & Services,47.0,"",48.0,1
-2020-03-24,Nevada,Clark County,Shops & Services,10.0,10.0,10.0,1
-2020-03-24,Nevada,Clark County,Food,11.0,10.0,11.0,2
+2020-03-23,Nevada,Clark County,Fitness Center,27.0,"",27.0,23
+2020-03-23,Nevada,Clark County,Government,34.0,"",34.0,24
+2020-03-23,Nevada,Clark County,Travel & Transport,23.0,"",23.0,25
+2020-03-23,Nevada,Clark County,Colleges & Universities,27.0,"",27.0,26
+2020-03-23,Nevada,Clark County,Bus,38.0,"",39.0,27
+2020-03-24,Nevada,Carson City,Shops & Services,69.0,"",71.0,1
+2020-03-24,Nevada,Washoe County,Shops & Services,54.0,53.0,54.0,1
+2020-03-24,Nevada,Washoe County,Food,44.0,35.0,44.0,2
+2020-03-24,Nevada,Washoe County,Grocery,73.0,70.0,73.0,3
+2020-03-24,Nevada,Washoe County,Outdoors & Recreation,69.0,74.0,69.0,4
+2020-03-24,Nevada,Washoe County,Medical,50.0,44.0,50.0,5
+2020-03-24,Nevada,Washoe County,Big Box Stores,74.0,"",74.0,6
+2020-03-24,Nevada,Washoe County,Gas Stations,59.0,61.0,59.0,7
+2020-03-24,Nevada,Washoe County,Nightlife Spots,44.0,"",45.0,8
+2020-03-24,Nevada,Washoe County,Fast Food Restaurants,55.0,"",55.0,9
+2020-03-24,Nevada,Washoe County,Convenience Store,70.0,"",70.0,10
+2020-03-24,Nevada,Washoe County,Residences,91.0,"",91.0,11
+2020-03-24,Nevada,Washoe County,Professional & Other Places,46.0,"",47.0,12
+2020-03-24,Nevada,Washoe County,Hotel,28.0,"",28.0,13
+2020-03-24,Nevada,Washoe County,Arts & Entertainment,26.0,"",26.0,14
+2020-03-24,Nevada,Storey County,Professional & Other Places,82.0,"",82.0,1
+2020-03-24,Nevada,Clark County,Shops & Services,35.0,35.0,35.0,1
+2020-03-24,Nevada,Clark County,Food,26.0,24.0,26.0,2
 2020-03-24,Nevada,Clark County,Grocery,74.0,81.0,73.0,3
-2020-03-24,Nevada,Clark County,Outdoors & Recreation,21.0,23.0,21.0,4
+2020-03-24,Nevada,Clark County,Outdoors & Recreation,61.0,68.0,61.0,4
 2020-03-24,Nevada,Clark County,Fast Food Restaurants,59.0,50.0,59.0,5
-2020-03-24,Nevada,Clark County,Medical,28.0,22.0,28.0,6
+2020-03-24,Nevada,Clark County,Medical,51.0,41.0,52.0,6
 2020-03-24,Nevada,Clark County,Gas Stations,61.0,57.0,62.0,7
 2020-03-24,Nevada,Clark County,Residences,71.0,75.0,71.0,8
 2020-03-24,Nevada,Clark County,Big Box Stores,73.0,67.0,73.0,9
 2020-03-24,Nevada,Clark County,Convenience Store,56.0,53.0,56.0,10
-2020-03-24,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,11
-2020-03-24,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,12
-2020-03-24,Nevada,Clark County,School,16.0,19.0,16.0,13
+2020-03-24,Nevada,Clark County,Professional & Other Places,23.0,23.0,23.0,11
+2020-03-24,Nevada,Clark County,Arts & Entertainment,7.0,7.0,7.0,12
+2020-03-24,Nevada,Clark County,School,30.0,36.0,30.0,13
 2020-03-24,Nevada,Clark County,Drug Store,64.0,67.0,64.0,14
-2020-03-24,Nevada,Clark County,Nightlife Spots,7.0,6.0,7.0,15
-2020-03-24,Nevada,Clark County,Office,35.0,32.0,35.0,16
-2020-03-24,Nevada,Clark County,Hotel,8.0,6.0,8.0,17
+2020-03-24,Nevada,Clark County,Nightlife Spots,17.0,14.0,17.0,15
+2020-03-24,Nevada,Clark County,Office,44.0,43.0,44.0,16
+2020-03-24,Nevada,Clark County,Hotel,11.0,8.0,11.0,17
 2020-03-24,Nevada,Clark County,Hardware Stores,86.0,83.0,86.0,18
-2020-03-24,Nevada,Clark County,Airport,5.0,5.0,5.0,19
-2020-03-24,Nevada,Clark County,Sports,16.0,20.0,16.0,20
+2020-03-24,Nevada,Clark County,Airport,9.0,8.0,9.0,19
+2020-03-24,Nevada,Clark County,Sports,64.0,61.0,64.0,20
 2020-03-24,Nevada,Clark County,Discount Stores,64.0,49.0,64.0,21
 2020-03-24,Nevada,Clark County,Banks,50.0,46.0,50.0,22
-2020-03-24,Nevada,Clark County,Government,24.0,"",24.0,23
-2020-03-24,Nevada,Clark County,Fitness Center,13.0,"",13.0,24
-2020-03-24,Nevada,Clark County,Travel & Transport,2.0,"",2.0,25
-2020-03-24,Nevada,Clark County,Colleges & Universities,17.0,"",17.0,26
-2020-03-24,Nevada,Clark County,Bus,29.0,"",29.0,27
-2020-03-24,Nevada,Elko County,Food,29.0,"",29.0,1
+2020-03-24,Nevada,Clark County,Government,37.0,"",38.0,23
+2020-03-24,Nevada,Clark County,Fitness Center,20.0,"",20.0,24
+2020-03-24,Nevada,Clark County,Travel & Transport,25.0,"",24.0,25
+2020-03-24,Nevada,Clark County,Colleges & Universities,19.0,"",19.0,26
+2020-03-24,Nevada,Clark County,Bus,39.0,"",40.0,27
+2020-03-24,Nevada,Elko County,Food,65.0,"",66.0,1
 2020-03-24,Nevada,Lyon County,Gas Stations,92.0,"",93.0,1
-2020-03-24,Nevada,Washoe County,Shops & Services,39.0,37.0,39.0,1
-2020-03-24,Nevada,Washoe County,Food,37.0,29.0,37.0,2
-2020-03-24,Nevada,Washoe County,Grocery,73.0,70.0,73.0,3
-2020-03-24,Nevada,Washoe County,Outdoors & Recreation,23.0,23.0,23.0,4
-2020-03-24,Nevada,Washoe County,Medical,30.0,26.0,30.0,5
-2020-03-24,Nevada,Washoe County,Big Box Stores,74.0,"",74.0,6
-2020-03-24,Nevada,Washoe County,Gas Stations,59.0,61.0,59.0,7
-2020-03-24,Nevada,Washoe County,Nightlife Spots,32.0,"",33.0,8
-2020-03-24,Nevada,Washoe County,Fast Food Restaurants,55.0,"",55.0,9
-2020-03-24,Nevada,Washoe County,Convenience Store,70.0,"",70.0,10
-2020-03-24,Nevada,Washoe County,Residences,91.0,"",91.0,11
-2020-03-24,Nevada,Washoe County,Professional & Other Places,7.0,"",7.0,12
-2020-03-24,Nevada,Washoe County,Hotel,21.0,"",21.0,13
-2020-03-24,Nevada,Washoe County,Arts & Entertainment,25.0,"",25.0,14
-2020-03-24,Nevada,Storey County,Professional & Other Places,82.0,"",82.0,1
-2020-03-25,Nevada,Storey County,Professional & Other Places,81.0,"",81.0,1
-2020-03-25,Nevada,Lyon County,Gas Stations,94.0,"",96.0,1
-2020-03-25,Nevada,Washoe County,Shops & Services,37.0,29.0,37.0,1
-2020-03-25,Nevada,Washoe County,Food,38.0,36.0,38.0,2
-2020-03-25,Nevada,Washoe County,Outdoors & Recreation,26.0,22.0,26.0,3
-2020-03-25,Nevada,Washoe County,Grocery,75.0,73.0,75.0,4
-2020-03-25,Nevada,Washoe County,Medical,32.0,27.0,32.0,5
-2020-03-25,Nevada,Washoe County,Big Box Stores,85.0,63.0,87.0,6
-2020-03-25,Nevada,Washoe County,Gas Stations,64.0,"",64.0,7
-2020-03-25,Nevada,Washoe County,Fast Food Restaurants,62.0,66.0,62.0,8
-2020-03-25,Nevada,Washoe County,Nightlife Spots,29.0,"",30.0,9
-2020-03-25,Nevada,Washoe County,Professional & Other Places,7.0,"",7.0,10
-2020-03-25,Nevada,Washoe County,Residences,78.0,"",80.0,11
-2020-03-25,Nevada,Washoe County,Convenience Store,56.0,"",57.0,12
-2020-03-25,Nevada,Washoe County,Arts & Entertainment,27.0,"",27.0,13
-2020-03-25,Nevada,Washoe County,School,17.0,"",17.0,14
-2020-03-25,Nevada,Washoe County,Hotel,20.0,"",20.0,15
-2020-03-25,Nevada,Washoe County,Office,54.0,"",55.0,16
-2020-03-25,Nevada,Carson City,Shops & Services,43.0,"",44.0,1
-2020-03-25,Nevada,Elko County,Food,24.0,"",24.0,1
+2020-03-25,Nevada,Elko County,Food,54.0,"",55.0,1
 2020-03-25,Nevada,Elko County,Gas Stations,83.0,"",83.0,2
-2020-03-25,Nevada,Clark County,Shops & Services,10.0,9.0,10.0,1
-2020-03-25,Nevada,Clark County,Food,11.0,8.0,11.0,2
+2020-03-25,Nevada,Storey County,Professional & Other Places,81.0,"",81.0,1
+2020-03-25,Nevada,Clark County,Shops & Services,35.0,33.0,35.0,1
+2020-03-25,Nevada,Clark County,Food,26.0,19.0,26.0,2
 2020-03-25,Nevada,Clark County,Grocery,75.0,71.0,75.0,3
-2020-03-25,Nevada,Clark County,Outdoors & Recreation,19.0,18.0,19.0,4
+2020-03-25,Nevada,Clark County,Outdoors & Recreation,57.0,53.0,57.0,4
 2020-03-25,Nevada,Clark County,Fast Food Restaurants,57.0,44.0,58.0,5
 2020-03-25,Nevada,Clark County,Residences,72.0,62.0,72.0,6
-2020-03-25,Nevada,Clark County,Medical,25.0,21.0,26.0,7
+2020-03-25,Nevada,Clark County,Medical,46.0,38.0,47.0,7
 2020-03-25,Nevada,Clark County,Gas Stations,60.0,41.0,61.0,8
 2020-03-25,Nevada,Clark County,Convenience Store,59.0,49.0,60.0,9
 2020-03-25,Nevada,Clark County,Big Box Stores,76.0,61.0,77.0,10
-2020-03-25,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,11
-2020-03-25,Nevada,Clark County,Arts & Entertainment,4.0,3.0,4.0,12
-2020-03-25,Nevada,Clark County,School,15.0,20.0,15.0,13
+2020-03-25,Nevada,Clark County,Professional & Other Places,23.0,22.0,23.0,11
+2020-03-25,Nevada,Clark County,Arts & Entertainment,8.0,7.0,8.0,12
+2020-03-25,Nevada,Clark County,School,28.0,37.0,28.0,13
 2020-03-25,Nevada,Clark County,Drug Store,65.0,72.0,64.0,14
-2020-03-25,Nevada,Clark County,Nightlife Spots,6.0,6.0,6.0,15
-2020-03-25,Nevada,Clark County,Hotel,8.0,7.0,8.0,16
-2020-03-25,Nevada,Clark County,Office,33.0,28.0,33.0,17
-2020-03-25,Nevada,Clark County,Airport,7.0,7.0,7.0,18
+2020-03-25,Nevada,Clark County,Nightlife Spots,15.0,15.0,15.0,15
+2020-03-25,Nevada,Clark County,Hotel,12.0,10.0,12.0,16
+2020-03-25,Nevada,Clark County,Office,42.0,37.0,42.0,17
+2020-03-25,Nevada,Clark County,Airport,11.0,11.0,11.0,18
 2020-03-25,Nevada,Clark County,Hardware Stores,88.0,65.0,90.0,19
 2020-03-25,Nevada,Clark County,Discount Stores,66.0,47.0,67.0,20
-2020-03-25,Nevada,Clark County,Sports,14.0,18.0,14.0,20
-2020-03-25,Nevada,Clark County,Banks,50.0,57.0,49.0,21
-2020-03-25,Nevada,Clark County,Fitness Center,16.0,"",16.0,22
-2020-03-25,Nevada,Clark County,Government,21.0,"",21.0,23
-2020-03-25,Nevada,Clark County,Travel & Transport,2.0,"",2.0,24
-2020-03-25,Nevada,Clark County,Colleges & Universities,15.0,"",15.0,25
-2020-03-25,Nevada,Clark County,Bus,29.0,"",29.0,26
-2020-03-26,Nevada,Storey County,Professional & Other Places,80.0,"",79.0,1
-2020-03-26,Nevada,Carson City,Shops & Services,46.0,56.0,45.0,1
-2020-03-26,Nevada,Clark County,Shops & Services,10.0,10.0,10.0,1
-2020-03-26,Nevada,Clark County,Food,11.0,9.0,11.0,2
+2020-03-25,Nevada,Clark County,Sports,53.0,51.0,53.0,21
+2020-03-25,Nevada,Clark County,Banks,50.0,57.0,49.0,22
+2020-03-25,Nevada,Clark County,Fitness Center,25.0,"",25.0,23
+2020-03-25,Nevada,Clark County,Government,31.0,"",32.0,24
+2020-03-25,Nevada,Clark County,Travel & Transport,21.0,"",20.0,25
+2020-03-25,Nevada,Clark County,Colleges & Universities,17.0,"",17.0,26
+2020-03-25,Nevada,Clark County,Bus,38.0,"",38.0,27
+2020-03-25,Nevada,Carson City,Shops & Services,64.0,"",66.0,1
+2020-03-25,Nevada,Lyon County,Gas Stations,94.0,"",96.0,1
+2020-03-25,Nevada,Washoe County,Shops & Services,51.0,41.0,51.0,1
+2020-03-25,Nevada,Washoe County,Food,44.0,42.0,44.0,2
+2020-03-25,Nevada,Washoe County,Outdoors & Recreation,77.0,68.0,78.0,3
+2020-03-25,Nevada,Washoe County,Grocery,75.0,73.0,75.0,4
+2020-03-25,Nevada,Washoe County,Medical,52.0,45.0,52.0,5
+2020-03-25,Nevada,Washoe County,Big Box Stores,85.0,63.0,87.0,6
+2020-03-25,Nevada,Washoe County,Gas Stations,64.0,"",64.0,7
+2020-03-25,Nevada,Washoe County,Fast Food Restaurants,62.0,66.0,62.0,8
+2020-03-25,Nevada,Washoe County,Nightlife Spots,41.0,"",42.0,9
+2020-03-25,Nevada,Washoe County,Professional & Other Places,50.0,"",50.0,10
+2020-03-25,Nevada,Washoe County,Residences,78.0,"",80.0,11
+2020-03-25,Nevada,Washoe County,Convenience Store,56.0,"",57.0,12
+2020-03-25,Nevada,Washoe County,Arts & Entertainment,28.0,"",28.0,13
+2020-03-25,Nevada,Washoe County,School,33.0,"",33.0,14
+2020-03-25,Nevada,Washoe County,Hotel,26.0,"",27.0,15
+2020-03-25,Nevada,Washoe County,Office,64.0,"",66.0,16
+2020-03-26,Nevada,Washoe County,Shops & Services,54.0,45.0,55.0,1
+2020-03-26,Nevada,Washoe County,Food,42.0,35.0,43.0,2
+2020-03-26,Nevada,Washoe County,Outdoors & Recreation,71.0,59.0,71.0,3
+2020-03-26,Nevada,Washoe County,Grocery,67.0,57.0,68.0,4
+2020-03-26,Nevada,Washoe County,Medical,62.0,57.0,62.0,5
+2020-03-26,Nevada,Washoe County,Gas Stations,67.0,74.0,67.0,6
+2020-03-26,Nevada,Washoe County,Fast Food Restaurants,64.0,"",65.0,7
+2020-03-26,Nevada,Washoe County,Big Box Stores,67.0,"",68.0,8
+2020-03-26,Nevada,Washoe County,Nightlife Spots,36.0,"",36.0,9
+2020-03-26,Nevada,Washoe County,School,37.0,"",38.0,10
+2020-03-26,Nevada,Washoe County,Professional & Other Places,44.0,"",44.0,11
+2020-03-26,Nevada,Washoe County,Residences,78.0,"",79.0,12
+2020-03-26,Nevada,Washoe County,Arts & Entertainment,27.0,"",28.0,13
+2020-03-26,Nevada,Washoe County,Convenience Store,55.0,"",55.0,14
+2020-03-26,Nevada,Washoe County,Hotel,27.0,"",27.0,15
+2020-03-26,Nevada,Clark County,Shops & Services,34.0,32.0,34.0,1
+2020-03-26,Nevada,Clark County,Food,25.0,21.0,25.0,2
 2020-03-26,Nevada,Clark County,Grocery,73.0,64.0,73.0,3
-2020-03-26,Nevada,Clark County,Outdoors & Recreation,18.0,17.0,19.0,4
+2020-03-26,Nevada,Clark County,Outdoors & Recreation,53.0,50.0,54.0,4
 2020-03-26,Nevada,Clark County,Fast Food Restaurants,58.0,56.0,58.0,5
 2020-03-26,Nevada,Clark County,Residences,73.0,68.0,73.0,6
 2020-03-26,Nevada,Clark County,Gas Stations,59.0,47.0,59.0,7
 2020-03-26,Nevada,Clark County,Big Box Stores,76.0,62.0,77.0,8
-2020-03-26,Nevada,Clark County,Medical,25.0,22.0,25.0,8
-2020-03-26,Nevada,Clark County,Convenience Store,56.0,49.0,57.0,9
-2020-03-26,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,10
-2020-03-26,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,11
-2020-03-26,Nevada,Clark County,School,15.0,17.0,15.0,12
-2020-03-26,Nevada,Clark County,Drug Store,56.0,60.0,56.0,13
-2020-03-26,Nevada,Clark County,Nightlife Spots,6.0,6.0,6.0,14
-2020-03-26,Nevada,Clark County,Office,34.0,34.0,34.0,15
-2020-03-26,Nevada,Clark County,Hotel,7.0,6.0,8.0,16
-2020-03-26,Nevada,Clark County,Hardware Stores,90.0,76.0,91.0,17
-2020-03-26,Nevada,Clark County,Airport,6.0,"",6.0,18
-2020-03-26,Nevada,Clark County,Sports,16.0,15.0,16.0,19
-2020-03-26,Nevada,Clark County,Discount Stores,62.0,"",63.0,20
-2020-03-26,Nevada,Clark County,Banks,52.0,40.0,52.0,21
-2020-03-26,Nevada,Clark County,Fitness Center,15.0,"",15.0,22
-2020-03-26,Nevada,Clark County,Government,20.0,"",20.0,23
-2020-03-26,Nevada,Clark County,Colleges & Universities,19.0,"",19.0,24
-2020-03-26,Nevada,Clark County,Travel & Transport,1.0,"",1.0,25
-2020-03-26,Nevada,Clark County,Bus,28.0,"",28.0,26
-2020-03-26,Nevada,Nye County,Gas Stations,74.0,"",74.0,1
+2020-03-26,Nevada,Clark County,Medical,46.0,40.0,46.0,9
+2020-03-26,Nevada,Clark County,Convenience Store,56.0,49.0,57.0,10
+2020-03-26,Nevada,Clark County,Professional & Other Places,24.0,24.0,24.0,11
+2020-03-26,Nevada,Clark County,Arts & Entertainment,7.0,6.0,7.0,12
+2020-03-26,Nevada,Clark County,School,28.0,31.0,28.0,13
+2020-03-26,Nevada,Clark County,Drug Store,56.0,60.0,56.0,14
+2020-03-26,Nevada,Clark County,Nightlife Spots,15.0,14.0,15.0,15
+2020-03-26,Nevada,Clark County,Office,43.0,45.0,43.0,16
+2020-03-26,Nevada,Clark County,Hotel,10.0,8.0,11.0,17
+2020-03-26,Nevada,Clark County,Hardware Stores,90.0,76.0,91.0,18
+2020-03-26,Nevada,Clark County,Airport,9.0,"",10.0,19
+2020-03-26,Nevada,Clark County,Sports,57.0,43.0,58.0,20
+2020-03-26,Nevada,Clark County,Discount Stores,62.0,"",63.0,21
+2020-03-26,Nevada,Clark County,Banks,52.0,40.0,52.0,22
+2020-03-26,Nevada,Clark County,Fitness Center,23.0,"",23.0,23
+2020-03-26,Nevada,Clark County,Government,32.0,"",32.0,24
+2020-03-26,Nevada,Clark County,Colleges & Universities,21.0,"",21.0,25
+2020-03-26,Nevada,Clark County,Travel & Transport,19.0,"",19.0,26
+2020-03-26,Nevada,Clark County,Bus,39.0,"",39.0,27
+2020-03-26,Nevada,Storey County,Professional & Other Places,80.0,"",79.0,1
+2020-03-26,Nevada,Carson City,Shops & Services,68.0,77.0,67.0,1
 2020-03-26,Nevada,Elko County,Gas Stations,87.0,"",88.0,1
-2020-03-26,Nevada,Elko County,Food,22.0,"",22.0,2
-2020-03-26,Nevada,Washoe County,Shops & Services,39.0,32.0,40.0,1
-2020-03-26,Nevada,Washoe County,Food,18.0,15.0,18.0,2
-2020-03-26,Nevada,Washoe County,Outdoors & Recreation,24.0,18.0,24.0,3
-2020-03-26,Nevada,Washoe County,Grocery,67.0,57.0,68.0,4
-2020-03-26,Nevada,Washoe County,Medical,38.0,35.0,38.0,5
-2020-03-26,Nevada,Washoe County,Gas Stations,67.0,74.0,67.0,6
-2020-03-26,Nevada,Washoe County,Fast Food Restaurants,64.0,"",65.0,7
-2020-03-26,Nevada,Washoe County,Big Box Stores,67.0,"",68.0,8
-2020-03-26,Nevada,Washoe County,Nightlife Spots,25.0,"",26.0,9
-2020-03-26,Nevada,Washoe County,School,19.0,"",19.0,10
-2020-03-26,Nevada,Washoe County,Professional & Other Places,7.0,"",7.0,11
-2020-03-26,Nevada,Washoe County,Arts & Entertainment,26.0,"",26.0,12
-2020-03-26,Nevada,Washoe County,Residences,78.0,"",79.0,12
-2020-03-26,Nevada,Washoe County,Convenience Store,55.0,"",55.0,13
-2020-03-26,Nevada,Washoe County,Hotel,20.0,"",21.0,14
-2020-03-26,Nevada,Lyon County,Food,34.0,"",35.0,1
+2020-03-26,Nevada,Elko County,Food,52.0,"",53.0,2
+2020-03-26,Nevada,Nye County,Gas Stations,74.0,"",74.0,1
+2020-03-26,Nevada,Lyon County,Food,80.0,"",82.0,1
 2020-03-26,Nevada,Lyon County,Gas Stations,103.0,"",104.0,2
-2020-03-27,Nevada,Storey County,Professional & Other Places,75.0,"",74.0,1
-2020-03-27,Nevada,Elko County,Food,40.0,"",40.0,1
-2020-03-27,Nevada,Washoe County,Shops & Services,35.0,29.0,36.0,1
-2020-03-27,Nevada,Washoe County,Food,33.0,25.0,34.0,2
-2020-03-27,Nevada,Washoe County,Outdoors & Recreation,27.0,25.0,27.0,3
-2020-03-27,Nevada,Washoe County,Grocery,76.0,78.0,76.0,4
-2020-03-27,Nevada,Washoe County,Medical,33.0,29.0,33.0,5
-2020-03-27,Nevada,Washoe County,Big Box Stores,70.0,65.0,71.0,5
-2020-03-27,Nevada,Washoe County,Gas Stations,60.0,"",60.0,6
-2020-03-27,Nevada,Washoe County,Fast Food Restaurants,57.0,"",58.0,7
-2020-03-27,Nevada,Washoe County,Nightlife Spots,26.0,"",26.0,8
-2020-03-27,Nevada,Washoe County,Convenience Store,60.0,"",61.0,9
-2020-03-27,Nevada,Washoe County,Arts & Entertainment,27.0,"",27.0,9
-2020-03-27,Nevada,Washoe County,School,19.0,"",19.0,10
-2020-03-27,Nevada,Washoe County,Residences,80.0,"",80.0,11
-2020-03-27,Nevada,Washoe County,Office,70.0,"",72.0,12
-2020-03-27,Nevada,Washoe County,Hotel,19.0,"",19.0,13
-2020-03-27,Nevada,Washoe County,Professional & Other Places,6.0,"",6.0,14
-2020-03-27,Nevada,Carson City,Shops & Services,46.0,"",47.0,1
-2020-03-27,Nevada,Lyon County,Food,32.0,"",32.0,1
-2020-03-27,Nevada,Clark County,Shops & Services,10.0,9.0,10.0,1
-2020-03-27,Nevada,Clark County,Food,10.0,9.0,10.0,2
+2020-03-27,Nevada,Clark County,Shops & Services,32.0,31.0,32.0,1
+2020-03-27,Nevada,Clark County,Food,24.0,20.0,24.0,2
 2020-03-27,Nevada,Clark County,Grocery,72.0,66.0,72.0,3
-2020-03-27,Nevada,Clark County,Outdoors & Recreation,18.0,18.0,18.0,4
+2020-03-27,Nevada,Clark County,Outdoors & Recreation,52.0,54.0,52.0,4
 2020-03-27,Nevada,Clark County,Fast Food Restaurants,58.0,57.0,58.0,5
 2020-03-27,Nevada,Clark County,Residences,72.0,66.0,72.0,6
 2020-03-27,Nevada,Clark County,Gas Stations,54.0,45.0,55.0,7
 2020-03-27,Nevada,Clark County,Big Box Stores,70.0,63.0,71.0,8
 2020-03-27,Nevada,Clark County,Convenience Store,53.0,47.0,54.0,9
-2020-03-27,Nevada,Clark County,Medical,25.0,23.0,26.0,10
-2020-03-27,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,11
-2020-03-27,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,12
-2020-03-27,Nevada,Clark County,School,16.0,19.0,16.0,13
+2020-03-27,Nevada,Clark County,Medical,47.0,43.0,47.0,10
+2020-03-27,Nevada,Clark County,Professional & Other Places,23.0,22.0,23.0,11
+2020-03-27,Nevada,Clark County,Arts & Entertainment,6.0,5.0,6.0,12
+2020-03-27,Nevada,Clark County,School,31.0,36.0,30.0,13
 2020-03-27,Nevada,Clark County,Drug Store,58.0,59.0,58.0,14
-2020-03-27,Nevada,Clark County,Nightlife Spots,6.0,6.0,6.0,15
+2020-03-27,Nevada,Clark County,Nightlife Spots,14.0,14.0,14.0,15
 2020-03-27,Nevada,Clark County,Hardware Stores,101.0,89.0,101.0,16
-2020-03-27,Nevada,Clark County,Hotel,7.0,7.0,7.0,17
-2020-03-27,Nevada,Clark County,Airport,5.0,5.0,5.0,18
-2020-03-27,Nevada,Clark County,Office,30.0,28.0,30.0,19
+2020-03-27,Nevada,Clark County,Hotel,10.0,9.0,10.0,17
+2020-03-27,Nevada,Clark County,Airport,8.0,9.0,8.0,18
+2020-03-27,Nevada,Clark County,Office,38.0,37.0,38.0,19
 2020-03-27,Nevada,Clark County,Banks,57.0,41.0,57.0,20
-2020-03-27,Nevada,Clark County,Sports,16.0,20.0,16.0,21
+2020-03-27,Nevada,Clark County,Sports,56.0,57.0,56.0,21
 2020-03-27,Nevada,Clark County,Discount Stores,62.0,"",63.0,22
-2020-03-27,Nevada,Clark County,Fitness Center,15.0,"",16.0,23
-2020-03-27,Nevada,Clark County,Government,18.0,"",18.0,24
-2020-03-27,Nevada,Clark County,Travel & Transport,1.0,"",1.0,25
-2020-03-27,Nevada,Clark County,Colleges & Universities,18.0,"",18.0,26
-2020-03-27,Nevada,Clark County,Bus,25.0,"",26.0,27
-2020-03-28,Nevada,Carson City,Shops & Services,35.0,"",35.0,1
-2020-03-28,Nevada,Elko County,Gas Stations,84.0,"",84.0,1
-2020-03-28,Nevada,Clark County,Shops & Services,8.0,9.0,8.0,1
-2020-03-28,Nevada,Clark County,Food,9.0,9.0,9.0,2
+2020-03-27,Nevada,Clark County,Fitness Center,24.0,"",24.0,23
+2020-03-27,Nevada,Clark County,Government,28.0,"",28.0,24
+2020-03-27,Nevada,Clark County,Travel & Transport,18.0,"",18.0,25
+2020-03-27,Nevada,Clark County,Colleges & Universities,20.0,"",20.0,26
+2020-03-27,Nevada,Clark County,Bus,35.0,"",35.0,27
+2020-03-27,Nevada,Carson City,Shops & Services,65.0,"",67.0,1
+2020-03-27,Nevada,Elko County,Food,40.0,"",41.0,1
+2020-03-27,Nevada,Washoe County,Shops & Services,49.0,41.0,49.0,1
+2020-03-27,Nevada,Washoe County,Food,39.0,29.0,40.0,2
+2020-03-27,Nevada,Washoe County,Outdoors & Recreation,80.0,79.0,80.0,3
+2020-03-27,Nevada,Washoe County,Grocery,76.0,78.0,76.0,4
+2020-03-27,Nevada,Washoe County,Big Box Stores,70.0,65.0,71.0,5
+2020-03-27,Nevada,Washoe County,Medical,54.0,50.0,55.0,6
+2020-03-27,Nevada,Washoe County,Gas Stations,60.0,"",60.0,7
+2020-03-27,Nevada,Washoe County,Fast Food Restaurants,57.0,"",58.0,8
+2020-03-27,Nevada,Washoe County,Nightlife Spots,36.0,"",37.0,9
+2020-03-27,Nevada,Washoe County,Convenience Store,60.0,"",61.0,10
+2020-03-27,Nevada,Washoe County,Arts & Entertainment,29.0,"",29.0,11
+2020-03-27,Nevada,Washoe County,School,37.0,"",37.0,12
+2020-03-27,Nevada,Washoe County,Residences,80.0,"",80.0,13
+2020-03-27,Nevada,Washoe County,Office,86.0,"",88.0,14
+2020-03-27,Nevada,Washoe County,Hotel,25.0,"",25.0,15
+2020-03-27,Nevada,Washoe County,Professional & Other Places,39.0,"",38.0,16
+2020-03-27,Nevada,Lyon County,Food,73.0,"",74.0,1
+2020-03-27,Nevada,Storey County,Professional & Other Places,75.0,"",74.0,1
+2020-03-28,Nevada,Clark County,Shops & Services,27.0,31.0,27.0,1
+2020-03-28,Nevada,Clark County,Food,21.0,21.0,21.0,2
 2020-03-28,Nevada,Clark County,Grocery,70.0,64.0,70.0,3
-2020-03-28,Nevada,Clark County,Outdoors & Recreation,18.0,19.0,18.0,4
+2020-03-28,Nevada,Clark County,Outdoors & Recreation,49.0,54.0,49.0,4
 2020-03-28,Nevada,Clark County,Fast Food Restaurants,54.0,50.0,55.0,5
 2020-03-28,Nevada,Clark County,Big Box Stores,71.0,58.0,71.0,6
 2020-03-28,Nevada,Clark County,Residences,68.0,69.0,68.0,7
 2020-03-28,Nevada,Clark County,Gas Stations,55.0,55.0,55.0,8
 2020-03-28,Nevada,Clark County,Convenience Store,52.0,38.0,53.0,9
 2020-03-28,Nevada,Clark County,Drug Store,61.0,60.0,61.0,10
-2020-03-28,Nevada,Clark County,Arts & Entertainment,2.0,2.0,2.0,11
-2020-03-28,Nevada,Clark County,Professional & Other Places,5.0,5.0,5.0,12
-2020-03-28,Nevada,Clark County,Medical,25.0,27.0,25.0,13
-2020-03-28,Nevada,Clark County,Nightlife Spots,4.0,6.0,4.0,14
+2020-03-28,Nevada,Clark County,Arts & Entertainment,4.0,4.0,4.0,11
+2020-03-28,Nevada,Clark County,Professional & Other Places,18.0,17.0,18.0,12
+2020-03-28,Nevada,Clark County,Medical,45.0,50.0,45.0,13
+2020-03-28,Nevada,Clark County,Nightlife Spots,10.0,15.0,10.0,14
 2020-03-28,Nevada,Clark County,Hardware Stores,92.0,74.0,93.0,15
-2020-03-28,Nevada,Clark County,School,26.0,25.0,26.0,16
-2020-03-28,Nevada,Clark County,Hotel,5.0,5.0,5.0,17
-2020-03-28,Nevada,Clark County,Airport,5.0,"",5.0,18
+2020-03-28,Nevada,Clark County,School,48.0,46.0,48.0,16
+2020-03-28,Nevada,Clark County,Hotel,6.0,7.0,6.0,17
+2020-03-28,Nevada,Clark County,Airport,9.0,"",9.0,18
 2020-03-28,Nevada,Clark County,Discount Stores,66.0,59.0,66.0,19
-2020-03-28,Nevada,Clark County,Sports,15.0,26.0,14.0,20
+2020-03-28,Nevada,Clark County,Sports,50.0,70.0,49.0,20
 2020-03-28,Nevada,Clark County,Banks,39.0,"",39.0,21
-2020-03-28,Nevada,Clark County,Office,30.0,"",30.0,22
-2020-03-28,Nevada,Clark County,Fitness Center,14.0,"",14.0,23
-2020-03-28,Nevada,Clark County,Government,17.0,"",17.0,24
-2020-03-28,Nevada,Clark County,Travel & Transport,1.0,"",1.0,25
-2020-03-28,Nevada,Clark County,Colleges & Universities,22.0,"",22.0,26
-2020-03-28,Nevada,Washoe County,Food,29.0,24.0,29.0,1
-2020-03-28,Nevada,Washoe County,Shops & Services,28.0,21.0,28.0,2
-2020-03-28,Nevada,Washoe County,Outdoors & Recreation,29.0,32.0,29.0,3
+2020-03-28,Nevada,Clark County,Office,39.0,"",39.0,22
+2020-03-28,Nevada,Clark County,Fitness Center,21.0,"",21.0,23
+2020-03-28,Nevada,Clark County,Government,29.0,"",28.0,24
+2020-03-28,Nevada,Clark County,Travel & Transport,20.0,"",20.0,25
+2020-03-28,Nevada,Clark County,Colleges & Universities,25.0,"",24.0,26
+2020-03-28,Nevada,Carson City,Shops & Services,52.0,"",53.0,1
+2020-03-28,Nevada,Washoe County,Food,35.0,28.0,35.0,1
+2020-03-28,Nevada,Washoe County,Shops & Services,40.0,32.0,40.0,2
+2020-03-28,Nevada,Washoe County,Outdoors & Recreation,82.0,93.0,82.0,3
 2020-03-28,Nevada,Washoe County,Grocery,75.0,53.0,76.0,4
 2020-03-28,Nevada,Washoe County,Big Box Stores,72.0,"",72.0,5
 2020-03-28,Nevada,Washoe County,Fast Food Restaurants,57.0,"",58.0,6
-2020-03-28,Nevada,Washoe County,Nightlife Spots,19.0,"",19.0,7
+2020-03-28,Nevada,Washoe County,Nightlife Spots,27.0,"",27.0,7
 2020-03-28,Nevada,Washoe County,Gas Stations,46.0,"",46.0,8
 2020-03-28,Nevada,Washoe County,Convenience Store,66.0,"",67.0,9
 2020-03-28,Nevada,Washoe County,Hardware Stores,93.0,95.0,93.0,10
 2020-03-28,Nevada,Washoe County,Residences,80.0,"",79.0,11
-2020-03-28,Nevada,Washoe County,School,33.0,"",33.0,12
-2020-03-28,Nevada,Washoe County,Arts & Entertainment,16.0,"",16.0,13
-2020-03-29,Nevada,Washoe County,Food,11.0,10.0,12.0,1
-2020-03-29,Nevada,Washoe County,Shops & Services,22.0,18.0,22.0,2
-2020-03-29,Nevada,Washoe County,Grocery,56.0,44.0,57.0,3
-2020-03-29,Nevada,Washoe County,Outdoors & Recreation,22.0,24.0,22.0,4
-2020-03-29,Nevada,Washoe County,Big Box Stores,61.0,"",61.0,5
-2020-03-29,Nevada,Washoe County,Fast Food Restaurants,58.0,"",57.0,6
-2020-03-29,Nevada,Washoe County,Gas Stations,47.0,"",48.0,7
-2020-03-29,Nevada,Washoe County,Nightlife Spots,14.0,"",14.0,8
-2020-03-29,Nevada,Washoe County,Convenience Store,62.0,"",62.0,9
-2020-03-29,Nevada,Clark County,Food,7.0,7.0,7.0,1
-2020-03-29,Nevada,Clark County,Shops & Services,6.0,7.0,6.0,2
+2020-03-28,Nevada,Washoe County,School,66.0,"",67.0,12
+2020-03-28,Nevada,Washoe County,Arts & Entertainment,17.0,"",17.0,13
+2020-03-28,Nevada,Elko County,Gas Stations,84.0,"",84.0,1
+2020-03-29,Nevada,Clark County,Food,17.0,15.0,17.0,1
+2020-03-29,Nevada,Clark County,Shops & Services,21.0,24.0,21.0,2
 2020-03-29,Nevada,Clark County,Grocery,57.0,52.0,57.0,3
-2020-03-29,Nevada,Clark County,Outdoors & Recreation,14.0,17.0,14.0,4
+2020-03-29,Nevada,Clark County,Outdoors & Recreation,40.0,47.0,39.0,4
 2020-03-29,Nevada,Clark County,Fast Food Restaurants,51.0,48.0,51.0,5
 2020-03-29,Nevada,Clark County,Big Box Stores,58.0,56.0,58.0,6
 2020-03-29,Nevada,Clark County,Residences,56.0,58.0,56.0,7
 2020-03-29,Nevada,Clark County,Gas Stations,47.0,40.0,47.0,8
 2020-03-29,Nevada,Clark County,Convenience Store,45.0,33.0,46.0,9
-2020-03-29,Nevada,Clark County,Arts & Entertainment,3.0,2.0,3.0,10
+2020-03-29,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,10
 2020-03-29,Nevada,Clark County,Drug Store,52.0,57.0,52.0,11
-2020-03-29,Nevada,Clark County,Professional & Other Places,4.0,4.0,4.0,12
+2020-03-29,Nevada,Clark County,Professional & Other Places,13.0,15.0,13.0,12
 2020-03-29,Nevada,Clark County,Hardware Stores,81.0,75.0,81.0,13
-2020-03-29,Nevada,Clark County,Medical,24.0,23.0,24.0,14
-2020-03-29,Nevada,Clark County,Airport,5.0,5.0,5.0,15
-2020-03-29,Nevada,Clark County,School,25.0,32.0,25.0,16
-2020-03-29,Nevada,Clark County,Nightlife Spots,3.0,"",3.0,17
+2020-03-29,Nevada,Clark County,Medical,43.0,41.0,43.0,14
+2020-03-29,Nevada,Clark County,Airport,8.0,9.0,8.0,15
+2020-03-29,Nevada,Clark County,School,46.0,61.0,45.0,16
+2020-03-29,Nevada,Clark County,Nightlife Spots,7.0,"",7.0,17
 2020-03-29,Nevada,Clark County,Discount Stores,54.0,"",55.0,18
-2020-03-29,Nevada,Clark County,Hotel,3.0,"",3.0,19
-2020-03-29,Nevada,Clark County,Sports,13.0,23.0,12.0,20
-2020-03-29,Nevada,Clark County,Fitness Center,15.0,"",15.0,21
-2020-03-29,Nevada,Clark County,Office,24.0,"",24.0,22
+2020-03-29,Nevada,Clark County,Hotel,5.0,"",5.0,19
+2020-03-29,Nevada,Clark County,Sports,40.0,59.0,38.0,20
+2020-03-29,Nevada,Clark County,Fitness Center,23.0,"",23.0,21
+2020-03-29,Nevada,Clark County,Office,34.0,"",34.0,22
 2020-03-29,Nevada,Clark County,Banks,41.0,"",41.0,23
-2020-03-29,Nevada,Clark County,Government,14.0,"",14.0,24
-2020-03-29,Nevada,Clark County,Travel & Transport,1.0,"",1.0,25
-2020-03-30,Nevada,Clark County,Shops & Services,9.0,11.0,9.0,1
-2020-03-30,Nevada,Clark County,Food,9.0,9.0,9.0,2
+2020-03-29,Nevada,Clark County,Government,25.0,"",25.0,24
+2020-03-29,Nevada,Clark County,Travel & Transport,11.0,"",11.0,25
+2020-03-29,Nevada,Washoe County,Food,27.0,23.0,27.0,1
+2020-03-29,Nevada,Washoe County,Shops & Services,33.0,31.0,34.0,2
+2020-03-29,Nevada,Washoe County,Grocery,56.0,44.0,57.0,3
+2020-03-29,Nevada,Washoe County,Outdoors & Recreation,59.0,67.0,59.0,4
+2020-03-29,Nevada,Washoe County,Big Box Stores,61.0,"",61.0,5
+2020-03-29,Nevada,Washoe County,Fast Food Restaurants,58.0,"",57.0,6
+2020-03-29,Nevada,Washoe County,Gas Stations,47.0,"",48.0,7
+2020-03-29,Nevada,Washoe County,Nightlife Spots,19.0,"",19.0,8
+2020-03-29,Nevada,Washoe County,Convenience Store,62.0,"",62.0,9
+2020-03-30,Nevada,Washoe County,Shops & Services,49.0,51.0,48.0,1
+2020-03-30,Nevada,Washoe County,Food,33.0,36.0,33.0,2
+2020-03-30,Nevada,Washoe County,Outdoors & Recreation,70.0,88.0,69.0,3
+2020-03-30,Nevada,Washoe County,Grocery,69.0,62.0,69.0,4
+2020-03-30,Nevada,Washoe County,Big Box Stores,71.0,"",71.0,5
+2020-03-30,Nevada,Washoe County,Gas Stations,53.0,"",54.0,6
+2020-03-30,Nevada,Washoe County,Medical,47.0,46.0,47.0,7
+2020-03-30,Nevada,Washoe County,Fast Food Restaurants,60.0,"",61.0,8
+2020-03-30,Nevada,Washoe County,Nightlife Spots,33.0,"",34.0,9
+2020-03-30,Nevada,Washoe County,Convenience Store,60.0,"",59.0,10
+2020-03-30,Nevada,Washoe County,Residences,72.0,"",73.0,11
+2020-03-30,Nevada,Clark County,Shops & Services,30.0,37.0,30.0,1
+2020-03-30,Nevada,Clark County,Food,22.0,20.0,22.0,2
 2020-03-30,Nevada,Clark County,Grocery,67.0,69.0,67.0,3
-2020-03-30,Nevada,Clark County,Outdoors & Recreation,18.0,20.0,17.0,4
+2020-03-30,Nevada,Clark County,Outdoors & Recreation,49.0,56.0,49.0,4
 2020-03-30,Nevada,Clark County,Fast Food Restaurants,57.0,66.0,57.0,5
 2020-03-30,Nevada,Clark County,Residences,67.0,60.0,67.0,6
 2020-03-30,Nevada,Clark County,Gas Stations,54.0,46.0,54.0,7
 2020-03-30,Nevada,Clark County,Convenience Store,53.0,45.0,53.0,8
-2020-03-30,Nevada,Clark County,Medical,25.0,21.0,25.0,9
+2020-03-30,Nevada,Clark County,Medical,46.0,39.0,46.0,9
 2020-03-30,Nevada,Clark County,Big Box Stores,70.0,67.0,70.0,10
-2020-03-30,Nevada,Clark County,Professional & Other Places,6.0,5.0,6.0,11
+2020-03-30,Nevada,Clark County,Professional & Other Places,22.0,21.0,22.0,11
 2020-03-30,Nevada,Clark County,Arts & Entertainment,5.0,6.0,5.0,12
-2020-03-30,Nevada,Clark County,School,17.0,22.0,17.0,13
-2020-03-30,Nevada,Clark County,Nightlife Spots,5.0,7.0,5.0,14
+2020-03-30,Nevada,Clark County,School,31.0,41.0,31.0,13
+2020-03-30,Nevada,Clark County,Nightlife Spots,12.0,17.0,12.0,14
 2020-03-30,Nevada,Clark County,Drug Store,56.0,60.0,56.0,15
-2020-03-30,Nevada,Clark County,Airport,5.0,"",5.0,16
+2020-03-30,Nevada,Clark County,Airport,8.0,"",8.0,16
 2020-03-30,Nevada,Clark County,Hardware Stores,86.0,76.0,87.0,17
-2020-03-30,Nevada,Clark County,Office,35.0,36.0,35.0,17
-2020-03-30,Nevada,Clark County,Hotel,6.0,7.0,6.0,18
-2020-03-30,Nevada,Clark County,Sports,16.0,22.0,15.0,19
-2020-03-30,Nevada,Clark County,Discount Stores,65.0,59.0,65.0,20
-2020-03-30,Nevada,Clark County,Banks,52.0,47.0,52.0,21
-2020-03-30,Nevada,Clark County,Fitness Center,15.0,"",15.0,22
-2020-03-30,Nevada,Clark County,Government,19.0,"",19.0,23
-2020-03-30,Nevada,Clark County,Travel & Transport,1.0,"",1.0,24
-2020-03-30,Nevada,Clark County,Colleges & Universities,21.0,"",21.0,25
-2020-03-30,Nevada,Clark County,Bus,29.0,"",29.0,26
-2020-03-30,Nevada,Washoe County,Shops & Services,34.0,35.0,34.0,1
-2020-03-30,Nevada,Washoe County,Food,28.0,31.0,28.0,2
-2020-03-30,Nevada,Washoe County,Outdoors & Recreation,25.0,29.0,24.0,3
-2020-03-30,Nevada,Washoe County,Grocery,69.0,62.0,69.0,4
-2020-03-30,Nevada,Washoe County,Big Box Stores,71.0,"",71.0,5
-2020-03-30,Nevada,Washoe County,Gas Stations,53.0,"",54.0,6
-2020-03-30,Nevada,Washoe County,Medical,28.0,28.0,29.0,7
-2020-03-30,Nevada,Washoe County,Fast Food Restaurants,60.0,"",61.0,8
-2020-03-30,Nevada,Washoe County,Nightlife Spots,24.0,"",24.0,9
-2020-03-30,Nevada,Washoe County,Convenience Store,60.0,"",59.0,10
-2020-03-30,Nevada,Washoe County,Residences,72.0,"",73.0,11
-2020-03-31,Nevada,Washoe County,Shops & Services,35.0,31.0,35.0,1
-2020-03-31,Nevada,Washoe County,Food,34.0,30.0,34.0,2
-2020-03-31,Nevada,Washoe County,Outdoors & Recreation,23.0,34.0,23.0,3
-2020-03-31,Nevada,Washoe County,Grocery,67.0,66.0,67.0,4
-2020-03-31,Nevada,Washoe County,Medical,26.0,23.0,27.0,5
-2020-03-31,Nevada,Washoe County,Gas Stations,53.0,80.0,51.0,6
-2020-03-31,Nevada,Washoe County,Big Box Stores,62.0,"",61.0,7
-2020-03-31,Nevada,Washoe County,Fast Food Restaurants,62.0,"",64.0,8
-2020-03-31,Nevada,Washoe County,Nightlife Spots,24.0,"",25.0,9
-2020-03-31,Nevada,Washoe County,Convenience Store,61.0,"",60.0,10
-2020-03-31,Nevada,Washoe County,Arts & Entertainment,13.0,"",13.0,11
-2020-03-31,Nevada,Washoe County,Residences,70.0,"",72.0,11
-2020-03-31,Nevada,Clark County,Shops & Services,9.0,9.0,9.0,1
-2020-03-31,Nevada,Clark County,Food,10.0,9.0,10.0,2
+2020-03-30,Nevada,Clark County,Office,44.0,48.0,44.0,18
+2020-03-30,Nevada,Clark County,Hotel,8.0,10.0,8.0,19
+2020-03-30,Nevada,Clark County,Sports,55.0,61.0,54.0,20
+2020-03-30,Nevada,Clark County,Discount Stores,65.0,59.0,65.0,21
+2020-03-30,Nevada,Clark County,Banks,52.0,47.0,52.0,22
+2020-03-30,Nevada,Clark County,Fitness Center,24.0,"",24.0,23
+2020-03-30,Nevada,Clark County,Government,31.0,"",31.0,24
+2020-03-30,Nevada,Clark County,Travel & Transport,18.0,"",18.0,25
+2020-03-30,Nevada,Clark County,Colleges & Universities,23.0,"",23.0,26
+2020-03-30,Nevada,Clark County,Bus,40.0,"",40.0,27
+2020-03-31,Nevada,Clark County,Shops & Services,32.0,33.0,31.0,1
+2020-03-31,Nevada,Clark County,Food,24.0,22.0,24.0,2
 2020-03-31,Nevada,Clark County,Grocery,64.0,61.0,64.0,3
-2020-03-31,Nevada,Clark County,Outdoors & Recreation,19.0,19.0,19.0,4
+2020-03-31,Nevada,Clark County,Outdoors & Recreation,54.0,57.0,54.0,4
 2020-03-31,Nevada,Clark County,Fast Food Restaurants,57.0,47.0,57.0,5
 2020-03-31,Nevada,Clark County,Gas Stations,56.0,50.0,57.0,6
 2020-03-31,Nevada,Clark County,Residences,66.0,60.0,66.0,7
 2020-03-31,Nevada,Clark County,Big Box Stores,70.0,60.0,70.0,8
 2020-03-31,Nevada,Clark County,Convenience Store,53.0,39.0,54.0,9
-2020-03-31,Nevada,Clark County,Medical,20.0,20.0,21.0,10
-2020-03-31,Nevada,Clark County,Professional & Other Places,5.0,4.0,5.0,11
-2020-03-31,Nevada,Clark County,Arts & Entertainment,3.0,3.0,3.0,12
-2020-03-31,Nevada,Clark County,School,14.0,17.0,14.0,13
+2020-03-31,Nevada,Clark County,Medical,38.0,37.0,38.0,10
+2020-03-31,Nevada,Clark County,Professional & Other Places,20.0,18.0,20.0,11
+2020-03-31,Nevada,Clark County,Arts & Entertainment,6.0,6.0,6.0,12
+2020-03-31,Nevada,Clark County,School,27.0,31.0,27.0,13
 2020-03-31,Nevada,Clark County,Drug Store,58.0,54.0,58.0,14
-2020-03-31,Nevada,Clark County,Nightlife Spots,6.0,6.0,6.0,15
+2020-03-31,Nevada,Clark County,Nightlife Spots,14.0,14.0,14.0,15
 2020-03-31,Nevada,Clark County,Hardware Stores,86.0,71.0,87.0,16
-2020-03-31,Nevada,Clark County,Office,27.0,30.0,27.0,17
-2020-03-31,Nevada,Clark County,Airport,5.0,"",5.0,18
+2020-03-31,Nevada,Clark County,Office,33.0,40.0,33.0,17
+2020-03-31,Nevada,Clark County,Airport,8.0,"",8.0,18
 2020-03-31,Nevada,Clark County,Banks,59.0,53.0,59.0,19
-2020-03-31,Nevada,Clark County,Hotel,6.0,6.0,6.0,20
-2020-03-31,Nevada,Clark County,Sports,15.0,21.0,15.0,21
+2020-03-31,Nevada,Clark County,Hotel,8.0,9.0,8.0,20
+2020-03-31,Nevada,Clark County,Sports,61.0,64.0,61.0,21
 2020-03-31,Nevada,Clark County,Discount Stores,58.0,"",59.0,22
-2020-03-31,Nevada,Clark County,Fitness Center,12.0,"",12.0,23
-2020-03-31,Nevada,Clark County,Government,16.0,"",16.0,24
-2020-03-31,Nevada,Clark County,Colleges & Universities,19.0,"",19.0,25
-2020-03-31,Nevada,Clark County,Travel & Transport,1.0,"",1.0,26
+2020-03-31,Nevada,Clark County,Fitness Center,19.0,"",19.0,23
+2020-03-31,Nevada,Clark County,Government,24.0,"",24.0,24
+2020-03-31,Nevada,Clark County,Colleges & Universities,21.0,"",21.0,25
+2020-03-31,Nevada,Clark County,Travel & Transport,18.0,"",18.0,26
+2020-03-31,Nevada,Washoe County,Shops & Services,49.0,46.0,49.0,1
+2020-03-31,Nevada,Washoe County,Food,40.0,35.0,41.0,2
+2020-03-31,Nevada,Washoe County,Outdoors & Recreation,70.0,110.0,67.0,3
+2020-03-31,Nevada,Washoe County,Grocery,67.0,66.0,67.0,4
+2020-03-31,Nevada,Washoe County,Medical,44.0,38.0,44.0,5
+2020-03-31,Nevada,Washoe County,Gas Stations,53.0,80.0,51.0,6
+2020-03-31,Nevada,Washoe County,Big Box Stores,62.0,"",61.0,7
+2020-03-31,Nevada,Washoe County,Fast Food Restaurants,62.0,"",64.0,8
+2020-03-31,Nevada,Washoe County,Nightlife Spots,34.0,"",34.0,9
+2020-03-31,Nevada,Washoe County,Convenience Store,61.0,"",60.0,10
+2020-03-31,Nevada,Washoe County,Residences,70.0,"",72.0,11
+2020-03-31,Nevada,Washoe County,Arts & Entertainment,27.0,"",26.0,12
 2020-03-31,Nevada,Nye County,Gas Stations,76.0,"",77.0,1
 2020-03-31,Nevada,Elko County,Food,55.0,"",55.0,1
+2020-04-01,Nevada,Carson City,Shops & Services,69.0,66.0,69.0,1
+2020-04-01,Nevada,Washoe County,Shops & Services,54.0,55.0,54.0,1
+2020-04-01,Nevada,Washoe County,Food,39.0,38.0,39.0,2
+2020-04-01,Nevada,Washoe County,Outdoors & Recreation,75.0,84.0,74.0,3
+2020-04-01,Nevada,Washoe County,Grocery,72.0,75.0,72.0,4
+2020-04-01,Nevada,Washoe County,Medical,48.0,60.0,47.0,5
+2020-04-01,Nevada,Washoe County,Big Box Stores,79.0,68.0,80.0,6
+2020-04-01,Nevada,Washoe County,Gas Stations,55.0,"",55.0,7
+2020-04-01,Nevada,Washoe County,Fast Food Restaurants,56.0,"",57.0,8
+2020-04-01,Nevada,Washoe County,Nightlife Spots,37.0,"",38.0,9
+2020-04-01,Nevada,Washoe County,Convenience Store,62.0,"",63.0,10
+2020-04-01,Nevada,Washoe County,Arts & Entertainment,29.0,"",30.0,11
+2020-04-01,Nevada,Washoe County,Residences,73.0,"",75.0,12
+2020-04-01,Nevada,Washoe County,Professional & Other Places,40.0,"",39.0,13
+2020-04-01,Nevada,Elko County,Gas Stations,104.0,"",106.0,1
+2020-04-01,Nevada,Elko County,Food,58.0,"",59.0,2
+2020-04-01,Nevada,Clark County,Shops & Services,35.0,33.0,35.0,1
+2020-04-01,Nevada,Clark County,Food,25.0,21.0,26.0,2
+2020-04-01,Nevada,Clark County,Grocery,68.0,58.0,68.0,3
+2020-04-01,Nevada,Clark County,Outdoors & Recreation,56.0,59.0,56.0,4
+2020-04-01,Nevada,Clark County,Fast Food Restaurants,61.0,57.0,61.0,5
+2020-04-01,Nevada,Clark County,Gas Stations,62.0,54.0,63.0,6
+2020-04-01,Nevada,Clark County,Convenience Store,58.0,52.0,58.0,7
+2020-04-01,Nevada,Clark County,Residences,66.0,65.0,66.0,8
+2020-04-01,Nevada,Clark County,Big Box Stores,73.0,58.0,74.0,9
+2020-04-01,Nevada,Clark County,Medical,40.0,33.0,40.0,10
+2020-04-01,Nevada,Clark County,Arts & Entertainment,7.0,6.0,7.0,11
+2020-04-01,Nevada,Clark County,Professional & Other Places,21.0,20.0,21.0,12
+2020-04-01,Nevada,Clark County,School,26.0,27.0,26.0,13
+2020-04-01,Nevada,Clark County,Drug Store,58.0,53.0,59.0,14
+2020-04-01,Nevada,Clark County,Nightlife Spots,16.0,15.0,16.0,15
+2020-04-01,Nevada,Clark County,Hotel,11.0,9.0,11.0,16
+2020-04-01,Nevada,Clark County,Banks,70.0,67.0,70.0,17
+2020-04-01,Nevada,Clark County,Hardware Stores,85.0,59.0,86.0,18
+2020-04-01,Nevada,Clark County,Office,34.0,34.0,34.0,19
+2020-04-01,Nevada,Clark County,Airport,10.0,"",10.0,20
+2020-04-01,Nevada,Clark County,Sports,57.0,54.0,57.0,21
+2020-04-01,Nevada,Clark County,Discount Stores,68.0,48.0,68.0,22
+2020-04-01,Nevada,Clark County,Fitness Center,22.0,"",22.0,23
+2020-04-01,Nevada,Clark County,Government,27.0,"",27.0,24
+2020-04-01,Nevada,Clark County,Travel & Transport,22.0,"",22.0,25
+2020-04-01,Nevada,Clark County,Colleges & Universities,17.0,"",17.0,26

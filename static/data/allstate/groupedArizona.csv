@@ -1,933 +1,963 @@
-2020-03-01,Arizona,Food,46.0,46.0,46.0,1
-2020-03-01,Arizona,Shops & Services,29.0,27.0,29.0,2
+2020-03-01,Arizona,Food,104.0,99.0,105.0,1
+2020-03-01,Arizona,Shops & Services,106.0,102.0,106.0,2
 2020-03-01,Arizona,Grocery,91.0,91.0,91.0,3
-2020-03-01,Arizona,Outdoors & Recreation,45.0,42.0,45.0,4
+2020-03-01,Arizona,Outdoors & Recreation,107.0,103.0,107.0,4
 2020-03-01,Arizona,Big Box Stores,102.0,102.0,102.0,5
-2020-03-01,Arizona,Arts & Entertainment,52.0,50.0,52.0,6
+2020-03-01,Arizona,Arts & Entertainment,109.0,103.0,110.0,6
 2020-03-01,Arizona,Fast Food Restaurants,105.0,103.0,106.0,7
-2020-03-01,Arizona,Nightlife Spots,43.0,40.0,43.0,8
+2020-03-01,Arizona,Nightlife Spots,102.0,92.0,102.0,8
 2020-03-01,Arizona,Convenience Store,105.0,106.0,105.0,9
-2020-03-01,Arizona,Residences,57.0,59.0,57.0,10
+2020-03-01,Arizona,Residences,101.0,101.0,101.0,10
 2020-03-01,Arizona,Gas Stations,102.0,100.0,102.0,11
-2020-03-01,Arizona,Hotel,79.0,75.0,79.0,12
-2020-03-01,Arizona,Airport,65.0,61.0,65.0,13
-2020-03-01,Arizona,Professional & Other Places,16.0,14.0,16.0,14
-2020-03-01,Arizona,School,56.0,52.0,56.0,15
-2020-03-01,Arizona,Sports,40.0,43.0,39.0,16
+2020-03-01,Arizona,Hotel,104.0,104.0,104.0,12
+2020-03-01,Arizona,Airport,105.0,96.0,105.0,13
+2020-03-01,Arizona,Professional & Other Places,94.0,82.0,95.0,14
+2020-03-01,Arizona,School,100.0,93.0,100.0,15
+2020-03-01,Arizona,Sports,101.0,97.0,102.0,16
 2020-03-01,Arizona,Hardware Stores,112.0,98.0,113.0,17
-2020-03-01,Arizona,Medical,53.0,49.0,54.0,18
+2020-03-01,Arizona,Medical,97.0,89.0,98.0,18
 2020-03-01,Arizona,Drug Store,96.0,96.0,96.0,19
-2020-03-01,Arizona,Travel & Transport,18.0,27.0,17.0,20
-2020-03-01,Arizona,Fitness Center,68.0,66.0,68.0,21
+2020-03-01,Arizona,Travel & Transport,107.0,112.0,106.0,20
+2020-03-01,Arizona,Fitness Center,100.0,94.0,100.0,21
 2020-03-01,Arizona,Discount Stores,97.0,93.0,97.0,22
-2020-03-01,Arizona,Colleges & Universities,54.0,46.0,54.0,23
-2020-03-01,Arizona,Office,89.0,93.0,89.0,24
-2020-03-01,Arizona,Government,61.0,55.0,62.0,25
+2020-03-01,Arizona,Colleges & Universities,104.0,90.0,105.0,23
+2020-03-01,Arizona,Office,106.0,106.0,106.0,24
+2020-03-01,Arizona,Government,98.0,92.0,98.0,25
 2020-03-01,Arizona,Banks,110.0,87.0,111.0,26
 2020-03-01,Arizona,Alcohol,91.0,69.0,92.0,27
-2020-03-01,Arizona,Bus,73.0,67.0,73.0,28
+2020-03-01,Arizona,Bus,106.0,98.0,106.0,28
 2020-03-01,Arizona,Light Rail Stations,123.0,"",123.0,29
-2020-03-01,Arizona,Spiritual Center,4.0,3.0,4.0,30
-2020-03-02,Arizona,Food,45.0,46.0,45.0,1
-2020-03-02,Arizona,Shops & Services,29.0,31.0,29.0,2
+2020-03-01,Arizona,Spiritual Center,90.0,83.0,90.0,30
+2020-03-02,Arizona,Food,106.0,104.0,106.0,1
+2020-03-02,Arizona,Shops & Services,106.0,105.0,106.0,2
 2020-03-02,Arizona,Grocery,104.0,102.0,104.0,3
-2020-03-02,Arizona,Outdoors & Recreation,43.0,37.0,43.0,4
-2020-03-02,Arizona,Medical,57.0,55.0,57.0,5
+2020-03-02,Arizona,Outdoors & Recreation,102.0,96.0,103.0,4
+2020-03-02,Arizona,Medical,102.0,99.0,103.0,5
 2020-03-02,Arizona,Fast Food Restaurants,108.0,102.0,109.0,6
 2020-03-02,Arizona,Convenience Store,102.0,101.0,102.0,7
-2020-03-02,Arizona,School,61.0,61.0,62.0,8
+2020-03-02,Arizona,School,111.0,110.0,111.0,8
 2020-03-02,Arizona,Big Box Stores,109.0,106.0,109.0,9
-2020-03-02,Arizona,Residences,58.0,61.0,58.0,10
+2020-03-02,Arizona,Residences,103.0,103.0,103.0,10
 2020-03-02,Arizona,Gas Stations,105.0,103.0,105.0,11
-2020-03-02,Arizona,Professional & Other Places,15.0,16.0,15.0,12
-2020-03-02,Arizona,Arts & Entertainment,53.0,55.0,53.0,13
-2020-03-02,Arizona,Nightlife Spots,44.0,45.0,44.0,14
-2020-03-02,Arizona,Airport,65.0,61.0,65.0,15
-2020-03-02,Arizona,Hotel,79.0,75.0,79.0,16
-2020-03-02,Arizona,Colleges & Universities,53.0,48.0,53.0,17
-2020-03-02,Arizona,Office,87.0,91.0,87.0,18
+2020-03-02,Arizona,Professional & Other Places,105.0,99.0,106.0,12
+2020-03-02,Arizona,Arts & Entertainment,109.0,111.0,109.0,13
+2020-03-02,Arizona,Nightlife Spots,104.0,101.0,104.0,14
+2020-03-02,Arizona,Airport,103.0,97.0,103.0,15
+2020-03-02,Arizona,Hotel,103.0,105.0,103.0,16
+2020-03-02,Arizona,Colleges & Universities,103.0,89.0,103.0,17
+2020-03-02,Arizona,Office,103.0,107.0,103.0,18
 2020-03-02,Arizona,Drug Store,111.0,118.0,110.0,19
 2020-03-02,Arizona,Hardware Stores,107.0,101.0,108.0,20
-2020-03-02,Arizona,Sports,35.0,38.0,35.0,21
-2020-03-02,Arizona,Fitness Center,70.0,67.0,71.0,22
-2020-03-02,Arizona,Government,76.0,72.0,77.0,23
-2020-03-02,Arizona,Travel & Transport,83.0,86.0,83.0,24
+2020-03-02,Arizona,Sports,100.0,93.0,101.0,21
+2020-03-02,Arizona,Fitness Center,103.0,97.0,104.0,22
+2020-03-02,Arizona,Government,114.0,110.0,115.0,23
+2020-03-02,Arizona,Travel & Transport,103.0,110.0,103.0,24
 2020-03-02,Arizona,Banks,130.0,125.0,130.0,25
 2020-03-02,Arizona,Discount Stores,102.0,107.0,102.0,26
-2020-03-02,Arizona,Bus,77.0,66.0,78.0,27
+2020-03-02,Arizona,Bus,113.0,99.0,114.0,27
 2020-03-02,Arizona,Alcohol,115.0,112.0,116.0,28
 2020-03-02,Arizona,Light Rail Stations,118.0,"",119.0,29
-2020-03-02,Arizona,Spiritual Center,7.0,"",7.0,30
-2020-03-03,Arizona,Food,45.0,44.0,45.0,1
-2020-03-03,Arizona,Shops & Services,28.0,28.0,28.0,2
+2020-03-02,Arizona,Spiritual Center,124.0,"",125.0,30
+2020-03-03,Arizona,Food,105.0,98.0,105.0,1
+2020-03-03,Arizona,Shops & Services,103.0,97.0,104.0,2
 2020-03-03,Arizona,Grocery,101.0,97.0,101.0,3
-2020-03-03,Arizona,Outdoors & Recreation,43.0,42.0,44.0,4
-2020-03-03,Arizona,Medical,55.0,55.0,55.0,5
-2020-03-03,Arizona,School,56.0,56.0,56.0,6
+2020-03-03,Arizona,Outdoors & Recreation,109.0,112.0,108.0,4
+2020-03-03,Arizona,Medical,99.0,99.0,99.0,5
+2020-03-03,Arizona,School,101.0,101.0,101.0,6
 2020-03-03,Arizona,Fast Food Restaurants,106.0,103.0,106.0,7
 2020-03-03,Arizona,Convenience Store,102.0,97.0,102.0,8
 2020-03-03,Arizona,Big Box Stores,106.0,103.0,106.0,9
 2020-03-03,Arizona,Residences,107.0,111.0,107.0,10
-2020-03-03,Arizona,Professional & Other Places,14.0,15.0,14.0,11
+2020-03-03,Arizona,Professional & Other Places,98.0,95.0,98.0,11
 2020-03-03,Arizona,Gas Stations,101.0,96.0,102.0,12
-2020-03-03,Arizona,Nightlife Spots,45.0,41.0,45.0,13
-2020-03-03,Arizona,Arts & Entertainment,53.0,53.0,53.0,14
-2020-03-03,Arizona,Colleges & Universities,49.0,55.0,49.0,15
-2020-03-03,Arizona,Hotel,80.0,77.0,80.0,16
-2020-03-03,Arizona,Office,83.0,84.0,83.0,17
-2020-03-03,Arizona,Airport,57.0,56.0,57.0,18
-2020-03-03,Arizona,Fitness Center,67.0,64.0,67.0,19
-2020-03-03,Arizona,Sports,35.0,41.0,34.0,20
+2020-03-03,Arizona,Nightlife Spots,104.0,93.0,104.0,13
+2020-03-03,Arizona,Arts & Entertainment,109.0,108.0,109.0,14
+2020-03-03,Arizona,Colleges & Universities,95.0,103.0,95.0,15
+2020-03-03,Arizona,Hotel,104.0,106.0,104.0,16
+2020-03-03,Arizona,Office,98.0,99.0,98.0,17
+2020-03-03,Arizona,Airport,91.0,89.0,91.0,18
+2020-03-03,Arizona,Fitness Center,99.0,95.0,99.0,19
+2020-03-03,Arizona,Sports,106.0,101.0,107.0,20
 2020-03-03,Arizona,Drug Store,105.0,106.0,105.0,21
 2020-03-03,Arizona,Hardware Stores,102.0,101.0,102.0,22
-2020-03-03,Arizona,Government,68.0,62.0,68.0,23
-2020-03-03,Arizona,Travel & Transport,18.0,24.0,17.0,24
+2020-03-03,Arizona,Government,100.0,94.0,101.0,23
+2020-03-03,Arizona,Travel & Transport,104.0,108.0,103.0,24
 2020-03-03,Arizona,Banks,126.0,113.0,126.0,25
 2020-03-03,Arizona,Discount Stores,103.0,94.0,104.0,26
-2020-03-03,Arizona,Bus,72.0,57.0,72.0,27
+2020-03-03,Arizona,Bus,107.0,86.0,107.0,27
 2020-03-03,Arizona,Alcohol,102.0,103.0,102.0,28
 2020-03-03,Arizona,Light Rail Stations,108.0,"",107.0,29
-2020-03-03,Arizona,Spiritual Center,7.0,6.0,7.0,30
-2020-03-04,Arizona,Food,44.0,44.0,44.0,1
-2020-03-04,Arizona,Shops & Services,29.0,29.0,29.0,2
+2020-03-03,Arizona,Spiritual Center,110.0,129.0,109.0,30
+2020-03-04,Arizona,Food,103.0,98.0,103.0,1
+2020-03-04,Arizona,Shops & Services,104.0,99.0,105.0,2
 2020-03-04,Arizona,Grocery,104.0,104.0,104.0,3
-2020-03-04,Arizona,Outdoors & Recreation,44.0,41.0,44.0,4
-2020-03-04,Arizona,Medical,55.0,54.0,55.0,5
-2020-03-04,Arizona,School,55.0,55.0,55.0,6
+2020-03-04,Arizona,Outdoors & Recreation,111.0,109.0,111.0,4
+2020-03-04,Arizona,Medical,99.0,98.0,99.0,5
+2020-03-04,Arizona,School,100.0,99.0,100.0,6
 2020-03-04,Arizona,Fast Food Restaurants,100.0,92.0,100.0,7
 2020-03-04,Arizona,Convenience Store,102.0,100.0,102.0,8
 2020-03-04,Arizona,Big Box Stores,101.0,93.0,102.0,9
-2020-03-04,Arizona,Residences,60.0,62.0,60.0,10
-2020-03-04,Arizona,Professional & Other Places,14.0,15.0,13.0,11
+2020-03-04,Arizona,Residences,106.0,105.0,106.0,10
+2020-03-04,Arizona,Professional & Other Places,95.0,92.0,96.0,11
 2020-03-04,Arizona,Gas Stations,106.0,104.0,107.0,12
-2020-03-04,Arizona,Nightlife Spots,47.0,47.0,47.0,13
-2020-03-04,Arizona,Arts & Entertainment,53.0,52.0,53.0,14
-2020-03-04,Arizona,Colleges & Universities,50.0,56.0,50.0,15
-2020-03-04,Arizona,Hotel,77.0,71.0,78.0,16
-2020-03-04,Arizona,Office,83.0,80.0,83.0,17
-2020-03-04,Arizona,Airport,62.0,65.0,62.0,18
-2020-03-04,Arizona,Sports,37.0,44.0,36.0,19
-2020-03-04,Arizona,Fitness Center,66.0,65.0,66.0,20
+2020-03-04,Arizona,Nightlife Spots,106.0,102.0,107.0,13
+2020-03-04,Arizona,Arts & Entertainment,112.0,105.0,112.0,14
+2020-03-04,Arizona,Colleges & Universities,97.0,105.0,97.0,15
+2020-03-04,Arizona,Hotel,101.0,100.0,101.0,16
+2020-03-04,Arizona,Office,98.0,95.0,98.0,17
+2020-03-04,Arizona,Airport,99.0,103.0,99.0,18
+2020-03-04,Arizona,Sports,112.0,107.0,112.0,19
+2020-03-04,Arizona,Fitness Center,96.0,95.0,97.0,20
 2020-03-04,Arizona,Drug Store,106.0,102.0,106.0,21
 2020-03-04,Arizona,Hardware Stores,105.0,102.0,105.0,22
-2020-03-04,Arizona,Government,67.0,66.0,67.0,23
-2020-03-04,Arizona,Travel & Transport,84.0,90.0,84.0,24
-2020-03-04,Arizona,Banks,109.0,104.0,109.0,25
+2020-03-04,Arizona,Government,100.0,100.0,100.0,23
+2020-03-04,Arizona,Travel & Transport,107.0,116.0,107.0,24
+2020-03-04,Arizona,Banks,109.0,103.0,109.0,25
 2020-03-04,Arizona,Discount Stores,96.0,96.0,96.0,26
-2020-03-04,Arizona,Bus,72.0,56.0,73.0,27
+2020-03-04,Arizona,Bus,107.0,85.0,107.0,27
 2020-03-04,Arizona,Alcohol,94.0,83.0,95.0,28
 2020-03-04,Arizona,Light Rail Stations,103.0,"",103.0,29
-2020-03-04,Arizona,Spiritual Center,6.0,5.0,6.0,30
-2020-03-05,Arizona,Food,44.0,45.0,44.0,1
-2020-03-05,Arizona,Shops & Services,29.0,29.0,29.0,2
+2020-03-04,Arizona,Spiritual Center,101.0,107.0,101.0,30
+2020-03-05,Arizona,Food,102.0,98.0,103.0,1
+2020-03-05,Arizona,Shops & Services,102.0,96.0,103.0,2
 2020-03-05,Arizona,Grocery,100.0,94.0,100.0,3
-2020-03-05,Arizona,Outdoors & Recreation,44.0,41.0,44.0,4
-2020-03-05,Arizona,Medical,56.0,57.0,56.0,5
-2020-03-05,Arizona,School,60.0,59.0,60.0,6
+2020-03-05,Arizona,Outdoors & Recreation,112.0,109.0,112.0,4
+2020-03-05,Arizona,Medical,102.0,102.0,102.0,5
+2020-03-05,Arizona,School,108.0,106.0,108.0,6
 2020-03-05,Arizona,Fast Food Restaurants,101.0,94.0,102.0,7
-2020-03-05,Arizona,Convenience Store,103.0,102.0,103.0,8
+2020-03-05,Arizona,Convenience Store,103.0,101.0,103.0,8
 2020-03-05,Arizona,Big Box Stores,98.0,98.0,98.0,9
-2020-03-05,Arizona,Residences,60.0,58.0,60.0,10
-2020-03-05,Arizona,Professional & Other Places,14.0,15.0,14.0,11
+2020-03-05,Arizona,Residences,105.0,98.0,106.0,10
+2020-03-05,Arizona,Professional & Other Places,98.0,96.0,98.0,11
 2020-03-05,Arizona,Gas Stations,101.0,95.0,101.0,12
-2020-03-05,Arizona,Nightlife Spots,45.0,43.0,45.0,13
-2020-03-05,Arizona,Arts & Entertainment,53.0,53.0,53.0,14
-2020-03-05,Arizona,Hotel,80.0,77.0,80.0,15
-2020-03-05,Arizona,Colleges & Universities,49.0,57.0,49.0,16
-2020-03-05,Arizona,Airport,60.0,55.0,61.0,17
-2020-03-05,Arizona,Office,83.0,78.0,83.0,18
-2020-03-05,Arizona,Sports,38.0,44.0,37.0,19
+2020-03-05,Arizona,Nightlife Spots,105.0,99.0,105.0,13
+2020-03-05,Arizona,Arts & Entertainment,110.0,106.0,110.0,14
+2020-03-05,Arizona,Hotel,104.0,107.0,104.0,15
+2020-03-05,Arizona,Colleges & Universities,96.0,106.0,96.0,16
+2020-03-05,Arizona,Airport,96.0,87.0,96.0,17
+2020-03-05,Arizona,Office,97.0,92.0,98.0,18
+2020-03-05,Arizona,Sports,110.0,105.0,111.0,19
 2020-03-05,Arizona,Drug Store,108.0,97.0,108.0,20
-2020-03-05,Arizona,Fitness Center,68.0,66.0,68.0,21
+2020-03-05,Arizona,Fitness Center,100.0,96.0,100.0,21
 2020-03-05,Arizona,Hardware Stores,105.0,99.0,106.0,22
-2020-03-05,Arizona,Government,71.0,61.0,71.0,23
-2020-03-05,Arizona,Travel & Transport,18.0,24.0,17.0,24
+2020-03-05,Arizona,Government,104.0,93.0,105.0,23
+2020-03-05,Arizona,Travel & Transport,103.0,109.0,103.0,24
 2020-03-05,Arizona,Banks,113.0,115.0,113.0,25
 2020-03-05,Arizona,Discount Stores,95.0,100.0,94.0,26
-2020-03-05,Arizona,Bus,77.0,63.0,77.0,27
+2020-03-05,Arizona,Bus,113.0,94.0,113.0,27
 2020-03-05,Arizona,Alcohol,104.0,106.0,104.0,28
 2020-03-05,Arizona,Light Rail Stations,104.0,"",104.0,29
-2020-03-05,Arizona,Spiritual Center,6.0,5.0,6.0,30
-2020-03-06,Arizona,Food,43.0,43.0,43.0,1
-2020-03-06,Arizona,Shops & Services,28.0,28.0,28.0,2
+2020-03-05,Arizona,Spiritual Center,112.0,112.0,112.0,30
+2020-03-06,Arizona,Food,100.0,95.0,100.0,1
+2020-03-06,Arizona,Shops & Services,99.0,96.0,100.0,2
 2020-03-06,Arizona,Grocery,95.0,92.0,95.0,3
-2020-03-06,Arizona,Outdoors & Recreation,44.0,40.0,44.0,4
-2020-03-06,Arizona,Medical,57.0,59.0,57.0,5
+2020-03-06,Arizona,Outdoors & Recreation,112.0,110.0,112.0,4
+2020-03-06,Arizona,Medical,103.0,106.0,103.0,5
 2020-03-06,Arizona,Fast Food Restaurants,103.0,100.0,103.0,6
-2020-03-06,Arizona,School,58.0,57.0,58.0,7
+2020-03-06,Arizona,School,104.0,102.0,104.0,7
 2020-03-06,Arizona,Convenience Store,104.0,100.0,104.0,8
 2020-03-06,Arizona,Big Box Stores,94.0,95.0,93.0,9
-2020-03-06,Arizona,Residences,61.0,64.0,61.0,10
-2020-03-06,Arizona,Arts & Entertainment,60.0,58.0,60.0,11
-2020-03-06,Arizona,Nightlife Spots,46.0,46.0,46.0,12
+2020-03-06,Arizona,Residences,107.0,108.0,107.0,10
+2020-03-06,Arizona,Arts & Entertainment,126.0,116.0,126.0,11
+2020-03-06,Arizona,Nightlife Spots,107.0,104.0,107.0,12
 2020-03-06,Arizona,Gas Stations,101.0,92.0,102.0,13
-2020-03-06,Arizona,Professional & Other Places,15.0,16.0,15.0,14
-2020-03-06,Arizona,Hotel,80.0,74.0,81.0,15
-2020-03-06,Arizona,Airport,58.0,61.0,58.0,16
-2020-03-06,Arizona,Colleges & Universities,49.0,55.0,49.0,17
-2020-03-06,Arizona,Office,84.0,77.0,84.0,18
-2020-03-06,Arizona,Sports,38.0,40.0,38.0,19
+2020-03-06,Arizona,Professional & Other Places,99.0,92.0,99.0,14
+2020-03-06,Arizona,Hotel,105.0,103.0,105.0,15
+2020-03-06,Arizona,Airport,92.0,97.0,92.0,16
+2020-03-06,Arizona,Colleges & Universities,95.0,104.0,94.0,17
+2020-03-06,Arizona,Office,98.0,92.0,99.0,18
+2020-03-06,Arizona,Sports,109.0,96.0,110.0,19
 2020-03-06,Arizona,Drug Store,98.0,95.0,98.0,20
-2020-03-06,Arizona,Fitness Center,68.0,65.0,68.0,21
+2020-03-06,Arizona,Fitness Center,100.0,94.0,101.0,21
 2020-03-06,Arizona,Hardware Stores,108.0,109.0,108.0,22
-2020-03-06,Arizona,Government,68.0,61.0,69.0,23
-2020-03-06,Arizona,Travel & Transport,19.0,28.0,19.0,24
+2020-03-06,Arizona,Government,101.0,94.0,101.0,23
+2020-03-06,Arizona,Travel & Transport,108.0,117.0,108.0,24
 2020-03-06,Arizona,Banks,102.0,103.0,102.0,25
 2020-03-06,Arizona,Discount Stores,89.0,97.0,89.0,26
-2020-03-06,Arizona,Bus,73.0,65.0,73.0,27
+2020-03-06,Arizona,Bus,108.0,99.0,109.0,27
 2020-03-06,Arizona,Alcohol,97.0,104.0,97.0,28
 2020-03-06,Arizona,Light Rail Stations,95.0,"",95.0,29
-2020-03-06,Arizona,Spiritual Center,6.0,6.0,6.0,30
-2020-03-07,Arizona,Food,44.0,45.0,44.0,1
-2020-03-07,Arizona,Shops & Services,30.0,29.0,30.0,2
-2020-03-07,Arizona,Outdoors & Recreation,48.0,45.0,48.0,3
+2020-03-06,Arizona,Spiritual Center,92.0,104.0,92.0,30
+2020-03-07,Arizona,Food,101.0,97.0,101.0,1
+2020-03-07,Arizona,Shops & Services,102.0,99.0,102.0,2
+2020-03-07,Arizona,Outdoors & Recreation,120.0,119.0,120.0,3
 2020-03-07,Arizona,Grocery,96.0,94.0,96.0,4
-2020-03-07,Arizona,Arts & Entertainment,59.0,60.0,59.0,5
+2020-03-07,Arizona,Arts & Entertainment,124.0,120.0,124.0,5
 2020-03-07,Arizona,Fast Food Restaurants,103.0,98.0,103.0,6
 2020-03-07,Arizona,Big Box Stores,100.0,95.0,101.0,7
 2020-03-07,Arizona,Convenience Store,104.0,100.0,104.0,8
-2020-03-07,Arizona,Nightlife Spots,44.0,43.0,44.0,9
-2020-03-07,Arizona,Residences,63.0,63.0,63.0,10
+2020-03-07,Arizona,Nightlife Spots,104.0,100.0,105.0,9
+2020-03-07,Arizona,Residences,111.0,106.0,111.0,10
 2020-03-07,Arizona,Gas Stations,106.0,101.0,107.0,11
-2020-03-07,Arizona,Hotel,81.0,77.0,82.0,12
-2020-03-07,Arizona,School,59.0,64.0,59.0,13
-2020-03-07,Arizona,Professional & Other Places,18.0,21.0,18.0,14
-2020-03-07,Arizona,Medical,57.0,55.0,57.0,15
-2020-03-07,Arizona,Airport,67.0,60.0,67.0,16
-2020-03-07,Arizona,Sports,42.0,49.0,41.0,17
+2020-03-07,Arizona,Hotel,107.0,107.0,107.0,12
+2020-03-07,Arizona,School,106.0,115.0,105.0,13
+2020-03-07,Arizona,Professional & Other Places,100.0,101.0,100.0,14
+2020-03-07,Arizona,Medical,104.0,100.0,104.0,15
+2020-03-07,Arizona,Airport,107.0,95.0,107.0,16
+2020-03-07,Arizona,Sports,110.0,114.0,110.0,17
 2020-03-07,Arizona,Hardware Stores,115.0,112.0,115.0,18
 2020-03-07,Arizona,Drug Store,101.0,92.0,102.0,19
-2020-03-07,Arizona,Fitness Center,68.0,69.0,68.0,20
-2020-03-07,Arizona,Travel & Transport,104.0,103.0,104.0,21
-2020-03-07,Arizona,Colleges & Universities,53.0,55.0,53.0,22
+2020-03-07,Arizona,Fitness Center,101.0,102.0,101.0,20
+2020-03-07,Arizona,Travel & Transport,116.0,115.0,116.0,21
+2020-03-07,Arizona,Colleges & Universities,102.0,104.0,102.0,22
 2020-03-07,Arizona,Discount Stores,101.0,107.0,101.0,23
-2020-03-07,Arizona,Office,90.0,97.0,90.0,24
+2020-03-07,Arizona,Office,107.0,115.0,107.0,24
 2020-03-07,Arizona,Banks,94.0,95.0,94.0,25
-2020-03-07,Arizona,Government,78.0,65.0,78.0,26
+2020-03-07,Arizona,Government,120.0,104.0,121.0,26
 2020-03-07,Arizona,Alcohol,97.0,93.0,97.0,27
-2020-03-07,Arizona,Bus,74.0,63.0,75.0,28
+2020-03-07,Arizona,Bus,109.0,96.0,110.0,28
 2020-03-07,Arizona,Light Rail Stations,123.0,218.0,121.0,29
-2020-03-07,Arizona,Spiritual Center,6.0,"",6.0,30
-2020-03-07,Arizona,Beach,91.0,"",88.0,31
-2020-03-08,Arizona,Food,43.0,44.0,43.0,1
-2020-03-08,Arizona,Shops & Services,28.0,27.0,28.0,2
+2020-03-07,Arizona,Spiritual Center,107.0,"",109.0,30
+2020-03-07,Arizona,Beach,103.0,"",100.0,31
+2020-03-08,Arizona,Food,100.0,96.0,100.0,1
+2020-03-08,Arizona,Shops & Services,102.0,100.0,102.0,2
 2020-03-08,Arizona,Grocery,90.0,87.0,91.0,3
-2020-03-08,Arizona,Outdoors & Recreation,47.0,43.0,48.0,4
-2020-03-08,Arizona,Arts & Entertainment,62.0,62.0,62.0,5
+2020-03-08,Arizona,Outdoors & Recreation,113.0,107.0,114.0,4
+2020-03-08,Arizona,Arts & Entertainment,130.0,127.0,130.0,5
 2020-03-08,Arizona,Big Box Stores,98.0,96.0,98.0,6
 2020-03-08,Arizona,Fast Food Restaurants,103.0,105.0,103.0,7
-2020-03-08,Arizona,Nightlife Spots,44.0,44.0,44.0,8
+2020-03-08,Arizona,Nightlife Spots,104.0,101.0,104.0,8
 2020-03-08,Arizona,Convenience Store,102.0,96.0,102.0,9
-2020-03-08,Arizona,Residences,59.0,61.0,59.0,10
+2020-03-08,Arizona,Residences,105.0,105.0,105.0,10
 2020-03-08,Arizona,Gas Stations,106.0,97.0,107.0,11
-2020-03-08,Arizona,Hotel,78.0,72.0,78.0,12
-2020-03-08,Arizona,Airport,64.0,67.0,64.0,13
-2020-03-08,Arizona,Professional & Other Places,17.0,16.0,17.0,14
-2020-03-08,Arizona,School,59.0,60.0,59.0,15
-2020-03-08,Arizona,Medical,57.0,54.0,57.0,16
-2020-03-08,Arizona,Sports,41.0,41.0,40.0,17
+2020-03-08,Arizona,Hotel,102.0,99.0,102.0,12
+2020-03-08,Arizona,Airport,103.0,107.0,103.0,13
+2020-03-08,Arizona,Professional & Other Places,97.0,97.0,97.0,14
+2020-03-08,Arizona,School,107.0,108.0,107.0,15
+2020-03-08,Arizona,Medical,104.0,98.0,105.0,16
+2020-03-08,Arizona,Sports,103.0,93.0,104.0,17
 2020-03-08,Arizona,Hardware Stores,110.0,99.0,111.0,18
 2020-03-08,Arizona,Drug Store,98.0,91.0,99.0,19
-2020-03-08,Arizona,Travel & Transport,19.0,27.0,18.0,20
+2020-03-08,Arizona,Travel & Transport,114.0,113.0,114.0,20
 2020-03-08,Arizona,Discount Stores,99.0,97.0,99.0,21
-2020-03-08,Arizona,Fitness Center,66.0,66.0,66.0,22
-2020-03-08,Arizona,Colleges & Universities,53.0,57.0,53.0,23
-2020-03-08,Arizona,Office,92.0,90.0,92.0,24
-2020-03-08,Arizona,Government,71.0,59.0,71.0,25
+2020-03-08,Arizona,Fitness Center,96.0,95.0,96.0,22
+2020-03-08,Arizona,Colleges & Universities,103.0,112.0,103.0,23
+2020-03-08,Arizona,Office,110.0,103.0,110.0,24
+2020-03-08,Arizona,Government,112.0,95.0,113.0,25
 2020-03-08,Arizona,Banks,100.0,81.0,101.0,26
 2020-03-08,Arizona,Alcohol,99.0,84.0,100.0,27
-2020-03-08,Arizona,Bus,67.0,"",68.0,28
+2020-03-08,Arizona,Bus,98.0,"",99.0,28
 2020-03-08,Arizona,Light Rail Stations,129.0,"",130.0,29
-2020-03-08,Arizona,Spiritual Center,4.0,"",4.0,30
-2020-03-08,Arizona,Beach,91.0,"",89.0,31
-2020-03-09,Arizona,Food,45.0,46.0,45.0,1
-2020-03-09,Arizona,Shops & Services,29.0,28.0,29.0,2
-2020-03-09,Arizona,Outdoors & Recreation,47.0,42.0,48.0,3
+2020-03-08,Arizona,Spiritual Center,96.0,"",98.0,30
+2020-03-08,Arizona,Beach,100.0,"",98.0,31
+2020-03-09,Arizona,Food,105.0,103.0,105.0,1
+2020-03-09,Arizona,Shops & Services,104.0,96.0,105.0,2
+2020-03-09,Arizona,Outdoors & Recreation,120.0,117.0,120.0,3
 2020-03-09,Arizona,Grocery,100.0,102.0,100.0,4
-2020-03-09,Arizona,Medical,55.0,51.0,55.0,5
+2020-03-09,Arizona,Medical,100.0,92.0,101.0,5
 2020-03-09,Arizona,Fast Food Restaurants,102.0,95.0,103.0,6
 2020-03-09,Arizona,Convenience Store,99.0,99.0,99.0,7
 2020-03-09,Arizona,Big Box Stores,105.0,100.0,106.0,8
-2020-03-09,Arizona,Residences,60.0,60.0,60.0,9
+2020-03-09,Arizona,Residences,106.0,101.0,106.0,9
 2020-03-09,Arizona,Gas Stations,109.0,103.0,109.0,10
-2020-03-09,Arizona,Arts & Entertainment,57.0,55.0,57.0,11
-2020-03-09,Arizona,Nightlife Spots,46.0,47.0,46.0,12
-2020-03-09,Arizona,Professional & Other Places,15.0,16.0,15.0,13
-2020-03-09,Arizona,School,45.0,52.0,45.0,14
-2020-03-09,Arizona,Hotel,82.0,79.0,83.0,15
-2020-03-09,Arizona,Airport,60.0,63.0,59.0,16
-2020-03-09,Arizona,Office,84.0,87.0,84.0,17
-2020-03-09,Arizona,Sports,40.0,45.0,40.0,18
+2020-03-09,Arizona,Arts & Entertainment,116.0,111.0,117.0,11
+2020-03-09,Arizona,Nightlife Spots,109.0,106.0,109.0,12
+2020-03-09,Arizona,Professional & Other Places,102.0,102.0,102.0,13
+2020-03-09,Arizona,School,81.0,93.0,81.0,14
+2020-03-09,Arizona,Hotel,108.0,110.0,108.0,15
+2020-03-09,Arizona,Airport,95.0,101.0,95.0,16
+2020-03-09,Arizona,Office,100.0,102.0,100.0,17
+2020-03-09,Arizona,Sports,115.0,110.0,116.0,18
 2020-03-09,Arizona,Hardware Stores,111.0,105.0,111.0,19
 2020-03-09,Arizona,Drug Store,105.0,106.0,105.0,20
-2020-03-09,Arizona,Fitness Center,67.0,65.0,67.0,21
-2020-03-09,Arizona,Colleges & Universities,36.0,43.0,36.0,22
-2020-03-09,Arizona,Travel & Transport,20.0,28.0,19.0,23
-2020-03-09,Arizona,Government,76.0,73.0,76.0,24
+2020-03-09,Arizona,Fitness Center,99.0,94.0,99.0,21
+2020-03-09,Arizona,Colleges & Universities,69.0,80.0,69.0,22
+2020-03-09,Arizona,Travel & Transport,114.0,120.0,113.0,23
+2020-03-09,Arizona,Government,113.0,111.0,113.0,24
 2020-03-09,Arizona,Banks,117.0,118.0,117.0,25
 2020-03-09,Arizona,Discount Stores,102.0,95.0,103.0,26
-2020-03-09,Arizona,Bus,72.0,58.0,72.0,27
+2020-03-09,Arizona,Bus,105.0,87.0,106.0,27
 2020-03-09,Arizona,Alcohol,100.0,93.0,100.0,28
 2020-03-09,Arizona,Light Rail Stations,106.0,"",107.0,29
-2020-03-09,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-10,Arizona,Food,44.0,42.0,44.0,1
-2020-03-10,Arizona,Shops & Services,29.0,27.0,29.0,2
+2020-03-09,Arizona,Spiritual Center,92.0,"",93.0,30
+2020-03-10,Arizona,Food,103.0,96.0,104.0,1
+2020-03-10,Arizona,Shops & Services,103.0,91.0,104.0,2
 2020-03-10,Arizona,Grocery,100.0,96.0,101.0,3
-2020-03-10,Arizona,Outdoors & Recreation,45.0,38.0,45.0,4
-2020-03-10,Arizona,Medical,52.0,50.0,53.0,5
+2020-03-10,Arizona,Outdoors & Recreation,114.0,104.0,115.0,4
+2020-03-10,Arizona,Medical,95.0,90.0,95.0,5
 2020-03-10,Arizona,Fast Food Restaurants,102.0,104.0,102.0,6
 2020-03-10,Arizona,Convenience Store,99.0,93.0,99.0,7
 2020-03-10,Arizona,Big Box Stores,104.0,101.0,104.0,8
-2020-03-10,Arizona,Residences,59.0,60.0,59.0,9
-2020-03-10,Arizona,School,40.0,45.0,40.0,10
-2020-03-10,Arizona,Professional & Other Places,14.0,15.0,14.0,11
+2020-03-10,Arizona,Residences,103.0,101.0,103.0,9
+2020-03-10,Arizona,School,72.0,80.0,71.0,10
+2020-03-10,Arizona,Professional & Other Places,96.0,91.0,96.0,11
 2020-03-10,Arizona,Gas Stations,103.0,94.0,103.0,12
-2020-03-10,Arizona,Arts & Entertainment,56.0,56.0,56.0,13
-2020-03-10,Arizona,Nightlife Spots,46.0,44.0,46.0,14
-2020-03-10,Arizona,Hotel,82.0,76.0,82.0,15
-2020-03-10,Arizona,Airport,58.0,60.0,58.0,16
-2020-03-10,Arizona,Office,78.0,83.0,78.0,17
-2020-03-10,Arizona,Fitness Center,66.0,62.0,66.0,18
-2020-03-10,Arizona,Sports,35.0,41.0,35.0,19
+2020-03-10,Arizona,Arts & Entertainment,117.0,115.0,117.0,13
+2020-03-10,Arizona,Nightlife Spots,107.0,98.0,107.0,14
+2020-03-10,Arizona,Hotel,106.0,105.0,106.0,15
+2020-03-10,Arizona,Airport,93.0,95.0,93.0,16
+2020-03-10,Arizona,Office,92.0,98.0,91.0,17
+2020-03-10,Arizona,Fitness Center,97.0,92.0,97.0,18
+2020-03-10,Arizona,Sports,109.0,103.0,110.0,19
 2020-03-10,Arizona,Drug Store,104.0,107.0,104.0,20
 2020-03-10,Arizona,Hardware Stores,104.0,92.0,105.0,21
-2020-03-10,Arizona,Colleges & Universities,31.0,43.0,30.0,22
-2020-03-10,Arizona,Government,67.0,59.0,68.0,23
-2020-03-10,Arizona,Travel & Transport,19.0,26.0,19.0,24
+2020-03-10,Arizona,Colleges & Universities,59.0,79.0,59.0,22
+2020-03-10,Arizona,Government,99.0,89.0,100.0,23
+2020-03-10,Arizona,Travel & Transport,110.0,113.0,110.0,24
 2020-03-10,Arizona,Discount Stores,100.0,89.0,101.0,25
 2020-03-10,Arizona,Banks,102.0,100.0,102.0,26
-2020-03-10,Arizona,Bus,68.0,54.0,69.0,27
+2020-03-10,Arizona,Bus,101.0,83.0,102.0,27
 2020-03-10,Arizona,Alcohol,98.0,82.0,99.0,28
 2020-03-10,Arizona,Light Rail Stations,89.0,"",89.0,29
-2020-03-10,Arizona,Spiritual Center,7.0,6.0,7.0,30
-2020-03-11,Arizona,Food,42.0,39.0,42.0,1
-2020-03-11,Arizona,Shops & Services,27.0,26.0,27.0,2
+2020-03-10,Arizona,Spiritual Center,113.0,138.0,112.0,30
+2020-03-11,Arizona,Food,98.0,88.0,98.0,1
+2020-03-11,Arizona,Shops & Services,99.0,91.0,100.0,2
 2020-03-11,Arizona,Grocery,98.0,93.0,99.0,3
-2020-03-11,Arizona,Outdoors & Recreation,37.0,30.0,38.0,4
-2020-03-11,Arizona,Medical,51.0,49.0,52.0,5
+2020-03-11,Arizona,Outdoors & Recreation,95.0,80.0,96.0,4
+2020-03-11,Arizona,Medical,93.0,88.0,93.0,5
 2020-03-11,Arizona,Fast Food Restaurants,96.0,90.0,96.0,6
-2020-03-11,Arizona,Convenience Store,96.0,91.0,96.0,7
+2020-03-11,Arizona,Convenience Store,96.0,90.0,96.0,7
 2020-03-11,Arizona,Big Box Stores,100.0,97.0,101.0,8
-2020-03-11,Arizona,Residences,53.0,51.0,54.0,9
-2020-03-11,Arizona,School,36.0,37.0,36.0,10
-2020-03-11,Arizona,Professional & Other Places,13.0,13.0,13.0,11
+2020-03-11,Arizona,Residences,94.0,86.0,94.0,9
+2020-03-11,Arizona,School,66.0,67.0,66.0,10
+2020-03-11,Arizona,Professional & Other Places,90.0,85.0,90.0,11
 2020-03-11,Arizona,Gas Stations,100.0,88.0,100.0,12
-2020-03-11,Arizona,Nightlife Spots,43.0,42.0,43.0,13
-2020-03-11,Arizona,Arts & Entertainment,54.0,55.0,54.0,14
-2020-03-11,Arizona,Hotel,74.0,63.0,75.0,15
-2020-03-11,Arizona,Airport,60.0,52.0,60.0,16
-2020-03-11,Arizona,Office,74.0,74.0,74.0,17
-2020-03-11,Arizona,Fitness Center,61.0,55.0,62.0,18
+2020-03-11,Arizona,Nightlife Spots,100.0,93.0,101.0,13
+2020-03-11,Arizona,Arts & Entertainment,103.0,99.0,103.0,14
+2020-03-11,Arizona,Hotel,97.0,89.0,98.0,15
+2020-03-11,Arizona,Airport,95.0,82.0,95.0,16
+2020-03-11,Arizona,Office,87.0,88.0,87.0,17
+2020-03-11,Arizona,Fitness Center,90.0,80.0,90.0,18
 2020-03-11,Arizona,Drug Store,99.0,99.0,99.0,19
 2020-03-11,Arizona,Hardware Stores,96.0,84.0,97.0,20
-2020-03-11,Arizona,Government,64.0,57.0,65.0,21
-2020-03-11,Arizona,Sports,28.0,28.0,28.0,22
-2020-03-11,Arizona,Colleges & Universities,26.0,36.0,26.0,23
-2020-03-11,Arizona,Travel & Transport,19.0,26.0,18.0,24
+2020-03-11,Arizona,Government,96.0,86.0,96.0,21
+2020-03-11,Arizona,Sports,85.0,68.0,87.0,22
+2020-03-11,Arizona,Colleges & Universities,51.0,68.0,51.0,23
+2020-03-11,Arizona,Travel & Transport,106.0,117.0,106.0,24
 2020-03-11,Arizona,Discount Stores,93.0,82.0,94.0,25
 2020-03-11,Arizona,Banks,94.0,85.0,95.0,26
-2020-03-11,Arizona,Bus,68.0,77.0,68.0,27
+2020-03-11,Arizona,Bus,101.0,115.0,100.0,27
 2020-03-11,Arizona,Alcohol,96.0,98.0,96.0,28
 2020-03-11,Arizona,Light Rail Stations,93.0,"",93.0,29
-2020-03-11,Arizona,Spiritual Center,5.0,4.0,5.0,30
-2020-03-12,Arizona,Food,42.0,40.0,43.0,1
-2020-03-12,Arizona,Shops & Services,28.0,26.0,28.0,2
+2020-03-11,Arizona,Spiritual Center,84.0,87.0,84.0,30
+2020-03-12,Arizona,Food,96.0,85.0,97.0,1
+2020-03-12,Arizona,Shops & Services,101.0,87.0,102.0,2
 2020-03-12,Arizona,Grocery,117.0,109.0,117.0,3
-2020-03-12,Arizona,Outdoors & Recreation,36.0,28.0,37.0,4
-2020-03-12,Arizona,Medical,53.0,47.0,53.0,5
+2020-03-12,Arizona,Outdoors & Recreation,93.0,76.0,94.0,4
+2020-03-12,Arizona,Medical,95.0,85.0,96.0,5
 2020-03-12,Arizona,Big Box Stores,113.0,107.0,113.0,6
 2020-03-12,Arizona,Fast Food Restaurants,96.0,86.0,96.0,7
 2020-03-12,Arizona,Convenience Store,91.0,81.0,92.0,8
-2020-03-12,Arizona,Residences,55.0,48.0,56.0,9
+2020-03-12,Arizona,Residences,97.0,80.0,98.0,9
 2020-03-12,Arizona,Gas Stations,100.0,87.0,101.0,10
-2020-03-12,Arizona,School,37.0,40.0,37.0,11
-2020-03-12,Arizona,Nightlife Spots,43.0,37.0,43.0,12
-2020-03-12,Arizona,Professional & Other Places,13.0,12.0,13.0,13
-2020-03-12,Arizona,Arts & Entertainment,47.0,42.0,47.0,14
-2020-03-12,Arizona,Hotel,72.0,59.0,73.0,15
-2020-03-12,Arizona,Airport,55.0,40.0,56.0,16
-2020-03-12,Arizona,Office,72.0,73.0,72.0,17
+2020-03-12,Arizona,School,67.0,72.0,66.0,11
+2020-03-12,Arizona,Nightlife Spots,100.0,84.0,101.0,12
+2020-03-12,Arizona,Professional & Other Places,89.0,80.0,90.0,13
+2020-03-12,Arizona,Arts & Entertainment,98.0,84.0,99.0,14
+2020-03-12,Arizona,Hotel,94.0,81.0,94.0,15
+2020-03-12,Arizona,Airport,87.0,64.0,88.0,16
+2020-03-12,Arizona,Office,85.0,86.0,85.0,17
 2020-03-12,Arizona,Drug Store,111.0,95.0,113.0,18
-2020-03-12,Arizona,Fitness Center,59.0,53.0,60.0,19
+2020-03-12,Arizona,Fitness Center,87.0,78.0,88.0,19
 2020-03-12,Arizona,Hardware Stores,101.0,81.0,103.0,20
-2020-03-12,Arizona,Sports,28.0,26.0,28.0,21
-2020-03-12,Arizona,Government,63.0,60.0,63.0,22
-2020-03-12,Arizona,Colleges & Universities,27.0,34.0,27.0,23
-2020-03-12,Arizona,Travel & Transport,18.0,20.0,18.0,24
+2020-03-12,Arizona,Sports,83.0,63.0,86.0,21
+2020-03-12,Arizona,Government,93.0,91.0,93.0,22
+2020-03-12,Arizona,Colleges & Universities,52.0,62.0,52.0,23
+2020-03-12,Arizona,Travel & Transport,102.0,90.0,103.0,24
 2020-03-12,Arizona,Discount Stores,110.0,105.0,110.0,25
 2020-03-12,Arizona,Banks,95.0,89.0,96.0,26
 2020-03-12,Arizona,Alcohol,108.0,111.0,107.0,27
-2020-03-12,Arizona,Bus,71.0,68.0,71.0,28
+2020-03-12,Arizona,Bus,104.0,101.0,104.0,28
 2020-03-12,Arizona,Light Rail Stations,84.0,"",84.0,29
-2020-03-12,Arizona,Spiritual Center,5.0,4.0,5.0,30
-2020-03-13,Arizona,Food,42.0,38.0,42.0,1
-2020-03-13,Arizona,Shops & Services,29.0,27.0,29.0,2
+2020-03-12,Arizona,Spiritual Center,86.0,104.0,85.0,30
+2020-03-13,Arizona,Food,96.0,83.0,96.0,1
+2020-03-13,Arizona,Shops & Services,103.0,91.0,104.0,2
 2020-03-13,Arizona,Grocery,134.0,125.0,135.0,3
-2020-03-13,Arizona,Outdoors & Recreation,38.0,30.0,38.0,4
+2020-03-13,Arizona,Outdoors & Recreation,94.0,81.0,95.0,4
 2020-03-13,Arizona,Big Box Stores,124.0,113.0,125.0,5
 2020-03-13,Arizona,Fast Food Restaurants,101.0,94.0,101.0,6
-2020-03-13,Arizona,Medical,53.0,51.0,54.0,7
+2020-03-13,Arizona,Medical,96.0,92.0,97.0,7
 2020-03-13,Arizona,Convenience Store,96.0,92.0,96.0,8
 2020-03-13,Arizona,Gas Stations,106.0,88.0,107.0,9
-2020-03-13,Arizona,Residences,55.0,52.0,55.0,10
-2020-03-13,Arizona,Nightlife Spots,42.0,39.0,42.0,11
-2020-03-13,Arizona,School,35.0,40.0,35.0,12
-2020-03-13,Arizona,Professional & Other Places,13.0,14.0,13.0,13
-2020-03-13,Arizona,Arts & Entertainment,43.0,38.0,43.0,14
-2020-03-13,Arizona,Hotel,70.0,54.0,71.0,15
+2020-03-13,Arizona,Residences,97.0,87.0,97.0,10
+2020-03-13,Arizona,Nightlife Spots,98.0,88.0,99.0,11
+2020-03-13,Arizona,School,64.0,71.0,64.0,12
+2020-03-13,Arizona,Professional & Other Places,90.0,79.0,90.0,13
+2020-03-13,Arizona,Arts & Entertainment,90.0,75.0,91.0,14
+2020-03-13,Arizona,Hotel,92.0,74.0,93.0,15
 2020-03-13,Arizona,Drug Store,123.0,119.0,124.0,16
-2020-03-13,Arizona,Airport,53.0,50.0,53.0,17
-2020-03-13,Arizona,Office,76.0,75.0,76.0,18
+2020-03-13,Arizona,Airport,84.0,79.0,84.0,17
+2020-03-13,Arizona,Office,90.0,89.0,90.0,18
 2020-03-13,Arizona,Hardware Stores,117.0,103.0,118.0,19
-2020-03-13,Arizona,Sports,30.0,32.0,30.0,20
-2020-03-13,Arizona,Fitness Center,58.0,54.0,59.0,21
+2020-03-13,Arizona,Sports,87.0,75.0,88.0,20
+2020-03-13,Arizona,Fitness Center,86.0,79.0,86.0,21
 2020-03-13,Arizona,Discount Stores,126.0,122.0,126.0,22
-2020-03-13,Arizona,Government,69.0,57.0,69.0,23
-2020-03-13,Arizona,Travel & Transport,18.0,22.0,18.0,24
-2020-03-13,Arizona,Colleges & Universities,29.0,26.0,29.0,25
+2020-03-13,Arizona,Government,101.0,88.0,102.0,23
+2020-03-13,Arizona,Travel & Transport,102.0,89.0,103.0,24
+2020-03-13,Arizona,Colleges & Universities,57.0,49.0,57.0,25
 2020-03-13,Arizona,Banks,98.0,86.0,99.0,26
 2020-03-13,Arizona,Alcohol,99.0,95.0,99.0,27
-2020-03-13,Arizona,Bus,67.0,53.0,68.0,28
+2020-03-13,Arizona,Bus,100.0,81.0,101.0,28
 2020-03-13,Arizona,Light Rail Stations,91.0,"",92.0,29
-2020-03-13,Arizona,Spiritual Center,6.0,5.0,6.0,30
-2020-03-14,Arizona,Food,38.0,36.0,38.0,1
-2020-03-14,Arizona,Shops & Services,28.0,26.0,28.0,2
+2020-03-13,Arizona,Spiritual Center,86.0,95.0,86.0,30
+2020-03-14,Arizona,Food,89.0,82.0,89.0,1
+2020-03-14,Arizona,Shops & Services,94.0,87.0,95.0,2
 2020-03-14,Arizona,Grocery,133.0,118.0,134.0,3
-2020-03-14,Arizona,Outdoors & Recreation,40.0,38.0,40.0,4
+2020-03-14,Arizona,Outdoors & Recreation,98.0,96.0,98.0,4
 2020-03-14,Arizona,Big Box Stores,120.0,99.0,120.0,5
 2020-03-14,Arizona,Fast Food Restaurants,92.0,85.0,92.0,6
 2020-03-14,Arizona,Convenience Store,95.0,94.0,95.0,7
-2020-03-14,Arizona,Nightlife Spots,39.0,39.0,39.0,8
+2020-03-14,Arizona,Nightlife Spots,92.0,90.0,92.0,8
 2020-03-14,Arizona,Residences,100.0,99.0,100.0,9
 2020-03-14,Arizona,Gas Stations,106.0,93.0,107.0,10
-2020-03-14,Arizona,Arts & Entertainment,35.0,35.0,35.0,11
-2020-03-14,Arizona,Hotel,66.0,57.0,67.0,12
-2020-03-14,Arizona,Medical,51.0,47.0,52.0,13
+2020-03-14,Arizona,Arts & Entertainment,72.0,71.0,73.0,11
+2020-03-14,Arizona,Hotel,87.0,79.0,88.0,12
+2020-03-14,Arizona,Medical,94.0,86.0,94.0,13
 2020-03-14,Arizona,Drug Store,129.0,117.0,130.0,14
-2020-03-14,Arizona,Professional & Other Places,16.0,16.0,16.0,15
+2020-03-14,Arizona,Professional & Other Places,84.0,79.0,85.0,15
 2020-03-14,Arizona,Hardware Stores,118.0,109.0,119.0,16
-2020-03-14,Arizona,Airport,54.0,42.0,55.0,17
-2020-03-14,Arizona,School,44.0,47.0,44.0,18
-2020-03-14,Arizona,Sports,31.0,43.0,30.0,19
+2020-03-14,Arizona,Airport,87.0,67.0,88.0,17
+2020-03-14,Arizona,School,79.0,84.0,79.0,18
+2020-03-14,Arizona,Sports,82.0,99.0,81.0,19
 2020-03-14,Arizona,Discount Stores,129.0,120.0,129.0,20
-2020-03-14,Arizona,Fitness Center,58.0,55.0,58.0,21
-2020-03-14,Arizona,Travel & Transport,19.0,22.0,19.0,22
-2020-03-14,Arizona,Office,79.0,80.0,79.0,23
+2020-03-14,Arizona,Fitness Center,86.0,81.0,86.0,21
+2020-03-14,Arizona,Travel & Transport,109.0,96.0,110.0,22
+2020-03-14,Arizona,Office,95.0,94.0,95.0,23
 2020-03-14,Arizona,Banks,87.0,78.0,87.0,24
-2020-03-14,Arizona,Colleges & Universities,33.0,34.0,32.0,25
-2020-03-14,Arizona,Government,64.0,50.0,65.0,26
+2020-03-14,Arizona,Colleges & Universities,63.0,66.0,63.0,25
+2020-03-14,Arizona,Government,99.0,79.0,100.0,26
 2020-03-14,Arizona,Alcohol,105.0,105.0,105.0,27
-2020-03-14,Arizona,Bus,68.0,56.0,69.0,28
+2020-03-14,Arizona,Bus,100.0,86.0,101.0,28
 2020-03-14,Arizona,Light Rail Stations,89.0,"",89.0,29
-2020-03-14,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-14,Arizona,Skiing,102.0,"",104.0,31
-2020-03-15,Arizona,Food,36.0,34.0,36.0,1
-2020-03-15,Arizona,Shops & Services,23.0,21.0,23.0,2
+2020-03-14,Arizona,Spiritual Center,81.0,"",81.0,30
+2020-03-14,Arizona,Skiing,135.0,"",136.0,31
+2020-03-15,Arizona,Food,85.0,76.0,85.0,1
+2020-03-15,Arizona,Shops & Services,86.0,79.0,86.0,2
 2020-03-15,Arizona,Grocery,109.0,107.0,109.0,3
-2020-03-15,Arizona,Outdoors & Recreation,44.0,40.0,44.0,4
+2020-03-15,Arizona,Outdoors & Recreation,103.0,100.0,104.0,4
 2020-03-15,Arizona,Big Box Stores,102.0,94.0,102.0,5
 2020-03-15,Arizona,Fast Food Restaurants,89.0,88.0,89.0,6
 2020-03-15,Arizona,Convenience Store,95.0,92.0,95.0,7
-2020-03-15,Arizona,Nightlife Spots,37.0,34.0,37.0,8
+2020-03-15,Arizona,Nightlife Spots,88.0,79.0,88.0,8
 2020-03-15,Arizona,Residences,95.0,94.0,95.0,9
 2020-03-15,Arizona,Gas Stations,104.0,96.0,104.0,10
-2020-03-15,Arizona,Arts & Entertainment,33.0,30.0,33.0,11
-2020-03-15,Arizona,Hotel,63.0,57.0,63.0,12
+2020-03-15,Arizona,Arts & Entertainment,70.0,62.0,70.0,11
+2020-03-15,Arizona,Hotel,83.0,79.0,83.0,12
 2020-03-15,Arizona,Hardware Stores,113.0,98.0,114.0,13
 2020-03-15,Arizona,Drug Store,115.0,99.0,116.0,14
-2020-03-15,Arizona,Airport,51.0,44.0,51.0,15
-2020-03-15,Arizona,School,51.0,47.0,51.0,16
-2020-03-15,Arizona,Professional & Other Places,13.0,12.0,13.0,17
-2020-03-15,Arizona,Medical,49.0,48.0,49.0,18
-2020-03-15,Arizona,Sports,35.0,44.0,35.0,19
+2020-03-15,Arizona,Airport,81.0,70.0,82.0,15
+2020-03-15,Arizona,School,92.0,86.0,92.0,16
+2020-03-15,Arizona,Professional & Other Places,78.0,71.0,79.0,17
+2020-03-15,Arizona,Medical,90.0,88.0,90.0,18
+2020-03-15,Arizona,Sports,90.0,97.0,89.0,19
 2020-03-15,Arizona,Discount Stores,113.0,99.0,113.0,20
-2020-03-15,Arizona,Travel & Transport,17.0,22.0,17.0,21
-2020-03-15,Arizona,Fitness Center,58.0,49.0,58.0,22
-2020-03-15,Arizona,Colleges & Universities,36.0,30.0,36.0,23
-2020-03-15,Arizona,Government,66.0,59.0,67.0,24
-2020-03-15,Arizona,Office,80.0,72.0,80.0,25
+2020-03-15,Arizona,Travel & Transport,106.0,91.0,107.0,21
+2020-03-15,Arizona,Fitness Center,84.0,70.0,85.0,22
+2020-03-15,Arizona,Colleges & Universities,71.0,62.0,71.0,23
+2020-03-15,Arizona,Government,105.0,96.0,105.0,24
+2020-03-15,Arizona,Office,95.0,82.0,96.0,25
 2020-03-15,Arizona,Banks,83.0,72.0,84.0,26
 2020-03-15,Arizona,Alcohol,96.0,105.0,96.0,27
-2020-03-15,Arizona,Bus,74.0,"",75.0,28
+2020-03-15,Arizona,Bus,108.0,"",109.0,28
 2020-03-15,Arizona,Light Rail Stations,84.0,"",86.0,29
-2020-03-15,Arizona,Spiritual Center,2.0,"",2.0,30
-2020-03-15,Arizona,Beach,101.0,"",104.0,31
-2020-03-16,Arizona,Food,39.0,36.0,40.0,1
-2020-03-16,Arizona,Shops & Services,26.0,24.0,26.0,2
+2020-03-15,Arizona,Spiritual Center,45.0,"",46.0,30
+2020-03-15,Arizona,Beach,110.0,"",113.0,31
+2020-03-16,Arizona,Food,91.0,79.0,92.0,1
+2020-03-16,Arizona,Shops & Services,97.0,83.0,98.0,2
 2020-03-16,Arizona,Grocery,137.0,128.0,138.0,3
-2020-03-16,Arizona,Outdoors & Recreation,44.0,36.0,44.0,4
-2020-03-16,Arizona,Medical,49.0,43.0,49.0,5
+2020-03-16,Arizona,Outdoors & Recreation,108.0,98.0,109.0,4
+2020-03-16,Arizona,Medical,89.0,78.0,90.0,5
 2020-03-16,Arizona,Big Box Stores,119.0,106.0,120.0,6
-2020-03-16,Arizona,Convenience Store,96.0,88.0,96.0,7
+2020-03-16,Arizona,Convenience Store,96.0,87.0,96.0,7
 2020-03-16,Arizona,Fast Food Restaurants,94.0,86.0,95.0,8
-2020-03-16,Arizona,Residences,57.0,56.0,57.0,9
+2020-03-16,Arizona,Residences,99.0,95.0,100.0,9
 2020-03-16,Arizona,Gas Stations,107.0,105.0,108.0,10
-2020-03-16,Arizona,Professional & Other Places,14.0,13.0,14.0,11
-2020-03-16,Arizona,Nightlife Spots,40.0,39.0,40.0,12
-2020-03-16,Arizona,Hotel,68.0,59.0,68.0,13
-2020-03-16,Arizona,Arts & Entertainment,39.0,32.0,39.0,14
-2020-03-16,Arizona,School,31.0,39.0,31.0,15
-2020-03-16,Arizona,Airport,45.0,38.0,46.0,16
-2020-03-16,Arizona,Office,74.0,76.0,74.0,17
+2020-03-16,Arizona,Professional & Other Places,94.0,83.0,94.0,11
+2020-03-16,Arizona,Nightlife Spots,94.0,88.0,95.0,12
+2020-03-16,Arizona,Hotel,89.0,82.0,89.0,13
+2020-03-16,Arizona,Arts & Entertainment,80.0,65.0,81.0,14
+2020-03-16,Arizona,School,56.0,71.0,56.0,15
+2020-03-16,Arizona,Airport,72.0,60.0,73.0,16
+2020-03-16,Arizona,Office,88.0,90.0,88.0,17
 2020-03-16,Arizona,Drug Store,122.0,109.0,122.0,18
 2020-03-16,Arizona,Hardware Stores,113.0,93.0,115.0,19
-2020-03-16,Arizona,Sports,36.0,42.0,35.0,20
-2020-03-16,Arizona,Government,71.0,64.0,72.0,21
-2020-03-16,Arizona,Travel & Transport,18.0,23.0,18.0,22
-2020-03-16,Arizona,Fitness Center,54.0,47.0,54.0,23
+2020-03-16,Arizona,Sports,103.0,104.0,102.0,20
+2020-03-16,Arizona,Government,106.0,96.0,107.0,21
+2020-03-16,Arizona,Travel & Transport,102.0,96.0,102.0,22
+2020-03-16,Arizona,Fitness Center,79.0,68.0,79.0,23
 2020-03-16,Arizona,Discount Stores,124.0,99.0,125.0,24
-2020-03-16,Arizona,Colleges & Universities,25.0,29.0,25.0,25
+2020-03-16,Arizona,Colleges & Universities,48.0,54.0,48.0,25
 2020-03-16,Arizona,Banks,110.0,107.0,111.0,26
-2020-03-16,Arizona,Bus,71.0,68.0,71.0,27
+2020-03-16,Arizona,Bus,104.0,102.0,104.0,27
 2020-03-16,Arizona,Alcohol,104.0,73.0,106.0,28
 2020-03-16,Arizona,Light Rail Stations,86.0,"",86.0,29
-2020-03-16,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-17,Arizona,Shops & Services,25.0,21.0,25.0,1
-2020-03-17,Arizona,Food,35.0,30.0,36.0,2
+2020-03-16,Arizona,Spiritual Center,88.0,"",88.0,30
+2020-03-17,Arizona,Shops & Services,90.0,70.0,91.0,1
+2020-03-17,Arizona,Food,83.0,67.0,84.0,2
 2020-03-17,Arizona,Grocery,136.0,118.0,137.0,3
-2020-03-17,Arizona,Outdoors & Recreation,44.0,39.0,44.0,4
-2020-03-17,Arizona,Medical,44.0,39.0,44.0,5
+2020-03-17,Arizona,Outdoors & Recreation,111.0,103.0,111.0,4
+2020-03-17,Arizona,Medical,80.0,69.0,81.0,5
 2020-03-17,Arizona,Big Box Stores,114.0,89.0,116.0,6
 2020-03-17,Arizona,Convenience Store,94.0,86.0,94.0,7
 2020-03-17,Arizona,Fast Food Restaurants,88.0,73.0,89.0,8
 2020-03-17,Arizona,Residences,101.0,93.0,101.0,9
 2020-03-17,Arizona,Gas Stations,105.0,91.0,106.0,10
-2020-03-17,Arizona,Professional & Other Places,12.0,11.0,12.0,11
-2020-03-17,Arizona,Nightlife Spots,41.0,35.0,41.0,12
-2020-03-17,Arizona,School,25.0,32.0,25.0,13
+2020-03-17,Arizona,Professional & Other Places,82.0,69.0,83.0,11
+2020-03-17,Arizona,Nightlife Spots,95.0,79.0,96.0,12
+2020-03-17,Arizona,School,45.0,57.0,45.0,13
 2020-03-17,Arizona,Drug Store,116.0,101.0,117.0,14
-2020-03-17,Arizona,Hotel,61.0,55.0,61.0,15
-2020-03-17,Arizona,Arts & Entertainment,36.0,27.0,37.0,16
-2020-03-17,Arizona,Office,63.0,67.0,63.0,17
+2020-03-17,Arizona,Hotel,79.0,75.0,79.0,15
+2020-03-17,Arizona,Arts & Entertainment,75.0,56.0,76.0,16
+2020-03-17,Arizona,Office,74.0,79.0,74.0,17
 2020-03-17,Arizona,Hardware Stores,108.0,84.0,111.0,18
-2020-03-17,Arizona,Sports,34.0,41.0,33.0,19
-2020-03-17,Arizona,Airport,42.0,37.0,43.0,20
-2020-03-17,Arizona,Government,58.0,50.0,59.0,21
-2020-03-17,Arizona,Travel & Transport,17.0,21.0,17.0,22
+2020-03-17,Arizona,Sports,103.0,101.0,103.0,19
+2020-03-17,Arizona,Airport,67.0,59.0,68.0,20
+2020-03-17,Arizona,Government,86.0,75.0,87.0,21
+2020-03-17,Arizona,Travel & Transport,99.0,92.0,99.0,22
 2020-03-17,Arizona,Discount Stores,123.0,101.0,124.0,23
-2020-03-17,Arizona,Fitness Center,39.0,32.0,40.0,24
-2020-03-17,Arizona,Colleges & Universities,19.0,30.0,19.0,25
+2020-03-17,Arizona,Fitness Center,57.0,47.0,58.0,24
+2020-03-17,Arizona,Colleges & Universities,37.0,56.0,36.0,25
 2020-03-17,Arizona,Banks,91.0,78.0,92.0,26
-2020-03-17,Arizona,Bus,68.0,64.0,68.0,27
+2020-03-17,Arizona,Bus,100.0,97.0,101.0,27
 2020-03-17,Arizona,Alcohol,109.0,99.0,109.0,28
 2020-03-17,Arizona,Light Rail Stations,69.0,"",68.0,29
-2020-03-17,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-18,Arizona,Shops & Services,21.0,18.0,22.0,1
-2020-03-18,Arizona,Food,30.0,24.0,31.0,2
+2020-03-17,Arizona,Spiritual Center,88.0,"",90.0,30
+2020-03-18,Arizona,Shops & Services,78.0,61.0,79.0,1
+2020-03-18,Arizona,Food,70.0,53.0,71.0,2
 2020-03-18,Arizona,Grocery,126.0,107.0,127.0,3
-2020-03-18,Arizona,Outdoors & Recreation,34.0,24.0,35.0,4
-2020-03-18,Arizona,Medical,41.0,32.0,41.0,5
+2020-03-18,Arizona,Outdoors & Recreation,86.0,64.0,88.0,4
+2020-03-18,Arizona,Medical,73.0,58.0,75.0,5
 2020-03-18,Arizona,Big Box Stores,104.0,85.0,105.0,6
 2020-03-18,Arizona,Convenience Store,87.0,73.0,87.0,7
 2020-03-18,Arizona,Fast Food Restaurants,75.0,61.0,75.0,8
 2020-03-18,Arizona,Residences,90.0,70.0,91.0,9
 2020-03-18,Arizona,Gas Stations,95.0,76.0,96.0,10
-2020-03-18,Arizona,Professional & Other Places,11.0,10.0,11.0,11
-2020-03-18,Arizona,Nightlife Spots,35.0,28.0,36.0,12
+2020-03-18,Arizona,Professional & Other Places,75.0,61.0,76.0,11
+2020-03-18,Arizona,Nightlife Spots,82.0,62.0,83.0,12
 2020-03-18,Arizona,Drug Store,108.0,89.0,110.0,13
-2020-03-18,Arizona,School,21.0,26.0,21.0,14
-2020-03-18,Arizona,Office,58.0,57.0,58.0,15
-2020-03-18,Arizona,Hotel,51.0,36.0,52.0,16
+2020-03-18,Arizona,School,39.0,47.0,38.0,14
+2020-03-18,Arizona,Office,69.0,67.0,69.0,15
+2020-03-18,Arizona,Hotel,66.0,51.0,67.0,16
 2020-03-18,Arizona,Hardware Stores,99.0,76.0,101.0,17
-2020-03-18,Arizona,Arts & Entertainment,27.0,19.0,27.0,18
-2020-03-18,Arizona,Airport,37.0,31.0,37.0,19
-2020-03-18,Arizona,Sports,24.0,23.0,24.0,20
-2020-03-18,Arizona,Government,50.0,37.0,51.0,21
+2020-03-18,Arizona,Arts & Entertainment,56.0,38.0,57.0,18
+2020-03-18,Arizona,Airport,58.0,49.0,59.0,19
+2020-03-18,Arizona,Sports,72.0,56.0,75.0,20
+2020-03-18,Arizona,Government,75.0,55.0,76.0,21
 2020-03-18,Arizona,Discount Stores,102.0,85.0,103.0,22
-2020-03-18,Arizona,Travel & Transport,14.0,16.0,14.0,23
-2020-03-18,Arizona,Colleges & Universities,17.0,24.0,16.0,24
-2020-03-18,Arizona,Fitness Center,29.0,25.0,29.0,25
-2020-03-18,Arizona,Banks,80.0,70.0,80.0,26
-2020-03-18,Arizona,Bus,65.0,67.0,65.0,27
+2020-03-18,Arizona,Travel & Transport,82.0,71.0,83.0,23
+2020-03-18,Arizona,Colleges & Universities,32.0,45.0,32.0,24
+2020-03-18,Arizona,Fitness Center,43.0,37.0,43.0,25
+2020-03-18,Arizona,Banks,80.0,69.0,80.0,26
+2020-03-18,Arizona,Bus,96.0,100.0,96.0,27
 2020-03-18,Arizona,Alcohol,96.0,74.0,98.0,28
 2020-03-18,Arizona,Light Rail Stations,73.0,"",73.0,29
-2020-03-18,Arizona,Spiritual Center,4.0,"",5.0,30
-2020-03-19,Arizona,Shops & Services,19.0,16.0,19.0,1
-2020-03-19,Arizona,Food,24.0,20.0,25.0,2
+2020-03-18,Arizona,Spiritual Center,74.0,"",75.0,30
+2020-03-19,Arizona,Shops & Services,66.0,53.0,67.0,1
+2020-03-19,Arizona,Food,57.0,45.0,58.0,2
 2020-03-19,Arizona,Grocery,109.0,101.0,109.0,3
-2020-03-19,Arizona,Outdoors & Recreation,31.0,25.0,32.0,4
-2020-03-19,Arizona,Medical,37.0,31.0,37.0,5
+2020-03-19,Arizona,Outdoors & Recreation,79.0,66.0,80.0,4
+2020-03-19,Arizona,Medical,67.0,56.0,67.0,5
 2020-03-19,Arizona,Convenience Store,77.0,70.0,77.0,6
 2020-03-19,Arizona,Big Box Stores,86.0,75.0,86.0,7
-2020-03-19,Arizona,Fast Food Restaurants,65.0,55.0,66.0,8
+2020-03-19,Arizona,Fast Food Restaurants,65.0,54.0,66.0,8
 2020-03-19,Arizona,Residences,80.0,68.0,81.0,9
 2020-03-19,Arizona,Gas Stations,83.0,66.0,84.0,10
-2020-03-19,Arizona,Professional & Other Places,9.0,9.0,10.0,11
-2020-03-19,Arizona,Nightlife Spots,27.0,25.0,27.0,12
-2020-03-19,Arizona,School,20.0,26.0,20.0,13
+2020-03-19,Arizona,Professional & Other Places,67.0,56.0,67.0,11
+2020-03-19,Arizona,Nightlife Spots,60.0,53.0,61.0,12
+2020-03-19,Arizona,School,36.0,48.0,36.0,13
 2020-03-19,Arizona,Drug Store,92.0,81.0,93.0,14
-2020-03-19,Arizona,Office,52.0,54.0,52.0,15
-2020-03-19,Arizona,Hotel,44.0,31.0,45.0,16
+2020-03-19,Arizona,Office,61.0,64.0,61.0,15
+2020-03-19,Arizona,Hotel,57.0,43.0,58.0,16
 2020-03-19,Arizona,Hardware Stores,90.0,74.0,92.0,17
-2020-03-19,Arizona,Airport,31.0,26.0,31.0,18
-2020-03-19,Arizona,Sports,23.0,23.0,23.0,19
-2020-03-19,Arizona,Arts & Entertainment,21.0,16.0,21.0,20
-2020-03-19,Arizona,Government,45.0,38.0,46.0,21
-2020-03-19,Arizona,Travel & Transport,13.0,16.0,13.0,22
+2020-03-19,Arizona,Airport,49.0,41.0,49.0,18
+2020-03-19,Arizona,Sports,66.0,55.0,68.0,19
+2020-03-19,Arizona,Arts & Entertainment,43.0,33.0,44.0,20
+2020-03-19,Arizona,Government,67.0,58.0,67.0,21
+2020-03-19,Arizona,Travel & Transport,75.0,70.0,75.0,22
 2020-03-19,Arizona,Discount Stores,82.0,71.0,82.0,23
-2020-03-19,Arizona,Colleges & Universities,14.0,21.0,14.0,24
+2020-03-19,Arizona,Colleges & Universities,28.0,40.0,28.0,24
 2020-03-19,Arizona,Banks,74.0,72.0,74.0,25
-2020-03-19,Arizona,Fitness Center,24.0,21.0,24.0,26
+2020-03-19,Arizona,Fitness Center,35.0,32.0,35.0,26
 2020-03-19,Arizona,Alcohol,83.0,92.0,83.0,27
-2020-03-19,Arizona,Bus,54.0,49.0,54.0,28
+2020-03-19,Arizona,Bus,79.0,72.0,79.0,28
 2020-03-19,Arizona,Light Rail Stations,62.0,"",63.0,29
-2020-03-19,Arizona,Spiritual Center,4.0,"",4.0,30
-2020-03-20,Arizona,Shops & Services,18.0,17.0,19.0,1
-2020-03-20,Arizona,Food,24.0,21.0,24.0,2
+2020-03-19,Arizona,Spiritual Center,74.0,"",74.0,30
+2020-03-20,Arizona,Shops & Services,66.0,57.0,67.0,1
+2020-03-20,Arizona,Food,56.0,45.0,56.0,2
 2020-03-20,Arizona,Grocery,110.0,97.0,111.0,3
-2020-03-20,Arizona,Outdoors & Recreation,34.0,28.0,34.0,4
+2020-03-20,Arizona,Outdoors & Recreation,85.0,76.0,86.0,4
 2020-03-20,Arizona,Big Box Stores,89.0,78.0,90.0,5
-2020-03-20,Arizona,Convenience Store,80.0,75.0,81.0,6
+2020-03-20,Arizona,Convenience Store,80.0,74.0,81.0,6
 2020-03-20,Arizona,Fast Food Restaurants,68.0,60.0,69.0,7
-2020-03-20,Arizona,Medical,38.0,33.0,38.0,8
-2020-03-20,Arizona,Residences,49.0,46.0,49.0,9
+2020-03-20,Arizona,Medical,68.0,60.0,68.0,8
+2020-03-20,Arizona,Residences,87.0,78.0,87.0,9
 2020-03-20,Arizona,Gas Stations,83.0,74.0,84.0,10
-2020-03-20,Arizona,Professional & Other Places,11.0,10.0,11.0,11
-2020-03-20,Arizona,Nightlife Spots,26.0,24.0,26.0,12
-2020-03-20,Arizona,School,21.0,26.0,21.0,13
+2020-03-20,Arizona,Professional & Other Places,72.0,58.0,73.0,11
+2020-03-20,Arizona,Nightlife Spots,60.0,54.0,61.0,12
+2020-03-20,Arizona,School,38.0,47.0,38.0,13
 2020-03-20,Arizona,Drug Store,92.0,83.0,92.0,14
 2020-03-20,Arizona,Hardware Stores,100.0,83.0,101.0,15
-2020-03-20,Arizona,Sports,28.0,32.0,27.0,16
-2020-03-20,Arizona,Hotel,42.0,34.0,43.0,17
-2020-03-20,Arizona,Office,56.0,57.0,56.0,18
-2020-03-20,Arizona,Arts & Entertainment,18.0,16.0,19.0,19
-2020-03-20,Arizona,Airport,27.0,22.0,27.0,20
-2020-03-20,Arizona,Government,48.0,40.0,49.0,21
+2020-03-20,Arizona,Sports,79.0,75.0,79.0,16
+2020-03-20,Arizona,Hotel,55.0,48.0,55.0,17
+2020-03-20,Arizona,Office,66.0,68.0,66.0,18
+2020-03-20,Arizona,Arts & Entertainment,38.0,32.0,39.0,19
+2020-03-20,Arizona,Airport,42.0,35.0,43.0,20
+2020-03-20,Arizona,Government,71.0,62.0,72.0,21
 2020-03-20,Arizona,Discount Stores,84.0,75.0,85.0,22
-2020-03-20,Arizona,Travel & Transport,13.0,16.0,13.0,23
+2020-03-20,Arizona,Travel & Transport,73.0,66.0,74.0,23
 2020-03-20,Arizona,Banks,72.0,68.0,73.0,24
-2020-03-20,Arizona,Colleges & Universities,17.0,21.0,17.0,25
-2020-03-20,Arizona,Fitness Center,27.0,25.0,27.0,26
+2020-03-20,Arizona,Colleges & Universities,34.0,40.0,34.0,25
+2020-03-20,Arizona,Fitness Center,40.0,36.0,40.0,26
 2020-03-20,Arizona,Alcohol,79.0,77.0,79.0,27
-2020-03-20,Arizona,Bus,54.0,41.0,54.0,28
+2020-03-20,Arizona,Bus,80.0,63.0,81.0,28
 2020-03-20,Arizona,Light Rail Stations,59.0,"",59.0,29
-2020-03-20,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-21,Arizona,Shops & Services,16.0,14.0,16.0,1
-2020-03-21,Arizona,Food,21.0,18.0,21.0,2
+2020-03-20,Arizona,Spiritual Center,72.0,"",71.0,30
+2020-03-21,Arizona,Shops & Services,53.0,47.0,53.0,1
+2020-03-21,Arizona,Food,47.0,38.0,47.0,2
 2020-03-21,Arizona,Grocery,96.0,80.0,97.0,3
-2020-03-21,Arizona,Outdoors & Recreation,34.0,30.0,34.0,4
+2020-03-21,Arizona,Outdoors & Recreation,82.0,75.0,82.0,4
 2020-03-21,Arizona,Big Box Stores,81.0,66.0,82.0,5
 2020-03-21,Arizona,Convenience Store,75.0,68.0,75.0,6
 2020-03-21,Arizona,Fast Food Restaurants,66.0,60.0,66.0,7
-2020-03-21,Arizona,Residences,45.0,46.0,45.0,8
+2020-03-21,Arizona,Residences,80.0,77.0,80.0,8
 2020-03-21,Arizona,Gas Stations,78.0,66.0,79.0,9
 2020-03-21,Arizona,Hardware Stores,102.0,88.0,103.0,10
-2020-03-21,Arizona,Nightlife Spots,18.0,17.0,18.0,11
-2020-03-21,Arizona,Medical,37.0,35.0,37.0,12
+2020-03-21,Arizona,Nightlife Spots,41.0,38.0,41.0,11
+2020-03-21,Arizona,Medical,68.0,64.0,68.0,12
 2020-03-21,Arizona,Drug Store,90.0,77.0,91.0,13
-2020-03-21,Arizona,Professional & Other Places,11.0,10.0,11.0,14
-2020-03-21,Arizona,School,32.0,34.0,32.0,15
-2020-03-21,Arizona,Sports,24.0,35.0,23.0,16
-2020-03-21,Arizona,Hotel,34.0,29.0,34.0,17
+2020-03-21,Arizona,Professional & Other Places,59.0,51.0,59.0,14
+2020-03-21,Arizona,School,57.0,62.0,57.0,15
+2020-03-21,Arizona,Sports,62.0,81.0,60.0,16
+2020-03-21,Arizona,Hotel,44.0,40.0,44.0,17
 2020-03-21,Arizona,Discount Stores,85.0,81.0,85.0,18
-2020-03-21,Arizona,Airport,26.0,20.0,27.0,19
-2020-03-21,Arizona,Arts & Entertainment,11.0,12.0,11.0,20
-2020-03-21,Arizona,Travel & Transport,64.0,63.0,64.0,21
-2020-03-21,Arizona,Office,61.0,68.0,61.0,22
+2020-03-21,Arizona,Airport,42.0,32.0,43.0,19
+2020-03-21,Arizona,Arts & Entertainment,24.0,24.0,24.0,20
+2020-03-21,Arizona,Travel & Transport,72.0,71.0,72.0,21
+2020-03-21,Arizona,Office,73.0,80.0,73.0,22
 2020-03-21,Arizona,Banks,63.0,59.0,63.0,23
-2020-03-21,Arizona,Government,48.0,38.0,48.0,24
-2020-03-21,Arizona,Fitness Center,25.0,24.0,25.0,25
-2020-03-21,Arizona,Colleges & Universities,26.0,24.0,26.0,26
+2020-03-21,Arizona,Government,74.0,61.0,75.0,24
+2020-03-21,Arizona,Fitness Center,36.0,36.0,36.0,25
+2020-03-21,Arizona,Colleges & Universities,45.0,40.0,45.0,26
 2020-03-21,Arizona,Alcohol,76.0,64.0,77.0,27
-2020-03-21,Arizona,Bus,53.0,"",54.0,28
+2020-03-21,Arizona,Bus,78.0,"",79.0,28
 2020-03-21,Arizona,Light Rail Stations,63.0,"",63.0,29
-2020-03-21,Arizona,Spiritual Center,5.0,"",5.0,30
-2020-03-21,Arizona,Beach,99.0,"",99.0,31
-2020-03-22,Arizona,Food,18.0,15.0,18.0,1
-2020-03-22,Arizona,Shops & Services,13.0,11.0,13.0,2
+2020-03-21,Arizona,Spiritual Center,85.0,"",87.0,30
+2020-03-21,Arizona,Beach,113.0,"",113.0,31
+2020-03-22,Arizona,Food,42.0,32.0,43.0,1
+2020-03-22,Arizona,Shops & Services,47.0,42.0,47.0,2
 2020-03-22,Arizona,Grocery,77.0,68.0,77.0,3
-2020-03-22,Arizona,Outdoors & Recreation,33.0,28.0,33.0,4
+2020-03-22,Arizona,Outdoors & Recreation,78.0,70.0,79.0,4
 2020-03-22,Arizona,Big Box Stores,72.0,62.0,72.0,5
 2020-03-22,Arizona,Convenience Store,70.0,65.0,70.0,6
 2020-03-22,Arizona,Fast Food Restaurants,64.0,59.0,64.0,7
-2020-03-22,Arizona,Residences,40.0,38.0,40.0,8
+2020-03-22,Arizona,Residences,71.0,65.0,71.0,8
 2020-03-22,Arizona,Gas Stations,72.0,60.0,72.0,9
 2020-03-22,Arizona,Hardware Stores,95.0,75.0,96.0,10
-2020-03-22,Arizona,School,38.0,39.0,38.0,11
+2020-03-22,Arizona,School,69.0,71.0,69.0,11
 2020-03-22,Arizona,Drug Store,81.0,70.0,81.0,12
-2020-03-22,Arizona,Nightlife Spots,13.0,15.0,13.0,13
-2020-03-22,Arizona,Medical,35.0,31.0,35.0,14
-2020-03-22,Arizona,Professional & Other Places,9.0,7.0,9.0,15
-2020-03-22,Arizona,Sports,25.0,33.0,24.0,16
-2020-03-22,Arizona,Hotel,29.0,26.0,29.0,17
-2020-03-22,Arizona,Arts & Entertainment,10.0,10.0,10.0,18
+2020-03-22,Arizona,Nightlife Spots,30.0,33.0,30.0,13
+2020-03-22,Arizona,Medical,64.0,57.0,64.0,14
+2020-03-22,Arizona,Professional & Other Places,52.0,45.0,52.0,15
+2020-03-22,Arizona,Sports,62.0,74.0,61.0,16
+2020-03-22,Arizona,Hotel,38.0,36.0,38.0,17
+2020-03-22,Arizona,Arts & Entertainment,21.0,20.0,21.0,18
 2020-03-22,Arizona,Discount Stores,74.0,67.0,74.0,19
-2020-03-22,Arizona,Airport,24.0,17.0,24.0,20
-2020-03-22,Arizona,Travel & Transport,11.0,12.0,11.0,21
-2020-03-22,Arizona,Office,62.0,61.0,62.0,22
-2020-03-22,Arizona,Government,48.0,42.0,48.0,23
-2020-03-22,Arizona,Colleges & Universities,24.0,17.0,24.0,24
-2020-03-22,Arizona,Fitness Center,24.0,24.0,24.0,25
+2020-03-22,Arizona,Airport,38.0,28.0,38.0,20
+2020-03-22,Arizona,Travel & Transport,66.0,49.0,67.0,21
+2020-03-22,Arizona,Office,74.0,69.0,74.0,22
+2020-03-22,Arizona,Government,76.0,70.0,76.0,23
+2020-03-22,Arizona,Colleges & Universities,48.0,35.0,49.0,24
+2020-03-22,Arizona,Fitness Center,35.0,34.0,35.0,25
 2020-03-22,Arizona,Banks,65.0,54.0,65.0,26
 2020-03-22,Arizona,Alcohol,64.0,65.0,64.0,27
-2020-03-22,Arizona,Bus,46.0,"",46.0,28
-2020-03-22,Arizona,Spiritual Center,2.0,"",2.0,29
+2020-03-22,Arizona,Bus,66.0,"",67.0,28
+2020-03-22,Arizona,Spiritual Center,47.0,"",48.0,29
 2020-03-22,Arizona,Light Rail Stations,52.0,"",53.0,30
-2020-03-22,Arizona,Beach,100.0,"",101.0,31
-2020-03-23,Arizona,Shops & Services,16.0,14.0,16.0,1
-2020-03-23,Arizona,Food,23.0,20.0,23.0,2
+2020-03-22,Arizona,Beach,110.0,"",111.0,31
+2020-03-23,Arizona,Shops & Services,61.0,51.0,62.0,1
+2020-03-23,Arizona,Food,52.0,43.0,53.0,2
 2020-03-23,Arizona,Grocery,84.0,81.0,84.0,3
-2020-03-23,Arizona,Outdoors & Recreation,33.0,26.0,34.0,4
-2020-03-23,Arizona,Medical,34.0,29.0,35.0,5
+2020-03-23,Arizona,Outdoors & Recreation,82.0,70.0,82.0,4
+2020-03-23,Arizona,Medical,62.0,52.0,63.0,5
 2020-03-23,Arizona,Convenience Store,74.0,67.0,74.0,6
 2020-03-23,Arizona,Residences,84.0,73.0,84.0,7
 2020-03-23,Arizona,Fast Food Restaurants,68.0,60.0,68.0,8
 2020-03-23,Arizona,Big Box Stores,75.0,68.0,75.0,9
 2020-03-23,Arizona,Gas Stations,73.0,60.0,74.0,10
-2020-03-23,Arizona,Professional & Other Places,10.0,10.0,10.0,11
-2020-03-23,Arizona,School,27.0,31.0,27.0,12
+2020-03-23,Arizona,Professional & Other Places,71.0,61.0,72.0,11
+2020-03-23,Arizona,School,49.0,56.0,49.0,12
 2020-03-23,Arizona,Hardware Stores,93.0,82.0,94.0,13
-2020-03-23,Arizona,Office,53.0,50.0,53.0,14
-2020-03-23,Arizona,Sports,27.0,30.0,27.0,15
+2020-03-23,Arizona,Office,63.0,58.0,63.0,14
+2020-03-23,Arizona,Sports,77.0,73.0,78.0,15
 2020-03-23,Arizona,Drug Store,84.0,75.0,85.0,16
-2020-03-23,Arizona,Nightlife Spots,20.0,21.0,20.0,17
-2020-03-23,Arizona,Hotel,36.0,31.0,36.0,18
-2020-03-23,Arizona,Arts & Entertainment,18.0,15.0,19.0,19
-2020-03-23,Arizona,Government,50.0,39.0,51.0,20
-2020-03-23,Arizona,Airport,19.0,16.0,19.0,21
-2020-03-23,Arizona,Travel & Transport,11.0,14.0,11.0,22
+2020-03-23,Arizona,Nightlife Spots,47.0,48.0,47.0,17
+2020-03-23,Arizona,Hotel,47.0,44.0,47.0,18
+2020-03-23,Arizona,Arts & Entertainment,38.0,31.0,39.0,19
+2020-03-23,Arizona,Government,75.0,60.0,76.0,20
+2020-03-23,Arizona,Airport,31.0,25.0,31.0,21
+2020-03-23,Arizona,Travel & Transport,63.0,58.0,63.0,22
 2020-03-23,Arizona,Discount Stores,77.0,70.0,78.0,23
-2020-03-23,Arizona,Colleges & Universities,19.0,25.0,19.0,24
+2020-03-23,Arizona,Colleges & Universities,33.0,44.0,32.0,24
 2020-03-23,Arizona,Banks,74.0,67.0,75.0,25
-2020-03-23,Arizona,Fitness Center,24.0,19.0,24.0,26
-2020-03-23,Arizona,Bus,48.0,52.0,48.0,27
+2020-03-23,Arizona,Fitness Center,36.0,28.0,36.0,26
+2020-03-23,Arizona,Bus,71.0,78.0,71.0,27
 2020-03-23,Arizona,Alcohol,71.0,64.0,72.0,28
 2020-03-23,Arizona,Light Rail Stations,61.0,"",62.0,29
-2020-03-23,Arizona,Spiritual Center,4.0,"",4.0,30
-2020-03-24,Arizona,Shops & Services,16.0,14.0,16.0,1
-2020-03-24,Arizona,Food,22.0,19.0,22.0,2
+2020-03-23,Arizona,Spiritual Center,78.0,"",78.0,30
+2020-03-24,Arizona,Shops & Services,57.0,48.0,57.0,1
+2020-03-24,Arizona,Food,51.0,41.0,52.0,2
 2020-03-24,Arizona,Grocery,79.0,76.0,79.0,3
-2020-03-24,Arizona,Outdoors & Recreation,32.0,28.0,32.0,4
+2020-03-24,Arizona,Outdoors & Recreation,84.0,79.0,85.0,4
 2020-03-24,Arizona,Convenience Store,72.0,62.0,72.0,5
-2020-03-24,Arizona,Medical,30.0,25.0,31.0,6
+2020-03-24,Arizona,Medical,55.0,46.0,55.0,6
 2020-03-24,Arizona,Big Box Stores,76.0,75.0,76.0,7
 2020-03-24,Arizona,Residences,81.0,78.0,81.0,8
-2020-03-24,Arizona,Fast Food Restaurants,66.0,56.0,67.0,8
-2020-03-24,Arizona,Gas Stations,74.0,68.0,74.0,9
-2020-03-24,Arizona,Professional & Other Places,9.0,9.0,9.0,10
-2020-03-24,Arizona,School,20.0,26.0,20.0,11
-2020-03-24,Arizona,Hardware Stores,87.0,73.0,89.0,12
-2020-03-24,Arizona,Drug Store,82.0,79.0,83.0,13
-2020-03-24,Arizona,Office,46.0,50.0,45.0,14
-2020-03-24,Arizona,Sports,25.0,32.0,25.0,15
-2020-03-24,Arizona,Nightlife Spots,21.0,20.0,21.0,16
-2020-03-24,Arizona,Hotel,35.0,33.0,36.0,17
-2020-03-24,Arizona,Arts & Entertainment,21.0,17.0,21.0,18
-2020-03-24,Arizona,Government,40.0,36.0,40.0,19
-2020-03-24,Arizona,Travel & Transport,11.0,13.0,11.0,20
-2020-03-24,Arizona,Airport,19.0,14.0,19.0,21
-2020-03-24,Arizona,Discount Stores,73.0,62.0,73.0,22
-2020-03-24,Arizona,Colleges & Universities,14.0,21.0,14.0,23
-2020-03-24,Arizona,Banks,60.0,50.0,60.0,24
-2020-03-24,Arizona,Fitness Center,20.0,18.0,20.0,25
-2020-03-24,Arizona,Bus,52.0,47.0,52.0,26
-2020-03-24,Arizona,Alcohol,69.0,53.0,70.0,27
-2020-03-24,Arizona,Light Rail Stations,47.0,"",47.0,28
-2020-03-24,Arizona,Spiritual Center,4.0,"",4.0,29
-2020-03-25,Arizona,Shops & Services,15.0,13.0,15.0,1
-2020-03-25,Arizona,Food,21.0,18.0,22.0,2
+2020-03-24,Arizona,Fast Food Restaurants,66.0,56.0,67.0,9
+2020-03-24,Arizona,Gas Stations,74.0,68.0,74.0,10
+2020-03-24,Arizona,Professional & Other Places,63.0,56.0,63.0,11
+2020-03-24,Arizona,School,36.0,47.0,35.0,12
+2020-03-24,Arizona,Hardware Stores,87.0,73.0,89.0,13
+2020-03-24,Arizona,Drug Store,82.0,79.0,83.0,14
+2020-03-24,Arizona,Office,54.0,59.0,54.0,15
+2020-03-24,Arizona,Sports,76.0,79.0,76.0,16
+2020-03-24,Arizona,Nightlife Spots,49.0,46.0,49.0,17
+2020-03-24,Arizona,Hotel,46.0,46.0,46.0,18
+2020-03-24,Arizona,Arts & Entertainment,39.0,31.0,40.0,19
+2020-03-24,Arizona,Government,59.0,55.0,59.0,20
+2020-03-24,Arizona,Travel & Transport,62.0,58.0,63.0,21
+2020-03-24,Arizona,Airport,30.0,22.0,31.0,22
+2020-03-24,Arizona,Discount Stores,73.0,62.0,73.0,23
+2020-03-24,Arizona,Colleges & Universities,25.0,36.0,25.0,24
+2020-03-24,Arizona,Banks,60.0,50.0,60.0,25
+2020-03-24,Arizona,Fitness Center,29.0,26.0,29.0,26
+2020-03-24,Arizona,Bus,77.0,71.0,77.0,27
+2020-03-24,Arizona,Alcohol,69.0,53.0,70.0,28
+2020-03-24,Arizona,Light Rail Stations,47.0,"",47.0,29
+2020-03-24,Arizona,Spiritual Center,66.0,"",66.0,30
+2020-03-25,Arizona,Shops & Services,56.0,45.0,57.0,1
+2020-03-25,Arizona,Food,50.0,38.0,50.0,2
 2020-03-25,Arizona,Grocery,74.0,65.0,75.0,3
-2020-03-25,Arizona,Outdoors & Recreation,34.0,28.0,34.0,4
+2020-03-25,Arizona,Outdoors & Recreation,86.0,77.0,86.0,4
 2020-03-25,Arizona,Convenience Store,71.0,63.0,71.0,5
-2020-03-25,Arizona,Medical,30.0,24.0,31.0,6
-2020-03-25,Arizona,Residences,47.0,46.0,47.0,7
+2020-03-25,Arizona,Medical,55.0,43.0,55.0,6
+2020-03-25,Arizona,Residences,82.0,78.0,82.0,7
 2020-03-25,Arizona,Fast Food Restaurants,63.0,52.0,63.0,8
 2020-03-25,Arizona,Big Box Stores,72.0,61.0,73.0,9
-2020-03-25,Arizona,Professional & Other Places,9.0,8.0,9.0,10
+2020-03-25,Arizona,Professional & Other Places,64.0,54.0,65.0,10
 2020-03-25,Arizona,Gas Stations,72.0,56.0,73.0,11
-2020-03-25,Arizona,School,20.0,25.0,20.0,12
+2020-03-25,Arizona,School,36.0,44.0,36.0,12
 2020-03-25,Arizona,Hardware Stores,87.0,72.0,89.0,13
-2020-03-25,Arizona,Sports,25.0,30.0,25.0,14
-2020-03-25,Arizona,Office,44.0,47.0,44.0,15
+2020-03-25,Arizona,Sports,77.0,73.0,77.0,14
 2020-03-25,Arizona,Drug Store,76.0,62.0,77.0,15
-2020-03-25,Arizona,Nightlife Spots,20.0,21.0,20.0,16
-2020-03-25,Arizona,Hotel,35.0,30.0,35.0,17
-2020-03-25,Arizona,Arts & Entertainment,20.0,18.0,20.0,18
-2020-03-25,Arizona,Government,39.0,34.0,39.0,19
-2020-03-25,Arizona,Travel & Transport,11.0,13.0,11.0,20
-2020-03-25,Arizona,Discount Stores,72.0,61.0,73.0,21
-2020-03-25,Arizona,Airport,19.0,15.0,20.0,22
-2020-03-25,Arizona,Colleges & Universities,13.0,18.0,13.0,23
-2020-03-25,Arizona,Fitness Center,20.0,19.0,20.0,24
-2020-03-25,Arizona,Banks,58.0,47.0,59.0,25
-2020-03-25,Arizona,Bus,49.0,48.0,49.0,26
-2020-03-25,Arizona,Alcohol,74.0,56.0,75.0,27
-2020-03-25,Arizona,Light Rail Stations,48.0,"",48.0,28
-2020-03-25,Arizona,Spiritual Center,4.0,"",4.0,29
-2020-03-26,Arizona,Shops & Services,15.0,14.0,15.0,1
-2020-03-26,Arizona,Food,21.0,17.0,21.0,2
+2020-03-25,Arizona,Office,52.0,56.0,52.0,16
+2020-03-25,Arizona,Nightlife Spots,45.0,45.0,45.0,17
+2020-03-25,Arizona,Hotel,45.0,42.0,46.0,18
+2020-03-25,Arizona,Arts & Entertainment,38.0,33.0,38.0,19
+2020-03-25,Arizona,Government,57.0,52.0,58.0,20
+2020-03-25,Arizona,Travel & Transport,63.0,61.0,63.0,21
+2020-03-25,Arizona,Discount Stores,72.0,61.0,73.0,22
+2020-03-25,Arizona,Airport,31.0,24.0,31.0,23
+2020-03-25,Arizona,Colleges & Universities,26.0,34.0,25.0,24
+2020-03-25,Arizona,Fitness Center,30.0,28.0,30.0,25
+2020-03-25,Arizona,Banks,58.0,47.0,59.0,26
+2020-03-25,Arizona,Bus,72.0,73.0,72.0,27
+2020-03-25,Arizona,Alcohol,74.0,56.0,75.0,28
+2020-03-25,Arizona,Light Rail Stations,48.0,"",48.0,29
+2020-03-25,Arizona,Spiritual Center,68.0,"",70.0,30
+2020-03-26,Arizona,Shops & Services,55.0,46.0,55.0,1
+2020-03-26,Arizona,Food,48.0,36.0,49.0,2
 2020-03-26,Arizona,Grocery,77.0,76.0,77.0,3
-2020-03-26,Arizona,Outdoors & Recreation,31.0,24.0,32.0,4
+2020-03-26,Arizona,Outdoors & Recreation,79.0,65.0,80.0,4
 2020-03-26,Arizona,Convenience Store,69.0,62.0,69.0,5
-2020-03-26,Arizona,Medical,30.0,25.0,30.0,6
+2020-03-26,Arizona,Medical,54.0,45.0,55.0,6
 2020-03-26,Arizona,Fast Food Restaurants,62.0,55.0,63.0,7
-2020-03-26,Arizona,Residences,45.0,41.0,45.0,8
+2020-03-26,Arizona,Residences,79.0,69.0,80.0,8
 2020-03-26,Arizona,Big Box Stores,69.0,64.0,70.0,9
 2020-03-26,Arizona,Gas Stations,68.0,60.0,68.0,10
-2020-03-26,Arizona,Professional & Other Places,9.0,7.0,9.0,11
-2020-03-26,Arizona,School,21.0,24.0,21.0,12
+2020-03-26,Arizona,Professional & Other Places,61.0,47.0,62.0,11
+2020-03-26,Arizona,School,38.0,43.0,38.0,12
 2020-03-26,Arizona,Hardware Stores,90.0,72.0,92.0,13
 2020-03-26,Arizona,Drug Store,77.0,67.0,78.0,14
-2020-03-26,Arizona,Office,45.0,47.0,45.0,15
-2020-03-26,Arizona,Nightlife Spots,18.0,17.0,18.0,16
-2020-03-26,Arizona,Sports,22.0,24.0,22.0,17
-2020-03-26,Arizona,Hotel,32.0,27.0,32.0,18
-2020-03-26,Arizona,Arts & Entertainment,17.0,13.0,17.0,19
-2020-03-26,Arizona,Government,38.0,34.0,39.0,20
-2020-03-26,Arizona,Travel & Transport,10.0,11.0,10.0,21
+2020-03-26,Arizona,Office,53.0,55.0,53.0,15
+2020-03-26,Arizona,Nightlife Spots,42.0,39.0,43.0,16
+2020-03-26,Arizona,Sports,65.0,57.0,66.0,17
+2020-03-26,Arizona,Hotel,41.0,37.0,42.0,18
+2020-03-26,Arizona,Arts & Entertainment,36.0,27.0,37.0,19
+2020-03-26,Arizona,Government,57.0,52.0,57.0,20
+2020-03-26,Arizona,Travel & Transport,59.0,50.0,60.0,21
 2020-03-26,Arizona,Discount Stores,65.0,60.0,65.0,22
-2020-03-26,Arizona,Colleges & Universities,13.0,23.0,13.0,23
-2020-03-26,Arizona,Airport,16.0,11.0,17.0,24
+2020-03-26,Arizona,Colleges & Universities,25.0,42.0,25.0,23
+2020-03-26,Arizona,Airport,26.0,17.0,26.0,24
 2020-03-26,Arizona,Banks,61.0,61.0,61.0,25
-2020-03-26,Arizona,Fitness Center,22.0,18.0,22.0,26
-2020-03-26,Arizona,Bus,49.0,44.0,49.0,27
+2020-03-26,Arizona,Fitness Center,32.0,26.0,32.0,26
+2020-03-26,Arizona,Bus,72.0,66.0,72.0,27
 2020-03-26,Arizona,Alcohol,64.0,63.0,65.0,28
 2020-03-26,Arizona,Light Rail Stations,56.0,"",56.0,29
-2020-03-26,Arizona,Spiritual Center,3.0,"",3.0,30
-2020-03-27,Arizona,Food,20.0,16.0,20.0,1
-2020-03-27,Arizona,Shops & Services,14.0,13.0,14.0,2
+2020-03-26,Arizona,Spiritual Center,64.0,"",64.0,30
+2020-03-27,Arizona,Food,45.0,36.0,46.0,1
+2020-03-27,Arizona,Shops & Services,51.0,44.0,51.0,2
 2020-03-27,Arizona,Grocery,74.0,66.0,75.0,3
-2020-03-27,Arizona,Outdoors & Recreation,30.0,22.0,30.0,4
+2020-03-27,Arizona,Outdoors & Recreation,72.0,58.0,73.0,4
 2020-03-27,Arizona,Convenience Store,66.0,56.0,66.0,5
 2020-03-27,Arizona,Fast Food Restaurants,61.0,54.0,62.0,6
 2020-03-27,Arizona,Big Box Stores,69.0,63.0,69.0,7
-2020-03-27,Arizona,Medical,31.0,27.0,31.0,8
-2020-03-27,Arizona,Residences,42.0,41.0,43.0,9
+2020-03-27,Arizona,Medical,56.0,49.0,56.0,8
+2020-03-27,Arizona,Residences,75.0,68.0,75.0,9
 2020-03-27,Arizona,Gas Stations,63.0,51.0,64.0,10
-2020-03-27,Arizona,Professional & Other Places,9.0,8.0,9.0,11
-2020-03-27,Arizona,School,20.0,25.0,20.0,12
+2020-03-27,Arizona,Professional & Other Places,60.0,46.0,61.0,11
+2020-03-27,Arizona,School,36.0,45.0,36.0,12
 2020-03-27,Arizona,Hardware Stores,86.0,77.0,87.0,13
-2020-03-27,Arizona,Drug Store,71.0,69.0,71.0,14
-2020-03-27,Arizona,Nightlife Spots,17.0,16.0,17.0,15
-2020-03-27,Arizona,Sports,22.0,24.0,22.0,16
-2020-03-27,Arizona,Office,46.0,47.0,46.0,17
-2020-03-27,Arizona,Hotel,29.0,23.0,30.0,18
-2020-03-27,Arizona,Arts & Entertainment,16.0,13.0,16.0,19
-2020-03-27,Arizona,Government,38.0,32.0,38.0,20
+2020-03-27,Arizona,Drug Store,71.0,68.0,71.0,14
+2020-03-27,Arizona,Nightlife Spots,39.0,36.0,39.0,15
+2020-03-27,Arizona,Sports,64.0,57.0,65.0,16
+2020-03-27,Arizona,Office,54.0,56.0,54.0,17
+2020-03-27,Arizona,Hotel,38.0,32.0,39.0,18
+2020-03-27,Arizona,Arts & Entertainment,34.0,26.0,34.0,19
+2020-03-27,Arizona,Government,56.0,49.0,56.0,20
 2020-03-27,Arizona,Discount Stores,65.0,54.0,66.0,21
 2020-03-27,Arizona,Banks,60.0,57.0,61.0,22
-2020-03-27,Arizona,Travel & Transport,47.0,38.0,48.0,23
-2020-03-27,Arizona,Airport,15.0,12.0,15.0,24
-2020-03-27,Arizona,Colleges & Universities,13.0,16.0,13.0,25
-2020-03-27,Arizona,Fitness Center,21.0,18.0,21.0,26
-2020-03-27,Arizona,Bus,50.0,42.0,51.0,27
+2020-03-27,Arizona,Travel & Transport,53.0,42.0,53.0,23
+2020-03-27,Arizona,Airport,24.0,19.0,24.0,24
+2020-03-27,Arizona,Colleges & Universities,26.0,31.0,26.0,25
+2020-03-27,Arizona,Fitness Center,31.0,26.0,31.0,26
+2020-03-27,Arizona,Bus,75.0,64.0,76.0,27
 2020-03-27,Arizona,Alcohol,67.0,53.0,68.0,28
 2020-03-27,Arizona,Light Rail Stations,41.0,"",41.0,29
-2020-03-27,Arizona,Spiritual Center,4.0,"",4.0,30
-2020-03-28,Arizona,Food,18.0,15.0,18.0,1
-2020-03-28,Arizona,Shops & Services,13.0,11.0,13.0,2
+2020-03-27,Arizona,Spiritual Center,58.0,"",58.0,30
+2020-03-28,Arizona,Food,41.0,34.0,41.0,1
+2020-03-28,Arizona,Shops & Services,45.0,40.0,45.0,2
 2020-03-28,Arizona,Grocery,72.0,58.0,73.0,3
-2020-03-28,Arizona,Outdoors & Recreation,29.0,25.0,30.0,4
+2020-03-28,Arizona,Outdoors & Recreation,71.0,65.0,71.0,4
 2020-03-28,Arizona,Big Box Stores,71.0,54.0,72.0,5
 2020-03-28,Arizona,Fast Food Restaurants,59.0,50.0,60.0,6
 2020-03-28,Arizona,Convenience Store,64.0,59.0,64.0,7
 2020-03-28,Arizona,Residences,70.0,67.0,71.0,8
 2020-03-28,Arizona,Gas Stations,65.0,51.0,66.0,9
 2020-03-28,Arizona,Hardware Stores,94.0,79.0,96.0,10
-2020-03-28,Arizona,Medical,32.0,30.0,32.0,11
-2020-03-28,Arizona,School,30.0,31.0,30.0,12
-2020-03-28,Arizona,Professional & Other Places,9.0,8.0,10.0,13
+2020-03-28,Arizona,Medical,58.0,54.0,58.0,11
+2020-03-28,Arizona,School,54.0,55.0,53.0,12
+2020-03-28,Arizona,Professional & Other Places,52.0,42.0,53.0,13
 2020-03-28,Arizona,Drug Store,72.0,59.0,73.0,14
-2020-03-28,Arizona,Nightlife Spots,13.0,14.0,13.0,15
-2020-03-28,Arizona,Sports,21.0,29.0,20.0,16
-2020-03-28,Arizona,Hotel,25.0,20.0,25.0,17
-2020-03-28,Arizona,Arts & Entertainment,10.0,9.0,10.0,18
+2020-03-28,Arizona,Nightlife Spots,31.0,31.0,31.0,15
+2020-03-28,Arizona,Sports,53.0,66.0,52.0,16
+2020-03-28,Arizona,Hotel,33.0,28.0,33.0,17
+2020-03-28,Arizona,Arts & Entertainment,21.0,19.0,21.0,18
 2020-03-28,Arizona,Discount Stores,66.0,60.0,67.0,19
-2020-03-28,Arizona,Travel & Transport,10.0,11.0,10.0,20
-2020-03-28,Arizona,Office,54.0,56.0,54.0,21
-2020-03-28,Arizona,Airport,15.0,11.0,15.0,22
+2020-03-28,Arizona,Travel & Transport,56.0,48.0,57.0,20
+2020-03-28,Arizona,Office,64.0,66.0,64.0,21
+2020-03-28,Arizona,Airport,23.0,17.0,24.0,22
 2020-03-28,Arizona,Banks,51.0,48.0,51.0,23
-2020-03-28,Arizona,Government,39.0,28.0,40.0,24
-2020-03-28,Arizona,Fitness Center,20.0,18.0,20.0,25
-2020-03-28,Arizona,Colleges & Universities,19.0,20.0,19.0,26
+2020-03-28,Arizona,Government,62.0,45.0,62.0,24
+2020-03-28,Arizona,Fitness Center,30.0,27.0,30.0,25
+2020-03-28,Arizona,Colleges & Universities,34.0,34.0,34.0,26
 2020-03-28,Arizona,Alcohol,62.0,51.0,62.0,27
-2020-03-28,Arizona,Bus,45.0,"",45.0,28
-2020-03-28,Arizona,Spiritual Center,3.0,"",4.0,29
+2020-03-28,Arizona,Bus,66.0,"",66.0,28
+2020-03-28,Arizona,Spiritual Center,60.0,"",61.0,29
 2020-03-28,Arizona,Light Rail Stations,39.0,"",39.0,30
-2020-03-28,Arizona,Beach,90.0,"",90.0,31
-2020-03-29,Arizona,Food,15.0,13.0,15.0,1
-2020-03-29,Arizona,Shops & Services,10.0,8.0,10.0,2
+2020-03-28,Arizona,Beach,103.0,"",102.0,31
+2020-03-29,Arizona,Food,34.0,27.0,35.0,1
+2020-03-29,Arizona,Shops & Services,36.0,32.0,36.0,2
 2020-03-29,Arizona,Grocery,55.0,51.0,55.0,3
-2020-03-29,Arizona,Outdoors & Recreation,26.0,22.0,26.0,4
+2020-03-29,Arizona,Outdoors & Recreation,60.0,55.0,61.0,4
 2020-03-29,Arizona,Big Box Stores,58.0,52.0,58.0,5
 2020-03-29,Arizona,Fast Food Restaurants,57.0,50.0,57.0,6
 2020-03-29,Arizona,Convenience Store,58.0,49.0,58.0,7
-2020-03-29,Arizona,Residences,30.0,30.0,30.0,8
+2020-03-29,Arizona,Residences,54.0,51.0,54.0,8
 2020-03-29,Arizona,Gas Stations,57.0,45.0,57.0,9
 2020-03-29,Arizona,Hardware Stores,80.0,69.0,80.0,10
 2020-03-29,Arizona,Drug Store,65.0,68.0,65.0,11
-2020-03-29,Arizona,School,30.0,27.0,30.0,12
-2020-03-29,Arizona,Nightlife Spots,10.0,12.0,10.0,13
-2020-03-29,Arizona,Professional & Other Places,7.0,6.0,7.0,14
-2020-03-29,Arizona,Sports,20.0,23.0,19.0,15
-2020-03-29,Arizona,Medical,26.0,25.0,26.0,16
-2020-03-29,Arizona,Hotel,20.0,18.0,20.0,17
-2020-03-29,Arizona,Arts & Entertainment,8.0,8.0,8.0,18
+2020-03-29,Arizona,School,53.0,50.0,53.0,12
+2020-03-29,Arizona,Nightlife Spots,23.0,26.0,23.0,13
+2020-03-29,Arizona,Professional & Other Places,42.0,37.0,42.0,14
+2020-03-29,Arizona,Sports,49.0,51.0,48.0,15
+2020-03-29,Arizona,Medical,48.0,44.0,48.0,16
+2020-03-29,Arizona,Hotel,26.0,26.0,26.0,17
+2020-03-29,Arizona,Arts & Entertainment,16.0,15.0,16.0,18
 2020-03-29,Arizona,Discount Stores,56.0,46.0,57.0,19
 2020-03-29,Arizona,Travel & Transport,46.0,35.0,47.0,20
-2020-03-29,Arizona,Airport,12.0,8.0,12.0,21
-2020-03-29,Arizona,Office,46.0,48.0,46.0,22
-2020-03-29,Arizona,Government,34.0,30.0,35.0,23
-2020-03-29,Arizona,Fitness Center,19.0,18.0,19.0,24
-2020-03-29,Arizona,Colleges & Universities,18.0,14.0,18.0,25
+2020-03-29,Arizona,Airport,19.0,13.0,20.0,21
+2020-03-29,Arizona,Office,55.0,55.0,55.0,22
+2020-03-29,Arizona,Government,55.0,51.0,56.0,23
+2020-03-29,Arizona,Fitness Center,28.0,26.0,28.0,24
+2020-03-29,Arizona,Colleges & Universities,36.0,31.0,36.0,25
 2020-03-29,Arizona,Banks,51.0,46.0,51.0,26
 2020-03-29,Arizona,Alcohol,49.0,"",50.0,27
-2020-03-29,Arizona,Bus,40.0,"",40.0,28
-2020-03-30,Arizona,Shops & Services,14.0,13.0,14.0,1
-2020-03-30,Arizona,Food,20.0,18.0,20.0,2
+2020-03-29,Arizona,Bus,59.0,"",59.0,28
+2020-03-30,Arizona,Shops & Services,51.0,43.0,51.0,1
+2020-03-30,Arizona,Food,45.0,39.0,45.0,2
 2020-03-30,Arizona,Grocery,69.0,65.0,70.0,3
-2020-03-30,Arizona,Outdoors & Recreation,32.0,27.0,32.0,4
+2020-03-30,Arizona,Outdoors & Recreation,70.0,63.0,70.0,4
 2020-03-30,Arizona,Convenience Store,66.0,58.0,66.0,5
 2020-03-30,Arizona,Fast Food Restaurants,60.0,54.0,61.0,6
-2020-03-30,Arizona,Medical,27.0,26.0,27.0,7
+2020-03-30,Arizona,Medical,50.0,46.0,50.0,7
 2020-03-30,Arizona,Big Box Stores,65.0,57.0,66.0,8
-2020-03-30,Arizona,Residences,39.0,39.0,39.0,9
+2020-03-30,Arizona,Residences,68.0,66.0,68.0,9
 2020-03-30,Arizona,Gas Stations,65.0,57.0,66.0,10
-2020-03-30,Arizona,Professional & Other Places,9.0,8.0,9.0,11
-2020-03-30,Arizona,School,24.0,27.0,23.0,12
+2020-03-30,Arizona,Professional & Other Places,61.0,54.0,61.0,11
+2020-03-30,Arizona,School,43.0,48.0,42.0,12
 2020-03-30,Arizona,Hardware Stores,83.0,78.0,83.0,13
-2020-03-30,Arizona,Sports,22.0,25.0,22.0,14
-2020-03-30,Arizona,Office,42.0,50.0,41.0,15
+2020-03-30,Arizona,Sports,63.0,61.0,64.0,14
+2020-03-30,Arizona,Office,49.0,59.0,49.0,15
 2020-03-30,Arizona,Drug Store,69.0,65.0,69.0,16
-2020-03-30,Arizona,Nightlife Spots,16.0,18.0,16.0,17
-2020-03-30,Arizona,Hotel,28.0,26.0,28.0,18
-2020-03-30,Arizona,Arts & Entertainment,15.0,14.0,15.0,19
-2020-03-30,Arizona,Government,39.0,38.0,39.0,20
+2020-03-30,Arizona,Nightlife Spots,38.0,41.0,38.0,17
+2020-03-30,Arizona,Hotel,37.0,36.0,37.0,18
+2020-03-30,Arizona,Arts & Entertainment,32.0,28.0,32.0,19
+2020-03-30,Arizona,Government,58.0,59.0,58.0,20
 2020-03-30,Arizona,Discount Stores,69.0,62.0,69.0,21
-2020-03-30,Arizona,Travel & Transport,44.0,38.0,44.0,22
+2020-03-30,Arizona,Travel & Transport,49.0,42.0,49.0,22
 2020-03-30,Arizona,Banks,67.0,64.0,67.0,23
-2020-03-30,Arizona,Airport,13.0,11.0,13.0,24
-2020-03-30,Arizona,Colleges & Universities,13.0,17.0,12.0,25
-2020-03-30,Arizona,Fitness Center,19.0,16.0,20.0,26
-2020-03-30,Arizona,Bus,44.0,"",44.0,27
+2020-03-30,Arizona,Airport,21.0,18.0,21.0,24
+2020-03-30,Arizona,Colleges & Universities,25.0,32.0,24.0,25
+2020-03-30,Arizona,Fitness Center,29.0,23.0,29.0,26
+2020-03-30,Arizona,Bus,65.0,"",65.0,27
 2020-03-30,Arizona,Alcohol,66.0,58.0,67.0,28
 2020-03-30,Arizona,Light Rail Stations,49.0,"",49.0,29
-2020-03-31,Arizona,Shops & Services,14.0,13.0,14.0,1
-2020-03-31,Arizona,Food,19.0,16.0,20.0,2
+2020-03-31,Arizona,Shops & Services,51.0,42.0,52.0,1
+2020-03-31,Arizona,Food,45.0,34.0,45.0,2
 2020-03-31,Arizona,Grocery,76.0,69.0,77.0,3
-2020-03-31,Arizona,Outdoors & Recreation,27.0,23.0,27.0,4
+2020-03-31,Arizona,Outdoors & Recreation,70.0,62.0,70.0,4
 2020-03-31,Arizona,Big Box Stores,76.0,66.0,77.0,5
 2020-03-31,Arizona,Convenience Store,65.0,58.0,65.0,6
 2020-03-31,Arizona,Fast Food Restaurants,62.0,54.0,63.0,7
-2020-03-31,Arizona,Medical,23.0,21.0,24.0,8
-2020-03-31,Arizona,Residences,38.0,38.0,38.0,9
+2020-03-31,Arizona,Medical,43.0,37.0,43.0,8
+2020-03-31,Arizona,Residences,67.0,63.0,68.0,9
 2020-03-31,Arizona,Gas Stations,67.0,58.0,67.0,10
-2020-03-31,Arizona,Professional & Other Places,8.0,7.0,8.0,11
-2020-03-31,Arizona,School,18.0,23.0,17.0,12
+2020-03-31,Arizona,Professional & Other Places,54.0,45.0,54.0,11
+2020-03-31,Arizona,School,32.0,42.0,31.0,12
 2020-03-31,Arizona,Hardware Stores,84.0,70.0,86.0,13
 2020-03-31,Arizona,Drug Store,75.0,73.0,75.0,14
-2020-03-31,Arizona,Nightlife Spots,18.0,16.0,18.0,15
-2020-03-31,Arizona,Sports,20.0,26.0,20.0,16
-2020-03-31,Arizona,Office,36.0,42.0,35.0,17
-2020-03-31,Arizona,Hotel,28.0,23.0,28.0,18
-2020-03-31,Arizona,Arts & Entertainment,16.0,14.0,16.0,19
-2020-03-31,Arizona,Government,31.0,26.0,31.0,20
+2020-03-31,Arizona,Nightlife Spots,41.0,36.0,41.0,15
+2020-03-31,Arizona,Sports,62.0,65.0,62.0,16
+2020-03-31,Arizona,Office,42.0,50.0,42.0,17
+2020-03-31,Arizona,Hotel,36.0,32.0,36.0,18
+2020-03-31,Arizona,Arts & Entertainment,33.0,28.0,34.0,19
+2020-03-31,Arizona,Government,46.0,40.0,46.0,20
 2020-03-31,Arizona,Discount Stores,70.0,61.0,71.0,21
 2020-03-31,Arizona,Banks,62.0,54.0,62.0,22
-2020-03-31,Arizona,Travel & Transport,8.0,9.0,8.0,23
-2020-03-31,Arizona,Colleges & Universities,11.0,20.0,11.0,24
-2020-03-31,Arizona,Airport,13.0,9.0,13.0,25
-2020-03-31,Arizona,Fitness Center,17.0,15.0,17.0,26
+2020-03-31,Arizona,Travel & Transport,47.0,39.0,47.0,23
+2020-03-31,Arizona,Colleges & Universities,20.0,33.0,19.0,24
+2020-03-31,Arizona,Airport,20.0,14.0,21.0,25
+2020-03-31,Arizona,Fitness Center,25.0,23.0,25.0,26
 2020-03-31,Arizona,Alcohol,73.0,87.0,72.0,27
-2020-03-31,Arizona,Bus,40.0,42.0,40.0,28
+2020-03-31,Arizona,Bus,60.0,65.0,60.0,28
 2020-03-31,Arizona,Light Rail Stations,38.0,"",38.0,29
+2020-04-01,Arizona,Food,40.0,30.0,40.0,1
+2020-04-01,Arizona,Shops & Services,44.0,37.0,45.0,2
+2020-04-01,Arizona,Grocery,63.0,58.0,63.0,3
+2020-04-01,Arizona,Outdoors & Recreation,65.0,58.0,66.0,4
+2020-04-01,Arizona,Convenience Store,60.0,54.0,60.0,5
+2020-04-01,Arizona,Medical,43.0,37.0,44.0,6
+2020-04-01,Arizona,Fast Food Restaurants,52.0,43.0,52.0,7
+2020-04-01,Arizona,Big Box Stores,60.0,48.0,60.0,8
+2020-04-01,Arizona,Residences,65.0,62.0,65.0,9
+2020-04-01,Arizona,Gas Stations,63.0,52.0,64.0,10
+2020-04-01,Arizona,Professional & Other Places,50.0,43.0,51.0,11
+2020-04-01,Arizona,School,29.0,35.0,29.0,12
+2020-04-01,Arizona,Hardware Stores,73.0,57.0,75.0,13
+2020-04-01,Arizona,Drug Store,65.0,57.0,66.0,14
+2020-04-01,Arizona,Sports,62.0,57.0,63.0,15
+2020-04-01,Arizona,Office,42.0,44.0,42.0,16
+2020-04-01,Arizona,Nightlife Spots,36.0,37.0,36.0,17
+2020-04-01,Arizona,Hotel,33.0,31.0,34.0,18
+2020-04-01,Arizona,Arts & Entertainment,29.0,24.0,30.0,19
+2020-04-01,Arizona,Government,46.0,44.0,46.0,20
+2020-04-01,Arizona,Banks,62.0,59.0,62.0,21
+2020-04-01,Arizona,Travel & Transport,50.0,45.0,50.0,22
+2020-04-01,Arizona,Discount Stores,55.0,42.0,56.0,23
+2020-04-01,Arizona,Colleges & Universities,20.0,30.0,20.0,24
+2020-04-01,Arizona,Airport,23.0,18.0,23.0,25
+2020-04-01,Arizona,Fitness Center,24.0,24.0,24.0,26
+2020-04-01,Arizona,Bus,58.0,"",58.0,27
+2020-04-01,Arizona,Alcohol,50.0,39.0,50.0,28
+2020-04-01,Arizona,Light Rail Stations,38.0,"",39.0,29
+2020-04-01,Arizona,Spiritual Center,55.0,"",56.0,30

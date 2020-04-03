@@ -1,876 +1,902 @@
-2020-03-01,Alabama,Food,52.0,51.0,52.0,1
-2020-03-01,Alabama,Shops & Services,33.0,28.0,33.0,2
+2020-03-01,Alabama,Food,109.0,104.0,109.0,1
+2020-03-01,Alabama,Shops & Services,115.0,102.0,115.0,2
 2020-03-01,Alabama,Gas Stations,110.0,109.0,110.0,3
 2020-03-01,Alabama,Big Box Stores,108.0,104.0,108.0,4
 2020-03-01,Alabama,Grocery,99.0,92.0,99.0,5
 2020-03-01,Alabama,Fast Food Restaurants,115.0,115.0,115.0,6
-2020-03-01,Alabama,Outdoors & Recreation,53.0,48.0,53.0,7
+2020-03-01,Alabama,Outdoors & Recreation,109.0,108.0,109.0,7
 2020-03-01,Alabama,Discount Stores,107.0,101.0,107.0,8
-2020-03-01,Alabama,Arts & Entertainment,91.0,81.0,92.0,9
-2020-03-01,Alabama,School,61.0,55.0,61.0,10
-2020-03-01,Alabama,Professional & Other Places,16.0,12.0,16.0,11
-2020-03-01,Alabama,Nightlife Spots,55.0,60.0,55.0,12
-2020-03-01,Alabama,Medical,61.0,60.0,61.0,13
-2020-03-01,Alabama,Hotel,77.0,67.0,77.0,14
+2020-03-01,Alabama,Arts & Entertainment,110.0,99.0,110.0,9
+2020-03-01,Alabama,School,105.0,97.0,105.0,10
+2020-03-01,Alabama,Professional & Other Places,104.0,95.0,105.0,11
+2020-03-01,Alabama,Nightlife Spots,97.0,102.0,97.0,12
+2020-03-01,Alabama,Medical,106.0,103.0,106.0,13
+2020-03-01,Alabama,Hotel,95.0,95.0,95.0,14
 2020-03-01,Alabama,Hardware Stores,120.0,115.0,121.0,15
 2020-03-01,Alabama,Residences,103.0,101.0,103.0,16
-2020-03-01,Alabama,Colleges & Universities,82.0,105.0,82.0,17
+2020-03-01,Alabama,Colleges & Universities,112.0,136.0,112.0,17
 2020-03-01,Alabama,Convenience Store,106.0,110.0,106.0,18
 2020-03-01,Alabama,Drug Store,107.0,108.0,107.0,19
-2020-03-01,Alabama,Sports,50.0,49.0,50.0,20
-2020-03-01,Alabama,Travel & Transport,47.0,62.0,46.0,21
-2020-03-01,Alabama,Government,78.0,82.0,77.0,22
-2020-03-01,Alabama,Fitness Center,70.0,62.0,70.0,23
-2020-03-01,Alabama,Office,88.0,100.0,88.0,24
+2020-03-01,Alabama,Sports,111.0,105.0,111.0,20
+2020-03-01,Alabama,Travel & Transport,110.0,123.0,109.0,21
+2020-03-01,Alabama,Government,110.0,116.0,110.0,22
+2020-03-01,Alabama,Fitness Center,105.0,95.0,105.0,23
+2020-03-01,Alabama,Office,105.0,118.0,105.0,24
 2020-03-01,Alabama,Banks,105.0,91.0,105.0,25
-2020-03-01,Alabama,Airport,80.0,83.0,80.0,26
+2020-03-01,Alabama,Airport,111.0,109.0,111.0,26
 2020-03-01,Alabama,Alcohol,109.0,"",110.0,27
-2020-03-01,Alabama,Beach,113.0,90.0,116.0,28
-2020-03-01,Alabama,Spiritual Center,3.0,"",3.0,29
-2020-03-02,Alabama,Food,48.0,45.0,48.0,1
-2020-03-02,Alabama,Shops & Services,34.0,31.0,34.0,2
+2020-03-01,Alabama,Beach,119.0,94.0,121.0,28
+2020-03-01,Alabama,Spiritual Center,134.0,"",137.0,29
+2020-03-02,Alabama,Food,107.0,99.0,107.0,1
+2020-03-02,Alabama,Shops & Services,105.0,97.0,105.0,2
 2020-03-02,Alabama,Gas Stations,107.0,103.0,107.0,3
 2020-03-02,Alabama,Fast Food Restaurants,111.0,103.0,112.0,4
-2020-03-02,Alabama,Medical,57.0,57.0,57.0,5
+2020-03-02,Alabama,Medical,102.0,104.0,102.0,5
 2020-03-02,Alabama,Grocery,105.0,102.0,105.0,6
-2020-03-02,Alabama,School,61.0,58.0,61.0,7
+2020-03-02,Alabama,School,110.0,104.0,110.0,7
 2020-03-02,Alabama,Big Box Stores,110.0,100.0,110.0,8
-2020-03-02,Alabama,Colleges & Universities,65.0,68.0,65.0,9
-2020-03-02,Alabama,Professional & Other Places,18.0,18.0,18.0,10
-2020-03-02,Alabama,Outdoors & Recreation,44.0,39.0,44.0,11
+2020-03-02,Alabama,Colleges & Universities,97.0,94.0,97.0,9
+2020-03-02,Alabama,Professional & Other Places,104.0,107.0,104.0,10
+2020-03-02,Alabama,Outdoors & Recreation,96.0,91.0,96.0,11
 2020-03-02,Alabama,Discount Stores,98.0,92.0,98.0,12
-2020-03-02,Alabama,Government,78.0,71.0,78.0,13
-2020-03-02,Alabama,Arts & Entertainment,87.0,73.0,87.0,14
-2020-03-02,Alabama,Hotel,79.0,63.0,80.0,15
-2020-03-02,Alabama,Office,88.0,84.0,88.0,16
+2020-03-02,Alabama,Government,115.0,107.0,116.0,13
+2020-03-02,Alabama,Arts & Entertainment,101.0,87.0,102.0,14
+2020-03-02,Alabama,Hotel,101.0,91.0,102.0,15
+2020-03-02,Alabama,Office,102.0,96.0,102.0,16
 2020-03-02,Alabama,Hardware Stores,110.0,96.0,111.0,17
 2020-03-02,Alabama,Drug Store,110.0,95.0,110.0,18
 2020-03-02,Alabama,Residences,98.0,88.0,99.0,19
 2020-03-02,Alabama,Convenience Store,101.0,103.0,101.0,20
-2020-03-02,Alabama,Nightlife Spots,75.0,67.0,75.0,21
-2020-03-02,Alabama,Fitness Center,65.0,68.0,65.0,22
+2020-03-02,Alabama,Nightlife Spots,106.0,96.0,107.0,21
+2020-03-02,Alabama,Fitness Center,98.0,103.0,97.0,22
 2020-03-02,Alabama,Banks,122.0,132.0,121.0,23
-2020-03-02,Alabama,Travel & Transport,48.0,59.0,48.0,24
-2020-03-02,Alabama,Sports,35.0,33.0,35.0,25
-2020-03-02,Alabama,Airport,76.0,92.0,75.0,26
+2020-03-02,Alabama,Travel & Transport,107.0,111.0,107.0,24
+2020-03-02,Alabama,Sports,97.0,83.0,98.0,25
+2020-03-02,Alabama,Airport,105.0,126.0,104.0,26
 2020-03-02,Alabama,Alcohol,97.0,103.0,97.0,27
-2020-03-02,Alabama,Beach,81.0,62.0,83.0,28
-2020-03-03,Alabama,Food,51.0,50.0,51.0,1
-2020-03-03,Alabama,Shops & Services,37.0,36.0,37.0,2
+2020-03-02,Alabama,Beach,84.0,63.0,86.0,28
+2020-03-03,Alabama,Food,113.0,109.0,113.0,1
+2020-03-03,Alabama,Shops & Services,113.0,110.0,113.0,2
 2020-03-03,Alabama,Gas Stations,110.0,111.0,110.0,3
 2020-03-03,Alabama,Fast Food Restaurants,115.0,114.0,115.0,4
-2020-03-03,Alabama,School,66.0,73.0,66.0,5
-2020-03-03,Alabama,Medical,58.0,55.0,58.0,6
+2020-03-03,Alabama,School,118.0,128.0,117.0,5
+2020-03-03,Alabama,Medical,104.0,99.0,105.0,6
 2020-03-03,Alabama,Grocery,109.0,104.0,109.0,7
-2020-03-03,Alabama,Professional & Other Places,20.0,20.0,20.0,8
+2020-03-03,Alabama,Professional & Other Places,116.0,127.0,116.0,8
 2020-03-03,Alabama,Big Box Stores,110.0,108.0,111.0,9
-2020-03-03,Alabama,Colleges & Universities,63.0,69.0,63.0,10
-2020-03-03,Alabama,Outdoors & Recreation,53.0,52.0,53.0,11
+2020-03-03,Alabama,Colleges & Universities,100.0,98.0,100.0,10
+2020-03-03,Alabama,Outdoors & Recreation,117.0,123.0,117.0,11
 2020-03-03,Alabama,Discount Stores,113.0,113.0,113.0,12
-2020-03-03,Alabama,Government,84.0,84.0,84.0,13
-2020-03-03,Alabama,Arts & Entertainment,82.0,84.0,82.0,14
-2020-03-03,Alabama,Office,88.0,84.0,88.0,15
-2020-03-03,Alabama,Hotel,79.0,61.0,80.0,16
+2020-03-03,Alabama,Government,121.0,122.0,121.0,13
+2020-03-03,Alabama,Arts & Entertainment,113.0,116.0,113.0,14
+2020-03-03,Alabama,Office,102.0,97.0,102.0,15
+2020-03-03,Alabama,Hotel,99.0,87.0,100.0,16
 2020-03-03,Alabama,Drug Store,116.0,117.0,116.0,17
 2020-03-03,Alabama,Convenience Store,118.0,117.0,118.0,18
 2020-03-03,Alabama,Hardware Stores,117.0,110.0,117.0,19
 2020-03-03,Alabama,Residences,105.0,103.0,105.0,20
-2020-03-03,Alabama,Nightlife Spots,66.0,66.0,66.0,21
-2020-03-03,Alabama,Fitness Center,74.0,74.0,74.0,22
+2020-03-03,Alabama,Nightlife Spots,106.0,108.0,106.0,21
+2020-03-03,Alabama,Fitness Center,111.0,112.0,111.0,22
 2020-03-03,Alabama,Banks,140.0,133.0,140.0,23
-2020-03-03,Alabama,Sports,49.0,55.0,49.0,24
-2020-03-03,Alabama,Travel & Transport,48.0,47.0,48.0,25
-2020-03-03,Alabama,Airport,71.0,78.0,70.0,26
+2020-03-03,Alabama,Sports,140.0,143.0,140.0,24
+2020-03-03,Alabama,Travel & Transport,110.0,100.0,110.0,25
+2020-03-03,Alabama,Airport,96.0,104.0,96.0,26
 2020-03-03,Alabama,Alcohol,100.0,109.0,100.0,27
-2020-03-03,Alabama,Beach,97.0,94.0,97.0,28
-2020-03-03,Alabama,Spiritual Center,5.0,"",5.0,29
-2020-03-03,Alabama,Bus,108.0,"",108.0,30
-2020-03-04,Alabama,Food,46.0,42.0,46.0,1
-2020-03-04,Alabama,Shops & Services,30.0,26.0,30.0,2
+2020-03-03,Alabama,Beach,99.0,96.0,99.0,28
+2020-03-03,Alabama,Spiritual Center,180.0,"",179.0,29
+2020-03-03,Alabama,Bus,119.0,"",119.0,30
+2020-03-04,Alabama,Food,101.0,91.0,102.0,1
+2020-03-04,Alabama,Shops & Services,100.0,84.0,101.0,2
 2020-03-04,Alabama,Gas Stations,100.0,90.0,100.0,3
 2020-03-04,Alabama,Fast Food Restaurants,106.0,99.0,106.0,4
-2020-03-04,Alabama,Medical,56.0,54.0,56.0,5
+2020-03-04,Alabama,Medical,100.0,97.0,100.0,5
 2020-03-04,Alabama,Grocery,99.0,92.0,100.0,6
-2020-03-04,Alabama,School,54.0,49.0,54.0,7
+2020-03-04,Alabama,School,96.0,87.0,97.0,7
 2020-03-04,Alabama,Big Box Stores,97.0,88.0,97.0,8
-2020-03-04,Alabama,Colleges & Universities,55.0,60.0,55.0,9
-2020-03-04,Alabama,Professional & Other Places,16.0,13.0,17.0,10
-2020-03-04,Alabama,Outdoors & Recreation,43.0,37.0,43.0,11
+2020-03-04,Alabama,Colleges & Universities,96.0,96.0,96.0,9
+2020-03-04,Alabama,Professional & Other Places,97.0,83.0,97.0,10
+2020-03-04,Alabama,Outdoors & Recreation,98.0,91.0,99.0,11
 2020-03-04,Alabama,Discount Stores,96.0,86.0,96.0,12
-2020-03-04,Alabama,Government,66.0,58.0,66.0,13
-2020-03-04,Alabama,Arts & Entertainment,70.0,65.0,70.0,14
-2020-03-04,Alabama,Office,81.0,76.0,81.0,15
-2020-03-04,Alabama,Hotel,77.0,61.0,77.0,16
+2020-03-04,Alabama,Government,95.0,86.0,95.0,13
+2020-03-04,Alabama,Arts & Entertainment,98.0,90.0,98.0,14
+2020-03-04,Alabama,Office,94.0,88.0,94.0,15
+2020-03-04,Alabama,Hotel,95.0,84.0,96.0,16
 2020-03-04,Alabama,Convenience Store,100.0,89.0,100.0,17
 2020-03-04,Alabama,Drug Store,101.0,88.0,102.0,18
 2020-03-04,Alabama,Hardware Stores,102.0,91.0,103.0,19
 2020-03-04,Alabama,Residences,94.0,79.0,94.0,20
-2020-03-04,Alabama,Nightlife Spots,66.0,57.0,67.0,21
-2020-03-04,Alabama,Fitness Center,64.0,56.0,64.0,22
+2020-03-04,Alabama,Nightlife Spots,97.0,84.0,98.0,21
+2020-03-04,Alabama,Fitness Center,96.0,84.0,97.0,22
 2020-03-04,Alabama,Banks,102.0,92.0,102.0,23
-2020-03-04,Alabama,Sports,35.0,29.0,35.0,24
-2020-03-04,Alabama,Travel & Transport,43.0,37.0,44.0,25
-2020-03-04,Alabama,Airport,65.0,54.0,65.0,26
+2020-03-04,Alabama,Sports,100.0,77.0,101.0,24
+2020-03-04,Alabama,Travel & Transport,97.0,72.0,99.0,25
+2020-03-04,Alabama,Airport,89.0,75.0,90.0,26
 2020-03-04,Alabama,Alcohol,94.0,84.0,94.0,27
-2020-03-04,Alabama,Bus,103.0,"",104.0,28
-2020-03-04,Alabama,Beach,68.0,65.0,69.0,29
-2020-03-05,Alabama,Food,47.0,46.0,47.0,1
-2020-03-05,Alabama,Shops & Services,30.0,30.0,30.0,2
+2020-03-04,Alabama,Bus,113.0,"",114.0,28
+2020-03-05,Alabama,Food,104.0,101.0,104.0,1
+2020-03-05,Alabama,Shops & Services,105.0,102.0,105.0,2
 2020-03-05,Alabama,Gas Stations,102.0,101.0,102.0,3
 2020-03-05,Alabama,Fast Food Restaurants,102.0,104.0,101.0,4
-2020-03-05,Alabama,Medical,58.0,56.0,58.0,5
+2020-03-05,Alabama,Medical,104.0,102.0,104.0,5
 2020-03-05,Alabama,Grocery,104.0,100.0,104.0,6
-2020-03-05,Alabama,School,58.0,54.0,58.0,7
+2020-03-05,Alabama,School,104.0,97.0,105.0,7
 2020-03-05,Alabama,Big Box Stores,101.0,103.0,101.0,8
-2020-03-05,Alabama,Professional & Other Places,17.0,15.0,17.0,9
-2020-03-05,Alabama,Colleges & Universities,61.0,61.0,61.0,10
-2020-03-05,Alabama,Outdoors & Recreation,49.0,46.0,49.0,11
+2020-03-05,Alabama,Professional & Other Places,101.0,100.0,101.0,9
+2020-03-05,Alabama,Colleges & Universities,100.0,91.0,100.0,10
+2020-03-05,Alabama,Outdoors & Recreation,110.0,110.0,110.0,11
 2020-03-05,Alabama,Discount Stores,98.0,97.0,98.0,12
-2020-03-05,Alabama,Arts & Entertainment,77.0,70.0,77.0,13
-2020-03-05,Alabama,Government,69.0,64.0,69.0,14
-2020-03-05,Alabama,Office,88.0,88.0,88.0,15
-2020-03-05,Alabama,Hotel,78.0,64.0,79.0,16
+2020-03-05,Alabama,Arts & Entertainment,107.0,97.0,107.0,13
+2020-03-05,Alabama,Government,101.0,95.0,101.0,14
+2020-03-05,Alabama,Office,102.0,101.0,102.0,15
+2020-03-05,Alabama,Hotel,98.0,89.0,98.0,16
 2020-03-05,Alabama,Drug Store,107.0,101.0,107.0,17
 2020-03-05,Alabama,Hardware Stores,111.0,113.0,111.0,18
 2020-03-05,Alabama,Residences,105.0,110.0,105.0,19
 2020-03-05,Alabama,Convenience Store,102.0,103.0,102.0,20
-2020-03-05,Alabama,Nightlife Spots,67.0,64.0,67.0,21
-2020-03-05,Alabama,Fitness Center,70.0,69.0,70.0,22
+2020-03-05,Alabama,Nightlife Spots,101.0,96.0,102.0,21
+2020-03-05,Alabama,Fitness Center,104.0,104.0,104.0,22
 2020-03-05,Alabama,Banks,118.0,119.0,118.0,23
-2020-03-05,Alabama,Travel & Transport,42.0,45.0,42.0,24
-2020-03-05,Alabama,Sports,42.0,38.0,42.0,25
-2020-03-05,Alabama,Airport,70.0,70.0,70.0,26
+2020-03-05,Alabama,Travel & Transport,99.0,99.0,100.0,24
+2020-03-05,Alabama,Sports,107.0,91.0,108.0,25
+2020-03-05,Alabama,Airport,97.0,93.0,97.0,26
 2020-03-05,Alabama,Alcohol,96.0,86.0,97.0,27
-2020-03-05,Alabama,Beach,107.0,72.0,111.0,28
-2020-03-06,Alabama,Food,46.0,43.0,46.0,1
-2020-03-06,Alabama,Shops & Services,31.0,28.0,31.0,2
+2020-03-05,Alabama,Beach,113.0,77.0,117.0,28
+2020-03-06,Alabama,Food,103.0,95.0,103.0,1
+2020-03-06,Alabama,Shops & Services,101.0,92.0,102.0,2
 2020-03-06,Alabama,Gas Stations,102.0,92.0,102.0,3
 2020-03-06,Alabama,Fast Food Restaurants,106.0,95.0,107.0,4
 2020-03-06,Alabama,Grocery,96.0,92.0,96.0,5
-2020-03-06,Alabama,School,57.0,55.0,58.0,6
+2020-03-06,Alabama,School,103.0,97.0,103.0,6
 2020-03-06,Alabama,Big Box Stores,97.0,93.0,97.0,7
-2020-03-06,Alabama,Medical,58.0,57.0,58.0,8
-2020-03-06,Alabama,Outdoors & Recreation,49.0,44.0,50.0,9
-2020-03-06,Alabama,Professional & Other Places,18.0,17.0,18.0,10
-2020-03-06,Alabama,Colleges & Universities,62.0,62.0,62.0,11
+2020-03-06,Alabama,Medical,103.0,103.0,103.0,8
+2020-03-06,Alabama,Outdoors & Recreation,113.0,105.0,113.0,9
+2020-03-06,Alabama,Professional & Other Places,105.0,102.0,105.0,10
+2020-03-06,Alabama,Colleges & Universities,94.0,88.0,94.0,11
 2020-03-06,Alabama,Discount Stores,96.0,89.0,96.0,12
-2020-03-06,Alabama,Arts & Entertainment,89.0,83.0,89.0,13
-2020-03-06,Alabama,Hotel,79.0,65.0,80.0,14
-2020-03-06,Alabama,Government,69.0,70.0,69.0,15
+2020-03-06,Alabama,Arts & Entertainment,106.0,101.0,106.0,13
+2020-03-06,Alabama,Hotel,98.0,89.0,99.0,14
+2020-03-06,Alabama,Government,101.0,103.0,101.0,15
 2020-03-06,Alabama,Hardware Stores,113.0,107.0,113.0,16
 2020-03-06,Alabama,Convenience Store,106.0,113.0,106.0,17
-2020-03-06,Alabama,Nightlife Spots,67.0,66.0,68.0,18
+2020-03-06,Alabama,Nightlife Spots,103.0,100.0,103.0,18
 2020-03-06,Alabama,Residences,107.0,98.0,108.0,19
-2020-03-06,Alabama,Office,87.0,86.0,87.0,20
+2020-03-06,Alabama,Office,101.0,100.0,101.0,20
 2020-03-06,Alabama,Drug Store,98.0,102.0,98.0,21
 2020-03-06,Alabama,Banks,104.0,105.0,104.0,22
-2020-03-06,Alabama,Fitness Center,68.0,64.0,68.0,23
-2020-03-06,Alabama,Sports,43.0,41.0,43.0,24
-2020-03-06,Alabama,Travel & Transport,35.0,30.0,35.0,25
-2020-03-06,Alabama,Airport,73.0,54.0,73.0,26
+2020-03-06,Alabama,Fitness Center,101.0,98.0,101.0,23
+2020-03-06,Alabama,Sports,110.0,102.0,110.0,24
+2020-03-06,Alabama,Travel & Transport,102.0,98.0,102.0,25
+2020-03-06,Alabama,Airport,101.0,75.0,102.0,26
 2020-03-06,Alabama,Alcohol,88.0,94.0,88.0,27
-2020-03-06,Alabama,Beach,128.0,107.0,130.0,28
-2020-03-06,Alabama,Bus,99.0,"",101.0,29
-2020-03-07,Alabama,Food,46.0,45.0,46.0,1
-2020-03-07,Alabama,Shops & Services,35.0,33.0,35.0,2
+2020-03-06,Alabama,Beach,133.0,112.0,135.0,28
+2020-03-06,Alabama,Bus,110.0,"",111.0,29
+2020-03-07,Alabama,Food,103.0,99.0,103.0,1
+2020-03-07,Alabama,Shops & Services,104.0,100.0,105.0,2
 2020-03-07,Alabama,Gas Stations,110.0,105.0,110.0,3
 2020-03-07,Alabama,Fast Food Restaurants,109.0,102.0,109.0,4
 2020-03-07,Alabama,Big Box Stores,102.0,101.0,102.0,5
 2020-03-07,Alabama,Grocery,98.0,97.0,99.0,6
-2020-03-07,Alabama,Outdoors & Recreation,57.0,55.0,57.0,7
+2020-03-07,Alabama,Outdoors & Recreation,120.0,123.0,120.0,7
 2020-03-07,Alabama,Discount Stores,102.0,102.0,102.0,8
-2020-03-07,Alabama,Arts & Entertainment,91.0,84.0,92.0,9
-2020-03-07,Alabama,School,60.0,58.0,60.0,10
-2020-03-07,Alabama,Professional & Other Places,21.0,20.0,21.0,11
-2020-03-07,Alabama,Medical,63.0,63.0,63.0,12
-2020-03-07,Alabama,Hotel,89.0,75.0,89.0,13
+2020-03-07,Alabama,Arts & Entertainment,111.0,102.0,111.0,9
+2020-03-07,Alabama,School,105.0,102.0,105.0,10
+2020-03-07,Alabama,Professional & Other Places,107.0,104.0,107.0,11
+2020-03-07,Alabama,Medical,110.0,111.0,110.0,12
+2020-03-07,Alabama,Hotel,109.0,103.0,109.0,13
 2020-03-07,Alabama,Hardware Stores,116.0,103.0,117.0,14
-2020-03-07,Alabama,Nightlife Spots,57.0,52.0,57.0,15
-2020-03-07,Alabama,Colleges & Universities,58.0,54.0,58.0,16
+2020-03-07,Alabama,Nightlife Spots,100.0,90.0,100.0,15
+2020-03-07,Alabama,Colleges & Universities,93.0,87.0,93.0,16
 2020-03-07,Alabama,Convenience Store,107.0,100.0,107.0,17
 2020-03-07,Alabama,Residences,104.0,97.0,104.0,18
-2020-03-07,Alabama,Sports,58.0,52.0,58.0,19
+2020-03-07,Alabama,Sports,136.0,114.0,137.0,19
 2020-03-07,Alabama,Drug Store,107.0,108.0,107.0,20
-2020-03-07,Alabama,Travel & Transport,49.0,65.0,48.0,21
-2020-03-07,Alabama,Government,74.0,84.0,73.0,22
-2020-03-07,Alabama,Fitness Center,66.0,68.0,66.0,23
-2020-03-07,Alabama,Office,99.0,101.0,99.0,24
+2020-03-07,Alabama,Travel & Transport,113.0,127.0,112.0,21
+2020-03-07,Alabama,Government,109.0,125.0,109.0,22
+2020-03-07,Alabama,Fitness Center,98.0,102.0,98.0,23
+2020-03-07,Alabama,Office,120.0,123.0,120.0,24
 2020-03-07,Alabama,Banks,89.0,87.0,89.0,25
-2020-03-07,Alabama,Airport,89.0,86.0,89.0,26
+2020-03-07,Alabama,Airport,123.0,114.0,123.0,26
 2020-03-07,Alabama,Alcohol,99.0,90.0,99.0,27
-2020-03-07,Alabama,Beach,122.0,94.0,125.0,28
-2020-03-08,Alabama,Food,53.0,49.0,53.0,1
-2020-03-08,Alabama,Shops & Services,33.0,27.0,33.0,2
+2020-03-07,Alabama,Beach,127.0,97.0,130.0,28
+2020-03-08,Alabama,Food,108.0,96.0,109.0,1
+2020-03-08,Alabama,Shops & Services,111.0,95.0,111.0,2
 2020-03-08,Alabama,Gas Stations,112.0,105.0,112.0,3
 2020-03-08,Alabama,Grocery,102.0,95.0,102.0,4
 2020-03-08,Alabama,Big Box Stores,104.0,96.0,104.0,5
 2020-03-08,Alabama,Fast Food Restaurants,115.0,109.0,115.0,6
-2020-03-08,Alabama,Outdoors & Recreation,59.0,56.0,59.0,7
+2020-03-08,Alabama,Outdoors & Recreation,120.0,123.0,120.0,7
 2020-03-08,Alabama,Discount Stores,105.0,96.0,105.0,8
-2020-03-08,Alabama,Arts & Entertainment,93.0,80.0,93.0,9
-2020-03-08,Alabama,School,61.0,59.0,61.0,10
-2020-03-08,Alabama,Professional & Other Places,17.0,13.0,17.0,11
-2020-03-08,Alabama,Nightlife Spots,52.0,54.0,52.0,12
-2020-03-08,Alabama,Hotel,82.0,59.0,83.0,13
-2020-03-08,Alabama,Medical,61.0,60.0,61.0,14
+2020-03-08,Alabama,Arts & Entertainment,111.0,98.0,112.0,9
+2020-03-08,Alabama,School,105.0,103.0,105.0,10
+2020-03-08,Alabama,Professional & Other Places,112.0,101.0,112.0,11
+2020-03-08,Alabama,Nightlife Spots,98.0,98.0,98.0,12
+2020-03-08,Alabama,Hotel,102.0,84.0,103.0,13
+2020-03-08,Alabama,Medical,106.0,103.0,106.0,14
 2020-03-08,Alabama,Hardware Stores,129.0,120.0,129.0,15
 2020-03-08,Alabama,Convenience Store,115.0,112.0,115.0,16
 2020-03-08,Alabama,Residences,104.0,94.0,104.0,17
-2020-03-08,Alabama,Colleges & Universities,83.0,100.0,83.0,18
+2020-03-08,Alabama,Colleges & Universities,103.0,123.0,103.0,18
 2020-03-08,Alabama,Drug Store,111.0,108.0,111.0,19
-2020-03-08,Alabama,Sports,60.0,56.0,60.0,20
-2020-03-08,Alabama,Travel & Transport,45.0,54.0,45.0,21
-2020-03-08,Alabama,Government,73.0,70.0,73.0,22
-2020-03-08,Alabama,Fitness Center,69.0,63.0,69.0,23
-2020-03-08,Alabama,Office,90.0,92.0,90.0,24
-2020-03-08,Alabama,Airport,84.0,88.0,84.0,25
+2020-03-08,Alabama,Sports,129.0,116.0,129.0,20
+2020-03-08,Alabama,Travel & Transport,108.0,107.0,108.0,21
+2020-03-08,Alabama,Government,106.0,103.0,106.0,22
+2020-03-08,Alabama,Fitness Center,103.0,96.0,103.0,23
+2020-03-08,Alabama,Office,107.0,109.0,107.0,24
+2020-03-08,Alabama,Airport,117.0,116.0,117.0,25
 2020-03-08,Alabama,Banks,88.0,73.0,89.0,26
 2020-03-08,Alabama,Alcohol,95.0,"",96.0,27
-2020-03-08,Alabama,Beach,139.0,58.0,147.0,28
-2020-03-08,Alabama,Spiritual Center,3.0,"",3.0,29
-2020-03-09,Alabama,Food,48.0,43.0,49.0,1
-2020-03-09,Alabama,Shops & Services,32.0,29.0,32.0,2
+2020-03-08,Alabama,Beach,145.0,60.0,154.0,28
+2020-03-08,Alabama,Spiritual Center,124.0,"",126.0,29
+2020-03-09,Alabama,Food,109.0,97.0,110.0,1
+2020-03-09,Alabama,Shops & Services,110.0,99.0,111.0,2
 2020-03-09,Alabama,Gas Stations,109.0,104.0,110.0,3
 2020-03-09,Alabama,Fast Food Restaurants,112.0,102.0,112.0,4
-2020-03-09,Alabama,Medical,58.0,55.0,58.0,5
-2020-03-09,Alabama,School,66.0,66.0,67.0,6
+2020-03-09,Alabama,Medical,103.0,99.0,103.0,5
+2020-03-09,Alabama,School,120.0,117.0,120.0,6
 2020-03-09,Alabama,Grocery,108.0,102.0,108.0,7
 2020-03-09,Alabama,Big Box Stores,107.0,96.0,107.0,8
-2020-03-09,Alabama,Outdoors & Recreation,54.0,47.0,55.0,9
-2020-03-09,Alabama,Professional & Other Places,19.0,18.0,19.0,10
-2020-03-09,Alabama,Colleges & Universities,55.0,65.0,55.0,11
+2020-03-09,Alabama,Outdoors & Recreation,117.0,112.0,118.0,9
+2020-03-09,Alabama,Professional & Other Places,109.0,115.0,109.0,10
+2020-03-09,Alabama,Colleges & Universities,82.0,90.0,82.0,11
 2020-03-09,Alabama,Discount Stores,108.0,99.0,109.0,12
-2020-03-09,Alabama,Arts & Entertainment,80.0,80.0,80.0,13
-2020-03-09,Alabama,Government,76.0,73.0,76.0,14
-2020-03-09,Alabama,Hotel,85.0,57.0,86.0,15
-2020-03-09,Alabama,Office,92.0,91.0,92.0,16
+2020-03-09,Alabama,Arts & Entertainment,113.0,113.0,113.0,13
+2020-03-09,Alabama,Government,112.0,111.0,112.0,14
+2020-03-09,Alabama,Hotel,108.0,83.0,109.0,15
+2020-03-09,Alabama,Office,106.0,104.0,106.0,16
 2020-03-09,Alabama,Convenience Store,117.0,109.0,117.0,17
 2020-03-09,Alabama,Residences,113.0,105.0,113.0,18
 2020-03-09,Alabama,Hardware Stores,117.0,110.0,118.0,19
 2020-03-09,Alabama,Drug Store,108.0,105.0,108.0,20
-2020-03-09,Alabama,Nightlife Spots,67.0,60.0,67.0,21
-2020-03-09,Alabama,Sports,46.0,41.0,46.0,22
-2020-03-09,Alabama,Fitness Center,70.0,59.0,70.0,23
+2020-03-09,Alabama,Nightlife Spots,111.0,98.0,112.0,21
+2020-03-09,Alabama,Sports,129.0,105.0,131.0,22
+2020-03-09,Alabama,Fitness Center,104.0,89.0,105.0,23
 2020-03-09,Alabama,Banks,126.0,117.0,127.0,24
-2020-03-09,Alabama,Travel & Transport,48.0,54.0,48.0,25
-2020-03-09,Alabama,Airport,76.0,74.0,76.0,26
+2020-03-09,Alabama,Travel & Transport,110.0,105.0,110.0,25
+2020-03-09,Alabama,Airport,104.0,101.0,104.0,26
 2020-03-09,Alabama,Alcohol,108.0,97.0,109.0,27
-2020-03-09,Alabama,Beach,149.0,96.0,155.0,28
-2020-03-10,Alabama,Food,46.0,42.0,46.0,1
-2020-03-10,Alabama,Shops & Services,31.0,28.0,31.0,2
+2020-03-09,Alabama,Beach,153.0,98.0,160.0,28
+2020-03-10,Alabama,Food,104.0,94.0,104.0,1
+2020-03-10,Alabama,Shops & Services,106.0,95.0,107.0,2
 2020-03-10,Alabama,Gas Stations,105.0,96.0,105.0,3
 2020-03-10,Alabama,Fast Food Restaurants,107.0,92.0,108.0,4
-2020-03-10,Alabama,Medical,53.0,50.0,53.0,5
-2020-03-10,Alabama,School,57.0,53.0,57.0,6
+2020-03-10,Alabama,Medical,95.0,90.0,95.0,5
+2020-03-10,Alabama,School,101.0,94.0,101.0,6
 2020-03-10,Alabama,Grocery,101.0,97.0,101.0,7
 2020-03-10,Alabama,Big Box Stores,106.0,97.0,106.0,8
-2020-03-10,Alabama,Professional & Other Places,17.0,16.0,17.0,9
-2020-03-10,Alabama,Outdoors & Recreation,51.0,41.0,52.0,10
-2020-03-10,Alabama,Colleges & Universities,45.0,51.0,45.0,11
+2020-03-10,Alabama,Professional & Other Places,99.0,95.0,100.0,9
+2020-03-10,Alabama,Outdoors & Recreation,111.0,94.0,111.0,10
+2020-03-10,Alabama,Colleges & Universities,78.0,82.0,78.0,11
 2020-03-10,Alabama,Discount Stores,101.0,92.0,101.0,12
-2020-03-10,Alabama,Arts & Entertainment,74.0,64.0,74.0,13
-2020-03-10,Alabama,Hotel,82.0,59.0,84.0,14
-2020-03-10,Alabama,Government,65.0,59.0,66.0,15
-2020-03-10,Alabama,Office,83.0,74.0,84.0,16
+2020-03-10,Alabama,Arts & Entertainment,104.0,90.0,105.0,13
+2020-03-10,Alabama,Hotel,103.0,84.0,104.0,14
+2020-03-10,Alabama,Government,94.0,88.0,95.0,15
+2020-03-10,Alabama,Office,97.0,86.0,97.0,16
 2020-03-10,Alabama,Convenience Store,106.0,96.0,106.0,17
 2020-03-10,Alabama,Residences,101.0,85.0,101.0,18
 2020-03-10,Alabama,Drug Store,103.0,94.0,103.0,19
 2020-03-10,Alabama,Hardware Stores,104.0,90.0,105.0,20
-2020-03-10,Alabama,Nightlife Spots,66.0,60.0,66.0,21
-2020-03-10,Alabama,Fitness Center,65.0,64.0,65.0,22
-2020-03-10,Alabama,Sports,44.0,42.0,44.0,23
+2020-03-10,Alabama,Nightlife Spots,109.0,99.0,109.0,21
+2020-03-10,Alabama,Fitness Center,98.0,98.0,98.0,22
+2020-03-10,Alabama,Sports,127.0,108.0,129.0,23
 2020-03-10,Alabama,Banks,104.0,101.0,104.0,24
-2020-03-10,Alabama,Travel & Transport,42.0,46.0,42.0,25
-2020-03-10,Alabama,Airport,72.0,67.0,72.0,26
+2020-03-10,Alabama,Travel & Transport,104.0,104.0,104.0,25
+2020-03-10,Alabama,Airport,99.0,90.0,99.0,26
 2020-03-10,Alabama,Alcohol,93.0,96.0,93.0,27
-2020-03-10,Alabama,Beach,150.0,75.0,158.0,28
-2020-03-10,Alabama,Bus,97.0,"",98.0,29
-2020-03-11,Alabama,Food,46.0,43.0,46.0,1
-2020-03-11,Alabama,Shops & Services,31.0,29.0,31.0,2
+2020-03-10,Alabama,Beach,153.0,76.0,161.0,28
+2020-03-10,Alabama,Bus,107.0,"",108.0,29
+2020-03-11,Alabama,Food,102.0,93.0,103.0,1
+2020-03-11,Alabama,Shops & Services,105.0,96.0,106.0,2
 2020-03-11,Alabama,Gas Stations,105.0,102.0,105.0,3
-2020-03-11,Alabama,Medical,57.0,53.0,57.0,4
+2020-03-11,Alabama,Medical,101.0,96.0,101.0,4
 2020-03-11,Alabama,Fast Food Restaurants,103.0,96.0,103.0,5
 2020-03-11,Alabama,Grocery,102.0,98.0,103.0,6
-2020-03-11,Alabama,School,56.0,51.0,56.0,7
+2020-03-11,Alabama,School,100.0,92.0,100.0,7
 2020-03-11,Alabama,Big Box Stores,101.0,94.0,101.0,8
-2020-03-11,Alabama,Professional & Other Places,17.0,15.0,17.0,9
-2020-03-11,Alabama,Outdoors & Recreation,53.0,45.0,53.0,10
-2020-03-11,Alabama,Colleges & Universities,45.0,51.0,45.0,11
+2020-03-11,Alabama,Professional & Other Places,98.0,93.0,98.0,9
+2020-03-11,Alabama,Outdoors & Recreation,116.0,106.0,116.0,10
+2020-03-11,Alabama,Colleges & Universities,78.0,81.0,78.0,11
 2020-03-11,Alabama,Discount Stores,102.0,95.0,102.0,12
-2020-03-11,Alabama,Arts & Entertainment,74.0,63.0,75.0,13
-2020-03-11,Alabama,Hotel,86.0,59.0,88.0,14
-2020-03-11,Alabama,Government,62.0,55.0,62.0,15
-2020-03-11,Alabama,Office,83.0,81.0,83.0,16
+2020-03-11,Alabama,Arts & Entertainment,105.0,88.0,106.0,13
+2020-03-11,Alabama,Hotel,107.0,81.0,109.0,14
+2020-03-11,Alabama,Government,91.0,82.0,91.0,15
+2020-03-11,Alabama,Office,96.0,94.0,96.0,16
 2020-03-11,Alabama,Hardware Stores,113.0,99.0,114.0,17
 2020-03-11,Alabama,Residences,104.0,103.0,104.0,18
 2020-03-11,Alabama,Convenience Store,101.0,94.0,101.0,19
-2020-03-11,Alabama,Nightlife Spots,72.0,63.0,73.0,20
+2020-03-11,Alabama,Nightlife Spots,106.0,92.0,106.0,20
 2020-03-11,Alabama,Drug Store,102.0,97.0,102.0,21
-2020-03-11,Alabama,Fitness Center,65.0,58.0,66.0,22
-2020-03-11,Alabama,Sports,40.0,41.0,40.0,23
-2020-03-11,Alabama,Travel & Transport,45.0,47.0,45.0,24
+2020-03-11,Alabama,Fitness Center,98.0,87.0,99.0,22
+2020-03-11,Alabama,Sports,114.0,109.0,114.0,23
+2020-03-11,Alabama,Travel & Transport,107.0,96.0,108.0,24
 2020-03-11,Alabama,Banks,102.0,101.0,102.0,25
-2020-03-11,Alabama,Airport,70.0,48.0,71.0,26
+2020-03-11,Alabama,Airport,97.0,66.0,98.0,26
 2020-03-11,Alabama,Alcohol,103.0,93.0,104.0,27
-2020-03-11,Alabama,Beach,160.0,93.0,169.0,28
-2020-03-11,Alabama,Bus,112.0,"",113.0,29
-2020-03-12,Alabama,Food,46.0,46.0,46.0,1
-2020-03-12,Alabama,Shops & Services,31.0,31.0,31.0,2
+2020-03-11,Alabama,Beach,165.0,96.0,173.0,28
+2020-03-11,Alabama,Bus,122.0,"",123.0,29
+2020-03-12,Alabama,Food,105.0,102.0,105.0,1
+2020-03-12,Alabama,Shops & Services,109.0,106.0,109.0,2
 2020-03-12,Alabama,Gas Stations,110.0,105.0,110.0,3
 2020-03-12,Alabama,Fast Food Restaurants,106.0,101.0,106.0,4
 2020-03-12,Alabama,Grocery,116.0,115.0,116.0,5
-2020-03-12,Alabama,School,61.0,59.0,61.0,6
-2020-03-12,Alabama,Medical,56.0,50.0,56.0,7
+2020-03-12,Alabama,School,110.0,105.0,110.0,6
+2020-03-12,Alabama,Medical,99.0,90.0,100.0,7
 2020-03-12,Alabama,Big Box Stores,111.0,108.0,111.0,8
-2020-03-12,Alabama,Outdoors & Recreation,57.0,52.0,57.0,9
-2020-03-12,Alabama,Professional & Other Places,17.0,15.0,17.0,10
+2020-03-12,Alabama,Outdoors & Recreation,131.0,127.0,131.0,9
+2020-03-12,Alabama,Professional & Other Places,103.0,97.0,103.0,10
 2020-03-12,Alabama,Discount Stores,112.0,111.0,112.0,11
-2020-03-12,Alabama,Colleges & Universities,55.0,64.0,54.0,12
-2020-03-12,Alabama,Arts & Entertainment,81.0,82.0,81.0,13
-2020-03-12,Alabama,Hotel,89.0,68.0,91.0,14
-2020-03-12,Alabama,Government,69.0,63.0,69.0,15
+2020-03-12,Alabama,Colleges & Universities,83.0,92.0,83.0,12
+2020-03-12,Alabama,Arts & Entertainment,112.0,112.0,112.0,13
+2020-03-12,Alabama,Hotel,111.0,93.0,112.0,14
+2020-03-12,Alabama,Government,101.0,95.0,101.0,15
 2020-03-12,Alabama,Drug Store,118.0,114.0,118.0,16
 2020-03-12,Alabama,Convenience Store,113.0,107.0,113.0,17
-2020-03-12,Alabama,Office,83.0,78.0,83.0,18
+2020-03-12,Alabama,Office,97.0,90.0,97.0,18
 2020-03-12,Alabama,Hardware Stores,117.0,111.0,117.0,19
 2020-03-12,Alabama,Residences,111.0,114.0,111.0,20
-2020-03-12,Alabama,Nightlife Spots,77.0,69.0,77.0,21
-2020-03-12,Alabama,Sports,47.0,49.0,46.0,22
-2020-03-12,Alabama,Fitness Center,65.0,57.0,65.0,23
-2020-03-12,Alabama,Travel & Transport,44.0,44.0,44.0,24
+2020-03-12,Alabama,Nightlife Spots,116.0,105.0,117.0,21
+2020-03-12,Alabama,Sports,137.0,131.0,137.0,22
+2020-03-12,Alabama,Fitness Center,97.0,87.0,97.0,23
+2020-03-12,Alabama,Travel & Transport,108.0,98.0,108.0,24
 2020-03-12,Alabama,Banks,111.0,109.0,111.0,25
-2020-03-12,Alabama,Airport,71.0,51.0,72.0,26
+2020-03-12,Alabama,Airport,98.0,68.0,99.0,26
 2020-03-12,Alabama,Alcohol,99.0,95.0,99.0,27
-2020-03-12,Alabama,Beach,157.0,103.0,163.0,28
-2020-03-12,Alabama,Bus,105.0,"",106.0,29
-2020-03-13,Alabama,Food,47.0,40.0,47.0,1
-2020-03-13,Alabama,Shops & Services,33.0,27.0,33.0,2
+2020-03-12,Alabama,Beach,166.0,110.0,172.0,28
+2020-03-12,Alabama,Bus,115.0,"",116.0,29
+2020-03-13,Alabama,Food,104.0,88.0,105.0,1
+2020-03-13,Alabama,Shops & Services,106.0,86.0,107.0,2
 2020-03-13,Alabama,Gas Stations,108.0,96.0,109.0,3
 2020-03-13,Alabama,Grocery,140.0,124.0,141.0,4
 2020-03-13,Alabama,Fast Food Restaurants,107.0,93.0,107.0,5
 2020-03-13,Alabama,Big Box Stores,122.0,107.0,122.0,6
-2020-03-13,Alabama,School,54.0,47.0,54.0,7
-2020-03-13,Alabama,Medical,56.0,48.0,56.0,8
-2020-03-13,Alabama,Outdoors & Recreation,59.0,48.0,59.0,9
+2020-03-13,Alabama,School,96.0,84.0,97.0,7
+2020-03-13,Alabama,Medical,100.0,87.0,100.0,8
+2020-03-13,Alabama,Outdoors & Recreation,118.0,103.0,119.0,9
 2020-03-13,Alabama,Discount Stores,126.0,113.0,127.0,10
-2020-03-13,Alabama,Professional & Other Places,18.0,15.0,18.0,11
-2020-03-13,Alabama,Colleges & Universities,40.0,48.0,40.0,12
-2020-03-13,Alabama,Arts & Entertainment,75.0,67.0,76.0,13
+2020-03-13,Alabama,Professional & Other Places,102.0,85.0,103.0,11
+2020-03-13,Alabama,Colleges & Universities,68.0,77.0,68.0,12
+2020-03-13,Alabama,Arts & Entertainment,105.0,93.0,106.0,13
 2020-03-13,Alabama,Drug Store,124.0,108.0,124.0,14
-2020-03-13,Alabama,Hotel,84.0,62.0,85.0,15
+2020-03-13,Alabama,Hotel,104.0,85.0,105.0,15
 2020-03-13,Alabama,Hardware Stores,119.0,108.0,120.0,16
 2020-03-13,Alabama,Convenience Store,116.0,109.0,116.0,17
-2020-03-13,Alabama,Government,67.0,59.0,67.0,18
-2020-03-13,Alabama,Nightlife Spots,71.0,63.0,71.0,19
+2020-03-13,Alabama,Government,98.0,88.0,98.0,18
+2020-03-13,Alabama,Nightlife Spots,105.0,92.0,105.0,19
 2020-03-13,Alabama,Residences,110.0,95.0,111.0,20
-2020-03-13,Alabama,Office,85.0,78.0,86.0,21
+2020-03-13,Alabama,Office,99.0,90.0,99.0,21
 2020-03-13,Alabama,Banks,100.0,86.0,101.0,22
-2020-03-13,Alabama,Travel & Transport,40.0,30.0,41.0,23
-2020-03-13,Alabama,Sports,45.0,42.0,45.0,24
-2020-03-13,Alabama,Fitness Center,61.0,52.0,62.0,25
-2020-03-13,Alabama,Airport,70.0,50.0,70.0,26
+2020-03-13,Alabama,Travel & Transport,111.0,95.0,112.0,23
+2020-03-13,Alabama,Sports,114.0,99.0,114.0,24
+2020-03-13,Alabama,Fitness Center,91.0,79.0,92.0,25
+2020-03-13,Alabama,Airport,97.0,69.0,98.0,26
 2020-03-13,Alabama,Alcohol,107.0,77.0,108.0,27
-2020-03-13,Alabama,Beach,169.0,106.0,176.0,28
-2020-03-13,Alabama,Bus,110.0,"",111.0,29
-2020-03-14,Alabama,Food,41.0,36.0,41.0,1
-2020-03-14,Alabama,Shops & Services,32.0,26.0,32.0,2
+2020-03-13,Alabama,Beach,175.0,110.0,182.0,28
+2020-03-13,Alabama,Bus,122.0,"",123.0,29
+2020-03-14,Alabama,Food,92.0,78.0,92.0,1
+2020-03-14,Alabama,Shops & Services,95.0,81.0,96.0,2
 2020-03-14,Alabama,Gas Stations,111.0,99.0,112.0,3
 2020-03-14,Alabama,Grocery,134.0,117.0,135.0,4
 2020-03-14,Alabama,Big Box Stores,113.0,93.0,114.0,5
 2020-03-14,Alabama,Fast Food Restaurants,97.0,88.0,98.0,6
-2020-03-14,Alabama,Outdoors & Recreation,59.0,55.0,59.0,7
+2020-03-14,Alabama,Outdoors & Recreation,121.0,121.0,121.0,7
 2020-03-14,Alabama,Discount Stores,116.0,108.0,117.0,8
-2020-03-14,Alabama,School,54.0,50.0,55.0,9
+2020-03-14,Alabama,School,97.0,89.0,97.0,9
 2020-03-14,Alabama,Hardware Stores,128.0,117.0,129.0,10
-2020-03-14,Alabama,Professional & Other Places,19.0,15.0,19.0,11
-2020-03-14,Alabama,Arts & Entertainment,65.0,59.0,66.0,12
-2020-03-14,Alabama,Hotel,77.0,52.0,78.0,13
-2020-03-14,Alabama,Nightlife Spots,54.0,48.0,54.0,14
-2020-03-14,Alabama,Medical,53.0,47.0,54.0,15
+2020-03-14,Alabama,Professional & Other Places,93.0,76.0,93.0,11
+2020-03-14,Alabama,Arts & Entertainment,82.0,74.0,82.0,12
+2020-03-14,Alabama,Hotel,94.0,72.0,95.0,13
+2020-03-14,Alabama,Nightlife Spots,96.0,83.0,96.0,14
+2020-03-14,Alabama,Medical,94.0,84.0,94.0,15
 2020-03-14,Alabama,Drug Store,116.0,104.0,117.0,16
 2020-03-14,Alabama,Convenience Store,106.0,101.0,106.0,17
 2020-03-14,Alabama,Residences,103.0,94.0,104.0,18
-2020-03-14,Alabama,Sports,43.0,43.0,43.0,19
-2020-03-14,Alabama,Travel & Transport,49.0,50.0,49.0,20
-2020-03-14,Alabama,Colleges & Universities,48.0,49.0,48.0,21
-2020-03-14,Alabama,Government,65.0,56.0,65.0,22
-2020-03-14,Alabama,Fitness Center,57.0,51.0,57.0,23
-2020-03-14,Alabama,Office,85.0,81.0,85.0,24
+2020-03-14,Alabama,Sports,106.0,98.0,106.0,19
+2020-03-14,Alabama,Travel & Transport,113.0,98.0,114.0,20
+2020-03-14,Alabama,Colleges & Universities,57.0,60.0,57.0,21
+2020-03-14,Alabama,Government,97.0,84.0,98.0,22
+2020-03-14,Alabama,Fitness Center,85.0,77.0,85.0,23
+2020-03-14,Alabama,Office,103.0,98.0,103.0,24
 2020-03-14,Alabama,Banks,81.0,76.0,81.0,25
-2020-03-14,Alabama,Airport,79.0,84.0,78.0,26
+2020-03-14,Alabama,Airport,108.0,111.0,108.0,26
 2020-03-14,Alabama,Alcohol,99.0,84.0,99.0,27
-2020-03-14,Alabama,Beach,194.0,107.0,203.0,28
-2020-03-15,Alabama,Food,39.0,32.0,39.0,1
-2020-03-15,Alabama,Shops & Services,25.0,21.0,26.0,2
+2020-03-14,Alabama,Beach,200.0,110.0,210.0,28
+2020-03-15,Alabama,Food,86.0,70.0,87.0,1
+2020-03-15,Alabama,Shops & Services,88.0,77.0,89.0,2
 2020-03-15,Alabama,Gas Stations,103.0,85.0,103.0,3
 2020-03-15,Alabama,Grocery,111.0,103.0,112.0,4
 2020-03-15,Alabama,Big Box Stores,97.0,87.0,97.0,5
 2020-03-15,Alabama,Fast Food Restaurants,90.0,76.0,91.0,6
-2020-03-15,Alabama,Outdoors & Recreation,52.0,43.0,53.0,7
+2020-03-15,Alabama,Outdoors & Recreation,106.0,94.0,107.0,7
 2020-03-15,Alabama,Discount Stores,103.0,83.0,104.0,8
-2020-03-15,Alabama,School,55.0,47.0,56.0,9
-2020-03-15,Alabama,Hotel,74.0,45.0,76.0,10
+2020-03-15,Alabama,School,95.0,81.0,95.0,9
+2020-03-15,Alabama,Hotel,92.0,63.0,94.0,10
 2020-03-15,Alabama,Hardware Stores,123.0,105.0,123.0,11
-2020-03-15,Alabama,Arts & Entertainment,63.0,48.0,63.0,12
-2020-03-15,Alabama,Professional & Other Places,14.0,9.0,14.0,13
-2020-03-15,Alabama,Medical,53.0,41.0,53.0,14
-2020-03-15,Alabama,Nightlife Spots,49.0,43.0,50.0,15
+2020-03-15,Alabama,Arts & Entertainment,74.0,57.0,74.0,12
+2020-03-15,Alabama,Professional & Other Places,86.0,70.0,87.0,13
+2020-03-15,Alabama,Medical,91.0,71.0,92.0,14
+2020-03-15,Alabama,Nightlife Spots,82.0,71.0,83.0,15
 2020-03-15,Alabama,Residences,97.0,87.0,97.0,16
 2020-03-15,Alabama,Convenience Store,99.0,86.0,100.0,17
 2020-03-15,Alabama,Drug Store,113.0,99.0,113.0,18
-2020-03-15,Alabama,Travel & Transport,77.0,72.0,77.0,19
-2020-03-15,Alabama,Sports,40.0,36.0,40.0,20
-2020-03-15,Alabama,Colleges & Universities,46.0,46.0,46.0,21
-2020-03-15,Alabama,Government,63.0,55.0,63.0,22
-2020-03-15,Alabama,Fitness Center,54.0,42.0,54.0,23
-2020-03-15,Alabama,Office,82.0,82.0,82.0,24
+2020-03-15,Alabama,Travel & Transport,108.0,92.0,108.0,19
+2020-03-15,Alabama,Sports,90.0,77.0,91.0,20
+2020-03-15,Alabama,Colleges & Universities,63.0,63.0,63.0,21
+2020-03-15,Alabama,Government,92.0,83.0,93.0,22
+2020-03-15,Alabama,Fitness Center,80.0,64.0,80.0,23
+2020-03-15,Alabama,Office,98.0,97.0,98.0,24
 2020-03-15,Alabama,Banks,83.0,71.0,83.0,25
-2020-03-15,Alabama,Airport,59.0,"",59.0,26
-2020-03-15,Alabama,Beach,211.0,91.0,224.0,27
+2020-03-15,Alabama,Airport,82.0,"",83.0,26
+2020-03-15,Alabama,Beach,221.0,95.0,234.0,27
 2020-03-15,Alabama,Alcohol,84.0,"",84.0,28
-2020-03-16,Alabama,Food,42.0,34.0,43.0,1
-2020-03-16,Alabama,Shops & Services,30.0,24.0,30.0,2
+2020-03-16,Alabama,Food,96.0,78.0,97.0,1
+2020-03-16,Alabama,Shops & Services,105.0,84.0,106.0,2
 2020-03-16,Alabama,Gas Stations,106.0,97.0,107.0,3
 2020-03-16,Alabama,Grocery,141.0,134.0,141.0,4
 2020-03-16,Alabama,Fast Food Restaurants,98.0,88.0,98.0,5
-2020-03-16,Alabama,Medical,51.0,41.0,51.0,6
+2020-03-16,Alabama,Medical,91.0,75.0,91.0,6
 2020-03-16,Alabama,Big Box Stores,115.0,94.0,116.0,7
-2020-03-16,Alabama,Outdoors & Recreation,56.0,47.0,57.0,8
-2020-03-16,Alabama,Professional & Other Places,17.0,14.0,17.0,9
-2020-03-16,Alabama,School,44.0,45.0,44.0,10
+2020-03-16,Alabama,Outdoors & Recreation,116.0,106.0,117.0,8
+2020-03-16,Alabama,Professional & Other Places,102.0,91.0,102.0,9
+2020-03-16,Alabama,School,79.0,81.0,79.0,10
 2020-03-16,Alabama,Discount Stores,117.0,101.0,118.0,11
 2020-03-16,Alabama,Hardware Stores,127.0,99.0,128.0,12
-2020-03-16,Alabama,Hotel,84.0,54.0,85.0,13
+2020-03-16,Alabama,Hotel,107.0,78.0,108.0,13
 2020-03-16,Alabama,Drug Store,121.0,111.0,122.0,14
 2020-03-16,Alabama,Residences,109.0,94.0,110.0,15
-2020-03-16,Alabama,Government,68.0,54.0,69.0,16
-2020-03-16,Alabama,Office,83.0,77.0,83.0,17
+2020-03-16,Alabama,Government,98.0,80.0,99.0,16
+2020-03-16,Alabama,Office,96.0,87.0,97.0,17
 2020-03-16,Alabama,Convenience Store,108.0,100.0,108.0,18
-2020-03-16,Alabama,Colleges & Universities,31.0,48.0,31.0,19
-2020-03-16,Alabama,Arts & Entertainment,64.0,55.0,64.0,20
-2020-03-16,Alabama,Nightlife Spots,64.0,59.0,64.0,21
+2020-03-16,Alabama,Colleges & Universities,43.0,63.0,43.0,19
+2020-03-16,Alabama,Arts & Entertainment,87.0,76.0,88.0,20
+2020-03-16,Alabama,Nightlife Spots,104.0,95.0,104.0,21
 2020-03-16,Alabama,Banks,122.0,118.0,122.0,22
-2020-03-16,Alabama,Travel & Transport,48.0,44.0,48.0,23
-2020-03-16,Alabama,Sports,39.0,32.0,39.0,24
-2020-03-16,Alabama,Fitness Center,50.0,40.0,51.0,25
-2020-03-16,Alabama,Airport,57.0,50.0,57.0,26
+2020-03-16,Alabama,Travel & Transport,104.0,82.0,105.0,23
+2020-03-16,Alabama,Sports,105.0,80.0,107.0,24
+2020-03-16,Alabama,Fitness Center,75.0,61.0,76.0,25
+2020-03-16,Alabama,Airport,79.0,68.0,79.0,26
 2020-03-16,Alabama,Alcohol,106.0,72.0,108.0,27
-2020-03-16,Alabama,Beach,179.0,106.0,188.0,28
-2020-03-17,Alabama,Food,35.0,29.0,36.0,1
-2020-03-17,Alabama,Shops & Services,27.0,22.0,27.0,2
+2020-03-16,Alabama,Beach,185.0,109.0,194.0,28
+2020-03-17,Alabama,Food,81.0,64.0,82.0,1
+2020-03-17,Alabama,Shops & Services,92.0,74.0,93.0,2
 2020-03-17,Alabama,Gas Stations,98.0,86.0,98.0,3
 2020-03-17,Alabama,Grocery,123.0,106.0,123.0,4
 2020-03-17,Alabama,Big Box Stores,106.0,84.0,107.0,5
 2020-03-17,Alabama,Fast Food Restaurants,84.0,73.0,84.0,6
-2020-03-17,Alabama,Medical,44.0,34.0,44.0,7
-2020-03-17,Alabama,Outdoors & Recreation,52.0,44.0,52.0,8
-2020-03-17,Alabama,Professional & Other Places,15.0,11.0,15.0,9
+2020-03-17,Alabama,Medical,78.0,62.0,79.0,7
+2020-03-17,Alabama,Outdoors & Recreation,117.0,105.0,117.0,8
+2020-03-17,Alabama,Professional & Other Places,85.0,70.0,85.0,9
 2020-03-17,Alabama,Discount Stores,107.0,93.0,107.0,10
-2020-03-17,Alabama,School,31.0,35.0,31.0,11
+2020-03-17,Alabama,School,56.0,63.0,55.0,11
 2020-03-17,Alabama,Hardware Stores,120.0,96.0,121.0,12
-2020-03-17,Alabama,Hotel,73.0,48.0,75.0,13
+2020-03-17,Alabama,Hotel,92.0,68.0,93.0,13
 2020-03-17,Alabama,Drug Store,107.0,94.0,108.0,14
 2020-03-17,Alabama,Residences,103.0,88.0,104.0,15
-2020-03-17,Alabama,Government,50.0,43.0,50.0,16
+2020-03-17,Alabama,Government,73.0,64.0,73.0,16
 2020-03-17,Alabama,Convenience Store,95.0,88.0,95.0,17
-2020-03-17,Alabama,Office,63.0,61.0,64.0,18
-2020-03-17,Alabama,Arts & Entertainment,54.0,43.0,54.0,19
-2020-03-17,Alabama,Colleges & Universities,19.0,32.0,19.0,20
-2020-03-17,Alabama,Nightlife Spots,50.0,45.0,50.0,21
-2020-03-17,Alabama,Travel & Transport,71.0,66.0,71.0,22
-2020-03-17,Alabama,Sports,36.0,33.0,36.0,23
+2020-03-17,Alabama,Office,74.0,70.0,74.0,18
+2020-03-17,Alabama,Arts & Entertainment,75.0,59.0,75.0,19
+2020-03-17,Alabama,Colleges & Universities,33.0,48.0,33.0,20
+2020-03-17,Alabama,Nightlife Spots,86.0,75.0,87.0,21
+2020-03-17,Alabama,Travel & Transport,101.0,89.0,102.0,22
+2020-03-17,Alabama,Sports,96.0,79.0,97.0,23
 2020-03-17,Alabama,Banks,86.0,67.0,86.0,24
-2020-03-17,Alabama,Fitness Center,38.0,31.0,39.0,25
-2020-03-17,Alabama,Airport,56.0,42.0,57.0,26
+2020-03-17,Alabama,Fitness Center,57.0,47.0,58.0,25
+2020-03-17,Alabama,Airport,77.0,56.0,78.0,26
 2020-03-17,Alabama,Alcohol,121.0,112.0,122.0,27
-2020-03-17,Alabama,Beach,208.0,104.0,220.0,28
-2020-03-18,Alabama,Food,38.0,31.0,39.0,1
-2020-03-18,Alabama,Shops & Services,25.0,19.0,25.0,2
+2020-03-17,Alabama,Beach,212.0,106.0,224.0,28
+2020-03-18,Alabama,Food,75.0,57.0,75.0,1
+2020-03-18,Alabama,Shops & Services,85.0,65.0,86.0,2
 2020-03-18,Alabama,Gas Stations,98.0,88.0,99.0,3
 2020-03-18,Alabama,Grocery,116.0,98.0,117.0,4
 2020-03-18,Alabama,Fast Food Restaurants,79.0,66.0,79.0,5
-2020-03-18,Alabama,Outdoors & Recreation,58.0,47.0,59.0,6
+2020-03-18,Alabama,Outdoors & Recreation,124.0,108.0,125.0,6
 2020-03-18,Alabama,Big Box Stores,95.0,79.0,95.0,7
-2020-03-18,Alabama,Medical,40.0,32.0,40.0,8
-2020-03-18,Alabama,Professional & Other Places,14.0,11.0,14.0,9
+2020-03-18,Alabama,Medical,71.0,57.0,72.0,8
+2020-03-18,Alabama,Professional & Other Places,83.0,71.0,84.0,9
 2020-03-18,Alabama,Discount Stores,102.0,91.0,103.0,10
-2020-03-18,Alabama,School,29.0,33.0,29.0,11
+2020-03-18,Alabama,School,52.0,58.0,51.0,11
 2020-03-18,Alabama,Hardware Stores,116.0,99.0,118.0,12
-2020-03-18,Alabama,Hotel,69.0,44.0,71.0,13
+2020-03-18,Alabama,Hotel,86.0,61.0,87.0,13
 2020-03-18,Alabama,Residences,98.0,87.0,98.0,14
 2020-03-18,Alabama,Drug Store,102.0,84.0,103.0,15
 2020-03-18,Alabama,Convenience Store,93.0,91.0,93.0,16
-2020-03-18,Alabama,Government,47.0,40.0,47.0,17
-2020-03-18,Alabama,Office,62.0,64.0,62.0,18
-2020-03-18,Alabama,Arts & Entertainment,51.0,42.0,51.0,19
-2020-03-18,Alabama,Nightlife Spots,51.0,44.0,52.0,20
-2020-03-18,Alabama,Colleges & Universities,24.0,31.0,24.0,21
-2020-03-18,Alabama,Travel & Transport,43.0,39.0,43.0,22
-2020-03-18,Alabama,Sports,40.0,35.0,40.0,23
+2020-03-18,Alabama,Government,68.0,59.0,69.0,17
+2020-03-18,Alabama,Office,72.0,75.0,72.0,18
+2020-03-18,Alabama,Arts & Entertainment,71.0,58.0,71.0,19
+2020-03-18,Alabama,Nightlife Spots,79.0,67.0,79.0,20
+2020-03-18,Alabama,Colleges & Universities,30.0,38.0,30.0,21
+2020-03-18,Alabama,Travel & Transport,97.0,76.0,98.0,22
+2020-03-18,Alabama,Sports,96.0,79.0,97.0,23
 2020-03-18,Alabama,Banks,85.0,70.0,85.0,24
-2020-03-18,Alabama,Fitness Center,33.0,22.0,33.0,25
-2020-03-18,Alabama,Airport,51.0,42.0,51.0,26
+2020-03-18,Alabama,Fitness Center,49.0,32.0,49.0,25
+2020-03-18,Alabama,Airport,70.0,57.0,71.0,26
 2020-03-18,Alabama,Alcohol,100.0,85.0,101.0,27
-2020-03-18,Alabama,Beach,207.0,68.0,225.0,28
-2020-03-19,Alabama,Food,33.0,26.0,33.0,1
-2020-03-19,Alabama,Shops & Services,23.0,18.0,23.0,2
+2020-03-18,Alabama,Beach,215.0,71.0,233.0,28
+2020-03-19,Alabama,Food,70.0,53.0,71.0,1
+2020-03-19,Alabama,Shops & Services,80.0,63.0,81.0,2
 2020-03-19,Alabama,Gas Stations,95.0,86.0,96.0,3
 2020-03-19,Alabama,Grocery,118.0,100.0,119.0,4
 2020-03-19,Alabama,Big Box Stores,96.0,74.0,97.0,5
 2020-03-19,Alabama,Fast Food Restaurants,74.0,63.0,74.0,6
-2020-03-19,Alabama,Outdoors & Recreation,55.0,43.0,56.0,7
-2020-03-19,Alabama,Medical,39.0,31.0,39.0,8
-2020-03-19,Alabama,Professional & Other Places,13.0,11.0,13.0,9
+2020-03-19,Alabama,Outdoors & Recreation,129.0,108.0,130.0,7
+2020-03-19,Alabama,Medical,69.0,56.0,70.0,8
+2020-03-19,Alabama,Professional & Other Places,82.0,75.0,83.0,9
 2020-03-19,Alabama,Discount Stores,98.0,86.0,99.0,10
-2020-03-19,Alabama,School,28.0,30.0,28.0,11
+2020-03-19,Alabama,School,50.0,53.0,50.0,11
 2020-03-19,Alabama,Hardware Stores,123.0,97.0,125.0,12
 2020-03-19,Alabama,Residences,102.0,93.0,102.0,13
 2020-03-19,Alabama,Drug Store,100.0,84.0,101.0,14
 2020-03-19,Alabama,Convenience Store,92.0,82.0,92.0,15
-2020-03-19,Alabama,Hotel,63.0,39.0,64.0,16
-2020-03-19,Alabama,Government,47.0,42.0,47.0,17
-2020-03-19,Alabama,Office,61.0,53.0,61.0,18
-2020-03-19,Alabama,Arts & Entertainment,51.0,45.0,51.0,19
-2020-03-19,Alabama,Nightlife Spots,51.0,38.0,51.0,20
-2020-03-19,Alabama,Colleges & Universities,22.0,37.0,22.0,21
-2020-03-19,Alabama,Travel & Transport,34.0,26.0,35.0,22
-2020-03-19,Alabama,Sports,42.0,43.0,42.0,23
+2020-03-19,Alabama,Hotel,78.0,54.0,80.0,16
+2020-03-19,Alabama,Government,68.0,62.0,68.0,17
+2020-03-19,Alabama,Office,71.0,61.0,71.0,18
+2020-03-19,Alabama,Arts & Entertainment,71.0,61.0,71.0,19
+2020-03-19,Alabama,Nightlife Spots,79.0,58.0,80.0,20
+2020-03-19,Alabama,Colleges & Universities,31.0,49.0,30.0,21
+2020-03-19,Alabama,Travel & Transport,96.0,86.0,97.0,22
+2020-03-19,Alabama,Sports,107.0,102.0,107.0,23
 2020-03-19,Alabama,Banks,85.0,83.0,85.0,24
-2020-03-19,Alabama,Fitness Center,32.0,22.0,33.0,25
-2020-03-19,Alabama,Airport,48.0,40.0,48.0,26
+2020-03-19,Alabama,Fitness Center,48.0,33.0,48.0,25
+2020-03-19,Alabama,Airport,67.0,55.0,67.0,26
 2020-03-19,Alabama,Alcohol,91.0,68.0,92.0,27
-2020-03-19,Alabama,Beach,210.0,117.0,220.0,28
-2020-03-20,Alabama,Food,29.0,22.0,29.0,1
-2020-03-20,Alabama,Shops & Services,22.0,16.0,22.0,2
+2020-03-19,Alabama,Beach,221.0,124.0,232.0,28
+2020-03-20,Alabama,Food,61.0,44.0,62.0,1
+2020-03-20,Alabama,Shops & Services,70.0,53.0,71.0,2
 2020-03-20,Alabama,Gas Stations,89.0,73.0,90.0,3
 2020-03-20,Alabama,Grocery,118.0,97.0,119.0,4
 2020-03-20,Alabama,Big Box Stores,92.0,72.0,92.0,5
 2020-03-20,Alabama,Fast Food Restaurants,72.0,60.0,73.0,6
-2020-03-20,Alabama,Outdoors & Recreation,48.0,38.0,48.0,7
-2020-03-20,Alabama,Medical,36.0,27.0,37.0,8
+2020-03-20,Alabama,Outdoors & Recreation,105.0,89.0,105.0,7
+2020-03-20,Alabama,Medical,64.0,49.0,65.0,8
 2020-03-20,Alabama,Discount Stores,93.0,72.0,93.0,9
-2020-03-20,Alabama,Professional & Other Places,13.0,11.0,13.0,10
-2020-03-20,Alabama,School,25.0,26.0,25.0,11
+2020-03-20,Alabama,Professional & Other Places,77.0,62.0,77.0,10
+2020-03-20,Alabama,School,45.0,46.0,45.0,11
 2020-03-20,Alabama,Hardware Stores,116.0,86.0,118.0,12
 2020-03-20,Alabama,Drug Store,95.0,78.0,95.0,13
 2020-03-20,Alabama,Convenience Store,89.0,81.0,89.0,14
 2020-03-20,Alabama,Residences,92.0,75.0,92.0,15
-2020-03-20,Alabama,Hotel,52.0,33.0,53.0,16
-2020-03-20,Alabama,Government,43.0,34.0,43.0,17
-2020-03-20,Alabama,Office,61.0,64.0,61.0,18
-2020-03-20,Alabama,Arts & Entertainment,50.0,41.0,50.0,19
-2020-03-20,Alabama,Nightlife Spots,40.0,34.0,40.0,20
+2020-03-20,Alabama,Hotel,64.0,44.0,65.0,16
+2020-03-20,Alabama,Government,62.0,50.0,63.0,17
+2020-03-20,Alabama,Office,70.0,74.0,70.0,18
+2020-03-20,Alabama,Arts & Entertainment,60.0,49.0,60.0,19
+2020-03-20,Alabama,Nightlife Spots,61.0,53.0,62.0,20
 2020-03-20,Alabama,Banks,75.0,63.0,75.0,21
-2020-03-20,Alabama,Travel & Transport,30.0,21.0,31.0,22
-2020-03-20,Alabama,Colleges & Universities,23.0,30.0,22.0,23
-2020-03-20,Alabama,Sports,33.0,29.0,33.0,24
-2020-03-20,Alabama,Fitness Center,28.0,20.0,29.0,25
-2020-03-20,Alabama,Airport,42.0,32.0,42.0,26
+2020-03-20,Alabama,Travel & Transport,87.0,70.0,88.0,22
+2020-03-20,Alabama,Colleges & Universities,31.0,39.0,30.0,23
+2020-03-20,Alabama,Sports,79.0,68.0,80.0,24
+2020-03-20,Alabama,Fitness Center,43.0,30.0,43.0,25
+2020-03-20,Alabama,Airport,59.0,45.0,59.0,26
 2020-03-20,Alabama,Alcohol,81.0,64.0,82.0,27
-2020-03-20,Alabama,Beach,107.0,75.0,110.0,28
-2020-03-21,Alabama,Food,23.0,18.0,23.0,1
-2020-03-21,Alabama,Shops & Services,18.0,13.0,18.0,2
+2020-03-20,Alabama,Beach,110.0,78.0,114.0,28
+2020-03-21,Alabama,Food,49.0,37.0,49.0,1
+2020-03-21,Alabama,Shops & Services,53.0,42.0,54.0,2
 2020-03-21,Alabama,Grocery,102.0,81.0,103.0,3
 2020-03-21,Alabama,Gas Stations,80.0,67.0,81.0,4
 2020-03-21,Alabama,Big Box Stores,78.0,63.0,79.0,5
-2020-03-21,Alabama,Outdoors & Recreation,48.0,39.0,49.0,6
+2020-03-21,Alabama,Outdoors & Recreation,96.0,83.0,96.0,6
 2020-03-21,Alabama,Fast Food Restaurants,60.0,51.0,61.0,7
 2020-03-21,Alabama,Discount Stores,81.0,67.0,81.0,8
 2020-03-21,Alabama,Hardware Stores,106.0,84.0,107.0,9
-2020-03-21,Alabama,School,37.0,33.0,37.0,10
-2020-03-21,Alabama,Professional & Other Places,13.0,11.0,14.0,11
-2020-03-21,Alabama,Medical,39.0,30.0,39.0,12
+2020-03-21,Alabama,School,64.0,58.0,64.0,10
+2020-03-21,Alabama,Professional & Other Places,66.0,56.0,66.0,11
+2020-03-21,Alabama,Medical,68.0,54.0,69.0,12
 2020-03-21,Alabama,Drug Store,91.0,69.0,92.0,13
 2020-03-21,Alabama,Residences,81.0,75.0,81.0,14
 2020-03-21,Alabama,Convenience Store,78.0,67.0,78.0,15
-2020-03-21,Alabama,Arts & Entertainment,32.0,25.0,32.0,16
-2020-03-21,Alabama,Hotel,36.0,22.0,37.0,17
-2020-03-21,Alabama,Nightlife Spots,29.0,23.0,29.0,18
-2020-03-21,Alabama,Travel & Transport,60.0,55.0,61.0,19
-2020-03-21,Alabama,Sports,30.0,25.0,31.0,20
-2020-03-21,Alabama,Government,50.0,42.0,50.0,21
+2020-03-21,Alabama,Arts & Entertainment,39.0,30.0,40.0,16
+2020-03-21,Alabama,Hotel,44.0,31.0,45.0,17
+2020-03-21,Alabama,Nightlife Spots,43.0,34.0,43.0,18
+2020-03-21,Alabama,Travel & Transport,82.0,70.0,83.0,19
+2020-03-21,Alabama,Sports,67.0,52.0,67.0,20
+2020-03-21,Alabama,Government,73.0,63.0,73.0,21
 2020-03-21,Alabama,Banks,84.0,59.0,85.0,22
-2020-03-21,Alabama,Colleges & Universities,32.0,27.0,32.0,23
-2020-03-21,Alabama,Office,65.0,48.0,66.0,24
-2020-03-21,Alabama,Fitness Center,28.0,23.0,28.0,25
+2020-03-21,Alabama,Colleges & Universities,34.0,30.0,34.0,23
+2020-03-21,Alabama,Office,79.0,59.0,80.0,24
+2020-03-21,Alabama,Fitness Center,42.0,35.0,42.0,25
 2020-03-21,Alabama,Alcohol,67.0,"",67.0,26
-2020-03-21,Alabama,Airport,49.0,"",50.0,27
-2020-03-21,Alabama,Beach,82.0,"",85.0,28
-2020-03-22,Alabama,Food,23.0,18.0,23.0,1
-2020-03-22,Alabama,Shops & Services,15.0,11.0,15.0,2
+2020-03-21,Alabama,Airport,68.0,"",69.0,27
+2020-03-21,Alabama,Beach,84.0,"",88.0,28
+2020-03-22,Alabama,Food,44.0,32.0,44.0,1
+2020-03-22,Alabama,Shops & Services,50.0,41.0,51.0,2
 2020-03-22,Alabama,Grocery,83.0,67.0,84.0,3
 2020-03-22,Alabama,Gas Stations,73.0,61.0,73.0,4
 2020-03-22,Alabama,Big Box Stores,68.0,61.0,68.0,5
-2020-03-22,Alabama,Outdoors & Recreation,45.0,35.0,45.0,6
+2020-03-22,Alabama,Outdoors & Recreation,87.0,75.0,87.0,6
 2020-03-22,Alabama,Fast Food Restaurants,56.0,45.0,56.0,7
 2020-03-22,Alabama,Discount Stores,73.0,56.0,74.0,8
-2020-03-22,Alabama,School,40.0,34.0,40.0,9
+2020-03-22,Alabama,School,67.0,58.0,68.0,9
 2020-03-22,Alabama,Hardware Stores,96.0,75.0,97.0,10
-2020-03-22,Alabama,Professional & Other Places,11.0,7.0,11.0,11
+2020-03-22,Alabama,Professional & Other Places,67.0,57.0,67.0,11
 2020-03-22,Alabama,Residences,76.0,69.0,76.0,12
-2020-03-22,Alabama,Medical,35.0,24.0,36.0,13
+2020-03-22,Alabama,Medical,62.0,42.0,62.0,13
 2020-03-22,Alabama,Drug Store,82.0,72.0,82.0,14
 2020-03-22,Alabama,Convenience Store,67.0,56.0,67.0,15
-2020-03-22,Alabama,Arts & Entertainment,37.0,32.0,37.0,16
-2020-03-22,Alabama,Hotel,32.0,23.0,33.0,17
-2020-03-22,Alabama,Nightlife Spots,21.0,23.0,21.0,18
-2020-03-22,Alabama,Travel & Transport,34.0,29.0,35.0,19
-2020-03-22,Alabama,Sports,32.0,29.0,32.0,20
-2020-03-22,Alabama,Colleges & Universities,38.0,36.0,38.0,21
-2020-03-22,Alabama,Government,49.0,33.0,50.0,22
-2020-03-22,Alabama,Office,63.0,55.0,64.0,23
+2020-03-22,Alabama,Arts & Entertainment,43.0,38.0,43.0,16
+2020-03-22,Alabama,Hotel,40.0,32.0,41.0,17
+2020-03-22,Alabama,Nightlife Spots,36.0,37.0,36.0,18
+2020-03-22,Alabama,Travel & Transport,75.0,55.0,76.0,19
+2020-03-22,Alabama,Sports,64.0,55.0,64.0,20
+2020-03-22,Alabama,Colleges & Universities,44.0,42.0,44.0,21
+2020-03-22,Alabama,Government,72.0,49.0,73.0,22
+2020-03-22,Alabama,Office,76.0,65.0,77.0,23
 2020-03-22,Alabama,Banks,85.0,72.0,86.0,24
-2020-03-22,Alabama,Fitness Center,29.0,"",30.0,25
-2020-03-22,Alabama,Airport,37.0,"",37.0,26
+2020-03-22,Alabama,Fitness Center,43.0,"",44.0,25
+2020-03-22,Alabama,Airport,51.0,"",52.0,26
 2020-03-22,Alabama,Alcohol,55.0,"",55.0,27
-2020-03-22,Alabama,Beach,83.0,"",87.0,28
-2020-03-23,Alabama,Food,29.0,23.0,29.0,1
-2020-03-23,Alabama,Shops & Services,21.0,16.0,21.0,2
+2020-03-22,Alabama,Beach,87.0,"",91.0,28
+2020-03-23,Alabama,Food,59.0,43.0,59.0,1
+2020-03-23,Alabama,Shops & Services,68.0,51.0,69.0,2
 2020-03-23,Alabama,Gas Stations,81.0,65.0,81.0,3
 2020-03-23,Alabama,Grocery,95.0,81.0,96.0,4
 2020-03-23,Alabama,Big Box Stores,82.0,62.0,83.0,5
 2020-03-23,Alabama,Fast Food Restaurants,64.0,53.0,64.0,6
-2020-03-23,Alabama,Outdoors & Recreation,46.0,34.0,47.0,7
-2020-03-23,Alabama,Medical,32.0,24.0,33.0,8
-2020-03-23,Alabama,Professional & Other Places,12.0,11.0,13.0,9
+2020-03-23,Alabama,Outdoors & Recreation,92.0,74.0,93.0,7
+2020-03-23,Alabama,Medical,58.0,44.0,59.0,8
+2020-03-23,Alabama,Professional & Other Places,74.0,70.0,75.0,9
 2020-03-23,Alabama,Discount Stores,88.0,79.0,88.0,10
-2020-03-23,Alabama,School,27.0,26.0,27.0,11
+2020-03-23,Alabama,School,47.0,46.0,47.0,11
 2020-03-23,Alabama,Hardware Stores,100.0,74.0,102.0,12
 2020-03-23,Alabama,Drug Store,94.0,74.0,95.0,13
 2020-03-23,Alabama,Residences,86.0,70.0,87.0,14
 2020-03-23,Alabama,Convenience Store,78.0,69.0,78.0,15
-2020-03-23,Alabama,Office,55.0,54.0,55.0,16
-2020-03-23,Alabama,Government,43.0,34.0,43.0,17
-2020-03-23,Alabama,Hotel,46.0,26.0,47.0,18
-2020-03-23,Alabama,Arts & Entertainment,44.0,35.0,44.0,19
-2020-03-23,Alabama,Colleges & Universities,18.0,36.0,18.0,20
-2020-03-23,Alabama,Nightlife Spots,42.0,37.0,43.0,21
+2020-03-23,Alabama,Office,64.0,61.0,64.0,16
+2020-03-23,Alabama,Government,62.0,50.0,62.0,17
+2020-03-23,Alabama,Hotel,59.0,38.0,60.0,18
+2020-03-23,Alabama,Arts & Entertainment,61.0,48.0,61.0,19
+2020-03-23,Alabama,Colleges & Universities,25.0,44.0,25.0,20
+2020-03-23,Alabama,Nightlife Spots,65.0,55.0,66.0,21
 2020-03-23,Alabama,Banks,85.0,79.0,86.0,22
-2020-03-23,Alabama,Travel & Transport,54.0,42.0,55.0,23
-2020-03-23,Alabama,Sports,30.0,24.0,31.0,24
-2020-03-23,Alabama,Fitness Center,27.0,18.0,27.0,25
-2020-03-23,Alabama,Airport,43.0,37.0,43.0,26
+2020-03-23,Alabama,Travel & Transport,74.0,54.0,75.0,23
+2020-03-23,Alabama,Sports,72.0,54.0,74.0,24
+2020-03-23,Alabama,Fitness Center,40.0,28.0,40.0,25
+2020-03-23,Alabama,Airport,60.0,50.0,60.0,26
 2020-03-23,Alabama,Alcohol,78.0,"",80.0,27
-2020-03-23,Alabama,Beach,69.0,"",74.0,28
-2020-03-24,Alabama,Food,26.0,19.0,26.0,1
-2020-03-24,Alabama,Shops & Services,20.0,14.0,20.0,2
+2020-03-23,Alabama,Beach,71.0,"",76.0,28
+2020-03-24,Alabama,Food,58.0,42.0,59.0,1
+2020-03-24,Alabama,Shops & Services,65.0,47.0,66.0,2
 2020-03-24,Alabama,Gas Stations,79.0,66.0,79.0,3
 2020-03-24,Alabama,Grocery,87.0,77.0,88.0,4
-2020-03-24,Alabama,Outdoors & Recreation,46.0,34.0,46.0,5
+2020-03-24,Alabama,Outdoors & Recreation,101.0,79.0,102.0,5
 2020-03-24,Alabama,Fast Food Restaurants,64.0,55.0,64.0,6
 2020-03-24,Alabama,Big Box Stores,77.0,64.0,78.0,7
-2020-03-24,Alabama,Medical,30.0,21.0,31.0,8
-2020-03-24,Alabama,Professional & Other Places,12.0,9.0,12.0,9
+2020-03-24,Alabama,Medical,54.0,38.0,55.0,8
+2020-03-24,Alabama,Professional & Other Places,68.0,57.0,68.0,9
 2020-03-24,Alabama,Discount Stores,84.0,71.0,85.0,10
-2020-03-24,Alabama,School,24.0,24.0,24.0,11
+2020-03-24,Alabama,School,43.0,44.0,43.0,11
 2020-03-24,Alabama,Hardware Stores,105.0,77.0,106.0,12
 2020-03-24,Alabama,Residences,85.0,63.0,86.0,13
 2020-03-24,Alabama,Drug Store,81.0,69.0,82.0,14
 2020-03-24,Alabama,Convenience Store,77.0,60.0,78.0,15
-2020-03-24,Alabama,Office,51.0,50.0,51.0,16
-2020-03-24,Alabama,Government,37.0,31.0,37.0,17
-2020-03-24,Alabama,Arts & Entertainment,41.0,32.0,42.0,18
-2020-03-24,Alabama,Hotel,41.0,25.0,42.0,19
-2020-03-24,Alabama,Nightlife Spots,44.0,39.0,45.0,20
-2020-03-24,Alabama,Colleges & Universities,17.0,34.0,17.0,21
-2020-03-24,Alabama,Sports,37.0,34.0,37.0,22
-2020-03-24,Alabama,Travel & Transport,41.0,31.0,42.0,23
+2020-03-24,Alabama,Office,59.0,57.0,59.0,16
+2020-03-24,Alabama,Government,54.0,47.0,54.0,17
+2020-03-24,Alabama,Arts & Entertainment,57.0,43.0,58.0,18
+2020-03-24,Alabama,Hotel,52.0,36.0,53.0,19
+2020-03-24,Alabama,Nightlife Spots,66.0,58.0,66.0,20
+2020-03-24,Alabama,Colleges & Universities,24.0,45.0,24.0,21
+2020-03-24,Alabama,Sports,85.0,73.0,86.0,22
+2020-03-24,Alabama,Travel & Transport,80.0,58.0,81.0,23
 2020-03-24,Alabama,Banks,70.0,47.0,72.0,24
-2020-03-24,Alabama,Fitness Center,24.0,17.0,25.0,25
-2020-03-24,Alabama,Airport,44.0,48.0,44.0,26
+2020-03-24,Alabama,Fitness Center,36.0,26.0,37.0,25
+2020-03-24,Alabama,Airport,61.0,64.0,61.0,26
 2020-03-24,Alabama,Alcohol,76.0,74.0,76.0,27
-2020-03-24,Alabama,Beach,70.0,"",74.0,28
-2020-03-25,Alabama,Food,26.0,20.0,27.0,1
-2020-03-25,Alabama,Shops & Services,20.0,15.0,20.0,2
+2020-03-24,Alabama,Beach,72.0,"",75.0,28
+2020-03-25,Alabama,Food,59.0,44.0,59.0,1
+2020-03-25,Alabama,Shops & Services,65.0,50.0,66.0,2
 2020-03-25,Alabama,Gas Stations,84.0,69.0,85.0,3
 2020-03-25,Alabama,Grocery,90.0,76.0,91.0,4
-2020-03-25,Alabama,Outdoors & Recreation,56.0,42.0,57.0,5
+2020-03-25,Alabama,Outdoors & Recreation,118.0,94.0,119.0,5
 2020-03-25,Alabama,Fast Food Restaurants,66.0,60.0,66.0,6
 2020-03-25,Alabama,Big Box Stores,77.0,62.0,78.0,7
-2020-03-25,Alabama,Medical,31.0,22.0,32.0,8
-2020-03-25,Alabama,Professional & Other Places,11.0,9.0,11.0,9
+2020-03-25,Alabama,Medical,55.0,40.0,56.0,8
+2020-03-25,Alabama,Professional & Other Places,70.0,60.0,70.0,9
 2020-03-25,Alabama,Discount Stores,88.0,75.0,88.0,10
-2020-03-25,Alabama,School,26.0,28.0,26.0,11
+2020-03-25,Alabama,School,47.0,49.0,47.0,11
 2020-03-25,Alabama,Hardware Stores,115.0,91.0,116.0,12
 2020-03-25,Alabama,Residences,91.0,77.0,92.0,13
 2020-03-25,Alabama,Drug Store,83.0,71.0,83.0,14
 2020-03-25,Alabama,Convenience Store,78.0,67.0,78.0,15
-2020-03-25,Alabama,Government,39.0,32.0,39.0,16
-2020-03-25,Alabama,Office,51.0,49.0,51.0,17
-2020-03-25,Alabama,Arts & Entertainment,44.0,37.0,45.0,18
-2020-03-25,Alabama,Hotel,43.0,30.0,43.0,19
-2020-03-25,Alabama,Colleges & Universities,18.0,31.0,18.0,20
-2020-03-25,Alabama,Nightlife Spots,43.0,36.0,43.0,21
-2020-03-25,Alabama,Sports,41.0,33.0,41.0,22
-2020-03-25,Alabama,Travel & Transport,35.0,28.0,36.0,23
+2020-03-25,Alabama,Government,56.0,47.0,57.0,16
+2020-03-25,Alabama,Office,60.0,57.0,60.0,17
+2020-03-25,Alabama,Arts & Entertainment,61.0,51.0,62.0,18
+2020-03-25,Alabama,Hotel,53.0,42.0,54.0,19
+2020-03-25,Alabama,Colleges & Universities,27.0,41.0,26.0,20
+2020-03-25,Alabama,Nightlife Spots,63.0,53.0,64.0,21
+2020-03-25,Alabama,Sports,90.0,70.0,91.0,22
+2020-03-25,Alabama,Travel & Transport,83.0,56.0,84.0,23
 2020-03-25,Alabama,Banks,76.0,51.0,77.0,24
-2020-03-25,Alabama,Fitness Center,24.0,17.0,24.0,25
-2020-03-25,Alabama,Airport,41.0,43.0,41.0,26
+2020-03-25,Alabama,Fitness Center,35.0,26.0,36.0,25
+2020-03-25,Alabama,Airport,56.0,58.0,56.0,26
 2020-03-25,Alabama,Alcohol,85.0,70.0,86.0,27
-2020-03-25,Alabama,Beach,76.0,"",80.0,28
-2020-03-26,Alabama,Food,29.0,21.0,29.0,1
-2020-03-26,Alabama,Shops & Services,22.0,16.0,22.0,2
+2020-03-25,Alabama,Beach,78.0,"",82.0,28
+2020-03-26,Alabama,Food,59.0,42.0,60.0,1
+2020-03-26,Alabama,Shops & Services,67.0,50.0,68.0,2
 2020-03-26,Alabama,Gas Stations,86.0,77.0,87.0,3
 2020-03-26,Alabama,Grocery,91.0,75.0,92.0,4
-2020-03-26,Alabama,Outdoors & Recreation,60.0,47.0,61.0,5
+2020-03-26,Alabama,Outdoors & Recreation,133.0,113.0,134.0,5
 2020-03-26,Alabama,Fast Food Restaurants,70.0,56.0,70.0,6
 2020-03-26,Alabama,Big Box Stores,80.0,62.0,80.0,7
-2020-03-26,Alabama,Medical,32.0,23.0,32.0,8
-2020-03-26,Alabama,Professional & Other Places,11.0,9.0,11.0,9
+2020-03-26,Alabama,Medical,56.0,42.0,57.0,8
+2020-03-26,Alabama,Professional & Other Places,70.0,58.0,70.0,9
 2020-03-26,Alabama,Discount Stores,87.0,68.0,88.0,10
-2020-03-26,Alabama,School,27.0,28.0,27.0,11
+2020-03-26,Alabama,School,48.0,50.0,48.0,11
 2020-03-26,Alabama,Hardware Stores,129.0,108.0,130.0,12
 2020-03-26,Alabama,Residences,100.0,85.0,100.0,13
 2020-03-26,Alabama,Convenience Store,84.0,76.0,84.0,14
 2020-03-26,Alabama,Drug Store,81.0,63.0,82.0,15
-2020-03-26,Alabama,Arts & Entertainment,56.0,46.0,56.0,16
-2020-03-26,Alabama,Government,40.0,33.0,41.0,17
-2020-03-26,Alabama,Office,51.0,44.0,52.0,18
-2020-03-26,Alabama,Hotel,44.0,30.0,45.0,19
-2020-03-26,Alabama,Nightlife Spots,46.0,39.0,46.0,20
-2020-03-26,Alabama,Colleges & Universities,20.0,37.0,19.0,21
-2020-03-26,Alabama,Sports,39.0,35.0,39.0,22
-2020-03-26,Alabama,Travel & Transport,27.0,17.0,28.0,23
-2020-03-26,Alabama,Banks,86.0,69.0,87.0,24
-2020-03-26,Alabama,Fitness Center,27.0,19.0,27.0,25
-2020-03-26,Alabama,Airport,42.0,50.0,42.0,26
+2020-03-26,Alabama,Arts & Entertainment,65.0,55.0,66.0,16
+2020-03-26,Alabama,Government,59.0,49.0,60.0,17
+2020-03-26,Alabama,Office,60.0,51.0,60.0,18
+2020-03-26,Alabama,Hotel,55.0,42.0,56.0,19
+2020-03-26,Alabama,Nightlife Spots,68.0,57.0,69.0,20
+2020-03-26,Alabama,Colleges & Universities,29.0,49.0,29.0,21
+2020-03-26,Alabama,Sports,102.0,86.0,103.0,22
+2020-03-26,Alabama,Banks,86.0,69.0,87.0,23
+2020-03-26,Alabama,Travel & Transport,80.0,61.0,81.0,24
+2020-03-26,Alabama,Fitness Center,41.0,29.0,41.0,25
+2020-03-26,Alabama,Airport,59.0,67.0,59.0,26
 2020-03-26,Alabama,Alcohol,78.0,58.0,79.0,27
-2020-03-26,Alabama,Beach,87.0,"",92.0,28
-2020-03-27,Alabama,Food,25.0,19.0,26.0,1
-2020-03-27,Alabama,Shops & Services,19.0,14.0,19.0,2
+2020-03-26,Alabama,Beach,92.0,"",96.0,28
+2020-03-27,Alabama,Food,56.0,40.0,57.0,1
+2020-03-27,Alabama,Shops & Services,62.0,45.0,63.0,2
 2020-03-27,Alabama,Gas Stations,82.0,68.0,82.0,3
 2020-03-27,Alabama,Grocery,93.0,73.0,94.0,4
-2020-03-27,Alabama,Outdoors & Recreation,57.0,42.0,58.0,5
+2020-03-27,Alabama,Outdoors & Recreation,119.0,92.0,120.0,5
 2020-03-27,Alabama,Fast Food Restaurants,68.0,54.0,68.0,6
 2020-03-27,Alabama,Big Box Stores,80.0,60.0,81.0,7
 2020-03-27,Alabama,Discount Stores,88.0,69.0,89.0,8
-2020-03-27,Alabama,Professional & Other Places,12.0,10.0,12.0,9
-2020-03-27,Alabama,Medical,33.0,23.0,33.0,10
-2020-03-27,Alabama,School,25.0,26.0,25.0,11
+2020-03-27,Alabama,Professional & Other Places,71.0,58.0,71.0,9
+2020-03-27,Alabama,Medical,58.0,42.0,59.0,10
+2020-03-27,Alabama,School,46.0,46.0,46.0,11
 2020-03-27,Alabama,Hardware Stores,119.0,98.0,120.0,12
 2020-03-27,Alabama,Residences,94.0,81.0,94.0,13
 2020-03-27,Alabama,Drug Store,85.0,69.0,85.0,14
 2020-03-27,Alabama,Convenience Store,83.0,71.0,84.0,15
-2020-03-27,Alabama,Arts & Entertainment,40.0,33.0,40.0,16
-2020-03-27,Alabama,Government,38.0,30.0,38.0,17
-2020-03-27,Alabama,Nightlife Spots,38.0,33.0,38.0,18
-2020-03-27,Alabama,Office,54.0,49.0,54.0,19
+2020-03-27,Alabama,Arts & Entertainment,56.0,46.0,57.0,16
+2020-03-27,Alabama,Government,55.0,45.0,56.0,17
+2020-03-27,Alabama,Nightlife Spots,62.0,56.0,62.0,18
+2020-03-27,Alabama,Office,63.0,57.0,63.0,19
 2020-03-27,Alabama,Banks,76.0,61.0,77.0,20
-2020-03-27,Alabama,Hotel,40.0,25.0,41.0,21
-2020-03-27,Alabama,Sports,38.0,32.0,39.0,22
-2020-03-27,Alabama,Colleges & Universities,21.0,34.0,21.0,23
-2020-03-27,Alabama,Travel & Transport,27.0,18.0,28.0,24
-2020-03-27,Alabama,Fitness Center,26.0,20.0,26.0,25
-2020-03-27,Alabama,Airport,41.0,41.0,41.0,26
+2020-03-27,Alabama,Hotel,50.0,34.0,50.0,21
+2020-03-27,Alabama,Sports,85.0,68.0,86.0,22
+2020-03-27,Alabama,Colleges & Universities,29.0,42.0,28.0,23
+2020-03-27,Alabama,Travel & Transport,76.0,58.0,77.0,24
+2020-03-27,Alabama,Fitness Center,38.0,31.0,39.0,25
+2020-03-27,Alabama,Airport,56.0,56.0,56.0,26
 2020-03-27,Alabama,Alcohol,76.0,63.0,76.0,27
-2020-03-27,Alabama,Beach,80.0,"",85.0,28
-2020-03-28,Alabama,Food,23.0,17.0,23.0,1
-2020-03-28,Alabama,Shops & Services,16.0,12.0,16.0,2
+2020-03-27,Alabama,Beach,83.0,"",88.0,28
+2020-03-28,Alabama,Food,49.0,35.0,49.0,1
+2020-03-28,Alabama,Shops & Services,51.0,41.0,51.0,2
 2020-03-28,Alabama,Gas Stations,82.0,69.0,83.0,3
 2020-03-28,Alabama,Grocery,90.0,66.0,91.0,4
-2020-03-28,Alabama,Outdoors & Recreation,54.0,42.0,55.0,5
+2020-03-28,Alabama,Outdoors & Recreation,109.0,91.0,109.0,5
 2020-03-28,Alabama,Big Box Stores,78.0,61.0,78.0,6
 2020-03-28,Alabama,Fast Food Restaurants,62.0,49.0,63.0,7
 2020-03-28,Alabama,Discount Stores,82.0,64.0,82.0,8
 2020-03-28,Alabama,Hardware Stores,127.0,96.0,128.0,9
-2020-03-28,Alabama,School,38.0,31.0,38.0,10
-2020-03-28,Alabama,Professional & Other Places,13.0,11.0,14.0,11
-2020-03-28,Alabama,Medical,39.0,31.0,39.0,12
+2020-03-28,Alabama,School,67.0,55.0,67.0,10
+2020-03-28,Alabama,Professional & Other Places,66.0,52.0,66.0,11
+2020-03-28,Alabama,Medical,68.0,54.0,69.0,12
 2020-03-28,Alabama,Residences,84.0,72.0,85.0,13
 2020-03-28,Alabama,Convenience Store,80.0,65.0,80.0,14
 2020-03-28,Alabama,Drug Store,87.0,68.0,88.0,15
-2020-03-28,Alabama,Arts & Entertainment,32.0,28.0,32.0,16
-2020-03-28,Alabama,Nightlife Spots,28.0,26.0,28.0,17
-2020-03-28,Alabama,Hotel,32.0,19.0,33.0,18
-2020-03-28,Alabama,Sports,35.0,30.0,35.0,19
-2020-03-28,Alabama,Travel & Transport,53.0,37.0,54.0,20
-2020-03-28,Alabama,Government,54.0,45.0,54.0,21
-2020-03-28,Alabama,Colleges & Universities,28.0,27.0,28.0,22
+2020-03-28,Alabama,Arts & Entertainment,40.0,35.0,40.0,16
+2020-03-28,Alabama,Nightlife Spots,46.0,42.0,46.0,17
+2020-03-28,Alabama,Hotel,40.0,26.0,41.0,18
+2020-03-28,Alabama,Sports,71.0,58.0,72.0,19
+2020-03-28,Alabama,Travel & Transport,75.0,49.0,76.0,20
+2020-03-28,Alabama,Government,79.0,66.0,80.0,21
+2020-03-28,Alabama,Colleges & Universities,39.0,37.0,39.0,22
 2020-03-28,Alabama,Banks,88.0,56.0,89.0,23
-2020-03-28,Alabama,Office,64.0,45.0,64.0,24
-2020-03-28,Alabama,Fitness Center,26.0,22.0,27.0,25
+2020-03-28,Alabama,Office,77.0,56.0,78.0,24
+2020-03-28,Alabama,Fitness Center,40.0,34.0,40.0,25
 2020-03-28,Alabama,Alcohol,73.0,"",74.0,26
-2020-03-28,Alabama,Airport,41.0,"",42.0,27
-2020-03-28,Alabama,Beach,78.0,"",83.0,28
-2020-03-29,Alabama,Food,18.0,14.0,18.0,1
+2020-03-28,Alabama,Airport,57.0,"",58.0,27
+2020-03-28,Alabama,Beach,81.0,"",85.0,28
+2020-03-29,Alabama,Food,39.0,28.0,39.0,1
 2020-03-29,Alabama,Gas Stations,63.0,51.0,64.0,2
-2020-03-29,Alabama,Shops & Services,13.0,12.0,13.0,3
+2020-03-29,Alabama,Shops & Services,43.0,38.0,43.0,3
 2020-03-29,Alabama,Grocery,67.0,56.0,67.0,4
-2020-03-29,Alabama,Outdoors & Recreation,44.0,36.0,44.0,5
+2020-03-29,Alabama,Outdoors & Recreation,84.0,74.0,84.0,5
 2020-03-29,Alabama,Big Box Stores,59.0,55.0,59.0,6
 2020-03-29,Alabama,Fast Food Restaurants,52.0,48.0,52.0,7
 2020-03-29,Alabama,Discount Stores,62.0,50.0,63.0,8
 2020-03-29,Alabama,Hardware Stores,105.0,86.0,105.0,9
-2020-03-29,Alabama,School,34.0,28.0,34.0,10
-2020-03-29,Alabama,Professional & Other Places,8.0,6.0,8.0,11
+2020-03-29,Alabama,School,59.0,48.0,59.0,10
+2020-03-29,Alabama,Professional & Other Places,56.0,46.0,56.0,11
 2020-03-29,Alabama,Residences,65.0,59.0,65.0,12
 2020-03-29,Alabama,Convenience Store,64.0,56.0,65.0,13
-2020-03-29,Alabama,Medical,30.0,21.0,30.0,14
+2020-03-29,Alabama,Medical,51.0,36.0,52.0,14
 2020-03-29,Alabama,Drug Store,68.0,60.0,68.0,15
-2020-03-29,Alabama,Arts & Entertainment,34.0,26.0,34.0,16
-2020-03-29,Alabama,Nightlife Spots,24.0,25.0,23.0,17
-2020-03-29,Alabama,Hotel,26.0,17.0,27.0,18
-2020-03-29,Alabama,Sports,33.0,30.0,33.0,19
-2020-03-29,Alabama,Travel & Transport,36.0,32.0,36.0,20
-2020-03-29,Alabama,Colleges & Universities,36.0,33.0,36.0,21
-2020-03-29,Alabama,Government,43.0,32.0,44.0,22
+2020-03-29,Alabama,Arts & Entertainment,39.0,30.0,39.0,16
+2020-03-29,Alabama,Nightlife Spots,35.0,37.0,35.0,17
+2020-03-29,Alabama,Hotel,33.0,24.0,33.0,18
+2020-03-29,Alabama,Sports,63.0,56.0,63.0,19
+2020-03-29,Alabama,Travel & Transport,55.0,44.0,56.0,20
+2020-03-29,Alabama,Colleges & Universities,38.0,35.0,38.0,21
+2020-03-29,Alabama,Government,62.0,47.0,63.0,22
 2020-03-29,Alabama,Banks,79.0,70.0,79.0,23
-2020-03-29,Alabama,Office,54.0,51.0,54.0,24
-2020-03-29,Alabama,Fitness Center,20.0,"",21.0,25
-2020-03-29,Alabama,Airport,29.0,"",29.0,26
+2020-03-29,Alabama,Office,65.0,61.0,65.0,24
+2020-03-29,Alabama,Fitness Center,30.0,"",31.0,25
+2020-03-29,Alabama,Airport,41.0,"",41.0,26
 2020-03-29,Alabama,Alcohol,49.0,"",50.0,27
-2020-03-29,Alabama,Beach,61.0,"",66.0,28
-2020-03-30,Alabama,Food,26.0,19.0,27.0,1
-2020-03-30,Alabama,Shops & Services,19.0,14.0,19.0,2
+2020-03-29,Alabama,Beach,64.0,"",68.0,28
+2020-03-30,Alabama,Food,56.0,40.0,57.0,1
+2020-03-30,Alabama,Shops & Services,61.0,44.0,62.0,2
 2020-03-30,Alabama,Gas Stations,76.0,66.0,76.0,3
 2020-03-30,Alabama,Grocery,80.0,71.0,80.0,4
-2020-03-30,Alabama,Outdoors & Recreation,48.0,37.0,48.0,5
+2020-03-30,Alabama,Outdoors & Recreation,97.0,83.0,97.0,5
 2020-03-30,Alabama,Fast Food Restaurants,64.0,52.0,64.0,6
 2020-03-30,Alabama,Big Box Stores,70.0,57.0,71.0,7
-2020-03-30,Alabama,Medical,29.0,23.0,29.0,8
-2020-03-30,Alabama,Professional & Other Places,11.0,10.0,12.0,9
+2020-03-30,Alabama,Medical,52.0,41.0,52.0,8
+2020-03-30,Alabama,Professional & Other Places,70.0,62.0,70.0,9
 2020-03-30,Alabama,Discount Stores,78.0,65.0,79.0,10
-2020-03-30,Alabama,School,27.0,28.0,27.0,11
+2020-03-30,Alabama,School,49.0,50.0,49.0,11
 2020-03-30,Alabama,Hardware Stores,107.0,90.0,108.0,12
 2020-03-30,Alabama,Residences,82.0,73.0,83.0,13
 2020-03-30,Alabama,Drug Store,81.0,70.0,81.0,14
 2020-03-30,Alabama,Convenience Store,76.0,65.0,77.0,15
-2020-03-30,Alabama,Office,51.0,43.0,52.0,16
-2020-03-30,Alabama,Government,39.0,33.0,39.0,17
-2020-03-30,Alabama,Arts & Entertainment,43.0,36.0,43.0,18
-2020-03-30,Alabama,Colleges & Universities,18.0,31.0,17.0,19
-2020-03-30,Alabama,Hotel,37.0,21.0,38.0,20
-2020-03-30,Alabama,Nightlife Spots,45.0,36.0,45.0,21
+2020-03-30,Alabama,Office,60.0,50.0,60.0,16
+2020-03-30,Alabama,Government,57.0,50.0,57.0,17
+2020-03-30,Alabama,Arts & Entertainment,59.0,48.0,59.0,18
+2020-03-30,Alabama,Colleges & Universities,25.0,43.0,25.0,19
+2020-03-30,Alabama,Hotel,47.0,31.0,48.0,20
+2020-03-30,Alabama,Nightlife Spots,64.0,52.0,65.0,21
 2020-03-30,Alabama,Banks,82.0,67.0,83.0,22
-2020-03-30,Alabama,Sports,31.0,26.0,32.0,23
-2020-03-30,Alabama,Travel & Transport,33.0,26.0,33.0,24
-2020-03-30,Alabama,Fitness Center,20.0,16.0,20.0,25
-2020-03-30,Alabama,Airport,37.0,56.0,36.0,26
+2020-03-30,Alabama,Sports,80.0,63.0,81.0,23
+2020-03-30,Alabama,Travel & Transport,70.0,47.0,71.0,24
+2020-03-30,Alabama,Fitness Center,30.0,24.0,30.0,25
+2020-03-30,Alabama,Airport,52.0,78.0,51.0,26
 2020-03-30,Alabama,Alcohol,74.0,"",75.0,27
-2020-03-31,Alabama,Food,23.0,18.0,23.0,1
-2020-03-31,Alabama,Shops & Services,16.0,12.0,16.0,2
+2020-03-31,Alabama,Food,49.0,35.0,50.0,1
+2020-03-31,Alabama,Shops & Services,53.0,39.0,54.0,2
 2020-03-31,Alabama,Gas Stations,66.0,54.0,66.0,3
 2020-03-31,Alabama,Grocery,75.0,67.0,76.0,4
 2020-03-31,Alabama,Fast Food Restaurants,59.0,52.0,59.0,5
 2020-03-31,Alabama,Big Box Stores,71.0,59.0,71.0,6
-2020-03-31,Alabama,Outdoors & Recreation,35.0,27.0,36.0,7
-2020-03-31,Alabama,Medical,24.0,16.0,24.0,8
-2020-03-31,Alabama,Professional & Other Places,10.0,8.0,10.0,9
+2020-03-31,Alabama,Outdoors & Recreation,74.0,61.0,75.0,7
+2020-03-31,Alabama,Medical,43.0,29.0,44.0,8
+2020-03-31,Alabama,Professional & Other Places,55.0,47.0,55.0,9
 2020-03-31,Alabama,Discount Stores,67.0,52.0,67.0,10
-2020-03-31,Alabama,School,19.0,20.0,19.0,11
+2020-03-31,Alabama,School,34.0,35.0,34.0,11
 2020-03-31,Alabama,Hardware Stores,90.0,65.0,91.0,12
 2020-03-31,Alabama,Drug Store,77.0,67.0,78.0,13
 2020-03-31,Alabama,Residences,68.0,54.0,69.0,14
 2020-03-31,Alabama,Convenience Store,62.0,53.0,62.0,15
-2020-03-31,Alabama,Government,31.0,25.0,31.0,16
-2020-03-31,Alabama,Office,40.0,37.0,41.0,17
+2020-03-31,Alabama,Government,45.0,37.0,45.0,16
+2020-03-31,Alabama,Office,47.0,43.0,47.0,17
 2020-03-31,Alabama,Banks,74.0,56.0,75.0,18
-2020-03-31,Alabama,Arts & Entertainment,35.0,31.0,35.0,19
-2020-03-31,Alabama,Nightlife Spots,31.0,29.0,31.0,20
-2020-03-31,Alabama,Colleges & Universities,13.0,26.0,13.0,21
-2020-03-31,Alabama,Hotel,29.0,20.0,30.0,22
-2020-03-31,Alabama,Travel & Transport,45.0,35.0,45.0,23
-2020-03-31,Alabama,Sports,28.0,22.0,28.0,24
-2020-03-31,Alabama,Fitness Center,17.0,12.0,17.0,25
-2020-03-31,Alabama,Airport,32.0,33.0,32.0,26
+2020-03-31,Alabama,Arts & Entertainment,46.0,40.0,47.0,19
+2020-03-31,Alabama,Nightlife Spots,53.0,50.0,53.0,20
+2020-03-31,Alabama,Colleges & Universities,19.0,34.0,19.0,21
+2020-03-31,Alabama,Hotel,37.0,29.0,37.0,22
+2020-03-31,Alabama,Travel & Transport,62.0,46.0,63.0,23
+2020-03-31,Alabama,Sports,63.0,48.0,64.0,24
+2020-03-31,Alabama,Fitness Center,25.0,18.0,26.0,25
+2020-03-31,Alabama,Airport,43.0,44.0,43.0,26
 2020-03-31,Alabama,Alcohol,58.0,"",58.0,27
+2020-04-01,Alabama,Food,54.0,39.0,55.0,1
+2020-04-01,Alabama,Shops & Services,61.0,45.0,62.0,2
+2020-04-01,Alabama,Gas Stations,76.0,65.0,77.0,3
+2020-04-01,Alabama,Grocery,92.0,77.0,93.0,4
+2020-04-01,Alabama,Fast Food Restaurants,66.0,57.0,66.0,5
+2020-04-01,Alabama,Big Box Stores,82.0,63.0,83.0,6
+2020-04-01,Alabama,Outdoors & Recreation,94.0,76.0,95.0,7
+2020-04-01,Alabama,Medical,50.0,39.0,50.0,8
+2020-04-01,Alabama,Professional & Other Places,63.0,54.0,63.0,9
+2020-04-01,Alabama,Discount Stores,81.0,67.0,81.0,10
+2020-04-01,Alabama,School,40.0,46.0,40.0,11
+2020-04-01,Alabama,Hardware Stores,108.0,82.0,109.0,12
+2020-04-01,Alabama,Drug Store,88.0,74.0,89.0,13
+2020-04-01,Alabama,Residences,77.0,64.0,78.0,14
+2020-04-01,Alabama,Convenience Store,69.0,66.0,69.0,15
+2020-04-01,Alabama,Government,49.0,46.0,50.0,16
+2020-04-01,Alabama,Office,52.0,52.0,52.0,17
+2020-04-01,Alabama,Banks,94.0,73.0,95.0,18
+2020-04-01,Alabama,Arts & Entertainment,55.0,46.0,55.0,19
+2020-04-01,Alabama,Colleges & Universities,23.0,41.0,23.0,20
+2020-04-01,Alabama,Nightlife Spots,59.0,51.0,59.0,21
+2020-04-01,Alabama,Hotel,42.0,33.0,43.0,22
+2020-04-01,Alabama,Sports,78.0,64.0,79.0,23
+2020-04-01,Alabama,Travel & Transport,66.0,52.0,67.0,24
+2020-04-01,Alabama,Fitness Center,27.0,18.0,28.0,25
+2020-04-01,Alabama,Airport,48.0,53.0,48.0,26
+2020-04-01,Alabama,Alcohol,76.0,65.0,76.0,27

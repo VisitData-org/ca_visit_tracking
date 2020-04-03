@@ -1,983 +1,1014 @@
-2020-03-01,Georgia,Food,55.0,53.0,55.0,1
-2020-03-01,Georgia,Shops & Services,43.0,40.0,44.0,2
+2020-03-01,Georgia,Food,112.0,105.0,112.0,1
+2020-03-01,Georgia,Shops & Services,115.0,105.0,115.0,2
 2020-03-01,Georgia,Grocery,99.0,96.0,99.0,3
 2020-03-01,Georgia,Gas Stations,111.0,112.0,111.0,4
 2020-03-01,Georgia,Fast Food Restaurants,118.0,116.0,118.0,5
-2020-03-01,Georgia,Outdoors & Recreation,60.0,62.0,60.0,6
+2020-03-01,Georgia,Outdoors & Recreation,117.0,119.0,117.0,6
 2020-03-01,Georgia,Big Box Stores,110.0,106.0,110.0,7
-2020-03-01,Georgia,Airport,61.0,57.0,61.0,8
-2020-03-01,Georgia,Residences,104.0,115.0,103.0,9
-2020-03-01,Georgia,Arts & Entertainment,87.0,85.0,87.0,10
-2020-03-01,Georgia,Nightlife Spots,57.0,64.0,57.0,11
-2020-03-01,Georgia,Professional & Other Places,20.0,17.0,20.0,12
-2020-03-01,Georgia,Hotel,105.0,109.0,105.0,13
+2020-03-01,Georgia,Airport,103.0,97.0,103.0,8
+2020-03-01,Georgia,Residences,106.0,118.0,105.0,9
+2020-03-01,Georgia,Arts & Entertainment,109.0,106.0,109.0,10
+2020-03-01,Georgia,Nightlife Spots,110.0,117.0,109.0,11
+2020-03-01,Georgia,Professional & Other Places,104.0,108.0,104.0,12
+2020-03-01,Georgia,Hotel,119.0,129.0,119.0,13
 2020-03-01,Georgia,Convenience Store,107.0,113.0,107.0,14
 2020-03-01,Georgia,Discount Stores,105.0,92.0,106.0,15
-2020-03-01,Georgia,School,64.0,64.0,64.0,16
-2020-03-01,Georgia,Medical,60.0,59.0,60.0,17
+2020-03-01,Georgia,School,110.0,109.0,110.0,16
+2020-03-01,Georgia,Medical,107.0,103.0,107.0,17
 2020-03-01,Georgia,Hardware Stores,116.0,114.0,116.0,18
-2020-03-01,Georgia,Sports,51.0,58.0,50.0,19
+2020-03-01,Georgia,Sports,120.0,125.0,120.0,19
 2020-03-01,Georgia,Drug Store,108.0,103.0,109.0,20
-2020-03-01,Georgia,Travel & Transport,43.0,51.0,43.0,21
-2020-03-01,Georgia,Colleges & Universities,97.0,118.0,97.0,22
-2020-03-01,Georgia,Fitness Center,71.0,65.0,72.0,23
-2020-03-01,Georgia,Office,90.0,86.0,90.0,24
-2020-03-01,Georgia,Government,79.0,72.0,79.0,25
+2020-03-01,Georgia,Travel & Transport,113.0,137.0,113.0,21
+2020-03-01,Georgia,Colleges & Universities,117.0,141.0,117.0,22
+2020-03-01,Georgia,Fitness Center,102.0,94.0,102.0,23
+2020-03-01,Georgia,Office,106.0,102.0,106.0,24
+2020-03-01,Georgia,Government,113.0,106.0,114.0,25
 2020-03-01,Georgia,Alcohol,109.0,111.0,109.0,26
 2020-03-01,Georgia,Banks,115.0,104.0,116.0,27
 2020-03-01,Georgia,Metro Stations,118.0,126.0,118.0,28
-2020-03-01,Georgia,Spiritual Center,4.0,3.0,4.0,29
-2020-03-01,Georgia,Bus,100.0,"",100.0,30
-2020-03-01,Georgia,Beach,99.0,109.0,99.0,31
+2020-03-01,Georgia,Spiritual Center,118.0,135.0,117.0,29
+2020-03-01,Georgia,Bus,136.0,"",135.0,30
+2020-03-01,Georgia,Beach,104.0,112.0,104.0,31
 2020-03-01,Georgia,Light Rail Stations,140.0,"",141.0,32
-2020-03-02,Georgia,Food,52.0,51.0,52.0,1
-2020-03-02,Georgia,Shops & Services,35.0,36.0,35.0,2
+2020-03-02,Georgia,Food,107.0,102.0,107.0,1
+2020-03-02,Georgia,Shops & Services,104.0,99.0,105.0,2
 2020-03-02,Georgia,Gas Stations,104.0,98.0,104.0,3
 2020-03-02,Georgia,Grocery,105.0,101.0,105.0,4
 2020-03-02,Georgia,Fast Food Restaurants,110.0,101.0,110.0,5
-2020-03-02,Georgia,Medical,56.0,53.0,56.0,6
-2020-03-02,Georgia,School,64.0,62.0,64.0,7
-2020-03-02,Georgia,Airport,60.0,55.0,60.0,8
-2020-03-02,Georgia,Professional & Other Places,18.0,17.0,18.0,9
-2020-03-02,Georgia,Outdoors & Recreation,46.0,45.0,46.0,10
+2020-03-02,Georgia,Medical,102.0,97.0,102.0,6
+2020-03-02,Georgia,School,113.0,109.0,113.0,7
+2020-03-02,Georgia,Airport,101.0,93.0,101.0,8
+2020-03-02,Georgia,Professional & Other Places,104.0,103.0,104.0,9
+2020-03-02,Georgia,Outdoors & Recreation,97.0,93.0,97.0,10
 2020-03-02,Georgia,Big Box Stores,108.0,100.0,109.0,11
-2020-03-02,Georgia,Colleges & Universities,64.0,68.0,64.0,12
-2020-03-02,Georgia,Office,88.0,84.0,88.0,13
-2020-03-02,Georgia,Residences,95.0,85.0,96.0,14
+2020-03-02,Georgia,Colleges & Universities,97.0,94.0,97.0,12
+2020-03-02,Georgia,Office,101.0,97.0,101.0,13
+2020-03-02,Georgia,Residences,97.0,86.0,98.0,14
 2020-03-02,Georgia,Convenience Store,103.0,96.0,103.0,15
-2020-03-02,Georgia,Hotel,91.0,85.0,92.0,16
-2020-03-02,Georgia,Government,75.0,71.0,75.0,17
+2020-03-02,Georgia,Hotel,106.0,101.0,106.0,16
+2020-03-02,Georgia,Government,107.0,104.0,107.0,17
 2020-03-02,Georgia,Discount Stores,101.0,93.0,102.0,18
-2020-03-02,Georgia,Fitness Center,72.0,69.0,72.0,19
-2020-03-02,Georgia,Arts & Entertainment,70.0,79.0,70.0,20
+2020-03-02,Georgia,Fitness Center,104.0,99.0,104.0,19
+2020-03-02,Georgia,Arts & Entertainment,104.0,109.0,104.0,20
 2020-03-02,Georgia,Hardware Stores,103.0,95.0,103.0,21
-2020-03-02,Georgia,Nightlife Spots,59.0,54.0,59.0,22
+2020-03-02,Georgia,Nightlife Spots,102.0,91.0,102.0,22
 2020-03-02,Georgia,Drug Store,106.0,97.0,107.0,23
-2020-03-02,Georgia,Travel & Transport,42.0,40.0,42.0,24
-2020-03-02,Georgia,Sports,33.0,32.0,33.0,25
+2020-03-02,Georgia,Travel & Transport,106.0,99.0,106.0,24
+2020-03-02,Georgia,Sports,96.0,84.0,97.0,25
 2020-03-02,Georgia,Banks,122.0,115.0,122.0,26
 2020-03-02,Georgia,Alcohol,108.0,108.0,108.0,27
 2020-03-02,Georgia,Metro Stations,99.0,109.0,99.0,28
-2020-03-02,Georgia,Bus,78.0,"",79.0,29
-2020-03-02,Georgia,Beach,92.0,108.0,91.0,30
-2020-03-02,Georgia,Spiritual Center,6.0,"",6.0,31
+2020-03-02,Georgia,Bus,106.0,"",107.0,29
+2020-03-02,Georgia,Beach,97.0,114.0,96.0,30
+2020-03-02,Georgia,Spiritual Center,116.0,"",118.0,31
 2020-03-02,Georgia,Light Rail Stations,110.0,"",110.0,32
-2020-03-03,Georgia,Food,48.0,47.0,48.0,1
-2020-03-03,Georgia,Shops & Services,46.0,47.0,46.0,2
+2020-03-03,Georgia,Food,103.0,97.0,104.0,1
+2020-03-03,Georgia,Shops & Services,105.0,100.0,105.0,2
 2020-03-03,Georgia,Gas Stations,103.0,99.0,103.0,3
 2020-03-03,Georgia,Grocery,108.0,101.0,108.0,4
 2020-03-03,Georgia,Fast Food Restaurants,107.0,96.0,107.0,5
-2020-03-03,Georgia,School,59.0,56.0,59.0,6
-2020-03-03,Georgia,Medical,53.0,50.0,54.0,7
-2020-03-03,Georgia,Professional & Other Places,17.0,16.0,17.0,8
-2020-03-03,Georgia,Outdoors & Recreation,46.0,47.0,46.0,9
+2020-03-03,Georgia,School,104.0,98.0,104.0,6
+2020-03-03,Georgia,Medical,97.0,91.0,97.0,7
+2020-03-03,Georgia,Professional & Other Places,99.0,98.0,99.0,8
+2020-03-03,Georgia,Outdoors & Recreation,102.0,99.0,102.0,9
 2020-03-03,Georgia,Big Box Stores,112.0,108.0,112.0,10
-2020-03-03,Georgia,Airport,53.0,55.0,53.0,11
-2020-03-03,Georgia,Colleges & Universities,61.0,64.0,61.0,12
-2020-03-03,Georgia,Office,83.0,77.0,83.0,13
-2020-03-03,Georgia,Residences,97.0,88.0,97.0,14
+2020-03-03,Georgia,Airport,89.0,92.0,89.0,11
+2020-03-03,Georgia,Colleges & Universities,94.0,91.0,94.0,12
+2020-03-03,Georgia,Office,95.0,88.0,95.0,13
+2020-03-03,Georgia,Residences,99.0,89.0,99.0,14
 2020-03-03,Georgia,Convenience Store,102.0,99.0,102.0,15
-2020-03-03,Georgia,Government,72.0,72.0,72.0,16
+2020-03-03,Georgia,Government,102.0,104.0,102.0,16
 2020-03-03,Georgia,Discount Stores,106.0,92.0,106.0,17
-2020-03-03,Georgia,Arts & Entertainment,82.0,88.0,82.0,18
-2020-03-03,Georgia,Fitness Center,69.0,65.0,69.0,19
-2020-03-03,Georgia,Hotel,87.0,82.0,87.0,20
+2020-03-03,Georgia,Arts & Entertainment,109.0,111.0,109.0,18
+2020-03-03,Georgia,Fitness Center,99.0,94.0,100.0,19
+2020-03-03,Georgia,Hotel,99.0,97.0,99.0,20
 2020-03-03,Georgia,Drug Store,110.0,100.0,110.0,21
 2020-03-03,Georgia,Hardware Stores,105.0,91.0,105.0,22
-2020-03-03,Georgia,Nightlife Spots,54.0,55.0,54.0,23
+2020-03-03,Georgia,Nightlife Spots,103.0,101.0,103.0,23
 2020-03-03,Georgia,Banks,130.0,125.0,130.0,24
-2020-03-03,Georgia,Sports,35.0,38.0,35.0,25
-2020-03-03,Georgia,Travel & Transport,36.0,35.0,36.0,26
+2020-03-03,Georgia,Sports,102.0,94.0,103.0,25
+2020-03-03,Georgia,Travel & Transport,97.0,94.0,98.0,26
 2020-03-03,Georgia,Alcohol,113.0,111.0,113.0,27
 2020-03-03,Georgia,Metro Stations,94.0,92.0,94.0,28
-2020-03-03,Georgia,Bus,81.0,"",81.0,29
-2020-03-03,Georgia,Beach,98.0,130.0,95.0,30
-2020-03-03,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-03,Georgia,Bus,111.0,"",111.0,29
+2020-03-03,Georgia,Beach,101.0,134.0,99.0,30
+2020-03-03,Georgia,Spiritual Center,99.0,"",100.0,31
 2020-03-03,Georgia,Light Rail Stations,103.0,"",103.0,32
-2020-03-04,Georgia,Food,48.0,46.0,48.0,1
-2020-03-04,Georgia,Shops & Services,38.0,36.0,38.0,2
+2020-03-04,Georgia,Food,98.0,90.0,98.0,1
+2020-03-04,Georgia,Shops & Services,96.0,87.0,96.0,2
 2020-03-04,Georgia,Gas Stations,96.0,90.0,96.0,3
 2020-03-04,Georgia,Grocery,96.0,89.0,96.0,4
 2020-03-04,Georgia,Fast Food Restaurants,99.0,90.0,100.0,5
-2020-03-04,Georgia,Medical,52.0,51.0,52.0,6
-2020-03-04,Georgia,School,55.0,52.0,55.0,7
-2020-03-04,Georgia,Professional & Other Places,17.0,14.0,17.0,8
-2020-03-04,Georgia,Outdoors & Recreation,42.0,40.0,42.0,9
+2020-03-04,Georgia,Medical,94.0,93.0,94.0,6
+2020-03-04,Georgia,School,98.0,93.0,98.0,7
+2020-03-04,Georgia,Professional & Other Places,96.0,85.0,96.0,8
+2020-03-04,Georgia,Outdoors & Recreation,90.0,82.0,90.0,9
 2020-03-04,Georgia,Big Box Stores,97.0,87.0,97.0,10
-2020-03-04,Georgia,Airport,55.0,49.0,55.0,11
-2020-03-04,Georgia,Colleges & Universities,61.0,63.0,61.0,12
-2020-03-04,Georgia,Office,81.0,75.0,81.0,13
+2020-03-04,Georgia,Airport,91.0,83.0,92.0,11
+2020-03-04,Georgia,Colleges & Universities,90.0,85.0,90.0,12
+2020-03-04,Georgia,Office,92.0,86.0,93.0,13
 2020-03-04,Georgia,Residences,94.0,89.0,94.0,14
 2020-03-04,Georgia,Convenience Store,96.0,85.0,96.0,15
-2020-03-04,Georgia,Government,71.0,68.0,71.0,16
-2020-03-04,Georgia,Hotel,82.0,75.0,83.0,17
-2020-03-04,Georgia,Arts & Entertainment,65.0,64.0,65.0,18
+2020-03-04,Georgia,Government,101.0,99.0,101.0,16
+2020-03-04,Georgia,Hotel,93.0,88.0,94.0,17
+2020-03-04,Georgia,Arts & Entertainment,100.0,94.0,100.0,18
 2020-03-04,Georgia,Discount Stores,95.0,82.0,96.0,19
-2020-03-04,Georgia,Fitness Center,65.0,62.0,65.0,20
-2020-03-04,Georgia,Nightlife Spots,54.0,54.0,53.0,21
+2020-03-04,Georgia,Fitness Center,95.0,91.0,95.0,20
+2020-03-04,Georgia,Nightlife Spots,96.0,92.0,96.0,21
 2020-03-04,Georgia,Drug Store,99.0,93.0,99.0,22
 2020-03-04,Georgia,Hardware Stores,95.0,82.0,96.0,23
-2020-03-04,Georgia,Travel & Transport,36.0,29.0,36.0,24
-2020-03-04,Georgia,Sports,31.0,31.0,31.0,25
+2020-03-04,Georgia,Travel & Transport,96.0,77.0,97.0,24
+2020-03-04,Georgia,Sports,90.0,78.0,91.0,25
 2020-03-04,Georgia,Banks,106.0,93.0,107.0,26
 2020-03-04,Georgia,Alcohol,99.0,91.0,100.0,27
 2020-03-04,Georgia,Metro Stations,86.0,84.0,87.0,28
-2020-03-04,Georgia,Bus,77.0,"",77.0,29
-2020-03-04,Georgia,Spiritual Center,4.0,"",4.0,30
-2020-03-04,Georgia,Beach,74.0,"",76.0,31
+2020-03-04,Georgia,Bus,107.0,"",107.0,29
+2020-03-04,Georgia,Spiritual Center,86.0,"",87.0,30
+2020-03-04,Georgia,Beach,77.0,"",79.0,31
 2020-03-04,Georgia,Light Rail Stations,93.0,"",94.0,32
-2020-03-05,Georgia,Food,49.0,49.0,49.0,1
-2020-03-05,Georgia,Shops & Services,37.0,36.0,37.0,2
+2020-03-05,Georgia,Food,99.0,95.0,99.0,1
+2020-03-05,Georgia,Shops & Services,99.0,94.0,99.0,2
 2020-03-05,Georgia,Gas Stations,97.0,94.0,98.0,3
 2020-03-05,Georgia,Grocery,98.0,93.0,98.0,4
 2020-03-05,Georgia,Fast Food Restaurants,100.0,97.0,101.0,5
-2020-03-05,Georgia,School,56.0,55.0,56.0,6
-2020-03-05,Georgia,Medical,55.0,52.0,55.0,7
-2020-03-05,Georgia,Professional & Other Places,17.0,16.0,17.0,8
-2020-03-05,Georgia,Airport,55.0,53.0,55.0,9
+2020-03-05,Georgia,School,99.0,97.0,99.0,6
+2020-03-05,Georgia,Medical,99.0,95.0,99.0,7
+2020-03-05,Georgia,Professional & Other Places,100.0,98.0,100.0,8
+2020-03-05,Georgia,Airport,92.0,89.0,92.0,9
 2020-03-05,Georgia,Big Box Stores,98.0,100.0,98.0,10
-2020-03-05,Georgia,Outdoors & Recreation,43.0,44.0,43.0,11
-2020-03-05,Georgia,Colleges & Universities,61.0,64.0,61.0,12
-2020-03-05,Georgia,Office,83.0,81.0,83.0,13
-2020-03-05,Georgia,Residences,96.0,96.0,96.0,14
+2020-03-05,Georgia,Outdoors & Recreation,97.0,93.0,97.0,11
+2020-03-05,Georgia,Colleges & Universities,93.0,91.0,93.0,12
+2020-03-05,Georgia,Office,95.0,93.0,95.0,13
+2020-03-05,Georgia,Residences,98.0,97.0,98.0,14
 2020-03-05,Georgia,Convenience Store,98.0,90.0,99.0,15
-2020-03-05,Georgia,Hotel,84.0,83.0,84.0,16
+2020-03-05,Georgia,Hotel,95.0,97.0,95.0,16
 2020-03-05,Georgia,Discount Stores,97.0,85.0,97.0,17
-2020-03-05,Georgia,Government,71.0,68.0,71.0,18
-2020-03-05,Georgia,Arts & Entertainment,67.0,68.0,67.0,19
-2020-03-05,Georgia,Fitness Center,68.0,66.0,68.0,20
-2020-03-05,Georgia,Nightlife Spots,53.0,51.0,53.0,21
+2020-03-05,Georgia,Government,100.0,99.0,100.0,18
+2020-03-05,Georgia,Arts & Entertainment,101.0,95.0,102.0,19
+2020-03-05,Georgia,Fitness Center,98.0,95.0,98.0,20
+2020-03-05,Georgia,Nightlife Spots,100.0,92.0,100.0,21
 2020-03-05,Georgia,Drug Store,99.0,95.0,99.0,22
 2020-03-05,Georgia,Hardware Stores,100.0,102.0,100.0,23
-2020-03-05,Georgia,Travel & Transport,39.0,36.0,39.0,24
-2020-03-05,Georgia,Sports,32.0,35.0,31.0,25
+2020-03-05,Georgia,Travel & Transport,102.0,93.0,102.0,24
+2020-03-05,Georgia,Sports,94.0,92.0,94.0,25
 2020-03-05,Georgia,Banks,108.0,109.0,107.0,26
 2020-03-05,Georgia,Alcohol,106.0,93.0,107.0,27
 2020-03-05,Georgia,Metro Stations,89.0,93.0,88.0,28
-2020-03-05,Georgia,Bus,72.0,"",72.0,29
-2020-03-05,Georgia,Spiritual Center,5.0,"",5.0,30
-2020-03-05,Georgia,Beach,88.0,77.0,89.0,31
+2020-03-05,Georgia,Bus,99.0,"",99.0,29
+2020-03-05,Georgia,Spiritual Center,96.0,"",96.0,30
+2020-03-05,Georgia,Beach,91.0,79.0,92.0,31
 2020-03-05,Georgia,Light Rail Stations,96.0,"",96.0,32
-2020-03-06,Georgia,Food,47.0,47.0,47.0,1
-2020-03-06,Georgia,Shops & Services,37.0,38.0,37.0,2
+2020-03-06,Georgia,Food,101.0,97.0,101.0,1
+2020-03-06,Georgia,Shops & Services,103.0,101.0,103.0,2
 2020-03-06,Georgia,Gas Stations,100.0,100.0,100.0,3
 2020-03-06,Georgia,Grocery,95.0,96.0,94.0,4
 2020-03-06,Georgia,Fast Food Restaurants,102.0,98.0,103.0,5
-2020-03-06,Georgia,School,61.0,59.0,61.0,6
-2020-03-06,Georgia,Outdoors & Recreation,49.0,51.0,49.0,7
-2020-03-06,Georgia,Medical,56.0,54.0,56.0,8
-2020-03-06,Georgia,Professional & Other Places,19.0,17.0,19.0,9
+2020-03-06,Georgia,School,108.0,104.0,108.0,6
+2020-03-06,Georgia,Outdoors & Recreation,109.0,108.0,109.0,7
+2020-03-06,Georgia,Medical,102.0,97.0,102.0,8
+2020-03-06,Georgia,Professional & Other Places,101.0,95.0,101.0,9
 2020-03-06,Georgia,Big Box Stores,95.0,99.0,95.0,10
-2020-03-06,Georgia,Airport,51.0,45.0,52.0,11
-2020-03-06,Georgia,Residences,103.0,104.0,103.0,12
+2020-03-06,Georgia,Airport,87.0,77.0,87.0,11
+2020-03-06,Georgia,Residences,105.0,105.0,105.0,12
 2020-03-06,Georgia,Convenience Store,103.0,101.0,103.0,13
-2020-03-06,Georgia,Office,84.0,87.0,84.0,14
-2020-03-06,Georgia,Colleges & Universities,75.0,83.0,75.0,15
-2020-03-06,Georgia,Hotel,89.0,77.0,89.0,16
-2020-03-06,Georgia,Arts & Entertainment,68.0,66.0,68.0,17
-2020-03-06,Georgia,Nightlife Spots,59.0,63.0,59.0,18
+2020-03-06,Georgia,Office,97.0,100.0,97.0,14
+2020-03-06,Georgia,Colleges & Universities,96.0,103.0,96.0,15
+2020-03-06,Georgia,Hotel,102.0,91.0,102.0,16
+2020-03-06,Georgia,Arts & Entertainment,103.0,94.0,104.0,17
+2020-03-06,Georgia,Nightlife Spots,108.0,109.0,108.0,18
 2020-03-06,Georgia,Discount Stores,96.0,99.0,96.0,19
 2020-03-06,Georgia,Hardware Stores,110.0,108.0,110.0,20
-2020-03-06,Georgia,Government,74.0,75.0,73.0,21
-2020-03-06,Georgia,Fitness Center,70.0,70.0,70.0,22
+2020-03-06,Georgia,Government,104.0,108.0,104.0,21
+2020-03-06,Georgia,Fitness Center,101.0,102.0,101.0,22
 2020-03-06,Georgia,Drug Store,98.0,98.0,98.0,23
-2020-03-06,Georgia,Sports,40.0,45.0,40.0,24
-2020-03-06,Georgia,Travel & Transport,41.0,36.0,41.0,25
+2020-03-06,Georgia,Sports,111.0,112.0,111.0,24
+2020-03-06,Georgia,Travel & Transport,102.0,89.0,102.0,25
 2020-03-06,Georgia,Banks,104.0,108.0,104.0,26
 2020-03-06,Georgia,Alcohol,105.0,102.0,105.0,27
 2020-03-06,Georgia,Metro Stations,92.0,85.0,92.0,28
-2020-03-06,Georgia,Bus,78.0,"",79.0,29
-2020-03-06,Georgia,Beach,104.0,105.0,104.0,30
-2020-03-06,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-06,Georgia,Bus,108.0,"",108.0,29
+2020-03-06,Georgia,Beach,108.0,109.0,108.0,30
+2020-03-06,Georgia,Spiritual Center,100.0,"",101.0,31
 2020-03-06,Georgia,Light Rail Stations,115.0,"",114.0,32
-2020-03-07,Georgia,Food,48.0,46.0,48.0,1
-2020-03-07,Georgia,Shops & Services,41.0,39.0,41.0,2
+2020-03-07,Georgia,Food,102.0,96.0,103.0,1
+2020-03-07,Georgia,Shops & Services,106.0,100.0,106.0,2
 2020-03-07,Georgia,Gas Stations,108.0,100.0,108.0,3
 2020-03-07,Georgia,Grocery,98.0,95.0,98.0,4
 2020-03-07,Georgia,Fast Food Restaurants,108.0,102.0,108.0,5
-2020-03-07,Georgia,Outdoors & Recreation,59.0,60.0,59.0,6
+2020-03-07,Georgia,Outdoors & Recreation,121.0,119.0,121.0,6
 2020-03-07,Georgia,Big Box Stores,100.0,99.0,100.0,7
-2020-03-07,Georgia,Arts & Entertainment,74.0,67.0,74.0,8
-2020-03-07,Georgia,Professional & Other Places,25.0,23.0,25.0,9
-2020-03-07,Georgia,Residences,106.0,112.0,106.0,10
-2020-03-07,Georgia,Airport,52.0,46.0,52.0,11
-2020-03-07,Georgia,Nightlife Spots,55.0,57.0,55.0,12
-2020-03-07,Georgia,School,65.0,68.0,65.0,13
-2020-03-07,Georgia,Hotel,93.0,76.0,93.0,14
+2020-03-07,Georgia,Arts & Entertainment,120.0,105.0,120.0,8
+2020-03-07,Georgia,Professional & Other Places,105.0,102.0,105.0,9
+2020-03-07,Georgia,Residences,108.0,114.0,108.0,10
+2020-03-07,Georgia,Airport,88.0,78.0,88.0,11
+2020-03-07,Georgia,Nightlife Spots,108.0,108.0,108.0,12
+2020-03-07,Georgia,School,113.0,117.0,113.0,13
+2020-03-07,Georgia,Hotel,106.0,88.0,106.0,14
 2020-03-07,Georgia,Convenience Store,103.0,107.0,103.0,15
 2020-03-07,Georgia,Discount Stores,102.0,103.0,102.0,16
 2020-03-07,Georgia,Hardware Stores,120.0,117.0,120.0,17
-2020-03-07,Georgia,Medical,58.0,59.0,58.0,18
-2020-03-07,Georgia,Sports,52.0,53.0,52.0,19
+2020-03-07,Georgia,Medical,105.0,105.0,105.0,18
+2020-03-07,Georgia,Sports,130.0,122.0,130.0,19
 2020-03-07,Georgia,Drug Store,107.0,100.0,107.0,20
-2020-03-07,Georgia,Fitness Center,67.0,65.0,67.0,21
-2020-03-07,Georgia,Colleges & Universities,77.0,76.0,77.0,22
-2020-03-07,Georgia,Travel & Transport,39.0,36.0,39.0,23
-2020-03-07,Georgia,Office,94.0,97.0,94.0,24
-2020-03-07,Georgia,Government,81.0,73.0,81.0,25
+2020-03-07,Georgia,Fitness Center,97.0,94.0,97.0,21
+2020-03-07,Georgia,Colleges & Universities,97.0,94.0,97.0,22
+2020-03-07,Georgia,Travel & Transport,104.0,97.0,105.0,23
+2020-03-07,Georgia,Office,111.0,114.0,111.0,24
+2020-03-07,Georgia,Government,117.0,111.0,117.0,25
 2020-03-07,Georgia,Alcohol,109.0,108.0,109.0,26
 2020-03-07,Georgia,Banks,88.0,91.0,88.0,27
 2020-03-07,Georgia,Metro Stations,109.0,"",109.0,28
-2020-03-07,Georgia,Bus,87.0,"",87.0,29
-2020-03-07,Georgia,Beach,101.0,95.0,102.0,30
-2020-03-07,Georgia,Spiritual Center,6.0,"",6.0,31
+2020-03-07,Georgia,Bus,119.0,"",119.0,29
+2020-03-07,Georgia,Beach,107.0,101.0,107.0,30
+2020-03-07,Georgia,Spiritual Center,105.0,"",106.0,31
 2020-03-07,Georgia,Light Rail Stations,113.0,"",113.0,32
-2020-03-08,Georgia,Food,54.0,53.0,54.0,1
-2020-03-08,Georgia,Shops & Services,44.0,40.0,44.0,2
+2020-03-08,Georgia,Food,109.0,101.0,109.0,1
+2020-03-08,Georgia,Shops & Services,110.0,99.0,110.0,2
 2020-03-08,Georgia,Grocery,99.0,94.0,99.0,3
 2020-03-08,Georgia,Gas Stations,110.0,106.0,110.0,4
-2020-03-08,Georgia,Outdoors & Recreation,60.0,57.0,60.0,5
+2020-03-08,Georgia,Outdoors & Recreation,123.0,114.0,123.0,5
 2020-03-08,Georgia,Fast Food Restaurants,115.0,110.0,115.0,6
 2020-03-08,Georgia,Big Box Stores,105.0,101.0,105.0,7
-2020-03-08,Georgia,Airport,59.0,46.0,60.0,8
-2020-03-08,Georgia,Arts & Entertainment,90.0,76.0,90.0,9
+2020-03-08,Georgia,Airport,100.0,79.0,101.0,8
+2020-03-08,Georgia,Arts & Entertainment,125.0,104.0,126.0,9
 2020-03-08,Georgia,Residences,107.0,112.0,107.0,10
-2020-03-08,Georgia,Professional & Other Places,21.0,15.0,21.0,11
-2020-03-08,Georgia,Nightlife Spots,55.0,60.0,55.0,12
-2020-03-08,Georgia,Hotel,100.0,94.0,100.0,13
+2020-03-08,Georgia,Professional & Other Places,108.0,96.0,108.0,11
+2020-03-08,Georgia,Nightlife Spots,110.0,116.0,110.0,12
+2020-03-08,Georgia,Hotel,114.0,110.0,114.0,13
 2020-03-08,Georgia,Convenience Store,109.0,107.0,109.0,14
 2020-03-08,Georgia,Discount Stores,106.0,98.0,106.0,15
-2020-03-08,Georgia,School,68.0,65.0,68.0,16
+2020-03-08,Georgia,School,116.0,111.0,116.0,16
 2020-03-08,Georgia,Hardware Stores,122.0,118.0,122.0,17
-2020-03-08,Georgia,Medical,59.0,56.0,59.0,18
-2020-03-08,Georgia,Sports,51.0,58.0,51.0,19
+2020-03-08,Georgia,Medical,105.0,99.0,105.0,18
+2020-03-08,Georgia,Sports,121.0,124.0,121.0,19
 2020-03-08,Georgia,Drug Store,110.0,98.0,110.0,20
-2020-03-08,Georgia,Travel & Transport,45.0,49.0,44.0,21
-2020-03-08,Georgia,Fitness Center,70.0,63.0,71.0,22
-2020-03-08,Georgia,Colleges & Universities,87.0,101.0,87.0,23
-2020-03-08,Georgia,Office,95.0,87.0,95.0,24
-2020-03-08,Georgia,Government,84.0,74.0,84.0,25
+2020-03-08,Georgia,Travel & Transport,116.0,127.0,116.0,21
+2020-03-08,Georgia,Fitness Center,101.0,92.0,101.0,22
+2020-03-08,Georgia,Colleges & Universities,108.0,124.0,107.0,23
+2020-03-08,Georgia,Office,112.0,103.0,112.0,24
+2020-03-08,Georgia,Government,119.0,106.0,119.0,25
 2020-03-08,Georgia,Alcohol,107.0,104.0,107.0,26
 2020-03-08,Georgia,Banks,91.0,87.0,91.0,27
 2020-03-08,Georgia,Metro Stations,121.0,"",122.0,28
-2020-03-08,Georgia,Spiritual Center,4.0,"",4.0,29
-2020-03-08,Georgia,Bus,108.0,"",107.0,30
-2020-03-08,Georgia,Beach,109.0,81.0,111.0,31
-2020-03-09,Georgia,Food,51.0,51.0,51.0,1
-2020-03-09,Georgia,Shops & Services,41.0,40.0,41.0,2
+2020-03-08,Georgia,Spiritual Center,119.0,"",120.0,29
+2020-03-08,Georgia,Bus,144.0,"",142.0,30
+2020-03-08,Georgia,Beach,115.0,84.0,116.0,31
+2020-03-09,Georgia,Food,106.0,102.0,106.0,1
+2020-03-09,Georgia,Shops & Services,109.0,101.0,109.0,2
 2020-03-09,Georgia,Gas Stations,105.0,102.0,105.0,3
 2020-03-09,Georgia,Grocery,106.0,102.0,106.0,4
 2020-03-09,Georgia,Fast Food Restaurants,108.0,101.0,108.0,5
-2020-03-09,Georgia,Medical,56.0,54.0,56.0,6
-2020-03-09,Georgia,School,67.0,68.0,67.0,7
-2020-03-09,Georgia,Outdoors & Recreation,55.0,55.0,55.0,8
-2020-03-09,Georgia,Professional & Other Places,20.0,18.0,20.0,9
-2020-03-09,Georgia,Airport,51.0,52.0,51.0,10
+2020-03-09,Georgia,Medical,102.0,97.0,102.0,6
+2020-03-09,Georgia,School,118.0,120.0,118.0,7
+2020-03-09,Georgia,Outdoors & Recreation,120.0,118.0,120.0,8
+2020-03-09,Georgia,Professional & Other Places,109.0,109.0,109.0,9
+2020-03-09,Georgia,Airport,87.0,87.0,87.0,10
 2020-03-09,Georgia,Big Box Stores,106.0,96.0,106.0,11
 2020-03-09,Georgia,Residences,110.0,114.0,110.0,12
-2020-03-09,Georgia,Office,86.0,82.0,86.0,13
-2020-03-09,Georgia,Colleges & Universities,59.0,73.0,59.0,14
+2020-03-09,Georgia,Office,98.0,95.0,99.0,13
+2020-03-09,Georgia,Colleges & Universities,89.0,101.0,89.0,14
 2020-03-09,Georgia,Convenience Store,104.0,105.0,104.0,15
-2020-03-09,Georgia,Hotel,94.0,83.0,94.0,16
-2020-03-09,Georgia,Arts & Entertainment,77.0,79.0,77.0,17
+2020-03-09,Georgia,Hotel,109.0,99.0,109.0,16
+2020-03-09,Georgia,Arts & Entertainment,114.0,110.0,115.0,17
 2020-03-09,Georgia,Discount Stores,106.0,97.0,106.0,18
-2020-03-09,Georgia,Government,77.0,75.0,77.0,19
-2020-03-09,Georgia,Fitness Center,72.0,64.0,72.0,20
+2020-03-09,Georgia,Government,110.0,110.0,110.0,19
+2020-03-09,Georgia,Fitness Center,104.0,92.0,104.0,20
 2020-03-09,Georgia,Hardware Stores,116.0,112.0,116.0,21
-2020-03-09,Georgia,Nightlife Spots,58.0,62.0,58.0,22
+2020-03-09,Georgia,Nightlife Spots,109.0,111.0,109.0,22
 2020-03-09,Georgia,Drug Store,113.0,101.0,114.0,23
-2020-03-09,Georgia,Sports,46.0,46.0,46.0,24
-2020-03-09,Georgia,Travel & Transport,41.0,40.0,41.0,25
+2020-03-09,Georgia,Sports,134.0,118.0,135.0,24
+2020-03-09,Georgia,Travel & Transport,104.0,102.0,105.0,25
 2020-03-09,Georgia,Banks,119.0,123.0,118.0,26
 2020-03-09,Georgia,Alcohol,116.0,117.0,116.0,27
 2020-03-09,Georgia,Metro Stations,104.0,126.0,104.0,28
-2020-03-09,Georgia,Bus,70.0,"",71.0,29
-2020-03-09,Georgia,Beach,110.0,85.0,112.0,30
-2020-03-09,Georgia,Spiritual Center,6.0,"",6.0,31
+2020-03-09,Georgia,Bus,96.0,"",96.0,29
+2020-03-09,Georgia,Beach,115.0,90.0,117.0,30
+2020-03-09,Georgia,Spiritual Center,132.0,"",133.0,31
 2020-03-09,Georgia,Light Rail Stations,109.0,"",110.0,32
-2020-03-10,Georgia,Food,48.0,46.0,48.0,1
-2020-03-10,Georgia,Shops & Services,38.0,38.0,38.0,2
+2020-03-10,Georgia,Food,100.0,94.0,100.0,1
+2020-03-10,Georgia,Shops & Services,103.0,96.0,103.0,2
 2020-03-10,Georgia,Gas Stations,102.0,100.0,102.0,3
 2020-03-10,Georgia,Grocery,102.0,98.0,102.0,4
 2020-03-10,Georgia,Fast Food Restaurants,101.0,95.0,101.0,5
-2020-03-10,Georgia,Medical,54.0,51.0,54.0,6
-2020-03-10,Georgia,School,58.0,57.0,58.0,7
-2020-03-10,Georgia,Outdoors & Recreation,50.0,49.0,50.0,8
-2020-03-10,Georgia,Professional & Other Places,18.0,16.0,18.0,9
+2020-03-10,Georgia,Medical,97.0,92.0,98.0,6
+2020-03-10,Georgia,School,104.0,101.0,104.0,7
+2020-03-10,Georgia,Outdoors & Recreation,110.0,104.0,111.0,8
+2020-03-10,Georgia,Professional & Other Places,100.0,96.0,100.0,9
 2020-03-10,Georgia,Big Box Stores,103.0,96.0,103.0,10
-2020-03-10,Georgia,Airport,47.0,50.0,47.0,11
-2020-03-10,Georgia,Office,81.0,77.0,81.0,12
+2020-03-10,Georgia,Airport,79.0,84.0,79.0,11
+2020-03-10,Georgia,Office,93.0,88.0,93.0,12
 2020-03-10,Georgia,Residences,103.0,101.0,103.0,13
-2020-03-10,Georgia,Colleges & Universities,56.0,65.0,56.0,14
+2020-03-10,Georgia,Colleges & Universities,83.0,89.0,83.0,14
 2020-03-10,Georgia,Convenience Store,101.0,104.0,100.0,15
 2020-03-10,Georgia,Discount Stores,103.0,96.0,104.0,16
-2020-03-10,Georgia,Government,70.0,66.0,70.0,17
-2020-03-10,Georgia,Hotel,87.0,81.0,88.0,18
-2020-03-10,Georgia,Arts & Entertainment,70.0,74.0,70.0,19
-2020-03-10,Georgia,Fitness Center,64.0,61.0,64.0,20
-2020-03-10,Georgia,Nightlife Spots,57.0,57.0,57.0,21
+2020-03-10,Georgia,Government,98.0,95.0,98.0,17
+2020-03-10,Georgia,Hotel,100.0,96.0,100.0,18
+2020-03-10,Georgia,Arts & Entertainment,107.0,107.0,107.0,19
+2020-03-10,Georgia,Fitness Center,93.0,89.0,93.0,20
+2020-03-10,Georgia,Nightlife Spots,109.0,106.0,109.0,21
 2020-03-10,Georgia,Hardware Stores,107.0,98.0,108.0,22
 2020-03-10,Georgia,Drug Store,103.0,95.0,104.0,23
-2020-03-10,Georgia,Sports,40.0,41.0,40.0,24
-2020-03-10,Georgia,Travel & Transport,38.0,41.0,38.0,25
+2020-03-10,Georgia,Sports,120.0,104.0,120.0,24
+2020-03-10,Georgia,Travel & Transport,99.0,104.0,99.0,25
 2020-03-10,Georgia,Banks,95.0,99.0,95.0,26
 2020-03-10,Georgia,Alcohol,108.0,94.0,109.0,27
 2020-03-10,Georgia,Metro Stations,91.0,89.0,91.0,28
-2020-03-10,Georgia,Bus,72.0,"",72.0,29
-2020-03-10,Georgia,Beach,109.0,79.0,112.0,30
-2020-03-10,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-10,Georgia,Bus,99.0,"",99.0,29
+2020-03-10,Georgia,Beach,114.0,81.0,116.0,30
+2020-03-10,Georgia,Spiritual Center,111.0,"",111.0,31
 2020-03-10,Georgia,Light Rail Stations,107.0,"",108.0,32
-2020-03-11,Georgia,Food,47.0,46.0,47.0,1
-2020-03-11,Georgia,Shops & Services,40.0,39.0,40.0,2
+2020-03-11,Georgia,Food,101.0,95.0,101.0,1
+2020-03-11,Georgia,Shops & Services,102.0,93.0,102.0,2
 2020-03-11,Georgia,Gas Stations,102.0,99.0,102.0,3
 2020-03-11,Georgia,Grocery,100.0,95.0,100.0,4
 2020-03-11,Georgia,Fast Food Restaurants,99.0,95.0,99.0,5
-2020-03-11,Georgia,Medical,53.0,51.0,53.0,6
-2020-03-11,Georgia,School,55.0,55.0,55.0,7
-2020-03-11,Georgia,Outdoors & Recreation,52.0,52.0,52.0,8
-2020-03-11,Georgia,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-11,Georgia,Medical,96.0,92.0,96.0,6
+2020-03-11,Georgia,School,98.0,96.0,98.0,7
+2020-03-11,Georgia,Outdoors & Recreation,116.0,110.0,116.0,8
+2020-03-11,Georgia,Professional & Other Places,99.0,95.0,99.0,9
 2020-03-11,Georgia,Big Box Stores,99.0,91.0,99.0,10
-2020-03-11,Georgia,Airport,49.0,42.0,49.0,11
-2020-03-11,Georgia,Residences,101.0,99.0,101.0,12
-2020-03-11,Georgia,Office,79.0,77.0,79.0,13
-2020-03-11,Georgia,Colleges & Universities,53.0,59.0,53.0,14
+2020-03-11,Georgia,Airport,81.0,71.0,82.0,11
+2020-03-11,Georgia,Residences,103.0,100.0,104.0,12
+2020-03-11,Georgia,Office,91.0,88.0,91.0,13
+2020-03-11,Georgia,Colleges & Universities,84.0,86.0,84.0,14
 2020-03-11,Georgia,Convenience Store,98.0,98.0,98.0,15
 2020-03-11,Georgia,Discount Stores,102.0,97.0,102.0,16
-2020-03-11,Georgia,Government,74.0,71.0,74.0,17
-2020-03-11,Georgia,Arts & Entertainment,69.0,69.0,69.0,18
-2020-03-11,Georgia,Hotel,86.0,78.0,87.0,19
-2020-03-11,Georgia,Nightlife Spots,62.0,64.0,62.0,20
-2020-03-11,Georgia,Fitness Center,64.0,62.0,64.0,21
+2020-03-11,Georgia,Government,104.0,103.0,104.0,17
+2020-03-11,Georgia,Arts & Entertainment,105.0,101.0,105.0,18
+2020-03-11,Georgia,Hotel,98.0,92.0,98.0,19
+2020-03-11,Georgia,Nightlife Spots,105.0,106.0,105.0,20
+2020-03-11,Georgia,Fitness Center,93.0,90.0,93.0,21
 2020-03-11,Georgia,Hardware Stores,104.0,109.0,104.0,22
-2020-03-11,Georgia,Sports,41.0,46.0,41.0,23
+2020-03-11,Georgia,Sports,122.0,117.0,122.0,23
 2020-03-11,Georgia,Drug Store,98.0,98.0,98.0,24
-2020-03-11,Georgia,Travel & Transport,39.0,40.0,39.0,25
+2020-03-11,Georgia,Travel & Transport,104.0,105.0,104.0,25
 2020-03-11,Georgia,Banks,98.0,98.0,98.0,26
 2020-03-11,Georgia,Alcohol,106.0,83.0,107.0,27
 2020-03-11,Georgia,Metro Stations,84.0,"",84.0,28
-2020-03-11,Georgia,Bus,69.0,"",69.0,29
-2020-03-11,Georgia,Beach,129.0,100.0,131.0,30
-2020-03-11,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-11,Georgia,Bus,96.0,"",96.0,29
+2020-03-11,Georgia,Beach,134.0,105.0,136.0,30
+2020-03-11,Georgia,Spiritual Center,109.0,"",110.0,31
 2020-03-11,Georgia,Light Rail Stations,118.0,"",119.0,32
-2020-03-12,Georgia,Food,49.0,49.0,49.0,1
-2020-03-12,Georgia,Shops & Services,42.0,44.0,42.0,2
+2020-03-12,Georgia,Food,101.0,98.0,102.0,1
+2020-03-12,Georgia,Shops & Services,111.0,110.0,111.0,2
 2020-03-12,Georgia,Grocery,126.0,126.0,126.0,3
 2020-03-12,Georgia,Gas Stations,108.0,104.0,108.0,4
 2020-03-12,Georgia,Fast Food Restaurants,104.0,103.0,104.0,5
-2020-03-12,Georgia,School,59.0,58.0,59.0,6
-2020-03-12,Georgia,Medical,55.0,52.0,55.0,7
-2020-03-12,Georgia,Outdoors & Recreation,56.0,59.0,56.0,8
+2020-03-12,Georgia,School,105.0,103.0,105.0,6
+2020-03-12,Georgia,Medical,100.0,95.0,100.0,7
+2020-03-12,Georgia,Outdoors & Recreation,126.0,126.0,126.0,8
 2020-03-12,Georgia,Big Box Stores,116.0,123.0,116.0,9
-2020-03-12,Georgia,Professional & Other Places,18.0,18.0,18.0,10
-2020-03-12,Georgia,Airport,45.0,40.0,45.0,11
-2020-03-12,Georgia,Residences,108.0,114.0,108.0,12
-2020-03-12,Georgia,Office,81.0,83.0,81.0,13
-2020-03-12,Georgia,Colleges & Universities,57.0,68.0,57.0,14
+2020-03-12,Georgia,Professional & Other Places,103.0,106.0,103.0,10
+2020-03-12,Georgia,Airport,76.0,68.0,76.0,11
+2020-03-12,Georgia,Residences,110.0,116.0,110.0,12
+2020-03-12,Georgia,Office,93.0,95.0,93.0,13
+2020-03-12,Georgia,Colleges & Universities,85.0,95.0,85.0,14
 2020-03-12,Georgia,Convenience Store,106.0,99.0,106.0,15
 2020-03-12,Georgia,Discount Stores,119.0,115.0,119.0,16
-2020-03-12,Georgia,Arts & Entertainment,71.0,66.0,71.0,17
-2020-03-12,Georgia,Hotel,86.0,77.0,86.0,18
-2020-03-12,Georgia,Government,72.0,68.0,72.0,19
-2020-03-12,Georgia,Nightlife Spots,58.0,59.0,58.0,20
+2020-03-12,Georgia,Arts & Entertainment,109.0,95.0,109.0,17
+2020-03-12,Georgia,Hotel,98.0,90.0,98.0,18
+2020-03-12,Georgia,Government,102.0,98.0,102.0,19
+2020-03-12,Georgia,Nightlife Spots,110.0,108.0,110.0,20
 2020-03-12,Georgia,Drug Store,120.0,118.0,120.0,21
 2020-03-12,Georgia,Hardware Stores,118.0,132.0,118.0,22
-2020-03-12,Georgia,Fitness Center,63.0,58.0,63.0,23
-2020-03-12,Georgia,Sports,44.0,53.0,44.0,24
-2020-03-12,Georgia,Travel & Transport,40.0,38.0,40.0,25
+2020-03-12,Georgia,Fitness Center,91.0,85.0,91.0,23
+2020-03-12,Georgia,Sports,132.0,137.0,132.0,24
+2020-03-12,Georgia,Travel & Transport,107.0,103.0,107.0,25
 2020-03-12,Georgia,Banks,109.0,114.0,108.0,26
 2020-03-12,Georgia,Alcohol,123.0,121.0,123.0,27
 2020-03-12,Georgia,Metro Stations,85.0,81.0,85.0,28
-2020-03-12,Georgia,Bus,72.0,"",73.0,29
-2020-03-12,Georgia,Beach,141.0,117.0,143.0,30
-2020-03-12,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-12,Georgia,Bus,100.0,"",100.0,29
+2020-03-12,Georgia,Beach,145.0,119.0,147.0,30
+2020-03-12,Georgia,Spiritual Center,105.0,"",106.0,31
 2020-03-12,Georgia,Light Rail Stations,101.0,"",102.0,32
-2020-03-13,Georgia,Food,47.0,42.0,47.0,1
-2020-03-13,Georgia,Shops & Services,40.0,35.0,41.0,2
+2020-03-13,Georgia,Food,99.0,85.0,99.0,1
+2020-03-13,Georgia,Shops & Services,104.0,88.0,105.0,2
 2020-03-13,Georgia,Grocery,146.0,126.0,147.0,3
 2020-03-13,Georgia,Gas Stations,109.0,100.0,110.0,4
 2020-03-13,Georgia,Fast Food Restaurants,103.0,94.0,103.0,5
 2020-03-13,Georgia,Big Box Stores,125.0,104.0,126.0,6
-2020-03-13,Georgia,Outdoors & Recreation,54.0,52.0,54.0,7
-2020-03-13,Georgia,Medical,54.0,48.0,54.0,8
-2020-03-13,Georgia,School,50.0,46.0,50.0,9
-2020-03-13,Georgia,Professional & Other Places,18.0,15.0,18.0,10
-2020-03-13,Georgia,Airport,42.0,33.0,42.0,11
+2020-03-13,Georgia,Outdoors & Recreation,114.0,107.0,115.0,7
+2020-03-13,Georgia,Medical,98.0,86.0,98.0,8
+2020-03-13,Georgia,School,89.0,82.0,89.0,9
+2020-03-13,Georgia,Professional & Other Places,96.0,85.0,96.0,10
+2020-03-13,Georgia,Airport,70.0,56.0,70.0,11
 2020-03-13,Georgia,Discount Stores,133.0,118.0,133.0,12
-2020-03-13,Georgia,Residences,102.0,96.0,102.0,13
+2020-03-13,Georgia,Residences,104.0,98.0,104.0,13
 2020-03-13,Georgia,Convenience Store,106.0,94.0,106.0,14
-2020-03-13,Georgia,Office,79.0,76.0,79.0,15
+2020-03-13,Georgia,Office,91.0,87.0,91.0,15
 2020-03-13,Georgia,Drug Store,132.0,114.0,132.0,16
-2020-03-13,Georgia,Nightlife Spots,53.0,48.0,53.0,17
-2020-03-13,Georgia,Hotel,82.0,66.0,83.0,18
+2020-03-13,Georgia,Nightlife Spots,104.0,88.0,104.0,17
+2020-03-13,Georgia,Hotel,94.0,78.0,95.0,18
 2020-03-13,Georgia,Hardware Stores,119.0,101.0,120.0,19
-2020-03-13,Georgia,Arts & Entertainment,70.0,62.0,70.0,20
-2020-03-13,Georgia,Government,71.0,66.0,71.0,21
-2020-03-13,Georgia,Colleges & Universities,60.0,68.0,60.0,22
-2020-03-13,Georgia,Fitness Center,61.0,49.0,61.0,23
-2020-03-13,Georgia,Travel & Transport,42.0,38.0,42.0,24
-2020-03-13,Georgia,Sports,39.0,42.0,38.0,25
+2020-03-13,Georgia,Arts & Entertainment,94.0,81.0,95.0,20
+2020-03-13,Georgia,Government,101.0,95.0,101.0,21
+2020-03-13,Georgia,Colleges & Universities,75.0,83.0,75.0,22
+2020-03-13,Georgia,Fitness Center,88.0,72.0,89.0,23
+2020-03-13,Georgia,Travel & Transport,104.0,92.0,104.0,24
+2020-03-13,Georgia,Sports,108.0,104.0,108.0,25
 2020-03-13,Georgia,Banks,103.0,93.0,103.0,26
 2020-03-13,Georgia,Alcohol,130.0,112.0,131.0,27
 2020-03-13,Georgia,Metro Stations,74.0,72.0,75.0,28
-2020-03-13,Georgia,Bus,68.0,"",68.0,29
-2020-03-13,Georgia,Beach,150.0,90.0,155.0,30
-2020-03-13,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-13,Georgia,Bus,94.0,"",94.0,29
+2020-03-13,Georgia,Beach,157.0,93.0,162.0,30
+2020-03-13,Georgia,Spiritual Center,100.0,"",102.0,31
 2020-03-13,Georgia,Light Rail Stations,111.0,"",112.0,32
-2020-03-14,Georgia,Food,40.0,37.0,41.0,1
-2020-03-14,Georgia,Shops & Services,37.0,33.0,37.0,2
+2020-03-14,Georgia,Food,85.0,75.0,86.0,1
+2020-03-14,Georgia,Shops & Services,91.0,82.0,92.0,2
 2020-03-14,Georgia,Grocery,117.0,106.0,117.0,3
 2020-03-14,Georgia,Gas Stations,105.0,97.0,105.0,4
-2020-03-14,Georgia,Outdoors & Recreation,57.0,57.0,57.0,5
+2020-03-14,Georgia,Outdoors & Recreation,116.0,112.0,116.0,5
 2020-03-14,Georgia,Fast Food Restaurants,89.0,84.0,90.0,6
 2020-03-14,Georgia,Big Box Stores,101.0,93.0,101.0,7
-2020-03-14,Georgia,Residences,98.0,92.0,98.0,8
-2020-03-14,Georgia,Professional & Other Places,20.0,18.0,20.0,9
+2020-03-14,Georgia,Residences,100.0,94.0,100.0,8
+2020-03-14,Georgia,Professional & Other Places,85.0,81.0,85.0,9
 2020-03-14,Georgia,Discount Stores,111.0,97.0,112.0,10
 2020-03-14,Georgia,Hardware Stores,125.0,117.0,126.0,11
-2020-03-14,Georgia,Nightlife Spots,50.0,49.0,50.0,12
+2020-03-14,Georgia,Nightlife Spots,95.0,89.0,95.0,12
 2020-03-14,Georgia,Convenience Store,100.0,92.0,100.0,13
-2020-03-14,Georgia,Airport,42.0,35.0,43.0,14
-2020-03-14,Georgia,Arts & Entertainment,55.0,53.0,55.0,15
-2020-03-14,Georgia,Hotel,74.0,60.0,75.0,16
-2020-03-14,Georgia,School,49.0,48.0,49.0,17
-2020-03-14,Georgia,Medical,52.0,47.0,52.0,18
+2020-03-14,Georgia,Airport,71.0,59.0,72.0,14
+2020-03-14,Georgia,Arts & Entertainment,73.0,71.0,73.0,15
+2020-03-14,Georgia,Hotel,85.0,70.0,85.0,16
+2020-03-14,Georgia,School,85.0,82.0,85.0,17
+2020-03-14,Georgia,Medical,94.0,84.0,94.0,18
 2020-03-14,Georgia,Drug Store,114.0,102.0,114.0,19
-2020-03-14,Georgia,Sports,36.0,44.0,36.0,20
-2020-03-14,Georgia,Travel & Transport,40.0,36.0,40.0,21
-2020-03-14,Georgia,Fitness Center,55.0,49.0,55.0,22
-2020-03-14,Georgia,Office,83.0,83.0,83.0,23
-2020-03-14,Georgia,Colleges & Universities,55.0,53.0,55.0,24
+2020-03-14,Georgia,Sports,92.0,102.0,92.0,20
+2020-03-14,Georgia,Travel & Transport,108.0,97.0,109.0,21
+2020-03-14,Georgia,Fitness Center,79.0,71.0,80.0,22
+2020-03-14,Georgia,Office,98.0,98.0,98.0,23
+2020-03-14,Georgia,Colleges & Universities,68.0,65.0,69.0,24
 2020-03-14,Georgia,Alcohol,111.0,93.0,112.0,25
-2020-03-14,Georgia,Government,73.0,65.0,73.0,26
+2020-03-14,Georgia,Government,104.0,98.0,104.0,26
 2020-03-14,Georgia,Banks,83.0,83.0,83.0,27
 2020-03-14,Georgia,Metro Stations,74.0,"",74.0,28
-2020-03-14,Georgia,Beach,171.0,109.0,175.0,29
-2020-03-14,Georgia,Bus,72.0,"",71.0,30
-2020-03-14,Georgia,Spiritual Center,5.0,"",5.0,31
+2020-03-14,Georgia,Beach,181.0,117.0,185.0,29
+2020-03-14,Georgia,Bus,98.0,"",97.0,30
+2020-03-14,Georgia,Spiritual Center,86.0,"",87.0,31
 2020-03-14,Georgia,Light Rail Stations,109.0,"",109.0,32
-2020-03-15,Georgia,Food,39.0,34.0,40.0,1
-2020-03-15,Georgia,Shops & Services,30.0,26.0,30.0,2
+2020-03-15,Georgia,Food,79.0,65.0,79.0,1
+2020-03-15,Georgia,Shops & Services,81.0,70.0,81.0,2
 2020-03-15,Georgia,Grocery,100.0,95.0,100.0,3
 2020-03-15,Georgia,Gas Stations,96.0,91.0,96.0,4
 2020-03-15,Georgia,Big Box Stores,96.0,85.0,96.0,5
-2020-03-15,Georgia,Outdoors & Recreation,46.0,42.0,46.0,6
+2020-03-15,Georgia,Outdoors & Recreation,94.0,86.0,95.0,6
 2020-03-15,Georgia,Fast Food Restaurants,86.0,77.0,86.0,7
-2020-03-15,Georgia,Residences,90.0,77.0,90.0,8
-2020-03-15,Georgia,Airport,40.0,29.0,41.0,9
+2020-03-15,Georgia,Residences,92.0,79.0,92.0,8
+2020-03-15,Georgia,Airport,68.0,49.0,69.0,9
 2020-03-15,Georgia,Discount Stores,106.0,93.0,106.0,10
-2020-03-15,Georgia,Nightlife Spots,43.0,40.0,43.0,11
+2020-03-15,Georgia,Nightlife Spots,85.0,76.0,85.0,11
 2020-03-15,Georgia,Convenience Store,93.0,86.0,93.0,12
-2020-03-15,Georgia,Professional & Other Places,15.0,10.0,15.0,13
+2020-03-15,Georgia,Professional & Other Places,76.0,62.0,76.0,13
 2020-03-15,Georgia,Hardware Stores,118.0,110.0,118.0,14
-2020-03-15,Georgia,Hotel,73.0,64.0,74.0,15
-2020-03-15,Georgia,School,52.0,41.0,52.0,16
-2020-03-15,Georgia,Arts & Entertainment,50.0,38.0,50.0,17
-2020-03-15,Georgia,Medical,51.0,40.0,51.0,18
+2020-03-15,Georgia,Hotel,84.0,76.0,84.0,15
+2020-03-15,Georgia,School,89.0,71.0,89.0,16
+2020-03-15,Georgia,Arts & Entertainment,66.0,50.0,66.0,17
+2020-03-15,Georgia,Medical,89.0,69.0,90.0,18
 2020-03-15,Georgia,Drug Store,108.0,86.0,109.0,19
-2020-03-15,Georgia,Sports,35.0,40.0,34.0,20
-2020-03-15,Georgia,Travel & Transport,37.0,38.0,37.0,21
-2020-03-15,Georgia,Fitness Center,54.0,43.0,54.0,22
-2020-03-15,Georgia,Office,81.0,69.0,81.0,23
-2020-03-15,Georgia,Colleges & Universities,55.0,59.0,55.0,24
-2020-03-15,Georgia,Government,64.0,47.0,64.0,25
+2020-03-15,Georgia,Sports,82.0,84.0,82.0,20
+2020-03-15,Georgia,Travel & Transport,99.0,101.0,99.0,21
+2020-03-15,Georgia,Fitness Center,77.0,64.0,77.0,22
+2020-03-15,Georgia,Office,95.0,81.0,96.0,23
+2020-03-15,Georgia,Colleges & Universities,67.0,71.0,67.0,24
+2020-03-15,Georgia,Government,91.0,68.0,92.0,25
 2020-03-15,Georgia,Alcohol,97.0,97.0,97.0,26
 2020-03-15,Georgia,Banks,73.0,56.0,74.0,27
-2020-03-15,Georgia,Beach,162.0,126.0,164.0,28
+2020-03-15,Georgia,Beach,169.0,130.0,171.0,28
 2020-03-15,Georgia,Metro Stations,66.0,"",66.0,29
-2020-03-15,Georgia,Bus,74.0,"",74.0,30
-2020-03-15,Georgia,Spiritual Center,2.0,"",2.0,31
-2020-03-16,Georgia,Food,40.0,34.0,40.0,1
-2020-03-16,Georgia,Shops & Services,36.0,31.0,36.0,2
+2020-03-15,Georgia,Bus,99.0,"",99.0,30
+2020-03-15,Georgia,Spiritual Center,57.0,"",58.0,31
+2020-03-16,Georgia,Food,87.0,72.0,87.0,1
+2020-03-16,Georgia,Shops & Services,97.0,80.0,98.0,2
 2020-03-16,Georgia,Grocery,132.0,123.0,132.0,3
 2020-03-16,Georgia,Gas Stations,100.0,92.0,100.0,4
 2020-03-16,Georgia,Fast Food Restaurants,88.0,73.0,89.0,5
-2020-03-16,Georgia,Medical,48.0,40.0,48.0,6
-2020-03-16,Georgia,Outdoors & Recreation,50.0,47.0,51.0,7
+2020-03-16,Georgia,Medical,87.0,74.0,87.0,6
+2020-03-16,Georgia,Outdoors & Recreation,103.0,94.0,103.0,7
 2020-03-16,Georgia,Big Box Stores,112.0,95.0,112.0,8
-2020-03-16,Georgia,Professional & Other Places,16.0,14.0,16.0,9
-2020-03-16,Georgia,School,34.0,37.0,34.0,10
-2020-03-16,Georgia,Residences,93.0,78.0,94.0,11
-2020-03-16,Georgia,Airport,32.0,25.0,32.0,12
+2020-03-16,Georgia,Professional & Other Places,89.0,83.0,90.0,9
+2020-03-16,Georgia,School,59.0,65.0,59.0,10
+2020-03-16,Georgia,Residences,95.0,80.0,96.0,11
+2020-03-16,Georgia,Airport,53.0,43.0,54.0,12
 2020-03-16,Georgia,Convenience Store,97.0,87.0,98.0,13
 2020-03-16,Georgia,Discount Stores,121.0,107.0,121.0,14
-2020-03-16,Georgia,Office,68.0,68.0,68.0,15
+2020-03-16,Georgia,Office,78.0,78.0,78.0,15
 2020-03-16,Georgia,Hardware Stores,115.0,100.0,116.0,16
 2020-03-16,Georgia,Drug Store,122.0,105.0,123.0,17
-2020-03-16,Georgia,Government,63.0,54.0,64.0,18
-2020-03-16,Georgia,Hotel,72.0,60.0,72.0,19
-2020-03-16,Georgia,Nightlife Spots,52.0,48.0,52.0,20
-2020-03-16,Georgia,Arts & Entertainment,64.0,55.0,64.0,21
-2020-03-16,Georgia,Fitness Center,48.0,38.0,49.0,22
-2020-03-16,Georgia,Travel & Transport,36.0,32.0,36.0,23
-2020-03-16,Georgia,Colleges & Universities,32.0,51.0,32.0,24
-2020-03-16,Georgia,Sports,33.0,31.0,33.0,25
+2020-03-16,Georgia,Government,90.0,78.0,90.0,18
+2020-03-16,Georgia,Hotel,83.0,72.0,83.0,19
+2020-03-16,Georgia,Nightlife Spots,96.0,84.0,96.0,20
+2020-03-16,Georgia,Arts & Entertainment,83.0,69.0,83.0,21
+2020-03-16,Georgia,Fitness Center,70.0,55.0,71.0,22
+2020-03-16,Georgia,Travel & Transport,92.0,82.0,92.0,23
+2020-03-16,Georgia,Colleges & Universities,42.0,63.0,42.0,24
+2020-03-16,Georgia,Sports,98.0,81.0,99.0,25
 2020-03-16,Georgia,Banks,109.0,105.0,109.0,26
 2020-03-16,Georgia,Alcohol,123.0,104.0,124.0,27
 2020-03-16,Georgia,Metro Stations,63.0,"",63.0,28
-2020-03-16,Georgia,Bus,58.0,"",58.0,29
-2020-03-16,Georgia,Beach,98.0,89.0,99.0,30
+2020-03-16,Georgia,Bus,79.0,"",79.0,29
+2020-03-16,Georgia,Beach,103.0,94.0,103.0,30
 2020-03-16,Georgia,Light Rail Stations,93.0,"",93.0,31
-2020-03-16,Georgia,Spiritual Center,4.0,"",4.0,32
-2020-03-17,Georgia,Food,36.0,30.0,36.0,1
-2020-03-17,Georgia,Shops & Services,31.0,26.0,31.0,2
+2020-03-16,Georgia,Spiritual Center,81.0,"",81.0,32
+2020-03-17,Georgia,Food,74.0,61.0,75.0,1
+2020-03-17,Georgia,Shops & Services,85.0,69.0,86.0,2
 2020-03-17,Georgia,Grocery,118.0,104.0,119.0,3
 2020-03-17,Georgia,Gas Stations,93.0,88.0,93.0,4
-2020-03-17,Georgia,Outdoors & Recreation,49.0,49.0,49.0,5
+2020-03-17,Georgia,Outdoors & Recreation,107.0,102.0,107.0,5
 2020-03-17,Georgia,Fast Food Restaurants,77.0,64.0,77.0,6
-2020-03-17,Georgia,Medical,40.0,35.0,40.0,7
+2020-03-17,Georgia,Medical,73.0,63.0,73.0,7
 2020-03-17,Georgia,Big Box Stores,104.0,84.0,105.0,8
-2020-03-17,Georgia,Professional & Other Places,14.0,12.0,14.0,9
-2020-03-17,Georgia,Residences,91.0,78.0,91.0,10
-2020-03-17,Georgia,School,26.0,30.0,26.0,11
+2020-03-17,Georgia,Professional & Other Places,78.0,71.0,79.0,9
+2020-03-17,Georgia,Residences,93.0,79.0,93.0,10
+2020-03-17,Georgia,School,47.0,53.0,47.0,11
 2020-03-17,Georgia,Convenience Store,90.0,81.0,91.0,12
 2020-03-17,Georgia,Discount Stores,107.0,88.0,107.0,13
-2020-03-17,Georgia,Office,57.0,55.0,57.0,14
-2020-03-17,Georgia,Airport,29.0,32.0,29.0,15
+2020-03-17,Georgia,Office,65.0,63.0,65.0,14
+2020-03-17,Georgia,Airport,49.0,53.0,49.0,15
 2020-03-17,Georgia,Hardware Stores,110.0,81.0,111.0,16
 2020-03-17,Georgia,Drug Store,105.0,88.0,106.0,17
-2020-03-17,Georgia,Government,51.0,48.0,51.0,18
-2020-03-17,Georgia,Hotel,62.0,59.0,62.0,19
-2020-03-17,Georgia,Nightlife Spots,45.0,41.0,45.0,20
-2020-03-17,Georgia,Arts & Entertainment,61.0,58.0,61.0,21
-2020-03-17,Georgia,Sports,31.0,34.0,31.0,22
-2020-03-17,Georgia,Travel & Transport,34.0,36.0,34.0,23
-2020-03-17,Georgia,Colleges & Universities,27.0,47.0,26.0,24
-2020-03-17,Georgia,Fitness Center,36.0,31.0,36.0,25
+2020-03-17,Georgia,Government,72.0,68.0,72.0,18
+2020-03-17,Georgia,Hotel,71.0,71.0,71.0,19
+2020-03-17,Georgia,Nightlife Spots,86.0,76.0,87.0,20
+2020-03-17,Georgia,Arts & Entertainment,74.0,69.0,74.0,21
+2020-03-17,Georgia,Sports,92.0,83.0,93.0,22
+2020-03-17,Georgia,Travel & Transport,89.0,92.0,89.0,23
+2020-03-17,Georgia,Colleges & Universities,34.0,58.0,34.0,24
+2020-03-17,Georgia,Fitness Center,53.0,46.0,53.0,25
 2020-03-17,Georgia,Banks,81.0,69.0,82.0,26
 2020-03-17,Georgia,Alcohol,121.0,90.0,122.0,27
 2020-03-17,Georgia,Metro Stations,55.0,"",55.0,28
-2020-03-17,Georgia,Bus,59.0,"",58.0,29
-2020-03-17,Georgia,Beach,123.0,81.0,127.0,30
-2020-03-17,Georgia,Spiritual Center,4.0,"",4.0,31
+2020-03-17,Georgia,Bus,80.0,"",80.0,29
+2020-03-17,Georgia,Beach,128.0,83.0,132.0,30
+2020-03-17,Georgia,Spiritual Center,72.0,"",72.0,31
 2020-03-17,Georgia,Light Rail Stations,82.0,"",82.0,32
-2020-03-18,Georgia,Food,33.0,27.0,33.0,1
-2020-03-18,Georgia,Shops & Services,28.0,24.0,28.0,2
+2020-03-18,Georgia,Food,69.0,55.0,69.0,1
+2020-03-18,Georgia,Shops & Services,79.0,65.0,80.0,2
 2020-03-18,Georgia,Grocery,104.0,91.0,105.0,3
 2020-03-18,Georgia,Gas Stations,91.0,83.0,92.0,4
-2020-03-18,Georgia,Outdoors & Recreation,49.0,47.0,49.0,5
+2020-03-18,Georgia,Outdoors & Recreation,105.0,96.0,105.0,5
 2020-03-18,Georgia,Fast Food Restaurants,71.0,60.0,72.0,6
-2020-03-18,Georgia,Medical,38.0,31.0,38.0,7
+2020-03-18,Georgia,Medical,69.0,57.0,69.0,7
 2020-03-18,Georgia,Big Box Stores,95.0,74.0,96.0,8
-2020-03-18,Georgia,Professional & Other Places,14.0,12.0,14.0,9
-2020-03-18,Georgia,Residences,90.0,83.0,90.0,10
-2020-03-18,Georgia,School,24.0,26.0,24.0,11
+2020-03-18,Georgia,Professional & Other Places,78.0,71.0,79.0,9
+2020-03-18,Georgia,Residences,91.0,84.0,92.0,10
+2020-03-18,Georgia,School,42.0,45.0,42.0,11
 2020-03-18,Georgia,Convenience Store,86.0,71.0,86.0,12
 2020-03-18,Georgia,Discount Stores,103.0,81.0,104.0,13
-2020-03-18,Georgia,Office,52.0,52.0,52.0,14
+2020-03-18,Georgia,Office,59.0,59.0,59.0,14
 2020-03-18,Georgia,Hardware Stores,108.0,93.0,109.0,15
-2020-03-18,Georgia,Airport,27.0,19.0,27.0,16
+2020-03-18,Georgia,Airport,46.0,32.0,46.0,16
 2020-03-18,Georgia,Drug Store,100.0,87.0,100.0,17
-2020-03-18,Georgia,Nightlife Spots,49.0,43.0,49.0,18
-2020-03-18,Georgia,Government,50.0,42.0,50.0,19
-2020-03-18,Georgia,Hotel,58.0,55.0,58.0,20
-2020-03-18,Georgia,Arts & Entertainment,44.0,42.0,44.0,21
-2020-03-18,Georgia,Sports,32.0,36.0,32.0,22
-2020-03-18,Georgia,Travel & Transport,33.0,34.0,33.0,23
-2020-03-18,Georgia,Colleges & Universities,22.0,35.0,22.0,24
-2020-03-18,Georgia,Fitness Center,32.0,27.0,32.0,25
+2020-03-18,Georgia,Nightlife Spots,79.0,70.0,79.0,18
+2020-03-18,Georgia,Government,70.0,61.0,71.0,19
+2020-03-18,Georgia,Hotel,65.0,64.0,66.0,20
+2020-03-18,Georgia,Arts & Entertainment,67.0,61.0,67.0,21
+2020-03-18,Georgia,Sports,94.0,90.0,94.0,22
+2020-03-18,Georgia,Travel & Transport,88.0,88.0,88.0,23
+2020-03-18,Georgia,Colleges & Universities,33.0,48.0,33.0,24
+2020-03-18,Georgia,Fitness Center,47.0,39.0,47.0,25
 2020-03-18,Georgia,Banks,80.0,67.0,81.0,26
 2020-03-18,Georgia,Alcohol,110.0,81.0,111.0,27
 2020-03-18,Georgia,Metro Stations,52.0,"",52.0,28
-2020-03-18,Georgia,Bus,56.0,"",56.0,29
-2020-03-18,Georgia,Beach,147.0,112.0,150.0,30
+2020-03-18,Georgia,Bus,78.0,"",78.0,29
+2020-03-18,Georgia,Beach,153.0,118.0,156.0,30
 2020-03-18,Georgia,Light Rail Stations,91.0,"",91.0,31
-2020-03-18,Georgia,Spiritual Center,3.0,"",3.0,32
-2020-03-19,Georgia,Food,31.0,28.0,32.0,1
-2020-03-19,Georgia,Shops & Services,29.0,26.0,29.0,2
+2020-03-18,Georgia,Spiritual Center,59.0,"",59.0,32
+2020-03-19,Georgia,Food,67.0,56.0,67.0,1
+2020-03-19,Georgia,Shops & Services,77.0,67.0,78.0,2
 2020-03-19,Georgia,Grocery,105.0,97.0,106.0,3
 2020-03-19,Georgia,Gas Stations,92.0,85.0,92.0,4
-2020-03-19,Georgia,Outdoors & Recreation,56.0,56.0,56.0,5
+2020-03-19,Georgia,Outdoors & Recreation,122.0,116.0,122.0,5
 2020-03-19,Georgia,Fast Food Restaurants,70.0,63.0,70.0,6
 2020-03-19,Georgia,Big Box Stores,95.0,84.0,95.0,7
-2020-03-19,Georgia,Medical,38.0,31.0,38.0,8
-2020-03-19,Georgia,Professional & Other Places,14.0,12.0,14.0,9
-2020-03-19,Georgia,Residences,94.0,98.0,94.0,10
+2020-03-19,Georgia,Medical,68.0,56.0,69.0,8
+2020-03-19,Georgia,Professional & Other Places,80.0,77.0,80.0,9
+2020-03-19,Georgia,Residences,96.0,99.0,96.0,10
 2020-03-19,Georgia,Convenience Store,90.0,85.0,90.0,11
-2020-03-19,Georgia,School,24.0,28.0,24.0,12
+2020-03-19,Georgia,School,42.0,50.0,42.0,12
 2020-03-19,Georgia,Discount Stores,101.0,95.0,101.0,13
-2020-03-19,Georgia,Office,54.0,58.0,54.0,14
+2020-03-19,Georgia,Office,62.0,66.0,62.0,14
 2020-03-19,Georgia,Hardware Stores,117.0,107.0,118.0,15
-2020-03-19,Georgia,Airport,22.0,17.0,22.0,16
+2020-03-19,Georgia,Airport,37.0,29.0,37.0,16
 2020-03-19,Georgia,Drug Store,93.0,85.0,93.0,17
-2020-03-19,Georgia,Government,49.0,42.0,50.0,18
-2020-03-19,Georgia,Nightlife Spots,45.0,43.0,45.0,19
-2020-03-19,Georgia,Sports,38.0,48.0,38.0,20
-2020-03-19,Georgia,Hotel,54.0,53.0,54.0,21
-2020-03-19,Georgia,Arts & Entertainment,55.0,57.0,55.0,22
-2020-03-19,Georgia,Travel & Transport,33.0,32.0,33.0,23
-2020-03-19,Georgia,Colleges & Universities,24.0,40.0,23.0,24
-2020-03-19,Georgia,Fitness Center,31.0,28.0,31.0,25
+2020-03-19,Georgia,Government,70.0,60.0,70.0,18
+2020-03-19,Georgia,Nightlife Spots,74.0,70.0,74.0,19
+2020-03-19,Georgia,Sports,110.0,120.0,110.0,20
+2020-03-19,Georgia,Hotel,61.0,62.0,61.0,21
+2020-03-19,Georgia,Arts & Entertainment,71.0,71.0,71.0,22
+2020-03-19,Georgia,Travel & Transport,87.0,83.0,87.0,23
+2020-03-19,Georgia,Colleges & Universities,36.0,56.0,35.0,24
+2020-03-19,Georgia,Fitness Center,46.0,42.0,46.0,25
 2020-03-19,Georgia,Banks,78.0,77.0,78.0,26
 2020-03-19,Georgia,Alcohol,104.0,93.0,104.0,27
 2020-03-19,Georgia,Metro Stations,51.0,"",51.0,28
-2020-03-19,Georgia,Beach,153.0,81.0,160.0,29
-2020-03-19,Georgia,Bus,47.0,"",47.0,30
+2020-03-19,Georgia,Beach,158.0,83.0,165.0,29
+2020-03-19,Georgia,Bus,65.0,"",65.0,30
 2020-03-19,Georgia,Light Rail Stations,85.0,"",84.0,31
-2020-03-19,Georgia,Spiritual Center,4.0,"",4.0,32
-2020-03-20,Georgia,Food,28.0,23.0,29.0,1
-2020-03-20,Georgia,Shops & Services,27.0,22.0,27.0,2
+2020-03-19,Georgia,Spiritual Center,69.0,"",70.0,32
+2020-03-20,Georgia,Food,61.0,48.0,62.0,1
+2020-03-20,Georgia,Shops & Services,69.0,54.0,70.0,2
 2020-03-20,Georgia,Grocery,104.0,87.0,105.0,3
 2020-03-20,Georgia,Gas Stations,86.0,78.0,87.0,4
-2020-03-20,Georgia,Outdoors & Recreation,48.0,45.0,48.0,5
+2020-03-20,Georgia,Outdoors & Recreation,103.0,93.0,103.0,5
 2020-03-20,Georgia,Fast Food Restaurants,68.0,60.0,68.0,6
 2020-03-20,Georgia,Big Box Stores,90.0,72.0,90.0,7
-2020-03-20,Georgia,Medical,37.0,32.0,38.0,8
-2020-03-20,Georgia,Professional & Other Places,14.0,12.0,14.0,9
+2020-03-20,Georgia,Medical,68.0,57.0,68.0,8
+2020-03-20,Georgia,Professional & Other Places,74.0,65.0,74.0,9
 2020-03-20,Georgia,Residences,88.0,83.0,89.0,10
 2020-03-20,Georgia,Convenience Store,88.0,75.0,88.0,11
 2020-03-20,Georgia,Discount Stores,94.0,83.0,95.0,12
-2020-03-20,Georgia,School,25.0,28.0,25.0,13
+2020-03-20,Georgia,School,44.0,48.0,44.0,13
 2020-03-20,Georgia,Hardware Stores,113.0,96.0,114.0,14
-2020-03-20,Georgia,Office,53.0,55.0,53.0,15
+2020-03-20,Georgia,Office,62.0,63.0,62.0,15
 2020-03-20,Georgia,Drug Store,92.0,74.0,93.0,16
-2020-03-20,Georgia,Nightlife Spots,35.0,34.0,36.0,17
-2020-03-20,Georgia,Airport,17.0,13.0,17.0,17
-2020-03-20,Georgia,Hotel,48.0,42.0,49.0,18
-2020-03-20,Georgia,Government,49.0,42.0,49.0,19
-2020-03-20,Georgia,Arts & Entertainment,40.0,38.0,40.0,20
-2020-03-20,Georgia,Sports,34.0,36.0,34.0,21
-2020-03-20,Georgia,Travel & Transport,32.0,33.0,32.0,22
-2020-03-20,Georgia,Banks,75.0,64.0,75.0,23
-2020-03-20,Georgia,Colleges & Universities,26.0,32.0,26.0,24
-2020-03-20,Georgia,Alcohol,103.0,83.0,104.0,25
-2020-03-20,Georgia,Fitness Center,30.0,27.0,30.0,26
-2020-03-20,Georgia,Metro Stations,51.0,"",51.0,27
-2020-03-20,Georgia,Bus,52.0,"",52.0,28
-2020-03-20,Georgia,Beach,110.0,65.0,114.0,29
-2020-03-20,Georgia,Spiritual Center,4.0,"",4.0,30
-2020-03-20,Georgia,Light Rail Stations,84.0,"",84.0,31
-2020-03-21,Georgia,Food,24.0,21.0,24.0,1
-2020-03-21,Georgia,Shops & Services,23.0,21.0,23.0,2
+2020-03-20,Georgia,Airport,29.0,21.0,29.0,17
+2020-03-20,Georgia,Nightlife Spots,66.0,61.0,67.0,18
+2020-03-20,Georgia,Hotel,56.0,50.0,56.0,19
+2020-03-20,Georgia,Government,68.0,60.0,69.0,20
+2020-03-20,Georgia,Arts & Entertainment,58.0,52.0,58.0,21
+2020-03-20,Georgia,Sports,92.0,87.0,93.0,22
+2020-03-20,Georgia,Travel & Transport,80.0,82.0,80.0,23
+2020-03-20,Georgia,Banks,75.0,64.0,75.0,24
+2020-03-20,Georgia,Colleges & Universities,40.0,44.0,40.0,25
+2020-03-20,Georgia,Alcohol,103.0,83.0,104.0,26
+2020-03-20,Georgia,Fitness Center,43.0,39.0,43.0,27
+2020-03-20,Georgia,Metro Stations,51.0,"",51.0,28
+2020-03-20,Georgia,Bus,71.0,"",71.0,29
+2020-03-20,Georgia,Beach,115.0,67.0,119.0,30
+2020-03-20,Georgia,Spiritual Center,72.0,"",72.0,31
+2020-03-20,Georgia,Light Rail Stations,84.0,"",84.0,32
+2020-03-21,Georgia,Food,51.0,42.0,51.0,1
+2020-03-21,Georgia,Shops & Services,55.0,49.0,56.0,2
 2020-03-21,Georgia,Grocery,97.0,77.0,98.0,3
 2020-03-21,Georgia,Gas Stations,84.0,77.0,84.0,4
-2020-03-21,Georgia,Outdoors & Recreation,48.0,46.0,48.0,5
+2020-03-21,Georgia,Outdoors & Recreation,100.0,93.0,100.0,5
 2020-03-21,Georgia,Big Box Stores,80.0,70.0,80.0,6
 2020-03-21,Georgia,Fast Food Restaurants,63.0,52.0,63.0,7
 2020-03-21,Georgia,Hardware Stores,120.0,103.0,121.0,8
-2020-03-21,Georgia,Residences,79.0,78.0,79.0,9
+2020-03-21,Georgia,Residences,81.0,79.0,81.0,9
 2020-03-21,Georgia,Discount Stores,87.0,77.0,87.0,10
-2020-03-21,Georgia,Professional & Other Places,15.0,13.0,15.0,11
+2020-03-21,Georgia,Professional & Other Places,63.0,61.0,63.0,11
 2020-03-21,Georgia,Convenience Store,82.0,78.0,82.0,12
-2020-03-21,Georgia,School,39.0,37.0,39.0,13
-2020-03-21,Georgia,Medical,39.0,32.0,39.0,14
+2020-03-21,Georgia,School,67.0,62.0,67.0,13
+2020-03-21,Georgia,Medical,69.0,57.0,70.0,14
 2020-03-21,Georgia,Drug Store,88.0,76.0,88.0,15
-2020-03-21,Georgia,Nightlife Spots,31.0,30.0,31.0,16
-2020-03-21,Georgia,Airport,21.0,14.0,21.0,17
-2020-03-21,Georgia,Arts & Entertainment,30.0,28.0,30.0,18
-2020-03-21,Georgia,Sports,30.0,36.0,30.0,19
-2020-03-21,Georgia,Hotel,37.0,31.0,37.0,20
-2020-03-21,Georgia,Travel & Transport,33.0,30.0,33.0,21
-2020-03-21,Georgia,Office,60.0,54.0,60.0,22
+2020-03-21,Georgia,Nightlife Spots,50.0,50.0,50.0,16
+2020-03-21,Georgia,Airport,35.0,23.0,35.0,17
+2020-03-21,Georgia,Arts & Entertainment,42.0,39.0,42.0,18
+2020-03-21,Georgia,Sports,79.0,82.0,79.0,19
+2020-03-21,Georgia,Hotel,42.0,37.0,42.0,20
+2020-03-21,Georgia,Travel & Transport,81.0,76.0,81.0,21
+2020-03-21,Georgia,Office,71.0,64.0,71.0,22
 2020-03-21,Georgia,Alcohol,93.0,71.0,93.0,23
-2020-03-21,Georgia,Colleges & Universities,43.0,42.0,43.0,24
-2020-03-21,Georgia,Government,54.0,51.0,54.0,25
-2020-03-21,Georgia,Fitness Center,27.0,24.0,27.0,26
+2020-03-21,Georgia,Colleges & Universities,53.0,51.0,53.0,24
+2020-03-21,Georgia,Government,78.0,78.0,78.0,25
+2020-03-21,Georgia,Fitness Center,40.0,35.0,40.0,26
 2020-03-21,Georgia,Banks,68.0,61.0,68.0,27
 2020-03-21,Georgia,Metro Stations,52.0,"",52.0,28
-2020-03-21,Georgia,Beach,91.0,"",93.0,29
-2020-03-21,Georgia,Bus,56.0,"",56.0,30
-2020-03-21,Georgia,Spiritual Center,3.0,"",3.0,31
-2020-03-22,Georgia,Food,22.0,18.0,22.0,1
-2020-03-22,Georgia,Shops & Services,18.0,15.0,18.0,2
+2020-03-21,Georgia,Beach,96.0,"",99.0,29
+2020-03-21,Georgia,Bus,76.0,"",77.0,30
+2020-03-21,Georgia,Spiritual Center,57.0,"",57.0,31
+2020-03-22,Georgia,Food,44.0,34.0,45.0,1
+2020-03-22,Georgia,Shops & Services,48.0,41.0,48.0,2
 2020-03-22,Georgia,Grocery,79.0,70.0,79.0,3
 2020-03-22,Georgia,Gas Stations,73.0,64.0,73.0,4
-2020-03-22,Georgia,Outdoors & Recreation,39.0,39.0,39.0,5
+2020-03-22,Georgia,Outdoors & Recreation,77.0,74.0,78.0,5
 2020-03-22,Georgia,Big Box Stores,71.0,63.0,71.0,6
 2020-03-22,Georgia,Fast Food Restaurants,58.0,47.0,58.0,7
 2020-03-22,Georgia,Residences,69.0,66.0,69.0,8
 2020-03-22,Georgia,Hardware Stores,104.0,83.0,105.0,9
 2020-03-22,Georgia,Discount Stores,77.0,58.0,77.0,10
 2020-03-22,Georgia,Convenience Store,69.0,59.0,69.0,11
-2020-03-22,Georgia,Professional & Other Places,12.0,8.0,12.0,12
-2020-03-22,Georgia,School,41.0,31.0,41.0,13
-2020-03-22,Georgia,Medical,36.0,25.0,36.0,14
+2020-03-22,Georgia,Professional & Other Places,57.0,49.0,57.0,12
+2020-03-22,Georgia,School,70.0,54.0,71.0,13
+2020-03-22,Georgia,Medical,63.0,43.0,64.0,14
 2020-03-22,Georgia,Drug Store,81.0,72.0,81.0,15
-2020-03-22,Georgia,Airport,17.0,11.0,17.0,16
-2020-03-22,Georgia,Nightlife Spots,23.0,25.0,23.0,17
-2020-03-22,Georgia,Hotel,37.0,30.0,37.0,18
-2020-03-22,Georgia,Arts & Entertainment,25.0,27.0,25.0,19
-2020-03-22,Georgia,Sports,26.0,29.0,26.0,20
-2020-03-22,Georgia,Travel & Transport,33.0,32.0,33.0,21
-2020-03-22,Georgia,Office,57.0,46.0,58.0,22
-2020-03-22,Georgia,Colleges & Universities,45.0,56.0,44.0,23
-2020-03-22,Georgia,Government,46.0,41.0,46.0,24
+2020-03-22,Georgia,Airport,28.0,18.0,28.0,16
+2020-03-22,Georgia,Nightlife Spots,38.0,42.0,38.0,17
+2020-03-22,Georgia,Hotel,42.0,35.0,42.0,18
+2020-03-22,Georgia,Arts & Entertainment,36.0,37.0,36.0,19
+2020-03-22,Georgia,Sports,63.0,61.0,63.0,20
+2020-03-22,Georgia,Travel & Transport,70.0,73.0,70.0,21
+2020-03-22,Georgia,Office,68.0,55.0,68.0,22
+2020-03-22,Georgia,Colleges & Universities,53.0,67.0,53.0,23
+2020-03-22,Georgia,Government,66.0,59.0,67.0,24
 2020-03-22,Georgia,Alcohol,72.0,59.0,72.0,25
-2020-03-22,Georgia,Fitness Center,25.0,20.0,25.0,26
+2020-03-22,Georgia,Fitness Center,36.0,30.0,36.0,26
 2020-03-22,Georgia,Banks,68.0,50.0,68.0,27
 2020-03-22,Georgia,Metro Stations,43.0,"",44.0,28
-2020-03-22,Georgia,Bus,61.0,"",61.0,29
-2020-03-22,Georgia,Beach,55.0,"",56.0,30
-2020-03-22,Georgia,Spiritual Center,2.0,"",2.0,31
-2020-03-23,Georgia,Food,26.0,22.0,27.0,1
-2020-03-23,Georgia,Shops & Services,24.0,20.0,24.0,2
+2020-03-22,Georgia,Bus,82.0,"",82.0,29
+2020-03-22,Georgia,Beach,58.0,"",59.0,30
+2020-03-22,Georgia,Spiritual Center,42.0,"",42.0,31
+2020-03-23,Georgia,Food,54.0,44.0,55.0,1
+2020-03-23,Georgia,Shops & Services,62.0,49.0,63.0,2
 2020-03-23,Georgia,Grocery,93.0,82.0,94.0,3
 2020-03-23,Georgia,Gas Stations,75.0,67.0,76.0,4
 2020-03-23,Georgia,Fast Food Restaurants,61.0,49.0,62.0,5
-2020-03-23,Georgia,Medical,32.0,24.0,32.0,6
-2020-03-23,Georgia,Outdoors & Recreation,34.0,30.0,34.0,7
+2020-03-23,Georgia,Medical,58.0,43.0,59.0,6
+2020-03-23,Georgia,Outdoors & Recreation,72.0,62.0,73.0,7
 2020-03-23,Georgia,Big Box Stores,80.0,64.0,81.0,8
-2020-03-23,Georgia,Professional & Other Places,12.0,10.0,12.0,9
+2020-03-23,Georgia,Professional & Other Places,70.0,59.0,70.0,9
 2020-03-23,Georgia,Residences,71.0,56.0,72.0,10
 2020-03-23,Georgia,Convenience Store,75.0,60.0,75.0,11
-2020-03-23,Georgia,School,22.0,23.0,22.0,12
+2020-03-23,Georgia,School,38.0,40.0,38.0,12
 2020-03-23,Georgia,Discount Stores,88.0,75.0,89.0,13
-2020-03-23,Georgia,Office,47.0,45.0,47.0,14
+2020-03-23,Georgia,Office,54.0,52.0,54.0,14
 2020-03-23,Georgia,Hardware Stores,84.0,63.0,85.0,15
 2020-03-23,Georgia,Drug Store,84.0,68.0,85.0,16
-2020-03-23,Georgia,Airport,14.0,10.0,14.0,17
-2020-03-23,Georgia,Government,41.0,36.0,42.0,18
-2020-03-23,Georgia,Hotel,44.0,36.0,45.0,19
-2020-03-23,Georgia,Nightlife Spots,31.0,30.0,31.0,20
-2020-03-23,Georgia,Travel & Transport,27.0,25.0,27.0,21
-2020-03-23,Georgia,Arts & Entertainment,41.0,42.0,41.0,22
-2020-03-23,Georgia,Colleges & Universities,22.0,37.0,22.0,23
-2020-03-23,Georgia,Sports,23.0,19.0,23.0,24
+2020-03-23,Georgia,Airport,23.0,17.0,23.0,17
+2020-03-23,Georgia,Government,59.0,52.0,59.0,18
+2020-03-23,Georgia,Hotel,51.0,43.0,52.0,19
+2020-03-23,Georgia,Nightlife Spots,58.0,52.0,58.0,20
+2020-03-23,Georgia,Travel & Transport,67.0,63.0,67.0,21
+2020-03-23,Georgia,Arts & Entertainment,55.0,55.0,55.0,22
+2020-03-23,Georgia,Colleges & Universities,30.0,46.0,29.0,23
+2020-03-23,Georgia,Sports,64.0,47.0,65.0,24
 2020-03-23,Georgia,Banks,68.0,61.0,68.0,25
-2020-03-23,Georgia,Fitness Center,24.0,19.0,24.0,26
+2020-03-23,Georgia,Fitness Center,34.0,27.0,35.0,26
 2020-03-23,Georgia,Alcohol,90.0,78.0,90.0,27
 2020-03-23,Georgia,Metro Stations,40.0,"",40.0,28
-2020-03-23,Georgia,Bus,43.0,"",43.0,29
-2020-03-23,Georgia,Beach,62.0,"",64.0,30
+2020-03-23,Georgia,Bus,59.0,"",59.0,29
+2020-03-23,Georgia,Beach,65.0,"",67.0,30
 2020-03-23,Georgia,Light Rail Stations,78.0,"",78.0,31
-2020-03-24,Georgia,Food,25.0,20.0,25.0,1
-2020-03-24,Georgia,Shops & Services,22.0,18.0,22.0,2
+2020-03-24,Georgia,Food,51.0,39.0,52.0,1
+2020-03-24,Georgia,Shops & Services,59.0,46.0,59.0,2
 2020-03-24,Georgia,Grocery,85.0,76.0,85.0,3
 2020-03-24,Georgia,Gas Stations,74.0,63.0,75.0,4
-2020-03-24,Georgia,Outdoors & Recreation,39.0,35.0,39.0,5
+2020-03-24,Georgia,Outdoors & Recreation,82.0,70.0,82.0,5
 2020-03-24,Georgia,Fast Food Restaurants,59.0,49.0,60.0,6
-2020-03-24,Georgia,Medical,30.0,22.0,30.0,7
-2020-03-24,Georgia,Professional & Other Places,12.0,10.0,12.0,8
+2020-03-24,Georgia,Medical,54.0,40.0,54.0,7
+2020-03-24,Georgia,Professional & Other Places,65.0,56.0,66.0,8
 2020-03-24,Georgia,Big Box Stores,78.0,64.0,79.0,9
 2020-03-24,Georgia,Residences,73.0,64.0,74.0,10
-2020-03-24,Georgia,School,20.0,21.0,20.0,11
+2020-03-24,Georgia,School,35.0,37.0,35.0,11
 2020-03-24,Georgia,Convenience Store,72.0,60.0,72.0,12
 2020-03-24,Georgia,Discount Stores,78.0,63.0,79.0,13
-2020-03-24,Georgia,Office,44.0,47.0,44.0,14
+2020-03-24,Georgia,Office,50.0,53.0,50.0,14
 2020-03-24,Georgia,Hardware Stores,88.0,68.0,90.0,15
 2020-03-24,Georgia,Drug Store,79.0,67.0,80.0,16
-2020-03-24,Georgia,Government,36.0,32.0,36.0,17
-2020-03-24,Georgia,Airport,15.0,9.0,15.0,18
-2020-03-24,Georgia,Hotel,40.0,40.0,41.0,19
-2020-03-24,Georgia,Arts & Entertainment,42.0,42.0,42.0,20
-2020-03-24,Georgia,Nightlife Spots,29.0,29.0,29.0,21
-2020-03-24,Georgia,Sports,25.0,25.0,25.0,22
-2020-03-24,Georgia,Travel & Transport,32.0,28.0,32.0,23
-2020-03-24,Georgia,Colleges & Universities,22.0,36.0,21.0,24
+2020-03-24,Georgia,Government,51.0,46.0,51.0,17
+2020-03-24,Georgia,Airport,25.0,16.0,25.0,18
+2020-03-24,Georgia,Hotel,46.0,47.0,46.0,19
+2020-03-24,Georgia,Arts & Entertainment,55.0,52.0,55.0,20
+2020-03-24,Georgia,Nightlife Spots,55.0,53.0,55.0,21
+2020-03-24,Georgia,Sports,71.0,59.0,71.0,22
+2020-03-24,Georgia,Travel & Transport,68.0,63.0,68.0,23
+2020-03-24,Georgia,Colleges & Universities,28.0,45.0,28.0,24
 2020-03-24,Georgia,Banks,60.0,50.0,60.0,25
-2020-03-24,Georgia,Fitness Center,21.0,18.0,21.0,26
+2020-03-24,Georgia,Fitness Center,29.0,26.0,30.0,26
 2020-03-24,Georgia,Alcohol,89.0,72.0,90.0,27
 2020-03-24,Georgia,Metro Stations,33.0,"",33.0,28
-2020-03-24,Georgia,Bus,46.0,"",47.0,29
-2020-03-24,Georgia,Beach,67.0,"",68.0,30
-2020-03-24,Georgia,Spiritual Center,3.0,"",3.0,31
+2020-03-24,Georgia,Bus,63.0,"",63.0,29
+2020-03-24,Georgia,Beach,69.0,"",71.0,30
 2020-03-24,Georgia,Light Rail Stations,75.0,"",76.0,31
-2020-03-25,Georgia,Food,24.0,19.0,24.0,1
-2020-03-25,Georgia,Shops & Services,24.0,20.0,24.0,2
+2020-03-24,Georgia,Spiritual Center,61.0,"",61.0,32
+2020-03-25,Georgia,Food,52.0,40.0,53.0,1
+2020-03-25,Georgia,Shops & Services,60.0,47.0,60.0,2
 2020-03-25,Georgia,Gas Stations,79.0,68.0,79.0,3
 2020-03-25,Georgia,Grocery,83.0,71.0,84.0,4
-2020-03-25,Georgia,Outdoors & Recreation,44.0,42.0,45.0,5
+2020-03-25,Georgia,Outdoors & Recreation,94.0,86.0,95.0,5
 2020-03-25,Georgia,Fast Food Restaurants,62.0,51.0,62.0,6
-2020-03-25,Georgia,Professional & Other Places,12.0,10.0,12.0,7
-2020-03-25,Georgia,Medical,29.0,21.0,29.0,8
+2020-03-25,Georgia,Professional & Other Places,70.0,63.0,70.0,7
+2020-03-25,Georgia,Medical,53.0,38.0,53.0,8
 2020-03-25,Georgia,Big Box Stores,73.0,58.0,74.0,9
 2020-03-25,Georgia,Residences,80.0,74.0,80.0,10
-2020-03-25,Georgia,School,22.0,25.0,22.0,11
+2020-03-25,Georgia,School,38.0,44.0,38.0,11
 2020-03-25,Georgia,Convenience Store,77.0,65.0,77.0,12
 2020-03-25,Georgia,Discount Stores,82.0,69.0,83.0,13
 2020-03-25,Georgia,Hardware Stores,99.0,85.0,99.0,14
-2020-03-25,Georgia,Office,43.0,42.0,43.0,15
+2020-03-25,Georgia,Office,49.0,48.0,49.0,15
 2020-03-25,Georgia,Drug Store,76.0,67.0,76.0,16
-2020-03-25,Georgia,Sports,29.0,32.0,29.0,17
-2020-03-25,Georgia,Government,37.0,34.0,37.0,18
-2020-03-25,Georgia,Arts & Entertainment,44.0,44.0,44.0,19
-2020-03-25,Georgia,Hotel,43.0,36.0,43.0,20
-2020-03-25,Georgia,Nightlife Spots,28.0,29.0,27.0,21
-2020-03-25,Georgia,Travel & Transport,29.0,28.0,29.0,22
-2020-03-25,Georgia,Airport,14.0,9.0,14.0,23
-2020-03-25,Georgia,Colleges & Universities,23.0,34.0,22.0,24
+2020-03-25,Georgia,Sports,83.0,76.0,83.0,17
+2020-03-25,Georgia,Government,53.0,49.0,53.0,18
+2020-03-25,Georgia,Arts & Entertainment,56.0,55.0,56.0,19
+2020-03-25,Georgia,Hotel,48.0,43.0,48.0,20
+2020-03-25,Georgia,Nightlife Spots,54.0,55.0,54.0,21
+2020-03-25,Georgia,Travel & Transport,74.0,70.0,74.0,22
+2020-03-25,Georgia,Airport,23.0,15.0,23.0,23
+2020-03-25,Georgia,Colleges & Universities,29.0,41.0,29.0,24
 2020-03-25,Georgia,Banks,63.0,56.0,64.0,25
-2020-03-25,Georgia,Fitness Center,21.0,18.0,21.0,26
+2020-03-25,Georgia,Fitness Center,30.0,26.0,30.0,26
 2020-03-25,Georgia,Alcohol,91.0,76.0,92.0,27
 2020-03-25,Georgia,Metro Stations,41.0,"",41.0,28
-2020-03-25,Georgia,Bus,43.0,"",44.0,29
-2020-03-25,Georgia,Beach,82.0,"",84.0,30
-2020-03-25,Georgia,Spiritual Center,3.0,"",3.0,31
+2020-03-25,Georgia,Bus,61.0,"",61.0,29
+2020-03-25,Georgia,Beach,85.0,"",87.0,30
+2020-03-25,Georgia,Spiritual Center,64.0,"",62.0,31
 2020-03-25,Georgia,Light Rail Stations,69.0,"",69.0,32
-2020-03-26,Georgia,Food,25.0,21.0,25.0,1
-2020-03-26,Georgia,Shops & Services,24.0,22.0,25.0,2
+2020-03-26,Georgia,Food,53.0,42.0,53.0,1
+2020-03-26,Georgia,Shops & Services,61.0,52.0,61.0,2
 2020-03-26,Georgia,Gas Stations,78.0,67.0,79.0,3
 2020-03-26,Georgia,Grocery,84.0,75.0,85.0,4
-2020-03-26,Georgia,Outdoors & Recreation,49.0,47.0,49.0,5
+2020-03-26,Georgia,Outdoors & Recreation,107.0,100.0,107.0,5
 2020-03-26,Georgia,Fast Food Restaurants,62.0,54.0,62.0,6
-2020-03-26,Georgia,Professional & Other Places,12.0,10.0,12.0,7
+2020-03-26,Georgia,Professional & Other Places,70.0,64.0,70.0,7
 2020-03-26,Georgia,Big Box Stores,75.0,65.0,75.0,8
-2020-03-26,Georgia,Medical,30.0,22.0,30.0,9
+2020-03-26,Georgia,Medical,54.0,41.0,55.0,9
 2020-03-26,Georgia,Residences,91.0,92.0,91.0,10
-2020-03-26,Georgia,School,22.0,26.0,22.0,11
+2020-03-26,Georgia,School,40.0,45.0,39.0,11
 2020-03-26,Georgia,Convenience Store,79.0,71.0,79.0,12
 2020-03-26,Georgia,Hardware Stores,112.0,104.0,112.0,13
 2020-03-26,Georgia,Discount Stores,84.0,73.0,84.0,14
-2020-03-26,Georgia,Office,45.0,47.0,45.0,15
+2020-03-26,Georgia,Office,51.0,54.0,51.0,15
 2020-03-26,Georgia,Drug Store,75.0,63.0,75.0,16
-2020-03-26,Georgia,Sports,33.0,42.0,33.0,17
-2020-03-26,Georgia,Arts & Entertainment,46.0,45.0,46.0,18
-2020-03-26,Georgia,Government,39.0,37.0,39.0,19
-2020-03-26,Georgia,Hotel,40.0,37.0,40.0,20
-2020-03-26,Georgia,Nightlife Spots,28.0,28.0,28.0,21
-2020-03-26,Georgia,Travel & Transport,32.0,27.0,32.0,22
-2020-03-26,Georgia,Airport,12.0,9.0,12.0,23
-2020-03-26,Georgia,Colleges & Universities,24.0,39.0,24.0,24
+2020-03-26,Georgia,Sports,94.0,104.0,94.0,17
+2020-03-26,Georgia,Arts & Entertainment,61.0,58.0,61.0,18
+2020-03-26,Georgia,Government,55.0,53.0,55.0,19
+2020-03-26,Georgia,Hotel,46.0,44.0,46.0,20
+2020-03-26,Georgia,Nightlife Spots,54.0,53.0,54.0,21
+2020-03-26,Georgia,Travel & Transport,72.0,64.0,72.0,22
+2020-03-26,Georgia,Airport,21.0,15.0,21.0,23
+2020-03-26,Georgia,Colleges & Universities,30.0,48.0,30.0,24
 2020-03-26,Georgia,Banks,65.0,59.0,65.0,25
-2020-03-26,Georgia,Fitness Center,23.0,22.0,23.0,26
+2020-03-26,Georgia,Fitness Center,34.0,32.0,34.0,26
 2020-03-26,Georgia,Alcohol,93.0,83.0,93.0,27
 2020-03-26,Georgia,Metro Stations,41.0,"",42.0,28
-2020-03-26,Georgia,Bus,40.0,"",40.0,29
-2020-03-26,Georgia,Beach,90.0,64.0,92.0,30
-2020-03-26,Georgia,Spiritual Center,3.0,"",3.0,31
+2020-03-26,Georgia,Bus,56.0,"",56.0,29
+2020-03-26,Georgia,Beach,93.0,66.0,95.0,30
+2020-03-26,Georgia,Spiritual Center,58.0,"",59.0,31
 2020-03-26,Georgia,Light Rail Stations,69.0,"",70.0,32
-2020-03-27,Georgia,Food,24.0,19.0,24.0,1
-2020-03-27,Georgia,Shops & Services,23.0,19.0,23.0,2
+2020-03-27,Georgia,Food,50.0,38.0,50.0,1
+2020-03-27,Georgia,Shops & Services,56.0,44.0,56.0,2
 2020-03-27,Georgia,Gas Stations,74.0,62.0,75.0,3
 2020-03-27,Georgia,Grocery,80.0,63.0,81.0,4
-2020-03-27,Georgia,Outdoors & Recreation,44.0,40.0,44.0,5
+2020-03-27,Georgia,Outdoors & Recreation,97.0,85.0,98.0,5
 2020-03-27,Georgia,Fast Food Restaurants,62.0,53.0,63.0,6
 2020-03-27,Georgia,Big Box Stores,72.0,58.0,73.0,7
-2020-03-27,Georgia,Professional & Other Places,13.0,11.0,13.0,8
-2020-03-27,Georgia,Medical,31.0,23.0,31.0,9
-2020-03-27,Georgia,Residences,79.0,78.0,79.0,10
+2020-03-27,Georgia,Professional & Other Places,67.0,60.0,68.0,8
+2020-03-27,Georgia,Medical,55.0,41.0,56.0,9
+2020-03-27,Georgia,Residences,81.0,79.0,81.0,10
 2020-03-27,Georgia,Convenience Store,77.0,65.0,77.0,11
-2020-03-27,Georgia,School,24.0,27.0,24.0,12
+2020-03-27,Georgia,School,41.0,46.0,41.0,12
 2020-03-27,Georgia,Hardware Stores,110.0,93.0,111.0,13
 2020-03-27,Georgia,Discount Stores,78.0,67.0,79.0,14
-2020-03-27,Georgia,Office,47.0,46.0,47.0,15
+2020-03-27,Georgia,Office,54.0,53.0,54.0,15
 2020-03-27,Georgia,Drug Store,75.0,60.0,76.0,16
-2020-03-27,Georgia,Sports,32.0,35.0,32.0,17
-2020-03-27,Georgia,Arts & Entertainment,40.0,39.0,41.0,18
-2020-03-27,Georgia,Nightlife Spots,27.0,28.0,27.0,19
-2020-03-27,Georgia,Hotel,38.0,31.0,38.0,20
-2020-03-27,Georgia,Government,39.0,38.0,39.0,21
-2020-03-27,Georgia,Travel & Transport,26.0,22.0,26.0,22
+2020-03-27,Georgia,Sports,89.0,86.0,89.0,17
+2020-03-27,Georgia,Arts & Entertainment,53.0,50.0,53.0,18
+2020-03-27,Georgia,Nightlife Spots,52.0,50.0,52.0,19
+2020-03-27,Georgia,Hotel,44.0,36.0,44.0,20
+2020-03-27,Georgia,Government,55.0,54.0,55.0,21
+2020-03-27,Georgia,Travel & Transport,64.0,54.0,65.0,22
 2020-03-27,Georgia,Banks,64.0,49.0,65.0,23
-2020-03-27,Georgia,Airport,10.0,7.0,11.0,24
-2020-03-27,Georgia,Colleges & Universities,28.0,39.0,28.0,25
+2020-03-27,Georgia,Airport,18.0,11.0,18.0,24
+2020-03-27,Georgia,Colleges & Universities,35.0,47.0,34.0,25
 2020-03-27,Georgia,Alcohol,86.0,67.0,87.0,26
-2020-03-27,Georgia,Fitness Center,25.0,20.0,25.0,27
+2020-03-27,Georgia,Fitness Center,36.0,29.0,36.0,27
 2020-03-27,Georgia,Metro Stations,40.0,"",40.0,28
-2020-03-27,Georgia,Bus,49.0,"",49.0,29
-2020-03-27,Georgia,Beach,81.0,"",84.0,30
-2020-03-27,Georgia,Spiritual Center,4.0,"",4.0,31
+2020-03-27,Georgia,Bus,62.0,"",62.0,29
+2020-03-27,Georgia,Beach,85.0,"",88.0,30
+2020-03-27,Georgia,Spiritual Center,70.0,"",71.0,31
 2020-03-27,Georgia,Light Rail Stations,87.0,"",88.0,32
-2020-03-28,Georgia,Food,20.0,16.0,20.0,1
-2020-03-28,Georgia,Shops & Services,19.0,16.0,19.0,2
+2020-03-28,Georgia,Food,43.0,33.0,43.0,1
+2020-03-28,Georgia,Shops & Services,46.0,38.0,46.0,2
 2020-03-28,Georgia,Grocery,81.0,65.0,82.0,3
 2020-03-28,Georgia,Gas Stations,75.0,63.0,76.0,4
-2020-03-28,Georgia,Outdoors & Recreation,43.0,39.0,43.0,5
+2020-03-28,Georgia,Outdoors & Recreation,93.0,81.0,93.0,5
 2020-03-28,Georgia,Fast Food Restaurants,61.0,51.0,61.0,6
 2020-03-28,Georgia,Big Box Stores,71.0,56.0,72.0,7
 2020-03-28,Georgia,Hardware Stores,116.0,92.0,117.0,8
 2020-03-28,Georgia,Residences,73.0,70.0,73.0,9
-2020-03-28,Georgia,Professional & Other Places,14.0,12.0,14.0,10
+2020-03-28,Georgia,Professional & Other Places,60.0,54.0,60.0,10
 2020-03-28,Georgia,Discount Stores,75.0,59.0,76.0,11
 2020-03-28,Georgia,Convenience Store,72.0,61.0,73.0,12
-2020-03-28,Georgia,School,37.0,34.0,37.0,13
-2020-03-28,Georgia,Medical,34.0,31.0,35.0,14
+2020-03-28,Georgia,School,63.0,58.0,64.0,13
+2020-03-28,Georgia,Medical,62.0,55.0,62.0,14
 2020-03-28,Georgia,Drug Store,78.0,63.0,78.0,15
-2020-03-28,Georgia,Sports,27.0,32.0,27.0,16
-2020-03-28,Georgia,Nightlife Spots,19.0,21.0,19.0,17
-2020-03-28,Georgia,Arts & Entertainment,27.0,25.0,27.0,18
-2020-03-28,Georgia,Hotel,29.0,24.0,30.0,19
-2020-03-28,Georgia,Travel & Transport,30.0,24.0,30.0,20
-2020-03-28,Georgia,Office,55.0,50.0,55.0,21
-2020-03-28,Georgia,Airport,12.0,6.0,12.0,22
+2020-03-28,Georgia,Sports,69.0,73.0,69.0,16
+2020-03-28,Georgia,Nightlife Spots,38.0,41.0,37.0,17
+2020-03-28,Georgia,Arts & Entertainment,37.0,33.0,37.0,18
+2020-03-28,Georgia,Hotel,34.0,28.0,34.0,19
+2020-03-28,Georgia,Travel & Transport,66.0,58.0,67.0,20
+2020-03-28,Georgia,Office,65.0,58.0,65.0,21
+2020-03-28,Georgia,Airport,20.0,11.0,20.0,22
 2020-03-28,Georgia,Alcohol,84.0,74.0,84.0,23
-2020-03-28,Georgia,Government,49.0,41.0,49.0,24
+2020-03-28,Georgia,Government,71.0,62.0,71.0,24
 2020-03-28,Georgia,Banks,65.0,64.0,65.0,25
-2020-03-28,Georgia,Colleges & Universities,35.0,38.0,35.0,26
-2020-03-28,Georgia,Fitness Center,21.0,19.0,21.0,27
+2020-03-28,Georgia,Colleges & Universities,43.0,46.0,43.0,26
+2020-03-28,Georgia,Fitness Center,30.0,28.0,31.0,27
 2020-03-28,Georgia,Metro Stations,40.0,"",40.0,28
-2020-03-28,Georgia,Bus,47.0,"",46.0,29
-2020-03-28,Georgia,Beach,72.0,"",74.0,29
-2020-03-28,Georgia,Spiritual Center,3.0,"",3.0,30
-2020-03-29,Georgia,Food,17.0,14.0,17.0,1
-2020-03-29,Georgia,Shops & Services,15.0,14.0,15.0,2
+2020-03-28,Georgia,Beach,76.0,"",78.0,29
+2020-03-28,Georgia,Bus,63.0,"",63.0,30
+2020-03-28,Georgia,Spiritual Center,57.0,"",57.0,31
+2020-03-29,Georgia,Food,35.0,28.0,35.0,1
+2020-03-29,Georgia,Shops & Services,40.0,36.0,40.0,2
 2020-03-29,Georgia,Grocery,61.0,56.0,61.0,3
 2020-03-29,Georgia,Gas Stations,63.0,57.0,63.0,4
-2020-03-29,Georgia,Outdoors & Recreation,35.0,33.0,35.0,5
+2020-03-29,Georgia,Outdoors & Recreation,72.0,66.0,73.0,5
 2020-03-29,Georgia,Big Box Stores,59.0,55.0,59.0,6
 2020-03-29,Georgia,Fast Food Restaurants,54.0,43.0,54.0,7
 2020-03-29,Georgia,Hardware Stores,100.0,86.0,100.0,8
 2020-03-29,Georgia,Residences,56.0,58.0,56.0,9
 2020-03-29,Georgia,Discount Stores,62.0,54.0,62.0,10
 2020-03-29,Georgia,Convenience Store,60.0,54.0,61.0,11
-2020-03-29,Georgia,Professional & Other Places,10.0,7.0,10.0,12
-2020-03-29,Georgia,School,35.0,31.0,35.0,13
-2020-03-29,Georgia,Medical,31.0,25.0,31.0,14
+2020-03-29,Georgia,Professional & Other Places,48.0,45.0,49.0,12
+2020-03-29,Georgia,School,59.0,52.0,59.0,13
+2020-03-29,Georgia,Medical,54.0,44.0,54.0,14
 2020-03-29,Georgia,Drug Store,65.0,57.0,65.0,15
-2020-03-29,Georgia,Sports,24.0,29.0,23.0,16
-2020-03-29,Georgia,Nightlife Spots,15.0,20.0,15.0,17
-2020-03-29,Georgia,Arts & Entertainment,23.0,24.0,23.0,18
-2020-03-29,Georgia,Hotel,25.0,18.0,25.0,19
-2020-03-29,Georgia,Travel & Transport,21.0,21.0,22.0,20
-2020-03-29,Georgia,Airport,9.0,4.0,9.0,21
-2020-03-29,Georgia,Office,48.0,41.0,48.0,22
-2020-03-29,Georgia,Government,45.0,36.0,45.0,23
-2020-03-29,Georgia,Colleges & Universities,38.0,41.0,38.0,24
+2020-03-29,Georgia,Sports,56.0,62.0,56.0,16
+2020-03-29,Georgia,Nightlife Spots,30.0,38.0,30.0,17
+2020-03-29,Georgia,Arts & Entertainment,31.0,32.0,31.0,18
+2020-03-29,Georgia,Hotel,29.0,21.0,29.0,19
+2020-03-29,Georgia,Travel & Transport,54.0,54.0,54.0,20
+2020-03-29,Georgia,Airport,15.0,8.0,15.0,21
+2020-03-29,Georgia,Office,57.0,48.0,57.0,22
+2020-03-29,Georgia,Government,65.0,53.0,65.0,23
+2020-03-29,Georgia,Colleges & Universities,45.0,49.0,45.0,24
 2020-03-29,Georgia,Alcohol,63.0,62.0,63.0,25
-2020-03-29,Georgia,Fitness Center,21.0,20.0,21.0,26
+2020-03-29,Georgia,Fitness Center,30.0,30.0,30.0,26
 2020-03-29,Georgia,Banks,55.0,40.0,56.0,27
 2020-03-29,Georgia,Metro Stations,33.0,"",33.0,28
-2020-03-29,Georgia,Bus,54.0,"",54.0,29
-2020-03-29,Georgia,Beach,59.0,"",61.0,30
-2020-03-29,Georgia,Spiritual Center,2.0,"",2.0,31
-2020-03-30,Georgia,Food,24.0,20.0,24.0,1
-2020-03-30,Georgia,Shops & Services,23.0,19.0,23.0,2
+2020-03-29,Georgia,Bus,69.0,"",68.0,29
+2020-03-29,Georgia,Beach,62.0,"",64.0,30
+2020-03-29,Georgia,Spiritual Center,43.0,"",42.0,31
+2020-03-30,Georgia,Food,51.0,40.0,51.0,1
+2020-03-30,Georgia,Shops & Services,60.0,47.0,61.0,2
 2020-03-30,Georgia,Gas Stations,73.0,64.0,73.0,3
 2020-03-30,Georgia,Grocery,77.0,66.0,78.0,4
-2020-03-30,Georgia,Outdoors & Recreation,39.0,38.0,39.0,5
+2020-03-30,Georgia,Outdoors & Recreation,87.0,81.0,87.0,5
 2020-03-30,Georgia,Fast Food Restaurants,62.0,50.0,63.0,6
-2020-03-30,Georgia,Medical,28.0,21.0,29.0,7
-2020-03-30,Georgia,Professional & Other Places,12.0,11.0,12.0,8
+2020-03-30,Georgia,Medical,52.0,39.0,52.0,7
+2020-03-30,Georgia,Professional & Other Places,67.0,62.0,67.0,8
 2020-03-30,Georgia,Big Box Stores,72.0,62.0,73.0,9
-2020-03-30,Georgia,Residences,70.0,67.0,70.0,10
-2020-03-30,Georgia,School,24.0,25.0,24.0,11
+2020-03-30,Georgia,Residences,72.0,68.0,72.0,10
+2020-03-30,Georgia,School,41.0,42.0,41.0,11
 2020-03-30,Georgia,Convenience Store,72.0,62.0,73.0,12
 2020-03-30,Georgia,Hardware Stores,109.0,90.0,110.0,13
 2020-03-30,Georgia,Discount Stores,80.0,68.0,80.0,14
-2020-03-30,Georgia,Office,42.0,41.0,42.0,15
+2020-03-30,Georgia,Office,48.0,48.0,48.0,15
 2020-03-30,Georgia,Drug Store,75.0,60.0,76.0,16
-2020-03-30,Georgia,Government,39.0,37.0,39.0,17
-2020-03-30,Georgia,Sports,28.0,28.0,28.0,18
-2020-03-30,Georgia,Arts & Entertainment,37.0,43.0,37.0,19
-2020-03-30,Georgia,Travel & Transport,25.0,23.0,25.0,20
-2020-03-30,Georgia,Nightlife Spots,27.0,28.0,27.0,20
-2020-03-30,Georgia,Hotel,37.0,30.0,37.0,21
-2020-03-30,Georgia,Colleges & Universities,21.0,42.0,21.0,22
-2020-03-30,Georgia,Airport,9.0,7.0,9.0,22
-2020-03-30,Georgia,Banks,70.0,52.0,70.0,23
-2020-03-30,Georgia,Fitness Center,21.0,16.0,21.0,24
-2020-03-30,Georgia,Alcohol,87.0,76.0,88.0,25
-2020-03-30,Georgia,Metro Stations,37.0,"",37.0,26
-2020-03-30,Georgia,Bus,39.0,"",39.0,27
-2020-03-30,Georgia,Beach,72.0,"",73.0,28
-2020-03-30,Georgia,Light Rail Stations,79.0,"",79.0,29
-2020-03-31,Georgia,Food,23.0,17.0,23.0,1
-2020-03-31,Georgia,Shops & Services,19.0,16.0,19.0,2
+2020-03-30,Georgia,Government,55.0,54.0,55.0,17
+2020-03-30,Georgia,Sports,80.0,69.0,81.0,18
+2020-03-30,Georgia,Arts & Entertainment,56.0,60.0,56.0,19
+2020-03-30,Georgia,Nightlife Spots,52.0,50.0,52.0,20
+2020-03-30,Georgia,Travel & Transport,62.0,56.0,62.0,21
+2020-03-30,Georgia,Hotel,42.0,36.0,43.0,22
+2020-03-30,Georgia,Colleges & Universities,27.0,50.0,27.0,23
+2020-03-30,Georgia,Airport,16.0,12.0,16.0,24
+2020-03-30,Georgia,Banks,70.0,52.0,70.0,25
+2020-03-30,Georgia,Fitness Center,31.0,23.0,31.0,26
+2020-03-30,Georgia,Alcohol,87.0,76.0,88.0,27
+2020-03-30,Georgia,Metro Stations,37.0,"",37.0,28
+2020-03-30,Georgia,Bus,52.0,"",52.0,29
+2020-03-30,Georgia,Beach,76.0,"",76.0,30
+2020-03-30,Georgia,Light Rail Stations,79.0,"",79.0,31
+2020-03-31,Georgia,Food,45.0,33.0,46.0,1
+2020-03-31,Georgia,Shops & Services,51.0,41.0,52.0,2
 2020-03-31,Georgia,Grocery,75.0,66.0,75.0,3
 2020-03-31,Georgia,Gas Stations,67.0,57.0,68.0,4
 2020-03-31,Georgia,Fast Food Restaurants,58.0,46.0,58.0,5
-2020-03-31,Georgia,Outdoors & Recreation,31.0,29.0,31.0,6
-2020-03-31,Georgia,Professional & Other Places,10.0,8.0,10.0,7
+2020-03-31,Georgia,Outdoors & Recreation,69.0,60.0,69.0,6
+2020-03-31,Georgia,Professional & Other Places,58.0,51.0,58.0,7
 2020-03-31,Georgia,Big Box Stores,69.0,59.0,69.0,8
-2020-03-31,Georgia,Medical,24.0,19.0,25.0,9
-2020-03-31,Georgia,Residences,61.0,52.0,61.0,10
+2020-03-31,Georgia,Medical,44.0,34.0,44.0,9
+2020-03-31,Georgia,Residences,62.0,52.0,63.0,10
 2020-03-31,Georgia,Convenience Store,64.0,54.0,64.0,11
-2020-03-31,Georgia,School,17.0,18.0,17.0,12
+2020-03-31,Georgia,School,29.0,31.0,29.0,12
 2020-03-31,Georgia,Hardware Stores,87.0,62.0,88.0,13
 2020-03-31,Georgia,Discount Stores,67.0,54.0,68.0,14
-2020-03-31,Georgia,Office,36.0,38.0,36.0,15
+2020-03-31,Georgia,Office,42.0,43.0,42.0,15
 2020-03-31,Georgia,Drug Store,66.0,56.0,67.0,16
-2020-03-31,Georgia,Government,31.0,32.0,31.0,17
-2020-03-31,Georgia,Arts & Entertainment,36.0,35.0,36.0,18
-2020-03-31,Georgia,Sports,22.0,22.0,22.0,19
-2020-03-31,Georgia,Airport,11.0,7.0,11.0,20
-2020-03-31,Georgia,Travel & Transport,22.0,21.0,22.0,21
-2020-03-31,Georgia,Nightlife Spots,28.0,27.0,28.0,22
-2020-03-31,Georgia,Hotel,31.0,25.0,31.0,23
+2020-03-31,Georgia,Government,43.0,45.0,43.0,17
+2020-03-31,Georgia,Arts & Entertainment,46.0,43.0,46.0,18
+2020-03-31,Georgia,Sports,62.0,51.0,62.0,19
+2020-03-31,Georgia,Airport,18.0,11.0,18.0,20
+2020-03-31,Georgia,Travel & Transport,58.0,53.0,58.0,21
+2020-03-31,Georgia,Nightlife Spots,45.0,45.0,45.0,22
+2020-03-31,Georgia,Hotel,36.0,29.0,36.0,23
 2020-03-31,Georgia,Banks,65.0,54.0,65.0,24
-2020-03-31,Georgia,Colleges & Universities,17.0,29.0,17.0,25
-2020-03-31,Georgia,Fitness Center,17.0,15.0,17.0,26
+2020-03-31,Georgia,Colleges & Universities,22.0,36.0,22.0,25
+2020-03-31,Georgia,Fitness Center,24.0,22.0,24.0,26
 2020-03-31,Georgia,Alcohol,77.0,62.0,78.0,27
 2020-03-31,Georgia,Metro Stations,35.0,"",35.0,28
-2020-03-31,Georgia,Bus,33.0,"",33.0,29
-2020-03-31,Georgia,Beach,57.0,"",58.0,30
-2020-03-31,Georgia,Spiritual Center,3.0,"",3.0,31
+2020-03-31,Georgia,Bus,45.0,"",45.0,29
+2020-03-31,Georgia,Beach,59.0,"",60.0,30
+2020-03-31,Georgia,Spiritual Center,63.0,"",63.0,31
+2020-04-01,Georgia,Food,49.0,39.0,49.0,1
+2020-04-01,Georgia,Shops & Services,56.0,45.0,57.0,2
+2020-04-01,Georgia,Grocery,85.0,70.0,86.0,3
+2020-04-01,Georgia,Gas Stations,72.0,62.0,73.0,4
+2020-04-01,Georgia,Fast Food Restaurants,61.0,50.0,61.0,5
+2020-04-01,Georgia,Outdoors & Recreation,79.0,74.0,79.0,6
+2020-04-01,Georgia,Big Box Stores,77.0,63.0,78.0,7
+2020-04-01,Georgia,Professional & Other Places,62.0,57.0,63.0,8
+2020-04-01,Georgia,Medical,47.0,36.0,48.0,9
+2020-04-01,Georgia,Residences,70.0,65.0,71.0,10
+2020-04-01,Georgia,Convenience Store,72.0,56.0,73.0,11
+2020-04-01,Georgia,School,33.0,39.0,33.0,12
+2020-04-01,Georgia,Hardware Stores,99.0,78.0,100.0,13
+2020-04-01,Georgia,Discount Stores,79.0,63.0,80.0,14
+2020-04-01,Georgia,Office,43.0,49.0,43.0,15
+2020-04-01,Georgia,Drug Store,76.0,70.0,76.0,16
+2020-04-01,Georgia,Government,50.0,51.0,50.0,17
+2020-04-01,Georgia,Sports,74.0,66.0,75.0,18
+2020-04-01,Georgia,Arts & Entertainment,49.0,53.0,49.0,19
+2020-04-01,Georgia,Nightlife Spots,48.0,50.0,47.0,20
+2020-04-01,Georgia,Hotel,39.0,32.0,39.0,21
+2020-04-01,Georgia,Banks,76.0,75.0,76.0,22
+2020-04-01,Georgia,Travel & Transport,60.0,56.0,60.0,23
+2020-04-01,Georgia,Colleges & Universities,24.0,42.0,23.0,24
+2020-04-01,Georgia,Airport,17.0,12.0,18.0,25
+2020-04-01,Georgia,Fitness Center,28.0,29.0,28.0,26
+2020-04-01,Georgia,Alcohol,92.0,74.0,92.0,27
+2020-04-01,Georgia,Metro Stations,36.0,"",36.0,28
+2020-04-01,Georgia,Bus,51.0,"",51.0,29
+2020-04-01,Georgia,Beach,72.0,"",74.0,30
+2020-04-01,Georgia,Spiritual Center,60.0,"",60.0,31

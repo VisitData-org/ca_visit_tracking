@@ -1,841 +1,868 @@
-2020-03-01,Iowa,Food,56.0,56.0,56.0,1
-2020-03-01,Iowa,Shops & Services,43.0,40.0,43.0,2
-2020-03-01,Iowa,Nightlife Spots,64.0,63.0,64.0,3
+2020-03-01,Iowa,Food,107.0,105.0,107.0,1
+2020-03-01,Iowa,Shops & Services,114.0,110.0,114.0,2
+2020-03-01,Iowa,Nightlife Spots,105.0,101.0,105.0,3
 2020-03-01,Iowa,Grocery,99.0,100.0,99.0,4
 2020-03-01,Iowa,Big Box Stores,103.0,104.0,103.0,5
-2020-03-01,Iowa,Outdoors & Recreation,63.0,65.0,63.0,6
-2020-03-01,Iowa,Arts & Entertainment,91.0,94.0,91.0,7
-2020-03-01,Iowa,Gas Stations,103.0,108.0,103.0,8
+2020-03-01,Iowa,Outdoors & Recreation,121.0,121.0,121.0,6
+2020-03-01,Iowa,Arts & Entertainment,109.0,111.0,109.0,7
+2020-03-01,Iowa,Gas Stations,103.0,107.0,103.0,8
 2020-03-01,Iowa,Fast Food Restaurants,113.0,110.0,113.0,9
-2020-03-01,Iowa,School,67.0,73.0,67.0,10
+2020-03-01,Iowa,School,111.0,119.0,111.0,10
 2020-03-01,Iowa,Convenience Store,110.0,109.0,110.0,11
-2020-03-01,Iowa,Professional & Other Places,25.0,23.0,25.0,12
-2020-03-01,Iowa,Hotel,94.0,94.0,94.0,13
+2020-03-01,Iowa,Professional & Other Places,104.0,102.0,104.0,12
+2020-03-01,Iowa,Hotel,109.0,107.0,109.0,13
 2020-03-01,Iowa,Hardware Stores,122.0,121.0,122.0,14
-2020-03-01,Iowa,Colleges & Universities,76.0,65.0,76.0,15
-2020-03-01,Iowa,Medical,64.0,71.0,64.0,16
-2020-03-01,Iowa,Sports,51.0,58.0,50.0,17
+2020-03-01,Iowa,Colleges & Universities,105.0,96.0,106.0,15
+2020-03-01,Iowa,Medical,106.0,116.0,106.0,16
+2020-03-01,Iowa,Sports,111.0,124.0,111.0,17
 2020-03-01,Iowa,Residences,99.0,110.0,99.0,18
-2020-03-01,Iowa,Fitness Center,65.0,55.0,66.0,19
+2020-03-01,Iowa,Fitness Center,94.0,84.0,94.0,19
 2020-03-01,Iowa,Drug Store,100.0,103.0,100.0,20
 2020-03-01,Iowa,Discount Stores,108.0,115.0,108.0,21
-2020-03-01,Iowa,Travel & Transport,33.0,30.0,33.0,22
-2020-03-01,Iowa,Office,98.0,98.0,98.0,23
-2020-03-01,Iowa,Airport,84.0,49.0,85.0,24
-2020-03-01,Iowa,Government,71.0,99.0,70.0,25
+2020-03-01,Iowa,Travel & Transport,121.0,112.0,122.0,22
+2020-03-01,Iowa,Office,114.0,116.0,114.0,23
+2020-03-01,Iowa,Airport,116.0,70.0,118.0,24
+2020-03-01,Iowa,Government,105.0,143.0,104.0,25
 2020-03-01,Iowa,Alcohol,101.0,75.0,102.0,26
 2020-03-01,Iowa,Banks,103.0,"",104.0,27
-2020-03-02,Iowa,Food,56.0,57.0,56.0,1
-2020-03-02,Iowa,Shops & Services,46.0,46.0,46.0,2
-2020-03-02,Iowa,Nightlife Spots,62.0,63.0,62.0,3
-2020-03-02,Iowa,School,60.0,56.0,60.0,4
-2020-03-02,Iowa,Medical,59.0,59.0,59.0,5
+2020-03-02,Iowa,Food,102.0,105.0,102.0,1
+2020-03-02,Iowa,Shops & Services,103.0,102.0,103.0,2
+2020-03-02,Iowa,Nightlife Spots,102.0,101.0,102.0,3
+2020-03-02,Iowa,School,99.0,92.0,100.0,4
+2020-03-02,Iowa,Medical,101.0,101.0,101.0,5
 2020-03-02,Iowa,Gas Stations,97.0,98.0,97.0,6
 2020-03-02,Iowa,Grocery,97.0,94.0,97.0,7
-2020-03-02,Iowa,Outdoors & Recreation,58.0,54.0,58.0,8
-2020-03-02,Iowa,Professional & Other Places,22.0,22.0,22.0,9
-2020-03-02,Iowa,Colleges & Universities,58.0,66.0,58.0,10
+2020-03-02,Iowa,Outdoors & Recreation,108.0,104.0,108.0,8
+2020-03-02,Iowa,Professional & Other Places,107.0,105.0,107.0,9
+2020-03-02,Iowa,Colleges & Universities,96.0,92.0,96.0,10
 2020-03-02,Iowa,Big Box Stores,104.0,104.0,104.0,11
 2020-03-02,Iowa,Fast Food Restaurants,107.0,104.0,107.0,12
-2020-03-02,Iowa,Arts & Entertainment,95.0,100.0,95.0,13
+2020-03-02,Iowa,Arts & Entertainment,111.0,115.0,111.0,13
 2020-03-02,Iowa,Convenience Store,100.0,102.0,100.0,14
-2020-03-02,Iowa,Office,85.0,81.0,85.0,15
-2020-03-02,Iowa,Hotel,84.0,86.0,84.0,16
-2020-03-02,Iowa,Fitness Center,71.0,69.0,71.0,17
+2020-03-02,Iowa,Office,98.0,93.0,98.0,15
+2020-03-02,Iowa,Hotel,100.0,102.0,100.0,16
+2020-03-02,Iowa,Fitness Center,100.0,97.0,100.0,17
 2020-03-02,Iowa,Hardware Stores,98.0,100.0,98.0,18
-2020-03-02,Iowa,Government,71.0,74.0,71.0,19
+2020-03-02,Iowa,Government,104.0,109.0,104.0,19
 2020-03-02,Iowa,Residences,100.0,99.0,100.0,20
-2020-03-02,Iowa,Sports,41.0,39.0,41.0,21
+2020-03-02,Iowa,Sports,106.0,101.0,106.0,21
 2020-03-02,Iowa,Drug Store,104.0,111.0,104.0,22
-2020-03-02,Iowa,Travel & Transport,35.0,38.0,35.0,23
+2020-03-02,Iowa,Travel & Transport,102.0,109.0,102.0,23
 2020-03-02,Iowa,Discount Stores,102.0,97.0,102.0,24
 2020-03-02,Iowa,Banks,109.0,118.0,109.0,25
-2020-03-02,Iowa,Airport,70.0,80.0,70.0,26
+2020-03-02,Iowa,Airport,94.0,107.0,94.0,26
 2020-03-02,Iowa,Alcohol,110.0,89.0,111.0,27
-2020-03-03,Iowa,Food,58.0,56.0,58.0,1
-2020-03-03,Iowa,Shops & Services,39.0,38.0,39.0,2
-2020-03-03,Iowa,Nightlife Spots,67.0,71.0,67.0,3
-2020-03-03,Iowa,School,54.0,53.0,54.0,4
+2020-03-03,Iowa,Food,106.0,101.0,106.0,1
+2020-03-03,Iowa,Shops & Services,107.0,101.0,108.0,2
+2020-03-03,Iowa,Nightlife Spots,105.0,108.0,105.0,3
+2020-03-03,Iowa,School,90.0,87.0,90.0,4
 2020-03-03,Iowa,Gas Stations,101.0,109.0,100.0,5
-2020-03-03,Iowa,Medical,59.0,61.0,59.0,6
+2020-03-03,Iowa,Medical,100.0,103.0,100.0,6
 2020-03-03,Iowa,Grocery,101.0,101.0,101.0,7
-2020-03-03,Iowa,Outdoors & Recreation,59.0,64.0,59.0,8
-2020-03-03,Iowa,Professional & Other Places,21.0,22.0,21.0,9
-2020-03-03,Iowa,Colleges & Universities,59.0,72.0,59.0,10
+2020-03-03,Iowa,Outdoors & Recreation,114.0,122.0,114.0,8
+2020-03-03,Iowa,Professional & Other Places,102.0,104.0,101.0,9
+2020-03-03,Iowa,Colleges & Universities,96.0,99.0,96.0,10
 2020-03-03,Iowa,Fast Food Restaurants,105.0,105.0,105.0,11
 2020-03-03,Iowa,Big Box Stores,105.0,102.0,105.0,12
-2020-03-03,Iowa,Arts & Entertainment,95.0,92.0,95.0,13
+2020-03-03,Iowa,Arts & Entertainment,111.0,106.0,111.0,13
 2020-03-03,Iowa,Convenience Store,106.0,108.0,106.0,14
-2020-03-03,Iowa,Office,86.0,93.0,86.0,15
-2020-03-03,Iowa,Hotel,85.0,87.0,85.0,16
-2020-03-03,Iowa,Fitness Center,70.0,68.0,70.0,17
+2020-03-03,Iowa,Office,99.0,109.0,99.0,15
+2020-03-03,Iowa,Hotel,100.0,105.0,100.0,16
+2020-03-03,Iowa,Fitness Center,99.0,97.0,99.0,17
 2020-03-03,Iowa,Hardware Stores,114.0,118.0,114.0,18
-2020-03-03,Iowa,Government,70.0,75.0,70.0,19
+2020-03-03,Iowa,Government,101.0,106.0,100.0,19
 2020-03-03,Iowa,Residences,107.0,110.0,107.0,20
-2020-03-03,Iowa,Sports,41.0,45.0,41.0,21
-2020-03-03,Iowa,Drug Store,101.0,98.0,101.0,22
-2020-03-03,Iowa,Travel & Transport,34.0,42.0,34.0,23
+2020-03-03,Iowa,Sports,109.0,109.0,109.0,21
+2020-03-03,Iowa,Drug Store,101.0,97.0,101.0,22
+2020-03-03,Iowa,Travel & Transport,102.0,124.0,101.0,23
 2020-03-03,Iowa,Discount Stores,100.0,111.0,99.0,24
-2020-03-03,Iowa,Banks,113.0,121.0,113.0,25
-2020-03-03,Iowa,Airport,73.0,73.0,73.0,26
+2020-03-03,Iowa,Banks,113.0,120.0,113.0,25
+2020-03-03,Iowa,Airport,96.0,96.0,96.0,26
 2020-03-03,Iowa,Alcohol,98.0,101.0,98.0,27
-2020-03-04,Iowa,Food,60.0,61.0,60.0,1
-2020-03-04,Iowa,Shops & Services,41.0,39.0,41.0,2
-2020-03-04,Iowa,Nightlife Spots,68.0,70.0,68.0,3
-2020-03-04,Iowa,School,59.0,62.0,59.0,4
+2020-03-04,Iowa,Food,109.0,110.0,109.0,1
+2020-03-04,Iowa,Shops & Services,110.0,102.0,111.0,2
+2020-03-04,Iowa,Nightlife Spots,109.0,107.0,109.0,3
+2020-03-04,Iowa,School,99.0,103.0,99.0,4
 2020-03-04,Iowa,Gas Stations,102.0,103.0,102.0,5
-2020-03-04,Iowa,Medical,61.0,59.0,61.0,6
+2020-03-04,Iowa,Medical,104.0,102.0,104.0,6
 2020-03-04,Iowa,Grocery,99.0,96.0,99.0,7
-2020-03-04,Iowa,Outdoors & Recreation,59.0,62.0,59.0,8
-2020-03-04,Iowa,Colleges & Universities,64.0,78.0,64.0,9
-2020-03-04,Iowa,Professional & Other Places,22.0,23.0,22.0,10
+2020-03-04,Iowa,Outdoors & Recreation,119.0,127.0,118.0,8
+2020-03-04,Iowa,Colleges & Universities,106.0,115.0,106.0,9
+2020-03-04,Iowa,Professional & Other Places,108.0,114.0,107.0,10
 2020-03-04,Iowa,Fast Food Restaurants,109.0,109.0,109.0,11
 2020-03-04,Iowa,Big Box Stores,106.0,104.0,106.0,12
-2020-03-04,Iowa,Arts & Entertainment,95.0,97.0,95.0,13
+2020-03-04,Iowa,Arts & Entertainment,114.0,114.0,114.0,13
 2020-03-04,Iowa,Convenience Store,105.0,106.0,105.0,14
-2020-03-04,Iowa,Office,91.0,89.0,91.0,15
-2020-03-04,Iowa,Hotel,87.0,92.0,87.0,16
-2020-03-04,Iowa,Fitness Center,72.0,70.0,72.0,17
+2020-03-04,Iowa,Office,104.0,102.0,104.0,15
+2020-03-04,Iowa,Hotel,103.0,110.0,103.0,16
+2020-03-04,Iowa,Fitness Center,102.0,99.0,103.0,17
 2020-03-04,Iowa,Hardware Stores,113.0,113.0,113.0,18
-2020-03-04,Iowa,Government,75.0,92.0,75.0,19
-2020-03-04,Iowa,Sports,43.0,44.0,43.0,20
+2020-03-04,Iowa,Government,108.0,131.0,107.0,19
+2020-03-04,Iowa,Sports,115.0,112.0,116.0,20
 2020-03-04,Iowa,Residences,103.0,110.0,102.0,21
 2020-03-04,Iowa,Drug Store,103.0,98.0,103.0,22
-2020-03-04,Iowa,Travel & Transport,53.0,58.0,53.0,23
+2020-03-04,Iowa,Travel & Transport,106.0,112.0,106.0,23
 2020-03-04,Iowa,Discount Stores,106.0,117.0,105.0,24
 2020-03-04,Iowa,Banks,112.0,118.0,112.0,25
-2020-03-04,Iowa,Airport,76.0,76.0,76.0,26
+2020-03-04,Iowa,Airport,102.0,100.0,102.0,26
 2020-03-04,Iowa,Alcohol,98.0,114.0,97.0,27
-2020-03-05,Iowa,Food,62.0,65.0,62.0,1
-2020-03-05,Iowa,Shops & Services,42.0,43.0,42.0,2
-2020-03-05,Iowa,Nightlife Spots,64.0,67.0,63.0,3
-2020-03-05,Iowa,School,63.0,64.0,63.0,4
-2020-03-05,Iowa,Grocery,110.0,109.0,110.0,5
+2020-03-05,Iowa,Food,112.0,115.0,111.0,1
+2020-03-05,Iowa,Shops & Services,112.0,113.0,112.0,2
+2020-03-05,Iowa,Nightlife Spots,109.0,111.0,109.0,3
+2020-03-05,Iowa,School,106.0,104.0,106.0,4
+2020-03-05,Iowa,Grocery,110.0,108.0,110.0,5
 2020-03-05,Iowa,Gas Stations,102.0,99.0,102.0,6
-2020-03-05,Iowa,Medical,63.0,62.0,63.0,7
-2020-03-05,Iowa,Outdoors & Recreation,61.0,65.0,61.0,8
-2020-03-05,Iowa,Professional & Other Places,21.0,21.0,21.0,9
+2020-03-05,Iowa,Medical,107.0,105.0,107.0,7
+2020-03-05,Iowa,Outdoors & Recreation,112.0,115.0,112.0,8
+2020-03-05,Iowa,Professional & Other Places,104.0,100.0,104.0,9
 2020-03-05,Iowa,Fast Food Restaurants,107.0,104.0,107.0,10
 2020-03-05,Iowa,Big Box Stores,109.0,108.0,109.0,11
-2020-03-05,Iowa,Colleges & Universities,71.0,64.0,71.0,12
-2020-03-05,Iowa,Arts & Entertainment,79.0,82.0,79.0,13
+2020-03-05,Iowa,Colleges & Universities,96.0,84.0,96.0,12
+2020-03-05,Iowa,Arts & Entertainment,110.0,110.0,110.0,13
 2020-03-05,Iowa,Convenience Store,111.0,109.0,111.0,14
-2020-03-05,Iowa,Office,92.0,91.0,92.0,15
-2020-03-05,Iowa,Hotel,89.0,84.0,89.0,16
-2020-03-05,Iowa,Fitness Center,77.0,75.0,77.0,17
+2020-03-05,Iowa,Office,106.0,105.0,106.0,15
+2020-03-05,Iowa,Hotel,104.0,97.0,104.0,16
+2020-03-05,Iowa,Fitness Center,110.0,106.0,110.0,17
 2020-03-05,Iowa,Hardware Stores,113.0,115.0,113.0,18
-2020-03-05,Iowa,Government,79.0,88.0,78.0,19
+2020-03-05,Iowa,Government,116.0,130.0,115.0,19
 2020-03-05,Iowa,Residences,113.0,120.0,113.0,20
-2020-03-05,Iowa,Sports,45.0,50.0,45.0,21
+2020-03-05,Iowa,Sports,117.0,119.0,117.0,21
 2020-03-05,Iowa,Drug Store,104.0,96.0,105.0,22
-2020-03-05,Iowa,Travel & Transport,39.0,41.0,39.0,23
+2020-03-05,Iowa,Travel & Transport,109.0,116.0,109.0,23
 2020-03-05,Iowa,Discount Stores,114.0,112.0,114.0,24
 2020-03-05,Iowa,Banks,117.0,135.0,116.0,25
-2020-03-05,Iowa,Airport,74.0,57.0,74.0,26
+2020-03-05,Iowa,Airport,99.0,77.0,100.0,26
 2020-03-05,Iowa,Alcohol,107.0,122.0,106.0,27
-2020-03-06,Iowa,Food,55.0,53.0,55.0,1
-2020-03-06,Iowa,Shops & Services,48.0,46.0,48.0,2
-2020-03-06,Iowa,Nightlife Spots,63.0,67.0,63.0,3
-2020-03-06,Iowa,School,62.0,65.0,62.0,4
+2020-03-06,Iowa,Food,105.0,101.0,105.0,1
+2020-03-06,Iowa,Shops & Services,109.0,109.0,110.0,2
+2020-03-06,Iowa,Nightlife Spots,105.0,109.0,105.0,3
+2020-03-06,Iowa,School,104.0,106.0,104.0,4
 2020-03-06,Iowa,Gas Stations,106.0,107.0,106.0,5
 2020-03-06,Iowa,Grocery,102.0,98.0,102.0,6
-2020-03-06,Iowa,Outdoors & Recreation,66.0,64.0,66.0,7
+2020-03-06,Iowa,Outdoors & Recreation,118.0,113.0,118.0,7
 2020-03-06,Iowa,Fast Food Restaurants,109.0,106.0,109.0,8
-2020-03-06,Iowa,Medical,60.0,63.0,60.0,9
+2020-03-06,Iowa,Medical,103.0,106.0,103.0,9
 2020-03-06,Iowa,Big Box Stores,99.0,107.0,99.0,10
-2020-03-06,Iowa,Professional & Other Places,23.0,25.0,23.0,11
-2020-03-06,Iowa,Arts & Entertainment,74.0,72.0,74.0,12
+2020-03-06,Iowa,Professional & Other Places,106.0,103.0,106.0,11
+2020-03-06,Iowa,Arts & Entertainment,105.0,100.0,106.0,12
 2020-03-06,Iowa,Convenience Store,107.0,104.0,107.0,13
-2020-03-06,Iowa,Colleges & Universities,70.0,74.0,70.0,14
-2020-03-06,Iowa,Office,87.0,93.0,87.0,15
-2020-03-06,Iowa,Hotel,95.0,91.0,96.0,16
-2020-03-06,Iowa,Hardware Stores,111.0,112.0,111.0,17
-2020-03-06,Iowa,Fitness Center,74.0,75.0,74.0,18
-2020-03-06,Iowa,Sports,47.0,50.0,47.0,19
+2020-03-06,Iowa,Colleges & Universities,95.0,98.0,95.0,14
+2020-03-06,Iowa,Office,100.0,108.0,100.0,15
+2020-03-06,Iowa,Hotel,111.0,105.0,111.0,16
+2020-03-06,Iowa,Hardware Stores,111.0,111.0,111.0,17
+2020-03-06,Iowa,Fitness Center,107.0,106.0,107.0,18
+2020-03-06,Iowa,Sports,121.0,123.0,120.0,19
 2020-03-06,Iowa,Residences,106.0,97.0,106.0,20
-2020-03-06,Iowa,Government,72.0,83.0,72.0,21
+2020-03-06,Iowa,Government,104.0,120.0,103.0,21
 2020-03-06,Iowa,Drug Store,93.0,93.0,93.0,22
-2020-03-06,Iowa,Travel & Transport,38.0,45.0,37.0,23
+2020-03-06,Iowa,Travel & Transport,113.0,130.0,113.0,23
 2020-03-06,Iowa,Discount Stores,102.0,109.0,102.0,24
 2020-03-06,Iowa,Banks,113.0,120.0,112.0,25
-2020-03-06,Iowa,Airport,82.0,69.0,83.0,26
+2020-03-06,Iowa,Airport,110.0,92.0,111.0,26
 2020-03-06,Iowa,Alcohol,89.0,85.0,90.0,27
-2020-03-07,Iowa,Food,58.0,57.0,58.0,1
-2020-03-07,Iowa,Shops & Services,48.0,45.0,48.0,2
-2020-03-07,Iowa,Nightlife Spots,66.0,67.0,66.0,3
+2020-03-07,Iowa,Food,108.0,104.0,108.0,1
+2020-03-07,Iowa,Shops & Services,108.0,107.0,108.0,2
+2020-03-07,Iowa,Nightlife Spots,114.0,113.0,114.0,3
 2020-03-07,Iowa,Grocery,102.0,97.0,102.0,4
 2020-03-07,Iowa,Big Box Stores,106.0,102.0,106.0,5
-2020-03-07,Iowa,Outdoors & Recreation,71.0,68.0,71.0,6
+2020-03-07,Iowa,Outdoors & Recreation,129.0,122.0,129.0,6
 2020-03-07,Iowa,Gas Stations,109.0,110.0,109.0,7
-2020-03-07,Iowa,Arts & Entertainment,87.0,91.0,87.0,8
+2020-03-07,Iowa,Arts & Entertainment,105.0,109.0,105.0,8
 2020-03-07,Iowa,Fast Food Restaurants,112.0,108.0,112.0,9
-2020-03-07,Iowa,School,59.0,58.0,59.0,10
-2020-03-07,Iowa,Professional & Other Places,32.0,32.0,32.0,11
+2020-03-07,Iowa,School,97.0,97.0,97.0,10
+2020-03-07,Iowa,Professional & Other Places,120.0,115.0,121.0,11
 2020-03-07,Iowa,Convenience Store,108.0,95.0,108.0,12
 2020-03-07,Iowa,Hardware Stores,123.0,127.0,122.0,13
-2020-03-07,Iowa,Hotel,93.0,84.0,94.0,14
-2020-03-07,Iowa,Medical,65.0,59.0,65.0,15
-2020-03-07,Iowa,Colleges & Universities,66.0,49.0,66.0,16
-2020-03-07,Iowa,Sports,52.0,60.0,52.0,17
+2020-03-07,Iowa,Hotel,107.0,96.0,108.0,14
+2020-03-07,Iowa,Medical,110.0,101.0,111.0,15
+2020-03-07,Iowa,Colleges & Universities,89.0,71.0,89.0,16
+2020-03-07,Iowa,Sports,117.0,132.0,116.0,17
 2020-03-07,Iowa,Residences,113.0,104.0,114.0,18
-2020-03-07,Iowa,Fitness Center,72.0,70.0,72.0,19
+2020-03-07,Iowa,Fitness Center,102.0,101.0,102.0,19
 2020-03-07,Iowa,Drug Store,106.0,91.0,106.0,20
 2020-03-07,Iowa,Discount Stores,109.0,113.0,109.0,21
-2020-03-07,Iowa,Office,96.0,116.0,96.0,22
-2020-03-07,Iowa,Travel & Transport,33.0,42.0,33.0,23
-2020-03-07,Iowa,Government,86.0,92.0,85.0,24
+2020-03-07,Iowa,Office,112.0,136.0,111.0,22
+2020-03-07,Iowa,Travel & Transport,113.0,129.0,113.0,23
+2020-03-07,Iowa,Government,126.0,131.0,126.0,24
 2020-03-07,Iowa,Alcohol,99.0,93.0,99.0,25
-2020-03-07,Iowa,Banks,97.0,95.0,97.0,26
-2020-03-07,Iowa,Airport,82.0,90.0,82.0,27
-2020-03-07,Iowa,Beach,106.0,"",104.0,28
-2020-03-08,Iowa,Food,60.0,63.0,60.0,1
-2020-03-08,Iowa,Shops & Services,41.0,39.0,41.0,2
-2020-03-08,Iowa,Nightlife Spots,66.0,69.0,66.0,3
-2020-03-08,Iowa,Outdoors & Recreation,80.0,79.0,80.0,4
+2020-03-07,Iowa,Banks,97.0,93.0,97.0,26
+2020-03-07,Iowa,Airport,108.0,121.0,107.0,27
+2020-03-07,Iowa,Beach,117.0,"",115.0,28
+2020-03-08,Iowa,Food,111.0,113.0,111.0,1
+2020-03-08,Iowa,Shops & Services,109.0,107.0,109.0,2
+2020-03-08,Iowa,Nightlife Spots,113.0,116.0,113.0,3
+2020-03-08,Iowa,Outdoors & Recreation,136.0,129.0,136.0,4
 2020-03-08,Iowa,Grocery,100.0,97.0,100.0,5
 2020-03-08,Iowa,Big Box Stores,108.0,107.0,108.0,6
-2020-03-08,Iowa,Gas Stations,110.0,114.0,110.0,7
-2020-03-08,Iowa,Arts & Entertainment,76.0,75.0,76.0,8
+2020-03-08,Iowa,Gas Stations,110.0,113.0,110.0,7
+2020-03-08,Iowa,Arts & Entertainment,107.0,103.0,107.0,8
 2020-03-08,Iowa,Fast Food Restaurants,113.0,113.0,113.0,9
-2020-03-08,Iowa,School,74.0,74.0,74.0,10
+2020-03-08,Iowa,School,120.0,119.0,121.0,10
 2020-03-08,Iowa,Convenience Store,111.0,104.0,111.0,11
-2020-03-08,Iowa,Professional & Other Places,28.0,25.0,28.0,12
+2020-03-08,Iowa,Professional & Other Places,119.0,111.0,120.0,12
 2020-03-08,Iowa,Hardware Stores,125.0,128.0,125.0,13
-2020-03-08,Iowa,Hotel,95.0,95.0,95.0,14
-2020-03-08,Iowa,Medical,68.0,72.0,68.0,15
-2020-03-08,Iowa,Colleges & Universities,69.0,66.0,69.0,16
-2020-03-08,Iowa,Sports,58.0,63.0,57.0,17
+2020-03-08,Iowa,Hotel,110.0,109.0,110.0,14
+2020-03-08,Iowa,Medical,115.0,121.0,115.0,15
+2020-03-08,Iowa,Colleges & Universities,97.0,98.0,97.0,16
+2020-03-08,Iowa,Sports,121.0,128.0,121.0,17
 2020-03-08,Iowa,Residences,107.0,117.0,107.0,18
 2020-03-08,Iowa,Drug Store,109.0,113.0,108.0,19
-2020-03-08,Iowa,Fitness Center,67.0,59.0,67.0,20
+2020-03-08,Iowa,Fitness Center,97.0,90.0,97.0,20
 2020-03-08,Iowa,Discount Stores,112.0,125.0,111.0,21
-2020-03-08,Iowa,Travel & Transport,33.0,38.0,33.0,22
-2020-03-08,Iowa,Office,104.0,115.0,103.0,23
-2020-03-08,Iowa,Government,80.0,72.0,80.0,24
-2020-03-08,Iowa,Airport,80.0,45.0,82.0,25
+2020-03-08,Iowa,Travel & Transport,125.0,142.0,125.0,22
+2020-03-08,Iowa,Office,122.0,137.0,121.0,23
+2020-03-08,Iowa,Government,118.0,107.0,119.0,24
+2020-03-08,Iowa,Airport,112.0,63.0,114.0,25
 2020-03-08,Iowa,Alcohol,99.0,112.0,99.0,26
 2020-03-08,Iowa,Banks,84.0,"",85.0,27
-2020-03-09,Iowa,Food,58.0,55.0,58.0,1
-2020-03-09,Iowa,Shops & Services,52.0,48.0,52.0,2
-2020-03-09,Iowa,Nightlife Spots,61.0,59.0,61.0,3
-2020-03-09,Iowa,School,61.0,55.0,61.0,4
+2020-03-09,Iowa,Food,101.0,96.0,102.0,1
+2020-03-09,Iowa,Shops & Services,98.0,93.0,98.0,2
+2020-03-09,Iowa,Nightlife Spots,104.0,99.0,104.0,3
+2020-03-09,Iowa,School,101.0,90.0,101.0,4
 2020-03-09,Iowa,Grocery,100.0,92.0,100.0,5
-2020-03-09,Iowa,Medical,57.0,57.0,57.0,6
+2020-03-09,Iowa,Medical,97.0,97.0,97.0,6
 2020-03-09,Iowa,Gas Stations,92.0,85.0,93.0,7
-2020-03-09,Iowa,Professional & Other Places,22.0,23.0,22.0,8
-2020-03-09,Iowa,Outdoors & Recreation,55.0,51.0,55.0,9
+2020-03-09,Iowa,Professional & Other Places,103.0,104.0,103.0,8
+2020-03-09,Iowa,Outdoors & Recreation,100.0,95.0,100.0,9
 2020-03-09,Iowa,Big Box Stores,102.0,90.0,103.0,10
 2020-03-09,Iowa,Fast Food Restaurants,105.0,93.0,105.0,11
-2020-03-09,Iowa,Colleges & Universities,59.0,52.0,59.0,12
-2020-03-09,Iowa,Arts & Entertainment,89.0,85.0,90.0,13
+2020-03-09,Iowa,Colleges & Universities,89.0,77.0,89.0,12
+2020-03-09,Iowa,Arts & Entertainment,104.0,98.0,104.0,13
 2020-03-09,Iowa,Convenience Store,98.0,89.0,98.0,14
-2020-03-09,Iowa,Office,86.0,85.0,86.0,15
-2020-03-09,Iowa,Hotel,83.0,83.0,83.0,16
-2020-03-09,Iowa,Fitness Center,69.0,58.0,69.0,17
+2020-03-09,Iowa,Office,99.0,99.0,99.0,15
+2020-03-09,Iowa,Hotel,99.0,98.0,99.0,16
+2020-03-09,Iowa,Fitness Center,97.0,82.0,98.0,17
 2020-03-09,Iowa,Hardware Stores,94.0,87.0,94.0,18
-2020-03-09,Iowa,Government,68.0,68.0,68.0,19
+2020-03-09,Iowa,Government,100.0,99.0,100.0,19
 2020-03-09,Iowa,Residences,99.0,85.0,99.0,20
-2020-03-09,Iowa,Sports,40.0,38.0,41.0,21
+2020-03-09,Iowa,Sports,104.0,97.0,104.0,21
 2020-03-09,Iowa,Drug Store,100.0,92.0,100.0,22
 2020-03-09,Iowa,Discount Stores,111.0,85.0,112.0,23
-2020-03-09,Iowa,Travel & Transport,32.0,34.0,32.0,24
+2020-03-09,Iowa,Travel & Transport,95.0,96.0,95.0,24
 2020-03-09,Iowa,Banks,110.0,110.0,110.0,25
-2020-03-09,Iowa,Airport,69.0,61.0,69.0,26
+2020-03-09,Iowa,Airport,93.0,81.0,93.0,26
 2020-03-09,Iowa,Alcohol,105.0,93.0,106.0,27
-2020-03-10,Iowa,Food,55.0,52.0,55.0,1
-2020-03-10,Iowa,Shops & Services,37.0,37.0,37.0,2
-2020-03-10,Iowa,School,54.0,51.0,54.0,3
-2020-03-10,Iowa,Nightlife Spots,63.0,64.0,63.0,4
+2020-03-10,Iowa,Food,104.0,97.0,104.0,1
+2020-03-10,Iowa,Shops & Services,105.0,102.0,105.0,2
+2020-03-10,Iowa,School,91.0,84.0,91.0,3
+2020-03-10,Iowa,Nightlife Spots,104.0,102.0,104.0,4
 2020-03-10,Iowa,Gas Stations,98.0,96.0,99.0,5
 2020-03-10,Iowa,Grocery,99.0,102.0,99.0,6
-2020-03-10,Iowa,Medical,54.0,55.0,54.0,7
-2020-03-10,Iowa,Outdoors & Recreation,60.0,63.0,60.0,8
-2020-03-10,Iowa,Professional & Other Places,19.0,20.0,19.0,9
-2020-03-10,Iowa,Colleges & Universities,60.0,67.0,60.0,10
+2020-03-10,Iowa,Medical,94.0,94.0,94.0,7
+2020-03-10,Iowa,Outdoors & Recreation,111.0,113.0,110.0,8
+2020-03-10,Iowa,Professional & Other Places,96.0,96.0,96.0,9
+2020-03-10,Iowa,Colleges & Universities,90.0,97.0,90.0,10
 2020-03-10,Iowa,Big Box Stores,104.0,97.0,104.0,11
 2020-03-10,Iowa,Fast Food Restaurants,97.0,101.0,97.0,12
-2020-03-10,Iowa,Arts & Entertainment,92.0,87.0,92.0,13
+2020-03-10,Iowa,Arts & Entertainment,108.0,101.0,109.0,13
 2020-03-10,Iowa,Convenience Store,105.0,104.0,105.0,14
-2020-03-10,Iowa,Office,88.0,94.0,88.0,15
-2020-03-10,Iowa,Fitness Center,71.0,68.0,72.0,16
-2020-03-10,Iowa,Hotel,85.0,78.0,86.0,17
+2020-03-10,Iowa,Office,101.0,111.0,101.0,15
+2020-03-10,Iowa,Fitness Center,102.0,98.0,102.0,16
+2020-03-10,Iowa,Hotel,100.0,95.0,101.0,17
 2020-03-10,Iowa,Hardware Stores,108.0,116.0,108.0,18
-2020-03-10,Iowa,Sports,42.0,47.0,42.0,19
-2020-03-10,Iowa,Residences,102.0,101.0,102.0,20
-2020-03-10,Iowa,Government,64.0,60.0,64.0,21
+2020-03-10,Iowa,Residences,102.0,101.0,102.0,19
+2020-03-10,Iowa,Sports,113.0,115.0,113.0,20
+2020-03-10,Iowa,Government,92.0,86.0,92.0,21
 2020-03-10,Iowa,Drug Store,99.0,90.0,100.0,22
-2020-03-10,Iowa,Travel & Transport,35.0,37.0,35.0,23
+2020-03-10,Iowa,Travel & Transport,108.0,116.0,108.0,23
 2020-03-10,Iowa,Discount Stores,102.0,98.0,102.0,24
-2020-03-10,Iowa,Banks,105.0,99.0,106.0,25
-2020-03-10,Iowa,Airport,76.0,56.0,77.0,26
+2020-03-10,Iowa,Banks,105.0,98.0,106.0,25
+2020-03-10,Iowa,Airport,101.0,74.0,102.0,26
 2020-03-10,Iowa,Alcohol,104.0,91.0,105.0,27
-2020-03-11,Iowa,Food,55.0,53.0,55.0,1
-2020-03-11,Iowa,Shops & Services,51.0,48.0,51.0,2
-2020-03-11,Iowa,Nightlife Spots,69.0,70.0,69.0,3
-2020-03-11,Iowa,School,55.0,55.0,55.0,4
+2020-03-11,Iowa,Food,104.0,100.0,104.0,1
+2020-03-11,Iowa,Shops & Services,109.0,104.0,109.0,2
+2020-03-11,Iowa,Nightlife Spots,109.0,106.0,109.0,3
+2020-03-11,Iowa,School,93.0,91.0,93.0,4
 2020-03-11,Iowa,Gas Stations,101.0,99.0,101.0,5
 2020-03-11,Iowa,Grocery,101.0,99.0,101.0,6
-2020-03-11,Iowa,Medical,57.0,52.0,57.0,7
-2020-03-11,Iowa,Outdoors & Recreation,58.0,58.0,58.0,8
-2020-03-11,Iowa,Professional & Other Places,21.0,21.0,21.0,9
+2020-03-11,Iowa,Medical,98.0,89.0,98.0,7
+2020-03-11,Iowa,Outdoors & Recreation,117.0,117.0,118.0,8
+2020-03-11,Iowa,Professional & Other Places,105.0,100.0,105.0,9
 2020-03-11,Iowa,Big Box Stores,108.0,103.0,108.0,10
 2020-03-11,Iowa,Fast Food Restaurants,104.0,105.0,104.0,11
-2020-03-11,Iowa,Colleges & Universities,48.0,58.0,48.0,12
-2020-03-11,Iowa,Arts & Entertainment,80.0,81.0,80.0,13
+2020-03-11,Iowa,Colleges & Universities,85.0,94.0,85.0,12
+2020-03-11,Iowa,Arts & Entertainment,110.0,108.0,110.0,13
 2020-03-11,Iowa,Convenience Store,107.0,103.0,107.0,14
-2020-03-11,Iowa,Office,86.0,85.0,86.0,15
-2020-03-11,Iowa,Hotel,89.0,91.0,89.0,16
-2020-03-11,Iowa,Fitness Center,70.0,67.0,70.0,17
+2020-03-11,Iowa,Office,98.0,98.0,98.0,15
+2020-03-11,Iowa,Hotel,105.0,109.0,104.0,16
+2020-03-11,Iowa,Fitness Center,100.0,95.0,100.0,17
 2020-03-11,Iowa,Hardware Stores,112.0,109.0,112.0,18
-2020-03-11,Iowa,Sports,44.0,45.0,44.0,19
-2020-03-11,Iowa,Residences,103.0,105.0,103.0,20
-2020-03-11,Iowa,Government,67.0,61.0,67.0,21
+2020-03-11,Iowa,Residences,103.0,105.0,103.0,19
+2020-03-11,Iowa,Sports,114.0,111.0,114.0,20
+2020-03-11,Iowa,Government,96.0,88.0,97.0,21
 2020-03-11,Iowa,Drug Store,101.0,94.0,101.0,22
-2020-03-11,Iowa,Travel & Transport,33.0,37.0,33.0,23
+2020-03-11,Iowa,Travel & Transport,107.0,114.0,107.0,23
 2020-03-11,Iowa,Discount Stores,104.0,106.0,104.0,24
 2020-03-11,Iowa,Banks,109.0,113.0,109.0,25
-2020-03-11,Iowa,Airport,76.0,69.0,77.0,26
+2020-03-11,Iowa,Airport,103.0,92.0,103.0,26
 2020-03-11,Iowa,Alcohol,102.0,111.0,101.0,27
-2020-03-12,Iowa,Food,57.0,56.0,57.0,1
-2020-03-12,Iowa,Shops & Services,53.0,51.0,53.0,2
-2020-03-12,Iowa,Nightlife Spots,66.0,69.0,66.0,3
+2020-03-12,Iowa,Food,108.0,104.0,108.0,1
+2020-03-12,Iowa,Shops & Services,111.0,109.0,111.0,2
+2020-03-12,Iowa,Nightlife Spots,109.0,110.0,109.0,3
 2020-03-12,Iowa,Grocery,119.0,111.0,120.0,4
-2020-03-12,Iowa,School,60.0,59.0,60.0,5
+2020-03-12,Iowa,School,101.0,96.0,102.0,5
 2020-03-12,Iowa,Gas Stations,103.0,103.0,103.0,6
-2020-03-12,Iowa,Medical,56.0,56.0,56.0,7
-2020-03-12,Iowa,Big Box Stores,120.0,124.0,120.0,8
-2020-03-12,Iowa,Outdoors & Recreation,53.0,52.0,53.0,9
-2020-03-12,Iowa,Professional & Other Places,22.0,23.0,22.0,10
+2020-03-12,Iowa,Medical,97.0,96.0,97.0,7
+2020-03-12,Iowa,Big Box Stores,120.0,123.0,120.0,8
+2020-03-12,Iowa,Outdoors & Recreation,114.0,112.0,114.0,9
+2020-03-12,Iowa,Professional & Other Places,105.0,103.0,105.0,10
 2020-03-12,Iowa,Fast Food Restaurants,107.0,100.0,107.0,11
 2020-03-12,Iowa,Convenience Store,109.0,103.0,109.0,12
-2020-03-12,Iowa,Arts & Entertainment,88.0,91.0,88.0,13
-2020-03-12,Iowa,Colleges & Universities,55.0,56.0,55.0,14
-2020-03-12,Iowa,Office,88.0,93.0,88.0,15
-2020-03-12,Iowa,Hotel,86.0,84.0,86.0,16
+2020-03-12,Iowa,Colleges & Universities,81.0,82.0,81.0,13
+2020-03-12,Iowa,Arts & Entertainment,106.0,108.0,105.0,14
+2020-03-12,Iowa,Office,102.0,108.0,102.0,15
+2020-03-12,Iowa,Hotel,101.0,98.0,101.0,16
 2020-03-12,Iowa,Hardware Stores,120.0,125.0,120.0,17
-2020-03-12,Iowa,Fitness Center,65.0,66.0,65.0,18
-2020-03-12,Iowa,Government,75.0,72.0,75.0,19
-2020-03-12,Iowa,Sports,44.0,51.0,44.0,20
+2020-03-12,Iowa,Fitness Center,94.0,93.0,94.0,18
+2020-03-12,Iowa,Government,108.0,103.0,108.0,19
+2020-03-12,Iowa,Sports,116.0,123.0,116.0,20
 2020-03-12,Iowa,Drug Store,117.0,111.0,118.0,21
 2020-03-12,Iowa,Residences,103.0,97.0,104.0,22
 2020-03-12,Iowa,Discount Stores,130.0,114.0,131.0,23
-2020-03-12,Iowa,Travel & Transport,36.0,43.0,36.0,24
+2020-03-12,Iowa,Travel & Transport,110.0,132.0,110.0,24
 2020-03-12,Iowa,Banks,110.0,123.0,109.0,25
-2020-03-12,Iowa,Airport,61.0,47.0,62.0,26
+2020-03-12,Iowa,Airport,82.0,64.0,83.0,26
 2020-03-12,Iowa,Alcohol,117.0,114.0,117.0,27
-2020-03-13,Iowa,Food,56.0,53.0,56.0,1
-2020-03-13,Iowa,Shops & Services,42.0,40.0,42.0,2
-2020-03-13,Iowa,Nightlife Spots,67.0,72.0,67.0,3
+2020-03-13,Iowa,Food,106.0,100.0,106.0,1
+2020-03-13,Iowa,Shops & Services,111.0,107.0,111.0,2
+2020-03-13,Iowa,Nightlife Spots,111.0,115.0,111.0,3
 2020-03-13,Iowa,Grocery,134.0,130.0,134.0,4
 2020-03-13,Iowa,Gas Stations,104.0,101.0,104.0,5
 2020-03-13,Iowa,Big Box Stores,120.0,113.0,121.0,6
-2020-03-13,Iowa,School,49.0,53.0,49.0,7
-2020-03-13,Iowa,Outdoors & Recreation,64.0,62.0,64.0,8
+2020-03-13,Iowa,School,82.0,87.0,82.0,7
+2020-03-13,Iowa,Outdoors & Recreation,118.0,114.0,118.0,8
 2020-03-13,Iowa,Fast Food Restaurants,108.0,104.0,108.0,9
-2020-03-13,Iowa,Medical,58.0,55.0,58.0,10
-2020-03-13,Iowa,Professional & Other Places,21.0,21.0,21.0,11
-2020-03-13,Iowa,Arts & Entertainment,82.0,81.0,82.0,12
+2020-03-13,Iowa,Medical,100.0,93.0,100.0,10
+2020-03-13,Iowa,Professional & Other Places,104.0,94.0,104.0,11
+2020-03-13,Iowa,Arts & Entertainment,99.0,97.0,99.0,12
 2020-03-13,Iowa,Convenience Store,104.0,96.0,105.0,13
-2020-03-13,Iowa,Colleges & Universities,60.0,66.0,60.0,14
-2020-03-13,Iowa,Office,86.0,91.0,86.0,15
-2020-03-13,Iowa,Hardware Stores,120.0,100.0,121.0,16
-2020-03-13,Iowa,Hotel,84.0,75.0,84.0,17
-2020-03-13,Iowa,Fitness Center,64.0,66.0,64.0,18
+2020-03-13,Iowa,Colleges & Universities,80.0,84.0,80.0,14
+2020-03-13,Iowa,Office,99.0,105.0,99.0,15
+2020-03-13,Iowa,Hardware Stores,120.0,99.0,121.0,16
+2020-03-13,Iowa,Hotel,98.0,87.0,98.0,17
+2020-03-13,Iowa,Fitness Center,92.0,94.0,92.0,18
 2020-03-13,Iowa,Residences,109.0,100.0,110.0,19
 2020-03-13,Iowa,Drug Store,116.0,112.0,116.0,20
-2020-03-13,Iowa,Government,72.0,67.0,73.0,21
-2020-03-13,Iowa,Sports,44.0,47.0,44.0,22
+2020-03-13,Iowa,Government,105.0,96.0,105.0,21
+2020-03-13,Iowa,Sports,110.0,113.0,110.0,22
 2020-03-13,Iowa,Discount Stores,124.0,124.0,124.0,23
-2020-03-13,Iowa,Travel & Transport,35.0,45.0,34.0,24
+2020-03-13,Iowa,Travel & Transport,111.0,136.0,110.0,24
 2020-03-13,Iowa,Banks,107.0,113.0,107.0,25
-2020-03-13,Iowa,Airport,70.0,62.0,71.0,26
+2020-03-13,Iowa,Airport,94.0,82.0,95.0,26
 2020-03-13,Iowa,Alcohol,117.0,114.0,118.0,27
-2020-03-13,Iowa,Beach,106.0,"",106.0,28
-2020-03-14,Iowa,Food,46.0,40.0,46.0,1
-2020-03-14,Iowa,Shops & Services,35.0,29.0,35.0,2
-2020-03-14,Iowa,Nightlife Spots,59.0,55.0,59.0,3
+2020-03-13,Iowa,Beach,119.0,"",118.0,28
+2020-03-14,Iowa,Food,88.0,77.0,88.0,1
+2020-03-14,Iowa,Shops & Services,83.0,72.0,84.0,2
+2020-03-14,Iowa,Nightlife Spots,99.0,90.0,99.0,3
 2020-03-14,Iowa,Grocery,110.0,99.0,110.0,4
 2020-03-14,Iowa,Big Box Stores,100.0,84.0,101.0,5
 2020-03-14,Iowa,Gas Stations,87.0,78.0,87.0,6
-2020-03-14,Iowa,Arts & Entertainment,54.0,49.0,54.0,7
-2020-03-14,Iowa,Outdoors & Recreation,43.0,37.0,43.0,8
+2020-03-14,Iowa,Arts & Entertainment,77.0,67.0,77.0,7
+2020-03-14,Iowa,Outdoors & Recreation,87.0,76.0,88.0,8
 2020-03-14,Iowa,Fast Food Restaurants,81.0,72.0,81.0,9
 2020-03-14,Iowa,Convenience Store,93.0,85.0,93.0,10
-2020-03-14,Iowa,Professional & Other Places,23.0,22.0,23.0,11
-2020-03-14,Iowa,School,36.0,33.0,36.0,12
+2020-03-14,Iowa,Professional & Other Places,91.0,84.0,92.0,11
+2020-03-14,Iowa,School,59.0,54.0,59.0,12
 2020-03-14,Iowa,Hardware Stores,106.0,99.0,106.0,13
-2020-03-14,Iowa,Hotel,69.0,70.0,69.0,14
-2020-03-14,Iowa,Medical,52.0,41.0,52.0,15
+2020-03-14,Iowa,Hotel,80.0,80.0,80.0,14
+2020-03-14,Iowa,Medical,89.0,70.0,90.0,15
 2020-03-14,Iowa,Drug Store,105.0,89.0,105.0,16
 2020-03-14,Iowa,Discount Stores,114.0,107.0,114.0,17
-2020-03-14,Iowa,Fitness Center,55.0,43.0,55.0,18
+2020-03-14,Iowa,Fitness Center,79.0,62.0,79.0,18
 2020-03-14,Iowa,Residences,84.0,70.0,84.0,19
-2020-03-14,Iowa,Sports,34.0,36.0,34.0,20
-2020-03-14,Iowa,Colleges & Universities,50.0,42.0,50.0,21
-2020-03-14,Iowa,Office,84.0,78.0,84.0,22
-2020-03-14,Iowa,Travel & Transport,30.0,30.0,30.0,23
-2020-03-14,Iowa,Government,65.0,63.0,65.0,24
+2020-03-14,Iowa,Sports,81.0,83.0,80.0,20
+2020-03-14,Iowa,Colleges & Universities,57.0,52.0,57.0,21
+2020-03-14,Iowa,Office,98.0,91.0,98.0,22
+2020-03-14,Iowa,Travel & Transport,100.0,88.0,100.0,23
+2020-03-14,Iowa,Government,98.0,95.0,98.0,24
 2020-03-14,Iowa,Alcohol,97.0,92.0,97.0,25
-2020-03-14,Iowa,Airport,83.0,62.0,83.0,26
-2020-03-14,Iowa,Banks,77.0,92.0,76.0,27
-2020-03-15,Iowa,Food,45.0,42.0,45.0,1
-2020-03-15,Iowa,Shops & Services,44.0,40.0,45.0,2
-2020-03-15,Iowa,Nightlife Spots,52.0,47.0,52.0,3
+2020-03-14,Iowa,Airport,109.0,83.0,110.0,26
+2020-03-14,Iowa,Banks,77.0,90.0,76.0,27
+2020-03-15,Iowa,Food,83.0,75.0,83.0,1
+2020-03-15,Iowa,Shops & Services,87.0,84.0,87.0,2
+2020-03-15,Iowa,Nightlife Spots,90.0,80.0,90.0,3
 2020-03-15,Iowa,Grocery,93.0,99.0,93.0,4
 2020-03-15,Iowa,Big Box Stores,97.0,102.0,97.0,5
 2020-03-15,Iowa,Gas Stations,88.0,89.0,88.0,6
-2020-03-15,Iowa,Outdoors & Recreation,46.0,48.0,46.0,7
+2020-03-15,Iowa,Outdoors & Recreation,88.0,90.0,88.0,7
 2020-03-15,Iowa,Fast Food Restaurants,85.0,83.0,85.0,8
-2020-03-15,Iowa,Arts & Entertainment,62.0,55.0,63.0,9
+2020-03-15,Iowa,Arts & Entertainment,73.0,64.0,74.0,9
 2020-03-15,Iowa,Convenience Store,93.0,90.0,93.0,10
-2020-03-15,Iowa,Professional & Other Places,21.0,17.0,21.0,11
-2020-03-15,Iowa,School,46.0,44.0,47.0,12
+2020-03-15,Iowa,Professional & Other Places,92.0,80.0,93.0,11
+2020-03-15,Iowa,School,75.0,71.0,75.0,12
 2020-03-15,Iowa,Hardware Stores,115.0,113.0,115.0,13
-2020-03-15,Iowa,Hotel,70.0,63.0,71.0,14
-2020-03-15,Iowa,Medical,52.0,46.0,52.0,15
+2020-03-15,Iowa,Hotel,81.0,72.0,81.0,14
+2020-03-15,Iowa,Medical,86.0,77.0,87.0,15
 2020-03-15,Iowa,Residences,80.0,62.0,80.0,16
 2020-03-15,Iowa,Discount Stores,116.0,116.0,116.0,17
 2020-03-15,Iowa,Drug Store,103.0,107.0,103.0,18
-2020-03-15,Iowa,Sports,34.0,39.0,34.0,19
-2020-03-15,Iowa,Fitness Center,55.0,55.0,55.0,20
-2020-03-15,Iowa,Colleges & Universities,44.0,40.0,44.0,21
-2020-03-15,Iowa,Travel & Transport,30.0,28.0,30.0,22
-2020-03-15,Iowa,Office,84.0,86.0,84.0,23
-2020-03-15,Iowa,Government,71.0,"",71.0,24
-2020-03-15,Iowa,Airport,56.0,"",57.0,25
+2020-03-15,Iowa,Sports,72.0,80.0,72.0,19
+2020-03-15,Iowa,Fitness Center,80.0,84.0,80.0,20
+2020-03-15,Iowa,Colleges & Universities,50.0,49.0,50.0,21
+2020-03-15,Iowa,Travel & Transport,109.0,106.0,109.0,22
+2020-03-15,Iowa,Office,98.0,102.0,98.0,23
+2020-03-15,Iowa,Government,103.0,"",103.0,24
+2020-03-15,Iowa,Airport,78.0,"",80.0,25
 2020-03-15,Iowa,Alcohol,76.0,82.0,76.0,26
 2020-03-15,Iowa,Banks,74.0,"",74.0,27
-2020-03-16,Iowa,Food,54.0,49.0,55.0,1
-2020-03-16,Iowa,Shops & Services,57.0,46.0,58.0,2
+2020-03-16,Iowa,Food,97.0,86.0,97.0,1
+2020-03-16,Iowa,Shops & Services,103.0,86.0,104.0,2
 2020-03-16,Iowa,Grocery,155.0,135.0,156.0,3
-2020-03-16,Iowa,Nightlife Spots,58.0,56.0,58.0,4
+2020-03-16,Iowa,Nightlife Spots,96.0,92.0,96.0,4
 2020-03-16,Iowa,Big Box Stores,135.0,119.0,135.0,5
 2020-03-16,Iowa,Gas Stations,96.0,91.0,96.0,6
-2020-03-16,Iowa,Medical,49.0,45.0,49.0,7
-2020-03-16,Iowa,Outdoors & Recreation,54.0,49.0,54.0,8
-2020-03-16,Iowa,Professional & Other Places,19.0,18.0,19.0,9
+2020-03-16,Iowa,Medical,84.0,77.0,84.0,7
+2020-03-16,Iowa,Outdoors & Recreation,104.0,96.0,105.0,8
+2020-03-16,Iowa,Professional & Other Places,101.0,90.0,101.0,9
 2020-03-16,Iowa,Fast Food Restaurants,89.0,83.0,90.0,10
 2020-03-16,Iowa,Convenience Store,101.0,92.0,101.0,11
-2020-03-16,Iowa,School,33.0,35.0,33.0,12
-2020-03-16,Iowa,Arts & Entertainment,74.0,68.0,75.0,13
-2020-03-16,Iowa,Office,77.0,79.0,77.0,14
+2020-03-16,Iowa,School,54.0,58.0,54.0,12
+2020-03-16,Iowa,Arts & Entertainment,87.0,78.0,87.0,13
+2020-03-16,Iowa,Office,88.0,91.0,88.0,14
 2020-03-16,Iowa,Hardware Stores,113.0,102.0,114.0,15
-2020-03-16,Iowa,Hotel,75.0,73.0,75.0,16
-2020-03-16,Iowa,Colleges & Universities,27.0,46.0,27.0,17
+2020-03-16,Iowa,Hotel,90.0,87.0,90.0,16
+2020-03-16,Iowa,Colleges & Universities,37.0,59.0,37.0,17
 2020-03-16,Iowa,Drug Store,124.0,116.0,124.0,18
 2020-03-16,Iowa,Residences,93.0,78.0,93.0,19
-2020-03-16,Iowa,Government,64.0,63.0,64.0,20
-2020-03-16,Iowa,Fitness Center,53.0,44.0,54.0,21
+2020-03-16,Iowa,Government,94.0,91.0,94.0,20
+2020-03-16,Iowa,Fitness Center,75.0,61.0,76.0,21
 2020-03-16,Iowa,Discount Stores,146.0,128.0,147.0,22
-2020-03-16,Iowa,Sports,42.0,39.0,42.0,23
-2020-03-16,Iowa,Travel & Transport,33.0,31.0,33.0,24
+2020-03-16,Iowa,Sports,104.0,94.0,104.0,23
+2020-03-16,Iowa,Travel & Transport,99.0,91.0,99.0,24
 2020-03-16,Iowa,Banks,108.0,121.0,107.0,25
 2020-03-16,Iowa,Alcohol,146.0,145.0,146.0,26
-2020-03-16,Iowa,Airport,50.0,42.0,51.0,27
-2020-03-17,Iowa,Food,44.0,38.0,44.0,1
-2020-03-17,Iowa,Shops & Services,40.0,35.0,40.0,2
+2020-03-16,Iowa,Airport,68.0,56.0,68.0,27
+2020-03-17,Iowa,Food,81.0,69.0,81.0,1
+2020-03-17,Iowa,Shops & Services,93.0,81.0,94.0,2
 2020-03-17,Iowa,Grocery,138.0,126.0,138.0,3
-2020-03-17,Iowa,Nightlife Spots,54.0,47.0,54.0,4
+2020-03-17,Iowa,Nightlife Spots,87.0,74.0,88.0,4
 2020-03-17,Iowa,Gas Stations,93.0,87.0,94.0,5
-2020-03-17,Iowa,Outdoors & Recreation,63.0,61.0,63.0,6
+2020-03-17,Iowa,Outdoors & Recreation,113.0,108.0,113.0,6
 2020-03-17,Iowa,Big Box Stores,111.0,88.0,112.0,7
-2020-03-17,Iowa,Medical,44.0,38.0,44.0,8
-2020-03-17,Iowa,Professional & Other Places,17.0,15.0,17.0,9
+2020-03-17,Iowa,Medical,74.0,65.0,75.0,8
+2020-03-17,Iowa,Professional & Other Places,83.0,74.0,84.0,9
 2020-03-17,Iowa,Convenience Store,102.0,104.0,102.0,10
 2020-03-17,Iowa,Fast Food Restaurants,80.0,69.0,81.0,11
-2020-03-17,Iowa,School,25.0,30.0,25.0,12
-2020-03-17,Iowa,Arts & Entertainment,63.0,54.0,64.0,13
-2020-03-17,Iowa,Office,70.0,70.0,70.0,14
+2020-03-17,Iowa,School,42.0,49.0,42.0,12
+2020-03-17,Iowa,Arts & Entertainment,75.0,63.0,76.0,13
+2020-03-17,Iowa,Office,81.0,83.0,81.0,14
 2020-03-17,Iowa,Hardware Stores,115.0,100.0,116.0,15
-2020-03-17,Iowa,Hotel,65.0,58.0,65.0,16
-2020-03-17,Iowa,Colleges & Universities,22.0,43.0,22.0,17
+2020-03-17,Iowa,Hotel,76.0,71.0,76.0,16
 2020-03-17,Iowa,Drug Store,110.0,98.0,111.0,17
-2020-03-17,Iowa,Sports,40.0,47.0,40.0,18
-2020-03-17,Iowa,Residences,92.0,87.0,92.0,19
-2020-03-17,Iowa,Government,56.0,59.0,55.0,20
-2020-03-17,Iowa,Discount Stores,122.0,109.0,122.0,21
-2020-03-17,Iowa,Travel & Transport,58.0,50.0,58.0,22
-2020-03-17,Iowa,Fitness Center,37.0,40.0,37.0,23
-2020-03-17,Iowa,Banks,87.0,89.0,87.0,24
-2020-03-17,Iowa,Alcohol,131.0,103.0,133.0,25
-2020-03-17,Iowa,Airport,53.0,48.0,53.0,26
-2020-03-17,Iowa,Beach,126.0,"",127.0,27
-2020-03-18,Iowa,Food,36.0,31.0,36.0,1
-2020-03-18,Iowa,Shops & Services,40.0,32.0,40.0,2
+2020-03-17,Iowa,Colleges & Universities,33.0,61.0,33.0,18
+2020-03-17,Iowa,Sports,110.0,117.0,110.0,19
+2020-03-17,Iowa,Residences,92.0,87.0,92.0,20
+2020-03-17,Iowa,Government,79.0,83.0,79.0,21
+2020-03-17,Iowa,Discount Stores,122.0,109.0,122.0,22
+2020-03-17,Iowa,Travel & Transport,108.0,95.0,108.0,23
+2020-03-17,Iowa,Fitness Center,53.0,58.0,53.0,24
+2020-03-17,Iowa,Banks,87.0,88.0,87.0,25
+2020-03-17,Iowa,Alcohol,131.0,103.0,133.0,26
+2020-03-17,Iowa,Airport,70.0,63.0,70.0,27
+2020-03-17,Iowa,Beach,141.0,"",142.0,28
+2020-03-18,Iowa,Food,66.0,57.0,66.0,1
+2020-03-18,Iowa,Shops & Services,80.0,63.0,81.0,2
 2020-03-18,Iowa,Grocery,113.0,98.0,113.0,3
 2020-03-18,Iowa,Gas Stations,83.0,75.0,84.0,4
-2020-03-18,Iowa,Nightlife Spots,42.0,39.0,42.0,5
+2020-03-18,Iowa,Nightlife Spots,65.0,58.0,65.0,5
 2020-03-18,Iowa,Big Box Stores,99.0,78.0,99.0,6
-2020-03-18,Iowa,Outdoors & Recreation,51.0,46.0,51.0,7
-2020-03-18,Iowa,Medical,38.0,33.0,38.0,8
-2020-03-18,Iowa,Professional & Other Places,16.0,15.0,16.0,9
+2020-03-18,Iowa,Outdoors & Recreation,94.0,84.0,94.0,7
+2020-03-18,Iowa,Medical,65.0,56.0,66.0,8
+2020-03-18,Iowa,Professional & Other Places,78.0,72.0,79.0,9
 2020-03-18,Iowa,Convenience Store,87.0,79.0,87.0,10
 2020-03-18,Iowa,Fast Food Restaurants,71.0,59.0,71.0,11
-2020-03-18,Iowa,School,23.0,28.0,23.0,12
-2020-03-18,Iowa,Arts & Entertainment,48.0,47.0,48.0,13
-2020-03-18,Iowa,Office,60.0,61.0,60.0,14
+2020-03-18,Iowa,School,38.0,45.0,38.0,12
+2020-03-18,Iowa,Arts & Entertainment,58.0,56.0,58.0,13
+2020-03-18,Iowa,Office,69.0,70.0,69.0,14
 2020-03-18,Iowa,Hardware Stores,103.0,85.0,104.0,15
-2020-03-18,Iowa,Hotel,53.0,47.0,53.0,16
+2020-03-18,Iowa,Hotel,62.0,57.0,63.0,16
 2020-03-18,Iowa,Drug Store,94.0,78.0,95.0,17
-2020-03-18,Iowa,Colleges & Universities,18.0,30.0,18.0,18
+2020-03-18,Iowa,Colleges & Universities,28.0,44.0,27.0,18
 2020-03-18,Iowa,Residences,79.0,77.0,79.0,19
-2020-03-18,Iowa,Government,48.0,43.0,48.0,20
-2020-03-18,Iowa,Sports,32.0,29.0,32.0,21
+2020-03-18,Iowa,Government,69.0,61.0,69.0,20
+2020-03-18,Iowa,Sports,83.0,71.0,83.0,21
 2020-03-18,Iowa,Discount Stores,103.0,99.0,103.0,22
-2020-03-18,Iowa,Travel & Transport,32.0,37.0,32.0,23
-2020-03-18,Iowa,Fitness Center,25.0,21.0,26.0,24
+2020-03-18,Iowa,Travel & Transport,100.0,105.0,99.0,23
+2020-03-18,Iowa,Fitness Center,36.0,30.0,36.0,24
 2020-03-18,Iowa,Banks,82.0,74.0,82.0,25
-2020-03-18,Iowa,Airport,47.0,44.0,47.0,26
+2020-03-18,Iowa,Airport,63.0,58.0,63.0,26
 2020-03-18,Iowa,Alcohol,91.0,59.0,92.0,27
-2020-03-19,Iowa,Food,34.0,29.0,35.0,1
-2020-03-19,Iowa,Shops & Services,36.0,31.0,36.0,2
+2020-03-19,Iowa,Food,64.0,53.0,64.0,1
+2020-03-19,Iowa,Shops & Services,77.0,66.0,77.0,2
 2020-03-19,Iowa,Grocery,110.0,95.0,110.0,3
 2020-03-19,Iowa,Gas Stations,83.0,76.0,83.0,4
 2020-03-19,Iowa,Big Box Stores,99.0,79.0,100.0,5
-2020-03-19,Iowa,Nightlife Spots,43.0,44.0,43.0,6
-2020-03-19,Iowa,Outdoors & Recreation,46.0,41.0,47.0,7
-2020-03-19,Iowa,Professional & Other Places,16.0,15.0,16.0,8
-2020-03-19,Iowa,Medical,38.0,32.0,38.0,9
+2020-03-19,Iowa,Nightlife Spots,62.0,61.0,62.0,6
+2020-03-19,Iowa,Outdoors & Recreation,90.0,77.0,90.0,7
+2020-03-19,Iowa,Professional & Other Places,78.0,68.0,78.0,8
+2020-03-19,Iowa,Medical,65.0,53.0,66.0,9
 2020-03-19,Iowa,Fast Food Restaurants,68.0,60.0,69.0,10
 2020-03-19,Iowa,Convenience Store,85.0,76.0,85.0,11
-2020-03-19,Iowa,School,25.0,29.0,24.0,12
+2020-03-19,Iowa,School,41.0,47.0,41.0,12
 2020-03-19,Iowa,Hardware Stores,106.0,86.0,107.0,13
-2020-03-19,Iowa,Arts & Entertainment,48.0,47.0,49.0,14
-2020-03-19,Iowa,Office,58.0,58.0,58.0,15
-2020-03-19,Iowa,Hotel,48.0,45.0,48.0,16
+2020-03-19,Iowa,Arts & Entertainment,58.0,56.0,58.0,14
+2020-03-19,Iowa,Office,67.0,66.0,67.0,15
 2020-03-19,Iowa,Drug Store,89.0,69.0,90.0,16
-2020-03-19,Iowa,Colleges & Universities,20.0,40.0,20.0,17
-2020-03-19,Iowa,Residences,77.0,75.0,77.0,18
-2020-03-19,Iowa,Sports,33.0,38.0,33.0,19
-2020-03-19,Iowa,Discount Stores,101.0,88.0,102.0,20
-2020-03-19,Iowa,Government,46.0,36.0,46.0,21
-2020-03-19,Iowa,Travel & Transport,31.0,32.0,31.0,22
-2020-03-19,Iowa,Fitness Center,25.0,21.0,25.0,23
-2020-03-19,Iowa,Banks,83.0,76.0,83.0,24
-2020-03-19,Iowa,Alcohol,103.0,91.0,104.0,25
-2020-03-19,Iowa,Airport,41.0,36.0,41.0,26
-2020-03-20,Iowa,Food,31.0,26.0,31.0,1
-2020-03-20,Iowa,Shops & Services,33.0,29.0,33.0,2
+2020-03-19,Iowa,Hotel,56.0,52.0,56.0,17
+2020-03-19,Iowa,Colleges & Universities,28.0,52.0,27.0,18
+2020-03-19,Iowa,Residences,77.0,75.0,77.0,19
+2020-03-19,Iowa,Sports,77.0,79.0,77.0,20
+2020-03-19,Iowa,Discount Stores,101.0,88.0,102.0,21
+2020-03-19,Iowa,Government,67.0,53.0,68.0,22
+2020-03-19,Iowa,Travel & Transport,93.0,96.0,93.0,23
+2020-03-19,Iowa,Fitness Center,37.0,31.0,37.0,24
+2020-03-19,Iowa,Banks,83.0,76.0,83.0,25
+2020-03-19,Iowa,Alcohol,103.0,91.0,104.0,26
+2020-03-19,Iowa,Airport,55.0,49.0,55.0,27
+2020-03-20,Iowa,Food,56.0,48.0,56.0,1
+2020-03-20,Iowa,Shops & Services,68.0,62.0,68.0,2
 2020-03-20,Iowa,Grocery,103.0,94.0,103.0,3
 2020-03-20,Iowa,Gas Stations,80.0,69.0,80.0,4
 2020-03-20,Iowa,Big Box Stores,86.0,76.0,87.0,5
-2020-03-20,Iowa,Nightlife Spots,29.0,32.0,29.0,6
-2020-03-20,Iowa,Outdoors & Recreation,50.0,44.0,50.0,7
-2020-03-20,Iowa,Professional & Other Places,15.0,14.0,15.0,8
+2020-03-20,Iowa,Nightlife Spots,53.0,56.0,53.0,6
+2020-03-20,Iowa,Outdoors & Recreation,89.0,78.0,89.0,7
+2020-03-20,Iowa,Professional & Other Places,74.0,64.0,75.0,8
 2020-03-20,Iowa,Fast Food Restaurants,69.0,64.0,69.0,9
-2020-03-20,Iowa,Medical,37.0,35.0,37.0,10
+2020-03-20,Iowa,Medical,63.0,60.0,63.0,10
 2020-03-20,Iowa,Convenience Store,82.0,68.0,83.0,11
-2020-03-20,Iowa,School,22.0,28.0,22.0,12
-2020-03-20,Iowa,Hardware Stores,100.0,76.0,101.0,13
-2020-03-20,Iowa,Arts & Entertainment,42.0,37.0,42.0,14
-2020-03-20,Iowa,Office,59.0,62.0,59.0,15
+2020-03-20,Iowa,School,36.0,45.0,36.0,12
+2020-03-20,Iowa,Hardware Stores,100.0,75.0,101.0,13
+2020-03-20,Iowa,Arts & Entertainment,50.0,44.0,50.0,14
+2020-03-20,Iowa,Office,69.0,72.0,69.0,15
 2020-03-20,Iowa,Drug Store,86.0,80.0,87.0,16
 2020-03-20,Iowa,Residences,78.0,69.0,78.0,17
-2020-03-20,Iowa,Hotel,48.0,41.0,48.0,18
-2020-03-20,Iowa,Colleges & Universities,20.0,32.0,20.0,19
-2020-03-20,Iowa,Sports,34.0,35.0,34.0,20
+2020-03-20,Iowa,Hotel,56.0,47.0,56.0,18
+2020-03-20,Iowa,Colleges & Universities,30.0,47.0,30.0,19
+2020-03-20,Iowa,Sports,79.0,79.0,79.0,20
 2020-03-20,Iowa,Discount Stores,87.0,75.0,87.0,21
-2020-03-20,Iowa,Government,46.0,36.0,47.0,22
-2020-03-20,Iowa,Travel & Transport,30.0,29.0,30.0,23
+2020-03-20,Iowa,Government,66.0,51.0,67.0,22
+2020-03-20,Iowa,Travel & Transport,90.0,81.0,90.0,23
 2020-03-20,Iowa,Banks,71.0,69.0,71.0,24
-2020-03-20,Iowa,Fitness Center,26.0,24.0,26.0,25
+2020-03-20,Iowa,Fitness Center,37.0,35.0,37.0,25
 2020-03-20,Iowa,Alcohol,92.0,90.0,92.0,26
-2020-03-20,Iowa,Airport,37.0,37.0,37.0,27
-2020-03-21,Iowa,Food,26.0,24.0,26.0,1
-2020-03-21,Iowa,Shops & Services,29.0,25.0,29.0,2
+2020-03-20,Iowa,Airport,50.0,49.0,50.0,27
+2020-03-21,Iowa,Food,46.0,43.0,46.0,1
+2020-03-21,Iowa,Shops & Services,48.0,44.0,48.0,2
 2020-03-21,Iowa,Grocery,92.0,89.0,92.0,3
 2020-03-21,Iowa,Big Box Stores,73.0,66.0,73.0,4
-2020-03-21,Iowa,Outdoors & Recreation,47.0,51.0,47.0,5
+2020-03-21,Iowa,Outdoors & Recreation,89.0,93.0,89.0,5
 2020-03-21,Iowa,Gas Stations,71.0,63.0,71.0,6
-2020-03-21,Iowa,Nightlife Spots,24.0,28.0,24.0,7
+2020-03-21,Iowa,Nightlife Spots,41.0,47.0,41.0,7
 2020-03-21,Iowa,Fast Food Restaurants,58.0,55.0,58.0,8
 2020-03-21,Iowa,Convenience Store,74.0,69.0,74.0,9
 2020-03-21,Iowa,Hardware Stores,96.0,85.0,96.0,10
-2020-03-21,Iowa,Professional & Other Places,16.0,16.0,16.0,11
-2020-03-21,Iowa,School,27.0,27.0,27.0,12
-2020-03-21,Iowa,Arts & Entertainment,24.0,24.0,24.0,13
-2020-03-21,Iowa,Medical,39.0,31.0,39.0,14
+2020-03-21,Iowa,Professional & Other Places,64.0,57.0,64.0,11
+2020-03-21,Iowa,School,44.0,44.0,44.0,12
+2020-03-21,Iowa,Arts & Entertainment,35.0,34.0,35.0,13
+2020-03-21,Iowa,Medical,65.0,52.0,66.0,14
 2020-03-21,Iowa,Drug Store,88.0,73.0,88.0,15
 2020-03-21,Iowa,Discount Stores,84.0,76.0,84.0,16
 2020-03-21,Iowa,Residences,67.0,63.0,67.0,17
-2020-03-21,Iowa,Hotel,31.0,36.0,31.0,18
-2020-03-21,Iowa,Sports,31.0,38.0,31.0,19
-2020-03-21,Iowa,Colleges & Universities,28.0,37.0,28.0,20
-2020-03-21,Iowa,Travel & Transport,27.0,23.0,27.0,21
-2020-03-21,Iowa,Office,68.0,71.0,68.0,22
-2020-03-21,Iowa,Fitness Center,23.0,23.0,23.0,23
+2020-03-21,Iowa,Hotel,35.0,40.0,35.0,18
+2020-03-21,Iowa,Sports,66.0,75.0,66.0,19
+2020-03-21,Iowa,Colleges & Universities,40.0,58.0,40.0,20
+2020-03-21,Iowa,Travel & Transport,92.0,71.0,93.0,21
+2020-03-21,Iowa,Office,80.0,84.0,80.0,22
+2020-03-21,Iowa,Fitness Center,33.0,33.0,33.0,23
 2020-03-21,Iowa,Alcohol,79.0,70.0,80.0,24
-2020-03-21,Iowa,Government,51.0,"",51.0,25
-2020-03-21,Iowa,Banks,69.0,73.0,69.0,26
-2020-03-21,Iowa,Airport,41.0,"",41.0,27
-2020-03-22,Iowa,Food,22.0,20.0,22.0,1
-2020-03-22,Iowa,Shops & Services,24.0,22.0,24.0,2
+2020-03-21,Iowa,Government,74.0,"",74.0,25
+2020-03-21,Iowa,Banks,69.0,72.0,69.0,26
+2020-03-21,Iowa,Airport,54.0,"",54.0,27
+2020-03-22,Iowa,Food,40.0,35.0,40.0,1
+2020-03-22,Iowa,Shops & Services,42.0,43.0,42.0,2
 2020-03-22,Iowa,Grocery,66.0,63.0,66.0,3
 2020-03-22,Iowa,Big Box Stores,64.0,60.0,65.0,4
-2020-03-22,Iowa,Outdoors & Recreation,39.0,39.0,39.0,5
+2020-03-22,Iowa,Outdoors & Recreation,70.0,68.0,70.0,5
 2020-03-22,Iowa,Gas Stations,59.0,57.0,59.0,6
-2020-03-22,Iowa,Nightlife Spots,18.0,21.0,18.0,7
+2020-03-22,Iowa,Nightlife Spots,31.0,36.0,31.0,7
 2020-03-22,Iowa,Fast Food Restaurants,52.0,45.0,52.0,8
 2020-03-22,Iowa,Convenience Store,62.0,60.0,62.0,9
 2020-03-22,Iowa,Hardware Stores,84.0,77.0,84.0,10
-2020-03-22,Iowa,School,30.0,30.0,30.0,11
-2020-03-22,Iowa,Professional & Other Places,14.0,12.0,14.0,12
-2020-03-22,Iowa,Arts & Entertainment,27.0,24.0,27.0,13
-2020-03-22,Iowa,Medical,34.0,25.0,35.0,14
+2020-03-22,Iowa,School,49.0,48.0,49.0,11
+2020-03-22,Iowa,Professional & Other Places,56.0,54.0,56.0,12
+2020-03-22,Iowa,Arts & Entertainment,33.0,29.0,33.0,13
+2020-03-22,Iowa,Medical,58.0,42.0,58.0,14
 2020-03-22,Iowa,Drug Store,79.0,78.0,79.0,15
 2020-03-22,Iowa,Residences,57.0,42.0,57.0,16
 2020-03-22,Iowa,Discount Stores,73.0,62.0,74.0,17
-2020-03-22,Iowa,Hotel,28.0,25.0,28.0,18
-2020-03-22,Iowa,Sports,23.0,25.0,23.0,19
-2020-03-22,Iowa,Travel & Transport,24.0,22.0,24.0,20
-2020-03-22,Iowa,Colleges & Universities,25.0,"",25.0,21
-2020-03-22,Iowa,Office,67.0,81.0,66.0,22
-2020-03-22,Iowa,Fitness Center,24.0,"",24.0,23
-2020-03-22,Iowa,Government,45.0,"",45.0,24
+2020-03-22,Iowa,Hotel,32.0,29.0,32.0,18
+2020-03-22,Iowa,Sports,51.0,53.0,51.0,19
+2020-03-22,Iowa,Travel & Transport,87.0,80.0,87.0,20
+2020-03-22,Iowa,Colleges & Universities,35.0,"",35.0,21
+2020-03-22,Iowa,Office,78.0,96.0,78.0,22
+2020-03-22,Iowa,Fitness Center,35.0,"",35.0,23
+2020-03-22,Iowa,Government,66.0,"",67.0,24
 2020-03-22,Iowa,Alcohol,58.0,"",58.0,25
 2020-03-22,Iowa,Banks,61.0,"",61.0,26
-2020-03-22,Iowa,Airport,26.0,"",26.0,27
-2020-03-23,Iowa,Food,34.0,30.0,34.0,1
-2020-03-23,Iowa,Shops & Services,33.0,29.0,33.0,2
+2020-03-22,Iowa,Airport,37.0,"",37.0,27
+2020-03-23,Iowa,Food,61.0,54.0,61.0,1
+2020-03-23,Iowa,Shops & Services,67.0,59.0,67.0,2
 2020-03-23,Iowa,Grocery,88.0,83.0,89.0,3
 2020-03-23,Iowa,Gas Stations,74.0,75.0,74.0,4
-2020-03-23,Iowa,Outdoors & Recreation,49.0,47.0,49.0,5
-2020-03-23,Iowa,Nightlife Spots,37.0,38.0,37.0,6
+2020-03-23,Iowa,Outdoors & Recreation,97.0,98.0,97.0,5
+2020-03-23,Iowa,Nightlife Spots,64.0,64.0,64.0,6
 2020-03-23,Iowa,Big Box Stores,81.0,77.0,81.0,7
-2020-03-23,Iowa,Professional & Other Places,15.0,14.0,15.0,8
-2020-03-23,Iowa,Medical,34.0,29.0,34.0,9
+2020-03-23,Iowa,Professional & Other Places,79.0,70.0,79.0,8
+2020-03-23,Iowa,Medical,57.0,49.0,58.0,9
 2020-03-23,Iowa,Convenience Store,76.0,73.0,76.0,10
 2020-03-23,Iowa,Fast Food Restaurants,63.0,52.0,63.0,11
-2020-03-23,Iowa,School,26.0,29.0,26.0,12
-2020-03-23,Iowa,Office,60.0,62.0,60.0,13
-2020-03-23,Iowa,Arts & Entertainment,50.0,47.0,50.0,14
+2020-03-23,Iowa,School,42.0,47.0,42.0,12
+2020-03-23,Iowa,Office,68.0,72.0,68.0,13
+2020-03-23,Iowa,Arts & Entertainment,59.0,55.0,59.0,14
 2020-03-23,Iowa,Hardware Stores,94.0,83.0,94.0,15
-2020-03-23,Iowa,Hotel,51.0,44.0,52.0,16
+2020-03-23,Iowa,Hotel,61.0,52.0,62.0,16
 2020-03-23,Iowa,Residences,75.0,64.0,75.0,17
-2020-03-23,Iowa,Colleges & Universities,19.0,37.0,18.0,18
-2020-03-23,Iowa,Sports,34.0,34.0,34.0,19
+2020-03-23,Iowa,Colleges & Universities,26.0,48.0,26.0,18
+2020-03-23,Iowa,Sports,90.0,87.0,90.0,19
 2020-03-23,Iowa,Drug Store,79.0,69.0,80.0,20
-2020-03-23,Iowa,Government,44.0,41.0,44.0,21
+2020-03-23,Iowa,Government,64.0,59.0,65.0,21
 2020-03-23,Iowa,Discount Stores,95.0,93.0,95.0,22
-2020-03-23,Iowa,Travel & Transport,32.0,41.0,32.0,23
-2020-03-23,Iowa,Fitness Center,27.0,22.0,27.0,24
+2020-03-23,Iowa,Travel & Transport,78.0,94.0,77.0,23
+2020-03-23,Iowa,Fitness Center,38.0,31.0,39.0,24
 2020-03-23,Iowa,Banks,73.0,87.0,72.0,25
 2020-03-23,Iowa,Alcohol,84.0,77.0,84.0,26
-2020-03-23,Iowa,Airport,34.0,"",34.0,27
-2020-03-24,Iowa,Food,32.0,27.0,32.0,1
-2020-03-24,Iowa,Shops & Services,24.0,22.0,24.0,2
+2020-03-23,Iowa,Airport,46.0,"",46.0,27
+2020-03-24,Iowa,Food,60.0,51.0,61.0,1
+2020-03-24,Iowa,Shops & Services,61.0,54.0,61.0,2
 2020-03-24,Iowa,Grocery,84.0,79.0,84.0,3
-2020-03-24,Iowa,Gas Stations,75.0,70.0,75.0,4
-2020-03-24,Iowa,Outdoors & Recreation,55.0,53.0,55.0,5
-2020-03-24,Iowa,Nightlife Spots,35.0,34.0,35.0,6
-2020-03-24,Iowa,Professional & Other Places,15.0,16.0,15.0,7
+2020-03-24,Iowa,Gas Stations,75.0,69.0,75.0,4
+2020-03-24,Iowa,Outdoors & Recreation,101.0,95.0,101.0,5
+2020-03-24,Iowa,Nightlife Spots,60.0,59.0,61.0,6
+2020-03-24,Iowa,Professional & Other Places,72.0,74.0,72.0,7
 2020-03-24,Iowa,Big Box Stores,76.0,61.0,77.0,8
-2020-03-24,Iowa,Medical,30.0,27.0,31.0,9
+2020-03-24,Iowa,Medical,52.0,46.0,52.0,9
 2020-03-24,Iowa,Fast Food Restaurants,62.0,56.0,62.0,10
 2020-03-24,Iowa,Convenience Store,77.0,70.0,77.0,11
-2020-03-24,Iowa,School,21.0,26.0,21.0,12
-2020-03-24,Iowa,Arts & Entertainment,42.0,45.0,42.0,13
+2020-03-24,Iowa,School,35.0,42.0,35.0,12
+2020-03-24,Iowa,Arts & Entertainment,58.0,60.0,58.0,13
 2020-03-24,Iowa,Hardware Stores,97.0,80.0,98.0,14
-2020-03-24,Iowa,Office,55.0,54.0,55.0,15
-2020-03-24,Iowa,Sports,35.0,35.0,35.0,16
-2020-03-24,Iowa,Hotel,49.0,41.0,50.0,17
+2020-03-24,Iowa,Office,63.0,63.0,63.0,15
+2020-03-24,Iowa,Sports,92.0,84.0,92.0,16
+2020-03-24,Iowa,Hotel,58.0,50.0,58.0,17
 2020-03-24,Iowa,Residences,77.0,72.0,77.0,18
-2020-03-24,Iowa,Colleges & Universities,18.0,35.0,18.0,19
+2020-03-24,Iowa,Colleges & Universities,24.0,44.0,24.0,19
 2020-03-24,Iowa,Drug Store,76.0,64.0,77.0,20
-2020-03-24,Iowa,Government,40.0,35.0,41.0,21
-2020-03-24,Iowa,Travel & Transport,30.0,39.0,30.0,22
+2020-03-24,Iowa,Government,58.0,49.0,58.0,21
+2020-03-24,Iowa,Travel & Transport,91.0,117.0,90.0,22
 2020-03-24,Iowa,Discount Stores,77.0,69.0,77.0,23
-2020-03-24,Iowa,Fitness Center,25.0,22.0,25.0,24
-2020-03-24,Iowa,Banks,60.0,54.0,60.0,25
+2020-03-24,Iowa,Fitness Center,35.0,32.0,35.0,24
+2020-03-24,Iowa,Banks,60.0,53.0,60.0,25
 2020-03-24,Iowa,Alcohol,75.0,61.0,75.0,26
-2020-03-24,Iowa,Airport,36.0,37.0,36.0,27
-2020-03-25,Iowa,Food,33.0,30.0,33.0,1
-2020-03-25,Iowa,Shops & Services,30.0,25.0,30.0,2
+2020-03-24,Iowa,Airport,48.0,49.0,48.0,27
+2020-03-25,Iowa,Food,59.0,52.0,59.0,1
+2020-03-25,Iowa,Shops & Services,63.0,53.0,64.0,2
 2020-03-25,Iowa,Grocery,82.0,78.0,82.0,3
-2020-03-25,Iowa,Outdoors & Recreation,58.0,55.0,58.0,4
+2020-03-25,Iowa,Outdoors & Recreation,107.0,101.0,108.0,4
 2020-03-25,Iowa,Gas Stations,78.0,66.0,78.0,5
-2020-03-25,Iowa,Nightlife Spots,35.0,34.0,35.0,6
-2020-03-25,Iowa,Professional & Other Places,14.0,14.0,14.0,7
+2020-03-25,Iowa,Nightlife Spots,61.0,58.0,61.0,6
+2020-03-25,Iowa,Professional & Other Places,74.0,71.0,74.0,7
 2020-03-25,Iowa,Big Box Stores,75.0,60.0,75.0,8
-2020-03-25,Iowa,Medical,31.0,27.0,31.0,9
-2020-03-25,Iowa,Fast Food Restaurants,70.0,64.0,70.0,10
+2020-03-25,Iowa,Fast Food Restaurants,70.0,64.0,70.0,9
+2020-03-25,Iowa,Medical,53.0,46.0,53.0,10
 2020-03-25,Iowa,Convenience Store,76.0,73.0,77.0,11
-2020-03-25,Iowa,School,23.0,31.0,23.0,12
-2020-03-25,Iowa,Arts & Entertainment,49.0,49.0,49.0,13
+2020-03-25,Iowa,School,38.0,51.0,37.0,12
+2020-03-25,Iowa,Arts & Entertainment,58.0,57.0,58.0,13
 2020-03-25,Iowa,Hardware Stores,104.0,90.0,104.0,14
-2020-03-25,Iowa,Office,55.0,58.0,55.0,15
-2020-03-25,Iowa,Sports,41.0,41.0,41.0,16
-2020-03-25,Iowa,Hotel,52.0,47.0,52.0,17
-2020-03-25,Iowa,Colleges & Universities,18.0,42.0,18.0,18
+2020-03-25,Iowa,Office,63.0,67.0,63.0,15
+2020-03-25,Iowa,Sports,101.0,93.0,101.0,16
+2020-03-25,Iowa,Hotel,61.0,57.0,61.0,17
+2020-03-25,Iowa,Colleges & Universities,25.0,54.0,25.0,18
 2020-03-25,Iowa,Residences,74.0,71.0,74.0,19
 2020-03-25,Iowa,Drug Store,75.0,62.0,76.0,20
-2020-03-25,Iowa,Government,44.0,40.0,44.0,21
-2020-03-25,Iowa,Travel & Transport,27.0,31.0,27.0,22
-2020-03-25,Iowa,Discount Stores,83.0,69.0,83.0,23
-2020-03-25,Iowa,Fitness Center,25.0,22.0,25.0,24
+2020-03-25,Iowa,Government,64.0,58.0,64.0,21
+2020-03-25,Iowa,Discount Stores,83.0,69.0,83.0,22
+2020-03-25,Iowa,Travel & Transport,83.0,90.0,83.0,23
+2020-03-25,Iowa,Fitness Center,35.0,31.0,35.0,24
 2020-03-25,Iowa,Banks,68.0,77.0,68.0,25
 2020-03-25,Iowa,Alcohol,79.0,100.0,78.0,26
-2020-03-25,Iowa,Airport,35.0,38.0,35.0,27
-2020-03-25,Iowa,Beach,115.0,"",115.0,28
-2020-03-26,Iowa,Food,34.0,30.0,34.0,1
-2020-03-26,Iowa,Shops & Services,34.0,29.0,34.0,2
+2020-03-25,Iowa,Airport,47.0,51.0,47.0,27
+2020-03-25,Iowa,Beach,125.0,"",126.0,28
+2020-03-26,Iowa,Food,60.0,53.0,61.0,1
+2020-03-26,Iowa,Shops & Services,67.0,59.0,67.0,2
 2020-03-26,Iowa,Grocery,86.0,73.0,87.0,3
-2020-03-26,Iowa,Outdoors & Recreation,57.0,56.0,57.0,4
+2020-03-26,Iowa,Outdoors & Recreation,111.0,108.0,111.0,4
 2020-03-26,Iowa,Gas Stations,76.0,68.0,76.0,5
-2020-03-26,Iowa,Nightlife Spots,38.0,39.0,38.0,6
-2020-03-26,Iowa,Professional & Other Places,15.0,14.0,15.0,7
+2020-03-26,Iowa,Nightlife Spots,63.0,62.0,63.0,6
+2020-03-26,Iowa,Professional & Other Places,74.0,63.0,75.0,7
 2020-03-26,Iowa,Big Box Stores,81.0,70.0,81.0,8
 2020-03-26,Iowa,Fast Food Restaurants,68.0,59.0,69.0,9
-2020-03-26,Iowa,Medical,32.0,27.0,33.0,10
-2020-03-26,Iowa,School,26.0,31.0,26.0,11
+2020-03-26,Iowa,Medical,56.0,47.0,56.0,10
+2020-03-26,Iowa,School,43.0,50.0,43.0,11
 2020-03-26,Iowa,Convenience Store,78.0,78.0,78.0,12
-2020-03-26,Iowa,Arts & Entertainment,54.0,53.0,54.0,13
+2020-03-26,Iowa,Arts & Entertainment,63.0,63.0,63.0,13
 2020-03-26,Iowa,Hardware Stores,103.0,82.0,104.0,14
-2020-03-26,Iowa,Office,55.0,51.0,55.0,15
-2020-03-26,Iowa,Hotel,49.0,40.0,50.0,16
-2020-03-26,Iowa,Sports,37.0,37.0,37.0,17
+2020-03-26,Iowa,Office,63.0,59.0,63.0,15
+2020-03-26,Iowa,Hotel,58.0,47.0,58.0,16
+2020-03-26,Iowa,Sports,96.0,88.0,96.0,17
 2020-03-26,Iowa,Residences,79.0,72.0,79.0,18
-2020-03-26,Iowa,Colleges & Universities,19.0,32.0,19.0,19
+2020-03-26,Iowa,Colleges & Universities,26.0,43.0,26.0,19
 2020-03-26,Iowa,Drug Store,77.0,76.0,77.0,20
-2020-03-26,Iowa,Government,47.0,43.0,47.0,21
-2020-03-26,Iowa,Travel & Transport,29.0,26.0,30.0,22
+2020-03-26,Iowa,Government,68.0,62.0,68.0,21
+2020-03-26,Iowa,Travel & Transport,92.0,82.0,93.0,22
 2020-03-26,Iowa,Discount Stores,83.0,79.0,83.0,23
-2020-03-26,Iowa,Fitness Center,25.0,25.0,25.0,24
+2020-03-26,Iowa,Fitness Center,36.0,36.0,36.0,24
 2020-03-26,Iowa,Banks,72.0,66.0,72.0,25
 2020-03-26,Iowa,Alcohol,89.0,84.0,90.0,26
-2020-03-26,Iowa,Airport,35.0,"",35.0,27
-2020-03-27,Iowa,Food,31.0,27.0,31.0,1
-2020-03-27,Iowa,Shops & Services,40.0,35.0,41.0,2
+2020-03-26,Iowa,Airport,47.0,"",47.0,27
+2020-03-27,Iowa,Food,56.0,48.0,56.0,1
+2020-03-27,Iowa,Shops & Services,61.0,53.0,61.0,2
 2020-03-27,Iowa,Grocery,87.0,77.0,87.0,3
 2020-03-27,Iowa,Gas Stations,72.0,64.0,72.0,4
-2020-03-27,Iowa,Outdoors & Recreation,52.0,46.0,52.0,5
-2020-03-27,Iowa,Nightlife Spots,33.0,33.0,33.0,6
+2020-03-27,Iowa,Outdoors & Recreation,101.0,90.0,101.0,5
+2020-03-27,Iowa,Nightlife Spots,57.0,56.0,57.0,6
 2020-03-27,Iowa,Big Box Stores,78.0,69.0,78.0,7
-2020-03-27,Iowa,Professional & Other Places,15.0,14.0,15.0,8
+2020-03-27,Iowa,Professional & Other Places,73.0,63.0,73.0,8
 2020-03-27,Iowa,Fast Food Restaurants,69.0,58.0,69.0,9
 2020-03-27,Iowa,Convenience Store,75.0,64.0,76.0,10
-2020-03-27,Iowa,Medical,32.0,26.0,32.0,11
-2020-03-27,Iowa,School,24.0,29.0,23.0,12
-2020-03-27,Iowa,Arts & Entertainment,45.0,44.0,45.0,13
-2020-03-27,Iowa,Hardware Stores,101.0,88.0,101.0,14
-2020-03-27,Iowa,Office,57.0,58.0,57.0,15
-2020-03-27,Iowa,Sports,37.0,43.0,37.0,16
+2020-03-27,Iowa,Medical,55.0,44.0,55.0,11
+2020-03-27,Iowa,School,39.0,47.0,38.0,12
+2020-03-27,Iowa,Arts & Entertainment,54.0,53.0,55.0,13
+2020-03-27,Iowa,Hardware Stores,101.0,87.0,101.0,14
+2020-03-27,Iowa,Office,66.0,67.0,66.0,15
+2020-03-27,Iowa,Sports,88.0,97.0,87.0,16
 2020-03-27,Iowa,Residences,74.0,70.0,74.0,17
-2020-03-27,Iowa,Hotel,44.0,33.0,45.0,18
+2020-03-27,Iowa,Hotel,51.0,38.0,52.0,18
 2020-03-27,Iowa,Drug Store,77.0,72.0,78.0,19
-2020-03-27,Iowa,Colleges & Universities,20.0,29.0,20.0,20
-2020-03-27,Iowa,Travel & Transport,26.0,24.0,26.0,21
-2020-03-27,Iowa,Government,42.0,37.0,42.0,22
+2020-03-27,Iowa,Colleges & Universities,27.0,38.0,27.0,20
+2020-03-27,Iowa,Travel & Transport,86.0,75.0,86.0,21
+2020-03-27,Iowa,Government,61.0,52.0,62.0,22
 2020-03-27,Iowa,Discount Stores,73.0,70.0,73.0,23
-2020-03-27,Iowa,Fitness Center,28.0,26.0,28.0,24
+2020-03-27,Iowa,Fitness Center,40.0,38.0,40.0,24
 2020-03-27,Iowa,Banks,66.0,57.0,66.0,25
 2020-03-27,Iowa,Alcohol,82.0,77.0,83.0,26
-2020-03-27,Iowa,Airport,31.0,39.0,30.0,27
-2020-03-28,Iowa,Food,27.0,24.0,27.0,1
-2020-03-28,Iowa,Shops & Services,19.0,17.0,19.0,2
+2020-03-27,Iowa,Airport,42.0,53.0,41.0,27
+2020-03-28,Iowa,Food,45.0,41.0,46.0,1
+2020-03-28,Iowa,Shops & Services,42.0,39.0,42.0,2
 2020-03-28,Iowa,Grocery,89.0,77.0,89.0,3
 2020-03-28,Iowa,Big Box Stores,74.0,62.0,74.0,4
-2020-03-28,Iowa,Outdoors & Recreation,46.0,42.0,46.0,5
-2020-03-28,Iowa,Nightlife Spots,22.0,24.0,22.0,6
+2020-03-28,Iowa,Outdoors & Recreation,83.0,74.0,84.0,5
+2020-03-28,Iowa,Nightlife Spots,42.0,44.0,42.0,6
 2020-03-28,Iowa,Gas Stations,66.0,56.0,67.0,7
 2020-03-28,Iowa,Fast Food Restaurants,61.0,47.0,61.0,8
 2020-03-28,Iowa,Hardware Stores,103.0,87.0,103.0,9
 2020-03-28,Iowa,Convenience Store,70.0,55.0,71.0,10
-2020-03-28,Iowa,Professional & Other Places,17.0,15.0,17.0,11
-2020-03-28,Iowa,School,26.0,25.0,26.0,12
-2020-03-28,Iowa,Arts & Entertainment,29.0,29.0,29.0,13
-2020-03-28,Iowa,Medical,37.0,32.0,37.0,14
+2020-03-28,Iowa,Professional & Other Places,65.0,55.0,65.0,11
+2020-03-28,Iowa,School,42.0,41.0,42.0,12
+2020-03-28,Iowa,Arts & Entertainment,35.0,34.0,35.0,13
+2020-03-28,Iowa,Medical,63.0,54.0,63.0,14
 2020-03-28,Iowa,Drug Store,77.0,64.0,77.0,15
-2020-03-28,Iowa,Sports,27.0,28.0,27.0,16
+2020-03-28,Iowa,Sports,67.0,68.0,67.0,16
 2020-03-28,Iowa,Residences,63.0,55.0,64.0,17
-2020-03-28,Iowa,Hotel,30.0,28.0,30.0,18
+2020-03-28,Iowa,Hotel,34.0,32.0,34.0,18
 2020-03-28,Iowa,Discount Stores,74.0,69.0,74.0,19
-2020-03-28,Iowa,Travel & Transport,25.0,19.0,25.0,20
-2020-03-28,Iowa,Office,67.0,66.0,67.0,21
-2020-03-28,Iowa,Colleges & Universities,31.0,34.0,31.0,22
-2020-03-28,Iowa,Fitness Center,24.0,19.0,24.0,23
-2020-03-28,Iowa,Government,53.0,"",53.0,24
+2020-03-28,Iowa,Travel & Transport,87.0,54.0,88.0,20
+2020-03-28,Iowa,Office,78.0,78.0,78.0,21
+2020-03-28,Iowa,Colleges & Universities,34.0,39.0,34.0,22
+2020-03-28,Iowa,Fitness Center,34.0,27.0,34.0,23
+2020-03-28,Iowa,Government,78.0,"",78.0,24
 2020-03-28,Iowa,Alcohol,70.0,61.0,70.0,25
-2020-03-28,Iowa,Banks,62.0,74.0,62.0,26
-2020-03-28,Iowa,Airport,28.0,"",28.0,27
-2020-03-29,Iowa,Food,22.0,22.0,22.0,1
-2020-03-29,Iowa,Shops & Services,15.0,14.0,15.0,2
+2020-03-28,Iowa,Banks,62.0,72.0,62.0,26
+2020-03-28,Iowa,Airport,37.0,"",37.0,27
+2020-03-29,Iowa,Food,38.0,37.0,38.0,1
+2020-03-29,Iowa,Shops & Services,38.0,38.0,38.0,2
 2020-03-29,Iowa,Grocery,59.0,58.0,59.0,3
-2020-03-29,Iowa,Outdoors & Recreation,41.0,40.0,41.0,4
+2020-03-29,Iowa,Outdoors & Recreation,75.0,73.0,75.0,4
 2020-03-29,Iowa,Big Box Stores,56.0,58.0,56.0,5
 2020-03-29,Iowa,Gas Stations,59.0,57.0,59.0,6
-2020-03-29,Iowa,Nightlife Spots,17.0,22.0,17.0,7
+2020-03-29,Iowa,Nightlife Spots,30.0,37.0,30.0,7
 2020-03-29,Iowa,Fast Food Restaurants,55.0,48.0,55.0,8
 2020-03-29,Iowa,Convenience Store,59.0,57.0,59.0,9
 2020-03-29,Iowa,Hardware Stores,84.0,78.0,84.0,10
-2020-03-29,Iowa,School,30.0,31.0,30.0,11
-2020-03-29,Iowa,Professional & Other Places,13.0,11.0,13.0,12
-2020-03-29,Iowa,Arts & Entertainment,21.0,22.0,21.0,13
-2020-03-29,Iowa,Medical,28.0,24.0,28.0,14
+2020-03-29,Iowa,School,47.0,48.0,47.0,11
+2020-03-29,Iowa,Professional & Other Places,54.0,47.0,54.0,12
+2020-03-29,Iowa,Arts & Entertainment,32.0,31.0,32.0,13
+2020-03-29,Iowa,Medical,48.0,40.0,48.0,14
 2020-03-29,Iowa,Residences,51.0,44.0,51.0,15
-2020-03-29,Iowa,Sports,27.0,26.0,27.0,16
+2020-03-29,Iowa,Sports,56.0,51.0,56.0,16
 2020-03-29,Iowa,Drug Store,62.0,61.0,62.0,17
 2020-03-29,Iowa,Discount Stores,67.0,68.0,67.0,18
-2020-03-29,Iowa,Hotel,26.0,28.0,26.0,19
-2020-03-29,Iowa,Travel & Transport,23.0,22.0,23.0,20
-2020-03-29,Iowa,Colleges & Universities,21.0,31.0,21.0,21
-2020-03-29,Iowa,Office,60.0,"",60.0,22
-2020-03-29,Iowa,Government,46.0,"",46.0,23
+2020-03-29,Iowa,Hotel,30.0,32.0,30.0,19
+2020-03-29,Iowa,Travel & Transport,85.0,81.0,85.0,20
+2020-03-29,Iowa,Colleges & Universities,29.0,44.0,29.0,21
+2020-03-29,Iowa,Office,70.0,"",70.0,22
+2020-03-29,Iowa,Government,67.0,"",67.0,23
 2020-03-29,Iowa,Alcohol,57.0,"",57.0,24
-2020-03-29,Iowa,Fitness Center,22.0,"",22.0,25
+2020-03-29,Iowa,Fitness Center,31.0,"",31.0,25
 2020-03-29,Iowa,Banks,58.0,"",58.0,26
-2020-03-29,Iowa,Airport,19.0,"",19.0,27
-2020-03-30,Iowa,Food,34.0,30.0,34.0,1
-2020-03-30,Iowa,Shops & Services,31.0,27.0,31.0,2
-2020-03-30,Iowa,Outdoors & Recreation,63.0,60.0,63.0,3
+2020-03-29,Iowa,Airport,27.0,"",27.0,27
+2020-03-30,Iowa,Food,62.0,55.0,63.0,1
+2020-03-30,Iowa,Shops & Services,64.0,57.0,64.0,2
+2020-03-30,Iowa,Outdoors & Recreation,119.0,117.0,119.0,3
 2020-03-30,Iowa,Gas Stations,77.0,70.0,77.0,4
 2020-03-30,Iowa,Grocery,77.0,72.0,77.0,5
-2020-03-30,Iowa,Nightlife Spots,40.0,42.0,40.0,6
-2020-03-30,Iowa,Professional & Other Places,15.0,15.0,16.0,7
+2020-03-30,Iowa,Nightlife Spots,68.0,72.0,68.0,6
+2020-03-30,Iowa,Professional & Other Places,78.0,74.0,78.0,7
 2020-03-30,Iowa,Big Box Stores,73.0,64.0,73.0,8
 2020-03-30,Iowa,Fast Food Restaurants,72.0,60.0,72.0,9
-2020-03-30,Iowa,Medical,30.0,27.0,30.0,10
-2020-03-30,Iowa,School,27.0,33.0,27.0,11
+2020-03-30,Iowa,Medical,52.0,47.0,52.0,10
+2020-03-30,Iowa,School,45.0,53.0,45.0,11
 2020-03-30,Iowa,Convenience Store,76.0,75.0,76.0,12
-2020-03-30,Iowa,Arts & Entertainment,46.0,46.0,46.0,13
+2020-03-30,Iowa,Arts & Entertainment,63.0,62.0,63.0,13
 2020-03-30,Iowa,Hardware Stores,95.0,90.0,95.0,14
-2020-03-30,Iowa,Office,55.0,60.0,55.0,15
-2020-03-30,Iowa,Sports,49.0,56.0,49.0,16
+2020-03-30,Iowa,Office,63.0,69.0,63.0,15
+2020-03-30,Iowa,Sports,123.0,140.0,122.0,16
 2020-03-30,Iowa,Residences,72.0,77.0,72.0,17
-2020-03-30,Iowa,Colleges & Universities,18.0,37.0,18.0,18
-2020-03-30,Iowa,Hotel,48.0,41.0,48.0,19
-2020-03-30,Iowa,Government,44.0,42.0,44.0,20
+2020-03-30,Iowa,Colleges & Universities,26.0,48.0,25.0,18
+2020-03-30,Iowa,Hotel,57.0,49.0,57.0,19
+2020-03-30,Iowa,Government,65.0,61.0,65.0,20
 2020-03-30,Iowa,Drug Store,71.0,71.0,71.0,21
-2020-03-30,Iowa,Travel & Transport,28.0,32.0,28.0,22
+2020-03-30,Iowa,Travel & Transport,82.0,88.0,81.0,22
 2020-03-30,Iowa,Discount Stores,87.0,81.0,87.0,23
-2020-03-30,Iowa,Fitness Center,26.0,20.0,27.0,24
+2020-03-30,Iowa,Fitness Center,37.0,28.0,38.0,24
 2020-03-30,Iowa,Banks,68.0,57.0,68.0,25
 2020-03-30,Iowa,Alcohol,75.0,"",76.0,26
-2020-03-30,Iowa,Airport,28.0,"",28.0,27
-2020-03-31,Iowa,Food,32.0,28.0,32.0,1
-2020-03-31,Iowa,Shops & Services,27.0,24.0,27.0,2
-2020-03-31,Iowa,Outdoors & Recreation,54.0,52.0,54.0,3
-2020-03-31,Iowa,Gas Stations,74.0,68.0,74.0,4
+2020-03-30,Iowa,Airport,38.0,"",38.0,27
+2020-03-31,Iowa,Food,58.0,50.0,58.0,1
+2020-03-31,Iowa,Shops & Services,59.0,53.0,59.0,2
+2020-03-31,Iowa,Outdoors & Recreation,110.0,106.0,110.0,3
+2020-03-31,Iowa,Gas Stations,74.0,67.0,74.0,4
 2020-03-31,Iowa,Grocery,75.0,71.0,76.0,5
-2020-03-31,Iowa,Nightlife Spots,38.0,39.0,38.0,6
-2020-03-31,Iowa,Professional & Other Places,14.0,15.0,14.0,7
+2020-03-31,Iowa,Nightlife Spots,60.0,60.0,60.0,6
+2020-03-31,Iowa,Professional & Other Places,67.0,68.0,67.0,7
 2020-03-31,Iowa,Big Box Stores,72.0,55.0,72.0,8
 2020-03-31,Iowa,Fast Food Restaurants,71.0,63.0,71.0,9
-2020-03-31,Iowa,Medical,27.0,22.0,27.0,10
+2020-03-31,Iowa,Medical,47.0,38.0,47.0,10
 2020-03-31,Iowa,Convenience Store,74.0,76.0,74.0,11
-2020-03-31,Iowa,School,21.0,26.0,21.0,12
-2020-03-31,Iowa,Arts & Entertainment,43.0,36.0,43.0,13
+2020-03-31,Iowa,School,34.0,41.0,34.0,12
+2020-03-31,Iowa,Arts & Entertainment,59.0,49.0,60.0,13
 2020-03-31,Iowa,Hardware Stores,100.0,96.0,100.0,14
-2020-03-31,Iowa,Office,50.0,52.0,50.0,15
-2020-03-31,Iowa,Sports,40.0,42.0,40.0,16
+2020-03-31,Iowa,Office,58.0,61.0,58.0,15
+2020-03-31,Iowa,Sports,107.0,104.0,107.0,16
 2020-03-31,Iowa,Residences,73.0,68.0,73.0,17
-2020-03-31,Iowa,Colleges & Universities,17.0,37.0,17.0,18
-2020-03-31,Iowa,Hotel,41.0,39.0,41.0,19
+2020-03-31,Iowa,Colleges & Universities,24.0,47.0,23.0,18
+2020-03-31,Iowa,Hotel,48.0,47.0,48.0,19
 2020-03-31,Iowa,Drug Store,70.0,66.0,71.0,20
-2020-03-31,Iowa,Government,38.0,41.0,38.0,21
-2020-03-31,Iowa,Travel & Transport,27.0,26.0,27.0,22
+2020-03-31,Iowa,Government,55.0,59.0,55.0,21
+2020-03-31,Iowa,Travel & Transport,80.0,75.0,81.0,22
 2020-03-31,Iowa,Discount Stores,74.0,69.0,74.0,23
-2020-03-31,Iowa,Fitness Center,23.0,27.0,23.0,24
-2020-03-31,Iowa,Banks,70.0,65.0,71.0,25
+2020-03-31,Iowa,Fitness Center,33.0,39.0,33.0,24
+2020-03-31,Iowa,Banks,70.0,64.0,71.0,25
 2020-03-31,Iowa,Alcohol,81.0,68.0,82.0,26
-2020-03-31,Iowa,Airport,34.0,"",35.0,27
+2020-03-31,Iowa,Airport,46.0,"",46.0,27
+2020-04-01,Iowa,Food,59.0,51.0,60.0,1
+2020-04-01,Iowa,Shops & Services,63.0,52.0,64.0,2
+2020-04-01,Iowa,Outdoors & Recreation,112.0,106.0,112.0,3
+2020-04-01,Iowa,Grocery,82.0,69.0,83.0,4
+2020-04-01,Iowa,Gas Stations,76.0,64.0,76.0,5
+2020-04-01,Iowa,Nightlife Spots,57.0,56.0,57.0,6
+2020-04-01,Iowa,Big Box Stores,77.0,60.0,78.0,7
+2020-04-01,Iowa,Professional & Other Places,69.0,65.0,69.0,8
+2020-04-01,Iowa,Fast Food Restaurants,72.0,59.0,72.0,9
+2020-04-01,Iowa,Convenience Store,79.0,73.0,79.0,10
+2020-04-01,Iowa,Medical,49.0,38.0,49.0,11
+2020-04-01,Iowa,School,38.0,48.0,38.0,12
+2020-04-01,Iowa,Arts & Entertainment,56.0,53.0,56.0,13
+2020-04-01,Iowa,Hardware Stores,105.0,82.0,106.0,14
+2020-04-01,Iowa,Office,59.0,61.0,59.0,15
+2020-04-01,Iowa,Sports,103.0,108.0,103.0,16
+2020-04-01,Iowa,Residences,73.0,77.0,73.0,17
+2020-04-01,Iowa,Colleges & Universities,25.0,49.0,25.0,18
+2020-04-01,Iowa,Drug Store,78.0,64.0,78.0,19
+2020-04-01,Iowa,Hotel,49.0,48.0,49.0,20
+2020-04-01,Iowa,Travel & Transport,90.0,98.0,90.0,21
+2020-04-01,Iowa,Government,54.0,51.0,54.0,22
+2020-04-01,Iowa,Discount Stores,85.0,71.0,85.0,23
+2020-04-01,Iowa,Banks,78.0,76.0,78.0,24
+2020-04-01,Iowa,Fitness Center,33.0,30.0,33.0,25
+2020-04-01,Iowa,Alcohol,85.0,100.0,84.0,26
+2020-04-01,Iowa,Airport,45.0,"",45.0,27

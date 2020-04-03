@@ -1,944 +1,974 @@
-2020-03-01,Washington,Food,46.0,47.0,46.0,1
-2020-03-01,Washington,Shops & Services,33.0,33.0,33.0,2
+2020-03-01,Washington,Food,102.0,100.0,102.0,1
+2020-03-01,Washington,Shops & Services,102.0,105.0,102.0,2
 2020-03-01,Washington,Grocery,99.0,100.0,99.0,3
-2020-03-01,Washington,Outdoors & Recreation,47.0,48.0,47.0,4
-2020-03-01,Washington,Nightlife Spots,62.0,64.0,62.0,5
-2020-03-01,Washington,Arts & Entertainment,63.0,65.0,63.0,6
+2020-03-01,Washington,Outdoors & Recreation,102.0,100.0,102.0,4
+2020-03-01,Washington,Nightlife Spots,104.0,109.0,104.0,5
+2020-03-01,Washington,Arts & Entertainment,110.0,106.0,110.0,6
 2020-03-01,Washington,Gas Stations,105.0,114.0,105.0,7
 2020-03-01,Washington,Big Box Stores,106.0,111.0,106.0,8
 2020-03-01,Washington,Fast Food Restaurants,106.0,101.0,106.0,9
-2020-03-01,Washington,Professional & Other Places,22.0,22.0,22.0,10
-2020-03-01,Washington,Airport,64.0,68.0,64.0,11
-2020-03-01,Washington,School,54.0,53.0,54.0,12
-2020-03-01,Washington,Hotel,84.0,84.0,84.0,13
+2020-03-01,Washington,Professional & Other Places,103.0,104.0,103.0,10
+2020-03-01,Washington,Airport,103.0,111.0,103.0,11
+2020-03-01,Washington,School,101.0,98.0,101.0,12
+2020-03-01,Washington,Hotel,104.0,108.0,104.0,13
 2020-03-01,Washington,Hardware Stores,116.0,118.0,116.0,14
 2020-03-01,Washington,Residences,97.0,95.0,97.0,15
-2020-03-01,Washington,Medical,56.0,52.0,57.0,16
+2020-03-01,Washington,Medical,101.0,93.0,101.0,16
 2020-03-01,Washington,Drug Store,115.0,139.0,114.0,17
 2020-03-01,Washington,Convenience Store,109.0,102.0,109.0,18
-2020-03-01,Washington,Fitness Center,63.0,70.0,63.0,19
-2020-03-01,Washington,Travel & Transport,23.0,29.0,22.0,20
-2020-03-01,Washington,Sports,34.0,43.0,33.0,21
-2020-03-01,Washington,Colleges & Universities,96.0,88.0,96.0,22
-2020-03-01,Washington,Office,76.0,77.0,76.0,23
-2020-03-01,Washington,Skiing,64.0,68.0,64.0,24
-2020-03-01,Washington,Bus,85.0,76.0,85.0,25
-2020-03-01,Washington,Government,68.0,67.0,68.0,26
-2020-03-01,Washington,Beach,94.0,86.0,94.0,27
+2020-03-01,Washington,Fitness Center,91.0,98.0,90.0,19
+2020-03-01,Washington,Travel & Transport,108.0,111.0,108.0,20
+2020-03-01,Washington,Sports,110.0,115.0,110.0,21
+2020-03-01,Washington,Colleges & Universities,110.0,105.0,110.0,22
+2020-03-01,Washington,Office,89.0,91.0,89.0,23
+2020-03-01,Washington,Skiing,90.0,94.0,90.0,24
+2020-03-01,Washington,Bus,102.0,91.0,103.0,25
+2020-03-01,Washington,Government,102.0,98.0,102.0,26
+2020-03-01,Washington,Beach,97.0,88.0,98.0,27
 2020-03-01,Washington,Discount Stores,101.0,94.0,101.0,28
 2020-03-01,Washington,Banks,116.0,118.0,116.0,29
 2020-03-01,Washington,Alcohol,103.0,91.0,104.0,30
 2020-03-01,Washington,Light Rail Stations,109.0,"",109.0,31
-2020-03-02,Washington,Food,44.0,46.0,44.0,1
-2020-03-02,Washington,Shops & Services,34.0,33.0,34.0,2
+2020-03-02,Washington,Food,97.0,97.0,97.0,1
+2020-03-02,Washington,Shops & Services,97.0,93.0,97.0,2
 2020-03-02,Washington,Grocery,106.0,104.0,106.0,3
-2020-03-02,Washington,Outdoors & Recreation,35.0,36.0,35.0,4
-2020-03-02,Washington,Medical,58.0,54.0,58.0,5
-2020-03-02,Washington,Nightlife Spots,60.0,56.0,60.0,6
-2020-03-02,Washington,Professional & Other Places,17.0,18.0,17.0,7
-2020-03-02,Washington,School,60.0,58.0,60.0,8
+2020-03-02,Washington,Outdoors & Recreation,85.0,86.0,85.0,4
+2020-03-02,Washington,Medical,104.0,97.0,104.0,5
+2020-03-02,Washington,Nightlife Spots,98.0,95.0,98.0,6
+2020-03-02,Washington,Professional & Other Places,100.0,100.0,100.0,7
+2020-03-02,Washington,School,112.0,107.0,112.0,8
 2020-03-02,Washington,Gas Stations,101.0,97.0,101.0,9
-2020-03-02,Washington,Office,78.0,86.0,78.0,10
+2020-03-02,Washington,Office,95.0,103.0,95.0,10
 2020-03-02,Washington,Fast Food Restaurants,111.0,103.0,111.0,11
-2020-03-02,Washington,Airport,60.0,62.0,59.0,12
+2020-03-02,Washington,Airport,95.0,99.0,95.0,12
 2020-03-02,Washington,Big Box Stores,110.0,111.0,110.0,13
-2020-03-02,Washington,Arts & Entertainment,54.0,55.0,54.0,14
-2020-03-02,Washington,Colleges & Universities,90.0,100.0,90.0,15
-2020-03-02,Washington,Fitness Center,64.0,68.0,64.0,16
+2020-03-02,Washington,Arts & Entertainment,93.0,90.0,93.0,14
+2020-03-02,Washington,Colleges & Universities,109.0,116.0,109.0,15
+2020-03-02,Washington,Fitness Center,92.0,97.0,92.0,16
 2020-03-02,Washington,Residences,96.0,94.0,96.0,17
-2020-03-02,Washington,Hotel,71.0,84.0,71.0,18
+2020-03-02,Washington,Hotel,88.0,109.0,87.0,18
 2020-03-02,Washington,Hardware Stores,101.0,94.0,102.0,19
 2020-03-02,Washington,Drug Store,121.0,141.0,120.0,20
 2020-03-02,Washington,Convenience Store,105.0,104.0,105.0,21
-2020-03-02,Washington,Travel & Transport,20.0,26.0,19.0,22
-2020-03-02,Washington,Government,73.0,73.0,73.0,23
-2020-03-02,Washington,Sports,27.0,31.0,27.0,24
-2020-03-02,Washington,Bus,83.0,75.0,83.0,25
+2020-03-02,Washington,Travel & Transport,92.0,88.0,92.0,22
+2020-03-02,Washington,Government,105.0,108.0,105.0,23
+2020-03-02,Washington,Sports,100.0,98.0,100.0,24
+2020-03-02,Washington,Bus,98.0,90.0,98.0,25
 2020-03-02,Washington,Banks,120.0,127.0,120.0,26
-2020-03-02,Washington,Beach,77.0,71.0,78.0,27
+2020-03-02,Washington,Beach,80.0,73.0,80.0,27
 2020-03-02,Washington,Discount Stores,102.0,95.0,103.0,28
 2020-03-02,Washington,Alcohol,98.0,97.0,98.0,29
 2020-03-02,Washington,Light Rail Stations,92.0,"",92.0,30
-2020-03-02,Washington,Skiing,27.0,"",27.0,31
-2020-03-03,Washington,Food,43.0,44.0,43.0,1
-2020-03-03,Washington,Shops & Services,31.0,32.0,31.0,2
+2020-03-02,Washington,Skiing,38.0,"",38.0,31
+2020-03-03,Washington,Food,95.0,94.0,95.0,1
+2020-03-03,Washington,Shops & Services,97.0,98.0,97.0,2
 2020-03-03,Washington,Grocery,105.0,108.0,105.0,3
-2020-03-03,Washington,Outdoors & Recreation,36.0,36.0,36.0,4
-2020-03-03,Washington,Medical,52.0,50.0,52.0,5
-2020-03-03,Washington,Professional & Other Places,15.0,17.0,15.0,6
-2020-03-03,Washington,School,53.0,50.0,53.0,7
-2020-03-03,Washington,Nightlife Spots,55.0,57.0,55.0,8
-2020-03-03,Washington,Office,70.0,74.0,70.0,9
+2020-03-03,Washington,Outdoors & Recreation,89.0,86.0,90.0,4
+2020-03-03,Washington,Medical,93.0,90.0,94.0,5
+2020-03-03,Washington,Professional & Other Places,91.0,96.0,91.0,6
+2020-03-03,Washington,School,98.0,92.0,99.0,7
+2020-03-03,Washington,Nightlife Spots,96.0,101.0,96.0,8
+2020-03-03,Washington,Office,85.0,89.0,84.0,9
 2020-03-03,Washington,Gas Stations,96.0,95.0,96.0,10
 2020-03-03,Washington,Fast Food Restaurants,102.0,105.0,101.0,11
 2020-03-03,Washington,Big Box Stores,112.0,109.0,112.0,12
-2020-03-03,Washington,Colleges & Universities,76.0,84.0,76.0,13
-2020-03-03,Washington,Airport,55.0,54.0,55.0,14
-2020-03-03,Washington,Arts & Entertainment,67.0,68.0,66.0,15
-2020-03-03,Washington,Fitness Center,61.0,67.0,60.0,16
+2020-03-03,Washington,Colleges & Universities,91.0,97.0,91.0,13
+2020-03-03,Washington,Airport,87.0,88.0,87.0,14
+2020-03-03,Washington,Arts & Entertainment,91.0,91.0,91.0,15
+2020-03-03,Washington,Fitness Center,88.0,95.0,88.0,16
 2020-03-03,Washington,Residences,96.0,93.0,96.0,17
 2020-03-03,Washington,Drug Store,114.0,116.0,113.0,18
-2020-03-03,Washington,Hotel,69.0,68.0,69.0,19
+2020-03-03,Washington,Hotel,84.0,88.0,84.0,19
 2020-03-03,Washington,Hardware Stores,102.0,96.0,102.0,20
-2020-03-03,Washington,Government,64.0,59.0,64.0,21
+2020-03-03,Washington,Government,91.0,87.0,91.0,21
 2020-03-03,Washington,Convenience Store,100.0,104.0,99.0,22
-2020-03-03,Washington,Travel & Transport,21.0,24.0,21.0,23
-2020-03-03,Washington,Bus,78.0,78.0,78.0,24
-2020-03-03,Washington,Sports,24.0,29.0,23.0,25
+2020-03-03,Washington,Travel & Transport,92.0,88.0,92.0,23
+2020-03-03,Washington,Bus,92.0,94.0,92.0,24
+2020-03-03,Washington,Sports,99.0,90.0,100.0,25
 2020-03-03,Washington,Banks,118.0,120.0,117.0,26
 2020-03-03,Washington,Discount Stores,96.0,79.0,97.0,27
-2020-03-03,Washington,Beach,85.0,76.0,85.0,28
+2020-03-03,Washington,Beach,87.0,79.0,88.0,28
 2020-03-03,Washington,Alcohol,98.0,108.0,97.0,29
 2020-03-03,Washington,Light Rail Stations,86.0,129.0,85.0,30
-2020-03-04,Washington,Food,42.0,44.0,42.0,1
-2020-03-04,Washington,Shops & Services,35.0,36.0,35.0,2
+2020-03-04,Washington,Food,94.0,94.0,94.0,1
+2020-03-04,Washington,Shops & Services,96.0,94.0,96.0,2
 2020-03-04,Washington,Grocery,101.0,98.0,102.0,3
-2020-03-04,Washington,Outdoors & Recreation,41.0,44.0,41.0,4
-2020-03-04,Washington,Medical,53.0,51.0,53.0,5
-2020-03-04,Washington,Nightlife Spots,59.0,57.0,59.0,6
-2020-03-04,Washington,School,51.0,54.0,51.0,7
-2020-03-04,Washington,Professional & Other Places,16.0,18.0,16.0,8
+2020-03-04,Washington,Outdoors & Recreation,98.0,103.0,98.0,4
+2020-03-04,Washington,Medical,94.0,91.0,94.0,5
+2020-03-04,Washington,Nightlife Spots,95.0,94.0,95.0,6
+2020-03-04,Washington,School,96.0,100.0,95.0,7
+2020-03-04,Washington,Professional & Other Places,93.0,96.0,92.0,8
 2020-03-04,Washington,Gas Stations,97.0,97.0,97.0,9
-2020-03-04,Washington,Office,65.0,71.0,65.0,10
+2020-03-04,Washington,Office,78.0,84.0,78.0,10
 2020-03-04,Washington,Fast Food Restaurants,97.0,99.0,96.0,11
-2020-03-04,Washington,Arts & Entertainment,58.0,64.0,58.0,12
-2020-03-04,Washington,Colleges & Universities,74.0,85.0,74.0,13
-2020-03-04,Washington,Airport,56.0,69.0,55.0,14
+2020-03-04,Washington,Arts & Entertainment,101.0,103.0,101.0,12
+2020-03-04,Washington,Colleges & Universities,89.0,96.0,89.0,13
+2020-03-04,Washington,Airport,89.0,109.0,88.0,14
 2020-03-04,Washington,Big Box Stores,102.0,101.0,102.0,15
-2020-03-04,Washington,Fitness Center,61.0,63.0,61.0,16
+2020-03-04,Washington,Fitness Center,88.0,90.0,88.0,16
 2020-03-04,Washington,Residences,103.0,98.0,104.0,17
-2020-03-04,Washington,Hotel,71.0,70.0,71.0,18
+2020-03-04,Washington,Hotel,86.0,90.0,85.0,18
 2020-03-04,Washington,Hardware Stores,105.0,97.0,106.0,19
 2020-03-04,Washington,Drug Store,105.0,110.0,105.0,20
-2020-03-04,Washington,Government,67.0,64.0,67.0,21
+2020-03-04,Washington,Government,93.0,92.0,93.0,21
 2020-03-04,Washington,Convenience Store,98.0,94.0,99.0,22
-2020-03-04,Washington,Travel & Transport,20.0,25.0,20.0,23
-2020-03-04,Washington,Sports,25.0,35.0,25.0,24
-2020-03-04,Washington,Bus,80.0,73.0,80.0,25
+2020-03-04,Washington,Travel & Transport,96.0,91.0,97.0,23
+2020-03-04,Washington,Sports,102.0,101.0,102.0,24
+2020-03-04,Washington,Bus,94.0,88.0,95.0,25
 2020-03-04,Washington,Banks,105.0,93.0,106.0,26
-2020-03-04,Washington,Beach,101.0,99.0,101.0,27
+2020-03-04,Washington,Beach,104.0,102.0,104.0,27
 2020-03-04,Washington,Discount Stores,108.0,123.0,107.0,28
 2020-03-04,Washington,Alcohol,94.0,103.0,94.0,29
 2020-03-04,Washington,Light Rail Stations,84.0,112.0,83.0,30
-2020-03-04,Washington,Skiing,55.0,"",55.0,31
-2020-03-05,Washington,Food,43.0,42.0,43.0,1
-2020-03-05,Washington,Shops & Services,31.0,31.0,31.0,2
+2020-03-04,Washington,Skiing,75.0,"",75.0,31
+2020-03-05,Washington,Food,95.0,90.0,96.0,1
+2020-03-05,Washington,Shops & Services,98.0,95.0,98.0,2
 2020-03-05,Washington,Grocery,103.0,98.0,103.0,3
-2020-03-05,Washington,Outdoors & Recreation,39.0,39.0,39.0,4
-2020-03-05,Washington,Medical,55.0,51.0,55.0,5
-2020-03-05,Washington,Nightlife Spots,58.0,60.0,57.0,6
-2020-03-05,Washington,Professional & Other Places,16.0,17.0,16.0,7
-2020-03-05,Washington,School,52.0,51.0,52.0,8
+2020-03-05,Washington,Outdoors & Recreation,99.0,94.0,99.0,4
+2020-03-05,Washington,Medical,97.0,90.0,98.0,5
+2020-03-05,Washington,Nightlife Spots,97.0,102.0,97.0,6
+2020-03-05,Washington,Professional & Other Places,93.0,91.0,93.0,7
+2020-03-05,Washington,School,97.0,94.0,97.0,8
 2020-03-05,Washington,Gas Stations,101.0,98.0,101.0,9
-2020-03-05,Washington,Office,60.0,68.0,60.0,10
+2020-03-05,Washington,Office,73.0,81.0,72.0,10
 2020-03-05,Washington,Fast Food Restaurants,100.0,100.0,100.0,11
-2020-03-05,Washington,Arts & Entertainment,58.0,61.0,58.0,12
-2020-03-05,Washington,Airport,55.0,50.0,55.0,13
+2020-03-05,Washington,Arts & Entertainment,101.0,98.0,101.0,12
+2020-03-05,Washington,Airport,87.0,80.0,87.0,13
 2020-03-05,Washington,Big Box Stores,100.0,98.0,101.0,14
-2020-03-05,Washington,Colleges & Universities,74.0,84.0,73.0,15
-2020-03-05,Washington,Fitness Center,63.0,58.0,63.0,16
-2020-03-05,Washington,Hotel,74.0,71.0,75.0,17
+2020-03-05,Washington,Colleges & Universities,88.0,96.0,88.0,15
+2020-03-05,Washington,Fitness Center,91.0,82.0,91.0,16
+2020-03-05,Washington,Hotel,90.0,89.0,90.0,17
 2020-03-05,Washington,Residences,97.0,95.0,97.0,18
 2020-03-05,Washington,Hardware Stores,109.0,112.0,108.0,19
 2020-03-05,Washington,Drug Store,109.0,102.0,110.0,20
-2020-03-05,Washington,Government,69.0,64.0,69.0,21
+2020-03-05,Washington,Government,96.0,92.0,97.0,21
 2020-03-05,Washington,Convenience Store,99.0,96.0,99.0,22
-2020-03-05,Washington,Travel & Transport,21.0,25.0,21.0,23
-2020-03-05,Washington,Sports,27.0,39.0,27.0,24
-2020-03-05,Washington,Bus,74.0,77.0,74.0,25
+2020-03-05,Washington,Travel & Transport,96.0,91.0,96.0,23
+2020-03-05,Washington,Sports,108.0,118.0,107.0,24
+2020-03-05,Washington,Bus,87.0,93.0,87.0,25
 2020-03-05,Washington,Banks,119.0,118.0,119.0,26
-2020-03-05,Washington,Beach,108.0,103.0,109.0,27
+2020-03-05,Washington,Beach,112.0,107.0,112.0,27
 2020-03-05,Washington,Discount Stores,99.0,87.0,100.0,28
 2020-03-05,Washington,Alcohol,102.0,109.0,101.0,29
 2020-03-05,Washington,Light Rail Stations,92.0,132.0,91.0,30
-2020-03-05,Washington,Skiing,54.0,"",54.0,31
-2020-03-06,Washington,Food,42.0,42.0,42.0,1
-2020-03-06,Washington,Shops & Services,30.0,30.0,30.0,2
+2020-03-05,Washington,Skiing,74.0,"",73.0,31
+2020-03-06,Washington,Food,89.0,85.0,89.0,1
+2020-03-06,Washington,Shops & Services,91.0,88.0,91.0,2
 2020-03-06,Washington,Grocery,94.0,89.0,94.0,3
-2020-03-06,Washington,Outdoors & Recreation,34.0,34.0,34.0,4
-2020-03-06,Washington,Nightlife Spots,55.0,52.0,56.0,5
-2020-03-06,Washington,Medical,52.0,47.0,53.0,6
-2020-03-06,Washington,Professional & Other Places,16.0,18.0,16.0,7
-2020-03-06,Washington,School,50.0,50.0,50.0,8
+2020-03-06,Washington,Outdoors & Recreation,89.0,85.0,89.0,4
+2020-03-06,Washington,Nightlife Spots,90.0,86.0,90.0,5
+2020-03-06,Washington,Medical,93.0,83.0,94.0,6
+2020-03-06,Washington,Professional & Other Places,92.0,95.0,92.0,7
+2020-03-06,Washington,School,93.0,92.0,93.0,8
 2020-03-06,Washington,Gas Stations,91.0,87.0,91.0,9
 2020-03-06,Washington,Fast Food Restaurants,96.0,95.0,96.0,10
-2020-03-06,Washington,Arts & Entertainment,53.0,53.0,53.0,11
+2020-03-06,Washington,Arts & Entertainment,90.0,84.0,90.0,11
 2020-03-06,Washington,Big Box Stores,95.0,92.0,95.0,12
-2020-03-06,Washington,Office,54.0,58.0,54.0,13
-2020-03-06,Washington,Airport,49.0,57.0,48.0,14
-2020-03-06,Washington,Colleges & Universities,72.0,79.0,71.0,15
-2020-03-06,Washington,Fitness Center,62.0,63.0,62.0,16
-2020-03-06,Washington,Hotel,70.0,66.0,70.0,17
+2020-03-06,Washington,Office,65.0,69.0,65.0,13
+2020-03-06,Washington,Airport,78.0,91.0,78.0,14
+2020-03-06,Washington,Colleges & Universities,87.0,89.0,87.0,15
+2020-03-06,Washington,Fitness Center,89.0,90.0,89.0,16
+2020-03-06,Washington,Hotel,86.0,84.0,86.0,17
 2020-03-06,Washington,Residences,91.0,91.0,91.0,18
 2020-03-06,Washington,Hardware Stores,101.0,97.0,101.0,19
 2020-03-06,Washington,Drug Store,96.0,88.0,96.0,20
 2020-03-06,Washington,Convenience Store,96.0,95.0,96.0,21
-2020-03-06,Washington,Government,68.0,63.0,68.0,22
-2020-03-06,Washington,Travel & Transport,19.0,29.0,18.0,23
-2020-03-06,Washington,Sports,24.0,26.0,24.0,24
+2020-03-06,Washington,Government,94.0,89.0,94.0,22
+2020-03-06,Washington,Travel & Transport,83.0,98.0,83.0,23
+2020-03-06,Washington,Sports,93.0,78.0,94.0,24
 2020-03-06,Washington,Banks,104.0,96.0,104.0,25
-2020-03-06,Washington,Bus,65.0,61.0,65.0,26
-2020-03-06,Washington,Beach,89.0,89.0,89.0,27
+2020-03-06,Washington,Bus,77.0,74.0,77.0,26
+2020-03-06,Washington,Beach,91.0,92.0,91.0,27
 2020-03-06,Washington,Discount Stores,90.0,87.0,90.0,28
 2020-03-06,Washington,Alcohol,95.0,85.0,96.0,29
 2020-03-06,Washington,Light Rail Stations,76.0,110.0,75.0,30
-2020-03-06,Washington,Skiing,57.0,98.0,55.0,31
-2020-03-07,Washington,Food,39.0,39.0,39.0,1
-2020-03-07,Washington,Shops & Services,28.0,27.0,29.0,2
+2020-03-06,Washington,Skiing,78.0,133.0,76.0,31
+2020-03-07,Washington,Food,87.0,82.0,87.0,1
+2020-03-07,Washington,Shops & Services,89.0,85.0,89.0,2
 2020-03-07,Washington,Grocery,94.0,90.0,94.0,3
-2020-03-07,Washington,Outdoors & Recreation,38.0,39.0,38.0,4
-2020-03-07,Washington,Nightlife Spots,43.0,44.0,43.0,5
+2020-03-07,Washington,Outdoors & Recreation,89.0,88.0,89.0,4
+2020-03-07,Washington,Nightlife Spots,91.0,90.0,91.0,5
 2020-03-07,Washington,Gas Stations,91.0,84.0,91.0,6
-2020-03-07,Washington,Arts & Entertainment,49.0,50.0,49.0,7
+2020-03-07,Washington,Arts & Entertainment,84.0,81.0,84.0,7
 2020-03-07,Washington,Fast Food Restaurants,90.0,87.0,90.0,8
-2020-03-07,Washington,Professional & Other Places,20.0,21.0,20.0,9
+2020-03-07,Washington,Professional & Other Places,88.0,83.0,88.0,9
 2020-03-07,Washington,Big Box Stores,93.0,96.0,93.0,10
-2020-03-07,Washington,School,46.0,41.0,47.0,11
-2020-03-07,Washington,Medical,52.0,46.0,53.0,12
-2020-03-07,Washington,Airport,48.0,50.0,48.0,13
+2020-03-07,Washington,School,87.0,75.0,87.0,11
+2020-03-07,Washington,Medical,94.0,83.0,95.0,12
+2020-03-07,Washington,Airport,78.0,81.0,78.0,13
 2020-03-07,Washington,Hardware Stores,101.0,88.0,102.0,14
-2020-03-07,Washington,Hotel,67.0,70.0,67.0,15
-2020-03-07,Washington,Fitness Center,59.0,61.0,59.0,16
+2020-03-07,Washington,Hotel,84.0,90.0,84.0,15
+2020-03-07,Washington,Fitness Center,85.0,88.0,85.0,16
 2020-03-07,Washington,Residences,92.0,88.0,92.0,17
 2020-03-07,Washington,Drug Store,90.0,88.0,90.0,18
 2020-03-07,Washington,Convenience Store,91.0,98.0,91.0,19
-2020-03-07,Washington,Travel & Transport,19.0,26.0,19.0,20
-2020-03-07,Washington,Sports,26.0,32.0,26.0,21
-2020-03-07,Washington,Colleges & Universities,77.0,70.0,77.0,22
-2020-03-07,Washington,Office,62.0,74.0,62.0,23
-2020-03-07,Washington,Government,65.0,62.0,65.0,24
-2020-03-07,Washington,Bus,68.0,61.0,68.0,25
+2020-03-07,Washington,Travel & Transport,86.0,91.0,86.0,20
+2020-03-07,Washington,Sports,93.0,90.0,93.0,21
+2020-03-07,Washington,Colleges & Universities,87.0,81.0,87.0,22
+2020-03-07,Washington,Office,74.0,86.0,74.0,23
+2020-03-07,Washington,Government,94.0,87.0,94.0,24
+2020-03-07,Washington,Bus,82.0,75.0,82.0,25
 2020-03-07,Washington,Banks,86.0,85.0,86.0,26
-2020-03-07,Washington,Beach,94.0,91.0,94.0,27
-2020-03-07,Washington,Skiing,65.0,74.0,65.0,28
+2020-03-07,Washington,Beach,97.0,94.0,97.0,27
+2020-03-07,Washington,Skiing,91.0,101.0,91.0,28
 2020-03-07,Washington,Discount Stores,96.0,87.0,96.0,29
 2020-03-07,Washington,Alcohol,93.0,107.0,92.0,30
 2020-03-07,Washington,Light Rail Stations,73.0,"",73.0,31
-2020-03-08,Washington,Food,43.0,44.0,43.0,1
-2020-03-08,Washington,Shops & Services,30.0,27.0,30.0,2
+2020-03-08,Washington,Food,91.0,89.0,91.0,1
+2020-03-08,Washington,Shops & Services,92.0,84.0,92.0,2
 2020-03-08,Washington,Grocery,91.0,89.0,91.0,3
-2020-03-08,Washington,Outdoors & Recreation,42.0,40.0,42.0,4
-2020-03-08,Washington,Nightlife Spots,55.0,56.0,55.0,5
-2020-03-08,Washington,Arts & Entertainment,54.0,53.0,54.0,6
+2020-03-08,Washington,Outdoors & Recreation,100.0,91.0,100.0,4
+2020-03-08,Washington,Nightlife Spots,96.0,99.0,96.0,5
+2020-03-08,Washington,Arts & Entertainment,94.0,86.0,95.0,6
 2020-03-08,Washington,Gas Stations,100.0,104.0,100.0,7
 2020-03-08,Washington,Big Box Stores,97.0,91.0,97.0,8
 2020-03-08,Washington,Fast Food Restaurants,96.0,94.0,96.0,9
-2020-03-08,Washington,Professional & Other Places,24.0,22.0,24.0,10
-2020-03-08,Washington,Airport,50.0,44.0,50.0,11
-2020-03-08,Washington,School,50.0,51.0,50.0,12
+2020-03-08,Washington,Professional & Other Places,95.0,94.0,95.0,10
+2020-03-08,Washington,Airport,81.0,72.0,81.0,11
+2020-03-08,Washington,School,94.0,93.0,94.0,12
 2020-03-08,Washington,Hardware Stores,115.0,101.0,116.0,13
-2020-03-08,Washington,Hotel,69.0,70.0,69.0,14
+2020-03-08,Washington,Hotel,87.0,90.0,87.0,14
 2020-03-08,Washington,Residences,92.0,92.0,92.0,15
-2020-03-08,Washington,Medical,53.0,47.0,53.0,16
-2020-03-08,Washington,Fitness Center,61.0,54.0,62.0,17
+2020-03-08,Washington,Medical,94.0,84.0,95.0,16
+2020-03-08,Washington,Fitness Center,88.0,74.0,89.0,17
 2020-03-08,Washington,Convenience Store,99.0,108.0,99.0,18
 2020-03-08,Washington,Drug Store,93.0,89.0,94.0,19
-2020-03-08,Washington,Travel & Transport,21.0,22.0,20.0,20
-2020-03-08,Washington,Sports,34.0,38.0,34.0,21
-2020-03-08,Washington,Colleges & Universities,83.0,97.0,82.0,22
-2020-03-08,Washington,Office,67.0,62.0,67.0,23
-2020-03-08,Washington,Beach,106.0,109.0,106.0,24
-2020-03-08,Washington,Government,68.0,78.0,67.0,25
-2020-03-08,Washington,Bus,77.0,61.0,77.0,26
-2020-03-08,Washington,Skiing,54.0,52.0,54.0,27
+2020-03-08,Washington,Travel & Transport,93.0,81.0,94.0,20
+2020-03-08,Washington,Sports,109.0,99.0,110.0,21
+2020-03-08,Washington,Colleges & Universities,93.0,111.0,92.0,22
+2020-03-08,Washington,Office,79.0,73.0,79.0,23
+2020-03-08,Washington,Beach,109.0,111.0,109.0,24
+2020-03-08,Washington,Government,101.0,113.0,101.0,25
+2020-03-08,Washington,Bus,92.0,74.0,93.0,26
+2020-03-08,Washington,Skiing,75.0,72.0,75.0,27
 2020-03-08,Washington,Discount Stores,99.0,82.0,99.0,28
 2020-03-08,Washington,Alcohol,95.0,117.0,94.0,29
 2020-03-08,Washington,Banks,77.0,87.0,77.0,30
 2020-03-08,Washington,Light Rail Stations,77.0,"",78.0,31
-2020-03-09,Washington,Food,40.0,42.0,40.0,1
-2020-03-09,Washington,Shops & Services,35.0,35.0,35.0,2
+2020-03-09,Washington,Food,90.0,90.0,90.0,1
+2020-03-09,Washington,Shops & Services,92.0,88.0,93.0,2
 2020-03-09,Washington,Grocery,99.0,98.0,99.0,3
-2020-03-09,Washington,Outdoors & Recreation,41.0,43.0,41.0,4
-2020-03-09,Washington,Medical,56.0,49.0,57.0,5
-2020-03-09,Washington,Nightlife Spots,54.0,51.0,54.0,6
-2020-03-09,Washington,Professional & Other Places,17.0,20.0,17.0,7
+2020-03-09,Washington,Outdoors & Recreation,97.0,102.0,97.0,4
+2020-03-09,Washington,Medical,101.0,88.0,102.0,5
+2020-03-09,Washington,Nightlife Spots,96.0,92.0,96.0,6
+2020-03-09,Washington,Professional & Other Places,98.0,107.0,97.0,7
 2020-03-09,Washington,Gas Stations,98.0,101.0,98.0,8
-2020-03-09,Washington,School,56.0,56.0,56.0,9
+2020-03-09,Washington,School,106.0,104.0,106.0,9
 2020-03-09,Washington,Fast Food Restaurants,99.0,93.0,100.0,10
 2020-03-09,Washington,Big Box Stores,97.0,94.0,97.0,11
-2020-03-09,Washington,Office,54.0,74.0,54.0,12
-2020-03-09,Washington,Airport,47.0,63.0,47.0,13
-2020-03-09,Washington,Arts & Entertainment,52.0,52.0,52.0,14
+2020-03-09,Washington,Office,66.0,89.0,65.0,12
+2020-03-09,Washington,Airport,75.0,102.0,74.0,13
+2020-03-09,Washington,Arts & Entertainment,88.0,82.0,89.0,14
 2020-03-09,Washington,Residences,95.0,84.0,96.0,15
-2020-03-09,Washington,Colleges & Universities,69.0,76.0,69.0,16
-2020-03-09,Washington,Fitness Center,61.0,59.0,61.0,17
+2020-03-09,Washington,Colleges & Universities,84.0,88.0,84.0,16
+2020-03-09,Washington,Fitness Center,87.0,84.0,88.0,17
 2020-03-09,Washington,Hardware Stores,103.0,97.0,103.0,18
-2020-03-09,Washington,Government,77.0,72.0,77.0,19
-2020-03-09,Washington,Hotel,64.0,74.0,63.0,20
+2020-03-09,Washington,Government,109.0,104.0,109.0,19
+2020-03-09,Washington,Hotel,79.0,96.0,78.0,20
 2020-03-09,Washington,Convenience Store,101.0,108.0,101.0,21
-2020-03-09,Washington,Travel & Transport,20.0,28.0,19.0,22
+2020-03-09,Washington,Travel & Transport,87.0,92.0,87.0,22
 2020-03-09,Washington,Drug Store,102.0,103.0,102.0,23
-2020-03-09,Washington,Sports,28.0,34.0,28.0,24
-2020-03-09,Washington,Bus,72.0,73.0,72.0,25
+2020-03-09,Washington,Sports,102.0,103.0,102.0,24
+2020-03-09,Washington,Bus,85.0,87.0,85.0,25
 2020-03-09,Washington,Banks,114.0,116.0,113.0,26
-2020-03-09,Washington,Beach,103.0,123.0,102.0,27
+2020-03-09,Washington,Beach,106.0,126.0,105.0,27
 2020-03-09,Washington,Discount Stores,98.0,87.0,99.0,28
 2020-03-09,Washington,Alcohol,104.0,83.0,105.0,29
 2020-03-09,Washington,Light Rail Stations,80.0,"",80.0,30
-2020-03-09,Washington,Skiing,45.0,"",44.0,31
-2020-03-10,Washington,Food,39.0,40.0,39.0,1
-2020-03-10,Washington,Shops & Services,37.0,37.0,37.0,2
+2020-03-09,Washington,Skiing,62.0,"",61.0,31
+2020-03-10,Washington,Food,89.0,88.0,89.0,1
+2020-03-10,Washington,Shops & Services,91.0,88.0,91.0,2
 2020-03-10,Washington,Grocery,96.0,94.0,96.0,3
-2020-03-10,Washington,Outdoors & Recreation,37.0,36.0,37.0,4
-2020-03-10,Washington,Medical,49.0,48.0,49.0,5
-2020-03-10,Washington,Nightlife Spots,45.0,44.0,45.0,6
-2020-03-10,Washington,Professional & Other Places,15.0,16.0,15.0,7
-2020-03-10,Washington,School,50.0,49.0,50.0,8
+2020-03-10,Washington,Outdoors & Recreation,96.0,91.0,96.0,4
+2020-03-10,Washington,Medical,88.0,86.0,88.0,5
+2020-03-10,Washington,Nightlife Spots,94.0,88.0,94.0,6
+2020-03-10,Washington,Professional & Other Places,87.0,88.0,87.0,7
+2020-03-10,Washington,School,94.0,91.0,94.0,8
 2020-03-10,Washington,Gas Stations,94.0,87.0,95.0,9
 2020-03-10,Washington,Fast Food Restaurants,94.0,93.0,94.0,10
-2020-03-10,Washington,Office,47.0,57.0,46.0,11
-2020-03-10,Washington,Arts & Entertainment,54.0,54.0,54.0,12
+2020-03-10,Washington,Office,56.0,69.0,56.0,11
+2020-03-10,Washington,Arts & Entertainment,90.0,83.0,90.0,12
 2020-03-10,Washington,Big Box Stores,93.0,81.0,94.0,13
-2020-03-10,Washington,Fitness Center,57.0,59.0,57.0,14
-2020-03-10,Washington,Airport,43.0,34.0,44.0,15
-2020-03-10,Washington,Colleges & Universities,58.0,68.0,57.0,16
+2020-03-10,Washington,Fitness Center,83.0,83.0,83.0,14
+2020-03-10,Washington,Airport,69.0,55.0,70.0,15
+2020-03-10,Washington,Colleges & Universities,69.0,78.0,69.0,16
 2020-03-10,Washington,Residences,96.0,91.0,96.0,17
 2020-03-10,Washington,Hardware Stores,103.0,102.0,103.0,18
-2020-03-10,Washington,Government,64.0,56.0,64.0,19
+2020-03-10,Washington,Government,90.0,82.0,91.0,19
 2020-03-10,Washington,Drug Store,101.0,98.0,101.0,20
-2020-03-10,Washington,Hotel,61.0,56.0,62.0,21
+2020-03-10,Washington,Hotel,74.0,72.0,74.0,21
 2020-03-10,Washington,Convenience Store,92.0,87.0,93.0,22
-2020-03-10,Washington,Travel & Transport,17.0,21.0,17.0,23
-2020-03-10,Washington,Sports,24.0,33.0,24.0,24
-2020-03-10,Washington,Bus,62.0,66.0,62.0,25
+2020-03-10,Washington,Travel & Transport,82.0,86.0,82.0,23
+2020-03-10,Washington,Sports,102.0,102.0,102.0,24
+2020-03-10,Washington,Bus,72.0,80.0,72.0,25
 2020-03-10,Washington,Banks,91.0,88.0,91.0,26
-2020-03-10,Washington,Beach,103.0,102.0,103.0,27
+2020-03-10,Washington,Beach,106.0,106.0,106.0,27
 2020-03-10,Washington,Discount Stores,90.0,70.0,91.0,28
 2020-03-10,Washington,Alcohol,103.0,95.0,103.0,29
 2020-03-10,Washington,Light Rail Stations,77.0,"",76.0,30
-2020-03-10,Washington,Skiing,43.0,"",43.0,31
-2020-03-11,Washington,Food,38.0,40.0,38.0,1
-2020-03-11,Washington,Shops & Services,28.0,29.0,28.0,2
+2020-03-10,Washington,Skiing,59.0,"",59.0,31
+2020-03-11,Washington,Food,86.0,87.0,86.0,1
+2020-03-11,Washington,Shops & Services,92.0,92.0,92.0,2
 2020-03-11,Washington,Grocery,100.0,101.0,100.0,3
-2020-03-11,Washington,Outdoors & Recreation,37.0,38.0,37.0,4
-2020-03-11,Washington,Medical,49.0,45.0,49.0,5
-2020-03-11,Washington,Nightlife Spots,60.0,57.0,61.0,6
-2020-03-11,Washington,School,47.0,49.0,47.0,7
-2020-03-11,Washington,Professional & Other Places,14.0,16.0,14.0,8
+2020-03-11,Washington,Outdoors & Recreation,94.0,92.0,94.0,4
+2020-03-11,Washington,Medical,87.0,81.0,88.0,5
+2020-03-11,Washington,Nightlife Spots,93.0,88.0,93.0,6
+2020-03-11,Washington,School,88.0,90.0,88.0,7
+2020-03-11,Washington,Professional & Other Places,84.0,87.0,84.0,8
 2020-03-11,Washington,Gas Stations,95.0,95.0,95.0,9
 2020-03-11,Washington,Fast Food Restaurants,94.0,100.0,93.0,10
-2020-03-11,Washington,Office,44.0,57.0,44.0,11
+2020-03-11,Washington,Office,54.0,68.0,53.0,11
 2020-03-11,Washington,Big Box Stores,98.0,95.0,98.0,12
-2020-03-11,Washington,Arts & Entertainment,51.0,50.0,51.0,13
-2020-03-11,Washington,Fitness Center,57.0,55.0,57.0,14
-2020-03-11,Washington,Airport,45.0,45.0,45.0,15
-2020-03-11,Washington,Colleges & Universities,53.0,72.0,53.0,16
+2020-03-11,Washington,Arts & Entertainment,89.0,82.0,89.0,13
+2020-03-11,Washington,Fitness Center,83.0,77.0,83.0,14
+2020-03-11,Washington,Airport,72.0,71.0,72.0,15
+2020-03-11,Washington,Colleges & Universities,63.0,82.0,63.0,16
 2020-03-11,Washington,Residences,93.0,94.0,93.0,17
 2020-03-11,Washington,Hardware Stores,107.0,100.0,108.0,18
 2020-03-11,Washington,Drug Store,103.0,120.0,102.0,19
-2020-03-11,Washington,Government,65.0,63.0,66.0,20
+2020-03-11,Washington,Government,90.0,87.0,90.0,20
 2020-03-11,Washington,Convenience Store,91.0,97.0,91.0,21
-2020-03-11,Washington,Hotel,55.0,56.0,55.0,22
-2020-03-11,Washington,Travel & Transport,17.0,24.0,17.0,23
-2020-03-11,Washington,Sports,24.0,34.0,24.0,24
-2020-03-11,Washington,Bus,63.0,67.0,63.0,25
+2020-03-11,Washington,Hotel,67.0,72.0,67.0,22
+2020-03-11,Washington,Travel & Transport,82.0,90.0,82.0,23
+2020-03-11,Washington,Sports,99.0,103.0,99.0,24
+2020-03-11,Washington,Bus,74.0,81.0,74.0,25
 2020-03-11,Washington,Banks,92.0,87.0,93.0,26
-2020-03-11,Washington,Beach,91.0,97.0,90.0,27
+2020-03-11,Washington,Beach,93.0,101.0,93.0,27
 2020-03-11,Washington,Discount Stores,96.0,94.0,96.0,28
 2020-03-11,Washington,Alcohol,102.0,103.0,102.0,29
 2020-03-11,Washington,Light Rail Stations,72.0,"",72.0,30
-2020-03-11,Washington,Skiing,44.0,"",45.0,31
-2020-03-12,Washington,Food,38.0,40.0,38.0,1
-2020-03-12,Washington,Shops & Services,28.0,28.0,28.0,2
+2020-03-11,Washington,Skiing,60.0,"",61.0,31
+2020-03-12,Washington,Food,85.0,84.0,85.0,1
+2020-03-12,Washington,Shops & Services,92.0,90.0,92.0,2
 2020-03-12,Washington,Grocery,109.0,103.0,109.0,3
-2020-03-12,Washington,Outdoors & Recreation,38.0,37.0,38.0,4
-2020-03-12,Washington,Medical,47.0,46.0,47.0,5
-2020-03-12,Washington,Nightlife Spots,60.0,55.0,60.0,6
-2020-03-12,Washington,Professional & Other Places,14.0,15.0,14.0,7
+2020-03-12,Washington,Outdoors & Recreation,97.0,90.0,98.0,4
+2020-03-12,Washington,Medical,84.0,81.0,84.0,5
+2020-03-12,Washington,Nightlife Spots,90.0,83.0,91.0,6
+2020-03-12,Washington,Professional & Other Places,83.0,82.0,83.0,7
 2020-03-12,Washington,Gas Stations,94.0,94.0,94.0,8
-2020-03-12,Washington,School,45.0,46.0,45.0,8
-2020-03-12,Washington,Fast Food Restaurants,91.0,90.0,91.0,9
-2020-03-12,Washington,Big Box Stores,104.0,94.0,104.0,10
-2020-03-12,Washington,Office,44.0,55.0,43.0,11
-2020-03-12,Washington,Arts & Entertainment,45.0,44.0,45.0,12
-2020-03-12,Washington,Airport,41.0,39.0,41.0,13
-2020-03-12,Washington,Fitness Center,53.0,51.0,53.0,14
-2020-03-12,Washington,Residences,89.0,83.0,90.0,15
-2020-03-12,Washington,Colleges & Universities,49.0,63.0,49.0,16
-2020-03-12,Washington,Hardware Stores,104.0,88.0,105.0,17
-2020-03-12,Washington,Drug Store,108.0,109.0,107.0,18
-2020-03-12,Washington,Convenience Store,88.0,87.0,88.0,19
-2020-03-12,Washington,Government,60.0,55.0,60.0,20
-2020-03-12,Washington,Hotel,53.0,53.0,53.0,21
-2020-03-12,Washington,Travel & Transport,18.0,25.0,18.0,22
-2020-03-12,Washington,Sports,24.0,35.0,23.0,23
-2020-03-12,Washington,Bus,59.0,73.0,59.0,24
-2020-03-12,Washington,Banks,95.0,97.0,95.0,25
-2020-03-12,Washington,Beach,96.0,89.0,97.0,26
-2020-03-12,Washington,Discount Stores,99.0,84.0,100.0,27
-2020-03-12,Washington,Alcohol,94.0,103.0,94.0,28
-2020-03-12,Washington,Light Rail Stations,61.0,"",61.0,29
-2020-03-12,Washington,Skiing,67.0,"",67.0,30
-2020-03-13,Washington,Food,36.0,34.0,37.0,1
-2020-03-13,Washington,Shops & Services,31.0,27.0,31.0,2
+2020-03-12,Washington,School,85.0,85.0,85.0,9
+2020-03-12,Washington,Fast Food Restaurants,91.0,90.0,91.0,10
+2020-03-12,Washington,Big Box Stores,104.0,94.0,104.0,11
+2020-03-12,Washington,Office,53.0,66.0,52.0,12
+2020-03-12,Washington,Arts & Entertainment,79.0,72.0,79.0,13
+2020-03-12,Washington,Airport,66.0,62.0,66.0,14
+2020-03-12,Washington,Fitness Center,76.0,73.0,77.0,15
+2020-03-12,Washington,Residences,89.0,83.0,90.0,16
+2020-03-12,Washington,Colleges & Universities,60.0,71.0,59.0,17
+2020-03-12,Washington,Hardware Stores,104.0,88.0,105.0,18
+2020-03-12,Washington,Drug Store,108.0,109.0,107.0,19
+2020-03-12,Washington,Convenience Store,88.0,87.0,88.0,20
+2020-03-12,Washington,Government,82.0,78.0,82.0,21
+2020-03-12,Washington,Hotel,65.0,68.0,64.0,22
+2020-03-12,Washington,Travel & Transport,83.0,89.0,83.0,23
+2020-03-12,Washington,Sports,94.0,103.0,94.0,24
+2020-03-12,Washington,Bus,69.0,87.0,69.0,25
+2020-03-12,Washington,Banks,95.0,97.0,95.0,26
+2020-03-12,Washington,Beach,99.0,92.0,100.0,27
+2020-03-12,Washington,Discount Stores,99.0,84.0,100.0,28
+2020-03-12,Washington,Alcohol,94.0,103.0,94.0,29
+2020-03-12,Washington,Light Rail Stations,61.0,"",61.0,30
+2020-03-12,Washington,Skiing,92.0,"",91.0,31
+2020-03-13,Washington,Food,82.0,75.0,83.0,1
+2020-03-13,Washington,Shops & Services,90.0,80.0,91.0,2
 2020-03-13,Washington,Grocery,121.0,108.0,122.0,3
-2020-03-13,Washington,Outdoors & Recreation,34.0,31.0,34.0,4
-2020-03-13,Washington,Nightlife Spots,53.0,47.0,53.0,5
+2020-03-13,Washington,Outdoors & Recreation,84.0,74.0,85.0,4
+2020-03-13,Washington,Nightlife Spots,87.0,78.0,87.0,5
 2020-03-13,Washington,Gas Stations,93.0,83.0,94.0,6
-2020-03-13,Washington,Medical,47.0,43.0,48.0,7
-2020-03-13,Washington,Professional & Other Places,15.0,16.0,15.0,8
-2020-03-13,Washington,School,40.0,37.0,40.0,9
+2020-03-13,Washington,Medical,85.0,76.0,85.0,7
+2020-03-13,Washington,Professional & Other Places,85.0,82.0,85.0,8
+2020-03-13,Washington,School,75.0,69.0,75.0,9
 2020-03-13,Washington,Fast Food Restaurants,91.0,84.0,91.0,10
 2020-03-13,Washington,Big Box Stores,110.0,98.0,110.0,11
-2020-03-13,Washington,Office,44.0,47.0,44.0,12
-2020-03-13,Washington,Arts & Entertainment,41.0,39.0,41.0,13
+2020-03-13,Washington,Office,54.0,55.0,54.0,12
+2020-03-13,Washington,Arts & Entertainment,71.0,64.0,71.0,13
 2020-03-13,Washington,Drug Store,114.0,106.0,114.0,14
-2020-03-13,Washington,Airport,35.0,32.0,35.0,15
+2020-03-13,Washington,Airport,56.0,52.0,56.0,15
 2020-03-13,Washington,Hardware Stores,108.0,91.0,109.0,16
-2020-03-13,Washington,Fitness Center,49.0,44.0,49.0,17
+2020-03-13,Washington,Fitness Center,71.0,63.0,72.0,17
 2020-03-13,Washington,Residences,88.0,80.0,88.0,18
 2020-03-13,Washington,Convenience Store,96.0,96.0,96.0,19
-2020-03-13,Washington,Hotel,55.0,53.0,55.0,20
-2020-03-13,Washington,Colleges & Universities,45.0,47.0,45.0,21
-2020-03-13,Washington,Government,61.0,58.0,61.0,22
-2020-03-13,Washington,Travel & Transport,16.0,22.0,16.0,23
-2020-03-13,Washington,Sports,20.0,25.0,20.0,24
+2020-03-13,Washington,Hotel,67.0,67.0,67.0,20
+2020-03-13,Washington,Colleges & Universities,55.0,53.0,55.0,21
+2020-03-13,Washington,Government,85.0,82.0,85.0,22
+2020-03-13,Washington,Travel & Transport,72.0,75.0,72.0,23
+2020-03-13,Washington,Sports,80.0,75.0,80.0,24
 2020-03-13,Washington,Banks,95.0,78.0,96.0,25
-2020-03-13,Washington,Bus,56.0,59.0,56.0,26
+2020-03-13,Washington,Bus,66.0,72.0,65.0,26
 2020-03-13,Washington,Discount Stores,96.0,87.0,97.0,27
-2020-03-13,Washington,Beach,79.0,78.0,79.0,28
+2020-03-13,Washington,Beach,81.0,80.0,81.0,28
 2020-03-13,Washington,Alcohol,99.0,81.0,100.0,29
-2020-03-13,Washington,Skiing,59.0,"",58.0,30
+2020-03-13,Washington,Skiing,81.0,"",81.0,30
 2020-03-13,Washington,Light Rail Stations,58.0,"",57.0,31
-2020-03-14,Washington,Food,33.0,31.0,33.0,1
-2020-03-14,Washington,Shops & Services,27.0,24.0,27.0,2
+2020-03-14,Washington,Food,74.0,67.0,74.0,1
+2020-03-14,Washington,Shops & Services,79.0,71.0,79.0,2
 2020-03-14,Washington,Grocery,115.0,99.0,116.0,3
-2020-03-14,Washington,Outdoors & Recreation,33.0,33.0,34.0,4
-2020-03-14,Washington,Nightlife Spots,46.0,41.0,46.0,5
+2020-03-14,Washington,Outdoors & Recreation,81.0,75.0,81.0,4
+2020-03-14,Washington,Nightlife Spots,75.0,68.0,75.0,5
 2020-03-14,Washington,Gas Stations,85.0,73.0,86.0,6
 2020-03-14,Washington,Big Box Stores,106.0,89.0,106.0,7
 2020-03-14,Washington,Fast Food Restaurants,74.0,64.0,75.0,8
-2020-03-14,Washington,Professional & Other Places,16.0,17.0,16.0,9
-2020-03-14,Washington,Arts & Entertainment,32.0,32.0,32.0,10
+2020-03-14,Washington,Professional & Other Places,71.0,68.0,71.0,9
+2020-03-14,Washington,Arts & Entertainment,55.0,52.0,55.0,10
 2020-03-14,Washington,Hardware Stores,107.0,90.0,108.0,11
-2020-03-14,Washington,Medical,44.0,38.0,44.0,12
+2020-03-14,Washington,Medical,79.0,67.0,79.0,12
 2020-03-14,Washington,Drug Store,113.0,103.0,113.0,13
-2020-03-14,Washington,Airport,37.0,39.0,37.0,14
-2020-03-14,Washington,School,30.0,29.0,30.0,15
+2020-03-14,Washington,Airport,60.0,63.0,60.0,14
+2020-03-14,Washington,School,57.0,54.0,57.0,15
 2020-03-14,Washington,Residences,83.0,78.0,83.0,16
-2020-03-14,Washington,Fitness Center,46.0,37.0,46.0,17
-2020-03-14,Washington,Hotel,52.0,49.0,52.0,18
+2020-03-14,Washington,Fitness Center,67.0,53.0,68.0,17
+2020-03-14,Washington,Hotel,65.0,63.0,65.0,18
 2020-03-14,Washington,Convenience Store,84.0,82.0,84.0,19
-2020-03-14,Washington,Travel & Transport,15.0,19.0,15.0,20
-2020-03-14,Washington,Office,52.0,56.0,51.0,21
-2020-03-14,Washington,Sports,19.0,24.0,19.0,22
-2020-03-14,Washington,Colleges & Universities,48.0,43.0,48.0,23
-2020-03-14,Washington,Government,51.0,51.0,51.0,24
-2020-03-14,Washington,Bus,60.0,69.0,60.0,25
+2020-03-14,Washington,Travel & Transport,68.0,68.0,68.0,20
+2020-03-14,Washington,Office,61.0,66.0,61.0,21
+2020-03-14,Washington,Sports,70.0,68.0,70.0,22
+2020-03-14,Washington,Colleges & Universities,53.0,50.0,53.0,23
+2020-03-14,Washington,Government,74.0,71.0,74.0,24
+2020-03-14,Washington,Bus,72.0,85.0,72.0,25
 2020-03-14,Washington,Discount Stores,107.0,76.0,108.0,26
 2020-03-14,Washington,Banks,63.0,69.0,63.0,27
-2020-03-14,Washington,Beach,86.0,82.0,86.0,28
+2020-03-14,Washington,Beach,89.0,84.0,89.0,28
 2020-03-14,Washington,Alcohol,101.0,89.0,102.0,29
-2020-03-14,Washington,Skiing,49.0,"",49.0,30
+2020-03-14,Washington,Skiing,69.0,"",69.0,30
 2020-03-14,Washington,Light Rail Stations,52.0,"",52.0,31
-2020-03-15,Washington,Food,31.0,30.0,31.0,1
-2020-03-15,Washington,Shops & Services,23.0,21.0,23.0,2
+2020-03-15,Washington,Food,68.0,64.0,68.0,1
+2020-03-15,Washington,Shops & Services,72.0,69.0,72.0,2
 2020-03-15,Washington,Grocery,93.0,86.0,93.0,3
-2020-03-15,Washington,Outdoors & Recreation,36.0,34.0,36.0,4
-2020-03-15,Washington,Nightlife Spots,36.0,37.0,36.0,5
+2020-03-15,Washington,Outdoors & Recreation,85.0,77.0,85.0,4
+2020-03-15,Washington,Nightlife Spots,72.0,71.0,72.0,5
 2020-03-15,Washington,Gas Stations,81.0,76.0,81.0,6
 2020-03-15,Washington,Big Box Stores,90.0,91.0,90.0,7
 2020-03-15,Washington,Fast Food Restaurants,72.0,69.0,72.0,8
-2020-03-15,Washington,Arts & Entertainment,30.0,29.0,30.0,9
-2020-03-15,Washington,Professional & Other Places,15.0,14.0,15.0,10
+2020-03-15,Washington,Arts & Entertainment,53.0,47.0,54.0,9
+2020-03-15,Washington,Professional & Other Places,68.0,65.0,68.0,10
 2020-03-15,Washington,Hardware Stores,107.0,97.0,108.0,11
-2020-03-15,Washington,School,37.0,35.0,37.0,12
-2020-03-15,Washington,Airport,35.0,36.0,35.0,13
+2020-03-15,Washington,School,69.0,64.0,70.0,12
+2020-03-15,Washington,Airport,57.0,59.0,57.0,13
 2020-03-15,Washington,Residences,75.0,67.0,76.0,14
 2020-03-15,Washington,Drug Store,97.0,87.0,97.0,15
-2020-03-15,Washington,Medical,42.0,33.0,43.0,16
-2020-03-15,Washington,Hotel,46.0,49.0,46.0,17
+2020-03-15,Washington,Medical,76.0,59.0,76.0,16
+2020-03-15,Washington,Hotel,58.0,63.0,58.0,17
 2020-03-15,Washington,Convenience Store,86.0,73.0,87.0,18
-2020-03-15,Washington,Fitness Center,47.0,44.0,47.0,19
-2020-03-15,Washington,Travel & Transport,14.0,16.0,14.0,20
-2020-03-15,Washington,Sports,25.0,30.0,25.0,21
-2020-03-15,Washington,Colleges & Universities,56.0,60.0,56.0,22
-2020-03-15,Washington,Office,53.0,47.0,53.0,23
-2020-03-15,Washington,Beach,90.0,74.0,90.0,24
-2020-03-15,Washington,Bus,67.0,82.0,66.0,25
-2020-03-15,Washington,Government,54.0,55.0,54.0,26
+2020-03-15,Washington,Fitness Center,67.0,62.0,67.0,19
+2020-03-15,Washington,Travel & Transport,67.0,63.0,67.0,20
+2020-03-15,Washington,Sports,80.0,77.0,80.0,21
+2020-03-15,Washington,Colleges & Universities,64.0,69.0,64.0,22
+2020-03-15,Washington,Office,62.0,56.0,62.0,23
+2020-03-15,Washington,Beach,92.0,76.0,93.0,24
+2020-03-15,Washington,Bus,80.0,99.0,80.0,25
+2020-03-15,Washington,Government,80.0,80.0,80.0,26
 2020-03-15,Washington,Discount Stores,99.0,88.0,99.0,27
-2020-03-15,Washington,Skiing,33.0,38.0,33.0,28
+2020-03-15,Washington,Skiing,47.0,53.0,47.0,28
 2020-03-15,Washington,Banks,66.0,"",67.0,29
 2020-03-15,Washington,Alcohol,71.0,65.0,72.0,30
 2020-03-15,Washington,Light Rail Stations,51.0,"",51.0,31
-2020-03-16,Washington,Food,33.0,32.0,33.0,1
-2020-03-16,Washington,Shops & Services,26.0,25.0,26.0,2
+2020-03-16,Washington,Food,74.0,69.0,74.0,1
+2020-03-16,Washington,Shops & Services,86.0,79.0,86.0,2
 2020-03-16,Washington,Grocery,126.0,120.0,127.0,3
-2020-03-16,Washington,Outdoors & Recreation,38.0,38.0,38.0,4
-2020-03-16,Washington,Medical,50.0,42.0,50.0,5
+2020-03-16,Washington,Outdoors & Recreation,94.0,92.0,94.0,4
+2020-03-16,Washington,Medical,89.0,76.0,90.0,5
 2020-03-16,Washington,Gas Stations,99.0,96.0,99.0,6
-2020-03-16,Washington,Nightlife Spots,49.0,45.0,49.0,7
-2020-03-16,Washington,Professional & Other Places,15.0,16.0,15.0,8
+2020-03-16,Washington,Nightlife Spots,85.0,79.0,85.0,7
+2020-03-16,Washington,Professional & Other Places,86.0,84.0,86.0,8
 2020-03-16,Washington,Big Box Stores,105.0,97.0,105.0,9
 2020-03-16,Washington,Fast Food Restaurants,85.0,74.0,85.0,10
-2020-03-16,Washington,School,36.0,38.0,35.0,11
-2020-03-16,Washington,Office,48.0,59.0,48.0,12
-2020-03-16,Washington,Arts & Entertainment,38.0,40.0,38.0,13
+2020-03-16,Washington,School,67.0,70.0,67.0,11
+2020-03-16,Washington,Office,58.0,71.0,58.0,12
+2020-03-16,Washington,Arts & Entertainment,65.0,65.0,65.0,13
 2020-03-16,Washington,Hardware Stores,109.0,89.0,111.0,14
-2020-03-16,Washington,Airport,33.0,38.0,33.0,15
+2020-03-16,Washington,Airport,53.0,61.0,53.0,15
 2020-03-16,Washington,Drug Store,124.0,116.0,124.0,16
 2020-03-16,Washington,Residences,84.0,83.0,84.0,17
 2020-03-16,Washington,Convenience Store,100.0,96.0,100.0,18
-2020-03-16,Washington,Travel & Transport,17.0,22.0,16.0,19
-2020-03-16,Washington,Government,63.0,55.0,63.0,20
-2020-03-16,Washington,Hotel,51.0,54.0,51.0,21
-2020-03-16,Washington,Fitness Center,41.0,34.0,41.0,22
-2020-03-16,Washington,Colleges & Universities,33.0,36.0,33.0,23
-2020-03-16,Washington,Sports,24.0,28.0,24.0,24
+2020-03-16,Washington,Travel & Transport,79.0,77.0,79.0,19
+2020-03-16,Washington,Government,89.0,79.0,89.0,20
+2020-03-16,Washington,Hotel,63.0,71.0,63.0,21
+2020-03-16,Washington,Fitness Center,58.0,47.0,59.0,22
+2020-03-16,Washington,Colleges & Universities,54.0,56.0,54.0,23
+2020-03-16,Washington,Sports,91.0,91.0,91.0,24
 2020-03-16,Washington,Banks,124.0,111.0,125.0,25
-2020-03-16,Washington,Bus,65.0,71.0,64.0,26
-2020-03-16,Washington,Beach,98.0,104.0,98.0,27
+2020-03-16,Washington,Bus,76.0,85.0,76.0,26
+2020-03-16,Washington,Beach,101.0,106.0,101.0,27
 2020-03-16,Washington,Discount Stores,115.0,103.0,116.0,28
 2020-03-16,Washington,Alcohol,115.0,113.0,115.0,29
 2020-03-16,Washington,Light Rail Stations,56.0,"",55.0,30
-2020-03-17,Washington,Shops & Services,25.0,22.0,26.0,1
-2020-03-17,Washington,Food,28.0,25.0,28.0,2
+2020-03-17,Washington,Shops & Services,75.0,64.0,76.0,1
+2020-03-17,Washington,Food,63.0,56.0,63.0,2
 2020-03-17,Washington,Grocery,109.0,93.0,110.0,3
-2020-03-17,Washington,Outdoors & Recreation,38.0,37.0,38.0,4
-2020-03-17,Washington,Medical,37.0,31.0,37.0,5
+2020-03-17,Washington,Outdoors & Recreation,94.0,87.0,94.0,4
+2020-03-17,Washington,Medical,66.0,56.0,66.0,5
 2020-03-17,Washington,Gas Stations,86.0,78.0,87.0,6
-2020-03-17,Washington,Professional & Other Places,12.0,12.0,12.0,7
-2020-03-17,Washington,Nightlife Spots,40.0,34.0,40.0,8
+2020-03-17,Washington,Professional & Other Places,70.0,66.0,70.0,7
+2020-03-17,Washington,Nightlife Spots,68.0,58.0,68.0,8
 2020-03-17,Washington,Big Box Stores,97.0,78.0,98.0,9
 2020-03-17,Washington,Fast Food Restaurants,76.0,65.0,76.0,10
-2020-03-17,Washington,School,26.0,28.0,26.0,11
-2020-03-17,Washington,Office,35.0,46.0,35.0,12
+2020-03-17,Washington,School,48.0,52.0,48.0,11
+2020-03-17,Washington,Office,42.0,55.0,42.0,12
 2020-03-17,Washington,Hardware Stores,102.0,82.0,103.0,13
 2020-03-17,Washington,Drug Store,104.0,89.0,105.0,14
 2020-03-17,Washington,Residences,80.0,67.0,81.0,15
-2020-03-17,Washington,Airport,33.0,27.0,33.0,16
-2020-03-17,Washington,Arts & Entertainment,34.0,34.0,34.0,17
+2020-03-17,Washington,Airport,53.0,44.0,53.0,16
+2020-03-17,Washington,Arts & Entertainment,57.0,53.0,57.0,17
 2020-03-17,Washington,Convenience Store,87.0,87.0,87.0,18
-2020-03-17,Washington,Government,47.0,44.0,47.0,19
-2020-03-17,Washington,Hotel,46.0,41.0,46.0,20
-2020-03-17,Washington,Travel & Transport,15.0,17.0,15.0,21
-2020-03-17,Washington,Colleges & Universities,32.0,38.0,32.0,22
-2020-03-17,Washington,Fitness Center,24.0,26.0,24.0,23
-2020-03-17,Washington,Sports,20.0,26.0,20.0,24
+2020-03-17,Washington,Government,66.0,63.0,66.0,19
+2020-03-17,Washington,Hotel,56.0,53.0,56.0,20
+2020-03-17,Washington,Travel & Transport,70.0,68.0,70.0,21
+2020-03-17,Washington,Colleges & Universities,36.0,43.0,35.0,22
+2020-03-17,Washington,Fitness Center,34.0,37.0,34.0,23
+2020-03-17,Washington,Sports,82.0,77.0,82.0,24
 2020-03-17,Washington,Banks,84.0,76.0,84.0,25
-2020-03-17,Washington,Bus,47.0,46.0,47.0,26
-2020-03-17,Washington,Beach,113.0,92.0,114.0,27
+2020-03-17,Washington,Bus,55.0,55.0,55.0,26
+2020-03-17,Washington,Beach,116.0,96.0,118.0,27
 2020-03-17,Washington,Discount Stores,91.0,60.0,93.0,28
 2020-03-17,Washington,Alcohol,99.0,93.0,99.0,29
 2020-03-17,Washington,Light Rail Stations,47.0,"",46.0,30
-2020-03-18,Washington,Shops & Services,28.0,24.0,28.0,1
-2020-03-18,Washington,Food,25.0,23.0,25.0,2
+2020-03-18,Washington,Shops & Services,70.0,60.0,71.0,1
+2020-03-18,Washington,Food,57.0,50.0,57.0,2
 2020-03-18,Washington,Grocery,97.0,82.0,98.0,3
-2020-03-18,Washington,Outdoors & Recreation,39.0,38.0,40.0,4
+2020-03-18,Washington,Outdoors & Recreation,101.0,93.0,101.0,4
 2020-03-18,Washington,Gas Stations,82.0,73.0,82.0,5
-2020-03-18,Washington,Medical,33.0,28.0,33.0,6
-2020-03-18,Washington,Professional & Other Places,11.0,11.0,11.0,7
-2020-03-18,Washington,Nightlife Spots,29.0,30.0,29.0,8
+2020-03-18,Washington,Medical,59.0,51.0,59.0,6
+2020-03-18,Washington,Professional & Other Places,67.0,65.0,67.0,7
+2020-03-18,Washington,Nightlife Spots,51.0,53.0,51.0,8
 2020-03-18,Washington,Big Box Stores,89.0,73.0,90.0,9
 2020-03-18,Washington,Fast Food Restaurants,70.0,62.0,70.0,10
-2020-03-18,Washington,School,24.0,28.0,24.0,11
-2020-03-18,Washington,Office,33.0,41.0,33.0,12
+2020-03-18,Washington,School,45.0,53.0,45.0,11
+2020-03-18,Washington,Office,40.0,49.0,40.0,12
 2020-03-18,Washington,Hardware Stores,105.0,87.0,107.0,13
 2020-03-18,Washington,Residences,87.0,83.0,87.0,14
 2020-03-18,Washington,Drug Store,94.0,86.0,94.0,15
-2020-03-18,Washington,Airport,29.0,34.0,29.0,16
-2020-03-18,Washington,Arts & Entertainment,28.0,31.0,28.0,17
+2020-03-18,Washington,Airport,46.0,54.0,46.0,16
+2020-03-18,Washington,Arts & Entertainment,50.0,50.0,50.0,17
 2020-03-18,Washington,Convenience Store,79.0,76.0,79.0,18
-2020-03-18,Washington,Hotel,42.0,37.0,42.0,19
-2020-03-18,Washington,Travel & Transport,14.0,16.0,14.0,20
-2020-03-18,Washington,Government,45.0,42.0,46.0,21
-2020-03-18,Washington,Sports,21.0,29.0,20.0,22
-2020-03-18,Washington,Colleges & Universities,26.0,43.0,26.0,23
-2020-03-18,Washington,Fitness Center,22.0,21.0,22.0,24
-2020-03-18,Washington,Bus,49.0,60.0,49.0,25
+2020-03-18,Washington,Hotel,51.0,48.0,51.0,19
+2020-03-18,Washington,Travel & Transport,70.0,62.0,70.0,20
+2020-03-18,Washington,Government,63.0,59.0,63.0,21
+2020-03-18,Washington,Sports,87.0,89.0,87.0,22
+2020-03-18,Washington,Colleges & Universities,31.0,49.0,31.0,23
+2020-03-18,Washington,Fitness Center,32.0,30.0,32.0,24
+2020-03-18,Washington,Bus,58.0,73.0,57.0,25
 2020-03-18,Washington,Banks,74.0,73.0,74.0,26
-2020-03-18,Washington,Beach,120.0,93.0,122.0,27
+2020-03-18,Washington,Beach,124.0,96.0,126.0,27
 2020-03-18,Washington,Discount Stores,81.0,63.0,82.0,28
 2020-03-18,Washington,Alcohol,73.0,72.0,73.0,29
 2020-03-18,Washington,Light Rail Stations,38.0,"",38.0,30
-2020-03-19,Washington,Food,24.0,23.0,24.0,1
-2020-03-19,Washington,Shops & Services,22.0,19.0,22.0,2
+2020-03-19,Washington,Food,55.0,50.0,55.0,1
+2020-03-19,Washington,Shops & Services,65.0,57.0,65.0,2
 2020-03-19,Washington,Grocery,92.0,82.0,93.0,3
-2020-03-19,Washington,Outdoors & Recreation,40.0,39.0,40.0,4
+2020-03-19,Washington,Outdoors & Recreation,99.0,91.0,99.0,4
 2020-03-19,Washington,Gas Stations,78.0,69.0,78.0,5
-2020-03-19,Washington,Professional & Other Places,11.0,11.0,11.0,6
-2020-03-19,Washington,Medical,32.0,26.0,32.0,7
-2020-03-19,Washington,Nightlife Spots,27.0,30.0,27.0,8
+2020-03-19,Washington,Professional & Other Places,63.0,59.0,64.0,6
+2020-03-19,Washington,Medical,56.0,47.0,57.0,7
+2020-03-19,Washington,Nightlife Spots,47.0,53.0,47.0,8
 2020-03-19,Washington,Fast Food Restaurants,66.0,57.0,66.0,9
 2020-03-19,Washington,Big Box Stores,84.0,69.0,84.0,10
-2020-03-19,Washington,School,24.0,25.0,24.0,11
-2020-03-19,Washington,Office,32.0,38.0,32.0,12
+2020-03-19,Washington,School,46.0,47.0,46.0,11
+2020-03-19,Washington,Office,39.0,46.0,39.0,12
 2020-03-19,Washington,Hardware Stores,104.0,81.0,106.0,13
 2020-03-19,Washington,Residences,77.0,76.0,77.0,14
 2020-03-19,Washington,Drug Store,88.0,76.0,88.0,15
-2020-03-19,Washington,Airport,25.0,29.0,25.0,16
+2020-03-19,Washington,Airport,40.0,46.0,40.0,16
 2020-03-19,Washington,Convenience Store,76.0,73.0,76.0,17
-2020-03-19,Washington,Arts & Entertainment,26.0,30.0,26.0,18
-2020-03-19,Washington,Travel & Transport,14.0,17.0,14.0,19
-2020-03-19,Washington,Hotel,39.0,36.0,39.0,20
-2020-03-19,Washington,Government,42.0,42.0,42.0,21
-2020-03-19,Washington,Sports,22.0,29.0,21.0,22
-2020-03-19,Washington,Colleges & Universities,26.0,39.0,26.0,23
-2020-03-19,Washington,Fitness Center,20.0,19.0,20.0,24
-2020-03-19,Washington,Beach,131.0,120.0,132.0,25
+2020-03-19,Washington,Arts & Entertainment,45.0,48.0,45.0,18
+2020-03-19,Washington,Travel & Transport,65.0,61.0,65.0,19
+2020-03-19,Washington,Hotel,47.0,45.0,47.0,20
+2020-03-19,Washington,Government,58.0,59.0,58.0,21
+2020-03-19,Washington,Sports,87.0,86.0,87.0,22
+2020-03-19,Washington,Colleges & Universities,31.0,44.0,31.0,23
+2020-03-19,Washington,Fitness Center,29.0,27.0,29.0,24
+2020-03-19,Washington,Beach,135.0,125.0,136.0,25
 2020-03-19,Washington,Banks,73.0,63.0,73.0,26
-2020-03-19,Washington,Bus,39.0,53.0,38.0,27
+2020-03-19,Washington,Bus,46.0,64.0,45.0,27
 2020-03-19,Washington,Discount Stores,68.0,59.0,68.0,28
 2020-03-19,Washington,Alcohol,77.0,47.0,78.0,29
 2020-03-19,Washington,Light Rail Stations,39.0,"",39.0,30
-2020-03-20,Washington,Shops & Services,22.0,20.0,23.0,1
-2020-03-20,Washington,Food,24.0,23.0,24.0,2
+2020-03-20,Washington,Shops & Services,63.0,57.0,63.0,1
+2020-03-20,Washington,Food,53.0,49.0,53.0,2
 2020-03-20,Washington,Grocery,94.0,81.0,95.0,3
-2020-03-20,Washington,Outdoors & Recreation,39.0,36.0,39.0,4
+2020-03-20,Washington,Outdoors & Recreation,99.0,89.0,99.0,4
 2020-03-20,Washington,Gas Stations,78.0,69.0,79.0,5
-2020-03-20,Washington,Professional & Other Places,11.0,11.0,11.0,6
-2020-03-20,Washington,Medical,33.0,29.0,33.0,7
-2020-03-20,Washington,Nightlife Spots,26.0,28.0,26.0,8
+2020-03-20,Washington,Professional & Other Places,64.0,60.0,64.0,6
+2020-03-20,Washington,Medical,58.0,51.0,59.0,7
+2020-03-20,Washington,Nightlife Spots,46.0,48.0,46.0,8
 2020-03-20,Washington,Big Box Stores,83.0,68.0,83.0,9
 2020-03-20,Washington,Fast Food Restaurants,65.0,56.0,65.0,10
-2020-03-20,Washington,School,25.0,31.0,25.0,11
+2020-03-20,Washington,School,46.0,56.0,46.0,11
 2020-03-20,Washington,Hardware Stores,111.0,92.0,113.0,12
-2020-03-20,Washington,Office,32.0,35.0,32.0,13
+2020-03-20,Washington,Office,38.0,42.0,38.0,13
 2020-03-20,Washington,Drug Store,87.0,81.0,87.0,14
 2020-03-20,Washington,Residences,75.0,70.0,75.0,15
 2020-03-20,Washington,Convenience Store,76.0,72.0,76.0,16
-2020-03-20,Washington,Arts & Entertainment,24.0,28.0,24.0,17
-2020-03-20,Washington,Travel & Transport,12.0,15.0,12.0,18
-2020-03-20,Washington,Hotel,37.0,36.0,37.0,19
-2020-03-20,Washington,Airport,17.0,20.0,17.0,20
-2020-03-20,Washington,Sports,22.0,28.0,22.0,21
-2020-03-20,Washington,Government,39.0,37.0,39.0,22
-2020-03-20,Washington,Colleges & Universities,26.0,33.0,26.0,23
-2020-03-20,Washington,Fitness Center,21.0,16.0,21.0,24
+2020-03-20,Washington,Arts & Entertainment,41.0,45.0,41.0,17
+2020-03-20,Washington,Travel & Transport,58.0,55.0,58.0,18
+2020-03-20,Washington,Hotel,46.0,46.0,46.0,19
+2020-03-20,Washington,Airport,28.0,32.0,28.0,20
+2020-03-20,Washington,Sports,86.0,82.0,86.0,21
+2020-03-20,Washington,Government,56.0,54.0,56.0,22
+2020-03-20,Washington,Colleges & Universities,33.0,40.0,33.0,23
+2020-03-20,Washington,Fitness Center,30.0,22.0,31.0,24
 2020-03-20,Washington,Banks,77.0,75.0,77.0,25
-2020-03-20,Washington,Bus,46.0,53.0,45.0,26
-2020-03-20,Washington,Beach,125.0,100.0,127.0,27
+2020-03-20,Washington,Bus,54.0,64.0,53.0,26
+2020-03-20,Washington,Beach,129.0,104.0,130.0,27
 2020-03-20,Washington,Discount Stores,74.0,61.0,74.0,28
 2020-03-20,Washington,Alcohol,74.0,76.0,74.0,29
 2020-03-20,Washington,Light Rail Stations,38.0,"",38.0,30
-2020-03-21,Washington,Food,20.0,19.0,20.0,1
-2020-03-21,Washington,Shops & Services,17.0,15.0,17.0,2
+2020-03-21,Washington,Food,45.0,41.0,45.0,1
+2020-03-21,Washington,Shops & Services,50.0,47.0,50.0,2
 2020-03-21,Washington,Grocery,83.0,68.0,84.0,3
-2020-03-21,Washington,Outdoors & Recreation,45.0,40.0,45.0,4
+2020-03-21,Washington,Outdoors & Recreation,103.0,89.0,104.0,4
 2020-03-21,Washington,Gas Stations,72.0,65.0,72.0,5
 2020-03-21,Washington,Big Box Stores,74.0,61.0,74.0,6
-2020-03-21,Washington,Nightlife Spots,20.0,22.0,20.0,7
+2020-03-21,Washington,Nightlife Spots,36.0,37.0,35.0,7
 2020-03-21,Washington,Fast Food Restaurants,58.0,51.0,58.0,8
-2020-03-21,Washington,Professional & Other Places,13.0,12.0,13.0,9
+2020-03-21,Washington,Professional & Other Places,55.0,49.0,55.0,9
 2020-03-21,Washington,Hardware Stores,105.0,79.0,106.0,10
-2020-03-21,Washington,School,30.0,28.0,30.0,11
-2020-03-21,Washington,Medical,32.0,27.0,33.0,12
+2020-03-21,Washington,School,57.0,53.0,57.0,11
+2020-03-21,Washington,Medical,58.0,48.0,59.0,12
 2020-03-21,Washington,Drug Store,82.0,68.0,83.0,13
 2020-03-21,Washington,Residences,72.0,69.0,72.0,14
 2020-03-21,Washington,Convenience Store,78.0,72.0,78.0,15
-2020-03-21,Washington,Arts & Entertainment,15.0,16.0,15.0,16
-2020-03-21,Washington,Hotel,35.0,39.0,35.0,17
-2020-03-21,Washington,Sports,23.0,28.0,22.0,18
-2020-03-21,Washington,Travel & Transport,13.0,14.0,13.0,19
-2020-03-21,Washington,Airport,18.0,23.0,17.0,20
-2020-03-21,Washington,Office,41.0,41.0,41.0,21
-2020-03-21,Washington,Beach,127.0,104.0,128.0,22
-2020-03-21,Washington,Fitness Center,19.0,20.0,19.0,23
-2020-03-21,Washington,Colleges & Universities,46.0,49.0,46.0,24
-2020-03-21,Washington,Government,46.0,45.0,46.0,25
-2020-03-21,Washington,Bus,46.0,51.0,46.0,26
+2020-03-21,Washington,Arts & Entertainment,27.0,28.0,26.0,16
+2020-03-21,Washington,Hotel,44.0,50.0,44.0,17
+2020-03-21,Washington,Sports,79.0,76.0,79.0,18
+2020-03-21,Washington,Travel & Transport,61.0,54.0,61.0,19
+2020-03-21,Washington,Airport,29.0,38.0,28.0,20
+2020-03-21,Washington,Office,48.0,47.0,48.0,21
+2020-03-21,Washington,Beach,130.0,107.0,132.0,22
+2020-03-21,Washington,Fitness Center,28.0,28.0,28.0,23
+2020-03-21,Washington,Colleges & Universities,51.0,55.0,51.0,24
+2020-03-21,Washington,Government,66.0,63.0,66.0,25
+2020-03-21,Washington,Bus,55.0,62.0,55.0,26
 2020-03-21,Washington,Banks,55.0,48.0,55.0,27
 2020-03-21,Washington,Discount Stores,68.0,49.0,69.0,28
 2020-03-21,Washington,Alcohol,70.0,61.0,70.0,29
-2020-03-21,Washington,Skiing,13.0,"",13.0,30
+2020-03-21,Washington,Skiing,19.0,"",19.0,30
 2020-03-21,Washington,Light Rail Stations,35.0,"",35.0,31
-2020-03-22,Washington,Food,18.0,18.0,18.0,1
-2020-03-22,Washington,Shops & Services,13.0,13.0,13.0,2
+2020-03-22,Washington,Food,41.0,40.0,41.0,1
+2020-03-22,Washington,Shops & Services,41.0,41.0,41.0,2
 2020-03-22,Washington,Grocery,70.0,59.0,71.0,3
-2020-03-22,Washington,Outdoors & Recreation,38.0,38.0,38.0,4
+2020-03-22,Washington,Outdoors & Recreation,87.0,84.0,87.0,4
 2020-03-22,Washington,Gas Stations,69.0,60.0,70.0,5
 2020-03-22,Washington,Big Box Stores,67.0,62.0,67.0,6
 2020-03-22,Washington,Fast Food Restaurants,58.0,55.0,58.0,7
-2020-03-22,Washington,Nightlife Spots,17.0,21.0,17.0,8
+2020-03-22,Washington,Nightlife Spots,30.0,37.0,30.0,8
 2020-03-22,Washington,Hardware Stores,106.0,92.0,107.0,9
-2020-03-22,Washington,Professional & Other Places,10.0,9.0,10.0,10
-2020-03-22,Washington,School,34.0,34.0,34.0,11
+2020-03-22,Washington,Professional & Other Places,51.0,45.0,51.0,10
+2020-03-22,Washington,School,64.0,63.0,64.0,11
 2020-03-22,Washington,Residences,64.0,62.0,64.0,12
 2020-03-22,Washington,Drug Store,77.0,67.0,77.0,13
-2020-03-22,Washington,Medical,35.0,31.0,35.0,14
+2020-03-22,Washington,Medical,62.0,55.0,62.0,14
 2020-03-22,Washington,Convenience Store,76.0,66.0,76.0,15
-2020-03-22,Washington,Arts & Entertainment,13.0,18.0,13.0,16
-2020-03-22,Washington,Sports,25.0,38.0,25.0,17
-2020-03-22,Washington,Hotel,30.0,33.0,30.0,18
-2020-03-22,Washington,Travel & Transport,13.0,18.0,13.0,19
-2020-03-22,Washington,Airport,18.0,19.0,18.0,20
-2020-03-22,Washington,Beach,98.0,78.0,99.0,21
-2020-03-22,Washington,Fitness Center,22.0,21.0,22.0,22
-2020-03-22,Washington,Colleges & Universities,50.0,65.0,50.0,23
-2020-03-22,Washington,Office,43.0,44.0,43.0,24
-2020-03-22,Washington,Government,48.0,43.0,48.0,25
-2020-03-22,Washington,Bus,46.0,56.0,46.0,26
+2020-03-22,Washington,Arts & Entertainment,24.0,30.0,24.0,16
+2020-03-22,Washington,Sports,82.0,101.0,81.0,17
+2020-03-22,Washington,Hotel,38.0,42.0,38.0,18
+2020-03-22,Washington,Travel & Transport,60.0,66.0,59.0,19
+2020-03-22,Washington,Airport,29.0,31.0,29.0,20
+2020-03-22,Washington,Beach,101.0,80.0,102.0,21
+2020-03-22,Washington,Fitness Center,31.0,29.0,31.0,22
+2020-03-22,Washington,Colleges & Universities,56.0,74.0,56.0,23
+2020-03-22,Washington,Office,50.0,52.0,50.0,24
+2020-03-22,Washington,Government,72.0,64.0,72.0,25
+2020-03-22,Washington,Bus,56.0,67.0,55.0,26
 2020-03-22,Washington,Discount Stores,58.0,48.0,59.0,27
 2020-03-22,Washington,Banks,69.0,83.0,69.0,28
 2020-03-22,Washington,Alcohol,53.0,"",52.0,29
-2020-03-22,Washington,Skiing,9.0,"",9.0,30
-2020-03-23,Washington,Food,22.0,22.0,22.0,1
-2020-03-23,Washington,Shops & Services,17.0,16.0,17.0,2
+2020-03-22,Washington,Skiing,13.0,"",13.0,30
+2020-03-23,Washington,Food,48.0,47.0,48.0,1
+2020-03-23,Washington,Shops & Services,57.0,52.0,57.0,2
 2020-03-23,Washington,Grocery,84.0,73.0,85.0,3
-2020-03-23,Washington,Outdoors & Recreation,30.0,29.0,30.0,4
+2020-03-23,Washington,Outdoors & Recreation,72.0,69.0,72.0,4
 2020-03-23,Washington,Gas Stations,71.0,64.0,71.0,5
-2020-03-23,Washington,Medical,33.0,26.0,34.0,6
-2020-03-23,Washington,Professional & Other Places,12.0,11.0,12.0,7
-2020-03-23,Washington,Nightlife Spots,32.0,34.0,32.0,8
+2020-03-23,Washington,Medical,59.0,47.0,60.0,6
+2020-03-23,Washington,Professional & Other Places,66.0,59.0,66.0,7
+2020-03-23,Washington,Nightlife Spots,45.0,48.0,45.0,8
 2020-03-23,Washington,Fast Food Restaurants,64.0,56.0,64.0,9
 2020-03-23,Washington,Big Box Stores,74.0,67.0,74.0,10
-2020-03-23,Washington,School,25.0,29.0,25.0,11
-2020-03-23,Washington,Office,34.0,39.0,33.0,12
+2020-03-23,Washington,School,47.0,53.0,47.0,11
+2020-03-23,Washington,Office,41.0,47.0,41.0,12
 2020-03-23,Washington,Hardware Stores,88.0,63.0,89.0,13
 2020-03-23,Washington,Residences,68.0,65.0,68.0,14
 2020-03-23,Washington,Drug Store,98.0,72.0,99.0,15
 2020-03-23,Washington,Convenience Store,74.0,66.0,75.0,16
-2020-03-23,Washington,Arts & Entertainment,27.0,30.0,27.0,17
-2020-03-23,Washington,Travel & Transport,13.0,17.0,13.0,18
-2020-03-23,Washington,Airport,17.0,18.0,17.0,19
-2020-03-23,Washington,Hotel,37.0,40.0,37.0,20
-2020-03-23,Washington,Government,44.0,37.0,44.0,21
-2020-03-23,Washington,Sports,20.0,23.0,19.0,22
-2020-03-23,Washington,Colleges & Universities,29.0,35.0,29.0,23
-2020-03-23,Washington,Fitness Center,23.0,18.0,23.0,24
-2020-03-23,Washington,Bus,47.0,65.0,46.0,25
+2020-03-23,Washington,Arts & Entertainment,37.0,40.0,37.0,17
+2020-03-23,Washington,Travel & Transport,56.0,53.0,56.0,18
+2020-03-23,Washington,Airport,27.0,28.0,27.0,19
+2020-03-23,Washington,Hotel,46.0,53.0,45.0,20
+2020-03-23,Washington,Government,61.0,53.0,62.0,21
+2020-03-23,Washington,Sports,73.0,72.0,73.0,22
+2020-03-23,Washington,Colleges & Universities,35.0,40.0,35.0,23
+2020-03-23,Washington,Fitness Center,33.0,26.0,33.0,24
+2020-03-23,Washington,Bus,56.0,78.0,55.0,25
 2020-03-23,Washington,Banks,75.0,63.0,75.0,26
-2020-03-23,Washington,Beach,75.0,69.0,75.0,27
+2020-03-23,Washington,Beach,77.0,70.0,77.0,27
 2020-03-23,Washington,Discount Stores,68.0,51.0,69.0,28
 2020-03-23,Washington,Alcohol,74.0,74.0,74.0,29
 2020-03-23,Washington,Light Rail Stations,37.0,"",37.0,30
-2020-03-24,Washington,Shops & Services,19.0,18.0,19.0,1
-2020-03-24,Washington,Food,21.0,20.0,21.0,2
+2020-03-24,Washington,Shops & Services,54.0,49.0,54.0,1
+2020-03-24,Washington,Food,46.0,42.0,46.0,2
 2020-03-24,Washington,Grocery,84.0,77.0,84.0,3
-2020-03-24,Washington,Outdoors & Recreation,28.0,29.0,28.0,4
+2020-03-24,Washington,Outdoors & Recreation,69.0,68.0,69.0,4
 2020-03-24,Washington,Gas Stations,67.0,60.0,67.0,5
-2020-03-24,Washington,Professional & Other Places,9.0,9.0,9.0,6
-2020-03-24,Washington,Medical,26.0,20.0,26.0,7
+2020-03-24,Washington,Professional & Other Places,55.0,50.0,55.0,6
+2020-03-24,Washington,Medical,46.0,37.0,47.0,7
 2020-03-24,Washington,Big Box Stores,76.0,66.0,77.0,8
-2020-03-24,Washington,Nightlife Spots,24.0,27.0,24.0,9
+2020-03-24,Washington,Nightlife Spots,41.0,45.0,41.0,9
 2020-03-24,Washington,Fast Food Restaurants,58.0,46.0,59.0,10
-2020-03-24,Washington,School,19.0,24.0,19.0,11
-2020-03-24,Washington,Office,25.0,32.0,25.0,12
+2020-03-24,Washington,School,36.0,45.0,36.0,11
+2020-03-24,Washington,Office,30.0,38.0,30.0,12
 2020-03-24,Washington,Hardware Stores,85.0,68.0,87.0,13
 2020-03-24,Washington,Drug Store,81.0,71.0,82.0,14
 2020-03-24,Washington,Residences,63.0,57.0,63.0,15
 2020-03-24,Washington,Convenience Store,66.0,65.0,66.0,16
-2020-03-24,Washington,Arts & Entertainment,23.0,23.0,23.0,17
-2020-03-24,Washington,Airport,19.0,12.0,20.0,18
-2020-03-24,Washington,Travel & Transport,11.0,12.0,11.0,19
-2020-03-24,Washington,Government,33.0,30.0,33.0,20
-2020-03-24,Washington,Hotel,33.0,30.0,33.0,21
-2020-03-24,Washington,Colleges & Universities,21.0,29.0,21.0,22
-2020-03-24,Washington,Sports,14.0,16.0,14.0,23
-2020-03-24,Washington,Fitness Center,17.0,19.0,17.0,24
-2020-03-24,Washington,Bus,38.0,45.0,38.0,25
+2020-03-24,Washington,Arts & Entertainment,40.0,37.0,40.0,17
+2020-03-24,Washington,Airport,31.0,19.0,31.0,18
+2020-03-24,Washington,Travel & Transport,51.0,47.0,51.0,19
+2020-03-24,Washington,Government,46.0,42.0,46.0,20
+2020-03-24,Washington,Hotel,40.0,39.0,40.0,21
+2020-03-24,Washington,Colleges & Universities,26.0,34.0,26.0,22
+2020-03-24,Washington,Sports,62.0,50.0,63.0,23
+2020-03-24,Washington,Fitness Center,24.0,26.0,24.0,24
+2020-03-24,Washington,Bus,45.0,54.0,44.0,25
 2020-03-24,Washington,Banks,55.0,55.0,55.0,26
-2020-03-24,Washington,Beach,66.0,55.0,67.0,27
+2020-03-24,Washington,Beach,68.0,58.0,69.0,27
 2020-03-24,Washington,Discount Stores,60.0,48.0,61.0,28
 2020-03-24,Washington,Alcohol,70.0,90.0,69.0,29
 2020-03-24,Washington,Light Rail Stations,37.0,"",37.0,30
-2020-03-25,Washington,Food,19.0,18.0,19.0,1
-2020-03-25,Washington,Shops & Services,15.0,13.0,15.0,2
+2020-03-25,Washington,Food,42.0,38.0,42.0,1
+2020-03-25,Washington,Shops & Services,49.0,44.0,50.0,2
 2020-03-25,Washington,Grocery,76.0,65.0,76.0,3
-2020-03-25,Washington,Outdoors & Recreation,26.0,26.0,26.0,4
+2020-03-25,Washington,Outdoors & Recreation,68.0,65.0,68.0,4
 2020-03-25,Washington,Gas Stations,63.0,52.0,64.0,5
-2020-03-25,Washington,Professional & Other Places,9.0,11.0,9.0,6
-2020-03-25,Washington,Medical,25.0,21.0,26.0,7
-2020-03-25,Washington,Nightlife Spots,22.0,22.0,22.0,8
+2020-03-25,Washington,Professional & Other Places,52.0,55.0,52.0,6
+2020-03-25,Washington,Medical,45.0,38.0,46.0,7
+2020-03-25,Washington,Nightlife Spots,38.0,39.0,38.0,8
 2020-03-25,Washington,Big Box Stores,70.0,56.0,71.0,9
 2020-03-25,Washington,Fast Food Restaurants,55.0,51.0,56.0,10
-2020-03-25,Washington,School,18.0,21.0,17.0,11
-2020-03-25,Washington,Office,22.0,29.0,22.0,12
+2020-03-25,Washington,School,33.0,38.0,33.0,11
+2020-03-25,Washington,Office,27.0,34.0,26.0,12
 2020-03-25,Washington,Hardware Stores,79.0,63.0,81.0,13
 2020-03-25,Washington,Residences,64.0,59.0,64.0,14
 2020-03-25,Washington,Drug Store,77.0,66.0,78.0,15
 2020-03-25,Washington,Convenience Store,64.0,61.0,64.0,16
-2020-03-25,Washington,Arts & Entertainment,20.0,27.0,20.0,17
-2020-03-25,Washington,Hotel,29.0,29.0,29.0,18
-2020-03-25,Washington,Government,32.0,31.0,32.0,19
-2020-03-25,Washington,Travel & Transport,10.0,13.0,10.0,20
-2020-03-25,Washington,Airport,16.0,18.0,16.0,21
-2020-03-25,Washington,Sports,14.0,18.0,14.0,22
-2020-03-25,Washington,Colleges & Universities,19.0,29.0,19.0,23
-2020-03-25,Washington,Fitness Center,15.0,16.0,15.0,24
-2020-03-25,Washington,Bus,35.0,36.0,35.0,25
+2020-03-25,Washington,Arts & Entertainment,35.0,43.0,35.0,17
+2020-03-25,Washington,Hotel,36.0,37.0,35.0,18
+2020-03-25,Washington,Government,45.0,43.0,45.0,19
+2020-03-25,Washington,Travel & Transport,48.0,44.0,48.0,20
+2020-03-25,Washington,Airport,25.0,29.0,25.0,21
+2020-03-25,Washington,Sports,59.0,55.0,59.0,22
+2020-03-25,Washington,Colleges & Universities,22.0,33.0,22.0,23
+2020-03-25,Washington,Fitness Center,21.0,22.0,21.0,24
+2020-03-25,Washington,Bus,42.0,44.0,41.0,25
 2020-03-25,Washington,Banks,56.0,44.0,57.0,26
-2020-03-25,Washington,Beach,70.0,58.0,71.0,27
+2020-03-25,Washington,Beach,72.0,60.0,73.0,27
 2020-03-25,Washington,Discount Stores,49.0,36.0,50.0,28
 2020-03-25,Washington,Alcohol,64.0,58.0,64.0,29
 2020-03-25,Washington,Light Rail Stations,28.0,"",28.0,30
-2020-03-26,Washington,Food,18.0,17.0,18.0,1
-2020-03-26,Washington,Shops & Services,16.0,14.0,16.0,2
+2020-03-26,Washington,Food,40.0,36.0,41.0,1
+2020-03-26,Washington,Shops & Services,46.0,41.0,47.0,2
 2020-03-26,Washington,Grocery,75.0,65.0,76.0,3
-2020-03-26,Washington,Outdoors & Recreation,26.0,25.0,26.0,4
+2020-03-26,Washington,Outdoors & Recreation,65.0,59.0,65.0,4
 2020-03-26,Washington,Gas Stations,58.0,51.0,58.0,5
-2020-03-26,Washington,Professional & Other Places,8.0,9.0,8.0,6
-2020-03-26,Washington,Medical,24.0,17.0,24.0,7
+2020-03-26,Washington,Professional & Other Places,48.0,48.0,48.0,6
+2020-03-26,Washington,Medical,42.0,30.0,43.0,7
 2020-03-26,Washington,Big Box Stores,69.0,56.0,70.0,8
 2020-03-26,Washington,Fast Food Restaurants,52.0,43.0,52.0,9
-2020-03-26,Washington,Nightlife Spots,17.0,19.0,17.0,10
-2020-03-26,Washington,School,18.0,21.0,18.0,11
+2020-03-26,Washington,Nightlife Spots,34.0,36.0,34.0,10
+2020-03-26,Washington,School,33.0,39.0,33.0,11
 2020-03-26,Washington,Hardware Stores,76.0,57.0,78.0,12
-2020-03-26,Washington,Office,20.0,25.0,20.0,13
+2020-03-26,Washington,Office,24.0,30.0,24.0,13
 2020-03-26,Washington,Drug Store,73.0,65.0,74.0,14
 2020-03-26,Washington,Residences,56.0,50.0,56.0,15
 2020-03-26,Washington,Convenience Store,58.0,56.0,58.0,16
-2020-03-26,Washington,Arts & Entertainment,19.0,22.0,19.0,17
-2020-03-26,Washington,Travel & Transport,10.0,10.0,10.0,18
-2020-03-26,Washington,Airport,15.0,14.0,15.0,19
-2020-03-26,Washington,Hotel,28.0,28.0,28.0,20
-2020-03-26,Washington,Government,31.0,29.0,31.0,21
-2020-03-26,Washington,Sports,14.0,19.0,14.0,22
-2020-03-26,Washington,Colleges & Universities,17.0,26.0,17.0,23
-2020-03-26,Washington,Fitness Center,15.0,13.0,15.0,24
-2020-03-26,Washington,Bus,29.0,32.0,29.0,25
+2020-03-26,Washington,Arts & Entertainment,33.0,37.0,33.0,17
+2020-03-26,Washington,Travel & Transport,47.0,36.0,48.0,18
+2020-03-26,Washington,Airport,24.0,22.0,24.0,19
+2020-03-26,Washington,Hotel,34.0,35.0,34.0,20
+2020-03-26,Washington,Government,43.0,41.0,44.0,21
+2020-03-26,Washington,Sports,55.0,53.0,55.0,22
+2020-03-26,Washington,Colleges & Universities,21.0,29.0,21.0,23
+2020-03-26,Washington,Fitness Center,21.0,18.0,21.0,24
+2020-03-26,Washington,Bus,34.0,38.0,34.0,25
 2020-03-26,Washington,Banks,54.0,42.0,55.0,26
-2020-03-26,Washington,Beach,77.0,78.0,77.0,27
+2020-03-26,Washington,Beach,79.0,81.0,79.0,27
 2020-03-26,Washington,Discount Stores,49.0,39.0,49.0,28
 2020-03-26,Washington,Alcohol,62.0,53.0,62.0,29
 2020-03-26,Washington,Light Rail Stations,30.0,"",30.0,30
-2020-03-27,Washington,Food,17.0,15.0,17.0,1
-2020-03-27,Washington,Shops & Services,14.0,12.0,14.0,2
+2020-03-27,Washington,Food,36.0,32.0,36.0,1
+2020-03-27,Washington,Shops & Services,41.0,35.0,41.0,2
 2020-03-27,Washington,Grocery,70.0,58.0,70.0,3
-2020-03-27,Washington,Outdoors & Recreation,25.0,25.0,25.0,4
+2020-03-27,Washington,Outdoors & Recreation,57.0,53.0,57.0,4
 2020-03-27,Washington,Gas Stations,52.0,42.0,53.0,5
-2020-03-27,Washington,Professional & Other Places,8.0,9.0,8.0,6
-2020-03-27,Washington,Medical,23.0,21.0,23.0,7
+2020-03-27,Washington,Professional & Other Places,46.0,44.0,46.0,6
+2020-03-27,Washington,Medical,41.0,37.0,41.0,7
 2020-03-27,Washington,Big Box Stores,62.0,51.0,63.0,8
 2020-03-27,Washington,Fast Food Restaurants,47.0,43.0,47.0,9
-2020-03-27,Washington,Nightlife Spots,18.0,20.0,18.0,10
-2020-03-27,Washington,School,17.0,19.0,16.0,11
+2020-03-27,Washington,Nightlife Spots,30.0,33.0,30.0,10
+2020-03-27,Washington,School,30.0,34.0,30.0,11
 2020-03-27,Washington,Hardware Stores,71.0,53.0,72.0,12
 2020-03-27,Washington,Drug Store,67.0,53.0,68.0,13
 2020-03-27,Washington,Residences,54.0,53.0,55.0,14
 2020-03-27,Washington,Convenience Store,55.0,52.0,55.0,15
-2020-03-27,Washington,Office,18.0,25.0,18.0,16
-2020-03-27,Washington,Arts & Entertainment,15.0,16.0,15.0,17
-2020-03-27,Washington,Travel & Transport,8.0,12.0,8.0,18
-2020-03-27,Washington,Hotel,25.0,27.0,25.0,19
-2020-03-27,Washington,Airport,11.0,9.0,11.0,20
-2020-03-27,Washington,Government,28.0,24.0,28.0,21
-2020-03-27,Washington,Fitness Center,14.0,12.0,14.0,22
-2020-03-27,Washington,Colleges & Universities,17.0,22.0,17.0,23
-2020-03-27,Washington,Sports,11.0,13.0,11.0,24
+2020-03-27,Washington,Office,22.0,29.0,22.0,16
+2020-03-27,Washington,Arts & Entertainment,26.0,26.0,26.0,17
+2020-03-27,Washington,Travel & Transport,40.0,47.0,40.0,18
+2020-03-27,Washington,Hotel,31.0,34.0,31.0,19
+2020-03-27,Washington,Airport,18.0,15.0,18.0,20
+2020-03-27,Washington,Government,39.0,35.0,39.0,21
+2020-03-27,Washington,Fitness Center,21.0,17.0,21.0,22
+2020-03-27,Washington,Colleges & Universities,21.0,25.0,21.0,23
+2020-03-27,Washington,Sports,43.0,38.0,43.0,24
 2020-03-27,Washington,Banks,48.0,37.0,48.0,25
-2020-03-27,Washington,Bus,30.0,32.0,30.0,26
-2020-03-27,Washington,Beach,58.0,46.0,58.0,27
+2020-03-27,Washington,Bus,35.0,38.0,35.0,26
+2020-03-27,Washington,Beach,59.0,48.0,60.0,27
 2020-03-27,Washington,Discount Stores,52.0,44.0,53.0,28
 2020-03-27,Washington,Alcohol,53.0,49.0,53.0,29
 2020-03-27,Washington,Light Rail Stations,28.0,"",28.0,30
-2020-03-28,Washington,Food,15.0,15.0,15.0,1
+2020-03-28,Washington,Food,33.0,30.0,33.0,1
 2020-03-28,Washington,Grocery,67.0,52.0,68.0,2
-2020-03-28,Washington,Shops & Services,12.0,10.0,12.0,3
-2020-03-28,Washington,Outdoors & Recreation,24.0,25.0,24.0,4
+2020-03-28,Washington,Shops & Services,34.0,31.0,34.0,3
+2020-03-28,Washington,Outdoors & Recreation,53.0,54.0,53.0,4
 2020-03-28,Washington,Big Box Stores,61.0,51.0,61.0,5
 2020-03-28,Washington,Gas Stations,48.0,44.0,48.0,6
 2020-03-28,Washington,Fast Food Restaurants,46.0,37.0,46.0,7
-2020-03-28,Washington,Professional & Other Places,10.0,10.0,10.0,8
-2020-03-28,Washington,Nightlife Spots,16.0,16.0,16.0,9
+2020-03-28,Washington,Professional & Other Places,43.0,40.0,43.0,8
+2020-03-28,Washington,Nightlife Spots,24.0,24.0,24.0,9
 2020-03-28,Washington,Hardware Stores,73.0,54.0,74.0,10
 2020-03-28,Washington,Drug Store,68.0,55.0,68.0,11
-2020-03-28,Washington,Medical,26.0,22.0,26.0,12
-2020-03-28,Washington,School,20.0,21.0,20.0,13
+2020-03-28,Washington,Medical,46.0,39.0,46.0,12
+2020-03-28,Washington,School,38.0,39.0,38.0,13
 2020-03-28,Washington,Residences,52.0,52.0,52.0,14
 2020-03-28,Washington,Convenience Store,52.0,50.0,52.0,15
-2020-03-28,Washington,Arts & Entertainment,10.0,14.0,10.0,16
-2020-03-28,Washington,Hotel,21.0,19.0,21.0,17
-2020-03-28,Washington,Travel & Transport,8.0,9.0,8.0,18
-2020-03-28,Washington,Airport,10.0,9.0,10.0,19
-2020-03-28,Washington,Sports,11.0,14.0,11.0,20
-2020-03-28,Washington,Office,24.0,23.0,24.0,21
-2020-03-28,Washington,Government,31.0,28.0,31.0,22
-2020-03-28,Washington,Fitness Center,12.0,12.0,11.0,23
-2020-03-28,Washington,Colleges & Universities,26.0,29.0,26.0,24
-2020-03-28,Washington,Bus,33.0,41.0,33.0,25
+2020-03-28,Washington,Arts & Entertainment,18.0,22.0,18.0,16
+2020-03-28,Washington,Hotel,26.0,25.0,26.0,17
+2020-03-28,Washington,Travel & Transport,35.0,33.0,35.0,18
+2020-03-28,Washington,Airport,17.0,14.0,17.0,19
+2020-03-28,Washington,Sports,41.0,42.0,41.0,20
+2020-03-28,Washington,Office,28.0,26.0,28.0,21
+2020-03-28,Washington,Government,45.0,40.0,45.0,22
+2020-03-28,Washington,Fitness Center,17.0,17.0,17.0,23
+2020-03-28,Washington,Colleges & Universities,30.0,35.0,30.0,24
+2020-03-28,Washington,Bus,40.0,50.0,39.0,25
 2020-03-28,Washington,Banks,41.0,42.0,41.0,26
-2020-03-28,Washington,Beach,56.0,52.0,56.0,27
+2020-03-28,Washington,Beach,57.0,53.0,58.0,27
 2020-03-28,Washington,Discount Stores,42.0,"",42.0,28
 2020-03-28,Washington,Alcohol,49.0,"",49.0,29
 2020-03-28,Washington,Light Rail Stations,30.0,"",30.0,30
-2020-03-29,Washington,Food,13.0,13.0,13.0,1
+2020-03-29,Washington,Food,28.0,28.0,28.0,1
 2020-03-29,Washington,Grocery,52.0,47.0,52.0,2
-2020-03-29,Washington,Shops & Services,12.0,12.0,12.0,3
-2020-03-29,Washington,Outdoors & Recreation,22.0,24.0,22.0,4
+2020-03-29,Washington,Shops & Services,28.0,29.0,28.0,3
+2020-03-29,Washington,Outdoors & Recreation,46.0,49.0,46.0,4
 2020-03-29,Washington,Gas Stations,46.0,43.0,46.0,5
 2020-03-29,Washington,Big Box Stores,48.0,45.0,49.0,6
 2020-03-29,Washington,Fast Food Restaurants,43.0,39.0,43.0,7
-2020-03-29,Washington,Nightlife Spots,13.0,18.0,13.0,8
+2020-03-29,Washington,Nightlife Spots,19.0,27.0,19.0,8
 2020-03-29,Washington,Hardware Stores,65.0,63.0,65.0,9
-2020-03-29,Washington,Professional & Other Places,8.0,8.0,8.0,10
-2020-03-29,Washington,School,20.0,22.0,20.0,11
+2020-03-29,Washington,Professional & Other Places,37.0,38.0,37.0,10
+2020-03-29,Washington,School,38.0,41.0,38.0,11
 2020-03-29,Washington,Drug Store,58.0,58.0,58.0,12
 2020-03-29,Washington,Residences,42.0,42.0,42.0,13
-2020-03-29,Washington,Medical,23.0,21.0,24.0,14
+2020-03-29,Washington,Medical,43.0,38.0,43.0,14
 2020-03-29,Washington,Convenience Store,50.0,43.0,50.0,15
-2020-03-29,Washington,Arts & Entertainment,11.0,12.0,11.0,16
-2020-03-29,Washington,Hotel,19.0,20.0,18.0,17
-2020-03-29,Washington,Airport,10.0,12.0,10.0,18
-2020-03-29,Washington,Travel & Transport,7.0,7.0,7.0,19
-2020-03-29,Washington,Sports,11.0,12.0,11.0,20
-2020-03-29,Washington,Colleges & Universities,34.0,39.0,34.0,21
-2020-03-29,Washington,Beach,50.0,58.0,50.0,22
-2020-03-29,Washington,Office,28.0,29.0,28.0,23
-2020-03-29,Washington,Fitness Center,13.0,13.0,13.0,24
-2020-03-29,Washington,Government,30.0,37.0,30.0,25
-2020-03-29,Washington,Bus,32.0,"",32.0,26
+2020-03-29,Washington,Arts & Entertainment,14.0,15.0,14.0,16
+2020-03-29,Washington,Hotel,23.0,26.0,23.0,17
+2020-03-29,Washington,Airport,16.0,20.0,16.0,18
+2020-03-29,Washington,Travel & Transport,31.0,26.0,31.0,19
+2020-03-29,Washington,Sports,35.0,29.0,35.0,20
+2020-03-29,Washington,Colleges & Universities,37.0,43.0,37.0,21
+2020-03-29,Washington,Beach,52.0,59.0,51.0,22
+2020-03-29,Washington,Office,33.0,35.0,32.0,23
+2020-03-29,Washington,Fitness Center,19.0,18.0,19.0,24
+2020-03-29,Washington,Government,45.0,54.0,45.0,25
+2020-03-29,Washington,Bus,39.0,"",39.0,26
 2020-03-29,Washington,Discount Stores,46.0,"",46.0,27
 2020-03-29,Washington,Banks,50.0,"",50.0,28
 2020-03-29,Washington,Alcohol,41.0,"",41.0,29
-2020-03-30,Washington,Food,16.0,15.0,16.0,1
-2020-03-30,Washington,Shops & Services,12.0,11.0,12.0,2
+2020-03-30,Washington,Food,36.0,32.0,36.0,1
+2020-03-30,Washington,Shops & Services,40.0,35.0,40.0,2
 2020-03-30,Washington,Grocery,63.0,58.0,64.0,3
-2020-03-30,Washington,Outdoors & Recreation,24.0,23.0,24.0,4
+2020-03-30,Washington,Outdoors & Recreation,52.0,48.0,52.0,4
 2020-03-30,Washington,Gas Stations,53.0,45.0,53.0,5
-2020-03-30,Washington,Professional & Other Places,8.0,9.0,8.0,6
-2020-03-30,Washington,Medical,23.0,21.0,23.0,7
+2020-03-30,Washington,Professional & Other Places,49.0,50.0,49.0,6
+2020-03-30,Washington,Medical,41.0,37.0,42.0,7
 2020-03-30,Washington,Fast Food Restaurants,55.0,44.0,55.0,8
 2020-03-30,Washington,Big Box Stores,60.0,54.0,60.0,9
-2020-03-30,Washington,Nightlife Spots,21.0,23.0,21.0,10
-2020-03-30,Washington,School,18.0,19.0,17.0,11
+2020-03-30,Washington,Nightlife Spots,33.0,37.0,33.0,10
+2020-03-30,Washington,School,33.0,35.0,33.0,11
 2020-03-30,Washington,Hardware Stores,66.0,54.0,67.0,12
 2020-03-30,Washington,Residences,48.0,45.0,48.0,13
 2020-03-30,Washington,Drug Store,66.0,51.0,67.0,14
 2020-03-30,Washington,Convenience Store,56.0,50.0,57.0,15
-2020-03-30,Washington,Office,18.0,27.0,18.0,16
-2020-03-30,Washington,Arts & Entertainment,15.0,18.0,15.0,17
-2020-03-30,Washington,Hotel,25.0,26.0,25.0,18
-2020-03-30,Washington,Travel & Transport,8.0,11.0,8.0,19
-2020-03-30,Washington,Airport,10.0,16.0,10.0,20
-2020-03-30,Washington,Government,27.0,28.0,26.0,21
-2020-03-30,Washington,Sports,13.0,12.0,13.0,22
-2020-03-30,Washington,Colleges & Universities,19.0,27.0,18.0,23
-2020-03-30,Washington,Fitness Center,15.0,12.0,15.0,24
+2020-03-30,Washington,Office,22.0,32.0,22.0,16
+2020-03-30,Washington,Arts & Entertainment,26.0,29.0,25.0,17
+2020-03-30,Washington,Hotel,31.0,34.0,31.0,18
+2020-03-30,Washington,Travel & Transport,36.0,36.0,36.0,19
+2020-03-30,Washington,Airport,16.0,25.0,16.0,20
+2020-03-30,Washington,Government,38.0,40.0,37.0,21
+2020-03-30,Washington,Sports,47.0,36.0,48.0,22
+2020-03-30,Washington,Colleges & Universities,23.0,31.0,23.0,23
+2020-03-30,Washington,Fitness Center,21.0,17.0,21.0,24
 2020-03-30,Washington,Banks,58.0,50.0,59.0,25
-2020-03-30,Washington,Bus,29.0,38.0,29.0,26
-2020-03-30,Washington,Beach,51.0,48.0,51.0,27
+2020-03-30,Washington,Bus,35.0,46.0,34.0,26
+2020-03-30,Washington,Beach,52.0,49.0,53.0,27
 2020-03-30,Washington,Discount Stores,54.0,52.0,55.0,28
 2020-03-30,Washington,Alcohol,50.0,"",50.0,29
 2020-03-30,Washington,Light Rail Stations,30.0,"",31.0,30
-2020-03-31,Washington,Food,17.0,17.0,17.0,1
-2020-03-31,Washington,Shops & Services,13.0,12.0,13.0,2
+2020-03-31,Washington,Food,37.0,35.0,37.0,1
+2020-03-31,Washington,Shops & Services,41.0,39.0,41.0,2
 2020-03-31,Washington,Grocery,65.0,62.0,66.0,3
-2020-03-31,Washington,Outdoors & Recreation,22.0,24.0,22.0,4
+2020-03-31,Washington,Outdoors & Recreation,53.0,53.0,53.0,4
 2020-03-31,Washington,Gas Stations,52.0,46.0,52.0,5
-2020-03-31,Washington,Professional & Other Places,7.0,8.0,7.0,6
-2020-03-31,Washington,Medical,19.0,16.0,19.0,7
+2020-03-31,Washington,Professional & Other Places,43.0,44.0,42.0,6
+2020-03-31,Washington,Medical,34.0,28.0,35.0,7
 2020-03-31,Washington,Fast Food Restaurants,55.0,45.0,55.0,8
 2020-03-31,Washington,Big Box Stores,66.0,62.0,66.0,9
-2020-03-31,Washington,Nightlife Spots,22.0,25.0,22.0,10
-2020-03-31,Washington,School,16.0,22.0,16.0,11
+2020-03-31,Washington,Nightlife Spots,33.0,39.0,33.0,10
+2020-03-31,Washington,School,29.0,40.0,29.0,11
 2020-03-31,Washington,Hardware Stores,69.0,59.0,70.0,12
 2020-03-31,Washington,Drug Store,66.0,57.0,67.0,13
 2020-03-31,Washington,Residences,47.0,42.0,47.0,14
-2020-03-31,Washington,Office,15.0,22.0,15.0,15
+2020-03-31,Washington,Office,18.0,26.0,18.0,15
 2020-03-31,Washington,Convenience Store,53.0,49.0,53.0,16
-2020-03-31,Washington,Arts & Entertainment,15.0,19.0,15.0,17
-2020-03-31,Washington,Hotel,25.0,26.0,25.0,18
-2020-03-31,Washington,Travel & Transport,9.0,9.0,9.0,19
-2020-03-31,Washington,Government,24.0,23.0,24.0,20
-2020-03-31,Washington,Airport,12.0,13.0,11.0,21
+2020-03-31,Washington,Arts & Entertainment,27.0,31.0,27.0,17
+2020-03-31,Washington,Hotel,30.0,34.0,30.0,18
+2020-03-31,Washington,Travel & Transport,38.0,32.0,38.0,19
+2020-03-31,Washington,Government,34.0,33.0,34.0,20
+2020-03-31,Washington,Airport,18.0,21.0,18.0,21
 2020-03-31,Washington,Banks,57.0,49.0,58.0,22
-2020-03-31,Washington,Colleges & Universities,16.0,21.0,15.0,23
-2020-03-31,Washington,Fitness Center,12.0,13.0,12.0,24
-2020-03-31,Washington,Sports,11.0,13.0,10.0,25
-2020-03-31,Washington,Bus,25.0,31.0,25.0,26
-2020-03-31,Washington,Beach,55.0,47.0,56.0,27
+2020-03-31,Washington,Colleges & Universities,19.0,24.0,19.0,23
+2020-03-31,Washington,Fitness Center,17.0,18.0,17.0,24
+2020-03-31,Washington,Sports,44.0,40.0,44.0,25
+2020-03-31,Washington,Bus,30.0,38.0,29.0,26
+2020-03-31,Washington,Beach,57.0,49.0,57.0,27
 2020-03-31,Washington,Discount Stores,47.0,37.0,47.0,28
 2020-03-31,Washington,Alcohol,60.0,72.0,60.0,29
 2020-03-31,Washington,Light Rail Stations,23.0,"",24.0,30
+2020-04-01,Washington,Food,38.0,35.0,38.0,1
+2020-04-01,Washington,Shops & Services,43.0,39.0,44.0,2
+2020-04-01,Washington,Grocery,69.0,60.0,70.0,3
+2020-04-01,Washington,Outdoors & Recreation,59.0,58.0,60.0,4
+2020-04-01,Washington,Gas Stations,57.0,48.0,57.0,5
+2020-04-01,Washington,Professional & Other Places,44.0,44.0,44.0,6
+2020-04-01,Washington,Medical,36.0,33.0,36.0,7
+2020-04-01,Washington,Big Box Stores,73.0,55.0,74.0,8
+2020-04-01,Washington,Fast Food Restaurants,55.0,42.0,55.0,9
+2020-04-01,Washington,Nightlife Spots,33.0,39.0,33.0,10
+2020-04-01,Washington,School,28.0,35.0,28.0,11
+2020-04-01,Washington,Hardware Stores,71.0,55.0,72.0,12
+2020-04-01,Washington,Drug Store,70.0,60.0,70.0,13
+2020-04-01,Washington,Office,20.0,26.0,20.0,14
+2020-04-01,Washington,Residences,51.0,47.0,51.0,15
+2020-04-01,Washington,Convenience Store,58.0,51.0,58.0,16
+2020-04-01,Washington,Arts & Entertainment,30.0,30.0,31.0,17
+2020-04-01,Washington,Hotel,31.0,34.0,31.0,18
+2020-04-01,Washington,Travel & Transport,42.0,39.0,43.0,19
+2020-04-01,Washington,Airport,21.0,22.0,21.0,20
+2020-04-01,Washington,Government,37.0,33.0,37.0,21
+2020-04-01,Washington,Banks,68.0,53.0,69.0,22
+2020-04-01,Washington,Sports,47.0,39.0,48.0,23
+2020-04-01,Washington,Fitness Center,18.0,20.0,18.0,24
+2020-04-01,Washington,Colleges & Universities,17.0,26.0,17.0,25
+2020-04-01,Washington,Bus,35.0,41.0,35.0,26
+2020-04-01,Washington,Beach,64.0,70.0,64.0,27
+2020-04-01,Washington,Discount Stores,55.0,41.0,56.0,28
+2020-04-01,Washington,Alcohol,60.0,"",61.0,29
+2020-04-01,Washington,Light Rail Stations,24.0,"",24.0,30

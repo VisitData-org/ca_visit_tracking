@@ -1,790 +1,815 @@
-2020-03-01,South Dakota,Food,87.0,87.0,87.0,1
-2020-03-01,South Dakota,Shops & Services,52.0,50.0,52.0,2
-2020-03-01,South Dakota,Nightlife Spots,66.0,61.0,66.0,3
+2020-03-01,South Dakota,Food,110.0,108.0,110.0,1
+2020-03-01,South Dakota,Shops & Services,122.0,113.0,123.0,2
+2020-03-01,South Dakota,Nightlife Spots,108.0,96.0,108.0,3
 2020-03-01,South Dakota,Gas Stations,100.0,99.0,100.0,4
 2020-03-01,South Dakota,Big Box Stores,108.0,109.0,108.0,5
 2020-03-01,South Dakota,Grocery,97.0,83.0,97.0,6
-2020-03-01,South Dakota,Hotel,102.0,98.0,102.0,7
+2020-03-01,South Dakota,Hotel,117.0,112.0,117.0,7
 2020-03-01,South Dakota,Fast Food Restaurants,112.0,103.0,112.0,8
-2020-03-01,South Dakota,Arts & Entertainment,93.0,90.0,93.0,9
-2020-03-01,South Dakota,Outdoors & Recreation,79.0,86.0,79.0,10
-2020-03-01,South Dakota,School,68.0,71.0,68.0,11
+2020-03-01,South Dakota,Arts & Entertainment,101.0,97.0,101.0,9
+2020-03-01,South Dakota,Outdoors & Recreation,101.0,112.0,100.0,10
+2020-03-01,South Dakota,School,107.0,110.0,107.0,11
 2020-03-01,South Dakota,Hardware Stores,115.0,121.0,115.0,12
-2020-03-01,South Dakota,Professional & Other Places,29.0,19.0,29.0,13
-2020-03-01,South Dakota,Medical,70.0,75.0,70.0,14
+2020-03-01,South Dakota,Professional & Other Places,123.0,"",123.0,13
+2020-03-01,South Dakota,Medical,117.0,121.0,117.0,14
 2020-03-01,South Dakota,Convenience Store,108.0,"",109.0,15
 2020-03-01,South Dakota,Residences,116.0,"",115.0,16
-2020-03-01,South Dakota,Colleges & Universities,90.0,"",90.0,17
-2020-03-01,South Dakota,Sports,50.0,"",50.0,18
-2020-03-01,South Dakota,Fitness Center,74.0,"",72.0,19
-2020-03-01,South Dakota,Travel & Transport,40.0,"",40.0,20
+2020-03-01,South Dakota,Colleges & Universities,103.0,"",104.0,17
+2020-03-01,South Dakota,Sports,100.0,"",99.0,18
+2020-03-01,South Dakota,Fitness Center,100.0,"",99.0,19
+2020-03-01,South Dakota,Travel & Transport,121.0,"",121.0,20
 2020-03-01,South Dakota,Drug Store,98.0,"",99.0,21
 2020-03-01,South Dakota,Discount Stores,109.0,"",110.0,22
-2020-03-01,South Dakota,Government,68.0,"",68.0,23
-2020-03-01,South Dakota,Airport,96.0,"",96.0,24
+2020-03-01,South Dakota,Government,95.0,"",96.0,23
+2020-03-01,South Dakota,Airport,130.0,"",129.0,24
 2020-03-01,South Dakota,Banks,134.0,"",135.0,25
 2020-03-01,South Dakota,Alcohol,113.0,"",114.0,26
-2020-03-02,South Dakota,Food,81.0,74.0,81.0,1
-2020-03-02,South Dakota,Shops & Services,42.0,43.0,42.0,2
+2020-03-02,South Dakota,Food,104.0,97.0,104.0,1
+2020-03-02,South Dakota,Shops & Services,113.0,117.0,113.0,2
 2020-03-02,South Dakota,Gas Stations,95.0,97.0,95.0,3
-2020-03-02,South Dakota,Nightlife Spots,80.0,82.0,80.0,4
-2020-03-02,South Dakota,Medical,69.0,62.0,69.0,5
-2020-03-02,South Dakota,Outdoors & Recreation,112.0,109.0,112.0,6
+2020-03-02,South Dakota,Nightlife Spots,104.0,105.0,104.0,4
+2020-03-02,South Dakota,Medical,113.0,104.0,114.0,5
+2020-03-02,South Dakota,Outdoors & Recreation,116.0,114.0,116.0,6
 2020-03-02,South Dakota,Grocery,101.0,96.0,101.0,7
 2020-03-02,South Dakota,Big Box Stores,101.0,103.0,101.0,8
-2020-03-02,South Dakota,School,75.0,75.0,75.0,9
+2020-03-02,South Dakota,School,115.0,114.0,115.0,9
 2020-03-02,South Dakota,Fast Food Restaurants,99.0,96.0,99.0,10
-2020-03-02,South Dakota,Hotel,95.0,103.0,95.0,11
-2020-03-02,South Dakota,Colleges & Universities,76.0,"",76.0,12
-2020-03-02,South Dakota,Professional & Other Places,27.0,26.0,27.0,13
-2020-03-02,South Dakota,Arts & Entertainment,100.0,119.0,100.0,14
+2020-03-02,South Dakota,Hotel,112.0,125.0,112.0,11
+2020-03-02,South Dakota,Colleges & Universities,119.0,"",119.0,12
+2020-03-02,South Dakota,Professional & Other Places,123.0,122.0,123.0,13
+2020-03-02,South Dakota,Arts & Entertainment,108.0,129.0,107.0,14
 2020-03-02,South Dakota,Hardware Stores,110.0,109.0,110.0,15
-2020-03-02,South Dakota,Government,88.0,"",88.0,16
-2020-03-02,South Dakota,Fitness Center,74.0,72.0,74.0,17
+2020-03-02,South Dakota,Government,124.0,"",124.0,16
+2020-03-02,South Dakota,Fitness Center,106.0,101.0,106.0,17
 2020-03-02,South Dakota,Convenience Store,102.0,101.0,102.0,18
 2020-03-02,South Dakota,Residences,121.0,146.0,120.0,19
 2020-03-02,South Dakota,Banks,131.0,"",132.0,20
-2020-03-02,South Dakota,Office,78.0,"",79.0,21
-2020-03-02,South Dakota,Sports,44.0,"",44.0,22
+2020-03-02,South Dakota,Office,90.0,"",91.0,21
+2020-03-02,South Dakota,Sports,123.0,"",123.0,22
 2020-03-02,South Dakota,Drug Store,116.0,"",117.0,23
-2020-03-02,South Dakota,Travel & Transport,98.0,"",98.0,24
-2020-03-02,South Dakota,Airport,77.0,"",77.0,25
+2020-03-02,South Dakota,Travel & Transport,102.0,"",101.0,24
+2020-03-02,South Dakota,Airport,100.0,"",100.0,25
 2020-03-02,South Dakota,Discount Stores,112.0,"",111.0,26
 2020-03-02,South Dakota,Alcohol,108.0,"",109.0,27
-2020-03-03,South Dakota,Food,84.0,93.0,84.0,1
-2020-03-03,South Dakota,Shops & Services,42.0,46.0,42.0,2
+2020-03-03,South Dakota,Food,112.0,119.0,112.0,1
+2020-03-03,South Dakota,Shops & Services,118.0,126.0,118.0,2
 2020-03-03,South Dakota,Gas Stations,100.0,92.0,100.0,3
-2020-03-03,South Dakota,Nightlife Spots,87.0,93.0,87.0,4
-2020-03-03,South Dakota,Medical,63.0,63.0,63.0,5
+2020-03-03,South Dakota,Nightlife Spots,113.0,121.0,113.0,4
+2020-03-03,South Dakota,Medical,104.0,106.0,104.0,5
 2020-03-03,South Dakota,Grocery,101.0,102.0,100.0,6
-2020-03-03,South Dakota,School,62.0,59.0,62.0,7
-2020-03-03,South Dakota,Outdoors & Recreation,106.0,99.0,107.0,8
+2020-03-03,South Dakota,School,101.0,93.0,102.0,7
+2020-03-03,South Dakota,Outdoors & Recreation,116.0,108.0,117.0,8
 2020-03-03,South Dakota,Fast Food Restaurants,114.0,96.0,115.0,9
 2020-03-03,South Dakota,Big Box Stores,106.0,102.0,106.0,10
-2020-03-03,South Dakota,Hotel,99.0,94.0,99.0,11
-2020-03-03,South Dakota,Arts & Entertainment,102.0,85.0,103.0,12
-2020-03-03,South Dakota,Colleges & Universities,62.0,"",62.0,13
-2020-03-03,South Dakota,Professional & Other Places,23.0,19.0,23.0,14
-2020-03-03,South Dakota,Fitness Center,78.0,66.0,78.0,15
+2020-03-03,South Dakota,Hotel,116.0,115.0,116.0,11
+2020-03-03,South Dakota,Arts & Entertainment,110.0,91.0,110.0,12
+2020-03-03,South Dakota,Colleges & Universities,99.0,"",99.0,13
+2020-03-03,South Dakota,Professional & Other Places,104.0,93.0,105.0,14
+2020-03-03,South Dakota,Fitness Center,108.0,91.0,108.0,15
 2020-03-03,South Dakota,Hardware Stores,99.0,111.0,98.0,16
-2020-03-03,South Dakota,Government,72.0,65.0,72.0,17
+2020-03-03,South Dakota,Government,103.0,97.0,103.0,17
 2020-03-03,South Dakota,Convenience Store,108.0,117.0,108.0,18
-2020-03-03,South Dakota,Office,84.0,"",84.0,19
+2020-03-03,South Dakota,Office,97.0,"",97.0,19
 2020-03-03,South Dakota,Residences,108.0,112.0,108.0,20
 2020-03-03,South Dakota,Banks,114.0,"",114.0,21
-2020-03-03,South Dakota,Sports,47.0,"",47.0,22
+2020-03-03,South Dakota,Sports,117.0,"",118.0,22
 2020-03-03,South Dakota,Drug Store,120.0,138.0,119.0,23
-2020-03-03,South Dakota,Travel & Transport,84.0,"",84.0,24
+2020-03-03,South Dakota,Travel & Transport,99.0,"",99.0,24
 2020-03-03,South Dakota,Discount Stores,114.0,"",115.0,25
-2020-03-03,South Dakota,Airport,84.0,"",82.0,26
-2020-03-04,South Dakota,Food,87.0,90.0,87.0,1
-2020-03-04,South Dakota,Shops & Services,44.0,44.0,44.0,2
+2020-03-03,South Dakota,Airport,111.0,"",109.0,26
+2020-03-04,South Dakota,Food,110.0,112.0,110.0,1
+2020-03-04,South Dakota,Shops & Services,117.0,116.0,117.0,2
 2020-03-04,South Dakota,Gas Stations,103.0,108.0,103.0,3
-2020-03-04,South Dakota,Nightlife Spots,82.0,96.0,82.0,4
-2020-03-04,South Dakota,Medical,66.0,66.0,66.0,5
-2020-03-04,South Dakota,Outdoors & Recreation,107.0,97.0,108.0,6
-2020-03-04,South Dakota,School,66.0,64.0,66.0,7
+2020-03-04,South Dakota,Nightlife Spots,112.0,130.0,112.0,4
+2020-03-04,South Dakota,Medical,110.0,110.0,110.0,5
+2020-03-04,South Dakota,Outdoors & Recreation,137.0,132.0,137.0,6
+2020-03-04,South Dakota,School,104.0,101.0,104.0,7
 2020-03-04,South Dakota,Grocery,99.0,110.0,99.0,8
 2020-03-04,South Dakota,Fast Food Restaurants,113.0,99.0,113.0,9
 2020-03-04,South Dakota,Big Box Stores,101.0,89.0,102.0,10
-2020-03-04,South Dakota,Hotel,96.0,96.0,96.0,11
-2020-03-04,South Dakota,Arts & Entertainment,104.0,107.0,104.0,12
-2020-03-04,South Dakota,Colleges & Universities,66.0,"",66.0,13
-2020-03-04,South Dakota,Professional & Other Places,23.0,23.0,24.0,14
+2020-03-04,South Dakota,Hotel,112.0,111.0,112.0,11
+2020-03-04,South Dakota,Arts & Entertainment,113.0,114.0,113.0,12
+2020-03-04,South Dakota,Colleges & Universities,102.0,"",102.0,13
+2020-03-04,South Dakota,Professional & Other Places,108.0,105.0,108.0,14
 2020-03-04,South Dakota,Hardware Stores,112.0,112.0,112.0,15
-2020-03-04,South Dakota,Government,77.0,77.0,77.0,16
-2020-03-04,South Dakota,Fitness Center,63.0,58.0,63.0,17
+2020-03-04,South Dakota,Government,114.0,117.0,114.0,16
+2020-03-04,South Dakota,Fitness Center,94.0,87.0,94.0,17
 2020-03-04,South Dakota,Convenience Store,99.0,102.0,99.0,18
-2020-03-04,South Dakota,Office,93.0,"",93.0,19
+2020-03-04,South Dakota,Office,108.0,"",108.0,19
 2020-03-04,South Dakota,Residences,113.0,138.0,112.0,20
 2020-03-04,South Dakota,Banks,124.0,"",125.0,21
-2020-03-04,South Dakota,Sports,44.0,53.0,44.0,22
+2020-03-04,South Dakota,Sports,118.0,136.0,117.0,22
 2020-03-04,South Dakota,Drug Store,116.0,"",117.0,23
-2020-03-04,South Dakota,Travel & Transport,98.0,"",98.0,24
+2020-03-04,South Dakota,Travel & Transport,116.0,"",116.0,24
 2020-03-04,South Dakota,Discount Stores,115.0,"",116.0,25
-2020-03-04,South Dakota,Airport,80.0,"",80.0,26
+2020-03-04,South Dakota,Airport,103.0,"",103.0,26
 2020-03-04,South Dakota,Alcohol,111.0,"",112.0,27
-2020-03-05,South Dakota,Food,78.0,72.0,78.0,1
-2020-03-05,South Dakota,Shops & Services,40.0,38.0,40.0,2
+2020-03-05,South Dakota,Food,106.0,97.0,107.0,1
+2020-03-05,South Dakota,Shops & Services,112.0,107.0,113.0,2
 2020-03-05,South Dakota,Gas Stations,101.0,105.0,101.0,3
-2020-03-05,South Dakota,Nightlife Spots,78.0,85.0,78.0,4
-2020-03-05,South Dakota,Medical,63.0,63.0,63.0,5
-2020-03-05,South Dakota,Outdoors & Recreation,114.0,107.0,114.0,6
-2020-03-05,South Dakota,School,66.0,66.0,66.0,7
+2020-03-05,South Dakota,Nightlife Spots,103.0,110.0,103.0,4
+2020-03-05,South Dakota,Medical,104.0,105.0,104.0,5
+2020-03-05,South Dakota,Outdoors & Recreation,119.0,113.0,119.0,6
+2020-03-05,South Dakota,School,104.0,99.0,105.0,7
 2020-03-05,South Dakota,Grocery,98.0,97.0,98.0,8
 2020-03-05,South Dakota,Fast Food Restaurants,113.0,121.0,113.0,9
 2020-03-05,South Dakota,Big Box Stores,103.0,104.0,103.0,10
-2020-03-05,South Dakota,Hotel,94.0,84.0,95.0,11
-2020-03-05,South Dakota,Arts & Entertainment,100.0,97.0,101.0,12
-2020-03-05,South Dakota,Colleges & Universities,65.0,"",65.0,13
-2020-03-05,South Dakota,Professional & Other Places,24.0,18.0,24.0,14
+2020-03-05,South Dakota,Hotel,109.0,101.0,110.0,11
+2020-03-05,South Dakota,Arts & Entertainment,110.0,107.0,110.0,12
+2020-03-05,South Dakota,Colleges & Universities,100.0,"",100.0,13
+2020-03-05,South Dakota,Professional & Other Places,101.0,84.0,101.0,14
 2020-03-05,South Dakota,Hardware Stores,117.0,103.0,118.0,15
-2020-03-05,South Dakota,Fitness Center,70.0,66.0,70.0,16
+2020-03-05,South Dakota,Fitness Center,102.0,98.0,102.0,16
 2020-03-05,South Dakota,Convenience Store,104.0,111.0,104.0,17
-2020-03-05,South Dakota,Government,77.0,83.0,77.0,18
+2020-03-05,South Dakota,Government,111.0,122.0,111.0,18
 2020-03-05,South Dakota,Residences,116.0,116.0,116.0,19
-2020-03-05,South Dakota,Office,87.0,"",86.0,20
+2020-03-05,South Dakota,Office,101.0,"",101.0,20
 2020-03-05,South Dakota,Banks,117.0,"",117.0,21
-2020-03-05,South Dakota,Sports,49.0,"",49.0,22
+2020-03-05,South Dakota,Sports,118.0,"",118.0,22
 2020-03-05,South Dakota,Drug Store,107.0,106.0,107.0,23
-2020-03-05,South Dakota,Travel & Transport,112.0,"",111.0,24
-2020-03-05,South Dakota,Airport,99.0,"",99.0,25
+2020-03-05,South Dakota,Travel & Transport,116.0,"",114.0,24
+2020-03-05,South Dakota,Airport,130.0,"",130.0,25
 2020-03-05,South Dakota,Discount Stores,117.0,"",116.0,26
-2020-03-06,South Dakota,Food,77.0,74.0,78.0,1
-2020-03-06,South Dakota,Shops & Services,41.0,38.0,41.0,2
+2020-03-06,South Dakota,Food,105.0,99.0,105.0,1
+2020-03-06,South Dakota,Shops & Services,108.0,100.0,108.0,2
 2020-03-06,South Dakota,Gas Stations,105.0,107.0,105.0,3
-2020-03-06,South Dakota,Nightlife Spots,70.0,76.0,70.0,4
+2020-03-06,South Dakota,Nightlife Spots,108.0,113.0,108.0,4
 2020-03-06,South Dakota,Fast Food Restaurants,107.0,104.0,107.0,5
 2020-03-06,South Dakota,Grocery,98.0,97.0,98.0,6
-2020-03-06,South Dakota,Outdoors & Recreation,113.0,119.0,113.0,7
+2020-03-06,South Dakota,Outdoors & Recreation,115.0,120.0,115.0,7
 2020-03-06,South Dakota,Big Box Stores,95.0,92.0,95.0,8
-2020-03-06,South Dakota,School,68.0,67.0,68.0,9
-2020-03-06,South Dakota,Medical,62.0,60.0,62.0,10
-2020-03-06,South Dakota,Hotel,89.0,75.0,90.0,11
-2020-03-06,South Dakota,Arts & Entertainment,95.0,102.0,95.0,12
-2020-03-06,South Dakota,Colleges & Universities,72.0,"",72.0,13
-2020-03-06,South Dakota,Professional & Other Places,23.0,21.0,23.0,14
+2020-03-06,South Dakota,School,107.0,103.0,107.0,9
+2020-03-06,South Dakota,Medical,105.0,103.0,105.0,10
+2020-03-06,South Dakota,Hotel,102.0,89.0,102.0,11
+2020-03-06,South Dakota,Arts & Entertainment,105.0,109.0,105.0,12
+2020-03-06,South Dakota,Colleges & Universities,103.0,"",103.0,13
+2020-03-06,South Dakota,Professional & Other Places,97.0,89.0,98.0,14
 2020-03-06,South Dakota,Hardware Stores,109.0,119.0,108.0,15
 2020-03-06,South Dakota,Convenience Store,107.0,99.0,107.0,16
-2020-03-06,South Dakota,Fitness Center,70.0,67.0,70.0,17
-2020-03-06,South Dakota,Government,75.0,"",75.0,18
+2020-03-06,South Dakota,Fitness Center,104.0,102.0,104.0,17
+2020-03-06,South Dakota,Government,107.0,"",107.0,18
 2020-03-06,South Dakota,Residences,120.0,106.0,121.0,19
-2020-03-06,South Dakota,Sports,49.0,47.0,49.0,20
+2020-03-06,South Dakota,Sports,133.0,128.0,133.0,20
 2020-03-06,South Dakota,Banks,109.0,105.0,109.0,21
-2020-03-06,South Dakota,Office,87.0,"",87.0,22
+2020-03-06,South Dakota,Office,100.0,"",100.0,22
 2020-03-06,South Dakota,Drug Store,104.0,133.0,102.0,23
-2020-03-06,South Dakota,Travel & Transport,42.0,"",42.0,24
+2020-03-06,South Dakota,Travel & Transport,107.0,"",108.0,24
 2020-03-06,South Dakota,Discount Stores,116.0,"",117.0,25
-2020-03-06,South Dakota,Airport,75.0,"",75.0,26
+2020-03-06,South Dakota,Airport,99.0,"",99.0,26
 2020-03-06,South Dakota,Alcohol,103.0,"",101.0,27
-2020-03-07,South Dakota,Food,61.0,57.0,61.0,1
-2020-03-07,South Dakota,Shops & Services,57.0,47.0,58.0,2
-2020-03-07,South Dakota,Nightlife Spots,67.0,68.0,67.0,3
+2020-03-07,South Dakota,Food,103.0,96.0,103.0,1
+2020-03-07,South Dakota,Shops & Services,102.0,91.0,103.0,2
+2020-03-07,South Dakota,Nightlife Spots,105.0,104.0,105.0,3
 2020-03-07,South Dakota,Gas Stations,107.0,99.0,107.0,4
-2020-03-07,South Dakota,Outdoors & Recreation,105.0,85.0,106.0,5
+2020-03-07,South Dakota,Outdoors & Recreation,133.0,110.0,134.0,5
 2020-03-07,South Dakota,Big Box Stores,94.0,89.0,94.0,6
 2020-03-07,South Dakota,Grocery,97.0,92.0,97.0,7
 2020-03-07,South Dakota,Fast Food Restaurants,107.0,99.0,107.0,8
-2020-03-07,South Dakota,Arts & Entertainment,102.0,99.0,102.0,9
-2020-03-07,South Dakota,Hotel,90.0,104.0,90.0,10
-2020-03-07,South Dakota,School,79.0,84.0,79.0,11
+2020-03-07,South Dakota,Arts & Entertainment,108.0,105.0,108.0,9
+2020-03-07,South Dakota,Hotel,103.0,120.0,102.0,10
+2020-03-07,South Dakota,School,119.0,126.0,119.0,11
 2020-03-07,South Dakota,Hardware Stores,110.0,102.0,110.0,12
-2020-03-07,South Dakota,Professional & Other Places,29.0,24.0,29.0,13
-2020-03-07,South Dakota,Medical,69.0,62.0,69.0,14
-2020-03-07,South Dakota,Sports,59.0,61.0,59.0,15
-2020-03-07,South Dakota,Colleges & Universities,91.0,"",90.0,16
+2020-03-07,South Dakota,Professional & Other Places,97.0,88.0,98.0,13
+2020-03-07,South Dakota,Medical,113.0,101.0,113.0,14
+2020-03-07,South Dakota,Sports,126.0,134.0,126.0,15
+2020-03-07,South Dakota,Colleges & Universities,92.0,"",91.0,16
 2020-03-07,South Dakota,Convenience Store,108.0,134.0,107.0,17
 2020-03-07,South Dakota,Residences,102.0,124.0,102.0,18
-2020-03-07,South Dakota,Fitness Center,69.0,"",69.0,19
+2020-03-07,South Dakota,Fitness Center,96.0,"",96.0,19
 2020-03-07,South Dakota,Drug Store,104.0,108.0,104.0,20
-2020-03-07,South Dakota,Government,93.0,"",93.0,21
-2020-03-07,South Dakota,Travel & Transport,41.0,"",41.0,22
+2020-03-07,South Dakota,Government,135.0,"",135.0,21
+2020-03-07,South Dakota,Travel & Transport,114.0,"",114.0,22
 2020-03-07,South Dakota,Discount Stores,124.0,"",124.0,23
-2020-03-07,South Dakota,Office,110.0,"",111.0,24
+2020-03-07,South Dakota,Office,124.0,"",124.0,24
 2020-03-07,South Dakota,Alcohol,106.0,"",105.0,25
 2020-03-07,South Dakota,Banks,98.0,"",98.0,26
-2020-03-07,South Dakota,Airport,100.0,"",101.0,27
-2020-03-08,South Dakota,Food,92.0,83.0,92.0,1
-2020-03-08,South Dakota,Shops & Services,49.0,47.0,49.0,2
-2020-03-08,South Dakota,Nightlife Spots,81.0,78.0,81.0,3
+2020-03-07,South Dakota,Airport,135.0,"",136.0,27
+2020-03-08,South Dakota,Food,112.0,101.0,113.0,1
+2020-03-08,South Dakota,Shops & Services,116.0,106.0,116.0,2
+2020-03-08,South Dakota,Nightlife Spots,111.0,103.0,111.0,3
 2020-03-08,South Dakota,Gas Stations,106.0,113.0,106.0,4
 2020-03-08,South Dakota,Grocery,101.0,97.0,101.0,5
-2020-03-08,South Dakota,Outdoors & Recreation,123.0,140.0,122.0,6
+2020-03-08,South Dakota,Outdoors & Recreation,127.0,146.0,127.0,6
 2020-03-08,South Dakota,Big Box Stores,98.0,86.0,98.0,7
-2020-03-08,South Dakota,Arts & Entertainment,113.0,113.0,113.0,8
+2020-03-08,South Dakota,Arts & Entertainment,122.0,119.0,122.0,8
 2020-03-08,South Dakota,Fast Food Restaurants,118.0,119.0,118.0,9
-2020-03-08,South Dakota,Hotel,90.0,78.0,90.0,10
-2020-03-08,South Dakota,School,81.0,84.0,81.0,11
+2020-03-08,South Dakota,Hotel,104.0,90.0,104.0,10
+2020-03-08,South Dakota,School,127.0,129.0,127.0,11
 2020-03-08,South Dakota,Hardware Stores,123.0,119.0,123.0,12
-2020-03-08,South Dakota,Professional & Other Places,31.0,22.0,31.0,13
-2020-03-08,South Dakota,Medical,69.0,63.0,69.0,14
-2020-03-08,South Dakota,Sports,63.0,"",63.0,15
+2020-03-08,South Dakota,Professional & Other Places,125.0,113.0,125.0,13
+2020-03-08,South Dakota,Medical,116.0,102.0,116.0,14
+2020-03-08,South Dakota,Sports,122.0,"",122.0,15
 2020-03-08,South Dakota,Residences,125.0,"",125.0,16
 2020-03-08,South Dakota,Convenience Store,111.0,"",111.0,17
 2020-03-08,South Dakota,Drug Store,119.0,"",119.0,18
-2020-03-08,South Dakota,Fitness Center,65.0,"",65.0,19
+2020-03-08,South Dakota,Fitness Center,96.0,"",96.0,19
 2020-03-08,South Dakota,Colleges & Universities,78.0,"",78.0,20
-2020-03-08,South Dakota,Government,88.0,"",88.0,21
-2020-03-08,South Dakota,Travel & Transport,40.0,"",40.0,22
+2020-03-08,South Dakota,Travel & Transport,121.0,"",121.0,21
+2020-03-08,South Dakota,Government,117.0,"",117.0,22
 2020-03-08,South Dakota,Discount Stores,101.0,"",101.0,23
-2020-03-08,South Dakota,Airport,93.0,"",93.0,24
-2020-03-08,South Dakota,Office,96.0,"",95.0,25
+2020-03-08,South Dakota,Airport,125.0,"",125.0,24
+2020-03-08,South Dakota,Office,108.0,"",106.0,25
 2020-03-08,South Dakota,Alcohol,102.0,"",102.0,26
 2020-03-08,South Dakota,Banks,116.0,"",114.0,27
-2020-03-09,South Dakota,Food,92.0,90.0,92.0,1
-2020-03-09,South Dakota,Shops & Services,41.0,42.0,41.0,2
+2020-03-09,South Dakota,Food,113.0,112.0,113.0,1
+2020-03-09,South Dakota,Shops & Services,113.0,116.0,113.0,2
 2020-03-09,South Dakota,Gas Stations,99.0,103.0,99.0,3
-2020-03-09,South Dakota,Nightlife Spots,84.0,81.0,84.0,4
-2020-03-09,South Dakota,Medical,62.0,56.0,63.0,5
-2020-03-09,South Dakota,School,85.0,100.0,85.0,6
+2020-03-09,South Dakota,Nightlife Spots,110.0,105.0,110.0,4
+2020-03-09,South Dakota,Medical,105.0,96.0,106.0,5
+2020-03-09,South Dakota,School,129.0,146.0,128.0,6
 2020-03-09,South Dakota,Grocery,104.0,99.0,104.0,7
-2020-03-09,South Dakota,Outdoors & Recreation,117.0,91.0,118.0,8
+2020-03-09,South Dakota,Outdoors & Recreation,118.0,92.0,119.0,8
 2020-03-09,South Dakota,Big Box Stores,98.0,108.0,98.0,9
 2020-03-09,South Dakota,Fast Food Restaurants,102.0,104.0,102.0,10
-2020-03-09,South Dakota,Arts & Entertainment,129.0,139.0,129.0,11
-2020-03-09,South Dakota,Hotel,99.0,91.0,99.0,12
-2020-03-09,South Dakota,Professional & Other Places,28.0,28.0,28.0,13
+2020-03-09,South Dakota,Arts & Entertainment,140.0,151.0,139.0,11
+2020-03-09,South Dakota,Hotel,117.0,110.0,117.0,12
+2020-03-09,South Dakota,Professional & Other Places,126.0,129.0,126.0,13
 2020-03-09,South Dakota,Hardware Stores,111.0,103.0,111.0,14
 2020-03-09,South Dakota,Convenience Store,112.0,106.0,112.0,15
-2020-03-09,South Dakota,Fitness Center,74.0,80.0,74.0,16
+2020-03-09,South Dakota,Fitness Center,109.0,112.0,109.0,16
 2020-03-09,South Dakota,Residences,127.0,147.0,127.0,17
-2020-03-09,South Dakota,Government,83.0,90.0,83.0,18
-2020-03-09,South Dakota,Colleges & Universities,57.0,"",56.0,19
-2020-03-09,South Dakota,Office,96.0,"",96.0,20
+2020-03-09,South Dakota,Government,116.0,124.0,115.0,18
+2020-03-09,South Dakota,Colleges & Universities,66.0,"",66.0,19
+2020-03-09,South Dakota,Office,111.0,"",112.0,20
 2020-03-09,South Dakota,Banks,130.0,"",130.0,21
-2020-03-09,South Dakota,Sports,61.0,"",61.0,22
-2020-03-09,South Dakota,Travel & Transport,50.0,"",51.0,23
+2020-03-09,South Dakota,Sports,141.0,"",141.0,22
+2020-03-09,South Dakota,Travel & Transport,121.0,"",123.0,23
 2020-03-09,South Dakota,Drug Store,111.0,"",113.0,24
-2020-03-09,South Dakota,Airport,98.0,"",97.0,25
+2020-03-09,South Dakota,Airport,127.0,"",126.0,25
 2020-03-09,South Dakota,Discount Stores,137.0,"",137.0,26
-2020-03-10,South Dakota,Food,71.0,64.0,72.0,1
-2020-03-10,South Dakota,Shops & Services,40.0,38.0,40.0,2
+2020-03-10,South Dakota,Food,108.0,97.0,108.0,1
+2020-03-10,South Dakota,Shops & Services,111.0,106.0,111.0,2
 2020-03-10,South Dakota,Gas Stations,100.0,99.0,100.0,3
-2020-03-10,South Dakota,Nightlife Spots,83.0,83.0,83.0,4
-2020-03-10,South Dakota,Medical,63.0,55.0,63.0,5
+2020-03-10,South Dakota,Nightlife Spots,108.0,109.0,108.0,4
+2020-03-10,South Dakota,Medical,106.0,95.0,106.0,5
 2020-03-10,South Dakota,Grocery,105.0,91.0,105.0,6
-2020-03-10,South Dakota,Outdoors & Recreation,109.0,134.0,108.0,7
-2020-03-10,South Dakota,School,64.0,69.0,64.0,8
+2020-03-10,South Dakota,Outdoors & Recreation,114.0,138.0,113.0,7
+2020-03-10,South Dakota,School,98.0,104.0,98.0,8
 2020-03-10,South Dakota,Big Box Stores,104.0,99.0,105.0,9
 2020-03-10,South Dakota,Fast Food Restaurants,110.0,103.0,111.0,10
-2020-03-10,South Dakota,Hotel,98.0,92.0,99.0,11
-2020-03-10,South Dakota,Arts & Entertainment,117.0,112.0,117.0,12
-2020-03-10,South Dakota,Professional & Other Places,22.0,21.0,22.0,13
+2020-03-10,South Dakota,Hotel,115.0,111.0,115.0,11
+2020-03-10,South Dakota,Arts & Entertainment,127.0,117.0,127.0,12
+2020-03-10,South Dakota,Professional & Other Places,100.0,104.0,100.0,13
 2020-03-10,South Dakota,Hardware Stores,110.0,100.0,110.0,14
-2020-03-10,South Dakota,Government,76.0,57.0,77.0,15
-2020-03-10,South Dakota,Colleges & Universities,49.0,"",49.0,16
-2020-03-10,South Dakota,Fitness Center,61.0,"",61.0,17
+2020-03-10,South Dakota,Government,109.0,84.0,110.0,15
+2020-03-10,South Dakota,Colleges & Universities,58.0,"",58.0,16
+2020-03-10,South Dakota,Fitness Center,90.0,"",90.0,17
 2020-03-10,South Dakota,Convenience Store,101.0,121.0,100.0,18
-2020-03-10,South Dakota,Office,90.0,"",90.0,19
+2020-03-10,South Dakota,Office,103.0,"",103.0,19
 2020-03-10,South Dakota,Residences,111.0,129.0,111.0,20
-2020-03-10,South Dakota,Sports,60.0,"",60.0,21
+2020-03-10,South Dakota,Sports,129.0,"",131.0,21
 2020-03-10,South Dakota,Banks,114.0,141.0,113.0,22
 2020-03-10,South Dakota,Drug Store,105.0,"",106.0,23
 2020-03-10,South Dakota,Discount Stores,129.0,"",128.0,24
-2020-03-10,South Dakota,Airport,97.0,"",97.0,25
-2020-03-10,South Dakota,Travel & Transport,37.0,"",38.0,26
-2020-03-11,South Dakota,Food,85.0,88.0,85.0,1
-2020-03-11,South Dakota,Shops & Services,52.0,50.0,52.0,2
+2020-03-10,South Dakota,Airport,128.0,"",128.0,25
+2020-03-10,South Dakota,Travel & Transport,94.0,"",94.0,26
+2020-03-11,South Dakota,Food,111.0,109.0,111.0,1
+2020-03-11,South Dakota,Shops & Services,113.0,106.0,114.0,2
 2020-03-11,South Dakota,Gas Stations,107.0,123.0,106.0,3
-2020-03-11,South Dakota,Nightlife Spots,81.0,82.0,81.0,4
-2020-03-11,South Dakota,Outdoors & Recreation,133.0,122.0,133.0,5
+2020-03-11,South Dakota,Nightlife Spots,110.0,108.0,110.0,4
+2020-03-11,South Dakota,Outdoors & Recreation,137.0,127.0,138.0,5
 2020-03-11,South Dakota,Grocery,109.0,118.0,108.0,6
-2020-03-11,South Dakota,Medical,62.0,61.0,62.0,7
+2020-03-11,South Dakota,Medical,105.0,104.0,105.0,7
 2020-03-11,South Dakota,Big Box Stores,117.0,101.0,118.0,8
-2020-03-11,South Dakota,School,64.0,70.0,64.0,9
+2020-03-11,South Dakota,School,99.0,108.0,99.0,9
 2020-03-11,South Dakota,Fast Food Restaurants,112.0,106.0,113.0,10
-2020-03-11,South Dakota,Hotel,90.0,90.0,90.0,11
-2020-03-11,South Dakota,Arts & Entertainment,102.0,87.0,102.0,12
-2020-03-11,South Dakota,Professional & Other Places,25.0,20.0,25.0,13
+2020-03-11,South Dakota,Hotel,105.0,104.0,105.0,11
+2020-03-11,South Dakota,Arts & Entertainment,113.0,95.0,113.0,12
+2020-03-11,South Dakota,Professional & Other Places,109.0,88.0,109.0,13
 2020-03-11,South Dakota,Hardware Stores,113.0,111.0,113.0,14
-2020-03-11,South Dakota,Government,81.0,86.0,81.0,15
+2020-03-11,South Dakota,Government,119.0,129.0,118.0,15
 2020-03-11,South Dakota,Convenience Store,105.0,107.0,105.0,16
-2020-03-11,South Dakota,Colleges & Universities,37.0,"",36.0,17
-2020-03-11,South Dakota,Fitness Center,61.0,57.0,61.0,18
-2020-03-11,South Dakota,Office,88.0,"",88.0,19
+2020-03-11,South Dakota,Colleges & Universities,53.0,"",52.0,17
+2020-03-11,South Dakota,Fitness Center,84.0,80.0,85.0,18
+2020-03-11,South Dakota,Office,102.0,"",102.0,19
 2020-03-11,South Dakota,Residences,111.0,104.0,112.0,20
 2020-03-11,South Dakota,Banks,118.0,124.0,117.0,21
-2020-03-11,South Dakota,Sports,44.0,"",44.0,22
+2020-03-11,South Dakota,Sports,121.0,"",122.0,22
 2020-03-11,South Dakota,Drug Store,122.0,"",123.0,23
-2020-03-11,South Dakota,Travel & Transport,86.0,"",86.0,24
+2020-03-11,South Dakota,Travel & Transport,101.0,"",100.0,24
 2020-03-11,South Dakota,Discount Stores,135.0,"",134.0,25
-2020-03-11,South Dakota,Airport,88.0,"",88.0,26
-2020-03-12,South Dakota,Food,81.0,74.0,81.0,1
-2020-03-12,South Dakota,Shops & Services,41.0,41.0,41.0,2
+2020-03-11,South Dakota,Airport,113.0,"",114.0,26
+2020-03-12,South Dakota,Food,106.0,94.0,107.0,1
+2020-03-12,South Dakota,Shops & Services,110.0,110.0,110.0,2
 2020-03-12,South Dakota,Gas Stations,94.0,89.0,94.0,3
-2020-03-12,South Dakota,Nightlife Spots,75.0,79.0,75.0,4
+2020-03-12,South Dakota,Nightlife Spots,102.0,104.0,102.0,4
 2020-03-12,South Dakota,Grocery,114.0,108.0,114.0,5
-2020-03-12,South Dakota,Medical,63.0,53.0,64.0,6
+2020-03-12,South Dakota,Medical,106.0,90.0,106.0,6
 2020-03-12,South Dakota,Big Box Stores,114.0,110.0,114.0,7
-2020-03-12,South Dakota,School,63.0,66.0,63.0,8
-2020-03-12,South Dakota,Outdoors & Recreation,105.0,95.0,105.0,9
-2020-03-12,South Dakota,Fast Food Restaurants,109.0,101.0,110.0,9
-2020-03-12,South Dakota,Hotel,91.0,70.0,92.0,10
-2020-03-12,South Dakota,Arts & Entertainment,90.0,79.0,90.0,11
-2020-03-12,South Dakota,Professional & Other Places,22.0,15.0,22.0,12
-2020-03-12,South Dakota,Hardware Stores,139.0,126.0,140.0,13
-2020-03-12,South Dakota,Convenience Store,109.0,131.0,109.0,14
-2020-03-12,South Dakota,Government,78.0,76.0,78.0,15
-2020-03-12,South Dakota,Colleges & Universities,57.0,"",57.0,16
-2020-03-12,South Dakota,Fitness Center,65.0,64.0,65.0,16
-2020-03-12,South Dakota,Residences,120.0,106.0,120.0,17
-2020-03-12,South Dakota,Office,78.0,"",78.0,18
-2020-03-12,South Dakota,Sports,45.0,"",45.0,19
-2020-03-12,South Dakota,Banks,105.0,133.0,103.0,20
-2020-03-12,South Dakota,Drug Store,124.0,"",126.0,21
-2020-03-12,South Dakota,Discount Stores,142.0,"",141.0,22
-2020-03-12,South Dakota,Travel & Transport,91.0,"",92.0,23
-2020-03-12,South Dakota,Airport,87.0,"",87.0,24
-2020-03-12,South Dakota,Alcohol,114.0,"",115.0,25
-2020-03-13,South Dakota,Food,74.0,63.0,75.0,1
-2020-03-13,South Dakota,Shops & Services,40.0,34.0,40.0,2
+2020-03-12,South Dakota,School,102.0,104.0,102.0,8
+2020-03-12,South Dakota,Outdoors & Recreation,110.0,98.0,111.0,9
+2020-03-12,South Dakota,Fast Food Restaurants,109.0,101.0,110.0,10
+2020-03-12,South Dakota,Hotel,106.0,85.0,107.0,11
+2020-03-12,South Dakota,Arts & Entertainment,98.0,86.0,99.0,12
+2020-03-12,South Dakota,Professional & Other Places,100.0,76.0,101.0,13
+2020-03-12,South Dakota,Hardware Stores,139.0,126.0,140.0,14
+2020-03-12,South Dakota,Convenience Store,109.0,131.0,109.0,15
+2020-03-12,South Dakota,Government,111.0,110.0,112.0,16
+2020-03-12,South Dakota,Colleges & Universities,57.0,"",57.0,17
+2020-03-12,South Dakota,Residences,120.0,106.0,120.0,18
+2020-03-12,South Dakota,Fitness Center,92.0,93.0,92.0,19
+2020-03-12,South Dakota,Office,92.0,"",92.0,20
+2020-03-12,South Dakota,Sports,120.0,"",121.0,21
+2020-03-12,South Dakota,Banks,105.0,133.0,103.0,22
+2020-03-12,South Dakota,Drug Store,124.0,"",126.0,23
+2020-03-12,South Dakota,Discount Stores,142.0,"",141.0,24
+2020-03-12,South Dakota,Travel & Transport,106.0,"",107.0,25
+2020-03-12,South Dakota,Airport,115.0,"",115.0,26
+2020-03-12,South Dakota,Alcohol,114.0,"",115.0,27
+2020-03-13,South Dakota,Food,101.0,86.0,102.0,1
+2020-03-13,South Dakota,Shops & Services,106.0,88.0,107.0,2
 2020-03-13,South Dakota,Gas Stations,101.0,87.0,102.0,3
-2020-03-13,South Dakota,Nightlife Spots,76.0,74.0,76.0,4
+2020-03-13,South Dakota,Nightlife Spots,102.0,99.0,102.0,4
 2020-03-13,South Dakota,Grocery,138.0,119.0,139.0,5
 2020-03-13,South Dakota,Big Box Stores,123.0,106.0,123.0,6
-2020-03-13,South Dakota,Outdoors & Recreation,118.0,100.0,118.0,7
+2020-03-13,South Dakota,Outdoors & Recreation,119.0,102.0,120.0,7
 2020-03-13,South Dakota,Fast Food Restaurants,99.0,101.0,99.0,8
-2020-03-13,South Dakota,Medical,59.0,62.0,59.0,9
-2020-03-13,South Dakota,Hotel,91.0,66.0,92.0,10
-2020-03-13,South Dakota,School,59.0,62.0,59.0,11
-2020-03-13,South Dakota,Arts & Entertainment,88.0,58.0,89.0,12
-2020-03-13,South Dakota,Professional & Other Places,22.0,19.0,22.0,13
+2020-03-13,South Dakota,Medical,99.0,103.0,99.0,9
+2020-03-13,South Dakota,Hotel,105.0,79.0,106.0,10
+2020-03-13,South Dakota,School,96.0,100.0,96.0,11
+2020-03-13,South Dakota,Arts & Entertainment,95.0,63.0,97.0,12
+2020-03-13,South Dakota,Professional & Other Places,100.0,85.0,101.0,13
 2020-03-13,South Dakota,Hardware Stores,119.0,100.0,120.0,14
 2020-03-13,South Dakota,Convenience Store,112.0,108.0,112.0,15
-2020-03-13,South Dakota,Government,75.0,"",75.0,16
-2020-03-13,South Dakota,Colleges & Universities,42.0,"",42.0,17
-2020-03-13,South Dakota,Fitness Center,61.0,56.0,62.0,18
+2020-03-13,South Dakota,Government,110.0,"",110.0,16
+2020-03-13,South Dakota,Colleges & Universities,57.0,"",57.0,17
+2020-03-13,South Dakota,Fitness Center,86.0,81.0,87.0,18
 2020-03-13,South Dakota,Residences,109.0,"",109.0,19
 2020-03-13,South Dakota,Drug Store,127.0,124.0,128.0,20
 2020-03-13,South Dakota,Banks,102.0,103.0,102.0,21
-2020-03-13,South Dakota,Office,75.0,"",76.0,22
-2020-03-13,South Dakota,Sports,42.0,"",42.0,23
+2020-03-13,South Dakota,Office,86.0,"",87.0,22
+2020-03-13,South Dakota,Sports,107.0,"",107.0,23
 2020-03-13,South Dakota,Discount Stores,136.0,"",138.0,24
-2020-03-13,South Dakota,Travel & Transport,38.0,"",37.0,25
+2020-03-13,South Dakota,Travel & Transport,103.0,"",102.0,25
 2020-03-13,South Dakota,Alcohol,116.0,"",117.0,26
-2020-03-13,South Dakota,Airport,64.0,"",64.0,27
-2020-03-14,South Dakota,Food,55.0,46.0,55.0,1
-2020-03-14,South Dakota,Shops & Services,26.0,20.0,26.0,2
-2020-03-14,South Dakota,Nightlife Spots,68.0,52.0,68.0,3
+2020-03-13,South Dakota,Airport,85.0,"",85.0,27
+2020-03-14,South Dakota,Food,73.0,60.0,74.0,1
+2020-03-14,South Dakota,Shops & Services,69.0,54.0,69.0,2
+2020-03-14,South Dakota,Nightlife Spots,89.0,68.0,90.0,3
 2020-03-14,South Dakota,Gas Stations,80.0,62.0,80.0,4
 2020-03-14,South Dakota,Grocery,102.0,85.0,103.0,5
 2020-03-14,South Dakota,Big Box Stores,84.0,72.0,84.0,6
-2020-03-14,South Dakota,Outdoors & Recreation,84.0,78.0,84.0,7
-2020-03-14,South Dakota,Arts & Entertainment,71.0,49.0,71.0,8
-2020-03-14,South Dakota,Hotel,63.0,55.0,64.0,9
+2020-03-14,South Dakota,Outdoors & Recreation,87.0,81.0,87.0,7
+2020-03-14,South Dakota,Arts & Entertainment,75.0,52.0,76.0,8
+2020-03-14,South Dakota,Hotel,72.0,64.0,73.0,9
 2020-03-14,South Dakota,Fast Food Restaurants,63.0,59.0,63.0,10
 2020-03-14,South Dakota,Hardware Stores,83.0,65.0,83.0,11
-2020-03-14,South Dakota,Professional & Other Places,30.0,"",30.0,12
-2020-03-14,South Dakota,Medical,56.0,50.0,56.0,13
-2020-03-14,South Dakota,School,38.0,"",38.0,14
+2020-03-14,South Dakota,Professional & Other Places,73.0,"",73.0,12
+2020-03-14,South Dakota,Medical,91.0,83.0,91.0,13
+2020-03-14,South Dakota,School,56.0,"",57.0,14
 2020-03-14,South Dakota,Convenience Store,92.0,"",93.0,15
 2020-03-14,South Dakota,Residences,92.0,"",92.0,16
-2020-03-14,South Dakota,Sports,34.0,"",34.0,17
+2020-03-14,South Dakota,Sports,76.0,"",76.0,17
 2020-03-14,South Dakota,Drug Store,78.0,"",79.0,18
 2020-03-14,South Dakota,Discount Stores,97.0,"",97.0,19
-2020-03-14,South Dakota,Colleges & Universities,38.0,"",38.0,20
-2020-03-14,South Dakota,Fitness Center,35.0,"",35.0,21
-2020-03-14,South Dakota,Travel & Transport,63.0,"",64.0,22
-2020-03-14,South Dakota,Government,60.0,"",60.0,22
-2020-03-14,South Dakota,Alcohol,88.0,"",88.0,23
-2020-03-14,South Dakota,Office,80.0,"",81.0,24
-2020-03-14,South Dakota,Banks,79.0,"",79.0,25
-2020-03-15,South Dakota,Food,58.0,52.0,58.0,1
-2020-03-15,South Dakota,Nightlife Spots,55.0,43.0,55.0,2
-2020-03-15,South Dakota,Shops & Services,25.0,26.0,25.0,3
+2020-03-14,South Dakota,Colleges & Universities,50.0,"",50.0,20
+2020-03-14,South Dakota,Fitness Center,50.0,"",51.0,21
+2020-03-14,South Dakota,Government,92.0,"",91.0,22
+2020-03-14,South Dakota,Travel & Transport,77.0,"",78.0,23
+2020-03-14,South Dakota,Alcohol,88.0,"",88.0,24
+2020-03-14,South Dakota,Office,92.0,"",93.0,25
+2020-03-14,South Dakota,Banks,79.0,"",79.0,26
+2020-03-15,South Dakota,Food,77.0,67.0,78.0,1
+2020-03-15,South Dakota,Nightlife Spots,93.0,69.0,93.0,2
+2020-03-15,South Dakota,Shops & Services,80.0,83.0,80.0,3
 2020-03-15,South Dakota,Gas Stations,78.0,73.0,78.0,4
 2020-03-15,South Dakota,Grocery,88.0,90.0,88.0,5
 2020-03-15,South Dakota,Big Box Stores,86.0,77.0,86.0,6
-2020-03-15,South Dakota,Outdoors & Recreation,75.0,58.0,76.0,7
+2020-03-15,South Dakota,Outdoors & Recreation,95.0,78.0,96.0,7
 2020-03-15,South Dakota,Fast Food Restaurants,79.0,86.0,79.0,8
-2020-03-15,South Dakota,Hotel,69.0,55.0,70.0,9
-2020-03-15,South Dakota,Arts & Entertainment,69.0,49.0,70.0,10
+2020-03-15,South Dakota,Hotel,79.0,63.0,80.0,9
+2020-03-15,South Dakota,Arts & Entertainment,73.0,52.0,74.0,10
 2020-03-15,South Dakota,Hardware Stores,105.0,123.0,104.0,11
-2020-03-15,South Dakota,School,54.0,"",54.0,12
-2020-03-15,South Dakota,Medical,57.0,"",58.0,13
+2020-03-15,South Dakota,School,84.0,"",84.0,12
+2020-03-15,South Dakota,Medical,93.0,"",93.0,13
 2020-03-15,South Dakota,Convenience Store,101.0,"",101.0,14
-2020-03-15,South Dakota,Professional & Other Places,16.0,"",16.0,15
+2020-03-15,South Dakota,Professional & Other Places,71.0,"",72.0,15
 2020-03-15,South Dakota,Residences,85.0,"",85.0,16
-2020-03-15,South Dakota,Sports,37.0,"",37.0,17
+2020-03-15,South Dakota,Sports,68.0,"",69.0,17
 2020-03-15,South Dakota,Drug Store,85.0,"",84.0,18
 2020-03-15,South Dakota,Travel & Transport,110.0,"",110.0,19
-2020-03-15,South Dakota,Government,80.0,"",80.0,20
+2020-03-15,South Dakota,Government,114.0,"",115.0,20
 2020-03-15,South Dakota,Discount Stores,103.0,"",103.0,21
-2020-03-15,South Dakota,Colleges & Universities,49.0,"",49.0,22
-2020-03-15,South Dakota,Fitness Center,45.0,"",45.0,23
-2020-03-15,South Dakota,Airport,72.0,"",71.0,24
-2020-03-15,South Dakota,Office,94.0,"",94.0,25
-2020-03-16,South Dakota,Food,60.0,52.0,60.0,1
-2020-03-16,South Dakota,Shops & Services,36.0,31.0,36.0,2
+2020-03-15,South Dakota,Colleges & Universities,64.0,"",64.0,22
+2020-03-15,South Dakota,Fitness Center,60.0,"",60.0,23
+2020-03-15,South Dakota,Airport,96.0,"",95.0,24
+2020-03-15,South Dakota,Office,107.0,"",106.0,25
+2020-03-16,South Dakota,Food,98.0,84.0,99.0,1
+2020-03-16,South Dakota,Shops & Services,103.0,88.0,103.0,2
 2020-03-16,South Dakota,Gas Stations,89.0,77.0,89.0,3
-2020-03-16,South Dakota,Nightlife Spots,78.0,69.0,78.0,4
+2020-03-16,South Dakota,Nightlife Spots,101.0,89.0,102.0,4
 2020-03-16,South Dakota,Grocery,124.0,99.0,125.0,5
 2020-03-16,South Dakota,Big Box Stores,107.0,110.0,107.0,6
-2020-03-16,South Dakota,Medical,57.0,45.0,57.0,7
-2020-03-16,South Dakota,Outdoors & Recreation,109.0,81.0,110.0,8
+2020-03-16,South Dakota,Medical,96.0,78.0,97.0,7
+2020-03-16,South Dakota,Outdoors & Recreation,113.0,83.0,114.0,8
 2020-03-16,South Dakota,Fast Food Restaurants,88.0,82.0,88.0,9
-2020-03-16,South Dakota,Hotel,80.0,77.0,81.0,10
-2020-03-16,South Dakota,Arts & Entertainment,96.0,74.0,96.0,11
-2020-03-16,South Dakota,Professional & Other Places,22.0,17.0,22.0,12
-2020-03-16,South Dakota,School,38.0,"",38.0,13
+2020-03-16,South Dakota,Hotel,95.0,93.0,95.0,10
+2020-03-16,South Dakota,Arts & Entertainment,104.0,81.0,105.0,11
+2020-03-16,South Dakota,Professional & Other Places,103.0,82.0,104.0,12
+2020-03-16,South Dakota,School,59.0,"",59.0,13
 2020-03-16,South Dakota,Hardware Stores,106.0,85.0,107.0,14
 2020-03-16,South Dakota,Convenience Store,106.0,94.0,106.0,15
 2020-03-16,South Dakota,Residences,108.0,"",108.0,16
-2020-03-16,South Dakota,Office,84.0,"",85.0,17
-2020-03-16,South Dakota,Government,64.0,"",65.0,18
+2020-03-16,South Dakota,Office,97.0,"",98.0,17
+2020-03-16,South Dakota,Government,94.0,"",94.0,18
 2020-03-16,South Dakota,Banks,135.0,150.0,135.0,19
-2020-03-16,South Dakota,Colleges & Universities,39.0,"",39.0,20
+2020-03-16,South Dakota,Colleges & Universities,55.0,"",55.0,20
 2020-03-16,South Dakota,Drug Store,153.0,173.0,152.0,21
-2020-03-16,South Dakota,Fitness Center,55.0,"",55.0,22
-2020-03-16,South Dakota,Sports,43.0,65.0,43.0,23
-2020-03-16,South Dakota,Travel & Transport,108.0,"",109.0,24
+2020-03-16,South Dakota,Fitness Center,74.0,"",75.0,22
+2020-03-16,South Dakota,Sports,108.0,190.0,106.0,23
+2020-03-16,South Dakota,Travel & Transport,113.0,"",114.0,24
 2020-03-16,South Dakota,Discount Stores,137.0,"",136.0,25
-2020-03-16,South Dakota,Airport,73.0,"",73.0,26
-2020-03-17,South Dakota,Food,72.0,63.0,72.0,1
-2020-03-17,South Dakota,Shops & Services,38.0,32.0,38.0,2
+2020-03-16,South Dakota,Airport,94.0,"",94.0,26
+2020-03-17,South Dakota,Food,94.0,81.0,94.0,1
+2020-03-17,South Dakota,Shops & Services,99.0,85.0,100.0,2
 2020-03-17,South Dakota,Gas Stations,103.0,99.0,103.0,3
-2020-03-17,South Dakota,Nightlife Spots,80.0,67.0,80.0,4
+2020-03-17,South Dakota,Nightlife Spots,104.0,88.0,104.0,4
 2020-03-17,South Dakota,Grocery,114.0,106.0,114.0,5
-2020-03-17,South Dakota,Outdoors & Recreation,124.0,111.0,125.0,6
-2020-03-17,South Dakota,Medical,52.0,50.0,53.0,7
+2020-03-17,South Dakota,Outdoors & Recreation,126.0,112.0,126.0,6
+2020-03-17,South Dakota,Medical,88.0,86.0,89.0,7
 2020-03-17,South Dakota,Big Box Stores,104.0,82.0,105.0,8
 2020-03-17,South Dakota,Fast Food Restaurants,83.0,69.0,83.0,9
-2020-03-17,South Dakota,Hotel,82.0,78.0,82.0,10
-2020-03-17,South Dakota,Arts & Entertainment,90.0,73.0,91.0,11
-2020-03-17,South Dakota,Professional & Other Places,20.0,16.0,20.0,12
-2020-03-17,South Dakota,School,34.0,"",34.0,13
+2020-03-17,South Dakota,Hotel,95.0,92.0,95.0,10
+2020-03-17,South Dakota,Arts & Entertainment,96.0,75.0,97.0,11
+2020-03-17,South Dakota,Professional & Other Places,94.0,81.0,94.0,12
+2020-03-17,South Dakota,School,52.0,"",52.0,13
 2020-03-17,South Dakota,Hardware Stores,115.0,95.0,116.0,14
 2020-03-17,South Dakota,Convenience Store,93.0,"",93.0,15
-2020-03-17,South Dakota,Government,60.0,"",61.0,16
+2020-03-17,South Dakota,Government,87.0,"",87.0,16
 2020-03-17,South Dakota,Residences,108.0,"",108.0,17
-2020-03-17,South Dakota,Office,72.0,"",72.0,18
-2020-03-17,South Dakota,Sports,42.0,"",42.0,19
-2020-03-17,South Dakota,Colleges & Universities,26.0,"",25.0,20
-2020-03-17,South Dakota,Fitness Center,38.0,"",38.0,21
+2020-03-17,South Dakota,Office,83.0,"",83.0,18
+2020-03-17,South Dakota,Sports,118.0,"",119.0,19
+2020-03-17,South Dakota,Colleges & Universities,38.0,"",38.0,20
+2020-03-17,South Dakota,Fitness Center,55.0,"",55.0,21
 2020-03-17,South Dakota,Drug Store,118.0,"",119.0,22
 2020-03-17,South Dakota,Banks,90.0,135.0,89.0,23
-2020-03-17,South Dakota,Travel & Transport,105.0,"",107.0,24
+2020-03-17,South Dakota,Travel & Transport,113.0,"",114.0,24
 2020-03-17,South Dakota,Discount Stores,112.0,"",112.0,25
 2020-03-17,South Dakota,Alcohol,122.0,"",123.0,26
-2020-03-17,South Dakota,Airport,68.0,"",68.0,27
-2020-03-18,South Dakota,Food,70.0,62.0,70.0,1
-2020-03-18,South Dakota,Shops & Services,31.0,24.0,32.0,2
+2020-03-17,South Dakota,Airport,90.0,"",90.0,27
+2020-03-18,South Dakota,Food,91.0,79.0,92.0,1
+2020-03-18,South Dakota,Shops & Services,90.0,68.0,91.0,2
 2020-03-18,South Dakota,Gas Stations,94.0,93.0,94.0,3
-2020-03-18,South Dakota,Nightlife Spots,77.0,72.0,77.0,4
+2020-03-18,South Dakota,Nightlife Spots,100.0,94.0,100.0,4
 2020-03-18,South Dakota,Grocery,116.0,116.0,116.0,5
-2020-03-18,South Dakota,Outdoors & Recreation,117.0,112.0,117.0,6
-2020-03-18,South Dakota,Medical,52.0,42.0,52.0,7
+2020-03-18,South Dakota,Outdoors & Recreation,123.0,117.0,124.0,6
+2020-03-18,South Dakota,Medical,87.0,72.0,87.0,7
 2020-03-18,South Dakota,Big Box Stores,99.0,92.0,100.0,8
 2020-03-18,South Dakota,Fast Food Restaurants,80.0,69.0,80.0,9
-2020-03-18,South Dakota,Hotel,76.0,63.0,76.0,10
-2020-03-18,South Dakota,Arts & Entertainment,77.0,59.0,78.0,11
-2020-03-18,South Dakota,Professional & Other Places,17.0,13.0,17.0,12
-2020-03-18,South Dakota,School,31.0,39.0,31.0,13
+2020-03-18,South Dakota,Hotel,88.0,73.0,89.0,10
+2020-03-18,South Dakota,Arts & Entertainment,85.0,65.0,86.0,11
+2020-03-18,South Dakota,Professional & Other Places,89.0,70.0,90.0,12
+2020-03-18,South Dakota,School,49.0,61.0,49.0,13
 2020-03-18,South Dakota,Hardware Stores,118.0,100.0,119.0,14
 2020-03-18,South Dakota,Convenience Store,93.0,100.0,93.0,15
 2020-03-18,South Dakota,Residences,110.0,"",111.0,16
-2020-03-18,South Dakota,Government,56.0,"",56.0,17
-2020-03-18,South Dakota,Office,67.0,"",67.0,18
-2020-03-18,South Dakota,Colleges & Universities,27.0,"",26.0,19
-2020-03-18,South Dakota,Sports,40.0,51.0,40.0,20
+2020-03-18,South Dakota,Government,82.0,"",82.0,17
+2020-03-18,South Dakota,Office,78.0,"",78.0,18
+2020-03-18,South Dakota,Colleges & Universities,39.0,"",38.0,19
+2020-03-18,South Dakota,Sports,107.0,135.0,106.0,20
 2020-03-18,South Dakota,Drug Store,101.0,"",101.0,21
-2020-03-18,South Dakota,Fitness Center,34.0,"",35.0,22
+2020-03-18,South Dakota,Fitness Center,50.0,"",51.0,22
 2020-03-18,South Dakota,Banks,83.0,"",82.0,23
-2020-03-18,South Dakota,Travel & Transport,83.0,"",83.0,24
+2020-03-18,South Dakota,Travel & Transport,86.0,"",86.0,24
 2020-03-18,South Dakota,Discount Stores,110.0,"",109.0,25
 2020-03-18,South Dakota,Alcohol,129.0,"",129.0,26
-2020-03-18,South Dakota,Airport,68.0,"",68.0,27
-2020-03-19,South Dakota,Food,48.0,37.0,48.0,1
-2020-03-19,South Dakota,Shops & Services,29.0,21.0,29.0,2
+2020-03-18,South Dakota,Airport,88.0,"",88.0,27
+2020-03-19,South Dakota,Food,77.0,59.0,77.0,1
+2020-03-19,South Dakota,Shops & Services,79.0,57.0,80.0,2
 2020-03-19,South Dakota,Gas Stations,85.0,76.0,86.0,3
-2020-03-19,South Dakota,Nightlife Spots,59.0,52.0,60.0,4
+2020-03-19,South Dakota,Nightlife Spots,78.0,67.0,79.0,4
 2020-03-19,South Dakota,Grocery,109.0,83.0,110.0,5
 2020-03-19,South Dakota,Big Box Stores,94.0,72.0,95.0,6
-2020-03-19,South Dakota,Outdoors & Recreation,96.0,83.0,96.0,7
-2020-03-19,South Dakota,Medical,48.0,38.0,48.0,8
+2020-03-19,South Dakota,Outdoors & Recreation,100.0,87.0,100.0,7
+2020-03-19,South Dakota,Medical,80.0,66.0,80.0,8
 2020-03-19,South Dakota,Fast Food Restaurants,68.0,53.0,69.0,9
-2020-03-19,South Dakota,Hotel,61.0,61.0,61.0,10
-2020-03-19,South Dakota,Arts & Entertainment,70.0,60.0,70.0,11
-2020-03-19,South Dakota,Professional & Other Places,17.0,12.0,17.0,12
+2020-03-19,South Dakota,Hotel,71.0,73.0,71.0,10
+2020-03-19,South Dakota,Arts & Entertainment,76.0,66.0,77.0,11
+2020-03-19,South Dakota,Professional & Other Places,85.0,66.0,86.0,12
 2020-03-19,South Dakota,Hardware Stores,118.0,73.0,120.0,13
-2020-03-19,South Dakota,School,27.0,"",27.0,14
+2020-03-19,South Dakota,School,42.0,"",42.0,14
 2020-03-19,South Dakota,Convenience Store,87.0,"",88.0,15
-2020-03-19,South Dakota,Government,58.0,"",59.0,16
+2020-03-19,South Dakota,Government,81.0,"",82.0,16
 2020-03-19,South Dakota,Residences,87.0,"",87.0,17
-2020-03-19,South Dakota,Office,62.0,"",62.0,18
+2020-03-19,South Dakota,Office,73.0,"",73.0,18
 2020-03-19,South Dakota,Banks,93.0,"",93.0,19
 2020-03-19,South Dakota,Drug Store,98.0,"",100.0,20
-2020-03-19,South Dakota,Colleges & Universities,32.0,"",32.0,21
-2020-03-19,South Dakota,Sports,37.0,"",36.0,22
-2020-03-19,South Dakota,Travel & Transport,82.0,"",83.0,23
-2020-03-19,South Dakota,Fitness Center,31.0,"",31.0,24
+2020-03-19,South Dakota,Colleges & Universities,33.0,"",33.0,21
+2020-03-19,South Dakota,Sports,86.0,"",86.0,22
+2020-03-19,South Dakota,Travel & Transport,97.0,"",98.0,23
+2020-03-19,South Dakota,Fitness Center,42.0,"",42.0,24
 2020-03-19,South Dakota,Discount Stores,98.0,"",99.0,25
-2020-03-20,South Dakota,Food,50.0,45.0,50.0,1
-2020-03-20,South Dakota,Shops & Services,28.0,21.0,28.0,2
+2020-03-20,South Dakota,Food,68.0,60.0,68.0,1
+2020-03-20,South Dakota,Shops & Services,71.0,53.0,72.0,2
 2020-03-20,South Dakota,Gas Stations,82.0,76.0,82.0,3
-2020-03-20,South Dakota,Nightlife Spots,52.0,46.0,52.0,4
+2020-03-20,South Dakota,Nightlife Spots,71.0,61.0,71.0,4
 2020-03-20,South Dakota,Grocery,107.0,83.0,108.0,5
 2020-03-20,South Dakota,Big Box Stores,83.0,64.0,84.0,6
-2020-03-20,South Dakota,Outdoors & Recreation,74.0,52.0,75.0,7
-2020-03-20,South Dakota,Medical,43.0,32.0,44.0,8
+2020-03-20,South Dakota,Outdoors & Recreation,94.0,70.0,95.0,7
+2020-03-20,South Dakota,Medical,71.0,53.0,72.0,8
 2020-03-20,South Dakota,Fast Food Restaurants,63.0,53.0,64.0,9
-2020-03-20,South Dakota,Hotel,55.0,42.0,55.0,10
-2020-03-20,South Dakota,Arts & Entertainment,59.0,46.0,60.0,11
-2020-03-20,South Dakota,Professional & Other Places,17.0,15.0,17.0,12
-2020-03-20,South Dakota,School,30.0,"",30.0,13
+2020-03-20,South Dakota,Hotel,63.0,51.0,64.0,10
+2020-03-20,South Dakota,Arts & Entertainment,65.0,50.0,66.0,11
+2020-03-20,South Dakota,Professional & Other Places,82.0,67.0,82.0,12
+2020-03-20,South Dakota,School,47.0,"",47.0,13
 2020-03-20,South Dakota,Hardware Stores,96.0,70.0,97.0,14
 2020-03-20,South Dakota,Convenience Store,79.0,"",80.0,15
 2020-03-20,South Dakota,Residences,87.0,"",88.0,16
-2020-03-20,South Dakota,Government,52.0,"",52.0,17
-2020-03-20,South Dakota,Colleges & Universities,35.0,"",34.0,18
+2020-03-20,South Dakota,Government,76.0,"",76.0,17
+2020-03-20,South Dakota,Colleges & Universities,40.0,"",40.0,18
 2020-03-20,South Dakota,Drug Store,91.0,"",91.0,19
 2020-03-20,South Dakota,Banks,72.0,"",72.0,20
-2020-03-20,South Dakota,Office,55.0,"",56.0,21
-2020-03-20,South Dakota,Sports,34.0,"",35.0,22
-2020-03-20,South Dakota,Fitness Center,33.0,"",34.0,23
+2020-03-20,South Dakota,Office,63.0,"",64.0,21
+2020-03-20,South Dakota,Sports,87.0,"",87.0,22
+2020-03-20,South Dakota,Fitness Center,50.0,"",50.0,23
 2020-03-20,South Dakota,Discount Stores,114.0,"",116.0,24
-2020-03-20,South Dakota,Travel & Transport,72.0,"",72.0,25
+2020-03-20,South Dakota,Travel & Transport,78.0,"",78.0,25
 2020-03-20,South Dakota,Alcohol,91.0,"",91.0,26
-2020-03-21,South Dakota,Food,34.0,31.0,34.0,1
-2020-03-21,South Dakota,Shops & Services,49.0,47.0,49.0,2
-2020-03-21,South Dakota,Nightlife Spots,48.0,35.0,49.0,3
+2020-03-21,South Dakota,Food,57.0,51.0,57.0,1
+2020-03-21,South Dakota,Shops & Services,53.0,50.0,53.0,2
+2020-03-21,South Dakota,Nightlife Spots,64.0,46.0,64.0,3
 2020-03-21,South Dakota,Gas Stations,76.0,77.0,76.0,4
 2020-03-21,South Dakota,Grocery,94.0,93.0,94.0,5
 2020-03-21,South Dakota,Big Box Stores,72.0,69.0,72.0,6
-2020-03-21,South Dakota,Outdoors & Recreation,93.0,88.0,93.0,7
+2020-03-21,South Dakota,Outdoors & Recreation,95.0,91.0,96.0,7
 2020-03-21,South Dakota,Fast Food Restaurants,56.0,49.0,56.0,8
 2020-03-21,South Dakota,Hardware Stores,96.0,67.0,97.0,9
-2020-03-21,South Dakota,Arts & Entertainment,50.0,52.0,49.0,10
-2020-03-21,South Dakota,Hotel,40.0,39.0,40.0,11
-2020-03-21,South Dakota,School,35.0,"",35.0,12
-2020-03-21,South Dakota,Professional & Other Places,18.0,"",18.0,13
+2020-03-21,South Dakota,Arts & Entertainment,52.0,55.0,52.0,10
+2020-03-21,South Dakota,Hotel,46.0,46.0,46.0,11
+2020-03-21,South Dakota,School,52.0,"",52.0,12
+2020-03-21,South Dakota,Professional & Other Places,64.0,"",65.0,13
 2020-03-21,South Dakota,Convenience Store,89.0,"",89.0,14
-2020-03-21,South Dakota,Medical,42.0,"",42.0,15
+2020-03-21,South Dakota,Medical,69.0,"",70.0,15
 2020-03-21,South Dakota,Residences,82.0,"",81.0,16
 2020-03-21,South Dakota,Drug Store,91.0,"",91.0,17
-2020-03-21,South Dakota,Sports,32.0,"",32.0,18
-2020-03-21,South Dakota,Travel & Transport,75.0,"",75.0,19
+2020-03-21,South Dakota,Sports,59.0,"",59.0,18
+2020-03-21,South Dakota,Travel & Transport,83.0,"",83.0,19
 2020-03-21,South Dakota,Discount Stores,97.0,"",98.0,20
-2020-03-21,South Dakota,Colleges & Universities,33.0,"",33.0,21
-2020-03-21,South Dakota,Government,62.0,"",62.0,22
+2020-03-21,South Dakota,Colleges & Universities,42.0,"",42.0,21
+2020-03-21,South Dakota,Government,92.0,"",93.0,22
 2020-03-21,South Dakota,Alcohol,85.0,"",85.0,23
-2020-03-21,South Dakota,Banks,80.0,"",80.0,23
-2020-03-21,South Dakota,Fitness Center,33.0,"",33.0,24
-2020-03-22,South Dakota,Food,33.0,30.0,33.0,1
-2020-03-22,South Dakota,Nightlife Spots,49.0,41.0,49.0,2
+2020-03-21,South Dakota,Banks,80.0,"",80.0,24
+2020-03-21,South Dakota,Fitness Center,43.0,"",43.0,25
+2020-03-22,South Dakota,Food,56.0,49.0,57.0,1
+2020-03-22,South Dakota,Nightlife Spots,64.0,53.0,64.0,2
 2020-03-22,South Dakota,Gas Stations,74.0,75.0,74.0,3
-2020-03-22,South Dakota,Shops & Services,18.0,17.0,18.0,4
-2020-03-22,South Dakota,Outdoors & Recreation,84.0,77.0,84.0,5
+2020-03-22,South Dakota,Shops & Services,55.0,51.0,55.0,4
+2020-03-22,South Dakota,Outdoors & Recreation,104.0,99.0,104.0,5
 2020-03-22,South Dakota,Grocery,79.0,68.0,79.0,6
 2020-03-22,South Dakota,Big Box Stores,70.0,63.0,70.0,7
 2020-03-22,South Dakota,Fast Food Restaurants,58.0,44.0,59.0,8
-2020-03-22,South Dakota,Arts & Entertainment,49.0,"",49.0,9
+2020-03-22,South Dakota,Arts & Entertainment,51.0,"",51.0,9
 2020-03-22,South Dakota,Hardware Stores,96.0,71.0,97.0,10
-2020-03-22,South Dakota,Hotel,41.0,39.0,41.0,11
-2020-03-22,South Dakota,School,47.0,"",47.0,12
+2020-03-22,South Dakota,Hotel,47.0,44.0,47.0,11
+2020-03-22,South Dakota,School,73.0,"",73.0,12
 2020-03-22,South Dakota,Convenience Store,89.0,"",90.0,13
-2020-03-22,South Dakota,Professional & Other Places,15.0,"",15.0,14
-2020-03-22,South Dakota,Medical,39.0,"",39.0,15
+2020-03-22,South Dakota,Professional & Other Places,81.0,"",81.0,14
+2020-03-22,South Dakota,Medical,63.0,"",64.0,15
 2020-03-22,South Dakota,Residences,79.0,"",80.0,16
 2020-03-22,South Dakota,Drug Store,81.0,"",80.0,17
-2020-03-22,South Dakota,Sports,38.0,"",38.0,18
+2020-03-22,South Dakota,Sports,63.0,"",62.0,18
 2020-03-22,South Dakota,Discount Stores,89.0,"",90.0,19
-2020-03-22,South Dakota,Government,63.0,"",64.0,20
-2020-03-22,South Dakota,Colleges & Universities,44.0,"",44.0,21
-2020-03-22,South Dakota,Travel & Transport,78.0,"",79.0,21
-2020-03-23,South Dakota,Food,47.0,45.0,47.0,1
-2020-03-23,South Dakota,Shops & Services,31.0,27.0,31.0,2
+2020-03-22,South Dakota,Government,91.0,"",92.0,20
+2020-03-22,South Dakota,Colleges & Universities,58.0,"",58.0,21
+2020-03-22,South Dakota,Travel & Transport,85.0,"",85.0,22
+2020-03-23,South Dakota,Food,78.0,73.0,78.0,1
+2020-03-23,South Dakota,Shops & Services,83.0,73.0,83.0,2
 2020-03-23,South Dakota,Gas Stations,82.0,83.0,82.0,3
-2020-03-23,South Dakota,Nightlife Spots,64.0,59.0,64.0,4
-2020-03-23,South Dakota,Outdoors & Recreation,118.0,103.0,119.0,5
+2020-03-23,South Dakota,Nightlife Spots,84.0,77.0,84.0,4
+2020-03-23,South Dakota,Outdoors & Recreation,123.0,107.0,124.0,5
 2020-03-23,South Dakota,Grocery,100.0,98.0,101.0,6
 2020-03-23,South Dakota,Big Box Stores,84.0,94.0,84.0,7
-2020-03-23,South Dakota,Medical,44.0,31.0,45.0,8
+2020-03-23,South Dakota,Medical,75.0,53.0,76.0,8
 2020-03-23,South Dakota,Fast Food Restaurants,71.0,71.0,71.0,9
-2020-03-23,South Dakota,Hotel,72.0,79.0,72.0,10
-2020-03-23,South Dakota,Professional & Other Places,23.0,20.0,23.0,11
-2020-03-23,South Dakota,School,41.0,61.0,40.0,12
-2020-03-23,South Dakota,Arts & Entertainment,77.0,82.0,77.0,13
+2020-03-23,South Dakota,Hotel,85.0,96.0,84.0,10
+2020-03-23,South Dakota,Professional & Other Places,104.0,94.0,104.0,11
+2020-03-23,South Dakota,School,63.0,91.0,62.0,12
+2020-03-23,South Dakota,Arts & Entertainment,82.0,87.0,81.0,13
 2020-03-23,South Dakota,Hardware Stores,114.0,81.0,116.0,14
 2020-03-23,South Dakota,Convenience Store,86.0,"",87.0,15
 2020-03-23,South Dakota,Residences,103.0,119.0,102.0,16
-2020-03-23,South Dakota,Office,74.0,"",74.0,17
-2020-03-23,South Dakota,Government,58.0,"",58.0,18
-2020-03-23,South Dakota,Colleges & Universities,45.0,"",44.0,19
-2020-03-23,South Dakota,Sports,44.0,"",44.0,20
+2020-03-23,South Dakota,Office,86.0,"",86.0,17
+2020-03-23,South Dakota,Government,84.0,"",84.0,18
+2020-03-23,South Dakota,Colleges & Universities,46.0,"",45.0,19
+2020-03-23,South Dakota,Sports,111.0,"",111.0,20
 2020-03-23,South Dakota,Banks,91.0,"",90.0,21
-2020-03-23,South Dakota,Fitness Center,37.0,"",37.0,22
-2020-03-23,South Dakota,Travel & Transport,87.0,"",88.0,23
+2020-03-23,South Dakota,Fitness Center,54.0,"",55.0,22
+2020-03-23,South Dakota,Travel & Transport,95.0,"",96.0,23
 2020-03-23,South Dakota,Drug Store,90.0,"",90.0,24
 2020-03-23,South Dakota,Discount Stores,122.0,"",122.0,25
-2020-03-24,South Dakota,Food,61.0,56.0,61.0,1
-2020-03-24,South Dakota,Shops & Services,29.0,26.0,29.0,2
+2020-03-24,South Dakota,Food,74.0,66.0,75.0,1
+2020-03-24,South Dakota,Shops & Services,78.0,69.0,78.0,2
 2020-03-24,South Dakota,Gas Stations,85.0,80.0,85.0,3
-2020-03-24,South Dakota,Nightlife Spots,57.0,49.0,58.0,4
-2020-03-24,South Dakota,Outdoors & Recreation,99.0,81.0,99.0,5
+2020-03-24,South Dakota,Nightlife Spots,75.0,64.0,75.0,4
+2020-03-24,South Dakota,Outdoors & Recreation,125.0,107.0,126.0,5
 2020-03-24,South Dakota,Grocery,89.0,102.0,88.0,6
-2020-03-24,South Dakota,Medical,44.0,33.0,45.0,7
+2020-03-24,South Dakota,Medical,73.0,56.0,74.0,7
 2020-03-24,South Dakota,Big Box Stores,79.0,87.0,78.0,8
 2020-03-24,South Dakota,Fast Food Restaurants,67.0,64.0,67.0,9
-2020-03-24,South Dakota,Hotel,62.0,61.0,62.0,10
-2020-03-24,South Dakota,Professional & Other Places,16.0,14.0,16.0,11
-2020-03-24,South Dakota,Arts & Entertainment,72.0,55.0,73.0,12
-2020-03-24,South Dakota,School,31.0,37.0,31.0,12
-2020-03-24,South Dakota,Hardware Stores,113.0,89.0,114.0,13
-2020-03-24,South Dakota,Convenience Store,92.0,"",92.0,14
-2020-03-24,South Dakota,Residences,92.0,"",93.0,15
-2020-03-24,South Dakota,Office,66.0,"",66.0,16
-2020-03-24,South Dakota,Government,48.0,"",49.0,16
-2020-03-24,South Dakota,Colleges & Universities,28.0,"",27.0,17
-2020-03-24,South Dakota,Sports,39.0,"",39.0,18
-2020-03-24,South Dakota,Banks,78.0,"",78.0,19
-2020-03-24,South Dakota,Fitness Center,30.0,"",30.0,20
-2020-03-24,South Dakota,Travel & Transport,73.0,"",74.0,21
-2020-03-24,South Dakota,Drug Store,82.0,"",83.0,22
-2020-03-24,South Dakota,Discount Stores,98.0,"",99.0,23
-2020-03-25,South Dakota,Food,43.0,42.0,43.0,1
-2020-03-25,South Dakota,Shops & Services,25.0,21.0,25.0,2
+2020-03-24,South Dakota,Hotel,72.0,73.0,72.0,10
+2020-03-24,South Dakota,Professional & Other Places,84.0,82.0,85.0,11
+2020-03-24,South Dakota,School,47.0,56.0,47.0,12
+2020-03-24,South Dakota,Arts & Entertainment,77.0,56.0,77.0,13
+2020-03-24,South Dakota,Hardware Stores,113.0,89.0,114.0,14
+2020-03-24,South Dakota,Convenience Store,92.0,"",92.0,15
+2020-03-24,South Dakota,Residences,92.0,"",93.0,16
+2020-03-24,South Dakota,Office,76.0,"",76.0,17
+2020-03-24,South Dakota,Government,70.0,"",71.0,18
+2020-03-24,South Dakota,Colleges & Universities,39.0,"",39.0,19
+2020-03-24,South Dakota,Sports,103.0,"",104.0,20
+2020-03-24,South Dakota,Banks,78.0,"",78.0,21
+2020-03-24,South Dakota,Fitness Center,42.0,"",42.0,22
+2020-03-24,South Dakota,Travel & Transport,92.0,"",92.0,23
+2020-03-24,South Dakota,Drug Store,82.0,"",83.0,24
+2020-03-24,South Dakota,Discount Stores,98.0,"",99.0,25
+2020-03-25,South Dakota,Food,67.0,64.0,67.0,1
+2020-03-25,South Dakota,Shops & Services,67.0,57.0,68.0,2
 2020-03-25,South Dakota,Gas Stations,76.0,77.0,76.0,3
-2020-03-25,South Dakota,Nightlife Spots,51.0,51.0,51.0,4
+2020-03-25,South Dakota,Nightlife Spots,67.0,67.0,67.0,4
 2020-03-25,South Dakota,Grocery,87.0,74.0,88.0,5
-2020-03-25,South Dakota,Outdoors & Recreation,84.0,66.0,85.0,6
+2020-03-25,South Dakota,Outdoors & Recreation,108.0,91.0,108.0,6
 2020-03-25,South Dakota,Big Box Stores,82.0,83.0,82.0,7
-2020-03-25,South Dakota,Medical,39.0,30.0,39.0,8
+2020-03-25,South Dakota,Medical,66.0,51.0,66.0,8
 2020-03-25,South Dakota,Fast Food Restaurants,70.0,57.0,71.0,9
-2020-03-25,South Dakota,Hotel,55.0,47.0,55.0,10
-2020-03-25,South Dakota,Professional & Other Places,18.0,15.0,18.0,11
-2020-03-25,South Dakota,School,35.0,40.0,34.0,12
-2020-03-25,South Dakota,Arts & Entertainment,59.0,"",59.0,13
+2020-03-25,South Dakota,Hotel,63.0,55.0,64.0,10
+2020-03-25,South Dakota,Professional & Other Places,84.0,70.0,85.0,11
+2020-03-25,South Dakota,School,49.0,56.0,48.0,12
+2020-03-25,South Dakota,Arts & Entertainment,64.0,"",64.0,13
 2020-03-25,South Dakota,Hardware Stores,98.0,101.0,98.0,14
 2020-03-25,South Dakota,Convenience Store,75.0,"",75.0,15
-2020-03-25,South Dakota,Office,61.0,"",61.0,16
-2020-03-25,South Dakota,Colleges & Universities,31.0,"",30.0,17
+2020-03-25,South Dakota,Office,71.0,"",71.0,16
+2020-03-25,South Dakota,Colleges & Universities,35.0,"",34.0,17
 2020-03-25,South Dakota,Residences,75.0,"",75.0,18
-2020-03-25,South Dakota,Government,43.0,"",43.0,19
+2020-03-25,South Dakota,Government,65.0,"",65.0,19
 2020-03-25,South Dakota,Banks,79.0,"",77.0,20
-2020-03-25,South Dakota,Sports,30.0,"",30.0,21
+2020-03-25,South Dakota,Sports,83.0,"",84.0,21
 2020-03-25,South Dakota,Drug Store,81.0,"",81.0,22
-2020-03-25,South Dakota,Fitness Center,26.0,"",26.0,23
-2020-03-25,South Dakota,Travel & Transport,72.0,"",74.0,24
+2020-03-25,South Dakota,Fitness Center,38.0,"",38.0,23
+2020-03-25,South Dakota,Travel & Transport,79.0,"",80.0,24
 2020-03-25,South Dakota,Discount Stores,91.0,"",91.0,25
-2020-03-26,South Dakota,Food,48.0,47.0,49.0,1
-2020-03-26,South Dakota,Shops & Services,24.0,20.0,25.0,2
+2020-03-26,South Dakota,Food,61.0,57.0,61.0,1
+2020-03-26,South Dakota,Shops & Services,67.0,56.0,68.0,2
 2020-03-26,South Dakota,Gas Stations,70.0,64.0,71.0,3
-2020-03-26,South Dakota,Nightlife Spots,44.0,40.0,44.0,4
+2020-03-26,South Dakota,Nightlife Spots,58.0,53.0,58.0,4
 2020-03-26,South Dakota,Grocery,86.0,71.0,86.0,5
-2020-03-26,South Dakota,Outdoors & Recreation,78.0,72.0,79.0,6
+2020-03-26,South Dakota,Outdoors & Recreation,101.0,98.0,101.0,6
 2020-03-26,South Dakota,Big Box Stores,76.0,77.0,76.0,7
-2020-03-26,South Dakota,Medical,38.0,32.0,38.0,8
+2020-03-26,South Dakota,Medical,62.0,53.0,62.0,8
 2020-03-26,South Dakota,Fast Food Restaurants,64.0,52.0,65.0,9
-2020-03-26,South Dakota,Hotel,52.0,47.0,52.0,10
-2020-03-26,South Dakota,Professional & Other Places,16.0,14.0,16.0,11
-2020-03-26,South Dakota,School,28.0,38.0,28.0,12
-2020-03-26,South Dakota,Arts & Entertainment,53.0,"",54.0,13
+2020-03-26,South Dakota,Hotel,60.0,57.0,60.0,10
+2020-03-26,South Dakota,Professional & Other Places,82.0,75.0,83.0,11
+2020-03-26,South Dakota,School,43.0,56.0,43.0,12
+2020-03-26,South Dakota,Arts & Entertainment,60.0,"",60.0,13
 2020-03-26,South Dakota,Hardware Stores,93.0,60.0,94.0,14
 2020-03-26,South Dakota,Convenience Store,78.0,105.0,77.0,15
 2020-03-26,South Dakota,Residences,89.0,"",89.0,16
-2020-03-26,South Dakota,Government,47.0,"",48.0,17
-2020-03-26,South Dakota,Office,55.0,"",55.0,18
-2020-03-26,South Dakota,Colleges & Universities,33.0,"",33.0,19
-2020-03-26,South Dakota,Sports,32.0,"",32.0,20
-2020-03-26,South Dakota,Travel & Transport,77.0,"",78.0,21
+2020-03-26,South Dakota,Government,68.0,"",69.0,17
+2020-03-26,South Dakota,Office,64.0,"",64.0,18
+2020-03-26,South Dakota,Colleges & Universities,34.0,"",33.0,19
+2020-03-26,South Dakota,Sports,80.0,"",80.0,20
+2020-03-26,South Dakota,Travel & Transport,95.0,"",96.0,21
 2020-03-26,South Dakota,Drug Store,76.0,"",77.0,22
-2020-03-26,South Dakota,Fitness Center,29.0,"",29.0,23
+2020-03-26,South Dakota,Fitness Center,39.0,"",39.0,23
 2020-03-26,South Dakota,Banks,58.0,"",58.0,24
 2020-03-26,South Dakota,Discount Stores,78.0,"",79.0,25
-2020-03-27,South Dakota,Food,48.0,42.0,49.0,1
-2020-03-27,South Dakota,Shops & Services,24.0,19.0,24.0,2
+2020-03-27,South Dakota,Food,60.0,52.0,60.0,1
+2020-03-27,South Dakota,Shops & Services,64.0,50.0,64.0,2
 2020-03-27,South Dakota,Gas Stations,74.0,59.0,75.0,3
 2020-03-27,South Dakota,Grocery,87.0,72.0,88.0,4
-2020-03-27,South Dakota,Nightlife Spots,41.0,42.0,41.0,5
-2020-03-27,South Dakota,Outdoors & Recreation,101.0,92.0,101.0,6
+2020-03-27,South Dakota,Nightlife Spots,55.0,56.0,55.0,5
+2020-03-27,South Dakota,Outdoors & Recreation,103.0,94.0,103.0,6
 2020-03-27,South Dakota,Big Box Stores,72.0,51.0,72.0,7
 2020-03-27,South Dakota,Fast Food Restaurants,63.0,53.0,64.0,8
-2020-03-27,South Dakota,Medical,35.0,24.0,36.0,9
-2020-03-27,South Dakota,Hotel,47.0,41.0,47.0,10
-2020-03-27,South Dakota,Arts & Entertainment,53.0,41.0,53.0,11
-2020-03-27,South Dakota,School,28.0,33.0,28.0,12
-2020-03-27,South Dakota,Professional & Other Places,16.0,15.0,16.0,13
+2020-03-27,South Dakota,Medical,59.0,41.0,60.0,9
+2020-03-27,South Dakota,Hotel,54.0,50.0,54.0,10
+2020-03-27,South Dakota,Arts & Entertainment,58.0,44.0,59.0,11
+2020-03-27,South Dakota,School,46.0,54.0,46.0,12
+2020-03-27,South Dakota,Professional & Other Places,79.0,70.0,79.0,13
 2020-03-27,South Dakota,Hardware Stores,94.0,81.0,95.0,14
 2020-03-27,South Dakota,Convenience Store,76.0,"",76.0,15
 2020-03-27,South Dakota,Residences,97.0,"",98.0,16
-2020-03-27,South Dakota,Office,61.0,"",61.0,17
-2020-03-27,South Dakota,Colleges & Universities,39.0,"",39.0,18
-2020-03-27,South Dakota,Government,44.0,"",44.0,19
+2020-03-27,South Dakota,Office,70.0,"",70.0,17
+2020-03-27,South Dakota,Colleges & Universities,40.0,"",39.0,18
+2020-03-27,South Dakota,Government,63.0,"",63.0,19
 2020-03-27,South Dakota,Banks,66.0,"",65.0,20
 2020-03-27,South Dakota,Drug Store,77.0,"",77.0,21
-2020-03-27,South Dakota,Sports,29.0,"",29.0,22
-2020-03-27,South Dakota,Travel & Transport,75.0,"",75.0,23
-2020-03-27,South Dakota,Fitness Center,29.0,"",29.0,24
+2020-03-27,South Dakota,Sports,82.0,"",82.0,22
+2020-03-27,South Dakota,Travel & Transport,80.0,"",81.0,23
+2020-03-27,South Dakota,Fitness Center,43.0,"",43.0,24
 2020-03-27,South Dakota,Discount Stores,101.0,"",102.0,25
-2020-03-28,South Dakota,Food,34.0,28.0,34.0,1
-2020-03-28,South Dakota,Shops & Services,15.0,13.0,15.0,2
+2020-03-28,South Dakota,Food,43.0,35.0,43.0,1
+2020-03-28,South Dakota,Shops & Services,40.0,36.0,40.0,2
 2020-03-28,South Dakota,Gas Stations,66.0,57.0,66.0,3
 2020-03-28,South Dakota,Grocery,79.0,58.0,80.0,4
 2020-03-28,South Dakota,Big Box Stores,62.0,48.0,63.0,5
-2020-03-28,South Dakota,Nightlife Spots,29.0,30.0,29.0,6
-2020-03-28,South Dakota,Outdoors & Recreation,76.0,72.0,77.0,7
+2020-03-28,South Dakota,Nightlife Spots,38.0,39.0,38.0,6
+2020-03-28,South Dakota,Outdoors & Recreation,82.0,78.0,82.0,7
 2020-03-28,South Dakota,Fast Food Restaurants,55.0,47.0,55.0,8
 2020-03-28,South Dakota,Hardware Stores,80.0,64.0,80.0,9
-2020-03-28,South Dakota,Arts & Entertainment,32.0,"",32.0,10
-2020-03-28,South Dakota,Hotel,26.0,36.0,26.0,11
-2020-03-28,South Dakota,School,28.0,"",28.0,12
-2020-03-28,South Dakota,Professional & Other Places,15.0,"",15.0,13
-2020-03-28,South Dakota,Medical,39.0,"",39.0,14
+2020-03-28,South Dakota,Arts & Entertainment,34.0,"",34.0,10
+2020-03-28,South Dakota,Hotel,30.0,42.0,30.0,11
+2020-03-28,South Dakota,School,43.0,"",43.0,12
+2020-03-28,South Dakota,Professional & Other Places,64.0,"",64.0,13
+2020-03-28,South Dakota,Medical,62.0,"",62.0,14
 2020-03-28,South Dakota,Convenience Store,66.0,"",66.0,15
 2020-03-28,South Dakota,Residences,72.0,"",72.0,16
 2020-03-28,South Dakota,Drug Store,75.0,"",75.0,17
 2020-03-28,South Dakota,Colleges & Universities,50.0,"",50.0,18
-2020-03-28,South Dakota,Sports,28.0,"",28.0,19
-2020-03-28,South Dakota,Travel & Transport,25.0,"",25.0,20
+2020-03-28,South Dakota,Sports,57.0,"",56.0,19
+2020-03-28,South Dakota,Travel & Transport,75.0,"",75.0,20
 2020-03-28,South Dakota,Discount Stores,87.0,"",88.0,21
-2020-03-28,South Dakota,Government,55.0,"",54.0,22
-2020-03-29,South Dakota,Food,31.0,35.0,31.0,1
-2020-03-29,South Dakota,Shops & Services,36.0,38.0,36.0,2
+2020-03-28,South Dakota,Government,77.0,"",77.0,22
+2020-03-29,South Dakota,Food,42.0,47.0,41.0,1
+2020-03-29,South Dakota,Shops & Services,46.0,48.0,46.0,2
 2020-03-29,South Dakota,Gas Stations,60.0,58.0,60.0,3
-2020-03-29,South Dakota,Outdoors & Recreation,86.0,117.0,85.0,4
+2020-03-29,South Dakota,Outdoors & Recreation,99.0,134.0,98.0,4
 2020-03-29,South Dakota,Grocery,58.0,57.0,58.0,5
-2020-03-29,South Dakota,Nightlife Spots,25.0,35.0,25.0,6
+2020-03-29,South Dakota,Nightlife Spots,36.0,50.0,35.0,6
 2020-03-29,South Dakota,Big Box Stores,51.0,58.0,51.0,7
 2020-03-29,South Dakota,Fast Food Restaurants,50.0,49.0,50.0,8
 2020-03-29,South Dakota,Hardware Stores,84.0,99.0,84.0,9
-2020-03-29,South Dakota,Arts & Entertainment,37.0,52.0,37.0,10
-2020-03-29,South Dakota,School,43.0,"",43.0,11
-2020-03-29,South Dakota,Hotel,30.0,"",30.0,12
-2020-03-29,South Dakota,Medical,43.0,"",44.0,13
-2020-03-29,South Dakota,Professional & Other Places,13.0,"",13.0,14
+2020-03-29,South Dakota,Arts & Entertainment,39.0,55.0,39.0,10
+2020-03-29,South Dakota,Hotel,34.0,"",34.0,11
+2020-03-29,South Dakota,School,62.0,"",62.0,12
+2020-03-29,South Dakota,Medical,70.0,"",70.0,13
+2020-03-29,South Dakota,Professional & Other Places,70.0,"",70.0,14
 2020-03-29,South Dakota,Residences,66.0,"",66.0,15
-2020-03-29,South Dakota,Sports,43.0,"",42.0,16
+2020-03-29,South Dakota,Sports,73.0,"",72.0,16
 2020-03-29,South Dakota,Convenience Store,62.0,"",62.0,17
 2020-03-29,South Dakota,Colleges & Universities,61.0,"",61.0,18
-2020-03-29,South Dakota,Travel & Transport,77.0,"",77.0,19
-2020-03-30,South Dakota,Food,54.0,54.0,54.0,1
-2020-03-30,South Dakota,Shops & Services,25.0,24.0,25.0,2
+2020-03-29,South Dakota,Travel & Transport,80.0,"",80.0,19
+2020-03-30,South Dakota,Food,65.0,65.0,65.0,1
+2020-03-30,South Dakota,Shops & Services,68.0,67.0,68.0,2
 2020-03-30,South Dakota,Gas Stations,71.0,70.0,71.0,3
-2020-03-30,South Dakota,Outdoors & Recreation,110.0,118.0,110.0,4
-2020-03-30,South Dakota,Nightlife Spots,46.0,56.0,45.0,5
+2020-03-30,South Dakota,Outdoors & Recreation,112.0,120.0,112.0,4
+2020-03-30,South Dakota,Nightlife Spots,61.0,74.0,60.0,5
 2020-03-30,South Dakota,Grocery,73.0,64.0,73.0,6
 2020-03-30,South Dakota,Big Box Stores,63.0,59.0,63.0,7
-2020-03-30,South Dakota,Medical,33.0,30.0,33.0,8
+2020-03-30,South Dakota,Medical,55.0,51.0,55.0,8
 2020-03-30,South Dakota,Fast Food Restaurants,65.0,67.0,65.0,9
-2020-03-30,South Dakota,Hotel,57.0,54.0,57.0,10
-2020-03-30,South Dakota,Professional & Other Places,20.0,16.0,20.0,10
-2020-03-30,South Dakota,School,33.0,"",33.0,11
-2020-03-30,South Dakota,Arts & Entertainment,67.0,"",67.0,12
-2020-03-30,South Dakota,Hardware Stores,97.0,89.0,97.0,13
-2020-03-30,South Dakota,Convenience Store,74.0,"",75.0,14
-2020-03-30,South Dakota,Residences,87.0,120.0,86.0,15
-2020-03-30,South Dakota,Colleges & Universities,41.0,"",40.0,16
-2020-03-30,South Dakota,Government,50.0,"",49.0,17
-2020-03-30,South Dakota,Office,56.0,"",55.0,18
-2020-03-30,South Dakota,Sports,39.0,"",38.0,19
-2020-03-30,South Dakota,Travel & Transport,90.0,"",92.0,20
+2020-03-30,South Dakota,Hotel,68.0,66.0,68.0,10
+2020-03-30,South Dakota,Professional & Other Places,90.0,78.0,91.0,11
+2020-03-30,South Dakota,School,54.0,"",53.0,12
+2020-03-30,South Dakota,Arts & Entertainment,71.0,"",71.0,13
+2020-03-30,South Dakota,Hardware Stores,97.0,89.0,97.0,14
+2020-03-30,South Dakota,Convenience Store,74.0,"",75.0,15
+2020-03-30,South Dakota,Residences,87.0,120.0,86.0,16
+2020-03-30,South Dakota,Colleges & Universities,42.0,"",41.0,17
+2020-03-30,South Dakota,Government,73.0,"",72.0,18
+2020-03-30,South Dakota,Office,65.0,"",64.0,19
+2020-03-30,South Dakota,Sports,105.0,"",104.0,20
 2020-03-30,South Dakota,Banks,78.0,"",79.0,21
-2020-03-30,South Dakota,Drug Store,78.0,"",77.0,22
-2020-03-30,South Dakota,Fitness Center,31.0,"",31.0,22
-2020-03-30,South Dakota,Discount Stores,95.0,"",96.0,23
-2020-03-31,South Dakota,Food,48.0,45.0,48.0,1
-2020-03-31,South Dakota,Shops & Services,26.0,21.0,26.0,2
+2020-03-30,South Dakota,Travel & Transport,99.0,"",101.0,22
+2020-03-30,South Dakota,Drug Store,78.0,"",77.0,23
+2020-03-30,South Dakota,Fitness Center,43.0,"",43.0,24
+2020-03-30,South Dakota,Discount Stores,95.0,"",96.0,25
+2020-03-31,South Dakota,Food,59.0,53.0,59.0,1
+2020-03-31,South Dakota,Shops & Services,67.0,54.0,68.0,2
 2020-03-31,South Dakota,Gas Stations,74.0,78.0,74.0,3
-2020-03-31,South Dakota,Outdoors & Recreation,89.0,84.0,89.0,4
-2020-03-31,South Dakota,Nightlife Spots,42.0,43.0,42.0,5
+2020-03-31,South Dakota,Outdoors & Recreation,116.0,112.0,116.0,4
+2020-03-31,South Dakota,Nightlife Spots,57.0,58.0,57.0,5
 2020-03-31,South Dakota,Grocery,71.0,66.0,71.0,6
 2020-03-31,South Dakota,Big Box Stores,70.0,64.0,70.0,7
 2020-03-31,South Dakota,Fast Food Restaurants,71.0,76.0,71.0,8
-2020-03-31,South Dakota,Medical,33.0,28.0,33.0,9
-2020-03-31,South Dakota,Hotel,53.0,51.0,53.0,10
-2020-03-31,South Dakota,Professional & Other Places,17.0,18.0,16.0,11
-2020-03-31,South Dakota,Arts & Entertainment,65.0,65.0,65.0,12
-2020-03-31,South Dakota,School,26.0,"",26.0,13
+2020-03-31,South Dakota,Medical,55.0,47.0,55.0,9
+2020-03-31,South Dakota,Hotel,61.0,61.0,61.0,10
+2020-03-31,South Dakota,Professional & Other Places,77.0,89.0,77.0,11
+2020-03-31,South Dakota,School,41.0,"",41.0,12
+2020-03-31,South Dakota,Arts & Entertainment,70.0,67.0,70.0,13
 2020-03-31,South Dakota,Hardware Stores,96.0,88.0,96.0,14
 2020-03-31,South Dakota,Convenience Store,67.0,"",67.0,15
 2020-03-31,South Dakota,Residences,79.0,"",80.0,16
-2020-03-31,South Dakota,Office,54.0,"",54.0,17
-2020-03-31,South Dakota,Government,41.0,"",41.0,18
-2020-03-31,South Dakota,Sports,34.0,"",33.0,19
+2020-03-31,South Dakota,Government,60.0,"",61.0,17
+2020-03-31,South Dakota,Office,61.0,"",61.0,18
+2020-03-31,South Dakota,Sports,97.0,"",97.0,19
 2020-03-31,South Dakota,Banks,78.0,"",77.0,20
 2020-03-31,South Dakota,Colleges & Universities,29.0,"",29.0,21
 2020-03-31,South Dakota,Drug Store,72.0,119.0,69.0,22
-2020-03-31,South Dakota,Travel & Transport,29.0,"",30.0,23
-2020-03-31,South Dakota,Fitness Center,24.0,"",24.0,24
+2020-03-31,South Dakota,Travel & Transport,73.0,"",74.0,23
+2020-03-31,South Dakota,Fitness Center,32.0,"",32.0,24
 2020-03-31,South Dakota,Discount Stores,78.0,"",77.0,25
+2020-04-01,South Dakota,Food,62.0,58.0,62.0,1
+2020-04-01,South Dakota,Shops & Services,70.0,57.0,71.0,2
+2020-04-01,South Dakota,Gas Stations,76.0,65.0,77.0,3
+2020-04-01,South Dakota,Outdoors & Recreation,122.0,108.0,123.0,4
+2020-04-01,South Dakota,Grocery,86.0,88.0,85.0,5
+2020-04-01,South Dakota,Nightlife Spots,59.0,57.0,59.0,6
+2020-04-01,South Dakota,Big Box Stores,79.0,64.0,80.0,7
+2020-04-01,South Dakota,Medical,60.0,50.0,60.0,8
+2020-04-01,South Dakota,Fast Food Restaurants,70.0,68.0,71.0,9
+2020-04-01,South Dakota,Professional & Other Places,80.0,63.0,81.0,10
+2020-04-01,South Dakota,Hotel,57.0,52.0,57.0,11
+2020-04-01,South Dakota,Hardware Stores,101.0,112.0,100.0,12
+2020-04-01,South Dakota,School,41.0,"",41.0,13
+2020-04-01,South Dakota,Arts & Entertainment,61.0,55.0,61.0,14
+2020-04-01,South Dakota,Convenience Store,83.0,"",83.0,15
+2020-04-01,South Dakota,Office,67.0,"",67.0,16
+2020-04-01,South Dakota,Government,64.0,"",64.0,17
+2020-04-01,South Dakota,Sports,110.0,"",109.0,18
+2020-04-01,South Dakota,Colleges & Universities,32.0,"",32.0,19
+2020-04-01,South Dakota,Residences,72.0,"",72.0,20
+2020-04-01,South Dakota,Banks,78.0,"",77.0,21
+2020-04-01,South Dakota,Travel & Transport,79.0,"",79.0,22
+2020-04-01,South Dakota,Drug Store,72.0,"",72.0,23
+2020-04-01,South Dakota,Fitness Center,32.0,"",33.0,24
+2020-04-01,South Dakota,Discount Stores,90.0,"",89.0,25
