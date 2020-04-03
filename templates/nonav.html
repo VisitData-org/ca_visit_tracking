@@ -105,26 +105,26 @@
            ['Montana'],
            ['Nebraska'],
            ['Nevada'],
-           ['NewHampshire'],
-           ['NewJersey'],
-           ['NewMexico'],
-           ['NewYork'],
-           ['NorthCarolina'],
-           ['NorthDakota'],
+           ['New Hampshire'],
+           ['New Jersey'],
+           ['New Mexico'],
+           ['New York'],
+           ['North Carolina'],
+           ['North Dakota'],
            ['Ohio'],
            ['Oklahoma'],
            ['Oregon'],
            ['Pennsylvania'],
-           ['RhodeIsland'],
-           ['SouthCarolina'],
-           ['SouthDakota'],
+           ['Rhode Island'],
+           ['South Carolina'],
+           ['South Dakota'],
            ['Tennessee'],
            ['Texas'],
            ['Utah'],
            ['Vermont'],
            ['Virginia'],
            ['Washington'],
-           ['WestVirginia'],
+           ['West Virginia'],
            ['Wisconsin'],
            ['Wyoming']
           ]
@@ -144,7 +144,7 @@
     if (selection.length>0) {
       selectedRow = selection[0]['row']
 
-      window.location.href = "http://127.0.0.1:8080/bystatesel/"+statesForUrl[selectedRow][0]+"/ALL"
+      window.location.href = "/bystatesel/" + encodeURIComponent(states[selectedRow][0]) + "/ALL"
     }
     });
   }
