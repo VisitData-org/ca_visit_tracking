@@ -88,7 +88,7 @@
         function(r) {
           var selection = geochart.getSelection()
           if (selection.length > 0) {
-            selectedRow = selection[0]['row'] + 1
+            selectedRow = selection[0]['row'] + 1  // row 0 is "States" header
             window.location.href = "/bystatesel/" + encodeURIComponent(states[selectedRow][0]) + "/ALL"
           }
         }
