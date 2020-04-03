@@ -280,7 +280,7 @@ function cleanLocType(string) {
 }
 
 function showTopVenuesTable() {
-  var topVenuesFilename = '/data/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState + '.csv';
+  var topVenuesFilename = '/data/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
   Papa.parse(topVenuesFilename, {
     download: true, complete:
       function (results, file) {
