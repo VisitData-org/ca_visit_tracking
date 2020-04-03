@@ -325,8 +325,8 @@ function showTopVenuesTable() {
           layout: "fitColumns",
           initialSort: [
             { column: "date", dir: "desc" },
-            { column: "rank", dir: "asc" },
             { column: "county", dir: "asc" },
+            { column: "rank", dir: "asc" },
           ],
         });
 
