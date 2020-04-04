@@ -34,6 +34,31 @@ $ make run
 
 The development server will automatically refresh when files change.
 
+# Importing new data
+To import new data:
+
+1. Process the data
+   
+   ```bash
+   $ mkdir /tmp/build
+   $ bin/foursquare_extract.sh ~/Downloads/apr-1 /tmp/build 
+   ```
+
+2. Load the processed data to the bucket
+
+   ```bash
+   $ bin/foursquare_load.sh /tmp/build 20200401-v0 
+   ```
+
+3. Modify `app.yaml` to point to the new data version
+
+   ```bash
+   $ vi app.yaml
+   ...
+   env_variables:
+     FOURSQUARE_DATA_VERSION: "20200403-v0"
+   ```
+
 # Deploying to the web server
 To deploy the app to visitdata.org:
 

@@ -1,15 +1,18 @@
 # [START gae_python37_app]
 import os
+import pathlib
 import sys
 import traceback
 
+import yaml
 from flask import Flask, redirect, render_template
 from google.cloud import storage
 
 
 app = Flask(__name__, static_url_path="", static_folder="static")
 app_state = {
-    "maps_api_key": ""
+    "maps_api_key": "",
+    "foursquare_data_url": ""
 }
 
 
@@ -25,6 +28,21 @@ def root():
 @app.route("/index.html")
 def index():
     return render_template("statelist.html", maps_api_key=app_state["maps_api_key"])
+
+
+@app.route("/all_state.js")
+def all_state_js():
+    return render_template("all_state.js", foursquare_data_url=app_state["foursquare_data_url"])
+
+
+@app.route("/categories.js")
+def categories_js():
+    return render_template("categories.js", foursquare_data_url=app_state["foursquare_data_url"])
+
+
+@app.route("/state_bydate.js")
+def state_bydate_js():
+    return render_template("state_bydate.js", foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/counties/<counties>")
@@ -72,6 +90,12 @@ def faq():
     return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
 
+@app.route("/data/<path:path>")
+def data(path):
+    return redirect("//data.visitdata.org/processed/vendor/foursquare/"
+                    f"asof/{app_state['foursquare_data_version']}/" + path, code=302)
+
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
@@ -99,10 +123,25 @@ def _init_maps_api_key():
     app_state["maps_api_key"] = maps_api_key
 
 
+def _init_data_env():
+    if "FOURSQUARE_DATA_VERSION" in os.environ:
+        foursquare_data_version = os.getenv("FOURSQUARE_DATA_VERSION")
+    else:
+        # read from app.yaml
+        app_yaml_file = pathlib.Path(__file__).parent.absolute() / "app.yaml"
+        with open(app_yaml_file) as f:
+            app_yaml_obj = yaml.safe_load(f)
+            foursquare_data_version = app_yaml_obj["env_variables"]["FOURSQUARE_DATA_VERSION"]
+    app_state["foursquare_data_url"] =\
+        f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
+
+
 def _init():
     app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
     app.register_error_handler(404, page_not_found)
     _init_maps_api_key()
+    _init_data_env()
+    print(app_state)
 
 
 _init()
