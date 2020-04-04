@@ -34,6 +34,48 @@ $ make run
 
 The development server will automatically refresh when files change.
 
+# Accessing the data
+Data has moved out of the repository and into Google Cloud Storage in
+a public bucket. You can access the data in the following ways:
+
+## Accessing from the bucket directly
+1. Install the [Google Cloud SDK](https://cloud.google.com/sdk/install)
+2. Run:
+    ```
+    gsutil ls gs://data.visitdata.org
+    ```
+
+## Accessing via http
+The data is also hosted on https://data.visitdata.org/
+
+For example, you can retrieve
+https://data.visitdata.org/processed/vendor/foursquare/asof/20200403-v0/taxonomy.json
+
+# Importing new data
+To import new data:
+
+1. Process the data
+   
+   ```bash
+   $ mkdir /tmp/build
+   $ bin/foursquare_extract.sh ~/Downloads/apr-1 /tmp/build 
+   ```
+
+2. Load the processed data to the bucket
+
+   ```bash
+   $ bin/foursquare_load.sh /tmp/build 20200401-v0 
+   ```
+
+3. Modify `app.yaml` to point to the new data version
+
+   ```bash
+   $ vi app.yaml
+   ...
+   env_variables:
+     FOURSQUARE_DATA_VERSION: "20200403-v0"
+   ```
+
 # Deploying to the web server
 To deploy the app to visitdata.org:
 
