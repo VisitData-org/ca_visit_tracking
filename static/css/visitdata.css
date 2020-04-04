@@ -89,12 +89,27 @@ h4 {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
   .foursquare-logo {
       max-width:240px;
   }
+
   .faqlist {
       max-width: 600px;
     }
+
+  .map-us {
+    width: 1000px;
+    height: 566px;
+  }
+
+  .mobile-btn {
+    margin-left: 25px;
+  }
+
+  .mobile-header {
+    margin-top: 15px;
+  }
 
   .map-us {
     width: 1000px;
@@ -135,6 +150,13 @@ h4 {
 
   .faqlist {
       max-width: 600px;
+}
+
+@media (min-width: 745px) and (max-width: 800px) {
+  .map-us {
+    width: 700px;
+    height: 389px;
+  }
 }
 
 @media (min-width: 745px) and (max-width: 800px) {

@@ -10,144 +10,90 @@
   </script>
 
   <!--Google Map -->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
     google.charts.load('current', {
       'packages':['geochart'],
-
       'mapsApiKey': '{{maps_api_key}}'
     });
 
     google.charts.setOnLoadCallback(drawRegionsMap);
 
     function drawRegionsMap() {
+      var states = [
+        ['State'],
+        ['Alabama'],
+        ['Alaska'],
+        ['Arizona'],
+        ['Arkansas'],
+        ['California'],
+        ['Colorado'],
+        ['Connecticut'],
+        ['Delaware'],
+        ['Florida'],
+        ['Georgia'],
+        ['Hawaii'],
+        ['Idaho'],
+        ['Illinois'],
+        ['Indiana'],
+        ['Iowa'],
+        ['Kansas'],
+        ['Kentucky'],
+        ['Louisiana'],
+        ['Maine'],
+        ['Maryland'],
+        ['Massachusetts'],
+        ['Michigan'],
+        ['Minnesota'],
+        ['Mississippi'],
+        ['Missouri'],
+        ['Montana'],
+        ['Nebraska'],
+        ['Nevada'],
+        ['New Hampshire'],
+        ['New Jersey'],
+        ['New Mexico'],
+        ['New York'],
+        ['North Carolina'],
+        ['North Dakota'],
+        ['Ohio'],
+        ['Oklahoma'],
+        ['Oregon'],
+        ['Pennsylvania'],
+        ['Rhode Island'],
+        ['South Carolina'],
+        ['South Dakota'],
+        ['Tennessee'],
+        ['Texas'],
+        ['Utah'],
+        ['Vermont'],
+        ['Virginia'],
+        ['Washington'],
+        ['West Virginia'],
+        ['Wisconsin'],
+        ['Wyoming']
+      ];
 
-      var data = google.visualization.arrayToDataTable([
-       ['State'],
-       ['Alabama'],
-       ['Alaska'],
-       ['Arizona'],
-       ['Arkansas'],
-       ['California'],
-       ['Colorado'],
-       ['Connecticut'],
-       ['Delaware'],
-       ['Florida'],
-       ['Georgia'],
-       ['Hawaii'],
-       ['Idaho'],
-       ['Illinois'],
-       ['Indiana'],
-       ['Iowa'],
-       ['Kansas'],
-       ['Kentucky'],
-       ['Louisiana'],
-       ['Maine'],
-       ['Maryland'],
-       ['Massachusetts'],
-       ['Michigan'],
-       ['Minnesota'],
-       ['Mississippi'],
-       ['Missouri'],
-       ['Montana'],
-       ['Nebraska'],
-       ['Nevada'],
-       ['New Hampshire'],
-       ['New Jersey'],
-       ['New Mexico'],
-       ['New York'],
-       ['North Carolina'],
-       ['North Dakota'],
-       ['Ohio'],
-       ['Oklahoma'],
-       ['Oregon'],
-       ['Pennsylvania'],
-       ['Rhode Island'],
-       ['South Carolina'],
-       ['South Dakota'],
-       ['Tennessee'],
-       ['Texas'],
-       ['Utah'],
-       ['Vermont'],
-       ['Virginia'],
-       ['Washington'],
-       ['West Virginia'],
-       ['Wisconsin'],
-       ['Wyoming']
-      ]);
+      var data = google.visualization.arrayToDataTable(states);
 
-      var statesForUrl = [
-           ['Alabama'],
-           ['Alaska'],
-           ['Arizona'],
-           ['Arkansas'],
-           ['California'],
-           ['Colorado'],
-           ['Connecticut'],
-           ['Delaware'],
-           ['Florida'],
-           ['Georgia'],
-           ['Hawaii'],
-           ['Idaho'],
-           ['Illinois'],
-           ['Indiana'],
-           ['Iowa'],
-           ['Kansas'],
-           ['Kentucky'],
-           ['Louisiana'],
-           ['Maine'],
-           ['Maryland'],
-           ['Massachusetts'],
-           ['Michigan'],
-           ['Minnesota'],
-           ['Mississippi'],
-           ['Missouri'],
-           ['Montana'],
-           ['Nebraska'],
-           ['Nevada'],
-           ['New Hampshire'],
-           ['New Jersey'],
-           ['New Mexico'],
-           ['New York'],
-           ['North Carolina'],
-           ['North Dakota'],
-           ['Ohio'],
-           ['Oklahoma'],
-           ['Oregon'],
-           ['Pennsylvania'],
-           ['Rhode Island'],
-           ['South Carolina'],
-           ['South Dakota'],
-           ['Tennessee'],
-           ['Texas'],
-           ['Utah'],
-           ['Vermont'],
-           ['Virginia'],
-           ['Washington'],
-           ['West Virginia'],
-           ['Wisconsin'],
-           ['Wyoming']
-          ]
+      let selectedRow
 
-    let selectedRow
+      var options = { region: 'US', resolution: "provinces", keepAspectRatio: true, defaultColor: '#4aa9b5' };
 
-    var options = { region: 'US', resolution: "provinces", keepAspectRatio: true, defaultColor: '#4aa9b5' };
+      var geochart = new google.visualization.GeoChart(document.getElementById('regions_div'));
 
-    var geochart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+      geochart.draw(data, options);
 
-    geochart.draw(data, options);
-
-    google.visualization.events.addListener(geochart, 'select', function(r) {
-
-    var selection = geochart.getSelection()
-
-    if (selection.length>0) {
-      selectedRow = selection[0]['row']
-
-      window.location.href = "/bystatesel/" + encodeURIComponent(states[selectedRow][0]) + "/ALL"
+      google.visualization.events.addListener(geochart, 'select',
+        function(r) {
+          var selection = geochart.getSelection()
+          if (selection.length > 0) {
+            selectedRow = selection[0]['row'] + 1  // row 0 is "States" header
+            window.location.href = "/bystatesel/" + encodeURIComponent(states[selectedRow][0]) + "/ALL"
+          }
+        }
+      );
     }
-    });
-  }
   </script>
 
     <meta charset="utf-8">
