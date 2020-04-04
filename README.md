@@ -54,20 +54,25 @@ https://data.visitdata.org/processed/vendor/foursquare/asof/20200403-v0/taxonomy
 # Importing new data
 To import new data:
 
-1. Process the data
+1. Copy yesterday's data
+   ```bash
+   $ gsutil -m cp -r gs://data.visitdata.org/processed/vendor/foursquare/asof/20200402-v0 /tmp
+   ```
+
+2. Process the new day's data by pointing to the previous day's data, the new
+   download file and the name of the build directory to be created by the script.
    
    ```bash
-   $ mkdir /tmp/build
-   $ bin/foursquare_extract.sh ~/Downloads/apr-1 /tmp/build 
+   $ bin/foursquare_extract.sh /tmp/20200402-v0 ~/Downloads/apr-3 /tmp/build
    ```
 
-2. Load the processed data to the bucket
+3. Load the processed data to the bucket
 
    ```bash
-   $ bin/foursquare_load.sh /tmp/build 20200401-v0 
+   $ bin/foursquare_load.sh /tmp/build 20200403-v0 
    ```
 
-3. Modify `app.yaml` to point to the new data version
+4. Modify `app.yaml` to point to the new data version
 
    ```bash
    $ vi app.yaml

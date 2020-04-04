@@ -11,7 +11,7 @@ if [ -z "${DATA_DIR}" ] || [ -z "${VERSION}" ]; then
 fi
 
 # Ensure data directory does not end with /
-if [ "${DATA_DIR:$length:1}" == "/" ]; then
+if [ "${DATA_DIR:$length-1:1}" == "/" ]; then
     DATA_DIR="${DATA_DIR::-1}"
 fi
 
