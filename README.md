@@ -34,6 +34,23 @@ $ make run
 
 The development server will automatically refresh when files change.
 
+# Accessing the data
+Data has moved out of the repository and into Google Cloud Storage in
+a public bucket. You can access the data in the following ways:
+
+## Accessing from the bucket directly
+1. Install the [Google Cloud SDK](https://cloud.google.com/sdk/install)
+2. Run:
+    ```
+    gsutil ls gs://data.visitdata.org
+    ```
+
+## Accessing via http
+The data is also hosted on https://data.visitdata.org/
+
+For example, you can retrieve
+https://data.visitdata.org/processed/vendor/foursquare/asof/20200403-v0/taxonomy.json
+
 # Importing new data
 To import new data:
 
