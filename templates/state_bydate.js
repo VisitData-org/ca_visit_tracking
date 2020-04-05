@@ -22,7 +22,6 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
-
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
@@ -563,7 +562,10 @@ parseSelection();
 setNavLinks();
 if (!datafilename) {
   datafilename = '{{foursquare_data_url}}/grouped' + selectedState.replace(/\s/g, '') + '.csv';
+    document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
+
 } else {
   datafilename = '{{foursquare_data_url}}/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
+    document.getElementById('nav-chartall').classList.add('font-weight-bold')
 }
 Papa.parse(datafilename, {download: true, complete: parsingDone});

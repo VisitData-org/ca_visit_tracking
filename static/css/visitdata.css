@@ -46,7 +46,15 @@ h4 {
   .faqlist {
       max-width: 600px;
     }
-    
+
+    .mobile-search {
+      margin-top: 20px;
+    }
+
+    .mobile-dropdown {
+      margin-left: 60px;
+    }
+
 }
 
 @media (min-width: 990px) and (max-width: 1199px) {
@@ -82,6 +90,14 @@ h4 {
   .mobile-chart {
     margin-bottom: 20px;
   }
+
+  .mobile-search {
+    margin-top: 20px;
+  }
+
+  .mobile-dropdown {
+    margin-left: 60px;
+  }
 }
 
 @media (max-width: 989px) {
@@ -95,8 +111,7 @@ h4 {
   }
 
   .foursquare-logo {
-    width: 200px;
-    height: 40px;
+      max-width: 240px;
   }
 
   .mobile-btn {
@@ -110,6 +125,14 @@ h4 {
   .faqlist {
       max-width: 600px;
   }
+
+  .mobile-search {
+    margin-top: 20px;
+  }
+
+  .mobile-dropdown {
+    margin-left: 60px;
+  }
 }
 
 @media (min-width: 745px) and (max-width: 815px) {
@@ -117,11 +140,24 @@ h4 {
     width: 550px;
     height: 300px;
   }
+
+  .foursquare-logo {
+      max-width:240px;
+  }
 }
 
 @media (min-width: 430px) and (max-width: 825px) {
   .main-mobile {
     padding-top: 55px;
+  }
+
+  .map-us {
+    width: 550px;
+    height: 250px;
+  }
+
+  .foursquare-logo {
+      max-width:240px;
   }
 }
 
@@ -131,13 +167,12 @@ h4 {
   }
 
   .map-us {
-    width: 400px;
-    height: 250px;
+    width: 300px;
+    height: 167px;
   }
 
   .foursquare-logo {
-    width: 200px;
-    height: 40px;
+      max-width: 150px;
   }
 
   .mobile-btn {
@@ -148,5 +183,13 @@ h4 {
 
   .mobile-header {
     margin-top: 75px;
+  }
+
+  .mobile-search {
+    margin-top: 0px;
+  }
+
+  .mobile-dropdown {
+    margin-left: 0px;
   }
 }

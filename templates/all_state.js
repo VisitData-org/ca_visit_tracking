@@ -21,6 +21,7 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
+
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
@@ -355,7 +356,6 @@ function redoFilter() {
 }
 
 function populateSelect(selectElement, stringList, selected) {
-
   // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
@@ -627,8 +627,10 @@ function parse() {
   if (!urlParams.get('datafilename')) {
     // OK, this is really just grouped
     filePrefix = 'grouped';
+    document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
   } else {
     filePrefix = 'raw';
+    document.getElementById('nav-stateall').classList.add('font-weight-bold')
   }
 
   datafilename = '{{foursquare_data_url}}/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
