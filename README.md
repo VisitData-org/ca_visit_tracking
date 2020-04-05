@@ -15,6 +15,8 @@ To run the app locally, in development mode:
    to the git repository.
 2. Set up a Python virtualenv, as specified below.
 3. Run the server, as specified below.
+4. Use Chrome or Firefox as your browser - it is reported that Safari reports
+   a CORS error in development.
 
 ## Set up a Python environment
 To set up a virtual env:
