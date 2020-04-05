@@ -89,24 +89,18 @@ def bystatesel(state, venues):
 def faq():
     return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 @app.route("/nonav")
 def nonav():
     return render_template(maps_api_key=appstate["maps_api_key"])
-=======
+
+
 @app.route("/data/<path:path>")
 def data(path):
     return redirect("//data.visitdata.org/processed/vendor/foursquare/"
                     f"asof/{app_state['foursquare_data_version']}/" + path, code=302)
 
->>>>>>> upstream/master
-=======
-@app.route("/nonav")
-def nonav():
-    return render_template(maps_api_key=appstate["maps_api_key"])
->>>>>>> f0092ab6a2cd9c51e31ad42c6b3573529ab75b47
+
 
 def page_not_found(e):
     return render_template('404.html'), 404

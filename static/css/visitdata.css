@@ -111,23 +111,14 @@ h4 {
     margin-top: 15px;
   }
 
-  .map-us {
-    width: 1000px;
-    height: 566px;
-  }
-
-  .mobile-btn {
-    margin-left: 25px;
-  }
-
-  .mobile-header {
-    margin-top: 15px;
+  .mobile-chart {
+    margin-bottom: 20px;
   }
 }
 
 @media (max-width: 989px) {
   .main-mobile {
-    padding-top: 50px;
+    padding-top: 40px;
   }
 
   .map-us {
@@ -159,20 +150,13 @@ h4 {
   }
 }
 
-@media (min-width: 745px) and (max-width: 800px) {
-  .map-us {
-    width: 700px;
-    height: 389px;
-  }
-}
-
 @media (max-width: 425px) {
   .main-mobile {
-    padding-top: 50px;
+    padding-top: 30px;
   }
 
   .map-us {
-    width: 450px;
+    width: 400px;
     height: 250px;
   }
 
