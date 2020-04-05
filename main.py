@@ -90,10 +90,16 @@ def faq():
     return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
 
+@app.route("/nonav")
+def nonav():
+    return render_template(maps_api_key=appstate["maps_api_key"])
+
+
 @app.route("/data/<path:path>")
 def data(path):
     return redirect("//data.visitdata.org/processed/vendor/foursquare/"
                     f"asof/{app_state['foursquare_data_version']}/" + path, code=302)
+
 
 
 def page_not_found(e):

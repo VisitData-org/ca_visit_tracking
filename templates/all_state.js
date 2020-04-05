@@ -21,6 +21,7 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
+
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
@@ -598,7 +599,6 @@ function parseSelection() {
 
 function setNavLinks() {
   // TODO fix the nav links to handle the new state stuff
-  document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL?datafilename=raw";
   document.getElementById('nav-stategrouped').href = "/bystatesel/" + encodeURIComponent(selectedState) + "/ALL";
@@ -626,8 +626,10 @@ function parse() {
   if (!urlParams.get('datafilename')) {
     // OK, this is really just grouped
     filePrefix = 'grouped';
+    document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
   } else {
     filePrefix = 'raw';
+    document.getElementById('nav-stateall').classList.add('font-weight-bold')
   }
 
   datafilename = '{{foursquare_data_url}}/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';

@@ -1,36 +1,59 @@
 {% extends "nav.html" %}
 {% block main %}
     <div class="container-fluid main-mobile">
-        <div class="mt-2 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
-        </div>
-        <div class="container">
-          <br/>
+      <div class="mt-2 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
+      </div>
+    </div>
+    <div class="container-fluid mobile-dropdown">
+      <div class="row mobile-search">
+        <div class="col-sm">
           <h6 style="padding-bottom:10px;">Search By:</h6>
-            <select class="custom-select col-sm" style="max-width:40%;" name="state" id="state-select" data-style="btn-info">
-              <option value="">State</option>
-            </select>
-            <select class="custom-select col-sm" style="max-width:50%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
-              <option value="">Venue Type</option>
-            </select>
+        </div>
+        <div class="col-sm"></div>
+        <div class="col-sm"></div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-sm mb-2">
+          <select class="custom-select" name="state" id="state-select" data-style="btn-info">
+            <option value="">State</option>
+          </select>
+        </div>
+        <div class="col-sm">
+          <select class="custom-select"  name="venuetype" id="location-type-select" data-style="btn-info">
+            <option value="">Venue Type</option>
+          </select>
+        </div>
+        <div class="col-sm"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm">
+          <h6 style="padding-bottom:10px;">Show:</h6>
+        </div>
+        <div class="col-sm"></div>
+        <div class="col-sm"></div>
+      </div>
+      <div class="row">
+        <div class="col-sm mb-2">
+          <select class="custom-select" name="agegroup" id="agegroup-select" data-style="btn-info">
+            <option value="all">All Ages</option>
+            <option value="under65">Under 65</option>
+            <option value="over65">65 and Over</option>
+          </select>
+        </div>
+        <div class="col-sm">
+          <select class="custom-select" name="essential" id="essential-select" data-style="btn-info">
+            <option value="nonessential">Non-Essential Only</option>
+            <option value="essential">Essential Only</option>
+            <option value="all">Essential & Non-Essential</option>
+          </select>
+        </div>
+        <div class="col-sm">
+          <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal">
+            Notes
+          </button>
         </div>
       </div>
-        <br/>
-        <div class="container mb-5">
-          <h6 style="padding-bottom:10px;">Show:</h6>
-            <select class="custom-select col-sm" style="max-width:40%;" name="agegroup" id="agegroup-select" data-style="btn-info">
-              <option value="all">All Ages</option>
-              <option value="under65">Under 65</option>
-              <option value="over65">65 and Over</option>
-            </select>
-            <select class="custom-select col-sm" style="max-width:30%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
-              <option value="nonessential">Non-Essential Only</option>
-              <option value="essential">Essential Only</option>
-              <option value="all">Essential & Non-Essential</option>
-            </select>
-            <button type="button" class="btn btn-info ml-5" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
-              Notes
-            </button>
-        </div>
+    </div>
 
         <div class="modal modal-sm" style="max-width:75%;" id="notesModal" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
@@ -59,9 +82,9 @@
           </div>
         </div>
 
-        <div id="data-table"></div>
+        <br/><br/>
 
-        <br>
+        <div id="data-table"></div>
 
         <script type="text/javascript">
          var _selectedState = {{ state|tojson }};
@@ -69,5 +92,5 @@
         </script>
         <script type="text/javascript" src="/categories.js"></script>
         <script type="text/javascript" src="/all_state.js"></script>
-      </div>
+
 {% endblock %}
