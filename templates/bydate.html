@@ -1,75 +1,97 @@
 {% extends "nav.html" %}
 {% block main %}
-    <div class="container-fluid main-mobile">
-      <h3 id="state_name_header" class="mobile-header"></h3>
-        <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;">
-        </div>
-        <div class="container-fluid">
-          <br/>
-          <h6 style="padding-bottom:10px;">Search By:</h6>
-            <select class="custom-select col-sm" style="max-width:35%;" name="county" id="county-select" data-style="btn-info">
-              <option value="">County</option>
-            </select>
-            <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="venuetype" id="location-type-select" data-style="btn-info">
-              <option value="">Venue Type</option>
-            </select>
-        </div>
+  <div class="container-fluid main-mobile">
+    <h3 id="state_name_header" class="mt-2"></h3>
+      <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;"></div>
+  </div>
+  <div class="container-fluid mobile-dropdown">
+    <div class="row mobile-search">
+      <div class="col-sm">
+        <h6 style="padding-bottom:10px;">Search By:</h6>
       </div>
-    <br/>
-      <div class="container-fluid mb-5">
+      <div class="col-sm"></div>
+      <div class="col-sm"></div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-sm mb-2">
+        <select class="custom-select" name="county" id="county-select"  data-style="btn-info">
+          <option value="">County</option>
+        </select>
+      </div>
+      <div class="col-sm">
+        <select class="custom-select"  name="venuetype" id="location-type-select" data-style="btn-info">
+          <option value="">Venue Type</option>
+        </select>
+      </div>
+      <div class="col-sm"></div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
         <h6 style="padding-bottom:10px;">Show:</h6>
-          <select class="custom-select col-sm" style="max-width:35%;" name="agegroup" id="agegroup-select" data-style="btn-info">
-            <option value="all">All Ages</option>
-            <option value="under65">Under 65</option>
-            <option value="over65">65 and Over</option>
-          </select>
-          <select class="custom-select col-sm" style="max-width:45%; margin-left:15px;" name="essential" id="essential-select" data-style="btn-info">
-            <option value="nonessential">Non-Essential Only</option>
-            <option value="essential">Essential Only</option>
-            <option value="all">Essential & Non-Essential</option>
-          </select>
-        <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal" style="max-width:40%;">
+      </div>
+      <div class="col-sm"></div>
+      <div class="col-sm"></div>
+    </div>
+    <div class="row">
+      <div class="col-sm mb-2">
+        <select class="custom-select" name="agegroup" id="agegroup-select" data-style="btn-info">
+          <option value="all">All Ages</option>
+          <option value="under65">Under 65</option>
+          <option value="over65">65 and Over</option>
+        </select>
+      </div>
+      <div class="col-sm">
+        <select class="custom-select" name="essential" id="essential-select" data-style="btn-info">
+          <option value="nonessential">Non-Essential Only</option>
+          <option value="essential">Essential Only</option>
+          <option value="all">Essential & Non-Essential</option>
+        </select>
+      </div>
+      <div class="col-sm">
+        <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal">
           Notes
         </button>
       </div>
+    </div>
+  </div>
 
-        <div class="modal modal-sm" style="max-width:75%;" id="notesModal" tabindex="-1" role="dialog">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title">Notes</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                <ul>
-                  <li>100 = February average number of visits for that day of the week.</li>
-                  <br/>
-                  <li>Each day is for the 24-hour period ending at 5pm on that date. For example Monday's data cover from Sunday 5pm to Monday 5pm.</li>
-                  <br/>
-                  <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
-                  <br/>
-                  <li>If you are a crisis response team who needs help working with this data — please contact support@visitdata.org. VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
-                </ul>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-              </div>
-            </div>
-          </div>
+  <div class="modal modal-sm" style="max-width:75%;" id="notesModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Notes</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
-
-        <div id="data-table"></div>
-
-        <br>
-
-        <script type="text/javascript">
-         var _selectedState = {{ state|tojson }};
-         var _selectedCounties = {{ counties|tojson }};
-         var _selectedVenues = {{ venues|tojson }};
-        </script>
-        <script type="text/javascript" src="/categories.js"></script>
-        <script type="text/javascript" src="/state_bydate.js"></script>
+        <div class="modal-body">
+          <ul>
+            <li>100 = February average number of visits for that day of the week.</li>
+            <br/>
+            <li>Each day is for the 24-hour period ending at 5pm on that date. For example Monday's data cover from Sunday 5pm to Monday 5pm.</li>
+            <br/>
+            <li>If data is missing for a particular County or Location Type, that means there weren't enough visits for that Location Type in that County to have usable data.</li>
+            <br/>
+            <li>If you are a crisis response team who needs help working with this data — please contact support@visitdata.org. VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
       </div>
+    </div>
+  </div>
+
+  <br/><br/>
+
+  <div id="data-table"></div>
+
+  <script type="text/javascript">
+   var _selectedState = {{ state|tojson }};
+   var _selectedCounties = {{ counties|tojson }};
+   var _selectedVenues = {{ venues|tojson }};
+  </script>
+  <script type="text/javascript" src="/categories.js"></script>
+  <script type="text/javascript" src="/state_bydate.js"></script>
+
 {% endblock %}
