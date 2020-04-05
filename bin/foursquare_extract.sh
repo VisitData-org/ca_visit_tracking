@@ -1,17 +1,23 @@
-#!/bin/bash
+#!/bin/bash -e
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-FOURSQUARE_DATA="$1"
-OUTDIR="$2"
+PREV_DAY_DIR="$1"
+FOURSQUARE_DATA="$2"
+OUTDIR="$3"
 
-if [ -z "${FOURSQUARE_DATA}" ] || [ -z "${OUTDIR}" ]; then
-    echo "Usage: $0 <source-directory> <target-directory>" 1>&2
+if [ -z "${PREV_DAY_DIR}" ] || [ -z "${FOURSQUARE_DATA}" ] || [ -z "${OUTDIR}" ]; then
+    echo "Usage: $0 <prev-day-dir> <source-directory> <target-dir>" 1>&2
     exit 1
 fi
 
 if [ ! -d "${FOURSQUARE_DATA}" ]; then
     echo "$0: Input dir ${FOURSQUARE_DATA} does not exist." 1>&2
+    exit 1
+fi
+
+if [ ! -d "${PREV_DAY_DIR}" ] || [ ! -f "${PREV_DAY_DIR}/taxonomy.json" ]; then
+    echo "$0: Previous day directory ${PREV_DAY_DIR} does not exist or does not look right." 1>&2
     exit 1
 fi
 
@@ -23,17 +29,26 @@ fi
 mkdir -p "${OUTDIR}"
 
 
+copyPrevDayData() {
+    cp -rp "${PREV_DAY_DIR}/." "${OUTDIR}/."
+}
+
+
 # Foursquare directory names have spaces in them. Get rid of them.
 fixFilenames () {
-    for OriginalFile in $SOURCEDIR/*/*
+    if [ ! -d "${SOURCEDIR}" ]; then
+        echo "$0: Dir ${SOURCEDIR} does not exist" 1>&2
+        exit 1
+    fi
+    for OriginalFile in "${SOURCEDIR}"/*/*
     do
         # http://hints.macworld.com/article.php?story=20020611094717930
-        Location=`dirname "$OriginalFile"`
-        FileName=`basename "$OriginalFile"`
+        Location="$(dirname "$OriginalFile")"
+        FileName="$(basename "$OriginalFile")"
 
-        ShortName=`echo $FileName | sed 's/ //g' | sed 's/,//g' | sed 's/\.//g' `
+        ShortName="$(echo "$FileName" | sed 's/ //g' | sed 's/,//g' | sed 's/\.//g')"
 
-        if [ $ShortName != "$FileName" ]
+        if [ "$ShortName" != "$FileName" ]
         then
             cd "$Location"
             mv "$FileName" "$ShortName"
@@ -71,6 +86,7 @@ processStates () {
     echo 'done fixing filenames'
     
     ALLSTATEDESTFILE=${DESTFILEPREFIX}.csv
+    mkdir -p "$(dirname "${ALLSTATEDESTFILE}")"
 
     DATES=$( ls "$SOURCEDIR" | sed 's/date=//g' )
     for DATE in $DATES
@@ -86,31 +102,8 @@ processStates () {
     done
 }
 
-processTopVenues() {
-    SOURCEDIR=$1
-    DESTFILEPREFIX=$2
-
-    echo 'fixing filenames'
-    fixFilenames $SOURCEDIR
-    echo 'done fixing filenames'
-    
-    DATES=$( ls "$SOURCEDIR" | fgrep "date=" | sed 's/date=//g' )
-    echo $DATES
-    for DATE in $DATES
-    do
-        echo "doing $DATE"
-        STATES=$( ls $SOURCEDIR/date=${DATE} | fgrep "state=" | fgrep -v "HIVE_DEFAULT" | sed 's/state=//g' )
-        for STATE in $STATES
-        do
-            THISSTATETOPVENUEDESTFILE=${DESTFILEPREFIX}${STATE/ //}.csv
-            gunzip -c $SOURCEDIR/date=$DATE/state=$STATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { date=$2; state=$1; $1=date; $2=state; print $0 }' >> $THISSTATETOPVENUEDESTFILE
-        done
-    done
-}
-
-crunchGZs "$FOURSQUARE_DATA/countyCategoryGz" "$OUTDIR/raw"
-crunchGZs "$FOURSQUARE_DATA/countyCategoryGroupGz" "$OUTDIR/grouped"
-processStates "$FOURSQUARE_DATA/stateCategoryGz" "$OUTDIR/allstate/raw"
-processStates "$FOURSQUARE_DATA/stateCategoryGroupGz" "$OUTDIR/allstate/grouped"
-processTopVenues "$FOURSQUARE_DATA/countyCategoryGroupedVenueGz" "$OUTDIR/topvenues/grouped"
-processTopVenues "$FOURSQUARE_DATA/countyCategoryVenueGz" "$OUTDIR/topvenues/raw"
+copyPrevDayData "${PREV_DAY_DIR}" "${OUTDIR}"
+crunchGZs "${FOURSQUARE_DATA}/countyCategoryGz" "${OUTDIR}/raw"
+crunchGZs "${FOURSQUARE_DATA}/countyCategoryGroupGz" "${OUTDIR}/grouped"
+processStates "${FOURSQUARE_DATA}/stateCategoryGz" "${OUTDIR}/allstate/raw"
+processStates "${FOURSQUARE_DATA}/stateCategoryGroupGz" "${OUTDIR}/allstate/grouped"
