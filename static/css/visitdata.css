@@ -29,6 +29,12 @@ h4 {
    max-width:75%;
 }
 
+.mobile-accordion {
+  margin-top: 35px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 @media (min-width: 1200px) {
   .main-mobile {
     padding-top: 50px;
@@ -36,16 +42,12 @@ h4 {
 
   .map-us {
     width: 1200px;
-    height: 666px;
+    height: 600px;
   }
 
   .foursquare-logo {
       max-width:240px;
   }
-
-  .faqlist {
-      max-width: 600px;
-    }
 
     .mobile-search {
       margin-top: 20px;
@@ -69,10 +71,6 @@ h4 {
   .foursquare-logo {
       max-width:240px;
   }
-
-  .faqlist {
-      max-width: 600px;
-    }
 
   .map-us {
     width: 1000px;
@@ -120,10 +118,6 @@ h4 {
 
   .mobile-header {
     margin-top: 15px;
-  }
-
-  .faqlist {
-      max-width: 600px;
   }
 
   .mobile-search {

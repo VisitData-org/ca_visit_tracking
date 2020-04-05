@@ -599,7 +599,6 @@ function parseSelection() {
 
 function setNavLinks() {
   // TODO fix the nav links to handle the new state stuff
-  document.getElementById('nav-latest').style.display = 'none';  // this is silly, and we dont have it for per-state yet
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL?datafilename=raw";
   document.getElementById('nav-stategrouped').href = "/bystatesel/" + encodeURIComponent(selectedState) + "/ALL";
