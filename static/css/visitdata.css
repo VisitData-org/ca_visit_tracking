@@ -12,60 +12,8 @@ h4 {
   vertical-align: text-bottom;
 }
 
-/*
- * Sidebar
- */
-
-.sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 100; /* Behind the navbar */
-  padding: 48px 0 0; /* Height of navbar */
-  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-}
-
-.sidebar-sticky {
-  position: relative;
-  top: 0;
-  height: calc(100vh - 48px);
-  padding-top: .5rem;
-  overflow-x: hidden;
-  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-}
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {
-  .sidebar-sticky {
-    position: -webkit-sticky;
-    position: sticky;
-  }
-}
-
-.sidebar .nav-link {
-  font-weight: 500;
-  color: #333;
-}
-
-.sidebar .nav-link .feather {
-  margin-right: 4px;
-  color: #999;
-}
-
-.sidebar .nav-link.active {
-  color: #007bff;
-}
-
-.sidebar .nav-link:hover .feather,
-.sidebar .nav-link.active .feather {
-  color: inherit;
-}
-
-.sidebar-heading {
-  font-size: .75rem;
-  text-transform: uppercase;
-}
-
 .form-control-dark {
   color: #fff;
   background-color: rgba(255, 255, 255, .1);
@@ -81,7 +29,27 @@ h4 {
    max-width:75%;
 }
 
-@media (min-width: 990px) {
+@media (min-width: 1200px) {
+  .main-mobile {
+    padding-top: 50px;
+  }
+
+  .map-us {
+    width: 1200px;
+    height: 666px;
+  }
+
+  .foursquare-logo {
+      max-width:240px;
+  }
+
+  .faqlist {
+      max-width: 600px;
+    }
+    
+}
+
+@media (min-width: 990px) and (max-width: 1199px) {
   .main-mobile {
     padding-top: 50px;
   }
@@ -122,8 +90,8 @@ h4 {
   }
 
   .map-us {
-    width: 450px;
-    height: 250px;
+    width: 700px;
+    height: 389px;
   }
 
   .foursquare-logo {
@@ -141,18 +109,25 @@ h4 {
 
   .faqlist {
       max-width: 600px;
+  }
 }
 
-@media (min-width: 745px) and (max-width: 800px) {
+@media (min-width: 745px) and (max-width: 815px) {
   .map-us {
-    width: 700px;
-    height: 389px;
+    width: 550px;
+    height: 300px;
+  }
+}
+
+@media (min-width: 430px) and (max-width: 825px) {
+  .main-mobile {
+    padding-top: 55px;
   }
 }
 
 @media (max-width: 425px) {
   .main-mobile {
-    padding-top: 30px;
+    padding-top: 100px;
   }
 
   .map-us {

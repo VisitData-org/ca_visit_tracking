@@ -355,8 +355,7 @@ function redoFilter() {
 }
 
 function populateSelect(selectElement, stringList, selected) {
-  document.getElementById('state_name_header').innerHTML = selectedState
-  
+
   // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
     var option = document.createElement("option");
