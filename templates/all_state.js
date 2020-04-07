@@ -190,6 +190,7 @@ function drawChart() {
     Highcharts.chart('chartcontainer', {
       chart: {
         animation: false,
+        zoomType: 'x',
         events: {
           load() {
             this.showHideFlag = true;
