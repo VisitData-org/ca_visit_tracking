@@ -207,9 +207,9 @@ function drawChart() {
           chartOptions: {
             xAxis: {
               dateTimeLabelFormats: {
-                day: '%a',
-                week: '%a',
-                month: '%a',
+                day: '%a %b %e',
+                week: '%a %b %e',
+                month: '%a %b %e',
               },
               title: {
                 text: ''
