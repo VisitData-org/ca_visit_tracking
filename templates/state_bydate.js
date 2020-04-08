@@ -1,4 +1,3 @@
-
 var table;
 var fileData;  //  globalish variable holding the parsed file data rows  HACK
 var countySel;
@@ -26,6 +25,18 @@ if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
 
+const AGE_GROUP_LABELS = {
+  all: "all ages",
+  under65: "under 65 years old",
+  over65: "over 65 years old",
+}
+
+const AGE_GROUP_FIELDS = {
+  all: "visit_index",
+  under65: "visit_index_under65",
+  over65: "visit_index_over65",
+}
+
 function chartTitle() {
 
   var result = "";
@@ -35,16 +46,8 @@ function chartTitle() {
   if (locationTypeSel.value) {
     result += locationTypeSel.value + ", ";
   }
-  switch (ageGroupSel.value) {
-  case "all":
-    result += "all ages, ";
-    break;
-  case "under65":
-    result += "under 65 years old, ";
-    break;
-  case "over65":
-    result += "over 65 years old, ";
-    break;
+  if (ageGroupSel.value) {
+    result += AGE_GROUP_LABELS[ageGroupSel.value] + ", ";
   }
   if (!locationTypeSel.value) {
     switch (essentialSel.value) {
@@ -90,19 +93,13 @@ function locationTypesToChart(fileDataForCounty) {
   return locationTypes.slice(0, maxLocationTypes);
 }
 
-var visitIndexToShow = {
-  all: 'visit_index',
-  under65: 'visit_index_under65',
-  over65: 'visit_index_over65'
-};
-
 function fileDataToHighcharts(fileDataToPlot) {
   return _.map(fileDataToPlot, function(fileDataRow) {
     var date = fileDataRow.date;
     var year = date.slice(0, 4);
     var month = date.slice(5, 7);
     var day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow[visitIndexToShow[ageGroupSel.value]])];
+    return [Date.UTC(year, month-1, day), parseInt(fileDataRow[AGE_GROUP_FIELDS[ageGroupSel.value]])];
   });
 }
 
@@ -346,6 +343,9 @@ function redoFilter() {
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
+  if (ageGroupSel.value) {
+    table.addFilter(AGE_GROUP_FIELDS[ageGroupSel.value], "!=", "");
+  }
   if(essentialSel.value != 'all') {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
   }
@@ -461,18 +461,8 @@ function parsingDone(results, file) {
     table.hideColumn("visit_index");
     table.hideColumn("visit_index_over65");
     table.hideColumn("visit_index_under65");
-    switch (ageGroupSel.value) {
-    case "all":
-      table.showColumn("visit_index");
-      break;
-    case "under65":
-      table.showColumn("visit_index_under65");
-      break;
-    case "over65":
-      table.showColumn("visit_index_over65");
-      break;
-    }
-
+    table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
+    redoFilter();
 
     if (countySel.value || locationTypeSel.value) {
       drawChart();
