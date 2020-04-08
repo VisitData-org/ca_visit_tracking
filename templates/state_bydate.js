@@ -352,6 +352,9 @@ function redoFilter() {
   if (countySel.value || locationTypeSel.value) {
     drawChart();
   }
+  if (ageGroupSel.value) {
+    table.redraw(true);
+  }
   // if (countySel.value && locationTypeSel.value) {
   //   showTopVenuesTable();
   // }

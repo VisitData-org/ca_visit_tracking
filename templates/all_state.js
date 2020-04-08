@@ -351,6 +351,9 @@ function redoFilter() {
   if (stateSel.value || locationTypeSel.value) {
     drawChart();
   };
+  if (ageGroupSel.value) {
+    table.redraw(true);
+  }
   // if (stateSel.value && locationTypeSel.value) {
   //   showTopVenuesTable();
   // }
