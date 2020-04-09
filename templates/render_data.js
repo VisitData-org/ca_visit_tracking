@@ -39,7 +39,7 @@ const AGE_GROUP_FIELDS = {
   over65: "visit_index_over65",
 }
 
-function chartTitle(stateOrCountySel, stateOrCounty) {
+function chartTitle(stateOrCounty) {
 
   var result = "";
   if (stateOrCountySel.value) {
@@ -113,7 +113,7 @@ function styleSeries(series) {
   return series;
 }
 
-function seriesToPlot(stateOrCountySel, stateOrCounty) {
+function seriesToPlot(stateOrCounty) {
   var plotData = _.filter(fileData,
     function (datapoint) {
       var datapointEssential = datapoint.essential;
@@ -180,8 +180,8 @@ function isPlotDataEmpty(seriesForPlot) {
   return plotEmpty;
 }
 
-function drawChart(stateOrCountySel, stateOrCounty) {
-  var seriesForPlot = seriesToPlot(stateOrCountySel, stateOrCounty);
+function drawChart(stateOrCounty) {
+  var seriesForPlot = seriesToPlot(stateOrCounty);
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
     var emptyDataNotice = document.createElement("h2")
@@ -229,7 +229,7 @@ function drawChart(stateOrCountySel, stateOrCounty) {
           }
         }]
       },
-      title: { text: chartTitle(stateOrCountySel, stateOrCounty) },
+      title: { text: chartTitle(stateOrCounty) },
       xAxis: {
         type: 'datetime',
         dateTimeLabelFormats: {
@@ -342,7 +342,7 @@ function showTopVenuesTable(stateOrCounty) {
   });
 }
 
-function redoFilter(stateOrCountySel, stateOrCounty) {
+function redoFilter(stateOrCounty) {
   table.clearFilter();
   if (stateOrCountySel.value) {
     table.addFilter(stateOrCounty, "=", stateOrCountySel.value);
@@ -357,7 +357,7 @@ function redoFilter(stateOrCountySel, stateOrCounty) {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
   }
   if (stateOrCountySel.value || locationTypeSel.value) {
-    drawChart(stateOrCountySel, stateOrCounty);
+    drawChart(stateOrCounty);
   };
   if (ageGroupSel.value) {
     table.redraw(true);
@@ -560,9 +560,9 @@ function parsingDone(stateOrCounty, results, file) {
 
   essentialSel = document.getElementById('essential-select');
   essentialSel.addEventListener('change', function() {
-    redoFilter(stateOrCountySel, stateOrCounty);
+    redoFilter(stateOrCounty);
     if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCountySel, stateOrCounty);
+      drawChart(stateOrCounty);
     }
   });
 
@@ -579,14 +579,14 @@ function parsingDone(stateOrCounty, results, file) {
     table.hideColumn("visit_index_over65");
     table.hideColumn("visit_index_under65");
     table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
-    redoFilter(stateOrCountySel, stateOrCounty);
+    redoFilter(stateOrCounty);
 
     if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCountySel, stateOrCounty);
+      drawChart(stateOrCounty);
     }
   });
 
-  redoFilter(stateOrCountySel, stateOrCounty);
+  redoFilter(stateOrCounty);
 
   _.each([stateOrCountySel, locationTypeSel], function(sel) {
     sel.addEventListener('change', function() { return eventListener(stateOrCounty); });
@@ -668,12 +668,14 @@ function parseSelection(stateOrCounty) {
   }
 }
 
-function setNavLinks() {
-  // TODO fix the nav links to handle the new state stuff
-  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL";
-  document.getElementById('nav-chartall').href = "/bydatesel/" + encodeURIComponent(selectedState) + "/ALL/ALL?datafilename=raw";
-  document.getElementById('nav-stategrouped').href = "/bystatesel/" + encodeURIComponent(selectedState) + "/ALL";
-  document.getElementById('nav-stateall').href = "/bystatesel/" + encodeURIComponent(selectedState) + "/ALL?datafilename=raw";
+function setNavLinks(stateOrCounty) {
+  var encodedState = encodeURIComponent(selectedState);
+  var encodedCounty = stateOrCounty === 'county' ? encodeURIComponent(_selectedCounties) : 'ALL'
+
+  document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL";
+  document.getElementById('nav-chartall').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL?datafilename=raw";
+  document.getElementById('nav-stategrouped').href = "/bystatesel/" + encodedState + "/ALL";
+  document.getElementById('nav-stateall').href = "/bystatesel/" + encodedState + "/ALL?datafilename=raw";
 }
 
 function parse(stateOrCounty) {
@@ -713,6 +715,6 @@ function parse(stateOrCounty) {
 
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
-  setNavLinks();
+  setNavLinks(stateOrCounty);
   parse(stateOrCounty);  
 }
