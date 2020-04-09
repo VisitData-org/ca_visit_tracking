@@ -359,6 +359,9 @@ function redoFilter(stateOrCountySel, stateOrCounty) {
   if (stateOrCountySel.value || locationTypeSel.value) {
     drawChart(stateOrCountySel, stateOrCounty);
   };
+  if (ageGroupSel.value) {
+    table.redraw(true);
+  }
   // if (stateOrCountySel.value && locationTypeSel.value) {
   //   showTopVenuesTable(stateOrCounty);
   // }
