@@ -1,11 +1,13 @@
 var table;
 var fileData;  //  globalish variable holding the parsed file data rows  HACK
-var stateSel;
+var stateOrCountySel;
 var ageGroupSel;
 var essentialSel;
 var states = [];
+var counties = [];
 var locationTypeSel;
 var locationTypes = [];
+var selectedCounties;
 var selectedVenues;
 var selectedState;
 
@@ -37,10 +39,13 @@ const AGE_GROUP_FIELDS = {
   over65: "visit_index_over65",
 }
 
-function chartTitle() {
+function chartTitle(stateOrCountySel, stateOrCounty) {
+
   var result = "";
-  if (stateSel.value) {
-    result += stateSel.value + ", ";
+  if (stateOrCountySel.value) {
+    result += stateOrCountySel.value + ", ";
+    if (stateOrCounty === 'county')
+      result += selectedState + ", ";
   }
   if (locationTypeSel.value) {
     result += locationTypeSel.value + ", ";
@@ -72,15 +77,15 @@ function datenum(datestring) {
   return year * 10000 + month * 100 + day;
 }
 
-// for a given state, which locationtype lines should we show in the chart?
+// for a given state/county, which locationtype lines should we show in the chart?
 // let's show the top N locationtype that people were visiting on the most recent date,
 // and if there aren't enough on the most recent date, then use the previous date as well,
 // and so on until we have N locationtypes.
 //
-function locationTypesToChart(fileDataForState) {
+function locationTypesToChart(fileData) {
 
   // sort by rank ascending,
-  var sortStepOne = _.sortBy(fileDataForState, function(fileDataRow) { return fileDataRow.rank });
+  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.rank });
 
   // then sort by date descending,
   var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
@@ -108,7 +113,7 @@ function styleSeries(series) {
   return series;
 }
 
-function seriesToPlot() {
+function seriesToPlot(stateOrCountySel, stateOrCounty) {
   var plotData = _.filter(fileData,
     function (datapoint) {
       var datapointEssential = datapoint.essential;
@@ -122,8 +127,8 @@ function seriesToPlot() {
       }
     }
   );
-  if (stateSel.value && !locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { state: stateSel.value });
+  if (stateOrCountySel.value && !locationTypeSel.value) {
+    var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     var lts = locationTypesToChart(fileDataToPlot);
     var results = _.map(lts, function(locationType) {
       return styleSeries({
@@ -138,12 +143,12 @@ function seriesToPlot() {
     results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
-  if (!stateSel.value && locationTypeSel.value) {
+  if (!stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value });
-    var results = _.map(states, function(state) {
+    var results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
-        name: state,
-        data: fileDataToHighcharts(_.where(fileDataToPlot, { state: state }))
+        name: stateOrCountyValue,
+        data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
       });
     });
     results = _.filter(results, function(series) {
@@ -153,10 +158,10 @@ function seriesToPlot() {
     results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
-  if (stateSel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, state: stateSel.value });
+  if (stateOrCountySel.value && locationTypeSel.value) {
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
     return [styleSeries({
-      name: locationTypeSel.value + " in " + stateSel.value,
+      name: locationTypeSel.value + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
   }
@@ -175,8 +180,8 @@ function isPlotDataEmpty(seriesForPlot) {
   return plotEmpty;
 }
 
-function drawChart() {
-  var seriesForPlot = seriesToPlot();
+function drawChart(stateOrCountySel, stateOrCounty) {
+  var seriesForPlot = seriesToPlot(stateOrCountySel, stateOrCounty);
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
     var emptyDataNotice = document.createElement("h2")
@@ -224,7 +229,7 @@ function drawChart() {
           }
         }]
       },
-      title: { text: chartTitle() },
+      title: { text: chartTitle(stateOrCountySel, stateOrCounty) },
       xAxis: {
         type: 'datetime',
         dateTimeLabelFormats: {
@@ -278,7 +283,7 @@ function cleanLocType(string) {
   return string;
 }
 
-function showTopVenuesTable() {
+function showTopVenuesTable(stateOrCounty) {
   var topVenuesFilename = '{{foursquare_data_url}}/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
   Papa.parse(topVenuesFilename, {
     download: true, complete:
@@ -322,22 +327,25 @@ function showTopVenuesTable() {
           ],
           height: "600px",
           layout: "fitColumns",
-          initialSort: [
+          initialSort: _.compact([
             { column: "date", dir: "desc" },
-            { column: "county", dir: "asc" },
+            stateOrCounty === 'county' ? { column: "county", dir: "asc" } : null,
             { column: "rank", dir: "asc" },
-          ],
+          ]),
         });
 
         topVenuesTable.addFilter("location_type", "=", locationTypeSel.value);
+        if (stateOrCounty === 'county') {
+          topVenuesTable.addFilter("county", "=", countySel.value);
+        }
       }
   });
 }
 
-function redoFilter() {
+function redoFilter(stateOrCountySel, stateOrCounty) {
   table.clearFilter();
-  if (stateSel.value) {
-    table.addFilter("state", "=", stateSel.value);
+  if (stateOrCountySel.value) {
+    table.addFilter(stateOrCounty, "=", stateOrCountySel.value);
   }
   if (locationTypeSel.value) {
     table.addFilter("location_type", "=", locationTypeSel.value);
@@ -348,14 +356,11 @@ function redoFilter() {
   if(essentialSel.value != 'all') {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
   }
-  if (stateSel.value || locationTypeSel.value) {
-    drawChart();
+  if (stateOrCountySel.value || locationTypeSel.value) {
+    drawChart(stateOrCountySel, stateOrCounty);
   };
-  if (ageGroupSel.value) {
-    table.redraw(true);
-  }
-  // if (stateSel.value && locationTypeSel.value) {
-  //   showTopVenuesTable();
+  // if (stateOrCountySel.value && locationTypeSel.value) {
+  //   showTopVenuesTable(stateOrCounty);
   // }
 }
 
@@ -377,36 +382,62 @@ function isGroupedCategoryEssential(groupName){
   return isGroupEssential;
 }
 
-// 2020-03-01,Alabama,Shops & Services,109.0,101.0,109.0,1
-
-function parseGroupedRow(row) {
-  return {
-    date: row[0],
-    state: row[1],
-    location_type: row[2],
-    essential: isGroupedCategoryEssential(row[2]),
-    visit_index: row[3],
-    visit_index_over65: row[4],
-    visit_index_under65: row[5],
-    rank: parseInt(row[6]),
-    datenum: datenum(row[0])
-  };
+function parseGroupedRow(stateOrCounty, row) {
+  if (stateOrCounty === 'state') {
+    return {
+      date: row[0],
+      state: row[1],
+      location_type: row[2],
+      essential: isGroupedCategoryEssential(row[2]),
+      visit_index: row[3],
+      visit_index_over65: row[4],
+      visit_index_under65: row[5],
+      rank: parseInt(row[6]),
+      datenum: datenum(row[0])
+    };
+  } else {
+    return {
+      date: row[0],
+      state: row[1],
+      county: row[2],
+      location_type: row[3],
+      essential: isGroupedCategoryEssential(row[3]),
+      visit_index: row[4],
+      visit_index_over65: row[5],
+      visit_index_under65: row[6],
+      rank: parseInt(row[7]),
+      datenum: datenum(row[0])
+    };
+  }
 }
 
-// 2020-03-01,Alabama,4d4b7105d754a06378d81259,Shops & Services,108.0,102.0,109.0,1
-
-function parseRawRow(row) {
-  return {
-    date: row[0],
-    state: row[1],
-    essential: isCategoryEssential(row[2]),
-    location_type: row[3],
-    visit_index: row[4],
-    visit_index_over65: row[5],
-    visit_index_under65: row[6],
-    rank: parseInt(row[7]),
-    datenum: datenum(row[0])
-  };
+function parseRawRow(stateOrCounty, row) {
+  if (stateOrCounty === 'state') {
+    return {
+      date: row[0],
+      state: row[1],
+      essential: isCategoryEssential(row[2]),
+      location_type: row[3],
+      visit_index: row[4],
+      visit_index_over65: row[5],
+      visit_index_under65: row[6],
+      rank: parseInt(row[7]),
+      datenum: datenum(row[0])
+    };
+  } else {
+    return {
+      date: row[0],
+      state: row[1],
+      county: row[2],
+      essential: isCategoryEssential(row[3]),
+      location_type: row[4],
+      visit_index: row[5],
+      visit_index_over65: row[6],
+      visit_index_under65: row[7],
+      rank: parseInt(row[8]),
+      datenum: datenum(row[0])
+    };
+  }
 }
 
 function isRaw() {
@@ -414,11 +445,11 @@ function isRaw() {
   return (datafilename.includes('raw'));
 }
 
-function parseRow(row) {
+function parseRow(stateOrCounty, row) {
   if (isRaw()) {
-    return parseRawRow(row);
+    return parseRawRow(stateOrCounty, row);
   }
-  return parseGroupedRow(row);
+  return parseGroupedRow(stateOrCounty, row);
 }
 
 function getStates() {
@@ -476,9 +507,16 @@ function getStates() {
     ];
 }
 
-function parsingDone(results, file) {
-  fileData = _.map(results.data, parseRow);  // get rid of header row
-  states = getStates();
+function parsingDone(stateOrCounty, results, file) {
+  fileData = _.map(
+    results.data,
+    function(row) { return parseRow(stateOrCounty, row); }
+  );  // get rid of header row
+  if (stateOrCounty === 'state') {
+    statesOrCounties = getStates();
+  } else {
+    statesOrCounties = _.compact(_.uniq(_.pluck(fileData, 'county')).sort());
+  }
   locationTypes = _.compact(_.uniq(_.pluck(fileData, 'location_type')).sort());
 
   table = new Tabulator("#data-table", {
@@ -489,7 +527,9 @@ function parsingDone(results, file) {
       {title:"Visits %", field:"visit_index", visible: true},
       {title:"Visits %", field:"visit_index_over65", visible: false},
       {title:"Visits %", field:"visit_index_under65", visible: false},
-      {title:"State", field:"state"},
+      stateOrCounty === 'state' ?
+        {title:"State", field:"state"} :
+        {title:"County", field:"county"},
       {title:"Date", field:"date"},
     ],
     height:"600px",
@@ -499,12 +539,29 @@ function parsingDone(results, file) {
     ],
   });
 
-  stateSel = document.getElementById('state-select');
-  populateSelect(stateSel, states, [selectedState]);
+  stateOrCountySel = document.getElementById(
+    stateOrCounty === 'state' ? 'state-select' : 'county-select'
+  );
+  if (stateOrCounty === 'county') {
+    document.getElementById('state_name_header').innerHTML = selectedState
+  }
+  populateSelect(
+    stateOrCountySel,
+    statesOrCounties,
+    stateOrCounty === 'state' ? [selectedState] : selectedCounties
+  );
 
   // TODO - probably should think about filtering the location types for grouped when there is an essential filter
   locationTypeSel = document.getElementById('location-type-select');
   populateSelect(locationTypeSel, locationTypes, selectedVenues);
+
+  essentialSel = document.getElementById('essential-select');
+  essentialSel.addEventListener('change', function() {
+    redoFilter(stateOrCountySel, stateOrCounty);
+    if (stateOrCountySel.value || locationTypeSel.value) {
+      drawChart(stateOrCountySel, stateOrCounty);
+    }
+  });
 
   if(locationTypeSel.value) {
     // ok, we selected a location type so disable essential
@@ -519,17 +576,17 @@ function parsingDone(results, file) {
     table.hideColumn("visit_index_over65");
     table.hideColumn("visit_index_under65");
     table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
-    redoFilter();
+    redoFilter(stateOrCountySel, stateOrCounty);
 
-    if (stateSel.value || locationTypeSel.value) {
-      drawChart();
+    if (stateOrCountySel.value || locationTypeSel.value) {
+      drawChart(stateOrCountySel, stateOrCounty);
     }
   });
 
-  redoFilter();
+  redoFilter(stateOrCountySel, stateOrCounty);
 
-  _.each([stateSel, locationTypeSel], function(sel) {
-    sel.addEventListener('change', eventListener);
+  _.each([stateOrCountySel, locationTypeSel], function(sel) {
+    sel.addEventListener('change', function() { return eventListener(stateOrCounty); });
   });
 
 }
@@ -575,21 +632,37 @@ for (var groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
   groupToEssentialMap.set(nextGroup.groupName,nextGroup.essential);
 }
 
-var eventListener = function() {
-  var newState = stateSel.value ? encodeURIComponent(stateSel.value) : ALL;
-  var stateChanged = newState != selectedState;
-  selectedState = newState;
-  selectedVenue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
-  windowLocationToSet = "/bystatesel/" + selectedState + "/" + selectedVenue;
-  if (urlParams.get('datafilename')) {
-    windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
+var eventListener = function(stateOrCounty) {
+  if (stateOrCounty === 'state') {
+    var newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
+    var stateChanged = newState != selectedState;
+    selectedState = newState;
+    selectedVenue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
+    windowLocationToSet = "/bystatesel/" + selectedState + "/" + selectedVenue;
+    if (urlParams.get('datafilename')) {
+      windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
+    }
+    window.location = windowLocationToSet;
+  } else {
+    county = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL
+    venue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
+    windowLocationToSet = "/bydatesel/" + selectedState + "/" + county + "/" + venue;
+    if (urlParams.get('datafilename')) {
+      windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
+    }
+    window.location = windowLocationToSet;    
   }
-  window.location = windowLocationToSet;
 };
 
-function parseSelection() {
-  selectedState = _selectedState == ALL ? '' : _selectedState;
-  selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
+function parseSelection(stateOrCounty) {
+  if (stateOrCounty === 'state') {
+    selectedState = _selectedState == ALL ? '' : _selectedState;
+    selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
+  } else {
+    selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
+    selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
+    selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");    
+  }
 }
 
 function setNavLinks() {
@@ -600,35 +673,43 @@ function setNavLinks() {
   document.getElementById('nav-stateall').href = "/bystatesel/" + encodeURIComponent(selectedState) + "/ALL?datafilename=raw";
 }
 
-essentialSel = document.getElementById('essential-select');
-essentialSel.addEventListener('change', function() {
-  redoFilter();
-  if (stateSel.value || locationTypeSel.value) {
-    drawChart();
-  }
-});
+function parse(stateOrCounty) {
+  if (stateOrCounty === 'state') {
+    /*
+      to set the filename we have a few questions
+      1) is this grouped or raw?
+      2) is the state set yet?
+    */
+    var filePrefix;
+    if (!urlParams.get('datafilename')) {
+      // OK, this is really just grouped
+      filePrefix = 'grouped';
+      document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
+    } else {
+      filePrefix = 'raw';
+      document.getElementById('nav-stateall').classList.add('font-weight-bold')
+    }
 
-parseSelection();
-setNavLinks();
-
-function parse() {
-  /*
-   to set the filename we have a few questions
-   1) is this grouped or raw?
-   2) is the state set yet?
-  */
-  var filePrefix;
-  if (!urlParams.get('datafilename')) {
-    // OK, this is really just grouped
-    filePrefix = 'grouped';
-    document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
+    datafilename = '{{foursquare_data_url}}/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   } else {
-    filePrefix = 'raw';
-    document.getElementById('nav-stateall').classList.add('font-weight-bold')
+    if (!datafilename) {
+      datafilename = '{{foursquare_data_url}}/grouped' + selectedState.replace(/\s/g, '') + '.csv';
+      document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
+
+    } else {
+      datafilename = '{{foursquare_data_url}}/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
+      document.getElementById('nav-chartall').classList.add('font-weight-bold')
+    }    
   }
 
-  datafilename = '{{foursquare_data_url}}/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
-  Papa.parse(datafilename, { download: true, complete: parsingDone });
+  Papa.parse(datafilename, {
+    download: true,
+    complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
+  });
 }
 
-parse();
+function renderData(stateOrCounty) {
+  parseSelection(stateOrCounty);
+  setNavLinks();
+  parse(stateOrCounty);  
+}
