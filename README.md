@@ -2,7 +2,7 @@
 
 If you are a crisis response team who needs help working with this data — please contact support@visitdata.org.
 
-VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
+VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/VisitData-org/ca_visit_tracking.
 
 More FAQs here: https://visitdata.org/faq
 
