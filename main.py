@@ -30,19 +30,14 @@ def index():
     return render_template("statelist.html", maps_api_key=app_state["maps_api_key"])
 
 
-@app.route("/all_state.js")
-def all_state_js():
-    return render_template("all_state.js", foursquare_data_url=app_state["foursquare_data_url"])
+@app.route("/render_data.js")
+def render_data_js():
+    return render_template("render_data.js", foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/categories.js")
 def categories_js():
     return render_template("categories.js", foursquare_data_url=app_state["foursquare_data_url"])
-
-
-@app.route("/state_bydate.js")
-def state_bydate_js():
-    return render_template("state_bydate.js", foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/counties/<counties>")

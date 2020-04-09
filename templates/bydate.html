@@ -92,6 +92,9 @@
    var _selectedVenues = {{ venues|tojson }};
   </script>
   <script type="text/javascript" src="/categories.js"></script>
-  <script type="text/javascript" src="/state_bydate.js"></script>
+  <script type="text/javascript" src="/render_data.js"></script>
+  <script type="text/javascript">
+    renderData('county');
+  </script>
 
 {% endblock %}
