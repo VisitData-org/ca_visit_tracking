@@ -3,6 +3,7 @@ import os
 import pathlib
 import sys
 import traceback
+from functools import lru_cache
 
 import yaml
 from flask import Flask, redirect, render_template
@@ -12,7 +13,8 @@ from google.cloud import storage
 app = Flask(__name__, static_url_path="", static_folder="static")
 app_state = {
     "maps_api_key": "",
-    "foursquare_data_url": ""
+    "foursquare_data_url": "",
+    "foursquare_data_version": ""
 }
 
 
@@ -85,16 +87,35 @@ def faq():
     return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
 
-@app.route("/nonav")
-def nonav():
-    return render_template(maps_api_key=appstate["maps_api_key"])
+@lru_cache(maxsize=1)
+def _list_names():
+    root_data_path = f"processed/vendor/foursquare/asof/{app_state['foursquare_data_version']}"
+    storage_client = storage.Client()
+    bucket = "data.visitdata.org"
+    return [blob.name[len(root_data_path)+1:]
+            for blob in storage_client.list_blobs(bucket, prefix=f"{root_data_path}/", )]
+
+
+@app.route("/data")
+def data_root():
+    return data("")
+
+
+@app.route("/data/")
+def data_root_slash():
+    return data("")
 
 
 @app.route("/data/<path:path>")
 def data(path):
-    return redirect("//data.visitdata.org/processed/vendor/foursquare/"
-                    f"asof/{app_state['foursquare_data_version']}/" + path, code=302)
-
+    root_data_path = f"processed/vendor/foursquare/asof/{app_state['foursquare_data_version']}"
+    if path.endswith(".csv") or path.endswith(".json"):
+        return redirect(f"//data.visitdata.org/{root_data_path}/{path}", code=302)
+    if path != "":
+        return page_not_found("")
+    names = _list_names()
+    return render_template("list_data.html", names=names, url_prefix=f"/data",
+                           snapshot_id=app_state['foursquare_data_version'])
 
 
 def page_not_found(e):
@@ -105,9 +126,9 @@ def _init_maps_api_key():
     if os.getenv("GAE_ENV", "").startswith("standard"):
         # Production in the standard environment
         try:
+            storage_client = storage.Client()
             project_id = os.getenv("GOOGLE_CLOUD_PROJECT")
             project_bucket = f"{project_id}.appspot.com"
-            storage_client = storage.Client()
             bucket = storage_client.bucket(project_bucket)
             blob = bucket.blob("secrets/maps_api_key")
             maps_api_key = blob.download_as_string().decode("utf-8").rstrip()
@@ -133,6 +154,7 @@ def _init_data_env():
         with open(app_yaml_file) as f:
             app_yaml_obj = yaml.safe_load(f)
             foursquare_data_version = app_yaml_obj["env_variables"]["FOURSQUARE_DATA_VERSION"]
+    app_state["foursquare_data_version"] = foursquare_data_version
     app_state["foursquare_data_url"] =\
         f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
 

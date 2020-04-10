@@ -31,6 +31,7 @@ To run the server in development mode:
 
 ```bash
 $ export MAPS_API_KEY="..."
+$ gcloud auth application-default login
 $ make run
 ```
 
