@@ -24,13 +24,21 @@ def error(message):
 
 
 @app.before_request
-def redirect_www():
-    """Redirect www requests to non-www."""
+def redirect_www_and_http():
+    """Redirect www requests to non-www and http to https."""
     url_parts = urlparse(request.url)
+
     if url_parts.netloc == "www.visitdata.org":
         url_parts_list = list(url_parts)
+        url_parts_list[0] = "https"
         url_parts_list[1] = "visitdata.org"
         return redirect(urlunparse(url_parts_list), code=301)
+
+    if url_parts.scheme == "http" and url_parts.netloc.endswith("visitdata.org"):
+        url_parts_list = list(url_parts)
+        url_parts_list[0] = "https"
+        return redirect(urlunparse(url_parts_list), code=301)
+
     return None
 
 
