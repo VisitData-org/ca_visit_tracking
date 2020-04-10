@@ -2,7 +2,7 @@
 
 If you are a crisis response team who needs help working with this data — please contact support@visitdata.org.
 
-VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
+VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/VisitData-org/ca_visit_tracking.
 
 More FAQs here: https://visitdata.org/faq
 
@@ -31,6 +31,7 @@ To run the server in development mode:
 
 ```bash
 $ export MAPS_API_KEY="..."
+$ gcloud auth application-default login
 $ make run
 ```
 
@@ -38,7 +39,8 @@ The development server will automatically refresh when files change.
 
 # Accessing the data
 Data has moved out of the repository and into Google Cloud Storage in
-a public bucket. You can access the data in the following ways:
+a public bucket. You can access the latest data
+at https://visitdata.org/data/
 
 ## Accessing from the bucket directly
 1. Install the [Google Cloud SDK](https://cloud.google.com/sdk/install)
@@ -48,7 +50,9 @@ a public bucket. You can access the data in the following ways:
     ```
 
 ## Accessing via http
-The data is also hosted on https://data.visitdata.org/
+The latest data snapshot is hosted on https://visitdata.org/data/
+
+Historic data snapshots are also hosted on https://data.visitdata.org/
 
 For example, you can retrieve
 https://data.visitdata.org/processed/vendor/foursquare/asof/20200403-v0/taxonomy.json
