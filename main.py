@@ -4,9 +4,10 @@ import pathlib
 import sys
 import traceback
 from functools import lru_cache
+from urllib.parse import urlparse, urlunparse
 
 import yaml
-from flask import Flask, redirect, render_template
+from flask import Flask, redirect, render_template, request
 from google.cloud import storage
 
 
@@ -20,6 +21,17 @@ app_state = {
 
 def error(message):
     print(message, file=sys.stderr)
+
+
+@app.before_request
+def redirect_www():
+    """Redirect www requests to non-www."""
+    url_parts = urlparse(request.url)
+    if url_parts.netloc == "www.visitdata.org":
+        url_parts_list = list(url_parts)
+        url_parts_list[1] = "visitdata.org"
+        return redirect(urlunparse(url_parts_list), code=301)
+    return None
 
 
 @app.route("/")
