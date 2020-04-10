@@ -87,6 +87,11 @@ def faq():
     return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
 
 
+@app.route("/faqq")
+def faqq():
+    return render_template("faqq.html", maps_api_key=app_state["maps_api_key"])
+    
+
 @lru_cache(maxsize=1)
 def _list_names():
     root_data_path = f"processed/vendor/foursquare/asof/{app_state['foursquare_data_version']}"

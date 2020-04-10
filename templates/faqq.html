@@ -1,0 +1,120 @@
+{% extends "nonav.html" %}
+{% block main %}
+<script>
+  document.getElementById('nav-faq').classList.add('font-weight-bold')
+</script>
+
+<div id="accordion" class='mobile-accordion'>
+  <h3 class="card-title mb-3">FAQ</h3>
+  <div class="card mb-2">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          What is the methodology?
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        The visitdata.org website is powered by Foursquare’s US foot traffic data, derived from our panel of 13 million always-on opted-in users. The data is represented as an index.  Foot traffic for a given county on a given day is indexed to average foot traffic for that county in the month of February 2020. Increases or decreases relative to that average are corroborated with a measure of statistical significance. In this case, we are simply testing for a difference in means, given “n” size, effect size, and variance.  To learn more about Pilgrim – Foursquare’s “snap-to-place” technology which powers our visit data – click <a href="https://enterprise.foursquare.com/intersections/article/phones-lambdas-and-the-joy-of-snap-to-place-techn/">here</a>.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          What does the y-axis mean?  What is Visits %?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        100 = February average number of visits for that day of the week. So a 41% grocery store number for Fri Mar 27 means that 41% of people are visiting compared to the average of Fri Feb 7, Fri Feb 14, Fri Feb 21 and Fri Feb 28.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Why are some days missing data?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+        If data is missing for a particular County or Venue Type, that means there weren't enough visits for that Venue Type in that County to have usable data.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          What is the difference between Grouped and All?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+        Grouped groups the different kinds of places into 25 different kinds of places, see more about how that grouping is done <a href="https://docs.google.com/document/d/1VcewE8rvg_FgXa0KBLjxIXVH5_s0Ff2QL8mk3E1xnUk/edit?usp=sharing">here</a>.  All has a much finer-grained categorization of places.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          How are these places categorized?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="card-body">
+        Any Venue Type in All can be seen in <a href="https://foursquare.com/explore">Foursquare's Explore page</a>. For example, if you are looking at the <a href="https://visitdata.org/bydatesel/California/Santa%20Clara%20County/Big%20Box%20Stores">data for Big Box Stores in Santa Clara county</a> and are wondering what that means, you can look up Big Box Stores in Santa Clara county in Foursquare Explore <a href="https://foursquare.com/explore?mode=url&near=San%20Jose%2C%20CA%2C%20United%20States&nearGeoId=72057594043320107&q=Big%20box%20stores">here</a>. The groupings of Venue Types in the Grouped view are described <a href="https://docs.google.com/document/d/1VcewE8rvg_FgXa0KBLjxIXVH5_s0Ff2QL8mk3E1xnUk/edit?usp=sharing">here</a>.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          Can I get the raw data?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body">
+        It's <a href="/data">here</a>.
+        <br/><br/>
+        <b>Note</b>
+        <br/>
+        Each day is for the 24-hour period ending at 5pm on that date. For example Monday's data cover from Sunday 5pm to Monday 5pm. (Doing it this way allows us to post new data with the minimum lag.)
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-header" id="headingSeven">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+          How do I reach you?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+      <div class="card-body">
+        If you are a crisis response team who needs help working with this data — please contact support@visitdata.org. VisitData.org needs volunteer programmers, data analysts, and crisis team liaisons — please contact volunteers@visitdata.org or visit https://github.com/dsjoerg/ca_visit_tracking.
+      </div>
+    </div>
+  </div>
+</div>
+<br/>
+{% endblock %}
