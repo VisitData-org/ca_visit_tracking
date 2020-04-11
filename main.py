@@ -100,7 +100,7 @@ def bystatesel(state, venues):
 
 @app.route("/faq")
 def faq():
-    return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
+    return render_template("faq.html")
 
 
 @lru_cache(maxsize=1)

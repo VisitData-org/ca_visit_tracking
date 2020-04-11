@@ -2,99 +2,11 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162095060-2"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-162095060-2');
-  </script>
-
-  <!--Google Map -->
-  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-  <script type="text/javascript">
-    google.charts.load('current', {
-      'packages':['geochart'],
-      'mapsApiKey': '{{maps_api_key}}'
-    });
-
-    google.charts.setOnLoadCallback(drawRegionsMap);
-
-    function drawRegionsMap() {
-      var states = [
-        ['State'],
-        ['Alabama'],
-        ['Alaska'],
-        ['Arizona'],
-        ['Arkansas'],
-        ['California'],
-        ['Colorado'],
-        ['Connecticut'],
-        ['Delaware'],
-        ['Florida'],
-        ['Georgia'],
-        ['Hawaii'],
-        ['Idaho'],
-        ['Illinois'],
-        ['Indiana'],
-        ['Iowa'],
-        ['Kansas'],
-        ['Kentucky'],
-        ['Louisiana'],
-        ['Maine'],
-        ['Maryland'],
-        ['Massachusetts'],
-        ['Michigan'],
-        ['Minnesota'],
-        ['Mississippi'],
-        ['Missouri'],
-        ['Montana'],
-        ['Nebraska'],
-        ['Nevada'],
-        ['New Hampshire'],
-        ['New Jersey'],
-        ['New Mexico'],
-        ['New York'],
-        ['North Carolina'],
-        ['North Dakota'],
-        ['Ohio'],
-        ['Oklahoma'],
-        ['Oregon'],
-        ['Pennsylvania'],
-        ['Rhode Island'],
-        ['South Carolina'],
-        ['South Dakota'],
-        ['Tennessee'],
-        ['Texas'],
-        ['Utah'],
-        ['Vermont'],
-        ['Virginia'],
-        ['Washington'],
-        ['West Virginia'],
-        ['Wisconsin'],
-        ['Wyoming']
-      ];
-
-      var data = google.visualization.arrayToDataTable(states);
-
-      let selectedRow
-
-      var options = { region: 'US', resolution: "provinces", keepAspectRatio: true, defaultColor: '#4aa9b5' };
-
-      var geochart = new google.visualization.GeoChart(document.getElementById('regions_div'));
-
-      geochart.draw(data, options);
-
-      google.visualization.events.addListener(geochart, 'select',
-        function(r) {
-          var selection = geochart.getSelection()
-          if (selection.length > 0) {
-            selectedRow = selection[0]['row'] + 1  // row 0 is "States" header
-            window.location.href = "/bystatesel/" + encodeURIComponent(states[selectedRow][0]) + "/ALL"
-          }
-        }
-      );
-    }
-  </script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'UA-162095060-2');
+    </script>
 
     <meta charset="utf-8">
 
@@ -104,7 +16,6 @@
     <link href="/css/tabulator_bootstrap4.min.css" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 
     <style>
       .bd-placeholder-img {
@@ -116,6 +27,7 @@
         user-select: none;
       }
     </style>
+
     <!-- Custom styles for this template -->
     <link href="/css/visitdata.css" rel="stylesheet">
 
@@ -134,6 +46,13 @@
     <div class="navbar-header">
       <a  id="brand" class="navbar-brand text-light" href="/index.html">VisitData</a>
     </div>
+    <div id="navbarNav">
+      <ul class="navbar-nav flex-row">
+        <li class="nav-item">
+          <a class="nav-link text-light" href="/faq" id="nav-faq">FAQ</a>
+        </li>
+      </ul>
+    </div>
   </nav>
 <br/><br/><br/>
   <div class="container">
@@ -142,7 +61,6 @@
         <!-- TODO get foursquare image to show as footer across the whole bottom of the page, right?  not just the main section? -->
 
         <a href="https://developer.foursquare.com/"><img class="foursquare-logo float-right" src="/foursquare.png"></a>
-
       </main>
   </div>
 </body>
