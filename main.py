@@ -84,13 +84,8 @@ def bystatesel(state, venues):
 
 @app.route("/faq")
 def faq():
-    return render_template("faq.html", maps_api_key=app_state["maps_api_key"])
+    return render_template("faq.html")
 
-
-@app.route("/faqq")
-def faqq():
-    return render_template("faqq.html", maps_api_key=app_state["maps_api_key"])
-    
 
 @lru_cache(maxsize=1)
 def _list_names():
