@@ -4,9 +4,10 @@ import pathlib
 import sys
 import traceback
 from functools import lru_cache
+from urllib.parse import urlparse, urlunparse
 
 import yaml
-from flask import Flask, redirect, render_template
+from flask import Flask, redirect, render_template, request
 from google.cloud import storage
 
 
@@ -22,6 +23,25 @@ def error(message):
     print(message, file=sys.stderr)
 
 
+@app.before_request
+def redirect_www_and_http():
+    """Redirect www requests to non-www and http to https."""
+    url_parts = urlparse(request.url)
+
+    if url_parts.netloc == "www.visitdata.org":
+        url_parts_list = list(url_parts)
+        url_parts_list[0] = "https"
+        url_parts_list[1] = "visitdata.org"
+        return redirect(urlunparse(url_parts_list), code=301)
+
+    if url_parts.scheme == "http" and url_parts.netloc.endswith("visitdata.org"):
+        url_parts_list = list(url_parts)
+        url_parts_list[0] = "https"
+        return redirect(urlunparse(url_parts_list), code=301)
+
+    return None
+
+
 @app.route("/")
 def root():
     return redirect("/index.html")
@@ -30,16 +50,6 @@ def root():
 @app.route("/index.html")
 def index():
     return render_template("statelist.html", maps_api_key=app_state["maps_api_key"])
-
-
-@app.route("/render_data.js")
-def render_data_js():
-    return render_template("render_data.js", foursquare_data_url=app_state["foursquare_data_url"])
-
-
-@app.route("/categories.js")
-def categories_js():
-    return render_template("categories.js", foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/counties/<counties>")
@@ -54,32 +64,38 @@ def byvenues(venues):
 
 @app.route("/bydate.html")
 def bydate():
-    return render_template("bydate.html", state="", counties="", venues="")
+    return render_template("bydate.html", state="", counties="", venues="",
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/bydatesel/<state>")
 def bydateselstate(state):
-    return render_template("bydate.html", state=state, counties="", venues="")
+    return render_template("bydate.html", state=state, counties="", venues="",
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/bydatesel/<state>/<counties>/<venues>")
 def bydatesel(state, counties, venues):
-    return render_template("bydate.html", state=state, counties=counties, venues=venues)
+    return render_template("bydate.html", state=state, counties=counties, venues=venues,
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/allstate.html")
 def bystate():
-    return render_template("allstate.html", state="ALL", venues="ALL")
+    return render_template("allstate.html", state="ALL", venues="ALL",
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/bystatesel/<state>")
 def bystateselstate(state):
-    return render_template("allstate.html", state=state, venues="")
+    return render_template("allstate.html", state=state, venues="",
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/bystatesel/<state>/<venues>")
 def bystatesel(state, venues):
-    return render_template("allstate.html", state=state, venues=venues)
+    return render_template("allstate.html", state=state, venues=venues,
+                           foursquare_data_url=app_state["foursquare_data_url"])
 
 
 @app.route("/faq")
