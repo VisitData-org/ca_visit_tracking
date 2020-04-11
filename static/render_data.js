@@ -284,7 +284,7 @@ function cleanLocType(string) {
 }
 
 function showTopVenuesTable(stateOrCounty) {
-  var topVenuesFilename = '{{foursquare_data_url}}/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
+  var topVenuesFilename = _fourSquareDataUrl + '/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
   Papa.parse(topVenuesFilename, {
     download: true, complete:
       function (results, file) {
@@ -695,14 +695,14 @@ function parse(stateOrCounty) {
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
 
-    datafilename = '{{foursquare_data_url}}/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
+    datafilename = _fourSquareDataUrl + '/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   } else {
     if (!datafilename) {
-      datafilename = '{{foursquare_data_url}}/grouped' + selectedState.replace(/\s/g, '') + '.csv';
+      datafilename = _fourSquareDataUrl + '/grouped' + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
 
     } else {
-      datafilename = '{{foursquare_data_url}}/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
+      datafilename = _fourSquareDataUrl + '/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }    
   }
