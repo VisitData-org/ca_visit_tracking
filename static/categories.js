@@ -50,7 +50,7 @@ function isCategoryEssential(categoryId) {
 }
 
 //   var privateVariable = "Im also private";
-$.getJSON("{{foursquare_data_url}}/taxonomy.json", function (data) {
+$.getJSON(_fourSquareDataUrl + "/taxonomy.json", function (data) {
     for (categoryIndex = 0; categoryIndex < data.length; categoryIndex++) {
         var nextCategory = data[categoryIndex];
         categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
