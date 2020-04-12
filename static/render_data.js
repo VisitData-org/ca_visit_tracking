@@ -386,59 +386,63 @@ function isGroupedCategoryEssential(groupName){
 }
 
 function parseGroupedRow(stateOrCounty, row) {
+  //date,state,county,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
+  //date,state,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
   if (stateOrCounty === 'state') {
     return {
-      date: row[0],
-      state: row[1],
-      location_type: row[2],
-      essential: isGroupedCategoryEssential(row[2]),
-      visit_index: row[3],
-      visit_index_over65: row[4],
-      visit_index_under65: row[5],
-      rank: parseInt(row[6]),
-      datenum: datenum(row[0])
+      date: row.date,
+      state: row.state,
+      location_type: row.categoryName,
+      essential: isGroupedCategoryEssential(row.categoryName),
+      visit_index: row.visitIndex,
+      visit_index_over65: row.visitIndexOver65,
+      visit_index_under65: row.visitIndexUnder65,
+      rank: parseInt(row.rank),
+      datenum: datenum(row.date)
     };
   } else {
     return {
-      date: row[0],
-      state: row[1],
-      county: row[2],
-      location_type: row[3],
-      essential: isGroupedCategoryEssential(row[3]),
-      visit_index: row[4],
-      visit_index_over65: row[5],
-      visit_index_under65: row[6],
-      rank: parseInt(row[7]),
-      datenum: datenum(row[0])
+      date: row.date,
+      state: row.state,
+      county: row.county,
+      location_type: row.categoryName,
+      essential: isGroupedCategoryEssential(row.categoryName),
+      visit_index: row.visitIndex,
+      visit_index_over65: row.visitIndexOver65,
+      visit_index_under65: row.visitIndexUnder65,
+      rank: parseInt(row.rank),
+      datenum: datenum(row.date)
     };
   }
 }
 
 function parseRawRow(stateOrCounty, row) {
+  //date,state,county,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
+  //date,state,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
   if (stateOrCounty === 'state') {
     return {
-      date: row[0],
-      state: row[1],
-      essential: isCategoryEssential(row[2]),
-      location_type: row[3],
-      visit_index: row[4],
-      visit_index_over65: row[5],
-      visit_index_under65: row[6],
-      rank: parseInt(row[7]),
-      datenum: datenum(row[0])
+      date: row.date,
+      state: row.state,
+      essential: isCategoryEssential(row.categoryId),
+      location_type: row.categoryName,
+      visit_index: row.visitIndex,
+      visit_index_over65: row.visitIndexOver65,
+      visit_index_under65: row.visitIndexUnder65,
+      rank: parseInt(row.rank),
+      datenum: datenum(row.date)
     };
   } else {
     return {
-      date: row[0],
-      state: row[1],
-      county: row[2],
-      essential: isCategoryEssential(row[3]),
-      location_type: row[4],
-      visit_index: row[5],
-      visit_index_over65: row[6],
-      visit_index_under65: row[7],
-      rank: parseInt(row[8]),
-      datenum: datenum(row[0])
+      date: row.date,
+      state: row.state,
+      county: row.county,
+      essential: isCategoryEssential(row.categoryId),
+      location_type: row.categoryName,
+      visit_index: row.visitIndex,
+      visit_index_over65: row.visitIndexOver65,
+      visit_index_under65: row.visitIndexUnder65,
+      rank: parseInt(row.rank),
+      datenum: datenum(row.date)
     };
   }
 }
@@ -709,6 +713,7 @@ function parse(stateOrCounty) {
 
   Papa.parse(datafilename, {
     download: true,
+    header: true,
     complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
   });
 }
