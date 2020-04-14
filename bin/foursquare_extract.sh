@@ -102,8 +102,31 @@ processStates () {
     done
 }
 
+processDataCube () {
+    SOURCEDIR=$1
+    DESTFILEPREFIX=$2
+
+    # echo 'renaming files'
+    # fixFilenames $SOURCEDIR
+    # echo 'done renaming files'
+
+    DATES=$( ls "$SOURCEDIR" | sed 's/dt=//g' )
+    for DATE in $DATES
+    do
+        echo "doing $DATE"
+        DESTFILE=${DESTFILEPREFIX}.csv
+        touch $DESTFILE
+        echo "writing to ${DESTFILE}"
+        gunzip -c $SOURCEDIR/dt=$DATE/*.csv.gz | awk -F,  'BEGIN{OFS=","} { print $0 }' >> $DESTFILE
+    done
+}
+
 copyPrevDayData "${PREV_DAY_DIR}" "${OUTDIR}"
 crunchGZs "${FOURSQUARE_DATA}/countyCategoryGz" "${OUTDIR}/raw"
 crunchGZs "${FOURSQUARE_DATA}/countyCategoryGroupGz" "${OUTDIR}/grouped"
+# processDataCube "${FOURSQUARE_DATA}/percentileWeekAgo" "${OUTDIR}/percentileWeekAgo"
+# processDataCube "${FOURSQUARE_DATA}/percentileVsMarchFirstWeek" "${OUTDIR}/percentileVsMarchFirstWeek"
+# processDataCube "${FOURSQUARE_DATA}/rollupVsMarchFirstWeek" "${OUTDIR}/rollupVsMarchFirstWeek"
+# processDataCube "${FOURSQUARE_DATA}/rollupWeekAgo" "${OUTDIR}/rollupWeekAgo"
 processStates "${FOURSQUARE_DATA}/stateCategoryGz" "${OUTDIR}/allstate/raw"
 processStates "${FOURSQUARE_DATA}/stateCategoryGroupGz" "${OUTDIR}/allstate/grouped"
