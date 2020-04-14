@@ -19,6 +19,7 @@ function renderCube() {
           { title: "County", field: "county"},
           { title: "Zip", field: "zip"},
           { title: "Category Id", field: "categoryid"},
+          // { title: "Essential", field: "essential"},
           { title: "Category Name", field: "categoryname"},
           { title: "Hour", field: "hour"},
           { title: "25th %-ile Duration", field: "p25Duration" },
