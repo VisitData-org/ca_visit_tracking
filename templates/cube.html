@@ -1,0 +1,17 @@
+{% extends "nav.html" %}
+{% block main %}
+
+<br><br>
+
+<div id="data-table"></div>
+
+<script type="text/javascript">
+  var _fourSquareDataUrl = {{ foursquare_data_url| tojson }};
+</script>
+<script type="text/javascript" src="/categories.js"></script>
+<script type="text/javascript" src="/render_cube.js"></script>
+<script type="text/javascript">
+  renderCube();
+</script>
+
+{% endblock %}
