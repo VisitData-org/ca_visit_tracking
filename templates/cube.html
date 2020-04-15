@@ -1,8 +1,13 @@
 {% extends "nav.html" %}
 {% block main %}
 
-<br><br>
+<div class="container-fluid main-mobile">
+  <div class="mt-2 w-100 highcharts-figure" id="chartcontainer" style="display: block;">
+  </div>
+</div>
 
+<div id="column-selection"></div>
+<div id="key-selection"></div>
 <div id="data-table"></div>
 
 <script type="text/javascript">
@@ -11,7 +16,7 @@
 <script type="text/javascript" src="/categories.js"></script>
 <script type="text/javascript" src="/render_cube.js"></script>
 <script type="text/javascript">
-  renderCube();
+  renderRollupCube();
 </script>
 
 {% endblock %}

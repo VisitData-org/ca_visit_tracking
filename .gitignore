@@ -4,3 +4,4 @@
 venv/
 .vscode/
 static/siteversion.txt
+localdata/
