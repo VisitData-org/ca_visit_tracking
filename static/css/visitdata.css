@@ -37,7 +37,7 @@ h4 {
 
 @media (min-width: 1200px) {
   .main-mobile {
-    padding-top: 50px;
+    padding-top: 60px;
   }
 
   .map-us {
@@ -61,7 +61,7 @@ h4 {
 
 @media (min-width: 990px) and (max-width: 1199px) {
   .main-mobile {
-    padding-top: 50px;
+    padding-top: 60px;
   }
 
   .bd-placeholder-img-lg {
@@ -142,7 +142,7 @@ h4 {
 
 @media (min-width: 430px) and (max-width: 825px) {
   .main-mobile {
-    padding-top: 55px;
+    padding-top: 60px;
   }
 
   .map-us {
@@ -157,7 +157,7 @@ h4 {
 
 @media (max-width: 425px) {
   .main-mobile {
-    padding-top: 100px;
+    padding-top: 130px;
   }
 
   .map-us {
