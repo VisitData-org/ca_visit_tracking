@@ -53,7 +53,7 @@ function chartTitle(stateOrCounty) {
         break;
     }
   }
-  result += "Visits %";
+  result += "# Estimated Visits";
   return result;
 }
 
