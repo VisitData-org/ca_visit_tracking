@@ -374,63 +374,31 @@ function isGroupedCategoryEssential(groupName){
 }
 
 function parseGroupedRow(stateOrCounty, row) {
-  //date,state,county,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      location_type: row.categoryname,
-      hour: row.hour,
-      essential: isGroupedCategoryEssential(row.categoryname),
-      num_visits: row.visits,
-      age: row.demo,
-      datenum: datenum(row.date)
-    };
-  } else {
-    return {
-      date: row.date,
-      state: row.state,
-      county: row.county,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
-  }
+  return {
+    date: row.date,
+    state: row.state,
+    county: row.county,
+    location_type: row.categoryname,
+    hour: row.hour,
+    essential: isGroupedCategoryEssential(row.categoryname),
+    num_visits: row.visits,
+    age: row.demo,
+    datenum: datenum(row.date)
+  };
 }
 
 function parseRawRow(stateOrCounty, row) {
-  //date,state,county,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      location_type: row.categoryname,
-      hour: row.hour,
-      essential: isCategoryEssential(row.categoryid),
-      num_visits: row.visits,
-      age: row.demo,
-      datenum: datenum(row.date)
-    };
-  } else {
-    return {
-      date: row.date,
-      state: row.state,
-      county: row.county,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
-  }
+  return {
+    date: row.date,
+    state: row.state,
+    county: row.county,
+    location_type: row.categoryname,
+    hour: row.hour,
+    essential: isCategoryEssential(row.categoryid),
+    num_visits: row.visits,
+    age: row.demo,
+    datenum: datenum(row.date)
+  };
 }
 
 function isRaw() {
@@ -501,6 +469,11 @@ function getStates() {
     ];
 }
 
+function getCounties() {
+  var countiesForState = countyData.counties[selectedState];
+  return countiesForState;
+}
+
 function parsingDone(stateOrCounty, results, file) {
   fileData = _.map(
     results.data,
@@ -509,7 +482,8 @@ function parsingDone(stateOrCounty, results, file) {
   if (stateOrCounty === 'state') {
     statesOrCounties = getStates();
   } else {
-    statesOrCounties = _.compact(_.uniq(_.pluck(fileData, 'county')).sort());
+    // statesOrCounties = _.compact(_.uniq(_.pluck(fileData, 'county')).sort());
+    statesOrCounties = getCounties();
   }
   locationTypes = _.compact(_.uniq(_.pluck(fileData, 'location_type')).sort());
 
@@ -665,6 +639,9 @@ function setNavLinks(stateOrCounty) {
   document.getElementById('nav-stateall').href = "/bystatesel/" + encodedState + "/ALL?datafilename=raw";
 }
 
+var filePrefix;
+var countyData;
+
 function parse(stateOrCounty) {
   if (stateOrCounty === 'state') {
     /*
@@ -672,7 +649,6 @@ function parse(stateOrCounty) {
       1) is this grouped or raw?
       2) is the state set yet?
     */
-    var filePrefix;
     if (!urlParams.get('datafilename')) {
       // OK, this is really just grouped
       filePrefix = 'grouped';
@@ -684,15 +660,26 @@ function parse(stateOrCounty) {
 
     datafilename = _fourSquareDataUrl + '/' + filePrefix + '/alldates/' + selectedState.replace(/\s/g, '') + '.csv';
   } else {
-    if (!datafilename) {
-      datafilename = _fourSquareDataUrl + '/grouped/alldates/' + selectedState.replace(/\s/g, '') + '.csv';
-      document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
+    
+    var countyString = "";
+    if(selectedCounties && selectedCounties.length >0) {
+      countyString = "_"+ selectedCounties[0].replace(/\s/g, '');
+    }
 
+    if (!datafilename) {
+      filePrefix = 'grouped';
+      datafilename = _fourSquareDataUrl + '/grouped/alldates/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
+      document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
     } else {
-      datafilename = _fourSquareDataUrl + '/raw/alldates/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
+      filePrefix = 'raw';
+      datafilename = _fourSquareDataUrl + '/raw/alldates/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
-    }    
+    }
   }
+
+  $.getJSON(_fourSquareDataUrl + "/"+ filePrefix +"/index.json", function (data) {
+    countyData = data;
+  });
 
   console.log(datafilename);
 
