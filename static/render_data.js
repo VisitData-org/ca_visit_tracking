@@ -72,7 +72,7 @@ function datenum(datestring) {
 function locationTypesToChart(fileData) {
 
   // sort by rank ascending,
-  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.rank });
+  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.num_visits });
 
   // then sort by date descending,
   var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
@@ -85,7 +85,6 @@ function locationTypesToChart(fileData) {
 }
 
 function fileDataToHighcharts(fileDataToPlot) {
-  debugger;
   fileDataToPlot = _.where(fileDataToPlot, { hour: 'All'});
   return _.map(fileDataToPlot, function(fileDataRow) {
     var date = fileDataRow.date;
