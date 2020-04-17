@@ -22,21 +22,8 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
-
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
-}
-
-const AGE_GROUP_LABELS = {
-  all: "all ages",
-  under65: "under 65 years old",
-  over65: "over 65 years old",
-}
-
-const AGE_GROUP_FIELDS = {
-  all: "visit_index",
-  under65: "visit_index_under65",
-  over65: "visit_index_over65",
 }
 
 function chartTitle(stateOrCounty) {
@@ -51,7 +38,7 @@ function chartTitle(stateOrCounty) {
     result += locationTypeSel.value + ", ";
   }
   if (ageGroupSel.value) {
-    result += AGE_GROUP_LABELS[ageGroupSel.value] + ", ";
+    result += ageGroupSel.value + " Ages, ";
   }
   if (!locationTypeSel.value) {
     switch (essentialSel.value) {
@@ -98,12 +85,15 @@ function locationTypesToChart(fileData) {
 }
 
 function fileDataToHighcharts(fileDataToPlot) {
+  debugger;
+  fileDataToPlot = _.where(fileDataToPlot, { hour: 'All'});
   return _.map(fileDataToPlot, function(fileDataRow) {
     var date = fileDataRow.date;
     var year = date.slice(0, 4);
     var month = date.slice(5, 7);
     var day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow[AGE_GROUP_FIELDS[ageGroupSel.value]])];
+    // return [Date.UTC(year, month-1, day), parseInt(fileDataRow[AGE_GROUP_FIELDS[ageGroupSel.value]])];
+    return [Date.UTC(year, month-1, day), parseInt(fileDataRow['num_visits'])];
   });
 }
 
@@ -133,7 +123,7 @@ function seriesToPlot(stateOrCounty) {
     var results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
-        data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
+        data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType, age: ageGroupSel.value }))
       });
     });
     results = _.filter(results, function(series) {
@@ -148,7 +138,7 @@ function seriesToPlot(stateOrCounty) {
     var results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
-        data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
+        data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue, age: ageGroupSel.value }))
       });
     });
     results = _.filter(results, function(series) {
@@ -159,10 +149,10 @@ function seriesToPlot(stateOrCounty) {
     return results;
   }
   if (stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value, age: ageGroupSel.value });
     return [styleSeries({
       name: locationTypeSel.value + " in " + stateOrCountySel.value,
-      data: fileDataToHighcharts(fileDataToPlot)
+      data: fileDataToHighcharts(_.where(fileDataToPlot, { age: ageGroupSel.value }))
     })];
   }
 }
@@ -241,10 +231,10 @@ function drawChart(stateOrCounty) {
           text: 'Date'
         }
       },
-      yAxis: { title: { text: 'Visits %' }, min: 0 },
+      yAxis: { title: { text: '# Visits' }, min: 0 },
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
-        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+        pointFormat: '{point.x:%a %b %e}: {point.y:,.0f} visits'
       },
       plotOptions: {
         series: {
@@ -344,6 +334,7 @@ function showTopVenuesTable(stateOrCounty) {
 
 function redoFilter(stateOrCounty) {
   table.clearFilter();
+  table.addFilter("hour","=","All");
   if (stateOrCountySel.value) {
     table.addFilter(stateOrCounty, "=", stateOrCountySel.value);
   }
@@ -351,7 +342,7 @@ function redoFilter(stateOrCounty) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
   if (ageGroupSel.value) {
-    table.addFilter(AGE_GROUP_FIELDS[ageGroupSel.value], "!=", "");
+    table.addFilter("age","=",ageGroupSel.value);
   }
   if(essentialSel.value != 'all') {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
@@ -359,9 +350,6 @@ function redoFilter(stateOrCounty) {
   if (stateOrCountySel.value || locationTypeSel.value) {
     drawChart(stateOrCounty);
   };
-  if (ageGroupSel.value) {
-    table.redraw(true);
-  }
   // if (stateOrCountySel.value && locationTypeSel.value) {
   //   showTopVenuesTable(stateOrCounty);
   // }
@@ -392,12 +380,11 @@ function parseGroupedRow(stateOrCounty, row) {
     return {
       date: row.date,
       state: row.state,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
+      location_type: row.categoryname,
+      hour: row.hour,
+      essential: isGroupedCategoryEssential(row.categoryname),
+      num_visits: row.visits,
+      age: row.demo,
       datenum: datenum(row.date)
     };
   } else {
@@ -423,12 +410,11 @@ function parseRawRow(stateOrCounty, row) {
     return {
       date: row.date,
       state: row.state,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
+      location_type: row.categoryname,
+      hour: row.hour,
+      essential: isCategoryEssential(row.categoryid),
+      num_visits: row.visits,
+      age: row.demo,
       datenum: datenum(row.date)
     };
   } else {
@@ -508,6 +494,7 @@ function getStates() {
     "Vermont",
     "Virginia",
     "Washington",
+    "Washington,D.C.",
     "West Virginia",
     "Wisconsin",
     "Wyoming",
@@ -531,9 +518,9 @@ function parsingDone(stateOrCounty, results, file) {
     columns:[
       {title:"Location Type", field:"location_type"},
       {title:"Essential", field:"essential", visible: false},
-      {title:"Visits %", field:"visit_index", visible: true},
-      {title:"Visits %", field:"visit_index_over65", visible: false},
-      {title:"Visits %", field:"visit_index_under65", visible: false},
+      {title:"Hour", field:"hour", visible: false},
+      {title:"# Visits", field:"num_visits", visible: true},
+      {title:"Age", field:"age", visible: true},
       stateOrCounty === 'state' ?
         {title:"State", field:"state"} :
         {title:"County", field:"county"},
@@ -579,10 +566,6 @@ function parsingDone(stateOrCounty, results, file) {
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     // hide all 3
-    table.hideColumn("visit_index");
-    table.hideColumn("visit_index_over65");
-    table.hideColumn("visit_index_under65");
-    table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
     redoFilter(stateOrCounty);
 
     if (stateOrCountySel.value || locationTypeSel.value) {
@@ -699,17 +682,19 @@ function parse(stateOrCounty) {
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
 
-    datafilename = _fourSquareDataUrl + '/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
+    datafilename = _fourSquareDataUrl + '/' + filePrefix + '/alldates/' + selectedState.replace(/\s/g, '') + '.csv';
   } else {
     if (!datafilename) {
-      datafilename = _fourSquareDataUrl + '/grouped' + selectedState.replace(/\s/g, '') + '.csv';
+      datafilename = _fourSquareDataUrl + '/grouped/alldates/' + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
 
     } else {
-      datafilename = _fourSquareDataUrl + '/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
+      datafilename = _fourSquareDataUrl + '/raw/alldates/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }    
   }
+
+  console.log(datafilename);
 
   Papa.parse(datafilename, {
     download: true,
