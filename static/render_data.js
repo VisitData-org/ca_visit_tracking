@@ -379,6 +379,8 @@ function parseGroupedRow(stateOrCounty, row) {
     state: row.state,
     county: row.county,
     location_type: row.categoryname,
+    p50Duration: row.p50Duration,
+    meanDuration: row.avgDuration,
     hour: row.hour,
     essential: isGroupedCategoryEssential(row.categoryname),
     num_visits: row.visits,
@@ -393,6 +395,8 @@ function parseRawRow(stateOrCounty, row) {
     state: row.state,
     county: row.county,
     location_type: row.categoryname,
+    p50Duration: row.p50Duration,
+    meanDuration: row.avgDuration,
     hour: row.hour,
     essential: isCategoryEssential(row.categoryid),
     num_visits: row.visits,
@@ -494,6 +498,8 @@ function parsingDone(stateOrCounty, results, file) {
       {title:"Essential", field:"essential", visible: false},
       {title:"Hour", field:"hour", visible: false},
       {title:"# Visits", field:"num_visits", visible: true},
+      {title:"p50 Duration Minutes", field:"p50Duration", visible: true},
+      {title:"Mean Duration Minutes", field:"meanDuration", visible: true},
       {title:"Age", field:"age", visible: true},
       stateOrCounty === 'state' ?
         {title:"State", field:"state"} :
