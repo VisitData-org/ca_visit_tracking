@@ -39,13 +39,14 @@ def clean(roll):
     roll.sort_values(SORT_FIELDS, inplace=True)
     return roll
 
-def slice_by_fields(rollup, fields, fn_template, out_dir):
+def slice_by_fields(rollup, fields, fn_template, out_dir,
+                    rem_trans = str.maketrans({' ': '', "'": ''})):
     groups = rollup.sort_values(fields).groupby(fields)
     for field_values, group in groups:
         if type(field_values) is not tuple:
             field_values = (field_values,)
         if len(field_values) and field_values[0]:
-            field_values = [v.replace(' ', '') for v in field_values]
+            field_values = [v.translate(rem_trans) for v in field_values]
             path = os.path.join(out_dir, fn_template.format(*field_values))
             group = group.drop(columns=['zip3'])
             group.to_csv(path, index=False)
