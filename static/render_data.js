@@ -44,7 +44,8 @@ function showVenueExamples() {
     var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
     window.open(_venuesUrl)
   } else {
-  console.log('Papá!')  
+  // window.open('http://127.0.0.1:8080/venuegroupdetails')
+  window.location.href = 'http://127.0.0.1:8080/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
   }
 }
 

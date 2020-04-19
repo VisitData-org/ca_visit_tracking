@@ -109,6 +109,11 @@ def faq():
     return render_template("faq.html")
 
 
+@app.route("/venuegroupdetails")
+def venuegroupdetails():
+    return render_template("venuegroupdetails.html")
+
+
 @lru_cache(maxsize=1)
 def _list_names():
     root_data_path = f"processed/vendor/foursquare/asof/{app_state['foursquare_data_version']}"

@@ -1,0 +1,43 @@
+{% extends "nonav.html" %}
+{% block main %}
+  <p>
+    <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+      <h5>Airport</h5>
+    </a>
+  </p>
+  <div class="collapse" id="collapseExample">
+    <li><a href="javascript: roberto('Airport Food Court',_selectedState,_selectedCounties);">Airport Food Court</li>
+    <li><a href="javascript: roberto('Airport Gate',_selectedState,_selectedCounties);">Airport Gate</li>
+    <li><a href="javascript: roberto('Airport Lounge',_selectedState,_selectedCounties);">Airport Lounge</li>
+    <li><a href="javascript: roberto('Airport Service',_selectedState,_selectedCounties);">Airport Service</li>
+    <li><a href="javascript: roberto('Airport Terminal',_selectedState,_selectedCounties);">Airport Terminal</li>
+    <li><a href="javascript: roberto('Airport Tram',_selectedState,_selectedCounties);">Airport Tram</li>
+    <li><a href="javascript: roberto('Baggage Claim',_selectedState,_selectedCounties);">Baggage Claim</li>
+    <li><a href="javascript: roberto('Plane',_selectedState,_selectedCounties);">Plane</li>
+    <br/>
+  </div>
+
+  <p>
+    <a data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample2">
+      <h5>Alcohol</h5>
+    </a>
+  </p>
+  <div class="collapse" id="collapseExample2">
+    <li><a href="#">Liquor Store</li>
+    <li><a href="#">Wine Shop</li>
+    <li><a href="#">Wine Bar</li>
+    <li><a href="#">Winery</li>
+    <li><a href="#">Beer Bar</li>
+    <li><a href="#">Beer Garden</li>
+    <li><a href="#">Beer Store</li>
+    <br/>
+  </div>
+
+
+  <script type="text/javascript">
+    var urlParams = new URLSearchParams(window.location.search);
+     var _selectedState = urlParams.get('state');
+     var _selectedCounties = urlParams.get('county');
+  </script>
+
+{% endblock %}
