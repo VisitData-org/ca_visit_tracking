@@ -334,8 +334,8 @@ def eprint(*args, **kwargs):
 def usage(err=None):
     if err:
         eprint(err)
-    sys.exit(('Usage: {} <foursquare.tar> <prev_day version string YYYYMMDD-v#> ' +
-              '<current version number string v#> ' +
+    sys.exit(('Usage: {} <foursquare.tar> <prev_day version string YYYYMMDD-v# ' +
+              'or FRESH> <current version number string v#> ' +
               '<scratch dir>').format(sys.argv[0]))
 
 def check_args():
