@@ -1,7 +1,7 @@
 {% extends "nonav.html" %}
 {% block main %}
 
-  <div class="row">
+  <div id='accordion' class="row">
     <div id="categorycolumn" class="col-sm">
     </div>
 
@@ -29,7 +29,7 @@
     var myHTML = '';
 
     for (var i = 0; i < categoryColumnOne.length; i++) {
-        myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnOne[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnOne[i]['id'] + '"><h5>' + categoryColumnOne[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnOne[i]['id'] + '">'
+        myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnOne[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnOne[i]['id'] + '"><h5>' + categoryColumnOne[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnOne[i]['id'] + '">'
 
           for (var z = 0; z < categoryColumnOne[i]['categories'].length; z++) {
               myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnOne[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnOne[i].categories[z] + '</a></li>';
@@ -43,14 +43,16 @@
 
 <script>
   var categoryColumnTwo = [
-  {'name' : 'Fast Food Restaurants', 'id' : 'fastFoodGroup', 'categories' : ["'Fast Food Restaurant'"]}
+  {'name' : 'Fast Food Restaurants', 'id' : 'fastFoodGroup', 'categories' : ["'Fast Food Restaurant'"]},
+  {'name' : 'Fitness Center', 'id' : 'fitnessGroup', 'categories' : ["'Boxing Gym'", "'Climbing Gym'", "'Cycle Studio'", "'Gym Pool'", "'Gymnastics Gym'", "'Gym'",
+  "'Martial Arts Dojo'", "'Outdoor Gym'", "'Pilates Studio'", "'Track'", "'Weight Loss Center'", "'Yoga Studio'"]},
   ]
 
   var wrapper = document.getElementById("categorycolumntwo");
   var myHTML = '';
 
   for (var i = 0; i < categoryColumnTwo.length; i++) {
-      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnTwo[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnTwo[i]['id'] + '"><h5>' + categoryColumnTwo[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnTwo[i]['id'] + '">'
+      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnTwo[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnTwo[i]['id'] + '"><h5>' + categoryColumnTwo[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnTwo[i]['id'] + '">'
 
         for (var z = 0; z < categoryColumnTwo[i]['categories'].length; z++) {
             myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnTwo[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnTwo[i].categories[z] + '</a></li>';
@@ -71,7 +73,7 @@
   var myHTML = '';
 
   for (var i = 0; i < categoryColumnThree.length; i++) {
-      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnThree[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnThree[i]['id'] + '"><h5>' + categoryColumnThree[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnThree[i]['id'] + '">'
+      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnThree[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnThree[i]['id'] + '"><h5>' + categoryColumnThree[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnThree[i]['id'] + '">'
 
         for (var z = 0; z < categoryColumnThree[i]['categories'].length; z++) {
             myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnThree[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnThree[i].categories[z] + '</a></li>';
