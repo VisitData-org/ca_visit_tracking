@@ -1,7 +1,15 @@
 {% extends "nonav.html" %}
 {% block main %}
 
-  <div id="robertotest">
+  <div class="row">
+    <div id="categorycolumn" class="col-sm">
+    </div>
+
+    <div id="categorycolumntwo" class="col-sm">
+    </div>
+
+    <div id="categorycolumnthree" class="col-sm">
+    </div>
   </div>
 
   <script type="text/javascript">
@@ -11,25 +19,68 @@
   </script>
 
   <script>
-    var groupsObject = [
+    var categoryColumnOne = [
     {'name' : 'Airport', 'id' : 'airportGroup', 'categories' : ["'Airport Food Court'", "'Airport Gate'", "'Airport Lounge'", "'Airport Service'", "'Airport Terminal'", "'Airport Tram'", "'Baggage Claim'", "'Plane'"]},
-    {'name' : 'Alcohol', 'id' : 'alcoholGroup', 'categories' : ["'Wine Shop'", "'Wine Bar'", "'Winery'", "'Beer Bar'", "'Beer Garden'", "'Beer Store'"]}
+    {'name' : 'Alcohol', 'id' : 'alcoholGroup', 'categories' : ["'Wine Shop'", "'Wine Bar'", "'Winery'", "'Beer Bar'", "'Beer Garden'", "'Beer Store'"]},
+    {'name' : 'Arts & Entertainment', 'id' : 'artsGroup', 'categories' : ["'Amphitheater'", "'Aquarium'", "'Arcade'", "'Art Gallery'", "'Bowling Alley'", "'Casino'", "'Circus'", "'Comedy Club'", "'Concert Hall'", "'Country Dance Club'", "'Disc Golf'", "'Exhibit'", "'General Entertainment'", "'Go Kart Track'", "'Historic Site'", "'Laser Tag'",  "'Memorial Site'", "'Mini Golf'", "'Movie Theater'", "'Drive-in Theater'", "'Indie Movie Theater'", "'Multiplex'", "'Museum'", "'Art Museum'", "'Erotic Museum'", "'History Museum'", "'Planetarium'", "'Science Museum'", "'Music Venue'",  "'Jazz Club'", "'Piano Bar'", "'Rock Club'", "'Performing Arts Venue'", "'Dance Studio'", "'Indie Theater'", "'Opera House'", "'Theater'", "'Pool Hall'", "'Public Art'", "'Outdoor Sculpture'", "'Street Art'", "'Racecourse'", "'Racetrack'", "'Roller Rink'", "'Salsa Club'", "'Stadium'", "'Baseball Stadium'", "'Basketball Stadium'", "'Cricket Ground'", "'Football Stadium'", "'Hockey Arena'", "'Rugby Stadium'", "'Soccer Stadium'", "'Tennis Stadium'", "'Track Stadium'", "'Theme Park'", "'Theme Park Ride / Attraction'", "'Tour Provider'", "'Water Park'", "'Zoo'", "'Zoo Exhibit'"]}
     ]
 
-    var wrapper = document.getElementById("robertotest");
+    var wrapper = document.getElementById("categorycolumn");
     var myHTML = '';
 
-    for (var i = 0; i < groupsObject.length; i++) {
-        myHTML += '<div><a data-toggle="collapse" href="#' + groupsObject[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + groupsObject[i]['id'] + '"><h5>' + groupsObject[i]['name'] + '</h5></a><div class="collapse" id="' + groupsObject[i]['id'] + '">'
+    for (var i = 0; i < categoryColumnOne.length; i++) {
+        myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnOne[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnOne[i]['id'] + '"><h5>' + categoryColumnOne[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnOne[i]['id'] + '">'
 
-          for (var z = 0; z < groupsObject[i]['categories'].length; z++) {
-              myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + groupsObject[i].categories[z] + ', _selectedState, _selectedCounties);">' + groupsObject[i].categories[z] + '</a></li>';
+          for (var z = 0; z < categoryColumnOne[i]['categories'].length; z++) {
+              myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnOne[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnOne[i].categories[z] + '</a></li>';
             }
 
             myHTML += '</div><br/>'
       }
 
       wrapper.innerHTML = myHTML
+</script>
+
+<script>
+  var categoryColumnTwo = [
+  {'name' : 'Fast Food Restaurants', 'id' : 'fastFoodGroup', 'categories' : ["'Fast Food Restaurant'"]}
+  ]
+
+  var wrapper = document.getElementById("categorycolumntwo");
+  var myHTML = '';
+
+  for (var i = 0; i < categoryColumnTwo.length; i++) {
+      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnTwo[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnTwo[i]['id'] + '"><h5>' + categoryColumnTwo[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnTwo[i]['id'] + '">'
+
+        for (var z = 0; z < categoryColumnTwo[i]['categories'].length; z++) {
+            myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnTwo[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnTwo[i].categories[z] + '</a></li>';
+          }
+
+          myHTML += '</div><br/>'
+    }
+
+    wrapper.innerHTML = myHTML
+</script>
+
+<script>
+  var categoryColumnThree = [
+  {'name' : 'Nightlife Spot', 'id' : 'nightlifeGroup', 'categories' : ["'Bar'", "'Beach Bar'", "'Beer Bar'", "'Beer Garden'", "'Cocktail Bar'", "'Dive Bar'", "'Gay Bar'", "'Hookah Bar'", "'Hotel Bar'", "'Karaoke Bar'", "'Pub'", "'Sake Bar'", "'Speakeasy'", "'Sports Bar'", "'Tiki Bar'", "'Whisky Bar'", "'Wine Bar'", "'Brewery'", "'Lounge'", "'Night Market'", "'Nightclub'", "'Other Nightlife'", "'Strip Club'"]}
+  ]
+
+  var wrapper = document.getElementById("categorycolumnthree");
+  var myHTML = '';
+
+  for (var i = 0; i < categoryColumnThree.length; i++) {
+      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnThree[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnThree[i]['id'] + '"><h5>' + categoryColumnThree[i]['name'] + '</h5></a><div class="collapse" id="' + categoryColumnThree[i]['id'] + '">'
+
+        for (var z = 0; z < categoryColumnThree[i]['categories'].length; z++) {
+            myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnThree[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnThree[i].categories[z] + '</a></li>';
+          }
+
+          myHTML += '</div><br/>'
+    }
+
+    wrapper.innerHTML = myHTML
 </script>
 
 
