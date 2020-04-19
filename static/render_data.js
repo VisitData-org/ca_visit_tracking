@@ -39,12 +39,14 @@ const AGE_GROUP_FIELDS = {
   over65: "visit_index_over65",
 }
 
-function showVenueExamples() {
-  if (window.location.href.includes('raw')) {
+function showVenueExamples(pagetype) {
+  if (pagetype == 'state') {
+    window.location.href = 'http://127.0.0.1:8080/venuegroupdetails?state=' + _selectedState + '&county= '
+
+  } else if (window.location.href.includes('raw')) {
     var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
     window.open(_venuesUrl)
   } else {
-  // window.open('http://127.0.0.1:8080/venuegroupdetails')
   window.location.href = 'http://127.0.0.1:8080/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
   }
 }
