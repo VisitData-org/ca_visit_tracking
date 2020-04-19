@@ -92,8 +92,8 @@ def cube_one(rollup, out_dir):
     slice_by_fields(state_county_rollup, ['state', 'county'],
                     STATE_COUNTY_FN, out_dir)
 
-    zip_rollup = rollup[rollup.zip != '']
-    slice_by_fields(zip_rollup, ['zip3'], ZIP_FN, out_dir)
+    #zip_rollup = rollup[rollup.zip != '']
+    #slice_by_fields(zip_rollup, ['zip3'], ZIP_FN, out_dir)
 
     state_rollup = rollup[(rollup.state != '') & (rollup.county == '')]
     slice_by_fields(state_rollup, ['state'], STATE_FN, out_dir)
