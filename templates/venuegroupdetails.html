@@ -1,7 +1,7 @@
 {% extends "nonav.html" %}
 {% block main %}
 
-  <div id='accordion' class="row">
+  <div id="accordion" class="row">
     <div id="categorycolumn" class="col-sm">
     </div>
 
@@ -39,51 +39,52 @@
       }
 
       wrapper.innerHTML = myHTML
-</script>
+  </script>
 
-<script>
-  var categoryColumnTwo = [
-  {'name' : 'Fast Food Restaurants', 'id' : 'fastFoodGroup', 'categories' : ["'Fast Food Restaurant'"]},
-  {'name' : 'Fitness Center', 'id' : 'fitnessGroup', 'categories' : ["'Boxing Gym'", "'Climbing Gym'", "'Cycle Studio'", "'Gym Pool'", "'Gymnastics Gym'", "'Gym'",
-  "'Martial Arts Dojo'", "'Outdoor Gym'", "'Pilates Studio'", "'Track'", "'Weight Loss Center'", "'Yoga Studio'"]},
-  ]
+  <script>
+    var categoryColumnTwo = [
+    {'name' : 'Fast Food Restaurants', 'id' : 'fastFoodGroup', 'categories' : ["'Fast Food Restaurant'"]},
+    {'name' : 'Fitness Center', 'id' : 'fitnessGroup', 'categories' : ["'Boxing Gym'", "'Climbing Gym'", "'Cycle Studio'", "'Gym Pool'", "'Gymnastics Gym'", "'Gym'",
+    "'Martial Arts Dojo'", "'Outdoor Gym'", "'Pilates Studio'", "'Track'", "'Weight Loss Center'", "'Yoga Studio'"]},
+    {'name' : 'Food', 'id' : 'foodGroup', 'categories' : ["'Afghan Restaurant'", "'African Restaurant'", "'Ethiopian Restaurant'", "'American Restaurant'", "'New American Restaurant'", "'Asian Restaurant'", "'Burmese Restaurant'", "'Cambodian Restaurant'", "'Chinese Restaurant'", "'Cantonese Restaurant'", "'Cha Chaan Teng'", "'Dim Sum Restaurant'", "'Szechuan Restaurant'", "'Filipino Restaurant'", "'Himalayan Restaurant'", "'Indonesian Restaurant'", "'Japanese Restaurant'", "'Japanese Curry Restaurant'", "'Ramen Restaurant'", "'Shabu-Shabu Restaurant'", "'Soba Restaurant'", "'Sushi Restaurant'", "'Udon Restaurant'", "'Korean Restaurant'", "'Malay Restaurant'", "'Mongolian Restaurant'", "'Noodle House'", "'Satay Restaurant'", "'Thai Restaurant'", "'Tibetan Restaurant'", "'Vietnamese Restaurant'", "'Australian Restaurant'", "'Austrian Restaurant'", "'BBQ Joint'", "'Bagel Shop'", "'Bakery'", "'Bangladeshi Restaurant'", "'Belgian Restaurant'", "'Bistro'", "'Breakfast Spot'", "'Bubble Tea Shop'", "'Buffet'", "'Burger Joint'", "'Cafeteria'", "'Café'", "'Cajun / Creole Restaurant'", "'Caribbean Restaurant'", "'Cuban Restaurant'", "'Caucasian Restaurant'", "'Coffee Shop'", "'Comfort Food Restaurant'", "'Creperie'", "'Czech Restaurant'", "'Deli / Bodega'", "'Dessert Shop'", "'Cupcake Shop'", "'Frozen Yogurt Shop'", "'Ice Cream Shop'", "'Pastry Shop'", "'Pie Shop'", "'Diner'", "'Donut Shop'", "'Dumpling Restaurant'", "'Dutch Restaurant'", "'Eastern European Restaurant'", "'Bosnian Restaurant'", "'Bulgarian Restaurant'", "'Romanian Restaurant'", "'English Restaurant'", "'Falafel Restaurant'", "'Fast Food Restaurant'", "'Fish & Chips Shop'", "'Fondue Restaurant'", "'Food Court'", "'Food Stand'", "'Food Truck'", "'French Restaurant'", "'Brasserie'", "'Fried Chicken Joint'", "'Gastropub'", "'German Restaurant'", "'Gluten-free Restaurant'", "'Greek Restaurant'", "'Souvlaki Shop'", "'Halal Restaurant'", "'Hawaiian Restaurant'", "'Poke Place'", "'Hot Dog Joint'", "'Hungarian Restaurant'", "'Indian Restaurant'", "'Chaat Place'", "'Indian Chinese Restaurant'", "'North Indian Restaurant'", "'South Indian Restaurant'", "'Irish Pub'", "'Italian Restaurant'", "'Jewish Restaurant'", "'Kosher Restaurant'", "'Juice Bar'", "'Kebab Restaurant'", "'Latin American Restaurant'", "'Arepa Restaurant'", "'Empanada Restaurant'", "'Salvadoran Restaurant'", "'South American Restaurant'", "'Argentinian Restaurant'", "'Brazilian Restaurant'", "'Colombian Restaurant'", "'Peruvian Restaurant'", "'Venezuelan Restaurant'", "'Mediterranean Restaurant'", "'Moroccan Restaurant'", "'Mexican Restaurant'", "'Burrito Place'", "'Taco Place'", "'Middle Eastern Restaurant'", "'Egyptian Restaurant'", "'Iraqi Restaurant'", "'Israeli Restaurant'", "'Kurdish Restaurant'", "'Lebanese Restaurant'", "'Persian Restaurant'", "'Shawarma Place'", "'Syrian Restaurant'", "'Yemeni Restaurant'", "'Modern European Restaurant'", "'Molecular Gastronomy Restaurant'", "'Pakistani Restaurant'", "'Pet Café'", "'Pizza Place'", "'Polish Restaurant'", "'Portuguese Restaurant'", "'Restaurant'", "'Russian Restaurant'", "'Salad Place'", "'Sandwich Place'", "'Scandinavian Restaurant'", "'Scottish Restaurant'", "'Seafood Restaurant'", "'Slovak Restaurant'", "'Snack Place'", "'Soup Place'", "'Southern / Soul Food Restaurant'", "'Spanish Restaurant'", "'Paella Restaurant'", "'Tapas Restaurant'", "'Sri Lankan Restaurant'", "'Steakhouse'", "'Swiss Restaurant'", "'Tea Room'", "'Theme Restaurant'", "'Truck Stop'", "'Turkish Restaurant'", "'Doner Restaurant'", "'Ukrainian Restaurant'", "'Vegetarian / Vegan Restaurant'", "'Wings Joint'"]},
+    ]
 
-  var wrapper = document.getElementById("categorycolumntwo");
-  var myHTML = '';
+    var wrapper = document.getElementById("categorycolumntwo");
+    var myHTML = '';
 
-  for (var i = 0; i < categoryColumnTwo.length; i++) {
-      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnTwo[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnTwo[i]['id'] + '"><h5>' + categoryColumnTwo[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnTwo[i]['id'] + '">'
+    for (var i = 0; i < categoryColumnTwo.length; i++) {
+        myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnTwo[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnTwo[i]['id'] + '"><h5>' + categoryColumnTwo[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnTwo[i]['id'] + '">'
 
-        for (var z = 0; z < categoryColumnTwo[i]['categories'].length; z++) {
-            myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnTwo[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnTwo[i].categories[z] + '</a></li>';
-          }
+          for (var z = 0; z < categoryColumnTwo[i]['categories'].length; z++) {
+              myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnTwo[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnTwo[i].categories[z] + '</a></li>';
+            }
 
-          myHTML += '</div><br/>'
-    }
+            myHTML += '</div><br/>'
+      }
 
-    wrapper.innerHTML = myHTML
-</script>
+      wrapper.innerHTML = myHTML
+  </script>
 
-<script>
-  var categoryColumnThree = [
-  {'name' : 'Nightlife Spot', 'id' : 'nightlifeGroup', 'categories' : ["'Bar'", "'Beach Bar'", "'Beer Bar'", "'Beer Garden'", "'Cocktail Bar'", "'Dive Bar'", "'Gay Bar'", "'Hookah Bar'", "'Hotel Bar'", "'Karaoke Bar'", "'Pub'", "'Sake Bar'", "'Speakeasy'", "'Sports Bar'", "'Tiki Bar'", "'Whisky Bar'", "'Wine Bar'", "'Brewery'", "'Lounge'", "'Night Market'", "'Nightclub'", "'Other Nightlife'", "'Strip Club'"]}
-  ]
+  <script>
+    var categoryColumnThree = [
+    {'name' : 'Nightlife Spots', 'id' : 'nightlifeGroup', 'categories' : ["'Bar'", "'Beach Bar'", "'Beer Bar'", "'Beer Garden'", "'Cocktail Bar'", "'Dive Bar'", "'Gay Bar'", "'Hookah Bar'", "'Hotel Bar'", "'Karaoke Bar'", "'Pub'", "'Sake Bar'", "'Speakeasy'", "'Sports Bar'", "'Tiki Bar'", "'Whisky Bar'", "'Wine Bar'", "'Brewery'", "'Lounge'", "'Night Market'", "'Nightclub'", "'Other Nightlife'", "'Strip Club'"]},
+    {'name' : 'Office', 'id' : 'officeGroup', 'categories' : ["'Advertising Agency'", "'Campaign Office'", "'Conference Room'", "'Corporate Amenity'", "'Corporate Cafeteria'", "'Corporate Coffee Shop'", "'Coworking Space'", "'Tech Startup'"]},
+    {'name' : 'Outdoors & Recreation', 'id' : 'outdoorsRecGroup', 'categories' : ["'Athletics & Sports'", "'Badminton Court'", "'Baseball Field'", "'Basketball Court'", "'Bowling Green'", "'Curling Ice'", "'Golf Course'", "'Golf Driving Range'", "'Gym / Fitness Center'", "'Boxing Gym'", "'Climbing Gym'", "'Cycle Studio'", "'Gym Pool'", "'Gymnastics Gym'", "'Gym'", "'Martial Arts Dojo'", "'Outdoor Gym'", "'Pilates Studio'", "'Track'", "'Weight Loss Center'", "'Yoga Studio'", "'Hockey Field'", "'Hockey Rink'", "'Paintball Field'", "'Rugby Pitch'", "'Skate Park'", "'Skating Rink'", "'Soccer Field'", "'Sports Club'", "'Squash Court'", "'Tennis Court'", "'Volleyball Court'", "'Bathing Area'", "'Bay'", "'Beach'", "'Nudist Beach'", "'Surf Spot'", "'Bike Trail'", "'Botanical Garden'", "'Bridge'", "'Campground'", "'Canal Lock'", "'Canal'", "'Castle'", "'Cave'", "'Cemetery'", "'Dive Spot'", "'Dog Run'", "'Farm'", "'Field'", "'Fishing Spot'", "'Forest'", "'Fountain'", "'Garden'", "'Gun Range'", "'Harbor / Marina'", "'Hill'", "'Hot Spring'", "'Indoor Play Area'", "'Island'", "'Lake'", "'Lighthouse'", "'Mountain'", "'National Park'", "'Nature Preserve'", "'Other Great Outdoors'", "'Palace'", "'Park'", "'Pedestrian Plaza'", "'Playground'", "'Plaza'", "'Pool'", "'Rafting'", "'Recreation Center'", "'Reservoir'", "'River'", "'Rock Climbing Spot'", "'Roof Deck'", "'Scenic Lookout'", "'Sculpture Garden'", "'Ski Area'", "'Apres Ski Bar'", "'Ski Chairlift'", "'Ski Chalet'", "'Ski Lodge'", "'Ski Trail'", "'Skydiving Drop Zone'", "'Stables'", "'State / Provincial Park'", "'States & Municipalities'", "'City'", "'County'", "'Country'", "'Neighborhood'", "'State'", "'Town'", "'Village'", "'Summer Camp'", "'Trail'", "'Tree'", "'Vineyard'", "'Volcano'", "'Waterfall'", "'Waterfront'", "'Well'", "'Windmill'"]}
+    ]
 
-  var wrapper = document.getElementById("categorycolumnthree");
-  var myHTML = '';
+    var wrapper = document.getElementById("categorycolumnthree");
+    var myHTML = '';
 
-  for (var i = 0; i < categoryColumnThree.length; i++) {
-      myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnThree[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnThree[i]['id'] + '"><h5>' + categoryColumnThree[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnThree[i]['id'] + '">'
+    for (var i = 0; i < categoryColumnThree.length; i++) {
+        myHTML += '<div><a data-toggle="collapse" href="#' + categoryColumnThree[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + categoryColumnThree[i]['id'] + '"><h5>' + categoryColumnThree[i]['name'] + '</h5></a><div class="collapse" data-parent="#accordion" id="' + categoryColumnThree[i]['id'] + '">'
 
-        for (var z = 0; z < categoryColumnThree[i]['categories'].length; z++) {
-            myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnThree[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnThree[i].categories[z] + '</a></li>';
-          }
+          for (var z = 0; z < categoryColumnThree[i]['categories'].length; z++) {
+              myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + categoryColumnThree[i].categories[z] + ', _selectedState, _selectedCounties);">' + categoryColumnThree[i].categories[z] + '</a></li>';
+            }
 
-          myHTML += '</div><br/>'
-    }
+            myHTML += '</div><br/>'
+      }
 
-    wrapper.innerHTML = myHTML
-</script>
-
-
+      wrapper.innerHTML = myHTML
+  </script>
 {% endblock %}
