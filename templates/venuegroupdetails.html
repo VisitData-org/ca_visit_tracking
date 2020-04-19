@@ -1,43 +1,36 @@
 {% extends "nonav.html" %}
 {% block main %}
-  <p>
-    <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-      <h5>Airport</h5>
-    </a>
-  </p>
-  <div class="collapse" id="collapseExample">
-    <li><a href="javascript: roberto('Airport Food Court',_selectedState,_selectedCounties);">Airport Food Court</li>
-    <li><a href="javascript: roberto('Airport Gate',_selectedState,_selectedCounties);">Airport Gate</li>
-    <li><a href="javascript: roberto('Airport Lounge',_selectedState,_selectedCounties);">Airport Lounge</li>
-    <li><a href="javascript: roberto('Airport Service',_selectedState,_selectedCounties);">Airport Service</li>
-    <li><a href="javascript: roberto('Airport Terminal',_selectedState,_selectedCounties);">Airport Terminal</li>
-    <li><a href="javascript: roberto('Airport Tram',_selectedState,_selectedCounties);">Airport Tram</li>
-    <li><a href="javascript: roberto('Baggage Claim',_selectedState,_selectedCounties);">Baggage Claim</li>
-    <li><a href="javascript: roberto('Plane',_selectedState,_selectedCounties);">Plane</li>
-    <br/>
-  </div>
 
-  <p>
-    <a data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample2">
-      <h5>Alcohol</h5>
-    </a>
-  </p>
-  <div class="collapse" id="collapseExample2">
-    <li><a href="#">Liquor Store</li>
-    <li><a href="#">Wine Shop</li>
-    <li><a href="#">Wine Bar</li>
-    <li><a href="#">Winery</li>
-    <li><a href="#">Beer Bar</li>
-    <li><a href="#">Beer Garden</li>
-    <li><a href="#">Beer Store</li>
-    <br/>
+  <div id="robertotest">
   </div>
-
 
   <script type="text/javascript">
     var urlParams = new URLSearchParams(window.location.search);
-     var _selectedState = urlParams.get('state');
-     var _selectedCounties = urlParams.get('county');
+    var _selectedState = urlParams.get('state');
+    var _selectedCounties = urlParams.get('county');
   </script>
+
+  <script>
+    var groupsObject = [
+    {'name' : 'Airport', 'id' : 'airportGroup', 'categories' : ["'Airport Food Court'", "'Airport Gate'", "'Airport Lounge'", "'Airport Service'", "'Airport Terminal'", "'Airport Tram'", "'Baggage Claim'", "'Plane'"]},
+    {'name' : 'Alcohol', 'id' : 'alcoholGroup', 'categories' : ["'Wine Shop'", "'Wine Bar'", "'Winery'", "'Beer Bar'", "'Beer Garden'", "'Beer Store'"]}
+    ]
+
+    var wrapper = document.getElementById("robertotest");
+    var myHTML = '';
+
+    for (var i = 0; i < groupsObject.length; i++) {
+        myHTML += '<div><a data-toggle="collapse" href="#' + groupsObject[i]['id'] + '" role="button" aria-expanded="true" aria-controls="' + groupsObject[i]['id'] + '"><h5>' + groupsObject[i]['name'] + '</h5></a><div class="collapse" id="' + groupsObject[i]['id'] + '">'
+
+          for (var z = 0; z < groupsObject[i]['categories'].length; z++) {
+              myHTML += '<li class="list-group-item border-0"><a href="javascript: roberto(' + groupsObject[i].categories[z] + ', _selectedState, _selectedCounties);">' + groupsObject[i].categories[z] + '</a></li>';
+            }
+
+            myHTML += '</div><br/>'
+      }
+
+      wrapper.innerHTML = myHTML
+</script>
+
 
 {% endblock %}
