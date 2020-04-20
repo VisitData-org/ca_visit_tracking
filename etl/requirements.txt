@@ -1,0 +1,2 @@
+apache-airflow==1.10.10
+google-cloud-storage==1.27.0
