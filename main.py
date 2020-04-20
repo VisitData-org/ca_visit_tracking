@@ -9,6 +9,7 @@ from urllib.parse import urlparse, urlunparse
 import yaml
 from flask import Flask, redirect, render_template, request
 from google.cloud import storage
+from scripts.weather import get_state_weather
 
 
 app = Flask(__name__, static_url_path="", static_folder="static")
@@ -139,6 +140,10 @@ def data(path):
     return render_template("list_data.html", names=names, url_prefix=f"/data",
                            snapshot_id=app_state['foursquare_data_version'])
 
+
+@app.route("/weather/<state>")
+def weather(state):
+    return get_state_weather(state)
 
 def page_not_found(e):
     return render_template('404.html'), 404
