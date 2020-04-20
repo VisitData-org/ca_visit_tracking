@@ -3,9 +3,11 @@
 
 <div class="mobile-categories">
 
-  <h3 class="card-title mb-1" id="page-header"></h3>
+  <h4 class="card-title" id="page-header"></h4>
 
-  <p class="card-body mb-3"> FPO - The group name and below the specific categories. when you click on any of the specific categories, this will show you the actual places in that category for that county. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <h6 class="card-body mb-3">
+    Click on any group name to reveal its categories. Click on any sub-category to see real examples of those places in the county/state.
+  </h6>
 
   <div id="accordion" class=" row">
     <div id="categorycolumn" class="col-sm">
@@ -24,7 +26,7 @@
     var urlParams = new URLSearchParams(window.location.search);
     var _selectedState = urlParams.get('state');
     var _selectedCounties = urlParams.get('county');
-    var _locationText = _selectedCounties ? _selectedCounties + ', ' + _selectedState : _selectedState
+    var _locationText = _selectedCounties && _selectedCounties!= 'ALL' ? _selectedCounties + ', ' + _selectedState : _selectedState
 
     document.getElementById('page-header').innerText = 'Categories by Group in ' + _locationText
     </script>

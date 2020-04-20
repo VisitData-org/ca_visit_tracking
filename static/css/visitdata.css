@@ -36,9 +36,9 @@ h4 {
 }
 
 .mobile-categories {
-  margin-top: 15px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 @media (min-width: 1200px) {
