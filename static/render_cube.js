@@ -78,6 +78,8 @@ function drawChart() {
           }
         }]
       }
+    })
+  }
 }
 
 var tableFilters = new Map();
