@@ -21,4 +21,5 @@ __pycache__/
 /setup.cfg
 
 bin/
+etl/
 Makefile
