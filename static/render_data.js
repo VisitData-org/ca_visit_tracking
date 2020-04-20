@@ -26,6 +26,26 @@ if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
 }
 
+function showVenueExamples(pagetype) {
+  if (pagetype == 'state') {
+    window.location.href = 'http://127.0.0.1:8080/venuegroupdetails?state=' + _selectedState + '&county= '
+
+  } else if (window.location.href.includes('raw')) {
+    var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
+    window.open(_venuesUrl)
+  } else {
+  window.location.href = 'http://127.0.0.1:8080/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
+  }
+}
+
+function venueBtnName() {
+  if (window.location.href.includes('raw')) {
+    document.getElementById('venueExampleBtn').innerHTML = 'Venue Examples'
+  } else {
+    document.getElementById('venueExampleBtn').innerHTML = 'Venue Group Details'
+  }
+}
+
 function chartTitle(stateOrCounty) {
 
   var result = "";
@@ -632,7 +652,7 @@ var eventListener = function(stateOrCounty) {
     if (urlParams.get('datafilename')) {
       windowLocationToSet += "?datafilename=" + urlParams.get('datafilename');
     }
-    window.location = windowLocationToSet;    
+    window.location = windowLocationToSet;
   }
 };
 
@@ -643,7 +663,7 @@ function parseSelection(stateOrCounty) {
   } else {
     selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
     selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
-    selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");    
+    selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
   }
 }
 
@@ -711,5 +731,5 @@ function parse(stateOrCounty) {
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
   setNavLinks(stateOrCounty);
-  parse(stateOrCounty);  
+  parse(stateOrCounty);
 }

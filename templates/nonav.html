@@ -40,6 +40,12 @@
 <script type="text/javascript" src="/js/lib/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="/js/lib/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="/js/lib/highcharts.js"></script>
+<script>
+  function roberto(venue,state,county) {
+    var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + county + '%20' + state + '%20United%20States&q=' + venue
+    window.open(_venuesUrl)
+  }
+</script>
 
 <body data-spy="scroll" data-target="#navbarNav">
   <nav class="navbar fixed-top navbar-inverse bg-info navbar-expand-lg">

@@ -119,3 +119,9 @@ Run:
 $ cd .../ca_visit_tracking
 $ make deploy-prod
 ```
+
+# Data ETL via Airflow
+Extract, Transform and Load (ETL) Airflow operators and DAGs in this repository
+under `etl/`. These can be run locally or on the production server.
+
+See the `etl/README.md` for details.
