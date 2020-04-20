@@ -295,12 +295,12 @@ def create_version_dir(dates_and_csvs, cur_version_num, out_dir):
     makedir(cur_dir)
     return cur_dir
 
-def copy_top_files(prev_dir, cur_cir):
+def copy_top_files(prev_dir, cur_dir):
     if prev_dir:
         for fn in os.listdir(prev_dir):
             if os.path.splitext(fn)[1] == '.json':
                 shutil.copyfile(os.path.join(prev_dir, fn),
-                                os.path.join(cur_cur, fn))
+                                os.path.join(cur_dir, fn))
     else:
         eprint("Warning: you started without previous data, don't forget to " +
                "copy in additional top level files") 
