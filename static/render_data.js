@@ -367,8 +367,13 @@ function populateSelect(selectElement, stringList, selected) {
   });
 }
 
-function isGroupedCategoryEssential(groupName){
+function isGroupedCategoryEssential(groupName) {
   var isGroupEssential = groupToEssentialMap.get(groupName);
+  if (_.isUndefined(isGroupEssential)) {
+    console.debug(groupName + " doesn't have essential bit set, setting to false");
+    groupToEssentialMap.set(groupName, false);
+    isGroupEssential = false;
+  }
   return isGroupEssential;
 }
 
@@ -576,6 +581,14 @@ var groupMappings = [
   {groupName:"Drug Store",essential:true},
   {groupName:"Fast Food Restaurants",essential:true},
   {groupName:"Fitness Center",essential:false},
+  {groupName:"Events",essential:false},
+  {groupName:"Gun Shops",essential:false},
+  {groupName:"Skiing",essential:false},
+  {groupName:"Light Rail Stations",essential:true},
+  {groupName:"Metro Stations",essential:true},
+  {groupName:"Work",essential:false},
+  {groupName:"Home",essential:true},
+  {groupName:"Other",essential:false},
   {groupName:"Food",essential:true},
   {groupName:"Gas Stations",essential:true},
   {groupName:"Government",essential:true},
