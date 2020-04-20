@@ -23,6 +23,10 @@
           <option value="">Venue Type</option>
         </select>
       </div>
+      <div class="col-sm">
+        <button onClick={showVenueExamples('county')} class="btn btn-info mobile-btn" target="_blank" id="venueExampleBtn">
+        </button>
+      </div>
       <div class="col-sm"></div>
     </div>
     <div class="row">
@@ -52,6 +56,7 @@
           Notes
         </button>
       </div>
+      <div class="col-sm"></div>
     </div>
   </div>
 
@@ -96,6 +101,7 @@
   <script type="text/javascript" src="/render_data.js"></script>
   <script type="text/javascript">
     renderData('county');
+    venueBtnName();
   </script>
 
 {% endblock %}

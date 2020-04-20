@@ -35,6 +35,12 @@ h4 {
   margin-right: 30px;
 }
 
+.mobile-categories {
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
 @media (min-width: 1200px) {
   .main-mobile {
     padding-top: 60px;
