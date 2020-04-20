@@ -696,7 +696,7 @@ function parse(stateOrCounty) {
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
 
-    datafilename = _fourSquareDataUrl + '/' + filePrefix + '/alldates/' + selectedState.replace(/\s/g, '') + '.csv';
+    datafilename = _fourSquareDataUrl + '/' + filePrefix + '/' + selectedState.replace(/\s/g, '') + '.csv';
   } else {
     
     var countyString = "";
@@ -706,11 +706,11 @@ function parse(stateOrCounty) {
 
     if (!datafilename) {
       filePrefix = 'grouped';
-      datafilename = _fourSquareDataUrl + '/grouped/alldates/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
+      datafilename = _fourSquareDataUrl + '/grouped/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
     } else {
       filePrefix = 'raw';
-      datafilename = _fourSquareDataUrl + '/raw/alldates/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
+      datafilename = _fourSquareDataUrl + '/raw/' + selectedState.replace(/\s/g, '') + countyString + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }
   }
