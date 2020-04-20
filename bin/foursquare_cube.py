@@ -270,6 +270,10 @@ def merge_indexes(prev_dir, split_dir, new_dates, out_dir):
         json.dump(total_index, f, indent=2)
 
 def download_prev(prev_version, out_dir):
+    if not prev_version:
+        eprint('Warning: starting without previous data')
+        return None
+
     url = FS_URL_PREFIX + prev_version
     print("Downloading previous day's data {}".format(url))
     ret = subprocess.run(['gsutil', '-m', 'cp', '-r', url, out_dir])
@@ -291,15 +295,22 @@ def create_version_dir(dates_and_csvs, cur_version_num, out_dir):
     makedir(cur_dir)
     return cur_dir
 
+def copy_top_files(prev_dir, cur_dir):
+    if prev_dir:
+        for fn in os.listdir(prev_dir):
+            if os.path.splitext(fn)[1] == '.json':
+                shutil.copyfile(os.path.join(prev_dir, fn),
+                                os.path.join(cur_dir, fn))
+    else:
+        eprint("Warning: you started without previous data, don't forget to " +
+               "copy in additional top level files") 
+                
+
 def main(fs_tar_path, prev_version, cur_version_num, out_dir):
     makedir(out_dir)
     
     # download previous day data directory from data.visitdata.org
-    if prev_version:
-        prev_dir = download_prev(prev_version, out_dir)
-    else:
-        prev_dir = None
-        eprint('Warning: starting fresh, not with a existing data')
+    prev_dir = download_prev(prev_version, out_dir)
 
     # extract fs tar with new data, find the dates & csv paths it contains
     fs_extract_dir = extract_fs(fs_tar_path, out_dir)
@@ -314,6 +325,9 @@ def main(fs_tar_path, prev_version, cur_version_num, out_dir):
 
     # create dir for current data
     cur_dir = create_version_dir(dates_and_csvs, cur_version_num, out_dir)
+
+    # copy additional files at top level, e.g. taxonomy.json
+    copy_top_files(prev_dir, cur_dir)
 
     # merge prev data with new split data for each of raw and grouped
     for type_fn, split_dir in [(RAW_FN, raw_split_dir),
@@ -335,7 +349,7 @@ def usage(err=None):
     if err:
         eprint(err)
     sys.exit(('Usage: {} <foursquare.tar> <prev_day version string YYYYMMDD-v# ' +
-              'or FRESH> <current version number string v#> ' +
+              'or INIT> <current version number string v#> ' +
               '<scratch dir>').format(sys.argv[0]))
 
 def check_args():
@@ -345,9 +359,9 @@ def check_args():
     if not os.path.isfile(fs_tar_path):
         usage('Foursquare tar file {} does not exist'.format(fs_tar_path))
     ver_re = re.compile('\d{4}\d{2}\d{2}-v\d+')
-    if not ver_re.match(prev_version) and prev_version != 'FRESH':
+    if not ver_re.match(prev_version) and prev_version != 'INIT':
         usage(('Previous day version string "{}" is not of ' +
-              'format YYYYMMDD-v# or FRESH for starting fresh').format(prev_version))
+              'format YYYYMMDD-v# or INIT for starting fresh').format(prev_version))
     ver_num_re = re.compile('v\d+')
     if not ver_num_re.match(cur_version_num):
         usage(('Current version number "{}" is not of ' +
@@ -356,7 +370,7 @@ def check_args():
         usage(('Scratch directory {} already exists.  Please ' +
                'remove first.').format(scratch_dir))
     # TODO: make this a switch
-    if prev_version == 'FRESH':
+    if prev_version == 'INIT':
         prev_version = None
     return fs_tar_path, prev_version, cur_version_num, scratch_dir 
         
