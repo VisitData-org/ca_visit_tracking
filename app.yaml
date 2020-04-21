@@ -2,4 +2,4 @@ runtime: python37
 entrypoint: gunicorn -b :$PORT main:app
 
 env_variables:
-  FOURSQUARE_DATA_VERSION: "20200418-v10"
+  FOURSQUARE_DATA_VERSION: "20200419-v0"
