@@ -2,6 +2,7 @@ var table;
 var fileData;  //  globalish variable holding the parsed file data rows  HACK
 var stateOrCountySel;
 var ageGroupSel;
+var weatherDataCheck;
 var essentialSel;
 var states = [];
 var counties = [];
@@ -147,10 +148,14 @@ function seriesToPlot(stateOrCounty) {
       }
     }
   );
+
+  //filtered data for highcharts
+  var results;
+
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     var lts = locationTypesToChart(fileDataToPlot);
-    var results = _.map(lts, function(locationType) {
+    results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
@@ -161,11 +166,10 @@ function seriesToPlot(stateOrCounty) {
     });
 
     results.unshift({ name: 'Show/Hide All', visible: false });
-    return results;
   }
   if (!stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value });
-    var results = _.map(statesOrCounties, function(stateOrCountyValue) {
+    results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
@@ -176,15 +180,20 @@ function seriesToPlot(stateOrCounty) {
     });
 
     results.unshift({ name: 'Show/Hide All', visible: false });
-    return results;
   }
   if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
-    return [styleSeries({
+    results = [styleSeries({
       name: locationTypeSel.value + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
   }
+
+  if (weatherDataCheck) {
+    //TODO: restructure data
+  }
+
+  return results;
 }
 
 function isPlotDataEmpty(seriesForPlot) {
@@ -209,6 +218,7 @@ function drawChart(stateOrCounty) {
     emptyDataNotice.style.textAlign = 'center';
     document.getElementById('chartcontainer').appendChild(emptyDataNotice);
   } else {
+    //TODO: change this type of chart
     Highcharts.chart('chartcontainer', {
       chart: {
         animation: false,
@@ -596,6 +606,7 @@ function parsingDone(stateOrCounty, results, file) {
     essentialSel.style.display = 'none';
   }
 
+  //actions for agegroup-select button
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     // hide all 3
@@ -608,6 +619,14 @@ function parsingDone(stateOrCounty, results, file) {
     if (stateOrCountySel.value || locationTypeSel.value) {
       drawChart(stateOrCounty);
     }
+  });
+
+  //actions for weather-data button
+  $('#weather-data-checkbox').change(function () {
+    //enable/disable weather forecast
+    weatherDataCheck = $(this).prop("checked")
+    //refresh chart
+    drawChart(stateOrCounty)
   });
 
   redoFilter(stateOrCounty);
