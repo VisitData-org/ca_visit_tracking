@@ -335,15 +335,14 @@ function filterWeatherData(plotDataVisits, weatherData) {
 /**
  * 3ºrd Draw a chart per county
  *
- * @param {*} plotDataVisits
- * @param {*} weatherData
+ * @param dataChartWeather
  */
 function drawWeatherChartPerCounty(dataChartWeather) {
   var weatherDivId = "chartweathercontainer";
   document.getElementById(weatherDivId).innerHTML = "";
 
   if (_.isEmpty(dataChartWeather)) {
-    document.getElementById(weatherDivId).append("<p>Empty weather data</p>");
+    document.getElementById(weatherDivId).append("Empty weather data");
     return weatherDiv;
   }
 
@@ -357,7 +356,6 @@ function drawWeatherChartPerCounty(dataChartWeather) {
     divRow.append(container);
 
     window.chart = new Highcharts.Chart({
-      series: series,
       chart: {
         renderTo: container,
       },
