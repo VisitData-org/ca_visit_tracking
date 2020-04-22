@@ -193,3 +193,8 @@ h4 {
     margin-left: 0px;
   }
 }
+
+#weather-label {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
