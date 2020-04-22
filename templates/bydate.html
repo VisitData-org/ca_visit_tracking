@@ -3,6 +3,7 @@
   <div class="container-fluid main-mobile">
     <h3 id="state_name_header" class="mt-2"></h3>
       <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;"></div>
+      <div id="chartweathercontainer"></div>
   </div>
   <div class="container-fluid mobile-dropdown">
     <div class="row mobile-search">
@@ -108,7 +109,7 @@
    var _fourSquareDataUrl = {{ foursquare_data_url|tojson }};
   </script>
   <script type="text/javascript" src="/categories.js"></script>
-  <script type="text/javascript" src="/data.js"></script>
+  <script type="text/javascript" src="/js/weather.js"></script>
   <script type="text/javascript" src="/render_data.js"></script>
   <script type="text/javascript">
     renderData('county');
