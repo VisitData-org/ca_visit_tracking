@@ -52,6 +52,42 @@ let weatherData = {
           avghumidity: 79.0,
         },
       },
+      "1585267200": {
+        date: "2020-04-16",
+        day: {
+          maxtemp_c: -1.9,
+          maxtemp_f: 35.6,
+          mintemp_c: 4.3,
+          mintemp_f: 6.3,
+          avgtemp_c: -6.6,
+          avgtemp_f: 20.2,
+          maxwind_mph: 10.1,
+          maxwind_kph: 16.2,
+          totalprecip_mm: 0.4,
+          totalprecip_in: 0.23,
+          avgvis_km: 9.1,
+          avgvis_miles: 5.0,
+          avghumidity: 79.0,
+        },
+      },
+      "1585958400": {
+        date: "2020-04-16",
+        day: {
+          maxtemp_c: -1.9,
+          maxtemp_f: 80.6,
+          mintemp_c: 15.3,
+          mintemp_f: 6.3,
+          avgtemp_c: -6.6,
+          avgtemp_f: 20.2,
+          maxwind_mph: 10.1,
+          maxwind_kph: 16.2,
+          totalprecip_mm: 0.4,
+          totalprecip_in: 0.67,
+          avgvis_km: 9.1,
+          avgvis_miles: 5.0,
+          avghumidity: 79.0,
+        },
+      },
     },
   },
   "Gallatin County": {
@@ -118,7 +154,7 @@ let weatherData = {
       },
     },
   },
-  "Lewis and Clark County": {
+  "Missoula County": {
     region: "Missouri",
     country: "United States of America",
     lat: 39.54,
@@ -126,11 +162,75 @@ let weatherData = {
     tz_id: "America/Chicago",
     localtime: "2020-04-18 13:10",
     forecast: {
-      "1586908800": {
+      "1583020800": {
         date: "2020-04-16",
         day: {
           maxtemp_c: 5.3,
-          maxtemp_f: 41.5,
+          maxtemp_f: 70.5,
+          mintemp_c: 4.0,
+          mintemp_f: 12.2,
+          avgtemp_c: 0.4,
+          avgtemp_f: 32.7,
+          maxwind_mph: 4.7,
+          maxwind_kph: 7.6,
+          totalprecip_mm: 0.4,
+          totalprecip_in: 0.67,
+          avgvis_km: 10.0,
+          avgvis_miles: 6.0,
+          avghumidity: 71.0,
+        },
+      },
+      "1583539200": {
+        date: "2020-04-16",
+        day: {
+          maxtemp_c: 5.3,
+          maxtemp_f: 20.5,
+          mintemp_c: -15.0,
+          mintemp_f: 12.2,
+          avgtemp_c: 0.4,
+          avgtemp_f: 32.7,
+          maxwind_mph: 4.7,
+          maxwind_kph: 7.6,
+          totalprecip_mm: 0.0,
+          totalprecip_in: 0.87,
+          avgvis_km: 10.0,
+          avgvis_miles: 6.0,
+          avghumidity: 71.0,
+        },
+      },
+      "1583625600": {
+        date: "2020-04-16",
+        day: {
+          maxtemp_c: 5.3,
+          maxtemp_f: 45.5,
+          mintemp_c: -13.0,
+          mintemp_f: 12.2,
+          avgtemp_c: 0.4,
+          avgtemp_f: 32.7,
+          maxwind_mph: 4.7,
+          maxwind_kph: 7.6,
+          totalprecip_mm: 0.0,
+          totalprecip_in: 0.08,
+          avgvis_km: 10.0,
+          avgvis_miles: 6.0,
+          avghumidity: 71.0,
+        },
+      },
+    },
+  },
+  "Cascade County": {
+    region: "Montana",
+    country: "United States of America",
+    lat: 46.87,
+    lon: -113.99,
+    tz_id: "America/Denver",
+    localtime: "2020-04-17 2:16",
+    forecast: {
+      "1584057600": {
+        date: "2020-04-16",
+        day: {
+          maxtemp_c: 5.3,
+          maxtemp_f: 10.5,
           mintemp_c: -11.0,
           mintemp_f: 12.2,
           avgtemp_c: 0.4,
@@ -138,7 +238,7 @@ let weatherData = {
           maxwind_mph: 4.7,
           maxwind_kph: 7.6,
           totalprecip_mm: 0.0,
-          totalprecip_in: 0.0,
+          totalprecip_in: 0.24,
           avgvis_km: 10.0,
           avgvis_miles: 6.0,
           avghumidity: 71.0,
@@ -214,13 +314,11 @@ function filterWeatherData(plotDataVisits, weatherData) {
 
           //temp min/max
           dataTemp = {
-            name: county + " Temp min/max",
             data: arrTemp,
           };
 
           //precipitations
           dataPrec = {
-            name: county + " Precipitations",
             data: arrPrec,
           };
         }
@@ -254,7 +352,6 @@ function drawWeatherChartPerCounty(dataChartWeather) {
   document.getElementById(weatherDivId).append(divRow);
 
   _.each(dataChartWeather, function (series, key) {
-
     var container = document.createElement("div");
     container.setAttribute("class", "col-md-4");
     divRow.append(container);
@@ -267,29 +364,74 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       title: {
         text: key,
       },
-      yAxis: {
-        title: {
-          text: "Data",
+      yAxis: [
+        {
+          // Primary yAxis
+          title: {
+            text: "",
+            style: {
+              color: Highcharts.getOptions().colors[7],
+            },
+          },
+          labels: {
+            format: "{value} °F",
+            style: {
+              color: Highcharts.getOptions().colors[7],
+            },
+          },
+          opposite: true,
         },
+        {
+          // Secondary yAxis
+          gridLineWidth: 0,
+          title: {
+            text: "",
+            style: {
+              color: Highcharts.getOptions().colors[5],
+            },
+          },
+          labels: {
+            format: "{value} in",
+            style: {
+              color: Highcharts.getOptions().colors[5],
+            },
+          },
+        },
+      ],
+      tooltip: {
+        shared: true,
       },
       xAxis: {
         type: "datetime",
+        tickInterval: 24 * 3600 * 1000 * 5,
+        dateTimeLabelFormats: {
+          day: "%a %b %e",
+          week: "%a %b %e",
+          month: "%a %b %e",
+        },
+        title: {
+          text: "Date",
+        },
       },
       series: [
         {
-          type: "arearange",
-          name: series.dataTemp.name,
-          data: series.dataTemp.data,
+          type: "column",
+          yAxis: 1,
+          name: "Temperature MIN/MAX",
+          data: series.dataPrec.data,
+          tooltip: {
+            valueSuffix: " in",
+          },
+          color: Highcharts.getOptions().colors[5],
         },
         {
-          type: "column",
-          name: series.dataPrec.name,
-          data: series.dataPrec.data,
-          marker: {
-            lineWidth: 2,
-            lineColor: Highcharts.getOptions().colors[0],
-            fillColor: "white",
+          type: "arearange",
+          name: "Precipitations",
+          data: series.dataTemp.data,
+          tooltip: {
+            valueSuffix: " °F",
           },
+          color: Highcharts.getOptions().colors[7],
         },
       ],
     });
