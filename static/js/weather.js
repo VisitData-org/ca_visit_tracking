@@ -353,7 +353,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
 
   _.each(dataChartWeather, function (series, key) {
     var container = document.createElement("div");
-    container.setAttribute("class", "col-md-4");
+    container.setAttribute("class", "col-md-4 mt-5");
     divRow.append(container);
 
     window.chart = new Highcharts.Chart({
