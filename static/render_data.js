@@ -191,6 +191,8 @@ function seriesToPlot(stateOrCounty) {
 
   if (weatherDataCheck) {
     drawWeatherData(results);
+  } else {
+    document.getElementById("chartweathercontainer").innerHTML = "";
   }
 
   return results;
