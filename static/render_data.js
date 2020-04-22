@@ -167,7 +167,7 @@ function seriesToPlot(stateOrCounty) {
 
     results.unshift({ name: 'Show/Hide All', visible: false });
   }
-  if (!stateOrCountySel.value && locationTypeSel.value) {
+  else if (!stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value });
     results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
@@ -181,7 +181,7 @@ function seriesToPlot(stateOrCounty) {
 
     results.unshift({ name: 'Show/Hide All', visible: false });
   }
-  if (stateOrCountySel.value && locationTypeSel.value) {
+  else if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
     results = [styleSeries({
       name: locationTypeSel.value + " in " + stateOrCountySel.value,
