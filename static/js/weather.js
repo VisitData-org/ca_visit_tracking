@@ -417,7 +417,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         {
           type: "column",
           yAxis: 1,
-          name: "Temperature MIN/MAX",
+          name: "Precipitations",
           data: series.dataPrec.data,
           tooltip: {
             valueSuffix: " in",
@@ -426,7 +426,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         },
         {
           type: "arearange",
-          name: "Precipitations",
+          name: "Temperature MIN/MAX",
           data: series.dataTemp.data,
           tooltip: {
             valueSuffix: " °F",
