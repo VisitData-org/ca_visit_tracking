@@ -192,7 +192,7 @@ function seriesToPlot(stateOrCounty) {
   if (weatherDataCheck) {
     drawWeatherData(results);
   } else {
-    document.getElementById("chartweathercontainer").innerHTML = "";
+    document.getElementById("chart-weather-container").innerHTML = "";
   }
 
   return results;
