@@ -184,7 +184,7 @@ function seriesToPlot(stateOrCounty) {
   else if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
     results = [styleSeries({
-      name: locationTypeSel.value + " in " + stateOrCountySel.value,
+      name: stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
   }

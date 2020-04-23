@@ -271,9 +271,9 @@ function drawWeatherData(plotDataVisits) {
  */
 function filterWeatherData(plotDataVisits, weatherData) {
   // get counties timestamps
-  var dates = {};
-  var timeStamp = [];
-  var highchartsWeatherData = {};
+  let dates = {};
+  let timeStamp = [];
+  let highchartsWeatherData = {};
 
   //extract dates per county
   _.each(plotDataVisits, (fields) => {
@@ -294,14 +294,14 @@ function filterWeatherData(plotDataVisits, weatherData) {
   _.each(
     _.intersection(Object.keys(weatherData), Object.keys(dates)),
     (county) => {
-      var arrTemp = [];
-      var arrPrec = [];
-      var dataTemp = null;
-      var dataPrec = null;
+      let arrTemp = [];
+      let arrPrec = [];
+      let dataTemp = null;
+      let dataPrec = null;
 
       //array dates/weather
       _.each(dates[county], (timeStamp) => {
-        var infoWeather = weatherData[county].forecast[timeStamp];
+        let infoWeather = weatherData[county].forecast[timeStamp];
         if (infoWeather) {
           timeStamp = parseInt(timeStamp + "000");
           arrTemp.push([
@@ -338,7 +338,7 @@ function filterWeatherData(plotDataVisits, weatherData) {
  * @param dataChartWeather
  */
 function drawWeatherChartPerCounty(dataChartWeather) {
-  var weatherDivId = "chartweathercontainer";
+  let weatherDivId = "chartweathercontainer";
   document.getElementById(weatherDivId).innerHTML = "";
 
   if (_.isEmpty(dataChartWeather)) {
@@ -346,13 +346,18 @@ function drawWeatherChartPerCounty(dataChartWeather) {
     return weatherDiv;
   }
 
-  var divRow = document.createElement("div");
+  let positionChart = "mt-5 w-100";
+  if (!(_.keys(dataChartWeather).length === 1))
+    //for only one result
+    positionChart = positionChart.replace("w-100", "col-md-4");
+
+  let divRow = document.createElement("div");
   divRow.setAttribute("class", "row");
   document.getElementById(weatherDivId).append(divRow);
 
   _.each(dataChartWeather, function (series, key) {
-    var container = document.createElement("div");
-    container.setAttribute("class", "col-md-4 mt-5");
+    let container = document.createElement("div");
+    container.setAttribute("class", positionChart);
     divRow.append(container);
 
     window.chart = new Highcharts.Chart({
