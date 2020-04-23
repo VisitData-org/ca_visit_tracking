@@ -271,9 +271,15 @@ function drawWeatherData(plotDataVisits) {
  */
 function filterWeatherData(plotDataVisits, weatherData) {
   // get counties timestamps
+  let dates = getTimestampsPerCounty(plotDataVisits);
+  let highchartsWeatherData = getHighchartsWeatherData(dates, weatherData);
+
+  return highchartsWeatherData;
+}
+
+function getTimestampsPerCounty(plotDataVisits) {
   let dates = {};
   let timeStamp = [];
-  let highchartsWeatherData = {};
 
   //extract dates per county
   _.each(plotDataVisits, (fields) => {
@@ -290,8 +296,14 @@ function filterWeatherData(plotDataVisits, weatherData) {
     }
   });
 
-  // format matching data county/weatherPerCounty to add to highcharts data
-  _.each(
+  return dates;
+}
+
+function getHighchartsWeatherData(dates, weatherData) {
+   // format matching data county/weatherPerCounty to add to highcharts data
+   let highchartsWeatherData = {};
+
+   _.each(
     _.intersection(Object.keys(weatherData), Object.keys(dates)),
     (county) => {
       let arrTemp = [];
@@ -338,12 +350,12 @@ function filterWeatherData(plotDataVisits, weatherData) {
  * @param dataChartWeather
  */
 function drawWeatherChartPerCounty(dataChartWeather) {
-  let weatherDivId = "chartweathercontainer";
+  let weatherDivId = "chart-weather-container";
   document.getElementById(weatherDivId).innerHTML = "";
 
   if (_.isEmpty(dataChartWeather)) {
     document.getElementById(weatherDivId).append("Empty weather data");
-    return weatherDiv;
+    return weatherDivId;
   }
 
   let positionChart = "mt-5 w-100";
