@@ -266,14 +266,14 @@ function drawWeatherData(plotDataVisits) {
  * Data has been filtered to only extract the existent date times per county
  * As well only available counties are filtered
  *
- * @param {*} plotDataVisits
- * @param {*} weatherData
+ * @param plotDataVisits
+ * @param weatherData
  */
 function filterWeatherData(plotDataVisits, weatherData) {
   // get counties timestamps
   let dates = getTimestampsPerCounty(plotDataVisits);
   let highchartsWeatherData = getHighchartsWeatherData(dates, weatherData);
-
+  addVisitsSites(highchartsWeatherData, plotDataVisits);
   return highchartsWeatherData;
 }
 
@@ -300,10 +300,10 @@ function getTimestampsPerCounty(plotDataVisits) {
 }
 
 function getHighchartsWeatherData(dates, weatherData) {
-   // format matching data county/weatherPerCounty to add to highcharts data
-   let highchartsWeatherData = {};
+  // format matching data county/weatherPerCounty to add to highcharts data
+  let highchartsWeatherData = {};
 
-   _.each(
+  _.each(
     _.intersection(Object.keys(weatherData), Object.keys(dates)),
     (county) => {
       let arrTemp = [];
@@ -344,6 +344,15 @@ function getHighchartsWeatherData(dates, weatherData) {
   return highchartsWeatherData;
 }
 
+function addVisitsSites(highchartsWeatherData, plotDataVisits) {
+  _.each(plotDataVisits, function (series) {
+    if (!_.isEmpty(highchartsWeatherData[series.name]))
+      highchartsWeatherData[series.name].dataVisits = {
+        data: series.data,
+      };
+  });
+}
+
 /**
  * 3ºrd Draw a chart per county
  *
@@ -361,7 +370,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
   let positionChart = "mt-5 w-100";
   if (!(_.keys(dataChartWeather).length === 1))
     //for only one result
-    positionChart = positionChart.replace("w-100", "col-md-4");
+    positionChart = positionChart.replace("w-100", "col-md-6");
 
   let divRow = document.createElement("div");
   divRow.setAttribute("class", "row");
@@ -385,6 +394,21 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           title: {
             text: "",
             style: {
+              color: Highcharts.getOptions().colors[3],
+            },
+          },
+          labels: {
+            format: "{value}  %",
+            style: {
+              color: Highcharts.getOptions().colors[3],
+            },
+          },
+        },
+        {
+          // Secondary yAxis
+          title: {
+            text: "",
+            style: {
               color: Highcharts.getOptions().colors[7],
             },
           },
@@ -394,10 +418,9 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: Highcharts.getOptions().colors[7],
             },
           },
-          opposite: true,
         },
         {
-          // Secondary yAxis
+          // Tertiary yAxis
           gridLineWidth: 0,
           title: {
             text: "",
@@ -418,7 +441,6 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       },
       xAxis: {
         type: "datetime",
-        tickInterval: 24 * 3600 * 1000 * 5,
         dateTimeLabelFormats: {
           day: "%a %b %e",
           week: "%a %b %e",
@@ -430,10 +452,20 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       },
       series: [
         {
-          type: "column",
+          type: "line",
+          name: "Visits",
           yAxis: 1,
+          data: series.dataVisits.data,
+          tooltip: {
+            valueSuffix: " %",
+          },
+          color: Highcharts.getOptions().colors[3],
+        },
+        {
+          type: "column",
           name: "Precipitations",
           data: series.dataPrec.data,
+          yAxis: 2,
           tooltip: {
             valueSuffix: " in",
           },
