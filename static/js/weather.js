@@ -254,7 +254,7 @@ let weatherData = {
  * 2ºnd Filter and Cross-data to obtain weather/county/timestamp
  * 3ºrd Draw a chart per county
  *
- * @param {json} plotDataVisits visit data selected by the user to be draw
+ * @param plotDataVisits Visit data selected by the user to be draw
  */
 function drawWeatherData(plotDataVisits) {
   //TODO: getWeatherData from script
@@ -266,8 +266,8 @@ function drawWeatherData(plotDataVisits) {
  * Data has been filtered to only extract the existent date times per county
  * As well only available counties are filtered
  *
- * @param plotDataVisits
- * @param weatherData
+ * @param plotDataVisits Data with the filtered visits/county/venue
+ * @param weatherData All weather data for State
  */
 function filterWeatherData(plotDataVisits, weatherData) {
   // get counties timestamps
@@ -277,6 +277,11 @@ function filterWeatherData(plotDataVisits, weatherData) {
   return highchartsWeatherData;
 }
 
+/***
+ *
+ * @param plotDataVisits Data with the filtered visits/county/venue
+ * @returns {{}} dates Object with county/date
+ */
 function getTimestampsPerCounty(plotDataVisits) {
   let dates = {};
   let timeStamp = [];
@@ -299,8 +304,14 @@ function getTimestampsPerCounty(plotDataVisits) {
   return dates;
 }
 
+/**
+ * Cross-data for weather and visits. Finds the weather data in the existent dates per county
+ *
+ * @param dates Dates per county where visit data is found
+ * @param weatherData All weather data for State
+ * @returns {{}} highchartsWeatherData Counties with weather data found in dates
+ */
 function getHighchartsWeatherData(dates, weatherData) {
-  // format matching data county/weatherPerCounty to add to highcharts data
   let highchartsWeatherData = {};
 
   _.each(
@@ -316,13 +327,17 @@ function getHighchartsWeatherData(dates, weatherData) {
         let infoWeather = weatherData[county].forecast[timeStamp];
         if (infoWeather) {
           timeStamp = parseInt(timeStamp + "000");
+
           arrTemp.push([
             timeStamp,
             infoWeather.day.maxtemp_f,
             infoWeather.day.mintemp_f,
           ]);
 
-          arrPrec.push([timeStamp, infoWeather.day.totalprecip_in]);
+          arrPrec.push([
+            timeStamp, 
+            infoWeather.day.totalprecip_in
+          ]);
 
           //temp min/max
           dataTemp = {
@@ -344,6 +359,12 @@ function getHighchartsWeatherData(dates, weatherData) {
   return highchartsWeatherData;
 }
 
+/**
+ * Appends Visits to Weather info
+ *
+ * @param highchartsWeatherData Formatted data with Weather info
+ * @param plotDataVisits Object with Visits data per county
+ */
 function addVisitsSites(highchartsWeatherData, plotDataVisits) {
   _.each(plotDataVisits, function (series) {
     if (!_.isEmpty(highchartsWeatherData[series.name]))
@@ -356,7 +377,7 @@ function addVisitsSites(highchartsWeatherData, plotDataVisits) {
 /**
  * 3ºrd Draw a chart per county
  *
- * @param dataChartWeather
+ * @param dataChartWeather Formatted data with Weather and Visits info
  */
 function drawWeatherChartPerCounty(dataChartWeather) {
   let weatherDivId = "chart-weather-container";
@@ -367,15 +388,16 @@ function drawWeatherChartPerCounty(dataChartWeather) {
     return weatherDivId;
   }
 
-  let positionChart = "mt-5 w-100";
-  if (!(_.keys(dataChartWeather).length === 1))
-    //for only one result
-    positionChart = positionChart.replace("w-100", "col-md-6");
-
+  //grid displaying plots
   let divRow = document.createElement("div");
+  let positionChart = "mt-5 w-100";
+
+  if (!(_.keys(dataChartWeather).length === 1))
+    positionChart = positionChart.replace("w-100", "col-md-6");
   divRow.setAttribute("class", "row");
   document.getElementById(weatherDivId).append(divRow);
 
+  //drawing plot/county
   _.each(dataChartWeather, function (series, key) {
     let container = document.createElement("div");
     container.setAttribute("class", positionChart);
