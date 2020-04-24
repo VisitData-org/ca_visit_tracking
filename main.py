@@ -15,7 +15,7 @@ from scripts.weather import get_state_weather_locally, get_state_weather_cloud
 app = Flask(__name__, static_url_path="", static_folder="static")
 app_state = {
     "maps_api_key": "",
-    "weather_path_data": "",
+    "weather_path_data": "vd-weather-data",
     "foursquare_data_url": "",
     "foursquare_data_version": ""
 }
@@ -191,7 +191,7 @@ def _init_data_env():
 
 def _init_weather_data_env():
     # Gcloud bucket name
-    bucket_name = os.getenv("BUCKET_NAME", "")
+    bucket_name = os.getenv("BUCKET_NAME", "vd-weather-data")
 
     if bucket_name == "":
         error("Weather data will be stored locally")
