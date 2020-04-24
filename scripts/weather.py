@@ -4,7 +4,8 @@ from deepmerge import always_merger
 from scripts.config import *
 from google.cloud import storage
 
-def get_weather_data(query, limit=7):
+
+def get_weather_data(query, limit=30):
     weather = {}
     weather["forecast"] = {}
     for day in range(limit, -1, -1):
@@ -37,6 +38,11 @@ def __update_state_file(state, data):
         json.dump(data, f)
 
 def get_state_weather_locally(state):
+    STATES = {}
+
+    with open("states_counties.json") as f:
+        STATES = json.load(f)
+
     if state not in STATES:
         return json.dumps(NO_STATE_ERROR_RESPONSE)
     cached_data = __load_state_file(state)
@@ -52,3 +58,5 @@ def get_state_weather_cloud(state, bucket_name):
     bucket = storage_client.bucket(bucket_name)
     file = bucket.get_blob("{}.json".format(state))
     return json.loads(file.download_as_string()) if file is not None else {}
+
+
