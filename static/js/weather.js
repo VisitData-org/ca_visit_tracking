@@ -412,6 +412,37 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       },
       yAxis: [
         {
+          // Secondary yAxis
+          title: {
+            text: "",
+            style: {
+              color: "#60acab61",
+            },
+          },
+          labels: {
+            format: "{value} °F",
+            style: {
+              color: "#60acab61",
+            },
+          },
+        },
+        {
+          // Tertiary yAxis
+          gridLineWidth: 0,
+          title: {
+            text: "",
+            style: {
+              color: "#f15c805e",
+            },
+          },
+          labels: {
+            format: "{value} in",
+            style: {
+              color: "#f15c805e",
+            },
+          },
+        },        
+        {
           // Primary yAxis
           title: {
             text: "",
@@ -423,37 +454,6 @@ function drawWeatherChartPerCounty(dataChartWeather) {
             format: "{value}  %",
             style: {
               color: Highcharts.getOptions().colors[3],
-            },
-          },
-        },
-        {
-          // Secondary yAxis
-          title: {
-            text: "",
-            style: {
-              color: Highcharts.getOptions().colors[7],
-            },
-          },
-          labels: {
-            format: "{value} °F",
-            style: {
-              color: Highcharts.getOptions().colors[7],
-            },
-          },
-        },
-        {
-          // Tertiary yAxis
-          gridLineWidth: 0,
-          title: {
-            text: "",
-            style: {
-              color: Highcharts.getOptions().colors[5],
-            },
-          },
-          labels: {
-            format: "{value} in",
-            style: {
-              color: Highcharts.getOptions().colors[5],
             },
           },
         },
@@ -474,16 +474,6 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       },
       series: [
         {
-          type: "line",
-          name: "Visits",
-          yAxis: 1,
-          data: series.dataVisits.data,
-          tooltip: {
-            valueSuffix: " %",
-          },
-          color: Highcharts.getOptions().colors[3],
-        },
-        {
           type: "column",
           name: "Precipitations",
           data: series.dataPrec.data,
@@ -491,7 +481,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           tooltip: {
             valueSuffix: " in",
           },
-          color: Highcharts.getOptions().colors[5],
+          color: "#f15c805e",
         },
         {
           type: "arearange",
@@ -500,7 +490,17 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           tooltip: {
             valueSuffix: " °F",
           },
-          color: Highcharts.getOptions().colors[7],
+          color: "#60acab61",
+        },
+        {
+          type: "line",
+          name: "Visits",
+          yAxis: 1,
+          data: series.dataVisits.data,
+          tooltip: {
+            valueSuffix: " %",
+          },
+          color: Highcharts.getOptions().colors[3],
         },
       ],
     });
