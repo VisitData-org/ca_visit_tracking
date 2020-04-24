@@ -490,7 +490,7 @@ function getStates() {
     "Vermont",
     "Virginia",
     "Washington",
-    "Washington,D.C.",
+    "Washington, D.C.",
     "West Virginia",
     "Wisconsin",
     "Wyoming",
