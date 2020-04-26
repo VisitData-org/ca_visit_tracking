@@ -7,3 +7,4 @@ static/siteversion.txt
 localdata/
 *.iml
 datascratch/
+.gcpprj
