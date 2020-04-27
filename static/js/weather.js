@@ -1,26 +1,43 @@
 /**
  * @brief Contains the actions to draw on the web the weather plot per county
  * These reflect the precipitations data and the MAX/MIN temperatures
+ * 
+ * 1ºst Extract Weather for selected state
+ * 2ºnd Filter and Cross-data to obtain weather/county/timestamp
+ * 3ºrd Draw a chart per county
  *
  * @author Anne M. (anne.marie@strivelabs.io)
  * @year 2020
  */
 
+let weatherData;
+
 /**
- * Init function:
  * 1ºst Extract Weather for selected state
- * 2ºnd Filter and Cross-data to obtain weather/county/timestamp
- * 3ºrd Draw a chart per county
+ *
+ * @param selectedState current selected sate
+ */
+const requestWeatherData = (selectedState) = () => {
+  $("#weather-group").tooltip()
+  fetch("http://localhost:8080/weather/" + selectedState)
+  .then((response) => response.json())
+  .then((data) => {
+    $("#weather-data-checkbox").prop('disabled', false);
+    $("#weather-group").tooltip('disable')
+    weatherData = data})
+  .catch((error) => console.error('Error weather fetch:', error))
+}
+
+
+/**
+ * Filters and draws the weather plots
  *
  * @param plotDataVisits Visit data selected by the user to be draw
  */
 function drawWeatherData(plotDataVisits) {
-  $.ajax({
-    dataType: "json",
-    url: "http://localhost:8080/weather/" + selectedState,
-  }).done(function (weatherData) {
-    drawWeatherChartPerCounty(filterWeatherData(plotDataVisits, weatherData));
-  });
+  drawWeatherChartPerCounty(
+    filterWeatherData(plotDataVisits, weatherData)
+  );
 }
 
 /**
