@@ -18,7 +18,7 @@ var cubeVersion = urlParams.get('cubeversion');
 
 if (cubeVersion) {
   // v99 is v1, v100 is v2
-  _fourSquareDataUrl = _fourSquareDataUrl.replace(/v99/g, cubeVersion);
+  _fourSquareDataUrl = _fourSquareDataUrl.replace(/v[0-9]*/g, cubeVersion);
 }
 
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
