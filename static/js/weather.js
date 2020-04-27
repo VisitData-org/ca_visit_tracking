@@ -182,13 +182,15 @@ function drawWeatherChartPerCounty(dataChartWeather) {
     window.chart = new Highcharts.Chart({
       chart: {
         renderTo: container,
+        zoomType: 'x'
       },
       title: {
         text: key,
       },
       yAxis: [
         {
-          // Secondary yAxis
+          softThreshold: true,
+          // Primary yAxis
           title: {
             text: "",
             style: {
@@ -201,9 +203,10 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: "#60acab61",
             },
           },
+          opposite: true
         },
         {
-          // Tertiary yAxis
+          // Secondary yAxis
           gridLineWidth: 0,
           title: {
             text: "",
@@ -217,9 +220,10 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: "#f15c805e",
             },
           },
+          opposite: true
         },
         {
-          // Primary yAxis
+          // Tertiary yAxis
           title: {
             text: "",
             style: {
@@ -253,7 +257,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           type: "column",
           name: "Precipitations",
           data: series.dataPrec.data,
-          yAxis: 2,
+          yAxis: 1,
           tooltip: {
             valueSuffix: " in",
           },
@@ -271,7 +275,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         {
           type: "line",
           name: "Visits",
-          yAxis: 1,
+          yAxis: 2,
           data: series.dataVisits.data,
           tooltip: {
             valueSuffix: " %",
