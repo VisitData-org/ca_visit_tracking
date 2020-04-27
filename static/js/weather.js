@@ -23,6 +23,7 @@ const requestWeatherData = (selectedState) = () => {
   .then((response) => response.json())
   .then((data) => {
     $("#weather-data-checkbox").prop('disabled', false);
+    $("#weather-group").tooltip('hide')
     $("#weather-group").tooltip('disable')
     weatherData = data})
   .catch((error) => console.error('Error weather fetch:', error))
@@ -166,10 +167,13 @@ function drawWeatherChartPerCounty(dataChartWeather) {
 
   //grid displaying plots
   let divRow = document.createElement("div");
-  let positionChart = "mt-5 w-100";
+  let positionChart = 'mt-5 col-md-6';
 
-  if (!(_.keys(dataChartWeather).length === 1))
-    positionChart = positionChart.replace("w-100", "col-md-6");
+  if ((_.keys(dataChartWeather).length === 1)) {
+    positionChart = 'w-100';
+    $("#chartcontainer").hide();
+  }
+  
   divRow.setAttribute("class", "row");
   document.getElementById(weatherDivId).append(divRow);
 
