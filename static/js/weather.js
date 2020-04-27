@@ -73,6 +73,7 @@ function getTimestampsPerCounty(plotDataVisits) {
     });
     if (timeStamp.length) {
       // or each timestamp remove hours precision
+      if(fields.name.indexOf("County") < 0) fields.name = fields.name + " County";
       dates[fields.name] = _.each(timeStamp, function (value, index) {
         // remove hour from timestamp
         timeStamp[index] = parseInt(value.toString().slice(0, -3));
