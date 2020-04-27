@@ -292,65 +292,6 @@ function cleanLocType(string) {
   return string;
 }
 
-function showTopVenuesTable(stateOrCounty) {
-  var topVenuesFilename = _fourSquareDataUrl + '/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
-  Papa.parse(topVenuesFilename, {
-    download: true, complete:
-      function (results, file) {
-        // ok, we have the data from the state top venues file but we need to look here for county
-        var topVenuesTableData = results.data;
-        topVenuesTableData = _.map(topVenuesTableData, function (row) {
-          if (isRaw()) {
-            // raw
-            // 2020-04-01,New York,Bronx County,4f4533814b9074f6e4fb0106,Middle Schools,4d51711871548cfad45a1b9a,Hunts Point Middle School,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[4],
-              venue: row[6],
-              rank: parseInt(row[7]),
-              datenum: datenum(row[0])
-            };
-          } else {
-            // grouped
-            // 2020-04-01,New York,Jefferson County,Fast Food Restaurants,4ba2afb8f964a520211038e3,Taco Bell,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[3],
-              venue: row[5],
-              rank: parseInt(row[6]),
-              datenum: datenum(row[0])
-            };
-          }
-        });
-
-        var topVenuesTable = new Tabulator("#data-table", {
-          data: topVenuesTableData,
-          columns: [
-            { title: "Location Type", field: "location_type" },
-            { title: "County", field: "county" },
-            { title: "Venue", field: "venue" },
-            { title: "Rank", field: "rank" },
-            { title: "Date", field: "date" },
-          ],
-          height: "600px",
-          layout: "fitColumns",
-          initialSort: _.compact([
-            { column: "date", dir: "desc" },
-            stateOrCounty === 'county' ? { column: "county", dir: "asc" } : null,
-            { column: "rank", dir: "asc" },
-          ]),
-        });
-
-        topVenuesTable.addFilter("location_type", "=", locationTypeSel.value);
-        if (stateOrCounty === 'county') {
-          topVenuesTable.addFilter("county", "=", countySel.value);
-        }
-      }
-  });
-}
-
 function redoFilter(stateOrCounty) {
   table.clearFilter();
   table.addFilter("hour","=","All");
@@ -369,9 +310,6 @@ function redoFilter(stateOrCounty) {
   if (stateOrCountySel.value || locationTypeSel.value) {
     drawChart(stateOrCounty);
   };
-  // if (stateOrCountySel.value && locationTypeSel.value) {
-  //   showTopVenuesTable(stateOrCounty);
-  // }
 }
 
 function populateSelect(selectElement, stringList, selected) {
