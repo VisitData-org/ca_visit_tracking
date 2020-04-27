@@ -10,8 +10,7 @@ import os
 
 BASE_URL = "http://api.weatherapi.com/v1/history.json?key={}&q={}+united+states&dt={}"
 # Get a weatherapi.com api key
-API_KEY = os.environ.get("API_WEATHER_KEY", "1ebc11488ad5487a83a191652201604")
-
+API_KEY = os.environ.get("API_WEATHER_KEY", "a70a4e2736644cdcb9d85348202404")
 BUCKET_NAME = os.environ.get("BUCKET_NAME", "default")
 
 default_args = {
@@ -21,6 +20,14 @@ default_args = {
     'retries': 1,
     'retry_delay': timedelta(minutes=5)
 }
+
+gcs = Client()
+bucket = gcs.bucket(BUCKET_NAME)
+state_file = bucket.get_blob("states_counties.json")
+STATES = json.loads(state_file.download_as_string())
+
+def slugify_state(state):
+    return "-".join(state.split())
 
 def get_weather_data(query):
     weather = {}
@@ -41,17 +48,12 @@ def get_weather_data(query):
 
     return weather
 
-def get_weather():
-    data = {}
-    gcs = Client()
-    bucket = gcs.bucket(BUCKET_NAME)
-    state_file = bucket.get_blob("states_counties.json")
-    states = json.loads(state_file.download_as_string())
-
-    for state, counties in states.items():
-        data[state] = {}
-        data[state]["updated"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        blob = bucket.get_blob("{}.json".format(state))
+def weather_func_builder(state):
+    selected_state = state
+    def get_weather():
+        data = {"updated": datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+        counties = STATES[selected_state]
+        blob = bucket.get_blob("{}.json".format(selected_state))
         if blob is None:
             stated_cached_data = {}
         else:
@@ -59,25 +61,34 @@ def get_weather():
         for county in counties:
             api_data = get_weather_data(county)
             cached_data = stated_cached_data.get(county, {})
-            data[state][county] =always_merger.merge(cached_data, api_data)
+            data[county] = always_merger.merge(cached_data, api_data)
 
-        state_blob = bucket.blob("{}.json".format(state))
-        state_blob.upload_from_string(json.dumps(data[state]))
+        state_blob = bucket.blob("{}.json".format(selected_state))
+        state_blob.upload_from_string(json.dumps(data))
 
-    return True
+        return True
+    return get_weather
 
 
-dag = DAG(
-    dag_id="retrieve_weather_data",
-    description="Weather DAG",
-    default_args=default_args,
-    schedule_interval='@daily'
-)
 
-get_data_api = PythonOperator(
-    task_id="get-data-api",
-    python_callable=get_weather,
-    execution_timeout=timedelta(days=30),
-    dag=dag
-)
+def create_dag(dag_id, state):
+    dag = DAG(
+        dag_id=dag_id,
+        description="Weather DAG",
+        default_args=default_args,
+        schedule_interval='@daily'
+    )
+
+
+    get_data_api = PythonOperator(
+        task_id="get-data-{}".format(slugify_state(state)),
+        python_callable=weather_func_builder(state),
+        dag=dag
+    )
+
+    return dag
+
+for state in STATES.keys():
+    dag_id = "{}-weather".format(slugify_state(state))
+    globals()[dag_id] = create_dag(dag_id, state)
 
