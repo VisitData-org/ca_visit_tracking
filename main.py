@@ -9,11 +9,13 @@ from urllib.parse import urlparse, urlunparse
 import yaml
 from flask import Flask, redirect, render_template, request
 from google.cloud import storage
+from scripts.weather import get_state_weather_locally, get_state_weather_cloud
 
 
 app = Flask(__name__, static_url_path="", static_folder="static")
 app_state = {
     "maps_api_key": "",
+    "weather_path_data": "vd-weather-data",
     "foursquare_data_url": "",
     "foursquare_data_version": ""
 }
@@ -145,6 +147,13 @@ def data(path):
                            snapshot_id=app_state['foursquare_data_version'])
 
 
+@app.route("/weather/<state>")
+def weather(state):
+    if app_state["weather_path_data"] != "":
+        return get_state_weather_cloud(state, app_state["weather_path_data"])
+    else:
+        return get_state_weather_locally(state)
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
@@ -185,11 +194,21 @@ def _init_data_env():
     app_state["foursquare_data_url"] =\
         f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
 
+def _init_weather_data_env():
+    # Gcloud bucket name
+    bucket_name = os.getenv("BUCKET_NAME", "vd-weather-data")
+
+    if bucket_name == "":
+        error("Weather data will be stored locally")
+
+    app_state["weather_path_data"] = bucket_name
+
 
 def _init():
     app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
     app.register_error_handler(404, page_not_found)
     _init_maps_api_key()
+    _init_weather_data_env()
     _init_data_env()
     print(app_state)
 
