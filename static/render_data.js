@@ -760,6 +760,10 @@ function parse(stateOrCounty) {
 
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
+  if ($('#weather-data-checkbox').length && 
+    (!_.isEmpty(selectedCounties) || 
+    !_.isEmpty(selectedVenues)))
+    requestWeatherData(selectedState);
   setNavLinks(stateOrCounty);
   parse(stateOrCounty);
 }
