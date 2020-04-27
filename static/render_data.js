@@ -13,7 +13,13 @@ var selectedState;
 
 const urlParams = new URLSearchParams(window.location.search);
 var datafilename = urlParams.get('datafilename');
-var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
+var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes');
+var cubeVersion = urlParams.get('cubeversion');
+
+if (cubeVersion) {
+  // v99 is v1, v100 is v2
+  _fourSquareDataUrl = _fourSquareDataUrl.replace(/v99/g, cubeVersion);
+}
 
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 
@@ -619,6 +625,7 @@ var filePrefix;
 var countyData;
 
 function parse(stateOrCounty) {
+
   if (stateOrCounty === 'state') {
     /*
       to set the filename we have a few questions
