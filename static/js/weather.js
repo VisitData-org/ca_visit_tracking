@@ -270,7 +270,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         },
         {
           type: "arearange",
-          name: "Temperature MIN/MAX",
+          name: "Temperature MAX/MIN",
           data: series.dataTemp.data,
           tooltip: {
             valueSuffix: " °F",
