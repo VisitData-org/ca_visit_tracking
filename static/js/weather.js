@@ -6,248 +6,6 @@
  * @year 2020
  */
 
-//FIXME: temporal data, remove once data is obtained correctly
-let weatherData = {
-  "Yellowstone County": {
-    region: "Montana",
-    country: "United States of America",
-    lat: 44.66,
-    lon: -111.1,
-    tz_id: "America/Denver",
-    localtime: "2020-04-16 13:34",
-    forecast: {
-      "1583020800": {
-        date: "2020-04-15",
-        day: {
-          maxtemp_c: 0.5,
-          maxtemp_f: 32.9,
-          mintemp_c: -6.7,
-          mintemp_f: 19.9,
-          avgtemp_c: -1.9,
-          avgtemp_f: 28.7,
-          maxwind_mph: 15.0,
-          maxwind_kph: 24.1,
-          totalprecip_mm: 6.2,
-          totalprecip_in: 0.24,
-          avgvis_km: 5.0,
-          avgvis_miles: 3.0,
-          avghumidity: 89.0,
-        },
-      },
-      "1583971200": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: -1.9,
-          maxtemp_f: 28.6,
-          mintemp_c: -14.3,
-          mintemp_f: 6.3,
-          avgtemp_c: -6.6,
-          avgtemp_f: 20.2,
-          maxwind_mph: 10.1,
-          maxwind_kph: 16.2,
-          totalprecip_mm: 0.4,
-          totalprecip_in: 0.02,
-          avgvis_km: 9.1,
-          avgvis_miles: 5.0,
-          avghumidity: 79.0,
-        },
-      },
-      "1585267200": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: -1.9,
-          maxtemp_f: 35.6,
-          mintemp_c: 4.3,
-          mintemp_f: 6.3,
-          avgtemp_c: -6.6,
-          avgtemp_f: 20.2,
-          maxwind_mph: 10.1,
-          maxwind_kph: 16.2,
-          totalprecip_mm: 0.4,
-          totalprecip_in: 0.23,
-          avgvis_km: 9.1,
-          avgvis_miles: 5.0,
-          avghumidity: 79.0,
-        },
-      },
-      "1585958400": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: -1.9,
-          maxtemp_f: 80.6,
-          mintemp_c: 15.3,
-          mintemp_f: 6.3,
-          avgtemp_c: -6.6,
-          avgtemp_f: 20.2,
-          maxwind_mph: 10.1,
-          maxwind_kph: 16.2,
-          totalprecip_mm: 0.4,
-          totalprecip_in: 0.67,
-          avgvis_km: 9.1,
-          avgvis_miles: 5.0,
-          avghumidity: 79.0,
-        },
-      },
-    },
-  },
-  "Gallatin County": {
-    region: "Montana",
-    country: "United States of America",
-    lat: 46.87,
-    lon: -113.99,
-    tz_id: "America/Denver",
-    localtime: "2020-04-17 2:16",
-    forecast: {
-      "1583625600": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 41.5,
-          mintemp_c: -11.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.0,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-      "1583030800": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 41.5,
-          mintemp_c: -11.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.0,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-      "1583539200": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 41.5,
-          mintemp_c: -11.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.0,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-    },
-  },
-  "Missoula County": {
-    region: "Missouri",
-    country: "United States of America",
-    lat: 39.54,
-    lon: -95.05,
-    tz_id: "America/Chicago",
-    localtime: "2020-04-18 13:10",
-    forecast: {
-      "1583020800": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 70.5,
-          mintemp_c: 4.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.4,
-          totalprecip_in: 0.67,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-      "1583539200": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 20.5,
-          mintemp_c: -15.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.87,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-      "1583625600": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 45.5,
-          mintemp_c: -13.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.08,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-    },
-  },
-  "Cascade County": {
-    region: "Montana",
-    country: "United States of America",
-    lat: 46.87,
-    lon: -113.99,
-    tz_id: "America/Denver",
-    localtime: "2020-04-17 2:16",
-    forecast: {
-      "1584057600": {
-        date: "2020-04-16",
-        day: {
-          maxtemp_c: 5.3,
-          maxtemp_f: 10.5,
-          mintemp_c: -11.0,
-          mintemp_f: 12.2,
-          avgtemp_c: 0.4,
-          avgtemp_f: 32.7,
-          maxwind_mph: 4.7,
-          maxwind_kph: 7.6,
-          totalprecip_mm: 0.0,
-          totalprecip_in: 0.24,
-          avgvis_km: 10.0,
-          avgvis_miles: 6.0,
-          avghumidity: 71.0,
-        },
-      },
-    },
-  },
-};
-
 /**
  * Init function:
  * 1ºst Extract Weather for selected state
@@ -257,8 +15,12 @@ let weatherData = {
  * @param plotDataVisits Visit data selected by the user to be draw
  */
 function drawWeatherData(plotDataVisits) {
-  //TODO: getWeatherData from script
-  drawWeatherChartPerCounty(filterWeatherData(plotDataVisits, weatherData));
+  $.ajax({
+    dataType: "json",
+    url: "http://localhost:8080/weather/" + selectedState,
+  }).done(function (weatherData) {
+    drawWeatherChartPerCounty(filterWeatherData(plotDataVisits, weatherData));
+  });
 }
 
 /**
@@ -325,19 +87,16 @@ function getHighchartsWeatherData(dates, weatherData) {
       //array dates/weather
       _.each(dates[county], (timeStamp) => {
         let infoWeather = weatherData[county].forecast[timeStamp];
-        if (infoWeather) {
+        if (!_.isEmpty(infoWeather)) {
           timeStamp = parseInt(timeStamp + "000");
 
           arrTemp.push([
             timeStamp,
-            infoWeather.day.maxtemp_f,
-            infoWeather.day.mintemp_f,
+            infoWeather.maxtemp_f,
+            infoWeather.mintemp_f,
           ]);
 
-          arrPrec.push([
-            timeStamp, 
-            infoWeather.day.totalprecip_in
-          ]);
+          arrPrec.push([timeStamp, infoWeather.totalprecip_in]);
 
           //temp min/max
           dataTemp = {
@@ -441,7 +200,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: "#f15c805e",
             },
           },
-        },        
+        },
         {
           // Primary yAxis
           title: {
