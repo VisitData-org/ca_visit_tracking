@@ -12,8 +12,9 @@ import tarfile
 
 ALL_FIELDS = ['date', 'country', 'state', 'county', 'zip',
               'categoryid', 'categoryname', 'hour', 'demo',
-              'visits', 'avgDuration', 'p25Duration', 'p50Duration',
-              'p75Duration', 'p90Duration', 'p99Duration',
+            #   'visits', 'avgDuration', 'p25Duration', 'p50Duration',
+            #   'p75Duration', 'p90Duration', 'p99Duration',
+              'visits', 'avgDuration', 'p50Duration',
               'pctTo10Mins', 'pctTo20Mins', 'pctTo30Mins',
               'pctTo60Mins', 'pctTo2Hours', 'pctTo4Hours',
               'pctTo8Hours', 'pctOver8Hours']
