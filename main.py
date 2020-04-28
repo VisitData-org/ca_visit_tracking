@@ -98,12 +98,6 @@ def bystatesel(state, venues):
                            foursquare_data_url=app_state["foursquare_data_url"])
 
 
-# @app.route("/cube.html")
-# def rendercube():
-#     return render_template("cube.html",
-#                            foursquare_data_url=app_state["foursquare_data_url"])
-
-
 @app.route("/faq")
 def faq():
     return render_template("faq.html")
