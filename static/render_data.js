@@ -605,7 +605,7 @@ function parsingDone(stateOrCounty, results, file) {
   if(locationTypeSel.value) {
     // ok, we selected a location type so disable essential
     essentialSel.value = 'all';
-    essentialSel.style.display = 'none';
+    essentialSel.parentElement.style.display = 'none';
   }
 
   //actions for agegroup-select button
