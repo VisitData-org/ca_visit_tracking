@@ -33,10 +33,10 @@ const AGE_GROUP_LABELS = {
   over65: "over 65 years old",
 }
 
-const AGE_GROUP_FIELDS = {
-  all: "visit_index",
-  under65: "visit_index_under65",
-  over65: "visit_index_over65",
+const AGE_GROUP_VALUES = {
+  all: "All",
+  under65: "Below65",
+  over65: "Above65",
 }
 
 function showVenueExamples(pagetype) {
@@ -86,7 +86,7 @@ function chartTitle(stateOrCounty) {
         break;
     }
   }
-  result += "Visits %";
+  result += " Estimated # Visits";
   return result;
 }
 
@@ -123,7 +123,7 @@ function fileDataToHighcharts(fileDataToPlot) {
     var year = date.slice(0, 4);
     var month = date.slice(5, 7);
     var day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow[AGE_GROUP_FIELDS[ageGroupSel.value]])];
+    return [Date.UTC(year, month-1, day), parseInt(fileDataRow.num_visits)];
   });
 }
 
@@ -147,6 +147,13 @@ function seriesToPlot(stateOrCounty) {
       }
     }
   );
+
+  //TODO filter out the ages we don't need
+  plotData = _.filter(plotData, (datapoint) => {
+    var datapointAge = datapoint.age;
+    return datapointAge == AGE_GROUP_VALUES[ageGroupSel.value];
+  });
+
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     var lts = locationTypesToChart(fileDataToPlot);
@@ -160,6 +167,7 @@ function seriesToPlot(stateOrCounty) {
       return series.data.length > 0;
     });
 
+    results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
@@ -175,6 +183,7 @@ function seriesToPlot(stateOrCounty) {
       return series.data.length > 0;
     });
 
+    results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
     return results;
   }
@@ -185,6 +194,18 @@ function seriesToPlot(stateOrCounty) {
       data: fileDataToHighcharts(fileDataToPlot)
     })];
   }
+}
+
+function sortStatewideFirst(seriesToSort) {
+  return seriesToSort.sort((a,b) => { 
+    if(a.name == 'Statewide' && b.name != 'Statewide') {
+      return -1;
+    }
+    if(a.name != 'Statewide' && b.name == 'Statewide') {
+      return 1;
+    }
+    return a.name - b.name;
+  })
 }
 
 function isPlotDataEmpty(seriesForPlot) {
@@ -261,7 +282,7 @@ function drawChart(stateOrCounty) {
           text: 'Date'
         }
       },
-      yAxis: { title: { text: 'Visits %' }, min: 0 },
+      yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
         pointFormat: '{point.x:%a %b %e}: {point.y}%'
@@ -303,65 +324,6 @@ function cleanLocType(string) {
   return string;
 }
 
-function showTopVenuesTable(stateOrCounty) {
-  var topVenuesFilename = _fourSquareDataUrl + '/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
-  Papa.parse(topVenuesFilename, {
-    download: true, complete:
-      function (results, file) {
-        // ok, we have the data from the state top venues file but we need to look here for county
-        var topVenuesTableData = results.data;
-        topVenuesTableData = _.map(topVenuesTableData, function (row) {
-          if (isRaw()) {
-            // raw
-            // 2020-04-01,New York,Bronx County,4f4533814b9074f6e4fb0106,Middle Schools,4d51711871548cfad45a1b9a,Hunts Point Middle School,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[4],
-              venue: row[6],
-              rank: parseInt(row[7]),
-              datenum: datenum(row[0])
-            };
-          } else {
-            // grouped
-            // 2020-04-01,New York,Jefferson County,Fast Food Restaurants,4ba2afb8f964a520211038e3,Taco Bell,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[3],
-              venue: row[5],
-              rank: parseInt(row[6]),
-              datenum: datenum(row[0])
-            };
-          }
-        });
-
-        var topVenuesTable = new Tabulator("#data-table", {
-          data: topVenuesTableData,
-          columns: [
-            { title: "Location Type", field: "location_type" },
-            { title: "County", field: "county" },
-            { title: "Venue", field: "venue" },
-            { title: "Rank", field: "rank" },
-            { title: "Date", field: "date" },
-          ],
-          height: "600px",
-          layout: "fitColumns",
-          initialSort: _.compact([
-            { column: "date", dir: "desc" },
-            stateOrCounty === 'county' ? { column: "county", dir: "asc" } : null,
-            { column: "rank", dir: "asc" },
-          ]),
-        });
-
-        topVenuesTable.addFilter("location_type", "=", locationTypeSel.value);
-        if (stateOrCounty === 'county') {
-          topVenuesTable.addFilter("county", "=", countySel.value);
-        }
-      }
-  });
-}
-
 function redoFilter(stateOrCounty) {
   table.clearFilter();
   if (stateOrCountySel.value) {
@@ -371,7 +333,7 @@ function redoFilter(stateOrCounty) {
     table.addFilter("location_type", "=", locationTypeSel.value);
   }
   if (ageGroupSel.value) {
-    table.addFilter(AGE_GROUP_FIELDS[ageGroupSel.value], "!=", "");
+    table.addFilter("age", "=", AGE_GROUP_VALUES[ageGroupSel.value]);
   }
   if(essentialSel.value != 'all') {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
@@ -382,9 +344,6 @@ function redoFilter(stateOrCounty) {
   if (ageGroupSel.value) {
     table.redraw(true);
   }
-  // if (stateOrCountySel.value && locationTypeSel.value) {
-  //   showTopVenuesTable(stateOrCounty);
-  // }
 }
 
 function populateSelect(selectElement, stringList, selected) {
@@ -405,66 +364,42 @@ function isGroupedCategoryEssential(groupName){
   return isGroupEssential;
 }
 
-function parseGroupedRow(stateOrCounty, row) {
-  //date,state,county,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
+function getCounty(rowCounty) {
+  if(rowCounty === "") {
+    return "Statewide";
   } else {
-    return {
-      date: row.date,
-      state: row.state,
-      county: row.county,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
+    return rowCounty;
   }
 }
 
+function parseGroupedRow(stateOrCounty, row) {
+  return {
+    date: row.date,
+    state: row.state,
+    county: getCounty(row.county),
+    location_type: row.categoryname,
+    p50Duration: row.p50Duration,
+    meanDuration: row.avgDuration,
+    essential: isGroupedCategoryEssential(row.categoryname),
+    num_visits: row.visits,
+    age: row.demo,
+    datenum: datenum(row.date)
+  };
+}
+
 function parseRawRow(stateOrCounty, row) {
-  //date,state,county,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
-  } else {
-    return {
-      date: row.date,
-      state: row.state,
-      county: row.county,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
-  }
+  return {
+    date: row.date,
+    state: row.state,
+    county: getCounty(row.county),
+    location_type: row.categoryname,
+    p50Duration: row.p50Duration,
+    meanDuration: row.avgDuration,
+    essential: isCategoryEssential(row.categoryid),
+    num_visits: row.visits,
+    age: row.demo,
+    datenum: datenum(row.date)
+  };
 }
 
 function isRaw() {
@@ -528,6 +463,7 @@ function getStates() {
     "Vermont",
     "Virginia",
     "Washington",
+    "Washington, D.C.",
     "West Virginia",
     "Wisconsin",
     "Wyoming",
@@ -549,15 +485,14 @@ function parsingDone(stateOrCounty, results, file) {
   table = new Tabulator("#data-table", {
     data:fileData,
     columns:[
-      {title:"Location Type", field:"location_type"},
-      {title:"Essential", field:"essential", visible: false},
-      {title:"Visits %", field:"visit_index", visible: true},
-      {title:"Visits %", field:"visit_index_over65", visible: false},
-      {title:"Visits %", field:"visit_index_under65", visible: false},
-      stateOrCounty === 'state' ?
-        {title:"State", field:"state"} :
-        {title:"County", field:"county"},
-      {title:"Date", field:"date"},
+      { title: "County", field: "county" },
+      { title: "Location Type", field: "location_type" },
+      { title: "Essential", field: "essential", visible: false },
+      { title: "# Visits", field: "num_visits", visible: true },
+      { title: "Median Visit Length, Minutes", field: "p50Duration", visible: true },
+      { title: "Mean Duration Minutes", field: "meanDuration", visible: false },
+      { title: "Age", field: "age", visible: true },
+      { title: "Date", field: "date" },
     ],
     height:"600px",
     layout:"fitColumns",
@@ -598,11 +533,6 @@ function parsingDone(stateOrCounty, results, file) {
 
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
-    // hide all 3
-    table.hideColumn("visit_index");
-    table.hideColumn("visit_index_over65");
-    table.hideColumn("visit_index_under65");
-    table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
     redoFilter(stateOrCounty);
 
     if (stateOrCountySel.value || locationTypeSel.value) {
@@ -703,30 +633,25 @@ function setNavLinks(stateOrCounty) {
 }
 
 function parse(stateOrCounty) {
+  var filePrefix;
+  if (!urlParams.get('datafilename')) {
+    filePrefix = 'grouped';
+  } else {
+    filePrefix = 'raw';
+  }
+  datafilename = _fourSquareDataUrl + '/' + filePrefix + '/' + selectedState.replace(/\s/g, '') + '.csv';
+
   if (stateOrCounty === 'state') {
-    /*
-      to set the filename we have a few questions
-      1) is this grouped or raw?
-      2) is the state set yet?
-    */
-    var filePrefix;
     if (!urlParams.get('datafilename')) {
-      // OK, this is really just grouped
-      filePrefix = 'grouped';
       document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
     } else {
-      filePrefix = 'raw';
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
 
-    datafilename = _fourSquareDataUrl + '/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   } else {
     if (!datafilename) {
-      datafilename = _fourSquareDataUrl + '/grouped' + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
-
     } else {
-      datafilename = _fourSquareDataUrl + '/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }
   }
