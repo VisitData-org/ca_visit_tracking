@@ -384,13 +384,41 @@ def check_args():
     parser = argparse.ArgumentParser(
         description='Shred the Foursquare cube data into state and county files')
     prev_group = parser.add_mutually_exclusive_group(required=True)
-    prev_group.add_argument('-p', '--prevver', type=check_prev())
-    prev_group.add_argument('--prevdir', type=check_prev_dir())
-    prev_group.add_argument('--init', action='store_true')
-    parser.add_argument('fs_tar', type=check_fs())
-    parser.add_argument('version', type=check_ver())
-    parser.add_argument('scratch', type=check_scratch())
+    prev_group.add_argument('-p', '--prevver', type=check_prev(),
+                            help='previous version url suffix (YYYYMMDD-v#)')
+    prev_group.add_argument('--prevdir', type=check_prev_dir(),
+                            help='previous version directory (avoid download)')
+    prev_group.add_argument('--init', action='store_true',
+                            help='start without a previous version')
+    parser.add_argument('fs_tar', type=check_fs(),
+                        help='Foursquare tar file')
+    parser.add_argument('version', type=check_ver(),
+                        help='new version (v#)')
+    parser.add_argument('scratch', type=check_scratch(),
+                        help='output directory')
     return parser.parse_args()
 
+def old_check_args():
+    if len(sys.argv) != 5:
+        usage('Wrong number of arguments')
+    _, fs_tar_path, prev_version, cur_version_num, scratch_dir = sys.argv
+    if not os.path.isfile(fs_tar_path):
+        usage('Foursquare tar file {} does not exist'.format(fs_tar_path))
+    ver_re = re.compile('\d{4}\d{2}\d{2}-v\d+')
+    if not ver_re.match(prev_version) and prev_version != 'INIT':
+        usage(('Previous day version string "{}" is not of ' +
+              'format YYYYMMDD-v# or INIT for starting fresh').format(prev_version))
+    ver_num_re = re.compile('v\d+')
+    if not ver_num_re.match(cur_version_num):
+        usage(('Current version number "{}" is not of ' +
+              'format v#').format(cur_version_num))
+    if os.path.exists(scratch_dir):
+        usage(('Scratch directory {} already exists.  Please ' +
+               'remove first.').format(scratch_dir))
+    # TODO: make this a switch
+    if prev_version == 'INIT':
+        prev_version = None
+    return fs_tar_path, prev_version, cur_version_num, scratch_dir 
+        
 if __name__ == "__main__":
     main(check_args())
