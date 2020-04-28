@@ -398,27 +398,5 @@ def check_args():
                         help='output directory')
     return parser.parse_args()
 
-def old_check_args():
-    if len(sys.argv) != 5:
-        usage('Wrong number of arguments')
-    _, fs_tar_path, prev_version, cur_version_num, scratch_dir = sys.argv
-    if not os.path.isfile(fs_tar_path):
-        usage('Foursquare tar file {} does not exist'.format(fs_tar_path))
-    ver_re = re.compile('\d{4}\d{2}\d{2}-v\d+')
-    if not ver_re.match(prev_version) and prev_version != 'INIT':
-        usage(('Previous day version string "{}" is not of ' +
-              'format YYYYMMDD-v# or INIT for starting fresh').format(prev_version))
-    ver_num_re = re.compile('v\d+')
-    if not ver_num_re.match(cur_version_num):
-        usage(('Current version number "{}" is not of ' +
-              'format v#').format(cur_version_num))
-    if os.path.exists(scratch_dir):
-        usage(('Scratch directory {} already exists.  Please ' +
-               'remove first.').format(scratch_dir))
-    # TODO: make this a switch
-    if prev_version == 'INIT':
-        prev_version = None
-    return fs_tar_path, prev_version, cur_version_num, scratch_dir 
-        
 if __name__ == "__main__":
     main(check_args())
