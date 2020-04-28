@@ -56,7 +56,6 @@ def slice_by_fields(rollup, fields, fn_template, out_dir,
             field_values = [v.translate(rem_trans) for v in field_values]
             path = os.path.join(out_dir, fn_template.format(*field_values))
             final = group.sort_values(SORT_FIELDS)
-            final.drop(columns=['state'], inplace=True)
             final.to_csv(path, index=False)
 
 def gen_index(rollup, out_dir):
