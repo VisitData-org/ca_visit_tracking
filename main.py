@@ -98,12 +98,6 @@ def bystatesel(state, venues):
                            foursquare_data_url=app_state["foursquare_data_url"])
 
 
-# @app.route("/cube.html")
-# def rendercube():
-#     return render_template("cube.html",
-#                            foursquare_data_url=app_state["foursquare_data_url"])
-
-
 @app.route("/faq")
 def faq():
     return render_template("faq.html")
@@ -183,7 +177,9 @@ def _init_data_env():
             foursquare_data_version = app_yaml_obj["env_variables"]["FOURSQUARE_DATA_VERSION"]
     app_state["foursquare_data_version"] = foursquare_data_version
     app_state["foursquare_data_url"] =\
-        f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
+        "/localdata/"
+        # f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
+
 
 
 def _init():

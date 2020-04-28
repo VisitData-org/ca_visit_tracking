@@ -466,7 +466,7 @@ function parsingDone(stateOrCounty, results, file) {
       {title:"Essential", field:"essential", visible: false},
       {title:"Hour", field:"hour", visible: false},
       {title:"# Visits", field:"num_visits", visible: true},
-      {title:"p50 Duration Minutes", field:"p50Duration", visible: true},
+      {title:"Median Visit Length, Minutes", field:"p50Duration", visible: true},
       {title:"Mean Duration Minutes", field:"meanDuration", visible: false},
       {title:"Age", field:"age", visible: true},
       stateOrCounty === 'state' ?
