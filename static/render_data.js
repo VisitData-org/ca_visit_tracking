@@ -104,8 +104,8 @@ function datenum(datestring) {
 //
 function locationTypesToChart(fileData) {
 
-  // sort by rank ascending,
-  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.rank });
+  // sort by most recent number ascending,
+  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.num_visits });
 
   // then sort by date descending,
   var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
@@ -156,6 +156,10 @@ function seriesToPlot(stateOrCounty) {
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
+    if(stateOrCounty == 'state') {
+      // if we are processing a state pick out the statewide number
+      fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
+    }
     var lts = locationTypesToChart(fileDataToPlot);
     var results = _.map(lts, function(locationType) {
       return styleSeries({
@@ -189,6 +193,10 @@ function seriesToPlot(stateOrCounty) {
   }
   if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
+    if(stateOrCounty == 'state') {
+      // if we are processing a state pick out the statewide number
+      fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
+    }
     return [styleSeries({
       name: locationTypeSel.value + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
@@ -285,7 +293,7 @@ function drawChart(stateOrCounty) {
       yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
-        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+        pointFormat: '{point.x:%a %b %e}: {point.y:,.0f}'
       },
       plotOptions: {
         series: {
@@ -375,7 +383,7 @@ function getCounty(rowCounty) {
 function parseGroupedRow(stateOrCounty, row) {
   return {
     date: row.date,
-    state: row.state,
+    state: selectedState, //row.state,
     county: getCounty(row.county),
     location_type: row.categoryname,
     p50Duration: row.p50Duration,
@@ -390,7 +398,7 @@ function parseGroupedRow(stateOrCounty, row) {
 function parseRawRow(stateOrCounty, row) {
   return {
     date: row.date,
-    state: row.state,
+    state: selectedState, //row.state,
     county: getCounty(row.county),
     location_type: row.categoryname,
     p50Duration: row.p50Duration,
