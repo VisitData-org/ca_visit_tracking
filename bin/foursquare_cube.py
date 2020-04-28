@@ -1,4 +1,5 @@
 import sys
+import argparse
 import os.path
 import distutils.dir_util
 import shutil
@@ -17,10 +18,10 @@ ALL_FIELDS = ['date', 'country', 'state', 'county', 'zip',
               'pctTo10Mins', 'pctTo20Mins', 'pctTo30Mins',
               'pctTo60Mins', 'pctTo2Hours', 'pctTo4Hours',
               'pctTo8Hours', 'pctOver8Hours']
-SORT_FIELDS = ['state', 'county', 'zip', 'demo', 'hour']
-STATE_COUNTY_FN = '{}_{}.csv'
+KEEP_FIELDS = ['date', 'state', 'county', 'categoryid', 'categoryname', 'demo',
+               'visits', 'avgDuration', 'p50Duration']
+SORT_FIELDS = ['state', 'county', 'demo']
 STATE_FN = '{}.csv'
-ZIP_FN = 'zip3_{}.csv'
 INDEX_FN = 'index.json'
 
 EXTRACT_FN = 'fs'
@@ -36,17 +37,17 @@ def load_rollup(path):
     return rollup
 
 def clean(roll):
-    roll = roll[roll.country == 'US'].copy()
-    roll.drop(columns=['country'], inplace=True)
-    roll.loc[pd.isna(roll.zip), 'zip'] = ''
+    roll = roll[((roll.country == 'US') &
+                 pd.isna(roll.zip) &
+                 (roll.hour == 'All'))].copy()
+    roll = roll[KEEP_FIELDS]
     roll.loc[pd.isna(roll.state), 'state'] = ''
     roll.loc[pd.isna(roll.county), 'county'] = ''
-    roll['zip3'] = roll.zip.str[:3]
     roll.sort_values(SORT_FIELDS, inplace=True)
     return roll
 
 def slice_by_fields(rollup, fields, fn_template, out_dir,
-                    rem_trans = str.maketrans({' ': '', "'": ''})):
+                    rem_trans = str.maketrans({' ': '', "'": '', ',': '', '.': ''})):
     groups = rollup.sort_values(fields).groupby(fields)
     for field_values, group in groups:
         if type(field_values) is not tuple:
@@ -54,8 +55,9 @@ def slice_by_fields(rollup, fields, fn_template, out_dir,
         if len(field_values) and field_values[0]:
             field_values = [v.translate(rem_trans) for v in field_values]
             path = os.path.join(out_dir, fn_template.format(*field_values))
-            group = group.drop(columns=['zip3'])
-            group.to_csv(path, index=False)
+            final = group.sort_values(SORT_FIELDS)
+            final.drop(columns=['state'], inplace=True)
+            final.to_csv(path, index=False)
 
 def gen_index(rollup, out_dir):
     states = list(rollup.state.unique())
@@ -69,33 +71,19 @@ def gen_index(rollup, out_dir):
                 counties[state] = []
             counties[state].append(county)
 
-    zips = list(rollup.zip.unique())
-    if '' in zips:
-        zips.remove('')
-
     demos = list(rollup.demo.unique())
-    hours = list(rollup.hour.unique())
     categories = list(rollup.categoryname.unique())
 
     index = {'states': states,
              'counties': counties,
-             'zips': zips,
              'demos': demos,
-             'hours': hours,
-            'categories': categories}
+             'categories': categories}
 
     with open(os.path.join(out_dir, INDEX_FN), 'w') as f:
         json.dump(index, f, indent=2)    
 
 def cube_one(rollup, out_dir):
-    state_county_rollup = rollup[(rollup.state != '') & (rollup.county != '')]
-    slice_by_fields(state_county_rollup, ['state', 'county'],
-                    STATE_COUNTY_FN, out_dir)
-
-    #zip_rollup = rollup[rollup.zip != '']
-    #slice_by_fields(zip_rollup, ['zip3'], ZIP_FN, out_dir)
-
-    state_rollup = rollup[(rollup.state != '') & (rollup.county == '')]
+    state_rollup = rollup[rollup.state != '']
     slice_by_fields(state_rollup, ['state'], STATE_FN, out_dir)
 
     gen_index(rollup, out_dir)
@@ -114,7 +102,12 @@ def find_fs_csvs(new_dir):
         if dn.startswith('dt='):
             date = dn[3:]
             for fn in os.listdir(os.path.join(new_dir, dn)):
-                date_and_csvs.append((date, os.path.join(new_dir, dn, fn)))
+                path = os.path.join(new_dir, dn, fn)
+                if fn.startswith('part'):
+                    date_and_csvs.append((date, path))
+                else:
+                    eprint(('Warning: ignoring csv "{}" with filename that does not ' +
+                            'start with "part"').format(path))
         else:
             eprint('Warning: found directory "{}" without "dt=" prefix'.format(dn))
     return date_and_csvs
@@ -304,16 +297,21 @@ def copy_top_files(prev_dir, cur_dir):
     else:
         eprint("Warning: you started without previous data, don't forget to " +
                "copy in additional top level files") 
-                
 
-def main(fs_tar_path, prev_version, cur_version_num, out_dir):
+#def main(fs_tar_path, prev_version, cur_version_num, out_dir):
+def main(args):
+    out_dir = args.scratch
     makedir(out_dir)
     
     # download previous day data directory from data.visitdata.org
-    prev_dir = download_prev(prev_version, out_dir)
+    if args.prevdir:
+        prev_dir = args.prevdir
+    else:
+        prev_version = args.prevver if args.prevver else None
+        prev_dir = download_prev(prev_version, out_dir)
 
     # extract fs tar with new data, find the dates & csv paths it contains
-    fs_extract_dir = extract_fs(fs_tar_path, out_dir)
+    fs_extract_dir = extract_fs(args.fs_tar, out_dir)
     dates_and_csvs = find_fs_csvs(fs_extract_dir)
     new_dates = [d[0] for d in dates_and_csvs]
     print('Found dates in FS data: {}'.format(', '.join(new_dates)))
@@ -324,7 +322,7 @@ def main(fs_tar_path, prev_version, cur_version_num, out_dir):
     split_days(dates_and_csvs, raw_split_dir, grouped_split_dir)
 
     # create dir for current data
-    cur_dir = create_version_dir(dates_and_csvs, cur_version_num, out_dir)
+    cur_dir = create_version_dir(dates_and_csvs, args.version, out_dir)
 
     # copy additional files at top level, e.g. taxonomy.json
     copy_top_files(prev_dir, cur_dir)
@@ -352,28 +350,47 @@ def usage(err=None):
               'or INIT> <current version number string v#> ' +
               '<scratch dir>').format(sys.argv[0]))
 
-def check_args():
-    if len(sys.argv) != 5:
-        usage('Wrong number of arguments')
-    _, fs_tar_path, prev_version, cur_version_num, scratch_dir = sys.argv
-    if not os.path.isfile(fs_tar_path):
-        usage('Foursquare tar file {} does not exist'.format(fs_tar_path))
+def wrap_check(chk, msg):
+    def wrap(arg):
+        if not chk(arg):
+            raise argparse.ArgumentTypeError(msg.format(arg))
+        return arg
+    return wrap
+
+def check_fs():
+    msg = 'Foursquare tar file {} does not exist'
+    return wrap_check(os.path.isfile, msg)
+
+def check_prev():
+    msg = ('Previous day version string "{}" is not of ' +
+           'format YYYYMMDD-v#')
     ver_re = re.compile('\d{4}\d{2}\d{2}-v\d+')
-    if not ver_re.match(prev_version) and prev_version != 'INIT':
-        usage(('Previous day version string "{}" is not of ' +
-              'format YYYYMMDD-v# or INIT for starting fresh').format(prev_version))
-    ver_num_re = re.compile('v\d+')
-    if not ver_num_re.match(cur_version_num):
-        usage(('Current version number "{}" is not of ' +
-              'format v#').format(cur_version_num))
-    if os.path.exists(scratch_dir):
-        usage(('Scratch directory {} already exists.  Please ' +
-               'remove first.').format(scratch_dir))
-    # TODO: make this a switch
-    if prev_version == 'INIT':
-        prev_version = None
-    return fs_tar_path, prev_version, cur_version_num, scratch_dir 
-        
+    return wrap_check(ver_re.match, msg)
+
+def check_prev_dir():
+    msg = 'Previous directory {} does not exist'
+    return wrap_check(os.path.isdir, msg)
+
+def check_ver():
+    msg = 'Current version number "{}" is not of format v#'
+    ver_re = re.compile('v\d+')
+    return wrap_check(ver_re.match, msg)
+
+def check_scratch():
+    msg = 'Scratch directory {} already exists; please remove first'
+    return wrap_check(lambda arg: not os.path.exists(arg), msg)
+
+def check_args():
+    parser = argparse.ArgumentParser(
+        description='Shred the Foursquare cube data into state and county files')
+    prev_group = parser.add_mutually_exclusive_group(required=True)
+    prev_group.add_argument('-p', '--prevver', type=check_prev())
+    prev_group.add_argument('--prevdir', type=check_prev_dir())
+    prev_group.add_argument('--init', action='store_true')
+    parser.add_argument('fs_tar', type=check_fs())
+    parser.add_argument('version', type=check_ver())
+    parser.add_argument('scratch', type=check_scratch())
+    return parser.parse_args()
+
 if __name__ == "__main__":
-    args = check_args()
-    main(*args)
+    main(check_args())
