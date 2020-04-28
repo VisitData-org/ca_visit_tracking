@@ -27,7 +27,7 @@ fi
 
 
 validateInputDir() {
-    if [ "$(find "${DATA_DIR}" -type f -name "*.csv" | wc -l)" -lt 200 ]; then
+    if [ "$(find "${DATA_DIR}" -type f -name "*.csv" | wc -l)" -lt 100 ]; then
         echo "$0: Data dir ${DATA_DIR} has fewer than 200 CSV files. This is not typical." 1>&2
         exit 1
     fi
