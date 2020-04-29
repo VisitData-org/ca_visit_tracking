@@ -19,14 +19,17 @@ ALL_FIELDS = ['date', 'country', 'state', 'county', 'zip',
               'pctTo8Hours', 'pctOver8Hours']
 KEEP_FIELDS = ['date', 'state', 'county', 'categoryid', 'categoryname', 'demo',
                'visits', 'avgDuration', 'p50Duration']
-SORT_FIELDS = ['state', 'county', 'demo']
-STATE_FN = '{}.csv'
+SORT_FIELDS = ['county', 'categoryid', 'categoryname', 'demo']
 INDEX_FN = 'index.json'
-
 EXTRACT_FN = 'fs'
 RAW_FN = 'raw'
 GROUPED_FN = 'grouped'
-BY_DATE_FN = 'bydate'  
+BY_DATE_FN = 'bydate'
+
+STATE_FN = '{}.csv'
+STATE_COUNTY_FN = '{}_{}.csv'
+STATE_CATEGORYID_FN = '{}_{}.csv'
+STATE_CATEGORYNAME_FN = '{}_{}.csv'
 
 FS_URL_PREFIX = 'gs://data.visitdata.org/processed/vendor/foursquare/asof/'
 
@@ -36,17 +39,19 @@ def load_rollup(path):
     return rollup
 
 def clean(roll):
-    roll = roll[((roll.country == 'US') &
-                 pd.isna(roll.zip) &
-                 (roll.hour == 'All'))].copy()
+    # only US, rows with a state, without a zip code, and for hour All
+    roll = roll[(roll.country == 'US') &
+                ~pd.isna(roll.state) &
+                pd.isna(roll.zip) &
+                (roll.hour == 'All')].copy()
     roll = roll[KEEP_FIELDS]
-    roll.loc[pd.isna(roll.state), 'state'] = ''
     roll.loc[pd.isna(roll.county), 'county'] = ''
-    roll.sort_values(SORT_FIELDS, inplace=True)
+    #roll.sort_values(MAIN_SORT_FIELDS, inplace=True)
     return roll
 
 def slice_by_fields(rollup, fields, fn_template, out_dir,
-                    rem_trans = str.maketrans({' ': '', "'": '', ',': '', '.': ''})):
+                    rem_trans = str.maketrans({' ': '', "'": '', ',': '', '.': '',
+                                               '/': '', '&': ''})):
     groups = rollup.sort_values(fields).groupby(fields)
     for field_values, group in groups:
         if type(field_values) is not tuple:
@@ -55,10 +60,9 @@ def slice_by_fields(rollup, fields, fn_template, out_dir,
             field_values = [v.translate(rem_trans) for v in field_values]
             path = os.path.join(out_dir, fn_template.format(*field_values))
             final = group.sort_values(SORT_FIELDS)
-            final.drop(columns=['state'], inplace=True)
             final.to_csv(path, index=False)
 
-def gen_index(rollup, out_dir):
+def gen_index(rollup, rollup_raw, rollup_grouped, out_dir):
     states = list(rollup.state.unique())
     if '' in states:
         states.remove('')
@@ -71,27 +75,47 @@ def gen_index(rollup, out_dir):
             counties[state].append(county)
 
     demos = list(rollup.demo.unique())
-    categories = list(rollup.categoryname.unique())
+    
+    categories_raw = list(rollup_raw.categoryname.unique())
+    categories_grouped = list(rollup_grouped.categoryname.unique())
+
+    category_ids = list(rollup_raw.categoryid.unique())
 
     index = {'states': states,
              'counties': counties,
              'demos': demos,
-             'categories': categories}
+             'categoriesRaw': categories_raw,
+             'categoriesGrouped': categories_grouped,
+             'categoryIds': category_ids}
 
     with open(os.path.join(out_dir, INDEX_FN), 'w') as f:
-        json.dump(index, f, indent=2)    
+        json.dump(index, f, indent=2)
 
-def cube_one(rollup, out_dir):
-    state_rollup = rollup[rollup.state != '']
-    slice_by_fields(state_rollup, ['state'], STATE_FN, out_dir)
+def cube(rollup, out_dir):
+    # file per state
+    # includes both grouped and raw categories
+    state_rollup = rollup[rollup.county == '']
+    slice_by_fields(state_rollup, ['state'],
+                    STATE_FN, out_dir)
 
-    gen_index(rollup, out_dir)
+    # file per state, county
+    state_county_rollup = rollup[rollup.county != '']
+    slice_by_fields(state_county_rollup, ['state', 'county'],
+                    STATE_COUNTY_FN, out_dir)
 
-def cube(rollup, raw_out_dir, grouped_out_dir):
+    # file per state, categoryid
+    # only raw data; includes statewide and county-specific data
     rollup_raw = rollup[rollup.categoryid != 'Group']
+    slice_by_fields(rollup_raw, ['state', 'categoryid'],
+                    STATE_CATEGORYID_FN, out_dir)
+
+    # file per state, categoryname
+    # only grouped data; includes statewide and county-specific data
     rollup_grouped = rollup[rollup.categoryid == 'Group']
-    cube_one(rollup_raw, raw_out_dir)
-    cube_one(rollup_grouped, grouped_out_dir)
+    slice_by_fields(rollup_grouped, ['state', 'categoryname'],
+                    STATE_CATEGORYNAME_FN, out_dir)
+
+    gen_index(rollup, rollup_raw, rollup_grouped, out_dir)
 
 def find_fs_csvs(new_dir):
     dates_fns = os.listdir(new_dir)
@@ -113,41 +137,34 @@ def find_fs_csvs(new_dir):
 
 # split each date file by state/county or zip or just state
 # and put in date directory
-def split_one_day(date, csv_path, raw_out_dir, grouped_out_dir):
+def split_one_day(date, csv_path, out_dir):
     # load raw data
     rollup_raw = load_rollup(csv_path)
-    
-    # TESTING WITH SMALL DataFrame
-    #rollup_raw = rollup_raw[(rollup_raw.state == 'New York') | (rollup_raw.zip == '11201')].copy()
-    #rollup_raw['state'] = 'New York'
     
     # clean NAs and sort
     rollup = clean(rollup_raw)
 
     # split files into state/county and date
-    cube(rollup, raw_out_dir, grouped_out_dir)
+    cube(rollup, out_dir)
 
-def split_days(dates_and_csvs, raw_dir, grouped_dir):
+def split_days(dates_and_csvs, out_dir):
     for date, csv_path in dates_and_csvs:
-        # create date paths
-        raw_date_dir = makedir(os.path.join(raw_dir, date))
-        grouped_date_dir = makedir(os.path.join(grouped_dir, date))
+        # create date path
+        out_date_dir = makedir(os.path.join(out_dir, date))
 
-        print(('Splitting FS data {} into geo files ' +
-               'to raw {} and grouped {}').format(csv_path,
-                                                  raw_date_dir,
-                                                  grouped_date_dir))
+        print('Splitting FS data {} into geo and category '
+              'files'.format(csv_path))
 
         # generate the split files
-        split_one_day(date, csv_path, raw_date_dir, grouped_date_dir)
+        split_one_day(date, csv_path, out_date_dir)
 
 # copies data from the prev geo file to out_files for dates not in new_dates
 # returns None if there was no prev csv for this geo: we've written nothing so far
 # otherwise returns a list of dates in teh prev csv that we didn't copy over
 # because we they're in the new files (likely an empty list)
-def copy_prev(geo_fn, prev_dir, new_dates, out_file):
+def copy_prev(split_fn, prev_dir, new_dates, out_file):
     if prev_dir:
-        prev_path = os.path.join(prev_dir, geo_fn)
+        prev_path = os.path.join(prev_dir, split_fn)
         if os.path.isfile(prev_path):
             regen_dates = []
             with open(prev_path, 'r') as in_file:
@@ -164,12 +181,12 @@ def copy_prev(geo_fn, prev_dir, new_dates, out_file):
                                 regen_dates.append(line_date)
             return regen_dates
     #eprint(('Warning: merge did not find geo {} in previous data, ' +
-    #        'expected {}').format(geo_fn, prev_path))
+    #        'expected {}').format(split_fn, prev_path))
     return None
 
-def copy_split(geo_fn, split_dir, need_header, new_dates, out_file):
+def copy_split(split_fn, split_dir, need_header, new_dates, out_file):
     for date in new_dates:
-        date_csv_path = os.path.join(split_dir, date, geo_fn)
+        date_csv_path = os.path.join(split_dir, date, split_fn)
         if os.path.isfile(date_csv_path):
             with open(date_csv_path) as in_file:
                 # only include the header for the first file
@@ -183,20 +200,20 @@ def copy_split(geo_fn, split_dir, need_header, new_dates, out_file):
         else:
             pass
             #eprint(('Warning: merge did not find geo {} in new FS data, ' +
-            #        'expected {}').format(geo_fn, date_csv_path))
+            #        'expected {}').format(split_fn, date_csv_path))
 
-def merge_days_one_geo(geo_fn, prev_dir, split_dir, new_dates, out_dir):
-    with open(os.path.join(out_dir, geo_fn), 'w') as out_file:
+def merge_days_one_geo(split_fn, prev_dir, split_dir, new_dates, out_dir):
+    with open(os.path.join(out_dir, split_fn), 'w') as out_file:
         # copy data from prev geo file before first new date
-        ret = copy_prev(geo_fn, prev_dir, set(new_dates), out_file)
+        ret = copy_prev(split_fn, prev_dir, set(new_dates), out_file)
         need_header = ret == None
         regen_dates = ret if ret else []
 
         # copy data from split_dir
-        copy_split(geo_fn, split_dir, need_header, new_dates, out_file)
+        copy_split(split_fn, split_dir, need_header, new_dates, out_file)
     return regen_dates
 
-def find_geo_fns(prev_dir, split_dir, dates):
+def find_split_fns(prev_dir, split_dir, dates):
     pred = lambda fn: fn.endswith('.csv')
     if prev_dir and os.path.isdir(prev_dir):
         fns = list(filter(pred, os.listdir(prev_dir)))
@@ -210,8 +227,8 @@ def find_geo_fns(prev_dir, split_dir, dates):
 def merge_days(prev_dir, split_dir, dates, out_dir):
     print('Merging prev files and split files to {}'.format(out_dir))
     regen_dates = []
-    for geo_fn in find_geo_fns(prev_dir, split_dir, dates):
-        rdates = merge_days_one_geo(geo_fn, prev_dir, split_dir, dates, out_dir)
+    for split_fn in find_split_fns(prev_dir, split_dir, dates):
+        rdates = merge_days_one_geo(split_fn, prev_dir, split_dir, dates, out_dir)
         regen_dates.extend(rdates)
     if regen_dates:
         rdates = ','.join(np.unique(regen_dates))
@@ -315,10 +332,9 @@ def main(args):
     new_dates = [d[0] for d in dates_and_csvs]
     print('Found dates in FS data: {}'.format(', '.join(new_dates)))
 
-    # split fs extracted data into date dirs and state/county/zip csvs into those
-    raw_split_dir = makedir(out_dir, BY_DATE_FN, RAW_FN)
-    grouped_split_dir = makedir(out_dir, BY_DATE_FN, GROUPED_FN)
-    split_days(dates_and_csvs, raw_split_dir, grouped_split_dir)
+    # split fs extracted data into date dirs and csvs into those
+    split_dir = makedir(out_dir, BY_DATE_FN)
+    split_days(dates_and_csvs, split_dir)
 
     # create dir for current data
     cur_dir = create_version_dir(dates_and_csvs, args.version, out_dir)
@@ -327,12 +343,12 @@ def main(args):
     copy_top_files(prev_dir, cur_dir)
 
     # merge prev data with new split data for each of raw and grouped
-    for type_fn, split_dir in [(RAW_FN, raw_split_dir),
-                               (GROUPED_FN, grouped_split_dir)]:
-        prev_type_dir = os.path.join(prev_dir, type_fn) if prev_dir else None
-        cur_type_dir = makedir(cur_dir, type_fn)
-        merge_days(prev_type_dir, split_dir, new_dates, cur_type_dir)
-        merge_indexes(prev_type_dir, split_dir, new_dates, cur_type_dir)
+    #for type_fn, split_dir in [(RAW_FN, raw_split_dir),
+    #                           (GROUPED_FN, grouped_split_dir)]:
+    #prev_type_dir = os.path.join(prev_dir, type_fn) if prev_dir else None
+    #cur_type_dir = makedir(cur_dir, type_fn)
+    merge_days(prev_dir, split_dir, new_dates, cur_dir)
+    merge_indexes(prev_dir, split_dir, new_dates, cur_dir)
 
 def makedir(*path_comps):
     path = os.path.join(*path_comps)
@@ -341,13 +357,6 @@ def makedir(*path_comps):
 
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
-
-def usage(err=None):
-    if err:
-        eprint(err)
-    sys.exit(('Usage: {} <foursquare.tar> <prev_day version string YYYYMMDD-v# ' +
-              'or INIT> <current version number string v#> ' +
-              '<scratch dir>').format(sys.argv[0]))
 
 def wrap_check(chk, msg):
     def wrap(arg):
@@ -383,12 +392,18 @@ def check_args():
     parser = argparse.ArgumentParser(
         description='Shred the Foursquare cube data into state and county files')
     prev_group = parser.add_mutually_exclusive_group(required=True)
-    prev_group.add_argument('-p', '--prevver', type=check_prev())
-    prev_group.add_argument('--prevdir', type=check_prev_dir())
-    prev_group.add_argument('--init', action='store_true')
-    parser.add_argument('fs_tar', type=check_fs())
-    parser.add_argument('version', type=check_ver())
-    parser.add_argument('scratch', type=check_scratch())
+    prev_group.add_argument('-p', '--prevver', type=check_prev(),
+                            help='previous version url suffix (YYYYMMDD-v#)')
+    prev_group.add_argument('--prevdir', type=check_prev_dir(),
+                            help='previous version directory (avoid download)')
+    prev_group.add_argument('--init', action='store_true',
+                            help='start without a previous version')
+    parser.add_argument('fs_tar', type=check_fs(),
+                        help='Foursquare tar file')
+    parser.add_argument('version', type=check_ver(),
+                        help='new version (v#)')
+    parser.add_argument('scratch', type=check_scratch(),
+                        help='output directory')
     return parser.parse_args()
 
 if __name__ == "__main__":
