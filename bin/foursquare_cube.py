@@ -359,13 +359,6 @@ def makedir(*path_comps):
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
-def usage(err=None):
-    if err:
-        eprint(err)
-    sys.exit(('Usage: {} <foursquare.tar> <prev_day version string YYYYMMDD-v# ' +
-              'or INIT> <current version number string v#> ' +
-              '<scratch dir>').format(sys.argv[0]))
-
 def wrap_check(chk, msg):
     def wrap(arg):
         if not chk(arg):
