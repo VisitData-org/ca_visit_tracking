@@ -22,6 +22,11 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
+Highcharts.setOptions({
+  lang: {
+      thousandsSep: ','
+  }
+});
 
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
@@ -160,12 +165,13 @@ function seriesToPlot(stateOrCounty) {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
+
     var lts = locationTypesToChart(fileDataToPlot);
     var results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
-      });
+      },minMedianMinutes,maxMedianMinutes);
     });
     results = _.filter(results, function(series) {
       return series.data.length > 0;
@@ -694,19 +700,23 @@ function parse(stateOrCounty) {
     selectedFileString = '_' + selectedVenues[0];
   }
 
-  stateFile = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + '.csv';
-  datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.]/g, '') + '.csv';
+  stateFile = _fourSquareDataUrl + '/' + (isRaw() ? 'raw' : 'grouped') + selectedState.replace(/[\s\,\.]/g, '') + '.csv';
+  if (selectedFileString === '') {
+    // no venue or county selected
+    datafilename = stateFile;
+  } else {
+    datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.]/g, '') + '.csv';
+  }
   console.debug(datafilename);
   
   if (stateOrCounty === 'state') {
-    if (!urlParams.get('datafilename')) {
+    if (!isRaw()) {
       document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
     } else {
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
-
   } else {
-    if (!urlParams.get('datafilename')) {
+    if (!isRaw()) {
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
     } else {
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
