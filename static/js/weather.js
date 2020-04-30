@@ -1,7 +1,7 @@
 /**
  * @brief Contains the actions to draw on the web the weather plot per county
  * These reflect the precipitations data and the MAX/MIN temperatures
- * 
+ *
  * 1ºst Extract Weather for selected state
  * 2ºnd Filter and Cross-data to obtain weather/county/timestamp
  * 3ºrd Draw a chart per county
@@ -10,25 +10,25 @@
  * @year 2020
  */
 
-let weatherData;
+let weatherGlobalData;
 
 /**
  * 1ºst Extract Weather for selected state
  *
  * @param selectedState current selected sate
  */
-const requestWeatherData = (selectedState) = () => {
-  $("#weather-group").tooltip()
+const requestWeatherData = (selectedState) => {
+  $("#weather-group").tooltip();
   fetch("/weather/" + selectedState)
-  .then((response) => response.json())
-  .then((data) => {
-    $("#weather-data-checkbox").prop('disabled', false);
-    $("#weather-group").tooltip('hide')
-    $("#weather-group").tooltip('disable')
-    weatherData = data})
-  .catch((error) => console.error('Error weather fetch:', error))
-}
-
+    .then((response) => response.json())
+    .then((data) => {
+      $("#weather-data-checkbox").prop("disabled", false);
+      $("#weather-group").tooltip("hide");
+      $("#weather-group").tooltip("disable");
+      weatherGlobalData = data;
+    })
+    .catch((error) => console.error("Error weather fetch:", error));
+};
 
 /**
  * Filters and draws the weather plots
@@ -36,9 +36,7 @@ const requestWeatherData = (selectedState) = () => {
  * @param plotDataVisits Visit data selected by the user to be draw
  */
 function drawWeatherData(plotDataVisits) {
-  drawWeatherChartPerCounty(
-    filterWeatherData(plotDataVisits, weatherData)
-  );
+  drawWeatherChartPerCounty(filterWeatherData(plotDataVisits, weatherGlobalData));
 }
 
 /**
@@ -51,8 +49,8 @@ function drawWeatherData(plotDataVisits) {
  */
 function filterWeatherData(plotDataVisits, weatherData) {
   // get counties timestamps
-  let dates = getTimestampsPerCounty(plotDataVisits);
-  let highchartsWeatherData = getHighchartsWeatherData(dates, weatherData);
+  const dates = getTimestampsPerCounty(plotDataVisits);
+  const highchartsWeatherData = getHighchartsWeatherData(dates, weatherData);
   addVisitsSites(highchartsWeatherData, plotDataVisits);
   return highchartsWeatherData;
 }
@@ -63,7 +61,7 @@ function filterWeatherData(plotDataVisits, weatherData) {
  * @returns {{}} dates Object with county/date
  */
 function getTimestampsPerCounty(plotDataVisits) {
-  let dates = {};
+  const dates = {};
   let timeStamp = [];
 
   //extract dates per county
@@ -73,7 +71,9 @@ function getTimestampsPerCounty(plotDataVisits) {
     });
     if (timeStamp.length) {
       // or each timestamp remove hours precision
-      if(fields.name.indexOf("County") < 0) fields.name = fields.name + " County";
+      if (fields.name.indexOf("County") < 0) {
+        fields.name = fields.name + " County";
+      }
       dates[fields.name] = _.each(timeStamp, function (value, index) {
         // remove hour from timestamp
         timeStamp[index] = parseInt(value.toString().slice(0, -3));
@@ -93,46 +93,39 @@ function getTimestampsPerCounty(plotDataVisits) {
  * @returns {{}} highchartsWeatherData Counties with weather data found in dates
  */
 function getHighchartsWeatherData(dates, weatherData) {
-  let highchartsWeatherData = {};
+  const highchartsWeatherData = {};
 
-  _.each(
-    _.intersection(Object.keys(weatherData), Object.keys(dates)),
-    (county) => {
-      let arrTemp = [];
-      let arrPrec = [];
-      let dataTemp = null;
-      let dataPrec = null;
+  _.each(_.intersection(_.keys(weatherData), _.keys(dates)), (county) => {
+    let arrTemp = [];
+    let arrPrec = [];
+    let dataTemp = null;
+    let dataPrec = null;
 
-      //array dates/weather
-      _.each(dates[county], (timeStamp) => {
-        let infoWeather = weatherData[county].forecast[timeStamp];
-        if (!_.isEmpty(infoWeather)) {
-          timeStamp = parseInt(timeStamp + "000");
+    //array dates/weather
+    _.each(dates[county], (timeStamp) => {
+      let infoWeather = weatherData[county].forecast[timeStamp];
+      if (!_.isEmpty(infoWeather)) {
+        timeStamp = parseInt(timeStamp + "000");
 
-          arrTemp.push([
-            timeStamp,
-            infoWeather.maxtemp_f,
-            infoWeather.mintemp_f,
-          ]);
+        arrTemp.push([timeStamp, infoWeather.maxtemp_f, infoWeather.mintemp_f]);
 
-          arrPrec.push([timeStamp, infoWeather.totalprecip_in]);
+        arrPrec.push([timeStamp, infoWeather.totalprecip_in]);
 
-          //temp min/max
-          dataTemp = {
-            data: arrTemp,
-          };
+        //temp min/max
+        dataTemp = {
+          data: arrTemp,
+        };
 
-          //precipitations
-          dataPrec = {
-            data: arrPrec,
-          };
-        }
-      });
+        //precipitations
+        dataPrec = {
+          data: arrPrec,
+        };
+      }
+    });
 
-      if (dataTemp && dataPrec)
-        highchartsWeatherData[county] = { dataTemp, dataPrec };
-    }
-  );
+    if (dataTemp && dataPrec)
+      highchartsWeatherData[county] = { dataTemp, dataPrec };
+  });
 
   return highchartsWeatherData;
 }
@@ -158,7 +151,7 @@ function addVisitsSites(highchartsWeatherData, plotDataVisits) {
  * @param dataChartWeather Formatted data with Weather and Visits info
  */
 function drawWeatherChartPerCounty(dataChartWeather) {
-  let weatherDivId = "chart-weather-container";
+  const weatherDivId = "chart-weather-container";
   document.getElementById(weatherDivId).innerHTML = "";
 
   if (_.isEmpty(dataChartWeather)) {
@@ -167,27 +160,27 @@ function drawWeatherChartPerCounty(dataChartWeather) {
   }
 
   //grid displaying plots
-  let divRow = document.createElement("div");
-  let positionChart = 'mt-5 col-md-6';
+  const divRow = document.createElement("div");
+  const positionChart = "mt-5 col-md-6";
 
-  if ((_.keys(dataChartWeather).length === 1)) {
-    positionChart = 'w-100';
+  if (_.keys(dataChartWeather).length === 1) {
+    positionChart = "w-100";
     $("#chartcontainer").hide();
   }
-  
+
   divRow.setAttribute("class", "row");
   document.getElementById(weatherDivId).append(divRow);
 
   //drawing plot/county
   _.each(dataChartWeather, function (series, key) {
-    let container = document.createElement("div");
+    const container = document.createElement("div");
     container.setAttribute("class", positionChart);
     divRow.append(container);
 
     window.chart = new Highcharts.Chart({
       chart: {
         renderTo: container,
-        zoomType: 'x'
+        zoomType: "x",
       },
       title: {
         text: key,
@@ -208,7 +201,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: "#60acab61",
             },
           },
-          opposite: true
+          opposite: true,
         },
         {
           // Secondary yAxis
@@ -225,7 +218,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
               color: "#f15c805e",
             },
           },
-          opposite: true
+          opposite: true,
         },
         {
           // Tertiary yAxis
@@ -236,7 +229,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
             },
           },
           labels: {
-            format: "{value}  %",
+            format: "{value}k",
             style: {
               color: Highcharts.getOptions().colors[3],
             },
@@ -279,11 +272,13 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         },
         {
           type: "line",
-          name: "Visits",
+          name: "Estimated # Visits",
           yAxis: 2,
+          min: 0,
           data: series.dataVisits.data,
           tooltip: {
-            valueSuffix: " %",
+            valueSuffix: "k",
+            pointFormat: 'point.y:,.0f'
           },
           color: Highcharts.getOptions().colors[3],
         },
