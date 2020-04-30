@@ -8,3 +8,5 @@ localdata/
 *.iml
 datascratch/
 .gcpprj
+
+scripts/__pycache__

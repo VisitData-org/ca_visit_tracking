@@ -1,62 +1,80 @@
 {% extends "nav.html" %}
 {% block main %}
   <div class="container-fluid main-mobile">
-    <h3 id="state_name_header" class="mt-2"></h3>
+    <h3 id="state_name_header" class="mt-4"></h3>
       <div class="w-100 highcharts-figure" id="chartcontainer" style="display: block;"></div>
+      <div class="m-5 " id="chart-weather-container"></div>
   </div>
+  <hr>
   <div class="container-fluid mobile-dropdown">
     <div class="row mobile-search">
       <div class="col-sm">
-        <h6 style="padding-bottom:10px;">Search By:</h6>
+        <h4 style="padding-bottom:10px;">Search By:</h4>
       </div>
       <div class="col-sm"></div>
       <div class="col-sm"></div>
     </div>
     <div class="row mb-3">
-      <div class="col-sm mb-2">
+      <div class="col-sm mb mt-2">
         <select class="custom-select" name="county" id="county-select"  data-style="btn-info">
           <option value="">County</option>
         </select>
       </div>
-      <div class="col-sm">
+      <div class="col-sm mt-2">
         <select class="custom-select"  name="venuetype" id="location-type-select" data-style="btn-info">
           <option value="">Venue Type</option>
         </select>
       </div>
-      <div class="col-sm">
+      <div class="col-sm"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm mt-2">
         <button onClick={showVenueExamples('county')} class="btn btn-info mobile-btn" target="_blank" id="venueExampleBtn">
         </button>
       </div>
-      <div class="col-sm"></div>
     </div>
+    <br>
     <div class="row">
       <div class="col-sm">
-        <h6 style="padding-bottom:10px;">Show:</h6>
+        <h4 style="padding-bottom:10px;">Chart options:</h4>
       </div>
       <div class="col-sm"></div>
       <div class="col-sm"></div>
     </div>
     <div class="row">
-      <div class="col-sm mb-2">
+      <div class="col-sm mt-2">
         <select class="custom-select" name="agegroup" id="agegroup-select" data-style="btn-info">
           <option value="all">All Ages</option>
           <option value="under65">Under 65</option>
           <option value="over65">65 and Over</option>
         </select>
       </div>
-      <div class="col-sm">
+      <div class="col-sm mt-2">
         <select class="custom-select" name="essential" id="essential-select" data-style="btn-info">
           <option value="nonessential">Non-Essential Only</option>
           <option value="essential">Essential Only</option>
           <option value="all">Essential & Non-Essential</option>
         </select>
       </div>
-      <div class="col-sm">
-        <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal">
-          Notes
-        </button>
+      <div class="col-sm mt-2" >
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <div class="input-group-text" id="weather-group" data-toggle='tooltip' data-placement='top' 
+            data-original-title="Fetching data...">
+              <input type="checkbox"  id="weather-data-checkbox" disabled>
+            </div>
+          </div>
+          <label type="text" class="form-control" id="weather-label"> Weather Data</label>
+        </div>
       </div>
       <div class="col-sm"></div>
+    </div>
+    <div class="row">
+      <div class="col-sm mt-2">
+      <button type="button" class="btn btn-info mobile-btn" data-toggle="modal" data-target="#notesModal">
+        Notes
+      </button>
     </div>
   </div>
 
@@ -98,6 +116,7 @@
    var _fourSquareDataUrl = {{ foursquare_data_url|tojson }};
   </script>
   <script type="text/javascript" src="/categories.js"></script>
+  <script type="text/javascript" src="/js/weather.js"></script>
   <script type="text/javascript" src="/render_data.js"></script>
   <script type="text/javascript">
     renderData('county');
