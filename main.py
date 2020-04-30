@@ -105,6 +105,10 @@ def faq():
     return render_template("faq.html")
 
 
+@app.route("/new_data_format")
+def new_data_format():
+    return render_template("new_data_format.html")
+
 @app.route("/venuegroupdetails")
 def venuegroupdetails():
     return render_template("venuegroupdetails.html")
