@@ -229,7 +229,9 @@ function drawWeatherChartPerCounty(dataChartWeather) {
             },
           },
           labels: {
-            format: "{value}k",
+            formatter: function () {
+              return this.value / 1000 + 'k';
+            },
             style: {
               color: Highcharts.getOptions().colors[3],
             },
@@ -277,8 +279,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           min: 0,
           data: series.dataVisits.data,
           tooltip: {
-            valueSuffix: "k",
-            pointFormat: 'point.y:,.0f'
+            valueSuffix: "",
           },
           color: Highcharts.getOptions().colors[3],
         },
