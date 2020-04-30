@@ -27,7 +27,8 @@ RAW_FN = 'raw'
 GROUPED_FN = 'grouped'
 BY_DATE_FN = 'bydate'
 
-STATE_FN = '{}.csv'
+STATE_RAW_FN = 'raw{}.csv'
+STATE_GROUPED_FN = 'grouped{}.csv'
 STATE_COUNTY_FN = '{}_{}.csv'
 STATE_CATEGORYID_FN = '{}_{}.csv'
 STATE_CATEGORYNAME_FN = '{}_{}.csv'
@@ -47,7 +48,6 @@ def clean(roll):
                 (roll.hour == 'All')].copy()
     roll = roll[KEEP_FIELDS]
     roll.loc[pd.isna(roll.county), 'county'] = ''
-    #roll.sort_values(MAIN_SORT_FIELDS, inplace=True)
     return roll
 
 def slice_by_fields(rollup, fields, fn_template, out_dir,
@@ -93,15 +93,19 @@ def gen_index(rollup, rollup_raw, rollup_grouped, out_dir):
         json.dump(index, f, indent=2)
 
 def cube(rollup, out_dir):
-    # file per state
-    # includes both grouped and raw categories
-    state_rollup = rollup[rollup.county == '']
-    slice_by_fields(state_rollup, ['state'],
-                    STATE_FN, out_dir)
+    # file per state; only raw data
+    state_raw = rollup[(rollup.county == '') & (rollup.categoryid != 'Group')]
+    slice_by_fields(state_raw, ['state'],
+                    STATE_RAW_FN, out_dir)
 
+    # file per state; only grouped data
+    state_grouped = rollup[(rollup.county == '') & (rollup.categoryid == 'Group')]
+    slice_by_fields(state_grouped, ['state'],
+                    STATE_GROUPED_FN, out_dir)
+    
     # file per state, county
-    state_county_rollup = rollup[rollup.county != '']
-    slice_by_fields(state_county_rollup, ['state', 'county'],
+    state_county = rollup[rollup.county != '']
+    slice_by_fields(state_county, ['state', 'county'],
                     STATE_COUNTY_FN, out_dir)
 
     # file per state, categoryid
@@ -159,8 +163,8 @@ def split_days(dates_and_csvs, out_dir):
         # generate the split files
         split_one_day(date, csv_path, out_date_dir)
 
-# copies data from the prev geo file to out_files for dates not in new_dates
-# returns None if there was no prev csv for this geo: we've written nothing so far
+# copies data from the prev csv to out_files for dates not in new_dates
+# returns None if there was no prev csv: we've written nothing so far
 # otherwise returns a list of dates in teh prev csv that we didn't copy over
 # because we they're in the new files (likely an empty list)
 def copy_prev(split_fn, prev_dir, new_dates, out_file):
@@ -181,7 +185,7 @@ def copy_prev(split_fn, prev_dir, new_dates, out_file):
                             if len(regen_dates) == 0 or line_date != regen_dates[0]:
                                 regen_dates.append(line_date)
             return regen_dates
-    #eprint(('Warning: merge did not find geo {} in previous data, ' +
+    #eprint(('Warning: merge did not find csv {} in previous data, ' +
     #        'expected {}').format(split_fn, prev_path))
     return None
 
@@ -203,9 +207,9 @@ def copy_split(split_fn, split_dir, need_header, new_dates, out_file):
             #eprint(('Warning: merge did not find geo {} in new FS data, ' +
             #        'expected {}').format(split_fn, date_csv_path))
 
-def merge_days_one_geo(split_fn, prev_dir, split_dir, new_dates, out_dir):
+def merge_days_one_file(split_fn, prev_dir, split_dir, new_dates, out_dir):
     with open(os.path.join(out_dir, split_fn), 'w') as out_file:
-        # copy data from prev geo file before first new date
+        # copy data from prev split file before first new date
         ret = copy_prev(split_fn, prev_dir, set(new_dates), out_file)
         need_header = ret == None
         regen_dates = ret if ret else []
@@ -229,7 +233,7 @@ def merge_days(prev_dir, split_dir, dates, out_dir):
     print('Merging prev files and split files to {}'.format(out_dir))
     regen_dates = []
     for split_fn in find_split_fns(prev_dir, split_dir, dates):
-        rdates = merge_days_one_geo(split_fn, prev_dir, split_dir, dates, out_dir)
+        rdates = merge_days_one_file(split_fn, prev_dir, split_dir, dates, out_dir)
         regen_dates.extend(rdates)
     if regen_dates:
         rdates = ','.join(np.unique(regen_dates))
