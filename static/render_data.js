@@ -171,7 +171,7 @@ function seriesToPlot(stateOrCounty) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
-      },minMedianMinutes,maxMedianMinutes);
+      });
     });
     results = _.filter(results, function(series) {
       return series.data.length > 0;
