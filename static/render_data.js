@@ -166,6 +166,11 @@ function seriesToPlot(stateOrCounty) {
     });
 
     results.unshift({ name: 'Show/Hide All', visible: false });
+
+    let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    maxResultsData.name = stateOrCountySel.value;
+    resultsWeather = [maxResultsData]
+
   }
   else if (!stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
@@ -768,7 +773,7 @@ function parse(stateOrCounty) {
 
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
-  if ($('#weather-data-checkbox').length && 
+  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))){
       requestWeatherData(selectedState);
     }
   setNavLinks(stateOrCounty);
