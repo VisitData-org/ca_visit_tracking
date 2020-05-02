@@ -705,7 +705,7 @@ function parse(stateOrCounty) {
     // no venue or county selected
     datafilename = stateFile;
   } else {
-    datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.]/g, '') + '.csv';
+    datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.&]/g, '') + '.csv';
   }
   console.debug(datafilename);
   
