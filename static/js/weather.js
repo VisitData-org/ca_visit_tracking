@@ -107,7 +107,7 @@ function getHighchartsWeatherData(dates, weatherData) {
       if (!_.isEmpty(infoWeather)) {
         timeStamp = parseInt(timeStamp + "000");
 
-        arrTemp.push([timeStamp, infoWeather.maxtemp_f, infoWeather.mintemp_f]);
+        arrTemp.push([timeStamp, infoWeather.maxtemp_f]);
 
         arrPrec.push([timeStamp, infoWeather.totalprecip_in]);
 
@@ -141,6 +141,7 @@ function addVisitsSites(highchartsWeatherData, plotDataVisits) {
     if (!_.isEmpty(highchartsWeatherData[series.name]))
       highchartsWeatherData[series.name].dataVisits = {
         data: series.data,
+        title: (series.titleName) ? (series.titleName) : ("Estimated # Visits")
       };
   });
 }
@@ -255,7 +256,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       series: [
         {
           type: "column",
-          name: "Precipitations",
+          name: "Precipitation",
           data: series.dataPrec.data,
           yAxis: 1,
           tooltip: {
@@ -264,8 +265,8 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           color: "#f15c805e",
         },
         {
-          type: "arearange",
-          name: "Temperature MAX/MIN",
+          type: "line",
+          name: "Max Temperature",
           data: series.dataTemp.data,
           tooltip: {
             valueSuffix: " °F",
@@ -274,7 +275,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         },
         {
           type: "line",
-          name: "Estimated # Visits",
+          name: series.dataVisits.title,
           yAxis: 2,
           min: 0,
           data: series.dataVisits.data,
