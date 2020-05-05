@@ -255,7 +255,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
       series: [
         {
           type: "column",
-          name: "Precipitations",
+          name: "Precipitation",
           data: series.dataPrec.data,
           yAxis: 1,
           tooltip: {
