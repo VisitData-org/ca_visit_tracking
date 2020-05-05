@@ -141,6 +141,7 @@ function addVisitsSites(highchartsWeatherData, plotDataVisits) {
     if (!_.isEmpty(highchartsWeatherData[series.name]))
       highchartsWeatherData[series.name].dataVisits = {
         data: series.data,
+        title: (series.titleName) ? (series.titleName) : ("Estimated # Visits")
       };
   });
 }
@@ -274,7 +275,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
         },
         {
           type: "line",
-          name: "Estimated # Visits",
+          name: series.dataVisits.title,
           yAxis: 2,
           min: 0,
           data: series.dataVisits.data,
