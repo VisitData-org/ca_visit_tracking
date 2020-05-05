@@ -107,7 +107,7 @@ function getHighchartsWeatherData(dates, weatherData) {
       if (!_.isEmpty(infoWeather)) {
         timeStamp = parseInt(timeStamp + "000");
 
-        arrTemp.push([timeStamp, infoWeather.maxtemp_f, infoWeather.mintemp_f]);
+        arrTemp.push([timeStamp, infoWeather.maxtemp_f]);
 
         arrPrec.push([timeStamp, infoWeather.totalprecip_in]);
 
@@ -264,8 +264,8 @@ function drawWeatherChartPerCounty(dataChartWeather) {
           color: "#f15c805e",
         },
         {
-          type: "arearange",
-          name: "Temperature MAX/MIN",
+          type: "line",
+          name: "Max Temperature",
           data: series.dataTemp.data,
           tooltip: {
             valueSuffix: " °F",
