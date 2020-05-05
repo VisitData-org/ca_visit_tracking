@@ -168,6 +168,7 @@ function seriesToPlot(stateOrCounty) {
     results.unshift({ name: 'Show/Hide All', visible: false });
 
     let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    maxResultsData.titleName = maxResultsData.name;
     maxResultsData.name = stateOrCountySel.value;
     resultsWeather = [maxResultsData]
 
@@ -197,6 +198,7 @@ function seriesToPlot(stateOrCounty) {
 
     resultsWeather = _.clone([styleSeries({
       name: stateOrCountySel.value,
+      titleName: locationTypeSel[locationTypeSel.selectedIndex].text,
       data: fileDataToHighcharts(fileDataToPlot)
     })]);
   }
