@@ -3,3 +3,4 @@ entrypoint: gunicorn -b :$PORT main:app
 
 env_variables:
   FOURSQUARE_DATA_VERSION: "20200502-v0"
+  BUCKET_NAME: "vd-weather-data"

@@ -57,6 +57,36 @@ Historic data snapshots are also hosted on https://data.visitdata.org/
 For example, you can retrieve
 https://data.visitdata.org/processed/vendor/foursquare/asof/20200403-v0/taxonomy.json
 
+# Weather Data
+
+Weather data is retrieved from weatherapi.com. After retrieving the data, it creates a file with the following structure:
+`<state>.json:`
+```
+{
+    <county-1>: {
+        forecast: {
+            day-1-timestamp: { <weather_data> },
+            day-2-timestamp: { <weather_data> },
+            ...
+        }
+    },
+    <county-2>: { .... }
+    ...
+}
+```
+
+In the **production environment**, a task will be exececuted daily (`etl/dags/extract_weather_data.py`) to store
+the weather data into a google cloud bucket.
+ 
+ `BUCKET_NAME` variable must be defined in the airflow server
+ 
+Once the data is stored in the bucket, we can get the weather data for one state in the route 
+`weather/<state>`
+
+To get that data from the google cloud the `BUCKET_NAME` environment variable must be defined. Otherwise,
+data will be stored locally in the path `localdata/`
+ 
+
 # Importing new data
 To import new data:
 
