@@ -59,10 +59,6 @@ h4 {
       margin-top: 20px;
     }
 
-    .mobile-dropdown {
-      margin-left: 60px;
-    }
-
 }
 
 @media (min-width: 990px) and (max-width: 1199px) {
@@ -83,10 +79,6 @@ h4 {
     height: 566px;
   }
 
-  .mobile-btn {
-    margin-left: 25px;
-  }
-
   .mobile-header {
     margin-top: 15px;
   }
@@ -97,10 +89,6 @@ h4 {
 
   .mobile-search {
     margin-top: 20px;
-  }
-
-  .mobile-dropdown {
-    margin-left: 60px;
   }
 }
 
@@ -118,10 +106,6 @@ h4 {
       max-width: 240px;
   }
 
-  .mobile-btn {
-    margin-left: 10px;
-  }
-
   .mobile-header {
     margin-top: 15px;
   }
@@ -130,9 +114,6 @@ h4 {
     margin-top: 20px;
   }
 
-  .mobile-dropdown {
-    margin-left: 60px;
-  }
 }
 
 @media (min-width: 745px) and (max-width: 815px) {
@@ -192,4 +173,9 @@ h4 {
   .mobile-dropdown {
     margin-left: 0px;
   }
+}
+
+#weather-label {
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
