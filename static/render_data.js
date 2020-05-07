@@ -2,6 +2,7 @@ var table;
 var fileData;  //  globalish variable holding the parsed file data rows  HACK
 var stateOrCountySel;
 var ageGroupSel;
+var weatherDataCheck;
 var essentialSel;
 var states = [];
 var counties = [];
@@ -159,6 +160,10 @@ function seriesToPlot(stateOrCounty) {
     return datapointAge == AGE_GROUP_VALUES[ageGroupSel.value];
   });
 
+
+  //filtered data for highcharts
+  let results, resultsWeather;
+
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
@@ -167,7 +172,7 @@ function seriesToPlot(stateOrCounty) {
     }
 
     var lts = locationTypesToChart(fileDataToPlot);
-    var results = _.map(lts, function(locationType) {
+    results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
@@ -179,11 +184,16 @@ function seriesToPlot(stateOrCounty) {
 
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
-    return results;
+
+    let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    maxResultsData.titleName = maxResultsData.name;
+    maxResultsData.name = stateOrCountySel.value;
+    resultsWeather = [maxResultsData]
+
   }
-  if (!stateOrCountySel.value && locationTypeSel.value) {
+  else if (!stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
-    var results = _.map(statesOrCounties, function(stateOrCountyValue) {
+    results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
@@ -195,19 +205,35 @@ function seriesToPlot(stateOrCounty) {
 
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
-    return results;
+
+    resultsWeather = _.clone(results);
   }
-  if (stateOrCountySel.value && locationTypeSel.value) {
+  else if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
-    return [styleSeries({
+    results = [styleSeries({
       name: locationTypeSel[locationTypeSel.selectedIndex].text + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
+
+    resultsWeather = _.clone([styleSeries({
+      name: stateOrCountySel.value,
+      titleName: locationTypeSel[locationTypeSel.selectedIndex].text,
+      data: fileDataToHighcharts(fileDataToPlot)
+    })]);
   }
+
+  if (weatherDataCheck) {
+    drawWeatherData(resultsWeather);
+  } else {
+    $("#chart-weather-container").html("");
+    $("#chartcontainer").show();
+  }
+
+  return results;
 }
 
 function sortStatewideFirst(seriesToSort) {
@@ -583,9 +609,10 @@ function parsingDone(stateOrCounty, results, file) {
   if(locationTypeSel.value) {
     // ok, we selected a location type so disable essential
     essentialSel.value = 'all';
-    essentialSel.style.display = 'none';
+    essentialSel.parentElement.style.display = 'none';
   }
 
+  //actions for agegroup-select button
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     redoFilter(stateOrCounty);
@@ -593,6 +620,14 @@ function parsingDone(stateOrCounty, results, file) {
     if (stateOrCountySel.value || locationTypeSel.value) {
       drawChart(stateOrCounty);
     }
+  });
+
+  //actions for weather-data button
+  $('#weather-data-checkbox').change(function () {
+    //enable/disable weather forecast
+    weatherDataCheck = $(this).prop("checked")
+    //refresh chart
+    drawChart(stateOrCounty)
   });
 
   redoFilter(stateOrCounty);
@@ -779,6 +814,9 @@ function parse(stateOrCounty) {
 
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
+  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))){
+      requestWeatherData(selectedState);
+    }
   setNavLinks(stateOrCounty);
   parse(stateOrCounty);
 }
