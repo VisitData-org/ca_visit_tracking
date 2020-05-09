@@ -1,17 +1,27 @@
 from datetime import timedelta, datetime
+from typing import Dict, List
+
+import requests
 from airflow import DAG
+from airflow.models import Variable
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
-import json
 from google.cloud.storage import Client
-import requests
-from deepmerge import always_merger
+from urllib import parse
 import os
+import json
 
-BASE_URL = "http://api.weatherapi.com/v1/history.json?key={}&q={}+united+states&dt={}"
-# Get a weatherapi.com api key
-API_KEY = os.environ.get("API_WEATHER_KEY", "**redacted**")
-BUCKET_NAME = os.environ.get("BUCKET_NAME", "default")
+#
+# To configure, set a single airflow variable called "extract_weather_data_config" that has a JSON dict with
+# the following attributes:
+#
+# weatherapi_base_url - The URL of the weather API
+#     (`http://api.weatherapi.com/v1/history.json?key={key}&q={q}+united+states&dt={dt}`)
+# weatherapi_key - The registered key
+# visitdata_bucket_name - Name of the bucket to which to store weather data (`data.visitdata.org`)
+# weatherapi_bucket_base_path - Base path to store data (`processed/vendor/api.weatherapi.com/asof/{date}`)
+#
+
 
 default_args = {
     'owner': 'airflow',
@@ -21,19 +31,17 @@ default_args = {
     'retry_delay': timedelta(minutes=5)
 }
 
-gcs = Client()
-bucket = gcs.bucket(BUCKET_NAME)
-state_file = bucket.get_blob("states_counties.json")
-STATES = json.loads(state_file.download_as_string())
 
-def slugify_state(state):
-    return "-".join(state.split())
+def slugify_state(selected_state: str):
+    return "-".join(selected_state.split())
 
-def get_weather_data(query):
-    weather = {}
-    weather["forecast"] = {}
-    date = datetime.today()
-    full_url = BASE_URL.format(API_KEY, query, date.strftime('%Y-%m-%d'))
+
+def extract_weather_for_county_for_date(base_url: str, api_key: str, selected_state: str, county: str,
+                                        date: datetime.date):
+    weather = {"forecast": {}}
+    query = parse.quote(f"{county}, {selected_state}")
+    full_url = base_url.format(key=api_key, q=query, dt=date.strftime('%Y-%m-%d'))
+    print(full_url)
     response = requests.get(full_url)
     data = response.json()
     try:
@@ -41,48 +49,70 @@ def get_weather_data(query):
         location = data["location"]
         forecast["day"].pop("condition")
         weather = {**weather, **location}
-
         weather["forecast"][forecast["date_epoch"]] = forecast["day"]
-    except:
-        return weather
+    except Exception as e:
+        print(f"Skipping state {selected_state}, county {county}, date {date} due to error: {e}")
 
     return weather
 
-def weather_func_builder(state):
-    selected_state = state
-    def get_weather():
-        data = {"updated": datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-        counties = STATES[selected_state]
-        blob = bucket.get_blob("{}.json".format(selected_state))
-        if blob is None:
-            stated_cached_data = {}
-        else:
-            stated_cached_data = json.loads(blob.download_as_string())
-        for county in counties:
-            api_data = get_weather_data(county)
-            cached_data = stated_cached_data.get(county, {})
-            data[county] = always_merger.merge(cached_data, api_data)
 
-        state_blob = bucket.blob("{}.json".format(selected_state))
-        state_blob.upload_from_string(json.dumps(data))
-
-        return True
-    return get_weather
+def extract_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
+                                       selected_state: str, date: datetime.date):
+    return {county: extract_weather_for_county_for_date(base_url, api_key, selected_state, county, date)
+            for county in state_to_counties[selected_state]}
 
 
-
-def create_dag(dag_id, state):
-    dag = DAG(
-        dag_id=dag_id,
-        description="Weather DAG",
-        default_args=default_args,
-        schedule_interval='@daily'
+def load_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
+                                    bucket_name: str, bucket_base_path: str, selected_state: str,
+                                    **context):
+    date: datetime.date = context["execution_date"]
+    yyyymmdd: str = date.strftime("%Y%m%d")
+    gcs = Client()
+    bucket = gcs.bucket(bucket_name)
+    blob = bucket.blob(f"{bucket_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    blob.upload_from_string(
+        json.dumps(
+            extract_weather_for_state_for_date(
+                base_url=base_url,
+                api_key=api_key,
+                state_to_counties=state_to_counties,
+                selected_state=selected_state,
+                date=date
+            )
+        )
     )
+    print(f"Successfully loaded weather data for {str(date)} to bucket")
 
 
-    get_data_api = PythonOperator(
-        task_id="get-data-{}".format(slugify_state(state)),
-        python_callable=weather_func_builder(state),
+dag = DAG(
+    dag_id="dag-extract-weather-data",
+    description="Extract Weather Data",
+    catchup=False,
+    default_args=default_args,
+    schedule_interval='@daily'
+)
+
+
+# State file is stored locally as part of DAG code until it can be generated from upstream dependencies:
+with open(f"{os.path.dirname(__file__)}/states_counties.json") as f:
+    state_to_countries = json.load(f)
+
+
+for state in state_to_countries.keys():
+    config = Variable.get("extract_weather_data_config", deserialize_json=True)
+    print(f"task-load-data-{slugify_state(state)}")
+    PythonOperator(
+        task_id=f"task-load-weather-{slugify_state(state)}",
+        python_callable=load_weather_for_state_for_date,
+        op_kwargs={
+            "base_url": config["weatherapi_base_url"],
+            "api_key": config["weatherapi_key"],
+            "state_to_counties": state_to_countries,
+            "bucket_name": config["visitdata_bucket_name"],
+            "bucket_base_path": config["weatherapi_bucket_base_path"],
+            "selected_state": state
+        },
+        provide_context=True,
         dag=dag
     )
 
