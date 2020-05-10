@@ -7,7 +7,6 @@ from airflow import DAG
 from airflow.models import Variable
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
-from deepmerge import always_merger
 from google.cloud.exceptions import NotFound
 from google.cloud.storage import Client, Bucket
 from urllib import parse
@@ -111,16 +110,11 @@ def load_merged_weather_for_state_for_date(bucket_name: str, bucket_raw_base_pat
             data = state_data[county]
             try:
                 forecast = data["forecast"]["forecastday"][0]
-                weather = {
-                    "forecast": {
-                        forecast["date_epoch"]: {
-                            "maxtemp_f": forecast["day"]["maxtemp_f"],
-                            "totalprecip_in": forecast["day"]["totalprecip_in"]
-                        }
-                    }
-                }
                 county_weather = merged_weather[county]
-                always_merger.merge(county_weather, weather)
+                county_weather["forecast"][forecast["date_epoch"]] = {
+                    "maxtemp_f": forecast["day"]["maxtemp_f"],
+                    "totalprecip_in": forecast["day"]["totalprecip_in"]
+                }
             except Exception as e:
                 print(f"Skipping state {selected_state}, county {county}, date {date} due to error: {e}")
 
