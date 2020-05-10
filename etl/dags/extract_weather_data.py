@@ -41,7 +41,6 @@ def extract_weather_for_county_for_date(base_url: str, api_key: str, selected_st
     weather = {"forecast": {}}
     query = parse.quote(f"{county}, {selected_state}")
     full_url = base_url.format(key=api_key, q=query, dt=date.strftime('%Y-%m-%d'))
-    print(full_url)
     response = requests.get(full_url)
     data = response.json()
     try:
@@ -100,7 +99,6 @@ with open(f"{os.path.dirname(__file__)}/states_counties.json") as f:
 
 for state in state_to_countries.keys():
     config = Variable.get("extract_weather_data_config", deserialize_json=True)
-    print(f"task-load-data-{slugify_state(state)}")
     PythonOperator(
         task_id=f"task-load-weather-{slugify_state(state)}",
         python_callable=load_weather_for_state_for_date,
@@ -115,4 +113,3 @@ for state in state_to_countries.keys():
         provide_context=True,
         dag=dag
     )
-
