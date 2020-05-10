@@ -1,3 +1,4 @@
+from collections import defaultdict
 from datetime import timedelta, datetime
 from typing import Dict, List
 
@@ -6,26 +7,30 @@ from airflow import DAG
 from airflow.models import Variable
 from airflow.operators.python_operator import PythonOperator
 from airflow.utils.dates import days_ago
-from google.cloud.storage import Client
+from deepmerge import always_merger
+from google.cloud.exceptions import NotFound
+from google.cloud.storage import Client, Bucket
 from urllib import parse
 import os
 import json
 
 #
-# To configure, set a single airflow variable called "extract_weather_data_config" that has a JSON dict with
+# To configure, set a single airflow variable called "weather_config" that has a JSON dict with
 # the following attributes:
 #
 # weatherapi_base_url - The URL of the weather API
 #     (`http://api.weatherapi.com/v1/history.json?key={key}&q={q}+united+states&dt={dt}`)
 # weatherapi_key - The registered key
 # visitdata_bucket_name - Name of the bucket to which to store weather data (`data.visitdata.org`)
-# weatherapi_bucket_base_path - Base path to store data (`processed/vendor/api.weatherapi.com/asof/{date}`)
+# weatherapi_raw_bucket_base_path - Base path to store data (`raw/vendor/api.weatherapi.com/asof/{date}`)
+# weatherapi_merged_bucket_base_path - Base path to store data (`processed/vendor/api.weatherapi.com/asof/{date}`)
+# start_date - Date of start of merged data (`2020-02-01`)
 #
 
 
 default_args = {
     'owner': 'airflow',
-    'depends_on_past': False,
+    'depends_on_past': True,
     'start_date': days_ago(1),
     'retries': 1,
     'retry_delay': timedelta(minutes=5)
@@ -36,42 +41,31 @@ def slugify_state(selected_state: str):
     return "-".join(selected_state.split())
 
 
-def extract_weather_for_county_for_date(base_url: str, api_key: str, selected_state: str, county: str,
-                                        date: datetime.date):
-    weather = {"forecast": {}}
+def extract_raw_weather_for_county_for_date(base_url: str, api_key: str, selected_state: str, county: str,
+                                            date: datetime.date):
     query = parse.quote(f"{county}, {selected_state}")
     full_url = base_url.format(key=api_key, q=query, dt=date.strftime('%Y-%m-%d'))
     response = requests.get(full_url)
-    data = response.json()
-    try:
-        forecast = data["forecast"]["forecastday"][0]
-        location = data["location"]
-        forecast["day"].pop("condition")
-        weather = {**weather, **location}
-        weather["forecast"][forecast["date_epoch"]] = forecast["day"]
-    except Exception as e:
-        print(f"Skipping state {selected_state}, county {county}, date {date} due to error: {e}")
-
-    return weather
+    return response.json()
 
 
-def extract_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
-                                       selected_state: str, date: datetime.date):
-    return {county: extract_weather_for_county_for_date(base_url, api_key, selected_state, county, date)
+def extract_raw_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
+                                           selected_state: str, date: datetime.date):
+    return {county: extract_raw_weather_for_county_for_date(base_url, api_key, selected_state, county, date)
             for county in state_to_counties[selected_state]}
 
 
-def load_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
-                                    bucket_name: str, bucket_base_path: str, selected_state: str,
-                                    **context):
+def load_raw_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
+                                        bucket_name: str, bucket_raw_base_path: str, selected_state: str,
+                                        **context):
     date: datetime.date = context["execution_date"]
     yyyymmdd: str = date.strftime("%Y%m%d")
     gcs = Client()
     bucket = gcs.bucket(bucket_name)
-    blob = bucket.blob(f"{bucket_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json")
     blob.upload_from_string(
         json.dumps(
-            extract_weather_for_state_for_date(
+            extract_raw_weather_for_state_for_date(
                 base_url=base_url,
                 api_key=api_key,
                 state_to_counties=state_to_counties,
@@ -83,9 +77,61 @@ def load_weather_for_state_for_date(base_url: str, api_key: str, state_to_counti
     print(f"Successfully loaded weather data for {str(date)} to bucket")
 
 
+def read_weather_for_state_for_date(bucket: Bucket, bucket_raw_base_path: str, selected_state: str,
+                                    date: datetime.date):
+    yyyymmdd: str = date.strftime("%Y%m%d")
+    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    try:
+        return json.loads(blob.download_as_string())
+    except NotFound:
+        return None
+
+
+def load_merged_weather_for_state_for_date(bucket_name: str, bucket_raw_base_path: str, bucket_merged_base_path: str,
+                                           selected_state: str, start_date: datetime.date, **context):
+    end_date: datetime.date = context["execution_date"]
+    yyyymmdd: str = end_date.strftime("%Y%m%d")
+    gcs = Client()
+    bucket = gcs.bucket(bucket_name)
+
+    # Dict like {"county": {"location": {...}, "forecast": {"yyyymmdd1": {...}, "yyyymmdd2": {...}}}}
+    merged_weather = defaultdict(lambda: {"forecast": {}})
+
+    # Read raw data for each date from first date to execution date and merge into one record
+    for n in range(int((end_date - start_date).days) + 1):
+        date = start_date + timedelta(n)
+        state_data = read_weather_for_state_for_date(bucket=bucket, bucket_raw_base_path=bucket_raw_base_path,
+                                                     selected_state=selected_state, date=date)
+        if state_data is None:
+            print(f"Warning: No data for state {selected_state} for date {date}. Skipping.")
+            continue
+
+        for county in state_data.keys():
+            print(f"Merging {county}, {selected_state} on {date}...")
+            data = state_data[county]
+            try:
+                forecast = data["forecast"]["forecastday"][0]
+                weather = {
+                    "forecast": {
+                        forecast["date_epoch"]: {
+                            "maxtemp_f": forecast["day"]["maxtemp_f"],
+                            "totalprecip_in": forecast["day"]["totalprecip_in"]
+                        }
+                    }
+                }
+                county_weather = merged_weather[county]
+                always_merger.merge(county_weather, weather)
+            except Exception as e:
+                print(f"Skipping state {selected_state}, county {county}, date {date} due to error: {e}")
+
+    target_blob = bucket.blob(f"{bucket_merged_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    target_blob.upload_from_string(json.dumps(merged_weather, sort_keys=True))
+    print(f"Successfully loaded merged weather data for state {selected_state} to bucket")
+
+
 dag = DAG(
-    dag_id="dag-extract-weather-data",
-    description="Extract Weather Data",
+    dag_id="dag-weather",
+    description="ETL Weather Data",
     catchup=False,
     default_args=default_args,
     schedule_interval='@daily'
@@ -94,22 +140,36 @@ dag = DAG(
 
 # State file is stored locally as part of DAG code until it can be generated from upstream dependencies:
 with open(f"{os.path.dirname(__file__)}/states_counties.json") as f:
-    state_to_countries = json.load(f)
+    state_to_counties = json.load(f)
 
 
-for state in state_to_countries.keys():
-    config = Variable.get("extract_weather_data_config", deserialize_json=True)
-    PythonOperator(
-        task_id=f"task-load-weather-{slugify_state(state)}",
-        python_callable=load_weather_for_state_for_date,
+for state in state_to_counties.keys():
+    config = Variable.get("weather_config", deserialize_json=True)
+    load_raw_task = PythonOperator(
+        task_id=f"load-raw-weather-{slugify_state(state)}",
+        python_callable=load_raw_weather_for_state_for_date,
         op_kwargs={
             "base_url": config["weatherapi_base_url"],
             "api_key": config["weatherapi_key"],
-            "state_to_counties": state_to_countries,
+            "state_to_counties": state_to_counties,
             "bucket_name": config["visitdata_bucket_name"],
-            "bucket_base_path": config["weatherapi_bucket_base_path"],
+            "bucket_raw_base_path": config["weatherapi_raw_bucket_base_path"],
             "selected_state": state
         },
         provide_context=True,
         dag=dag
     )
+    load_merged_task = PythonOperator(
+        task_id=f"load-merged-weather-{slugify_state(state)}",
+        python_callable=load_merged_weather_for_state_for_date,
+        op_kwargs={
+            "bucket_name": config["visitdata_bucket_name"],
+            "bucket_raw_base_path": config["weatherapi_raw_bucket_base_path"],
+            "bucket_merged_base_path": config["weatherapi_merged_bucket_base_path"],
+            "selected_state": state,
+            "start_date": datetime.strptime(config["start_date"], '%Y-%m-%d')
+        },
+        provide_context=True,
+        dag=dag
+    )
+    load_raw_task >> load_merged_task
