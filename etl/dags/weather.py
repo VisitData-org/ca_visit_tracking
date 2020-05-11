@@ -1,6 +1,7 @@
+import gzip
+import io
 from collections import defaultdict
 from datetime import timedelta, datetime
-from typing import Dict, List
 
 import requests
 from airflow import DAG
@@ -55,20 +56,37 @@ def extract_raw_weather_for_state_for_date(base_url: str, api_key: str, selected
             for county in state_to_counties[selected_state]}
 
 
+def gzip_str(s: str):
+    out = io.BytesIO()
+    with gzip.GzipFile(fileobj=out, mode='w') as fo:
+        fo.write(s.encode())
+    return out.getvalue()
+
+
+def gunzip_bytes(data: bytes):
+    bio = io.BytesIO()
+    bio.write(data)
+    bio.seek(0)
+    with gzip.GzipFile(fileobj=bio, mode='rb') as fo:
+        return fo.read().decode()
+
+
 def load_raw_weather_for_state_for_date(base_url: str, api_key: str, bucket_name: str, bucket_raw_base_path: str,
                                         selected_state: str, **context):
     date: datetime.date = context["execution_date"]
     yyyymmdd: str = date.strftime("%Y%m%d")
     gcs = Client()
     bucket = gcs.bucket(bucket_name)
-    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json.gz")
     blob.upload_from_string(
-        json.dumps(
-            extract_raw_weather_for_state_for_date(
-                base_url=base_url,
-                api_key=api_key,
-                selected_state=selected_state,
-                date=date
+        gzip_str(
+            json.dumps(
+                extract_raw_weather_for_state_for_date(
+                    base_url=base_url,
+                    api_key=api_key,
+                    selected_state=selected_state,
+                    date=date
+                )
             )
         )
     )
@@ -78,9 +96,9 @@ def load_raw_weather_for_state_for_date(base_url: str, api_key: str, bucket_name
 def read_weather_for_state_for_date(bucket: Bucket, bucket_raw_base_path: str, selected_state: str,
                                     date: datetime.date):
     yyyymmdd: str = date.strftime("%Y%m%d")
-    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json")
+    blob = bucket.blob(f"{bucket_raw_base_path.format(date=yyyymmdd)}/{selected_state}.json.gz")
     try:
-        return json.loads(blob.download_as_string())
+        return json.loads(gunzip_bytes(blob.download_as_string()))
     except NotFound:
         return None
 
