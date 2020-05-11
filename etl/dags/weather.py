@@ -6,7 +6,6 @@ import requests
 from airflow import DAG
 from airflow.models import Variable
 from airflow.operators.python_operator import PythonOperator
-from airflow.utils.dates import days_ago
 from google.cloud.exceptions import NotFound
 from google.cloud.storage import Client, Bucket
 from urllib import parse
@@ -30,7 +29,6 @@ import json
 default_args = {
     'owner': 'airflow',
     'depends_on_past': True,
-    'start_date': days_ago(1),
     'retries': 1,
     'retry_delay': timedelta(minutes=5)
 }
@@ -45,18 +43,20 @@ def extract_raw_weather_for_county_for_date(base_url: str, api_key: str, selecte
     query = parse.quote(f"{county}, {selected_state}")
     full_url = base_url.format(key=api_key, q=query, dt=date.strftime('%Y-%m-%d'))
     response = requests.get(full_url)
-    return response.json()
+    result = response.json()
+    # Sanity check result
+    if "error" in result.keys():
+        raise RuntimeError(f"Error encountered for {county}, {selected_state} on {date}: {result['error']['message']}")
+    return result
 
 
-def extract_raw_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
-                                           selected_state: str, date: datetime.date):
+def extract_raw_weather_for_state_for_date(base_url: str, api_key: str, selected_state: str, date: datetime.date):
     return {county: extract_raw_weather_for_county_for_date(base_url, api_key, selected_state, county, date)
             for county in state_to_counties[selected_state]}
 
 
-def load_raw_weather_for_state_for_date(base_url: str, api_key: str, state_to_counties: Dict[str, List[str]],
-                                        bucket_name: str, bucket_raw_base_path: str, selected_state: str,
-                                        **context):
+def load_raw_weather_for_state_for_date(base_url: str, api_key: str, bucket_name: str, bucket_raw_base_path: str,
+                                        selected_state: str, **context):
     date: datetime.date = context["execution_date"]
     yyyymmdd: str = date.strftime("%Y%m%d")
     gcs = Client()
@@ -67,7 +67,6 @@ def load_raw_weather_for_state_for_date(base_url: str, api_key: str, state_to_co
             extract_raw_weather_for_state_for_date(
                 base_url=base_url,
                 api_key=api_key,
-                state_to_counties=state_to_counties,
                 selected_state=selected_state,
                 date=date
             )
@@ -123,10 +122,14 @@ def load_merged_weather_for_state_for_date(bucket_name: str, bucket_raw_base_pat
     print(f"Successfully loaded merged weather data for state {selected_state} to bucket")
 
 
+config = Variable.get("weather_config", deserialize_json=True)
+config_start_date = datetime.strptime(config["start_date"], '%Y-%m-%d')
+
 dag = DAG(
     dag_id="dag-weather",
     description="ETL Weather Data",
-    catchup=False,
+    catchup=True,
+    start_date=config_start_date,
     default_args=default_args,
     schedule_interval='@daily'
 )
@@ -138,14 +141,12 @@ with open(f"{os.path.dirname(__file__)}/states_counties.json") as f:
 
 
 for state in state_to_counties.keys():
-    config = Variable.get("weather_config", deserialize_json=True)
     load_raw_task = PythonOperator(
         task_id=f"load-raw-weather-{slugify_state(state)}",
         python_callable=load_raw_weather_for_state_for_date,
         op_kwargs={
             "base_url": config["weatherapi_base_url"],
             "api_key": config["weatherapi_key"],
-            "state_to_counties": state_to_counties,
             "bucket_name": config["visitdata_bucket_name"],
             "bucket_raw_base_path": config["weatherapi_raw_bucket_base_path"],
             "selected_state": state
@@ -161,7 +162,7 @@ for state in state_to_counties.keys():
             "bucket_raw_base_path": config["weatherapi_raw_bucket_base_path"],
             "bucket_merged_base_path": config["weatherapi_merged_bucket_base_path"],
             "selected_state": state,
-            "start_date": datetime.strptime(config["start_date"], '%Y-%m-%d')
+            "start_date": config_start_date
         },
         provide_context=True,
         dag=dag
