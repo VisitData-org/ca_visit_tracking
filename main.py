@@ -15,7 +15,8 @@ app = Flask(__name__, static_url_path="", static_folder="static")
 app_state = {
     "maps_api_key": "",
     "foursquare_data_url": "",
-    "foursquare_data_version": ""
+    "foursquare_data_version": "",
+    "weather_data_version": ""
 }
 
 
@@ -143,6 +144,14 @@ def data(path):
                            snapshot_id=app_state['foursquare_data_version'])
 
 
+@app.route("/data/weather/<path:stateFile>")
+def weather_data(stateFile):
+    weather_root_data_path = f"processed/vendor/api.weatherapi.com/asof/{app_state['weather_data_version']}"
+    if stateFile.endswith(".json"):
+        return redirect(f"//data.visitdata.org/{weather_root_data_path}/{stateFile}", code=302)
+    else:
+        return page_not_found("")
+
 def page_not_found(e):
     return render_template('404.html'), 404
 
@@ -179,10 +188,21 @@ def _init_data_env():
         with open(app_yaml_file) as f:
             app_yaml_obj = yaml.safe_load(f)
             foursquare_data_version = app_yaml_obj["env_variables"]["FOURSQUARE_DATA_VERSION"]
+
     app_state["foursquare_data_version"] = foursquare_data_version
     app_state["foursquare_data_url"] =\
         f"//data.visitdata.org/processed/vendor/foursquare/asof/{foursquare_data_version}"
 
+    if "WEATHER_DATA_VERSION" in os.environ:
+        weather_data_version = os.getenv("WEATHER_DATA_VERSION")
+    else:
+        # read from app.yaml
+        app_yaml_file = pathlib.Path(__file__).parent.absolute() / "app.yaml"
+        with open(app_yaml_file) as f:
+            app_yaml_obj = yaml.safe_load(f)
+            weather_data_version = app_yaml_obj["env_variables"]["WEATHER_DATA_VERSION"]
+
+    app_state["weather_data_version"] = weather_data_version
 
 def _init():
     app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 60
