@@ -49,12 +49,18 @@ function isCategoryEssential(categoryId) {
     return categoryIdToEssentialMap.get(categoryId);
 }
 
-//   var privateVariable = "Im also private";
-$.getJSON(_fourSquareDataUrl + "/taxonomy.json", function (data) {
-    for (categoryIndex = 0; categoryIndex < data.length; categoryIndex++) {
-        var nextCategory = data[categoryIndex];
-        categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
-        handleCategory(null, categoryIdToEssentialMap, nextCategory, 0);
+$.ajax({
+    url: _fourSquareDataUrl + "/taxonomy.json" ,
+    dataType: 'json',
+    async: false,
+    success: function (data) {
+        console.debug("loading essential map");
+        for (categoryIndex = 0; categoryIndex < data.length; categoryIndex++) {
+            var nextCategory = data[categoryIndex];
+            categoryIdToCategoryMap.set(nextCategory.id, nextCategory);
+            handleCategory(null, categoryIdToEssentialMap, nextCategory, 0);
+        }
+        console.debug("loaded essential map");
     }
 });
 

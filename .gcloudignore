@@ -23,5 +23,6 @@ __pycache__/
 bin/
 etl/
 Makefile
-
+localdata/
 datascratch/
+.gcpprj

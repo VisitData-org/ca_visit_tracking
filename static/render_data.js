@@ -7,7 +7,7 @@ var essentialSel;
 var states = [];
 var counties = [];
 var locationTypeSel;
-var locationTypes = [];
+var locationItems = [];
 var selectedCounties;
 var selectedVenues;
 var selectedState;
@@ -23,6 +23,11 @@ var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 const ALL = "ALL";
 const NONE = "NONE";
 
+Highcharts.setOptions({
+  lang: {
+      thousandsSep: ','
+  }
+});
 
 if(maxLocationTypeLinesParam) {
   maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
@@ -34,10 +39,10 @@ const AGE_GROUP_LABELS = {
   over65: "over 65 years old",
 }
 
-const AGE_GROUP_FIELDS = {
-  all: "visit_index",
-  under65: "visit_index_under65",
-  over65: "visit_index_over65",
+const AGE_GROUP_VALUES = {
+  all: "All",
+  under65: "Below65",
+  over65: "Above65",
 }
 
 function showVenueExamples(pagetype) {
@@ -69,7 +74,7 @@ function chartTitle(stateOrCounty) {
       result += selectedState + ", ";
   }
   if (locationTypeSel.value) {
-    result += locationTypeSel.value + ", ";
+    result += locationTypeSel[locationTypeSel.selectedIndex].text + ", ";
   }
   if (ageGroupSel.value) {
     result += AGE_GROUP_LABELS[ageGroupSel.value] + ", ";
@@ -87,7 +92,7 @@ function chartTitle(stateOrCounty) {
         break;
     }
   }
-  result += "Visits %";
+  result += " Estimated # Visits";
   return result;
 }
 
@@ -105,10 +110,10 @@ function datenum(datestring) {
 //
 function locationTypesToChart(fileData) {
 
-  // sort by rank ascending,
-  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return fileDataRow.rank });
-
-  // then sort by date descending,
+  // sort by most recent number descending,
+  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return -1 * fileDataRow.num_visits });
+  
+   // then sort by date descending,
   var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
 
   // then remove duplicates.
@@ -124,7 +129,7 @@ function fileDataToHighcharts(fileDataToPlot) {
     var year = date.slice(0, 4);
     var month = date.slice(5, 7);
     var day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow[AGE_GROUP_FIELDS[ageGroupSel.value]])];
+    return [Date.UTC(year, month-1, day), parseInt(fileDataRow.num_visits)];
   });
 }
 
@@ -151,9 +156,19 @@ function seriesToPlot(stateOrCounty) {
 
   //filtered data for highcharts
   let results, resultsWeather;
+  //TODO filter out the ages we don't need
+  plotData = _.filter(plotData, (datapoint) => {
+    var datapointAge = datapoint.age;
+    return datapointAge == AGE_GROUP_VALUES[ageGroupSel.value];
+  });
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
+    if(stateOrCounty == 'state') {
+      // if we are processing a state pick out the statewide number
+      fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
+    }
+
     var lts = locationTypesToChart(fileDataToPlot);
     results = _.map(lts, function(locationType) {
       return styleSeries({
@@ -165,6 +180,7 @@ function seriesToPlot(stateOrCounty) {
       return series.data.length > 0;
     });
 
+    results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
     let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
@@ -185,14 +201,19 @@ function seriesToPlot(stateOrCounty) {
       return series.data.length > 0;
     });
 
+    results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
     resultsWeather = _.clone(results);
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
-    results = [styleSeries({
-      name: stateOrCountySel.value,
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
+    if(stateOrCounty == 'state') {
+      // if we are processing a state pick out the statewide number
+      fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
+    }
+    return [styleSeries({
+      name: locationTypeSel[locationTypeSel.selectedIndex].text + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
 
@@ -211,6 +232,18 @@ function seriesToPlot(stateOrCounty) {
   }
 
   return results;
+}
+
+function sortStatewideFirst(seriesToSort) {
+  return seriesToSort.sort((a,b) => { 
+    if(a.name == 'Statewide' && b.name != 'Statewide') {
+      return -1;
+    }
+    if(a.name != 'Statewide' && b.name == 'Statewide') {
+      return 1;
+    }
+    return a.name - b.name;
+  })
 }
 
 function isPlotDataEmpty(seriesForPlot) {
@@ -287,10 +320,10 @@ function drawChart(stateOrCounty) {
           text: 'Date'
         }
       },
-      yAxis: { title: { text: 'Visits %' }, min: 0 },
+      yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
-        pointFormat: '{point.x:%a %b %e}: {point.y}%'
+        pointFormat: '{point.x:%a %b %e}: {point.y:,.0f}'
       },
       plotOptions: {
         series: {
@@ -329,75 +362,16 @@ function cleanLocType(string) {
   return string;
 }
 
-function showTopVenuesTable(stateOrCounty) {
-  var topVenuesFilename = _fourSquareDataUrl + '/topvenues/'+(isRaw() ? 'raw' : 'grouped') + selectedState.replace(/\s/g, '') + '.csv';
-  Papa.parse(topVenuesFilename, {
-    download: true, complete:
-      function (results, file) {
-        // ok, we have the data from the state top venues file but we need to look here for county
-        var topVenuesTableData = results.data;
-        topVenuesTableData = _.map(topVenuesTableData, function (row) {
-          if (isRaw()) {
-            // raw
-            // 2020-04-01,New York,Bronx County,4f4533814b9074f6e4fb0106,Middle Schools,4d51711871548cfad45a1b9a,Hunts Point Middle School,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[4],
-              venue: row[6],
-              rank: parseInt(row[7]),
-              datenum: datenum(row[0])
-            };
-          } else {
-            // grouped
-            // 2020-04-01,New York,Jefferson County,Fast Food Restaurants,4ba2afb8f964a520211038e3,Taco Bell,1
-            return {
-              date: row[0],
-              county: row[2],
-              location_type: row[3],
-              venue: row[5],
-              rank: parseInt(row[6]),
-              datenum: datenum(row[0])
-            };
-          }
-        });
-
-        var topVenuesTable = new Tabulator("#data-table", {
-          data: topVenuesTableData,
-          columns: [
-            { title: "Location Type", field: "location_type" },
-            { title: "County", field: "county" },
-            { title: "Venue", field: "venue" },
-            { title: "Rank", field: "rank" },
-            { title: "Date", field: "date" },
-          ],
-          height: "600px",
-          layout: "fitColumns",
-          initialSort: _.compact([
-            { column: "date", dir: "desc" },
-            stateOrCounty === 'county' ? { column: "county", dir: "asc" } : null,
-            { column: "rank", dir: "asc" },
-          ]),
-        });
-
-        topVenuesTable.addFilter("location_type", "=", locationTypeSel.value);
-        if (stateOrCounty === 'county') {
-          topVenuesTable.addFilter("county", "=", countySel.value);
-        }
-      }
-  });
-}
-
 function redoFilter(stateOrCounty) {
   table.clearFilter();
   if (stateOrCountySel.value) {
     table.addFilter(stateOrCounty, "=", stateOrCountySel.value);
   }
   if (locationTypeSel.value) {
-    table.addFilter("location_type", "=", locationTypeSel.value);
+    table.addFilter("location_type", "=", locationTypeSel[locationTypeSel.selectedIndex].text);
   }
   if (ageGroupSel.value) {
-    table.addFilter(AGE_GROUP_FIELDS[ageGroupSel.value], "!=", "");
+    table.addFilter("age", "=", AGE_GROUP_VALUES[ageGroupSel.value]);
   }
   if(essentialSel.value != 'all') {
     table.addFilter("essential",'=',(essentialSel.value == 'essential'));
@@ -408,9 +382,19 @@ function redoFilter(stateOrCounty) {
   if (ageGroupSel.value) {
     table.redraw(true);
   }
-  // if (stateOrCountySel.value && locationTypeSel.value) {
-  //   showTopVenuesTable(stateOrCounty);
-  // }
+}
+
+function populateLocationSelect(selectElement, itemList, selected) {
+  // ok, I think we need to disable the event handler while we do this.
+  _.each(itemList, function(itemPair) {
+    var option = document.createElement("option");
+    option.value = itemPair[1];
+    option.text = itemPair[0];
+    if (_.contains(selected, option.value)) {
+      option.selected = true;
+    }
+    selectElement.add(option);
+  });
 }
 
 function populateSelect(selectElement, stringList, selected) {
@@ -431,71 +415,58 @@ function isGroupedCategoryEssential(groupName){
   return isGroupEssential;
 }
 
+function getCounty(rowCounty) {
+  if(rowCounty === "") {
+    return "Statewide";
+  } else {
+    return rowCounty;
+  }
+}
+
 function parseGroupedRow(stateOrCounty, row) {
-  //date,state,county,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
+  if (row.categoryid != 'Group') {
+    return undefined;
   } else {
     return {
       date: row.date,
-      state: row.state,
-      county: row.county,
-      location_type: row.categoryName,
-      essential: isGroupedCategoryEssential(row.categoryName),
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
+      state: selectedState, //row.state,
+      county: getCounty(row.county),
+      location_type: row.categoryname,
+      location_item: [row.categoryname, row.categoryname],
+      p50Duration: row.p50Duration,
+      meanDuration: row.avgDuration,
+      essential: isGroupedCategoryEssential(row.categoryname),
+      num_visits: row.visits,
+      age: row.demo,
       datenum: datenum(row.date)
     };
   }
 }
 
 function parseRawRow(stateOrCounty, row) {
-  //date,state,county,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  //date,state,categoryId,categoryName,visitIndex,visitIndexOver65,visitIndexUnder65,rank
-  if (stateOrCounty === 'state') {
-    return {
-      date: row.date,
-      state: row.state,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
-      datenum: datenum(row.date)
-    };
+  if (row.categoryid === '') {
+    return undefined;
   } else {
     return {
       date: row.date,
-      state: row.state,
-      county: row.county,
-      essential: isCategoryEssential(row.categoryId),
-      location_type: row.categoryName,
-      visit_index: row.visitIndex,
-      visit_index_over65: row.visitIndexOver65,
-      visit_index_under65: row.visitIndexUnder65,
-      rank: parseInt(row.rank),
+      state: selectedState, //row.state,
+      county: getCounty(row.county),
+      location_type: row.categoryname,
+      location_item: [row.categoryname, row.categoryid],
+      p50Duration: row.p50Duration,
+      meanDuration: row.avgDuration,
+      essential: isCategoryEssential(row.categoryid),
+      num_visits: row.visits,
+      age: row.demo,
       datenum: datenum(row.date)
     };
   }
 }
 
+var isRawBit;
+
 function isRaw() {
-  // WARNING hack
-  return (datafilename.includes('raw'));
+  return isRawBit;
 }
 
 function parseRow(stateOrCounty, row) {
@@ -554,36 +525,54 @@ function getStates() {
     "Vermont",
     "Virginia",
     "Washington",
+    "Washington, D.C.",
     "West Virginia",
     "Wisconsin",
     "Wyoming",
     ];
 }
 
+function getCounties(state) {
+  var counties;
+
+  $.ajax({
+    url: _fourSquareDataUrl + "/index.json",
+    dataType: 'json',
+    async: false,
+    success: function (data) {
+      console.debug("loading index");
+      counties = data.counties[state];
+      console.debug("loaded index");
+    }
+  });
+
+  return counties;
+}
+
 function parsingDone(stateOrCounty, results, file) {
+  console.debug("parsingDone called");
   fileData = _.map(
     results.data,
     function(row) { return parseRow(stateOrCounty, row); }
-  );  // get rid of header row
+  );
+  fileData = _.compact(fileData);
   if (stateOrCounty === 'state') {
     statesOrCounties = getStates();
   } else {
-    statesOrCounties = _.compact(_.uniq(_.pluck(fileData, 'county')).sort());
+    statesOrCounties = getCounties(selectedState);
   }
-  locationTypes = _.compact(_.uniq(_.pluck(fileData, 'location_type')).sort());
 
   table = new Tabulator("#data-table", {
     data:fileData,
     columns:[
-      {title:"Location Type", field:"location_type"},
-      {title:"Essential", field:"essential", visible: false},
-      {title:"Visits %", field:"visit_index", visible: true},
-      {title:"Visits %", field:"visit_index_over65", visible: false},
-      {title:"Visits %", field:"visit_index_under65", visible: false},
-      stateOrCounty === 'state' ?
-        {title:"State", field:"state"} :
-        {title:"County", field:"county"},
-      {title:"Date", field:"date"},
+      { title: "County", field: "county" },
+      { title: "Location Type", field: "location_type" },
+      { title: "Essential", field: "essential", visible: false },
+      { title: "# Visits", field: "num_visits", visible: true },
+      { title: "Median Visit Length, Minutes", field: "p50Duration", visible: true },
+      { title: "Mean Duration Minutes", field: "meanDuration", visible: false },
+      { title: "Age", field: "age", visible: true },
+      { title: "Date", field: "date" },
     ],
     height:"600px",
     layout:"fitColumns",
@@ -603,10 +592,9 @@ function parsingDone(stateOrCounty, results, file) {
     statesOrCounties,
     stateOrCounty === 'state' ? [selectedState] : selectedCounties
   );
-
-  // TODO - probably should think about filtering the location types for grouped when there is an essential filter
+  
   locationTypeSel = document.getElementById('location-type-select');
-  populateSelect(locationTypeSel, locationTypes, selectedVenues);
+  populateLocationSelect(locationTypeSel, locationItems, selectedVenues);
 
   essentialSel = document.getElementById('essential-select');
   essentialSel.addEventListener('change', function() {
@@ -625,11 +613,6 @@ function parsingDone(stateOrCounty, results, file) {
   //actions for agegroup-select button
   ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
-    // hide all 3
-    table.hideColumn("visit_index");
-    table.hideColumn("visit_index_over65");
-    table.hideColumn("visit_index_under65");
-    table.showColumn(AGE_GROUP_FIELDS[ageGroupSel.value]);
     redoFilter(stateOrCounty);
 
     if (stateOrCountySel.value || locationTypeSel.value) {
@@ -738,38 +721,92 @@ function setNavLinks(stateOrCounty) {
 }
 
 function parse(stateOrCounty) {
+
+  if(urlParams.get('datafilename')) {
+    isRawBit = true;
+  }
+
+  var selectedFileString = '';
+  if(stateOrCounty == 'county' && selectedCounties.length > 0) {
+    selectedFileString = '_' + selectedCounties[0].replace(/\s/g, '');
+  } else if (selectedVenues.length > 0) {
+    selectedFileString = '_' + selectedVenues[0];
+  }
+
+  stateFile = _fourSquareDataUrl + '/' + (isRaw() ? 'raw' : 'grouped') + selectedState.replace(/[\s\,\.]/g, '') + '.csv';
+  if (selectedFileString === '') {
+    // no venue or county selected
+    datafilename = stateFile;
+  } else {
+    datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.&]/g, '') + '.csv';
+  }
+  console.debug(datafilename);
+  
   if (stateOrCounty === 'state') {
-    /*
-      to set the filename we have a few questions
-      1) is this grouped or raw?
-      2) is the state set yet?
-    */
-    var filePrefix;
-    if (!urlParams.get('datafilename')) {
-      // OK, this is really just grouped
-      filePrefix = 'grouped';
+    if (!isRaw()) {
       document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
     } else {
-      filePrefix = 'raw';
       document.getElementById('nav-stateall').classList.add('font-weight-bold')
     }
-
-    datafilename = _fourSquareDataUrl + '/allstate/' + filePrefix + selectedState.replace(/\s/g, '') + '.csv';
   } else {
-    if (!datafilename) {
-      datafilename = _fourSquareDataUrl + '/grouped' + selectedState.replace(/\s/g, '') + '.csv';
+    if (!isRaw()) {
       document.getElementById('nav-chartgrouped').classList.add('font-weight-bold')
-
     } else {
-      datafilename = _fourSquareDataUrl + '/' + datafilename + selectedState.replace(/\s/g, '') + '.csv';
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }
   }
 
-  Papa.parse(datafilename, {
+  Papa.parse(stateFile, {
     download: true,
     header: true,
-    complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
+    complete: (results, file) => {
+      locationItems = _.map(results.data, (row) => {
+        if(!(row.categoryname)) {
+          return undefined;
+        }
+        if(isRaw()) {
+          if(row.categoryid == 'Group') {
+            return undefined;
+          } else {
+            return [row.categoryname, row.categoryid];
+          }
+        } else {
+          if(row.categoryid != 'Group') {
+            return undefined;
+          } else {
+            return [row.categoryname, row.categoryname];
+          }
+        }
+      });
+      locationItems = _.compact(locationItems);
+      locationItems = _.uniq(locationItems, false, (item) => { return item.join("_")});
+      locationItems = locationItems.sort((a,b) => {
+          var nameA = a[0];
+          if(nameA) {
+            nameA = nameA.toUpperCase(); // ignore upper and lowercase
+          }
+          var nameB = b[0];
+          if(nameB) {
+            nameB = nameB.toUpperCase(); // ignore upper and lowercase
+          }
+          if (nameA < nameB) {
+            return -1;
+          }
+          if (nameA > nameB) {
+            return 1;
+          }
+        
+          // names must be equal
+          return 0;
+        });
+
+        // ok, now go get the rest of the data
+        Papa.parse(datafilename, {
+          download: true,
+          header: true,
+          complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
+        });
+    }
   });
 }
 
