@@ -150,7 +150,7 @@ function seriesToPlot(stateOrCounty) {
   );
 
   //filtered data for highcharts
-  var results;
+  let results, resultsWeather;
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
@@ -168,7 +168,7 @@ function seriesToPlot(stateOrCounty) {
     results.unshift({ name: 'Show/Hide All', visible: false });
   }
   else if (!stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value });
+    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
     results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
@@ -180,6 +180,8 @@ function seriesToPlot(stateOrCounty) {
     });
 
     results.unshift({ name: 'Show/Hide All', visible: false });
+
+    resultsWeather = _.clone(results);
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
     var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel.value, [stateOrCounty]: stateOrCountySel.value });
@@ -187,10 +189,15 @@ function seriesToPlot(stateOrCounty) {
       name: stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
+
+    resultsWeather = _.clone([styleSeries({
+      name: stateOrCountySel.value,
+      data: fileDataToHighcharts(fileDataToPlot)
+    })]);
   }
 
   if (weatherDataCheck) {
-    drawWeatherData(results);
+    drawWeatherData(resultsWeather);
   } else {
     $("#chart-weather-container").html("");
     $("#chartcontainer").show();
@@ -762,8 +769,8 @@ function parse(stateOrCounty) {
 function renderData(stateOrCounty) {
   parseSelection(stateOrCounty);
   if ($('#weather-data-checkbox').length && 
-    !_.isEmpty(selectedVenues))
-    requestWeatherData(selectedState);
+      requestWeatherData(selectedState);
+    }
   setNavLinks(stateOrCounty);
   parse(stateOrCounty);
 }

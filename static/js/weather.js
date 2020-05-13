@@ -161,7 +161,7 @@ function drawWeatherChartPerCounty(dataChartWeather) {
 
   //grid displaying plots
   const divRow = document.createElement("div");
-  const positionChart = "mt-5 col-md-6";
+  let positionChart = "mt-5 col-md-6";
 
   if (_.keys(dataChartWeather).length === 1) {
     positionChart = "w-100";
