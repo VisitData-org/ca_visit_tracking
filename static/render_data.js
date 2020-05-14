@@ -212,7 +212,7 @@ function seriesToPlot(stateOrCounty) {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
-    return [styleSeries({
+    results = [styleSeries({
       name: locationTypeSel[locationTypeSel.selectedIndex].text + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
