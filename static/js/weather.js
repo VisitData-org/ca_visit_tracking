@@ -85,6 +85,17 @@ function getTimestampsPerCounty(plotDataVisits) {
   return dates;
 }
 
+function intersectWeatherVisits(visits, weather) {
+  const fuse = new Fuse(_.keys(weather));
+  return _.map(_.keys(visits), (county) => {
+    const search = fuse.search(county);
+    return _.isEmpty(search) ? { empty: true } : {
+      weatherCounty: search[0].item,
+      visitsCounty: county
+    }
+  }).filter(({ empty }) => !empty );
+}
+
 /**
  * Cross-data for weather and visits. Finds the weather data in the existent dates per county
  *
@@ -94,16 +105,16 @@ function getTimestampsPerCounty(plotDataVisits) {
  */
 function getHighchartsWeatherData(dates, weatherData) {
   const highchartsWeatherData = {};
+  const counties = intersectWeatherVisits(dates, weatherData);
 
-  _.each(_.intersection(_.keys(weatherData), _.keys(dates)), (county) => {
+  _.each(counties, ({ weatherCounty, visitsCounty }) => {
     let arrTemp = [];
     let arrPrec = [];
     let dataTemp = null;
     let dataPrec = null;
-
     //array dates/weather
-    _.each(dates[county], (timeStamp) => {
-      let infoWeather = weatherData[county].forecast[timeStamp];
+    _.each(dates[visitsCounty], (timeStamp) => {
+      let infoWeather = weatherData[weatherCounty].forecast[timeStamp];
       if (!_.isEmpty(infoWeather)) {
         timeStamp = parseInt(timeStamp + "000");
 
@@ -123,12 +134,14 @@ function getHighchartsWeatherData(dates, weatherData) {
       }
     });
 
+
     if (dataTemp && dataPrec)
-      highchartsWeatherData[county] = { dataTemp, dataPrec };
+      highchartsWeatherData[visitsCounty] = { dataTemp, dataPrec };
   });
 
   return highchartsWeatherData;
 }
+
 
 /**
  * Appends Visits to Weather info
