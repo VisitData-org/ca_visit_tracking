@@ -190,6 +190,8 @@ function drawWeatherChartPerCounty(dataChartWeather) {
     const container = document.createElement("div");
     container.setAttribute("class", positionChart);
     divRow.append(container);
+    if(!_.isEmpty(stateOrCountySel.value))
+      key = chartTitle("county")
 
     window.chart = new Highcharts.Chart({
       chart: {
