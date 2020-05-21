@@ -19,7 +19,7 @@ let weatherGlobalData;
  */
 const requestWeatherData = (selectedState) => {
   $("#weather-group").tooltip();
-  fetch("/weather/" + selectedState)
+  fetch("/data/weather/" + selectedState + ".json")
     .then((response) => response.json())
     .then((data) => {
       $("#weather-data-checkbox").prop("disabled", false);
