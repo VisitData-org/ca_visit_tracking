@@ -123,11 +123,15 @@ def _list_names():
 
 
 @app.route("/data")
+def data_request():
+    return render_template("data_request.html")
+
+@app.route("/data-noncommercial")
 def data_root():
     return data("")
 
 
-@app.route("/data/")
+@app.route("/data-noncommercial/")
 def data_root_slash():
     return data("")
 
