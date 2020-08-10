@@ -69,13 +69,13 @@ To import new data:
    download file and the name of the build directory to be created by the script.
    
    ```bash
-   $ python3 bin/foursquare_cube.py --prevdir /tmp/20200802-v0/ /Users/david/Downloads/data-cube2-08-03.tar v20200803-v0 /tmp/build
+   $ python3 bin/foursquare_cube.py --prevdir /tmp/build/20200806-fml/20200806-v20200806-v0/ /Users/david/Downloads/drive-download-20200810T151307Z-001/data-cube2-2020-08-07.tar v20200807-v0 /tmp/build2
    ```
 
 3. Load the processed data to the bucket
 
    ```bash
-   $ bin/foursquare_load.sh /tmp/build/20200803-v20200803-v0/ 20200803-v1
+   $ bin/foursquare_load.sh /tmp/build2/20200807-v20200807-v0/ 20200807-v0
    ```
 
 4. Modify `app.yaml` to point to the new data version
