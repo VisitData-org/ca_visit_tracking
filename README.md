@@ -69,7 +69,7 @@ To import new data:
    download file and the name of the build directory to be created by the script.
    
    ```bash
-   $ python3 bin/foursquare_cube.py --prevdir /tmp/build/20200806-fml/20200806-v20200806-v0/ /Users/david/Downloads/drive-download-20200810T151307Z-001/data-cube2-2020-08-07.tar v20200807-v0 /tmp/build2
+   $ python3 bin/foursquare_cube.py --prevdir /tmp/build2/20200807-v20200807-v0/ /Users/david/Downloads/drive-download-20200810T211412Z-001/data-cube2-2020-08-07.tar v20200808-v0 /tmp/build3
    ```
 
 3. Load the processed data to the bucket
