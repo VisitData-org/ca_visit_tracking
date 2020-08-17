@@ -2,5 +2,5 @@ runtime: python37
 entrypoint: gunicorn -b :$PORT main:app
 
 env_variables:
-  FOURSQUARE_DATA_VERSION: "20200815-v0"
-  WEATHER_DATA_VERSION: "20200815"
+  FOURSQUARE_DATA_VERSION: "20200816-v1"
+  WEATHER_DATA_VERSION: "20200816"
