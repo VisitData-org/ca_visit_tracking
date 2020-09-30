@@ -1,24 +1,24 @@
-var table;
-var fileData;  //  globalish variable holding the parsed file data rows  HACK
-var stateOrCountySel;
-var ageGroupSel;
-var weatherDataCheck;
-var essentialSel;
-var states = [];
-var counties = [];
-var locationTypeSel;
-var locationItems = [];
-var selectedCounties;
-var selectedVenues;
-var selectedState;
+let table;
+let fileData;  //  globalish variable holding the parsed file data rows  HACK
+let stateOrCountySel;
+let ageGroupSel;
+let weatherDataCheck;
+let essentialSel;
+const states = [];
+const counties = [];
+let locationTypeSel;
+let locationItems = [];
+let selectedCounties;
+let selectedVenues;
+let selectedState;
 
 const urlParams = new URLSearchParams(window.location.search);
-var datafilename = urlParams.get('datafilename');
-var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
+let datafilename = urlParams.get('datafilename');
+const maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
 
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 
-var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+const maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
 
 const ALL = "ALL";
 const NONE = "NONE";
@@ -50,7 +50,7 @@ function showVenueExamples(pagetype) {
     window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county= '
 
   } else if (window.location.href.includes('raw')) {
-    var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
+    const _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
     window.open(_venuesUrl)
   } else {
   window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
@@ -67,7 +67,7 @@ function venueBtnName() {
 
 function chartTitle(stateOrCounty) {
 
-  var result = "";
+  let result = "";
   if (stateOrCountySel.value) {
     result += stateOrCountySel.value + ", ";
     if (stateOrCounty === 'county')
@@ -97,9 +97,9 @@ function chartTitle(stateOrCounty) {
 }
 
 function datenum(datestring) {
-  var year = parseInt(datestring.slice(0, 4));
-  var month = parseInt(datestring.slice(5, 7));
-  var day = parseInt(datestring.slice(8, 10));
+  const year = parseInt(datestring.slice(0, 4));
+  const month = parseInt(datestring.slice(5, 7));
+  const day = parseInt(datestring.slice(8, 10));
   return year * 10000 + month * 100 + day;
 }
 
@@ -111,13 +111,13 @@ function datenum(datestring) {
 function locationTypesToChart(fileData) {
 
   // sort by most recent number descending,
-  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return -1 * fileDataRow.num_visits });
+  const sortStepOne = _.sortBy(fileData, function(fileDataRow) { return -1 * fileDataRow.num_visits });
   
    // then sort by date descending,
-  var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
+  const sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
 
   // then remove duplicates.
-  var locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
+  const locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
 
   // the top N locationtypes are then from the latest date, going back to previous dates if necessary.
   return locationTypes.slice(0, maxLocationTypes);
@@ -125,10 +125,10 @@ function locationTypesToChart(fileData) {
 
 function fileDataToHighcharts(fileDataToPlot) {
   return _.map(fileDataToPlot, function(fileDataRow) {
-    var date = fileDataRow.date;
-    var year = date.slice(0, 4);
-    var month = date.slice(5, 7);
-    var day = date.slice(8, 10);
+    const date = fileDataRow.date;
+    const year = date.slice(0, 4);
+    const month = date.slice(5, 7);
+    const day = date.slice(8, 10);
     return [Date.UTC(year, month-1, day), parseInt(fileDataRow.num_visits)];
   });
 }
@@ -140,9 +140,9 @@ function styleSeries(series) {
 }
 
 function seriesToPlot(stateOrCounty) {
-  var plotData = _.filter(fileData,
+  const plotData = _.filter(fileData,
     function (datapoint) {
-      var datapointEssential = datapoint.essential;
+      const datapointEssential = datapoint.essential;
       switch (essentialSel.value) {
         case "all":
           return true;
@@ -158,18 +158,18 @@ function seriesToPlot(stateOrCounty) {
   let results, resultsWeather;
   //TODO filter out the ages we don't need
   plotData = _.filter(plotData, (datapoint) => {
-    var datapointAge = datapoint.age;
+    const datapointAge = datapoint.age;
     return datapointAge == AGE_GROUP_VALUES[ageGroupSel.value];
   });
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
+    const fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
 
-    var lts = locationTypesToChart(fileDataToPlot);
+    const lts = locationTypesToChart(fileDataToPlot);
     results = _.map(lts, function(locationType) {
       return styleSeries({
         name: locationType,
@@ -183,14 +183,14 @@ function seriesToPlot(stateOrCounty) {
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
-    let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    const maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
     maxResultsData.titleName = maxResultsData.name;
     maxResultsData.name = stateOrCountySel.value;
     resultsWeather = [maxResultsData]
 
   }
   else if (!stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
+    const fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
     results = _.map(statesOrCounties, function(stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
@@ -207,7 +207,7 @@ function seriesToPlot(stateOrCounty) {
     resultsWeather = _.clone(results);
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
+    const fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
@@ -247,10 +247,10 @@ function sortStatewideFirst(seriesToSort) {
 }
 
 function isPlotDataEmpty(seriesForPlot) {
-  var plotEmpty = true;
-  for(var seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
-    var series = seriesForPlot[seriesIndex];
-    var seriesData = series.data;
+  const plotEmpty = true;
+  for(let seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
+    const series = seriesForPlot[seriesIndex];
+    const seriesData = series.data;
     if(seriesData && seriesData.length > 0) {
       plotEmpty = false;
       break;
@@ -260,10 +260,10 @@ function isPlotDataEmpty(seriesForPlot) {
 }
 
 function drawChart(stateOrCounty) {
-  var seriesForPlot = seriesToPlot(stateOrCounty);
+  const seriesForPlot = seriesToPlot(stateOrCounty);
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
-    var emptyDataNotice = document.createElement("h2")
+    const emptyDataNotice = document.createElement("h2")
     emptyDataNotice.innerText = 'No matching data to chart';
     emptyDataNotice.style.textAlign = 'center';
     document.getElementById('chartcontainer').appendChild(emptyDataNotice);
@@ -387,7 +387,7 @@ function redoFilter(stateOrCounty) {
 function populateLocationSelect(selectElement, itemList, selected) {
   // ok, I think we need to disable the event handler while we do this.
   _.each(itemList, function(itemPair) {
-    var option = document.createElement("option");
+    const option = document.createElement("option");
     option.value = itemPair[1];
     option.text = itemPair[0];
     if (_.contains(selected, option.value)) {
@@ -400,7 +400,7 @@ function populateLocationSelect(selectElement, itemList, selected) {
 function populateSelect(selectElement, stringList, selected) {
   // ok, I think we need to disable the event handler while we do this.
   _.each(stringList, function(theString) {
-    var option = document.createElement("option");
+    const option = document.createElement("option");
     option.value = theString;
     option.text = theString;
     if (_.contains(selected, option.text)) {
@@ -411,7 +411,7 @@ function populateSelect(selectElement, stringList, selected) {
 }
 
 function isGroupedCategoryEssential(groupName){
-  var isGroupEssential = groupToEssentialMap.get(groupName);
+  const isGroupEssential = groupToEssentialMap.get(groupName);
   return isGroupEssential;
 }
 
@@ -463,7 +463,7 @@ function parseRawRow(stateOrCounty, row) {
   }
 }
 
-var isRawBit;
+let isRawBit;
 
 function isRaw() {
   return isRawBit;
@@ -533,7 +533,7 @@ function getStates() {
 }
 
 function getCounties(state) {
-  var counties;
+  let counties;
 
   $.ajax({
     url: _fourSquareDataUrl + "/index.json",
@@ -636,9 +636,9 @@ function parsingDone(stateOrCounty, results, file) {
 
 }
 
-var groupToEssentialMap = new Map();
+const groupToEssentialMap = new Map();
 
-var groupMappings = [
+const groupMappings = [
   {groupName:"Airport",essential:true},
   {groupName:"Alcohol",essential:true},
   {groupName:"Arts & Entertainment",essential:false},
@@ -672,15 +672,15 @@ var groupMappings = [
   {groupName:"undefined",essential:false}
   ];
 
-for (var groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
-  var nextGroup = groupMappings[groupIndex];
+for (let groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
+  const nextGroup = groupMappings[groupIndex];
   groupToEssentialMap.set(nextGroup.groupName,nextGroup.essential);
 }
 
-var eventListener = function(stateOrCounty) {
+const eventListener = function(stateOrCounty) {
   if (stateOrCounty === 'state') {
-    var newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
-    var stateChanged = newState != selectedState;
+    const newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
+    const stateChanged = newState != selectedState;
     selectedState = newState;
     selectedVenue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
     windowLocationToSet = "/bystatesel/" + selectedState + "/" + selectedVenue;
@@ -711,8 +711,8 @@ function parseSelection(stateOrCounty) {
 }
 
 function setNavLinks(stateOrCounty) {
-  var encodedState = encodeURIComponent(selectedState);
-  var encodedCounty = stateOrCounty === 'county' ? encodeURIComponent(_selectedCounties) : 'ALL'
+  const encodedState = encodeURIComponent(selectedState);
+  const encodedCounty = stateOrCounty === 'county' ? encodeURIComponent(_selectedCounties) : 'ALL'
 
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL?datafilename=raw";
@@ -726,7 +726,7 @@ function parse(stateOrCounty) {
     isRawBit = true;
   }
 
-  var selectedFileString = '';
+  let selectedFileString = '';
   if(stateOrCounty == 'county' && selectedCounties.length > 0) {
     selectedFileString = '_' + selectedCounties[0].replace(/\s/g, '');
   } else if (selectedVenues.length > 0) {
@@ -781,11 +781,11 @@ function parse(stateOrCounty) {
       locationItems = _.compact(locationItems);
       locationItems = _.uniq(locationItems, false, (item) => { return item.join("_")});
       locationItems = locationItems.sort((a,b) => {
-          var nameA = a[0];
+          let nameA = a[0];
           if(nameA) {
             nameA = nameA.toUpperCase(); // ignore upper and lowercase
           }
-          var nameB = b[0];
+          let nameB = b[0];
           if(nameB) {
             nameB = nameB.toUpperCase(); // ignore upper and lowercase
           }
