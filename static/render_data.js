@@ -140,7 +140,7 @@ function styleSeries(series) {
 }
 
 function seriesToPlot(stateOrCounty) {
-  const plotData = _.filter(fileData,
+  let plotData = _.filter(fileData,
     function (datapoint) {
       const datapointEssential = datapoint.essential;
       switch (essentialSel.value) {
