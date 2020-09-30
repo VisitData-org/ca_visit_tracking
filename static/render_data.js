@@ -163,7 +163,7 @@ function seriesToPlot(stateOrCounty) {
   });
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
-    const fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
+    let fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
@@ -207,7 +207,7 @@ function seriesToPlot(stateOrCounty) {
     resultsWeather = _.clone(results);
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
-    const fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
+    let fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
     if(stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
@@ -247,7 +247,7 @@ function sortStatewideFirst(seriesToSort) {
 }
 
 function isPlotDataEmpty(seriesForPlot) {
-  const plotEmpty = true;
+  let plotEmpty = true;
   for(let seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
     const series = seriesForPlot[seriesIndex];
     const seriesData = series.data;
