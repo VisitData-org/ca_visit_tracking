@@ -18,7 +18,7 @@ function handleCategory(parentEssential, essentialMap, category, depth) {
         console.error(categoryId + " already exists in the map for categoryName " + categoryName);
     }
 
-    const essential = category.essential;
+    let essential = category.essential;
 
     if (!essential) {
         essential = parentEssential;
@@ -28,7 +28,7 @@ function handleCategory(parentEssential, essentialMap, category, depth) {
 
     essentialMap.set(categoryId, essential);
 
-    const subcategories = category.categories;
+    let subcategories = category.categories;
     if (!subcategories) {
         subcategories = [];
     }
