@@ -46,6 +46,11 @@ deploy() {
   gcloud app deploy . --project "${PROJECT}"
 }
 
+# Cleanup old versions
+cleanup() {
+  info "Cleaning up old versions"
+  gcloud app versions delete --project "${PROJECT}" `gcloud app versions list --project "${PROJECT}" | sed 's/  */:/g' | cut -f 2 -d : | tail -n +2 | ghead -n -5 | tr "\n" " "`
+}
 
 DEST="$1"
 if [[ -z "${DEST}" || ( "${DEST}" != "prod" && "${DEST}" != "beta" ) ]]; then
@@ -66,4 +71,5 @@ if [ -z "${SKIP_VALIDATE}" ]; then
   validate
 fi
 record_version
+cleanup
 deploy
