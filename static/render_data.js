@@ -25,12 +25,12 @@ const NONE = "NONE";
 
 Highcharts.setOptions({
   lang: {
-      thousandsSep: ','
+    thousandsSep: ','
   }
 });
 
-if(maxLocationTypeLinesParam) {
-  maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
+if (maxLocationTypeLinesParam) {
+  maxLocationTypes = Math.max(maxLocationTypeLinesParam, 1);
 }
 
 const AGE_GROUP_LABELS = {
@@ -53,7 +53,7 @@ function showVenueExamples(pagetype) {
     const _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
     window.open(_venuesUrl)
   } else {
-  window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
+    window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
   }
 }
 
@@ -111,10 +111,10 @@ function datenum(datestring) {
 function locationTypesToChart(fileData) {
 
   // sort by most recent number descending,
-  const sortStepOne = _.sortBy(fileData, function(fileDataRow) { return -1 * fileDataRow.num_visits });
-  
-   // then sort by date descending,
-  const sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
+  const sortStepOne = _.sortBy(fileData, function (fileDataRow) { return -1 * fileDataRow.num_visits });
+
+  // then sort by date descending,
+  const sortStepTwo = _.sortBy(sortStepOne, function (fileDataRow) { return -1 * fileDataRow.datenum; });
 
   // then remove duplicates.
   const locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
@@ -124,18 +124,18 @@ function locationTypesToChart(fileData) {
 }
 
 function fileDataToHighcharts(fileDataToPlot) {
-  return _.map(fileDataToPlot, function(fileDataRow) {
+  return _.map(fileDataToPlot, function (fileDataRow) {
     const date = fileDataRow.date;
     const year = date.slice(0, 4);
     const month = date.slice(5, 7);
     const day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow.num_visits)];
+    return [Date.UTC(year, month - 1, day), parseInt(fileDataRow.num_visits)];
   });
 }
 
 function styleSeries(series) {
   series.lineWidth = 1;
-  series.marker = {radius: 5};
+  series.marker = { radius: 5 };
   return series;
 }
 
@@ -164,26 +164,26 @@ function seriesToPlot(stateOrCounty) {
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
     let fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
-    if(stateOrCounty == 'state') {
+    if (stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
 
     const lts = locationTypesToChart(fileDataToPlot);
-    results = _.map(lts, function(locationType) {
+    results = _.map(lts, function (locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
       });
     });
-    results = _.filter(results, function(series) {
+    results = _.filter(results, function (series) {
       return series.data.length > 0;
     });
 
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
-    const maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    const maxResultsData = _.clone(_.max(results, (value) => { return _.size(value.data) }));
     maxResultsData.titleName = maxResultsData.name;
     maxResultsData.name = stateOrCountySel.value;
     resultsWeather = [maxResultsData]
@@ -191,13 +191,13 @@ function seriesToPlot(stateOrCounty) {
   }
   else if (!stateOrCountySel.value && locationTypeSel.value) {
     const fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
-    results = _.map(statesOrCounties, function(stateOrCountyValue) {
+    results = _.map(statesOrCounties, function (stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
       });
     });
-    results = _.filter(results, function(series) {
+    results = _.filter(results, function (series) {
       return series.data.length > 0;
     });
 
@@ -208,7 +208,7 @@ function seriesToPlot(stateOrCounty) {
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
     let fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
-    if(stateOrCounty == 'state') {
+    if (stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
@@ -235,11 +235,11 @@ function seriesToPlot(stateOrCounty) {
 }
 
 function sortStatewideFirst(seriesToSort) {
-  return seriesToSort.sort((a,b) => { 
-    if(a.name == 'Statewide' && b.name != 'Statewide') {
+  return seriesToSort.sort((a, b) => {
+    if (a.name == 'Statewide' && b.name != 'Statewide') {
       return -1;
     }
-    if(a.name != 'Statewide' && b.name == 'Statewide') {
+    if (a.name != 'Statewide' && b.name == 'Statewide') {
       return 1;
     }
     return a.name - b.name;
@@ -248,10 +248,10 @@ function sortStatewideFirst(seriesToSort) {
 
 function isPlotDataEmpty(seriesForPlot) {
   let plotEmpty = true;
-  for(let seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
+  for (let seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++) {
     const series = seriesForPlot[seriesIndex];
     const seriesData = series.data;
-    if(seriesData && seriesData.length > 0) {
+    if (seriesData && seriesData.length > 0) {
       plotEmpty = false;
       break;
     }
@@ -370,8 +370,8 @@ function redoFilter(stateOrCounty) {
   if (ageGroupSel.value) {
     table.addFilter("age", "=", AGE_GROUP_VALUES[ageGroupSel.value]);
   }
-  if(essentialSel.value != 'all') {
-    table.addFilter("essential",'=',(essentialSel.value == 'essential'));
+  if (essentialSel.value != 'all') {
+    table.addFilter("essential", '=', (essentialSel.value == 'essential'));
   }
   if (stateOrCountySel.value || locationTypeSel.value) {
     drawChart(stateOrCounty);
@@ -383,7 +383,7 @@ function redoFilter(stateOrCounty) {
 
 function populateLocationSelect(selectElement, itemList, selected) {
   // ok, I think we need to disable the event handler while we do this.
-  _.each(itemList, function(itemPair) {
+  _.each(itemList, function (itemPair) {
     const option = document.createElement("option");
     option.value = itemPair[1];
     option.text = itemPair[0];
@@ -396,7 +396,7 @@ function populateLocationSelect(selectElement, itemList, selected) {
 
 function populateSelect(selectElement, stringList, selected) {
   // ok, I think we need to disable the event handler while we do this.
-  _.each(stringList, function(theString) {
+  _.each(stringList, function (theString) {
     const option = document.createElement("option");
     option.value = theString;
     option.text = theString;
@@ -407,13 +407,13 @@ function populateSelect(selectElement, stringList, selected) {
   });
 }
 
-function isGroupedCategoryEssential(groupName){
+function isGroupedCategoryEssential(groupName) {
   const isGroupEssential = groupToEssentialMap.get(groupName);
   return isGroupEssential;
 }
 
 function getCounty(rowCounty) {
-  if(rowCounty === "") {
+  if (rowCounty === "") {
     return "Statewide";
   } else {
     return rowCounty;
@@ -526,7 +526,7 @@ function getStates() {
     "West Virginia",
     "Wisconsin",
     "Wyoming",
-    ];
+  ];
 }
 
 function getCounties(state) {
@@ -551,7 +551,7 @@ function parsingDone(stateOrCounty, results, file) {
   console.debug("parsingDone called");
   fileData = _.map(
     results.data,
-    function(row) { return parseRow(stateOrCounty, row); }
+    function (row) { return parseRow(stateOrCounty, row); }
   );
   fileData = _.compact(fileData);
   if (stateOrCounty === 'state') {
@@ -561,8 +561,8 @@ function parsingDone(stateOrCounty, results, file) {
   }
 
   table = new Tabulator("#data-table", {
-    data:fileData,
-    columns:[
+    data: fileData,
+    columns: [
       { title: "County", field: "county" },
       { title: "Location Type", field: "location_type" },
       { title: "Essential", field: "essential", visible: false },
@@ -572,10 +572,10 @@ function parsingDone(stateOrCounty, results, file) {
       { title: "Age", field: "age", visible: true },
       { title: "Date", field: "date" },
     ],
-    height:"600px",
-    layout:"fitColumns",
-    initialSort:[
-      {column:"date", dir:"desc"}
+    height: "600px",
+    layout: "fitColumns",
+    initialSort: [
+      { column: "date", dir: "desc" }
     ],
   });
 
@@ -587,24 +587,24 @@ function parsingDone(stateOrCounty, results, file) {
     statesOrCounties,
     stateOrCounty === 'state' ? [selectedState] : selectedCounties
   );
-  
+
   populateLocationSelect(locationTypeSel, locationItems, selectedVenues);
 
-  essentialSel.addEventListener('change', function() {
+  essentialSel.addEventListener('change', function () {
     redoFilter(stateOrCounty);
     if (stateOrCountySel.value || locationTypeSel.value) {
       drawChart(stateOrCounty);
     }
   });
 
-  if(locationTypeSel.value) {
+  if (locationTypeSel.value) {
     // ok, we selected a location type so disable essential
     essentialSel.value = 'all';
     essentialSel.parentElement.style.display = 'none';
   }
 
   //actions for agegroup-select button
-  ageGroupSel.addEventListener('change', function(event) {
+  ageGroupSel.addEventListener('change', function (event) {
     redoFilter(stateOrCounty);
 
     if (stateOrCountySel.value || locationTypeSel.value) {
@@ -624,8 +624,8 @@ function parsingDone(stateOrCounty, results, file) {
 
   redoFilter(stateOrCounty);
 
-  _.each([stateOrCountySel, locationTypeSel], function(sel) {
-    sel.addEventListener('change', function() { return eventListener(stateOrCounty); });
+  _.each([stateOrCountySel, locationTypeSel], function (sel) {
+    sel.addEventListener('change', function () { return eventListener(stateOrCounty); });
   });
 
 }
@@ -633,45 +633,45 @@ function parsingDone(stateOrCounty, results, file) {
 const groupToEssentialMap = new Map();
 
 const groupMappings = [
-  {groupName:"Airport",essential:true},
-  {groupName:"Alcohol",essential:true},
-  {groupName:"Arts & Entertainment",essential:false},
-  {groupName:"Banks",essential:true},
-  {groupName:"Beach",essential:false},
-  {groupName:"Big Box Stores",essential:false},
-  {groupName:"Bus",essential:true},
-  {groupName:"Colleges & Universities",essential:false},
-  {groupName:"Convenience Store",essential:true},
-  {groupName:"Discount Stores",essential:false},
-  {groupName:"Drug Store",essential:true},
-  {groupName:"Fast Food Restaurants",essential:true},
-  {groupName:"Fitness Center",essential:false},
-  {groupName:"Food",essential:true},
-  {groupName:"Gas Stations",essential:true},
-  {groupName:"Government",essential:true},
-  {groupName:"Grocery",essential:true},
-  {groupName:"Hardware Stores",essential:true},
-  {groupName:"Hotel",essential:false},
-  {groupName:"Medical",essential:true},
-  {groupName:"Nightlife Spots",essential:false},
-  {groupName:"Office",essential:false},
-  {groupName:"Outdoors & Recreation",essential:false},
-  {groupName:"Professional & Other Places",essential:false},
-  {groupName:"Residences",essential:true},
-  {groupName:"School",essential:false},
-  {groupName:"Shops & Services",essential:false},
-  {groupName:"Spiritual Center",essential:false},
-  {groupName:"Sports",essential:false},
-  {groupName:"Travel & Transport",essential:false},
-  {groupName:"undefined",essential:false}
-  ];
+  { groupName: "Airport", essential: true },
+  { groupName: "Alcohol", essential: true },
+  { groupName: "Arts & Entertainment", essential: false },
+  { groupName: "Banks", essential: true },
+  { groupName: "Beach", essential: false },
+  { groupName: "Big Box Stores", essential: false },
+  { groupName: "Bus", essential: true },
+  { groupName: "Colleges & Universities", essential: false },
+  { groupName: "Convenience Store", essential: true },
+  { groupName: "Discount Stores", essential: false },
+  { groupName: "Drug Store", essential: true },
+  { groupName: "Fast Food Restaurants", essential: true },
+  { groupName: "Fitness Center", essential: false },
+  { groupName: "Food", essential: true },
+  { groupName: "Gas Stations", essential: true },
+  { groupName: "Government", essential: true },
+  { groupName: "Grocery", essential: true },
+  { groupName: "Hardware Stores", essential: true },
+  { groupName: "Hotel", essential: false },
+  { groupName: "Medical", essential: true },
+  { groupName: "Nightlife Spots", essential: false },
+  { groupName: "Office", essential: false },
+  { groupName: "Outdoors & Recreation", essential: false },
+  { groupName: "Professional & Other Places", essential: false },
+  { groupName: "Residences", essential: true },
+  { groupName: "School", essential: false },
+  { groupName: "Shops & Services", essential: false },
+  { groupName: "Spiritual Center", essential: false },
+  { groupName: "Sports", essential: false },
+  { groupName: "Travel & Transport", essential: false },
+  { groupName: "undefined", essential: false }
+];
 
 for (let groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
   const nextGroup = groupMappings[groupIndex];
-  groupToEssentialMap.set(nextGroup.groupName,nextGroup.essential);
+  groupToEssentialMap.set(nextGroup.groupName, nextGroup.essential);
 }
 
-const eventListener = function(stateOrCounty) {
+const eventListener = function (stateOrCounty) {
   if (stateOrCounty === 'state') {
     const newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
     const stateChanged = newState != selectedState;
@@ -698,7 +698,7 @@ function parseSelection(stateOrCounty) {
     selectedState = _selectedState == ALL ? '' : _selectedState;
     selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
   } else {
-    selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
+    selectedState = (_selectedState == NONE || _selectedState == "") ? 'California' : _selectedState;
     selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
     selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
   }
@@ -730,12 +730,12 @@ function enableSelects() {
 
 function parse(stateOrCounty) {
 
-  if(urlParams.get('datafilename')) {
+  if (urlParams.get('datafilename')) {
     isRawBit = true;
   }
 
   let selectedFileString = '';
-  if(stateOrCounty == 'county' && selectedCounties.length > 0) {
+  if (stateOrCounty == 'county' && selectedCounties.length > 0) {
     selectedFileString = '_' + selectedCounties[0].replace(/\s/g, '');
   } else if (selectedVenues.length > 0) {
     selectedFileString = '_' + selectedVenues[0];
@@ -749,7 +749,7 @@ function parse(stateOrCounty) {
     datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.&]/g, '') + '.csv';
   }
   console.debug(datafilename);
-  
+
   if (stateOrCounty === 'state') {
     if (!isRaw()) {
       document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
@@ -763,7 +763,7 @@ function parse(stateOrCounty) {
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }
   }
- 
+
   stateOrCountySel = document.getElementById(
     stateOrCounty === 'state' ? 'state-select' : 'county-select'
   );
@@ -780,17 +780,17 @@ function parse(stateOrCounty) {
     header: true,
     complete: (results, file) => {
       locationItems = _.map(results.data, (row) => {
-        if(!(row.categoryname)) {
+        if (!(row.categoryname)) {
           return undefined;
         }
-        if(isRaw()) {
-          if(row.categoryid == 'Group') {
+        if (isRaw()) {
+          if (row.categoryid == 'Group') {
             return undefined;
           } else {
             return [row.categoryname, row.categoryid];
           }
         } else {
-          if(row.categoryid != 'Group') {
+          if (row.categoryid != 'Group') {
             return undefined;
           } else {
             return [row.categoryname, row.categoryname];
@@ -798,33 +798,33 @@ function parse(stateOrCounty) {
         }
       });
       locationItems = _.compact(locationItems);
-      locationItems = _.uniq(locationItems, false, (item) => { return item.join("_")});
-      locationItems = locationItems.sort((a,b) => {
-          let nameA = a[0];
-          if(nameA) {
-            nameA = nameA.toUpperCase(); // ignore upper and lowercase
-          }
-          let nameB = b[0];
-          if(nameB) {
-            nameB = nameB.toUpperCase(); // ignore upper and lowercase
-          }
-          if (nameA < nameB) {
-            return -1;
-          }
-          if (nameA > nameB) {
-            return 1;
-          }
-        
-          // names must be equal
-          return 0;
-        });
+      locationItems = _.uniq(locationItems, false, (item) => { return item.join("_") });
+      locationItems = locationItems.sort((a, b) => {
+        let nameA = a[0];
+        if (nameA) {
+          nameA = nameA.toUpperCase(); // ignore upper and lowercase
+        }
+        let nameB = b[0];
+        if (nameB) {
+          nameB = nameB.toUpperCase(); // ignore upper and lowercase
+        }
+        if (nameA < nameB) {
+          return -1;
+        }
+        if (nameA > nameB) {
+          return 1;
+        }
 
-        // ok, now go get the rest of the data
-        Papa.parse(datafilename, {
-          download: true,
-          header: true,
-          complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
-        });
+        // names must be equal
+        return 0;
+      });
+
+      // ok, now go get the rest of the data
+      Papa.parse(datafilename, {
+        download: true,
+        header: true,
+        complete: function (results, file) { return parsingDone(stateOrCounty, results, file); }
+      });
     }
   });
 }
