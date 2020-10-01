@@ -263,10 +263,7 @@ function drawChart(stateOrCounty) {
   const seriesForPlot = seriesToPlot(stateOrCounty);
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
-    const emptyDataNotice = document.createElement("h2")
-    emptyDataNotice.innerText = 'No matching data to chart';
-    emptyDataNotice.style.textAlign = 'center';
-    document.getElementById('chartcontainer').appendChild(emptyDataNotice);
+    setChartContainerText("No matching data to chart");
   } else {
     Highcharts.chart('chartcontainer', {
       chart: {
@@ -550,6 +547,7 @@ function getCounties(state) {
 }
 
 function parsingDone(stateOrCounty, results, file) {
+  setChartContainerText("");
   console.debug("parsingDone called");
   fileData = _.map(
     results.data,
@@ -581,9 +579,6 @@ function parsingDone(stateOrCounty, results, file) {
     ],
   });
 
-  stateOrCountySel = document.getElementById(
-    stateOrCounty === 'state' ? 'state-select' : 'county-select'
-  );
   if (stateOrCounty === 'county') {
     document.getElementById('state_name_header').innerHTML = selectedState
   }
@@ -593,10 +588,8 @@ function parsingDone(stateOrCounty, results, file) {
     stateOrCounty === 'state' ? [selectedState] : selectedCounties
   );
   
-  locationTypeSel = document.getElementById('location-type-select');
   populateLocationSelect(locationTypeSel, locationItems, selectedVenues);
 
-  essentialSel = document.getElementById('essential-select');
   essentialSel.addEventListener('change', function() {
     redoFilter(stateOrCounty);
     if (stateOrCountySel.value || locationTypeSel.value) {
@@ -611,7 +604,6 @@ function parsingDone(stateOrCounty, results, file) {
   }
 
   //actions for agegroup-select button
-  ageGroupSel = document.getElementById('agegroup-select');
   ageGroupSel.addEventListener('change', function(event) {
     redoFilter(stateOrCounty);
 
@@ -619,6 +611,8 @@ function parsingDone(stateOrCounty, results, file) {
       drawChart(stateOrCounty);
     }
   });
+
+  enableSelects();
 
   //actions for weather-data button
   $('#weather-data-checkbox').change(function () {
@@ -720,6 +714,20 @@ function setNavLinks(stateOrCounty) {
   document.getElementById('nav-stateall').href = "/bystatesel/" + encodedState + "/ALL?datafilename=raw";
 }
 
+function disableSelects() {
+  stateOrCountySel.disabled = true;
+  locationTypeSel.disabled = true;
+  ageGroupSel.disabled = true;
+  essentialSel.disabled = true;
+}
+
+function enableSelects() {
+  stateOrCountySel.disabled = false;
+  locationTypeSel.disabled = false;
+  ageGroupSel.disabled = false;
+  essentialSel.disabled = false;
+}
+
 function parse(stateOrCounty) {
 
   if(urlParams.get('datafilename')) {
@@ -755,6 +763,17 @@ function parse(stateOrCounty) {
       document.getElementById('nav-chartall').classList.add('font-weight-bold')
     }
   }
+ 
+  stateOrCountySel = document.getElementById(
+    stateOrCounty === 'state' ? 'state-select' : 'county-select'
+  );
+  locationTypeSel = document.getElementById('location-type-select');
+  essentialSel = document.getElementById('essential-select');
+  ageGroupSel = document.getElementById('agegroup-select');
+
+  //console.debug("About to parse");
+  setChartContainerText('Loading Data...');
+  disableSelects();
 
   Papa.parse(stateFile, {
     download: true,
@@ -810,11 +829,23 @@ function parse(stateOrCounty) {
   });
 }
 
+function setChartContainerText(chartText) {
+  const chartContainer = document.getElementById('chartcontainer');
+  while (chartContainer.firstChild) {
+    chartContainer.removeChild(chartContainer.firstChild);
+  }
+  const textElement = document.createElement("h2")
+  textElement.innerText = chartText;
+  textElement.style.textAlign = 'center';
+  chartContainer.appendChild(textElement);
+}
+
 function renderData(stateOrCounty) {
+  setChartContainerText("");
   parseSelection(stateOrCounty);
-  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))){
-      requestWeatherData(selectedState);
-    }
+  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))) {
+    requestWeatherData(selectedState);
+  }
   setNavLinks(stateOrCounty);
   parse(stateOrCounty);
 }
