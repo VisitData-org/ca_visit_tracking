@@ -49,7 +49,15 @@ deploy() {
 # Cleanup old versions
 cleanup() {
   info "Cleaning up old versions"
-  gcloud app versions delete --project "${PROJECT}" `gcloud app versions list --project "${PROJECT}" | sed 's/  */:/g' | cut -f 2 -d : | tail -n +2 | head -n -5 | tr "\n" " "`
+
+  OLD_VERSIONS=$(gcloud app versions list --project "${PROJECT}" | sed 's/  */:/g' | cut -f 2 -d : | tail -n +2 | head -n -5 | tr "\n" " ")
+  if [ -z ${OLD_VERSIONS} ]; then
+    info "No versions to delete"
+  else
+    info "Deleting versions: ${OLD_VERSIONS}"
+    gcloud app versions delete --project "${PROJECT}" ${OLD_VERSIONS}
+  fi
+
 }
 
 DEST="$1"
