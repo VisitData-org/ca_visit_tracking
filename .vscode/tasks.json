@@ -37,7 +37,10 @@
             "label": "deploy-both",
             "type": "shell",
             "command": "make deploy-beta && make deploy-prod",
-            "group": "build",
+            "group": {
+                "isDefault": true,
+                "kind": "build"
+            },
             "presentation": {
                 "echo": true,
                 "reveal": "always",
