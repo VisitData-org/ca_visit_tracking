@@ -32,6 +32,21 @@
                 "clear": false
             },
             "problemMatcher": []
+        },
+        {
+            "label": "deploy-both",
+            "type": "shell",
+            "command": "make deploy-beta && make deploy-prod",
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": []
         }
     ]
 }
