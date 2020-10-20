@@ -6,7 +6,7 @@
         {
             "label": "deploy-prod",
             "type": "shell",
-            "command": "make deploy-prod",
+            "command": "make deploy-prod-quiet",
             "group": "build",
             "presentation": {
                 "echo": true,
@@ -21,7 +21,7 @@
         {
             "label": "deploy-beta",
             "type": "shell",
-            "command": "make deploy-beta",
+            "command": "make deploy-beta-quiet",
             "group": "build",
             "presentation": {
                 "echo": true,
@@ -35,8 +35,10 @@
         },
         {
             "label": "deploy-both",
-            "type": "shell",
-            "command": "make deploy-beta && make deploy-prod",
+            "dependsOn": [
+                "deploy-beta",
+                "deploy-prod"
+            ],
             "group": {
                 "isDefault": true,
                 "kind": "build"
