@@ -771,7 +771,7 @@ function parse(stateOrCounty) {
   essentialSel = document.getElementById('essential-select');
   ageGroupSel = document.getElementById('agegroup-select');
 
-  //console.debug("About to parse");
+  //FIXME #184 If there is an error then it hangs on "Loading..." when there is an error parsing we should alert here
   setChartContainerText('Loading Data...');
   disableSelects();
 
