@@ -27,12 +27,6 @@ if (plotValueTypeParam) {
   plotValueType = plotValueTypeParam;
 }
 
-const chartHeightParam = getCookie('chartHeight');
-if (chartHeightParam) {
-  const chartContainerDiv = document.getElementById("chartcontainer");
-  chartContainerDiv.style.height = chartHeightParam;
-}
-
 const ALL = "ALL";
 const NONE = "NONE";
 
@@ -328,6 +322,13 @@ function isPlotDataEmpty(seriesForPlot) {
 }
 
 function drawChart(stateOrCounty) {
+
+  const chartHeightParam = getCookie('chartHeight');
+  if (chartHeightParam) {
+    const chartContainerDiv = document.getElementById("chartcontainer");
+    chartContainerDiv.style.height = chartHeightParam;
+  }
+
   const seriesForPlot = seriesToPlot(stateOrCounty);
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
@@ -906,6 +907,7 @@ function setChartContainerText(chartText) {
   textElement.innerText = chartText;
   textElement.style.textAlign = 'center';
   chartContainer.appendChild(textElement);
+  chartContainer.style.height = "";
 }
 
 function renderData(stateOrCounty) {

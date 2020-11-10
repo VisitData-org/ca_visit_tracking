@@ -11,7 +11,7 @@ function getCookie(cname) {
             return c.substring(name.length, c.length);
         }
     }
-    return "";
+    return undefined;
 };
 
 function setupSettingsModal(settingsModalId) {
@@ -21,16 +21,22 @@ function setupSettingsModal(settingsModalId) {
         const modal = $(this);
 
         const numberOfCategoriesToPlotCookie = getCookie('numberOfCategoriesToPlot');
-        const numberOfCategoriesToPlotInput = $('#numberOfCategoriesToPlot');
-        numberOfCategoriesToPlotInput.val(numberOfCategoriesToPlotCookie);
+        if (numberOfCategoriesToPlotCookie) {
+            const numberOfCategoriesToPlotInput = $('#numberOfCategoriesToPlot');
+            numberOfCategoriesToPlotInput.val(numberOfCategoriesToPlotCookie);
+        }
 
         const chartHeightCookie = getCookie('chartHeight');
-        const chartHeightInput = $('#chartHeight');
-        chartHeightInput.val(chartHeightCookie);
+        if (chartHeightCookie) {
+            const chartHeightInput = $('#chartHeight');
+            chartHeightInput.val(chartHeightCookie);
+        }
 
         const plotValueTypeCookie = getCookie('plotValueType');
-        const plotValueTypeInput = $('#plotValueType');
-        plotValueTypeInput.val(plotValueTypeCookie);
+        if (plotValueTypeCookie) {
+            const plotValueTypeInput = $('#plotValueType');
+            plotValueTypeInput.val(plotValueTypeCookie);
+        }
     });
 
     $(settingsModalId).on('hide.bs.modal', function (event) {
@@ -39,13 +45,19 @@ function setupSettingsModal(settingsModalId) {
         const expiry = new Date((new Date()).getTime() + 365 * 24 * 3600 * 1000);
 
         const numberOfCategoriesToPlot = $('#numberOfCategoriesToPlot').val();
-        document.cookie = "numberOfCategoriesToPlot=" + numberOfCategoriesToPlot + "; expires=" + expiry.toUTCString() + "; path=/";
+        if (numberOfCategoriesToPlot && numberOfCategoriesToPlot.trim().length > 0) {
+            document.cookie = "numberOfCategoriesToPlot=" + numberOfCategoriesToPlot + "; expires=" + expiry.toUTCString() + "; path=/";
+        }
 
         const chartHeight = $('#chartHeight').val();
-        document.cookie = "chartHeight=" + chartHeight + "; expires=" + expiry.toUTCString() + "; path=/";
+        if (chartHeight && chartHeight.trim().length > 0) {
+            document.cookie = "chartHeight=" + chartHeight + "; expires=" + expiry.toUTCString() + "; path=/";
+        }
 
         const plotValueType = $('#plotValueType').val();
-        document.cookie = "plotValueType=" + plotValueType + "; expires=" + expiry.toUTCString() + "; path=/";
+        if (plotValueType && plotValueType.trim().length > 0) {
+            document.cookie = "plotValueType=" + plotValueType + "; expires=" + expiry.toUTCString() + "; path=/";
+        }
 
         location.reload();
     });
