@@ -49,8 +49,9 @@ function isCategoryEssential(categoryId) {
     return categoryIdToEssentialMap.get(categoryId);
 }
 
+// FIXME #186 this should really be fixed so it doesn't do an ajax call to taxonomy.json because it triggers a CORS issue
 $.ajax({
-    url: _fourSquareDataUrl + "/taxonomy.json" ,
+    url: _fourSquareDataUrl + "/taxonomy.json",
     dataType: 'json',
     async: false,
     success: function (data) {
