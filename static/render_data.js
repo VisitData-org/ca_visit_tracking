@@ -139,6 +139,48 @@ function styleSeries(series) {
   return series;
 }
 
+class Timewindow {
+
+  constructor(windowSize) {
+    this.windowSize = windowSize;
+    this.arr = [];
+    this.sum = 0;
+  }
+
+  shiftOldValues(time) {
+    while (this.arr.length > 0 && (time - this.arr[0][0]) > this.windowSize) {
+      const oldElement = this.arr.shift();
+      this.sum -= oldElement[1];
+    }
+  }
+
+  push(element) {
+    this.shiftOldValues(element[0]);
+    this.arr.push(element);
+    this.sum += element[1];
+  }
+
+  close(time) {
+    // this is a special "event" that just checks the time and shifts what needs to be shifted
+    this.shiftOldValues(time);
+    return this.arr;
+  }
+}
+
+function makeMovingAverages(rawSeries) {
+  rawSeries.forEach(series => {
+    const window = new Timewindow(7 * 24 * 3600 * 1000);
+    if (series.data) {
+      for (let index = 0; index < series.data.length; index++) {
+        const element = series.data[index];
+        window.push(element);
+        series.data[index] = [element[0], window.sum / window.arr.length];
+      }
+    }
+  });
+  return rawSeries;
+}
+
 function seriesToPlot(stateOrCounty) {
   let plotData = _.filter(fileData,
     function (datapoint) {
@@ -182,6 +224,8 @@ function seriesToPlot(stateOrCounty) {
 
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
+
+    results = makeMovingAverages(results);
 
     const maxResultsData = _.clone(_.max(results, (value) => { return _.size(value.data) }));
     maxResultsData.titleName = maxResultsData.name;
