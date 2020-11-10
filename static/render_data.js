@@ -14,11 +14,24 @@ let selectedState;
 
 const urlParams = new URLSearchParams(window.location.search);
 let datafilename = urlParams.get('datafilename');
-const maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
+const maxLocationTypeLinesParam = getCookie('numberOfCategoriesToPlot');
 
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 
-const maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+let maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+
+const PLOT_VALUE_TYPE_DEFAULT = 'raw';
+let plotValueType = PLOT_VALUE_TYPE_DEFAULT;
+const plotValueTypeParam = getCookie('plotValueType');
+if (plotValueTypeParam) {
+  plotValueType = plotValueTypeParam;
+}
+
+const chartHeightParam = getCookie('chartHeight');
+if (chartHeightParam) {
+  const chartContainerDiv = document.getElementById("chartcontainer");
+  chartContainerDiv.style.height = chartHeightParam;
+}
 
 const ALL = "ALL";
 const NONE = "NONE";
@@ -93,6 +106,11 @@ function chartTitle(stateOrCounty) {
     }
   }
   result += " Estimated # Visits";
+
+  if (plotValueType != 'raw') {
+    result += " " + plotValueType + "-Day Moving Average";
+  }
+
   return result;
 }
 
@@ -148,10 +166,14 @@ class Timewindow {
   }
 
   shiftOldValues(time) {
-    while (this.arr.length > 0 && (time - this.arr[0][0]) > this.windowSize) {
+    while (this.arr.length > 0 && (time - this.arr[0][0]) >= this.windowSize) {
       const oldElement = this.arr.shift();
       this.sum -= oldElement[1];
     }
+  }
+
+  avg() {
+    return this.sum / this.arr.length;
   }
 
   push(element) {
@@ -167,14 +189,14 @@ class Timewindow {
   }
 }
 
-function makeMovingAverages(rawSeries) {
+function makeMovingAverages(rawSeries, numberOfDays) {
   rawSeries.forEach(series => {
-    const window = new Timewindow(7 * 24 * 3600 * 1000);
+    const window = new Timewindow(parseInt(numberOfDays) * 24 * 3600 * 1000);
     if (series.data) {
       for (let index = 0; index < series.data.length; index++) {
         const element = series.data[index];
         window.push(element);
-        series.data[index] = [element[0], window.sum / window.arr.length];
+        series.data[index] = [element[0], window.avg()];
       }
     }
   });
@@ -225,7 +247,9 @@ function seriesToPlot(stateOrCounty) {
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
-    results = makeMovingAverages(results);
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
 
     const maxResultsData = _.clone(_.max(results, (value) => { return _.size(value.data) }));
     maxResultsData.titleName = maxResultsData.name;
@@ -359,7 +383,7 @@ function drawChart(stateOrCounty) {
         },
         title: {
           text: 'Date'
-        }
+        },
       },
       yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
       tooltip: {
