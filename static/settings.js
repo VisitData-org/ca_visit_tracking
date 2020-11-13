@@ -37,6 +37,18 @@ function setupSettingsModal(settingsModalId) {
             const plotValueTypeInput = $('#plotValueType');
             plotValueTypeInput.val(plotValueTypeCookie);
         }
+
+        const showNYTCookie = getCookie('showNYT');
+        if (showNYTCookie) {
+            const showNYTInput = $('#showNYT');
+            showNYTInput.val(showNYTCookie);
+        }
+
+        const showEssentialCookie = getCookie('showEssential');
+        if (showEssentialCookie) {
+            const showEssentialInput = $('#showEssential');
+            showEssentialInput.val(showEssentialCookie);
+        }
     });
 
     $(settingsModalId).on('hide.bs.modal', function (event) {
@@ -57,6 +69,16 @@ function setupSettingsModal(settingsModalId) {
         const plotValueType = $('#plotValueType').val();
         if (plotValueType && plotValueType.trim().length > 0) {
             document.cookie = "plotValueType=" + plotValueType + "; expires=" + expiry.toUTCString() + "; path=/";
+        }
+
+        const showNYT = $('#showNYT').val();
+        if (showNYT && showNYT.trim().length > 0) {
+            document.cookie = "showNYT=" + showNYT + "; expires=" + expiry.toUTCString() + "; path=/";
+        }
+
+        const showEssential = $('#showEssential').val();
+        if (showEssential && showEssential.trim().length > 0) {
+            document.cookie = "showEssential=" + showEssential + "; expires=" + expiry.toUTCString() + "; path=/";
         }
 
         location.reload();

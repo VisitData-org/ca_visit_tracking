@@ -148,6 +148,8 @@ function fileDataToHighcharts(fileDataToPlot) {
 function styleSeries(series) {
   series.lineWidth = 1;
   series.marker = { radius: 5 };
+  series.yAxis = 0;
+  series.zIndex = 1;
   return series;
 }
 
@@ -183,8 +185,8 @@ class Timewindow {
   }
 }
 
-function makeMovingAverages(rawSeries, numberOfDays) {
-  rawSeries.forEach(series => {
+function makeMovingAverages(rawSeriesList, numberOfDays) {
+  rawSeriesList.forEach(series => {
     const window = new Timewindow(parseInt(numberOfDays) * 24 * 3600 * 1000);
     if (series.data) {
       for (let index = 0; index < series.data.length; index++) {
@@ -194,7 +196,7 @@ function makeMovingAverages(rawSeries, numberOfDays) {
       }
     }
   });
-  return rawSeries;
+  return rawSeriesList;
 }
 
 function seriesToPlot(stateOrCounty) {
@@ -264,6 +266,11 @@ function seriesToPlot(stateOrCounty) {
     });
 
     results = sortStatewideFirst(results);
+
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
+
     results.unshift({ name: 'Show/Hide All', visible: false });
 
     resultsWeather = _.clone(results);
@@ -278,6 +285,10 @@ function seriesToPlot(stateOrCounty) {
       name: locationTypeSel[locationTypeSel.selectedIndex].text + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
+
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
 
     resultsWeather = _.clone([styleSeries({
       name: stateOrCountySel.value,
@@ -321,6 +332,87 @@ function isPlotDataEmpty(seriesForPlot) {
   return plotEmpty;
 }
 
+function addCasesToPlot(chart, stateOrCounty) {
+  const nytFileToParse = stateOrCounty == 'state' ? 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv' : 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv';
+  Papa.parse(nytFileToParse, {
+    download: true,
+    header: true,
+    complete: function (results, file) {
+      const caseDataForPlot = [];
+
+      let lastValue = 0;
+
+      results.data.forEach(dataRow => {
+        const stateToMatch = selectedState != 'Washington, D.C.' ? selectedState : 'District of Columbia';
+
+        let locationMatches;
+        if (dataRow.state != stateToMatch) {
+          locationMatches = false;
+        } else if (stateOrCounty != 'state') {
+          // if we are county then we need to check county too
+          let countyToMatch = selectedCounties[0];
+          if (countyToMatch) {
+            if (['New York', 'Queens', 'Brooklyn', 'Staten Island', 'Bronx County'].includes(countyToMatch)) {
+              countyToMatch = 'New York City';
+            } else {
+              countyToMatch = countyToMatch.replace(' County', '');
+            }
+
+            locationMatches = countyToMatch === dataRow.county;
+          } else {
+            locationMatches = false;
+          }
+        } else {
+          locationMatches = true;
+        }
+
+        if (locationMatches) {
+          // this is data for the state
+          const date = dataRow.date;
+          const year = date.slice(0, 4);
+          const month = date.slice(5, 7);
+          const day = date.slice(8, 10);
+          const totalCases = parseInt(dataRow.cases);
+          const dailyCases = totalCases - lastValue;
+          lastValue = totalCases;
+          caseDataForPlot.push([Date.UTC(year, month - 1, day), dailyCases]);
+        }
+      });
+
+      const seriesColor = "rgba(255,0,0,0.15)";
+
+      let seriesName = '# Daily Cases';
+      if (plotValueType != 'raw') {
+        seriesName = `${plotValueType}-Day Avg ${seriesName}`;
+      }
+      seriesName = `NYT ${seriesName}`;
+
+      const series = { name: seriesName, data: caseDataForPlot, yAxis: 1, type: 'column', zindex: 0, color: seriesColor, fillColor: seriesColor };
+
+      if (plotValueType != 'raw') {
+        makeMovingAverages([series], plotValueType);
+      }
+
+      chart.addSeries(series);
+
+      let nytReference = document.getElementById("nytReference");
+      if (!nytReference) {
+        nytReference = document.createElement('div');
+        nytReference.id = "nytReference";
+        nytReference.appendChild(document.createTextNode('Case data from The New York Times.  See '));
+        const nytLink = document.createElement('a');
+        nytLink.href = "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html";
+        nytLink.text = "NYT U.S. tracking page";
+        nytLink.target = '_blank';
+        nytReference.appendChild(nytLink);
+        document.getElementById("chartcontainer").parentElement.appendChild(nytReference);
+      }
+
+    }
+  });
+
+}
+
 function drawChart(stateOrCounty) {
 
   const chartHeightParam = getCookie('chartHeight');
@@ -330,11 +422,13 @@ function drawChart(stateOrCounty) {
   }
 
   const seriesForPlot = seriesToPlot(stateOrCounty);
+
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
     setChartContainerText("No matching data to chart");
   } else {
-    Highcharts.chart('chartcontainer', {
+    console.log("making new chart");
+    const chart = Highcharts.chart('chartcontainer', {
       chart: {
         animation: false,
         zoomType: 'x',
@@ -361,7 +455,7 @@ function drawChart(stateOrCounty) {
                 text: ''
               }
             },
-            yAxis: {
+            yAxis: [{
               labels: {
                 align: 'left',
                 x: 0,
@@ -370,7 +464,16 @@ function drawChart(stateOrCounty) {
               title: {
                 text: ''
               }
-            }
+            }, {
+              labels: {
+                align: 'left',
+                x: 0,
+                y: -2
+              },
+              title: {
+                text: ''
+              }
+            }]
           }
         }]
       },
@@ -386,7 +489,10 @@ function drawChart(stateOrCounty) {
           text: 'Date'
         },
       },
-      yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
+      yAxis: [
+        { title: { text: 'Estimated # Visits' }, min: 0 },
+        { title: { text: 'Cases' }, gridLineWidth: 0, min: 0, opposite: true },
+      ],
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
         pointFormat: '{point.x:%a %b %e}: {point.y:,.0f}'
@@ -418,7 +524,13 @@ function drawChart(stateOrCounty) {
       },
       series: seriesForPlot
     });
+
+    const showNYTParam = getCookie('showNYT');
+    if (showNYTParam) {
+      addCasesToPlot(chart, stateOrCounty);
+    }
   }
+
 }
 
 function cleanLocType(string) {
@@ -661,9 +773,6 @@ function parsingDone(stateOrCounty, results, file) {
 
   essentialSel.addEventListener('change', function () {
     redoFilter(stateOrCounty);
-    if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCounty);
-    }
   });
 
   if (locationTypeSel.value) {
@@ -675,10 +784,6 @@ function parsingDone(stateOrCounty, results, file) {
   //actions for agegroup-select button
   ageGroupSel.addEventListener('change', function (event) {
     redoFilter(stateOrCounty);
-
-    if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCounty);
-    }
   });
 
   enableSelects();
@@ -838,6 +943,12 @@ function parse(stateOrCounty) {
   );
   locationTypeSel = document.getElementById('location-type-select');
   essentialSel = document.getElementById('essential-select');
+
+  const showEssentialParam = getCookie('showEssential');
+  if (showEssentialParam) {
+    essentialSel.value = showEssentialParam;
+  }
+
   ageGroupSel = document.getElementById('agegroup-select');
 
   //FIXME #184 If there is an error then it hangs on "Loading..." when there is an error parsing we should alert here
