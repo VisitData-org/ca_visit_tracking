@@ -526,7 +526,7 @@ function drawChart(stateOrCounty) {
     });
 
     const showNYTParam = getCookie('showNYT');
-    if (showNYTParam) {
+    if (showNYTParam === 'yes') {
       addCasesToPlot(chart, stateOrCounty);
     }
   }
@@ -622,7 +622,7 @@ function parseGroupedRow(stateOrCounty, row) {
 }
 
 function parseRawRow(stateOrCounty, row) {
-  if (row.categoryid === '') {
+  if (row.categoryid === '' || row.categoryid === 'Group') {
     return undefined;
   } else {
     return {
