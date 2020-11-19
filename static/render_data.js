@@ -381,19 +381,18 @@ function addCasesToPlot(chart, stateOrCounty) {
 
       const seriesColor = "rgba(255,0,0,0.15)";
 
-      let seriesName = '# Daily Cases';
-      if (plotValueType != 'raw') {
-        seriesName = `${plotValueType}-Day Avg ${seriesName}`;
-      }
-      seriesName = `NYT ${seriesName}`;
+      const rawSeriesName = '# Daily Cases';
 
-      const series = { name: seriesName, data: caseDataForPlot, yAxis: 1, type: 'column', zindex: 0, color: seriesColor, fillColor: seriesColor };
-
-      if (plotValueType != 'raw') {
-        makeMovingAverages([series], plotValueType);
-      }
-
+      const series = { name: `NYT ${rawSeriesName}`, data: caseDataForPlot, yAxis: 1, type: 'column', zindex: 0, color: seriesColor, fillColor: seriesColor };
       chart.addSeries(series);
+
+      if (plotValueType != 'raw') {
+        const seriesName = `NYT ${plotValueType}-Day Avg ${rawSeriesName}`;;
+        const avgSeriesColor = "rgba(255,0,0,0.85)";
+        const avgSeries = { name: seriesName, data: caseDataForPlot, yAxis: 1, type: 'line', zindex: 0, color: avgSeriesColor, fillColor: avgSeriesColor };
+        makeMovingAverages([avgSeries], plotValueType);
+        chart.addSeries(avgSeries);
+      }
 
       let nytReference = document.getElementById("nytReference");
       if (!nytReference) {
