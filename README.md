@@ -87,6 +87,41 @@ To import new data:
      FOURSQUARE_DATA_VERSION: "20200403-v0"
    ```
 
+## AJ's Daily Deployment Routine
+
+I have something that notifies me via text message when there is a new file uploaded to the google drive between 5am and 10pm.  That prevents me from having to ask Nate to post in slack.  Data doesn't come in reliably at the same time every day and sometimes comes in 2-3 days in a batch.
+
+1. Download the new data from the [Data Cube v20201120 Google Drive](https://drive.google.com/drive/folders/1gydRMonsn_tLwVRUe4CCFMdZ6uOLW0iy).
+2. Move the files to my scratch directory:
+```bash
+ca_visit_tracking/datascratch on  master on ☁️ andrew@janian.net(emailstats)
+❯ pwd
+/Users/andrewjanian/covid/ca_visit_tracking/datascratch
+
+ca_visit_tracking/datascratch on  master on ☁️ andrew@janian.net(emailstats)
+❯ mv /Users/andrewjanian/Downloads/data-cube-2021-02-16.tar /Users/andrewjanian/Downloads/data-cube-2021-02-17.tar /Users/andrewjanian/Downloads/data-cube-2021-02-18.tar .
+```
+3. Cat the tars together
+```bash
+ca_visit_tracking/datascratch on  master on ☁️ andrew@janian.net(emailstats)
+❯ rm data.tar && find . -type f -name "*.tar" -exec tar Af data.tar {} \;
+```
+4. In a single command process the files and upload them
+```bash
+ca_visit_tracking on  master via 🐍 v3.8.5 on ☁️ andrew@janian.net(emailstats)
+❯ pwd
+/Users/andrewjanian/covid/ca_visit_tracking
+
+ca_visit_tracking on  master via 🐍 v3.8.5 on ☁️ andrew@janian.net(emailstats)
+❯ python ./bin/foursquare_cube.py --prevdir=datascratch/20210215/20210215-v0 datascratch/data.tar v0 datascratch/20210218 && ./bin/foursquare_load.sh datascratch/20210218/20210218-v0 20210218-v0 && iphone "visitdata uploaded" "20210218" && make deploy-prod-quiet && make deploy-beta-quiet && iphone "visitdata deployed" "20210218"
+```
+
+### Notes
+* This depends on you having the prior day's data in your scratch directory
+* This uploads ~6GB of data so it takes a while
+* In my command to process and upload the files there is a function I have called iphone which sends me a notification via pushover.net.  It doesn't have an impact on the processing or upload but let's me know that it is done so I can check
+* Because I've done this so many times I use the quite versions of the deployment make targets so they don't ask me questions.  If you're starting it may be better to use the regular (non-quiet) targets.
+
 # Deploying to the web server
 To deploy the app to visitdata.org:
 
