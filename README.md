@@ -106,7 +106,8 @@ ca_visit_tracking/datascratch on  master on ☁️ andrew@janian.net(emailsta
 ca_visit_tracking/datascratch on  master on ☁️ andrew@janian.net(emailstats)
 ❯ rm data.tar && find . -type f -name "*.tar" -exec tar Af data.tar {} \;
 ```
-4. In a single command process the files and upload them
+4. Change the date in app.yaml, commit and push that change.  If you don't do commit before #5 then the upload will fail.
+5. In a single command process the files and upload them
 ```bash
 ca_visit_tracking on  master via 🐍 v3.8.5 on ☁️ andrew@janian.net(emailstats)
 ❯ pwd
