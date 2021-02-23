@@ -2,7 +2,6 @@
 .DS_Store
 .idea/
 venv/
-.vscode/
 static/siteversion.txt
 localdata/
 *.iml

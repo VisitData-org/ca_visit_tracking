@@ -1,36 +1,43 @@
-var table;
-var fileData;  //  globalish variable holding the parsed file data rows  HACK
-var stateOrCountySel;
-var ageGroupSel;
-var weatherDataCheck;
-var essentialSel;
-var states = [];
-var counties = [];
-var locationTypeSel;
-var locationItems = [];
-var selectedCounties;
-var selectedVenues;
-var selectedState;
+let table;
+let fileData;  //  globalish variable holding the parsed file data rows  HACK
+let stateOrCountySel;
+let ageGroupSel;
+let weatherDataCheck;
+let essentialSel;
+const states = [];
+const counties = [];
+let locationTypeSel;
+let locationItems = [];
+let selectedCounties;
+let selectedVenues;
+let selectedState;
 
 const urlParams = new URLSearchParams(window.location.search);
-var datafilename = urlParams.get('datafilename');
-var maxLocationTypeLinesParam = urlParams.get('maxlocationtypes')
+let datafilename = urlParams.get('datafilename');
+const maxLocationTypeLinesParam = getCookie('numberOfCategoriesToPlot');
 
 const MAX_LOCATIONTYPE_LINES_DEFAULT = 10;
 
-var maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+let maxLocationTypes = MAX_LOCATIONTYPE_LINES_DEFAULT;
+
+const PLOT_VALUE_TYPE_DEFAULT = 'raw';
+let plotValueType = PLOT_VALUE_TYPE_DEFAULT;
+const plotValueTypeParam = getCookie('plotValueType');
+if (plotValueTypeParam) {
+  plotValueType = plotValueTypeParam;
+}
 
 const ALL = "ALL";
 const NONE = "NONE";
 
 Highcharts.setOptions({
   lang: {
-      thousandsSep: ','
+    thousandsSep: ','
   }
 });
 
-if(maxLocationTypeLinesParam) {
-  maxLocationTypes = Math.max(maxLocationTypeLinesParam,1);
+if (maxLocationTypeLinesParam) {
+  maxLocationTypes = Math.max(maxLocationTypeLinesParam, 1);
 }
 
 const AGE_GROUP_LABELS = {
@@ -50,10 +57,10 @@ function showVenueExamples(pagetype) {
     window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county= '
 
   } else if (window.location.href.includes('raw')) {
-    var _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
+    const _venuesUrl = 'https://foursquare.com/explore?mode=url&near=' + _selectedCounties + '%20' + _selectedState + '%20United%20States&q=' + _selectedVenues
     window.open(_venuesUrl)
   } else {
-  window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
+    window.location.href = '/venuegroupdetails?state=' + _selectedState + '&county=' + _selectedCounties + '&venue=' + _selectedVenues
   }
 }
 
@@ -67,7 +74,7 @@ function venueBtnName() {
 
 function chartTitle(stateOrCounty) {
 
-  var result = "";
+  let result = "";
   if (stateOrCountySel.value) {
     result += stateOrCountySel.value + ", ";
     if (stateOrCounty === 'county')
@@ -93,13 +100,18 @@ function chartTitle(stateOrCounty) {
     }
   }
   result += " Estimated # Visits";
+
+  if (plotValueType != 'raw') {
+    result += " " + plotValueType + "-Day Moving Average";
+  }
+
   return result;
 }
 
 function datenum(datestring) {
-  var year = parseInt(datestring.slice(0, 4));
-  var month = parseInt(datestring.slice(5, 7));
-  var day = parseInt(datestring.slice(8, 10));
+  const year = parseInt(datestring.slice(0, 4));
+  const month = parseInt(datestring.slice(5, 7));
+  const day = parseInt(datestring.slice(8, 10));
   return year * 10000 + month * 100 + day;
 }
 
@@ -111,38 +123,86 @@ function datenum(datestring) {
 function locationTypesToChart(fileData) {
 
   // sort by most recent number descending,
-  var sortStepOne = _.sortBy(fileData, function(fileDataRow) { return -1 * fileDataRow.num_visits });
-  
-   // then sort by date descending,
-  var sortStepTwo = _.sortBy(sortStepOne, function(fileDataRow) { return -1 * fileDataRow.datenum; });
+  const sortStepOne = _.sortBy(fileData, function (fileDataRow) { return -1 * fileDataRow.num_visits });
+
+  // then sort by date descending,
+  const sortStepTwo = _.sortBy(sortStepOne, function (fileDataRow) { return -1 * fileDataRow.datenum; });
 
   // then remove duplicates.
-  var locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
+  const locationTypes = _.uniq(_.pluck(sortStepTwo, 'location_type'));
 
   // the top N locationtypes are then from the latest date, going back to previous dates if necessary.
   return locationTypes.slice(0, maxLocationTypes);
 }
 
 function fileDataToHighcharts(fileDataToPlot) {
-  return _.map(fileDataToPlot, function(fileDataRow) {
-    var date = fileDataRow.date;
-    var year = date.slice(0, 4);
-    var month = date.slice(5, 7);
-    var day = date.slice(8, 10);
-    return [Date.UTC(year, month-1, day), parseInt(fileDataRow.num_visits)];
+  return _.map(fileDataToPlot, function (fileDataRow) {
+    const date = fileDataRow.date;
+    const year = date.slice(0, 4);
+    const month = date.slice(5, 7);
+    const day = date.slice(8, 10);
+    return [Date.UTC(year, month - 1, day), parseInt(fileDataRow.num_visits)];
   });
 }
 
 function styleSeries(series) {
   series.lineWidth = 1;
-  series.marker = {radius: 5};
+  series.marker = { radius: 5 };
+  series.yAxis = 0;
+  series.zIndex = 1;
   return series;
 }
 
+class Timewindow {
+
+  constructor(windowSize) {
+    this.windowSize = windowSize;
+    this.arr = [];
+    this.sum = 0;
+  }
+
+  shiftOldValues(time) {
+    while (this.arr.length > 0 && (time - this.arr[0][0]) >= this.windowSize) {
+      const oldElement = this.arr.shift();
+      this.sum -= oldElement[1];
+    }
+  }
+
+  avg() {
+    return this.sum / this.arr.length;
+  }
+
+  push(element) {
+    this.shiftOldValues(element[0]);
+    this.arr.push(element);
+    this.sum += element[1];
+  }
+
+  close(time) {
+    // this is a special "event" that just checks the time and shifts what needs to be shifted
+    this.shiftOldValues(time);
+    return this.arr;
+  }
+}
+
+function makeMovingAverages(rawSeriesList, numberOfDays) {
+  rawSeriesList.forEach(series => {
+    const window = new Timewindow(parseInt(numberOfDays) * 24 * 3600 * 1000);
+    if (series.data) {
+      for (let index = 0; index < series.data.length; index++) {
+        const element = series.data[index];
+        window.push(element);
+        series.data[index] = [element[0], window.avg()];
+      }
+    }
+  });
+  return rawSeriesList;
+}
+
 function seriesToPlot(stateOrCounty) {
-  var plotData = _.filter(fileData,
+  let plotData = _.filter(fileData,
     function (datapoint) {
-      var datapointEssential = datapoint.essential;
+      const datapointEssential = datapoint.essential;
       switch (essentialSel.value) {
         case "all":
           return true;
@@ -158,57 +218,66 @@ function seriesToPlot(stateOrCounty) {
   let results, resultsWeather;
   //TODO filter out the ages we don't need
   plotData = _.filter(plotData, (datapoint) => {
-    var datapointAge = datapoint.age;
+    const datapointAge = datapoint.age;
     return datapointAge == AGE_GROUP_VALUES[ageGroupSel.value];
   });
 
   if (stateOrCountySel.value && !locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
-    if(stateOrCounty == 'state') {
+    let fileDataToPlot = _.where(plotData, { [stateOrCounty]: stateOrCountySel.value });
+    if (stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
 
-    var lts = locationTypesToChart(fileDataToPlot);
-    results = _.map(lts, function(locationType) {
+    const lts = locationTypesToChart(fileDataToPlot);
+    results = _.map(lts, function (locationType) {
       return styleSeries({
         name: locationType,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { location_type: locationType }))
       });
     });
-    results = _.filter(results, function(series) {
+    results = _.filter(results, function (series) {
       return series.data.length > 0;
     });
 
     results = sortStatewideFirst(results);
     results.unshift({ name: 'Show/Hide All', visible: false });
 
-    let maxResultsData = _.clone(_.max(results, (value) => {return _.size(value.data)}));
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
+
+    const maxResultsData = _.clone(_.max(results, (value) => { return _.size(value.data) }));
     maxResultsData.titleName = maxResultsData.name;
     maxResultsData.name = stateOrCountySel.value;
     resultsWeather = [maxResultsData]
 
   }
   else if (!stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
-    results = _.map(statesOrCounties, function(stateOrCountyValue) {
+    const fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text });
+    results = _.map(statesOrCounties, function (stateOrCountyValue) {
       return styleSeries({
         name: stateOrCountyValue,
         data: fileDataToHighcharts(_.where(fileDataToPlot, { [stateOrCounty]: stateOrCountyValue }))
       });
     });
-    results = _.filter(results, function(series) {
+    results = _.filter(results, function (series) {
       return series.data.length > 0;
     });
 
     results = sortStatewideFirst(results);
+
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
+
     results.unshift({ name: 'Show/Hide All', visible: false });
 
     resultsWeather = _.clone(results);
   }
   else if (stateOrCountySel.value && locationTypeSel.value) {
-    var fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
-    if(stateOrCounty == 'state') {
+    let fileDataToPlot = _.where(plotData, { location_type: locationTypeSel[locationTypeSel.selectedIndex].text, [stateOrCounty]: stateOrCountySel.value });
+    if (stateOrCounty == 'state') {
       // if we are processing a state pick out the statewide number
       fileDataToPlot = _.where(fileDataToPlot, { 'county': 'Statewide' });
     }
@@ -216,6 +285,10 @@ function seriesToPlot(stateOrCounty) {
       name: locationTypeSel[locationTypeSel.selectedIndex].text + " in " + stateOrCountySel.value,
       data: fileDataToHighcharts(fileDataToPlot)
     })];
+
+    if (plotValueType != 'raw') {
+      results = makeMovingAverages(results, plotValueType);
+    }
 
     resultsWeather = _.clone([styleSeries({
       name: stateOrCountySel.value,
@@ -235,11 +308,11 @@ function seriesToPlot(stateOrCounty) {
 }
 
 function sortStatewideFirst(seriesToSort) {
-  return seriesToSort.sort((a,b) => { 
-    if(a.name == 'Statewide' && b.name != 'Statewide') {
+  return seriesToSort.sort((a, b) => {
+    if (a.name == 'Statewide' && b.name != 'Statewide') {
       return -1;
     }
-    if(a.name != 'Statewide' && b.name == 'Statewide') {
+    if (a.name != 'Statewide' && b.name == 'Statewide') {
       return 1;
     }
     return a.name - b.name;
@@ -247,11 +320,11 @@ function sortStatewideFirst(seriesToSort) {
 }
 
 function isPlotDataEmpty(seriesForPlot) {
-  var plotEmpty = true;
-  for(var seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++){
-    var series = seriesForPlot[seriesIndex];
-    var seriesData = series.data;
-    if(seriesData && seriesData.length > 0) {
+  let plotEmpty = true;
+  for (let seriesIndex = 0; seriesIndex < seriesForPlot.length; seriesIndex++) {
+    const series = seriesForPlot[seriesIndex];
+    const seriesData = series.data;
+    if (seriesData && seriesData.length > 0) {
       plotEmpty = false;
       break;
     }
@@ -259,16 +332,102 @@ function isPlotDataEmpty(seriesForPlot) {
   return plotEmpty;
 }
 
+function addCasesToPlot(chart, stateOrCounty) {
+  const nytFileToParse = stateOrCounty == 'state' ? 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv' : 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv';
+  Papa.parse(nytFileToParse, {
+    download: true,
+    header: true,
+    complete: function (results, file) {
+      const caseDataForPlot = [];
+
+      let lastValue = 0;
+
+      results.data.forEach(dataRow => {
+        const stateToMatch = selectedState != 'Washington, D.C.' ? selectedState : 'District of Columbia';
+
+        let locationMatches;
+        if (dataRow.state != stateToMatch) {
+          locationMatches = false;
+        } else if (stateOrCounty != 'state') {
+          // if we are county then we need to check county too
+          let countyToMatch = selectedCounties[0];
+          if (countyToMatch) {
+            if (['New York', 'Queens', 'Brooklyn', 'Staten Island', 'Bronx County'].includes(countyToMatch)) {
+              countyToMatch = 'New York City';
+            } else {
+              countyToMatch = countyToMatch.replace(' County', '');
+            }
+
+            locationMatches = countyToMatch === dataRow.county;
+          } else {
+            locationMatches = false;
+          }
+        } else {
+          locationMatches = true;
+        }
+
+        if (locationMatches) {
+          // this is data for the state
+          const date = dataRow.date;
+          const year = date.slice(0, 4);
+          const month = date.slice(5, 7);
+          const day = date.slice(8, 10);
+          const totalCases = parseInt(dataRow.cases);
+          const dailyCases = totalCases - lastValue;
+          lastValue = totalCases;
+          caseDataForPlot.push([Date.UTC(year, month - 1, day), dailyCases]);
+        }
+      });
+
+      const seriesColor = "rgba(255,0,0,0.15)";
+
+      const rawSeriesName = '# Daily Cases';
+
+      const series = { name: `NYT ${rawSeriesName}`, data: caseDataForPlot, yAxis: 1, type: 'column', zindex: 0, color: seriesColor, fillColor: seriesColor };
+      chart.addSeries(series);
+
+      if (plotValueType != 'raw') {
+        const seriesName = `NYT ${plotValueType}-Day Avg ${rawSeriesName}`;;
+        const avgSeriesColor = "rgba(255,0,0,0.85)";
+        const avgSeries = { name: seriesName, data: caseDataForPlot, yAxis: 1, type: 'line', zindex: 0, color: avgSeriesColor, fillColor: avgSeriesColor };
+        makeMovingAverages([avgSeries], plotValueType);
+        chart.addSeries(avgSeries);
+      }
+
+      let nytReference = document.getElementById("nytReference");
+      if (!nytReference) {
+        nytReference = document.createElement('div');
+        nytReference.id = "nytReference";
+        nytReference.appendChild(document.createTextNode('Case data from The New York Times.  See '));
+        const nytLink = document.createElement('a');
+        nytLink.href = "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html";
+        nytLink.text = "NYT U.S. tracking page";
+        nytLink.target = '_blank';
+        nytReference.appendChild(nytLink);
+        document.getElementById("chartcontainer").parentElement.appendChild(nytReference);
+      }
+
+    }
+  });
+
+}
+
 function drawChart(stateOrCounty) {
-  var seriesForPlot = seriesToPlot(stateOrCounty);
+
+  const chartHeightParam = getCookie('chartHeight');
+  if (chartHeightParam) {
+    const chartContainerDiv = document.getElementById("chartcontainer");
+    chartContainerDiv.style.height = chartHeightParam;
+  }
+
+  const seriesForPlot = seriesToPlot(stateOrCounty);
+
   if (isPlotDataEmpty(seriesForPlot)) {
     // handle empty plot
-    var emptyDataNotice = document.createElement("h2")
-    emptyDataNotice.innerText = 'No matching data to chart';
-    emptyDataNotice.style.textAlign = 'center';
-    document.getElementById('chartcontainer').appendChild(emptyDataNotice);
+    setChartContainerText("No matching data to chart");
   } else {
-    Highcharts.chart('chartcontainer', {
+    console.log("making new chart");
+    const chart = Highcharts.chart('chartcontainer', {
       chart: {
         animation: false,
         zoomType: 'x',
@@ -295,7 +454,7 @@ function drawChart(stateOrCounty) {
                 text: ''
               }
             },
-            yAxis: {
+            yAxis: [{
               labels: {
                 align: 'left',
                 x: 0,
@@ -304,7 +463,16 @@ function drawChart(stateOrCounty) {
               title: {
                 text: ''
               }
-            }
+            }, {
+              labels: {
+                align: 'left',
+                x: 0,
+                y: -2
+              },
+              title: {
+                text: ''
+              }
+            }]
           }
         }]
       },
@@ -318,9 +486,12 @@ function drawChart(stateOrCounty) {
         },
         title: {
           text: 'Date'
-        }
+        },
       },
-      yAxis: { title: { text: 'Estimated # Visits' }, min: 0 },
+      yAxis: [
+        { title: { text: 'Estimated # Visits' }, min: 0 },
+        { title: { text: 'Cases' }, gridLineWidth: 0, min: 0, opposite: true },
+      ],
       tooltip: {
         headerFormat: '<b>{series.name}</b><br>',
         pointFormat: '{point.x:%a %b %e}: {point.y:,.0f}'
@@ -352,7 +523,13 @@ function drawChart(stateOrCounty) {
       },
       series: seriesForPlot
     });
+
+    const showNYTParam = getCookie('showNYT');
+    if (showNYTParam === 'yes') {
+      addCasesToPlot(chart, stateOrCounty);
+    }
   }
+
 }
 
 function cleanLocType(string) {
@@ -373,8 +550,8 @@ function redoFilter(stateOrCounty) {
   if (ageGroupSel.value) {
     table.addFilter("age", "=", AGE_GROUP_VALUES[ageGroupSel.value]);
   }
-  if(essentialSel.value != 'all') {
-    table.addFilter("essential",'=',(essentialSel.value == 'essential'));
+  if (essentialSel.value != 'all') {
+    table.addFilter("essential", '=', (essentialSel.value == 'essential'));
   }
   if (stateOrCountySel.value || locationTypeSel.value) {
     drawChart(stateOrCounty);
@@ -386,8 +563,8 @@ function redoFilter(stateOrCounty) {
 
 function populateLocationSelect(selectElement, itemList, selected) {
   // ok, I think we need to disable the event handler while we do this.
-  _.each(itemList, function(itemPair) {
-    var option = document.createElement("option");
+  _.each(itemList, function (itemPair) {
+    const option = document.createElement("option");
     option.value = itemPair[1];
     option.text = itemPair[0];
     if (_.contains(selected, option.value)) {
@@ -399,8 +576,8 @@ function populateLocationSelect(selectElement, itemList, selected) {
 
 function populateSelect(selectElement, stringList, selected) {
   // ok, I think we need to disable the event handler while we do this.
-  _.each(stringList, function(theString) {
-    var option = document.createElement("option");
+  _.each(stringList, function (theString) {
+    const option = document.createElement("option");
     option.value = theString;
     option.text = theString;
     if (_.contains(selected, option.text)) {
@@ -410,13 +587,13 @@ function populateSelect(selectElement, stringList, selected) {
   });
 }
 
-function isGroupedCategoryEssential(groupName){
-  var isGroupEssential = groupToEssentialMap.get(groupName);
+function isGroupedCategoryEssential(groupName) {
+  const isGroupEssential = groupToEssentialMap.get(groupName);
   return isGroupEssential;
 }
 
 function getCounty(rowCounty) {
-  if(rowCounty === "") {
+  if (rowCounty === "") {
     return "Statewide";
   } else {
     return rowCounty;
@@ -444,7 +621,7 @@ function parseGroupedRow(stateOrCounty, row) {
 }
 
 function parseRawRow(stateOrCounty, row) {
-  if (row.categoryid === '') {
+  if (row.categoryid === '' || row.categoryid === 'Group') {
     return undefined;
   } else {
     return {
@@ -463,7 +640,7 @@ function parseRawRow(stateOrCounty, row) {
   }
 }
 
-var isRawBit;
+let isRawBit;
 
 function isRaw() {
   return isRawBit;
@@ -529,11 +706,11 @@ function getStates() {
     "West Virginia",
     "Wisconsin",
     "Wyoming",
-    ];
+  ];
 }
 
 function getCounties(state) {
-  var counties;
+  let counties;
 
   $.ajax({
     url: _fourSquareDataUrl + "/index.json",
@@ -550,10 +727,11 @@ function getCounties(state) {
 }
 
 function parsingDone(stateOrCounty, results, file) {
+  setChartContainerText("");
   console.debug("parsingDone called");
   fileData = _.map(
     results.data,
-    function(row) { return parseRow(stateOrCounty, row); }
+    function (row) { return parseRow(stateOrCounty, row); }
   );
   fileData = _.compact(fileData);
   if (stateOrCounty === 'state') {
@@ -563,8 +741,8 @@ function parsingDone(stateOrCounty, results, file) {
   }
 
   table = new Tabulator("#data-table", {
-    data:fileData,
-    columns:[
+    data: fileData,
+    columns: [
       { title: "County", field: "county" },
       { title: "Location Type", field: "location_type" },
       { title: "Essential", field: "essential", visible: false },
@@ -574,16 +752,13 @@ function parsingDone(stateOrCounty, results, file) {
       { title: "Age", field: "age", visible: true },
       { title: "Date", field: "date" },
     ],
-    height:"600px",
-    layout:"fitColumns",
-    initialSort:[
-      {column:"date", dir:"desc"}
+    height: "600px",
+    layout: "fitColumns",
+    initialSort: [
+      { column: "date", dir: "desc" }
     ],
   });
 
-  stateOrCountySel = document.getElementById(
-    stateOrCounty === 'state' ? 'state-select' : 'county-select'
-  );
   if (stateOrCounty === 'county') {
     document.getElementById('state_name_header').innerHTML = selectedState
   }
@@ -592,33 +767,25 @@ function parsingDone(stateOrCounty, results, file) {
     statesOrCounties,
     stateOrCounty === 'state' ? [selectedState] : selectedCounties
   );
-  
-  locationTypeSel = document.getElementById('location-type-select');
+
   populateLocationSelect(locationTypeSel, locationItems, selectedVenues);
 
-  essentialSel = document.getElementById('essential-select');
-  essentialSel.addEventListener('change', function() {
+  essentialSel.addEventListener('change', function () {
     redoFilter(stateOrCounty);
-    if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCounty);
-    }
   });
 
-  if(locationTypeSel.value) {
+  if (locationTypeSel.value) {
     // ok, we selected a location type so disable essential
     essentialSel.value = 'all';
     essentialSel.parentElement.style.display = 'none';
   }
 
   //actions for agegroup-select button
-  ageGroupSel = document.getElementById('agegroup-select');
-  ageGroupSel.addEventListener('change', function(event) {
+  ageGroupSel.addEventListener('change', function (event) {
     redoFilter(stateOrCounty);
-
-    if (stateOrCountySel.value || locationTypeSel.value) {
-      drawChart(stateOrCounty);
-    }
   });
+
+  enableSelects();
 
   //actions for weather-data button
   $('#weather-data-checkbox').change(function () {
@@ -630,57 +797,57 @@ function parsingDone(stateOrCounty, results, file) {
 
   redoFilter(stateOrCounty);
 
-  _.each([stateOrCountySel, locationTypeSel], function(sel) {
-    sel.addEventListener('change', function() { return eventListener(stateOrCounty); });
+  _.each([stateOrCountySel, locationTypeSel], function (sel) {
+    sel.addEventListener('change', function () { return eventListener(stateOrCounty); });
   });
 
 }
 
-var groupToEssentialMap = new Map();
+const groupToEssentialMap = new Map();
 
-var groupMappings = [
-  {groupName:"Airport",essential:true},
-  {groupName:"Alcohol",essential:true},
-  {groupName:"Arts & Entertainment",essential:false},
-  {groupName:"Banks",essential:true},
-  {groupName:"Beach",essential:false},
-  {groupName:"Big Box Stores",essential:false},
-  {groupName:"Bus",essential:true},
-  {groupName:"Colleges & Universities",essential:false},
-  {groupName:"Convenience Store",essential:true},
-  {groupName:"Discount Stores",essential:false},
-  {groupName:"Drug Store",essential:true},
-  {groupName:"Fast Food Restaurants",essential:true},
-  {groupName:"Fitness Center",essential:false},
-  {groupName:"Food",essential:true},
-  {groupName:"Gas Stations",essential:true},
-  {groupName:"Government",essential:true},
-  {groupName:"Grocery",essential:true},
-  {groupName:"Hardware Stores",essential:true},
-  {groupName:"Hotel",essential:false},
-  {groupName:"Medical",essential:true},
-  {groupName:"Nightlife Spots",essential:false},
-  {groupName:"Office",essential:false},
-  {groupName:"Outdoors & Recreation",essential:false},
-  {groupName:"Professional & Other Places",essential:false},
-  {groupName:"Residences",essential:true},
-  {groupName:"School",essential:false},
-  {groupName:"Shops & Services",essential:false},
-  {groupName:"Spiritual Center",essential:false},
-  {groupName:"Sports",essential:false},
-  {groupName:"Travel & Transport",essential:false},
-  {groupName:"undefined",essential:false}
-  ];
+const groupMappings = [
+  { groupName: "Airport", essential: true },
+  { groupName: "Alcohol", essential: true },
+  { groupName: "Arts & Entertainment", essential: false },
+  { groupName: "Banks", essential: true },
+  { groupName: "Beach", essential: false },
+  { groupName: "Big Box Stores", essential: false },
+  { groupName: "Bus", essential: true },
+  { groupName: "Colleges & Universities", essential: false },
+  { groupName: "Convenience Store", essential: true },
+  { groupName: "Discount Stores", essential: false },
+  { groupName: "Drug Store", essential: true },
+  { groupName: "Fast Food Restaurants", essential: true },
+  { groupName: "Fitness Center", essential: false },
+  { groupName: "Food", essential: true },
+  { groupName: "Gas Stations", essential: true },
+  { groupName: "Government", essential: true },
+  { groupName: "Grocery", essential: true },
+  { groupName: "Hardware Stores", essential: true },
+  { groupName: "Hotel", essential: false },
+  { groupName: "Medical", essential: true },
+  { groupName: "Nightlife Spots", essential: false },
+  { groupName: "Office", essential: false },
+  { groupName: "Outdoors & Recreation", essential: false },
+  { groupName: "Professional & Other Places", essential: false },
+  { groupName: "Residences", essential: true },
+  { groupName: "School", essential: false },
+  { groupName: "Shops & Services", essential: false },
+  { groupName: "Spiritual Center", essential: false },
+  { groupName: "Sports", essential: false },
+  { groupName: "Travel & Transport", essential: false },
+  { groupName: "undefined", essential: false }
+];
 
-for (var groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
-  var nextGroup = groupMappings[groupIndex];
-  groupToEssentialMap.set(nextGroup.groupName,nextGroup.essential);
+for (let groupIndex = 0; groupIndex < groupMappings.length; groupIndex++) {
+  const nextGroup = groupMappings[groupIndex];
+  groupToEssentialMap.set(nextGroup.groupName, nextGroup.essential);
 }
 
-var eventListener = function(stateOrCounty) {
+const eventListener = function (stateOrCounty) {
   if (stateOrCounty === 'state') {
-    var newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
-    var stateChanged = newState != selectedState;
+    const newState = stateOrCountySel.value ? encodeURIComponent(stateOrCountySel.value) : ALL;
+    const stateChanged = newState != selectedState;
     selectedState = newState;
     selectedVenue = locationTypeSel.value ? encodeURIComponent(locationTypeSel.value) : ALL;
     windowLocationToSet = "/bystatesel/" + selectedState + "/" + selectedVenue;
@@ -704,15 +871,15 @@ function parseSelection(stateOrCounty) {
     selectedState = _selectedState == ALL ? '' : _selectedState;
     selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
   } else {
-    selectedState = (_selectedState == NONE || _selectedState =="") ? 'California' : _selectedState;
+    selectedState = (_selectedState == NONE || _selectedState == "") ? 'California' : _selectedState;
     selectedCounties = _selectedCounties == ALL ? [] : _selectedCounties.split(",");
     selectedVenues = _selectedVenues == ALL ? [] : _selectedVenues.split(",");
   }
 }
 
 function setNavLinks(stateOrCounty) {
-  var encodedState = encodeURIComponent(selectedState);
-  var encodedCounty = stateOrCounty === 'county' ? encodeURIComponent(_selectedCounties) : 'ALL'
+  const encodedState = encodeURIComponent(selectedState);
+  const encodedCounty = stateOrCounty === 'county' ? encodeURIComponent(_selectedCounties) : 'ALL'
 
   document.getElementById('nav-chartgrouped').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL";
   document.getElementById('nav-chartall').href = "/bydatesel/" + encodedState + "/" + encodedCounty + "/ALL?datafilename=raw";
@@ -720,14 +887,28 @@ function setNavLinks(stateOrCounty) {
   document.getElementById('nav-stateall').href = "/bystatesel/" + encodedState + "/ALL?datafilename=raw";
 }
 
+function disableSelects() {
+  stateOrCountySel.disabled = true;
+  locationTypeSel.disabled = true;
+  ageGroupSel.disabled = true;
+  essentialSel.disabled = true;
+}
+
+function enableSelects() {
+  stateOrCountySel.disabled = false;
+  locationTypeSel.disabled = false;
+  ageGroupSel.disabled = false;
+  essentialSel.disabled = false;
+}
+
 function parse(stateOrCounty) {
 
-  if(urlParams.get('datafilename')) {
+  if (urlParams.get('datafilename')) {
     isRawBit = true;
   }
 
-  var selectedFileString = '';
-  if(stateOrCounty == 'county' && selectedCounties.length > 0) {
+  let selectedFileString = '';
+  if (stateOrCounty == 'county' && selectedCounties.length > 0) {
     selectedFileString = '_' + selectedCounties[0].replace(/\s/g, '');
   } else if (selectedVenues.length > 0) {
     selectedFileString = '_' + selectedVenues[0];
@@ -741,7 +922,7 @@ function parse(stateOrCounty) {
     datafilename = _fourSquareDataUrl + '/' + selectedState.replace(/[\s\,\.]/g, '') + selectedFileString.replace(/[\s\,\.&]/g, '') + '.csv';
   }
   console.debug(datafilename);
-  
+
   if (stateOrCounty === 'state') {
     if (!isRaw()) {
       document.getElementById('nav-stategrouped').classList.add('font-weight-bold')
@@ -756,22 +937,39 @@ function parse(stateOrCounty) {
     }
   }
 
+  stateOrCountySel = document.getElementById(
+    stateOrCounty === 'state' ? 'state-select' : 'county-select'
+  );
+  locationTypeSel = document.getElementById('location-type-select');
+  essentialSel = document.getElementById('essential-select');
+
+  const showEssentialParam = getCookie('showEssential');
+  if (showEssentialParam) {
+    essentialSel.value = showEssentialParam;
+  }
+
+  ageGroupSel = document.getElementById('agegroup-select');
+
+  //FIXME #184 If there is an error then it hangs on "Loading..." when there is an error parsing we should alert here
+  setChartContainerText('Loading Data...');
+  disableSelects();
+
   Papa.parse(stateFile, {
     download: true,
     header: true,
     complete: (results, file) => {
       locationItems = _.map(results.data, (row) => {
-        if(!(row.categoryname)) {
+        if (!(row.categoryname)) {
           return undefined;
         }
-        if(isRaw()) {
-          if(row.categoryid == 'Group') {
+        if (isRaw()) {
+          if (row.categoryid == 'Group') {
             return undefined;
           } else {
             return [row.categoryname, row.categoryid];
           }
         } else {
-          if(row.categoryid != 'Group') {
+          if (row.categoryid != 'Group') {
             return undefined;
           } else {
             return [row.categoryname, row.categoryname];
@@ -779,42 +977,55 @@ function parse(stateOrCounty) {
         }
       });
       locationItems = _.compact(locationItems);
-      locationItems = _.uniq(locationItems, false, (item) => { return item.join("_")});
-      locationItems = locationItems.sort((a,b) => {
-          var nameA = a[0];
-          if(nameA) {
-            nameA = nameA.toUpperCase(); // ignore upper and lowercase
-          }
-          var nameB = b[0];
-          if(nameB) {
-            nameB = nameB.toUpperCase(); // ignore upper and lowercase
-          }
-          if (nameA < nameB) {
-            return -1;
-          }
-          if (nameA > nameB) {
-            return 1;
-          }
-        
-          // names must be equal
-          return 0;
-        });
+      locationItems = _.uniq(locationItems, false, (item) => { return item.join("_") });
+      locationItems = locationItems.sort((a, b) => {
+        let nameA = a[0];
+        if (nameA) {
+          nameA = nameA.toUpperCase(); // ignore upper and lowercase
+        }
+        let nameB = b[0];
+        if (nameB) {
+          nameB = nameB.toUpperCase(); // ignore upper and lowercase
+        }
+        if (nameA < nameB) {
+          return -1;
+        }
+        if (nameA > nameB) {
+          return 1;
+        }
 
-        // ok, now go get the rest of the data
-        Papa.parse(datafilename, {
-          download: true,
-          header: true,
-          complete: function(results, file) { return parsingDone(stateOrCounty, results, file); }
-        });
+        // names must be equal
+        return 0;
+      });
+
+      // ok, now go get the rest of the data
+      Papa.parse(datafilename, {
+        download: true,
+        header: true,
+        complete: function (results, file) { return parsingDone(stateOrCounty, results, file); }
+      });
     }
   });
 }
 
+function setChartContainerText(chartText) {
+  const chartContainer = document.getElementById('chartcontainer');
+  while (chartContainer.firstChild) {
+    chartContainer.removeChild(chartContainer.firstChild);
+  }
+  const textElement = document.createElement("h2")
+  textElement.innerText = chartText;
+  textElement.style.textAlign = 'center';
+  chartContainer.appendChild(textElement);
+  chartContainer.style.height = "";
+}
+
 function renderData(stateOrCounty) {
+  setChartContainerText("");
   parseSelection(stateOrCounty);
-  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))){
-      requestWeatherData(selectedState);
-    }
+  if ($('#weather-data-checkbox').length && (!_.isEmpty(selectedCounties) || !_.isEmpty(selectedVenues))) {
+    requestWeatherData(selectedState);
+  }
   setNavLinks(stateOrCounty);
   parse(stateOrCounty);
 }

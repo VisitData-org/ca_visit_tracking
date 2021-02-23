@@ -46,10 +46,32 @@ deploy() {
   gcloud app deploy . --project "${PROJECT}"
 }
 
+# Cleanup old versions
+cleanup() {
+  info "Cleaning up old versions..."
+
+  OLD_VERSIONS=$(gcloud app versions list --project "${PROJECT}" | sed 's/  */:/g' | cut -f 2 -d : | tail -n +2 | head -n -5 | tr "\n" " ")
+  if [ -z ${OLD_VERSIONS} ]; then
+    info "No versions to delete"
+  else
+    info "Deleting versions: ${OLD_VERSIONS}"
+    gcloud app versions delete --project "${PROJECT}" ${OLD_VERSIONS}
+  fi
+
+}
 
 DEST="$1"
 if [[ -z "${DEST}" || ( "${DEST}" != "prod" && "${DEST}" != "beta" ) ]]; then
-  error "Usage: $0 {prod|beta}"
+  error "Usage: $0 {prod|beta} {true|false}"
+fi
+
+QUIET="$2"
+if [[ -n "${QUIET}" && "${QUIET}" != "true" && "${QUIET}" != "false" ]]; then
+  error "Usage: $0 {prod|beta} {true|false}"
+elif [[ "${QUIET}" == "true" ]]; then
+  export CLOUDSDK_CORE_DISABLE_PROMPTS=1
+else
+  export CLOUDSDK_CORE_DISABLE_PROMPTS=0
 fi
 
 PROJECT=""
@@ -66,4 +88,5 @@ if [ -z "${SKIP_VALIDATE}" ]; then
   validate
 fi
 record_version
+cleanup
 deploy

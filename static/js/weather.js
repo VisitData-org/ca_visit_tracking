@@ -108,13 +108,13 @@ function getHighchartsWeatherData(dates, weatherData) {
   const counties = intersectWeatherVisits(dates, weatherData);
 
   _.each(counties, ({ weatherCounty, visitsCounty }) => {
-    let arrTemp = [];
-    let arrPrec = [];
+    const arrTemp = [];
+    const arrPrec = [];
     let dataTemp = null;
     let dataPrec = null;
     //array dates/weather
     _.each(dates[visitsCounty], (timeStamp) => {
-      let infoWeather = weatherData[weatherCounty].forecast[timeStamp];
+      const infoWeather = weatherData[weatherCounty].forecast[timeStamp];
       if (!_.isEmpty(infoWeather)) {
         timeStamp = parseInt(timeStamp + "000");
 
