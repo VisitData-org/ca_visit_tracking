@@ -4,6 +4,6 @@ move it into datascratch -- how?  sync to computer?  google drive command line? 
 
 cd /Users/david/Downloads/datascratch && unzip *.zip && rm *.zip && rm *.tar && gunzip *.gz && find . -type f -name "*.tar" -exec gtar Af data.tar {} \;
 
-pushd ~/Dropbox/Programming/ca_visit_tracking/ && export PREVDATE=$NEWDATE && export NEWDATE=20210324
+cd ~/Dropbox/Programming/ca_visit_tracking/ && export PREVDATE=$NEWDATE && export NEWDATE=20210324
 perl -i -p -e "s/${PREVDATE}/${NEWDATE}/g" app.yaml && git add app.yaml && git commit -m "$NEWDATE" && git push
 python3 ./bin/foursquare_cube.py --prevdir=/Users/david/Downloads/datascratch/${PREVDATE}/${PREVDATE}-v0 /Users/david/Downloads/datascratch/data.tar v0 /Users/david/Downloads/datascratch/${NEWDATE} && ./bin/foursquare_load.sh /Users/david/Downloads/datascratch/${NEWDATE}/${NEWDATE}-v0 ${NEWDATE}-v0 && make deploy-prod-quiet && make deploy-beta-quiet

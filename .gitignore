@@ -8,3 +8,4 @@ localdata/
 datascratch/
 .gcpprj
 scripts/__pycache__
+journal.txt
