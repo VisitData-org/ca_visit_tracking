@@ -297,7 +297,26 @@ def extract_fs(fs_tar_path, out_dir):
     extract_dir = makedir(out_dir, EXTRACT_FN)
     print('Extracting new FS data to {}'.format(extract_dir))
     with tarfile.open(fs_tar_path) as tf:
-        tf.extractall(path=extract_dir)
+        def is_within_directory(directory, target):
+            
+            abs_directory = os.path.abspath(directory)
+            abs_target = os.path.abspath(target)
+        
+            prefix = os.path.commonprefix([abs_directory, abs_target])
+            
+            return prefix == abs_directory
+        
+        def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+        
+            for member in tar.getmembers():
+                member_path = os.path.join(path, member.name)
+                if not is_within_directory(path, member_path):
+                    raise Exception("Attempted Path Traversal in Tar File")
+        
+            tar.extractall(path, members, numeric_owner=numeric_owner) 
+            
+        
+        safe_extract(tf, path=extract_dir)
     return extract_dir
 
 def create_version_dir(dates_and_csvs, cur_version_num, out_dir):
